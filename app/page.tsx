@@ -1,18 +1,72 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
+
+const analysisStatuses = [
+  "Rüya alındı",
+  "Rüyanın yapısı inceleniyor",
+  "Öne çıkan ayrıntılar değerlendiriliyor",
+  "Duygular ve ilişkiler aranıyor",
+  "Yorum oluşturuluyor",
+];
+
+function formatResult(text: string) {
+  const lines = text.split("\n");
+
+  return lines.map((line, index) => {
+    const headingMatch = line.match(/^#{1,6}\s+(.+)$/);
+
+    if (headingMatch) {
+      const title = headingMatch[1]
+        .replace("Jungcu açıdan", "Psikolojik açıdan")
+        .trim();
+
+      return (
+        <h3
+          key={index}
+          className="mb-4 mt-9 text-sm font-medium uppercase tracking-[0.18em] text-[#81786e] first:mt-0"
+        >
+          {title}
+        </h3>
+      );
+    }
+
+    return (
+      <span key={index}>
+        {line}
+        {index < lines.length - 1 && <br />}
+      </span>
+    );
+  });
+}
 
 export default function Home() {
   const [dream, setDream] = useState("");
   const [result, setResult] = useState("");
   const [loading, setLoading] = useState(false);
   const [showHow, setShowHow] = useState(false);
+  const [statusIndex, setStatusIndex] = useState(0);
+
+  useEffect(() => {
+    if (!loading) return;
+
+    setStatusIndex(0);
+
+    const interval = setInterval(() => {
+      setStatusIndex((current) =>
+        Math.min(current + 1, analysisStatuses.length - 1)
+      );
+    }, 1600);
+
+    return () => clearInterval(interval);
+  }, [loading]);
 
   async function analyzeDream() {
     if (!dream.trim() || loading) return;
 
     setLoading(true);
     setResult("");
+    setStatusIndex(0);
 
     try {
       const response = await fetch("/api/analyze", {
@@ -26,13 +80,41 @@ export default function Home() {
         }),
       });
 
-      const data = await response.json();
-
       if (!response.ok) {
-        throw new Error(data?.error || "Analiz başarısız.");
+        let message = "Analiz başarısız.";
+
+        try {
+          const data = await response.json();
+          message = data?.error || message;
+        } catch {
+          // JSON okunamazsa varsayılan hata mesajını kullan.
+        }
+
+        throw new Error(message);
       }
 
-      setResult(data.dream || "Bir sonuç alınamadı.");
+      if (!response.body) {
+        throw new Error("Analiz yanıtı alınamadı.");
+      }
+
+      const reader = response.body.getReader();
+      const decoder = new TextDecoder();
+
+      let accumulated = "";
+
+      while (true) {
+        const { value, done } = await reader.read();
+
+        if (done) break;
+
+        accumulated += decoder.decode(value, { stream: true });
+        setResult(accumulated);
+      }
+
+      accumulated += decoder.decode();
+      setResult(accumulated);
+
+      setStatusIndex(analysisStatuses.length - 1);
     } catch (error) {
       console.error(error);
 
@@ -57,9 +139,9 @@ export default function Home() {
               setShowHow(false);
               window.scrollTo({ top: 0, behavior: "smooth" });
             }}
-            className="text-xl font-medium tracking-[0.28em]"
+            className="text-lg font-medium tracking-[0.28em]"
           >
-            ONEIROS
+            INUS
           </button>
 
           <button
@@ -76,7 +158,7 @@ export default function Home() {
             <div className="flex flex-col gap-8 sm:flex-row sm:items-start sm:justify-between">
               <div className="max-w-2xl">
                 <p className="mb-3 text-xs uppercase tracking-[0.25em] text-[#81786e]">
-                  ONEIROS
+                  INUS
                 </p>
 
                 <h2 className="mb-4 text-2xl font-light sm:text-3xl">
@@ -84,9 +166,9 @@ export default function Home() {
                 </h2>
 
                 <p className="leading-7 text-[#625c54]">
-                  Rüyanı kendi kelimelerinle anlat. ONEIROS, rüyanın
+                  Rüyanı kendi kelimelerinle anlat. INUS, rüyanın
                   sembollerini, duygularını ve anlatısındaki ilişkileri
-                  Jungcu analitik psikoloji çerçevesinde inceler.
+                  psikolojik bir çerçevede inceler.
                 </p>
 
                 <p className="mt-4 leading-7 text-[#625c54]">
@@ -109,14 +191,14 @@ export default function Home() {
         {/* HOME */}
         {!showHow && (
           <>
-            <section className="flex flex-col items-center pt-16 text-center sm:pt-24">
+            <section className="flex flex-col items-center pt-10 text-center sm:pt-16">
 
-              <p className="mb-5 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
+              <p className="mb-3 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
                 RÜYA ANALİZİ
               </p>
 
-              <h1 className="text-5xl font-light tracking-[0.18em] sm:text-7xl">
-                ONEIROS
+              <h1 className="text-4xl font-light tracking-[0.16em] sm:text-5xl">
+                INUS
               </h1>
 
               <p className="mt-5 text-lg font-light tracking-wide text-[#686158] sm:text-xl">
@@ -138,8 +220,9 @@ export default function Home() {
                     <textarea
                       value={dream}
                       onChange={(e) => setDream(e.target.value)}
+                      disabled={loading}
                       placeholder="Rüyanı anlat..."
-                      className="min-h-[270px] w-full resize-none rounded-[22px] bg-transparent px-6 py-6 text-base leading-7 text-[#302d29] outline-none placeholder:text-[#aaa198] sm:min-h-[300px] sm:px-8 sm:py-8"
+                      className="min-h-[270px] w-full resize-none rounded-[22px] bg-transparent px-6 py-6 text-base leading-7 text-[#302d29] outline-none placeholder:text-[#aaa198] disabled:opacity-70 sm:min-h-[300px] sm:px-8 sm:py-8"
                     />
 
                     <div className="flex items-center justify-between border-t border-[#e5ded5] px-4 py-4 sm:px-6">
@@ -168,6 +251,35 @@ export default function Home() {
                 </aside>
               </div>
 
+              {/* ANALYSIS STATUS */}
+              {loading && (
+                <section className="mt-8 w-full max-w-5xl rounded-[22px] border border-[#ddd5cb] bg-[#eee9e1] px-6 py-5 text-left">
+                  <div className="flex items-center gap-3">
+
+                    <span className="relative flex h-2.5 w-2.5">
+                      <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-[#8d8479] opacity-50" />
+                      <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-[#8d8479]" />
+                    </span>
+
+                    <span className="text-sm text-[#625c54] transition-all duration-500">
+                      {analysisStatuses[statusIndex]}
+                      <span className="inline-block w-5 text-left">
+                        ...
+                      </span>
+                    </span>
+                  </div>
+
+                  <div className="mt-4 h-px w-full overflow-hidden bg-[#d8d0c5]">
+                    <div
+                      className="h-full bg-[#8d8479] transition-all duration-1000"
+                      style={{
+                        width: `${((statusIndex + 1) / analysisStatuses.length) * 100}%`,
+                      }}
+                    />
+                  </div>
+                </section>
+              )}
+
               {/* RESULT */}
               {result && (
                 <section className="mt-10 w-full max-w-5xl rounded-[28px] border border-[#d9d1c7] bg-[#faf8f4] p-7 text-left shadow-[0_20px_60px_rgba(70,60,50,0.05)] sm:p-10">
@@ -180,8 +292,8 @@ export default function Home() {
                     </span>
                   </div>
 
-                  <div className="whitespace-pre-wrap text-[15px] leading-8 text-[#454039]">
-                    {result}
+                  <div className="text-[15px] leading-8 text-[#454039]">
+                    {formatResult(result)}
                   </div>
                 </section>
               )}
@@ -195,7 +307,7 @@ export default function Home() {
 
             {/* FOOTER */}
             <footer className="pb-7 text-center text-xs text-[#aaa198]">
-              ONEIROS · Jungcu rüya analizi
+              INUS · Psikolojik rüya analizi
             </footer>
           </>
         )}
