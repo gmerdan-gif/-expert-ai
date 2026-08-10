@@ -307,8 +307,17 @@ export default function Home() {
 
             {/* FOOTER */}
             <footer className="pb-7 text-center text-xs text-[#aaa198]">
-              INUS · Psikolojik rüya analizi
-            </footer>
+  <a
+    href="/ruyalar"
+    className="transition hover:text-[#686158]"
+  >
+    Rüyalar
+  </a>
+
+  <span className="mx-2">·</span>
+
+  INUS
+</footer>
           </>
         )}
       </div>
