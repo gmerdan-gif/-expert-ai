@@ -223,23 +223,35 @@ export default function Home() {
                     className="min-h-[190px] w-full resize-none rounded-[22px] bg-transparent px-5 py-5 text-base leading-7 text-[#302d29] outline-none placeholder:text-[#aaa198] disabled:opacity-70 sm:min-h-[215px] sm:px-7 sm:py-6"
                   />
 
-                  <div className="flex items-center justify-between border-t border-[#e5ded5] px-4 py-3.5 sm:px-6">
-                    <span className="text-xs text-[#aaa198]">
-                      {dream.length > 0
-                        ? `${dream.length} karakter`
-                        : " "}
-                    </span>
+<div className="flex items-center justify-between border-t border-[#e5ded5] px-4 py-3.5 sm:px-6">
+  <div className="flex items-center gap-3">
+    {dream.length > 0 && !loading && (
+      <button
+        onClick={() => {
+          setDream("");
+          setResult("");
+        }}
+        className="text-xs text-[#9a9187] transition hover:text-[#454039]"
+      >
+        Temizle
+      </button>
+    )}
 
-                    <button
-                      onClick={analyzeDream}
-                      disabled={!dream.trim() || loading}
-                      className="rounded-full bg-[#292621] px-6 py-3 text-sm text-white transition hover:bg-[#403b35] disabled:cursor-not-allowed disabled:opacity-30"
-                    >
-                      {loading
-                        ? "Rüyan inceleniyor..."
-                        : "Rüyamı Analiz Et"}
-                    </button>
-                  </div>
+    <span className="text-xs text-[#aaa198]">
+      {dream.length > 0 ? `${dream.length} karakter` : " "}
+    </span>
+  </div>
+
+  <button
+    onClick={analyzeDream}
+    disabled={!dream.trim() || loading}
+    className="rounded-full bg-[#292621] px-6 py-3 text-sm text-white transition hover:bg-[#403b35] disabled:cursor-not-allowed disabled:opacity-30"
+  >
+    {loading
+      ? "Rüyan inceleniyor..."
+      : "Rüyamı Analiz Et"}
+  </button>
+</div>
                 </div>
               </div>
 
