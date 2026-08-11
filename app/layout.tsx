@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ONEIROS",
-  description: "Jungcu rüya analizi",
+  title: "INUS — Rüya Analizi",
+  description: "Rüyalarının anlattığı yolu bul.",
 };
 
 export default function RootLayout({

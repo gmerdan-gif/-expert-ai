@@ -24,7 +24,7 @@ function formatResult(text: string) {
       return (
         <h3
           key={index}
-          className="mb-4 mt-9 text-sm font-medium uppercase tracking-[0.18em] text-[#81786e] first:mt-0"
+          className="mb-4 mt-8 text-sm font-medium uppercase tracking-[0.18em] text-[#81786e] first:mt-0"
         >
           {title}
         </h3>
@@ -87,7 +87,7 @@ export default function Home() {
           const data = await response.json();
           message = data?.error || message;
         } catch {
-          // JSON okunamazsa varsayılan hata mesajını kullan.
+          // Varsayılan hata mesajını kullan.
         }
 
         throw new Error(message);
@@ -133,7 +133,7 @@ export default function Home() {
       <div className="mx-auto flex min-h-screen w-full max-w-6xl flex-col px-5 sm:px-8">
 
         {/* HEADER */}
-        <header className="flex items-center justify-between py-7">
+        <header className="flex items-center justify-between py-5 sm:py-6">
           <button
             onClick={() => {
               setShowHow(false);
@@ -154,8 +154,8 @@ export default function Home() {
 
         {/* HOW IT WORKS */}
         {showHow && (
-          <section className="mb-10 rounded-3xl border border-[#d8d0c5] bg-[#eee8df] px-6 py-8 sm:px-10">
-            <div className="flex flex-col gap-8 sm:flex-row sm:items-start sm:justify-between">
+          <section className="mb-8 rounded-3xl border border-[#d8d0c5] bg-[#eee8df] px-6 py-7 sm:px-10">
+            <div className="flex flex-col gap-7 sm:flex-row sm:items-start sm:justify-between">
               <div className="max-w-2xl">
                 <p className="mb-3 text-xs uppercase tracking-[0.25em] text-[#81786e]">
                   INUS
@@ -191,9 +191,10 @@ export default function Home() {
         {/* HOME */}
         {!showHow && (
           <>
-            <section className="flex flex-col items-center pt-10 text-center sm:pt-16">
+            <section className="flex flex-col items-center pt-5 text-center sm:pt-8">
 
-              <p className="mb-3 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
+              {/* HERO */}
+              <p className="mb-2 text-[11px] uppercase tracking-[0.35em] text-[#8a8177]">
                 RÜYA ANALİZİ
               </p>
 
@@ -201,59 +202,50 @@ export default function Home() {
                 INUS
               </h1>
 
-              <p className="mt-5 text-lg font-light tracking-wide text-[#686158] sm:text-xl">
+              <p className="mt-3 text-lg font-light tracking-wide text-[#686158] sm:text-xl">
                 Rüyalarının anlattığı yolu bul.
               </p>
 
-              <p className="mt-4 max-w-xl text-sm leading-6 text-[#817970] sm:text-base">
-                Rüyanda gördüklerin tesadüf değildi. Sembollerin ve
+              <p className="mt-3 max-w-xl text-sm leading-6 text-[#817970] sm:text-[15px]">
+                Rüyanda gördüklerin tesadüf değil. Sembollerin ve
                 duyguların işaret ettiği anlamın izini sür.
               </p>
 
-              {/* DREAM + SIDE AD */}
-              <div className="mt-12 flex w-full max-w-5xl flex-col gap-5 lg:flex-row lg:items-stretch">
+              {/* DREAM CARD */}
+              <div className="mt-7 w-full max-w-5xl">
+                <div className="rounded-[28px] border border-[#d9d1c7] bg-[#faf8f4] p-2 shadow-[0_20px_60px_rgba(70,60,50,0.06)]">
 
-                {/* DREAM CARD */}
-                <div className="w-full lg:flex-1">
-                  <div className="rounded-[28px] border border-[#d9d1c7] bg-[#faf8f4] p-2 shadow-[0_20px_60px_rgba(70,60,50,0.06)]">
+                  <textarea
+                    value={dream}
+                    onChange={(e) => setDream(e.target.value)}
+                    disabled={loading}
+                    placeholder="Rüyanı anlat..."
+                    className="min-h-[190px] w-full resize-none rounded-[22px] bg-transparent px-5 py-5 text-base leading-7 text-[#302d29] outline-none placeholder:text-[#aaa198] disabled:opacity-70 sm:min-h-[215px] sm:px-7 sm:py-6"
+                  />
 
-                    <textarea
-                      value={dream}
-                      onChange={(e) => setDream(e.target.value)}
-                      disabled={loading}
-                      placeholder="Rüyanı anlat..."
-                      className="min-h-[270px] w-full resize-none rounded-[22px] bg-transparent px-6 py-6 text-base leading-7 text-[#302d29] outline-none placeholder:text-[#aaa198] disabled:opacity-70 sm:min-h-[300px] sm:px-8 sm:py-8"
-                    />
+                  <div className="flex items-center justify-between border-t border-[#e5ded5] px-4 py-3.5 sm:px-6">
+                    <span className="text-xs text-[#aaa198]">
+                      {dream.length > 0
+                        ? `${dream.length} karakter`
+                        : " "}
+                    </span>
 
-                    <div className="flex items-center justify-between border-t border-[#e5ded5] px-4 py-4 sm:px-6">
-                      <span className="text-xs text-[#aaa198]">
-                        {dream.length > 0
-                          ? `${dream.length} karakter`
-                          : " "}
-                      </span>
-
-                      <button
-                        onClick={analyzeDream}
-                        disabled={!dream.trim() || loading}
-                        className="rounded-full bg-[#292621] px-6 py-3 text-sm text-white transition hover:bg-[#403b35] disabled:cursor-not-allowed disabled:opacity-30"
-                      >
-                        {loading
-                          ? "Rüyan inceleniyor..."
-                          : "Rüyamı Analiz Et"}
-                      </button>
-                    </div>
+                    <button
+                      onClick={analyzeDream}
+                      disabled={!dream.trim() || loading}
+                      className="rounded-full bg-[#292621] px-6 py-3 text-sm text-white transition hover:bg-[#403b35] disabled:cursor-not-allowed disabled:opacity-30"
+                    >
+                      {loading
+                        ? "Rüyan inceleniyor..."
+                        : "Rüyamı Analiz Et"}
+                    </button>
                   </div>
                 </div>
-
-                {/* SIDE AD */}
-                <aside className="flex min-h-[120px] w-full items-center justify-center rounded-[28px] border border-dashed border-[#d8d0c5] text-xs tracking-wide text-[#aaa198] lg:w-[280px]">
-                  Reklam alanı
-                </aside>
               </div>
 
               {/* ANALYSIS STATUS */}
               {loading && (
-                <section className="mt-8 w-full max-w-5xl rounded-[22px] border border-[#ddd5cb] bg-[#eee9e1] px-6 py-5 text-left">
+                <section className="mt-7 w-full max-w-5xl rounded-[22px] border border-[#ddd5cb] bg-[#eee9e1] px-6 py-5 text-left">
                   <div className="flex items-center gap-3">
 
                     <span className="relative flex h-2.5 w-2.5">
@@ -261,7 +253,7 @@ export default function Home() {
                       <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-[#8d8479]" />
                     </span>
 
-                    <span className="text-sm text-[#625c54] transition-all duration-500">
+                    <span className="text-sm text-[#625c54]">
                       {analysisStatuses[statusIndex]}
                       <span className="inline-block w-5 text-left">
                         ...
@@ -282,7 +274,7 @@ export default function Home() {
 
               {/* RESULT */}
               {result && (
-                <section className="mt-10 w-full max-w-5xl rounded-[28px] border border-[#d9d1c7] bg-[#faf8f4] p-7 text-left shadow-[0_20px_60px_rgba(70,60,50,0.05)] sm:p-10">
+                <section className="mt-8 w-full max-w-5xl rounded-[28px] border border-[#d9d1c7] bg-[#faf8f4] p-7 text-left shadow-[0_20px_60px_rgba(70,60,50,0.05)] sm:p-10">
 
                   <div className="mb-7 flex items-center gap-3">
                     <div className="h-px w-8 bg-[#9b9186]" />
@@ -297,27 +289,21 @@ export default function Home() {
                   </div>
                 </section>
               )}
-
-              {/* BOTTOM AD */}
-              <section className="mt-10 mb-8 flex h-20 w-full max-w-5xl items-center justify-center rounded-2xl border border-dashed border-[#d8d0c5] text-xs tracking-wide text-[#aaa198]">
-                Reklam alanı
-              </section>
-
             </section>
 
             {/* FOOTER */}
-            <footer className="pb-7 text-center text-xs text-[#aaa198]">
-  <a
-    href="/ruyalar"
-    className="transition hover:text-[#686158]"
-  >
-    Rüyalar
-  </a>
+            <footer className="mt-auto pb-5 pt-6 text-center text-xs text-[#aaa198]">
+              <a
+                href="/ruyalar"
+                className="transition hover:text-[#686158]"
+              >
+                Rüyalar
+              </a>
 
-  <span className="mx-2">·</span>
+              <span className="mx-2">·</span>
 
-  INUS
-</footer>
+              INUS
+            </footer>
           </>
         )}
       </div>
