@@ -28,19 +28,19 @@ export default function RootLayout({
       lang="tr"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <head>
-        <meta
-          name="google-adsense-account"
-          content="ca-pub-5926030217948912"
-        />
+<head>
+  <meta
+    name="google-adsense-account"
+    content="ca-pub-5926030217948912"
+  />
 
-        <Script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5926030217948912"
-          crossOrigin="anonymous"
-          strategy="beforeInteractive"
-        />
-      </head>
+  <Script
+    async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5926030217948912"
+    crossOrigin="anonymous"
+    strategy="beforeInteractive"
+  />
+</head>
 
       <body className="min-h-full flex flex-col">
         {children}
