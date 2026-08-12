@@ -2,6 +2,7 @@ import OpenAI from "openai";
 import { NextResponse } from "next/server";
 import { Ratelimit } from "@upstash/ratelimit";
 import { Redis } from "@upstash/redis";
+import { neon } from "@neondatabase/serverless";
 import crypto from "crypto";
 
 const client = new OpenAI({
@@ -9,6 +10,8 @@ const client = new OpenAI({
 });
 
 const redis = Redis.fromEnv();
+
+const sql = neon(process.env.DATABASE_URL!);
 
 /*
  * 1. IP RATE LIMIT
@@ -381,12 +384,63 @@ function getDreamHash(dream: string) {
     .digest("hex");
 }
 
+/*
+ * DB log helper
+ *
+ * DB yazma hatası analiz isteğini bozmaz.
+ */
+async function saveDreamLog(data: {
+  dream?: string | null;
+  analysis?: string | null;
+  dreamHash?: string | null;
+  language?: string | null;
+  ipAddress?: string | null;
+  email?: string | null;
+  status: string;
+  errorType?: string | null;
+  errorMessage?: string | null;
+}) {
+  try {
+    await sql`
+      INSERT INTO dream_analyses (
+        dream,
+        analysis,
+        dream_hash,
+        language,
+        ip_address,
+        email,
+        status,
+        error_type,
+        error_message
+      )
+      VALUES (
+        ${data.dream ?? null},
+        ${data.analysis ?? null},
+        ${data.dreamHash ?? null},
+        ${data.language ?? null},
+        ${data.ipAddress ?? null},
+        ${data.email ?? null},
+        ${data.status},
+        ${data.errorType ?? null},
+        ${data.errorMessage ?? null}
+      )
+    `;
+  } catch (error) {
+    console.error("Database logging error:", error);
+  }
+}
+
 export async function POST(request: Request) {
+  let dream: string | undefined;
+  let language = "tr";
+  let realIp = "unknown";
+  let dreamHash: string | undefined;
+
   try {
     const body = await request.json();
 
-    const dream = body.dream;
-    const language = body.language || "tr";
+    dream = body.dream;
+    language = body.language || "tr";
 
     if (!dream || typeof dream !== "string") {
       return NextResponse.json(
@@ -407,21 +461,27 @@ export async function POST(request: Request) {
 
     const forwardedFor = request.headers.get("x-forwarded-for");
 
-    const realIp =
+    realIp =
       forwardedFor?.split(",")[0]?.trim() ||
       request.headers.get("x-real-ip") ||
       "unknown";
 
     /*
      * 1. IP RATE LIMIT
-     *
-     * Aynı IP:
-     * maksimum 5 analiz / 10 dakika.
      */
     const { success, limit, remaining, reset } =
       await dreamRateLimit.limit(realIp);
 
     if (!success) {
+      await saveDreamLog({
+        dream,
+        language,
+        ipAddress: realIp,
+        status: "rate_limited",
+        errorType: "ip_rate_limit",
+        errorMessage: "IP rate limit exceeded.",
+      });
+
       return NextResponse.json(
         {
           error:
@@ -440,16 +500,25 @@ export async function POST(request: Request) {
 
     /*
      * 2. DUPLICATE DREAM PROTECTION
-     *
-     * Aynı rüya 30 dakika içinde tekrar
-     * OpenAI'ye gönderilmez.
      */
-    const dreamHash = getDreamHash(dream);
+    dreamHash = getDreamHash(dream);
+
     const duplicateKey = `inus:dream-duplicate:${dreamHash}`;
 
     const duplicate = await redis.get(duplicateKey);
 
     if (duplicate) {
+      await saveDreamLog({
+        dream,
+        dreamHash,
+        language,
+        ipAddress: realIp,
+        status: "duplicate",
+        errorType: "duplicate_dream",
+        errorMessage:
+          "Dream was already analyzed within the cooldown period.",
+      });
+
       return NextResponse.json(
         {
           error:
@@ -463,12 +532,6 @@ export async function POST(request: Request) {
 
     /*
      * 3. GLOBAL RATE LIMIT
-     *
-     * Tüm kullanıcılar toplamında:
-     * maksimum 100 analiz / 10 dakika.
-     *
-     * Duplicate istekler buraya gelmeden kesildiği için
-     * global kotayı gereksiz yere tüketmez.
      */
     const {
       success: globalSuccess,
@@ -478,10 +541,20 @@ export async function POST(request: Request) {
     } = await globalDreamRateLimit.limit("global");
 
     if (!globalSuccess) {
+      await saveDreamLog({
+        dream,
+        dreamHash,
+        language,
+        ipAddress: realIp,
+        status: "rate_limited",
+        errorType: "global_rate_limit",
+        errorMessage: "Global rate limit exceeded.",
+      });
+
       return NextResponse.json(
         {
           error:
-            "ONEIROS şu anda yoğun. Lütfen birkaç dakika sonra tekrar deneyin.",
+            "INUS şu anda yoğun. Lütfen birkaç dakika sonra tekrar deneyin.",
         },
         {
           status: 429,
@@ -495,7 +568,8 @@ export async function POST(request: Request) {
     }
 
     /*
-     * Rüyayı 30 dakika boyunca duplicate olarak işaretle.
+     * Aynı rüyanın 30 dakika içinde tekrar
+     * OpenAI'ye gönderilmesini engelle.
      */
     await redis.set(duplicateKey, "1", {
       ex: DUPLICATE_DREAM_COOLDOWN,
@@ -521,16 +595,62 @@ ${dream}
 
     const stream = new ReadableStream({
       async start(controller) {
+        let accumulated = "";
+
         try {
           for await (const event of response) {
             if (event.type === "response.output_text.delta") {
+              accumulated += event.delta;
+
               controller.enqueue(encoder.encode(event.delta));
             }
           }
 
+          /*
+           * Kullanıcıya stream tamamen gönderildikten sonra
+           * başarılı analizi DB'ye kaydet.
+           *
+           * DB problemi kullanıcıya gösterilmez.
+           */
+          await saveDreamLog({
+            dream,
+            analysis: accumulated,
+            dreamHash,
+            language,
+            ipAddress: realIp,
+            email: null,
+            status: "success",
+          });
+
           controller.close();
         } catch (error) {
           console.error("Streaming error:", error);
+
+          /*
+           * OpenAI streaming sırasında hata verirse
+           * rüyayı tekrar deneyebilmek için duplicate kilidini kaldır.
+           */
+          await redis.del(duplicateKey);
+
+          /*
+           * Streaming sırasında OpenAI hatası olursa
+           * hatayı DB'ye logla.
+           */
+          await saveDreamLog({
+            dream,
+            analysis: accumulated || null,
+            dreamHash,
+            language,
+            ipAddress: realIp,
+            email: null,
+            status: "error",
+            errorType: "streaming_error",
+            errorMessage:
+              error instanceof Error
+                ? error.message
+                : "Unknown streaming error.",
+          });
+
           controller.error(error);
         }
       },
@@ -545,6 +665,32 @@ ${dream}
     });
   } catch (error) {
     console.error("Dream analysis error:", error);
+
+    /*
+     * OpenAI / server tarafında stream başlamadan hata oluşursa
+     * duplicate kilidini kaldır.
+     */
+    if (dreamHash) {
+      await redis.del(`inus:dream-duplicate:${dreamHash}`);
+    }
+
+    /*
+     * OpenAI / server tarafında stream başlamadan hata oluşursa
+     * DB'ye logla.
+     */
+    await saveDreamLog({
+      dream: dream ?? null,
+      language,
+      ipAddress: realIp,
+      dreamHash: dreamHash ?? null,
+      email: null,
+      status: "error",
+      errorType: "analysis_error",
+      errorMessage:
+        error instanceof Error
+          ? error.message
+          : "Unknown dream analysis error.",
+    });
 
     return NextResponse.json(
       {
