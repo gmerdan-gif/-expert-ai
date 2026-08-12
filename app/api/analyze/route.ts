@@ -2,6 +2,7 @@ import OpenAI from "openai";
 import { NextResponse } from "next/server";
 import { Ratelimit } from "@upstash/ratelimit";
 import { Redis } from "@upstash/redis";
+import crypto from "crypto";
 
 const client = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
@@ -9,12 +10,36 @@ const client = new OpenAI({
 
 const redis = Redis.fromEnv();
 
+/*
+ * 1. IP RATE LIMIT
+ * Aynı IP'den maksimum 5 analiz / 10 dakika.
+ */
 const dreamRateLimit = new Ratelimit({
   redis,
   limiter: Ratelimit.slidingWindow(5, "10 m"),
   analytics: true,
   prefix: "inus:dream-analysis",
 });
+
+/*
+ * 2. GLOBAL RATE LIMIT
+ * Tüm kullanıcılar toplamında maksimum 100 analiz / 10 dakika.
+ *
+ * Bu aynı zamanda OpenAI maliyetini koruyan
+ * ikinci önemli katmandır.
+ */
+const globalDreamRateLimit = new Ratelimit({
+  redis,
+  limiter: Ratelimit.slidingWindow(100, "10 m"),
+  analytics: true,
+  prefix: "inus:dream-analysis-global",
+});
+
+/*
+ * Aynı rüyanın 30 dakika içinde tekrar
+ * OpenAI'ye gönderilmesini engeller.
+ */
+const DUPLICATE_DREAM_COOLDOWN = 30 * 60;
 
 const systemPrompt = `
 Sen ONEIROS'sun.
@@ -341,6 +366,21 @@ HER ZAMAN:
 Kullanıcının rüyasının yazıldığı dilde cevap ver.
 `;
 
+function normalizeDream(dream: string) {
+  return dream
+    .normalize("NFKC")
+    .trim()
+    .toLocaleLowerCase("tr-TR")
+    .replace(/\s+/g, " ");
+}
+
+function getDreamHash(dream: string) {
+  return crypto
+    .createHash("sha256")
+    .update(normalizeDream(dream), "utf8")
+    .digest("hex");
+}
+
 export async function POST(request: Request) {
   try {
     const body = await request.json();
@@ -372,6 +412,12 @@ export async function POST(request: Request) {
       request.headers.get("x-real-ip") ||
       "unknown";
 
+    /*
+     * 1. IP RATE LIMIT
+     *
+     * Aynı IP:
+     * maksimum 5 analiz / 10 dakika.
+     */
     const { success, limit, remaining, reset } =
       await dreamRateLimit.limit(realIp);
 
@@ -392,6 +438,72 @@ export async function POST(request: Request) {
       );
     }
 
+    /*
+     * 2. DUPLICATE DREAM PROTECTION
+     *
+     * Aynı rüya 30 dakika içinde tekrar
+     * OpenAI'ye gönderilmez.
+     */
+    const dreamHash = getDreamHash(dream);
+    const duplicateKey = `inus:dream-duplicate:${dreamHash}`;
+
+    const duplicate = await redis.get(duplicateKey);
+
+    if (duplicate) {
+      return NextResponse.json(
+        {
+          error:
+            "Bu rüya kısa süre önce analiz edildi. Aynı rüyayı tekrar analiz etmek için biraz bekleyin.",
+        },
+        {
+          status: 429,
+        }
+      );
+    }
+
+    /*
+     * 3. GLOBAL RATE LIMIT
+     *
+     * Tüm kullanıcılar toplamında:
+     * maksimum 100 analiz / 10 dakika.
+     *
+     * Duplicate istekler buraya gelmeden kesildiği için
+     * global kotayı gereksiz yere tüketmez.
+     */
+    const {
+      success: globalSuccess,
+      limit: globalLimit,
+      remaining: globalRemaining,
+      reset: globalReset,
+    } = await globalDreamRateLimit.limit("global");
+
+    if (!globalSuccess) {
+      return NextResponse.json(
+        {
+          error:
+            "ONEIROS şu anda yoğun. Lütfen birkaç dakika sonra tekrar deneyin.",
+        },
+        {
+          status: 429,
+          headers: {
+            "X-RateLimit-Limit": globalLimit.toString(),
+            "X-RateLimit-Remaining": globalRemaining.toString(),
+            "X-RateLimit-Reset": globalReset.toString(),
+          },
+        }
+      );
+    }
+
+    /*
+     * Rüyayı 30 dakika boyunca duplicate olarak işaretle.
+     */
+    await redis.set(duplicateKey, "1", {
+      ex: DUPLICATE_DREAM_COOLDOWN,
+    });
+
+    /*
+     * 4. OPENAI
+     */
     const response = await client.responses.create({
       model: "gpt-5.6-luna",
       instructions: systemPrompt,
