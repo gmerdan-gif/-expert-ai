@@ -22,6 +22,30 @@ export function SymbolArticle({ symbol, relatedSymbols }: SymbolArticleProps) {
         </p>
       </section>
 
+      <section className="mb-14 border-y border-[#ddd5cc] py-8 sm:mb-16 sm:py-9">
+        <div className="flex flex-col gap-6 sm:flex-row sm:items-center sm:justify-between">
+          <div className="max-w-2xl">
+            <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
+              INUS
+            </p>
+            <h2 className="mt-3 text-2xl font-light sm:text-3xl">
+              Bu sembol senin rüyanda ne anlatıyor olabilir?
+            </h2>
+            <p className="mt-3 text-sm leading-7 text-[#686158]">
+              Hazır anlamlara bağlı kalmadan, rüyanın tamamını ve kişisel
+              çağrışımlarını birlikte inceleyelim.
+            </p>
+          </div>
+
+          <Link
+            href="/"
+            className="inline-flex shrink-0 items-center justify-center rounded-full bg-[#292621] px-6 py-3 text-sm text-white transition hover:bg-[#3a3630]"
+          >
+            Rüyamı analiz et →
+          </Link>
+        </div>
+      </section>
+
       <article className="rounded-[30px] border border-[#d9d1c7] bg-[#faf8f4] px-7 py-10 sm:px-12 sm:py-14">
         <div className="space-y-12 text-[15px] leading-8 text-[#454039]">
           <SymbolListSection
@@ -221,24 +245,7 @@ export function SymbolArticle({ symbol, relatedSymbols }: SymbolArticleProps) {
         </section>
       )}
 
-      <section className="mb-16 rounded-[30px] bg-[#292621] px-7 py-12 text-center text-white sm:mb-20 sm:px-12">
-        <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
-          INUS
-        </p>
-        <h2 className="mt-4 text-3xl font-light">
-          Kendi rüyanı bağlamında keşfet.
-        </h2>
-        <p className="mx-auto mt-4 max-w-xl text-sm leading-7 text-[#d4cec5]">
-          {symbol.title} sembolünü hazır anlamlarla değil, rüyanın bütünü ve
-          kişisel çağrışımların üzerinden incele.
-        </p>
-        <Link
-          href="/"
-          className="mt-7 inline-flex rounded-full bg-white px-7 py-3 text-sm text-[#292621] transition hover:bg-[#eee8df]"
-        >
-          Rüyamı analiz et
-        </Link>
-      </section>
+
     </>
   );
 }

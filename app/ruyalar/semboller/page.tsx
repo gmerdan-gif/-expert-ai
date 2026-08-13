@@ -1,18 +1,19 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { getAllDreamSymbols } from "@/data/dream-symbols";
+import SymbolSearch from "@/components/dream-symbols/SymbolSearch";
 
 export const metadata: Metadata = {
-  title: "Rüya Sembolleri Sözlüğü | Rüyada Sembol Görmek",
+  title: "Rüya Sembolleri | Psikoloji, Jung ve Dini Yorumlar",
   description:
-    "Rüyada görülen sembollerin anlamları: psikoloji, Jungcu yaklaşım, dini gelenekler ve kişisel bağlam perspektifinden 30+ rüya sembolü rehberi.",
+    "Rüya sembollerini psikoloji, Jungcu yaklaşım, İslami ve diğer dini gelenekler ile spiritüel yorumlar üzerinden karşılaştırmalı olarak inceleyin.",
   alternates: {
     canonical: "/ruyalar/semboller",
   },
   openGraph: {
-    title: "Rüya Sembolleri Sözlüğü | INUS",
+    title: "Rüya Sembolleri | INUS",
     description:
-      "Rüyada yılan, su, ev, uçmak ve daha fazlası — sembolleri bağlamsal ve çok perspektifli inceleyin.",
+      "Rüyalardaki sembollerin farklı psikolojik, dini ve spiritüel yaklaşımlardaki anlamlarını keşfedin.",
     url: "https://in-us.app/ruyalar/semboller",
     type: "website",
     locale: "tr_TR",
@@ -26,12 +27,18 @@ export const metadata: Metadata = {
 export default function DreamSymbolsIndexPage() {
   const symbols = getAllDreamSymbols();
 
+  const searchSymbols = symbols.map((symbol) => ({
+    slug: symbol.slug,
+    title: symbol.title,
+    shortDescription: symbol.shortDescription,
+  }));
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    name: "Rüya Sembolleri Sözlüğü",
+    name: "Rüya Sembolleri",
     description:
-      "Rüyada görülen sembollerin psikolojik, Jungcu, dini ve spiritüel perspektiflerden incelenmesi.",
+      "Rüya sembollerinin psikolojik, Jungcu, dini ve spiritüel perspektiflerden karşılaştırmalı olarak incelendiği rehber.",
     isPartOf: {
       "@type": "WebSite",
       name: "INUS",
@@ -44,10 +51,13 @@ export default function DreamSymbolsIndexPage() {
     <main className="min-h-screen bg-[#f5f1ea] text-[#24221f]">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(jsonLd),
+        }}
       />
 
-      <div className="mx-auto w-full max-w-5xl px-5 sm:px-8">
+      <div className="mx-auto w-full max-w-4xl px-5 sm:px-8">
+
         <header className="flex items-center justify-between py-7">
           <Link
             href="/"
@@ -55,6 +65,7 @@ export default function DreamSymbolsIndexPage() {
           >
             INUS
           </Link>
+
           <Link
             href="/ruyalar"
             className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
@@ -67,86 +78,73 @@ export default function DreamSymbolsIndexPage() {
           className="pt-10 text-xs text-[#8a8177]"
           aria-label="Breadcrumb"
         >
-          <Link href="/ruyalar" className="hover:text-[#24221f]">
+          <Link
+            href="/ruyalar"
+            className="hover:text-[#24221f]"
+          >
             Rüyalar
           </Link>
+
           <span className="mx-2">/</span>
+
           <span>Semboller</span>
         </nav>
 
-        <header className="pb-14 pt-10 sm:pb-18 sm:pt-14">
+        <header className="pb-12 pt-10 sm:pb-14 sm:pt-14">
           <p className="mb-5 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
             RÜYA SEMBOLLERİ
           </p>
+
           <h1 className="max-w-3xl text-5xl font-light tracking-tight sm:text-6xl">
-            Rüyada sembol
-            <br />
-            görmek ne demek?
+            Rüya sembolleri
           </h1>
-          <p className="mt-7 max-w-3xl text-lg font-light leading-8 text-[#686158]">
-            Her sembol için psikoloji, Jungcu yaklaşım, dini gelenekler ve
-            spiritüel yorumları bir arada sunan bağlamsal rehberler. Evrensel
-            tek anlam iddiası taşımaz.
+
+          <p className="mt-7 max-w-2xl text-lg font-light leading-8 text-[#686158]">
+            Rüyalarda görülen sembollerin tek bir evrensel anlamı
+            yoktur. INUS'ta her sembolü psikoloji, Jungcu yaklaşım,
+            dini gelenekler ve spiritüel yorumlar üzerinden
+            karşılaştırmalı olarak inceleyebilirsiniz.
           </p>
         </header>
 
-        <section className="mb-10 rounded-[28px] bg-[#292621] px-7 py-9 text-white sm:px-10">
+        <SymbolSearch symbols={searchSymbols} />
+
+        <section className="mb-16 rounded-[28px] bg-[#292621] px-7 py-9 text-white sm:px-10">
           <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
-            INUS YAKLAŞIMI
+            NASIL YORUMLUYORUZ?
           </p>
+
           <p className="mt-4 max-w-3xl text-sm leading-7 text-[#d4cec5]">
-            Bu rehberler rüya sözlüğü değildir. Her sembol, kişisel bağlam,
-            duygular ve rüyanın bütünü içinde değerlendirilmelidir. Kesin
-            teşhis, gelecek tahmini veya evrensel anlam iddiası yoktur.
+            Bir sembolün anlamı, rüyanın tamamından ve kişinin
+            kendi yaşam deneyimlerinden bağımsız değildir. Bu nedenle
+            INUS, hazır bir rüya sözlüğü sunmak yerine farklı
+            yaklaşımları yan yana getirir ve kişisel bağlama alan bırakır.
           </p>
         </section>
 
-        <section className="pb-20">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
-            SEMBOLLER
-          </p>
-          <h2 className="mt-3 text-3xl font-light">
-            {symbols.length} rüya sembolü rehberi
+        <section className="mb-20">
+          <h2 className="text-3xl font-light">
+            Sembolü bulamadın mı?
           </h2>
 
-          <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {symbols.map((symbol) => (
-              <Link
-                key={symbol.slug}
-                href={`/ruyalar/semboller/${symbol.slug}`}
-                className="block rounded-[26px] border border-[#d9d1c7] bg-[#faf8f4] p-6 transition hover:-translate-y-0.5 hover:shadow-[0_15px_40px_rgba(70,60,50,0.06)]"
-              >
-                <h3 className="text-lg font-normal">
-                  Rüyada {symbol.title} görmek
-                </h3>
-                <p className="mt-3 text-sm leading-7 text-[#686158]">
-                  {symbol.shortDescription}
-                </p>
-                <p className="mt-4 text-xs tracking-wide text-[#625c54]">
-                  Rehberi oku →
-                </p>
-              </Link>
-            ))}
-          </div>
-        </section>
-
-        <section className="mb-16 rounded-[30px] bg-[#292621] px-7 py-12 text-center text-white sm:mb-20 sm:px-12">
-          <h2 className="text-3xl font-light">Kendi rüyanı analiz et.</h2>
-          <p className="mx-auto mt-4 max-w-xl text-sm leading-7 text-[#d4cec5]">
-            Sembolleri hazır anlamlarla değil, rüyanın bütünü ve kişisel
-            çağrışımların üzerinden incele.
+          <p className="mt-4 max-w-xl text-base leading-7 text-[#686158]">
+            Rüyanın tamamını anlat. Tek bir sembole bağlı kalmadan,
+            rüyadaki olayları, duyguları ve kişisel çağrışımları
+            birlikte değerlendirelim.
           </p>
+
           <Link
             href="/"
-            className="mt-7 inline-flex rounded-full bg-white px-7 py-3 text-sm text-[#292621] transition hover:bg-[#eee8df]"
+            className="mt-6 inline-flex rounded-full bg-[#292621] px-7 py-3 text-sm text-white transition hover:bg-[#3a3630]"
           >
-            Rüyamı analiz et
+            Rüyamı analiz et →
           </Link>
         </section>
 
         <footer className="pb-8 text-center text-xs text-[#aaa198]">
           INUS · Rüya sembolleri rehberi
         </footer>
+
       </div>
     </main>
   );

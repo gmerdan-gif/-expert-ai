@@ -144,12 +144,23 @@ export default function Home() {
             INUS
           </button>
 
-          <button
-            onClick={() => setShowHow((value) => !value)}
-            className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
-          >
-            Nasıl çalışır
-          </button>
+          <div className="flex items-center gap-5">
+            <button
+              onClick={() => setShowHow((value) => !value)}
+              className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
+            >
+              Nasıl çalışır
+            </button>
+
+            <span className="text-[#c8c0b6]">·</span>
+
+            <a
+              href="/ruyalar"
+              className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
+            >
+              Rüya Kütüphanesi
+            </a>
+          </div>
         </header>
 
         {/* HOW IT WORKS */}
@@ -311,6 +322,15 @@ export default function Home() {
                 className="transition hover:text-[#686158]"
               >
                 Rüyalar
+              </a>
+
+              <span className="mx-2">·</span>
+
+              <a
+                href="/ruyalar/semboller"
+                className="transition hover:text-[#686158]"
+              >
+                Rüya Sembolleri
               </a>
 
               <span className="mx-2">·</span>
