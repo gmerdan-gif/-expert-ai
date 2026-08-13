@@ -14,8 +14,41 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "INUS — Rüya Analizi",
-  description: "Rüyalarının anlattığı yolu bul.",
+  metadataBase: new URL("https://in-us.app"),
+
+  title: {
+    default: "INUS — Rüya Yorumu",
+    template: "%s | INUS",
+  },
+
+  description:
+    "Rüyanı kendi kelimelerinle anlat. INUS, Jungcu psikoloji yaklaşımıyla rüyandaki sembolleri, duyguları ve ilişkileri kişisel bir perspektiften yorumlar.",
+
+  alternates: {
+    canonical: "/",
+  },
+
+  openGraph: {
+    type: "website",
+    url: "https://in-us.app",
+    siteName: "INUS",
+    title: "INUS — Rüya Yorumu",
+    description:
+      "Rüyandaki sembolleri, duyguları ve ilişkileri kişisel bir perspektiften keşfet.",
+    locale: "tr_TR",
+  },
+
+  twitter: {
+    card: "summary",
+    title: "INUS — Rüya Yorumu",
+    description:
+      "Rüyanı kendi kelimelerinle anlat. INUS, rüyanı psikolojik bir perspektiften yorumlar.",
+  },
+
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({
@@ -28,19 +61,19 @@ export default function RootLayout({
       lang="tr"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-<head>
-  <meta
-    name="google-adsense-account"
-    content="ca-pub-5926030217948912"
-  />
+      <head>
+        <meta
+          name="google-adsense-account"
+          content="ca-pub-5926030217948912"
+        />
 
-  <Script
-    async
-    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5926030217948912"
-    crossOrigin="anonymous"
-    strategy="beforeInteractive"
-  />
-</head>
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5926030217948912"
+          crossOrigin="anonymous"
+          strategy="beforeInteractive"
+        />
+      </head>
 
       <body className="min-h-full flex flex-col">
         {children}
