@@ -1,13 +1,15 @@
 import type { MetadataRoute } from "next";
+import { getAllDreamSymbols } from "@/data/dream-symbols";
 
 const baseUrl = "https://in-us.app";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const routes = [
+  const staticRoutes = [
     "/",
     "/ruyalar",
     "/ruyalar/ruya-nedir",
     "/ruyalar/ruya-sembolleri",
+    "/ruyalar/semboller",
     "/ruyalar/kabuslar",
     "/ruyalar/neden-ruya-goruruz",
     "/ruyalar/ruyalar-neden-unutulur",
@@ -20,7 +22,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/kullanim-kosullari",
   ];
 
-  return routes.map((route) => ({
+  const symbolRoutes = getAllDreamSymbols().map(
+    (symbol) => `/ruyalar/semboller/${symbol.slug}`,
+  );
+
+  return [...staticRoutes, ...symbolRoutes].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
   }));
