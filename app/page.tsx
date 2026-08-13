@@ -195,7 +195,7 @@ export default function Home() {
 
               {/* HERO */}
               <p className="mb-2 text-[11px] uppercase tracking-[0.35em] text-[#8a8177]">
-                RÜYA ANALİZİ
+                RÜYA YORUMU
               </p>
 
               <h1 className="text-4xl font-light tracking-[0.16em] sm:text-5xl">
@@ -207,8 +207,9 @@ export default function Home() {
               </p>
 
               <p className="mt-3 max-w-xl text-sm leading-6 text-[#817970] sm:text-[15px]">
-                Rüyanda gördüklerin tesadüf değil. Sembollerin ve
-                duyguların işaret ettiği anlamın izini sür.
+                Rüyanı kendi kelimelerinle anlat. INUS, Jungcu psikoloji
+                yaklaşımıyla rüyandaki sembolleri, duyguları ve ilişkileri
+                kişisel bir perspektiften yorumlar.
               </p>
 
               {/* DREAM CARD */}
@@ -249,7 +250,7 @@ export default function Home() {
   >
     {loading
       ? "Rüyan inceleniyor..."
-      : "Rüyamı Analiz Et"}
+      : "Rüyamı Yorumla"}
   </button>
 </div>
                 </div>
@@ -314,7 +315,39 @@ export default function Home() {
 
               <span className="mx-2">·</span>
 
-              INUS
+              <a
+                href="/hakkimizda"
+                className="transition hover:text-[#686158]"
+              >
+                Hakkımızda
+              </a>
+
+              <span className="mx-2">·</span>
+
+              <a
+                href="/bize-ulasin"
+                className="transition hover:text-[#686158]"
+              >
+                Bize Ulaşın
+              </a>
+
+              <span className="mx-2">·</span>
+
+              <a
+                href="/gizlilik"
+                className="transition hover:text-[#686158]"
+              >
+                Gizlilik
+              </a>
+
+              <span className="mx-2">·</span>
+
+              <a
+                href="/kullanim-kosullari"
+                className="transition hover:text-[#686158]"
+              >
+                Kullanım Koşulları
+              </a>
             </footer>
           </>
         )}
