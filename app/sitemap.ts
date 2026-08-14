@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllDreamSymbols } from "@/data/dream-symbols";
 
-const baseUrl = "https://in-us.app";
+const baseUrl = "https://www.in-us.app";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes = [
