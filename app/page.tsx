@@ -174,7 +174,16 @@ export default function Home() {
         if (streamBuffer) {
           accumulated += streamBuffer;
           streamBuffer = "";
-          setResult(accumulated);
+
+          // Metadata herhangi bir nedenle result'a sızarsa temizle.
+          const cleanResult = accumulated
+            .replace(
+              /__ONEIROS_META__[\\s\\S]*?__ONEIROS_META_END__/g,
+              ""
+            )
+            .trim();
+
+          setResult(cleanResult);
         }
       }
 
@@ -183,7 +192,15 @@ export default function Home() {
 
       if (metaParsed && streamBuffer) {
         accumulated += streamBuffer;
-        setResult(accumulated);
+
+        const cleanResult = accumulated
+          .replace(
+            /__ONEIROS_META__[\\s\\S]*?__ONEIROS_META_END__/g,
+            ""
+          )
+          .trim();
+
+        setResult(cleanResult);
       }
 
       setStatusIndex(analysisStatuses.length - 1);
