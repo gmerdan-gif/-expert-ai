@@ -46,6 +46,16 @@ export default function Home() {
   const [loading, setLoading] = useState(false);
   const [showHow, setShowHow] = useState(false);
   const [statusIndex, setStatusIndex] = useState(0);
+  type DreamMeta = {
+    themes: string[];
+    direction: string;
+    luckyNumbers: {
+      number: number;
+      themes: string[];
+    }[];
+  };
+
+  const [dreamMeta, setDreamMeta] = useState<DreamMeta | null>(null);
 
   useEffect(() => {
     if (!loading) return;
@@ -66,6 +76,7 @@ export default function Home() {
 
     setLoading(true);
     setResult("");
+    setDreamMeta(null);
     setStatusIndex(0);
 
     try {
@@ -101,18 +112,64 @@ export default function Home() {
       const decoder = new TextDecoder();
 
       let accumulated = "";
+      let buffer = "";
+      let metaParsed = false;
 
       while (true) {
         const { value, done } = await reader.read();
 
         if (done) break;
 
-        accumulated += decoder.decode(value, { stream: true });
-        setResult(accumulated);
+        buffer += decoder.decode(value, { stream: true });
+
+        if (!metaParsed) {
+          const metaStart = buffer.indexOf("__ONEIROS_META__");
+          const metaEnd = buffer.indexOf("__ONEIROS_META_END__");
+
+          if (metaStart !== -1 && metaEnd !== -1 && metaEnd > metaStart) {
+            const jsonStart =
+              metaStart + "__ONEIROS_META__".length;
+
+            const jsonText = buffer
+              .slice(jsonStart, metaEnd)
+              .trim();
+
+            try {
+              const parsedMeta = JSON.parse(jsonText);
+
+              if (
+                parsedMeta &&
+                Array.isArray(parsedMeta.themes) &&
+                typeof parsedMeta.direction === "string" &&
+                Array.isArray(parsedMeta.luckyNumbers)
+              ) {
+                setDreamMeta(parsedMeta);
+              }
+            } catch (error) {
+              console.error("ONEIROS metadata parse error:", error);
+            }
+
+            buffer = buffer.slice(
+              metaEnd + "__ONEIROS_META_END__".length
+            );
+
+            metaParsed = true;
+          }
+        }
+
+        if (metaParsed && buffer) {
+          accumulated += buffer;
+          buffer = "";
+          setResult(accumulated);
+        }
       }
 
-      accumulated += decoder.decode();
-      setResult(accumulated);
+      buffer += decoder.decode();
+
+      if (metaParsed && buffer) {
+        accumulated += buffer;
+        setResult(accumulated);
+      }
 
       setStatusIndex(analysisStatuses.length - 1);
     } catch (error) {
@@ -235,35 +292,35 @@ export default function Home() {
                     className="min-h-[190px] w-full resize-none rounded-[22px] bg-transparent px-5 py-5 text-base leading-7 text-[#302d29] outline-none placeholder:text-[#aaa198] disabled:opacity-70 sm:min-h-[215px] sm:px-7 sm:py-6"
                   />
 
-<div className="flex items-center justify-between border-t border-[#e5ded5] px-4 py-3.5 sm:px-6">
-  <div className="flex items-center gap-3">
-    {dream.length > 0 && !loading && (
-      <button
-        onClick={() => {
-          setDream("");
-          setResult("");
-        }}
-        className="text-xs text-[#9a9187] transition hover:text-[#454039]"
-      >
-        Temizle
-      </button>
-    )}
+                  <div className="flex items-center justify-between border-t border-[#e5ded5] px-4 py-3.5 sm:px-6">
+                    <div className="flex items-center gap-3">
+                      {dream.length > 0 && !loading && (
+                        <button
+                          onClick={() => {
+                            setDream("");
+                            setResult("");
+                          }}
+                          className="text-xs text-[#9a9187] transition hover:text-[#454039]"
+                        >
+                          Temizle
+                        </button>
+                      )}
 
-    <span className="text-xs text-[#aaa198]">
-      {dream.length > 0 ? `${dream.length} karakter` : " "}
-    </span>
-  </div>
+                      <span className="text-xs text-[#aaa198]">
+                        {dream.length > 0 ? `${dream.length} karakter` : " "}
+                      </span>
+                    </div>
 
-  <button
-    onClick={analyzeDream}
-    disabled={!dream.trim() || loading}
-    className="rounded-full bg-[#292621] px-6 py-3 text-sm text-white transition hover:bg-[#403b35] disabled:cursor-not-allowed disabled:opacity-30"
-  >
-    {loading
-      ? "Rüyan inceleniyor..."
-      : "Rüyamı Yorumla"}
-  </button>
-</div>
+                    <button
+                      onClick={analyzeDream}
+                      disabled={!dream.trim() || loading}
+                      className="rounded-full bg-[#292621] px-6 py-3 text-sm text-white transition hover:bg-[#403b35] disabled:cursor-not-allowed disabled:opacity-30"
+                    >
+                      {loading
+                        ? "Rüyan inceleniyor..."
+                        : "Rüyamı Yorumla"}
+                    </button>
+                  </div>
                 </div>
               </div>
 
@@ -300,6 +357,7 @@ export default function Home() {
               {result && (
                 <section className="mt-8 w-full max-w-5xl rounded-[28px] border border-[#d9d1c7] bg-[#faf8f4] p-7 text-left shadow-[0_20px_60px_rgba(70,60,50,0.05)] sm:p-10">
 
+                  {/* RESULT HEADER */}
                   <div className="mb-7 flex items-center gap-3">
                     <div className="h-px w-8 bg-[#9b9186]" />
 
@@ -308,15 +366,130 @@ export default function Home() {
                     </span>
                   </div>
 
-                  <div className="text-[15px] leading-8 text-[#454039]">
-                    {formatResult(result)}
-                  </div>
+                  {/* FIRST PARAGRAPH */}
+                  {(() => {
+                    const paragraphs = result
+                      .split(/\n\s*\n/)
+                      .map((p) => p.trim())
+                      .filter(Boolean);
+
+                    const firstParagraph = paragraphs[0] || "";
+
+                    return firstParagraph ? (
+                      <div className="text-[15px] leading-8 text-[#454039]">
+                        {formatResult(firstParagraph)}
+                      </div>
+                    ) : null;
+                  })()}
+
+                  {/* LUCKY NUMBERS */}
+                  {dreamMeta && dreamMeta.luckyNumbers && dreamMeta.luckyNumbers.length > 0 && (
+                    <div className="mt-8 overflow-hidden rounded-[22px] border border-[#e2dbd2] bg-[#f3eee7]">
+
+                      <div className="border-b border-[#ded6cc] px-6 py-5">
+                        <p className="text-[10px] uppercase tracking-[0.22em] text-[#8a8177]">
+                          ✨ Rüyanızın şanslı sayıları
+                        </p>
+                      </div>
+
+                      <div className="grid grid-cols-3 divide-x divide-[#ded6cc]">
+                        {dreamMeta.luckyNumbers.map((item) => (
+                          <div
+                            key={item.number}
+                            className="flex min-h-[115px] flex-col items-center justify-center px-3 py-5 text-center"
+                          >
+                            <span className="text-[28px] font-medium tracking-tight text-[#403b35]">
+                              {item.number}
+                            </span>
+
+                            <div className="mt-2 flex flex-wrap justify-center gap-x-2 gap-y-1 text-[11px] text-[#8a8177]">
+                              {item.themes.map((theme, index) => (
+                                <span key={`${item.number}-${theme}`}>
+                                  {theme}
+                                  {index < item.themes.length - 1 && (
+                                    <span className="ml-2 text-[#aaa198]">
+                                      ·
+                                    </span>
+                                  )}
+                                </span>
+                              ))}
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+
+                    </div>
+                  )}
+
+                  {/* THEMES + DIRECTION */}
+                  {dreamMeta && (
+                    <div className="mt-5 overflow-hidden rounded-[22px] border border-[#e2dbd2] bg-[#f3eee7]">
+
+                      <div className="grid grid-cols-1 divide-y divide-[#ded6cc] sm:grid-cols-2 sm:divide-x sm:divide-y-0">
+
+                        {/* THEMES */}
+                        <div className="px-6 py-5">
+                          <p className="mb-2 text-[10px] uppercase tracking-[0.22em] text-[#8a8177]">
+                            Baskın temalar
+                          </p>
+
+                          <div className="flex flex-wrap gap-x-2 gap-y-1 text-[14px] text-[#403b35]">
+                            {dreamMeta.themes.map((theme, index) => (
+                              <span key={theme}>
+                                {theme}
+                                {index < dreamMeta.themes.length - 1 && (
+                                  <span className="ml-2 text-[#aaa198]">
+                                    ·
+                                  </span>
+                                )}
+                              </span>
+                            ))}
+                          </div>
+                        </div>
+
+                        {/* DIRECTION */}
+                        <div className="px-6 py-5">
+                          <p className="mb-2 text-[10px] uppercase tracking-[0.22em] text-[#8a8177]">
+                            Rüyanın ana yönü
+                          </p>
+
+                          <p className="text-[14px] leading-6 text-[#403b35]">
+                            {dreamMeta.direction}
+                          </p>
+                        </div>
+
+                      </div>
+                    </div>
+                  )}
+
+                  {/* REMAINING ANALYSIS */}
+                  {(() => {
+                    const remainingAnalysis = result
+                      .split(/\n\s*\n/)
+                      .map((p) => p.trim())
+                      .filter(Boolean)
+                      .slice(1)
+                      .join("\n\n");
+
+                    if (!remainingAnalysis) {
+                      return null;
+                    }
+
+                    return (
+                      <div className="mt-8 text-[15px] leading-8 text-[#454039]">
+                        {formatResult(remainingAnalysis)}
+                      </div>
+                    );
+                  })()}
+
                 </section>
               )}
+
             </section>
 
             {/* FOOTER */}
             <footer className="mt-auto pb-5 pt-6 text-center text-xs text-[#aaa198]">
+
               <a
                 href="/ruyalar"
                 className="transition hover:text-[#686158]"
@@ -368,6 +541,7 @@ export default function Home() {
               >
                 Kullanım Koşulları
               </a>
+
             </footer>
           </>
         )}
