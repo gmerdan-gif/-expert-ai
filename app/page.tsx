@@ -112,7 +112,7 @@ export default function Home() {
       const decoder = new TextDecoder();
 
       let accumulated = "";
-      let buffer = "";
+      let streamBuffer = "";
       let metaParsed = false;
 
       while (true) {
@@ -120,17 +120,23 @@ export default function Home() {
 
         if (done) break;
 
-        buffer += decoder.decode(value, { stream: true });
+        streamBuffer += decoder.decode(value, { stream: true });
 
+        // Metadata bloğunu stream'in kaç parçaya bölündüğünden
+        // bağımsız olarak yakala.
         if (!metaParsed) {
-          const metaStart = buffer.indexOf("__ONEIROS_META__");
-          const metaEnd = buffer.indexOf("__ONEIROS_META_END__");
+          const metaStart = streamBuffer.indexOf("__ONEIROS_META__");
+          const metaEnd = streamBuffer.indexOf("__ONEIROS_META_END__");
 
-          if (metaStart !== -1 && metaEnd !== -1 && metaEnd > metaStart) {
+          if (
+            metaStart !== -1 &&
+            metaEnd !== -1 &&
+            metaEnd > metaStart
+          ) {
             const jsonStart =
               metaStart + "__ONEIROS_META__".length;
 
-            const jsonText = buffer
+            const jsonText = streamBuffer
               .slice(jsonStart, metaEnd)
               .trim();
 
@@ -144,30 +150,39 @@ export default function Home() {
                 Array.isArray(parsedMeta.luckyNumbers)
               ) {
                 setDreamMeta(parsedMeta);
+                metaParsed = true;
               }
             } catch (error) {
               console.error("ONEIROS metadata parse error:", error);
             }
 
-            buffer = buffer.slice(
+            // Metadata'yı stream'den tamamen çıkar.
+            streamBuffer = streamBuffer.slice(
               metaEnd + "__ONEIROS_META_END__".length
             );
+          }
 
-            metaParsed = true;
+          // Metadata henüz tamamlanmadıysa hiçbir şeyi
+          // kullanıcıya render etme.
+          if (!metaParsed) {
+            continue;
           }
         }
 
-        if (metaParsed && buffer) {
-          accumulated += buffer;
-          buffer = "";
+        // Metadata çıkarıldıktan sonra yalnızca gerçek
+        // rüya yorumunu result'a aktar.
+        if (streamBuffer) {
+          accumulated += streamBuffer;
+          streamBuffer = "";
           setResult(accumulated);
         }
       }
 
-      buffer += decoder.decode();
+      // Stream'in sonundaki olası UTF-8 karakterlerini tamamla.
+      streamBuffer += decoder.decode();
 
-      if (metaParsed && buffer) {
-        accumulated += buffer;
+      if (metaParsed && streamBuffer) {
+        accumulated += streamBuffer;
         setResult(accumulated);
       }
 
