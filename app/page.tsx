@@ -315,41 +315,6 @@ export default function Home() {
                 kişisel bir perspektiften yorumlar.
               </p>
 
-              {/* SEO INTRODUCTION */}
-              <section className="mt-10 w-full max-w-3xl text-left">
-                <h2 className="text-xl font-light tracking-wide text-[#403b35]">
-                  Psikolojik rüya yorumu
-                </h2>
-
-                <p className="mt-3 text-sm leading-7 text-[#817970]">
-                  Rüyalar bazen günlük yaşamımızdaki duyguları, ilişkileri,
-                  kaygıları ve değişimleri farklı imgelerle ifade eder. INUS,
-                  rüyanı yalnızca tek tek sembollere göre değil, rüyanın
-                  bütünü, duygusal atmosferi ve anlattığın kişisel bağlam
-                  üzerinden psikolojik bir perspektifle ele alır.
-                </p>
-
-                <p className="mt-3 text-sm leading-7 text-[#817970]">
-                  Bir rüya sembolünün anlamı herkes için aynı değildir.
-                  Rüyandaki kişiler, mekânlar, olaylar ve hisler senin
-                  deneyimlerinle birlikte değerlendirilir. Bu nedenle INUS,
-                  hazır rüya sözlükleri yerine rüyanın kendisindeki ilişkileri
-                  ve kişisel çağrışımları incelemeye odaklanır.
-                </p>
-
-                <div className="mt-4 flex flex-wrap gap-x-4 gap-y-2 text-xs text-[#8a8177]">
-                  <a href="/ruyalar" className="transition hover:text-[#403b35]">
-                    Rüya Kütüphanesi
-                  </a>
-                  <a href="/ruyalar/semboller" className="transition hover:text-[#403b35]">
-                    Rüya Sembolleri
-                  </a>
-                  <a href="/hakkimizda" className="transition hover:text-[#403b35]">
-                    INUS Hakkında
-                  </a>
-                </div>
-              </section>
-
               {/* DREAM CARD */}
               <div className="mt-7 w-full max-w-5xl">
                 <div className="rounded-[28px] border border-[#d9d1c7] bg-[#faf8f4] p-2 shadow-[0_20px_60px_rgba(70,60,50,0.06)]">
