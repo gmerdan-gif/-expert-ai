@@ -320,7 +320,7 @@ export const batchH = [
       { question: "Uzay rüyası kötüye mi işaret eder?", answer: "Hayır. Bir sembolün olumlu veya olumsuz anlamı rüyanın bağlamına ve kişinin deneyimine göre değişebilir." },
     ],
     sources: [s.schredl2010, s.blagrove2019],
-    relatedSlugs: [],
+    relatedSlugs: ["gezegen"],
   }),
         createSymbol({
     slug: "gül",
@@ -535,58 +535,102 @@ export const batchH = [
     relatedSlugs: [],
   }),
   createSymbol({
-    slug: "bugday",
-    title: "Buğday",
-    shortDescription: "Rüyada buğday görmek farklı duygusal, psikolojik ve sembolik çağrışımlar taşıyabilir. Anlam, rüyanın bağlamına ve kişinin kişisel deneyimlerine bağlıdır.",
-    positiveAssociations: [
-      "Keşif ve farkındalık",
-      "Değişim ve gelişim",
-      "Yeni bir bakış açısı",
-      "Kişisel güçlenme",
-    ],
-    challengingAssociations: [
-      "Belirsizlik ve kaygı",
-      "Kontrol kaybı hissi",
-      "Bilinmeyenle karşılaşma",
-      "Çatışma veya engellenme",
-    ],
-    contextDependentAssociations: [
-      "Buğday nasıl görünüyordu?",
-      "Rüyada buğday ile ne yapılıyordu?",
-      "Rüyada hangi duygular hissedildi?",
-      "Gerçek yaşamda buğday ile kişisel ilişkiniz nedir?",
-    ],
-    commonVariations: [
-      "Rüyada buğday görmek",
-      "Buğday ile karşılaşmak",
-      "Buğday görmekten korkmak",
-      "Buğday ile bir yere gitmek",
-      "Buğday ile ilgili olağan dışı bir durum yaşamak",
-    ],
-    psychology: "Buğday rüyası, kişinin uyanık yaşamındaki deneyimler, duygular ve kişisel çağrışımlarla bağlantılı olabilir. Rüya içeriğine tek başına evrensel bir anlam yüklemek mümkün değildir.",
-    jungian: "Jungcu yaklaşımda buğday, rüyanın bütünündeki sembolik örgü içinde bilinçdışı süreçlerle ilişkilendirilebilir. Ancak sembolün anlamı kişisel bağlamdan bağımsız belirlenemez.",
-    islamicTradition: "İslami rüya yorum geleneklerinde buğday farklı kaynaklarda farklı şekillerde yorumlanabilir. Bu yorumlar kesin hüküm veya gelecek tahmini olarak değerlendirilmemelidir.",
-    christianTraditions: "Hristiyan geleneklerinde buğday sembolizmi metinlere, mezheplere ve yorum geleneğine göre değişebilir. Tek bir evrensel anlam bulunmaz.",
-    jewishTraditions: "Yahudi geleneklerinde buğday sembolik olarak farklı metinsel ve kültürel bağlamlarda ele alınabilir. Yorum gelenek içinde değişkenlik gösterir.",
-    buddhistEasternApproaches: "Budist ve Doğu yaklaşımlarında buğday farklı felsefi veya sembolik çerçevelerde değerlendirilebilir. Bunlar modern psikolojik açıklamalardan farklıdır.",
-    spiritualApproaches: "Modern spiritüel yaklaşımlarda buğday sezgisel veya sembolik anlamlarla ilişkilendirilebilir. Bu yorumların bilimsel olarak doğrulanmış evrensel karşılıkları yoktur.",
-    comparisonTable: [
-      { approach: "Modern psikoloji", interpretation: "Kişisel deneyim, duygu ve çağrışımlar", type: "Araştırma temelli / bireysel" },
-      { approach: "Jungcu", interpretation: "Bilinçdışı ve sembolik süreçler", type: "Psikolojik teori" },
-      { approach: "İslami gelenek", interpretation: "Geleneksel sembolik yorumlar", type: "Dini/kültürel gelenek" },
-      { approach: "Spiritüel", interpretation: "Sezgisel ve sembolik çağrışımlar", type: "Sezgisel çerçeve" },
-    ],
-    commonGround: "Farklı yaklaşımlar, rüya sembollerinin bağlamdan bağımsız tek bir anlama indirgenemeyeceği konusunda örtüşebilir.",
-    differences: "Psikolojik yaklaşımlar kişisel deneyim ve duyguları öne çıkarırken, dini ve spiritüel gelenekler kendi sembolik çerçevelerini kullanır.",
-    inusAssessment: "Buğday rüyası, hazır bir sözlük anlamıyla değil, rüyanın bütünü, rüyadaki duygu ve kişinin gerçek yaşamındaki kişisel çağrışımları üzerinden değerlendirilmelidir.",
-    faq: [
-      { question: "Rüyada buğday görmek ne anlama gelir?", answer: "Tek bir evrensel anlamı yoktur. Rüyanın bağlamı, kişinin duyguları ve buğday ile kişisel ilişkisi belirleyicidir." },
-      { question: "Buğday rüyası geleceği haber verir mi?", answer: "Rüyaların geleceği güvenilir biçimde öngördüğünü gösteren bilimsel kanıt bulunmamaktadır." },
-      { question: "Buğday rüyası kötüye mi işaret eder?", answer: "Hayır. Bir sembolün olumlu veya olumsuz anlamı rüyanın bağlamına ve kişinin deneyimine göre değişebilir." },
-    ],
-    sources: [s.schredl2010, s.blagrove2019],
-    relatedSlugs: [],
-  }),
+  slug: "bugday",
+  title: "Buğday",
+  shortDescription:
+    "Rüyada buğday görmek; bereket, üretkenlik, emek, geçim ve büyüme gibi temalarla ilişkilendirilebilir. Ancak anlam, rüyanın bağlamına ve kişinin buğdayla kişisel ilişkisine bağlıdır.",
+  positiveAssociations: [
+    "Bereket ve üretkenlik",
+    "Emek ve karşılığını alma",
+    "Geçim ve maddi güvenlik",
+    "Büyüme ve olgunlaşma",
+  ],
+  challengingAssociations: [
+    "Kıtlık veya kaybetme korkusu",
+    "Geçim kaygısı",
+    "Emeklerin karşılıksız kalması",
+    "Yetersizlik veya verimsizlik hissi",
+  ],
+  contextDependentAssociations: [
+    "Buğday nasıl görünüyordu?",
+    "Rüyada buğday ile ne yapılıyordu?",
+    "Buğdayla ilgili hangi duygu hissedildi?",
+    "Gerçek yaşamda buğday ile kişisel ilişkiniz nedir?",
+  ],
+  commonVariations: [
+    "Rüyada buğday tarlası görmek",
+    "Buğday biçmek veya hasat etmek",
+    "Buğday ekmek",
+    "Buğday toplamak",
+    "Buğday satın almak veya satmak",
+    "Çuvallarda veya depoda buğday görmek",
+  ],
+  psychology:
+    "Buğday rüyası, kişinin uyanık yaşamındaki emek, geçim, üretkenlik, güvenlik veya büyüme deneyimleriyle bağlantılı olabilir. Evrensel ve tek bir psikolojik anlamı olduğu söylenemez.",
+  jungian:
+    "Jungcu açıdan buğday; büyüme, beslenme, üretkenlik ve bilinçdışında olgunlaşan bir potansiyelin sembolik ifadesi olarak düşünülebilir. Ekim ve hasat gibi eylemler gelişimin farklı aşamalarını çağrıştırabilir. Ancak anlam rüyanın kişisel bağlamına bağlıdır.",
+  islamicTradition:
+    "İslami rüya yorum geleneklerinde buğday farklı kaynaklarda bereket, geçim veya ürün gibi temalarla ilişkilendirilebilir. Bu yorumlar kesin hüküm veya gelecek tahmini olarak değerlendirilmemelidir.",
+  christianTraditions:
+    "Hristiyan geleneklerinde buğday; metinlere ve yorum geleneğine göre bereket, hasat, yaşam ve ruhsal sembolizmle ilişkilendirilebilir. Tek bir evrensel yorum bulunmaz.",
+  jewishTraditions:
+    "Yahudi geleneklerinde buğday, tarım, ürün ve geçim bağlamlarında sembolik anlamlar taşıyabilir. Yorum, metinsel ve kültürel bağlama göre değişir.",
+  buddhistEasternApproaches:
+    "Budist ve Doğu yaklaşımlarında buğday farklı kültürel ve sembolik çerçevelerde değerlendirilebilir. Bu yorumlar modern psikolojik açıklamalardan farklıdır.",
+  spiritualApproaches:
+    "Modern spiritüel yaklaşımlarda buğday genellikle bereket, üretkenlik, büyüme ve yaşam enerjisi gibi sembolik temalarla ilişkilendirilebilir. Bunların evrensel olarak doğrulanmış anlamları yoktur.",
+  comparisonTable: [
+    {
+      approach: "Modern psikoloji",
+      interpretation:
+        "Kişisel deneyim, duygu, geçim ve üretkenlik çağrışımları",
+      type: "Araştırma temelli / bireysel",
+    },
+    {
+      approach: "Jungcu",
+      interpretation:
+        "Büyüme, üretkenlik ve bilinçdışında olgunlaşan potansiyel",
+      type: "Psikolojik teori",
+    },
+    {
+      approach: "İslami gelenek",
+      interpretation:
+        "Bereket, ürün ve geçimle ilişkili geleneksel sembolizm",
+      type: "Dini/kültürel gelenek",
+    },
+    {
+      approach: "Spiritüel",
+      interpretation:
+        "Bereket, yaşam ve üretkenlik",
+      type: "Sezgisel çerçeve",
+    },
+  ],
+  commonGround:
+    "Farklı yaklaşımlar, buğdayı yaşam, üretim ve beslenme gibi somut deneyimlerle ilişkilendirebilir; ancak sembolün anlamı bağlama göre değişir.",
+  differences:
+    "Psikolojik yaklaşımlar kişisel deneyim ve duyguları öne çıkarırken, dini ve spiritüel gelenekler kendi sembolik çerçevelerini kullanır.",
+  inusAssessment:
+    "Buğday rüyası, hazır bir sözlük anlamıyla değil; rüyanın bütünü, rüyadaki duygu ve kişinin gerçek yaşamındaki buğday, emek, üretim ve geçim çağrışımları üzerinden değerlendirilmelidir.",
+  faq: [
+    {
+      question: "Rüyada buğday görmek ne anlama gelir?",
+      answer:
+        "Tek bir evrensel anlamı yoktur. Rüyanın bağlamı, kişinin duyguları ve buğdayla kişisel ilişkisi belirleyicidir.",
+    },
+    {
+      question: "Buğday rüyası geleceği haber verir mi?",
+      answer:
+        "Rüyaların geleceği güvenilir biçimde öngördüğünü gösteren bilimsel kanıt bulunmamaktadır.",
+    },
+    {
+      question: "Buğday rüyası kötüye mi işaret eder?",
+      answer:
+        "Hayır. Bir sembolün olumlu veya olumsuz anlamı rüyanın bağlamına ve kişinin deneyimine göre değişebilir.",
+    },
+  ],
+  sources: [s.schredl2010, s.blagrove2019],
+  relatedSlugs: [],
+}),
   createSymbol({
     slug: "tarla",
     title: "Tarla",

@@ -44,8 +44,19 @@ export type DreamSymbol = {
 export { SHARED_SOURCES, DEFAULT_SOURCES } from "./dream-symbol-sources";
 
 import { dreamSymbolEntries } from "./dream-symbol-entries";
+import { buildRelatedSymbolMap } from "./dream-symbol-relations";
 
 export const dreamSymbols: DreamSymbol[] = dreamSymbolEntries;
+
+/*
+ * Automatically calculated semantic relationships.
+ *
+ * Manually defined relatedSlugs always take priority.
+ * For symbols without manually defined relationships, or when
+ * fewer than four manual relationships exist, the similarity
+ * map supplies the remaining related symbols.
+ */
+const automaticRelatedSymbolMap = buildRelatedSymbolMap(dreamSymbols, 4);
 
 export function getAllDreamSymbols(): DreamSymbol[] {
   return dreamSymbols;
@@ -59,21 +70,22 @@ export function getRelatedDreamSymbols(
   symbol: DreamSymbol,
   limit = 4,
 ): DreamSymbol[] {
-  const related = symbol.relatedSlugs
+  const manualRelated = symbol.relatedSlugs
     .map((relatedSlug) => getDreamSymbolBySlug(relatedSlug))
     .filter((item): item is DreamSymbol => item !== undefined);
 
-  if (related.length >= limit) {
-    return related.slice(0, limit);
-  }
+  const automaticRelated = (automaticRelatedSymbolMap.get(symbol.slug) ?? [])
+    .map((relatedSlug) => getDreamSymbolBySlug(relatedSlug))
+    .filter((item): item is DreamSymbol => item !== undefined);
 
-  const fallback = dreamSymbols
-    .filter(
+  const combined = [
+    ...manualRelated,
+    ...automaticRelated.filter(
       (item) =>
         item.slug !== symbol.slug &&
-        !related.some((relatedItem) => relatedItem.slug === item.slug),
-    )
-    .slice(0, limit - related.length);
+        !manualRelated.some((manual) => manual.slug === item.slug),
+    ),
+  ];
 
-  return [...related, ...fallback];
+  return combined.slice(0, limit);
 }
