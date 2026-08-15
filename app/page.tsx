@@ -520,7 +520,7 @@ export default function Home() {
             </section>
 
             {/* FOOTER */}
-            <footer className="mt-auto pb-5 pt-6 text-center text-xs text-[#aaa198]">
+            <footer className="pb-5 pt-8 text-center text-xs text-[#aaa198]">
 
               <a
                 href="/ruyalar"
