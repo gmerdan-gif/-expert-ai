@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://in-us.app"),
+  metadataBase: new URL("https://www.in-us.app"),
 
   title: {
     default: "INUS — Rüya Yorumu",
@@ -22,15 +22,15 @@ export const metadata: Metadata = {
   },
 
   description:
-    "Rüyanı kendi kelimelerinle anlat. INUS, Jungcu psikoloji yaklaşımıyla rüyandaki sembolleri, duyguları ve ilişkileri kişisel bir perspektiften yorumlar.",
+    "Rüyanı kendi kelimelerinle anlat. INUS, psikolojik bir yaklaşımla rüyandaki sembolleri, duyguları ve ilişkileri kişisel bir perspektiften yorumlar.",
 
   alternates: {
-    canonical: "/",
+    canonical: "https://www.in-us.app/",
   },
 
   openGraph: {
     type: "website",
-    url: "https://in-us.app",
+    url: "https://www.in-us.app",
     siteName: "INUS",
     title: "INUS — Rüya Yorumu",
     description:
@@ -62,6 +62,7 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <head>
+        <link rel="apple-touch-icon" href="/icon.png" />
         <meta
           name="google-adsense-account"
           content="ca-pub-5926030217948912"
