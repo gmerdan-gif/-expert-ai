@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://www.in-us.app"),
 
   title: {
-    default: "INUS — Rüya Yorumu",
+    default: "INUS — Psikolojik Rüya Yorumu ve Analizi",
     template: "%s | INUS",
   },
 
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     type: "website",
     url: "https://www.in-us.app",
     siteName: "INUS",
-    title: "INUS — Rüya Yorumu",
+    title: "INUS — Psikolojik Rüya Yorumu ve Analizi",
     description:
       "Rüyandaki sembolleri, duyguları ve ilişkileri kişisel bir perspektiften keşfet.",
     locale: "tr_TR",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary",
-    title: "INUS — Rüya Yorumu",
+    title: "INUS — Psikolojik Rüya Yorumu ve Analizi",
     description:
       "Rüyanı kendi kelimelerinle anlat. INUS, rüyanı psikolojik bir perspektiften yorumlar.",
   },
@@ -62,6 +62,32 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "WebSite",
+                  "@id": "https://www.in-us.app/#website",
+                  "url": "https://www.in-us.app/",
+                  "name": "INUS",
+                  "description":
+                    "Psikolojik rüya yorumu ve rüya analizi platformu.",
+                  "inLanguage": "tr-TR"
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://www.in-us.app/#organization",
+                  "name": "INUS",
+                  "url": "https://www.in-us.app/"
+                }
+              ]
+            })
+          }}
+        />
+
         <link rel="apple-touch-icon" href="/icon.png" />
         <meta
           name="google-adsense-account"
@@ -72,7 +98,7 @@ export default function RootLayout({
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5926030217948912"
           crossOrigin="anonymous"
-          strategy="beforeInteractive"
+          strategy="afterInteractive"
         />
       </head>
 
