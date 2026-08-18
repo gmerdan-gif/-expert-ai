@@ -312,7 +312,7 @@ export default function Home() {
               <p className="mt-3 max-w-xl text-sm leading-6 text-[#817970] sm:text-[15px]">
                 Rüyanı kendi kelimelerinle anlat. INUS, psikolojik bir
                 yaklaşımla rüyandaki sembolleri, duyguları ve ilişkileri
-                kişisel bir perspektiften yorumlar.
+                rüyayı gören kişinin perspektifinden yorumlar.
               </p>
 
               {/* DREAM CARD */}
@@ -401,7 +401,7 @@ export default function Home() {
                     </span>
                   </div>
 
-                  {/* FIRST PARAGRAPH */}
+                  {/* FIRST PARAGRAPH + CONCLUSION */}
                   {(() => {
                     const paragraphs = result
                       .split(/\n\s*\n/)
@@ -409,12 +409,25 @@ export default function Home() {
                       .filter(Boolean);
 
                     const firstParagraph = paragraphs[0] || "";
+                    const conclusionParagraph =
+                      paragraphs.length > 1 ? paragraphs[paragraphs.length - 1] : "";
 
-                    return firstParagraph ? (
-                      <div className="text-[15px] leading-8 text-[#454039]">
-                        {formatResult(firstParagraph)}
-                      </div>
-                    ) : null;
+                    return (
+                      <>
+                        {firstParagraph && (
+                          <div className="text-[15px] leading-8 text-[#454039]">
+                            {formatResult(firstParagraph)}
+                          </div>
+                        )}
+
+                        {conclusionParagraph &&
+                          conclusionParagraph !== firstParagraph && (
+                            <div className="mt-5 text-[15px] leading-8 text-[#454039]">
+                              {formatResult(conclusionParagraph)}
+                            </div>
+                          )}
+                      </>
+                    );
                   })()}
 
                   {/* LUCKY NUMBERS */}
@@ -499,21 +512,38 @@ export default function Home() {
 
                   {/* REMAINING ANALYSIS */}
                   {(() => {
-                    const remainingAnalysis = result
+                    const paragraphs = result
                       .split(/\n\s*\n/)
                       .map((p) => p.trim())
-                      .filter(Boolean)
-                      .slice(1)
+                      .filter(Boolean);
+
+                    const middleAnalysis = paragraphs
+                      .slice(1, -1)
+                      .filter(
+                        (p) =>
+                          p.trim().toLowerCase() !==
+                          "rüyanın sende açığa çıkardıkları"
+                      )
                       .join("\n\n");
 
-                    if (!remainingAnalysis) {
+                    if (!middleAnalysis) {
                       return null;
                     }
 
                     return (
-                      <div className="mt-8 text-[15px] leading-8 text-[#454039]">
-                        {formatResult(remainingAnalysis)}
-                      </div>
+                      <>
+                        <div className="mt-8 flex items-center gap-3">
+                          <div className="h-px w-8 bg-[#9b9186]" />
+
+                          <span className="text-xs uppercase tracking-[0.25em] text-[#81786e]">
+                            Rüyanın sende açığa çıkardıkları
+                          </span>
+                        </div>
+
+                        <div className="mt-7 text-[15px] leading-8 text-[#454039]">
+                          {formatResult(middleAnalysis)}
+                        </div>
+                      </>
                     );
                   })()}
 
