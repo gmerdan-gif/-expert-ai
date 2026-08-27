@@ -27,14 +27,7 @@ export const batchA = [
       "Kişinin yılanlarla gerçek yaşamdaki deneyimi",
       "Kültürel arka plan (yılanın kutsal veya tehlikeli sayıldığı gelenekler)",
     ],
-    commonVariations: [
-      "Rüyada yılan görmek",
-      "Yılan tarafından ısırılmak",
-      "Yılanı öldürmek veya yakalamak",
-      "Yılanın evde veya yatakta olması",
-      "Birden fazla yılan görmek",
-      "Yılanın deri değiştirmesi",
-    ],
+    commonVariations: ["Rüyada yılan görmek", "Yılan tarafından ısırılmak", "Yılanı öldürmek veya yakalamak", "Yılanın evde veya yatakta olması", "Birden fazla yılan görmek", "Yılanın deri değiştirmesi"],
     psychology:
       "Modern rüya araştırmaları yılan gibi belirli sembollere evrensel anlam atayan doğrulanmış bir sistem bulmamaktadır. Schredl (2010) ve Blagrove vd. (2019), rüya içeriğinin uyanık yaşam deneyimleri, duygular ve kişisel çağrışımlarla süreklilik gösterebileceğini; ancak bunun otomatik yorum anlamına gelmediğini vurgular. Yılan rüyası, kişinin tehdit algısı, cinsellik, kontrol veya dönüşümle ilgili yaşam deneyimleriyle ilişkili olabilir — ancak bu ilişki kişiden kişiye değişir.",
     jungian:

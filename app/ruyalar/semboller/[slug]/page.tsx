@@ -1,58 +1,50 @@
 import Link from "next/link";
-import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { SymbolArticle } from "@/components/dream-symbols/SymbolArticle";
 import {
-  getAllDreamSymbols,
   getDreamSymbolBySlug,
   getRelatedDreamSymbols,
 } from "@/data/dream-symbols";
+import { SymbolArticle } from "@/components/dream-symbols/SymbolArticle";
+
+import { dreamPhrase } from "@/data/dream-phrase";
 
 type PageProps = {
-  params: Promise<{ slug: string }>;
+  params: Promise<{
+    slug: string;
+  }>;
 };
 
-export function generateStaticParams() {
-  return getAllDreamSymbols().map((symbol) => ({
+export async function generateStaticParams() {
+  const { getAllDreamSymbols } = await import("@/data/dream-symbols");
+
+  const symbols = getAllDreamSymbols();
+
+  return symbols.map((symbol) => ({
     slug: symbol.slug,
   }));
 }
 
-export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+export async function generateMetadata({ params }: PageProps) {
   const { slug } = await params;
   const symbol = getDreamSymbolBySlug(slug);
 
   if (!symbol) {
-    return {
-      title: "Sembol bulunamadı",
-      robots: { index: false, follow: false },
-    };
+    return {};
   }
 
-  const title = `Rüyada ${symbol.title} Görmek`;
-  const description = symbol.shortDescription;
-  const canonical = `/ruyalar/semboller/${symbol.slug}`;
+  const phrase = dreamPhrase(symbol.title);
 
   return {
-    title,
-    description,
-    alternates: { canonical },
-    openGraph: {
-      title: `${title} | INUS`,
-      description,
-      url: `https://in-us.app${canonical}`,
-      type: "article",
-      locale: "tr_TR",
-    },
-    robots: {
-      index: true,
-      follow: true,
-    },
+    title: `${phrase} ne anlama gelir? | INUS`,
+    description: symbol.shortDescription,
   };
 }
 
-export default async function DreamSymbolPage({ params }: PageProps) {
+export default async function DreamSymbolPage({
+  params,
+}: PageProps) {
   const { slug } = await params;
+
   const symbol = getDreamSymbolBySlug(slug);
 
   if (!symbol) {
@@ -60,21 +52,22 @@ export default async function DreamSymbolPage({ params }: PageProps) {
   }
 
   const relatedSymbols = getRelatedDreamSymbols(symbol);
+
   const pageUrl = `https://in-us.app/ruyalar/semboller/${symbol.slug}`;
 
   const articleJsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: `Rüyada ${symbol.title} Görmek`,
+    headline: dreamPhrase(symbol.title),
     description: symbol.shortDescription,
     url: pageUrl,
-    inLanguage: "tr",
-    author: { "@type": "Organization", name: "INUS" },
-    publisher: { "@type": "Organization", name: "INUS" },
-    isPartOf: {
-      "@type": "WebSite",
+    author: {
+      "@type": "Organization",
       name: "INUS",
-      url: "https://in-us.app",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "INUS",
     },
   };
 
@@ -110,7 +103,7 @@ export default async function DreamSymbolPage({ params }: PageProps) {
       {
         "@type": "ListItem",
         position: 3,
-        name: `Rüyada ${symbol.title} görmek`,
+        name: dreamPhrase(symbol.title),
         item: pageUrl,
       },
     ],
@@ -120,15 +113,23 @@ export default async function DreamSymbolPage({ params }: PageProps) {
     <main className="min-h-screen bg-[#f5f1ea] text-[#24221f]">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(articleJsonLd),
+        }}
       />
+
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(faqJsonLd),
+        }}
       />
+
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(breadcrumbJsonLd),
+        }}
       />
 
       <div className="mx-auto w-full max-w-4xl px-5 sm:px-8">
@@ -139,6 +140,7 @@ export default async function DreamSymbolPage({ params }: PageProps) {
           >
             INUS
           </Link>
+
           <Link
             href="/ruyalar/semboller"
             className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
@@ -151,14 +153,24 @@ export default async function DreamSymbolPage({ params }: PageProps) {
           className="pt-10 text-xs text-[#8a8177]"
           aria-label="Breadcrumb"
         >
-          <Link href="/ruyalar" className="hover:text-[#24221f]">
+          <Link
+            href="/ruyalar"
+            className="hover:text-[#24221f]"
+          >
             Rüyalar
           </Link>
+
           <span className="mx-2">/</span>
-          <Link href="/ruyalar/semboller" className="hover:text-[#24221f]">
+
+          <Link
+            href="/ruyalar/semboller"
+            className="hover:text-[#24221f]"
+          >
             Semboller
           </Link>
+
           <span className="mx-2">/</span>
+
           <span>{symbol.title}</span>
         </nav>
 
@@ -166,12 +178,16 @@ export default async function DreamSymbolPage({ params }: PageProps) {
           <p className="mb-5 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
             RÜYA SEMBOLÜ
           </p>
+
           <h1 className="max-w-3xl text-4xl font-light tracking-tight sm:text-5xl">
-            Rüyada {symbol.title} görmek
+            {dreamPhrase(symbol.title)}
           </h1>
         </header>
 
-        <SymbolArticle symbol={symbol} relatedSymbols={relatedSymbols} />
+        <SymbolArticle
+          symbol={symbol}
+          relatedSymbols={relatedSymbols}
+        />
 
         <footer className="pb-8 text-center text-xs text-[#aaa198]">
           INUS · Rüya sembolleri rehberi

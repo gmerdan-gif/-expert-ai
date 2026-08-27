@@ -8,7 +8,7 @@ const symbols = [
   ["klavye","Klavye"],["komodin","Komodin"],["koltuk","Koltuk"],["kavanoz","Kavanoz"],
   ["kibrit","Kibrit"],["kestane","Kestane"],["kiraz","Kiraz"],["kivi","Kivi"],
   ["karpuz","Karpuz"],["kavun","Kavun"],["kahve","Kahve"],["kahve_fincani","Kahve Fincanı"],
-  ["kek","Kek"],["kurabiye","Kurabiye"],["kestane","Kestane Ağacı"],
+  ["kek","Kek"],["kurabiye","Kurabiye"],
   ["kirmizi_gul","Kırmızı Gül"],["koza","Koza"],["koz","Koz"],
   ["kugu","Kuğu"],["kum_saati","Kum Saati"],["kupa","Kupa"],
   ["kumbara","Kumbara"],["kurbaga","Kurbağa"],["kertenkele","Kertenkele"],
@@ -18,7 +18,7 @@ const symbols = [
   ["tavuk","Tavuk"],["civciv","Civciv"],["kozalak","Kozalak"],
   ["kestane_agaci","Kestane Ağacı"],["kuru_yaprak","Kuru Yaprak"],
   ["kamyon","Kamyon"],["kamyonet","Kamyonet"],["karavan","Karavan"],
-  ["kano","Kano"],["kayik","Kayık"],["kaykay","Kaykay"],
+  ["kano","Kano"],["kaykay","Kaykay"],
   ["kros","Koşu"],["kamp","Kamp"],["kamp_cadiri","Kamp Çadırı"],
   ["kayip_esya","Kayıp Eşya"],["kapi_zili","Kapı Zili"],["kumbara_kirmak","Kumbara Kırmak"]
 ];

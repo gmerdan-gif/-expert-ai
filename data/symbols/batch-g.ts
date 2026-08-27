@@ -69,7 +69,7 @@ export const batchG = [
       { question: "Dağınık mutfak görmek ne anlama gelir?", answer: "Gündelik yük, aile gerilimi veya kontrol ihtiyacıyla ilişkilendirilebilir." },
     ],
     sources: [s.schredl2010, s.blagrove2019],
-    relatedSlugs: ["ev", "yemek"],
+    relatedSlugs: ["yemek_yapmak", "mutfakta_yemek_yapmak"],
   }),
 
   createSymbol({

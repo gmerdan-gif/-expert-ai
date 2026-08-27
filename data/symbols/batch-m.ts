@@ -14,14 +14,14 @@ const symbols = [
   ["meydan","Meydan"],["meydan_saat","Meydan Saati"],["metro","Metro"],
   ["metro_istasyonu","Metro İstasyonu"],["meteoroloji","Meteoroloji"],
   ["mikrofon","Mikrofon"],["mikroskop","Mikroskop"],["millet","Kalabalık"],
-  ["minare","Minare"],["minibüs","Minibüs"],["motosiklet","Motosiklet"],
+  ["minare","Minare"],["minibüs","Minibüs"],
   ["motor","Motor"],["motor_arizasi","Motor Arızası"],["motorbot","Motorbot"],
   ["mumluk","Mumluk"],["mühendis","Mühendis"],["mühür","Mühür"],
   ["müzik","Müzik"],["müzik_aleti","Müzik Aleti"],["müzisyen","Müzisyen"],
   ["manzara","Manzara"],["manzara_fotografi","Manzara Fotoğrafı"],["maraton","Maraton"],
   ["maraton_kosmak","Maraton Koşmak"],["mağara_duvari","Mağara Duvarı"],
   ["mağara_girişi","Mağara Girişi"],["mermer","Mermer"],["mermer_heykel","Mermer Heykel"],
-  ["masa_saati","Masa Saati"],["masa_örtüsü","Masa Örtüsü"],["makas","Makas"],
+  ["masa_saati","Masa Saati"],["masa_örtüsü","Masa Örtüsü"],
   ["makarna","Makarna"],["makine","Makine"],["makine_arizasi","Makine Arızası"]
 ];
 

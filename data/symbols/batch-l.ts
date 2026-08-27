@@ -3,9 +3,8 @@ import { SHARED_SOURCES } from "../dream-symbol-sources";
 
 const s = SHARED_SOURCES;
 
-const symbols = [
-  ["labirent","Labirent"],["lastik","Lastik"],["limon","Limon"],["limonata","Limonata"],
-  ["leylek","Leylek"],["leopar","Leopar"],["lama","Lama"],["lokomotif","Lokomotif"],
+const symbols = [["lastik","Lastik"],["limon","Limon"],["limonata","Limonata"],
+  ["leylek","Leylek"],["leopar","Leopar"],["lama","Lama"],
   ["lunapark","Lunapark"],["lunapark_treni","Lunapark Treni"],["lale","Lale"],
   ["lavanta","Lavanta"],["lamba_abajur","Abajur"],["laptop","Laptop"],
   ["lens","Lens"],["laboratuvar","Laboratuvar"],["laboratuvar_onlugu","Laboratuvar Önlüğü"],

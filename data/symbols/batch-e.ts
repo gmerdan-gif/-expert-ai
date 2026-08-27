@@ -31,13 +31,7 @@ export const batchE = [
       "Gerçek yaşamda şişmanlık ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada şişmanlık görmek",
-      "Şişmanlık ile karşılaşmak",
-      "Şişmanlık'dan kaçmak veya ona yaklaşmak",
-      "Şişmanlık'yı kaybetmek veya bulmak",
-      "Şişmanlık ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada şişmanlık görmek", "Şişmanlık'dan kaçmak veya ona yaklaşmak", "Şişmanlık'yı kaybetmek veya bulmak", "Şişmanlık ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Şişmanlık, kişinin uyanık yaşamındaki beden algısı, yük ve öz değerlendirme deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -137,13 +131,7 @@ export const batchE = [
       "Gerçek yaşamda sakal ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada sakal görmek",
-      "Sakal ile karşılaşmak",
-      "Sakal'dan kaçmak veya ona yaklaşmak",
-      "Sakal'yı kaybetmek veya bulmak",
-      "Sakal ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada sakal görmek", "Sakal'dan kaçmak veya ona yaklaşmak", "Sakal'yı kaybetmek veya bulmak", "Sakal ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Sakal, kişinin uyanık yaşamındaki olgunluk, kimlik ve otorite deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -243,13 +231,7 @@ export const batchE = [
       "Gerçek yaşamda saç ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada saç görmek",
-      "Saç ile karşılaşmak",
-      "Saç'dan kaçmak veya ona yaklaşmak",
-      "Saç'yı kaybetmek veya bulmak",
-      "Saç ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada saç görmek", "Saç'dan kaçmak veya ona yaklaşmak", "Saç'yı kaybetmek veya bulmak", "Saç ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Saç, kişinin uyanık yaşamındaki kimlik, güç ve görünüş deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -349,13 +331,7 @@ export const batchE = [
       "Gerçek yaşamda göz ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada göz görmek",
-      "Göz ile karşılaşmak",
-      "Göz'dan kaçmak veya ona yaklaşmak",
-      "Göz'yı kaybetmek veya bulmak",
-      "Göz ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada göz görmek", "Göz'dan kaçmak veya ona yaklaşmak", "Göz'yı kaybetmek veya bulmak", "Göz ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Göz, kişinin uyanık yaşamındaki görme, farkındalık ve bakış açısı deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -455,13 +431,7 @@ export const batchE = [
       "Gerçek yaşamda kulak ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada kulak görmek",
-      "Kulak ile karşılaşmak",
-      "Kulak'dan kaçmak veya ona yaklaşmak",
-      "Kulak'yı kaybetmek veya bulmak",
-      "Kulak ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada kulak görmek", "Kulak'dan kaçmak veya ona yaklaşmak", "Kulak'yı kaybetmek veya bulmak", "Kulak ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Kulak, kişinin uyanık yaşamındaki dinleme, duyma ve dikkate alma deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -561,13 +531,7 @@ export const batchE = [
       "Gerçek yaşamda ağız ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada ağız görmek",
-      "Ağız ile karşılaşmak",
-      "Ağız'dan kaçmak veya ona yaklaşmak",
-      "Ağız'yı kaybetmek veya bulmak",
-      "Ağız ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada ağız görmek", "Ağız'dan kaçmak veya ona yaklaşmak", "Ağız'yı kaybetmek veya bulmak", "Ağız ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Ağız, kişinin uyanık yaşamındaki ifade, iletişim ve söylenmemiş sözler deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -667,13 +631,7 @@ export const batchE = [
       "Gerçek yaşamda el ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada el görmek",
-      "El ile karşılaşmak",
-      "El'dan kaçmak veya ona yaklaşmak",
-      "El'yı kaybetmek veya bulmak",
-      "El ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada el görmek", "El'dan kaçmak veya ona yaklaşmak", "El'yı kaybetmek veya bulmak", "El ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. El, kişinin uyanık yaşamındaki eylem, yardım ve kontrol deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -773,13 +731,7 @@ export const batchE = [
       "Gerçek yaşamda ayak ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada ayak görmek",
-      "Ayak ile karşılaşmak",
-      "Ayak'dan kaçmak veya ona yaklaşmak",
-      "Ayak'yı kaybetmek veya bulmak",
-      "Ayak ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada ayak görmek", "Ayak'dan kaçmak veya ona yaklaşmak", "Ayak'yı kaybetmek veya bulmak", "Ayak ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Ayak, kişinin uyanık yaşamındaki yön, hareket ve hayatta ilerleme deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -879,13 +831,7 @@ export const batchE = [
       "Gerçek yaşamda kalp ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada kalp görmek",
-      "Kalp ile karşılaşmak",
-      "Kalp'dan kaçmak veya ona yaklaşmak",
-      "Kalp'yı kaybetmek veya bulmak",
-      "Kalp ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada kalp görmek", "Kalp'dan kaçmak veya ona yaklaşmak", "Kalp'yı kaybetmek veya bulmak", "Kalp ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Kalp, kişinin uyanık yaşamındaki sevgi, bağlanma ve duygusal merkez deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -985,13 +931,7 @@ export const batchE = [
       "Gerçek yaşamda beyin ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada beyin görmek",
-      "Beyin ile karşılaşmak",
-      "Beyin'dan kaçmak veya ona yaklaşmak",
-      "Beyin'yı kaybetmek veya bulmak",
-      "Beyin ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada beyin görmek", "Beyin'dan kaçmak veya ona yaklaşmak", "Beyin'yı kaybetmek veya bulmak", "Beyin ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Beyin, kişinin uyanık yaşamındaki düşünme, kontrol ve zihinsel yük deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -1091,13 +1031,7 @@ export const batchE = [
       "Gerçek yaşamda yara ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada yara görmek",
-      "Yara ile karşılaşmak",
-      "Yara'dan kaçmak veya ona yaklaşmak",
-      "Yara'yı kaybetmek veya bulmak",
-      "Yara ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada yara görmek", "Yara'dan kaçmak veya ona yaklaşmak", "Yara'yı kaybetmek veya bulmak", "Yara ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Yara, kişinin uyanık yaşamındaki incinme, kırılganlık ve iyileşme deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -1197,13 +1131,7 @@ export const batchE = [
       "Gerçek yaşamda kanama ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada kanama görmek",
-      "Kanama ile karşılaşmak",
-      "Kanama'dan kaçmak veya ona yaklaşmak",
-      "Kanama'yı kaybetmek veya bulmak",
-      "Kanama ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada kanama görmek", "Kanama'dan kaçmak veya ona yaklaşmak", "Kanama'yı kaybetmek veya bulmak", "Kanama ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Kanama, kişinin uyanık yaşamındaki kayıp, enerji ve duygusal boşalma deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -1303,13 +1231,7 @@ export const batchE = [
       "Gerçek yaşamda ameliyat ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada ameliyat görmek",
-      "Ameliyat ile karşılaşmak",
-      "Ameliyat'dan kaçmak veya ona yaklaşmak",
-      "Ameliyat'yı kaybetmek veya bulmak",
-      "Ameliyat ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada ameliyat görmek", "Ameliyat'dan kaçmak veya ona yaklaşmak", "Ameliyat'yı kaybetmek veya bulmak", "Ameliyat ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Ameliyat, kişinin uyanık yaşamındaki değişim, müdahale ve iyileşme deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -1409,13 +1331,7 @@ export const batchE = [
       "Gerçek yaşamda hamilelik ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada hamilelik görmek",
-      "Hamilelik ile karşılaşmak",
-      "Hamilelik'dan kaçmak veya ona yaklaşmak",
-      "Hamilelik'yı kaybetmek veya bulmak",
-      "Hamilelik ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada hamilelik görmek", "Hamilelik'dan kaçmak veya ona yaklaşmak", "Hamilelik'yı kaybetmek veya bulmak", "Hamilelik ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Hamilelik, kişinin uyanık yaşamındaki yeni başlangıç, potansiyel ve gelişim deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -1515,13 +1431,7 @@ export const batchE = [
       "Gerçek yaşamda doğum ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada doğum görmek",
-      "Doğum ile karşılaşmak",
-      "Doğum'dan kaçmak veya ona yaklaşmak",
-      "Doğum'yı kaybetmek veya bulmak",
-      "Doğum ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada doğum görmek", "Doğum'dan kaçmak veya ona yaklaşmak", "Doğum'yı kaybetmek veya bulmak", "Doğum ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Doğum, kişinin uyanık yaşamındaki başlangıç, dönüşüm ve ortaya çıkış deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -1621,13 +1531,7 @@ export const batchE = [
       "Gerçek yaşamda çocuk ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada çocuk görmek",
-      "Çocuk ile karşılaşmak",
-      "Çocuk'dan kaçmak veya ona yaklaşmak",
-      "Çocuk'yı kaybetmek veya bulmak",
-      "Çocuk ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada çocuk görmek", "Çocuk'dan kaçmak veya ona yaklaşmak", "Çocuk'yı kaybetmek veya bulmak", "Çocuk ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Çocuk, kişinin uyanık yaşamındaki oyun, geçmiş benlik ve gelişim deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -1727,13 +1631,7 @@ export const batchE = [
       "Gerçek yaşamda yaşlı ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada yaşlı görmek",
-      "Yaşlı ile karşılaşmak",
-      "Yaşlı'dan kaçmak veya ona yaklaşmak",
-      "Yaşlı'yı kaybetmek veya bulmak",
-      "Yaşlı ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada yaşlı görmek", "Yaşlı'dan kaçmak veya ona yaklaşmak", "Yaşlı'yı kaybetmek veya bulmak", "Yaşlı ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Yaşlı, kişinin uyanık yaşamındaki bilgelik, zaman ve yaşlanma deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -1833,13 +1731,7 @@ export const batchE = [
       "Gerçek yaşamda yabancı ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada yabancı görmek",
-      "Yabancı ile karşılaşmak",
-      "Yabancı'dan kaçmak veya ona yaklaşmak",
-      "Yabancı'yı kaybetmek veya bulmak",
-      "Yabancı ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada yabancı görmek", "Yabancı'dan kaçmak veya ona yaklaşmak", "Yabancı'yı kaybetmek veya bulmak", "Yabancı ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Yabancı, kişinin uyanık yaşamındaki bilinmeyen yönler ve sosyal belirsizlik deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -1939,13 +1831,7 @@ export const batchE = [
       "Gerçek yaşamda arkadaş ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada arkadaş görmek",
-      "Arkadaş ile karşılaşmak",
-      "Arkadaş'dan kaçmak veya ona yaklaşmak",
-      "Arkadaş'yı kaybetmek veya bulmak",
-      "Arkadaş ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada arkadaş görmek", "Arkadaş'dan kaçmak veya ona yaklaşmak", "Arkadaş'yı kaybetmek veya bulmak", "Arkadaş ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Arkadaş, kişinin uyanık yaşamındaki bağlılık, sosyal destek ve ilişki deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -2045,13 +1931,7 @@ export const batchE = [
       "Gerçek yaşamda anne ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada anne görmek",
-      "Anne ile karşılaşmak",
-      "Anne'dan kaçmak veya ona yaklaşmak",
-      "Anne'yı kaybetmek veya bulmak",
-      "Anne ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada anne görmek", "Anne'dan kaçmak veya ona yaklaşmak", "Anne'yı kaybetmek veya bulmak", "Anne ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Anne, kişinin uyanık yaşamındaki bakım, köken ve güven deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -2151,13 +2031,7 @@ export const batchE = [
       "Gerçek yaşamda baba ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada baba görmek",
-      "Baba ile karşılaşmak",
-      "Baba'dan kaçmak veya ona yaklaşmak",
-      "Baba'yı kaybetmek veya bulmak",
-      "Baba ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada baba görmek", "Baba'dan kaçmak veya ona yaklaşmak", "Baba'yı kaybetmek veya bulmak", "Baba ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Baba, kişinin uyanık yaşamındaki otorite, yönlendirme ve onay deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -2257,13 +2131,7 @@ export const batchE = [
       "Gerçek yaşamda kardeş ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada kardeş görmek",
-      "Kardeş ile karşılaşmak",
-      "Kardeş'dan kaçmak veya ona yaklaşmak",
-      "Kardeş'yı kaybetmek veya bulmak",
-      "Kardeş ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada kardeş görmek", "Kardeş'dan kaçmak veya ona yaklaşmak", "Kardeş'yı kaybetmek veya bulmak", "Kardeş ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Kardeş, kişinin uyanık yaşamındaki yakınlık, rekabet ve aile bağı deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -2363,13 +2231,7 @@ export const batchE = [
       "Gerçek yaşamda sevgili ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada sevgili görmek",
-      "Sevgili ile karşılaşmak",
-      "Sevgili'dan kaçmak veya ona yaklaşmak",
-      "Sevgili'yı kaybetmek veya bulmak",
-      "Sevgili ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada sevgili görmek", "Sevgili'dan kaçmak veya ona yaklaşmak", "Sevgili'yı kaybetmek veya bulmak", "Sevgili ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Sevgili, kişinin uyanık yaşamındaki bağlanma, arzu ve ilişki deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -2469,13 +2331,7 @@ export const batchE = [
       "Gerçek yaşamda eski sevgili ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada eski sevgili görmek",
-      "Eski sevgili ile karşılaşmak",
-      "Eski sevgili'dan kaçmak veya ona yaklaşmak",
-      "Eski sevgili'yı kaybetmek veya bulmak",
-      "Eski sevgili ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada eski sevgili görmek", "Eski sevgili'dan kaçmak veya ona yaklaşmak", "Eski sevgili'yı kaybetmek veya bulmak", "Eski sevgili ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Eski sevgili, kişinin uyanık yaşamındaki geçmiş bağlar ve tamamlanmamış duygular deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -2575,13 +2431,7 @@ export const batchE = [
       "Gerçek yaşamda öğretmen ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada öğretmen görmek",
-      "Öğretmen ile karşılaşmak",
-      "Öğretmen'dan kaçmak veya ona yaklaşmak",
-      "Öğretmen'yı kaybetmek veya bulmak",
-      "Öğretmen ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada öğretmen görmek", "Öğretmen'dan kaçmak veya ona yaklaşmak", "Öğretmen'yı kaybetmek veya bulmak", "Öğretmen ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Öğretmen, kişinin uyanık yaşamındaki öğrenme, otorite ve rehberlik deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -2681,13 +2531,7 @@ export const batchE = [
       "Gerçek yaşamda doktor ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada doktor görmek",
-      "Doktor ile karşılaşmak",
-      "Doktor'dan kaçmak veya ona yaklaşmak",
-      "Doktor'yı kaybetmek veya bulmak",
-      "Doktor ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada doktor görmek", "Doktor'dan kaçmak veya ona yaklaşmak", "Doktor'yı kaybetmek veya bulmak", "Doktor ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Doktor, kişinin uyanık yaşamındaki iyileşme, yardım ve uzmanlık deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -2787,13 +2631,7 @@ export const batchE = [
       "Gerçek yaşamda polis ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada polis görmek",
-      "Polis ile karşılaşmak",
-      "Polis'dan kaçmak veya ona yaklaşmak",
-      "Polis'yı kaybetmek veya bulmak",
-      "Polis ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada polis görmek", "Polis'dan kaçmak veya ona yaklaşmak", "Polis'yı kaybetmek veya bulmak", "Polis ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Polis, kişinin uyanık yaşamındaki otorite, kurallar ve suçluluk deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -2893,13 +2731,7 @@ export const batchE = [
       "Gerçek yaşamda asker ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada asker görmek",
-      "Asker ile karşılaşmak",
-      "Asker'dan kaçmak veya ona yaklaşmak",
-      "Asker'yı kaybetmek veya bulmak",
-      "Asker ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada asker görmek", "Asker'dan kaçmak veya ona yaklaşmak", "Asker'yı kaybetmek veya bulmak", "Asker ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Asker, kişinin uyanık yaşamındaki disiplin, mücadele ve görev deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -2999,13 +2831,7 @@ export const batchE = [
       "Gerçek yaşamda hırsız ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada hırsız görmek",
-      "Hırsız ile karşılaşmak",
-      "Hırsız'dan kaçmak veya ona yaklaşmak",
-      "Hırsız'yı kaybetmek veya bulmak",
-      "Hırsız ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada hırsız görmek", "Hırsız'dan kaçmak veya ona yaklaşmak", "Hırsız'yı kaybetmek veya bulmak", "Hırsız ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Hırsız, kişinin uyanık yaşamındaki kayıp, güven ve sınır ihlali deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -3105,13 +2931,7 @@ export const batchE = [
       "Gerçek yaşamda katil ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada katil görmek",
-      "Katil ile karşılaşmak",
-      "Katil'dan kaçmak veya ona yaklaşmak",
-      "Katil'yı kaybetmek veya bulmak",
-      "Katil ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada katil görmek", "Katil'dan kaçmak veya ona yaklaşmak", "Katil'yı kaybetmek veya bulmak", "Katil ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Katil, kişinin uyanık yaşamındaki tehdit, öfke ve bastırılmış çatışma deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -3211,13 +3031,7 @@ export const batchE = [
       "Gerçek yaşamda melek ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada melek görmek",
-      "Melek ile karşılaşmak",
-      "Melek'dan kaçmak veya ona yaklaşmak",
-      "Melek'yı kaybetmek veya bulmak",
-      "Melek ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada melek görmek", "Melek'dan kaçmak veya ona yaklaşmak", "Melek'yı kaybetmek veya bulmak", "Melek ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Melek, kişinin uyanık yaşamındaki korunma, rehberlik ve umut deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -3317,13 +3131,7 @@ export const batchE = [
       "Gerçek yaşamda şeytan ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada şeytan görmek",
-      "Şeytan ile karşılaşmak",
-      "Şeytan'dan kaçmak veya ona yaklaşmak",
-      "Şeytan'yı kaybetmek veya bulmak",
-      "Şeytan ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada şeytan görmek", "Şeytan'dan kaçmak veya ona yaklaşmak", "Şeytan'yı kaybetmek veya bulmak", "Şeytan ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Şeytan, kişinin uyanık yaşamındaki gölge, ayartı ve korku deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -3423,13 +3231,7 @@ export const batchE = [
       "Gerçek yaşamda hayalet ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada hayalet görmek",
-      "Hayalet ile karşılaşmak",
-      "Hayalet'dan kaçmak veya ona yaklaşmak",
-      "Hayalet'yı kaybetmek veya bulmak",
-      "Hayalet ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada hayalet görmek", "Hayalet'dan kaçmak veya ona yaklaşmak", "Hayalet'yı kaybetmek veya bulmak", "Hayalet ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Hayalet, kişinin uyanık yaşamındaki geçmiş, korku ve çözümlenmemiş mesele deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -3529,13 +3331,7 @@ export const batchE = [
       "Gerçek yaşamda zombi ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada zombi görmek",
-      "Zombi ile karşılaşmak",
-      "Zombi'dan kaçmak veya ona yaklaşmak",
-      "Zombi'yı kaybetmek veya bulmak",
-      "Zombi ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada zombi görmek", "Zombi'dan kaçmak veya ona yaklaşmak", "Zombi'yı kaybetmek veya bulmak", "Zombi ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Zombi, kişinin uyanık yaşamındaki otomatik yaşam, tükenme ve yabancılaşma deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -3635,13 +3431,7 @@ export const batchE = [
       "Gerçek yaşamda ejderha ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada ejderha görmek",
-      "Ejderha ile karşılaşmak",
-      "Ejderha'dan kaçmak veya ona yaklaşmak",
-      "Ejderha'yı kaybetmek veya bulmak",
-      "Ejderha ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada ejderha görmek", "Ejderha'dan kaçmak veya ona yaklaşmak", "Ejderha'yı kaybetmek veya bulmak", "Ejderha ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Ejderha, kişinin uyanık yaşamındaki güç, korku ve dönüşüm deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -3741,13 +3531,7 @@ export const batchE = [
       "Gerçek yaşamda canavar ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada canavar görmek",
-      "Canavar ile karşılaşmak",
-      "Canavar'dan kaçmak veya ona yaklaşmak",
-      "Canavar'yı kaybetmek veya bulmak",
-      "Canavar ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada canavar görmek", "Canavar'dan kaçmak veya ona yaklaşmak", "Canavar'yı kaybetmek veya bulmak", "Canavar ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Canavar, kişinin uyanık yaşamındaki gölge, tehdit ve bastırılmış dürtüler deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -3847,13 +3631,7 @@ export const batchE = [
       "Gerçek yaşamda dev ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada dev görmek",
-      "Dev ile karşılaşmak",
-      "Dev'dan kaçmak veya ona yaklaşmak",
-      "Dev'yı kaybetmek veya bulmak",
-      "Dev ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada dev görmek", "Dev'dan kaçmak veya ona yaklaşmak", "Dev'yı kaybetmek veya bulmak", "Dev ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Dev, kişinin uyanık yaşamındaki ezici güç, yetersizlik ve büyütülmüş sorun deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -3953,13 +3731,7 @@ export const batchE = [
       "Gerçek yaşamda bebek arabası ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada bebek arabası görmek",
-      "Bebek arabası ile karşılaşmak",
-      "Bebek arabası'dan kaçmak veya ona yaklaşmak",
-      "Bebek arabası'yı kaybetmek veya bulmak",
-      "Bebek arabası ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada bebek arabası görmek", "Bebek arabası'dan kaçmak veya ona yaklaşmak", "Bebek arabası'yı kaybetmek veya bulmak", "Bebek arabası ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Bebek arabası, kişinin uyanık yaşamındaki bakım, sorumluluk ve yeni gelişen süreç deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -4059,13 +3831,7 @@ export const batchE = [
       "Gerçek yaşamda mezar ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada mezar görmek",
-      "Mezar ile karşılaşmak",
-      "Mezar'dan kaçmak veya ona yaklaşmak",
-      "Mezar'yı kaybetmek veya bulmak",
-      "Mezar ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada mezar görmek", "Mezar'dan kaçmak veya ona yaklaşmak", "Mezar'yı kaybetmek veya bulmak", "Mezar ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Mezar, kişinin uyanık yaşamındaki kapanış, kayıp ve geçmiş deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -4165,13 +3931,7 @@ export const batchE = [
       "Gerçek yaşamda cenaze ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada cenaze görmek",
-      "Cenaze ile karşılaşmak",
-      "Cenaze'dan kaçmak veya ona yaklaşmak",
-      "Cenaze'yı kaybetmek veya bulmak",
-      "Cenaze ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada cenaze görmek", "Cenaze'dan kaçmak veya ona yaklaşmak", "Cenaze'yı kaybetmek veya bulmak", "Cenaze ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Cenaze, kişinin uyanık yaşamındaki veda, dönüşüm ve bir dönemin sona ermesi deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -4271,13 +4031,7 @@ export const batchE = [
       "Gerçek yaşamda duvar ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada duvar görmek",
-      "Duvar ile karşılaşmak",
-      "Duvar'dan kaçmak veya ona yaklaşmak",
-      "Duvar'yı kaybetmek veya bulmak",
-      "Duvar ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada duvar görmek", "Duvar'dan kaçmak veya ona yaklaşmak", "Duvar'yı kaybetmek veya bulmak", "Duvar ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Duvar, kişinin uyanık yaşamındaki engel, sınır ve korunma deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -4377,13 +4131,7 @@ export const batchE = [
       "Gerçek yaşamda pencere ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada pencere görmek",
-      "Pencere ile karşılaşmak",
-      "Pencere'dan kaçmak veya ona yaklaşmak",
-      "Pencere'yı kaybetmek veya bulmak",
-      "Pencere ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada pencere görmek", "Pencere'dan kaçmak veya ona yaklaşmak", "Pencere'yı kaybetmek veya bulmak", "Pencere ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Pencere, kişinin uyanık yaşamındaki perspektif, fırsat ve dış dünyaya bakış deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -4483,13 +4231,7 @@ export const batchE = [
       "Gerçek yaşamda balkon ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada balkon görmek",
-      "Balkon ile karşılaşmak",
-      "Balkon'dan kaçmak veya ona yaklaşmak",
-      "Balkon'yı kaybetmek veya bulmak",
-      "Balkon ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada balkon görmek", "Balkon'dan kaçmak veya ona yaklaşmak", "Balkon'yı kaybetmek veya bulmak", "Balkon ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Balkon, kişinin uyanık yaşamındaki mesafe, gözlem ve sosyal konum deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -4589,13 +4331,7 @@ export const batchE = [
       "Gerçek yaşamda koridor ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada koridor görmek",
-      "Koridor ile karşılaşmak",
-      "Koridor'dan kaçmak veya ona yaklaşmak",
-      "Koridor'yı kaybetmek veya bulmak",
-      "Koridor ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada koridor görmek", "Koridor'dan kaçmak veya ona yaklaşmak", "Koridor'yı kaybetmek veya bulmak", "Koridor ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Koridor, kişinin uyanık yaşamındaki geçiş, belirsizlik ve ara dönem deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -4695,13 +4431,7 @@ export const batchE = [
       "Gerçek yaşamda kilit ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada kilit görmek",
-      "Kilit ile karşılaşmak",
-      "Kilit'dan kaçmak veya ona yaklaşmak",
-      "Kilit'yı kaybetmek veya bulmak",
-      "Kilit ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada kilit görmek", "Kilit'dan kaçmak veya ona yaklaşmak", "Kilit'yı kaybetmek veya bulmak", "Kilit ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Kilit, kişinin uyanık yaşamındaki erişim, engel ve korunma deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -4801,13 +4531,7 @@ export const batchE = [
       "Gerçek yaşamda hazine ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada hazine görmek",
-      "Hazine ile karşılaşmak",
-      "Hazine'dan kaçmak veya ona yaklaşmak",
-      "Hazine'yı kaybetmek veya bulmak",
-      "Hazine ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada hazine görmek", "Hazine'dan kaçmak veya ona yaklaşmak", "Hazine'yı kaybetmek veya bulmak", "Hazine ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Hazine, kişinin uyanık yaşamındaki değer, keşif ve gizli potansiyel deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -4907,13 +4631,7 @@ export const batchE = [
       "Gerçek yaşamda gümüş ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada gümüş görmek",
-      "Gümüş ile karşılaşmak",
-      "Gümüş'dan kaçmak veya ona yaklaşmak",
-      "Gümüş'yı kaybetmek veya bulmak",
-      "Gümüş ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada gümüş görmek", "Gümüş'dan kaçmak veya ona yaklaşmak", "Gümüş'yı kaybetmek veya bulmak", "Gümüş ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Gümüş, kişinin uyanık yaşamındaki zarafet, değer ve ikinci plandaki güç deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -5013,13 +4731,7 @@ export const batchE = [
       "Gerçek yaşamda elmas ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada elmas görmek",
-      "Elmas ile karşılaşmak",
-      "Elmas'dan kaçmak veya ona yaklaşmak",
-      "Elmas'yı kaybetmek veya bulmak",
-      "Elmas ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada elmas görmek", "Elmas'dan kaçmak veya ona yaklaşmak", "Elmas'yı kaybetmek veya bulmak", "Elmas ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Elmas, kişinin uyanık yaşamındaki dayanıklılık, değer ve nadirlik deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -5119,13 +4831,7 @@ export const batchE = [
       "Gerçek yaşamda kolye ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada kolye görmek",
-      "Kolye ile karşılaşmak",
-      "Kolye'dan kaçmak veya ona yaklaşmak",
-      "Kolye'yı kaybetmek veya bulmak",
-      "Kolye ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada kolye görmek", "Kolye'dan kaçmak veya ona yaklaşmak", "Kolye'yı kaybetmek veya bulmak", "Kolye ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Kolye, kişinin uyanık yaşamındaki bağ, süslenme ve kimlik deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
@@ -5225,13 +4931,7 @@ export const batchE = [
       "Gerçek yaşamda bilezik ile kurulan kişisel ilişki",
     ],
 
-    commonVariations: [
-      "Rüyada bilezik görmek",
-      "Bilezik ile karşılaşmak",
-      "Bilezik'dan kaçmak veya ona yaklaşmak",
-      "Bilezik'yı kaybetmek veya bulmak",
-      "Bilezik ile etkileşim kurmak",
-    ],
+    commonVariations: ["Rüyada bilezik görmek", "Bilezik'dan kaçmak veya ona yaklaşmak", "Bilezik'yı kaybetmek veya bulmak", "Bilezik ile etkileşim kurmak"],
 
     psychology:
       "Modern psikoloji rüya sembollerine evrensel ve değişmez anlamlar veren doğrulanmış bir sözlük kabul etmez. Bilezik, kişinin uyanık yaşamındaki bağlılık, döngü ve ilişki deneyimleri, anıları veya duygularıyla bağlantılı olabilir. Bu nedenle sembol rüyanın bütünü ve kişisel bağlamla birlikte değerlendirilmelidir.",
