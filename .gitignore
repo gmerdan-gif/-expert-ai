@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# INUS audit generated data
+.agents/reports/symbol-audit.json
+.agents/reports/structural-audit.json
+.agents/reports/prioritization.json
+.agents/reports/test-results.json
