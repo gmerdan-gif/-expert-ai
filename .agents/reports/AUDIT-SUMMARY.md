@@ -1,6 +1,6 @@
 # INUS AUDIT REPORT — Stage 1 only
 
-**Generated:** 2026-08-27T13:46:25.956Z
+**Generated:** 2026-08-27T15:16:13.078Z
 **Auditor:** READ-ONLY (no production file modifications)
 **Orchestrator stage:** AUDIT complete → STOP (no PRIORITIZE/PROPOSE/PATCH)
 
@@ -10,10 +10,10 @@
 
 | Metric | Value | Verdict |
 |--------|------:|---------|
-| `dreamSymbolEntries.length` / `dreamSymbols.length` | **1676** | Entry-array count |
-| Unique slugs | **1674** | 2 exact slug collision key(s) |
-| Unique titles | **1661** | 15 title collision group(s) |
-| Active batch files (`batch-*.ts`) | **45** | exported array sum=1676 |
+| `dreamSymbolEntries.length` / `dreamSymbols.length` | **1674** | Entry-array count |
+| Unique slugs | **1674** | 0 exact slug collision key(s) |
+| Unique titles | **1661** | 13 title collision group(s) |
+| Active batch files (`batch-*.ts`) | **45** | exported array sum=1674 |
 | Empty batches | batch-q.ts, batch-s.ts | Still imported |
 | Obsolete assumption **1330** | — | **FALSE / obsolete** (not present in live data or auditor v4 hardcode) |
 | Assumption **1676** | entries | **TRUE for entry count**; effective unique symbols = **1674** |
@@ -30,14 +30,13 @@
 
 ### P0 — Blockers
 
-- **`sinava_gec_kalmak`** appears **2** times → `getDreamSymbolBySlug` returns the first record; later content is hidden.
-- **`okula_gec_kalmak`** appears **2** times → `getDreamSymbolBySlug` returns the first record; later content is hidden.
+- None
 
 ### Schema integrity (positive)
 
 - Required text fields present on essentially all entries (empty counts in structural-audit.json).
 - FAQ / sources arrays present on all entries in this pass.
-- Relation engine auto-fills when manual `relatedSlugs` empty (1601/1676 empty manual).
+- Relation engine auto-fills when manual `relatedSlugs` empty (1599/1674 empty manual).
 
 ### Auditor gap
 
@@ -48,26 +47,26 @@
 
 ## 3. Dataset-wide problems
 
-| Finding | Count | % of 1676 | Class |
+| Finding | Count | % of 1674 | Class |
 |---------|------:|-------------------:|-------|
-| missing `commonVariations` | 418 | 24.9% | systemic P2 |
+| missing `commonVariations` | 418 | 25.0% | systemic P2 |
 | Jungian < 15 words | 265 | 15.8% | systemic metric (length ≠ quality) |
 | Psychology < 15 words | 509 | 30.4% | systemic metric |
 | DEFAULT_SOURCES (3-item factory default) | 19 | 1.1% | minority |
-| dominant shared source set (2-item) | 1646 | 98.2% | systemic P2 monoculture |
+| dominant shared source set (2-item) | 1644 | 98.2% | systemic P2 monoculture |
 | unique source fingerprints | 10 | — | monoculture |
 | template repeated clusters | 25 | — | systemic P1 |
-| symbols inside repeated clusters | 1256 | 74.9% | systemic |
+| symbols inside repeated clusters | 1254 | 74.9% | systemic |
 | v4 duplicate-risk (≥0.85) | 1420 | 84.7% | **inflated P1 trigger** |
-| empty manual relatedSlugs | 1601 | 95.5% | expected if auto-relations OK |
-| broken relatedSlugs targets | 5 | — | symbol-specific P2 |
+| empty manual relatedSlugs | 1599 | 95.5% | expected if auto-relations OK |
+| broken relatedSlugs targets | 0 | — | symbol-specific P2 |
 
 ### Hard boilerplate phrase hits
 
 - "farklı kişisel çağrışımlar ve bağlamsal anlamlar…": **41**
-- "rüyanın atmosferi, yaşanan duygu…": **101**
+- "rüyanın atmosferi, yaşanan duygu…": **99**
 - "gündelik yaşam deneyimleri, duygusal durumu…": **41**
-- "bilinçdışındaki bir sürecin sembolik ifadesi…": **101**
+- "bilinçdışındaki bir sürecin sembolik ifadesi…": **99**
 - "tek bir evrensel…": **1**
 - "kesin bir anlam…": **0**
 
@@ -75,7 +74,7 @@
 
 ### Top template clusters (sample)
 
-- **97 symbols** — e.g. asansorde_kalmak, asansorun_dusmesi, asansorle_yukselmek, asansorle_inmek, merdivenden_dusmek, merdiven_cikmak
+- **95 symbols** — e.g. asansorde_kalmak, asansorun_dusmesi, asansorle_yukselmek, asansorle_inmek, merdivenden_dusmek, merdiven_cikmak
 - **94 symbols** — e.g. okula_gitmek, okulda_kaybolmak, okuldan_atilmak, sinav_sonucunu_gormek, sinavdan_kalmak, sinavi_kaybetmek
 - **87 symbols** — e.g. cocukla_konusmak, cocukla_oynamak, cocugunu_kaybetmek, cocugunu_bulmak, bebek_tasımak, bebek_emzirmek
 - **79 symbols** — e.g. kirmizi_gormek, mavi_gormek, yesil_gormek, sari_gormek, beyaz_gormek, siyah_gormek
@@ -90,7 +89,7 @@
 
 ### P1 (symbol-specific — high value)
 
-1. **Exact slug collisions** (also P0 structurally): `sinava_gec_kalmak`, `okula_gec_kalmak`
+1. **Exact slug collisions** (also P0 structurally): none
 2. **Title/slug canonical collisions** (13 groups): ASCII vs diacritic or near-variant slugs sharing one title — see `structural-audit.json`.
 3. **Near-identical content pairs** inside template clusters (jaccard ≥ 0.98 on short+psych+jung): 246 pairs sampled in top clusters — e.g. acik_kapi↔bos_ev(1), acik_kapi↔eski_ev(1), acik_kapi↔yeni_ev(1), acik_kapi↔bos_oda(1), acik_kapi↔uzak_yol(1).
 
@@ -99,11 +98,7 @@ Representative worst-cluster exemplars for a future 10–20 batch (do not patch 
 
 ### P2 (symbol-specific)
 
-- `mutfak`: dangling related → `yemek`, `Yemek`
-- `okulda_olmak`: dangling related → `okuldan_mezun_olmak`, `sinavda_basarisiz_olmak`
-- `okula_gec_kalmak`: dangling related → `sinifta_sinava_girmek`
-- `sinava_gec_kalmak`: dangling related → `sinavda_basarisiz_olmak`, `sinav_sorusunu_bilememek`
-- `sinifta_tek_basina_kalmak`: dangling related → `sinifta_sinava_girmek`
+- No dangling relatedSlugs found in this pass.
 
 ---
 
@@ -115,7 +110,7 @@ Representative worst-cluster exemplars for a future 10–20 batch (do not patch 
 | 1676 = unique symbols | **PARTIALLY VALID** | 1676 entries, 1674 unique slugs |
 | v2 field-length <70 as quality gate | **PARTIALLY RETIRED** | v4 uses <15 + capped length score; still length-biased |
 | Jaccard ≥0.90 ⇒ independent P1 | **OBSOLETE AS P1 TRIGGER** | Marks ~1415 symbols P1; mostly shared boilerplate |
-| Auditor catches slug collisions | **GAP** | v4 P0=0; structural audit finds 2 |
+| Auditor catches slug collisions | **GAP** | v4 P0=0; structural audit finds 0 |
 | missing commonVariations ⇒ rewrite all | **SYSTEMIC ONLY** | Completeness metric, not per-symbol P1 |
 
 Auditor script validated: `scripts/inus/audit-symbols.ts` (v4). Prior versions in `.agents/logs/audit-symbols.v2.backup.ts` / `v3`.
