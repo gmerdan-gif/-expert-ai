@@ -1,3 +1,11 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: "/kullanim-kosullari",
+  },
+};
+
 export default function KullanimKosullari() {
   return (
     <main className="min-h-screen bg-[#f5f1ea] text-[#24221f]">

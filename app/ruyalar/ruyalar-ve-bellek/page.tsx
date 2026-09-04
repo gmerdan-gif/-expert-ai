@@ -1,7 +1,10 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Rüyalar ve Bellek | Uyku, Öğrenme ve Rüya Araştırmaları | INUS",
+  alternates: {
+    canonical: "/ruyalar/ruyalar-ve-bellek",
+  },
+  title: "Rüyalar ve Bellek | Uyku, Öğrenme ve Rüya Araştırmaları",
   description:
     "Rüyalar ve bellek arasındaki ilişki nedir? Uyku sırasında öğrenme, bellek pekiştirme, rüya içeriği ve güncel bilimsel araştırmalar hakkında kapsamlı bilgiler.",
 };

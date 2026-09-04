@@ -1,0 +1,100 @@
+{
+  "slug": "ekmek",
+  "title": "ekmek",
+  "shortDescription": "Ekmek sembolü, tarihsel ve kültürel bağlamlarda temel gıda, paylaşım ve toplumsal dayanışma ile ilişkilidir; ayrıca bazı dinsel ritüel ve metinsel kullanımlarda temsilî/kurumsal anlamlar taşır.",
+  "positiveAssociations": [
+    "Temel gıda ve maddi geçim",
+    "Paylaşım ve toplumsal dayanışma",
+    "Bereket ve beslenme",
+    "Birlik ve topluluk hissi"
+  ],
+  "challengingAssociations": [],
+  "contextDependentAssociations": [
+    "Dini ritüellerde sunu ve temsil (ör. Komünyon/Eukaristi, tapınaktaki yüz ekmeği bağlamları)",
+    "Sofra paylaşımı ve aile/topluluk birlikteliği pratikleri",
+    "Metinsel veya rabbanî söylemlerdeki mecazî kullanımlar"
+  ],
+  "commonVariations": [
+    {
+      "title": "Taze Pişmiş Ekmek Kokusu",
+      "description": "Rüyada taze ekmek kokusu veya sıcak ekmek görünümü, ekmeğin günlük yaşam, ev ve yiyecek ile sofraya dair çağrışımlarını öne çıkarır; yorum rüyanın diğer unsurlarıyla yapılmalıdır."
+    },
+    {
+      "title": "Ekmeği Başkalarıyla Paylaşmak",
+      "description": "Bir ekmeği bölüşmek veya başkalarına ikram etmek, paylaşım pratiğini ve toplumsal ilişkilere verilen önemi vurgular; dinsel/ritüel bağlamda ise topluluk birlikteliğine işaret edebilir."
+    },
+    {
+      "title": "Kuru veya Bayat Ekmek Görmek",
+      "description": "Kuru veya bayat ekmek, artık kullanılamayan ya da yenilebilirliği azalmış nesneleri çağrıştırır; rüya bağlamında neyin eskidiği veya işlevini yitirdiğinin değerlendirilmesi gerekir."
+    },
+    {
+      "title": "Tapınak veya Kutsal Alanda Ekmek Sunumu",
+      "description": "Kutsal mekânlarda ekmek sunumu görüntüleri, litürjik ve kurumsal temsil ile ilişkilidir; bu tür sahneler topluluğun Tanrı huzurundaki duruşu veya ritüel işlevlere gönderme yapar."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "Yeni Ahit geleneğinde ekmek, Komünyon/Eukaristi bağlamında İsa'nın bedeniyle simgesel olarak ilişkilendirilir; ayrıca ilahi besin, topluluk birliği ve ruhsal doyum temalarıyla bağlantılıdır.",
+  "jewishTraditions": "Yahudi metinlerinde (örneğin tapınak bağlamındaki yüz ekmeği) ekmek, İsrail toplumunun Tanrı huzurundaki temsili ve kutsal sunu işlevleriyle ilişkilendirilir; metinsel/rabbanî söylemlerde ayrıca mecazî kullanımlara rastlanır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Hristiyan Gelenekleri",
+      "interpretation": "Komünyon/Eukaristi bağlamında Mesih'in bedeni, ilahi beslenme ve topluluk birliği.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Gelenekleri",
+      "interpretation": "Tapınak bağlamında topluluğun Tanrı huzurundaki temsili, kutsal sunu ve metinsel/mecazî kullanımlar.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Farklı geleneklerde ekmek, temel yaşamın sürdürülmesi, beslenme ve paylaşılan toplumsal düzenle güçlü bir bağ kurar; ritüel kullanımlarda ise topluluk ve temsil işlevi öne çıkar.",
+  "differences": "Hristiyan uygulamalarında ekmek litürjik olarak Mesih'in bedeni ve Komünyon bağlamında merkeziyken, Yahudi metinlerinde ekmek bazen tapınak sunuları ve topluluğun temsiliyeti çerçevesinde ele alınır.",
+  "inusAssessment": "Ekmek sembolü, somut besin ve ekonomik gereksinimler ile kültürel ve dinsel temsiller arasında köprü kurar; rüyada ekmek görüldüğünde yorum, bireyin yaşam bağlamı ve rüyanın diğer öğeleri dikkate alınarak yapılmalıdır.",
+  "faq": [
+    {
+      "question": "Rüyada ekmek görmek her zaman maddi geçimle mi ilgilidir?",
+      "answer": "Sıkça temel beslenme ve geçim çağrışımı yapar; ancak kesin anlam rüyanın bütününe, kişinin yaşam koşullarına ve kültürel/dini bağlama göre değişir."
+    },
+    {
+      "question": "Hristiyanlık ve Yahudilikte ekmek sembolü nasıl özetlenebilir?",
+      "answer": "Kısaca: Hristiyanlıkta ekmek Komünyon aracılığıyla Mesih'in bedeni ve ilahi beslenme temasıyla ilişkilendirilir; Yahudi metinlerinde ise tapınak bağlamı ve topluluğun Tanrı huzurundaki temsili öne çıkar. Detaylar ilgili bölümlerde yer almaktadır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Our Daily Bread - www.anpv.nl",
+      "relevance": "Ekmek kültürel olarak temel besin, geçim ve paylaşım kavramlarıyla ilişkilendirilir.",
+      "url": "https://www.anpv.nl/platform/publication/rjDraa/Our%20Daily%20Bread.pdf"
+    },
+    {
+      "title": "Topical Bible: Bread: Symbolical of the Body of Christ",
+      "relevance": "Ekmek ile Mesih’in bedeni ve Komünyon/Eukaristi arasındaki Hristiyan sembolik ilişkiyi özetler.",
+      "url": "https://biblehub.com/topical/naves/b/bread--symbolical_of_the_body_of_christ.htm"
+    },
+    {
+      "title": "Symbols and Similitudes: Bread - Topical Bible",
+      "relevance": "Ekmek sembolünün Hristiyan bağlamda ilahi beslenme, şükran ve Tanrı’nın varlığıyla ilişkisini açıklar.",
+      "url": "https://biblehub.com/topical/naves/s/symbols_and_similitudes--bread.htm"
+    },
+    {
+      "title": "Topical Bible: The Symbolism of the Bread",
+      "relevance": "Ekmek sembolünün Hristiyan kutsal metin yorumlarında kurban, kurtuluş ve topluluk birliğiyle bağını ele alır.",
+      "url": "https://biblehub.com/topical/t/the_symbolism_of_the_bread.htm"
+    },
+    {
+      "title": "Sacred Objects: Bread | Sefaria",
+      "relevance": "Yahudi tapınak bağlamında ekmeğin İsrail’in Tanrı huzurundaki temsilî konumunu açıklar.",
+      "url": "https://www.sefaria.org/sheets/620858"
+    },
+    {
+      "title": "Contextualizing Bread: An Analysis of Talmudic Discourse in Light of Christian and Islamic Counterparts",
+      "relevance": "Rabbanî/Talmudik söylemde ekmeğin mecazî kullanımlarını inceleyen akademik çalışma.",
+      "url": "https://academic.oup.com/jaar/article/80/2/411/713051?guestAccessKey="
+    }
+  ],
+  "relatedSlugs": []
+}

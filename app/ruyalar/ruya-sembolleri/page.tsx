@@ -1,7 +1,10 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Rüya Sembolleri | Semboller ve Rüya Yorumu | INUS",
+  alternates: {
+    canonical: "/ruyalar/ruya-sembolleri",
+  },
+  title: "Rüya Sembolleri | Semboller ve Rüya Yorumu",
   description:
     "Rüya sembolleri gerçekten ne anlama gelir? Rüya sözlüklerinin sınırları, kişisel çağrışımlar, Jungcu yaklaşım ve modern rüya araştırmaları hakkında kapsamlı bilgiler.",
 };

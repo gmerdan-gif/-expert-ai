@@ -13,6 +13,9 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const ADSENSE_CLIENT_ID =
+  process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID;
+
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.in-us.app"),
 
@@ -23,10 +26,6 @@ export const metadata: Metadata = {
 
   description:
     "Rüyanı kendi kelimelerinle anlat. INUS, psikolojik bir yaklaşımla rüyandaki sembolleri, duyguları ve ilişkileri kişisel bir perspektiften yorumlar.",
-
-  alternates: {
-    canonical: "https://www.in-us.app/",
-  },
 
   openGraph: {
     type: "website",
@@ -89,17 +88,21 @@ export default function RootLayout({
         />
 
         <link rel="apple-touch-icon" href="/icon.png" />
-        <meta
-          name="google-adsense-account"
-          content="ca-pub-5926030217948912"
-        />
+        {ADSENSE_CLIENT_ID && (
+          <>
+            <meta
+              name="google-adsense-account"
+              content={ADSENSE_CLIENT_ID}
+            />
 
-        <Script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5926030217948912"
-          crossOrigin="anonymous"
-          strategy="afterInteractive"
-        />
+            <Script
+              async
+              src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT_ID}`}
+              crossOrigin="anonymous"
+              strategy="afterInteractive"
+            />
+          </>
+        )}
       </head>
 
       <body className="min-h-full flex flex-col">

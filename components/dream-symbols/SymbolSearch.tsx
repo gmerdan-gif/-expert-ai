@@ -3,6 +3,17 @@
 import Link from "next/link";
 import { useMemo, useState } from "react";
 
+function normalizeSearchValue(value: string) {
+  return value
+    .toLocaleLowerCase("tr-TR")
+    .replace(/ı/g, "i")
+    .replace(/ğ/g, "g")
+    .replace(/ü/g, "u")
+    .replace(/ş/g, "s")
+    .replace(/ö/g, "o")
+    .replace(/ç/g, "c");
+}
+
 type SymbolSearchItem = {
   slug: string;
   title: string;
@@ -17,89 +28,107 @@ export default function SymbolSearch({ symbols }: Props) {
   const [query, setQuery] = useState("");
 
   const results = useMemo(() => {
-    const normalized = query
-      .trim()
-      .toLocaleLowerCase("tr-TR");
+    const normalized = normalizeSearchValue(query.trim());
 
-    if (!normalized) return [];
+    if (!normalized) {
+      return [];
+    }
 
     return symbols
-      .filter((symbol) => {
-        const title = symbol.title.toLocaleLowerCase("tr-TR");
-        const description = symbol.shortDescription.toLocaleLowerCase("tr-TR");
+      .map((symbol) => {
+        const normalizedTitle = normalizeSearchValue(symbol.title);
+        const normalizedSlug = normalizeSearchValue(symbol.slug);
 
-        return (
-          title.includes(normalized) ||
-          description.includes(normalized)
+        let rank = Number.POSITIVE_INFINITY;
+
+        if (
+          normalizedTitle === normalized ||
+          normalizedSlug === normalized
+        ) {
+          rank = 0;
+        } else if (
+          normalizedTitle.startsWith(normalized) ||
+          normalizedSlug.startsWith(normalized)
+        ) {
+          rank = 1;
+        } else if (
+          normalizedTitle.includes(normalized) ||
+          normalizedSlug.includes(normalized)
+        ) {
+          rank = 2;
+        }
+
+        return {
+          symbol,
+          rank,
+        };
+      })
+      .filter(({ rank }) => Number.isFinite(rank))
+      .sort((a, b) => {
+        if (a.rank !== b.rank) {
+          return a.rank - b.rank;
+        }
+
+        return a.symbol.title.localeCompare(
+          b.symbol.title,
+          "tr-TR",
         );
       })
-      .slice(0, 8);
+      .slice(0, 8)
+      .map(({ symbol }) => symbol);
   }, [query, symbols]);
 
   return (
-    <section
-      aria-label="Rüya sembolü arama"
-      className="pb-16"
-    >
-      <label htmlFor="symbol-search" className="sr-only">
+    <section aria-label="Rüya sembolü arama">
+      <label
+        htmlFor="symbol-search"
+        className="sr-only"
+      >
         Rüya sembolü ara
       </label>
 
       <div className="relative">
-        <span
-          aria-hidden="true"
-          className="pointer-events-none absolute left-5 top-1/2 -translate-y-1/2 text-[#91897f]"
-        >
-          ⌕
-        </span>
-
         <input
           id="symbol-search"
           type="search"
           value={query}
           onChange={(event) => setQuery(event.target.value)}
-          placeholder="Bir rüya sembolü ara..."
+          placeholder="Rüyanda gördüğün bir şeyi ara..."
           autoComplete="off"
-          className="w-full rounded-[22px] border border-[#d9d1c7] bg-[#faf8f4] px-14 py-5 text-base text-[#24221f] outline-none transition placeholder:text-[#a39b92] focus:border-[#aaa096] focus:ring-2 focus:ring-[#ddd5cc]"
+          className="w-full border-b border-black/25 bg-transparent py-5 pr-12 text-xl tracking-[-0.02em] text-[#24221f] outline-none placeholder:text-[#9a9288] focus:border-black md:text-2xl"
         />
+
+        <span
+          aria-hidden="true"
+          className="pointer-events-none absolute right-0 top-1/2 -translate-y-1/2 text-xl text-[#777067]"
+        >
+          ↗
+        </span>
       </div>
 
       {query.trim() && (
-        <div className="mt-4 space-y-3">
+        <div className="border-b border-black/10">
           {results.length > 0 ? (
-            results.map((symbol) => (
-              <Link
-                key={symbol.slug}
-                href={`/ruyalar/semboller/${symbol.slug}`}
-                className="block rounded-[22px] border border-[#ddd5cc] bg-[#faf8f4] px-6 py-5 transition hover:-translate-y-0.5 hover:shadow-[0_12px_30px_rgba(70,60,50,0.06)]"
-              >
-                <div className="flex items-center justify-between gap-4">
-                  <h2 className="text-lg font-normal">
+            <div className="divide-y divide-black/10">
+              {results.map((symbol) => (
+                <Link
+                  key={symbol.slug}
+                  href={`/ruyalar/semboller/${symbol.slug}`}
+                  className="grid gap-2 py-5 transition-opacity hover:opacity-60 md:grid-cols-[180px_1fr]"
+                >
+                  <span className="font-medium">
                     {symbol.title}
-                  </h2>
-
-                  <span className="shrink-0 text-sm text-[#716960]">
-                    İncele →
                   </span>
-                </div>
 
-                <p className="mt-2 text-sm leading-6 text-[#756e66]">
-                  {symbol.shortDescription}
-                </p>
-              </Link>
-            ))
+                  <span className="line-clamp-2 text-sm leading-6 text-[#777067]">
+                    {symbol.shortDescription}
+                  </span>
+                </Link>
+              ))}
+            </div>
           ) : (
-            <div className="rounded-[22px] border border-[#ddd5cc] bg-[#faf8f4] px-6 py-5">
-              <p className="text-sm text-[#756e66]">
-                Bu sembolü henüz sözlüğümüzde bulamadık.
-              </p>
-
-              <Link
-                href="/"
-                className="mt-3 inline-block text-sm text-[#4e4943] underline underline-offset-4"
-              >
-                Rüyanı anlat ve birlikte inceleyelim →
-              </Link>
+            <div className="py-7 text-sm leading-6 text-[#777067]">
+              Bu ifadeyle eşleşen yayınlanmış bir sembol bulunamadı.
             </div>
           )}
         </div>

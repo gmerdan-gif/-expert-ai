@@ -1,7 +1,10 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Neden Rüya Görürüz? | Rüyaların İşlevi ve Bilim | INUS",
+  alternates: {
+    canonical: "/ruyalar/neden-ruya-goruruz",
+  },
+  title: "Neden Rüya Görürüz? | Rüyaların İşlevi ve Bilim",
   description:
     "Neden rüya görürüz? Rüyaların bellek, duygular, günlük yaşam ve tehdit simülasyonu ile ilişkisini açıklayan teoriler ve bilimsel kanıtlar.",
 };

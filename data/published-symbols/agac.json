@@ -1,0 +1,117 @@
+{
+  "slug": "agac",
+  "title": "ağaç",
+  "shortDescription": "Ağaç sembolü, fiziksel yapısının gövdesiyle sabit duran, kökleriyle yere bağlı ve dallarıyla göğe uzanan formu sayesinde köklenme, süreklilik ve gök-yer bağlantısı gibi temaları somutlaştıran kültürel bir imgedir.",
+  "positiveAssociations": [
+    "Köklülük / kalıcılık",
+    "Bereket ve fayda sağlama",
+    "Uyanış / aydınlanma",
+    "Bilgi ve ruhsal gelişim",
+    "Aile/soy ve nesillilik"
+  ],
+  "challengingAssociations": [
+    "Kesilme veya devrilme (kaybı, bağların kopmasını çağrıştırabilir)",
+    "Kuru veya hastalıklı ağaç (yorulma, düşüş, verimsizlik çağrışımları)",
+    "Bilinmeyen türde ağaçlar (belirsizlik, tanımlanamayan durumlar)",
+    "Ağacın zarar görmesiyle ilişkilendirilen toplumsal veya kişisel kayıplar"
+  ],
+  "contextDependentAssociations": [
+    "Ağacın meyve verip vermemesi ve meyvenin niteliği",
+    "Ağaç türü (ör. hurma, zeytin gibi kültürel atıflar)",
+    "Rüyadaki kişinin ağaçla kurduğu etkileşim (korumak, kesmek, tırmanmak vb.)"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kısa rüya senaryosu — meyve veren ağaç",
+      "description": "Gür yapraklı, meyve veren bir ağaç: geleneksel bağlamlarda bolluk, yarar ve destek sağlayan bir duruma işaret edebilir."
+    },
+    {
+      "title": "Kısa rüya senaryosu — kesilen ağaç",
+      "description": "Bir ağacın kesildiğini görmek: klasik yorumlarda bağlantıların kopması, ani kayıplar veya toplumsal rollerle ilgili endişelerle ilişkilendirilebilir."
+    },
+    {
+      "title": "Kısa rüya senaryosu — türü bilinmeyen ağaç",
+      "description": "Türü tanınmayan veya garip bir ağaç belirmesi: hayatın yeni, henüz tanımlanmamış yönleri veya kimlik ve statüyle ilgili belirsizlikleri çağrıştırabilir."
+    },
+    {
+      "title": "Kısa rüya senaryosu — kutsal/anıtsal ağaç",
+      "description": "Kutsal sayılan, anıtsal bir ağaç veya hac mekânındaki ağaç: bireyin manevi yönelimi, hatırlama veya ritüel bağlamlarını vurgulayabilir."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "Klasik İslami rüya geleneğinde ağaç sembolü, kişilere, dinî yönelimlere, servete veya toplumsal konuma işaret edebilecek şekilde okunur. Belirli ağaç türleri (ör. hurma, zeytin) kültürel olarak farklı kimlik ve statülerle eşleştirilebilir; meyve vermesi yarar sağlayan bir duruma, kesilmesi veya düşmesi ise zarar ya da kayıp biçimlerine bağlanabilir. Bu okumalar geleneksel yorum pratiklerine dayanır ve ampirik psikolojik kanıt anlamına gelmez.",
+  "christianTraditions": "Hristiyan kutsal metin geleneklerinde ağaçlar yaşam, bilgelik ve kurtuluş imajlarıyla ilişkilendirilir; bazen çarmıh/haç sembolizmiyle yan yana anılır. Bu, rüya yorumu değil genel dinsel sembolizmdir ve kültürel bağlam içinde değerlendirilmelidir.",
+  "jewishTraditions": "Yahudi kutsal metin ve rabbanî yorumlarda ağaç, insanın meyve vermesi, kök salması ve ahlaki karakterle benzeştirilen bir semboldür. Talmudik benzetmelerde ağaç kesilmesi ölümü çağrıştıran metaforlar içinde yer alır; bunlar rüya yorumu değil kültürel‑etik sembolizmdir.",
+  "buddhistEasternApproaches": "Budist gelenekte, özellikle Bodhi ağacı bağlamında, ağaç uyanış ve aydınlanma imgeleriyle güçlü bir şekilde ilişkilendirilir. Budist metin ve uygulamalarda ağaçlar sağlık, bilgi ve kutsal mekân metaforu olarak yer alır; bu dinsel sembolizmin rüya bağlamına aktarımı dikkatle nitelendirilmelidir.",
+  "spiritualApproaches": "Modern spiritüel yaklaşımlarda ağaç, bağlantı, şifa, süreklilik ve gök-yer eksenini birleştiren bir metafor olarak kullanılır. Bu çağdaş yorumlar kültürel ve dinsel geleneklerden esinlenmiş olup akademik kanıt düzeyinde değerlendirilmemelidir.",
+  "comparisonTable": [
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Kişi, dinî durum, servet ve toplumsal konumla bağlantılı klasik tabirler.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Yaşam, bilgelik ve kurtuluş temaları bağlamında kutsal metin temelli sembolik okumalar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rabbanî Gelenek",
+      "interpretation": "İnsanın kök salması ve meyve vermesi üzerinden yapılan etik ve karakter benzetmeleri.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımları",
+      "interpretation": "Bodhi ve kutsal ağaç bağlamında uyanış, bilgi ve hac mekânı metaforları.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Ağaçları şifa, bağlantı ve ruhsal bütünleşme metaforu olarak kullanan çağdaş yorumlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli geleneklerde ağaç, gövdesi, kökleri ve dalları aracılığıyla yaşam döngüsünü somutlaştırır: kökler köklülüğü, gövde sürekliliği ve dayanıklılığı, dallar ise yayılma, nesillilik ve göğe dönük yönelimi simgeler. Bu fiziksel öğeler, ağaç sembolünü soyut temalardan ayırıp somut imgelerle ilişkilendirir; rüyada hangi parçanın öne çıktığı, yorumda önem taşır.",
+  "differences": "Gelenekler arasındaki farklar sembolün hangi yönüne vurgu yapıldığıyla ilgilidir. İslami yorumlar daha çok bireysel konum ve toplumsal statü okumalarına eğilirken; Hristiyan ve Yahudi metinlerde teolojik ve etik benzetmeler öne çıkar. Budist bağlamlarda ise ağaç daha çok uyanış ve kutsallık ağırlıklı yorumlanır. Bu farklılıklar rüyanın yorumu sırasında açıkça belirtilmelidir.",
+  "inusAssessment": "Ağaç sembolü tek bir anlam taşımaz; rüyanın bağlamı, ağacın fiziksel durumu, türü ve rüya sahibinin kültürel çerçevesi bir arada değerlendirilmelidir. INUS yaklaşımı, sembolün tarihsel ve geleneksel zenginliğini korurken, rüya anlamlarını deterministik hükümlere dönüştürmemeyi önerir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Trees: Bridges Between Past, Present, and Future",
+      "relevance": "Ağacın yaşam ve büyüme çağrışımlarına dair popüler kültürel bir özet; sembolü genel kültürel bağlamda ele alır.",
+      "url": "https://gardens.si.edu/learn/blog/trees-bridges-between-past-present-and-future/"
+    },
+    {
+      "title": "Tree Islamic Interpretations & Meanings",
+      "relevance": "Klasik İslami rüya tabirleri bağlamında ağaç sembolünün kişi, din, kadın, servet ve toplumsal statü ile ilişkilendirildiğini gösteren çevrimiçi bir kaynak.",
+      "url": "https://www.myislamicdream.com/tree.html"
+    },
+    {
+      "title": "Trees Islamic Interpretations & Meanings",
+      "relevance": "İslami rüya geleneğinde ağaç türleri ve görünüşlerinin farklı çağrışımlar taşıdığına dair örneklemeler sunan çevrimiçi içerik.",
+      "url": "https://www.myislamicdream.com/trees.html"
+    },
+    {
+      "title": "'He passed away because of cutting down a fig tree': The similarity ...",
+      "relevance": "Yahudi geleneklerinde insan‑ağaç benzetmeleri ve Talmudik etik çerçeveler üzerine akademik bir tartışma; rüya yorumu değil kültürel sembolizm için kullanıldı.",
+      "url": "https://hts.org.za/index.php/hts/article/view/5998/15366"
+    },
+    {
+      "title": "The Spiritual Significance of Trees | The Banner",
+      "relevance": "Hristiyan metinlerde ağaçların yaşam, kurtuluş ve eskatolojik çağrışımları üzerine genel bir inceleme; doğrudan rüya tabiri değil dinsel sembolizm kaynağı.",
+      "url": "https://www.thebanner.org/features/2020/04/the-spiritual-significance-of-trees"
+    },
+    {
+      "title": "The Tree in Buddhist Symbolism and Art - Buddhistdoor Global",
+      "relevance": "Budist sembolizmde Bodhi ağacının uyanış ve dinsel bellekteki rolünü anlatan kültürel bir kaynak.",
+      "url": "https://www.buddhistdoor.net/features/the-tree-in-buddhist-symbolism-and-art/"
+    },
+    {
+      "title": "Old lessons for new science: How sacred-tree metaphors can ...",
+      "relevance": "Budist ve Hindu geleneklerinde ağaçların sağlık, bilgi ve kutsallıkla ilişkilendirilmesine dair akademik düzeyde bir inceleme.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333903/"
+    }
+  ],
+  "relatedSlugs": []
+}

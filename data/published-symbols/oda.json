@@ -1,0 +1,106 @@
+{
+  "slug": "oda",
+  "title": "oda",
+  "shortDescription": "Oda rüya sembolü, evin ayrılmış bir bölümü olarak hem fiziksel yaşam düzeni, eş (zevce) ve güvenlik bağlamlarına işaret edebilir hem de inziva, kişisel tefekkür ve ritüel mahremiyetin mecazi karşılığı olarak okunabilir.",
+  "positiveAssociations": [
+    "Ev içi düzen ve aile mahremiyeti",
+    "Eş (zevce) veya evlilik çağrışımı (geleneksel İslami tabirlerde yer aldığı şekilde)",
+    "Korunaklı bir alan olarak dinlenme, toparlanma ve ara verme.",
+    "Temiz, aydınlık bir oda, maddi veya ruhsal ferahlığın belirtisi olarak algılanabilir."
+  ],
+  "challengingAssociations": [
+    "Karanlık, bakımsız veya kötü kokulu odalar: çözülmemiş sıkıntılar veya ev içi düzensizliklere işaret etme ihtimali",
+    "Kapalı ve dar odalar: sıkışmışlık, sosyal izolasyon veya hareket alanının kısıtlanması hissi",
+    "Odanın işlevsiz veya dağınık olması: ilişkilerde veya gündelik düzenle ilgili aksaklıkları hatırlatabilir."
+  ],
+  "contextDependentAssociations": [
+    "Odanın aydınlık veya karanlık olması",
+    "Mekânın genişliği veya darlığı",
+    "Odanın temizlik ve düzen durumu",
+    "Rüya sahibinin odadaki yalnızlık ya da kalabalık hissi; odanın evdeki işlevi (ör. yatak odası, misafir odası)"
+  ],
+  "commonVariations": [
+    {
+      "title": "Aydınlık ve Düzenli Bir Oda",
+      "description": "Ferah, temiz ve ışık alan bir odada olmak, ev içindeki düzen, zihinsel berraklık ve rahatlama duygusunu öne çıkarır; bazı kaynaklarda maddi veya manevi ferahlıkla ilişkilendirilir."
+    },
+    {
+      "title": "Karanlık ve Kötü Kokulu Oda",
+      "description": "Bakımsız, karanlık veya kötü kokulu bir odada bulunmak, içsel huzursuzluklara, ev yaşamında düzensizlik veya çözülmemiş meselelerin varlığına dikkat çeker."
+    },
+    {
+      "title": "Misafir Odası",
+      "description": "Eşyalı ve misafir ağırlamaya uygun bir oda görmek, evin dış ilişkilerle bağlantılı bir bölümü olarak yeni tanışmalar, geçici bağlar veya sosyal rollerin simgesi olabilir."
+    },
+    {
+      "title": "Kapalı Bir Odada Yalnız Kalmak",
+      "description": "Küçük, izole veya kapalı bir odada tek başına vakit geçirmek, dış dünyadan çekilme, inziva veya kişisel tefekküre yönelme ihtiyacını yansıtabilir."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "Geleneksel İslami rüya tabirlerinde oda görmek sıklıkla güvenlik, ev düzeni, eş (zevce) ve bazen maddi ferahlıkla ilişkilendirilir; odanın temizliği ve aydınlığı gibi fiziksel özellikler yorumun olumlu veya olumsuz yönünü etkileyebilir (kaynaklarda bu tür bağlantılar kaydedilmiştir).",
+  "christianTraditions": "Hristiyan sembolizminde 'oda' ve özellikle misafir odası mecazi olarak insan kalbinin veya Tanrı’ya ayrılmış içsel mekânın simgesi şeklinde ele alınır; bu yorumlar daha çok genel sembolizm düzeyindedir ve doğrudan rüya tabiri geleneği niteliğinde değildir.",
+  "jewishTraditions": "Yahudi uygulamalarında yichud odası gibi kavramlar odanın ayrılmış, mahrem ve sınırlı bir alan olma niteliğini vurgular; bu kullanım ritüel bağlamlıdır ve rüya yorumundan ziyade pratik/ritüel anlam taşır.",
+  "buddhistEasternApproaches": "Budist ve Hindu geleneklerde 'iç oda' kavramı genellikle inziva, ritüel mahremiyet ve içe dönük tefekkürle bağlantılıdır; bu bağlamlarda oda dışsal dünyanın gürültüsünden ayrılmış bir içsel çalışma alanını simgeler.",
+  "spiritualApproaches": "Spiritüel yorumlarda oda, dikkat dağıtıcı etkenlerden soyutlanmış bir bilinç alanı olarak görülür; sessizlik, iç gözlem ve ruhsal yenilenme ihtiyacını sembolize edebilir.",
+  "comparisonTable": [
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Oda, güvenlik, eş/zevce ve ev içi düzenle ilişkilendirilir; odanın fiziksel durumu (temizlik, ışık) yorumun yönünü belirler.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Oda, kalbin veya kişinin Tanrı’ya ayrılmış içsel mekânının mecazi temsili olarak kullanılır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneksel Bağlamı",
+      "interpretation": "Yichud gibi ritüel uygulamalarda oda mahremiyet ve ayrılmışlık fikrini vurgular; sembolik olarak sınırlandırılmış bir alanı işaret eder.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Doğu ve Budist Yaklaşımlar",
+      "interpretation": "İç oda, inziva, ritüel mahremiyet ve derin tefekkür ile bağlantılıdır; genelde kişisel içsel çalışmayı çağrıştırır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Oda, zihinsel gürültüden arınma, sessizlik ve içsel dönüşüm için ayrılmış bir alan olarak görülür.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli kültür ve geleneklerde oda imgesi, hem fiziksel ev ortamının bir parçası olarak aile/ev düzeniyle hem de bireyin ayrılmış içsel çalışma veya mahremiyet ihtiyacıyla ilişkilendirilir; ortak tema, odanın 'ayrılmış ve işlevsel bir alan' olarak okunmasıdır.",
+  "differences": "İslami tabirler odayı daha somut ev ve eş bağlamında ele alırken, Hristiyanlık ve doğu gelenekleri oda imgesini daha çok içsel, manevi veya ritüel bir mekânın temsili olarak yorumlar. Yahudi geleneği ise ritüel mahremiyet vurgusuyla farklı bir pratik boyut sunar.",
+  "inusAssessment": "Oda sembolü, rüya bağlamında bir INUS türü koşul (INUS: belirli koşulların nedensel analizinde kullanılan bir terim) gibi düşünülebilir: tek başına kesin bir anlam taşımaz ancak belirli fiziksel özellikleri (aydınlık/karanlık, temiz/dağınık) ve kültürel çerçeveyle birleştiğinde rüya sahibinin ev hayatı, özel ilişkileri veya içsel inziva ihtiyacı hakkında anlamlı bir işaret oluşturabilir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Rüyada Oda Görmek Ne Anlama Gelir? - Diyadinnet Rüya Tabirleri",
+      "relevance": "İslami rüya tabirleri bağlamında odanın güvenlik, eş/zevce ve maddi ferahlıkla ilişkilendirildiğini aktaran çevrimiçi yazı.",
+      "url": "https://www.diyadinnet.com/ruyada-7498-oda-gormek"
+    },
+    {
+      "title": "Topical Bible: Guestchamber",
+      "relevance": "Hristiyan sembolizminde misafir odası kavramının kalp veya içsel manevi mekânla ilişkilendirildiğini özetleyen çevrimiçi derleme.",
+      "url": "https://biblehub.com/topical/g/guestchamber.htm"
+    },
+    {
+      "title": "Yichud Room – 8 or so Minutes in Heaven — By Ben",
+      "relevance": "Yahudi uygulamalarında yichud odasının mahremiyet ve ayrılmışlık fikrini açıklayan yazılı kaynak.",
+      "url": "https://sixdegreesofkosherbacon.com/2021/05/06/yichud-room-8-or-so-minutes-in-heaven-by-ben/"
+    },
+    {
+      "title": "Room: Significance and symbolism",
+      "relevance": "Hinduizm ve Budizm’de \"iç oda\" kavramının mahremiyet, kutsallık ve içsel yönlerini özetleyen kavramsal açıklama.",
+      "url": "https://www.wisdomlib.org/concept/room"
+    },
+    {
+      "title": "Inner room: Significance and symbolism",
+      "relevance": "Tibet Budizmi ve Hint geleneklerinde 'iç oda' kavramının inziva, ritüel mahremiyet ve kişisel tefekkürle ilişkilendirildiğini ele alan kaynak.",
+      "url": "https://www.wisdomlib.org/concept/inner-room"
+    }
+  ],
+  "relatedSlugs": []
+}

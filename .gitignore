@@ -45,3 +45,39 @@ next-env.d.ts
 .agents/reports/structural-audit.json
 .agents/reports/prioritization.json
 .agents/reports/test-results.json
+
+# INUS local backups / temporary artifacts
+/.backup/
+*.before-*
+*.bak
+
+# INUS temporary validation configs
+/tsconfig.*-check.json
+
+# INUS local audit outputs
+/audit-*.ts
+/*audit*.txt
+/collision-details.txt
+/duplicate-*.txt
+
+# INUS media / archives
+/*.zip
+/*.mp3
+
+# INUS local benchmark / generated pipeline working data
+/data/benchmark-*/
+/data/generated-symbols/
+
+# INUS design / preview workspaces
+/app/design-lab/
+/app/preview/
+
+# INUS local agent working outputs
+/.agents/proposals/
+/.agents/reports/review-*.json
+
+# INUS local experiments
+/generation-test.ts
+/research-generation-test.ts
+/test-perplexity*.mts
+/video-system/

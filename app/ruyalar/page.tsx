@@ -1,7 +1,10 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Rüyalar | Rüya Analizi, Psikoloji ve Bilim | INUS",
+  alternates: {
+    canonical: "/ruyalar",
+  },
+  title: "Rüyalar | Rüya Analizi, Psikoloji ve Bilim",
   description:
     "Rüyalar nedir, neden görülür ve neden unutulur? Rüyalar, uyku, bellek, duygular, semboller ve psikolojik rüya analizi hakkında araştırmalara dayalı kapsamlı bilgiler.",
 };

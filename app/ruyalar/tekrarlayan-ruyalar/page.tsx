@@ -1,7 +1,10 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Tekrarlayan Rüyalar | Neden Aynı Rüyayı Görüyoruz? | INUS",
+  alternates: {
+    canonical: "/ruyalar/tekrarlayan-ruyalar",
+  },
+  title: "Tekrarlayan Rüyalar | Neden Aynı Rüyayı Görüyoruz?",
   description:
     "Tekrarlayan rüyalar neden görülür? Aynı rüyanın veya temanın tekrar etmesi, stres, duygular, günlük yaşam ve psikolojik rüya analizi hakkında bilimsel bilgiler.",
 };

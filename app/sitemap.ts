@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getAllDreamSymbols } from "@/data/dream-symbols";
+import { getAllPublishedSymbols } from "@/lib/symbols/repository";
 
 const baseUrl = "https://www.in-us.app";
 
@@ -22,12 +22,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/kullanim-kosullari",
   ];
 
-  const symbolRoutes = getAllDreamSymbols().map(
+  const symbolRoutes = getAllPublishedSymbols().map(
     (symbol) => `/ruyalar/semboller/${symbol.slug}`,
   );
 
   return [...staticRoutes, ...symbolRoutes].map((route) => ({
     url: `${baseUrl}${route}`,
-    lastModified: new Date(),
   }));
 }

@@ -1,0 +1,115 @@
+{
+  "slug": "yol",
+  "title": "yol",
+  "shortDescription": "Rüyada yol görmek, kişinin yaşam yönelimi, ilerleme süreçleri, yaptığı seçimler ve bireyleşme çabalarına dair işaretler taşıyabilir.",
+  "positiveAssociations": [
+    "Yaşamda net bir yön ve amaç bulma",
+    "Kişisel gelişim ve bireyleşme sürecinde ilerleme",
+    "Hedeflere ulaşmada kolaylık ve rehberlik",
+    "Doğru ve ahlaki bir istikamet takip etme"
+  ],
+  "challengingAssociations": [
+    "Kararsızlık ve hangi yöne gideceğini bilememe",
+    "Zorlu, kıvrımlı veya belirsiz süreçlerle karşılaşma",
+    "Manevi ya da zihinsel sapmalar"
+  ],
+  "contextDependentAssociations": [
+    "Yolun düz veya kıvrımlı olmasının psişik durumu yansıtması",
+    "Çoklu yol ayrımlarının yapılan seçimleri ve alternatifleri temsil etmesi",
+    "Yolun durumunun sağladığı kolaylık veya zorluğun hissedilmesi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Düz ve açık bir yolda yürümek",
+      "description": "Kişinin hayatında net bir yönelim belirlediğini, zihinsel berraklık yaşadığını ve hedeflerine doğru kararlı adımlarla ilerlediğini gösteren bir senaryodur."
+    },
+    {
+      "title": "Kıvrımlı veya belirsiz bir patikada olmak",
+      "description": "Gelişim sürecindeki dönüşümleri, arayışları, henüz netleşmemiş kararları ve kişinin hayatındaki dönemeçleri simgeleyen bir rüya motifidir."
+    },
+    {
+      "title": "Çoklu yol ayrımında kararsız kalmak",
+      "description": "Yaşamda yapılacak kritik seçimleri, farklı yönelimler arasındaki ikilemleri ve hangi yolu seçeceğine dair yaşanan içsel karar verme sürecini temsil eder."
+    },
+    {
+      "title": "Engelli veya zorlu bir yolda ilerlemek",
+      "description": "Hedefe ulaşırken karşılaşılan zorlukları, mücadele alanlarını ve kişinin bu süreçte yaşadığı zihinsel ya da pratik engelleri yansıtır."
+    }
+  ],
+  "psychology": "",
+  "jungian": "Jungçu analitik psikoloji çerçevesinde yol, bireyin yaşam yönünü ve bireyleşme sürecini görünür kılan bir semboldür. Düz, açık bir yol kişinin psişik yönelimiyle uyumunu; kıvrımlı, engebeli veya belirsiz bir yol ise gelişim sürecindeki dönüşümleri ve içsel arayışları ima edebilir.",
+  "islamicTradition": "Klasik rüya tabiri geleneklerinde yol, şeriat ve dinî istikametle ilişkilendirilir. Düz ve tek yol doğru dinî yönelişi ve istikameti simgelerken, tali yollar ve çoklu ayrımlar bid'at ve sapma ihtimalleri bağlamında ele alınmıştır. Yolun durumu ayrıca rüya görenin hayatındaki kolaylık, zorluk ve rehberlik arayışını yansıtabilir.",
+  "christianTraditions": "Kutsal metin sembolizminde 'yol' veya 'patika', ahlaki davranış, yaşam biçimi ve Tanrı'ya bağlı yönelimi ifade eden mecazî bir hattır. Örneğin Yeşaya'daki 'kutsallık yolu' ifadesi doğruluk ve kutsal yaşama giden yönelimi simgeler; bu tür kullanımlar doğrudan rüya yorumu değil, genel sembolizmdir.",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "Budist gelenekte 'yol' (mārga), acıdan özgürlüğe götüren pratik ve öğreti hattını ifade eder; Sekiz Katlı Yol bu hattın temel çerçevesidir. Rüyalarda veya öğretisel anlatılarda 'yol' motifi, Dharma'ya doğru yönelimi ve erken Budist bağlamlarda bodhisattva ilerleyişiyle ilişkilendirilebilecek aşamalar fikrini çağrıştırabilir.",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Jungçu Analitik Psikoloji",
+      "interpretation": "Bireyleşme sürecinin, içsel yönelimin ve yaşam çizgisinin görsel bir ifadesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Klasik İslami Tabir",
+      "interpretation": "Doğru dinî istikamet (şeriat), kolaylık-zorluk ekseni ve sapma ihtimallerini simgeler.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Kutsal Metin Sembolizmi",
+      "interpretation": "Ahlaki davranış, yaşam biçimi ve Tanrı'nın buyruklarına bağlı yönelimi mecazlaştırır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımı",
+      "interpretation": "Acıdan özgürleşmeye götüren pratikler ve mārga kavramı bağlamında yöneliş ve aşamaları temsil eder.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Çoğu gelenekte yol sembolü durağanlıktan ziyade hareketi, yönelimi, ilerlemeyi ve ahlaki istikameti temsil etme eğilimindedir.",
+  "differences": "Psikolojik yaklaşımlar yol sembolünü bireyin içsel psişik gelişimi ve bireyleşmesi üzerinden okurken; dinî ve geleneksel yaklaşımlar bunu ilahi rehberlik, şeriat, kutsal metin buyrukları veya doktrinel aşamalar çerçevesinde yorumlar.",
+  "inusAssessment": "Yol sembolü, belirli bir sonucu öngörmekten ziyade kişinin içsel yönelimlerini, seçimlerini ve yaşam geçişlerini okumaya yarayan bir işarettir. Anlamı, yolun fiziksel niteliği ve rüya görenin uyanık yaşam bağlamıyla ilişkisi üzerinden şekillenir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Road - Dreampaths",
+      "relevance": "Yol imgesini Jungçu psikoloji bağlamında kişisel yol, yaşam çizgisi ve bireyleşme temalarıyla ilişkilendirir.",
+      "url": "https://dreampaths.com/symbol/road"
+    },
+    {
+      "title": "Rüyada Yol görmek - İhya",
+      "relevance": "Klasik İslami rüya tabiri literatüründe yolun şeriat, doğru yöneliş ve bid'at karşıtlığıyla nasıl ilişkilendirildiğini aktaran çevrimiçi bir kaynaktır.",
+      "url": "https://ruya.ihya.org/ruyada-yol-gormek.html"
+    },
+    {
+      "title": "Isaiah 35:8 And there will be a highway called the Way of ...",
+      "relevance": "Yeşaya 35:8'de geçen 'kutsallık yolu' ifadesiyle yolun doğruluk ve kutsal yaşama giden mecazî anlamını gösterir.",
+      "url": "https://biblehub.com/isaiah/35-8.htm"
+    },
+    {
+      "title": "Topical Bible: The Path",
+      "relevance": "Kutsal Kitap'ta 'yol' kavramının yaşam yolu, ahlaki yönelim ve Tanrı buyruklarına bağlılık için mecaz olarak kullanımını özetler.",
+      "url": "https://biblehub.com/topical/t/the_path.htm"
+    },
+    {
+      "title": "[PDF] Dream Interpretation in Buddhism and Contemporary Psychotherapy",
+      "relevance": "Budist rüya anlatılarında Dharma'nın 'yol' olarak sembolik kurulumu ve yolun hedefe uzanma temasını ele alır.",
+      "url": "https://thecjbs.org/wp-content/uploads/2025/04/McCullough-Shiu_Dreaming-Buddha_19.pdf"
+    },
+    {
+      "title": "[PDF] Dreaming the path: diagnosing Bodhisattva progress in early ...",
+      "relevance": "Erken Budist bağlamlarda rüyaların bodhisattva ilerleyişi, işaretler ve aşama fikriyle bağlantısını inceler.",
+      "url": "https://scholarlypublications.universiteitleiden.nl/access/item:4105024/view"
+    },
+    {
+      "title": "[PDF] THE TEACHING OF BUDDHA",
+      "relevance": "'Sekiz Katlı Yol' kavramını Budist pratiğin temel yolu ve Dharma Çarkı sembolizmini açıklayan bir unsur olarak ele alır.",
+      "url": "https://www.bdk.or.jp/pdf/buddhist-scriptures/02_english/1_mokuji.pdf"
+    },
+    {
+      "title": "Buddhism - Mārga (Path) - Oxford Bibliographies",
+      "relevance": "Budizmde mārga kavramının önemini ve diğer geleneklerle ilişkisini özetleyen akademik bir kaynak girişidir.",
+      "url": "https://academic.oup.com/reference/62340/reference-article-abstract/554132843?redirectedFrom=fulltext"
+    }
+  ],
+  "relatedSlugs": []
+}

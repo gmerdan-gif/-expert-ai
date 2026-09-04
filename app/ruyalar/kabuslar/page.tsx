@@ -1,7 +1,10 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Kâbuslar ve Yoğun Rüyalar | Neden Kâbus Görürüz? | INUS",
+  alternates: {
+    canonical: "/ruyalar/kabuslar",
+  },
+  title: "Kâbuslar ve Yoğun Rüyalar | Neden Kâbus Görürüz?",
   description:
     "Kâbus nedir, neden görülür ve stresle ilişkisi nedir? Kötü rüyalar, kâbus bozukluğu, travma, uyku ve yoğun rüyalar hakkında bilimsel bilgiler.",
 };

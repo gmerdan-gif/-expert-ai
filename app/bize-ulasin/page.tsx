@@ -1,3 +1,11 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: "/bize-ulasin",
+  },
+};
+
 export default function BizeUlasin() {
   return (
     <main className="min-h-screen bg-[#f5f1ea] text-[#24221f]">

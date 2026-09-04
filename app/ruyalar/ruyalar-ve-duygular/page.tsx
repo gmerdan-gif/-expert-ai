@@ -1,7 +1,10 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Rüyalar ve Duygular | Korku, Stres ve Rüya Araştırmaları | INUS",
+  alternates: {
+    canonical: "/ruyalar/ruyalar-ve-duygular",
+  },
+  title: "Rüyalar ve Duygular | Korku, Stres ve Rüya Araştırmaları",
   description:
     "Rüyalar ve duygular arasındaki ilişki nedir? Korku, stres, özlem, öfke, mutluluk, REM uykusu ve günlük yaşamın rüya duygularına etkisi hakkında bilimsel bilgiler.",
 };

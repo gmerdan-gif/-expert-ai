@@ -1,0 +1,85 @@
+{
+  "slug": "hastane",
+  "title": "hastane",
+  "shortDescription": "Rüyalarda hastane teması; şifa, kırılganlık, bakım ihtiyacı ve içsel toparlanma süreçleriyle ilişkilendirilen bir eşik mekânı olarak karşımıza çıkar.",
+  "positiveAssociations": [
+    "Şifa ve iyileşme",
+    "Merhamet ve şefkat",
+    "İçsel toparlanma",
+    "Uzman desteği alma"
+  ],
+  "challengingAssociations": [
+    "Acı ve ıstırap hissi",
+    "Kırılganlık",
+    "Kriz ve eşik anları",
+    "Destek gerektiren zorluklar"
+  ],
+  "contextDependentAssociations": [
+    "Zihinsel veya bedensel yorgunluk",
+    "Hayatta yeni bir denge arayışı",
+    "Yardımı kabul etme yeteneği"
+  ],
+  "commonVariations": [
+    {
+      "title": "Hastanede doktor veya uzman bakımı görmek",
+      "description": "Rüyada bir sağlık çalışanından destek aldığını fark etmek, kişinin yaşamındaki bir sorunu çözmek için dışarıdan rehberlik arayışına işaret edebilir."
+    },
+    {
+      "title": "Hastane koridorlarında yönünü kaybetmek",
+      "description": "Karmaşık bir iyileşme sürecinde veya belirsizlik barındıran bir yaşam evresinde nereye yönleneceğini bilememe hissini yansıtır."
+    },
+    {
+      "title": "Hastaneden taburcu olup çıkmak",
+      "description": "Zorlu bir dönemin geride kalmaya başladığını, yüklerin hafiflediğini ve içsel bir toparlanma evresine girildiğini simgeler."
+    },
+    {
+      "title": "Ziyaretçi olarak hastanede bulunmak",
+      "description": "Duygusal dengesini koruyarak başkalarının acılarına ve hassas durumlarına şefkatle yaklaşma eğilimini gösterir."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "Budist ve Doğu geleneklerine yakın çağdaş yorumlarda hastane, yaşamın kaçınılmaz zorlukları ve ıstırapları (dukkha) karşısında merhametli bakımın ve şifanın merkezidir. Bu bağlamda hastane, yalnızca bedensel bir iyileşme alanı değil, aynı zamanda şefkatin ve içsel dönüşümün deneyimlendiği bir geçiş mekânıdır.",
+  "spiritualApproaches": "Spiritüel perspektiflerde hastane, kişinin ruhsal veya bedensel olarak kırılganlık yaşadığı, derin bir kabulleniş ve teslimiyet eşiğidir. İçsel yaraların ele alınması, bakım alma ihtiyacı ve onarım süreçleri bu mekân üzerinden anlam bulur.",
+  "comparisonTable": [
+    {
+      "approach": "Budist ve Doğu Yaklaşımı",
+      "interpretation": "Hastane, yaşamın ıstırabı (dukkha) karşısında şefkat, merhamet ve şifaya açılan bir geçiş alanı olarak ele alınır.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Kırılganlık, uzman desteği gereksinimi ve içsel yaraların onarılması için bir teslimiyet eşiği şeklinde yorumlanır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar hastaneyi ortak bir paydada, zorluklarla baş etme, şifa arayışı ve bakım alma ihtiyacının somutlaştığı bir alan olarak ele alır.",
+  "differences": "Budist yaklaşımlar temayı yaşamın kaçınılmaz ıstırabı ve şefkat ekseninde değerlendirirken, genel spiritüel yaklaşımlar daha çok kişisel kırılganlık ve eşik dönemlere odaklanır.",
+  "inusAssessment": "Hastane sembolü, doğrudan doğrulanmış ampirik veya klasik psikanalitik veri setlerinden yoksun olmakla birlikte, Doğu felsefesi ve spiritüel yaklaşımlarda belirgin bir anlam kümesine sahiptir. Bu sembolü ele alırken kesin öngörülerde bulunmaktan kaçınmak, rüya görenin şifa, bakım ve kırılganlık temalarını kendi yaşam bağlamında değerlendirmesi en temkinli yaklaşımdır.",
+  "faq": [
+    {
+      "question": "Rüyada hastane görmek her zaman bir hastalığa mı işaret eder?",
+      "answer": "Hayır. Rüya sembolleri düz birer kehanet değildir; hastane teması genellikle fiziksel bir rahatsızlıktan ziyade yaşamdaki zorluklar, şifa arayışı veya içsel toparlanma süreçleriyle ilişkilendirilir."
+    },
+    {
+      "question": "Budist perspektifte hastane rüyaları nasıl ele alınır?",
+      "answer": "Budist bağlamda hastane, yaşamın içindeki kaçınılmaz zorluklar (dukkha) ve bu zorluklar karşısında gösterilen merhametli bakım, şifa ve şefkat pratikleriyle bağdaştırılır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hospital Dream Meaning & Interpretation - Mirror",
+      "relevance": "Budist perspektifiyle hastaneyi dukkha, şefkat ve şifa bağlamında yorumlayan modern bir açıklama sunar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/hospital/"
+    },
+    {
+      "title": "Dream About Hospital - Meaning & Interpretation | Satyori",
+      "relevance": "Doğu geleneklerinde hastaneyi şifa, kriz ve ruhsal bakım alanı olarak ele alan modern bir yorum sunar.",
+      "url": "https://satyori.com/dreams/hospital/"
+    }
+  ],
+  "relatedSlugs": []
+}

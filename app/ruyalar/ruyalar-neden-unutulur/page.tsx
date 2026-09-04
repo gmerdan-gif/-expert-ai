@@ -1,7 +1,10 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Rüyalar Neden Unutulur? | Rüya Hatırlama ve Bilim | INUS",
+  alternates: {
+    canonical: "/ruyalar/ruyalar-neden-unutulur",
+  },
+  title: "Rüyalar Neden Unutulur? | Rüya Hatırlama ve Bilim",
   description:
     "Rüyalar neden unutulur? Rüya hatırlama, REM ve NREM uykusu, uyanma, bellek ve bireysel farklılıklar hakkında bilimsel ve kaynaklı bilgiler.",
 };

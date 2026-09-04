@@ -1,7 +1,10 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Rüya Nedir? | Rüya Deneyimi ve Bilim | INUS",
+  alternates: {
+    canonical: "/ruyalar/ruya-nedir",
+  },
+  title: "Rüya Nedir? | Rüya Deneyimi ve Bilim",
   description:
     "Rüya nedir? Rüya deneyimi nasıl oluşur, REM ve NREM uykusunda rüyalar nasıl farklılaşır ve bilim rüyalar hakkında ne biliyor? Araştırmalara dayalı kapsamlı rehber.",
 };
