@@ -1,5 +1,4 @@
 import Link from "next/link";
-import SiteFooter from "@/components/layout/SiteFooter";
 
 export const metadata = {
   alternates: {
@@ -19,10 +18,10 @@ const sources = [
     url: "https://pubmed.ncbi.nlm.nih.gov/28394322/",
   },
   {
-    authors: "Scarpelli, S. et al. (2022)",
+    authors: "Perogamvros, L. et al. (2022)",
     title: "What about dreams? State of the art and open questions",
-    journal: "Journal of Sleep Research, 31(4), e13609.",
-    detail: "PMID 35417930 · PMCID PMC9539486 · DOI 10.1111/jsr.13609",
+    journal: "Journal of Sleep Research",
+    detail: "PMID 35417930 · DOI 10.1111/jsr.13609",
     url: "https://pubmed.ncbi.nlm.nih.gov/35417930/",
   },
   {
@@ -33,7 +32,7 @@ const sources = [
     url: "https://pubmed.ncbi.nlm.nih.gov/36572252/",
   },
   {
-    authors: "Fazekas, P. & Nemeth, G. (2018)",
+    authors: "Siclari, F. et al. (2018)",
     title: "Dream experiences and the neural correlates of perceptual consciousness and cognitive access",
     journal: "Philosophical Transactions of the Royal Society B",
     detail: "PMID 30061469 · DOI 10.1098/rstb.2017.0356",
@@ -46,21 +45,6 @@ const sources = [
     journal: "Consciousness and Cognition",
     detail: "PMID 20933438 · DOI 10.1016/j.concog.2010.09.010",
     url: "https://pubmed.ncbi.nlm.nih.gov/20933438/",
-  },
-  {
-    authors: "Tononi, G., Boly, M. & Cirelli, C. (2024)",
-    title: "Consciousness and sleep",
-    journal: "Neuron, 112(10), 1568–1594.",
-    detail: "PMID 38697113 · DOI 10.1016/j.neuron.2024.04.011",
-    url: "https://pubmed.ncbi.nlm.nih.gov/38697113/",
-  },
-  {
-    authors: "Stucky, B. (2025)",
-    title:
-      "We are the Sensors of Consciousness! A Review and Analysis on How Awakenings During Sleep Influence Dream Recall",
-    journal: "Nature and Science of Sleep, 17, 709–729.",
-    detail: "PMID 40330584 · DOI 10.2147/NSS.S506461",
-    url: "https://pubmed.ncbi.nlm.nih.gov/40330584/",
   },
 ];
 
@@ -118,86 +102,63 @@ export default function DreamWhatIsPage() {
         }}
       />
 
-      <div className="mx-auto w-full max-w-6xl px-5 sm:px-8">
+      <div className="mx-auto w-full max-w-4xl px-5 sm:px-8">
         {/* HEADER */}
-        <header className="flex items-center justify-between py-6">
+        <header className="flex items-center justify-between py-7">
           <Link
             href="/"
-            className="text-lg font-medium tracking-[0.28em] transition hover:opacity-70"
+            className="text-xl font-medium tracking-[0.28em]"
           >
             INUS
           </Link>
 
-          <div className="flex items-center gap-7 text-sm text-[#625c54]">
-            <Link
-              href="/ruyalar"
-              className="transition hover:text-[#24221f]"
-            >
-              Rüya Kütüphanesi
-            </Link>
-
-            <Link
-              href="/ruyalar/semboller"
-              className="hidden transition hover:text-[#24221f] sm:inline"
-            >
-              Rüya Sembolleri
-            </Link>
-          </div>
+          <Link
+            href="/ruyalar"
+            className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
+          >
+            Rüya Kütüphanesi
+          </Link>
         </header>
 
         {/* BREADCRUMB */}
-        <nav
-          className="border-t border-[#d9d2c9] pt-6 text-[11px] text-[#91887e]"
-          aria-label="Breadcrumb"
-        >
-          <Link
-            href="/ruyalar"
-            className="transition hover:text-[#24221f]"
-          >
-            Rüya Kütüphanesi
+        <nav className="pt-10 text-xs text-[#8a8177]" aria-label="Breadcrumb">
+          <Link href="/ruyalar" className="hover:text-[#24221f]">
+            Rüyalar
           </Link>
           <span className="mx-2">/</span>
           <span>Rüya nedir?</span>
         </nav>
 
         {/* HERO */}
-        <header className="pb-14 pt-12 sm:pb-20 sm:pt-16">
-          <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:gap-14">
-            <div>
-              <p className="mb-5 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
-                RÜYA ARAŞTIRMALARI
-              </p>
+        <header className="pb-14 pt-10 sm:pb-18 sm:pt-14">
+          <p className="mb-5 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
+            RÜYA ARAŞTIRMALARI
+          </p>
 
-              <h1 className="max-w-xl text-[52px] font-light leading-[0.98] tracking-[-0.045em] sm:text-[68px] md:text-[78px]">
-                Rüya
-                <br />
-                nedir?
-              </h1>
-            </div>
+          <h1 className="max-w-3xl text-5xl font-light tracking-tight sm:text-6xl">
+            Rüya nedir?
+          </h1>
 
-            <div className="flex flex-col justify-end">
-              <p className="max-w-2xl text-[17px] font-light leading-8 text-[#625c54]">
-                Rüya, uyku sırasında ortaya çıkan görsel imgeler, düşünceler,
-                duygular, kişiler, mekânlar ve olay örgülerinden oluşabilen bir
-                bilinçli deneyim biçimidir.
-              </p>
+          <p className="mt-7 max-w-3xl text-lg font-light leading-8 text-[#686158]">
+            Rüya, uyku sırasında ortaya çıkan görsel imgeler, düşünceler,
+            duygular, kişiler, mekânlar ve olay örgülerinden oluşabilen bir
+            bilinçli deneyim biçimidir.
+          </p>
 
-              <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#81786e]">
-                Ancak rüyayı yalnızca “uyurken görülen bir hikâye” olarak
-                tanımlamak yetersiz kalır. Modern araştırmalar, rüya deneyiminin
-                farklı uyku evrelerinde ortaya çıkabildiğini ve bilinç
-                araştırmaları açısından önemli bir pencere sunduğunu gösteriyor.
-              </p>
-            </div>
-          </div>
+          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#817970]">
+            Ancak rüyayı yalnızca “uyurken görülen bir hikâye” olarak
+            tanımlamak yetersiz kalır. Modern araştırmalar, rüya deneyiminin
+            farklı uyku evrelerinde ortaya çıkabildiğini ve bilinç
+            araştırmaları açısından önemli bir pencere sunduğunu gösteriyor.
+          </p>
         </header>
 
         {/* ARTICLE */}
-        <article className="border-t border-[#d9d2c9] py-14 sm:py-16">
-          <div className="divide-y divide-[#d9d2c9] text-[15px] leading-8 text-[#454039] [&>section]:py-12 [&>section:first-child]:pt-0 [&>section:last-child]:pb-0 lg:[&>section]:grid lg:[&>section]:grid-cols-[0.9fr_1.1fr] lg:[&>section]:gap-x-14 lg:[&>section>h2]:col-start-1 lg:[&>section>h2]:row-start-1 lg:[&>section>:not(h2)]:col-start-2">
+        <article className="rounded-[30px] border border-[#d9d1c7] bg-[#faf8f4] px-7 py-10 sm:px-12 sm:py-14">
+          <div className="space-y-12 text-[15px] leading-8 text-[#454039]">
             {/* 1 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 Rüya deneyimi nedir?
               </h2>
 
@@ -225,7 +186,7 @@ export default function DreamWhatIsPage() {
 
             {/* 2 */}
             <section>
-              <h2 className="text-2xl font-light tracking-[-0.025em] sm:text-3xl">
+              <h2 className="text-2xl font-normal">
                 Rüyalar gerçekten uyurken mi görülür?
               </h2>
 
@@ -244,7 +205,7 @@ export default function DreamWhatIsPage() {
                 duygu, beden hissi veya daha soyut bir deneyim raporlanabilir.
               </p>
 
-              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
+              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>Önemli ayrım:</strong> “Rüya” ile “rüya
                   hatırlama” aynı şey değildir. Bir kişi sabah hiçbir şey
@@ -256,7 +217,7 @@ export default function DreamWhatIsPage() {
 
             {/* 3 */}
             <section>
-              <h2 className="text-2xl font-light tracking-[-0.025em] sm:text-3xl">
+              <h2 className="text-2xl font-normal">
                 REM uykusu ile rüyalar arasındaki ilişki
               </h2>
 
@@ -282,13 +243,13 @@ export default function DreamWhatIsPage() {
               <p className="mt-4">
                 Güncel çalışmalar REM ve NREM arasındaki klasik ayrımın rüya
                 deneyimini açıklamak için tek başına yeterli olmadığını
-                gösteriyor.
+                gösteriyor.  [oai_citation:1‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36572252/?utm_source=chatgpt.com)
               </p>
             </section>
 
             {/* 4 */}
             <section>
-              <h2 className="text-2xl font-light tracking-[-0.025em] sm:text-3xl">
+              <h2 className="text-2xl font-normal">
                 NREM uykusunda da rüya görülür mü?
               </h2>
 
@@ -311,7 +272,7 @@ export default function DreamWhatIsPage() {
                 araştırıyor.
               </p>
 
-              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
+              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>Araştırmaların önemli sonucu:</strong> Rüya
                   deneyiminin varlığı ile belirli bir uyku evresini birebir
@@ -323,7 +284,7 @@ export default function DreamWhatIsPage() {
 
             {/* 5 */}
             <section>
-              <h2 className="text-2xl font-light tracking-[-0.025em] sm:text-3xl">
+              <h2 className="text-2xl font-normal">
                 Rüya görmek ile bilinç arasındaki ilişki
               </h2>
 
@@ -349,13 +310,13 @@ export default function DreamWhatIsPage() {
               <p className="mt-4">
                 Rüya araştırmaları bu nedenle yalnızca uyku araştırmaları için
                 değil, bilinç ve öznel deneyimin nasıl oluştuğunu anlamak için
-                de önemlidir.
+                de önemlidir.  [oai_citation:2‡PubMed](https://pubmed.ncbi.nlm.nih.gov/38697113/?utm_source=chatgpt.com)
               </p>
             </section>
 
             {/* 6 */}
             <section>
-              <h2 className="text-2xl font-light tracking-[-0.025em] sm:text-3xl">
+              <h2 className="text-2xl font-normal">
                 Rüyaların neden görüldüğünü biliyor muyuz?
               </h2>
 
@@ -374,10 +335,10 @@ export default function DreamWhatIsPage() {
                 Bazı bulgular rüya içeriğinin bellek ve duygularla ilişkili
                 olabileceğini düşündürüyor. Ancak bu ilişkilerden yola çıkarak
                 rüyaların tek bir biyolojik “amacı” olduğunu söylemek için
-                yeterli kanıt bulunmuyor.
+                yeterli kanıt bulunmuyor.  [oai_citation:3‡PubMed](https://pubmed.ncbi.nlm.nih.gov/35417930/?utm_source=chatgpt.com)
               </p>
 
-              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
+              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>Bilimsel olarak doğru ifade:</strong> “Rüyaların
                   amacı kesin olarak budur” demek yerine, “şu süreçlerle
@@ -389,7 +350,7 @@ export default function DreamWhatIsPage() {
 
             {/* 7 */}
             <section>
-              <h2 className="text-2xl font-light tracking-[-0.025em] sm:text-3xl">
+              <h2 className="text-2xl font-normal">
                 Neden bazı rüyaları hatırlıyoruz?
               </h2>
 
@@ -411,13 +372,13 @@ export default function DreamWhatIsPage() {
                 gerçekleştirilen 69 uyanma çalışmasını inceleyerek rüya
                 hatırlamanın yalnızca rüyanın içeriğiyle değil, uyanma yöntemi
                 ve bireysel özelliklerle de ilişkili olabileceğini vurguladı.
-                
+                 [oai_citation:4‡PubMed](https://pubmed.ncbi.nlm.nih.gov/40330584/?utm_source=chatgpt.com)
               </p>
             </section>
 
             {/* 8 */}
             <section>
-              <h2 className="text-2xl font-light tracking-[-0.025em] sm:text-3xl">
+              <h2 className="text-2xl font-normal">
                 Rüyaların tek bir anlamı var mı?
               </h2>
 
@@ -443,12 +404,12 @@ export default function DreamWhatIsPage() {
 
             {/* 9 */}
             <section>
-              <h2 className="text-2xl font-light tracking-[-0.025em] sm:text-3xl">
+              <h2 className="text-2xl font-normal">
                 Bilim neyi biliyor, neyi henüz bilmiyor?
               </h2>
 
               <div className="mt-6 grid gap-4 sm:grid-cols-2">
-                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
+                <div className="rounded-2xl bg-[#eee8df] p-6">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
                     DAHA İYİ BİLDİKLERİMİZ
                   </p>
@@ -461,7 +422,7 @@ export default function DreamWhatIsPage() {
                   </ul>
                 </div>
 
-                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
+                <div className="rounded-2xl bg-[#eee8df] p-6">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
                     HÂLÂ AÇIK SORULAR
                   </p>
@@ -478,7 +439,7 @@ export default function DreamWhatIsPage() {
 
             {/* 10 */}
             <section>
-              <h2 className="text-2xl font-light tracking-[-0.025em] sm:text-3xl">
+              <h2 className="text-2xl font-normal">
                 INUS rüyalara nasıl yaklaşıyor?
               </h2>
 
@@ -502,7 +463,7 @@ export default function DreamWhatIsPage() {
                 psikolojik açılardan bakabilmesini sağlamaktır.
               </p>
 
-              <blockquote className="mt-8 border-l border-[#9b9186] py-1 pl-6 text-xl font-light leading-8 tracking-[-0.015em] text-[#625c54]">
+              <blockquote className="mt-7 border-l-2 border-[#9b9186] pl-6 text-xl font-light leading-8 text-[#625c54]">
                 “Bir rüyanın anlamını bulmak kadar, o rüyanın neden tam da
                 şimdi ortaya çıktığını sormak da önemlidir.”
               </blockquote>
@@ -511,40 +472,40 @@ export default function DreamWhatIsPage() {
         </article>
 
         {/* SOURCES */}
-        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
-          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+        <section className="py-16 sm:py-20">
+          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
             KAYNAKLAR
           </p>
 
-          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
-            Araştırma ve literatür.
+          <h2 className="mt-4 text-3xl font-light">
+            Araştırma ve literatür
           </h2>
 
-          <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#6f675e]">
+          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#686158]">
             Bu sayfadaki bilimsel açıklamalar, hakemli dergilerde yayımlanmış
             derlemeler ve deneysel çalışmalar temel alınarak hazırlanmıştır.
             Kaynakların tamamı bağımsız olarak incelenebilir.
           </p>
 
-          <div className="mt-10 grid gap-x-10 gap-y-8 md:grid-cols-2">
+          <div className="mt-8 space-y-5">
             {sources.map((source) => (
               <article
                 key={source.title}
-                className="border-t border-[#d9d2c9] pt-5"
+                className="rounded-2xl border border-[#ddd5cb] bg-[#faf8f4] p-6"
               >
                 <p className="text-sm font-medium text-[#454039]">
                   {source.authors}
                 </p>
 
-                <p className="mt-2 text-[13px] leading-6 text-[#625c54]">
+                <p className="mt-1 text-sm leading-7 text-[#625c54]">
                   <em>{source.title}</em>
                 </p>
 
-                <p className="mt-2 text-xs leading-6 text-[#91887e]">
+                <p className="mt-1 text-xs text-[#8a8177]">
                   {source.journal}
                 </p>
 
-                <p className="mt-1 text-[10px] tracking-wide text-[#aaa198]">
+                <p className="mt-2 text-xs text-[#aaa198]">
                   {source.detail}
                 </p>
 
@@ -552,7 +513,7 @@ export default function DreamWhatIsPage() {
                   href={source.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="mt-3 inline-block text-xs text-[#625c54] underline decoration-[#bdb4aa] underline-offset-4 transition hover:text-[#24221f]"
+                  className="mt-3 inline-block text-xs text-[#625c54] underline underline-offset-4 hover:text-[#24221f]"
                 >
                   PubMed kaydını görüntüle →
                 </a>
@@ -562,26 +523,26 @@ export default function DreamWhatIsPage() {
         </section>
 
         {/* FAQ */}
-        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
-          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+        <section className="pb-16 sm:pb-20">
+          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
             SIK SORULAN SORULAR
           </p>
 
-          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
-            Rüya hakkında sık sorulanlar.
+          <h2 className="mt-4 text-3xl font-light">
+            Rüya hakkında sık sorulanlar
           </h2>
 
-          <div className="mt-10 overflow-hidden rounded-xl border border-[#d9d1c7] bg-[#faf8f4]">
+          <div className="mt-8 space-y-4">
             {faqs.map((faq) => (
               <article
                 key={faq.question}
-                className="border-b border-[#ded6cc] p-6 last:border-b-0 sm:p-7"
+                className="rounded-[24px] border border-[#d9d1c7] bg-[#faf8f4] p-6"
               >
-                <h3 className="text-lg font-light tracking-[-0.015em]">
+                <h3 className="text-lg font-normal">
                   {faq.question}
                 </h3>
 
-                <p className="mt-3 max-w-4xl text-[14px] leading-7 text-[#6f675e]">
+                <p className="mt-3 text-sm leading-7 text-[#686158]">
                   {faq.answer}
                 </p>
               </article>
@@ -589,36 +550,33 @@ export default function DreamWhatIsPage() {
           </div>
         </section>
 
-        {/* DREAM BRIDGE */}
-        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
-          <div className="grid gap-10 lg:grid-cols-[1fr_auto] lg:items-end">
-            <div>
-              <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
-                KENDİ RÜYANA DÖN
-              </p>
+        {/* CTA */}
+        <section className="mb-16 rounded-[30px] bg-[#292621] px-7 py-12 text-center text-white sm:mb-20 sm:px-12">
+          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
+            INUS
+          </p>
 
-              <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
-                Şimdi kendi rüyana bak.
-              </h2>
+          <h2 className="mt-4 text-3xl font-light">
+            Kendi rüyanı keşfet.
+          </h2>
 
-              <p className="mt-5 max-w-2xl text-[15px] leading-8 text-[#625c54]">
-                Rüyanı kendi kelimelerinle anlat. INUS, rüyanın olaylarını,
-                sembollerini ve duygularını birlikte değerlendirerek farklı
-                psikolojik bakış açıları sunar.
-              </p>
-            </div>
+          <p className="mx-auto mt-4 max-w-xl text-sm leading-7 text-[#d4cec5]">
+            Rüyanı kendi kelimelerinle anlat. INUS, rüyanın olaylarını,
+            sembollerini ve duygularını birlikte değerlendirerek farklı
+            psikolojik bakış açıları sunar.
+          </p>
 
-            <Link
-              href="/"
-              className="inline-flex items-center gap-8 rounded-full bg-[#292621] px-7 py-3.5 text-sm text-white transition hover:bg-[#403b35]"
-            >
-              Rüyanı anlat
-              <span aria-hidden="true">→</span>
-            </Link>
-          </div>
+          <Link
+            href="/"
+            className="mt-7 inline-flex rounded-full bg-white px-7 py-3 text-sm text-[#292621] transition hover:bg-[#eee8df]"
+          >
+            Rüyamı analiz et
+          </Link>
         </section>
 
-        <SiteFooter />
+        <footer className="pb-8 text-center text-xs text-[#aaa198]">
+          INUS · Rüyalar hakkında araştırma ve psikolojik yaklaşım
+        </footer>
       </div>
     </main>
   );

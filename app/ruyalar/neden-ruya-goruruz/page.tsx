@@ -1,5 +1,4 @@
 import Link from "next/link";
-import SiteFooter from "@/components/layout/SiteFooter";
 
 export const metadata = {
   alternates: {
@@ -12,10 +11,10 @@ export const metadata = {
 
 const sources = [
   {
-    authors: "Scarpelli, S. et al. (2022)",
+    authors: "Perogamvros, L. et al. (2022)",
     title: "What about dreams? State of the art and open questions",
-    journal: "Journal of Sleep Research, 31(4), e13609.",
-    detail: "PMID 35417930 · PMCID PMC9539486 · DOI 10.1111/jsr.13609",
+    journal: "Journal of Sleep Research",
+    detail: "PMID 35417930 · DOI 10.1111/jsr.13609",
     url: "https://pubmed.ncbi.nlm.nih.gov/35417930/",
   },
   {
@@ -120,19 +119,19 @@ export default function WhyDreamPage() {
         }}
       />
 
-      <div className="mx-auto w-full max-w-6xl px-5 sm:px-8">
+      <div className="mx-auto w-full max-w-4xl px-5 sm:px-8">
         {/* HEADER */}
-        <header className="flex items-center justify-between py-6">
+        <header className="flex items-center justify-between py-7">
           <Link
             href="/"
-            className="text-lg font-medium tracking-[0.28em] transition hover:opacity-70"
+            className="text-xl font-medium tracking-[0.28em]"
           >
             INUS
           </Link>
 
           <Link
             href="/ruyalar"
-            className="text-sm text-[#625c54] transition hover:text-[#24221f]"
+            className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
           >
             Rüya Kütüphanesi
           </Link>
@@ -140,7 +139,7 @@ export default function WhyDreamPage() {
 
         {/* BREADCRUMB */}
         <nav
-          className="border-t border-[#d9d2c9] pt-6 text-[11px] text-[#91887e]"
+          className="pt-10 text-xs text-[#8a8177]"
           aria-label="Breadcrumb"
         >
           <Link href="/ruyalar" className="hover:text-[#24221f]">
@@ -151,42 +150,35 @@ export default function WhyDreamPage() {
         </nav>
 
         {/* HERO */}
-        <header className="pb-14 pt-12 sm:pb-20 sm:pt-16">
-          <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:gap-14">
-            <div>
-          <p className="mb-5 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+        <header className="pb-14 pt-10 sm:pb-18 sm:pt-14">
+          <p className="mb-5 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
             RÜYA ARAŞTIRMALARI
           </p>
 
-          <h1 className="max-w-xl text-[48px] font-light leading-[0.98] tracking-[-0.045em] sm:text-[64px] md:text-[72px]">
+          <h1 className="max-w-3xl text-5xl font-light tracking-tight sm:text-6xl">
             Neden rüya görürüz?
           </h1>
-            </div>
 
-            <div className="flex flex-col justify-end">
-
-          <p className="max-w-2xl text-[17px] font-light leading-8 text-[#625c54]">
+          <p className="mt-7 max-w-3xl text-lg font-light leading-8 text-[#686158]">
             Rüyaların neden ortaya çıktığı, uyku ve bilinç araştırmalarının
             hâlâ açık sorularından biri. Bellek, duygular, günlük yaşam ve
             tehdit simülasyonu gibi farklı açıklamalar araştırılıyor.
           </p>
 
-          <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#81786e]">
+          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#817970]">
             Bu sayfa, bu teorileri “hangisi doğru?” sorusundan önce
             “hangi kanıtlar var ve kanıtların sınırları neler?” sorusuyla
             ele alır.
           </p>
-                    </div>
-          </div>
         </header>
 
         {/* ARTICLE */}
-        <article className="border-t border-[#d9d2c9] py-14 sm:py-16">
-          <div className="divide-y divide-[#d9d2c9] text-[15px] leading-8 text-[#454039] [&>section]:py-12 [&>section:first-child]:pt-0 [&>section:last-child]:pb-0 lg:[&>section]:grid lg:[&>section]:grid-cols-[0.9fr_1.1fr] lg:[&>section]:gap-x-14 lg:[&>section>h2]:col-start-1 lg:[&>section>h2]:row-start-1 lg:[&>section>:not(h2)]:col-start-2">
+        <article className="rounded-[30px] border border-[#d9d1c7] bg-[#faf8f4] px-7 py-10 sm:px-12 sm:py-14">
+          <div className="space-y-12 text-[15px] leading-8 text-[#454039]">
 
             {/* INTRO */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 Rüyaların bir amacı var mı?
               </h2>
 
@@ -205,7 +197,7 @@ export default function WhyDreamPage() {
                 içeriyor.
               </p>
 
-              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
+              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>En önemli nokta:</strong> Rüyaların bellek veya
                   duygularla ilişkili olduğunu gösteren bir araştırma, otomatik
@@ -218,7 +210,7 @@ export default function WhyDreamPage() {
 
             {/* THEORY 1 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 1. Bellek işleme yaklaşımı
               </h2>
 
@@ -250,7 +242,7 @@ export default function WhyDreamPage() {
                 rol oynadığını belirtiyor.
               </p>
 
-              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
+              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>Sonuç:</strong> Rüyalar ile bellek süreçleri arasında
                   araştırılmaya değer bir ilişki var. Fakat “rüyalar belleği
@@ -262,7 +254,7 @@ export default function WhyDreamPage() {
 
             {/* THEORY 2 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 2. Duygusal işleme yaklaşımı
               </h2>
 
@@ -288,7 +280,7 @@ export default function WhyDreamPage() {
 
             {/* THEORY 3 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 3. Uyanık yaşam ile süreklilik
               </h2>
 
@@ -312,7 +304,7 @@ export default function WhyDreamPage() {
                 gelmez.
               </p>
 
-              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
+              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>Örnek:</strong> Yoğun bir iş döneminde iş arkadaşınızı
                   veya işle ilgili bir problemi rüyanızda görmeniz, rüyanın
@@ -324,7 +316,7 @@ export default function WhyDreamPage() {
 
             {/* THEORY 4 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 4. Tehdit Simülasyonu Teorisi
               </h2>
 
@@ -354,7 +346,7 @@ export default function WhyDreamPage() {
                 bazı temel öngörülerine karşı sonuçlar ortaya koydu.
               </p>
 
-              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
+              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>Bilimsel durum:</strong> Tehdit simülasyonu,
                   test edilebilir ve ampirik olarak araştırılmış bir teoridir.
@@ -366,7 +358,7 @@ export default function WhyDreamPage() {
 
             {/* THEORY 5 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 5. Rüyalar birden fazla sürecin sonucu olabilir mi?
               </h2>
 
@@ -397,12 +389,12 @@ export default function WhyDreamPage() {
 
             {/* WHAT WE KNOW */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 Peki bugün ne kadarını biliyoruz?
               </h2>
 
               <div className="mt-6 grid gap-4 sm:grid-cols-2">
-                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
+                <div className="rounded-2xl bg-[#eee8df] p-6">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
                     DAHA GÜÇLÜ BULGULAR
                   </p>
@@ -427,7 +419,7 @@ export default function WhyDreamPage() {
                   </ul>
                 </div>
 
-                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
+                <div className="rounded-2xl bg-[#eee8df] p-6">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
                     HÂLÂ AÇIK
                   </p>
@@ -444,7 +436,7 @@ export default function WhyDreamPage() {
 
             {/* SCIENCE VS INTERPRETATION */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 Bilimsel teori ile kişisel rüya yorumu arasındaki fark
               </h2>
 
@@ -470,7 +462,7 @@ export default function WhyDreamPage() {
 
             {/* INUS */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 INUS bu bilgileri nasıl kullanıyor?
               </h2>
 
@@ -491,7 +483,7 @@ export default function WhyDreamPage() {
                 uygulanmaz.
               </p>
 
-              <blockquote className="mt-8 border-l border-[#9b9186] py-1 pl-6 text-xl font-light leading-8 tracking-[-0.015em] text-[#625c54]">
+              <blockquote className="mt-7 border-l-2 border-[#9b9186] pl-6 text-xl font-light leading-8 text-[#625c54]">
                 “Rüyaların neden görüldüğünü genel olarak anlamaya çalışmak
                 başka, belirli bir rüyanın bu kişi için ne ifade edebileceğini
                 araştırmak başkadır.”
@@ -501,40 +493,40 @@ export default function WhyDreamPage() {
         </article>
 
         {/* SOURCES */}
-        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
-          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+        <section className="py-16 sm:py-20">
+          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
             KAYNAKLAR
           </p>
 
-          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+          <h2 className="mt-4 text-3xl font-light">
             Araştırma ve literatür
           </h2>
 
-          <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#6f675e]">
+          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#686158]">
             Bu sayfadaki açıklamalar, rüyaların işlevi, bellek, uyanık yaşam
             sürekliliği ve tehdit simülasyonu üzerine hakemli araştırmalar ve
             derlemeler temel alınarak hazırlanmıştır.
           </p>
 
-          <div className="mt-10 grid gap-x-10 gap-y-8 md:grid-cols-2">
+          <div className="mt-8 space-y-5">
             {sources.map((source) => (
               <article
                 key={source.title}
-                className="border-t border-[#d9d2c9] pt-5"
+                className="rounded-2xl border border-[#ddd5cb] bg-[#faf8f4] p-6"
               >
                 <p className="text-sm font-medium text-[#454039]">
                   {source.authors}
                 </p>
 
-                <p className="mt-2 text-[13px] leading-6 text-[#625c54]">
+                <p className="mt-1 text-sm leading-7 text-[#625c54]">
                   <em>{source.title}</em>
                 </p>
 
-                <p className="mt-2 text-xs leading-6 text-[#91887e]">
+                <p className="mt-1 text-xs text-[#8a8177]">
                   {source.journal}
                 </p>
 
-                <p className="mt-1 text-[10px] tracking-wide text-[#aaa198]">
+                <p className="mt-2 text-xs text-[#aaa198]">
                   {source.detail}
                 </p>
 
@@ -542,7 +534,7 @@ export default function WhyDreamPage() {
                   href={source.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="mt-3 inline-block text-xs text-[#625c54] underline decoration-[#bdb4aa] underline-offset-4 transition hover:text-[#24221f]"
+                  className="mt-3 inline-block text-xs text-[#625c54] underline underline-offset-4 hover:text-[#24221f]"
                 >
                   PubMed kaydını görüntüle →
                 </a>
@@ -552,26 +544,26 @@ export default function WhyDreamPage() {
         </section>
 
         {/* FAQ */}
-        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
-          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+        <section className="pb-16 sm:pb-20">
+          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
             SIK SORULAN SORULAR
           </p>
 
-          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+          <h2 className="mt-4 text-3xl font-light">
             Neden rüya gördüğümüz hakkında
           </h2>
 
-          <div className="mt-10 overflow-hidden rounded-xl border border-[#d9d1c7] bg-[#faf8f4]">
+          <div className="mt-8 space-y-4">
             {faqs.map((faq) => (
               <article
                 key={faq.question}
-                className="border-b border-[#ded6cc] p-6 last:border-b-0 sm:p-7"
+                className="rounded-[24px] border border-[#d9d1c7] bg-[#faf8f4] p-6"
               >
-                <h3 className="text-lg font-light tracking-[-0.015em]">
+                <h3 className="text-lg font-normal">
                   {faq.question}
                 </h3>
 
-                <p className="mt-3 max-w-4xl text-[14px] leading-7 text-[#6f675e]">
+                <p className="mt-3 text-sm leading-7 text-[#686158]">
                   {faq.answer}
                 </p>
               </article>
@@ -580,38 +572,32 @@ export default function WhyDreamPage() {
         </section>
 
         {/* CTA */}
-        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
-          <div className="grid gap-10 lg:grid-cols-[1fr_auto] lg:items-end">
-            <div>
-          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+        <section className="mb-16 rounded-[30px] bg-[#292621] px-7 py-12 text-center text-white sm:mb-20 sm:px-12">
+          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
             INUS
           </p>
 
-          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+          <h2 className="mt-4 text-3xl font-light">
             Peki sen neden bu rüyayı gördün?
           </h2>
 
-          <p className="mt-5 max-w-2xl text-[15px] leading-8 text-[#625c54]">
+          <p className="mx-auto mt-4 max-w-xl text-sm leading-7 text-[#d4cec5]">
             Rüyanı kendi kelimelerinle anlat. INUS, rüyanın olaylarını,
             duygularını, sembollerini ve kişisel bağlamını birlikte
             değerlendirerek farklı psikolojik bakış açıları sunar.
           </p>
 
-                      </div>
-
-            <Link
+          <Link
             href="/"
-            scroll={true}
-            className="inline-flex items-center gap-8 rounded-full bg-[#292621] px-7 py-3.5 text-sm text-white transition hover:bg-[#403b35]"
+            className="mt-7 inline-flex rounded-full bg-white px-7 py-3 text-sm text-[#292621] transition hover:bg-[#eee8df]"
           >
             Rüyamı analiz et
-          
-              <span aria-hidden="true">→</span>
-            </Link>
-                  </div>
+          </Link>
         </section>
 
-        <SiteFooter />
+        <footer className="pb-8 text-center text-xs text-[#aaa198]">
+          INUS · Rüyalar hakkında araştırma ve psikolojik yaklaşım
+        </footer>
       </div>
     </main>
   );

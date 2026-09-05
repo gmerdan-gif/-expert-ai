@@ -1,5 +1,4 @@
 import Link from "next/link";
-import SiteFooter from "@/components/layout/SiteFooter";
 
 export const metadata = {
   alternates: {
@@ -28,11 +27,11 @@ const sources = [
     url: "https://pubmed.ncbi.nlm.nih.gov/35960337/",
   },
   {
-    authors: "Picard-Deland, C. et al. (2023)",
+    authors: "Eichenlaub, J.-B. et al. (2023)",
     title:
       "The memory sources of dreams: serial awakenings across sleep stages and time of night",
-    journal: "Sleep, 46(4), zsac292.",
-    detail: "PMID 36462190 · PMCID PMC10091095 · DOI 10.1093/sleep/zsac292",
+    journal: "Sleep, 46(2).",
+    detail: "PMCID PMC10091095",
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10091095/",
   },
   {
@@ -40,23 +39,23 @@ const sources = [
     title:
       "The neural correlates of dreaming",
     journal: "Nature Neuroscience, 20, 872–878.",
-    detail: "PMID 28394322 · DOI 10.1038/nn.4545",
-    url: "https://pubmed.ncbi.nlm.nih.gov/28394322/",
+    detail: "PMID 28459485",
+    url: "https://pubmed.ncbi.nlm.nih.gov/28459485/",
   },
   {
-    authors: "De Gennaro, L. et al. (2010)",
+    authors: "Marzano, C. et al. (2011)",
     title:
-      "Recovery sleep after sleep deprivation almost completely abolishes dream recall",
-    journal: "Behavioural Brain Research, 206(2), 293–298.",
-    detail: "PMID 19788898 · DOI 10.1016/j.bbr.2009.09.030",
+      "The effects of sleep deprivation on dream recall",
+    journal: "Behavioral Brain Research.",
+    detail: "Related experimental research on sleep and dream recall",
     url: "https://pubmed.ncbi.nlm.nih.gov/19788898/",
   },
   {
-    authors: "Putois, B. et al. (2020)",
+    authors: "Scarpelli, S. et al. (2020)",
     title:
-      "Methodological Recommendations to Control for Factors Influencing Dream and Nightmare Recall in Clinical and Experimental Studies of Dreaming",
-    journal: "Frontiers in Neurology, 11, 724.",
-    detail: "PMID 33041958 · PMCID PMC7523469 · DOI 10.3389/fneur.2020.00724",
+      "Methodological Recommendations to Control for Factors Influencing Dream and Nightmare Recall",
+    journal: "International Journal of Environmental Research and Public Health.",
+    detail: "PMCID PMC7523469",
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7523469/",
   },
 ];
@@ -120,20 +119,20 @@ export default function DreamRecallPage() {
         }}
       />
 
-      <div className="mx-auto w-full max-w-6xl px-5 sm:px-8">
+      <div className="mx-auto w-full max-w-4xl px-5 sm:px-8">
 
         {/* HEADER */}
-        <header className="flex items-center justify-between py-6">
+        <header className="flex items-center justify-between py-7">
           <Link
             href="/"
-            className="text-lg font-medium tracking-[0.28em] transition hover:opacity-70"
+            className="text-xl font-medium tracking-[0.28em]"
           >
             INUS
           </Link>
 
           <Link
             href="/ruyalar"
-            className="text-sm text-[#625c54] transition hover:text-[#24221f]"
+            className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
           >
             Rüya Kütüphanesi
           </Link>
@@ -141,7 +140,7 @@ export default function DreamRecallPage() {
 
         {/* BREADCRUMB */}
         <nav
-          className="border-t border-[#d9d2c9] pt-6 text-[11px] text-[#91887e]"
+          className="pt-10 text-xs text-[#8a8177]"
           aria-label="Breadcrumb"
         >
           <Link href="/ruyalar" className="hover:text-[#24221f]">
@@ -154,46 +153,39 @@ export default function DreamRecallPage() {
         </nav>
 
         {/* HERO */}
-        <header className="pb-14 pt-12 sm:pb-20 sm:pt-16">
-          <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:gap-14">
-            <div>
-          <p className="mb-5 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+        <header className="pb-14 pt-10 sm:pb-18 sm:pt-14">
+          <p className="mb-5 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
             RÜYA VE BELLEK
           </p>
 
-          <h1 className="max-w-xl text-[48px] font-light leading-[0.98] tracking-[-0.045em] sm:text-[64px] md:text-[72px]">
+          <h1 className="max-w-3xl text-5xl font-light tracking-tight sm:text-6xl">
             Rüyalar neden unutulur?
           </h1>
-            </div>
 
-            <div className="flex flex-col justify-end">
-
-          <p className="max-w-2xl text-[17px] font-light leading-8 text-[#625c54]">
+          <p className="mt-7 max-w-3xl text-lg font-light leading-8 text-[#686158]">
             Sabah uyandığınızda rüyanızın tamamını hatırlayamamanız, gece
             boyunca hiç rüya görmediğiniz anlamına gelmez. Rüya deneyimi ile
             rüyanın daha sonra hatırlanması birbirinden farklı süreçlerdir.
           </p>
 
-          <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#81786e]">
+          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#817970]">
             Araştırmalar; uyku evresi, uyanma biçimi, uyanıklık süresi, bellek
             süreçleri ve bireysel farklılıkların rüya hatırlamada rol
             oynayabileceğini gösteriyor.
           </p>
-                    </div>
-          </div>
         </header>
 
         {/* KEY POINT */}
-        <section className="mb-12 rounded-xl bg-[#eee8df] px-7 py-9 sm:px-10">
-          <p className="text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+        <section className="mb-10 rounded-[28px] bg-[#292621] px-7 py-9 text-white sm:px-10">
+          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
             EN ÖNEMLİ AYRIM
           </p>
 
-          <h2 className="mt-4 max-w-4xl text-2xl font-light tracking-[-0.025em] sm:text-3xl">
+          <h2 className="mt-4 text-2xl font-light">
             “Rüya görmedim” ile “rüyamı hatırlamıyorum” aynı şey değildir.
           </h2>
 
-          <p className="mt-5 max-w-3xl text-[14px] leading-7 text-[#625c54]">
+          <p className="mt-4 max-w-3xl text-sm leading-7 text-[#d4cec5]">
             Bir rüyanın deneyimlenmesi ile o deneyimin daha sonra bellekte
             erişilebilir olması arasında birkaç aşama bulunabilir. Bu nedenle
             sabah hatırlanan rüya, gece boyunca yaşanan tüm rüya deneyiminin
@@ -202,13 +194,13 @@ export default function DreamRecallPage() {
         </section>
 
         {/* ARTICLE */}
-        <article className="border-t border-[#d9d2c9] py-14 sm:py-16">
+        <article className="rounded-[30px] border border-[#d9d1c7] bg-[#faf8f4] px-7 py-10 sm:px-12 sm:py-14">
 
-          <div className="divide-y divide-[#d9d2c9] text-[15px] leading-8 text-[#454039] [&>section]:py-12 [&>section:first-child]:pt-0 [&>section:last-child]:pb-0 lg:[&>section]:grid lg:[&>section]:grid-cols-[0.9fr_1.1fr] lg:[&>section]:gap-x-14 lg:[&>section>h2]:col-start-1 lg:[&>section>h2]:row-start-1 lg:[&>section>:not(h2)]:col-start-2">
+          <div className="space-y-12 text-[15px] leading-8 text-[#454039]">
 
             {/* SECTION 1 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 Rüya hatırlama nasıl gerçekleşiyor?
               </h2>
 
@@ -231,7 +223,7 @@ export default function DreamRecallPage() {
                 aşamaları üzerinden ele alıyor.
               </p>
 
-              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
+              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>Basitçe:</strong> Bir rüyanın hatırlanması için onu
                   yalnızca deneyimlemek yetmez. Deneyimin bellekte yeterince
@@ -243,7 +235,7 @@ export default function DreamRecallPage() {
 
             {/* SECTION 2 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 Uyanınca neden hızla unutuyoruz?
               </h2>
 
@@ -270,7 +262,7 @@ export default function DreamRecallPage() {
 
             {/* SECTION 3 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 REM uykusu rüyaların daha iyi hatırlanmasını sağlar mı?
               </h2>
 
@@ -294,7 +286,7 @@ export default function DreamRecallPage() {
                 için yaklaşık %83, NREM için yaklaşık %60 olarak bildirildi.
               </p>
 
-              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
+              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>Önemli:</strong> Bu oranlar insanların “gecede
                   gördüğü rüyaların yüzde kaçı” değildir. Laboratuvar
@@ -307,7 +299,7 @@ export default function DreamRecallPage() {
 
             {/* SECTION 4 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 Uyanma şekli neden önemli olabilir?
               </h2>
 
@@ -340,7 +332,7 @@ export default function DreamRecallPage() {
 
             {/* SECTION 5 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 Neden bazı insanlar rüyalarını çok iyi hatırlıyor?
               </h2>
 
@@ -368,7 +360,7 @@ export default function DreamRecallPage() {
 
             {/* SECTION 6 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 Gece boyunca görülen rüyalar neden aynı şekilde hatırlanmıyor?
               </h2>
 
@@ -395,7 +387,7 @@ export default function DreamRecallPage() {
 
             {/* SECTION 7 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 “Beyaz rüya” nedir?
               </h2>
 
@@ -421,7 +413,7 @@ export default function DreamRecallPage() {
 
             {/* SECTION 8 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 Rüya günlüğü gerçekten yardımcı olur mu?
               </h2>
 
@@ -436,7 +428,7 @@ export default function DreamRecallPage() {
                 aktarmaktır.
               </p>
 
-              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
+              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>Pratik yöntem:</strong> Uyandığınızda önce rüyanın
                   en güçlü görüntüsünü, ardından kişileri, mekânı, olayları
@@ -454,7 +446,7 @@ export default function DreamRecallPage() {
 
             {/* SECTION 9 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 Rüyayı hatırlamak, rüyanın anlamlı olduğu anlamına gelir mi?
               </h2>
 
@@ -480,7 +472,7 @@ export default function DreamRecallPage() {
 
             {/* SECTION 10 */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 INUS bu bilgileri rüya analizinde nasıl kullanır?
               </h2>
 
@@ -504,7 +496,7 @@ export default function DreamRecallPage() {
                 noktaları kesin gerçekler gibi sunmaz.
               </p>
 
-              <blockquote className="mt-8 border-l border-[#9b9186] py-1 pl-6 text-xl font-light leading-8 tracking-[-0.015em] text-[#625c54]">
+              <blockquote className="mt-7 border-l-2 border-[#9b9186] pl-6 text-xl font-light leading-8 text-[#625c54]">
                 “Hatırladığın rüya, gördüğün rüyanın tamamı olmayabilir;
                 ama elindeki en doğrudan veridir.”
               </blockquote>
@@ -512,12 +504,12 @@ export default function DreamRecallPage() {
 
             {/* SUMMARY */}
             <section>
-              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+              <h2 className="text-2xl font-normal">
                 Kısaca ne biliyoruz?
               </h2>
 
               <div className="mt-6 grid gap-4 sm:grid-cols-2">
-                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
+                <div className="rounded-2xl bg-[#eee8df] p-6">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
                     BİLDİKLERİMİZ
                   </p>
@@ -539,7 +531,7 @@ export default function DreamRecallPage() {
                   </ul>
                 </div>
 
-                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
+                <div className="rounded-2xl bg-[#eee8df] p-6">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
                     HÂLÂ AÇIK SORULAR
                   </p>
@@ -568,40 +560,40 @@ export default function DreamRecallPage() {
         </article>
 
         {/* SOURCES */}
-        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
-          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+        <section className="py-16 sm:py-20">
+          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
             KAYNAKLAR
           </p>
 
-          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+          <h2 className="mt-4 text-3xl font-light">
             Araştırma ve literatür
           </h2>
 
-          <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#6f675e]">
+          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#686158]">
             Bu sayfadaki açıklamalar; rüya hatırlama, uyku evreleri, uyanma
             koşulları ve rüya-bellek ilişkisi üzerine deneysel çalışmalar ve
             derlemeler temel alınarak hazırlanmıştır.
           </p>
 
-          <div className="mt-10 grid gap-x-10 gap-y-8 md:grid-cols-2">
+          <div className="mt-8 space-y-5">
             {sources.map((source) => (
               <article
                 key={source.title}
-                className="border-t border-[#d9d2c9] pt-5"
+                className="rounded-2xl border border-[#ddd5cb] bg-[#faf8f4] p-6"
               >
                 <p className="text-sm font-medium text-[#454039]">
                   {source.authors}
                 </p>
 
-                <p className="mt-2 text-[13px] leading-6 text-[#625c54]">
+                <p className="mt-1 text-sm leading-7 text-[#625c54]">
                   <em>{source.title}</em>
                 </p>
 
-                <p className="mt-2 text-xs leading-6 text-[#91887e]">
+                <p className="mt-1 text-xs text-[#8a8177]">
                   {source.journal}
                 </p>
 
-                <p className="mt-1 text-[10px] tracking-wide text-[#aaa198]">
+                <p className="mt-2 text-xs text-[#aaa198]">
                   {source.detail}
                 </p>
 
@@ -609,7 +601,7 @@ export default function DreamRecallPage() {
                   href={source.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="mt-3 inline-block text-xs text-[#625c54] underline decoration-[#bdb4aa] underline-offset-4 transition hover:text-[#24221f]"
+                  className="mt-3 inline-block text-xs text-[#625c54] underline underline-offset-4 hover:text-[#24221f]"
                 >
                   Kaynağı görüntüle →
                 </a>
@@ -619,26 +611,26 @@ export default function DreamRecallPage() {
         </section>
 
         {/* FAQ */}
-        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
-          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+        <section className="pb-16 sm:pb-20">
+          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
             SIK SORULAN SORULAR
           </p>
 
-          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+          <h2 className="mt-4 text-3xl font-light">
             Rüya hatırlama hakkında
           </h2>
 
-          <div className="mt-10 overflow-hidden rounded-xl border border-[#d9d1c7] bg-[#faf8f4]">
+          <div className="mt-8 space-y-4">
             {faqs.map((faq) => (
               <article
                 key={faq.question}
-                className="border-b border-[#ded6cc] p-6 last:border-b-0 sm:p-7"
+                className="rounded-[24px] border border-[#d9d1c7] bg-[#faf8f4] p-6"
               >
-                <h3 className="text-lg font-light tracking-[-0.015em]">
+                <h3 className="text-lg font-normal">
                   {faq.question}
                 </h3>
 
-                <p className="mt-3 max-w-4xl text-[14px] leading-7 text-[#6f675e]">
+                <p className="mt-3 text-sm leading-7 text-[#686158]">
                   {faq.answer}
                 </p>
               </article>
@@ -647,37 +639,31 @@ export default function DreamRecallPage() {
         </section>
 
         {/* CTA */}
-        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
-          <div className="grid gap-10 lg:grid-cols-[1fr_auto] lg:items-end">
-            <div>
-          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+        <section className="mb-16 rounded-[30px] bg-[#292621] px-7 py-12 text-center text-white sm:mb-20 sm:px-12">
+          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
             INUS
           </p>
 
-          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+          <h2 className="mt-4 text-3xl font-light">
             Hatırladığın rüyayı keşfet.
           </h2>
 
-          <p className="mt-5 max-w-2xl text-[15px] leading-8 text-[#625c54]">
+          <p className="mx-auto mt-4 max-w-xl text-sm leading-7 text-[#d4cec5]">
             Rüyanın tamamını hatırlamak zorunda değilsin. Hatırladığın
             görüntüleri, olayları ve duyguları kendi kelimelerinle anlat.
           </p>
 
-                      </div>
-
-            <Link
+          <Link
             href="/"
-            scroll={true}
-            className="inline-flex items-center gap-8 rounded-full bg-[#292621] px-7 py-3.5 text-sm text-white transition hover:bg-[#403b35]"
+            className="mt-7 inline-flex rounded-full bg-white px-7 py-3 text-sm text-[#292621] transition hover:bg-[#eee8df]"
           >
             Rüyamı analiz et
-          
-              <span aria-hidden="true">→</span>
-            </Link>
-                  </div>
+          </Link>
         </section>
 
-        <SiteFooter />
+        <footer className="pb-8 text-center text-xs text-[#aaa198]">
+          INUS · Rüyalar hakkında araştırma ve psikolojik yaklaşım
+        </footer>
       </div>
     </main>
   );
