@@ -3,6 +3,7 @@
 import AdSlot from "@/components/ads/AdSlot";
 
 import { useEffect, useState } from "react";
+import SiteFooter from "@/components/layout/SiteFooter";
 
 const analysisStatuses = [
   "Rüya alındı",
@@ -611,61 +612,7 @@ export default function Home() {
             </section>
 
             {/* FOOTER */}
-            <footer className="pb-5 pt-8 text-center text-xs text-[#aaa198]">
-
-              <a
-                href="/ruyalar"
-                className="transition hover:text-[#686158]"
-              >
-                Rüyalar
-              </a>
-
-              <span className="mx-2">·</span>
-
-              <a
-                href="/ruyalar/semboller"
-                className="transition hover:text-[#686158]"
-              >
-                Rüya Sembolleri
-              </a>
-
-              <span className="mx-2">·</span>
-
-              <a
-                href="/hakkimizda"
-                className="transition hover:text-[#686158]"
-              >
-                Hakkımızda
-              </a>
-
-              <span className="mx-2">·</span>
-
-              <a
-                href="/bize-ulasin"
-                className="transition hover:text-[#686158]"
-              >
-                Bize Ulaşın
-              </a>
-
-              <span className="mx-2">·</span>
-
-              <a
-                href="/gizlilik"
-                className="transition hover:text-[#686158]"
-              >
-                Gizlilik
-              </a>
-
-              <span className="mx-2">·</span>
-
-              <a
-                href="/kullanim-kosullari"
-                className="transition hover:text-[#686158]"
-              >
-                Kullanım Koşulları
-              </a>
-
-            </footer>
+            <SiteFooter />
           </>
         )}
       </div>

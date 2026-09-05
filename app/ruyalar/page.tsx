@@ -1,12 +1,29 @@
 import Link from "next/link";
+import type { Metadata } from "next";
+import SiteFooter from "@/components/layout/SiteFooter";
 
-export const metadata = {
+const BASE_URL = "https://www.in-us.app";
+
+export const metadata: Metadata = {
   alternates: {
     canonical: "/ruyalar",
   },
   title: "Rüyalar | Rüya Analizi, Psikoloji ve Bilim",
   description:
-    "Rüyalar nedir, neden görülür ve neden unutulur? Rüyalar, uyku, bellek, duygular, semboller ve psikolojik rüya analizi hakkında araştırmalara dayalı kapsamlı bilgiler.",
+    "Rüya deneyimi, uyku, bellek, duygular, semboller, tekrarlayan rüyalar ve kâbuslar hakkında araştırmalara dayalı INUS Rüya Kütüphanesi.",
+  openGraph: {
+    title: "Rüyalar | Rüya Kütüphanesi | INUS",
+    description:
+      "Rüya deneyimini bilimsel araştırmalar, psikoloji ve kişisel bağlam arasındaki farkları koruyarak keşfedin.",
+    url: `${BASE_URL}/ruyalar`,
+    type: "website",
+    locale: "tr_TR",
+    siteName: "INUS",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 const topics = [
@@ -14,59 +31,76 @@ const topics = [
     number: "01",
     title: "Rüya nedir?",
     slug: "ruya-nedir",
-    text: "Rüya deneyiminin ne olduğu, REM ve NREM uykusunda rüyaların nasıl ortaya çıktığı ve modern araştırmaların temel bulguları.",
+    text: "Rüya deneyiminin nasıl tanımlandığını, REM ve NREM uykusunda neler bildiğimizi ve araştırmaların temel bulgularını incele.",
   },
   {
     number: "02",
     title: "Neden rüya görürüz?",
     slug: "neden-ruya-goruruz",
-    text: "Rüyaların işlevi konusunda öne sürülen bellek, duygu, biliş ve diğer açıklamalar. Bildiklerimiz ve hâlâ bilmediklerimiz.",
+    text: "Bellek, duygu, biliş ve tehdit simülasyonu gibi başlıca açıklamaları; kanıtları ve açık soruları birlikte değerlendir.",
   },
   {
     number: "03",
     title: "Rüyalar neden unutulur?",
     slug: "ruyalar-neden-unutulur",
-    text: "Rüya hatırlamanın neden kişiden kişiye değiştiği ve uyandıktan sonra rüya içeriğinin neden hızla kaybolabildiği.",
+    text: "Rüya hatırlamanın neden değiştiğini, uyanmanın rolünü ve rüya içeriğinin neden hızla kaybolabildiğini keşfet.",
   },
   {
     number: "04",
     title: "Rüyalar ve bellek",
     slug: "ruyalar-ve-bellek",
-    text: "Uyku, öğrenme, bellek pekiştirme ve rüya içeriği arasındaki ilişki üzerine araştırmalar ne söylüyor?",
+    text: "Uyku, öğrenme, bellek pekiştirme ve yaşantıların rüya içeriğine taşınması arasındaki ilişkileri incele.",
   },
   {
     number: "05",
     title: "Rüyalar ve duygular",
     slug: "ruyalar-ve-duygular",
-    text: "Korku, özlem, öfke, mutluluk ve diğer duyguların rüya deneyimiyle ilişkisine bilimsel bir bakış.",
+    text: "Korku, özlem, öfke, mutluluk ve diğer duyguların rüya deneyimiyle nasıl ilişkilendirildiğine bak.",
   },
   {
     number: "06",
     title: "Rüya sembolleri",
     slug: "ruya-sembolleri",
-    text: "Sembolleri hazır sözlük anlamlarıyla açıklamak yerine kişisel bağlam ve rüyanın bütünü içinde değerlendirmek.",
+    text: "Hazır sembol sözlükleri yerine kişisel çağrışım, rüyanın bütünü ve yorumun sınırları üzerinden sembolleri düşün.",
   },
   {
     number: "07",
     title: "Tekrarlayan rüyalar",
     slug: "tekrarlayan-ruyalar",
-    text: "Benzer rüyaların tekrar tekrar görülmesinin olası açıklamaları ve bu deneyimin kişisel bağlamı.",
+    text: "Benzer rüyaların veya temaların tekrar etmesini, olası ilişkileri ve kişisel bağlamın neden önemli olduğunu incele.",
   },
   {
     number: "08",
     title: "Kâbuslar ve yoğun rüyalar",
     slug: "kabuslar",
-    text: "Kâbus deneyimi, yoğun olumsuz duygular ve rüya içeriği arasındaki ilişkiler hakkında bildiklerimiz.",
+    text: "Kâbusları, rahatsız edici rüyaları, yoğun olumsuz duyguları ve klinik sınırların nerede başladığını öğren.",
+  },
+];
+
+const readingLayers = [
+  {
+    number: "01",
+    title: "Araştırma",
+    text: "Uyku laboratuvarları, rüya raporları ve deneysel çalışmalar üzerinden gözlemlenebilen genel örüntüleri inceler.",
+  },
+  {
+    number: "02",
+    title: "Kuram",
+    text: "Bellek, duygu veya biliş gibi bulguların neden ortaya çıktığını açıklamaya çalışan modeller ve hipotezler sunar.",
+  },
+  {
+    number: "03",
+    title: "Yorum",
+    text: "Tek bir kişinin rüyasını; yaşantıları, çağrışımları, duyguları ve rüyanın kendi bağlamı içinde ele alır.",
   },
 ];
 
 const sources = [
   {
-    authors: "Hudachek, L. & Wamsley, E. J. (2023)",
-    title:
-      "A meta-analysis of the relation between dream content and memory consolidation",
-    journal: "Sleep, 46(12), zsad111.",
-    id: "PMID 37058584 · DOI 10.1093/sleep/zsad111",
+    authors: "Scarpelli, S. et al. (2022)",
+    title: "What about dreams? State of the art and open questions",
+    journal: "Journal of Sleep Research, 31(4), e13609.",
+    id: "PMID 35417930 · PMCID PMC9539486 · DOI 10.1111/jsr.13609",
   },
   {
     authors: "Schredl, M. (2010)",
@@ -81,83 +115,49 @@ const sources = [
     id: "PMID 12763010 · DOI 10.1016/S1053-8100(02)00072-7",
   },
   {
-    authors: "Eichenlaub, J.-B. et al. (2020)",
+    authors: "Hudachek, L. & Wamsley, E. J. (2023)",
     title:
-      "Dreams reflect nocturnal cognitive processes: Early-night dreams are more continuous with waking life, and late-night dreams are more emotional and hyperassociative",
-    journal: "Sleep Medicine Reviews / related dream research literature.",
-    id: "PMID 33360822",
-  },
-  {
-    authors: "Blagrove, M. et al. (2019)",
-    title: "Reactions to Dream Content: Continuity and Non-continuity",
-    journal: "Frontiers in Psychology, 10, 2676.",
-    id: "PMID 31849778 · DOI 10.3389/fpsyg.2019.02676",
-  },
-  {
-    authors: "Scarpelli, S. et al. (2019)",
-    title: "The Functional Role of Dreaming in Emotional Processes",
-    journal: "Frontiers in Psychology, 10, 459.",
-    id: "PMID 30930809 · DOI 10.3389/fpsyg.2019.00459",
-  },
-  {
-    authors: "Horton, C. L. (2017)",
-    title:
-      "Consciousness across Sleep and Wake: Discontinuity and Continuity of Memory Experiences As a Reflection of Consolidation Processes",
-    journal: "Frontiers in Psychiatry, 8, 159.",
-    id: "PMID 28936183 · DOI 10.3389/fpsyt.2017.00159",
-  },
-  {
-    authors: "What about dreams? State of the art and open questions (2022)",
-    title:
-      "A review of current neuroscientific and psychological questions surrounding dreaming",
-    journal: "Journal of Sleep Research.",
-    id: "PMID 35417930 · DOI 10.1111/jsr.13609",
+      "A meta-analysis of the relation between dream content and memory consolidation",
+    journal: "Sleep, 46(12), zsad111.",
+    id: "PMID 37058584 · DOI 10.1093/sleep/zsad111",
   },
 ];
 
 const faqs = [
   {
+    question: "Rüyalar bilimsel olarak araştırılabilir mi?",
+    answer:
+      "Evet. Rüya araştırmaları uyku laboratuvarları, kontrollü uyandırmalar, rüya raporları, psikolojik ölçümler ve nörobilim yöntemlerinden yararlanır. Bununla birlikte tek bir kişinin belirli bir rüyasının kişisel anlamını bilimsel bir deney sonucu gibi belirlemek mümkün değildir.",
+  },
+  {
     question: "Rüyaların herkes için aynı anlamı var mı?",
     answer:
-      "Bunu destekleyen güvenilir bir bilimsel kanıt yoktur. Aynı sembol veya olay farklı kişilerde farklı çağrışımlara sahip olabilir. Bu nedenle psikolojik bir rüya analizinde kişinin kendi yaşamı, duyguları ve sembolle olan ilişkisi önemlidir.",
+      "Bunu destekleyen güvenilir bir bilimsel sistem bulunmamaktadır. Aynı olay veya sembol farklı kişiler için farklı çağrışımlar taşıyabilir. Bu nedenle kişisel bağlam, rüyanın bütünü ve rüya sırasında yaşanan duygular önemlidir.",
   },
   {
-    question: "Rüyalar geleceği haber verir mi?",
+    question: "Rüya araştırması ile rüya yorumu aynı şey mi?",
     answer:
-      "Rüyaların gelecekte gerçekleşecek olayları güvenilir biçimde öngördüğünü gösteren bilimsel bir kanıt bulunmamaktadır. Bir rüyanın daha sonra gerçekleşmiş gibi görünmesi; tesadüf, seçici hatırlama veya olayın rüyadaki içeriğe sonradan benzetilmesi gibi farklı açıklamalara sahip olabilir.",
+      "Hayır. Rüya araştırması genel örüntüleri ve ilişkileri inceler. Bireysel rüya yorumu ise tek bir kişinin deneyimini ele alır. Araştırma bulguları yorum için bağlam sağlayabilir, ancak belirli bir rüyanın anlamını tek başına belirlemez.",
   },
   {
-    question: "Rüyalar sadece REM uykusunda mı görülür?",
+    question: "Kendi rüyamı incelerken nereden başlamalıyım?",
     answer:
-      "Hayır. Rüya deneyimleri REM uykusunda daha canlı ve karmaşık biçimde raporlanabilse de NREM uykusundan uyanmalarda da rüya deneyimleri bildirilmektedir. Güncel araştırmalar rüya deneyimini yalnızca REM uykusuyla açıklamanın yetersiz olduğunu göstermektedir.",
-  },
-  {
-    question: "Neden bazı rüyalarımı çok iyi hatırlıyorum?",
-    answer:
-      "Rüya hatırlama; uyanma anındaki beyin durumu, rüyanın duygusal veya algısal yoğunluğu, bireysel farklılıklar ve uyanmadan sonra rüyanın ne kadar hızlı kaydedildiği gibi çeşitli faktörlerden etkilenebilir.",
-  },
-  {
-    question: "Rüyalar gerçekten günlük hayatımızı yansıtır mı?",
-    answer:
-      "Araştırmalar uyanık yaşam ile rüya içeriği arasında belirli süreklilikler olduğunu gösteriyor. Ancak bu, rüyaların gündüz yaşananların birebir kopyası olduğu anlamına gelmez. Duygusal olarak önemli deneyimler, kişiler ve devam eden kaygılar rüyalarda farklı biçimlerde ortaya çıkabilir.",
-  },
-  {
-    question: "INUS rüyaları nasıl yorumlar?",
-    answer:
-      "INUS hazır bir rüya sözlüğünden tek bir anlam çıkarmaya çalışmaz. Rüyadaki olayları, sembolleri, kişileri, mekânları, duyguları ve bunların birbirleriyle ilişkilerini birlikte ele alır. Ortaya çıkan yorum kesin gerçek, teşhis veya gelecek tahmini olarak sunulmaz; olası psikolojik anlamları araştıran bir bakış açısıdır.",
+      "Önce rüyanın olaylarını, kişilerini, mekânlarını ve özellikle sende bıraktığı duyguyu hatırlamaya çalışabilirsin. Bir sembole tek başına anlam vermek yerine, o sembolün rüyanın geri kalanıyla nasıl ilişki kurduğuna bakmak daha anlamlı bir başlangıçtır.",
   },
 ];
 
 export default function DreamsPage() {
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    name: "Rüyalar | Rüya Analizi, Psikoloji ve Bilim | INUS",
+    "@type": "CollectionPage",
+    name: "INUS Rüya Kütüphanesi",
     description:
-      "Rüyalar, uyku, bellek, duygular ve psikolojik rüya analizi hakkında araştırmalara dayalı bilgiler.",
+      "Rüya deneyimi, uyku, bellek, duygular, semboller ve psikolojik rüya analizi hakkında araştırmalara dayalı INUS içerik koleksiyonu.",
+    url: `${BASE_URL}/ruyalar`,
     isPartOf: {
       "@type": "WebSite",
       name: "INUS",
+      url: `${BASE_URL}/`,
     },
   };
 
@@ -165,470 +165,245 @@ export default function DreamsPage() {
     <main className="min-h-screen bg-[#f5f1ea] text-[#24221f]">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(jsonLd),
+        }}
       />
 
-      <div className="mx-auto w-full max-w-5xl px-5 sm:px-8">
+      <div className="mx-auto w-full max-w-6xl px-5 sm:px-8">
         {/* HEADER */}
-        <header className="flex items-center justify-between py-7">
+        <header className="flex items-center justify-between py-6">
           <Link
             href="/"
-            className="text-xl font-medium tracking-[0.28em]"
+            className="text-lg font-medium tracking-[0.28em] transition hover:opacity-70"
           >
             INUS
           </Link>
 
-          <Link
-            href="/"
-            className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
-          >
-            Rüyanı analiz et
-          </Link>
+          <div className="flex items-center gap-7 text-sm text-[#625c54]">
+            <Link
+              href="/ruyalar/semboller"
+              className="hidden transition hover:text-[#24221f] sm:inline"
+            >
+              Rüya Sembolleri
+            </Link>
+
+            <Link
+              href="/hakkimizda"
+              className="transition hover:text-[#24221f]"
+            >
+              Hakkımızda
+            </Link>
+          </div>
         </header>
 
-        {/* INTRO */}
-        <section className="pt-16 pb-14 sm:pt-24 sm:pb-20">
-          <p className="mb-5 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
-            RÜYA KÜTÜPHANESİ
-          </p>
+        {/* HERO */}
+        <section className="pb-14 pt-14 sm:pb-20 sm:pt-20">
+          <div className="grid gap-12 lg:grid-cols-[0.95fr_1.05fr] lg:gap-20">
+            <div>
+              <p className="mb-5 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                RÜYA KÜTÜPHANESİ
+              </p>
 
-          <h1 className="max-w-3xl text-5xl font-light tracking-tight sm:text-6xl">
-            Rüyalar hakkında
-            <br />
-            bildiklerimiz.
-          </h1>
+              <h1 className="max-w-2xl text-[48px] font-light leading-[0.98] tracking-[-0.045em] sm:text-[64px] md:text-[76px]">
+                Rüyaları anlamak
+                <br />
+                için nereden
+                <br />
+                başlamalı?
+              </h1>
+            </div>
 
-          <p className="mt-7 max-w-2xl text-lg font-light leading-8 text-[#686158]">
-            Rüyalar binlerce yıldır anlamlandırılmaya çalışılıyor. Modern
-            araştırmalar ise rüyaları uyku, bellek, duygu, algı ve bilinç
-            araştırmalarının kesişiminde inceliyor.
-          </p>
+            <div className="flex flex-col justify-end">
+              <p className="max-w-2xl text-[16px] leading-8 text-[#625c54]">
+                Rüya deneyimi; uyku, bellek, duygular ve kişisel
+                çağrışımların kesiştiği karmaşık bir alan. INUS Rüya
+                Kütüphanesi, araştırmaların ne söylediğini ve yorumun nerede
+                başladığını konu konu keşfetmek için bir başlangıç
+                noktasıdır.
+              </p>
 
-          <p className="mt-5 max-w-2xl leading-7 text-[#817970]">
-            Buradaki içerikler, bilimsel araştırmalar ile psikolojik ve
-            yorumlayıcı yaklaşımları birbirinden ayırarak ele alır. Bir
-            rüyanın herkes için geçerli tek bir anlamı olduğu varsayılmaz.
-          </p>
+              <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#81786e]">
+                Tek bir rüya teorisini, hazır sembol sözlüğünü veya herkes
+                için geçerli tek bir anlamı başlangıç noktası olarak kabul
+                etmiyoruz.
+              </p>
+            </div>
+          </div>
         </section>
 
         {/* TOPICS */}
-        <section className="pb-20">
-          <div className="mb-8">
-            <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
-              KEŞFET
-            </p>
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+            KONU KONU KEŞFET
+          </p>
 
-            <h2 className="mt-3 text-3xl font-light">
-              Rüyaları farklı yönleriyle anlamak
-            </h2>
-          </div>
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+            Rüyaların farklı yönlerine daha yakından bak.
+          </h2>
 
-          <div className="grid gap-4 sm:grid-cols-2">
+          <div className="mt-10 grid gap-4 md:grid-cols-2">
             {topics.map((topic) => (
               <Link
-  key={topic.title}
-  href={topic.slug ? `/ruyalar/${topic.slug}` : "#"}
-  className="block rounded-[26px] border border-[#d9d1c7] bg-[#faf8f4] p-7 transition hover:-translate-y-0.5 hover:shadow-[0_15px_40px_rgba(70,60,50,0.06)]"
->
-  <span className="text-xs tracking-[0.2em] text-[#aaa198]">
-    {topic.number}
-  </span>
+                key={topic.slug}
+                href={`/ruyalar/${topic.slug}`}
+                className="group flex min-h-[220px] flex-col justify-between rounded-xl border border-[#d9d1c7] bg-[#faf8f4] p-6 transition hover:border-[#bfb5aa] sm:p-7"
+              >
+                <div>
+                  <div className="flex items-start justify-between gap-6">
+                    <span className="text-[10px] tracking-[0.22em] text-[#91887e]">
+                      {topic.number}
+                    </span>
 
-  <h2 className="mt-3 text-xl font-normal">
-    {topic.title}
-  </h2>
+                    <span
+                      aria-hidden="true"
+                      className="text-sm transition-transform group-hover:translate-x-1"
+                    >
+                      →
+                    </span>
+                  </div>
 
-  <p className="mt-3 text-sm leading-7 text-[#686158]">
-    {topic.text}
-  </p>
+                  <h3 className="mt-7 text-2xl font-light tracking-[-0.025em]">
+                    {topic.title}
+                  </h3>
 
-  {topic.slug && (
-    <p className="mt-5 text-xs tracking-wide text-[#625c54]">
-      Yazıyı oku →
-    </p>
-  )}
-</Link>
+                  <p className="mt-4 text-[14px] leading-7 text-[#6f675e]">
+                    {topic.text}
+                  </p>
+                </div>
+
+                <span className="mt-7 text-xs text-[#625c54]">
+                  Yazıyı oku
+                </span>
+              </Link>
             ))}
           </div>
         </section>
 
-        {/* MAIN ARTICLE */}
-        <article className="rounded-[30px] border border-[#d9d1c7] bg-[#faf8f4] px-7 py-10 sm:px-12 sm:py-14">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
-            RÜYA ARAŞTIRMALARI
-          </p>
-
-          <h2 className="mt-4 text-3xl font-light sm:text-4xl">
-            Rüyalar hakkında bilim ne söylüyor?
-          </h2>
-
-          <p className="mt-5 max-w-3xl text-base leading-8 text-[#686158]">
-            Rüya araştırmaları uzun süre psikoloji, nörobilim ve uyku
-            araştırmalarının kesişiminde ilerledi. Bugün rüyaların bazı
-            özellikleri hakkında güçlü kanıtlar bulunurken, neden rüya
-            gördüğümüz ve rüyaların tam olarak hangi işlevleri yerine getirdiği
-            hâlâ araştırılıyor.
-          </p>
-
-          <div className="mt-10 space-y-10 text-[15px] leading-8 text-[#454039]">
-            {/* SECTION */}
-            <section>
-              <h3 className="mb-3 text-xl font-normal">
-                Rüya yalnızca bir hikâye değildir
-              </h3>
-
-              <p>
-                Rüya deneyimi; görsel imgeler, düşünceler, duygular, kişiler,
-                mekânlar, bedensel hisler ve olay örgülerinin bir araya
-                gelmesinden oluşabilir. Bazı rüyalar oldukça gerçekçi ve
-                tutarlı bir anlatıya sahipken bazıları zaman, mekân ve
-                nedensellik açısından gündelik deneyimden belirgin biçimde
-                ayrılır.
+        {/* READING MODEL */}
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <div className="grid gap-10 lg:grid-cols-[0.8fr_1.2fr] lg:gap-20">
+            <div>
+              <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                RÜYALARA BAKIŞ
               </p>
 
-              <p className="mt-4">
-                Modern araştırmalar rüyayı yalnızca REM uykusuna ait bir
-                fenomen olarak değerlendirmiyor. REM uyanmalarında daha canlı
-                ve karmaşık rüya raporları sık görülse de NREM uykusundan
-                uyanmalarda da rüya deneyimleri raporlanıyor. Bu nedenle
-                “rüya = REM” şeklindeki basit eşleştirme günümüzde yeterli
-                kabul edilmiyor.
+              <h2 className="max-w-xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+                Rüya araştırmalarını nasıl okuyoruz?
+              </h2>
+
+              <p className="mt-5 max-w-lg text-[15px] leading-8 text-[#625c54]">
+                Rüya hakkında konuşurken üç farklı düzey kolayca birbirine
+                karışabilir. INUS bu ayrımı görünür tutmayı amaçlar.
               </p>
-            </section>
+            </div>
 
-            {/* SECTION */}
-            <section>
-              <h3 className="mb-3 text-xl font-normal">
-                Neden rüya gördüğümüzü biliyor muyuz?
-              </h3>
+            <div className="overflow-hidden rounded-xl border border-[#d9d1c7] bg-[#faf8f4]">
+              {readingLayers.map((layer) => (
+                <article
+                  key={layer.title}
+                  className="grid gap-4 border-b border-[#ded6cc] p-6 last:border-b-0 sm:grid-cols-[60px_1fr] sm:p-7"
+                >
+                  <span className="text-[10px] tracking-[0.22em] text-[#91887e]">
+                    {layer.number}
+                  </span>
 
-              <p>
-                Henüz tek bir kabul edilmiş açıklama yok. Araştırmacılar
-                rüyaları bellek işleme, duygusal süreçler, uyanık yaşamla
-                süreklilik, bilişsel süreçler ve diğer nörofizyolojik
-                mekanizmalarla ilişkilendiren farklı modeller üzerinde
-                çalışıyor.
-              </p>
+                  <div>
+                    <h3 className="text-xl font-light tracking-[-0.02em]">
+                      {layer.title}
+                    </h3>
 
-              <p className="mt-4">
-                Buradaki önemli nokta, bir teorinin rüya deneyiminin yalnızca
-                bir bölümünü açıklayabilmesidir. Güncel literatür, rüyanın
-                bütün özelliklerini tek bir mekanizmayla açıklamanın henüz
-                mümkün olmadığını gösteriyor.
-              </p>
-
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
-                <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Bilimsel sınır:</strong> “Rüyaların amacı budur”
-                  demek ile “bazı bulgular rüyaların bu süreçle ilişkili
-                  olabileceğini düşündürüyor” demek aynı şey değildir. INUS,
-                  bu ayrımı içeriklerinde özellikle korur.
-                </p>
-              </div>
-            </section>
-
-            {/* SECTION */}
-            <section>
-              <h3 className="mb-3 text-xl font-normal">
-                Günlük hayat rüyalara nasıl girer?
-              </h3>
-
-              <p>
-                Rüya araştırmalarında “continuity hypothesis” olarak bilinen
-                yaklaşım, uyanık yaşam ile rüya içeriği arasında belirli bir
-                süreklilik olduğunu öne sürer. Araştırmalar, günlük yaşamda
-                önemli olan bazı kişiler, faaliyetler, düşünceler ve duygusal
-                deneyimlerin rüyalarda ortaya çıkabildiğini gösteriyor.
-              </p>
-
-              <p className="mt-4">
-                Ancak bu süreklilik, rüyanın gündüz yaşananların birebir
-                tekrarı olduğu anlamına gelmez. Rüyadaki mekânlar, insanlar ve
-                olaylar birbirleriyle gerçek hayatta mümkün olmayacak biçimde
-                birleşebilir.
-              </p>
-
-              <p className="mt-4">
-                Araştırmalar özellikle duygusal olarak önemli deneyimlerin
-                rüya içeriğiyle ilişkili olabileceğini gösteriyor. Bununla
-                birlikte ilişkinin düzeyi kişiden kişiye ve deneyimin türüne
-                göre değişebilir.
-              </p>
-
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
-                <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Örnek:</strong> Önemli bir sunumdan önce kişinin
-                  rüyasında sahneye çıkıp konuşamadığını görmesi, otomatik
-                  olarak “başarısızlık korkusu” anlamına gelmez. Daha anlamlı
-                  soru, kişinin o dönemde değerlendirilme, kontrol veya
-                  performansla ilgili ne yaşadığıdır.
-                </p>
-              </div>
-            </section>
-
-            {/* SECTION */}
-            <section>
-              <h3 className="mb-3 text-xl font-normal">
-                Rüyalar ve bellek arasında nasıl bir ilişki var?
-              </h3>
-
-              <p>
-                Uyku ile bellek arasındaki ilişki, rüya araştırmalarının en
-                aktif alanlarından biridir. Bazı çalışmalar, öğrenme öncesi
-                deneyimlerin veya yeni öğrenilen bilgilerin daha sonra
-                bildirilen rüyalarda ortaya çıkabildiğini gösteriyor.
-              </p>
-
-              <p className="mt-4">
-                2023 yılında yayımlanan bir meta-analiz, öğrenmeyle ilişkili
-                rüyalar ile uyku sonrası bellek performansı arasındaki ilişkiyi
-                16 çalışmadaki 45 etki üzerinden inceledi. Araştırmacılar
-                anlamlı bir ilişki buldu; ancak bu bulgu, rüya görmenin tek
-                başına belleği güçlendirdiğini kanıtlamıyor.
-              </p>
-
-              <p className="mt-4">
-                Özellikle NREM ve REM rüyaları arasında farklı örüntüler
-                bulunabilmesi, rüya deneyiminin uyku sırasında gerçekleşen
-                birden fazla bilişsel süreçle ilişkili olabileceğini
-                düşündürüyor.
-              </p>
-
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
-                <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Önemli ayrım:</strong> Bir kişinin rüyasında gün
-                  içinde öğrendiği bir bilgiyi görmesi ile o rüyanın belleği
-                  kesin olarak pekiştirdiğini söylemek aynı şey değildir.
-                  Araştırmalar ilişkiyi destekleyebilir; mekanizma ve
-                  nedensellik ise ayrı sorulardır.
-                </p>
-              </div>
-            </section>
-
-            {/* SECTION */}
-            <section>
-              <h3 className="mb-3 text-xl font-normal">
-                Rüyalar neden bu kadar duygusal olabilir?
-              </h3>
-
-              <p>
-                Korku, özlem, utanç, öfke, mutluluk ve şaşkınlık gibi duygular
-                rüya deneyiminin önemli parçaları olabilir. REM uykusundan
-                bildirilen rüyalar özellikle canlı ve duygusal içerikleriyle
-                dikkat çekse de duygusal deneyim rüya araştırmalarında yalnızca
-                tek bir uyku evresiyle açıklanmıyor.
-              </p>
-
-              <p className="mt-4">
-                Rüya ile uyanık yaşam arasındaki süreklilik konusunda yapılan
-                araştırmalar ilginç bir ayrım gösteriyor: Rüyadaki olayların
-                kendisi gerçek dışı veya mantıksız olabilirken, kişinin bu
-                olaylara verdiği duygusal tepki uyanık hayattaki tepkilerine
-                benzeyebilir.
-              </p>
-
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
-                <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Örnek:</strong> Rüyada hiç bilmediğiniz bir şehirde
-                  kaybolabilirsiniz. Şehir gerçek olmayabilir; fakat
-                  kaybolduğunuz anda hissettiğiniz korku, merak veya özgürlük
-                  hissi sizin gerçek yaşamınızdaki duygusal deneyimlerinizle
-                  ilişkili olabilir.
-                </p>
-              </div>
-            </section>
-
-            {/* SECTION */}
-            <section>
-              <h3 className="mb-3 text-xl font-normal">
-                Rüyalar neden unutulur?
-              </h3>
-
-              <p>
-                Birçok insan uyandıktan birkaç dakika sonra rüyasının büyük
-                bölümünü hatırlayamaz. Rüya hatırlama; bireysel özellikler,
-                uyanma sırasında oluşan beyin etkinliği, rüyanın yoğunluğu ve
-                uyandıktan sonra içeriğin ne kadar hızlı zihinsel olarak
-                kaydedildiği gibi birçok faktörden etkilenebilir.
-              </p>
-
-              <p className="mt-4">
-                Bu nedenle “Ben hiç rüya görmüyorum” ile “Rüyalarımı
-                hatırlamıyorum” aynı şey değildir. Rüya deneyimi ile rüya
-                hatırlama ayrı araştırma problemleridir.
-              </p>
-
-              <p className="mt-4">
-                Rüyanın hemen ardından uyanmak ve içeriği kısa süre içinde
-                zihinsel olarak tekrar etmek, bazı kişilerde hatırlamayı
-                kolaylaştırabilir. Buna karşılık uyanır uyanmaz başka bir
-                düşünceye, telefona veya günlük aktiviteye geçmek rüya
-                içeriğinin kaybolmasını kolaylaştırabilir.
-              </p>
-            </section>
-
-            {/* SECTION */}
-            <section>
-              <h3 className="mb-3 text-xl font-normal">
-                Rüyalardaki semboller ne anlama gelir?
-              </h3>
-
-              <p>
-                İnternette çok sayıda “rüya sözlüğü” bulunuyor. Bu sözlükler
-                belirli sembollere değişmez anlamlar atayabiliyor. Ancak bir
-                sembolün herkes için aynı psikolojik anlama geldiğini gösteren
-                güvenilir bir bilimsel sistem bulunmuyor.
-              </p>
-
-              <p className="mt-4">
-                Örneğin su bir kişi için huzur, başka biri için tehlike,
-                başka biri için çocukluk anısı veya özgürlük duygusuyla ilişkili
-                olabilir. Sembolün kendisi kadar kişinin o sembolle kurduğu
-                kişisel ilişki de önemlidir.
-              </p>
-
-              <p className="mt-4">
-                Bu nedenle INUS'ta “yılan = düşman”, “su = duygular” gibi
-                otomatik eşleştirmeler kullanılmaz. Bunun yerine sembolün
-                rüyanın tamamındaki rolü, rüya sırasında hissedilen duygu,
-                diğer karakterler ve kişinin kendi çağrışımları birlikte
-                değerlendirilir.
-              </p>
-            </section>
-
-            {/* SECTION */}
-            <section>
-              <h3 className="mb-3 text-xl font-normal">
-                Rüyaların tek bir anlamı var mı?
-              </h3>
-
-              <p>
-                Hayır. Bir rüyanın bilimsel olarak herkes için geçerli tek bir
-                “gizli mesajı” olduğunu söylemek mümkün değildir.
-              </p>
-
-              <p className="mt-4">
-                Aynı rüya teması farklı insanların yaşamlarında tamamen farklı
-                anlamlar taşıyabilir. Hatta aynı kişi için bile aynı sembolün
-                anlamı zaman içinde değişebilir.
-              </p>
-
-              <p className="mt-4">
-                Bu nedenle psikolojik rüya analizi kesin bir hüküm vermekten
-                çok, rüyanın kişinin mevcut yaşamıyla hangi noktalarda
-                bağlantı kurabileceğini araştıran bir süreç olarak
-                düşünülebilir.
-              </p>
-            </section>
-
-            {/* SECTION */}
-            <section>
-              <h3 className="mb-3 text-xl font-normal">
-                Bilim ile rüya yorumu arasındaki fark
-              </h3>
-
-              <p>
-                Bilimsel rüya araştırması ile tek bir kişinin rüyasını
-                yorumlamak aynı faaliyet değildir. Bilimsel araştırmalar
-                kontrollü yöntemler, örneklemler ve ölçülebilir veriler
-                kullanarak genel ilişkileri araştırır.
-              </p>
-
-              <p className="mt-4">
-                Bireysel rüya analizi ise tek bir kişinin deneyimini ve
-                kişisel bağlamını ele alır. Bu nedenle bilimsel araştırmalardan
-                elde edilen genel bir bulgu, kişinin belirli bir rüyasının
-                nedenini tek başına açıklayamaz.
-              </p>
-
-              <p className="mt-4">
-                INUS bu ayrımı korur: Araştırma bulguları, rüya deneyimini
-                anlamak için bağlam sağlar; ancak belirli bir rüyaya kesin
-                teşhis veya kesin açıklama olarak uygulanmaz.
-              </p>
-            </section>
-
-            {/* SECTION */}
-            <section>
-              <h3 className="mb-3 text-xl font-normal">
-                INUS rüya analizine nasıl yaklaşır?
-              </h3>
-
-              <p>
-                INUS, rüyaları hazır sembol sözlükleriyle açıklamak yerine
-                rüyanın kendi bağlamını incelemeyi amaçlar. Rüyadaki olaylar,
-                kişiler, mekânlar, semboller, karşıtlıklar ve duygular birlikte
-                değerlendirilir.
-              </p>
-
-              <p className="mt-4">
-                Analiz bir psikiyatrik veya psikolojik teşhis değildir.
-                Geleceği tahmin etmez ve yorumlarını bilimsel gerçek olarak
-                sunmaz. Amaç, kişinin rüyasına farklı psikolojik bakış
-                açılarıyla bakabilmesine yardımcı olmaktır.
-              </p>
-
-              <p className="mt-4">
-                Bu yaklaşımın temel sorusu şudur:
-              </p>
-
-              <blockquote className="mt-6 border-l-2 border-[#9b9186] pl-6 text-xl font-light leading-8 text-[#625c54]">
-                “Bu rüya, bu kişi için neden tam olarak böyle bir hikâye
-                kurmuş olabilir?”
-              </blockquote>
-            </section>
+                    <p className="mt-3 text-[14px] leading-7 text-[#6f675e]">
+                      {layer.text}
+                    </p>
+                  </div>
+                </article>
+              ))}
+            </div>
           </div>
-        </article>
+        </section>
 
-        {/* RESEARCH NOTE */}
-        <section className="py-16 sm:py-20">
-          <div className="rounded-[28px] border border-[#d9d1c7] bg-[#eee8df] px-7 py-9 sm:px-10">
-            <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
-              BİLİMSEL OKUMA
+        {/* EVIDENCE / INTERPRETATION */}
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <div className="rounded-xl bg-[#eee8df] px-7 py-10 sm:px-10 sm:py-12">
+            <p className="text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+              KANIT VE YORUM
             </p>
 
-            <h2 className="mt-4 text-2xl font-light sm:text-3xl">
-              Kanıt ile yorum arasındaki çizgi
+            <h2 className="mt-5 max-w-3xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+              Araştırmanın gösterdiği ile bir rüyaya yüklenen anlam aynı şey
+              değildir.
             </h2>
 
-            <p className="mt-5 max-w-3xl text-sm leading-7 text-[#625c54]">
-              Rüya araştırmaları hızla gelişen ancak hâlâ birçok açık soruya
-              sahip bir alan. Bu nedenle INUS içeriklerinde “kanıtlanmıştır”,
-              “kesin olarak gösterir” veya “her zaman şu anlama gelir” gibi
-              ifadeler yalnızca gerçekten desteklendikleri durumlarda
-              kullanılır.
-            </p>
+            <div className="mt-7 grid gap-6 text-[15px] leading-8 text-[#625c54] lg:grid-cols-2 lg:gap-12">
+              <p>
+                Araştırmalar rüyaların genel özellikleri, uyku evreleri,
+                bellek veya duygularla ilişkileri hakkında bilgi sağlayabilir.
+                Ancak örneklemler üzerinde bulunan bir ilişki, tek bir kişinin
+                rüyasının nedenini otomatik olarak açıklamaz.
+              </p>
 
-            <p className="mt-4 max-w-3xl text-sm leading-7 text-[#625c54]">
-              Bir araştırmanın bulduğu istatistiksel ilişki, tek bir kişinin
-              rüyasının nedenini otomatik olarak açıklamaz. Bilimsel bulgular
-              ile bireysel yorum arasındaki farkı korumak, rüya hakkında
-              güvenilir konuşmanın temel koşullarından biridir.
-            </p>
+              <p>
+                Bireysel yorumda rüyanın bağlamı, kişinin çağrışımları ve
+                yaşadığı dönem önem kazanır. INUS bu nedenle bilimsel
+                araştırmaları kişisel rüya yorumuyla aynı düzeyde sunmaz;
+                kesin teşhis veya gelecek tahmini üretmez.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        {/* DREAM BRIDGE */}
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <div className="grid gap-10 lg:grid-cols-[1fr_auto] lg:items-end">
+            <div>
+              <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                KENDİ RÜYANA DÖN
+              </p>
+
+              <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+                Okumak başka, kendi rüyanı keşfetmek başka.
+              </h2>
+
+              <p className="mt-5 max-w-2xl text-[15px] leading-8 text-[#625c54]">
+                Rüyandaki kişiler, olaylar, semboller ve duygular ancak
+                birbirleriyle kurdukları ilişki içinde anlam kazanır.
+                Rüyanı hatırladığın gibi anlatabilir ve bütününe birlikte
+                bakabilirsin.
+              </p>
+            </div>
+
+            <Link
+              href="/"
+              className="inline-flex items-center gap-8 rounded-full bg-[#292621] px-7 py-3.5 text-sm text-white transition hover:bg-[#403b35]"
+            >
+              Rüyanı anlat
+              <span aria-hidden="true">→</span>
+            </Link>
           </div>
         </section>
 
         {/* FAQ */}
-        <section className="pb-16 sm:pb-20">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             SIK SORULAN SORULAR
           </p>
 
-          <h2 className="mt-4 text-3xl font-light">
-            Rüyalar hakkında merak edilenler
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+            Rüyalar hakkında temel sorular.
           </h2>
 
-          <div className="mt-8 space-y-4">
+          <div className="mt-10 overflow-hidden rounded-xl border border-[#d9d1c7] bg-[#faf8f4]">
             {faqs.map((faq) => (
               <article
                 key={faq.question}
-                className="rounded-[24px] border border-[#d9d1c7] bg-[#faf8f4] p-6 sm:p-7"
+                className="border-b border-[#ded6cc] p-6 last:border-b-0 sm:p-7"
               >
-                <h3 className="text-lg font-normal">
+                <h3 className="text-lg font-light tracking-[-0.015em]">
                   {faq.question}
                 </h3>
 
-                <p className="mt-3 text-sm leading-7 text-[#686158]">
+                <p className="mt-3 max-w-4xl text-[14px] leading-7 text-[#6f675e]">
                   {faq.answer}
                 </p>
               </article>
@@ -637,41 +412,40 @@ export default function DreamsPage() {
         </section>
 
         {/* SOURCES */}
-        <section className="pb-16 sm:pb-20">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             KAYNAKLAR
           </p>
 
-          <h2 className="mt-4 text-3xl font-light">
-            Araştırma ve literatür
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+            Başlangıç için temel araştırmalar.
           </h2>
 
-          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#686158]">
-            Aşağıdaki çalışmalar, sayfadaki bilimsel açıklamaların temelini
-            oluşturur. Kaynaklar özellikle rüya içeriği, bellek, duygular,
-            uyanık yaşam ile rüya arasındaki süreklilik ve rüya araştırmasının
-            güncel durumu üzerine seçilmiştir.
+          <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#6f675e]">
+            Bu sayfa bir literatür taramasının yerini almak yerine Rüya
+            Kütüphanesi&apos;ne giriş sağlar. Daha özel araştırmalar ilgili
+            konu sayfalarında yer alır.
           </p>
 
-          <div className="mt-8 space-y-6">
+          <div className="mt-10 grid gap-x-10 gap-y-7 md:grid-cols-2">
             {sources.map((source) => (
               <article
                 key={source.title}
-                className="border-b border-[#ddd5cb] pb-6"
+                className="border-t border-[#d9d2c9] pt-5"
               >
                 <p className="text-sm font-medium text-[#454039]">
                   {source.authors}
                 </p>
 
-                <p className="mt-1 text-sm leading-7 text-[#625c54]">
+                <p className="mt-2 text-[13px] leading-6 text-[#625c54]">
                   <em>{source.title}</em>
                 </p>
 
-                <p className="mt-1 text-xs leading-6 text-[#8a8177]">
+                <p className="mt-2 text-xs leading-6 text-[#91887e]">
                   {source.journal}
                 </p>
 
-                <p className="mt-1 text-xs tracking-wide text-[#aaa198]">
+                <p className="mt-1 text-[10px] tracking-wide text-[#aaa198]">
                   {source.id}
                 </p>
               </article>
@@ -679,34 +453,8 @@ export default function DreamsPage() {
           </div>
         </section>
 
-        {/* CTA */}
-        <section className="mb-16 rounded-[30px] bg-[#292621] px-7 py-12 text-center text-white sm:mb-20 sm:px-12">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
-            INUS
-          </p>
-
-          <h2 className="mt-4 text-3xl font-light">
-            Şimdi kendi rüyanı keşfet.
-          </h2>
-
-          <p className="mx-auto mt-4 max-w-xl text-sm leading-7 text-[#d4cec5]">
-            Rüyanı kendi kelimelerinle anlat. INUS; rüyanın olaylarını,
-            sembollerini, duygularını ve hikâyesindeki ilişkileri birlikte
-            değerlendirerek farklı psikolojik bakış açıları sunar.
-          </p>
-
-          <Link
-            href="/"
-            className="mt-7 inline-flex rounded-full bg-white px-7 py-3 text-sm text-[#292621] transition hover:bg-[#eee8df]"
-          >
-            Rüyamı analiz et
-          </Link>
-        </section>
-
         {/* FOOTER */}
-        <footer className="pb-8 text-center text-xs text-[#aaa198]">
-          INUS · Rüyalar hakkında araştırma ve psikolojik yaklaşım
-        </footer>
+        <SiteFooter />
       </div>
     </main>
   );

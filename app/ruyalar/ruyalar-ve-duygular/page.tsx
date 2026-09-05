@@ -1,4 +1,5 @@
 import Link from "next/link";
+import SiteFooter from "@/components/layout/SiteFooter";
 
 export const metadata = {
   alternates: {
@@ -18,35 +19,19 @@ const sources = [
     url: "https://pubmed.ncbi.nlm.nih.gov/30930809/",
   },
   {
-    authors: "Malinowski, J. & Horton, C. L. (2014)",
+    authors: "Malinowski, J. E. & Horton, C. L. (2014)",
     title:
-      "Evidence for the preferential incorporation of emotional waking experiences into dreams",
-    journal: "Dreaming, 24(4), 252–263.",
-    detail: "Research on emotional waking-life experiences and dreams",
-    url: "https://doi.org/10.1037/a0038012",
+      "Evidence for the preferential incorporation of emotional waking-life experiences into dreams",
+    journal: "Dreaming, 24(1), 18–31.",
+    detail: "DOI 10.1037/a0036017",
+    url: "https://doi.org/10.1037/a0036017",
   },
   {
-    authors: "Blagrove, M. et al. (2019)",
+    authors: "Kahn, D. (2019)",
     title: "Reactions to Dream Content: Continuity and Non-continuity",
     journal: "Frontiers in Psychology, 10, 2676.",
-    detail: "PMID 31849778 · DOI 10.3389/fpsyg.2019.02676",
+    detail: "PMID 31849778 · PMCID PMC6901388 · DOI 10.3389/fpsyg.2019.02676",
     url: "https://pubmed.ncbi.nlm.nih.gov/31849778/",
-  },
-  {
-    authors: "Sikka, P. et al. (2014)",
-    title:
-      "The phenomenology of dream experience: A review of the literature",
-    journal: "Consciousness and Cognition.",
-    detail: "Related research on emotional and experiential aspects of dreaming",
-    url: "https://pubmed.ncbi.nlm.nih.gov/24814992/",
-  },
-  {
-    authors: "Zadra, A. & Domhoff, G. W. (2017)",
-    title:
-      "Dream content and emotional processes",
-    journal: "Related dream research literature.",
-    detail: "Research on dream content and emotion",
-    url: "https://pubmed.ncbi.nlm.nih.gov/28641381/",
   },
   {
     authors: "Horton, C. L. (2017)",
@@ -117,20 +102,20 @@ export default function DreamsEmotionPage() {
         }}
       />
 
-      <div className="mx-auto w-full max-w-4xl px-5 sm:px-8">
+      <div className="mx-auto w-full max-w-6xl px-5 sm:px-8">
 
         {/* HEADER */}
-        <header className="flex items-center justify-between py-7">
+        <header className="flex items-center justify-between py-6">
           <Link
             href="/"
-            className="text-xl font-medium tracking-[0.28em]"
+            className="text-lg font-medium tracking-[0.28em] transition hover:opacity-70"
           >
             INUS
           </Link>
 
           <Link
             href="/ruyalar"
-            className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
+            className="text-sm text-[#625c54] transition hover:text-[#24221f]"
           >
             Rüya Kütüphanesi
           </Link>
@@ -138,7 +123,7 @@ export default function DreamsEmotionPage() {
 
         {/* BREADCRUMB */}
         <nav
-          className="pt-10 text-xs text-[#8a8177]"
+          className="border-t border-[#d9d2c9] pt-6 text-[11px] text-[#91887e]"
           aria-label="Breadcrumb"
         >
           <Link href="/ruyalar" className="hover:text-[#24221f]">
@@ -151,41 +136,48 @@ export default function DreamsEmotionPage() {
         </nav>
 
         {/* HERO */}
-        <header className="pb-14 pt-10 sm:pb-18 sm:pt-14">
-          <p className="mb-5 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
+        <header className="pb-14 pt-12 sm:pb-20 sm:pt-16">
+          <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:gap-14">
+            <div>
+          <p className="mb-5 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             RÜYA VE DUYGU
           </p>
 
-          <h1 className="max-w-3xl text-5xl font-light tracking-tight sm:text-6xl">
+          <h1 className="max-w-xl text-[48px] font-light leading-[0.98] tracking-[-0.045em] sm:text-[64px] md:text-[72px]">
             Rüyalar ve duygular
           </h1>
+            </div>
 
-          <p className="mt-7 max-w-3xl text-lg font-light leading-8 text-[#686158]">
+            <div className="flex flex-col justify-end">
+
+          <p className="max-w-2xl text-[17px] font-light leading-8 text-[#625c54]">
             Bir rüyada yaşanan korku, özlem, utanç veya mutluluk bazen rüyanın
             kendisinden daha gerçek gelebilir. Rüyalar yalnızca görüntülerden
             değil, yoğun duygusal deneyimlerden de oluşur.
           </p>
 
-          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#817970]">
+          <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#81786e]">
             Araştırmalar, rüya duyguları ile uyanık yaşam arasında çeşitli
             süreklilikler olduğunu gösteriyor. Ancak belirli bir rüyadaki
             duygunun tek ve kesin bir açıklaması olduğunu söylemek mümkün
             değil.
           </p>
+                    </div>
+          </div>
         </header>
 
         {/* KEY POINT */}
-        <section className="mb-10 rounded-[28px] bg-[#292621] px-7 py-9 text-white sm:px-10">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
+        <section className="mb-12 rounded-xl bg-[#eee8df] px-7 py-9 sm:px-10">
+          <p className="text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             TEMEL AYRIM
           </p>
 
-          <h2 className="mt-4 text-2xl font-light">
+          <h2 className="mt-4 max-w-4xl text-2xl font-light tracking-[-0.025em] sm:text-3xl">
             Rüyadaki duygu gerçek olabilir; ama rüyanın yorumu kesin olmak
             zorunda değildir.
           </h2>
 
-          <p className="mt-4 max-w-3xl text-sm leading-7 text-[#d4cec5]">
+          <p className="mt-5 max-w-3xl text-[14px] leading-7 text-[#625c54]">
             Bir rüyada gerçekten korkabilir, özleyebilir veya sevinebilirsiniz.
             Bu duygusal deneyimin gerçek olması, rüyanın nedenini otomatik
             olarak açıklamaz. Duygu ile yorum arasında önemli bir fark vardır.
@@ -193,13 +185,13 @@ export default function DreamsEmotionPage() {
         </section>
 
         {/* ARTICLE */}
-        <article className="rounded-[30px] border border-[#d9d1c7] bg-[#faf8f4] px-7 py-10 sm:px-12 sm:py-14">
+        <article className="border-t border-[#d9d2c9] py-14 sm:py-16">
 
-          <div className="space-y-12 text-[15px] leading-8 text-[#454039]">
+          <div className="divide-y divide-[#d9d2c9] text-[15px] leading-8 text-[#454039] [&>section]:py-12 [&>section:first-child]:pt-0 [&>section:last-child]:pb-0 lg:[&>section]:grid lg:[&>section]:grid-cols-[0.9fr_1.1fr] lg:[&>section]:gap-x-14 lg:[&>section>h2]:col-start-1 lg:[&>section>h2]:row-start-1 lg:[&>section>:not(h2)]:col-start-2">
 
             {/* 1 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Rüya yalnızca görüntülerden oluşmaz
               </h2>
 
@@ -224,7 +216,7 @@ export default function DreamsEmotionPage() {
 
             {/* 2 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Rüyalar uyanık yaşamın duygularını yansıtır mı?
               </h2>
 
@@ -246,7 +238,7 @@ export default function DreamsEmotionPage() {
                 etiketi yapıştırmak doğru değildir.
               </p>
 
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
+              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>Daha iyi soru:</strong> “Bu kişi neden tam olarak
                   şimdi, bu olayla bağlantılı böyle bir rüya yaşamış olabilir?”
@@ -258,7 +250,7 @@ export default function DreamsEmotionPage() {
 
             {/* 3 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Stres rüyaları etkiler mi?
               </h2>
 
@@ -287,7 +279,7 @@ export default function DreamsEmotionPage() {
 
             {/* 4 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Neden bazı rüyalar korkutucu?
               </h2>
 
@@ -309,7 +301,7 @@ export default function DreamsEmotionPage() {
                 ilişkin hâlâ birden fazla açıklama bulunmaktadır.
               </p>
 
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
+              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>Önemli:</strong> Korkunç bir rüya gelecekte kötü bir
                   olay yaşanacağının işareti değildir. Rüyalar geleceği
@@ -321,7 +313,7 @@ export default function DreamsEmotionPage() {
 
             {/* 5 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Rüyadaki duygu neden olaydan daha gerçek gelebilir?
               </h2>
 
@@ -351,7 +343,7 @@ export default function DreamsEmotionPage() {
 
             {/* 6 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 REM uykusu ve duygusal rüyalar
               </h2>
 
@@ -380,7 +372,7 @@ export default function DreamsEmotionPage() {
 
             {/* 7 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Rüyalar duyguları düzenlememize yardımcı oluyor mu?
               </h2>
 
@@ -407,7 +399,7 @@ export default function DreamsEmotionPage() {
                 kesin olarak ayırmak kolay değil.
               </p>
 
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
+              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>Bilimsel sınır:</strong> “Rüyalar duyguları
                   düzenlemek için vardır” bugün kanıtlanmış bir gerçek değil;
@@ -418,7 +410,7 @@ export default function DreamsEmotionPage() {
 
             {/* 8 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Özlem ve sevgi rüyalarda neden güçlü olabilir?
               </h2>
 
@@ -449,7 +441,7 @@ export default function DreamsEmotionPage() {
 
             {/* 9 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Aynı rüya neden farklı duygular yaratabilir?
               </h2>
 
@@ -470,7 +462,7 @@ export default function DreamsEmotionPage() {
                 daha anlamlıdır.
               </p>
 
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
+              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
                 <p className="text-sm leading-7 text-[#625c54]">
                   <strong>Örnek:</strong> “Deniz görmek” tek başına bir duygu
                   söylemez. Rüyadaki denizde yüzüyor musunuz, boğuluyor
@@ -483,7 +475,7 @@ export default function DreamsEmotionPage() {
 
             {/* 10 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Rüyadaki duygu bastırılmış bir gerçeği gösterir mi?
               </h2>
 
@@ -507,7 +499,7 @@ export default function DreamsEmotionPage() {
 
             {/* 11 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Rüyalar ve duygular hakkında neyi kesin olarak bilmiyoruz?
               </h2>
 
@@ -532,7 +524,7 @@ export default function DreamsEmotionPage() {
 
             {/* 12 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 INUS rüyalardaki duygulara nasıl yaklaşır?
               </h2>
 
@@ -554,7 +546,7 @@ export default function DreamsEmotionPage() {
                 çağrışımları ve yaşamındaki güncel bağlam dikkate alınır.
               </p>
 
-              <blockquote className="mt-7 border-l-2 border-[#9b9186] pl-6 text-xl font-light leading-8 text-[#625c54]">
+              <blockquote className="mt-8 border-l border-[#9b9186] py-1 pl-6 text-xl font-light leading-8 tracking-[-0.015em] text-[#625c54]">
                 “Rüyada ne olduğunu anlamak kadar, o sırada nasıl
                 hissettiğini anlamak da önemlidir.”
               </blockquote>
@@ -562,12 +554,12 @@ export default function DreamsEmotionPage() {
 
             {/* SUMMARY */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Kısaca ne biliyoruz?
               </h2>
 
               <div className="mt-6 grid gap-4 sm:grid-cols-2">
-                <div className="rounded-2xl bg-[#eee8df] p-6">
+                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
                     BİLDİKLERİMİZ
                   </p>
@@ -591,7 +583,7 @@ export default function DreamsEmotionPage() {
                   </ul>
                 </div>
 
-                <div className="rounded-2xl bg-[#eee8df] p-6">
+                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
                     HÂLÂ AÇIK
                   </p>
@@ -618,40 +610,40 @@ export default function DreamsEmotionPage() {
         </article>
 
         {/* SOURCES */}
-        <section className="py-16 sm:py-20">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             KAYNAKLAR
           </p>
 
-          <h2 className="mt-4 text-3xl font-light">
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
             Araştırma ve literatür
           </h2>
 
-          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#686158]">
+          <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#6f675e]">
             Bu sayfadaki açıklamalar; rüya duyguları, uyanık yaşam ile rüya
             arasındaki süreklilik, duygusal süreçler ve rüya araştırmalarının
             güncel literatürü temel alınarak hazırlanmıştır.
           </p>
 
-          <div className="mt-8 space-y-5">
+          <div className="mt-10 grid gap-x-10 gap-y-8 md:grid-cols-2">
             {sources.map((source) => (
               <article
                 key={source.title}
-                className="rounded-2xl border border-[#ddd5cb] bg-[#faf8f4] p-6"
+                className="border-t border-[#d9d2c9] pt-5"
               >
                 <p className="text-sm font-medium text-[#454039]">
                   {source.authors}
                 </p>
 
-                <p className="mt-1 text-sm leading-7 text-[#625c54]">
+                <p className="mt-2 text-[13px] leading-6 text-[#625c54]">
                   <em>{source.title}</em>
                 </p>
 
-                <p className="mt-1 text-xs text-[#8a8177]">
+                <p className="mt-2 text-xs leading-6 text-[#91887e]">
                   {source.journal}
                 </p>
 
-                <p className="mt-2 text-xs text-[#aaa198]">
+                <p className="mt-1 text-[10px] tracking-wide text-[#aaa198]">
                   {source.detail}
                 </p>
 
@@ -659,7 +651,7 @@ export default function DreamsEmotionPage() {
                   href={source.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="mt-3 inline-block text-xs text-[#625c54] underline underline-offset-4 hover:text-[#24221f]"
+                  className="mt-3 inline-block text-xs text-[#625c54] underline decoration-[#bdb4aa] underline-offset-4 transition hover:text-[#24221f]"
                 >
                   Kaynağı görüntüle →
                 </a>
@@ -669,26 +661,26 @@ export default function DreamsEmotionPage() {
         </section>
 
         {/* FAQ */}
-        <section className="pb-16 sm:pb-20">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             SIK SORULAN SORULAR
           </p>
 
-          <h2 className="mt-4 text-3xl font-light">
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
             Rüyalar ve duygular hakkında
           </h2>
 
-          <div className="mt-8 space-y-4">
+          <div className="mt-10 overflow-hidden rounded-xl border border-[#d9d1c7] bg-[#faf8f4]">
             {faqs.map((faq) => (
               <article
                 key={faq.question}
-                className="rounded-[24px] border border-[#d9d1c7] bg-[#faf8f4] p-6"
+                className="border-b border-[#ded6cc] p-6 last:border-b-0 sm:p-7"
               >
-                <h3 className="text-lg font-normal">
+                <h3 className="text-lg font-light tracking-[-0.015em]">
                   {faq.question}
                 </h3>
 
-                <p className="mt-3 text-sm leading-7 text-[#686158]">
+                <p className="mt-3 max-w-4xl text-[14px] leading-7 text-[#6f675e]">
                   {faq.answer}
                 </p>
               </article>
@@ -697,31 +689,37 @@ export default function DreamsEmotionPage() {
         </section>
 
         {/* CTA */}
-        <section className="mb-16 rounded-[30px] bg-[#292621] px-7 py-12 text-center text-white sm:mb-20 sm:px-12">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <div className="grid gap-10 lg:grid-cols-[1fr_auto] lg:items-end">
+            <div>
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             INUS
           </p>
 
-          <h2 className="mt-4 text-3xl font-light">
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
             Rüyanın duygusunu keşfet.
           </h2>
 
-          <p className="mx-auto mt-4 max-w-xl text-sm leading-7 text-[#d4cec5]">
+          <p className="mt-5 max-w-2xl text-[15px] leading-8 text-[#625c54]">
             Rüyanda yaşadığın korku, özlem, öfke veya huzuru kendi yaşamındaki
             bağlamıyla birlikte incele.
           </p>
 
-          <Link
+                      </div>
+
+            <Link
             href="/"
-            className="mt-7 inline-flex rounded-full bg-white px-7 py-3 text-sm text-[#292621] transition hover:bg-[#eee8df]"
+            scroll={true}
+            className="inline-flex items-center gap-8 rounded-full bg-[#292621] px-7 py-3.5 text-sm text-white transition hover:bg-[#403b35]"
           >
             Rüyamı analiz et
-          </Link>
+          
+              <span aria-hidden="true">→</span>
+            </Link>
+                  </div>
         </section>
 
-        <footer className="pb-8 text-center text-xs text-[#aaa198]">
-          INUS · Rüyalar hakkında araştırma ve psikolojik yaklaşım
-        </footer>
+        <SiteFooter />
       </div>
     </main>
   );
