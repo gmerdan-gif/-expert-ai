@@ -1,0 +1,96 @@
+{
+  "slug": "adres",
+  "title": "adres",
+  "shortDescription": "Rüyada adres görmek, belirli bir yere ulaşma isteğini veya yön arayışını simgeler. Adresi bulamamak belirsizliğe, yanlış adrese gitmek ise tarif ya da yöndeki karışıklığa işaret edebilir.",
+  "positiveAssociations": [
+    "Belirli bir konuma ulaşma isteği",
+    "Yön veya rota arayışının belirginleşmesi"
+  ],
+  "challengingAssociations": [
+    "Aranan konumu veya yönü bulmada yaşanan belirsizlik",
+    "Verilen tarifin ya da yönlendirmenin kafa karıştırıcı olması"
+  ],
+  "contextDependentAssociations": [
+    "Adresin yazılı mı yoksa sözlü mü sunulduğu",
+    "Adresin hangi yer veya kişiyle ilişkili olduğunun açıklığı",
+    "Rüya sahibinin uyanık yaşamında mekânsal yön veya konum arayışlarının varlığı"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kayıp bir adresi aramak",
+      "description": "Elinizdeki veya aklınızdaki bir adresi bulmaya çalışmak; rüya, somut bir yer tarifine ulaşma çabasını veya gerçek hayatta bir mekânı bulmada yaşanan güçlüğü yansıtabilir."
+    },
+    {
+      "title": "Birine adres tarif etmek",
+      "description": "Başkasına açık bir konum tarifi vermek. Rüya, mekânsal bilginin iletilmesi, yönlendirme ya da bir yerin konumunun belirlenmesi işlevine vurgu yapabilir."
+    },
+    {
+      "title": "Yanlış bir adrese gitmek",
+      "description": "Ulaşılan yer beklenen adrese uymuyorsa, rüya verilen tarife dayanarak yapılan hareketlerin yanıltıcı olabileceğine ya da tarifte veya ayrıntılarda hata bulunduğuna işaret edebilir."
+    },
+    {
+      "title": "Kağıda yazılı adres görmek",
+      "description": "Kağıt ya da dijital ekranda açıkça yazılı bir adres görmek; somut bir konum tarifinin mevcut olduğunu veya belirli bir mekâna yönlendirilmek üzere hazır bilgi bulunduğunu gösterebilir."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Tarihsel çalışmalar (adres ve yön bulma)",
+      "interpretation": "Adresin tarihsel olarak sözel/yazılı bir konum tarifi ve yön bulma aracı olduğunu vurgular; rüyalarda adres görüntüsünü somut bir mekânsal referans olarak okumayı destekler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Erken dönem kutsal metinlere dayalı rüya yorumu çalışmaları",
+      "interpretation": "Erken Yahudi-Hristiyan-İslami rüya yorum modelleri sembollerin ele alınış biçimlerini gösterir ancak 'adres' için klasik veya sabit bir yorum sağlamaz; dolayısıyla geleneksel bir karşılık doğrulanmamıştır.",
+      "evidenceLevel": "theoretical"
+    }
+  ],
+  "commonGround": "Adres sembolü, tarihsel ve kültürel bağlamda öncelikle bir yerin bulunmasını sağlayan sözlü veya yazılı konum tarifidir; rüyalarda adres görüntüsü çoğunlukla mekânsal yönlendirme ya da belirli bir noktanın varlığına dikkat çekme işlevi görür.",
+  "differences": "Doğrudan rüya bağlamında ampirik veya klasik geleneksel metinlerde 'adres' sembolüne ait sabit bir anlam doğrulanmadığı için, yorumlar adresin rüyada nasıl sunulduğu ve rüya sahibinin somut yaşam bağlamı temelinde yapılmalıdır.",
+  "inusAssessment": "Adres sembolü, klasik rüya literatüründe ve ampirik psikolojide doğrudan karşılığı olmayan bir figürdür; bu nedenle tek bir anlam yüklemekten kaçınılmalı ve rüya bağlamı ile adresin sunuluş biçimi göz önünde bulundurularak dikkatle yorumlanmalıdır.",
+  "faq": [
+    {
+      "question": "Rüyada adres görmek ne anlama gelir?",
+      "answer": "Çoğunlukla bir yerin sözlü veya yazılı konum tarifine işaret eder; yönlendirme ya da belirli bir mekânsal referans arayışını gösterebilir. Tek bir anlam yoktur, bağlam belirleyicidir."
+    },
+    {
+      "question": "Rüyada adres bulamamak neyi ifade eder?",
+      "answer": "Adresin bulunamaması, gerçek yaşamda belirli bir yer veya yön hakkında belirsizlik veya eksik bilgiyle ilgili olabilir; rüyanın ayrıntıları ve bağlamı göz önünde tutulmalıdır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "“A Proper Direction to Their Places of Abode”: Street Addressing and Wayfinding in England, ca. 1650–1850 | KNOW: A Journal on the Formation of Knowledge: Vol 7, No 1",
+      "relevance": "Adres kavramının tarihsel olarak bir konum tarifine ve yön bulma işlevine karşılık geldiğini gösterir; rüyadaki adres görüntüsünü mekânsal referans olarak ele almayı destekler.",
+      "url": "https://www.journals.uchicago.edu/doi/full/10.1086/724719"
+    },
+    {
+      "title": "Studying Dream Interpretation from Early Christianity to the Rise of Islam",
+      "relevance": "Erken Hristiyanlık ve İslam’a uzanan rüya yorum geleneğinin tarihsel çerçevesini ele alır; rüyaların dinsel otorite ve yorum pratikleri içindeki yerini gösterir.",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9809.12262"
+    },
+    {
+      "title": "2 Scriptural Models of Dream Interpretation - Oxford Academic",
+      "relevance": "Geç antik dönemdeki rüya yorum modellerinin nasıl işlediğini karşılaştırır; 'adres' sembolü için doğrudan bir geleneksel karşılık vermez.",
+      "url": "https://academic.oup.com/book/31867/chapter-abstract/267515072?redirectedFrom=PDF"
+    },
+    {
+      "title": "NJ24_inlaga.indd",
+      "relevance": "Talmudik rüya kitabı ve yorum süreçlerine dair tartışmalar içerir; Yahudi rüya yorum geleneğinin genel mantığını göstermeye yarar, ancak 'adres' için özel bir açıklama sunmaz.",
+      "url": "https://pdfs.semanticscholar.org/86ba/7c7aab1d5a4eaefdcbf908dc7d0896675026.pdf"
+    },
+    {
+      "title": "Traum und Vision in der Vormoderne",
+      "relevance": "Vormodern dönemde rüya ve vizyon incelemeleri sağlar; rüya yorumunun tarihsel bağlamını destekler, 'adres' sembolüne özgü klasik bir yorum sunmaz.",
+      "url": "https://tobias-lib.ub.uni-tuebingen.de/xmlui/bitstream/handle/10900/156080/Lehnardt_094.pdf?sequence=1&isAllowed=y"
+    }
+  ],
+  "relatedSlugs": []
+}

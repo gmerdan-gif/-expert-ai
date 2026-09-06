@@ -4,48 +4,52 @@ export const metadata = {
   alternates: {
     canonical: "/ruyalar/tekrarlayan-ruyalar",
   },
-  title: "Tekrarlayan Rüyalar | Neden Aynı Rüyayı Görüyoruz?",
+  title: "Tekrarlayan Rüyalar | Neden Aynı Rüyayı Tekrar Görürüz?",
   description:
-    "Tekrarlayan rüyalar neden görülür? Aynı rüyanın veya temanın tekrar etmesi, stres, duygular, günlük yaşam ve psikolojik rüya analizi hakkında bilimsel bilgiler.",
+    "Tekrarlayan rüyalar neden görülür? Aynı rüya ve temaların tekrarını; stres, psikolojik iyi oluş, tehdit içeriği ve kişisel bağlam üzerinden bilimsel araştırmalarla inceleyin.",
 };
 
 const sources = [
   {
-    authors: "Schredl, M. (2010)",
-    title: "Characteristics and contents of dreams",
-    journal: "International Review of Neurobiology, 92, 135–154.",
-    detail: "PMID 20870066 · DOI 10.1016/S0074-7742(10)92007-2",
-    url: "https://pubmed.ncbi.nlm.nih.gov/20870066/",
-  },
-  {
-    authors: "Schredl, M. & Hofmann, F. (2003)",
-    title: "Continuity between waking activities and dream activities",
-    journal: "Consciousness and Cognition, 12(2), 298–308.",
-    detail: "PMID 12763010 · DOI 10.1016/S1053-8100(02)00072-7",
-    url: "https://pubmed.ncbi.nlm.nih.gov/12763010/",
-  },
-  {
-    authors: "Blagrove, M. et al. (2019)",
-    title: "Reactions to Dream Content: Continuity and Non-continuity",
-    journal: "Frontiers in Psychology, 10, 2676.",
-    detail: "PMID 31849778 · DOI 10.3389/fpsyg.2019.02676",
-    url: "https://pubmed.ncbi.nlm.nih.gov/31849778/",
-  },
-  {
-    authors: "Zadra, A. & Donderi, D. C. (2000)",
+    authors: "Zadra, A. L., O'Brien, S. A. & Donderi, D. C. (1998)",
     title:
-      "Nightmares and bad dreams: Their prevalence and relationship to well-being",
-    journal: "Journal of Abnormal Psychology.",
-    detail: "Research on recurrent unpleasant dream experiences",
-    url: "https://pubmed.ncbi.nlm.nih.gov/11014146/",
+      "Dream Content, Dream Recurrence and Well-Being: A Replication with a Younger Sample",
+    journal: "Imagination, Cognition and Personality, 17(4), 293–311.",
+    detail: "DOI 10.2190/LLXL-D4DB-9CP5-BRGT",
+    url: "https://doi.org/10.2190/LLXL-D4DB-9CP5-BRGT",
   },
   {
-    authors: "Yu, C. K.-C. (2007)",
+    authors: "Weinstein, N., Campbell, R. & Vansteenkiste, M. (2018)",
     title:
-      "The repetition of dreams: A review of the literature",
-    journal: "Dreaming.",
-    detail: "Review of recurrent dream phenomena",
-    url: "https://psycnet.apa.org/record/2007-19165-004",
+      "Linking psychological need experiences to daily and recurring dreams",
+    journal: "Motivation and Emotion, 42(1), 50–63.",
+    detail:
+      "PMID 29391655 · PMCID PMC5775982 · DOI 10.1007/s11031-017-9656-0",
+    url: "https://pubmed.ncbi.nlm.nih.gov/29391655/",
+  },
+  {
+    authors: "Zadra, A., Desjardins, S. & Marcotte, É. (2006)",
+    title:
+      "Evolutionary function of dreams: A test of the threat simulation theory in recurrent dreams",
+    journal: "Consciousness and Cognition, 15(2), 450–463.",
+    detail: "PMID 16720254 · DOI 10.1016/j.concog.2005.02.002",
+    url: "https://pubmed.ncbi.nlm.nih.gov/16720254/",
+  },
+  {
+    authors:
+      "Gauchat, A., Zadra, A., Tremblay, R. E., Zelazo, P. D. & Séguin, J. R. (2009)",
+    title: "Recurrent Dreams and Psychosocial Adjustment in Preteenaged Children",
+    journal: "Dreaming, 19(2), 75–84.",
+    detail: "PMID 24976740 · PMCID PMC4072653 · DOI 10.1037/a0016549",
+    url: "https://pubmed.ncbi.nlm.nih.gov/24976740/",
+  },
+  {
+    authors: "Gauchat, A., Séguin, J. R., McSween-Cadieux, E. & Zadra, A. (2015)",
+    title: "The content of recurrent dreams in young adolescents",
+    journal: "Consciousness and Cognition, 37, 103–111.",
+    detail:
+      "PMID 26366465 · PMCID PMC4851546 · DOI 10.1016/j.concog.2015.08.009",
+    url: "https://pubmed.ncbi.nlm.nih.gov/26366465/",
   },
 ];
 
@@ -53,32 +57,32 @@ const faqs = [
   {
     question: "Aynı rüyayı tekrar tekrar görmek ne anlama gelir?",
     answer:
-      "Tekrarlayan bir rüyanın herkes için geçerli tek bir anlamı yoktur. Tekrar eden rüyalar bazen benzer duygular, yaşam sorunları veya devam eden deneyimlerle ilişkili olabilir. Ancak tek başına tekrar etmesi belirli bir psikolojik durumu kanıtlamaz.",
+      "Tekrarlayan bir rüyanın herkes için geçerli tek bir anlamı yoktur. Araştırmalar tekrarlayan rüyaların bazı örneklemlerde stres, daha olumsuz rüya içeriği ve daha düşük psikolojik iyi oluşla ilişkili olabildiğini gösterir. Ancak bu ilişkiler, tek bir kişinin rüyasının neden tekrar ettiğini tek başına açıklamaz.",
   },
   {
     question: "Tekrarlayan rüyalar stres yüzünden mi görülür?",
     answer:
-      "Stres ve duygusal olarak önemli yaşam olayları rüya içeriğiyle ilişkili olabilir. Ancak her tekrarlayan rüyanın nedeni stres değildir. Kişinin yaşam bağlamı, rüyanın içeriği ve rüyadaki duygular birlikte değerlendirilmelidir.",
+      "Stres olası etkenlerden biridir, fakat her tekrarlayan rüyanın nedeni stres değildir. Yaşam koşulları, duygusal olarak önemli konular, kişisel çağrışımlar, uyku ve rüya hatırlama süreçleri birlikte rol oynayabilir.",
   },
   {
-    question: "Aynı rüyayı görmek bilinçaltımın bana mesaj verdiği anlamına mı gelir?",
+    question: "Tekrarlayan rüyalar hep kötü veya korkutucu mudur?",
     answer:
-      "Bunu kesin olarak söylemek mümkün değildir. Psikodinamik ve Jungcu yaklaşımlar tekrarlayan rüyaları psikolojik süreçleri düşünmek için kullanabilir. Ancak böyle bir yorum bilimsel olarak kanıtlanmış bir mesaj olarak sunulmamalıdır.",
+      "Hayır. Tekrarlayan rüyalar olumlu veya nötr de olabilir. Bununla birlikte araştırmalarda olumsuz içerik ve tehdit temaları dikkat çekicidir. Bazı örneklemlerde kovalanma, düşme, saldırı veya tehdit gibi içerikler sık görülmüştür.",
   },
   {
-    question: "Tekrarlayan rüyalar kötü bir şey olacağını haber verir mi?",
+    question: "Tekrarlayan rüya bilinçdışının mesajı mıdır?",
     answer:
-      "Hayır. Tekrarlayan rüyaların gelecekte gerçekleşecek olayları güvenilir biçimde öngördüğünü gösteren bilimsel bir kanıt bulunmamaktadır.",
+      "Bu, deneysel araştırmaların doğruladığı bir gerçek değildir. Jungcu ve diğer psikodinamik yaklaşımlar tekrarı psikolojik açıdan anlamlı bir örüntü olarak ele alabilir; fakat ortaya çıkan yorum kişinin bağlamıyla sınanması gereken bir yorumdur, kanıtlanmış gizli mesaj değildir.",
   },
   {
-    question: "Tekrarlayan rüyalar zamanla değişebilir mi?",
+    question: "Tekrarlayan rüyalar geleceği haber verir mi?",
     answer:
-      "Evet. Rüyanın temel teması benzer kalırken kişiler, mekânlar, olaylar veya duygular değişebilir. Bu değişimler rüyanın zaman içinde farklı bir biçim aldığını gösterebilir; ancak tek başına belirli bir psikolojik sonuca işaret etmez.",
+      "Tekrarlayan rüyaların gelecekteki olayları güvenilir biçimde öngördüğünü gösteren bilimsel kanıt yoktur. Tekrarın kendisi kehanet veya uyarı olarak değerlendirilmemelidir.",
   },
   {
-    question: "Tekrarlayan rüyalar tamamen kaybolabilir mi?",
+    question: "Tekrarlayan rüyalar ne zaman profesyonel destek gerektirebilir?",
     answer:
-      "Bazı kişilerde tekrarlayan rüyaların sıklığı zamanla azalabilir veya rüyanın içeriği değişebilir. Bunun nedenleri kişisel yaşam koşullarındaki değişiklikler, stres düzeyi, uyku düzeni ve başka faktörlerle ilişkili olabilir.",
+      "Rüya veya kâbuslar sık sık uykudan uyandırıyor, uyumaktan kaçınmaya yol açıyor, gündüz işlevselliğini belirgin biçimde etkiliyor ya da travmatik bir deneyimle bağlantılı yoğun sıkıntı yaratıyorsa bir sağlık veya ruh sağlığı uzmanıyla görüşmek uygun olabilir.",
   },
 ];
 
@@ -86,9 +90,9 @@ export default function RecurrentDreamsPage() {
   const articleJsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: "Tekrarlayan Rüyalar: Neden Aynı Rüyayı Görüyoruz?",
+    headline: "Tekrarlayan Rüyalar: Neden Aynı Rüyayı Tekrar Görürüz?",
     description:
-      "Tekrarlayan rüyaların olası açıklamaları, duygular, stres, günlük yaşam ve psikolojik rüya analizi.",
+      "Tekrarlayan rüyaları; stres, psikolojik iyi oluş, tehdit içeriği, kişisel bağlam ve yorum sınırları üzerinden bilimsel araştırmalarla ele alan INUS rehberi.",
     author: {
       "@type": "Organization",
       name: "INUS",
@@ -108,31 +112,36 @@ export default function RecurrentDreamsPage() {
         }}
       />
 
-      <div className="mx-auto w-full max-w-4xl px-5 sm:px-8">
-
+      <div className="mx-auto w-full max-w-6xl px-5 sm:px-8">
         {/* HEADER */}
-        <header className="flex items-center justify-between py-7">
+        <header className="flex items-center justify-between py-6">
           <Link
             href="/"
-            className="text-xl font-medium tracking-[0.28em]"
+            className="text-lg font-medium tracking-[0.28em] transition hover:opacity-70"
           >
             INUS
           </Link>
 
-          <Link
-            href="/ruyalar"
-            className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
-          >
-            Rüya Kütüphanesi
-          </Link>
+          <div className="flex items-center gap-7 text-sm text-[#625c54]">
+            <Link href="/ruyalar" className="transition hover:text-[#24221f]">
+              Rüya Kütüphanesi
+            </Link>
+
+            <Link
+              href="/ruyalar/semboller"
+              className="hidden transition hover:text-[#24221f] sm:inline"
+            >
+              Rüya Sembolleri
+            </Link>
+          </div>
         </header>
 
         {/* BREADCRUMB */}
         <nav
-          className="pt-10 text-xs text-[#8a8177]"
+          className="border-t border-[#d9d2c9] pt-6 text-[11px] text-[#91887e]"
           aria-label="Breadcrumb"
         >
-          <Link href="/ruyalar" className="hover:text-[#24221f]">
+          <Link href="/ruyalar" className="transition hover:text-[#24221f]">
             Rüyalar
           </Link>
 
@@ -142,441 +151,402 @@ export default function RecurrentDreamsPage() {
         </nav>
 
         {/* HERO */}
-        <header className="pb-14 pt-10 sm:pb-18 sm:pt-14">
-          <p className="mb-5 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
-            TEKRARLAYAN RÜYALAR
-          </p>
+        <header className="pb-14 pt-12 sm:pb-20 sm:pt-16">
+          <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:gap-14">
+            <div>
+              <p className="mb-5 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                TEKRARLAYAN RÜYALAR
+              </p>
 
-          <h1 className="max-w-3xl text-5xl font-light tracking-tight sm:text-6xl">
-            Neden aynı rüyayı
-            <br />
-            tekrar görüyoruz?
-          </h1>
+              <h1 className="max-w-xl text-[52px] font-light leading-[0.98] tracking-[-0.045em] sm:text-[68px] md:text-[78px]">
+                Neden aynı rüyayı
+                <br />
+                tekrar görüyoruz?
+              </h1>
+            </div>
 
-          <p className="mt-7 max-w-3xl text-lg font-light leading-8 text-[#686158]">
-            Bazı rüyalar tek seferlik değildir. Aynı mekân, benzer bir olay,
-            aynı kişi veya aynı duygusal atmosfer farklı gecelerde yeniden
-            ortaya çıkabilir.
-          </p>
+            <div className="flex flex-col justify-end">
+              <p className="max-w-2xl text-[17px] font-light leading-8 text-[#625c54]">
+                Bazen aynı sahne geri gelir. Bazen mekân ve kişiler değişir ama
+                kovalanma, yetişememe, düşme ya da sıkışıp kalma gibi bir örüntü
+                yeniden ortaya çıkar. Bazen de tekrar eden şey yalnızca
+                duygudur.
+              </p>
 
-          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#817970]">
-            Tekrarlayan rüyalar ilginç bir araştırma konusu olsa da bunların
-            herkes için geçerli tek bir psikolojik anlamı yoktur. Rüyanın
-            içeriği, duygusu ve kişinin yaşamındaki bağlam birlikte
-            değerlendirilmelidir.
-          </p>
+              <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#81786e]">
+                Araştırmalar tekrarlayan rüyaları stres, psikolojik iyi oluş,
+                temel psikolojik ihtiyaçlar ve tehdit içeriği gibi başlıklarla
+                ilişkilendiriyor. Fakat tekrarın herkes için geçerli tek bir
+                nedeni veya hazır bir anlamı gösterilmiş değil.
+              </p>
+            </div>
+          </div>
         </header>
 
         {/* KEY POINT */}
-        <section className="mb-10 rounded-[28px] bg-[#292621] px-7 py-9 text-white sm:px-10">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
+        <section className="border-t border-[#d9d2c9] py-10 sm:py-12">
+          <p className="text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             TEMEL AYRIM
           </p>
 
-          <h2 className="mt-4 text-2xl font-light">
-            Tekrar etmek, tek başına bir mesajın kanıtı değildir.
+          <h2 className="mt-4 max-w-3xl text-2xl font-light leading-tight tracking-[-0.025em]">
+            Tekrarlayan rüya bir mesajdan önce, tanımlanması gereken bir
+            örüntüdür.
           </h2>
 
-          <p className="mt-4 max-w-3xl text-sm leading-7 text-[#d4cec5]">
-            Aynı rüyanın tekrar görülmesi dikkat çekici olabilir. Ancak
-            “tekrarlıyorsa kesin olarak bilinçaltının mesajıdır” demek,
-            araştırmaların desteklediğinden daha güçlü bir iddiadır.
+          <p className="mt-4 max-w-3xl text-[14px] leading-7 text-[#625c54]">
+            Birebir aynı senaryonun tekrar etmesiyle, benzer temaların veya aynı
+            duygusal yapının farklı rüyalarda yeniden belirmesi aynı şey
+            değildir. Önce neyin tekrar ettiğini ayırmak, yoruma hemen anlam
+            yüklemekten daha sağlam bir başlangıçtır.
           </p>
         </section>
 
         {/* ARTICLE */}
-        <article className="rounded-[30px] border border-[#d9d1c7] bg-[#faf8f4] px-7 py-10 sm:px-12 sm:py-14">
-
-          <div className="space-y-12 text-[15px] leading-8 text-[#454039]">
-
-            {/* 1 */}
+        <article className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <div className="divide-y divide-[#d9d2c9] text-[15px] leading-8 text-[#454039] [&>section]:py-12 [&>section:first-child]:pt-0 [&>section:last-child]:pb-0 lg:[&>section]:grid lg:[&>section]:grid-cols-[0.9fr_1.1fr] lg:[&>section]:gap-x-14 lg:[&>section>h2]:col-start-1 lg:[&>section>h2]:row-start-1 lg:[&>section>:not(h2)]:col-start-2">
             <section>
-              <h2 className="text-2xl font-normal">
-                Tekrarlayan rüya nedir?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Tekrarlayan rüya tam olarak nedir?
               </h2>
 
               <p className="mt-5">
-                Tekrarlayan rüya, kişinin benzer bir rüyayı veya benzer bir
-                rüya temasını birden fazla kez yaşamasıdır.
+                Araştırma literatüründe tekrarlayan rüya, zaman içinde yeniden
+                ortaya çıkan ve temel tema ile içeriğini önemli ölçüde koruyan
+                rüyaları ifade eder. Bu tanım, gündelik dilde kullandığımız
+                “hep benzer rüyalar görüyorum” ifadesinden daha dardır.
               </p>
 
               <p className="mt-4">
-                Burada “aynı rüya” ifadesi her zaman kelimesi kelimesine aynı
-                olay örgüsü anlamına gelmez. Bazen mekân aynı kalırken olay
-                değişebilir. Bazen kişi aynı olabilir ama rüyadaki durum
-                farklılaşabilir.
+                Bu yüzden üç farklı deneyimi ayırmak yararlıdır: neredeyse aynı
+                rüyanın tekrar etmesi, aynı temanın farklı senaryolarla geri
+                gelmesi ve farklı rüyalarda aynı duygusal örüntünün
+                hissedilmesi.
               </p>
 
-              <p className="mt-4">
-                Bazı kişiler ise yıllar boyunca benzer bir duygusal atmosferin
-                tekrar ettiğini fark eder.
-              </p>
-            </section>
-
-            {/* 2 */}
-            <section>
-              <h2 className="text-2xl font-normal">
-                Aynı rüya gerçekten tamamen aynı mı?
-              </h2>
-
-              <p className="mt-5">
-                Rüya hafızası oldukça kırılgan olduğu için bu soruya kesin
-                cevap vermek zordur.
-              </p>
-
-              <p className="mt-4">
-                Kişi iki rüyayı benzer olarak hatırlayabilir; ancak ayrıntılar
-                farklı olabilir. Bu nedenle araştırmalarda “tekrarlayan rüya”
-                çoğu zaman birebir aynı senaryodan çok ortak temalar ve
-                örüntüler üzerinden değerlendirilir.
-              </p>
-
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
+              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
                 <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Örnek:</strong> Bir gece havaalanında uçağa
-                  yetişememek, başka bir gece treni kaçırmak ve başka bir gece
-                  önemli bir toplantıya geç kalmak farklı rüyalar olabilir.
-                  Ancak kişi bunların hepsinde aynı “yetişememe” duygusunu
-                  yaşayabilir.
+                  <strong>Örnek:</strong> Her seferinde aynı koridorda kaybolmak
+                  daha dar anlamda tekrarlayan rüyaya yakındır. Bir gece uçağı,
+                  başka bir gece sınavı, başka bir gece toplantıyı kaçırmak ise
+                  “yetişememe” temasının tekrar etmesi olabilir.
                 </p>
               </div>
             </section>
 
-            {/* 3 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Tekrarlayan rüyalar neden görülür?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Neden aynı örüntü geri gelebilir?
               </h2>
 
               <p className="mt-5">
-                Bunun tek bir açıklaması yoktur.
+                Bugün için bütün tekrarlayan rüyaları açıklayan tek bir
+                mekanizma yok. Araştırmalar, tekrarın uyanık yaşamdaki
+                süreklilikler, stres, duygusal olarak önemli deneyimler ve
+                kişinin psikolojik durumuyla ilişkili olabileceğini gösteriyor.
               </p>
 
               <p className="mt-4">
-                Rüya araştırmalarında uyanık yaşamla süreklilik, duygusal
-                deneyimler, bellek süreçleri ve devam eden yaşam sorunları
-                gibi farklı faktörler incelenmektedir.
-              </p>
-
-              <p className="mt-4">
-                Bir kişinin yaşamında uzun süre devam eden bir sorun veya
-                duygusal olarak önemli bir konu varsa, bunun rüyalarda
-                farklı biçimlerde tekrar ortaya çıkması mümkün olabilir.
-              </p>
-
-              <p className="mt-4">
-                Ancak bu, her tekrarlayan rüyanın çözülmemiş bir psikolojik
-                sorundan kaynaklandığını göstermez.
+                Buradaki kritik kelime <strong>ilişki</strong>. Bir örüntünün
+                stresli dönemlerde görülmesi, stresin o rüyayı tek başına
+                ürettiğini kanıtlamaz. Aynı şekilde rüyanın tekrarlanması da
+                çözülememiş belirli bir sorunun varlığını otomatik olarak
+                göstermez.
               </p>
             </section>
 
-            {/* 4 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Stres ve tekrarlayan rüyalar
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Stres ve psikolojik iyi oluşla bağlantı ne kadar güçlü?
               </h2>
 
               <p className="mt-5">
-                Stres, rüya içeriği ve rüya hatırlama üzerinde etkili
-                olabilecek faktörlerden biridir.
+                Zadra, O&apos;Brien ve Donderi&apos;nin genç yetişkinlerle
+                yaptığı çalışmada, aktif olarak tekrarlayan rüya bildiren
+                katılımcılar daha düşük psikolojik iyi oluş ve daha olumsuz
+                gündelik rüya içeriği bildirdi. Araştırmacılar bu bulguları
+                önceki yetişkin çalışmalarıyla benzer bir örüntü olarak
+                değerlendirdi.
               </p>
 
               <p className="mt-4">
-                Özellikle kişinin gündelik yaşamında devam eden bir problem
-                varsa, bunun rüyalarda tekrar eden temalar şeklinde ortaya
-                çıkması mümkündür.
+                Bu sonuç önemlidir; ama klinik bir test değildir. Grup
+                düzeyindeki bir ilişki, tek bir kişiye doğrudan teşhis olarak
+                uygulanamaz.
               </p>
 
-              <p className="mt-4">
-                Örneğin iş değişikliği sürecindeki bir kişi sürekli olarak
-                kaybolduğunu veya bir yere yetişemediğini görebilir.
-              </p>
-
-              <p className="mt-4">
-                Fakat bu rüyanın kesin olarak “iş değiştirme korkusunu”
-                gösterdiğini söylemek için yeterli değildir. Kişinin kendi
-                çağrışımları ve yaşam bağlamı gerekir.
-              </p>
-            </section>
-
-            {/* 5 */}
-            <section>
-              <h2 className="text-2xl font-normal">
-                Tekrarlayan rüyalarda duygular neden önemli?
-              </h2>
-
-              <p className="mt-5">
-                Bazen rüyanın tekrar eden kısmı olay değil, duygudur.
-              </p>
-
-              <p className="mt-4">
-                Kişi her seferinde farklı bir yerde olabilir ancak aynı
-                çaresizlik, kontrol kaybı, utanç veya korku hissini
-                yaşayabilir.
-              </p>
-
-              <p className="mt-4">
-                Bu nedenle rüyayı anlamaya çalışırken yalnızca “ne oldu?”
-                sorusunu değil, “her seferinde nasıl hissettim?” sorusunu
-                sormak yararlı olabilir.
-              </p>
-
-              <blockquote className="mt-7 border-l-2 border-[#9b9186] pl-6 text-xl font-light leading-8 text-[#625c54]">
-                Bazen tekrarlayan şey hikâye değil, hikâyenin yarattığı
-                duygudur.
-              </blockquote>
-            </section>
-
-            {/* 6 */}
-            <section>
-              <h2 className="text-2xl font-normal">
-                Tekrarlayan rüya zaman içinde değişebilir mi?
-              </h2>
-
-              <p className="mt-5">
-                Evet. Bir rüyanın temel teması benzer kalırken ayrıntıları
-                değişebilir.
-              </p>
-
-              <p className="mt-4">
-                Örneğin kişi başlangıçta sürekli olarak bir binadan çıkamadığı
-                rüyalar görebilir. Daha sonra aynı binada kapıyı bulabilir,
-                kapıyı açabilir veya dışarı çıkabilir.
-              </p>
-
-              <p className="mt-4">
-                Böyle bir değişim psikolojik olarak ilginç olabilir; ancak
-                tek başına “sorun çözüldü” sonucunu kanıtlamaz.
-              </p>
-
-              <p className="mt-4">
-                Değişimin anlamını değerlendirmek için kişinin gerçek
-                yaşamındaki değişikliklere de bakmak gerekir.
-              </p>
-            </section>
-
-            {/* 7 */}
-            <section>
-              <h2 className="text-2xl font-normal">
-                Rüyaların tekrar etmesi bilinçaltının mesajı mı?
-              </h2>
-
-              <p className="mt-5">
-                Psikolojik yorumlama geleneklerinde tekrarlayan rüyalar
-                bilinçdışı süreçlerle ilişkilendirilebilir.
-              </p>
-
-              <p className="mt-4">
-                Özellikle Jungcu yaklaşımda rüyanın tekrar eden temaları,
-                kişinin bilinçli tutumuyla arasındaki gerilimleri düşünmek
-                için kullanılabilir.
-              </p>
-
-              <p className="mt-4">
-                Ancak bunu “bilinçaltı kesin olarak sana şu mesajı veriyor”
-                şeklinde ifade etmek doğru değildir.
-              </p>
-
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
+              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
                 <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>INUS yaklaşımı:</strong> Tekrarlayan rüyayı hazır
-                  bir mesaj olarak vermek yerine, tekrarın kişinin mevcut
-                  yaşamında neyle ilişkili olabileceğini araştırmak.
+                  <strong>Kanıtın sınırı:</strong> Tekrarlayan rüyalar bazı
+                  araştırmalarda stres ve daha düşük iyi oluşla birlikte
+                  görülmüştür. Bu, her tekrarın stres kaynaklı olduğu anlamına
+                  gelmez.
                 </p>
               </div>
             </section>
 
-            {/* 8 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Tekrarlayan rüyalar geleceği haber verir mi?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Karşılanmayan psikolojik ihtiyaçlar rüyalara yansıyor mu?
               </h2>
 
               <p className="mt-5">
-                Hayır. Tekrarlayan rüyaların gelecekte gerçekleşecek olayları
-                güvenilir biçimde öngördüğünü gösteren bilimsel kanıt
-                bulunmamaktadır.
+                Weinstein, Campbell ve Vansteenkiste&apos;nin çalışması,
+                tekrarlayan rüyaları öz-belirleme kuramındaki özerklik,
+                yeterlik ve ilişki kurma ihtiyaçları üzerinden inceledi.
               </p>
 
               <p className="mt-4">
-                Bazen rüyadaki bir olay daha sonra gerçek hayatta yaşanmış
-                gibi görünebilir. Bunun arkasında tesadüf, seçici hatırlama
-                veya gerçekleşen olayın daha sonra rüyaya benzetilmesi gibi
-                mekanizmalar bulunabilir.
+                Tekrarlayan rüyalara odaklanan örneklemde psikolojik ihtiyaç
+                engellenmesi yaşayan katılımcılar daha olumsuz rüya temaları
+                bildirdi ve rüyalarını daha olumsuz değerlendirdi.
               </p>
 
               <p className="mt-4">
-                Bu nedenle tekrarlayan bir rüyanın gelecekte olacak bir
-                olayın işareti olduğunu varsaymak güvenilir değildir.
+                Bu bulgu, belirli bir sembolün belirli bir ihtiyacı temsil
+                ettiğini göstermez. Çalışma grup düzeyindeki ilişkileri
+                gösterir; kişisel rüya yorumu için hazır bir sözlük sunmaz.
               </p>
             </section>
 
-            {/* 9 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Tekrarlayan kâbuslar farklı bir konu mu?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Neden kovalanma, düşme ve saldırı gibi temalar dikkat çekiyor?
               </h2>
 
               <p className="mt-5">
-                Tekrarlayan kâbuslar rüya araştırmalarında ayrıca önem taşır.
-                Özellikle yoğun korku veya tehdit hissiyle birlikte gelen
-                rüyalar kişinin uyku deneyimini etkileyebilir.
+                Tekrarlayan rüya araştırmalarında olumsuz ve tehdit içeren
+                senaryolar sık inceleniyor. Zadra, Desjardins ve
+                Marcotte&apos;un 212 tekrarlayan rüyayı değerlendirdiği
+                çalışmada raporların yüzde 66&apos;sında en az bir tehdit
+                bulundu.
               </p>
 
               <p className="mt-4">
-                Kâbusların ortaya çıkmasında stres, travmatik deneyimler,
-                uyku bozuklukları, ilaçlar ve başka faktörler rol oynayabilir.
+                Buna karşılık rüyaların yüzde 15&apos;inden azı fiziksel
+                hayatta kalma veya üreme açısından gerçekçi ve olası kritik
+                durumlar içeriyordu.
               </p>
 
               <p className="mt-4">
-                Bu nedenle sık ve ciddi biçimde rahatsız eden kâbuslar
-                yalnızca sembolik bir yorum konusu olarak ele alınmamalıdır.
+                Bu nedenle çalışma, rüyaların tehditleri prova ettiği yönündeki
+                tehdit simülasyonu teorisine karma destek
+                verdi. Tekrarlayan rüyaların tek işlevinin tehlikeye hazırlık
+                olduğunu söylemek bulguların ötesine geçer.
               </p>
             </section>
 
-            {/* 10 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Tekrarlayan rüyalar ne zaman azalabilir?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Çocuklarda ve ergenlerde de aynı örüntüler mi görülüyor?
               </h2>
 
               <p className="mt-5">
-                Bazı kişilerde yaşam koşulları değiştikçe belirli rüyaların
-                sıklığı azalabilir.
+                Yaş ve gelişim dönemi önem taşıyabilir. Genç ergenlerden
+                toplanan 102 tekrarlayan rüyanın incelendiği bir çalışmada en
+                sık bildirilen temalar canavar veya hayvanlarla karşılaşma,
+                fiziksel saldırı, düşme ve kovalanmaydı.
               </p>
 
               <p className="mt-4">
-                Bir problemin çözülmesi, stres düzeyinin azalması veya kişinin
-                yaşadığı deneyime ilişkin bakış açısının değişmesi rüya
-                deneyiminde de değişikliklerle birlikte görülebilir.
-              </p>
-
-              <p className="mt-4">
-                Ancak bu ilişki kişiden kişiye değişir ve tek başına rüyanın
-                kaybolması belirli bir psikolojik sürecin tamamlandığını
-                kanıtlamaz.
+                Rüyalar olumlu içerikten daha sık olumsuz içerik taşıyordu,
+                fakat yalnızca yaklaşık yarısında tehdit öğeleri vardı.
+                Araştırmacılar bu rüyaların yetişkinlerde bildirilenlerden bazı
+                yönleriyle farklılaştığını da vurguladı.
               </p>
             </section>
 
-            {/* 11 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Tekrarlayan rüyayı anlamak için hangi sorular sorulabilir?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Tekrarlayan rüya ile tekrarlayan kâbus aynı şey mi?
               </h2>
 
               <p className="mt-5">
-                Rüyanın tekrar etmesini anlamaya çalışırken şu sorular
-                başlangıç için yararlı olabilir:
+                Hayır. Tekrarlayan rüya, tekrar eden içerik veya temayı
+                tanımlar; kâbus ise yoğun olumsuz duygu taşıyan ve kişiyi
+                uyandırabilen rahatsız edici rüya deneyimini ifade eder. İki
+                kategori kesişebilir ama eş anlamlı değildir.
+              </p>
+
+              <p className="mt-4">
+                Rüya veya kâbuslar sık sık uykudan uyandırıyor, uyumaktan
+                kaçınmaya neden oluyor, gündüz işlevselliğini belirgin biçimde
+                etkiliyor ya da travmatik bir deneyimle bağlantılı yoğun
+                sıkıntı yaratıyorsa yalnızca sembolik yorumla yetinmek yerine
+                profesyonel değerlendirme düşünülmelidir.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Rüyanın değişmesi veya sona ermesi ne anlatır?
+              </h2>
+
+              <p className="mt-5">
+                Tekrarlayan rüya zaman içinde aynı kalmak zorunda değildir.
+                Tehdit ortadan kalkabilir, rüya gören kişinin tepkisi
+                değişebilir veya rüya tamamen sona erebilir.
+              </p>
+
+              <p className="mt-4">
+                Böyle bir değişim psikolojik açıdan ilginç bir veri noktasıdır,
+                fakat tek başına “sorun çözüldü” sonucunu kanıtlamaz. Rüyanın
+                dönüşümü, kişinin yaşamındaki değişikliklerle birlikte
+                değerlendirilmelidir.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Jungcu yaklaşım tekrarı nasıl ele alabilir?
+              </h2>
+
+              <p className="mt-5">
+                Jungcu yaklaşımda tekrar eden imgeler ve temalar, kişinin
+                bilinçli tutumuyla henüz yeterince ilişki kurulmamış psikolojik
+                içerikleri düşünmek için kullanılabilir. Burada rüya hazır bir
+                şifre değil; çağrışımlar üzerinden araştırılan bir deneyimdir.
+              </p>
+
+              <p className="mt-4">
+                Bu yaklaşım deneysel rüya araştırmasıyla aynı tür kanıt üretmez.
+                “Araştırmalar tekrarlayan rüyanın şu bilinçdışı mesaj olduğunu
+                kanıtladı” demek doğru olmaz.
+              </p>
+
+              <p className="mt-4">
+                Daha güvenli kullanım, Jungcu yorumu bir hipotez olarak
+                tutmaktır: Bu tekrar kişinin yaşamında neyle yankılanıyor?
+                Rüyadaki imge kişiye ne çağrıştırıyor?
+              </p>
+            </section>
+
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Tekrarlayan rüyayı incelerken neyi kaydetmek gerekir?
+              </h2>
+
+              <p className="mt-5">
+                Tek bir rüyanın anlamını hemen çözmeye çalışmak yerine,
+                tekrarlar arasındaki benzerlik ve farklılıkları kaydetmek daha
+                bilgi verici olabilir.
               </p>
 
               <ol className="mt-5 space-y-4 pl-5">
                 <li>
-                  <strong>1.</strong> Rüyanın hangi kısmı her seferinde
+                  <strong>1.</strong> Hangi sahne, kişi, mekân veya tema gerçekten
                   tekrar ediyor?
                 </li>
                 <li>
-                  <strong>2.</strong> Rüyada en güçlü duygu hangisi?
+                  <strong>2.</strong> Her rüyada baskın duygu aynı mı?
                 </li>
                 <li>
-                  <strong>3.</strong> Rüya ilk ne zaman ortaya çıktı?
+                  <strong>3.</strong> Rüyadaki rolün değişiyor mu: kaçıyor,
+                  izliyor, karşı koyuyor veya yardım mı arıyorsun?
                 </li>
                 <li>
-                  <strong>4.</strong> Rüyanın başladığı dönemde hayatımda
-                  neler oluyordu?
+                  <strong>4.</strong> Rüya hangi dönemlerde sıklaşıyor veya
+                  azalıyor?
                 </li>
                 <li>
-                  <strong>5.</strong> Son dönemde rüyadaki temaya benzeyen
-                  bir durum yaşıyor muyum?
+                  <strong>5.</strong> İlk görüldüğü ve yeniden ortaya çıktığı
+                  dönemlerde yaşamında hangi konular öne çıkıyor?
                 </li>
                 <li>
-                  <strong>6.</strong> Rüya zaman içinde nasıl değişti?
+                  <strong>6.</strong> Sonraki versiyonlarda yeni bir son veya
+                  farklı bir davranış ortaya çıkıyor mu?
                 </li>
               </ol>
+
+              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
+                <p className="text-sm leading-7 text-[#625c54]">
+                  <strong>Pratik ayrım:</strong> “Yine aynı rüyayı gördüm”
+                  demek yerine değişmeyen ve değişen parçaları ayrı ayrı
+                  yazmak, gerçekten neyin tekrar ettiğini görmeyi kolaylaştırır.
+                </p>
+              </div>
             </section>
 
-            {/* 12 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 INUS tekrarlayan rüyalara nasıl yaklaşır?
               </h2>
 
               <p className="mt-5">
-                INUS için tekrarın kendisi önemli bir ipucudur; fakat otomatik
-                bir cevap değildir.
+                INUS tekrarın kendisini önemli bir veri noktası olarak ele
+                alır; fakat onu otomatik olarak bilinçdışının mesajı, travmanın
+                kanıtı veya geleceğe ilişkin uyarı saymaz.
               </p>
 
               <p className="mt-4">
-                Rüyanın tekrar eden olayları, kişiler, mekânları ve duyguları
-                birlikte incelenir. Daha sonra bunların kişinin mevcut yaşamı
-                ve kişisel çağrışımlarıyla nasıl ilişkili olabileceği
-                araştırılır.
+                Önce rüyanın değişmeyen çekirdeği belirlenir: olay mı, kişi mi,
+                mekân mı, sembol mü, ilişki biçimi mi yoksa duygu mu tekrar
+                ediyor? Ardından kişinin o öğelere ilişkin kendi çağrışımları
+                ve rüyanın ortaya çıktığı yaşam dönemi incelenir.
               </p>
 
               <p className="mt-4">
-                Jungcu bakış açısından tekrar eden bir tema, kişinin bilinçli
-                tutumuyla rüya arasındaki gerilimi düşünmek için bir fırsat
-                olarak ele alınabilir.
+                Bilimsel bulgular genel çerçeveyi sınırlar; Jungcu ve diğer
+                psikolojik okumalar ise kişisel anlamı araştırmak için
+                kullanılabilir. Bu iki düzey birbirine karıştırılmaz.
               </p>
 
-              <p className="mt-4">
-                Ancak ortaya çıkan yorum kesin gerçek, teşhis veya gelecek
-                tahmini olarak sunulmaz.
-              </p>
-
-              <blockquote className="mt-7 border-l-2 border-[#9b9186] pl-6 text-xl font-light leading-8 text-[#625c54]">
-                “Aynı rüya neden tekrar geliyor?” kadar,
-                “Hayatımda ne tekrar ediyor?” sorusu da önemlidir.
+              <blockquote className="mt-8 border-l border-[#9b9186] py-1 pl-6 text-xl font-light leading-8 tracking-[-0.015em] text-[#625c54]">
+                “Aynı rüya neden geliyor?” sorusundan önce, “Tam olarak ne
+                tekrar ediyor?” diye sormak gerekir.
               </blockquote>
             </section>
 
-            {/* SUMMARY */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Kısaca ne biliyoruz?
               </h2>
 
               <div className="mt-6 grid gap-4 sm:grid-cols-2">
-                <div className="rounded-2xl bg-[#eee8df] p-6">
+                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
-                    BİLDİKLERİMİZ
+                    DAHA GÜÇLÜ BULGULAR
                   </p>
 
                   <ul className="mt-4 space-y-3 text-sm leading-7 text-[#625c54]">
                     <li>
-                      • Rüyalar ve uyanık yaşam arasında süreklilikler
-                      bulunabilir.
+                      • Tekrarlayan rüyalar araştırılabilir bir rüya
+                      örüntüsüdür.
                     </li>
                     <li>
-                      • Duygusal olarak önemli deneyimler rüyalarda tekrar
-                      ortaya çıkabilir.
+                      • Bazı çalışmalarda stres, olumsuz içerik ve daha düşük
+                      psikolojik iyi oluşla ilişkiler bulunmuştur.
                     </li>
                     <li>
-                      • Tekrarlayan rüyalar birebir aynı olmak zorunda değildir.
+                      • Tehdit temaları sık görülebilir, ancak bütün tekrarlayan
+                      rüyalar tehdit içermez.
                     </li>
                     <li>
-                      • Rüya temaları zaman içinde değişebilir.
+                      • Yaş ve gelişim dönemi rüya içeriğinde fark yaratabilir.
                     </li>
                   </ul>
                 </div>
 
-                <div className="rounded-2xl bg-[#eee8df] p-6">
+                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
-                    KESİN OLARAK SÖYLEYEMEDİĞİMİZ
+                    KANITLANMIŞ DEĞİL
                   </p>
 
                   <ul className="mt-4 space-y-3 text-sm leading-7 text-[#625c54]">
                     <li>
-                      • Her tekrarın tek bir nedeni olduğunu.
+                      • Her tekrarlayan rüyanın tek bir psikolojik nedeni
+                      olduğu.
                     </li>
                     <li>
-                      • Her tekrarlayan rüyanın bastırılmış bir çatışmayı
-                      gösterdiğini.
+                      • Tekrarın belirli bir bastırılmış çatışmayı kanıtladığı.
                     </li>
                     <li>
-                      • Rüyaların geleceği haber verdiğini.
+                      • Belirli bir tekrar temasının herkes için aynı anlama
+                      geldiği.
                     </li>
                     <li>
-                      • Bir rüyanın herkes için aynı anlama geldiğini.
+                      • Tekrarlayan rüyaların gelecekteki olayları haber
+                      verdiği.
                     </li>
                   </ul>
                 </div>
@@ -586,40 +556,42 @@ export default function RecurrentDreamsPage() {
         </article>
 
         {/* SOURCES */}
-        <section className="py-16 sm:py-20">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             KAYNAKLAR
           </p>
 
-          <h2 className="mt-4 text-3xl font-light">
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
             Araştırma ve literatür
           </h2>
 
-          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#686158]">
-            Bu sayfadaki açıklamalar; rüya içeriği, uyanık yaşam ile rüya
-            arasındaki süreklilik, tekrarlayan rüyalar ve kâbuslar üzerine
-            araştırmalar temel alınarak hazırlanmıştır.
+          <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#6f675e]">
+            Bu sayfadaki bilimsel açıklamalar; tekrarlayan rüyaların içeriği,
+            psikolojik iyi oluşla ilişkileri, temel psikolojik ihtiyaçlar ve
+            tehdit simülasyonu hipotezini doğrudan inceleyen çalışmalara
+            dayanır. İlişkisel bulgular nedensellik veya bireysel teşhis olarak
+            sunulmamıştır.
           </p>
 
-          <div className="mt-8 space-y-5">
+          <div className="mt-10 grid gap-x-10 gap-y-8 md:grid-cols-2">
             {sources.map((source) => (
               <article
                 key={source.title}
-                className="rounded-2xl border border-[#ddd5cb] bg-[#faf8f4] p-6"
+                className="border-t border-[#d9d2c9] pt-5"
               >
                 <p className="text-sm font-medium text-[#454039]">
                   {source.authors}
                 </p>
 
-                <p className="mt-1 text-sm leading-7 text-[#625c54]">
+                <p className="mt-2 text-[13px] leading-6 text-[#625c54]">
                   <em>{source.title}</em>
                 </p>
 
-                <p className="mt-1 text-xs text-[#8a8177]">
+                <p className="mt-2 text-xs leading-6 text-[#91887e]">
                   {source.journal}
                 </p>
 
-                <p className="mt-2 text-xs text-[#aaa198]">
+                <p className="mt-1 text-[10px] tracking-wide text-[#aaa198]">
                   {source.detail}
                 </p>
 
@@ -627,7 +599,7 @@ export default function RecurrentDreamsPage() {
                   href={source.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="mt-3 inline-block text-xs text-[#625c54] underline underline-offset-4 hover:text-[#24221f]"
+                  className="mt-3 inline-block text-xs text-[#625c54] underline decoration-[#bdb4aa] underline-offset-4 transition hover:text-[#24221f]"
                 >
                   Kaynağı görüntüle →
                 </a>
@@ -637,26 +609,26 @@ export default function RecurrentDreamsPage() {
         </section>
 
         {/* FAQ */}
-        <section className="pb-16 sm:pb-20">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             SIK SORULAN SORULAR
           </p>
 
-          <h2 className="mt-4 text-3xl font-light">
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
             Tekrarlayan rüyalar hakkında
           </h2>
 
-          <div className="mt-8 space-y-4">
+          <div className="mt-10 overflow-hidden rounded-xl border border-[#d9d1c7] bg-[#faf8f4]">
             {faqs.map((faq) => (
               <article
                 key={faq.question}
-                className="rounded-[24px] border border-[#d9d1c7] bg-[#faf8f4] p-6"
+                className="border-b border-[#ded6cc] p-6 last:border-b-0 sm:p-7"
               >
-                <h3 className="text-lg font-normal">
+                <h3 className="text-lg font-light tracking-[-0.015em]">
                   {faq.question}
                 </h3>
 
-                <p className="mt-3 text-sm leading-7 text-[#686158]">
+                <p className="mt-3 max-w-4xl text-[14px] leading-7 text-[#6f675e]">
                   {faq.answer}
                 </p>
               </article>
@@ -664,27 +636,43 @@ export default function RecurrentDreamsPage() {
           </div>
         </section>
 
-        {/* CTA */}
-        <section className="mb-16 rounded-[30px] bg-[#292621] px-7 py-12 text-center text-white sm:mb-20 sm:px-12">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
-            INUS
-          </p>
+        {/* DREAM BRIDGE */}
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <div className="grid gap-10 lg:grid-cols-[1fr_auto] lg:items-end">
+            <div>
+              <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                KENDİ RÜYANA DÖN
+              </p>
 
-          <h2 className="mt-4 text-3xl font-light">
-            Tekrarlayan rüyanı keşfet.
-          </h2>
+              <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+                Rüyanda neyin tekrar ettiğini keşfet.
+              </h2>
 
-          <p className="mx-auto mt-4 max-w-xl text-sm leading-7 text-[#d4cec5]">
-            Rüyanın tekrar eden olaylarını, duygularını ve hayatındaki
-            karşılıklarını birlikte incele.
-          </p>
+              <p className="mt-5 max-w-2xl text-[15px] leading-8 text-[#625c54]">
+                Aynı sahne mi geri geliyor, aynı duygu mu, yoksa farklı
+                rüyalarda benzer bir tema mı beliriyor? Tekrarı kendi yaşam
+                bağlamın ve kişisel çağrışımlarınla birlikte incele.
+              </p>
+            </div>
 
-          <Link
-            href="/"
-            className="mt-7 inline-flex rounded-full bg-white px-7 py-3 text-sm text-[#292621] transition hover:bg-[#eee8df]"
-          >
-            Rüyamı analiz et
-          </Link>
+            <div className="flex flex-wrap gap-3">
+              <Link
+                href="/"
+                className="inline-flex items-center gap-8 rounded-full bg-[#292621] px-7 py-3.5 text-sm text-white transition hover:bg-[#403b35]"
+              >
+                Rüyanı anlat
+                <span aria-hidden="true">→</span>
+              </Link>
+
+              <Link
+                href="/ruyalar/semboller"
+                className="inline-flex items-center gap-5 rounded-full border border-[#c8beb2] px-7 py-3.5 text-sm text-[#292621] transition hover:border-[#8f857a]"
+              >
+                Rüya sembollerini keşfet
+                <span aria-hidden="true">→</span>
+              </Link>
+            </div>
+          </div>
         </section>
 
         <footer className="pb-8 text-center text-xs text-[#aaa198]">

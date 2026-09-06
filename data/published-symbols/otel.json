@@ -1,0 +1,79 @@
+{
+  "slug": "otel",
+  "title": "otel",
+  "shortDescription": "Rüyada otel görmek, genellikle geçici bir dönem, hareketlilik ya da alışılmış düzenin dışına çıkmayla ilişkilendirilir. Otelin atmosferi, bu sürecin size bir sığınak mı yoksa yabancılık ve aidiyetsizlik hissi mi verdiğini gösterebilir.",
+  "positiveAssociations": [
+    "Geçici sığınak",
+    "Yeni deneyimlere açıklık",
+    "Yolculuk esnekliği"
+  ],
+  "challengingAssociations": [
+    "Anonimlik",
+    "Kök salmakta zorlanma",
+    "Yabancılaşma hissi",
+    "Süreksizlik"
+  ],
+  "contextDependentAssociations": [
+    "Kısa süreli duraklar",
+    "Hayatın geçici doğası",
+    "Bağlanmama ihtiyacı"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık Olmayan Bir Otel Odasında Uyanmak",
+      "description": "Rüya sahibinin günlük rutinlerinden uzaklaştığını ve bilinmeyen bir geçiş sürecinde olduğunu hissettiği bir durumu gösterir."
+    },
+    {
+      "title": "Lüks ve Kalabalık Bir Otel Lobisinde Dolaşmak",
+      "description": "Toplumsal anonimlik, kalabalıklar içinde yalnız hissetme veya dışsal etkenlerle çevrili olma durumunu yansıtır."
+    },
+    {
+      "title": "Otelden Ayrılmak",
+      "description": "Geçici bir dönemin, seyahatin veya kararsızlık halinin sona erdiğine ve yeni bir yere doğru yola çıkıldığına işaret edebilir."
+    },
+    {
+      "title": "Eski ve Tenha Bir Otelde Kalmak",
+      "description": "Geçmişteki geçici deneyimler, unutulmuş anılar veya geride bırakılmış mekânların zihinsel arka planlarını çağrıştırır."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "Budist yaklaşımda otel benzeri geçici konaklama alanları, sabit ve kalıcı bir öz yerine değişimi ve süreksizliği hatırlatan imgeler olarak okunabilir. Bu bağlamda rüyadaki otel, kalıcı bir yurt değil, geçici bir durak olarak anlam bulur.",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Budist ve Doğu Yaklaşımı",
+      "interpretation": "Otel imgesini sabit bir özün yokluğu, geçicilik ve süreksizlik kavramları çerçevesinde ele alır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinlerde otel sembolü genellikle kalıcılığın zıttı olan geçicilik ve ara durum kavramlarıyla ilişkilendirilir.",
+  "differences": "Tarihsel ve kültürel incelemeler oteli modern hareketlilik bağlamında ele alırken, Budist yaklaşım onu varoluşsal bir geçicilik metaforu olarak değerlendirir.",
+  "inusAssessment": "Otel sembolü, ne saf bir psikolojik bilim verisine ne de köklü klasik geleneklere dayanır; daha çok modern tarihsel bağlamlar ve geçicilik metaforları üzerinden şekillenir. Bu nedenle rüyadaki otel figürünü ele alırken kalıp yargılardan kaçınmak ve rüya sahibinin kişisel hareketlilik, geçici duraklar veya aidiyet bağlamındaki güncel yaşam koşullarını dikkate almak gerekir.",
+  "faq": [
+    {
+      "question": "Rüyada otel görmek genel olarak ne anlama gelir?",
+      "answer": "Otel, rüyalarda genellikle kalıcı bir yerleşim yerinden ziyade geçici bir konaklama, hareketlilik ve süreksizlik durumuna işaret eder."
+    },
+    {
+      "question": "Otel rüyaları psikolojik olarak bilimsel temele dayanır mı?",
+      "answer": "Otel sembolü üzerine doğrudan yapılmış güçlü ve güvenilir bir ampirik psikoloji araştırması bulunmamaktadır; daha ziyade kültürel ve tarihsel bir çerçeveye sahiptir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "A. K. Sandoval-Strausz. Hotel: An American History. New Haven",
+      "relevance": "Oteli modern toplumsal hareketlilik, yerinden kopuş ve misafirperverliğin dönüşümü bağlamında tartışan akademik bir tarih incelemesidir.",
+      "url": "https://academic.oup.com/ahr/article-abstract/113/5/1517/42088"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist rüya anlayışında düş imgelerinin geçicilik ve boşlukla ilişkilendirilebildiğini anlatır; otel gibi geçici konaklama imgesini Budist bağlamda düşünmek için kullanışlıdır.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    }
+  ],
+  "relatedSlugs": []
+}

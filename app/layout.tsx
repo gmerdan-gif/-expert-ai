@@ -87,7 +87,6 @@ export default function RootLayout({
           }}
         />
 
-        <link rel="apple-touch-icon" href="/icon.png" />
         {ADSENSE_CLIENT_ID && (
           <>
             <meta

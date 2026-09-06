@@ -238,7 +238,7 @@ export default function Home() {
           <div className="flex items-center gap-5">
             <button
               onClick={() => setShowHow((value) => !value)}
-              className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
+              className="cursor-pointer text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
             >
               Nasıl çalışır
             </button>
@@ -256,38 +256,136 @@ export default function Home() {
 
         {/* HOW IT WORKS */}
         {showHow && (
-          <section className="mb-8 rounded-3xl border border-[#d8d0c5] bg-[#eee8df] px-6 py-7 sm:px-10">
-            <div className="flex flex-col gap-7 sm:flex-row sm:items-start sm:justify-between">
-              <div className="max-w-2xl">
-                <p className="mb-3 text-xs uppercase tracking-[0.25em] text-[#81786e]">
-                  INUS
-                </p>
+          <article>
+            <section className="pb-14 pt-14 sm:pb-20 sm:pt-20">
+              <div className="grid gap-12 lg:grid-cols-[0.95fr_1.05fr] lg:gap-20">
+                <div>
+                  <p className="mb-5 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                    NASIL ÇALIŞIR?
+                  </p>
 
-                <h2 className="mb-4 text-2xl font-light sm:text-3xl">
-                  Rüyanı hatırladığın gibi anlat.
-                </h2>
+                  <h1 className="max-w-xl text-[48px] font-light leading-[0.98] tracking-[-0.045em] sm:text-[64px] md:text-[76px]">
+                    Rüyanı
+                    <br />
+                    hatırladığın
+                    <br />
+                    gibi anlat.
+                  </h1>
+                </div>
 
-                <p className="leading-7 text-[#625c54]">
-                  INUS, rüyayı yalnızca tek tek sembollere ayırmak yerine
-                  gördüklerini, hissettiklerini ve rüyanın bağlamını birlikte
-                  ele alır.
-                </p>
+                <div className="flex flex-col justify-end">
+                  <p className="max-w-2xl text-[16px] leading-8 text-[#625c54]">
+                    Mükemmel hatırlaman ya da sembolleri tek tek açıklaman
+                    gerekmez. Hatırladığın olayları, insanları, yerleri ve
+                    hislerini kendi kelimelerinle anlatman yeterli.
+                  </p>
 
-                <p className="mt-4 leading-7 text-[#625c54]">
-                  Bir tanı ya da gelecek tahmini sunmaz. Psikolojik, Jungçu ve
-                  farklı kültürel perspektiflerden rüyana bakmana yardımcı
-                  olur.
-                </p>
+                  <div className="mt-10">
+                    <button
+                      type="button"
+                      onClick={() => setShowHow(false)}
+                      className="inline-flex cursor-pointer items-center gap-8 rounded-full bg-[#292621] px-7 py-3.5 text-sm text-white transition hover:bg-[#403b35]"
+                    >
+                      Rüyanı anlat
+                      <span aria-hidden="true">→</span>
+                    </button>
+                  </div>
+                </div>
               </div>
+            </section>
 
+            <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+              <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                DÖRT ADIMDA
+              </p>
+
+              <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+                Rüyanı tek bir anlama indirgemeden ele al.
+              </h2>
+
+              <div className="mt-10 grid gap-4 md:grid-cols-2">
+                {[
+                  {
+                    number: "01",
+                    title: "Rüyanı anlat",
+                    body:
+                      "Hatırladığın kadarını yaz. Nerede olduğun, kimlerin olduğu, ne yaşandığı ve sende kalan his gibi ayrıntılar rüyanın bağlamını anlamamıza yardımcı olur.",
+                  },
+                  {
+                    number: "02",
+                    title: "Rüyanın bütününe bakalım",
+                    body:
+                      "INUS yalnızca “yılan”, “ev” ya da “diş” gibi tek tek sembollerden hazır anlamlar çıkarmaz. Sembolleri; olaylar, duygular, insanlar ve rüyanın bütünü içinde ele alır.",
+                  },
+                  {
+                    number: "03",
+                    title: "Farklı perspektiflerden düşün",
+                    body:
+                      "Rüyanı psikolojik ve Jungçu yaklaşımlar başta olmak üzere, uygun olduğunda farklı kültürel perspektiflerle değerlendiren bir yorum alırsın. Bu perspektifler birbirine karıştırılmadan kendi bağlamlarında ele alınır.",
+                  },
+                  {
+                    number: "04",
+                    title: "Kendi bağlantılarını fark et",
+                    body:
+                      "Ortaya çıkan yorum tek bir “doğru anlam” iddiası taşımaz. Amaç, rüyandaki ayrıntılarla kendi yaşam bağlamın arasında düşünmeye değer bağlantılar kurmana yardımcı olmaktır.",
+                  },
+                ].map((step) => (
+                  <section
+                    key={step.number}
+                    className="flex min-h-[260px] flex-col justify-between rounded-xl border border-[#d9d1c7] bg-[#faf8f4] p-7 sm:p-8"
+                  >
+                    <p className="text-[10px] uppercase tracking-[0.25em] text-[#81786e]">
+                      {step.number}
+                    </p>
+
+                    <div className="mt-12">
+                      <h3 className="text-2xl font-light tracking-[-0.025em]">
+                        {step.title}
+                      </h3>
+
+                      <p className="mt-5 max-w-xl text-[14px] leading-7 text-[#625c54]">
+                        {step.body}
+                      </p>
+                    </div>
+                  </section>
+                ))}
+              </div>
+            </section>
+
+            <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+              <div className="grid gap-10 lg:grid-cols-[0.78fr_1.22fr] lg:gap-20">
+                <div>
+                  <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                    NE BEKLEMELİSİN?
+                  </p>
+
+                  <h2 className="max-w-md text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+                    Bir cevap değil, düşünmek için bir çerçeve.
+                  </h2>
+                </div>
+
+                <div className="max-w-2xl">
+                  <div className="rounded-xl border border-[#ddd5cb] bg-[#eee8df] px-7 py-7 sm:px-8">
+                    <p className="text-[15px] leading-8 text-[#5f5952]">
+                      Kesin tabirler, tanı veya gelecek tahmini değil. Rüyana
+                      bağlam içinde bakmanın bir yolu.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <section className="flex justify-end border-t border-[#d9d2c9] py-14 sm:py-16">
               <button
+                type="button"
                 onClick={() => setShowHow(false)}
-                className="shrink-0 rounded-full border border-[#bdb4a8] px-5 py-2.5 text-sm transition hover:bg-[#e4ddd3]"
+                className="inline-flex cursor-pointer items-center gap-8 rounded-full bg-[#292621] px-7 py-3.5 text-sm text-white transition hover:bg-[#403b35]"
               >
-                Ana Sayfa
+                Rüyanı anlat
+                <span aria-hidden="true">→</span>
               </button>
-            </div>
-          </section>
+            </section>
+          </article>
         )}
 
         {/* HOME */}

@@ -1,0 +1,78 @@
+{
+  "slug": "zeytin",
+  "title": "zeytin",
+  "shortDescription": "Rüyada zeytin görmek genellikle bereket, rızık ve uzlaşmayla ilişkilendirilir. Sağlıklı, meyveli bir zeytin ağacı aile bağlarını ve uzun vadeli faydaları; zeytinden yağ sıkmak ise emeğin karşılığını almayı çağrıştırabilir.",
+  "positiveAssociations": [
+    "Barış ve uzlaşma",
+    "Bereket ve rızık",
+    "Yaşamın sürekliliği",
+    "Kültürel köken ve miras"
+  ],
+  "challengingAssociations": [
+    "Dini hayatla ilgili kaygılar"
+  ],
+  "contextDependentAssociations": [
+    "Zeytinin rengi",
+    "Zeytinden yağ sıkma süreci",
+    "Ağacın ya da meyvenin durumu ve kişisel bağlam"
+  ],
+  "commonVariations": [
+    {
+      "title": "Zeytin Ağacı Görmek",
+      "description": "Rüyada sağlıklı, meyveli bir zeytin ağacı görmek genellikle aile bağları, kalıcı faydalar ve uzun vadeli bereketle ilişkilendirilen geleneksel bir imgedir."
+    },
+    {
+      "title": "Zeytinden Yağ Sıkmak",
+      "description": "Zeytin ezip yağ elde etmeyi görmek, bazı kaynaklarda zahmetin ardından gelecek fayda ve rızıkla ilişkilendirilir; emek ve verimin sembolü olarak okunabilir."
+    },
+    {
+      "title": "Sarı Zeytin Görmek",
+      "description": "Bazı geleneksel yorumlarda sarı tonundaki zeytin, dinsel yaşam veya manevi konularla ilgili içsel sıkıntı ve kaygılara işaret edebilir."
+    },
+    {
+      "title": "Zeytin Yemek",
+      "description": "Taze zeytin yemek, günlük geçim, elde edilen mütevazı ama kalıcı faydalar ve rızıkla ilişkilendirilebilir."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "Çevrimiçi İslami rüya sözlüklerinde zeytin genellikle rızık, bereket ve kazançla ilişkilendirilir; bazı yorumlarda zeytin ağacı aileye fayda sağlayan hayırlı bir kişiye benzetilir.",
+  "christianTraditions": "",
+  "jewishTraditions": "Yahudi geleneğinde zeytin ve zeytinyağı metinsel sembolizm içinde sürdürülebilirlik, ışık ve toplumsal kimlik çağrışımları taşır; bu bağlam daha çok kültürel ve metinsel olup otomatik bir rüya yorumu kuralı olarak alınmamalıdır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Akademik kültürel çalışma",
+      "interpretation": "Zeytin ve zeytin ağacı, Akdeniz kültürel mirası çerçevesinde barış, zafer, saflık, güç, doğurganlık, yaşam ve özgürlük gibi toplumsal çağrışımlara sahiptir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "İslami rüya geleneği (çevrimiçi kaynaklar)",
+      "interpretation": "Çevrimiçi rüya sözlüklerinde zeytin genellikle rızık, bereket ve aileye fayda sağlayan figürlerle ilişkilendirilir; bu yorumlar geleneksel rüya tabiri bağlamına aittir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi geleneksel sembolizmi",
+      "interpretation": "Metinsel ve ritüel bağlamlarda zeytin ve zeytinyağı sürdürülebilirlik, ışık ve toplumsal kimlik metaforları olarak yer alır; bu, kültürel ve topluluk düzeyinde bir anlamlandırmadır.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Farklı kaynaklar zeytini çoğunlukla olumlu niteliklerle (bereket, süreklilik, uzlaşma) ilişkilendirir; renk, ağacın durumu veya zeytinin işlenme biçimi gibi ayrıntılar yorumu belirgin şekilde etkiler.",
+  "differences": "Kültürel ve akademik incelemeler zeytini toplum düzeyinde barış, zafer ve miras bağlamında ele alırken, rüya tabiri gelenekleri (özellikle çevrim içi kaynaklarda) daha çok bireysel rızık, bereket veya manevi durumlara odaklanabilir.",
+  "inusAssessment": "Zeytin sembolü, Akdeniz kültürel mirasından beslenen çok katmanlı bir işaret olarak görülebilir; tek başına belirleyici bir anlam vermez, rüyanın diğer öğeleri, zeytinin durumu ve rüya görenin kişisel bağlamı birlikte değerlendirilmelidir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "EVALUATION OF OLIVE TREE, OLIVE AND OLIVE OIL IN THE SCOPE OF CULTURAL HERITAGE",
+      "relevance": "Akdeniz kültürel mirası bağlamında, zeytin ve zeytin ağacının barış, zafer, saflık, güç, doğurganlık, yaşam ve özgürlük gibi sembolik anlamlarını inceler.",
+      "url": "https://dergipark.org.tr/tr/pub/aicusbed/article/1538523"
+    },
+    {
+      "title": "Olive Islamic Interpretations & Meanings",
+      "relevance": "Çevrimiçi İslami rüya tabirleri literatüründe zeytin, zeytin ağacı ve zeytinyağına atfedilen rızık, bereket ve ailevi fayda yorumları listelenir.",
+      "url": "https://www.myislamicdream.com/olive.html"
+    }
+  ],
+  "relatedSlugs": []
+}

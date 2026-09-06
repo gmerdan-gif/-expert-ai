@@ -4,24 +4,24 @@ export const metadata = {
   alternates: {
     canonical: "/ruyalar/neden-ruya-goruruz",
   },
-  title: "Neden Rüya Görürüz? | Rüyaların İşlevi ve Bilim",
+  title: "Neden Rüya Görürüz? | Bilim Ne Biliyor?",
   description:
-    "Neden rüya görürüz? Rüyaların bellek, duygular, günlük yaşam ve tehdit simülasyonu ile ilişkisini açıklayan teoriler ve bilimsel kanıtlar.",
+    "Neden rüya görürüz? Bellek, duygular, uyanık yaşamla süreklilik ve tehdit simülasyonu gibi başlıca teorileri, kanıtları ve bilimsel sınırlarıyla inceleyin.",
 };
 
 const sources = [
   {
-    authors: "Perogamvros, L. et al. (2022)",
+    authors: "Scarpelli, S., Alfonsi, V., Gorgoni, M. & De Gennaro, L. (2022)",
     title: "What about dreams? State of the art and open questions",
-    journal: "Journal of Sleep Research",
-    detail: "PMID 35417930 · DOI 10.1111/jsr.13609",
+    journal: "Journal of Sleep Research, 31(4), e13609.",
+    detail: "PMID 35417930 · PMCID PMC9539486 · DOI 10.1111/jsr.13609",
     url: "https://pubmed.ncbi.nlm.nih.gov/35417930/",
   },
   {
     authors: "Hudachek, L. & Wamsley, E. J. (2023)",
     title:
       "A meta-analysis of the relation between dream content and memory consolidation",
-    journal: "Sleep, 46(12), zsad111",
+    journal: "Sleep, 46(12), zsad111.",
     detail: "PMID 37058584 · DOI 10.1093/sleep/zsad111",
     url: "https://pubmed.ncbi.nlm.nih.gov/37058584/",
   },
@@ -29,37 +29,44 @@ const sources = [
     authors: "Bloxham, A. & Horton, C. L. (2024)",
     title:
       "Enhancing and advancing the understanding and study of dreaming and memory consolidation",
-    journal: "Consciousness and Cognition, 123, 103719",
+    journal: "Consciousness and Cognition, 123, 103719.",
     detail: "PMID 38941924 · DOI 10.1016/j.concog.2024.103719",
     url: "https://pubmed.ncbi.nlm.nih.gov/38941924/",
+  },
+  {
+    authors: "Scarpelli, S. et al. (2019)",
+    title: "The Functional Role of Dreaming in Emotional Processes",
+    journal: "Frontiers in Psychology, 10, 459.",
+    detail:
+      "PMID 30930809 · PMCID PMC6428732 · DOI 10.3389/fpsyg.2019.00459",
+    url: "https://pubmed.ncbi.nlm.nih.gov/30930809/",
+  },
+  {
+    authors: "Schredl, M. (2010)",
+    title: "Characteristics and contents of dreams",
+    journal: "International Review of Neurobiology, 92, 135–154.",
+    detail: "PMID 20870066 · DOI 10.1016/S0074-7742(10)92007-2",
+    url: "https://pubmed.ncbi.nlm.nih.gov/20870066/",
   },
   {
     authors: "Valli, K. & Revonsuo, A. (2009)",
     title:
       "The threat simulation theory in light of recent empirical evidence: a review",
-    journal: "American Journal of Psychology, 122(1), 17–38",
+    journal: "American Journal of Psychology, 122(1), 17–38.",
     detail: "PMID 19353929",
     url: "https://pubmed.ncbi.nlm.nih.gov/19353929/",
   },
   {
     authors: "Malcolm-Smith, S. et al. (2008)",
     title: "Threat in dreams: an adaptation?",
-    journal: "Consciousness and Cognition, 17(4), 1281–1291",
-    detail: "PMID 17702604",
+    journal: "Consciousness and Cognition, 17(4), 1281–1291.",
+    detail: "PMID 17702604 · DOI 10.1016/j.concog.2007.07.002",
     url: "https://pubmed.ncbi.nlm.nih.gov/17702604/",
-  },
-  {
-    authors: "Abbas, N. H. & Samson, D. R. (2023)",
-    title:
-      "Dreaming during the COVID-19 pandemic: Support for the threat simulation function of dreams",
-    journal: "Frontiers in Psychology, 14, 1124772",
-    detail: "PMID 36814654 · DOI 10.3389/fpsyg.2023.1124772",
-    url: "https://pubmed.ncbi.nlm.nih.gov/36814654/",
   },
   {
     authors: "Lafrenière, A. et al. (2018)",
     title: "Autobiographical memory sources of threats in dreams",
-    journal: "Consciousness and Cognition, 58, 124–135",
+    journal: "Consciousness and Cognition, 58, 124–135.",
     detail: "PMID 29146175 · DOI 10.1016/j.concog.2017.10.017",
     url: "https://pubmed.ncbi.nlm.nih.gov/29146175/",
   },
@@ -69,27 +76,32 @@ const faqs = [
   {
     question: "Rüyaların neden görüldüğü kesin olarak biliniyor mu?",
     answer:
-      "Hayır. Rüyaların işlevi konusunda birden fazla teori bulunuyor ve hiçbir teori bugün rüya deneyiminin bütün özelliklerini tek başına açıklamıyor.",
+      "Hayır. Rüya görmenin tek ve kanıtlanmış bir amacı olduğu konusunda bilimsel uzlaşma yoktur. Bellek, duygusal süreçler, uyanık yaşamla süreklilik ve tehdit simülasyonu gibi farklı açıklamalar araştırılmaktadır.",
   },
   {
     question: "Rüyalar belleği güçlendirir mi?",
     answer:
-      "Rüya içeriği ile bellek süreçleri arasında ilişki olduğuna dair bulgular var. Ancak rüya görmenin tek başına belleği güçlendirdiği veya rüyanın bunun doğrudan nedeni olduğu kesin olarak gösterilmiş değil.",
+      "Öğrenme içeriğinin rüyaya girmesi ile daha iyi uyku sonrası bellek performansı arasında ilişki bildiren çalışmalar vardır. Ancak bu, rüya görmenin belleği doğrudan güçlendirdiğini veya rüyaların bu amaçla var olduğunu tek başına kanıtlamaz.",
   },
   {
-    question: "Rüyalar stresimizi işler mi?",
+    question: "Rüyalar duyguları işlememize yardım eder mi?",
     answer:
-      "Rüya içeriği ile duygusal olarak önemli yaşantılar arasında ilişkiler bulunabiliyor. Ancak bundan her rüyanın stres işleme amacı taşıdığı sonucu çıkarılamaz.",
+      "Rüyalar sıklıkla duygusal içerik taşır ve duygusal deneyimler rüya içeriğine girebilir. Duygusal işleme veya düzenleme işlevi önemli bir hipotezdir; ancak her rüyanın bu amaçla ortaya çıktığı kanıtlanmış değildir.",
+  },
+  {
+    question: "Rüyalar günlük hayatımızı mı yansıtır?",
+    answer:
+      "Rüya içeriği ile uyanık yaşam arasında süreklilikler bulunabilir. İnsanlar, uğraşlar, kaygılar ve duygusal olarak önemli deneyimler rüyalara taşınabilir; fakat rüyalar uyanık yaşamın birebir kaydı değildir.",
   },
   {
     question: "Rüyalar tehditleri prova etmek için mi vardır?",
     answer:
-      "Tehdit Simülasyonu Teorisi bu görüşü savunur ve bazı çalışmalar teorinin öngörüleriyle uyumlu sonuçlar bulmuştur. Ancak başka araştırmalar teorinin bazı temel öngörülerini desteklememiştir. Dolayısıyla bu, araştırılan teorilerden biridir; kanıtlanmış tek açıklama değildir.",
+      "Tehdit Simülasyonu Teorisi bunu öne sürer. Teoriyle uyumlu bulgular olduğu gibi bazı temel öngörülerine karşı sonuçlar da vardır. Bu nedenle tehdit simülasyonu araştırılmış bir teoridir, rüyaların kanıtlanmış tek işlevi değildir.",
   },
   {
-    question: "Rüyaların hiçbir işlevi olmayabilir mi?",
+    question: "Rüyaların hiçbir özel işlevi olmayabilir mi?",
     answer:
-      "Bu olasılık da bilimsel tartışmanın bir parçasıdır. Bir davranışın veya deneyimin biyolojik olarak belirli bir işlevi olması ile o işlevin deneysel olarak kanıtlanması birbirinden farklıdır.",
+      "Bu olasılık bilimsel olarak dışlanmış değildir. Rüya deneyimi, uyku sırasında çalışan bellek, duygu ve algı süreçlerinin bilinçte beliren bir sonucu olabilir; ayrıca özel bir biyolojik işlev taşıyıp taşımadığı hâlâ araştırılmaktadır.",
   },
 ];
 
@@ -97,9 +109,9 @@ export default function WhyDreamPage() {
   const articleJsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: "Neden Rüya Görürüz? Rüyaların İşlevi ve Bilim",
+    headline: "Neden Rüya Görürüz? Bilim Ne Biliyor?",
     description:
-      "Rüyaların neden görüldüğüne dair temel teoriler, bilimsel kanıtlar ve araştırmaların sınırları.",
+      "Rüyaların neden görüldüğüne dair bellek, duygu, süreklilik ve tehdit simülasyonu yaklaşımlarının kanıtları ve sınırları.",
     author: {
       "@type": "Organization",
       name: "INUS",
@@ -119,414 +131,517 @@ export default function WhyDreamPage() {
         }}
       />
 
-      <div className="mx-auto w-full max-w-4xl px-5 sm:px-8">
-        {/* HEADER */}
-        <header className="flex items-center justify-between py-7">
+      <div className="mx-auto w-full max-w-6xl px-5 sm:px-8">
+        <header className="flex items-center justify-between py-6">
           <Link
             href="/"
-            className="text-xl font-medium tracking-[0.28em]"
+            className="text-lg font-medium tracking-[0.28em] transition hover:opacity-70"
           >
             INUS
           </Link>
 
-          <Link
-            href="/ruyalar"
-            className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
-          >
-            Rüya Kütüphanesi
-          </Link>
+          <div className="flex items-center gap-7 text-sm text-[#625c54]">
+            <Link href="/ruyalar" className="transition hover:text-[#24221f]">
+              Rüya Kütüphanesi
+            </Link>
+
+            <Link
+              href="/ruyalar/semboller"
+              className="hidden transition hover:text-[#24221f] sm:inline"
+            >
+              Rüya Sembolleri
+            </Link>
+          </div>
         </header>
 
-        {/* BREADCRUMB */}
         <nav
-          className="pt-10 text-xs text-[#8a8177]"
+          className="border-t border-[#d9d2c9] pt-6 text-[11px] text-[#91887e]"
           aria-label="Breadcrumb"
         >
-          <Link href="/ruyalar" className="hover:text-[#24221f]">
-            Rüyalar
+          <Link href="/ruyalar" className="transition hover:text-[#24221f]">
+            Rüya Kütüphanesi
           </Link>
           <span className="mx-2">/</span>
           <span>Neden rüya görürüz?</span>
         </nav>
 
-        {/* HERO */}
-        <header className="pb-14 pt-10 sm:pb-18 sm:pt-14">
-          <p className="mb-5 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
-            RÜYA ARAŞTIRMALARI
-          </p>
+        <header className="pb-14 pt-12 sm:pb-20 sm:pt-16">
+          <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:gap-14">
+            <div>
+              <p className="mb-5 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                RÜYA ARAŞTIRMALARI
+              </p>
 
-          <h1 className="max-w-3xl text-5xl font-light tracking-tight sm:text-6xl">
-            Neden rüya görürüz?
-          </h1>
+              <h1 className="max-w-xl text-[52px] font-light leading-[0.98] tracking-[-0.045em] sm:text-[68px] md:text-[78px]">
+                Neden rüya
+                <br />
+                görürüz?
+              </h1>
+            </div>
 
-          <p className="mt-7 max-w-3xl text-lg font-light leading-8 text-[#686158]">
-            Rüyaların neden ortaya çıktığı, uyku ve bilinç araştırmalarının
-            hâlâ açık sorularından biri. Bellek, duygular, günlük yaşam ve
-            tehdit simülasyonu gibi farklı açıklamalar araştırılıyor.
-          </p>
+            <div className="flex flex-col justify-end">
+              <p className="max-w-2xl text-[17px] font-light leading-8 text-[#625c54]">
+                Rüya görmek insan deneyiminin en tanıdık ama bilimsel olarak
+                hâlâ tam açıklanamamış parçalarından biri. Bellek, duygular,
+                uyanık yaşam ve tehdit simülasyonu arasında önemli bağlantılar
+                bulunuyor; fakat bunların hiçbiri tek başına “rüyaların amacı
+                budur” demeye yetmiyor.
+              </p>
 
-          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#817970]">
-            Bu sayfa, bu teorileri “hangisi doğru?” sorusundan önce
-            “hangi kanıtlar var ve kanıtların sınırları neler?” sorusuyla
-            ele alır.
-          </p>
+              <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#81786e]">
+                Bugün en sağlam cevap bir cümlelik teori değil: Rüyaların nasıl
+                oluştuğu, içeriğinin nereden geldiği ve bir işlev taşıyıp
+                taşımadığı birbirinden ayrı sorular.
+              </p>
+            </div>
+          </div>
         </header>
 
-        {/* ARTICLE */}
-        <article className="rounded-[30px] border border-[#d9d1c7] bg-[#faf8f4] px-7 py-10 sm:px-12 sm:py-14">
-          <div className="space-y-12 text-[15px] leading-8 text-[#454039]">
+        <section className="border-t border-[#d9d2c9] py-10 sm:py-12">
+          <p className="text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+            KISA CEVAP
+          </p>
 
-            {/* INTRO */}
+          <h2 className="mt-4 max-w-3xl text-2xl font-light leading-tight tracking-[-0.025em]">
+            Rüyaların neden görüldüğünü kesin olarak bilmiyoruz; fakat hangi
+            süreçlerle ilişkili oldukları konusunda giderek daha fazla şey
+            biliyoruz.
+          </h2>
+
+          <p className="mt-4 max-w-3xl text-[14px] leading-7 text-[#625c54]">
+            Uyku sırasında bellek yeniden etkinleşir, duygusal deneyimler
+            işlenir ve uyanık yaşamdan parçalar rüya içeriğine girebilir.
+            Rüyanın bu süreçlerin nedeni mi, parçası mı yoksa öznel bir izi mi
+            olduğu ise hâlâ araştırılıyor.
+          </p>
+        </section>
+
+        <article className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <div className="divide-y divide-[#d9d2c9] text-[15px] leading-8 text-[#454039] [&>section]:py-12 [&>section:first-child]:pt-0 [&>section:last-child]:pb-0 lg:[&>section]:grid lg:[&>section]:grid-cols-[0.9fr_1.1fr] lg:[&>section]:gap-x-14 lg:[&>section>h2]:col-start-1 lg:[&>section>h2]:row-start-1 lg:[&>section>:not(h2)]:col-start-2">
             <section>
-              <h2 className="text-2xl font-normal">
-                Rüyaların bir amacı var mı?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Önce üç farklı soruyu ayırmak gerekiyor
               </h2>
 
               <p className="mt-5">
-                İnsanlar binlerce yıldır rüyaların neden görüldüğünü
-                anlamlandırmaya çalışıyor. Modern bilim ise soruyu farklı bir
-                biçimde ele alıyor: Rüya deneyimi hangi beyin ve uyku
-                süreçleriyle ilişkili? Rüya içeriği uyanık yaşamdan neden
-                etkileniyor? Ve rüya görmenin organizma açısından ölçülebilir
-                bir işlevi var mı?
+                “Neden rüya görürüz?” sorusu aslında en az üç bilimsel soruyu
+                bir araya getirir: Rüya deneyimi beyinde nasıl ortaya çıkar?
+                Rüya içeriği neden belirli insanları, olayları ve duyguları
+                içerir? Ve rüya görmenin organizma için özel bir işlevi var mı?
               </p>
 
               <p className="mt-4">
-                Bu soruların henüz tek bir cevabı yok. Güncel rüya literatürü,
-                birbiriyle kısmen örtüşen birçok teori ve araştırma yaklaşımı
-                içeriyor.
+                Bu soruların cevapları aynı olmak zorunda değildir. Bir
+                mekanizmayı açıklamak onun evrimsel işlevini açıklamaz; rüya
+                içeriğinde bellek izleri bulmak da rüyanın “belleği
+                güçlendirmek için” var olduğunu tek başına göstermez.
               </p>
 
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
+              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
                 <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>En önemli nokta:</strong> Rüyaların bellek veya
-                  duygularla ilişkili olduğunu gösteren bir araştırma, otomatik
-                  olarak “rüyaların amacı belleği veya duyguları işlemektir”
-                  sonucunu kanıtlamaz. İlişki, işlev ve nedensellik farklı
-                  bilimsel sorulardır.
+                  <strong>Temel ayrım:</strong> ilişki, mekanizma, işlev ve
+                  nedensellik aynı iddia değildir. Rüya biliminin en önemli
+                  sınırlarından biri bu ayrımı korumaktır.
                 </p>
               </div>
             </section>
 
-            {/* THEORY 1 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                1. Bellek işleme yaklaşımı
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Rüya yalnızca REM uykusunun ürünü mü?
               </h2>
 
               <p className="mt-5">
-                Öne çıkan görüşlerden biri, rüyaların uyku sırasında gerçekleşen
-                bellek süreçleriyle ilişkili olabileceğidir. Gün içinde
-                karşılaştığımız kişiler, bilgiler ve olaylar uyku sırasında
-                yeniden etkinleşebilir veya bellekteki diğer bilgilerle
-                ilişkilendirilebilir.
+                Hayır. REM uykusu canlı, duygusal ve anlatı niteliği güçlü
+                rüyalarla sık ilişkilendirilse de rüya deneyimleri NREM
+                uykusundan uyandırılan kişilerde de bildirilebilir.
               </p>
 
               <p className="mt-4">
-                Bu fikir için önemli gözlemlerden biri, yeni öğrenilen
-                materyallerin veya gün içinde yaşanan olayların daha sonra
-                bildirilen rüyalarda ortaya çıkabilmesidir.
+                Scarpelli ve arkadaşlarının 2022 tarihli derlemesi, modern rüya
+                araştırmasının basit “REM eşittir rüya” ikiliğinin ötesine
+                geçtiğini vurguluyor. Bugünkü araştırmalar rüya bildiriminin
+                öncesindeki beyin etkinliği, kişisel rüya hatırlama eğilimleri
+                ve rüya içeriğini etkileyen duyusal ve bilişsel süreçlerle de
+                ilgileniyor.
               </p>
 
               <p className="mt-4">
-                2023 yılında yayımlanan bir meta-analiz, öğrenmeyle ilişkili
-                rüyalar ile uyku sonrası bellek performansı arasındaki ilişkiyi
-                16 çalışmadaki 45 etki üzerinden inceledi. Araştırmacılar
-                anlamlı bir ilişki bildirdi.
+                Bu nedenle “neden rüya görüyoruz?” sorusu artık yalnızca bir
+                uyku evresine bağlanabilecek kadar basit değil.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Bellek rüya araştırmasının merkezinde neden?
+              </h2>
+
+              <p className="mt-5">
+                Uyku, öğrenilen bilgilerin sonraki kullanım için
+                düzenlenmesiyle yakından ilişkilidir. Bu yüzden araştırmacılar
+                yeni öğrenilen materyalin rüyalara girip girmediğini ve bunun
+                ertesi günkü bellek performansıyla ilişkisini uzun süredir
+                inceliyor.
               </p>
 
               <p className="mt-4">
-                Ancak bu bulgu dikkatli yorumlanmalı. 2024 tarihli bir
-                değerlendirme, rüya ve bellek konsolidasyonu araştırmalarında
-                sonuçların karışık olduğunu ve yöntemsel sorunların önemli bir
-                rol oynadığını belirtiyor.
+                Hudachek ve Wamsley’nin 2023 meta-analizi, uyku öncesi bir
+                öğrenme görevi kullanan 16 çalışmadan 45 etkiyi birleştirdi.
+                Görevle ilişkili rüya içeriği ile daha iyi uyku sonrası bellek
+                performansı arasında anlamlı bir ilişki bulundu.
               </p>
 
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
+              <p className="mt-4">
+                Polisomnografi kullanılan çalışmaların alt analizinde ilişki
+                NREM uykusundan toplanan rüyalarda anlamlıydı; REM
+                örneklerinde ise anlamlı değildi. Bu ayrıntı, “rüya = REM =
+                bellek işleme” gibi basit bir zincirin veriler tarafından
+                desteklenmediğini de gösteriyor.
+              </p>
+
+              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
                 <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Sonuç:</strong> Rüyalar ile bellek süreçleri arasında
-                  araştırılmaya değer bir ilişki var. Fakat “rüyalar belleği
-                  güçlendirmek için vardır” bugün kesinleşmiş bir bilimsel
-                  sonuç değil.
+                  <strong>Ne söyleyebiliriz?</strong> Öğrenilen içeriğin
+                  rüyaya girmesi daha iyi bellek performansıyla ilişkili
+                  olabilir. Bunun rüyanın kendisinin belleği güçlendirdiğini
+                  kanıtladığını söyleyemeyiz.
                 </p>
               </div>
             </section>
 
-            {/* THEORY 2 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                2. Duygusal işleme yaklaşımı
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Rüya bellek işlemenin kendisi mi, izi mi?
               </h2>
 
               <p className="mt-5">
-                Rüyaların bir başka önemli özelliği yoğun duygular
-                içerebilmesidir. Korku, özlem, utanç, öfke veya mutluluk gibi
-                deneyimler rüya anlatılarının önemli parçaları olabilir.
+                Bu ayrım güncel araştırmanın önemli tartışmalarından biri.
+                Rüyada yeni öğrenilmiş bir unsurun görülmesi, uyku sırasında
+                o anıyla ilişkili süreçlerin etkin olduğuna dair öznel bir
+                pencere olabilir.
               </p>
 
               <p className="mt-4">
-                Bu gözlem, rüyaların duygusal deneyimlerin işlenmesiyle
-                ilişkili olabileceği düşüncesine yol açmıştır. Özellikle
-                duygusal olarak önemli olayların rüya içeriğine girebilmesi,
-                bu hipotezin araştırılmasını destekleyen bulgulardan biridir.
+                Fakat Bloxham ve Horton’un 2024 değerlendirmesi, rüya içeriği
+                ile bellek konsolidasyonu arasındaki ampirik desteğin karışık
+                olduğunu ve çalışmaların yöntemsel olarak birbirinden önemli
+                biçimde ayrıldığını vurguluyor.
               </p>
 
               <p className="mt-4">
-                Ancak burada da aynı bilimsel ayrım geçerlidir: Bir rüyada
-                yoğun bir duygu yaşanması, o rüyanın o duyguyu “işlemek için”
-                ortaya çıktığını tek başına kanıtlamaz.
+                Bu yüzden bugün daha ihtiyatlı ifade şudur: rüyalar bellek
+                konsolidasyonu sırasında çalışan süreçlerin bazı yönlerini
+                yansıtabilir; rüya deneyiminin konsolidasyon için zorunlu
+                olduğu gösterilmiş değildir.
               </p>
             </section>
 
-            {/* THEORY 3 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                3. Uyanık yaşam ile süreklilik
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Duygular neden rüyalarda bu kadar belirgin?
               </h2>
 
               <p className="mt-5">
-                Rüyaların işlevini açıklamak için kullanılan bir başka yaklaşım
-                rüya içeriğinin uyanık yaşamla sürekliliğine odaklanır.
+                Rüyalar korku, özlem, utanç, öfke, yakınlık ve sevinç gibi
+                güçlü duygular içerebilir. Özellikle REM’den hatırlanan
+                rüyalar sıklıkla daha canlı ve duygusal olarak yoğun
+                bildirilebilir.
               </p>
 
               <p className="mt-4">
-                İnsanların gündelik yaşamındaki önemli kişiler, faaliyetler,
-                endişeler ve duygusal deneyimler rüyalarda farklı biçimlerde
-                yeniden ortaya çıkabilir. Bu ilişki, rüyaların tamamen
-                rastgele ve uyanık yaşamdan bağımsız deneyimler olmadığı
-                düşüncesini destekler.
+                Bu gözlem rüyaların duygusal bellek ve duygu düzenleme
+                süreçleriyle ilişkili olabileceği hipotezlerini doğurdu.
+                Scarpelli ve arkadaşlarının 2019 derlemesi de rüya deneyimi
+                ile duygusal süreçler arasındaki nörobiyolojik ve psikolojik
+                bağlantıları ele alıyor.
               </p>
 
               <p className="mt-4">
-                Ancak süreklilik hipotezi tek başına rüyaların biyolojik
-                işlevini açıklamaz. Bir deneyimin başka bir deneyimle ilişkili
-                olması, ilk deneyimin ikinci deneyimin amacı olduğu anlamına
-                gelmez.
+                Ancak rüyanın duygusal olması, o rüyanın belirli bir duyguyu
+                “çözmek” amacıyla üretildiği anlamına gelmez. Duygusal işleme
+                güçlü bir araştırma alanıdır; tek ve kanıtlanmış rüya işlevi
+                değildir.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Uyanık yaşam neden rüyaya sızıyor?
+              </h2>
+
+              <p className="mt-5">
+                Rüyalarda gündelik yaşamdan kişiler, mekânlar, uğraşlar ve
+                duygusal olarak önemli deneyimler tekrar ortaya çıkabilir.
+                Rüya araştırmalarında bu tür ilişkiler genellikle süreklilik
+                çerçevesinde incelenir.
               </p>
 
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
+              <p className="mt-4">
+                Schredl’in 2010 derlemesi, uyanık yaşamdaki faaliyetlerin ve
+                deneyimlerin rüya içeriğiyle ilişkili olabildiğini gösteren
+                geniş literatürü özetler. Bu, rüyaların zihinsel yaşamdan
+                tamamen kopuk rastgele görüntüler olmadığını düşündürür.
+              </p>
+
+              <p className="mt-4">
+                Fakat süreklilik birebir tekrar değildir. Bir iş arkadaşı
+                çocukluk evinde görünebilir, eski bir anı güncel bir sorunla
+                birleşebilir veya gerçek kişiler alışılmadık roller
+                üstlenebilir.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Tehdit Simülasyonu Teorisi ne söylüyor?
+              </h2>
+
+              <p className="mt-5">
+                Tehdit Simülasyonu Teorisi, rüyaların tehlikeli durumları
+                simüle ederek tehdit algılama ve kaçınma tepkilerinin provasına
+                katkı sağlamış olabileceğini öne süren evrimsel bir modeldir.
+              </p>
+
+              <p className="mt-4">
+                Valli ve Revonsuo’nun 2009 derlemesi, farklı örneklemlerde
+                tehdit içeriklerini inceleyen çalışmaların önemli bölümünün
+                teorinin bazı öngörüleriyle uyumlu olduğunu savunur.
+              </p>
+
+              <p className="mt-4">
+                Lafrenière ve arkadaşlarının çalışmasında da rüyalardaki
+                tehditlerin günlük kayıtlardaki tehdit, tehdit şiddeti ve bir
+                önceki günün stres düzeyiyle ilişkileri bulundu. Ayrıca bazı
+                rüya tehditleri daha eski otobiyografik anılarla
+                ilişkilendirildi.
+              </p>
+
+              <p className="mt-4">
+                Bunlar teoriyi araştırmaya değer kılar; fakat tek yönlü bir
+                kanıt tablosu oluşturmaz.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Tehdit teorisine karşı bulgular da var
+              </h2>
+
+              <p className="mt-5">
+                Malcolm-Smith ve arkadaşlarının 2008 çalışması, yüksek suç
+                oranına sahip bir bölgede yaşayan katılımcılarla daha güvenli
+                bir bölgedeki katılımcıları karşılaştırdı. Teorinin
+                öngörüsünün aksine, daha fazla gerçek yaşam tehdidine maruz
+                kalan grupta daha fazla tehdit rüyası görülmedi.
+              </p>
+
+              <p className="mt-4">
+                Çalışmada gerçekçi hayatta kalma tehditleri rüyaların yüzde
+                20’sinden azında görüldü ve tehditten başarılı kaçış çok
+                nadirdi. Araştırmacılar bu sonuçların teorinin bazı temel
+                öngörüleriyle çeliştiği sonucuna vardı.
+              </p>
+
+              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
                 <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Örnek:</strong> Yoğun bir iş döneminde iş arkadaşınızı
-                  veya işle ilgili bir problemi rüyanızda görmeniz, rüyanın
-                  mutlaka “iş stresini çözmek” için oluştuğu anlamına gelmez.
-                  Öncelikle rüyanın uyanık yaşamla ilişkili olduğunu gösterir.
+                  <strong>Bilimsel tablo:</strong> Tehdit Simülasyonu Teorisi
+                  gerçek verilerle sınanmış bir modeldir. Hem destekleyici hem
+                  de karşı bulgular vardır; bu yüzden rüyaların evrensel ve
+                  kesin açıklaması değildir.
                 </p>
               </div>
             </section>
 
-            {/* THEORY 4 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                4. Tehdit Simülasyonu Teorisi
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Belki rüyanın tek bir görevi yoktur
               </h2>
 
               <p className="mt-5">
-                Daha iddialı teorilerden biri, bazı rüyaların tehdit içeren
-                durumları güvenli bir sanal ortamda simüle ederek tehdit
-                algılama ve kaçınma becerilerinin provasını yaptığı fikridir.
+                Bellek, duygu ve uyanık yaşamla süreklilik bulgularının aynı
+                anda var olması başka bir olasılığı gündeme getirir: rüya
+                deneyimi tek bir biyolojik görevin ürünü olmak zorunda
+                olmayabilir.
               </p>
 
               <p className="mt-4">
-                Bu yaklaşım “Threat Simulation Theory” olarak bilinir.
-                Teoriye göre rüyalar evrimsel olarak hayatta kalma açısından
-                önemli durumları tekrar tekrar simüle eden bir sistemin
-                parçası olabilir.
+                Uyuyan beyinde bellek yeniden etkinleşmesi, duygusal
+                değerlendirme, algısal üretim ve çağrışımsal süreçler aynı gece
+                içinde birlikte çalışabilir. Rüya bunların bir bölümünün
+                bilinçli deneyimde aldığı biçim olabilir.
               </p>
 
               <p className="mt-4">
-                Teoriyi destekleyen araştırmalar var. Örneğin bazı çalışmalar
-                rüyalardaki tehdit içeriğinin uyanık yaşamda yaşanan tehdit ve
-                stresle ilişkili olabileceğini gösteriyor.
+                Bu yaklaşım “rüyaların hiçbir anlamı yoktur” demek değildir.
+                Yalnızca bilimsel işlev sorusunu kişisel anlam sorusundan
+                ayırır.
               </p>
-
-              <p className="mt-4">
-                Ancak teori tartışmasız değil. Bazı araştırmalar tehditlerin
-                rüyalarda beklenenden daha az bulunduğunu ve gerçekçi tehdit
-                kaçınma davranışlarının nadir olduğunu bildirerek teorinin
-                bazı temel öngörülerine karşı sonuçlar ortaya koydu.
-              </p>
-
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
-                <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Bilimsel durum:</strong> Tehdit simülasyonu,
-                  test edilebilir ve ampirik olarak araştırılmış bir teoridir.
-                  Ancak rüyaların genel ve kesin işlevi olarak kabul edilmiş
-                  değildir.
-                </p>
-              </div>
             </section>
 
-            {/* THEORY 5 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                5. Rüyalar birden fazla sürecin sonucu olabilir mi?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Araştırmanın temel sınırı: rüyaya doğrudan erişemiyoruz
               </h2>
 
               <p className="mt-5">
-                Belki de en önemli olasılık, rüyaların tek bir işleve
-                indirgenememesidir.
+                Rüya araştırmasının özel bir metodolojik sorunu vardır:
+                araştırmacılar rüyanın kendisini doğrudan ölçmez; çoğu zaman
+                kişinin uyandıktan sonra verdiği rüya raporuna ulaşır.
               </p>
 
               <p className="mt-4">
-                Uyku sırasında bellek yeniden etkinleşebilir, duygusal
-                deneyimler farklı biçimlerde işlenebilir, gün içinde edinilen
-                bilgiler eski anılarla birleşebilir ve beynin farklı ağları
-                arasında yeni bağlantılar ortaya çıkabilir.
+                Hatırlama, raporlama zamanı, uyku evresi, kullanılan soru ve
+                laboratuvar koşulları sonuçları etkileyebilir. Scarpelli ve
+                arkadaşlarının 2022 derlemesi, rüya biliminin daha ortak
+                protokollere ve gelişmiş ölçüm yöntemlerine ihtiyaç duyduğunu
+                özellikle vurgular.
               </p>
 
               <p className="mt-4">
-                Böyle bir durumda rüya, tek bir “programın çıktısı” olmaktan
-                ziyade uyku sırasında gerçekleşen birçok sürecin öznel
-                deneyime dönüşen sonucu olabilir.
-              </p>
-
-              <p className="mt-4">
-                Bu yaklaşım, rüyaların neden bazen günlük hayata çok benzediğini
-                ve bazen tamamen gerçeküstü bir yapıya sahip olduğunu birlikte
-                düşünmeye izin verir.
+                Bu sınır, farklı teorilerin neden uzun süre bir arada
+                yaşayabildiğini anlamak açısından önemlidir.
               </p>
             </section>
 
-            {/* WHAT WE KNOW */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Peki bugün ne kadarını biliyoruz?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Bilimsel işlev ile kişisel anlam aynı şey değil
+              </h2>
+
+              <p className="mt-5">
+                Bir teorinin rüyaların genel işlevine ilişkin açıklama
+                sunması, tek bir kişinin belirli bir rüyasının anlamını
+                otomatik olarak açıklamaz.
+              </p>
+
+              <p className="mt-4">
+                Bellek araştırmaları güçlü olsa bile dün gece gördüğünüz bir
+                kişinin “bir anıyı pekiştirmek için” rüyaya girdiğini
+                söyleyemeyiz. Tehdit teorisi ilginç olsa bile her kovalanma
+                rüyasını evrimsel prova olarak etiketleyemeyiz.
+              </p>
+
+              <p className="mt-4">
+                Kişisel rüya yorumu; rüyanın bağlamı, duygusu, yaşam
+                deneyimleri ve kişinin kendi çağrışımları üzerine ayrı bir
+                değerlendirme gerektirir.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                INUS bu soruya nasıl yaklaşıyor?
+              </h2>
+
+              <p className="mt-5">
+                INUS “rüyalar yalnızca bellek içindir” veya “bütün rüyalar
+                tehdit provasıdır” gibi tek teoriye dayalı bir analiz
+                kullanmaz.
+              </p>
+
+              <p className="mt-4">
+                Bilimsel araştırmalar rüyanın oluşabileceği zihinsel süreçler
+                hakkında çerçeve sağlar. Kişisel analizde ise rüyanın olay
+                örgüsü, duygular, semboller, uyanık yaşam bağlantıları ve
+                kişinin kendi çağrışımları birlikte değerlendirilir.
+              </p>
+
+              <p className="mt-4">
+                Böylece araştırma bulguları kişiye zorla uygulanmaz; fakat
+                yorum da “her şey her anlama gelebilir” düzeyinde bırakılmaz.
+              </p>
+
+              <blockquote className="mt-8 border-l border-[#9b9186] py-1 pl-6 text-xl font-light leading-8 tracking-[-0.015em] text-[#625c54]">
+                “Bilim rüyaların ortak süreçlerini araştırır; kişisel yorum ise
+                bu rüyanın bu insanın hayatında neden önemli olabileceğini.”
+              </blockquote>
+            </section>
+
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Kısaca ne biliyoruz?
               </h2>
 
               <div className="mt-6 grid gap-4 sm:grid-cols-2">
-                <div className="rounded-2xl bg-[#eee8df] p-6">
+                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
-                    DAHA GÜÇLÜ BULGULAR
+                    DAHA GÜÇLÜ DAYANAK
                   </p>
 
                   <ul className="mt-4 space-y-3 text-sm leading-7 text-[#625c54]">
+                    <li>• Rüyalar REM dışında da bildirilebilir.</li>
+                    <li>• Rüya içeriği uyanık yaşamla süreklilik gösterebilir.</li>
                     <li>
-                      • Rüya içeriği uyanık yaşamla belirli süreklilikler
-                      gösterebilir.
+                      • Öğrenmeyle ilişkili rüya içeriği bellek performansıyla
+                      ilişkili olabilir.
                     </li>
                     <li>
-                      • Rüya içeriği öğrenme ve bellek süreçleriyle ilişkili
-                      olabilir.
-                    </li>
-                    <li>
-                      • Duygusal deneyimler rüya içeriğinde önemli yer
-                      tutabilir.
-                    </li>
-                    <li>
-                      • Tehdit içeren rüyalar çeşitli araştırmalarda
-                      sistematik olarak incelenmiştir.
+                      • Duygusal deneyimler rüya içeriğinin önemli bir
+                      parçasıdır.
                     </li>
                   </ul>
                 </div>
 
-                <div className="rounded-2xl bg-[#eee8df] p-6">
+                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
                     HÂLÂ AÇIK
                   </p>
 
                   <ul className="mt-4 space-y-3 text-sm leading-7 text-[#625c54]">
-                    <li>• Rüya görmenin tek bir temel işlevi var mı?</li>
-                    <li>• Rüya içeriği nasıl seçiliyor?</li>
-                    <li>• Rüyaların bellek üzerindeki nedensel etkisi nedir?</li>
-                    <li>• Rüyalar evrimsel olarak neden ortaya çıktı?</li>
+                    <li>• Rüya görmenin tek bir temel işlevi olup olmadığı.</li>
+                    <li>
+                      • Rüya deneyiminin bellek konsolidasyonunda nedensel bir
+                      rol oynayıp oynamadığı.
+                    </li>
+                    <li>• Duygusal rüyaların duygu düzenlemedeki kesin rolü.</li>
+                    <li>
+                      • Rüya görmenin evrimsel olarak hangi nedenle ortaya
+                      çıktığı.
+                    </li>
                   </ul>
                 </div>
               </div>
             </section>
-
-            {/* SCIENCE VS INTERPRETATION */}
-            <section>
-              <h2 className="text-2xl font-normal">
-                Bilimsel teori ile kişisel rüya yorumu arasındaki fark
-              </h2>
-
-              <p className="mt-5">
-                Bir teorinin rüyaların genel işlevi hakkında açıklama sunması,
-                tek bir kişinin rüyasının anlamını açıklamak için yeterli
-                değildir.
-              </p>
-
-              <p className="mt-4">
-                Örneğin tehdit simülasyonu teorisi rüyalarda tehdit
-                içeriklerinin neden bulunabileceğine dair bir model sunabilir.
-                Ancak bu, sizin dün gece gördüğünüz kovalanma rüyasının
-                kesinlikle bir tehdit provasından kaynaklandığını göstermez.
-              </p>
-
-              <p className="mt-4">
-                Aynı şekilde rüyalar ile bellek arasında ilişki bulunması,
-                gördüğünüz belirli bir kişinin veya olayın mutlaka bir anıyı
-                pekiştirmek için rüyanıza girdiği anlamına gelmez.
-              </p>
-            </section>
-
-            {/* INUS */}
-            <section>
-              <h2 className="text-2xl font-normal">
-                INUS bu bilgileri nasıl kullanıyor?
-              </h2>
-
-              <p className="mt-5">
-                INUS, rüyaların işlevi hakkında tek bir teoriyi doğru kabul
-                ederek analiz yapmaz.
-              </p>
-
-              <p className="mt-4">
-                Bir rüyanın kişisel bağlamını değerlendirirken günlük yaşam,
-                duygular, önemli deneyimler, bellek çağrışımları, rüyanın
-                olay örgüsü ve semboller birlikte ele alınır.
-              </p>
-
-              <p className="mt-4">
-                Bilimsel araştırmalar burada bir çerçeve sağlar. Ancak
-                araştırma sonuçları kişinin rüyasına otomatik olarak
-                uygulanmaz.
-              </p>
-
-              <blockquote className="mt-7 border-l-2 border-[#9b9186] pl-6 text-xl font-light leading-8 text-[#625c54]">
-                “Rüyaların neden görüldüğünü genel olarak anlamaya çalışmak
-                başka, belirli bir rüyanın bu kişi için ne ifade edebileceğini
-                araştırmak başkadır.”
-              </blockquote>
-            </section>
           </div>
         </article>
 
-        {/* SOURCES */}
-        <section className="py-16 sm:py-20">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             KAYNAKLAR
           </p>
 
-          <h2 className="mt-4 text-3xl font-light">
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
             Araştırma ve literatür
           </h2>
 
-          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#686158]">
-            Bu sayfadaki açıklamalar, rüyaların işlevi, bellek, uyanık yaşam
-            sürekliliği ve tehdit simülasyonu üzerine hakemli araştırmalar ve
-            derlemeler temel alınarak hazırlanmıştır.
+          <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#6f675e]">
+            Bu sayfa güncel rüya bilimi derlemeleri ile bellek, duygusal
+            süreçler, uyanık yaşamla süreklilik ve tehdit simülasyonu üzerine
+            hakemli araştırmaları birlikte değerlendirir. Bir teoriye destek
+            veren bulgular, o teorinin rüyaların tek ve kesin işlevi olduğunu
+            gösterecek biçimde yorumlanmamıştır.
           </p>
 
-          <div className="mt-8 space-y-5">
+          <div className="mt-10 grid gap-x-10 gap-y-8 md:grid-cols-2">
             {sources.map((source) => (
               <article
                 key={source.title}
-                className="rounded-2xl border border-[#ddd5cb] bg-[#faf8f4] p-6"
+                className="border-t border-[#d9d2c9] pt-5"
               >
                 <p className="text-sm font-medium text-[#454039]">
                   {source.authors}
                 </p>
 
-                <p className="mt-1 text-sm leading-7 text-[#625c54]">
+                <p className="mt-2 text-[13px] leading-6 text-[#625c54]">
                   <em>{source.title}</em>
                 </p>
 
-                <p className="mt-1 text-xs text-[#8a8177]">
+                <p className="mt-2 text-xs leading-6 text-[#91887e]">
                   {source.journal}
                 </p>
 
-                <p className="mt-2 text-xs text-[#aaa198]">
+                <p className="mt-1 text-[10px] tracking-wide text-[#aaa198]">
                   {source.detail}
                 </p>
 
@@ -534,7 +649,7 @@ export default function WhyDreamPage() {
                   href={source.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="mt-3 inline-block text-xs text-[#625c54] underline underline-offset-4 hover:text-[#24221f]"
+                  className="mt-3 inline-block text-xs text-[#625c54] underline decoration-[#bdb4aa] underline-offset-4 transition hover:text-[#24221f]"
                 >
                   PubMed kaydını görüntüle →
                 </a>
@@ -543,27 +658,26 @@ export default function WhyDreamPage() {
           </div>
         </section>
 
-        {/* FAQ */}
-        <section className="pb-16 sm:pb-20">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             SIK SORULAN SORULAR
           </p>
 
-          <h2 className="mt-4 text-3xl font-light">
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
             Neden rüya gördüğümüz hakkında
           </h2>
 
-          <div className="mt-8 space-y-4">
+          <div className="mt-10 overflow-hidden rounded-xl border border-[#d9d1c7] bg-[#faf8f4]">
             {faqs.map((faq) => (
               <article
                 key={faq.question}
-                className="rounded-[24px] border border-[#d9d1c7] bg-[#faf8f4] p-6"
+                className="border-b border-[#ded6cc] p-6 last:border-b-0 sm:p-7"
               >
-                <h3 className="text-lg font-normal">
+                <h3 className="text-lg font-light tracking-[-0.015em]">
                   {faq.question}
                 </h3>
 
-                <p className="mt-3 text-sm leading-7 text-[#686158]">
+                <p className="mt-3 max-w-4xl text-[14px] leading-7 text-[#6f675e]">
                   {faq.answer}
                 </p>
               </article>
@@ -571,28 +685,42 @@ export default function WhyDreamPage() {
           </div>
         </section>
 
-        {/* CTA */}
-        <section className="mb-16 rounded-[30px] bg-[#292621] px-7 py-12 text-center text-white sm:mb-20 sm:px-12">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
-            INUS
-          </p>
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <div className="grid gap-10 lg:grid-cols-[1fr_auto] lg:items-end">
+            <div>
+              <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                KENDİ RÜYANA DÖN
+              </p>
 
-          <h2 className="mt-4 text-3xl font-light">
-            Peki sen neden bu rüyayı gördün?
-          </h2>
+              <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+                Genel teoriden kişisel rüyana geç.
+              </h2>
 
-          <p className="mx-auto mt-4 max-w-xl text-sm leading-7 text-[#d4cec5]">
-            Rüyanı kendi kelimelerinle anlat. INUS, rüyanın olaylarını,
-            duygularını, sembollerini ve kişisel bağlamını birlikte
-            değerlendirerek farklı psikolojik bakış açıları sunar.
-          </p>
+              <p className="mt-5 max-w-2xl text-[15px] leading-8 text-[#625c54]">
+                Bilim rüyaların ortak özelliklerini araştırır. Kendi rüyanı
+                anlamak içinse olayları, duyguları, sembolleri ve yaşam
+                bağlamını birlikte incelemek gerekir.
+              </p>
+            </div>
 
-          <Link
-            href="/"
-            className="mt-7 inline-flex rounded-full bg-white px-7 py-3 text-sm text-[#292621] transition hover:bg-[#eee8df]"
-          >
-            Rüyamı analiz et
-          </Link>
+            <div className="flex flex-wrap gap-3">
+              <Link
+                href="/"
+                className="inline-flex items-center gap-8 rounded-full bg-[#292621] px-7 py-3.5 text-sm text-white transition hover:bg-[#403b35]"
+              >
+                Rüyanı anlat
+                <span aria-hidden="true">→</span>
+              </Link>
+
+              <Link
+                href="/ruyalar/semboller"
+                className="inline-flex items-center gap-5 rounded-full border border-[#c8beb2] px-7 py-3.5 text-sm text-[#292621] transition hover:border-[#8f857a]"
+              >
+                Rüya sembollerini keşfet
+                <span aria-hidden="true">→</span>
+              </Link>
+            </div>
+          </div>
         </section>
 
         <footer className="pb-8 text-center text-xs text-[#aaa198]">

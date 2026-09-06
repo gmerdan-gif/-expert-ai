@@ -1,0 +1,123 @@
+{
+  "slug": "aile",
+  "title": "aile",
+  "shortDescription": "Rüyada aile görmek; aidiyet, yakın ilişkiler, aile içindeki roller ve akrabalık bağlarıyla ilişkilidir. Aile bireyleri kişinin farklı yönlerini yansıtabilir; aileye destek olmak bereket ve korunma, bağların kopması ise ilişkilerde zayıflama temalarını öne çıkarır.",
+  "positiveAssociations": [
+    "Akrabalık bağlarının güçlenmesi ve desteklenmesi",
+    "Geçim, bereket ve nesil kaygısının hafiflemesi",
+    "Yakın ilişkilerde aidiyet ve güvenlik",
+    "Toplumsal düzenin ve bakımın sağlanması"
+  ],
+  "challengingAssociations": [
+    "Aile bağlarının kopması ve ilişkilerin bozulması",
+    "Otorite baskısı ve kuşak veya kökene dayalı baskılar",
+    "Otorite baskısı ile kuşak ya da kökene dayalı zorluklar"
+  ],
+  "contextDependentAssociations": [
+    "Benliğin farklı yönlerinin rüyada aile üyeleri olarak temsil edilmesi",
+    "Toplumsal ve kuşaklararası süreklilik vurgusu",
+    "Hane içi düzen ve sorumluluklar"
+  ],
+  "commonVariations": [
+    {
+      "title": "Aileyi Desteklemek",
+      "description": "Rüyada aile üyelerine yardım ettiğini veya onlara destek verdiğini görmek, geleneksel bağlamda bereket, korunma ve akrabalık sorumluluklarıyla ilişkilendirilir."
+    },
+    {
+      "title": "Aile Bağlarının Kopması",
+      "description": "Rüyada aile veya akrabalık bağlarının koptuğunu veya bozulduğunu görmek, ilişkilerdeki kopuşlara ve sosyal bağların zayıflamasına dair uyarıcı bir çerçeve sunar."
+    },
+    {
+      "title": "Geniş Soy ve Akrabalarla Bir Arada Olmak",
+      "description": "Hane halkı ve geniş akrabalık ağıyla bir araya gelmek, toplumsal süreklilik, soy bilinci ve atalara bağlılık temalarını öne çıkarır."
+    },
+    {
+      "title": "Aile Figürleri ve Kişilik Yönleri",
+      "description": "Aile bireylerinin rüyada belirli rollerle yer alması, bireyin kendi iç dünyasındaki farklı aidiyet ve kişilik katmanlarını temsil edebilir."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "İslami rüya geleneğinde aile bireylerini desteklemek, akrabalara yardım etmek ve hısımlık bağlarını gözetmek, rüyada bereket, korunma ve nesil kaygısıyla ilişkilendirilir. Buna karşın aile bağlarının kopması, akrabalık ilişkilerinin bozulmasına yönelik güçlü bir ahlaki uyarı çerçevesinde ele alınır. Ayrıca geleneksel yorumlarda bedensel uzuvların aileyi, damarların ise soy veya klan bağlarını temsil etmesi, sembolün soy ekseninde okunduğunu gösterir.",
+  "christianTraditions": "Hristiyan kaynaklarında aile, ev halkı, çocuklar ve iman topluluğunun diliyle ilişkilendirilir; kutsal metinlerde genellikle Tanrı'nın halkıyla olan ilişkisini anlatan teolojik ve sembolik bir metafor olarak kullanılır ve doğrudan bir rüya tabiri geleneği barındırmaz.",
+  "jewishTraditions": "Yahudi rabbanî geleneğinde aile; anne-baba, çocuklar ve geniş akrabaları kapsayan bir hane ve soy çerçevesi içinde tanımlanır. Evlilik ve neslin sürdürülmesiyle bağlantılı toplumsal-dini bir yapı olarak ele alınan bu kavram, doğrudan rüya yorumu içermez ancak toplumsal sürekliliği vurgular.",
+  "buddhistEasternApproaches": "Budist ve Doğu bağlamlarında aile yalnızca çekirdek akrabalığı ifade etmez, aynı zamanda hane, soy, atalara bağlılık ve geniş bir toplumsal-ailevi ilişki ağını kapsar. Kuşaklararası süreklilik ve toplumsal aidiyet boyutlarıyla ele alınır.",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Akrabalık bağları, geçim, korunma ve nesil sorumluluğu ekseninde değerlendirilir; bağların kopması ahlaki bir uyarıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Ev halkı ve topluluk metaforu olarak iman diliyle ilişkilendirilir, teolojik bir semboldür.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rabbanî Gelenek",
+      "interpretation": "Hane, soy ve toplumsal süreklilik çerçevesinde ele alınan sosyo-dini bir yapıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımları",
+      "interpretation": "Hane, soy, atalara bağlılık ve kuşaklararası sürekliliği vurgulayan geniş bir ilişki ağı olarak ele alınır.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve kültürel yaklaşımlar, aile kavramını ortak bir payda olarak soy, hane, akrabalık ağı, aidiyet ve toplumsal süreklilik ekseninde ele almaktadır.",
+  "differences": "İslami gelenek aile ilişkilerini bereket, korunma ve ahlaki sorumluluk (bağların korunması veya kopması) üzerinden somutlaştırırken; Hristiyan ve Yahudi metinleri aileyi daha çok teolojik metaforlar ve toplumsal-dini hane yapıları olarak inceler. Kültürel yorumlar ise aile bireylerini bireyin içsel benliğinin yönleri olarak okuma eğilimindedir.",
+  "inusAssessment": "Aile sembolü, rüyalarda sabit bir anlam taşımaktan ziyade bireyin hane yapısı, akrabalık ilişkileri ve aidiyet duygusuyla kurduğu bağa göre şekillenir. Mevcut kanıtlar bu sembolün hem toplumsal ve dini sorumluluklar hem de benliğin içsel yönleri arasında çok katmanlı bir anlam alanına sahip olduğunu göstermektedir, dolayısıyla rüya bağlamı dikkate alınmadan yapılan indirgemeci yorumlardan kaçınılmalıdır.",
+  "faq": [
+    {
+      "question": "Rüyada aile bireylerini görmek ne anlama gelir?",
+      "answer": "Geleneksel ve kültürel bağlamda aile figürleri aidiyet, yakınlık, soy ve benliğin farklı yönleri ile ilişkilendirilir. Kesin bir rüya anlamı yerine rüyadaki ilişkinin niteliği göz önünde bulundurulmalıdır."
+    },
+    {
+      "question": "İslami rüya tabirlerinde aile bağlarının kopması nasıl ele alınır?",
+      "answer": "İslami gelenekte aile bağlarının kopması veya bozulması, akrabalık ilişkilerine dikkat edilmesi gerektiğini hatırlatan ahlaki ve uyarıcı bir çerçeve içinde değerlendirilir."
+    },
+    {
+      "question": "Aile sembolü akademik psikoloji tarafından doğrudan incelenmiş midir?",
+      "answer": "Ampirik psikoloji alanında 'aile' sembolüne yönelik hakemli ve veri temelli standart bir rüya yorumu bulunmamaktadır. Mevcut kaynaklar daha çok kültürel, tarihsel ve yorumlayıcı geleneklere dayanmaktadır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Signification : Famille - Psychologies.com",
+      "relevance": "Aile üyelerinin rüya içinde benliğin farklı yönlerini ve yakın ilişki durumlarını temsil edebileceğine dair yorumlayıcı bir çerçeve sunar.",
+      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Famille"
+    },
+    {
+      "title": "Top 18 Family Symbols Throughout History",
+      "relevance": "Aile sembollerinin tarihsel bağlamda soy, aile ağacı ve akrabalık temalarıyla nasıl kullanıldığını anlatır.",
+      "url": "https://www.givemehistory.com/family-symbols"
+    },
+    {
+      "title": "Family Islamic Interpretations & Meanings",
+      "relevance": "İslami rüya geleneğinde aile, akrabalık bağları, geçim, korunma ve soy devamı bağlamında yer alır.",
+      "url": "https://www.myislamicdream.com/family.html"
+    },
+    {
+      "title": "THE JEWISH FAMILY",
+      "relevance": "Yahudi aile kavrayışını hane, soy ve geniş akrabalık üzerinden açıklar.",
+      "url": "https://www.bjpa.org/content/upload/bjpa/a_ba/A%20BACKGROUND%20PAPER%20ON%20JEWISH%20VIEWS%20OF%20THE%20FAMILY.pdf"
+    },
+    {
+      "title": "Family Metaphors for the Christian Life - Tabletalk Magazine",
+      "relevance": "Kutsal metinlerde aileyi, Tanrı ile halkı arasındaki ilişkiyi anlatan bir metafor olarak ele alışını tartışır.",
+      "url": "https://tabletalkmagazine.com/article/2019/06/family-metaphors-for-the-christian-life/"
+    },
+    {
+      "title": "Family - Encyclopedia of The Bible",
+      "relevance": "Kutsal metinlerde aileyi ve hane düzenini betimleyen genel Hristiyan kaynak özeti sunar.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Family"
+    },
+    {
+      "title": "Family: Significance and symbolism",
+      "relevance": "Aile kavramının Budist ve Hindu bağlamlarda soy, hane, akrabalık ve atalara bağlılık boyutlarını bir arada gösterir.",
+      "url": "https://www.wisdomlib.org/concept/family"
+    }
+  ],
+  "relatedSlugs": []
+}

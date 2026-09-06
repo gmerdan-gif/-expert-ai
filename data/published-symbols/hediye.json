@@ -1,0 +1,149 @@
+{
+  "slug": "hediye",
+  "title": "hediye",
+  "shortDescription": "Rüyada hediye görmek, sevgi, takdir, destek ya da barışma isteğini yansıtabilir. Yorumu; hediyeyi veren kişi, niyeti, veriliş şekli ve rüyada hissettikleriniz belirler; hediyenin yarattığı baskı ise beklenti veya borçluluk duygusunu öne çıkarabilir.",
+  "positiveAssociations": [
+    "İlişkisel güvenin ve karşılıklı bağlılığın güçlenmesine işaret eden sosyal jest",
+    "Barışma ya da uzlaşma niyetinin simgesi (özellikle veren biliniyorsa)",
+    "Ritüel bağlamdaysa adanma, saygı veya dinsel sunu anlamı (dāna/sunular bağlamında)",
+    "Beklenmedik hediyelerde müjde, sürpriz gelişme ya da takdir edilme duygusunun sembolik karşılığı (modern çevrimiçi İslami aktarımlarda belirtilen bir olasılık)"
+  ],
+  "challengingAssociations": [
+    "Hediyenin ardındaki niyetin belirsizliği — iyilik mi, karşılık beklentisi mi yoksa toplumsal yükümlülük mü?",
+    "Hediye aracılığıyla oluşturulan borçluluk veya manipülasyon hissi (statü/etki göstergesi olarak kullanılması)",
+    "Ritüel hediyelerde niyetin uygun olmaması durumunda, beklenen ruhsal anlamın zayıflaması",
+    "Maddi ve manevi değer dengesi: değeri algılama ile beklentiler arasındaki uyumsuzluk"
+  ],
+  "contextDependentAssociations": [
+    "Hediyeyi verenin kimliği (yakın, yabancı, düşman mı?) rüyanın yorumunu belirler; kaynak materyalde özellikle verenin rolü vurgulanır",
+    "Hediyenin fiziksel niteliği (ritüel nesne, değerli eşya, basit jest) — ritüel öğeler farklı dinî anlamlar taşıyabilir",
+    "Rüya sahibinin uyanık yaşamındaki ilişki dinamikleri; aynı jest farklı ilişkinin içinde farklı anlam kazanır",
+    "Hediyenin sunuluş biçimi ve hissedilen duygular (sevinç, baskı, şaşkınlık) yorumda belirleyicidir"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık birinden hediye almak",
+      "description": "Genellikle o kişiyle olan duygusal bağların, takdirin veya destek beklentisinin rüya dilindeki izdüşümüdür; vereni ve hissedilen duyguyu dikkate almak önemlidir."
+    },
+    {
+      "title": "Birine hediye vermek",
+      "description": "Barışma, ilişkiyi düzeltme ya da pratik yardım etme niyetiyle ilişkilendirilebilir; bazı modern çevrimiçi aktarımlarda benzer yorumlara rastlanır; klasik birincil kaynaklarda doğrudan karşılıkları sınırlı olabilir."
+    },
+    {
+      "title": "Düşmana hediye vermek",
+      "description": "Bazı modern aktarımlarda (Persçe/İbn Sîrîn tarzı özetlerde) düşmana hediye vermek barış veya çatışmanın yatışması olarak yorumlanır. Bu ifade modern kaynaklardan derlenmiştir; klasik kaynaklardaki karşılığı sınırlı olabilir."
+    },
+    {
+      "title": "Ritüel sunu görmek",
+      "description": "Budist ve Hindu bağlamlardaki sunular (dāna) gibi ritüel armağanlar adanma, saygı ve sevap biriktirme söylemleriyle ilişkilidir; bu, dinsel pratiğe dair sembolik okumadır."
+    },
+    {
+      "title": "Beklenmedik armağan veya sürpriz hediye",
+      "description": "Rüyada beklenmedik hediye görmek, hızlı bir haber, takdir ya da planlanmamış bir yardım olasılığına işaret edebilir; bazı modern İslami yorumlarda sevinç haberiyle ilişkilendirilir, fakat bu genelleme sınırlandırılmalıdır."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "Modern çevrimiçi İslami rüya aktarımlarında görülen yorumlara dayanmaktadır; klasik birincil kaynaklardaki doğrudan eşdeğerler sınırlı olabilir; bu nedenle bağlama dikkat edilmelidir.",
+  "christianTraditions": "Hristiyan kutsal metin gelenekleri hediyeyi lütuf, adanma, antlaşma bağı ve Tanrı’nın insana verdiği armağanlar bağlamında ele alır; bu kullanım daha çok genel teolojik sembolizmdir ve doğrudan rüya tabir geleneğiyle aynı şey değildir.",
+  "jewishTraditions": "Yahudi metin ve yorum geleneğinde hediye, armağan ve bağış pratiği çerçevesinde sosyal dayanışma ve ibadet/adalet ilişkileri bağlamında değerlendirilir; mevcut materyal doğrudan rüya yorumu sağlamamaktadır.",
+  "buddhistEasternApproaches": "Budist ve Hint geleneklerinde hediye/sunu (dāna), cömertlik, adanma ve ruhsal erdem biriktirme pratiği olarak görülür; ritüel sunular saygı ifadesi olup niyet ve alıcının önemi vurgulanır. Bu çerçeve rüya tabirinden çok ritüel ve sembol açıklaması niteliğindedir.",
+  "spiritualApproaches": "Spiritüel/ezoterik yorumlarda hediye, niyetle yüklenen enerji değişimi, karşılıklı bağ kurma ve olumlu sonuç beklentisi bağlamında okunabilir; yine de anlam vereni, niyeti ve bağlamı hesaba katarak yorumlanmalıdır.",
+  "comparisonTable": [
+    {
+      "approach": "İslami (modern çevrimiçi aktarımlar)",
+      "interpretation": "Hediye almak: sevgi, dostluk veya iyi şöhret; hediye vermek: barışma ve yardım niyeti. Bazı modern derlemelerde bu tür yorumlara rastlanır; klasik kaynaklardaki eşdeğer destek sınırlı olabilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan teolojik sembolizm",
+      "interpretation": "Hediyeler lütuf, adanma ve antlaşma temalarıyla ilişkilendirilir; rüyaya doğrudan uygulama yerine genel sembolik çerçeve sunar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist/Hindu ritüel çerçevesi",
+      "interpretation": "Dāna ve sunular bağlamında hediye, cömertlik ve adanma göstergesidir; ritüel anlam ile rüya yorumu ayrıştırılmalıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel/ezoterik",
+      "interpretation": "Hediye, niyete bağlı enerji/karma değişimi ve bağ kurma aracı olarak yorumlanabilir; kişisel inanç sistemlerine bağlı okuyuşlar içerir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu gelenekte hediye teması vereni/alanı ve niyeti vurgular: bağ kurma, cömertlik veya adanma motifleri öne çıkar. Bütün yaklaşımlar bağlamın (vereni, nesneyi, niyeti) belirleyici olduğunu vurgular.",
+  "differences": "Dinî gelenekler hediyeyi farklı odaklarla ele alır: Hristiyanlık teolojik lütuf ve antlaşma çerçevesi sunar; modern İslami aktarımlar günlük ilişki dinamikleri ve barışma yönüne vurgu yapar (ancak bunlar modern kaynaklardır); Budist/Hindu çerçevesinde ise ritüel adanma ve dāna ön plana çıkar.",
+  "inusAssessment": "Hediye sembolünü INUS açısından ele alırken tek başına hediye rüyanın kesin bir anlamı için yeterli değildir, fakat belirli koşullar altında —vereni, niyeti ve ritüel/sosyal bağlamı— anlamlı bir katkı sağlar. Örneğin bir ritüel sunu bağlamında hediye adanma anlamı için gerekli olabilir; sosyal bir tartışma sonrası verilen hediye ise barışma niyetini gösterebilir.",
+  "faq": [
+    {
+      "question": "Rüyada pahalı bir hediye almak neyi gösterebilir?",
+      "answer": "Pahalılık, rüya bağlamında değer algısı ve statü temasını öne çıkarır; vereni ve rüyadaki duyguları değerlendirerek bu jestin takdir, beklenti veya toplumsal statüyle ilgili olup olmadığına bakmak gerekir. Kesin yargılardan kaçınılmalıdır."
+    },
+    {
+      "question": "Rüyada dini bir sunu (ör. tütsü, çiçek) hediye etmek ne anlama gelir?",
+      "answer": "Bu tür ritüel öğeler genellikle adanma, saygı veya sevap biriktirme söylemleriyle örtüşür (Budist/Hindu dāna bağlamına benzer). Bu yorum ritüel pratiğe dayanır; rüyanın kişisel dinî yaşamı ve niyeti göz önünde tutulmalıdır."
+    },
+    {
+      "question": "Rüyada hediye verirken zorlanıyorsam bunu nasıl okumalıyım?",
+      "answer": "Zorlanma, hediyenin ardındaki gönüllülük veya niyet sorununa işaret eder; ilişkiye dair karşılıklı beklentiler, baskı ya da yükümlülük hissi açısından değerlendirmek yararlı olur."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Topical Bible: Symbolism of Gifts",
+      "relevance": "Kutsal Kitap anlatılarında hediyelerin sevgi, fedakârlık ve antlaşma temalarını nasıl taşıdığını gösteren derleme.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_gifts.htm"
+    },
+    {
+      "title": "Topical Bible: The Symbolism of Gifts",
+      "relevance": "Kutsal Kitap'ta hediye kavramının insanlar arası armağan, Tanrı'ya sunu ve ilahî lütuf anlamlarını nasıl birleştirdiğini özetleyen kaynak.",
+      "url": "https://biblehub.com/topical/t/the_symbolism_of_gifts.htm"
+    },
+    {
+      "title": "Topical Bible: Symbolism of Gifts in Covenant Relationships",
+      "relevance": "Hediyelerin antlaşma ilişkileriyle bağlantısını ele alan kutsal kitap teması.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_gifts_in_covenant_relationships.htm"
+    },
+    {
+      "title": "Gift Meaning - Bible Definition and References",
+      "relevance": "Mukaddes Kitap'ta hediye teriminin insanlar arası armağan, sunu ve Tanrı'nın bağışı olarak kullanımına dair derleyici açıklama.",
+      "url": "https://www.biblestudytools.com/dictionary/gift/"
+    },
+    {
+      "title": "تعرف على تفسير رؤية الهدية في المنام لابن سيرين - النقابي الجنوبي",
+      "relevance": "İbn Sîrîn'e atfedilen modern çevrimiçi rüya yorumlarından bir örnek; metinde hediye yorumlarını sevgi, iyi şöhret ve hayırla ilişkilendirir.",
+      "url": "https://alnqabialjanubi.com/archives/222994"
+    },
+    {
+      "title": "تعبیر خواب هدیه ابن سیرین",
+      "relevance": "Persçe modern aktarım; metin hediye vermeyi dosta yardım, düşmana hediye vermeyi barış, hediye almayı ise sevgi ve yardım ile ilişkilendirir.",
+      "url": "https://falokhab.ir/605749-hadie-ebne-sirin/"
+    },
+    {
+      "title": "The concept of Gift in Christianity",
+      "relevance": "Yahudi ve rabbanî bağlamda hediye/armağan kavramının dinsel ve ilişkisel anlamlarını tarayan sözlük sayfası.",
+      "url": "https://www.wisdomlib.org/christianity/concept/gift"
+    },
+    {
+      "title": "Offerings and gifts: Significance and symbolism",
+      "relevance": "Budist ve Hindu geleneklerinde sunu/hediyenin ritüel anlamını, adanma ve cömertlik bağlamında açıklayan özet.",
+      "url": "https://www.wisdomlib.org/concept/offerings-and-gifts"
+    },
+    {
+      "title": "Offering: Significance and symbolism",
+      "relevance": "Budist ve Hindu kullanımında sunu/armağan pratiğini; nesnelerin tanrılara ya da Buddha’ya saygı amacıyla sunulmasını açıklar.",
+      "url": "https://www.wisdomlib.org/concept/offering"
+    },
+    {
+      "title": "Significance of Gift",
+      "relevance": "Budist ve Hindu geleneklerinde hediyenin dāna, niyet, alıcı ve bağlamla ilişkisini ele alan derleme.",
+      "url": "https://www.wisdomlib.org/concept/gift"
+    },
+    {
+      "title": "Significance of Offering gifts",
+      "relevance": "Budist ve Hindu dinî pratiklerinde hediye sunmanın, kutsal varlıklara saygı ve destek ile sevap arayışı arasındaki yerini özetler.",
+      "url": "https://www.wisdomlib.org/concept/offering-gifts"
+    }
+  ],
+  "relatedSlugs": []
+}

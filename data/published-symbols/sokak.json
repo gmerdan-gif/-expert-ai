@@ -1,0 +1,82 @@
+{
+  "slug": "sokak",
+  "title": "sokak",
+  "shortDescription": "Rüyada sokak görmek; kamusal yaşamı, sosyal ilişkileri, mahalleyle bağı ve yön bulmayı çağrıştırabilir. Kalabalık bir sokak sosyal hareketliliği ya da baskıyı; ıssız, karanlık veya çıkmaz bir sokak ise yalnızlık, güvenlik kaygısı ya da kısıtlanmışlık hissini öne çıkarabilir.",
+  "positiveAssociations": [
+    "Kamusal etkileşim ve gözlem yoluyla kurulan sosyal bağlantılar",
+    "Mahalle veya kentin ortak yaşam ritmi (dükkanlar, yaya akışı, buluşma noktaları)",
+    "Toplumsal normların ve kamusal düzenin görünürleşmesi",
+    "Sınırların (özel/ortak alan) ve yönelimle ilgili bilginin veya bilgelik duygusunun somutlaşması"
+  ],
+  "challengingAssociations": [
+    "Kamusal gerilim veya çatışma hissi (kalabalık, sokak tacizi, gürültü gibi olumsuz etkenler)",
+    "Güvenlik ve aydınlatma eksikliğiyle ilişkilendirilen tedirginlik",
+    "Mahalle aidiyetiyle ilişkili dışlanma veya yabancılaşma algısı",
+    "Altyapı veya kentsel düzen sorunlarının neden olduğu işlevsellik sorunları"
+  ],
+  "contextDependentAssociations": [
+    "Kalabalık cadde (toplumsal canlılık veya anonim kalabalık baskısı)",
+    "Issız sokak (yalnızlık, güvenlik endişesi veya içe dönük gözlem imkânı)",
+    "Tanıdık mahalle (aidiyet, geçmişle bağlantı, nostalji)",
+    "Karanlık geçit veya çıkmaz sokak (erişim kısıtları, karar verme noktası)"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kalabalık Bir Cadde",
+      "description": "Dükkanların, yürüyüş yollarının ve insan akışının yoğun olduğu bir kamusal alan; toplumsal etkileşim ile anonimleşme arasında bir gerilim göstergesi olabilir."
+    },
+    {
+      "title": "Issız ve Sessiz Sokak",
+      "description": "Yaya ve araç hareketinin azaldığı, yalnızlık veya güvenlikle ilgili duyguların öne çıkabildiği kentsel boşluk."
+    },
+    {
+      "title": "Karanlık Çıkmaz Sokak",
+      "description": "Erişimin sınırlandığı veya seçeneklerin tıkandığı bir mekân düzeni; karar verme zorluğunun kamusal mekandaki karşılığı olarak okunabilir."
+    },
+    {
+      "title": "Tanıdık Çocukluk Sokağı",
+      "description": "Geçmiş gündelik ilişkileri, mahalle bağlarını ve yerel kimliği çağrıştıran nostaljik bir mekân kesidi."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Kentsel çalışmalara dayalı araştırmalar",
+      "interpretation": "Sokaklar, kamusal yaşamı düzenleyen, toplumsal etkileşimi ve mahalle kimliğini şekillendiren, fiziksel ve toplumsal işlevlere sahip mekanlar olarak görülür.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Popüler rüya sözlükleri ve geleneksel rüya yorumları",
+      "interpretation": "Sokak teması sıklıkla \"yaşam yolu\" veya kişisel yönelimle eşleştirilir; bu yorumlar yaygın olsa da taranan akademik kaynaklarca doğrudan doğrulanmamıştır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern dinsel sözlük/geleneksel okumalar (İslami örneklerde görülen eğilim)",
+      "interpretation": "Yol imgesi dini veya ahlaki yönelimle ilişkilendirilebilir; fakat bu, klasik birincil metinlerle net biçimde sabitlenmemiş modern bir eğilimdir.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Farklı disiplinlerde sokak teması en yaygın olarak kentsel ve toplumsal işlevleriyle —kamusal etkileşim, mahalle kimliği, fiziksel erişim ve sınırlar— ilişkilendirilir; rüya bağlamındaki \"yaşam yolu\" yorumu ise genellikle popüler sözlüklerden kaynaklanır.",
+  "differences": "Akademik çalışmalar sokakları somut kentsel işlev ve toplumsal etkileşim bağlamında incelerken, popüler rüya yorumları sokakları soyut birer içsel 'yol' veya yaşam yönelimi simgesi olarak ele alma eğilimindedir. Bu iki yaklaşım aynı sembolü farklı düzlemlerde okur.",
+  "inusAssessment": "Sokak sembolü için doğrudan ampirik rüya-psikolojisi kanıtı bulunmamaktadır; buna karşın sokakların kent sosyolojisi ve kamusal yaşam bağlamındaki kültürel rolleri iyi belgelenmiştir. Rüyalarda sokak görmenin yorumu, rüyanın özgül bağlamı ve kişinin yaşam ortamıyla ilişkili sosyal dinamikler göz önünde bulundurularak temkinli ve bağlamsal bir şekilde yapılmalıdır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Symbolic meanings of ordinary city streets and their trees - PMC",
+      "relevance": "Kent sokaklarının toplumsal ve ahlaki anlamlarını, kamusal yaşam içindeki işlevlerini ve sembolik boyutlarını tartışır; sokakların rüya bağlamından bağımsız olarak kentsel sosyal işlevlerine dair araştırma desteği sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9875087/"
+    },
+    {
+      "title": "10 Things You Need to Know About the Swastika",
+      "relevance": "Budist gelenekte svastikanın Buddha’nın ayak izleri ve kalbiyle ilişkilendirildiğini açıklar.",
+      "url": "https://www.hinduamerican.org/blog/10-things-you-need-to-know-about-the-swastika/"
+    }
+  ],
+  "relatedSlugs": []
+}

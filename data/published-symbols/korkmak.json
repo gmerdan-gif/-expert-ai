@@ -1,0 +1,108 @@
+{
+  "slug": "korkmak",
+  "title": "korkmak",
+  "shortDescription": "Rüyada korkmak, günlük hayattaki tehdit algısının, kaygıların ve kaçınma eğilimlerinin zihinde yeniden işlenmesiyle ilişkilidir. Rüyada kaçmanız, donakalmanız ya da korkunun üzerine gitmeniz; korunma ihtiyacına, tereddüte veya zorluklarla başa çıkma çabanıza işaret edebilir.",
+  "positiveAssociations": [
+    "Uyanık hayatta güvenlik ve huzur arayışına yönelme",
+    "İçsel farkındalığı artırma ve duygusal uyarı sinyallerini fark etme",
+    "Tövbe, yönelme ve olumsuz tutumlardan uzaklaşma isteği"
+  ],
+  "challengingAssociations": [
+    "Çözülmemiş kaygılar ve bastırılmış çatışmaların baskısı",
+    "Tehdit algısı ve kaçınma eğilimlerinin yarattığı zihinsel gerilim",
+    "Yanlış davranışların veya günlük sıkıntıların zihinsel yansımaları"
+  ],
+  "contextDependentAssociations": [
+    "Korkuya neden olan nesnenin veya kişinin niteliği",
+    "Rüya sırasında korkuya verilen tepki ve kaçış dinamikleri",
+    "Zihnin güncel alışkanlıkları ve duygusal kalıntıları"
+  ],
+  "commonVariations": [
+    {
+      "title": "Karanlık bir sokakta takip edilmekten korkmak",
+      "description": "Bilinmeyen bir tehdit karşısında kaçma ve korunma dürtüsünün yoğun olarak yaşandığı senaryodur."
+    },
+    {
+      "title": "Tanıdık bir figürden veya nesneden korkmak",
+      "description": "Uyanık yaşamda bilinen bir durumla ilgili zihinsel kaçınma ve mesafe koyma isteğini yansıtır."
+    },
+    {
+      "title": "Korkudan hareket edemez hâle gelmek",
+      "description": "Zihinsel kilitlenme, karar verme süreçlerindeki tereddütler ve baskılanmış duygusal tepkileri gösterir."
+    },
+    {
+      "title": "Korkuyu yenip tehlikenin üzerine gitmek",
+      "description": "Zorluklar karşısında direnç geliştirme, kaçınma döngülerini kırma ve duruma üstün gelme çabasını ifade eder."
+    }
+  ],
+  "psychology": "Ampirik psikoloji literatüründe rüyadaki korku, tehdit işleme, duygulanım düzenleme ve uyanıklık yaşantılarının gece boyunca yeniden işlenmesiyle ilişkilendirilmektedir. Nörogörüntüleme çalışmaları, korku içeren rüyalarda insula (ada korteks) ve midcingulate cortex (orta singulat korteks) gibi uyanıklıkta korku yaşantısıyla ortak sinirsel ağların devreye girdiğini göstermektedir; bu durum, rüyadaki korkunun biyolojik ve duygusal işleme sistemleriyle doğrudan bağlantılı olduğunu destekler.",
+  "jungian": "",
+  "islamicTradition": "Klasik İslami rüya geleneğinde korku çoğu zaman tersine yorumlanır; rüyada korkmak uyanık hayatta güvenlik, huzur ve tövbeye işaret edebilir. Rüyada korkudan kaçmak veya korkuya üstün gelmek başarı ve korunma olarak yorumlanırken, korkuya neden olan nesne zarara veya kaçınılması gereken bir duruma işaret edebilir. Ayrıca bazı aktarımlarda korku, yanlış davranışların sonucu olan sıkıntı veya üzüntüyle ilişkilendirilmiş olup, bu tür rüyalar için Allah'a sığınma ve rüyayı yaymama adabı tavsiye edilmiştir.",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "Budist perspektifte rüyadaki korku, zihnin alışkanlıklarını, çözülmemiş izlenimlerini ve bağlanma, kaçınma ve cehalet gibi ıstırabın köklerini açığa çıkaran geçici bir zihinsel durumdur. Buradaki temel yaklaşım, korku nesnesinden ziyade rüya görenin bu korkuya verdiği tepkiyi ve duygusal kalıntıları gözlemlemesidir.",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Tehdit işleme, nöral devrelerin (ada korteks / orta singulat korteks) yeniden etkinleşmesi ve duygulanım düzenleme.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungçu Psikoloji",
+      "interpretation": "Bilinçdışı içerikler, gölge temaları ve entegre edilmemiş zihinsel unsurlarla karşılaşma.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Güvenlik, huzur, tövbe veya yanlış davranışların zihinsel yansıması; sığınma adabı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Zihinsel alışkanlıklar, bağlanma/kaçınma döngüleri ve geçici zihinsel durumların gözlemlenmesi.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Farklı disiplinler rüyadaki korkunun sabit bir kehanet olmadığını, aksine zihnin, duyguların ve içsel gerilimlerin işlenme biçimi olduğunu vurgular.",
+  "differences": "Ampirik psikoloji nöral ağlar ve duygusal düzenlemeye odaklanırken, geleneksel ve teorik yaklaşımlar korkunun kaynağını arketipler, zihinsel alışkanlıklar veya tersine yorumlanan manevi anlamlar üzerinden ele alır.",
+  "inusAssessment": "Korkmak sembolü, sabit bir gelecek öngörüsü olarak değil, biyolojik tehdit simülasyonundan psikanalitik ve geleneksel katmanlara kadar geniş bir yelpazede değerlendirilmesi gereken çok boyutlu bir zihinsel durum olarak ele alınmalıdır.",
+  "faq": [
+    {
+      "question": "Rüyada sürekli korkmak ne anlama gelir?",
+      "answer": "Ampirik olarak bu durum, günlük yaşamdaki tehdit algılarının veya çözülmemiş duygusal yüklerin gece boyunca yoğun bir şekilde yeniden işlendiğini gösterebilir."
+    },
+    {
+      "question": "İslami gelenekte rüyada korkmak her zaman kötü mü yorumlanır?",
+      "answer": "Hayır, klasik aktarımlarda korku genellikle tersine yorulur ve uyanık hayatta güvenlik, huzur veya tövbe ile ilişkilendirilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fear in dreams and in wakefulness: Evidence for day/night ...",
+      "relevance": "Rüyada korku yaşantısının uyanıklıkta korkuyla ortak sinirsel ağlarını ve tehdit işleme ile ilişkisini ele alan ampirik nörogörüntüleme çalışması.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7267911/"
+    },
+    {
+      "title": "IBN SEERiN'S",
+      "relevance": "Klasik İslami rüya sözlüğü geleneğinde korku sembolünün temel anlamlarını ve tersine yorumlarını içerir.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Dreams (part 2 of 2): Dream Interpretation",
+      "relevance": "Kötü veya korkutucu rüyalarla ilgili İslami tavsiyeleri ve rüya adabını özetler.",
+      "url": "https://www.islamreligion.com/en/articles/5329/dreams-part-2"
+    },
+    {
+      "title": "What Buddhism Says Dreams Mean, Explained - Gassho (合掌)",
+      "relevance": "Budist açıdan rüyaların zihinsel alışkanlıklar, korkular ve duygusal izler hakkında ne gösterebileceğini anlatır; korku tepkisini yorumun merkezine alır.",
+      "url": "https://gassho.info/blog-page/does-buddhism-say-dreams-have-meaning/"
+    },
+    {
+      "title": "Fear Dream Meaning & Interpretation - Mirror",
+      "relevance": "Budist çerçevede rüyadaki korkuyu bağlanma, kaçınma ve cehaletle ilişkilendirir; korkuyu geçici bir zihinsel durum olarak ele alır.",
+      "url": "https://mirrorwithin.org/dream-dictionary/fear/"
+    }
+  ],
+  "relatedSlugs": []
+}

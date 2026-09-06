@@ -4,9 +4,9 @@ export const metadata = {
   alternates: {
     canonical: "/ruyalar/ruyalar-ve-bellek",
   },
-  title: "Rüyalar ve Bellek | Uyku, Öğrenme ve Rüya Araştırmaları",
+  title: "Rüyalar ve Bellek | Uyku, Öğrenme ve Anılar",
   description:
-    "Rüyalar ve bellek arasındaki ilişki nedir? Uyku sırasında öğrenme, bellek pekiştirme, rüya içeriği ve güncel bilimsel araştırmalar hakkında kapsamlı bilgiler.",
+    "Rüyalar ve bellek arasındaki ilişki nedir? Uyku sırasında bellek konsolidasyonu, yeni öğrenilenlerin rüyalara girmesi ve güncel araştırmaların ne söylediğini inceleyin.",
 };
 
 const sources = [
@@ -27,35 +27,48 @@ const sources = [
     url: "https://pubmed.ncbi.nlm.nih.gov/38941924/",
   },
   {
-    authors: "Eichenlaub, J.-B. et al. (2023)",
+    authors: "Picard-Deland, C. et al. (2023)",
     title:
       "The memory sources of dreams: serial awakenings across sleep stages and time of night",
-    journal: "Sleep, 46(2).",
-    detail: "PMCID PMC10091095",
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10091095/",
+    journal: "Sleep, 46(4), zsac292.",
+    detail:
+      "PMID 36462190 · PMCID PMC10091095 · DOI 10.1093/sleep/zsac292",
+    url: "https://pubmed.ncbi.nlm.nih.gov/36462190/",
   },
   {
     authors: "Wamsley, E. J. & Stickgold, R. (2011)",
-    title: "Memory, sleep and dreaming: experiencing consolidation",
+    title: "Memory, Sleep and Dreaming: Experiencing Consolidation",
     journal: "Sleep Medicine Clinics, 6(1), 97–108.",
-    detail: "Related review literature on sleep, memory and dreaming",
-    url: "https://pubmed.ncbi.nlm.nih.gov/21243074/",
+    detail:
+      "PMID 21516215 · PMCID PMC3079906 · DOI 10.1016/j.jsmc.2010.12.008",
+    url: "https://pubmed.ncbi.nlm.nih.gov/21516215/",
   },
   {
-    authors: "Scullin, M. K. et al. (2018)",
+    authors: "Wamsley, E. J. et al. (2010)",
     title:
-      "The effects of sleep on memory and learning",
-    journal: "Related experimental and review literature.",
-    detail: "Sleep-dependent memory research",
-    url: "https://pubmed.ncbi.nlm.nih.gov/29420982/",
+      "Dreaming of a Learning Task Is Associated with Enhanced Sleep-Dependent Memory Consolidation",
+    journal: "Current Biology, 20(9), 850–855.",
+    detail:
+      "PMID 20417102 · PMCID PMC2869395 · DOI 10.1016/j.cub.2010.03.027",
+    url: "https://pubmed.ncbi.nlm.nih.gov/20417102/",
   },
   {
-    authors: "Tamminen, J. et al. (2017)",
+    authors: "Wamsley, E. J. & Stickgold, R. (2019)",
     title:
-      "Sleep spindle activity is associated with the integration of new memories",
-    journal: "Journal of Sleep Research.",
-    detail: "Related research on sleep and memory integration",
-    url: "https://pubmed.ncbi.nlm.nih.gov/28240731/",
+      "Dreaming of a learning task is associated with enhanced memory consolidation: Replication in an overnight sleep study",
+    journal: "Journal of Sleep Research, 28(1), e12749.",
+    detail:
+      "PMID 30091247 · PMCID PMC6338510 · DOI 10.1111/jsr.12749",
+    url: "https://pubmed.ncbi.nlm.nih.gov/30091247/",
+  },
+  {
+    authors: "Tamminen, J. et al. (2010)",
+    title:
+      "Sleep spindle activity is associated with the integration of new memories and existing knowledge",
+    journal: "Journal of Neuroscience, 30(43), 14356–14360.",
+    detail:
+      "PMID 20980591 · PMCID PMC2989532 · DOI 10.1523/JNEUROSCI.3028-10.2010",
+    url: "https://pubmed.ncbi.nlm.nih.gov/20980591/",
   },
 ];
 
@@ -63,27 +76,27 @@ const faqs = [
   {
     question: "Rüyalar gerçekten hafızayı güçlendirir mi?",
     answer:
-      "Rüya içeriği ile bellek süreçleri arasında ilişkiler bulunduğuna dair kanıtlar vardır. Ancak rüya görmenin tek başına hafızayı güçlendirdiği veya rüyanın bellek pekiştirmenin doğrudan nedeni olduğu kesin olarak gösterilmiş değildir.",
+      "Öğrenmeyle ilişkili rüya içeriği ile daha iyi uyku sonrası bellek performansı arasında ilişki bildiren çalışmalar vardır. Ancak bu, rüya deneyiminin kendisinin belleği doğrudan güçlendirdiğini kanıtlamaz; ikisi de uyku sırasında gerçekleşen daha temel bellek süreçlerinin sonucu olabilir.",
   },
   {
-    question: "Uyurken öğrendiğimiz bilgileri rüyamızda görür müyüz?",
+    question: "Yeni öğrendiğimiz şeyler rüyalarımıza girebilir mi?",
     answer:
-      "Bazı deneylerde yeni öğrenilen bilgilerin veya öğrenmeyle ilişkili unsurların daha sonra bildirilen rüyalarda ortaya çıkabildiği görülmüştür. Ancak bu her öğrenmenin rüyaya girdiği anlamına gelmez.",
+      "Evet. Deneysel çalışmalar, uyku öncesinde öğrenilen görev veya deneyimlerin bazı katılımcıların sonraki rüya raporlarında ortaya çıkabildiğini gösteriyor. Fakat yeni öğrenilen her şey rüyaya girmez ve rüyadaki temsil çoğu zaman birebir tekrar değildir.",
   },
   {
-    question: "Rüyamda eski bir anımı gördüysem beynim onu işliyor mudur?",
+    question: "Rüyamda eski bir anıyı görmem beynimin onu işlediği anlamına gelir mi?",
     answer:
-      "Bunun mümkün olduğunu söyleyen teoriler vardır, fakat tek bir rüyanın belirli bir anıyı işlediğini kesin olarak söylemek mümkün değildir. Rüya içeriğinde bir anının bulunması ile o anının bellekte pekiştirilmesi aynı şey değildir.",
+      "Böyle bir bağlantı mümkün olsa da tek bir rüyadan bunu kesin olarak çıkaramayız. Rüyalar yakın ve uzak anı kaynaklarını, anlamsal bilgileri ve güncel yaşantıları aynı anlatıda birleştirebilir.",
   },
   {
-    question: "REM uykusu bellek için daha mı önemlidir?",
+    question: "REM uykusu mu, NREM uykusu mu bellek için daha önemli?",
     answer:
-      "Bellek pekiştirme yalnızca REM uykusuna özgü değildir. NREM uykusunun özellikle bazı evreleri de bellek süreçlerinde önemli rol oynar. Farklı bellek türleri ve farklı öğrenme görevleri farklı uyku süreçleriyle ilişkili olabilir.",
+      "Bellek konsolidasyonu tek bir uyku evresine indirgenemez. Farklı bellek türleri ve farklı işlemler REM ve NREM uykusunun farklı özellikleriyle ilişkili olabilir. Ayrıca rüya ile bellek arasındaki ilişki de yalnızca REM uykusuna özgü görünmüyor.",
   },
   {
-    question: "Rüyamda sınav çalıştığımı görmem sınavda başarılı olacağım anlamına gelir mi?",
+    question: "Rüyada bir öğrenme görevini görmek daha iyi öğrenmek anlamına gelir mi?",
     answer:
-      "Hayır. Böyle bir rüya gelecekteki performansı güvenilir biçimde öngördüğünü göstermez. Rüya, sınavla ilgili zihinsel veya duygusal meşguliyetin bir yansıması olabilir; ancak bundan geleceğe yönelik kesin bir sonuç çıkarılamaz.",
+      "Bazı deneylerde görevle ilişkili rüya içeriği daha iyi sonraki performansla birlikte görülmüştür. Araştırmacılar bunun rüyanın başarıya neden olduğunu değil, uyku sırasında gerçekleşen bellek yeniden etkinleşmesinin rüya içeriğine yansıyabileceğini düşündürdüğünü vurgular.",
   },
 ];
 
@@ -91,9 +104,9 @@ export default function DreamsMemoryPage() {
   const articleJsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: "Rüyalar ve Bellek: Uyku, Öğrenme ve Hatırlama",
+    headline: "Rüyalar ve Bellek: Uyku, Öğrenme ve Anılar",
     description:
-      "Rüyalar ile bellek süreçleri arasındaki ilişkiyi bilimsel araştırmalar üzerinden açıklayan kapsamlı rehber.",
+      "Rüyalar ile bellek konsolidasyonu arasındaki ilişkiyi, öğrenme deneyleri ve güncel araştırmalar üzerinden açıklayan kapsamlı rehber.",
     author: {
       "@type": "Organization",
       name: "INUS",
@@ -113,442 +126,482 @@ export default function DreamsMemoryPage() {
         }}
       />
 
-      <div className="mx-auto w-full max-w-4xl px-5 sm:px-8">
-
+      <div className="mx-auto w-full max-w-6xl px-5 sm:px-8">
         {/* HEADER */}
-        <header className="flex items-center justify-between py-7">
+        <header className="flex items-center justify-between py-6">
           <Link
             href="/"
-            className="text-xl font-medium tracking-[0.28em]"
+            className="text-lg font-medium tracking-[0.28em] transition hover:opacity-70"
           >
             INUS
           </Link>
 
-          <Link
-            href="/ruyalar"
-            className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
-          >
-            Rüya Kütüphanesi
-          </Link>
+          <div className="flex items-center gap-7 text-sm text-[#625c54]">
+            <Link href="/ruyalar" className="transition hover:text-[#24221f]">
+              Rüya Kütüphanesi
+            </Link>
+
+            <Link
+              href="/ruyalar/semboller"
+              className="hidden transition hover:text-[#24221f] sm:inline"
+            >
+              Rüya Sembolleri
+            </Link>
+          </div>
         </header>
 
         {/* BREADCRUMB */}
         <nav
-          className="pt-10 text-xs text-[#8a8177]"
+          className="border-t border-[#d9d2c9] pt-6 text-[11px] text-[#91887e]"
           aria-label="Breadcrumb"
         >
-          <Link href="/ruyalar" className="hover:text-[#24221f]">
-            Rüyalar
+          <Link href="/ruyalar" className="transition hover:text-[#24221f]">
+            Rüya Kütüphanesi
           </Link>
-
           <span className="mx-2">/</span>
-
           <span>Rüyalar ve bellek</span>
         </nav>
 
         {/* HERO */}
-        <header className="pb-14 pt-10 sm:pb-18 sm:pt-14">
-          <p className="mb-5 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
-            RÜYA VE BELLEK
-          </p>
+        <header className="pb-14 pt-12 sm:pb-20 sm:pt-16">
+          <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:gap-14">
+            <div>
+              <p className="mb-5 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                RÜYA VE BELLEK
+              </p>
 
-          <h1 className="max-w-3xl text-5xl font-light tracking-tight sm:text-6xl">
-            Rüyalar ve bellek
-          </h1>
+              <h1 className="max-w-xl text-[52px] font-light leading-[0.98] tracking-[-0.045em] sm:text-[68px] md:text-[78px]">
+                Rüyalar ve bellek
+              </h1>
+            </div>
 
-          <p className="mt-7 max-w-3xl text-lg font-light leading-8 text-[#686158]">
-            Uyku sırasında beynimiz yalnızca dinlenmez. Öğrenilen bilgilerin
-            yeniden işlenmesi, anıların düzenlenmesi ve farklı bilgi parçaları
-            arasındaki ilişkilerin güçlenmesi gibi süreçler de uykuyla
-            ilişkilendirilmiştir.
-          </p>
+            <div className="flex flex-col justify-end">
+              <p className="max-w-2xl text-[17px] font-light leading-8 text-[#625c54]">
+                Uyku, yeni anıların yalnızca saklandığı pasif bir ara değildir.
+                Bellek izleri yeniden etkinleşebilir, güçlenebilir ve mevcut
+                bilgilerle bütünleşebilir. Rüyalar da kimi zaman bu işlemenin
+                öznel bir izini taşıyor olabilir.
+              </p>
 
-          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#817970]">
-            Peki rüyalar bu süreçlerin bir parçası mı? Araştırmalar ilginç
-            ilişkiler gösteriyor; ancak rüya ile bellek arasındaki nedensel
-            bağlantı hâlâ tam olarak çözülmüş değil.
-          </p>
+              <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#81786e]">
+                Fakat önemli ayrım şu: Uyku belleği yeniden düzenler; rüyaların
+                bu sürecin nedeni olduğu ise gösterilmiş değildir.
+              </p>
+            </div>
+          </div>
         </header>
 
         {/* KEY POINT */}
-        <section className="mb-10 rounded-[28px] bg-[#292621] px-7 py-9 text-white sm:px-10">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
-            TEMEL AYRIM
+        <section className="border-t border-[#d9d2c9] py-10 sm:py-12">
+          <p className="text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+            KISA CEVAP
           </p>
 
-          <h2 className="mt-4 text-2xl font-light">
-            Rüyada bir anının görünmesi, o anının kesin olarak pekiştirildiği
-            anlamına gelmez.
+          <h2 className="mt-4 max-w-3xl text-2xl font-light leading-tight tracking-[-0.025em]">
+            Rüyalar belleğin kendisi değil; bazı durumlarda uyku sırasında
+            çalışan bellek süreçlerine açılan bir pencere olabilir.
           </h2>
 
-          <p className="mt-4 max-w-3xl text-sm leading-7 text-[#d4cec5]">
-            Rüya içeriği ile bellek süreçleri arasında ilişki bulunabilir.
-            Ancak korelasyon, yani iki olayın birlikte görülmesi, birinin
-            diğerine neden olduğunu kanıtlamaz.
+          <p className="mt-4 max-w-3xl text-[14px] leading-7 text-[#625c54]">
+            Yeni öğrenilen bir görev rüyaya girebilir ve bu tür rüyalar daha iyi
+            sonraki performansla ilişkili olabilir. Ama “rüyayı gördüğüm için
+            daha iyi öğrendim” demek için elimizde yeterli nedensel kanıt yok.
           </p>
         </section>
 
         {/* ARTICLE */}
-        <article className="rounded-[30px] border border-[#d9d1c7] bg-[#faf8f4] px-7 py-10 sm:px-12 sm:py-14">
-
-          <div className="space-y-12 text-[15px] leading-8 text-[#454039]">
-
+        <article className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <div className="divide-y divide-[#d9d2c9] text-[15px] leading-8 text-[#454039] [&>section]:py-12 [&>section:first-child]:pt-0 [&>section:last-child]:pb-0 lg:[&>section]:grid lg:[&>section]:grid-cols-[0.9fr_1.1fr] lg:[&>section]:gap-x-14 lg:[&>section>h2]:col-start-1 lg:[&>section>h2]:row-start-1 lg:[&>section>:not(h2)]:col-start-2">
             {/* 1 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Uyku ile bellek arasında nasıl bir ilişki var?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Uyku neden bellek için önemli?
               </h2>
 
               <p className="mt-5">
-                Yeni bir şey öğrendiğimizde beynimiz bu bilgiyi yalnızca
-                uyanıkken kullanmaz. Uyku sırasında yeni öğrenilen bilgilerin
-                yeniden etkinleştirilmesi ve mevcut bilgilerle bütünleştirilmesi
-                gibi süreçlerin gerçekleşebildiğine dair güçlü kanıtlar
-                bulunuyor.
+                Yeni bir bilgi öğrendiğimizde ortaya çıkan bellek izi hemen
+                değişmez ve kalıcı bir kayıt hâline gelmez. Sonraki saatlerde
+                ve özellikle uyku sırasında bu izlerin yeniden etkinleşmesi,
+                güçlenmesi ve mevcut bilgi ağlarıyla bütünleşmesi gibi süreçler
+                gerçekleşebilir.
               </p>
 
               <p className="mt-4">
-                Bu süreç genel olarak <strong>bellek konsolidasyonu</strong>
-                olarak adlandırılır. Konsolidasyon, yeni oluşmuş bellek
-                izlerinin zaman içinde daha kararlı ve kullanılabilir hâle
-                gelmesiyle ilişkilidir.
+                Bu dönüşüm genel olarak <strong>bellek konsolidasyonu</strong>{" "}
+                başlığı altında incelenir. Konsolidasyon tek bir mekanizma
+                değildir; farklı bellek türleri farklı sinirsel süreçlerden
+                yararlanabilir.
               </p>
 
               <p className="mt-4">
-                Ancak bellek tek bir sistem değildir. Örneğin bir telefon
-                numarasını öğrenmek, bisiklete binmeyi öğrenmek ve çocuklukta
-                yaşanan bir olayı hatırlamak farklı bellek süreçleri
-                içerebilir.
+                Tamminen ve arkadaşlarının 2010 çalışması buna iyi bir örnek:
+                yeni öğrenilen sözcüklerin mevcut sözcük bilgisiyle
+                bütünleşmesi uyku sonrasında belirginleşti ve gece içindeki
+                uyku iğciği etkinliği bu bütünleşmeyle ilişkili bulundu.
               </p>
             </section>
 
             {/* 2 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Peki rüyalar bunun neresinde?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Rüya ile bellek arasındaki kritik ayrım
               </h2>
 
               <p className="mt-5">
-                Rüyaların bellekle ilişkili olabileceğini düşündüren önemli
-                bulgulardan biri, yakın zamanda yaşanan veya öğrenilen
-                deneyimlerin rüya içeriklerinde ortaya çıkabilmesidir.
+                Uyku sırasında bellek işleniyor olabilir ve aynı gece bir rüya
+                görülebilir. Bu iki olayın birlikte gerçekleşmesi, rüyanın
+                belleği işleyen mekanizma olduğu anlamına gelmez.
               </p>
 
               <p className="mt-4">
-                Bir kişi gün içinde yeni bir yerde bulunmuşsa, yeni bir insanla
-                tanışmışsa veya önemli bir bilgi öğrenmişse, bunların rüyada
-                doğrudan veya dönüştürülmüş biçimde ortaya çıkması mümkündür.
+                Wamsley ve Stickgold’un 2011 derlemesi, yeni kodlanan anıların
+                uyuyan beyinde yeniden etkinleştiğini ve bu süreçlerin rüya
+                içeriğine yansıyabileceğini tartışır. Bu yaklaşımda rüya,
+                konsolidasyonun kendisinden çok, altta çalışan bellek
+                etkinliğinin deneyimlenen yüzü olabilir.
               </p>
 
-              <p className="mt-4">
-                Bu olgu bazen <strong>day-residue</strong>, yani gün artığı
-                olarak adlandırılan rüya içeriğiyle ilişkilendirilir.
-              </p>
-
-              <p className="mt-4">
-                Fakat rüyada bir olayın ortaya çıkması ile o olayın bellekte
-                pekiştirilmesi aynı şey değildir.
-              </p>
-
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
+              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
                 <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Örnek:</strong> Yeni öğrendiğiniz bir yabancı
-                  kelimeyi rüyanızda görmeniz, beyninizin bu kelimeyi
-                  işlediğini düşündürebilir. Ancak yalnızca rüyanın içeriğine
-                  bakarak kelimenin bellekte daha iyi depolandığını
-                  söyleyemezsiniz.
+                  <strong>Temel ayrım:</strong> “Bu anı rüyama girdi” ile “Bu
+                  anı rüya sayesinde pekişti” aynı iddia değildir.
                 </p>
               </div>
             </section>
 
             {/* 3 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                2023 meta-analizi bize ne söylüyor?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Yeni öğrenilen şeyler rüyaya nasıl girebilir?
               </h2>
 
               <p className="mt-5">
-                Hudachek ve Wamsley tarafından 2023 yılında yayımlanan
-                meta-analiz, öğrenmeyle ilişkili rüya içeriği ile uyku sonrası
-                bellek performansı arasındaki ilişkiyi inceleyen çalışmaları
-                bir araya getirdi.
+                Uyku öncesinde yaşanan veya öğrenilen deneyimlerin parçaları
+                sonraki rüyalarda ortaya çıkabilir. Ancak rüya bunları çoğu
+                zaman birebir yeniden oynatmaz.
               </p>
 
               <p className="mt-4">
-                Araştırmacılar 16 çalışmadan elde edilen toplam 45 etki
-                büyüklüğünü değerlendirdi ve öğrenmeyle ilişkili rüyalar ile
-                daha iyi uyku sonrası bellek performansı arasında anlamlı bir
-                ilişki bildirdi.
+                Yeni bir mekân başka bir mekânla birleşebilir, öğrenilen bir
+                görev farklı bir hikâyenin içine yerleşebilir veya yalnızca
+                deneyimin belirli bir ayrıntısı rüyada kalabilir.
               </p>
 
               <p className="mt-4">
-                Bu sonuç ilginç olsa da “rüya görmek belleği güçlendirir”
-                sonucunu tek başına kanıtlamaz.
+                Bu nedenle rüyalardaki bellek izlerini “video kaydı” gibi değil,
+                seçilmiş ve yeniden düzenlenmiş malzeme gibi düşünmek daha
+                güvenlidir.
               </p>
-
-              <p className="mt-4">
-                Çünkü rüya içeriği, uykunun kendisi ve bellek konsolidasyonu
-                aynı anda gerçekleşen süreçler olabilir. Rüyanın kendisinin
-                nedensel rolünü diğer uyku süreçlerinden ayırmak oldukça
-                zordur.
-              </p>
-
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
-                <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Bilimsel sonuç:</strong> Rüyalar ile bellek arasında
-                  anlamlı bir ilişki olduğuna dair kanıt vardır. Ancak
-                  ilişkinin mekanizması ve rüyanın nedensel rolü hâlâ
-                  araştırılmaktadır.
-                </p>
-              </div>
             </section>
 
             {/* 4 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                2024 araştırmaları neden hâlâ temkinli?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                2023 meta-analizi ne buldu?
               </h2>
 
               <p className="mt-5">
-                2024 yılında yayımlanan bir değerlendirme, rüya ve bellek
-                konsolidasyonu literatürünün ilerlediğini ancak araştırmaların
-                önemli metodolojik sınırlamaları olduğunu vurguladı.
+                Hudachek ve Wamsley’nin 2023 meta-analizi, uyku öncesinde bir
+                öğrenme görevi kullanan 16 çalışmadaki toplam 45 etkiyi
+                birleştirdi.
               </p>
 
               <p className="mt-4">
-                Rüya içeriğini ölçmek kolay değildir. Araştırmacılar çoğu
-                zaman kişilerin uyandıktan sonra anlattıkları rüyalara
-                güvenmek zorundadır. Bu ise hem hatırlama hem de raporlama
-                süreçlerini araştırmanın içine dahil eder.
+                Görevle ilişkili rüya içeriği bildiren kişilerin uyku sonrası
+                bellek performansının genel olarak daha iyi olduğu bulundu.
+                Birleştirilmiş etki orta büyüklükteydi.
               </p>
 
               <p className="mt-4">
-                Ayrıca bir kişinin rüyasında belirli bir anının bulunması,
-                beynin o anıyı uykuda nasıl işlediğini doğrudan göstermeyebilir.
+                Polisomnografi kullanan çalışmaların alt analizinde ilişki NREM
+                rüyalarında anlamlıydı; REM rüyalarında ise anlamlı değildi.
+                Bu sonuç, rüya-bellek bağını yalnızca REM uykusuna bağlayan
+                basit açıklamalara karşı da önemli bir uyarı.
               </p>
+
+              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
+                <p className="text-sm leading-7 text-[#625c54]">
+                  <strong>Ne kanıtlıyor?</strong> Öğrenmeyle ilişkili rüya
+                  içeriği ile sonraki bellek performansı arasında güvenilir bir
+                  ilişki olabileceğini. <strong>Ne kanıtlamıyor?</strong>{" "}
+                  Rüyanın kendisinin daha iyi belleğe neden olduğunu.
+                </p>
+              </div>
             </section>
 
             {/* 5 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Uyku sırasında öğrenilen şeyler rüyaya girebilir mi?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Sanal labirent deneyleri neden önemli?
               </h2>
 
               <p className="mt-5">
-                Bazı deneylerde katılımcılar uyku öncesinde belirli bilgiler
-                veya deneyimlerle karşılaştırılıyor ve daha sonra rüyalarında
-                bu öğrenme materyaliyle ilişkili içerikler raporlayabiliyor.
+                Wamsley ve arkadaşlarının 2010 çalışmasında katılımcılar sanal
+                bir labirentte gezinmeyi öğrendi. Ardından bir grup kısa bir
+                uyku uyudu ve rüya raporları toplandı.
               </p>
 
               <p className="mt-4">
-                Bu durum, beynin uyku sırasında yeni edinilmiş bilgileri
-                yeniden etkinleştirebildiği düşüncesiyle uyumludur.
+                Öğrenme göreviyle ilişkili rüya içeriği bildiren uyuyan
+                katılımcılar, daha sonraki labirent testinde daha büyük
+                performans artışı gösterdi. Uyanıkken görevi düşünmek aynı
+                ilişkiyi göstermedi.
               </p>
 
               <p className="mt-4">
-                Ancak burada da önemli bir sınır vardır: Rüyanın öğrenilen
-                materyalle ilişkili olması, rüyanın o materyali “öğretmek” veya
-                “hafızaya kaydetmek” amacıyla oluştuğu anlamına gelmez.
+                Araştırmacılar özellikle rüyanın performans artışına neden
+                olduğunu iddia etmedi. Bunun yerine hem görevle ilişkili rüya
+                içeriğinin hem de gelişmiş performansın, uyku sırasında çalışan
+                ortak bir bellek yeniden etkinleşmesi ve konsolidasyon
+                sürecinden kaynaklanabileceğini önerdiler.
+              </p>
+
+              <p className="mt-4">
+                Daha sonraki gece uykusu çalışması da görevle ilişkili rüya
+                içeriği ile ertesi sabahki performans artışı arasındaki bu
+                ilişkiyi yeniden gösterdi.
               </p>
             </section>
 
             {/* 6 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                REM ve NREM bellekte farklı roller oynuyor mu?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Rüyalar anıları birebir tekrar mı eder?
               </h2>
 
               <p className="mt-5">
-                Uyku tek tip bir durum değildir. REM ve NREM uykusu farklı
-                nörofizyolojik özelliklere sahiptir ve bellek araştırmalarında
-                farklı öğrenme türleriyle ilişkileri incelenmektedir.
+                Genellikle hayır. Uyku sırasında bellek yeniden etkinleşmesi,
+                rüyada uyanık deneyimin eksiksiz ve kronolojik bir tekrarına
+                dönüşmek zorunda değildir.
               </p>
 
               <p className="mt-4">
-                Özellikle NREM uykusunun bazı evreleri, yeni öğrenilen bilgilerin
-                yeniden etkinleştirilmesi ve uzun süreli belleğe
-                bütünleştirilmesi açısından önemli görülmektedir.
+                Wamsley ve Stickgold’un çalışmalarında da rüya içeriğinin yakın
+                deneyimlerin doğrudan kopyası olmaktan çok parçalı ve
+                dönüştürülmüş biçimlerde ortaya çıkabildiği vurgulanır.
               </p>
 
               <p className="mt-4">
-                REM uykusu ise özellikle duygusal bellek ve daha karmaşık
-                ilişkilerin işlenmesi bağlamında araştırılmıştır.
-              </p>
-
-              <p className="mt-4">
-                Ancak “NREM bellektir, REM duygudur” gibi keskin bir ayrım
-                yapmak doğru değildir. Gerçek biyolojik süreçler bu kadar
-                basit değildir ve uyku evreleri birbirinden tamamen bağımsız
-                çalışmaz.
+                Bu özellik, rüyalarda neden farklı zamanlardan insanların,
+                mekânların ve olayların aynı anlatı içinde birleşebildiğini
+                açıklamaya yardımcı olabilir.
               </p>
             </section>
 
             {/* 7 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Rüyalar eski anıları neden yeniden canlandırabilir?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Gece ilerledikçe anı kaynakları değişiyor mu?
               </h2>
 
               <p className="mt-5">
-                Rüyalarda yalnızca son birkaç günün olayları görülmez.
-                Çocukluk anıları, yıllar önce tanınmış kişiler veya uzun
-                süredir düşünülmeyen mekânlar da rüya içeriğinde ortaya
-                çıkabilir.
+                Picard-Deland ve arkadaşlarının 2023 çalışması bu soruyu
+                doğrudan inceledi. Yirmi katılımcı bir gece laboratuvarda
+                yaklaşık 12 kez uyandırıldı ve farklı uyku evrelerinden rüya
+                raporları toplandı.
               </p>
 
               <p className="mt-4">
-                Bunun bir açıklaması, rüyanın yalnızca tek bir anıyı yeniden
-                oynatmak yerine farklı bellek parçalarını birleştirebilmesidir.
+                Yakın zamanda yaşanan olaylardan gelen anı kaynakları N1 ve REM
+                rüyalarında diğer evrelere göre daha sık bulundu.
               </p>
 
               <p className="mt-4">
-                Bu nedenle rüyalarda zaman açısından birbirinden çok uzak
-                kişilerin veya olayların aynı hikâyede bulunması şaşırtıcı
-                değildir.
+                Daha dikkat çekici olarak, gece ilerledikçe rüyalardaki yakın
+                anıların göreli oranı azaldı; bir haftadan daha eski anıların
+                göreli oranı arttı. Bu değişim uyku evresinden bağımsız olarak
+                görüldü.
               </p>
 
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
-                <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Örnek:</strong> Çocukluk evinizde, bugün tanıdığınız
-                  bir arkadaşınızla birlikte olduğunuzu görebilirsiniz.
-                  Beyin için bu iki anının aynı rüya içinde birleşmesi,
-                  uyanık yaşamın kronolojik mantığına uymasa da rüya deneyimi
-                  açısından mümkündür.
-                </p>
-              </div>
+              <p className="mt-4">
+                Bu sonuçlar rüya malzemesinin gece boyunca sabit bir havuzdan
+                çekilmediğini, zaman içinde farklı bellek kaynaklarının ağırlık
+                kazanabildiğini düşündürüyor.
+              </p>
             </section>
 
             {/* 8 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Rüya görmek ile hatırlamak arasındaki fark
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                REM mi, NREM mi?
               </h2>
 
               <p className="mt-5">
-                Bir önceki INUS makalesinde ele aldığımız gibi, rüyanın
-                hatırlanması ayrı bir bellek problemidir.
+                Bellek konsolidasyonunu tek bir uyku evresine bağlamak doğru
+                değil. NREM uykusundaki yavaş dalgalar, uyku iğcikleri ve bellek
+                yeniden etkinleşmesi gibi süreçler uzun süredir araştırılıyor;
+                REM uykusu da özellikle duygusal ve ilişkisel bellek
+                bağlamlarında inceleniyor.
               </p>
 
               <p className="mt-4">
-                Bu nedenle sabah hatırladığınız rüya, gece boyunca gerçekleşmiş
-                olabilecek tüm rüya deneyimlerini temsil etmeyebilir.
-              </p>
-
-              <p className="mt-4">
-                Bu ayrım rüya ve bellek araştırmaları açısından son derece
-                önemlidir. Araştırmacı yalnızca hatırlanan rüyalara bakarsa,
-                hatırlanmayan rüya deneyimlerini veri setinin dışında bırakmış
-                olur.
+                Rüya-bellek ilişkisi açısından da tek bir evreye indirgeme
+                sorunlu. 2023 meta-analizinin NREM alt bulgusu ilginç olsa da,
+                mevcut çalışmaların sayısı ve yöntemsel çeşitliliği nedeniyle
+                bunu “NREM rüyaları belleği güçlendirir” şeklinde okumamak
+                gerekir.
               </p>
             </section>
 
             {/* 9 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Rüyalar geleceği tahmin edebilir mi?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Eski ve yeni anılar neden birleşir?
               </h2>
 
               <p className="mt-5">
-                Bellek ile rüya arasındaki ilişki, bazen rüyaların gelecekteki
-                olayları önceden bildirdiği şeklinde yorumlanabiliyor. Ancak
-                bilimsel açıdan bu sonuç desteklenmiyor.
+                Bellek yalnızca bilgiyi korumakla kalmaz; yeni bilgiyi mevcut
+                bilgiyle ilişkilendirerek daha kullanılabilir hâle de getirir.
+                Bu nedenle uyku araştırmalarında yalnızca “hatırlama” değil,
+                entegrasyon da önemlidir.
               </p>
 
               <p className="mt-4">
-                Bir rüyanın daha sonra gerçekleşmiş gibi görünmesi; tesadüf,
-                seçici hatırlama, olayların rüyaya sonradan benzetilmesi veya
-                kişinin zaten gelecekte gerçekleşme ihtimali yüksek bir olayı
-                zihninde önceden canlandırmış olması gibi farklı açıklamalara
-                sahip olabilir.
+                Tamminen ve arkadaşlarının sözcük öğrenme deneyinde yeni
+                sözcüklerin mevcut zihinsel sözlüğe entegrasyonu uyku
+                sonrasında belirginleşti ve bu bütünleşme uyku iğciği
+                etkinliğiyle ilişkiliydi.
               </p>
 
               <p className="mt-4">
-                Belleğin uyku sırasında işlenmesi ile geleceğin bilinmesi
-                birbirinden tamamen farklı iddialardır.
+                Rüyalardaki eski-yeni karışımları bu tür süreçlerin doğrudan
+                kanıtı değildir; ama uyuyan beynin yeni malzemeyi mevcut bilgi
+                ağlarından tamamen ayrı tutmadığı fikriyle uyumludur.
               </p>
             </section>
 
             {/* 10 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                INUS rüyalar ve bellek ilişkisine nasıl bakıyor?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Rüyaya giren anı daha önemli midir?
               </h2>
 
               <p className="mt-5">
-                INUS için bilimsel araştırmalar önemli bir bağlam sağlar;
-                ancak bir rüyadaki her kişinin veya olayın otomatik olarak
-                belirli bir anıyı temsil ettiği varsayılmaz.
+                Araştırmalar, rüyaya giren her anının diğerlerinden daha önemli
+                veya daha kalıcı olduğunu göstermez.
               </p>
 
               <p className="mt-4">
-                Bir rüyada geçmişten bir kişinin görülmesi durumunda öncelikle
-                kişinin o kişiyle ilgili kişisel çağrışımları, rüyadaki
-                duygusu ve o kişinin hikâyedeki rolü dikkate alınır.
+                Bir anının rüya raporunda bulunması; yakınlık, duygusal önem,
+                son dönemde yeniden düşünülmüş olması veya uyku sırasında
+                yeniden etkinleşen ağlarla ilişkisi gibi birçok etkene bağlı
+                olabilir.
               </p>
 
               <p className="mt-4">
-                Bilim bize belleğin uyku sırasında nasıl işlenebileceği
-                hakkında genel bir çerçeve sunabilir. Fakat tek bir kişinin
-                rüyasındaki belirli bir anının neden ortaya çıktığını bu
-                araştırmalardan doğrudan çıkarmak mümkün değildir.
+                Üstelik hatırlanmayan rüyaları göremediğimiz için, hangi bellek
+                öğelerinin gerçekten rüya deneyimine girdiğini eksiksiz
+                bilmiyoruz.
+              </p>
+            </section>
+
+            {/* 11 */}
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Rüya hatırlama araştırmayı neden zorlaştırıyor?
+              </h2>
+
+              <p className="mt-5">
+                Rüya araştırmacısı çoğu zaman rüyanın kendisine değil, kişinin
+                uyandıktan sonra hatırlayıp anlattığı rapora ulaşır.
               </p>
 
-              <blockquote className="mt-7 border-l-2 border-[#9b9186] pl-6 text-xl font-light leading-8 text-[#625c54]">
-                “Bir rüyanın geçmişten bir şeyi taşıması, onun yalnızca geçmiş
-                hakkında olduğu anlamına gelmez.”
+              <p className="mt-4">
+                Bu yüzden “rüyada görülmedi” ile “görüldü ama hatırlanmadı”
+                arasında her zaman kesin ayrım yapılamaz. Laboratuvarda sık
+                uyandırma yöntemlerinin kullanılmasının nedenlerinden biri de
+                bu kaybı azaltmaktır.
+              </p>
+
+              <p className="mt-4">
+                Bloxham ve Horton’un 2024 değerlendirmesi de rüya-bellek
+                araştırmalarındaki yöntemsel farklılıkların sonuçların
+                karşılaştırılmasını zorlaştırdığını ve daha tutarlı deneysel
+                yaklaşımlara ihtiyaç olduğunu vurguluyor.
+              </p>
+            </section>
+
+            {/* 12 */}
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                INUS rüyalar ve belleğe nasıl yaklaşıyor?
+              </h2>
+
+              <p className="mt-5">
+                INUS, rüyada görülen her kişi veya mekânı otomatik olarak
+                “bellekte işlenen bir anı” diye etiketlemez.
+              </p>
+
+              <p className="mt-4">
+                Geçmişten bir kişi rüyada görünüyorsa o kişinin neyi
+                çağrıştırdığı, rüyadaki rolü, uyandırdığı duygu ve güncel
+                yaşamla bağlantısı birlikte değerlendirilir.
+              </p>
+
+              <p className="mt-4">
+                Bilimsel literatür burada önemli bir sınır çizer: uyku sırasında
+                bellek yeniden etkinleşebilir ve bu etkinlik rüyalara
+                yansıyabilir; fakat tek bir rüyanın hangi anıyı neden seçtiğini
+                laboratuvar bulgularından doğrudan çıkaramayız.
+              </p>
+
+              <blockquote className="mt-8 border-l border-[#9b9186] py-1 pl-6 text-xl font-light leading-8 tracking-[-0.015em] text-[#625c54]">
+                “Rüya geçmişi kopyalamak zorunda değildir; geçmişten parçaları
+                bugünün zihinsel bağlamında yeniden bir araya getirebilir.”
               </blockquote>
             </section>
 
             {/* SUMMARY */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Kısaca ne biliyoruz?
               </h2>
 
               <div className="mt-6 grid gap-4 sm:grid-cols-2">
-                <div className="rounded-2xl bg-[#eee8df] p-6">
+                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
-                    DAHA GÜÇLÜ BULGULAR
+                    DAHA GÜÇLÜ DAYANAK
                   </p>
 
                   <ul className="mt-4 space-y-3 text-sm leading-7 text-[#625c54]">
                     <li>
-                      • Uyku sırasında bellekle ilişkili yeniden işleme
-                      süreçleri gerçekleşebilir.
+                      • Uyku, yeni anıların konsolidasyonu ve entegrasyonuyla
+                      ilişkilidir.
                     </li>
                     <li>
-                      • Öğrenmeyle ilişkili içerikler rüyalarda ortaya
-                      çıkabilir.
+                      • Yeni öğrenilen deneyimler sonraki rüyalara girebilir.
                     </li>
                     <li>
-                      • Rüya içeriği ile uyku sonrası bellek performansı
-                      arasında ilişkiler bulunmuştur.
+                      • Görevle ilişkili rüya içeriği daha iyi sonraki bellek
+                      performansıyla ilişkili bulunmuştur.
                     </li>
                     <li>
-                      • Farklı uyku evreleri bellek süreçlerine farklı
-                      katkılarda bulunabilir.
+                      • Rüyalar yakın ve uzak bellek kaynaklarını aynı anlatıda
+                      birleştirebilir.
                     </li>
                   </ul>
                 </div>
 
-                <div className="rounded-2xl bg-[#eee8df] p-6">
+                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
                   <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
                     HÂLÂ AÇIK
                   </p>
 
                   <ul className="mt-4 space-y-3 text-sm leading-7 text-[#625c54]">
                     <li>
-                      • Rüyaların bellek konsolidasyonundaki doğrudan rolü nedir?
+                      • Rüya deneyiminin konsolidasyonda nedensel bir rolü var
+                      mı?
                     </li>
                     <li>
-                      • Rüya görmek mi, yoksa uykunun diğer süreçleri mi daha
-                      belirleyicidir?
+                      • Hangi anıların rüyaya gireceğini ne belirliyor?
                     </li>
                     <li>
-                      • Rüya içeriği neden bazı anıları seçiyor?
+                      • Farklı uyku evrelerindeki rüyaların bellekle ilişkisi
+                      nasıl değişiyor?
                     </li>
                     <li>
-                      • Rüyaların bellek üzerindeki nedensel etkisi ne kadar?
+                      • Hatırlanmayan rüyalar araştırma tablosunu ne kadar
+                      değiştiriyor?
                     </li>
                   </ul>
                 </div>
@@ -558,40 +611,41 @@ export default function DreamsMemoryPage() {
         </article>
 
         {/* SOURCES */}
-        <section className="py-16 sm:py-20">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             KAYNAKLAR
           </p>
 
-          <h2 className="mt-4 text-3xl font-light">
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
             Araştırma ve literatür
           </h2>
 
-          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#686158]">
-            Bu sayfadaki bilgiler; rüya içeriği, uyku sırasında bellek
-            konsolidasyonu, öğrenme ve rüya hatırlama üzerine deneysel
-            çalışmalar ve bilimsel derlemeler temel alınarak hazırlanmıştır.
+          <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#6f675e]">
+            Bu sayfa uyku ve bellek konsolidasyonu, öğrenme içeriğinin
+            rüyalara dahil olması, rüyalardaki bellek kaynakları ve görevle
+            ilişkili rüyaların sonraki performansla ilişkisi üzerine hakemli
+            araştırmalar ve bilimsel derlemeler temel alınarak hazırlanmıştır.
           </p>
 
-          <div className="mt-8 space-y-5">
+          <div className="mt-10 grid gap-x-10 gap-y-8 md:grid-cols-2">
             {sources.map((source) => (
               <article
                 key={source.title}
-                className="rounded-2xl border border-[#ddd5cb] bg-[#faf8f4] p-6"
+                className="border-t border-[#d9d2c9] pt-5"
               >
                 <p className="text-sm font-medium text-[#454039]">
                   {source.authors}
                 </p>
 
-                <p className="mt-1 text-sm leading-7 text-[#625c54]">
+                <p className="mt-2 text-[13px] leading-6 text-[#625c54]">
                   <em>{source.title}</em>
                 </p>
 
-                <p className="mt-1 text-xs text-[#8a8177]">
+                <p className="mt-2 text-xs leading-6 text-[#91887e]">
                   {source.journal}
                 </p>
 
-                <p className="mt-2 text-xs text-[#aaa198]">
+                <p className="mt-1 text-[10px] tracking-wide text-[#aaa198]">
                   {source.detail}
                 </p>
 
@@ -599,9 +653,9 @@ export default function DreamsMemoryPage() {
                   href={source.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="mt-3 inline-block text-xs text-[#625c54] underline underline-offset-4 hover:text-[#24221f]"
+                  className="mt-3 inline-block text-xs text-[#625c54] underline decoration-[#bdb4aa] underline-offset-4 transition hover:text-[#24221f]"
                 >
-                  Kaynağı görüntüle →
+                  PubMed kaydını görüntüle →
                 </a>
               </article>
             ))}
@@ -609,26 +663,26 @@ export default function DreamsMemoryPage() {
         </section>
 
         {/* FAQ */}
-        <section className="pb-16 sm:pb-20">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
             SIK SORULAN SORULAR
           </p>
 
-          <h2 className="mt-4 text-3xl font-light">
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
             Rüyalar ve bellek hakkında
           </h2>
 
-          <div className="mt-8 space-y-4">
+          <div className="mt-10 overflow-hidden rounded-xl border border-[#d9d1c7] bg-[#faf8f4]">
             {faqs.map((faq) => (
               <article
                 key={faq.question}
-                className="rounded-[24px] border border-[#d9d1c7] bg-[#faf8f4] p-6"
+                className="border-b border-[#ded6cc] p-6 last:border-b-0 sm:p-7"
               >
-                <h3 className="text-lg font-normal">
+                <h3 className="text-lg font-light tracking-[-0.015em]">
                   {faq.question}
                 </h3>
 
-                <p className="mt-3 text-sm leading-7 text-[#686158]">
+                <p className="mt-3 max-w-4xl text-[14px] leading-7 text-[#6f675e]">
                   {faq.answer}
                 </p>
               </article>
@@ -636,28 +690,43 @@ export default function DreamsMemoryPage() {
           </div>
         </section>
 
-        {/* CTA */}
-        <section className="mb-16 rounded-[30px] bg-[#292621] px-7 py-12 text-center text-white sm:mb-20 sm:px-12">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
-            INUS
-          </p>
+        {/* DREAM BRIDGE */}
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <div className="grid gap-10 lg:grid-cols-[1fr_auto] lg:items-end">
+            <div>
+              <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                KENDİ RÜYANA DÖN
+              </p>
 
-          <h2 className="mt-4 text-3xl font-light">
-            Rüyandaki geçmişi keşfet.
-          </h2>
+              <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+                Rüyandaki anıların bağlamına bak.
+              </h2>
 
-          <p className="mx-auto mt-4 max-w-xl text-sm leading-7 text-[#d4cec5]">
-            Rüyanda geçmişten bir kişi, mekân veya olay gördüysen, onu yalnızca
-            bir sembol olarak değil, kendi yaşamındaki bağlamıyla birlikte
-            incele.
-          </p>
+              <p className="mt-5 max-w-2xl text-[15px] leading-8 text-[#625c54]">
+                Geçmişten bir kişi, yer veya olay rüyanda belirdiyse yalnızca
+                “hangi anı?” diye değil, bugün sende neyi çağrıştırdığı ve
+                rüyadaki duyguyla nasıl birleştiği açısından da inceleyebilirsin.
+              </p>
+            </div>
 
-          <Link
-            href="/"
-            className="mt-7 inline-flex rounded-full bg-white px-7 py-3 text-sm text-[#292621] transition hover:bg-[#eee8df]"
-          >
-            Rüyamı analiz et
-          </Link>
+            <div className="flex flex-wrap gap-3">
+              <Link
+                href="/"
+                className="inline-flex items-center gap-8 rounded-full bg-[#292621] px-7 py-3.5 text-sm text-white transition hover:bg-[#403b35]"
+              >
+                Rüyanı anlat
+                <span aria-hidden="true">→</span>
+              </Link>
+
+              <Link
+                href="/ruyalar/semboller"
+                className="inline-flex items-center gap-5 rounded-full border border-[#c8beb2] px-7 py-3.5 text-sm text-[#292621] transition hover:border-[#8f857a]"
+              >
+                Rüya sembollerini keşfet
+                <span aria-hidden="true">→</span>
+              </Link>
+            </div>
+          </div>
         </section>
 
         <footer className="pb-8 text-center text-xs text-[#aaa198]">

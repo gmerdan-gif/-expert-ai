@@ -4,9 +4,9 @@ export const metadata = {
   alternates: {
     canonical: "/ruyalar/ruya-sembolleri",
   },
-  title: "Rüya Sembolleri | Semboller ve Rüya Yorumu",
+  title: "Rüya Sembolleri Ne Anlama Gelir? | Jung ve Psikoloji",
   description:
-    "Rüya sembolleri gerçekten ne anlama gelir? Rüya sözlüklerinin sınırları, kişisel çağrışımlar, Jungcu yaklaşım ve modern rüya araştırmaları hakkında kapsamlı bilgiler.",
+    "Rüya sembolleri nasıl yorumlanır? Evrensel rüya sözlüklerinin sınırları, kişisel çağrışımlar, Jungcu yaklaşım ve modern rüya araştırmaları.",
 };
 
 const sources = [
@@ -14,7 +14,7 @@ const sources = [
     authors: "Hall, C. S. & Van de Castle, R. L. (1966)",
     title: "The Content Analysis of Dreams",
     journal: "Appleton-Century-Crofts.",
-    detail: "Classic systematic approach to dream content analysis",
+    detail: "Rüya raporlarının sistematik içerik analizi için klasik kaynak",
     url: "https://psycnet.apa.org/record/1967-35001-000",
   },
   {
@@ -29,31 +29,29 @@ const sources = [
     title:
       "The Scientific Study of Dreams: Neural Networks, Cognitive Development, and Content Analysis",
     journal: "American Psychological Association.",
-    detail: "Research-based approach to dream content",
+    detail: "Rüya içeriğinin bilimsel ve sistematik incelenmesine ilişkin temel eser",
     url: "https://psycnet.apa.org/record/2003-88328-000",
   },
   {
-    authors: "Blagrove, M. et al. (2019)",
+    authors: "Kahn, D. (2019)",
     title: "Reactions to Dream Content: Continuity and Non-continuity",
     journal: "Frontiers in Psychology, 10, 2676.",
-    detail: "PMID 31849778 · DOI 10.3389/fpsyg.2019.02676",
+    detail: "PMID 31849778 · PMCID PMC6901388 · DOI 10.3389/fpsyg.2019.02676",
     url: "https://pubmed.ncbi.nlm.nih.gov/31849778/",
   },
   {
     authors: "Roesler, C. (2023)",
     title:
-      "Dream interpretation and empirical dream research",
-    journal: "International Journal of Psychoanalysis.",
-    detail:
-      "Discussion of the relationship between empirical dream research and interpretation",
-    url: "https://pubmed.ncbi.nlm.nih.gov/36706129/",
+      "Dream interpretation and empirical dream research - an overview of research findings and their connections with psychoanalytic dream theories",
+    journal: "International Journal of Psychoanalysis, 104(2), 301–330.",
+    detail: "PMID 37139735 · DOI 10.1080/00207578.2023.2184268",
+    url: "https://pubmed.ncbi.nlm.nih.gov/37139735/",
   },
   {
     authors: "Jung, C. G. (1964)",
     title: "Man and His Symbols",
     journal: "Aldus Books.",
-    detail:
-      "Classic Jungian discussion of symbolic material and psychological interpretation",
+    detail: "Jungcu sembol ve yorum yaklaşımının klasik kaynaklarından biri",
     url: "https://archive.org/details/manhissymbols0000jung",
   },
 ];
@@ -62,32 +60,32 @@ const faqs = [
   {
     question: "Rüya sembollerinin herkes için aynı anlamı var mı?",
     answer:
-      "Bunu destekleyen güvenilir bir bilimsel sistem bulunmamaktadır. Aynı sembol farklı kişilerde farklı çağrışımlara sahip olabilir. Sembolün anlamını değerlendirirken kişinin kendi yaşamı ve sembolle ilişkisi önemlidir.",
+      "Hayır. Her sembol için herkeste geçerli tek bir psikolojik karşılık bulunduğunu gösteren doğrulanmış bir bilimsel sistem yoktur. Kişisel deneyim, duygu, kültür ve rüyanın bağlamı yorumda önem taşır.",
   },
   {
     question: "Rüyada yılan görmek ne anlama gelir?",
     answer:
-      "Tek bir evrensel anlamı olduğu söylenemez. Yılan bir kişi için korku, başka biri için hayranlık, dönüşüm, çocukluk anısı veya başka bir kişisel çağrışım taşıyabilir. Rüyadaki bağlam ve kişinin yılanla ilişkisi daha önemlidir.",
+      "Tek bir evrensel anlam verilemez. Yılan korku, merak, tehdit, hayranlık, kişisel bir anı veya kültürel bir çağrışımla ilişkili olabilir. Rüyada yılanın ne yaptığı ve sizin ne hissettiğiniz en az sembolün kendisi kadar önemlidir.",
   },
   {
     question: "Rüyada su görmek ne anlama gelir?",
     answer:
-      "Su için de herkes için geçerli tek bir anlam bulunmamaktadır. Suyun rüyadaki durumu, kişinin verdiği duygusal tepki ve kişisel geçmişi farklı yorumlara yol açabilir.",
+      "Suya otomatik olarak tek bir anlam vermek doğru değildir. Sakin deniz, taşkın nehir, bulanık su veya yüzülen bir havuz farklı rüya bağlamları yaratır. Kişisel çağrışım ve rüyadaki duygu birlikte değerlendirilmelidir.",
   },
   {
     question: "Rüya sözlükleri bilimsel mi?",
     answer:
-      "İnternette bulunan sabit sembol listelerinin bilimsel olarak her kişi için geçerli olduğu gösterilmiş değildir. Bunlar kültürel veya popüler yorumlar sunabilir; ancak psikolojik değerlendirme için tek başına yeterli değildir.",
+      "Sabit sembol-anlam eşleştirmelerinin herkes için geçerli olduğunu gösteren güvenilir bilimsel kanıt yoktur. Rüya sözlükleri kültürel veya tarihsel yorumlar sunabilir; ancak kişisel psikolojik anlamın kanıtı değildir.",
   },
   {
-    question: "Jung'a göre semboller neden önemlidir?",
+    question: "Jung'a göre rüya sembolleri neden önemlidir?",
     answer:
-      "Jungcu yaklaşımda semboller bilinçdışı süreçlerin ifade biçimleri olarak ele alınabilir. Ancak Jung'un yaklaşımı ile modern deneysel rüya araştırması aynı bilimsel yöntem üzerine kurulmaz. Bu nedenle Jungcu yorumları ampirik bulgularla aynı tür kanıt olarak değerlendirmemek gerekir.",
+      "Jungcu yaklaşım sembolleri bilinçdışı psikolojik süreçlerin ifade biçimleri olarak ele alabilir. Ancak Jungcu yorum, modern deneysel rüya araştırmasıyla aynı yöntem ve kanıt düzeyinde değildir.",
   },
   {
-    question: "Bir sembolün anlamını nasıl bulabilirim?",
+    question: "Bir rüya sembolünü nasıl yorumlayabilirim?",
     answer:
-      "Öncelikle sembolün sizde ne çağrıştırdığını düşünmek daha yararlıdır. Ardından sembolün rüyadaki rolü, rüyadaki diğer kişiler ve olaylar, hissettiğiniz duygu ve son dönemdeki yaşam deneyimleri birlikte değerlendirilebilir.",
+      "Önce sembolün sizde ne çağrıştırdığına, rüyada ne yaptığına, hangi duyguyu yarattığına ve rüyanın geri kalanıyla ilişkisine bakın. Daha sonra güncel yaşam bağlamınızı ve kültürel çağrışımları değerlendirin.",
   },
 ];
 
@@ -95,9 +93,9 @@ export default function DreamSymbolsPage() {
   const articleJsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: "Rüya Sembolleri: Evrensel Anlamlar Var mı?",
+    headline: "Rüya Sembolleri Ne Anlama Gelir?",
     description:
-      "Rüya sembollerinin kişisel bağlam, psikoloji ve modern rüya araştırmaları açısından incelenmesi.",
+      "Rüya sembollerinin kişisel çağrışım, kültür, Jungcu yaklaşım ve modern rüya araştırmaları açısından incelenmesi.",
     author: {
       "@type": "Organization",
       name: "INUS",
@@ -117,474 +115,338 @@ export default function DreamSymbolsPage() {
         }}
       />
 
-      <div className="mx-auto w-full max-w-4xl px-5 sm:px-8">
-
-        {/* HEADER */}
-        <header className="flex items-center justify-between py-7">
+      <div className="mx-auto w-full max-w-6xl px-5 sm:px-8">
+        <header className="flex items-center justify-between py-6">
           <Link
             href="/"
-            className="text-xl font-medium tracking-[0.28em]"
+            className="text-lg font-medium tracking-[0.28em] transition hover:opacity-70"
           >
             INUS
           </Link>
 
-          <Link
-            href="/ruyalar"
-            className="text-sm tracking-wide text-[#5d5851] transition hover:text-[#24221f]"
-          >
-            Rüya Kütüphanesi
-          </Link>
+          <div className="flex items-center gap-7 text-sm text-[#625c54]">
+            <Link href="/ruyalar" className="transition hover:text-[#24221f]">
+              Rüya Kütüphanesi
+            </Link>
+            <Link
+              href="/ruyalar/semboller"
+              className="hidden transition hover:text-[#24221f] sm:inline"
+            >
+              Rüya Sembolleri
+            </Link>
+          </div>
         </header>
 
-        {/* BREADCRUMB */}
         <nav
-          className="pt-10 text-xs text-[#8a8177]"
+          className="border-t border-[#d9d2c9] pt-6 text-[11px] text-[#91887e]"
           aria-label="Breadcrumb"
         >
-          <Link href="/ruyalar" className="hover:text-[#24221f]">
+          <Link href="/ruyalar" className="transition hover:text-[#24221f]">
             Rüyalar
           </Link>
-
           <span className="mx-2">/</span>
-
           <span>Rüya sembolleri</span>
         </nav>
 
-        {/* HERO */}
-        <header className="pb-14 pt-10 sm:pb-18 sm:pt-14">
-          <p className="mb-5 text-xs uppercase tracking-[0.35em] text-[#8a8177]">
-            RÜYA SEMBOLLERİ
-          </p>
+        <header className="pb-14 pt-12 sm:pb-20 sm:pt-16">
+          <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:gap-14">
+            <div>
+              <p className="mb-5 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                RÜYA SEMBOLLERİ
+              </p>
+              <h1 className="max-w-xl text-[52px] font-light leading-[0.98] tracking-[-0.045em] sm:text-[68px] md:text-[78px]">
+                Rüyadaki sembolün
+                <br />
+                anlamı nedir?
+              </h1>
+            </div>
 
-          <h1 className="max-w-3xl text-5xl font-light tracking-tight sm:text-6xl">
-            Rüyadaki sembolün
-            <br />
-            anlamı nedir?
-          </h1>
-
-          <p className="mt-7 max-w-3xl text-lg font-light leading-8 text-[#686158]">
-            İnternette rüya sembollerini açıklayan binlerce sözlük bulunuyor.
-            Ancak bir sembolün herkes için aynı psikolojik anlama geldiğini
-            gösteren güvenilir bir bilimsel sistem bulunmuyor.
-          </p>
-
-          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#817970]">
-            Bir sembolü anlamaya çalışırken daha önemli soru çoğu zaman
-            “Bu sembol genel olarak ne demek?” değil, “Bu sembol bu kişinin
-            hayatında ne çağrıştırıyor?” sorusudur.
-          </p>
+            <div className="flex flex-col justify-end">
+              <p className="max-w-2xl text-[17px] font-light leading-8 text-[#625c54]">
+                Bir yılan, kapı, deniz veya diş rüyada güçlü bir anlam
+                taşıyabilir. Fakat modern rüya araştırması bu görüntülerin
+                herkes için tek ve değişmez bir karşılığı olduğunu söylemiyor.
+              </p>
+              <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#81786e]">
+                Daha verimli soru çoğu zaman “Bu sembol ne demek?” değil;
+                “Bu sembol bu rüyada ne yapıyor, bende ne uyandırıyor ve
+                hayatımdaki hangi bağlama temas ediyor olabilir?” sorusudur.
+              </p>
+            </div>
+          </div>
         </header>
 
-        {/* KEY POINT */}
-        <section className="mb-10 rounded-[28px] bg-[#292621] px-7 py-9 text-white sm:px-10">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
-            INUS'UN TEMEL YAKLAŞIMI
+        <section className="border-t border-[#d9d2c9] py-10 sm:py-12">
+          <p className="text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+            INUS&apos;UN TEMEL YAKLAŞIMI
           </p>
-
-          <h2 className="mt-4 text-2xl font-light">
-            Sembolün sözlük anlamından önce kişisel anlamına bak.
+          <h2 className="mt-4 max-w-3xl text-2xl font-light leading-tight tracking-[-0.025em]">
+            Rüya sembolü hazır bir cevap değil, bağlam içinde yorumlanması
+            gereken bir veri noktasıdır.
           </h2>
-
-          <p className="mt-4 max-w-3xl text-sm leading-7 text-[#d4cec5]">
-            Aynı sembol iki farklı kişide tamamen farklı duygular ve
-            çağrışımlar yaratabilir. Bu nedenle sembolü rüyanın geri
-            kalanından ayırmak çoğu zaman yanıltıcıdır.
+          <p className="mt-4 max-w-3xl text-[14px] leading-7 text-[#625c54]">
+            Sembolün kişisel çağrışımı, rüyadaki işlevi, yarattığı duygu,
+            kültürel arka plan ve güncel yaşam bağlamı birlikte düşünüldüğünde
+            yorum daha anlamlı hâle gelir.
           </p>
         </section>
 
-        {/* ARTICLE */}
-        <article className="rounded-[30px] border border-[#d9d1c7] bg-[#faf8f4] px-7 py-10 sm:px-12 sm:py-14">
-
-          <div className="space-y-12 text-[15px] leading-8 text-[#454039]">
-
-            {/* 1 */}
+        <article className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <div className="divide-y divide-[#d9d2c9] text-[15px] leading-8 text-[#454039] [&>section]:py-12 [&>section:first-child]:pt-0 [&>section:last-child]:pb-0 lg:[&>section]:grid lg:[&>section]:grid-cols-[0.9fr_1.1fr] lg:[&>section]:gap-x-14 lg:[&>section>h2]:col-start-1 lg:[&>section>h2]:row-start-1 lg:[&>section>:not(h2)]:col-start-2">
             <section>
-              <h2 className="text-2xl font-normal">
-                Sembol nedir?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Rüya sembolü dediğimiz şey nedir?
               </h2>
-
               <p className="mt-5">
-                Sembol, bir şeyin yalnızca kendisini temsil etmekten daha geniş
-                çağrışımlar taşıyabilen bir ifade biçimidir. Rüyalarda kişiler,
-                nesneler, hayvanlar, mekânlar ve olaylar sembolik bir işlev
-                kazanabilir.
+                Rüyalar çoğu zaman insanlar, hayvanlar, nesneler, mekânlar ve
+                olaylardan oluşur. Bunların bazıları rüyayı gören kişi için
+                doğrudan görünen işlevinin ötesinde çağrışımlar taşıyabilir.
               </p>
-
               <p className="mt-4">
-                Ancak burada önemli bir ayrım vardır: Bir şeyin sembolik
-                olabilmesi, onun herkes için aynı şeyi sembolize ettiği
-                anlamına gelmez.
-              </p>
-
-              <p className="mt-4">
-                Örneğin “ev” bir kişi için güvenlik, başka biri için aile,
-                başka biri için çocukluk veya baskı anlamına gelebilir.
+                Bir ev yalnızca bir bina olmayabilir; çocukluk, güvenlik,
+                aile, yalnızlık veya bambaşka bir kişisel deneyimle
+                ilişkilendirilebilir. Fakat bu çağrışım sembolün kendisinden
+                otomatik olarak çıkmaz.
               </p>
             </section>
 
-            {/* 2 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Neden rüya sözlükleri bu kadar popüler?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Bilim rüya sembollerini nasıl inceler?
               </h2>
-
               <p className="mt-5">
-                Rüyalar karmaşık ve bazen anlaşılması güç deneyimlerdir.
-                İnsan zihni belirsiz bir deneyime hızlı ve net bir açıklama
-                getirmek ister.
+                Bilimsel rüya araştırmasının önemli bir bölümü tek tek
+                sembollere hazır anlam vermek yerine rüya raporlarının
+                içeriğini sistematik olarak inceler.
               </p>
-
               <p className="mt-4">
-                “Yılan = düşman”, “su = duygu”, “diş dökülmesi = kaygı” gibi
-                eşleştirmeler bu nedenle cazip görünür. Tek bir sembol için
-                kolayca ulaşılabilen tek bir cevap sunarlar.
+                Hall ve Van de Castle’ın klasik içerik analizi sistemi;
+                karakterler, sosyal etkileşimler, saldırganlık, dostluk,
+                başarı ve başarısızlık gibi içerik kategorilerini kodlayarak
+                rüyalar arasında karşılaştırma yapmayı amaçladı.
               </p>
-
               <p className="mt-4">
-                Sorun, bu eşleştirmelerin çoğunun kişinin bireysel bağlamını
-                dışarıda bırakmasıdır.
+                Yani araştırma “bu nesne kesin olarak şunu temsil eder” diye
+                başlamaz; önce rüyada ne bulunduğunu ve örüntülerin nasıl
+                dağıldığını ölçmeye çalışır.
               </p>
+            </section>
 
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Evrensel bir rüya sözlüğü var mı?
+              </h2>
+              <p className="mt-5">
+                Tüm insanlar için geçerli, “sembol → tek psikolojik anlam”
+                biçiminde doğrulanmış bir bilimsel sözlük bulunmuyor.
+              </p>
+              <p className="mt-4">
+                “Yılan = düşman”, “su = duygu” veya “diş dökülmesi = kaygı”
+                gibi eşleştirmeler hızlı bir cevap sunar. Ancak kişisel tarih,
+                rüyadaki olay örgüsü ve duygu hesaba katılmadığında bu cevaplar
+                kolayca aşırı kesinleşir.
+              </p>
+              <div className="mt-7 rounded-xl bg-[#eee8df] p-6 sm:p-7">
                 <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Örnek:</strong> Yılanlardan korkan birinin rüyasında
-                  yılan görmesi ile yıllardır yılan besleyen birinin aynı
-                  rüyayı görmesi aynı psikolojik deneyim olmayabilir.
+                  <strong>Kanıt sınırı:</strong> Bir sembol bazı kişilerde
+                  benzer çağrışımlar yaratabilir. Bu, aynı anlamın herkese
+                  uygulanabileceğini göstermez.
                 </p>
               </div>
             </section>
 
-            {/* 3 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Bilimsel olarak “evrensel sembol sözlüğü” var mı?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Kişisel çağrışım neden merkezde?
               </h2>
-
               <p className="mt-5">
-                Modern rüya araştırmalarında tüm insanlar için geçerli,
-                sembol → tek anlam şeklinde çalışan doğrulanmış bir sistem
-                bulunmamaktadır.
+                Aynı görüntü farklı insanların belleğinde farklı ağlara
+                bağlanır. Yılanlardan korkan biriyle yılanlara ilgi duyan
+                birinin aynı rüya görüntüsüne verdiği duygusal tepki aynı
+                olmayabilir.
               </p>
-
               <p className="mt-4">
-                Bilimsel rüya araştırmaları daha çok rüya içeriğinin
-                özelliklerini, tekrar eden temaları, duyguları, günlük
-                yaşamla ilişkileri ve bireysel farklılıkları incelemektedir.
-              </p>
-
-              <p className="mt-4">
-                Bu, sembollerin psikolojik olarak hiçbir anlam taşımadığı
-                anlamına gelmez. Yalnızca anlamın otomatik olarak sözlükten
-                alınamayacağı anlamına gelir.
+                Kişisel çağrışım tek başına “doğru yorum” üretmez; fakat
+                sembolü rastgele bir sözlük maddesine çevirmekten daha
+                bağlamsal bir başlangıç noktası sunar.
               </p>
             </section>
 
-            {/* 4 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Aynı sembol neden farklı insanlar için farklı olabilir?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Rüyanın bütünü neden tek sembolden daha önemli?
               </h2>
-
               <p className="mt-5">
-                İnsanların yaşam deneyimleri, kültürleri, ilişkileri ve
-                kişisel anıları birbirinden farklıdır.
+                Bir kapı rüyada çıkış yolu, engel, bekleyiş noktası veya merak
+                edilen bir yere geçiş olabilir. Aynı nesnenin işlevi, içinde
+                bulunduğu sahne değiştikçe değişebilir.
               </p>
-
               <p className="mt-4">
-                Bir kişinin çocukluk evinin mutfakla ilgili güçlü ve sıcak
-                anıları olabilir. Başka bir kişi için aynı mekân aile
-                çatışmalarıyla ilişkili olabilir.
-              </p>
-
-              <p className="mt-4">
-                Dolayısıyla rüyada “mutfak” görmek tek başına belirli bir
-                psikolojik durumu kanıtlamaz.
-              </p>
-
-              <p className="mt-4">
-                Sembolün kişisel çağrışımı, rüyadaki konumu ve rüyanın
-                duygusal atmosferi birlikte değerlendirilmelidir.
+                Bu yüzden “neydi?” sorusunun yanına “ne yapıyordu?”,
+                “öncesinde ne olmuştu?” ve “sonrasında ne değişti?” sorularını
+                eklemek gerekir.
               </p>
             </section>
 
-            {/* 5 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Duygu sembolün anlamını nasıl değiştirir?
+              </h2>
+              <p className="mt-5">
+                Rüyadaki olaylar tuhaf veya fiziksel olarak imkânsız olabilir;
+                buna rağmen rüya sırasında verilen duygusal tepkiler kişinin
+                uyanık yaşamındaki tepkilerle süreklilik gösterebilir.
+              </p>
+              <p className="mt-4">
+                Kahn’ın 2019 çalışması, rüya koşulları olağandışı olsa bile
+                kişinin insanlara ve olaylara verdiği duygusal tepkilerde
+                uyanık benlikle süreklilik bulunabildiğini gösterdi.
+              </p>
+              <p className="mt-4">
+                Bu nedenle “rüyada su vardı” bilgisinden çok, “suyun içinde
+                huzurlu muydum, korkuyor muydum, çıkmaya mı çalışıyordum?”
+                bilgisi yorum açısından daha ayırt edici olabilir.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Uyanık yaşam rüya içeriğine nasıl taşınır?
+              </h2>
+              <p className="mt-5">
+                Schredl’in derlemesinde ele alınan süreklilik hipotezi,
+                rüyaların uyanık yaşam deneyimleriyle çeşitli düzeylerde
+                bağlantı gösterebildiğini öne sürer. Günlük sorunlar,
+                uğraşlar ve duygusal deneyimler rüya içeriğinde iz bırakabilir.
+              </p>
+              <p className="mt-4">
+                Bu bağlantı rüyanın uyanık yaşamı birebir kopyaladığı anlamına
+                gelmez. Rüyalar kişiler, zamanlar, mekânlar ve anı parçalarını
+                alışılmadık biçimlerde birleştirebilir.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Kültür ve kişisel tarih neyi değiştirir?
+              </h2>
+              <p className="mt-5">
+                Semboller yalnızca bireysel anılardan değil; dil, aile,
+                toplumsal çevre, din, sanat ve kültürel anlatılardan da
+                çağrışımlar kazanabilir.
+              </p>
+              <p className="mt-4">
+                Aynı hayvan, renk veya nesne farklı kültürlerde farklı anlam
+                katmanlarına sahip olabilir. Fakat kültürel anlam da kişisel
+                anlamı otomatik olarak belirlemez.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Jung sembollere neden önem veriyordu?
               </h2>
-
               <p className="mt-5">
-                Carl Gustav Jung'un analitik psikolojisinde semboller önemli
-                bir yere sahiptir. Jung, rüyaların bilinçdışı süreçlerin
-                kendilerini ifade edebileceği alanlardan biri olduğunu
-                düşünüyordu.
+                Jung’un analitik psikolojisinde rüya sembolleri, bilinçli
+                tutumun dışında kalan psikolojik malzemenin ifade
+                biçimlerinden biri olarak ele alınabilir.
               </p>
-
               <p className="mt-4">
-                Jungcu yaklaşımda sembolü yalnızca tek bir sözlük karşılığına
-                indirgemek yerine, sembolün kişinin psikolojik yaşamındaki
-                ilişkisine bakmak daha önemlidir.
+                Jungcu yorum sembolü tek bir sözlük karşılığına kapatmak yerine
+                kişisel çağrışımların yanında mitolojik, kültürel ve
+                arketipsel paralelleri de araştırabilir.
               </p>
-
               <p className="mt-4">
-                Bununla birlikte Jung'un teorileri ile günümüz deneysel
-                nörobilim araştırmaları aynı metodolojik çerçeveye sahip
-                değildir.
+                Fakat bu yorumlama yöntemi modern deneysel rüya araştırmasının
+                kullandığı yöntemle aynı değildir. Teorik veya klinik bir
+                yorum, ampirik olarak doğrulanmış evrensel sembol anlamı gibi
+                sunulmamalıdır.
               </p>
-
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
-                <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Önemli ayrım:</strong> Jungcu bir yorumlayıcı
-                  yaklaşım kullanılabilir; ancak bunu “bilimsel olarak
-                  kanıtlanmış sembol anlamı” şeklinde sunmak doğru değildir.
-                </p>
-              </div>
             </section>
 
-            {/* 6 */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Arketip ile sembol aynı şey mi?
               </h2>
-
               <p className="mt-5">
-                Jungcu psikolojide arketip, sembolden daha geniş bir kavramdır.
-                Arketipler belirli bir nesnenin veya görüntünün kendisi
-                değildir; insan deneyiminde tekrar eden temel örüntülerle
-                ilişkilendirilir.
+                Jungcu kuramda arketip, tek bir görüntü veya nesneyle aynı şey
+                değildir. Daha çok insan deneyiminde tekrar eden temel
+                psikolojik örüntüleri açıklamak için kullanılan teorik bir
+                kavramdır.
               </p>
-
               <p className="mt-4">
-                Örneğin “anne”, “gölge”, “kahraman” veya “bilge kişi” gibi
-                kavramlar Jungcu literatürde arketipsel temalar olarak
-                incelenebilir.
-              </p>
-
-              <p className="mt-4">
-                Ancak rüyada görülen her anne figürünün “Anne arketipi”
-                olduğunu söylemek de doğru değildir. Yine kişinin rüyadaki
-                deneyimi ve çağrışımları önemlidir.
+                “Anne”, “gölge”, “kahraman” veya “bilge kişi” gibi figürler
+                arketipsel biçimde ele alınabilir; ancak rüyada görülen her
+                figür otomatik olarak belirli bir arketipin kanıtı değildir.
               </p>
             </section>
 
-            {/* 7 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                Bir sembolü yorumlamaya nereden başlanmalı?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                Bir sembolü adım adım nasıl inceleyebilirsin?
               </h2>
-
-              <p className="mt-5">
-                Kullanılabilecek en basit başlangıç noktası kişisel
-                çağrışımdır.
-              </p>
-
               <ol className="mt-5 space-y-4 pl-5">
-                <li>
-                  <strong>1.</strong> Bu sembol bana ilk olarak ne
-                  çağrıştırıyor?
-                </li>
-                <li>
-                  <strong>2.</strong> Bu sembolle ilgili geçmişimde önemli
-                  bir olay var mı?
-                </li>
-                <li>
-                  <strong>3.</strong> Rüyada sembol ortaya çıktığında ne
-                  hissettim?
-                </li>
-                <li>
-                  <strong>4.</strong> Sembol rüyanın hangi bölümünde ortaya
-                  çıktı?
-                </li>
-                <li>
-                  <strong>5.</strong> Rüyadaki diğer kişiler ve olaylarla
-                  nasıl bir ilişkisi vardı?
-                </li>
+                <li><strong>1.</strong> Sembolü tarif et: nasıl görünüyordu, ne yapıyordu?</li>
+                <li><strong>2.</strong> İlk kişisel çağrışımını not et.</li>
+                <li><strong>3.</strong> Ortaya çıktığında ne hissettiğini belirle.</li>
+                <li><strong>4.</strong> Öncesinde ve sonrasında ne olduğunu hatırla.</li>
+                <li><strong>5.</strong> Son günlerdeki yaşam olaylarıyla olası bağlantıları düşün.</li>
+                <li><strong>6.</strong> Kültürel veya Jungcu yorumları kesin cevap değil, karşılaştırma çerçevesi olarak değerlendir.</li>
               </ol>
-
               <p className="mt-5">
-                Bu sorular sembolü tek başına yorumlamak yerine rüyanın
-                bütününe yerleştirmeye yardımcı olur.
+                Bu yöntem “doğru cevabı” garanti etmez. Ama yorumu hazır bir
+                eşleştirmeden çıkarıp kişinin gerçek rüya deneyimine geri
+                taşır.
               </p>
             </section>
 
-            {/* 8 */}
             <section>
-              <h2 className="text-2xl font-normal">
-                “Su = duygu” neden yetersiz bir açıklama?
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
+                INUS sembolleri nasıl ele alır?
               </h2>
-
               <p className="mt-5">
-                Su gerçekten bazı rüyalarda güçlü bir sembolik işleve sahip
-                olabilir. Ancak suyun kendisine otomatik olarak “duygu”
-                anlamını vermek yeterli değildir.
+                INUS sembol sayfalarını “kesin rüya tabiri” olarak değil,
+                farklı anlam katmanlarını araştırmak için başlangıç noktası
+                olarak ele alır.
               </p>
-
               <p className="mt-4">
-                Rüyadaki su sakin bir göl olabilir, taşan bir nehir olabilir,
-                deniz olabilir veya kişinin içinde yüzdüğü karanlık bir su
-                olabilir.
+                Bir sembolün psikolojik araştırmalardaki yeri, Jungcu
+                literatürdeki olası yorumları, kültürel ve geleneksel
+                yaklaşımlar ile kişinin kendi çağrışımları birbirinden
+                ayrılarak değerlendirilebilir.
               </p>
-
               <p className="mt-4">
-                Kişinin suya verdiği tepki de değişebilir. Huzur, korku,
-                merak veya özgürlük hissedebilir.
+                Ama son adım tekrar rüyanın kendisine döner: sembol bu rüyada
+                ne yaptı, hangi duyguyu taşıdı ve kişinin yaşamındaki hangi
+                bağlama temas ediyor olabilir?
               </p>
-
-              <div className="mt-6 rounded-2xl bg-[#eee8df] p-6">
-                <p className="text-sm leading-7 text-[#625c54]">
-                  <strong>Daha iyi yaklaşım:</strong> “Su ne demek?” yerine
-                  “Bu rüyadaki suyla ilişkim neydi ve rüyadaki duyguyu nasıl
-                  değiştirdi?” sorusu daha fazla bilgi sağlayabilir.
-                </p>
-              </div>
-            </section>
-
-            {/* 9 */}
-            <section>
-              <h2 className="text-2xl font-normal">
-                Rüyanın tamamı sembolden daha önemli olabilir
-              </h2>
-
-              <p className="mt-5">
-                Rüyadaki tek bir nesneyi seçip yorumlamak bazen rüyanın
-                genel yapısını gözden kaçırmaya neden olur.
-              </p>
-
-              <p className="mt-4">
-                Aynı sembol farklı olay örgülerinde tamamen farklı bir işlev
-                görebilir.
-              </p>
-
-              <p className="mt-4">
-                Örneğin “kapı” rüyada kaçış yolu olabilir, içeri girilemeyen
-                bir engel olabilir veya kişinin birini beklediği yer olabilir.
-                Kapının anlamını yalnızca “fırsat” olarak tanımlamak rüyanın
-                gerçek bağlamını kaçırabilir.
-              </p>
-            </section>
-
-            {/* 10 */}
-            <section>
-              <h2 className="text-2xl font-normal">
-                Kültür sembollerin anlamını etkiler mi?
-              </h2>
-
-              <p className="mt-5">
-                Kültür, dil, din, aile ve kişisel yaşam deneyimleri insanların
-                sembollerle kurduğu ilişkileri etkileyebilir.
-              </p>
-
-              <p className="mt-4">
-                Aynı hayvan, renk veya nesne farklı kültürel ortamlarda farklı
-                çağrışımlara sahip olabilir.
-              </p>
-
-              <p className="mt-4">
-                Bu nedenle rüya analizinde yalnızca “insanlar genel olarak
-                bunu böyle yorumlar” demek yeterli değildir.
-              </p>
-            </section>
-
-            {/* 11 */}
-            <section>
-              <h2 className="text-2xl font-normal">
-                Sembol gerçekten bilinçdışından mı geliyor?
-              </h2>
-
-              <p className="mt-5">
-                Rüyalardaki sembolik görüntülerin kaynağı hakkında farklı
-                psikolojik ve nörobilimsel açıklamalar bulunmaktadır.
-              </p>
-
-              <p className="mt-4">
-                Bazı yaklaşımlar rüyaları bilinçdışı psikolojik süreçlerle
-                ilişkilendirirken, diğer araştırmalar rüya içeriğini bellek,
-                duygu, algı ve bilişsel süreçlerin uyku sırasında ortaya çıkan
-                birleşimi olarak inceler.
-              </p>
-
-              <p className="mt-4">
-                Bu nedenle tek bir rüya sembolünün “bilinçdışının kesin
-                mesajı” olduğunu söylemek bilimsel olarak fazla iddialı olur.
-              </p>
-            </section>
-
-            {/* 12 */}
-            <section>
-              <h2 className="text-2xl font-normal">
-                INUS neden rüya sözlüğü kullanmıyor?
-              </h2>
-
-              <p className="mt-5">
-                Çünkü INUS'un amacı bir sembole hazır bir cevap vermek değil,
-                kişinin kendi rüyasını anlamasına yardımcı olmaktır.
-              </p>
-
-              <p className="mt-4">
-                “Yılan = düşman” demek kolaydır. Fakat kişinin rüyasındaki
-                yılanı neden gördüğünü anlamak için yılanın nasıl göründüğü,
-                ne yaptığı, kişinin ne hissettiği ve rüyadaki diğer unsurlarla
-                nasıl ilişkilendiği çok daha fazla bilgi sağlar.
-              </p>
-
-              <p className="mt-4">
-                Bu yaklaşım INUS'un Jungcu ve bağlamsal analiz anlayışıyla
-                uyumludur: sembol tek başına değil, rüyanın bütünlüğü içinde
-                ele alınır.
-              </p>
-
-              <blockquote className="mt-7 border-l-2 border-[#9b9186] pl-6 text-xl font-light leading-8 text-[#625c54]">
-                “Sembolün anlamını aramadan önce, onun bu rüyada ne yaptığını
-                anlamaya çalış.”
+              <blockquote className="mt-8 border-l border-[#9b9186] py-1 pl-6 text-xl font-light leading-8 tracking-[-0.015em] text-[#625c54]">
+                “Sembolün genel anlamını bilmek başlangıç olabilir; asıl soru,
+                onun senin rüyanda nasıl yaşadığıdır.”
               </blockquote>
             </section>
 
-            {/* SUMMARY */}
             <section>
-              <h2 className="text-2xl font-normal">
+              <h2 className="max-w-xs text-[26px] font-light leading-[1.08] tracking-[-0.03em] sm:text-[30px]">
                 Kısaca ne biliyoruz?
               </h2>
-
               <div className="mt-6 grid gap-4 sm:grid-cols-2">
-                <div className="rounded-2xl bg-[#eee8df] p-6">
-                  <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
-                    DAHA GÜVENİLİR YAKLAŞIM
-                  </p>
-
+                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
+                  <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">DAHA GÜÇLÜ DAYANAK</p>
                   <ul className="mt-4 space-y-3 text-sm leading-7 text-[#625c54]">
-                    <li>
-                      • Sembolü rüyanın bütünü içinde değerlendirmek.
-                    </li>
-                    <li>
-                      • Kişisel çağrışımları dikkate almak.
-                    </li>
-                    <li>
-                      • Rüyadaki duyguyu incelemek.
-                    </li>
-                    <li>
-                      • Güncel yaşam bağlamını hesaba katmak.
-                    </li>
+                    <li>• Rüya içeriği sistematik olarak incelenebilir.</li>
+                    <li>• Uyanık yaşam deneyimleri rüya içeriğiyle süreklilik gösterebilir.</li>
+                    <li>• Rüyadaki duygusal tepkiler önemli bilgi taşıyabilir.</li>
+                    <li>• Kişisel ve kültürel bağlam sembolün çağrışımını değiştirebilir.</li>
                   </ul>
                 </div>
-
-                <div className="rounded-2xl bg-[#eee8df] p-6">
-                  <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">
-                    KAÇINILMASI GEREKEN
-                  </p>
-
+                <div className="rounded-xl bg-[#eee8df] p-6 sm:p-7">
+                  <p className="text-xs uppercase tracking-[0.2em] text-[#8a8177]">KANITLANMIŞ DEĞİL</p>
                   <ul className="mt-4 space-y-3 text-sm leading-7 text-[#625c54]">
-                    <li>
-                      • Her sembole tek ve değişmez anlam vermek.
-                    </li>
-                    <li>
-                      • İnternet rüya sözlüklerini bilimsel gerçek kabul etmek.
-                    </li>
-                    <li>
-                      • Rüyadaki tek bir nesneden kesin sonuç çıkarmak.
-                    </li>
-                    <li>
-                      • Yorumu gelecek tahmini veya teşhis gibi sunmak.
-                    </li>
+                    <li>• Her sembolün herkes için tek bir anlam taşıdığı.</li>
+                    <li>• Bir sözlük maddesinin kişisel rüyanın anlamını belirlediği.</li>
+                    <li>• Jungcu bir yorumun deneysel olarak kanıtlanmış sembol karşılığı olduğu.</li>
+                    <li>• Tek bir sembolden teşhis veya gelecek tahmini yapılabileceği.</li>
                   </ul>
                 </div>
               </div>
@@ -592,106 +454,61 @@ export default function DreamSymbolsPage() {
           </div>
         </article>
 
-        {/* SOURCES */}
-        <section className="py-16 sm:py-20">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
-            KAYNAKLAR
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">KAYNAKLAR</p>
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">Araştırma ve literatür</h2>
+          <p className="mt-5 max-w-2xl text-[14px] leading-7 text-[#6f675e]">
+            Bu sayfa rüya içerik analizi, uyanık yaşam ile rüya içeriği
+            arasındaki süreklilik, ampirik rüya araştırması ve Jungcu sembol
+            yaklaşımına ilişkin kaynakları birlikte değerlendirir. Ampirik
+            bulgular ile teorik ve yorumlayıcı yaklaşımlar aynı kanıt düzeyinde
+            sunulmamıştır.
           </p>
-
-          <h2 className="mt-4 text-3xl font-light">
-            Araştırma ve literatür
-          </h2>
-
-          <p className="mt-5 max-w-3xl text-sm leading-7 text-[#686158]">
-            Bu sayfadaki yaklaşım; rüya içeriği araştırmaları, rüya yorumlama
-            literatürü ve Jungcu psikolojik yaklaşımın temel kaynakları
-            birlikte değerlendirilerek hazırlanmıştır.
-          </p>
-
-          <div className="mt-8 space-y-5">
+          <div className="mt-10 grid gap-x-10 gap-y-8 md:grid-cols-2">
             {sources.map((source) => (
-              <article
-                key={source.title}
-                className="rounded-2xl border border-[#ddd5cb] bg-[#faf8f4] p-6"
-              >
-                <p className="text-sm font-medium text-[#454039]">
-                  {source.authors}
-                </p>
-
-                <p className="mt-1 text-sm leading-7 text-[#625c54]">
-                  <em>{source.title}</em>
-                </p>
-
-                <p className="mt-1 text-xs text-[#8a8177]">
-                  {source.journal}
-                </p>
-
-                <p className="mt-2 text-xs text-[#aaa198]">
-                  {source.detail}
-                </p>
-
-                <a
-                  href={source.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="mt-3 inline-block text-xs text-[#625c54] underline underline-offset-4 hover:text-[#24221f]"
-                >
-                  Kaynağı görüntüle →
-                </a>
+              <article key={source.title} className="border-t border-[#d9d2c9] pt-5">
+                <p className="text-sm font-medium text-[#454039]">{source.authors}</p>
+                <p className="mt-2 text-[13px] leading-6 text-[#625c54]"><em>{source.title}</em></p>
+                <p className="mt-2 text-xs leading-6 text-[#91887e]">{source.journal}</p>
+                <p className="mt-1 text-[10px] tracking-wide text-[#aaa198]">{source.detail}</p>
+                <a href={source.url} target="_blank" rel="noopener noreferrer" className="mt-3 inline-block text-xs text-[#625c54] underline decoration-[#bdb4aa] underline-offset-4 transition hover:text-[#24221f]">Kaynağı görüntüle →</a>
               </article>
             ))}
           </div>
         </section>
 
-        {/* FAQ */}
-        <section className="pb-16 sm:pb-20">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#8a8177]">
-            SIK SORULAN SORULAR
-          </p>
-
-          <h2 className="mt-4 text-3xl font-light">
-            Rüya sembolleri hakkında
-          </h2>
-
-          <div className="mt-8 space-y-4">
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">SIK SORULAN SORULAR</p>
+          <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">Rüya sembolleri hakkında</h2>
+          <div className="mt-10 overflow-hidden rounded-xl border border-[#d9d1c7] bg-[#faf8f4]">
             {faqs.map((faq) => (
-              <article
-                key={faq.question}
-                className="rounded-[24px] border border-[#d9d1c7] bg-[#faf8f4] p-6"
-              >
-                <h3 className="text-lg font-normal">
-                  {faq.question}
-                </h3>
-
-                <p className="mt-3 text-sm leading-7 text-[#686158]">
-                  {faq.answer}
-                </p>
+              <article key={faq.question} className="border-b border-[#ded6cc] p-6 last:border-b-0 sm:p-7">
+                <h3 className="text-lg font-light tracking-[-0.015em]">{faq.question}</h3>
+                <p className="mt-3 max-w-4xl text-[14px] leading-7 text-[#6f675e]">{faq.answer}</p>
               </article>
             ))}
           </div>
         </section>
 
-        {/* CTA */}
-        <section className="mb-16 rounded-[30px] bg-[#292621] px-7 py-12 text-center text-white sm:mb-20 sm:px-12">
-          <p className="text-xs uppercase tracking-[0.3em] text-[#aaa49c]">
-            INUS
-          </p>
-
-          <h2 className="mt-4 text-3xl font-light">
-            Rüyandaki sembolleri keşfet.
-          </h2>
-
-          <p className="mx-auto mt-4 max-w-xl text-sm leading-7 text-[#d4cec5]">
-            Rüyandaki sembolleri hazır anlamlarla değil, kendi yaşamındaki
-            çağrışımları ve rüyanın bütünü üzerinden incele.
-          </p>
-
-          <Link
-            href="/"
-            className="mt-7 inline-flex rounded-full bg-white px-7 py-3 text-sm text-[#292621] transition hover:bg-[#eee8df]"
-          >
-            Rüyamı analiz et
-          </Link>
+        <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+          <div className="grid gap-10 lg:grid-cols-[1fr_auto] lg:items-end">
+            <div>
+              <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">KENDİ RÜYANA DÖN</p>
+              <h2 className="max-w-2xl text-3xl font-light tracking-[-0.03em] sm:text-4xl">Rüyandaki sembolleri bağlamıyla keşfet.</h2>
+              <p className="mt-5 max-w-2xl text-[15px] leading-8 text-[#625c54]">
+                Sembolün genel çağrışımlarını gör; sonra onu kendi duyguların,
+                yaşam deneyimlerin ve rüyanın bütünüyle birlikte incele.
+              </p>
+            </div>
+            <div className="flex flex-wrap gap-3">
+              <Link href="/" className="inline-flex items-center gap-8 rounded-full bg-[#292621] px-7 py-3.5 text-sm text-white transition hover:bg-[#403b35]">
+                Rüyanı anlat <span aria-hidden="true">→</span>
+              </Link>
+              <Link href="/ruyalar/semboller" className="inline-flex items-center gap-5 rounded-full border border-[#c8beb2] px-7 py-3.5 text-sm text-[#292621] transition hover:border-[#8f857a]">
+                Rüya sembollerini keşfet <span aria-hidden="true">→</span>
+              </Link>
+            </div>
+          </div>
         </section>
 
         <footer className="pb-8 text-center text-xs text-[#aaa198]">
