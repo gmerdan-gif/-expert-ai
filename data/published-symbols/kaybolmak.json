@@ -1,125 +1,214 @@
 {
   "slug": "kaybolmak",
   "title": "kaybolmak",
-  "shortDescription": "Rüyada kaybolmak, uyanık yaşamda yön kaybı, belirsizlik veya karar verme güçlüğü hissettiğiniz bir dönemi yansıtabilir. Rüyanın geçtiği yer ve kaybolan şey, bu hissin aidiyet, iç denge ya da günlük sorumluluklarla bağlantısını gösterebilir.",
+  "shortDescription": "Rüyada kaybolmak, yön duygusunun sarsılması, belirsizlik, yaşam geçişleri ve içsel arayışla ilişkili; tek bir sabit anlama indirgenemeyen çok katmanlı bir rüya deneyimidir.",
   "positiveAssociations": [
-    "İçsel rehberlikle yeniden bağ kurma",
-    "Eski ve işlevini yitirmiş kalıplardan özgürleşme",
-    "Farkındalık ve bırakma pratiğine alan açma",
-    "Bilginin ve kazanımların geniş kitlelere yayılması"
+    "İçsel rehberliğe yeniden kulak verilmesi",
+    "Eski yönelimlerin yetersizleşmesiyle açılan yeni keşif alanı",
+    "Yolu yeniden bulma motifiyle gelen şaşkınlığın sona ermesi ve açıklık hissi",
+    "Dağılmış enerjiyi toparlama ve yeniden hizalanma fırsatı"
   ],
   "challengingAssociations": [
-    "Yön kaybı ve yoğun kafa karışıklığı",
-    "Bilinmeyen karşısında duyulan tedirginlik ve dezoryantasyon",
-    "Zarara uğrama veya nasibin azalması endişesi",
-    "Mal varlığı, ev veya eşya kaybıyla gelen pratik yükler"
+    "Kararsızlık ve yönsüzlük hissi",
+    "Kafa karışıklığı ve duygusal yorgunluk",
+    "Bilinç ile bilinçdışı arasındaki dengenin sarsılması",
+    "Hayatın akışına kapılma ve belirsizlik kaygısı"
   ],
   "contextDependentAssociations": [
-    "Bilinçli yaşamdaki geçiş dönemleri ve karar aşamaları",
-    "Zihinsel görüşlere ve kimlik kalıplarına aşırı tutunma halleri",
-    "Rüya sahnelerindeki ani mekânsal kaymalar ve dissosiyatif yaşantılar"
+    "Eşik deneyimi ve geçiş evreleri",
+    "İç pusulanın geçici olarak zayıflaması",
+    "Tanrısal rehberlikten uzaklaşma veya yeniden hizalanma arayışı"
   ],
   "commonVariations": [
     {
-      "title": "Tanıdık Bir Şehirde Yolu Yitirmek",
-      "description": "Sıklıkla gittiğiniz bir şehirde sokakları tanıyamamak, günlük rutininize rağmen yön duygusunun sarsıldığını ve güvenli alanların artık aynı hissi vermediğini gösterebilir."
+      "title": "Tanıdık Bir Sokakta Yönünü Kaybetmek",
+      "description": "Günlük hayatta çok iyi bilinen bir yerde yön duygusunu yitirmek, mevcut rutinlerin ve alışılmış bakış açılarının artık yeterli gelmediği bir psikolojik geçiş anını simgeler."
     },
     {
-      "title": "Karanlık Bir Ormanda Tek Başına Kalmak",
-      "description": "Ağaçlar arasında çıkış yolu aramak, bilinmeyenle karşılaşma ve kişisel bir eşikten geçme duygularını simgeler; bu, içsel dönüşümün eşik anı olarak okunabilir."
+      "title": "Karanlık Bir Labirentte Kaybolmak",
+      "description": "Karmaşık veya çıkışı görünmeyen bir mekânda dolaşmak, zihinsel bir çıkmazı, çözülmemiş karmaşaları ve içsel labirentlerde süren bir arayışı yansıtır."
     },
     {
-      "title": "Ev Veya Eşya Kaybı Yaşamak",
-      "description": "Rüyada evin veya bir eşyanın kaybolması, sorumluluklar, ek masraflar veya mal varlığıyla ilgili pratik kaygıların bilinçte işlendiğine işaret edebilir."
+      "title": "Doğada veya Ormanda Kaybolmak",
+      "description": "Şehir hayatından uzak, doğanın içinde yönünü yitirmek, modern yaşamın baskılarından uzaklaşma ihtiyacını ve özbenlikle yeniden bağ kurma çabasını gösterir."
     },
     {
-      "title": "Kalabalık Bir Ortamda Yönünü Kaybetmek",
-      "description": "Bir topluluk içinde kaybolmak, aidiyet, sosyal roller ve bireyin kendini koruma çabası arasındaki gerilimin yansıması olabilir."
+      "title": "Kalabalık İçinde Yolu Yitirmek",
+      "description": "Yoğun bir insan topluluğu arasında yönünü kaybetmek, sosyal ilişkiler içinde bireysel kimliği koruma çabasını, aidiyet sorgulamalarını ve dış dünyayla kurulan bağlardaki geçici kopmaları temsil eder."
     }
   ],
-  "psychology": "Ampirik psikoloji bulguları, rüyalardaki mekânsal dezoryantasyon ve ani sahne değişimlerinin dissosiyatif yaşantılarla birlikte görülebildiğine işaret eder. Psikanalitik düzlemde ise Freud'un \"yer değiştirme\" mekanizması, rüya içeriğindeki bir öğenin asıl önemli düşünceyi dolaylı biçimde maskeleyebileceğini ortaya koyar; bu bağlamda \"kaybolmak\" simgesi tek başına sabit ve dogmatik bir anlam taşımaz.",
-  "jungian": "",
-  "islamicTradition": "Klasik İslami rüya kaynaklarında kaybolmak, kişinin kendisinin, eşinin veya çocuğunun kaybolmasını zarara uğrama olarak ele alır. Bazı nakillerde ise nasibin azalması temasıyla bağdaştırılır. Öte yandan, kalabalık bir ortamda bir âlimin kaybolmuş görünmesi, o kişinin ilminin halka fayda sağlaması ve şöhretinin yayılması şeklinde yorumlanır. Ayrıca elbise veya ev gibi unsurların kaybı, ek masraf ve maddi yüklerle ilişkilendirilir.",
-  "christianTraditions": "Hristiyan kaynaklarda rüyalar genellikle ilahi rehberlik veya mesaj bağlamında ele alınır; mevcut kaynaklarda \"kaybolmak\" sembolüne ilişkin yerleşik, doğrudan bir tabir tespit edilmemiştir. Bu nedenle Hristiyan metinler çoğunlukla rüyanın yön ve rehberlik temalarını tartışır; spesifik \"kaybolmak\" eşleştirmesi nadirdir.",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist perspektifte kaybolma, zihinsel görüngüler arasında yönsüzlük hissetmek ve geçici görüşlere, kimliklere ya da sonuçlara sıkıca yapışmakla ilişkilendirilebilir. Bu yaklaşım, rüyayı bir kehanet olmaktan ziyade, zihinsel tutunuşları fark etme ve bırakma pratiğine davet olarak ele alır. Hint/Vedik gelenekte de kaybolma, uyanık yaşamda yön kaybı veya kafa karışıklığı bağlamında yorumlanır; ayrıntılar olumlu ya da uyarıcı bir anlam taşıyabilir.",
-  "spiritualApproaches": "Modern spiritüel yorumlarda kaybolma sembolü, içsel rehberlikten geçici bir kopuşu ve bireyin kontrol etme çabalarının gevşemesini temsil eder. Bu yaklaşım rüyayı yaşam yolundaki yönü ve dengeyi yeniden ayarlamak için bir fırsat olarak değerlendirir; yorumlar rüyanın sahnesine ve kişisel koşullara göre değişkenlik gösterir.",
+  "psychology": "",
+  "jungian": "Jungcu analitik psikoloji çerçevesinde kaybolmak teması, ego merkezli yönelimin sarsıldığını ve bilinçdışının ağırlık kazandığını gösterir. Doğrudan sabit bir sözlük anlamından ziyade, psikolojik denge bozulmasının ve bireyleşme sürecinde yaşanan geçici bir yönsüzlüğün sembolik bir dışavurumudur. Bu okumada kaybolma, eski yapıların miadını doldurduğunu ve yeni bir psikolojik yönelişin, eşik deneyiminin kapıda olduğunu ima eder.",
+  "islamicTradition": "Çeşitli modern aktarılarda ve geleneksel kaynaklarda kaybolma teması, nasibin azalması, sıkıntı, kararsızlık, duygusal yorgunluk veya hayatın akışına kapılma şeklinde ele alınır. Yolunu kaybetmek ise bazı aktarılarda manevi yönden bocalama veya hak yoldan uzaklaşma gerilimiyle ilişkilendirilir.",
+  "christianTraditions": "Hristiyan sembolik ve manevi okumalarında kaybolma veya yön yitirme teması, ruhsal bir arayış, sınanma evresi veya ilahi iradeden uzaklaşma hissiyle ilişkilendirilir. Bu durum, bireyin dikkat dağınıklığını fark etmesi ve ruhsal yönelimini yeniden Tanrı iradesine hizalaması için bir uyarı olarak değerlendirilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde ve Talmudik yaklaşımlarda rüyalar kesin ve tek anlamlı kehanetler olarak görülmez; aksine yorumla şekillenen ve bağlama açık deneyimler olarak ele alınır. Kaybolma benzeri belirsizlik içeren rüya deneyimleri, anlamı henüz açılmamış bir yönsüzlük olarak kabul edilir ve topluluk içinde rüyanın olumlu yorumlanmasına yönelik dualarla ilişkilendirilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda kaybolmak, iç pusulanın zayıfladığı, eski düzenin çözüldüğü ve yeni bir düzenin henüz netleşmediği bir eşik hâli olarak yorumlanır. Bu durum, dışsal hedeflerin askıya alınarak içsel rehberliğe yeniden kulak verilmesi gereken, duygusal ve psikolojik düzeyde bir yeniden düzenlenme süreci olarak ele alınır.",
   "comparisonTable": [
     {
-      "approach": "Ampirik Psikoloji",
-      "interpretation": "Mekânsal disoryantasyon ve sahne değişimlerinin dissosiyatif süreçlerle ilişkisi.",
-      "evidenceLevel": "research"
-    },
-    {
-      "approach": "Psikanaliz",
-      "interpretation": "Yer değiştirme mekanizması üzerinden gizli içeriğin dolaylı bir yansıması.",
+      "approach": "Psikanalitik Kuram",
+      "interpretation": "Manifest ve latent içerik ayrımı çerçevesinde, gizlenmiş isteklerin ve içsel çatışmaların dolaylı bir sahnelenişi.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Analiz",
-      "interpretation": "Bireyleşme yolunda bilinmeyenle karşılaşma ve eşik deneyimi.",
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Egonun yön bulma işlevinin bozulması, bilinçdışı dengesizliği ve bireyleşme sürecindeki geçici yönsüzlük.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Zarara uğrama, nasip azlığı, mal yükleri veya ilmin yayılması ve şöhret.",
+      "approach": "Geleneksel ve Kültürel Aktarımlar",
+      "interpretation": "Nasipte azalma, hayatın akışına kapılma, kafa karışıklığı ve manevi yönden yön kaybetme endişesi.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu ve Spiritüel Yaklaşımlar",
-      "interpretation": "Zihinsel tutunuşların gevşemesi, yönsüzlük ve içsel dengeyi yeniden arama.",
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Eski düzenin çözülmesi, iç pusulanın zayıflaması ve yeni bir eşiğe geçiş için iç rehberliğe hizalanma.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Çeşitli disiplinler ve gelenekler, kaybolma sembolünün merkezinde belirsizlik, yön kaybı ve mevcut durumun sorgulanması olduğu konusunda birleşir; genellikle bu durum sabit bir felaketten ziyade bir geçiş, eşik veya yön değiştirme anına işaret eder.",
-  "differences": "Yaklaşımlar arasındaki temel fark, kaybolma deneyimine atfedilen sonuç ve vurgu noktalarında görülür: bilimsel ve psikanalitik çerçeveler zihinsel süreçlere ve savunma mekanizmalarına odaklanırken, dini gelenekler maddi veya manevi sonuçlara (zarar, şöhret, nasip), spiritüel ve Doğu yaklaşımlarıysa bırakma ve farkındalık vurgusuna yönelir.",
-  "inusAssessment": "Kaybolmak sembolü tek bir nedene indirgenemeyecek kadar çok katmanlıdır. Rüyanın kaybolma teması, uyanık yaşamda yaşanan kafa karışıklıklarını, karar alma güçlüklerini ve güvenlik hissindeki sarsıntıları yansıtabilir ve aynı zamanda bireyin içsel dönüşümü için bir eşik işlevi görebilir. Bu nedenle bağlam, rüyanın ayrıntıları ve rüya sahibinin yaşam koşulları göz önünde bulundurulmadan kesin yorumlar yanıltıcı olur.",
-  "faq": [],
-  "sources": [
+  "commonGround": "Tüm bu farklı yaklaşımlar, kaybolma imgesinin sabit ve korkutucu bir sondan ziyade, mevcut yönelimin yetersizleştiğini gösteren bir duraksama ve arayış anı olduğu noktasında birleşir.",
+  "differences": "Psikanalitik ve analitik ekoller bu durumu içsel dinamikler ve bilinçdışı dengeler üzerinden okurken; geleneksel ve spiritüel yaklaşımlar manevi yönelim, ilahi rehberlik veya yaşam geçişleri gibi daha aşkın ya da pratik düzlemlere odaklanır.",
+  "inusAssessment": "Rüyada kaybolmak sembolü, diğer rüya imgelerinden farklı olarak doğrudan bir nesnenin veya eylemin varlığına değil, tam aksine 'yön' ve 'koordinat' kaybına odaklanır. Bu durum, rüya sahibinin uyanık yaşamındaki hangi alanlarda iç pusulasını kaybettiğini veya hangi geçiş eşiğinde durduğunu anlamak için rüyanın coğrafi bağlamını, duygusal tonunu ve labirent benzeri detaylarını birlikte incelemeyi zorunlu kılar; sembol tek başına sabit bir anlama indirgenemez.",
+  "faq": [
     {
-      "title": "[PDF] (B) The Work of Displacement",
-      "relevance": "Freud'un \"yer değiştirme\" kavramını açıklayarak rüya içeriğinin dolaylı kurulması ve bir simgenin başka bir şeyin yerini alması olgusunu ele alır; kaybolma imgelerinin tek başına sabit anlam taşımayacağına dair teorik zemin sağlar.",
-      "url": "https://dravni.co.il/wp-content/uploads/2016/04/Freud,S.(1900b)%20The-Work-of-Displacement.pdf"
+      "question": "Rüyada sürekli aynı yerde kaybolmak ne anlama gelir?",
+      "answer": "Sürekli aynı yerde yönünü yitirmek, uyanık yaşamda çözülemeyen bir döngüyü, tekrarlayan kararsızlıkları veya mevcut bir bakış açısının artık işe yaramadığını gösteren bir psikolojik eşik olarak yorumlanabilir."
     },
     {
-      "title": "Dreams and Dissociation—Commonalities as a Basis for ...",
-      "relevance": "Rüyalarda sahne değişimleri ve dissosiyatif yaşantılar arasındaki ilişkiyi inceleyerek mekânsal disoryantasyon ve kaybolma hissinin psikolojik süreçlerle bağlantılı olabileceğini destekler.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7189023/"
+      "question": "Rüyada kaybolduktan sonra yolu yeniden bulmak neyi ifade eder?",
+      "answer": "Tarihsel ve psikolojik okumalarda kaybolma halinin ardından yolun bulunması, geçici bir şaşkınlık veya kafa karışıklığının sona ermesini, durumun netleşmesini ve içsel dengeye yeniden ulaşıldığını simgeler."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Freud (1900) Chapter 4 - Classics in the History of Psychology",
+      "relevance": "Rüya kuramının manifest ve latent ayrımını açıklar; kaybolma temasını bastırılmış istekler ve içsel çatışmalar çerçevesinde okumaya olanak sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams4.htm"
+    },
+    {
+      "title": "Reading the Object: Freud's Dreams - PsyArt Journal",
+      "relevance": "Freud’un \"kayıp rüya\" kavramı ile bellek, yazı ve kayıp nesne temalarını ilişkilendirir.",
+      "url": "https://psyartjournal.com/article/show/van_den_berg-reading_the_object_freuds_dreams"
+    },
+    {
+      "title": "Dreams",
+      "relevance": "Freud’un rüya kuramındaki manifest ve latent içerik ayrımını ve rüyaların bilinçdışına açılan yol oluşunu özetler.",
+      "url": "https://courses.washington.edu/freudlit/Dreams.html"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyayı bastırılmış bir isteğin gizlenmiş doyumu olarak tanımlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "[PDF] THE INTERPRETATION OF DREAMS - Lutecium Network",
+      "relevance": "Rüya kuramının bastırılmış arzu ve gizlenme boyutunu teyit eder.",
+      "url": "https://www.lutecium.org/ftp/Freud/pdf/1900_the_interpretations_of_dreams.pdf"
+    },
+    {
+      "title": "Jung's Theory of Dreaming and the Findings of Empirical and ...",
+      "relevance": "Jung'un rüyayı bilinçdışının durumunu sembolik olarak gösteren bir süreç şeklinde ele alışını özetler; kaybolma temasını Jungcu yön kaybı ve bilinçdışıyla temas çerçevesinde düşünmek için temel sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12517111/"
+    },
+    {
+      "title": "Jung on Dreams: Part I - Jungian Center for the Spiritual Sciences",
+      "relevance": "Jung'a atfedilen rüya tanımını ve rüyaların psişik yaşam sürecinin öz-temsilleri olduğu düşüncesini sunar; kaybolma temasının rüyada psikolojik yönelim bozulması olarak okunmasına bağlam sağlar.",
+      "url": "https://jungiancenter.org/jung-on-dreams-part-i/"
+    },
+    {
+      "title": "[PDF] The typical contents of Freud's and Jung's dreams",
+      "relevance": "Jung ve Freud rüyalarında tipik mekânsal yön kaybı, labirentler, yeraltı alanları ve geçitler gibi motifleri sınıflandırır; kaybolma temasının Jungcu sembol alanındaki yerini destekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/19865/pdf/90172"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus'un rüya yorum geleneğini gösteren çevrim içi çeviri; yolunu bulma, şaşkınlık ve yorum mantığı açısından 'kaybolmak' temasını tarihsel bağlama yerleştirmek için kullanışlıdır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus | Dream Interpreter, Oracle & Seer - Britannica",
+      "relevance": "Artemidorus ve Oneirocritica'nın antik rüya yorumculuğundaki konumunu özetleyen güvenilir ansiklopedik kaynak; metnin Greko-Romen oneirokritik gelenekteki önemini doğrular.",
+      "url": "https://www.britannica.com/biography/Artemidorus-Ephesian-soothsayer"
+    },
+    {
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual ...",
+      "relevance": "Artemidorus ve Oneirocritica üzerine akademik bölüm; antik rüya el kitabının bağlamını ve tarihsel yorum sorunlarını ele alır.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?login=true"
+    },
+    {
+      "title": "Oneirocritica - The Perseus Catalog",
+      "relevance": "Oneirocritica'nın katalog kaydı; eserin yazarını ve klasik metin kimliğini doğrulayan bibliyografik kayıt.",
+      "url": "https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0553.tlg001.opp-grc2"
+    },
+    {
+      "title": "New perspectives on Old Testament oneirocritic texts via ...",
+      "relevance": "Eski Ahit'teki oneirokritik anlatıları ve yön bulma / sapma gerilimini tartışan akademik çalışma; tarihsel-kültürel karşılaştırma için kullanışlıdır.",
+      "url": "https://hts.org.za/index.php/hts/article/view/5001;"
     },
     {
       "title": "Rüyada Kaybolmak Görmek Ne Anlama Gelir?",
-      "relevance": "İslami rüya tabiri geleneğinden aktarılan örneklerle kişinin, eşinin veya çocuğunun kaybolmasının zarara uğrama şeklinde yorumlandığı nakilleri sunar; klasik tabir geleneğine ilişkin çağdaş bir derlemedir.",
+      "relevance": "Rüyada kaybolmak veya yakınların kaybolması için İbn-i Sîrîn’e nispet edilen yorum aktarımı.",
       "url": "https://www.yenisafak.com/ruya-tabirleri/ruyada-kaybolmak-gormek-ne-anlama-gelir"
     },
     {
-      "title": "Lost Islamic Interpretations & Meanings",
-      "relevance": "Kayıbolmak temasına dair geleneksel İslami yorumları, eşya/ev kaybı ve nasip azlığı gibi bağlantıları listeleyen çevrimiçi derlemeleri içerir.",
-      "url": "https://www.myislamicdream.com/lost.html"
+      "title": "Rüyada kaybolmak ne anlama gelir?",
+      "relevance": "Kaybolmak sembolünün nasibin azalması, kayıp ve yaşam değişimi gibi anlamlarla işlendiği derleme.",
+      "url": "https://www.diyadinnet.com/ruyada-6095-kaybolmak-gormek"
     },
     {
-      "title": "Dreams in the Hebrew Bible - Bible Odyssey",
-      "relevance": "Kutsal Yazılarda rüyaların genellikle ilahi mesaj ve rehberlik bağlamında ele alındığını açıklayarak Hristiyan-Yahudi rüya geleneğinin genel çerçevesini sunar; ancak \"kaybolmak\"a özgü yerleşik bir tabir sunmaz.",
-      "url": "https://www.bibleodyssey.org/articles/dreams-in-the-hebrew-bible/"
+      "title": "Rüyada Kaybolmak ne anlama gelir? Rüyada Kaybolmak ne demek?",
+      "relevance": "Kaybolmak ve yolunu kaybetmek için kafa karışıklığı, duygusal yorgunluk ve hak yoldan ayrılma temaları.",
+      "url": "https://www.mardinlife.com/ruya-tabirleri/ruyada-kaybolmak-ne-anlama-gelir-ruyada-kaybolmak-ne-demek"
     },
     {
-      "title": "[PDF] Dream Accounts in the Hebrew Bible and Ancient Jewish Literature",
-      "relevance": "Erken Hristiyanlık ve antik Yahudi literatüründeki rüya anlatılarını karşılaştırarak bu geleneklerin rüya yorumlama biçimlerine tarihsel bağlam sağlar; doğrudan \"kaybolmak\" tabiri içermez.",
-      "url": "https://ora.ox.ac.uk/objects/uuid:31468460-01e8-4b10-977e-72b954a29fda/files/m094640d42e5594527fcf80f2cc76bc00"
+      "title": "İmam Nablusi Rüya Tabirleri - Nedir? Nasıl yapılır? Ne demektir?",
+      "relevance": "Nablusi’ye nispet edilen kaybolma ve halk arasında kaybolma ifadelerini içeren aktarım.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/imam-nablusi-ruya-tabirleri/page/2/"
     },
     {
-      "title": "RÜYA - TDV İslâm Ansiklopedisi",
-      "relevance": "İslami çerçevede rüya kavramının tarihçesini özetleyerek klasik tabir geleneğine dair bağlam ve referans sağlar; kaybolma temasıyla ilgili geleneksel okumaları destekler.",
-      "url": "https://islamansiklopedisi.org.tr/ruya"
+      "title": "Being LOST in a Dream Spiritual Meaning | Biblical ...",
+      "relevance": "Rüyada kaybolmayı Hristiyan çerçevede ruhsal yön kaybı, kafa karışıklığı ve Tanrı’nın iradesinden sapma olarak yorumlayan çağdaş bir Hristiyan metin.",
+      "url": "https://www.ibloggospel.com/2022/03/spiritual-meaning-of-being-lost-in-a-dream.html"
     },
     {
-      "title": "Lost in a Dream: Meanings, Contexts, and Ways to Find Your ...",
-      "relevance": "Modern çevrimiçi kaynaklardan biri olarak Budist ve farkındalık temelli okumalar üzerinden kaybolma imgesinin bırakma ve farkındalık pratiği bağlamında yorumlanabileceğini tartışır.",
-      "url": "https://www.dreamspoken.com/en/dream-meaning/lost"
+      "title": "Topical Bible: Wanderer",
+      "relevance": "Hristiyan sembolik dilinde ‘wanderer’ temasını ruhsal arayış, sınanma ve ruhsal yönelim kaybı bağlamında ele alan bir başvuru sayfası.",
+      "url": "https://biblehub.com/topical/w/wanderer.htm"
     },
     {
-      "title": "Getting lost / no way Dream Meaning (रास्ता भटकना) | Vedic ...",
-      "relevance": "Vedik/Swapna Shastra çizgisinde kaybolma sembolünü kafa karışıklığı ve yön kaybı bağlamında ele alan çevrimiçi yorum metinlerinden biridir; rüya ayrıntılarına bağlı değişken yorumları örnekler.",
-      "url": "https://trikalvaani.com/swapna/lost"
+      "title": "Berakhot 55.b",
+      "relevance": "Rüyasını çözemeyen kişinin dua ve kutsama bağlamında onu iyiye çevirmesini anlatır; rüya belirsizliği ve yorumsuzluk çerçevesi sağlar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de anlaşılmayan rüyayı olumlu yoruma yönlendiren ritüeli özetler; kaybolma temasını belirsizlik ve yönsüzlük olarak okumaya imkân verir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "A Letter that Has Not Been Read: Dreams in the Hebrew ...",
+      "relevance": "İbrani Kutsal Kitabı ve Yahudi geleneklerinde rüyaların ele alınışına dair genel bağlam sunar; Talmud’daki rüya literatürünü açıklar.",
+      "url": "https://books.google.com/books/about/A_Letter_that_Has_Not_Been_Read.html?id=zs3gup4iFu4C"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Babil Talmudu’nun rüya pasajlarını \"rüya kitabı\" olarak ele alır ve yorumun rüya algısını şekillendirdiğini açıklar; Yahudi rüya yorum çerçevesi için yararlıdır.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Getting Lost in dreams — meaning and symbolism",
+      "relevance": "Rüyada kaybolma temasını, iç pusulanın geçici olarak zayıflaması ve yeni bir eşiğe girme olarak ele alan modern spiritüel yorum.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/getting-lost"
+    },
+    {
+      "title": "Loss in dreams — meaning and symbolism",
+      "relevance": "Kayıp temasını sınır, bırakma ve enerji akışının yeniden düzenlenmesi üzerinden okuyan modern ezoterik yorum.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/loss"
+    },
+    {
+      "title": "Dream About Being Lost — Meaning & Interpretation",
+      "relevance": "Kaybolma imgelerini spiritüel uyanış, iç rehberlik ve yön arayışıyla ilişkilendiren modern spiritüel yorum.",
+      "url": "https://thedreamindex.com/dream-about-being-lost/"
     }
   ],
   "relatedSlugs": []

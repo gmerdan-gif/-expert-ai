@@ -1,142 +1,313 @@
 {
   "slug": "saat",
   "title": "saat",
-  "shortDescription": "Rüyada saat görmek, zamanın akışı, geçicilik ve yetişmesi gereken işlerin yarattığı baskıyla ilişkilidir. Saatin durması kontrol kaybı ya da kaygıyı, belirli bir saati göstermesi ise beklenen bir haberin, işin veya vaadin vaktinin yaklaştığını düşündürebilir.",
+  "shortDescription": "Rüyada saat görmek, zaman baskısı, yaşamın geçiciliği, sorumluluklar ve kendi yaşam ritminizle ilişkinizi yansıtabilir. Hızla ilerleyen bir saat yetişme kaygısını, duran veya bozulan bir saat duraksama hissini, çalan bir saat ise dikkatinizi isteyen bir zamanı veya durumu öne çıkarabilir.",
   "positiveAssociations": [
-    "Zamanı verimli kullanma",
-    "Düzenli bir yaşam ritmi",
-    "Beklenen bir vaktin veya fırsatın yaklaşması",
-    "Manevi farkındalık ve yaşam döngüsünü kavrama",
-    "Verilen sözleri yerine getirme"
+    "zamanı sorumlu ve bilinçli kullanma",
+    "hayatın doğal ritmiyle uyum",
+    "doğru anı yakalama",
+    "yeni başlangıçlar ve hedeflere ilerleme",
+    "talih ve dönemsel rahatlama"
   ],
   "challengingAssociations": [
-    "Zamanın tükenmesine dair yoğun kaygı",
-    "Ölüm yakınlığı veya yaşlanma korkusu",
-    "Yetiştirilemeyen işler ve son teslim tarihi baskısı",
-    "Kontrol kaybı ve duran zaman hissi",
-    "Biyolojik saat sınırlarına takılma hissi"
+    "süre baskısı ve kronikleşmiş zaman stresi",
+    "ölümlülük ve geçicilik kaygısı",
+    "bozuk saatlerin yansıttığı yaşam düzenindeki kesintiler",
+    "fırsat kaçırma korkusu"
   ],
   "contextDependentAssociations": [
-    "Saatin kaç gösterdiği",
-    "Saatin çalışıp çalışmadığı (ya da bozuk olup olmadığı)",
-    "Rüya sahibinin o anki yaşam evresi ve psikolojik baskıları",
-    "Alarm sesinin uyandırdığı aciliyet hissi"
+    "Çalar saatin dışsal bir uyaran olarak rüya kurgusuna eklenmesi.",
+    "Açık veya örtük zaman öğelerinin farklı bilinçdışı çatışmalara işaret etmesi.",
+    "Saatin tıkırtısının veya durmasının yarattığı duygusal ton farklılıkları."
   ],
   "commonVariations": [
     {
-      "title": "Saatin Durması veya Bozulması",
-      "description": "Rüyada saatin durduğunu veya bozulduğunu görmek, zamanın kontrolünü yitirme hissi, ölüm korkusu ya da çözülmemiş bazı kaygılarla ilişkilendirilir."
+      "title": "Hızla İlerleyen Saat",
+      "description": "Zamanın kontrolden çıktığını veya akıp gittiğini gösteren, günlük yaşamdaki sorumluluklar karşısında duyulan aciliyet hissini ve süre baskısını yansıtan senaryo."
+    },
+    {
+      "title": "Duran veya Bozulmuş Saat",
+      "description": "Zaman algısının kesintiye uğradığını, yaşam akışında bir duraksama ya da bilinç ile bilinçdışı arasındaki düzenin farklılaşmasını gösteren imge."
     },
     {
       "title": "Çalar Saatin Çalması",
-      "description": "Çalar saatin çalması, günlük yaşamın düzenine uyma zorunluluğunu, belirli bir saatte uyanma yükümlülüğünü ve yaklaşan sorumluluk baskısını simgeler."
+      "description": "Örneğin çalar saat gibi dışsal bir uyaranın rüya kurgusuna dahil olması, bilinçdışında bir çatışmayı tetikleyebilir."
     },
     {
-      "title": "Hızlı İlerleyen Akrep ve Yelkovan",
-      "description": "Saatin kollarının çok hızlı döndüğünü görmek, zamanın hızla akıp gittiği hissini, yaşlanma kaygısını ve yetişilemeyen işlerin yarattığı stresi akla getirir."
-    },
-    {
-      "title": "Belirli Bir Vakti Gösteren Saat",
-      "description": "Saatin belirli bir zaman dilimini işaret etmesi, klasik geleneklerde beklenen bir haberin, işin veya vaadin gerçekleşeceği vaktin yaklaşmasıyla yorumlanır."
+      "title": "Kol Saati Görmek",
+      "description": "Kişisel yaşam evreleri, yaşlanma, ölümlülük farkındalığı ve bireysel zamanın ölçülmesiyle doğrudan ilişki kuran imge."
     }
   ],
-  "psychology": "Ampirik uzun rüya dizisi analizleri, saat temasının rüyalarda son tarihler, zamanın tükenmesi, hastalık ve ölüm yakınlığı gibi temalarla sıkça birlikte görüldüğünü göstermektedir. Ayrıca bu tür imgeler, özellikle biyolojik saat ve çocuk sahibi olma zamanının sınırlılığı gibi meselelerle de bağlantılı bulunmuştur. Psikanalitik düzlemde ise Freud'un örneklerinde çalar saat, sabit bir saatte uyanma yükümlülüğü ve toplumsal olarak düzenlenmiş günlük yaşam ile bireyin dürtüsel yönü arasındaki gerilimi temsil eder.",
-  "jungian": "Jungcu analitik psikoloji çerçevesinde saat, insan ruhunun zamanın akışına takılmasını, yaşam evrelerini ve ölümlülük farkındalığını somutlaştıran bir zaman imgesidir. Bireyin kendi içsel gelişim sürecinde zamanın sınırlılığını idrak etmesi ve ömrün farklı evreleriyle yüzleşmesi bağlamında ele alınır.",
-  "islamicTradition": "Klasik İslami rüya tabirlerinde saat objesi, rüya sahibinin gördüğü vakte denk düşen bir rızık veya maddi imkana işaret edebilir. Alarm saati ise sıkıntıların açığa çıkması, verilen sözlerin tutulması veya bazı durumlarda maddi anlamda bir ferahlama ile bağdaştırılır. Zamanın belirli bir vaktine yapılan vurgu, genellikle beklenen bir işin veya dileğin gerçekleşeceği zamana işaret eder.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Doğu geleneklerinde ve felsefi yaklaşımlarda zamanın döngüselliği ve oluşun geçiciliği ön plandadır. Saat benzeri zaman imgeleri, varoluşun kesintisiz akışını ve her şeyin geçici olduğu döngüsel doğayı düşündüren unsurlar olarak değerlendirilebilir.",
-  "spiritualApproaches": "Modern spiritüel ve ezoterik yorumlarda saat, yaşa ve zamana ilişkin bilgiyi görünür kılan, kutsal zamanı, dönüşümü ve ruhsal uyanışı simgeleyen bir araç olarak ele alınır.",
+  "psychology": "Ampirik rüya araştırmalarında saat içeren imgelerin tüm rüyalar içindeki oranı oldukça düşüktür ve bu imgeler çoğunlukla zaman yönetimi ve zaman farkındalığıyla ilişkilendirilir. Psikanalitik düzlemde rüyada zamanın açık ya da örtük olarak yer alması, bilinçdışı çatışmaların bir göstergesi olarak okunabilir; açık zaman öğeleri genellikle geçmişteki erken olaylara bağlanırken, örtük zaman öğeleri güncel çatışmalara işaret edebilir. Ayrıca, örneğin bir çalar saat gibi dışsal bir uyaranın rüya kurgusuna dahil olması klasik psikanalitik literatürde belgelenmiştir.",
+  "jungian": "Jungcu analitik psikolojide saat, insan psişesinin zamanın geçişine odaklanmasını, yaşam evrelerini, doğal döngüleri ve ölüm farkındalığını simgeler. Marie-Louise von Franz'a göre saat, ölümlülüğü hatırlatan işlevinin yanı sıra bazen zamanla sınırlı dünyaya karşı zamansız bir düzeni çağrıştırarak Benlik (Self) arketipiyle bağ kurabilir. Sıradan mekanik zamanın ötesinde psişik merkeze ve zamansızlık düşüncesine açılan olağandışı bir simge olarak ele alınır.",
+  "islamicTradition": "Modern İslami rüya tabiri ve aktarımlarında, saatin tıkırtısı veya saatin kendisi doğrudan zamanın akışı, talih, belirleyici kararlar, yaklaşan önemli meseleler, yaşamdaki önemli olaylar ve doğru yolda ilerleme gibi temalarla ilişkilendirilmektedir. Klasik ana metinlerde doğrudan yer almasa da ömür, kader, sorumluluk, dua vakitleri ve ilahi zamanlama çerçevesinde ele alınır.",
+  "christianTraditions": "Hristiyan teolojik ve kültürel okumalarında saat, mekanik bir araç olmanın ötesinde zamanın Tanrı'dan gelen bir armağan olması ve insanın bu zamanı bilgece kullanma sorumluluğunu simgeler. Hayatın belirli bir dönemi için ilahi takvim, aciliyet duygusu ve hizmet disiplini gibi temaları öne çıkarır.",
+  "jewishTraditions": "Yahudi geleneğinde zaman, yaratılışın düzeni ve kutsal zaman döngüleriyle yakından bağlantılıdır. Günün bölümlenmesi, mevsimsel saatler (shaot zmaniot) ve ölçülen zaman anlayışı, rüyada zamanın sınırlandırılmış ve düzenlenmiş bir ritim olarak ele alınmasına zemin hazırlar. Rüyaların yorum gerektirdiği inancı, sembolün bağlama göre okunmasını destekler.",
+  "buddhistEasternApproaches": "Budist ve doğu kökenli yaklaşımlarda rüyalar sabit sembol sözlüklerine dayanmaz; zihinsel hâle, koşullara ve anlık farkındalığa bağlıdır. Zamanın geçişi, değişkenliği ve bu değişkenliğin farkındalık pratiğiyle ilişkisi vurgulanır, böylece saat gibi imgelerin mutlak ve tek bir anlamla sabitlenemeyeceği kabul edilir.",
+  "spiritualApproaches": "Spiritüel ve ezoterik okumalarda saat, çoğunlukla zamanın geçişi, geçicilik ve sınırlılık bilinciyle ilişkilendirilir. İçsel uyanış, zaman baskısından sıyrılma, öncelikleri yeniden gözden geçirme ve yaşam ritmiyle uyum arayışı simgelenir. Ezoterik simyada ise dışsal mekanik zamandan ziyade içsel olgunlaşma sürecinin temposunu ifade eder.",
   "comparisonTable": [
     {
       "approach": "Ampirik Psikoloji",
-      "interpretation": "Zaman baskısı, son teslim tarihi stresi, geçicilik ve ölüm yakınlığıyla ilişkili ampirik bulgular sunar.",
+      "interpretation": "Zaman yönetimi, süre baskısı ve bağlamsal zaman farkındalığı örüntüleri.",
       "evidenceLevel": "research"
     },
     {
-      "approach": "Psikanalitik Çerçeve",
-      "interpretation": "Çalar saati günlük yaşam düzeni ve uyanma zorunluluğu etrafındaki toplumsal baskıyla bağdaştırır.",
+      "approach": "Psikanaliz",
+      "interpretation": "Bilinçdışı çatışmalar, dışsal duyusal uyaranların (çalar saat) düşe katılması ve erken/güncel olay bağlantıları.",
       "evidenceLevel": "theoretical"
     },
     {
       "approach": "Jungcu Psikoloji",
-      "interpretation": "Yaşam evreleri, ölümlülük farkındalığı ve ruhun zamanın akışına uyum sağlama süreci olarak yorumlar.",
+      "interpretation": "Ölümlülük farkındalığı, yaşam evreleri, psişik merkez ve Benlik (Self) ile bireyleşme süreci.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Rızık, vaktin gelmesi, vaadin gerçekleşmesi ve alarm üzerinden verilen sözlerin tutulmasıyla açıklar.",
+      "approach": "İslami Yaklaşım",
+      "interpretation": "Zamanın akışı, talih, baht güzelliği, yaklaşan önemli kararlar ve sorumluluk bilinci.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Spiritüel Yaklaşım",
-      "interpretation": "Kutsal zaman, dönüşüm, ruhsal uyanış ve yaş bilinci ekseninde ele alır.",
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "İlahi zamanlama, zamanın Tanrı armağanı olması ve doğru kullanım sorumluluğu.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "İçsel uyanış, yaşam ritmi, geçicilik farkındalığı ve dönüşümün kendi temposu.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplin ve geleneklerin hemen hepsinde saat sembolü, zamanın durdurulamaz akışı, sınırlı yaşam süresi ve bireyin bu akış karşısındaki konumu etrafında şekillenir.",
-  "differences": "Psikolojik yaklaşımlar saati çoğunlukla kaygı, ölüm farkındalığı ve biyolojik baskılarla ele alırken; geleneksel ve spiritüel okumalar zamanı rızık, ilahi vakit, vaatlerin gerçekleşmesi ve ruhsal dönüşüm gibi daha geniş anlam alanlarına taşır.",
-  "inusAssessment": "INUS analitik yaklaşımı, saat sembolünün rüyada ortaya çıkış bağlamının son derece belirleyici olduğunu vurgular. Saat tek başına ne saf bir müjde ne de doğrudan bir tehdittir; rüya görenin zamanın baskısı altında mı hissettiği, saatin çalışıp çalışmadığı veya hangi yaşam evresinden geçtiği sembolün asıl yönünü belirleyen koşullar kümesini oluşturur.",
+  "commonGround": "Farklı disiplinler ve gelenekler, saatin temel olarak \"zaman\", \"sınır\" ve \"düzen\" kavramları etrafında şekillendiği konusunda hemfikirdir.",
+  "differences": "Yaklaşımlar arasındaki temel ayrım odak noktasındadır; ampirik psikoloji anlatıdaki anlamsal örüntülere ve zaman farkındalığına odaklanırken, psikanaliz dış uyaranlar ve bilinçdışı çatışmalara eğilir. Jungcu ekol bireyleşme ve arketipsel merkez kavramını öne çıkarırken, dini gelenekler ilahi düzen, sorumluluk ve kader ekseninde yorum yapar. Spiritüel okumalar ise daha çok içsel ritim ve uyanış çağrısı üzerine odaklanır.",
+  "inusAssessment": "Rüyada saat görmek, sabit ve tek bir kehanete indirgenemeyecek kadar katmanlı bir semboldür. Onu ele alırken saatin rüya içindeki işlevine (hızlı akması, durması, çalması veya sadece bir nesne olarak bulunması) ve uyandırdığı duygu tonuna bakmak gerekir. Zaman baskısı ve ölümlülük hissiyle beliren bir saat ile ilahi düzen veya içsel olgunlaşma ritmini simgeleyen bir saat tamamen farklı psikolojik ve ruhsal dinamiklere işaret eder; bu yüzden rüyanın bütünü ve bireyin o anki yaşam bağlamı en temel rehberdir.",
   "faq": [
     {
       "question": "Rüyada saatin durması ne anlama gelir?",
-      "answer": "Psikolojik ve analitik bağlamda saatin durması, genellikle zamanın kontrolünü kaybetme korkusu, çözülmemiş içsel kaygılar veya ölüm/yaşlanma farkındalığıyla ilişkilendirilir."
+      "answer": "Duran saat imgeleri, Jungcu ve spiritüel okumalarda zamanı deneyimleme biçimindeki bir kesintiyi, yaşam akışında duraksamayı ya da bilinç ile bilinçdışı arasındaki düzenin farklılaşmasını işaret edebilir."
     },
     {
-      "question": "Çalar saat sesiyle uyanmak rüyada ne ifade eder?",
-      "answer": "Freudcu ve psikodinamik çerçevede çalar saat, günlük yaşamın getirdiği sorumlulukları, belirli bir saatte uyanma zorunluluğunu ve toplumsal zaman düzenine uyma baskısını yansıtır."
+      "question": "Rüyalarda çalar saat görmek neyi ifade eder?",
+      "answer": "Freudcu çerçevede çalar saat, uykuda algılanan bir dış uyaranın rüya kurgusuna karışmasının klasik bir örneğidir."
     },
     {
-      "question": "İslami rüya geleneğinde saat görmek nasıl yorumlanır?",
-      "answer": "Klasik tabirlerde saat objesi görülen vakte denk düşen rızıkla veya beklenen bir haberin, vaadin gerçekleşeceği zaman dilimiyle ilişkilendirilir."
+      "question": "Saat sembolü kesin bir geleceğe işaret eder mi?",
+      "answer": "Hayır; modern araştırmalar ve psikolojik ekoller saat sembolünün kesin bir kehanet olmadığını, aksine rüya sahibinin zaman bilinci, sorumlulukları ve geçicilik algısıyla ilgili psikolojik ve bağlamsal durumları yansıttığını belirtir."
     }
   ],
   "sources": [
     {
       "title": "Clocks in Dreams: Analysis of a Long Dream Series - PMC",
-      "relevance": "Saat imgelerinin rüyalarda zaman baskısı, geçicilik, ölüm yakınlığı ve biyolojik saat temalarıyla ilişkisini anlatan ampirik bir uzun rüya dizisi analizini içerir.",
+      "relevance": "Uzun bir rüya serisinde saat imgelerinin görülme sıklığını ve bu imgelerin zaman yönetimiyle ilişkili bağlamlarını raporlayan makale.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8699847/"
     },
     {
+      "title": "The Language of Dreams: Application of Linguistics-Based ...",
+      "relevance": "Rüya anlatılarının dilbilim temelli içerik analiziyle nasıl çözümlenebileceğini tartışan derleme; saat gibi nesne imgelerinin içerik analizine yöntemsel zemin sağlar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34563057/"
+    },
+    {
+      "title": "A Novel Approach to Dream Content Analysis Reveals Links ...",
+      "relevance": "Rüya içerik analizinde semantik benzerlik ölçümü kullanan çalışma; rüya imgelerinin bağlama göre nicel incelenmesine yöntem sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6088287/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüyada dış duyusal uyaranların, özellikle çalar saatin, düş içeriğine nasıl katılabildiğini gösteren temel metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Time and the dream",
+      "relevance": "Rüyada zamanın açık ya da örtük olarak belirebilmesinin bilinçdışı çatışmayla ilişkisini tartışan psikanalitik çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7204869/"
+    },
+    {
+      "title": "Psyche and Matter - Archive.org",
+      "relevance": "Modern rüyalarda saatin ölümlülük, zamanlı yaşam ve zaman dışı dünya düzeni arasındaki gerilimi nasıl taşıyabildiğini anlatır.",
+      "url": "https://ia600709.us.archive.org/11/items/psicology/Psyche%20and%20Matter%20-%20Marie-Louise%20von%20Franz.pdf"
+    },
+    {
       "title": "Clock - Dream Symbol - Dreampaths",
-      "relevance": "Saat sembolünü Jungcu psikoloji içinde zamanın akışı, yaşam evreleri ve ölümlülük farkındalığıyla ilişkilendiren yorumlayıcı çerçeve sunar.",
+      "relevance": "Saat sembolünü Jungcu psikoloji içinde zaman farkındalığı, yaşam evreleri, bireyleşme ve Self ile ilişkilendiren özet bir Jungcu sunum sağlar.",
       "url": "https://dreampaths.com/symbol/clock"
     },
     {
-      "title": "Sigmund Freud: The Interpretation of Dreams",
-      "relevance": "Çalar saatin rüya örneği içindeki işlevini ve gündelik zaman düzeniyle ilişkisini gösterir.",
-      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+      "title": "Dream Symbols Of The Individuation Process: Notes Of C.G. Jung’s Seminars On Wolfgang Pauli’s Dreams 0691183619, 9780691183619 - DOKUMEN.PUB",
+      "relevance": "Jung’un, Pauli’nin rüyaları üzerine tartışmalarında saatin psişik merkez, ebediyet ve zamansızlıkla ilişkilendirildiği pasajları içerir.",
+      "url": "https://dokumen.pub/dream-symbols-of-the-individuation-process-notes-of-cg-jungs-seminars-on-wolfgang-paulis-dreams-0691183619-9780691183619.html"
     },
     {
-      "title": "IBN SEERiN'S",
-      "relevance": "İslami rüya geleneğinde saat/zaman sembolüne atfedilen klasik anlamları derleyen dijital PDF; saat, alarm saati ve belirli vakitler için doğrudan yorumlar içerir.",
-      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Greko-Romen rüya yorum geleneğinin temel metni; zaman, uygun an ve eylem düzeniyle ilgili sembolik çerçeveyi anlamak için ana tarihsel dayanak.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "The Body, Experience, and the History of Dream-Science ... - EBSCO",
+      "relevance": "Artemidorus’un *Oneirocritica*’sının tarihsel önemini ve antik rüya yorumu literatüründeki yerini özetleyen akademik kayıt.",
+      "url": "https://www.ebsco.com/articles/social-sciences-and-humanities/cc899927-e667-5231-a383-1c81a19159c5/the-body-experience-and-the-history-of-dream-science-in-artemidorus-oneirocritica"
+    },
+    {
+      "title": "Artemidorus, Dream Interpretation 3.66 - aleator classicus",
+      "relevance": "Eserde zaman ölçümü ve insan eylemlerinin saatlerle/uygun zamanlarla ilişkisini gösteren pasaj; modern saatten farklı olarak antik zaman sembolizmini aydınlatır.",
+      "url": "https://aleatorclassicus.wordpress.com/2013/12/16/artemidorus-interpretation-of-dreams-3-66/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri S Harfi",
+      "relevance": "Saat için zamanın akışı ve talihin güzelliği temasını aktaran modern İslami rüya tabiri sayfası.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-s1-harfi.html"
+    },
+    {
+      "title": "İslami Rüya Tabirleri, Nablusi, Kirmani, İbn-i Sirin, İmam Cafer Sadık, Seyyid Süleyman, Danyal - S-Ş",
+      "relevance": "Saati belirleyici karar ve önemli bir meseleyle ilişkilendiren modern derleme.",
+      "url": "https://www.medicentertv.com/islami-ruya-tabirleri-nablusi-kirmani-ibn-i-sirin-imam-cafer-sadik-seyyid-suleyman-danyal-s-s"
+    },
+    {
+      "title": "تعبیر خواب الساعه در خواب ابن سیرین - تعبیرگر",
+      "relevance": "Saati yaşamda önemli olaylar, yeni başlangıç ve hedefe ilerleme bağlamında yorumlayan modern Farsça kaynak.",
+      "url": "https://tabirgar.ir/dream/45344/"
+    },
+    {
+      "title": "تفسير حلم الساعه في السماء - صحيفة السوسنة الأردنية",
+      "relevance": "Saati vakitler, dua saati ve zaman işaretleri üzerinden yorumlayan modern Arapça aktarım.",
+      "url": "https://www.assawsana.com/article/640241"
+    },
+    {
+      "title": "What Does Dreaming About Clock Mean? - Rüya Tabirleri",
+      "relevance": "Saat sembolünün klasik kaynaklarda doğrudan yer almadığını ve zaman-ömür-sorumluluk çerçevesinde ele alındığını söyleyen modern yorum sayfası.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-a-clock"
+    },
+    {
+      "title": "The Biblical Significance of a Clock in a Dream: Unlocking Spiritual Encounters - John Baptist Church",
+      "relevance": "Rüyadaki saati Tanrı’nın düzeni, aciliyet ve zaman yönetimiyle ilişkilendiren Hristiyan yorum metni.",
+      "url": "https://johnbaptistchurch.org/biblical-meaning-concepts/clock-in-a-dream"
+    },
+    {
+      "title": "Clocks: The Heritage of the Christian Faith",
+      "relevance": "Saatin Hristiyan yaşamında zamanı düzenleyen ve hizmet disiplinine bağlanan bir araç olarak ele alındığı kültürel yazı.",
+      "url": "https://chalcedon.edu/resources/articles/clocks-the-heritage-of-the-christian-faith"
+    },
+    {
+      "title": "Biblical Meaning of Clock: Understanding God’s Timing in Our ...",
+      "relevance": "Saatin Hristiyan teolojide zamanın Tanrı’dan gelen bir armağan oluşu ve insan sorumluluğu ile ilişkilendirilmesini ele alan yazı.",
+      "url": "https://biblicalchronology.com/biblical-meaning-of-clock/"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Talmudik rüya yorumu ilkelerine dair derleme; rüyaların yorumla anlam kazandığı fikrini özetler.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "ZmanimClock | The world's first clock to run on Shaot Zmaniot.",
+      "relevance": "Yahudi zaman hesabında 'shaot zmaniot' kavramını açıklar.",
+      "url": "http://www.zmanimclock.com/"
+    },
+    {
+      "title": "Hashaon — The Clock",
+      "relevance": "Modern İbranice'de \"sha'on\" sözcüğünün \"saat\" anlamına gelişini ele alır.",
+      "url": "https://daytonjewishobserver.org/2016/02/hashaon-the-clock/"
+    },
+    {
+      "title": "David HaMelech's Clock | Sefaria",
+      "relevance": "Zamanın yaratılış düzeniyle ilişkilendirilmesine dair sembolik bir okuma sunar.",
+      "url": "https://www.sefaria.org/sheets/451616"
+    },
+    {
+      "title": "HOROLOGY - JewishEncyclopedia.com",
+      "relevance": "Yahudi tarihsel bağlamında güneş saati ve su saatinin kullanımını açıklar.",
+      "url": "https://www.jewishencyclopedia.com/articles/7871-horology"
+    },
+    {
+      "title": "Halachic Clock",
+      "relevance": "Halakhik saatte oransal saat (proportional hour) kavramını ve günün uzunluğuna göre saatlerin nasıl değiştiğini açıklar.",
+      "url": "https://www.myzmanim.com/clockdemo.aspx"
+    },
+    {
+      "title": "[PDF] Time on - MyZmanim.com",
+      "relevance": "Halakhik günün 12 bölüm olarak ele alınmasını anlatan yazı.",
+      "url": "https://www.myzmanim.com/read/MishpachaGreer.pdf"
+    },
+    {
+      "title": "שעון (sha'on) — clock; watch",
+      "relevance": "Talmudik zaman anlayışına atıf yaparak günün 12 saat olarak düşünülmesini gösterir.",
+      "url": "https://www.elongilad.com/en/etymology/%D7%A9%D7%A2%D7%95%D7%9F"
+    },
+    {
+      "title": "Significance of Dreams",
+      "relevance": "Rüyaların Yahudi kaynaklarındaki yorumlanma ve telafi edilme pratiklerini özetler.",
+      "url": "https://aish.com/significance-of-dreams/"
+    },
+    {
+      "title": "Spiritual Meaning of Time in a Dream: A Deep Exploration of ...",
+      "relevance": "Budist ve Hindu bağlamda zamanın döngüsel kavranışı ile rüyada zamanın görünmesini ilişkilendiren modern bir özet.",
+      "url": "https://wordsspark.com/spiritual-meaning-of-time-in-a-dream/"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Buddhist rüya yaklaşımında sembollerin sabit bir sözlük gibi okunmaması gerektiğini vurgulayan metin.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Dreams",
+      "relevance": "Budist perspektifte rüyaların geçicilik ve farkındalıkla ilişkisini anlatan bir açıklama.",
+      "url": "https://buddhism-today.org/dreams/"
+    },
+    {
+      "title": "Chapter 229 - The significance of Dreams (svapna-adhyāya)",
+      "relevance": "Saatin rüya bağlamında geçicilik, zamanın akışı ve ruhsal düzeyde yaş ve zaman bilinciyle ilişkilendirildiğini açıkça belirtiyor.",
+      "url": "https://www.wisdomlib.org/hinduism/book/the-agni-purana/d/doc1083458.html"
+    },
+    {
+      "title": "Clock, dream interpretation, interpreter of dreams, ...",
+      "relevance": "Saatin rüya bağlamında geçicilik, zamanın akışı ve ruhsal düzeyde yaş/ zaman bilinciyle ilişkilendirildiğini açıkça belirtiyor.",
+      "url": "http://www.dreamtation.com/docs/6586.htm"
     },
     {
       "title": "Clock Dream Meaning & Interpretation - Mirror",
-      "relevance": "Saat sembolünü Budist ve Hindu zaman anlayışlarıyla ilişkilendiren çevrimsel zaman ve geçicilik yorumları içerir.",
+      "relevance": "Saatin spiritüel anlamını zaman baskısı, dönüşüm, içsel uyanış ve kutsal zaman farkındalığı etrafında topluyor.",
       "url": "https://mirrorwithin.org/dream-dictionary/clock/"
     },
     {
       "title": "Clock Dream Meaning & Interpretation | DreamIO",
-      "relevance": "Saatin rüyada zamanın akışı, ölümlülük ve geçicilikle bağlantısını ele alır; modern spiritüel yorum örneğidir.",
+      "relevance": "Saati yaşamın geçiciliği ve ölüm farkındalığıyla ilişkilendirerek rüya sembolünün temel zaman-temalı okumasını destekliyor.",
       "url": "https://dreamio.ai/en/dream-dictionary/clock"
     },
     {
-      "title": "Time Clock Dream Meaning: Deadlines, Life Rhythms, and ...",
-      "relevance": "Saat ve zamanın Budist bağlamda geçicilik ve anda farkındalıkla ilişkilendirilmesini kısa biçimde özetler.",
+      "title": "9 Spiritual Meanings of Dreaming About a Clock ... - Sacred Pointers",
+      "relevance": "Saati ezoterik/spiritüel anlatım içinde zaman, ritim ve içsel uyanış temasına bağlayan genel bir sembolik okuma sunuyor.",
+      "url": "https://sacredpointers.com/dream-of-clocks-spiritual-meaning/"
+    },
+    {
+      "title": "Clock dreams: deadlines, mortality, and measured time",
+      "relevance": "Saat için düzen, ölümlülük, ritim ve ölçülü zaman kavrayışı etrafında sembolik bir çerçeve veriyor; rüya yorumunda mekanik zaman ile içsel hazırlık gerilimini öne çıkarıyor.",
+      "url": "https://www.echodream.io/interpret/clock-dreams"
+    },
+    {
+      "title": "Clock Symbolism & Meaning: What It Represents",
+      "relevance": "Saat sembolünü yaşam evreleri, son tarihler, yaşlanma ve zamanın ölçülmesiyle ilişkilendiren spiritüel/yorumlayıcı bir okuma sunuyor.",
+      "url": "https://mymythos.org/archetype/clock/"
+    },
+    {
+      "title": "Time Clock Dream Meaning: Deadlines, Life Rhythms, and What ...",
+      "relevance": "Saat rüyasını zaman baskısı, yaşamsal öncelikler ve içsel tempo üzerinden yorumlayan modern spiritüel bir çerçeve sağlıyor.",
       "url": "https://www.dreamspoken.com/en/dream-meaning/time-clock"
     },
     {
-      "title": "Clock, dream interpretation, interpreter of dreams, ...",
-      "relevance": "Saat sembolünün spiritüel düzeyde zaman bilgisi ve yaşa ilişkin bir işaret olarak yorumlandığı bir ezoterik metindir.",
-      "url": "http://www.dreamtation.com/docs/6586.htm"
+      "title": "Clock Dream Meaning: Time, Deadlines & Urgency",
+      "relevance": "Saati zaman, son tarihler ve hayatın öncelikleriyle bağlantılandıran kısa bir sembolik tanım veriyor.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/clock/"
     },
     {
-      "title": "Spiritual Meaning of Time in a Dream: A Deep Exploration of ...",
-      "relevance": "Zamanın rüyadaki ruhsal anlamını, özellikle Hindu ve Budist çerçevelerde döngüsellik ve farkındalıkla ilişkilendiren modern bir yorum sunar.",
-      "url": "https://wordsspark.com/spiritual-meaning-of-time-in-a-dream/"
+      "title": "Dream About a Clock: Meaning & Interpretation | Revalite - Astro Fame",
+      "relevance": "Saatin spiritüel yorumunu zaman, kader ve günlük farkındalık ekseninde ele alıyor; Sufi duyarlılığa yapılan kısa bir göndermeyi de içeriyor.",
+      "url": "https://my.astrofame.com/dream-interpretation/dream/clock/"
+    },
+    {
+      "title": "Esoterismo e Orologi: Il Tempo come Simbolo Iniziatico",
+      "relevance": "Saati ezoterik ve simyasal sembolizm içinde içsel dönüşümün, olgunlaşmanın ve inisiyatik zaman kavrayışının işareti olarak ele alıyor.",
+      "url": "https://contericcardo.com/2025/04/05/esoterismo-e-orologi-il-tempo-come-simbolo-iniziatico/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
 }

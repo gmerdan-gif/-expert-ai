@@ -1,87 +1,208 @@
 {
   "slug": "hirsiz",
   "title": "hırsız",
-  "shortDescription": "Rüyada hırsız görmek, kişisel sınırların, güvenlik duygusunun ya da sahip olduklarını kaybetme endişesinin öne çıktığını gösterebilir. Görmezden gelinen ihtiyaçları veya bastırılmış istekleri de gündeme taşıyabilir.",
+  "shortDescription": "Rüyalarda hırsız figürü genellikle sınır ihlali ve izinsiz alınma temasına işaret eder; ayrıca güven, zaman, itibar veya içsel kaynaklar gibi değerlerin kaybı hissiyle ilişkilendirilir. Detaylar — çalınan nesne, hırsızın tanınması, evin hedef alınması — yorum yönünü belirler.",
   "positiveAssociations": [
-    "Göz ardı edilen yeteneklerin veya ihtiyaçların farkına varılması",
-    "Özel alan ve kaynaklara ilişkin korunma stratejilerinin güçlenmesi",
-    "Bilinçli düzeyde ele alınması gereken gölge yönlerinin ortaya çıkması"
+    "Bastırılmış yönlerin fark edilmesi ve gölgeyle yüzleşme fırsatı",
+    "Erken uyarı: yaşamda gizlice zarar veren bir durumun veya hilekâr bir ilişkinin açığa çıkması",
+    "Sınırları yeniden belirleme, kayıp algısını onarma ve korunma motivasyonunun güçlenmesi"
   ],
   "challengingAssociations": [
-    "Mülkiyet, bağlılık veya ilişkilerde kaybolma/mahrumiyet kaygısı",
-    "İzinsiz müdahale veya sınırların aşılması hissi",
-    "Gizli suçluluk duyguları ya da üstü örtülmüş dürtülerin yol açtığı huzursuzluk"
+    "Mahremiyetin veya özel alanın ihlali hissi",
+    "Özgüven, itibar, zaman veya iç huzurun izinsiz elden çıkma kaygısı",
+    "Suçluluk ve açgözlülük imgeleri, içsel dürtülerin (gölgelerin) enerji tüketimi."
   ],
   "contextDependentAssociations": [
-    "Hırsızın kimliği (tanıdık/uzak biri), rüyanın ilişki veya içsel mesaj odaklarını değiştirir",
-    "Rüyanın mekânı (ev, işyeri, açık alan), kişisel alan ya da profesyonel sınır vurgusunu belirler",
-    "Hırsızlık nesnesi (para, zaman, sevgi), rüyanın kayıp türüne dair ipucu verebilir"
+    "Hırsızın tanınması: tanıdık bir hırsız varsa rüya içi özdeşleşme ya da ilişkiye dair bastırılmış gerilim akla gelir",
+    "Çalınan şeyin niteliği (para, mücevher, belge, çocuk eşyası, sağlık): hangi yaşam alanında tehdit algılandığını gösterir",
+    "Eve ya da özel alana girme: mahremiyet ve kişisel sınırların ihlalini vurgular. Olayın sokakta gerçekleşmesi ise daha çok sosyal ilişkiler, kamusal itibar veya toplum içindeki konumla ilgili bir tehdide işaret edebilir."
   ],
   "commonVariations": [
     {
-      "title": "Evine hırsız girmesi",
-      "description": "Mahremiyetin veya kişisel güvenliğin dışsal/psişik bir unsur tarafından ihlal edildiği duygusunu yansıtabilir."
+      "title": "Evime Hırsız Girdiğini Görmek",
+      "description": "Özel alanın, mahremiyetin veya ailevi/güvenli alanın tehdit edildiğinin ve günlük yaşamda sınırların zedelenmiş olabileceğinin işareti."
     },
     {
-      "title": "Bir hırsızı kovalamak",
-      "description": "Kontrolü yeniden sağlamaya yönelik çaba, kayıp bir değerin geri alınması arayışı veya yüzleşilmeyen bir meseleyle hesaplaşma eğilimi olabilir."
+      "title": "Değerli Eşyalarımın Çalındığını Görmek",
+      "description": "Özgüven, itibar ya da ruhsal/maddi değerlerin kaybına dair kaygı; çalınan nesnenin türü hangi değerin kaybedildiğini gösterir."
     },
     {
-      "title": "Hırsızı suçüstü yakalamak",
-      "description": "Bilinç düzeyine yeni çıkan bir tehdidin, suçluluk ya da gizli bir durumun somutlaşması olarak okunabilir."
+      "title": "Hırsızı Yakaladığını veya Kovduğunu Görmek",
+      "description": "Kontrolü yeniden ele alma, sınırları savunma ve tehdide karşı aktif tepki vermeye yönelik psikolojik kaynakların devrede olduğunu gösterir."
     },
     {
-      "title": "Kendinin hırsızlık yaptığını görmek",
-      "description": "Sahiplik, hak etme veya yasak kabul edilen arzularla ilgili içsel çatışmaların işareti olabilir."
+      "title": "Kendimin Hırsızlık Yaptığını Görmek",
+      "description": "Baskılanmış arzu, suçluluk veya kendi davranışlarının zarar verici yönleriyle yüzleşmeyi; içsel çatışma ve özdeşleşme dinamiklerini gösterebilir."
     }
   ],
-  "psychology": "Ampirik psikoloji çalışmalarında hırsız figürünün tek ve evrensel bir yorumu olmadığı vurgulanır; rüya genellikle bireyin güvenlik, sahiplik veya sınır algısına dair öznel kaygıları içerir. Psikanalitik çerçevede ise hırsızlık teması, bastırılmış istekler, suçluluk hissi veya denetim sorunlarıyla ilişkilendirilen teorik okumalar sunar (teorik düzeyde).",
-  "jungian": "Jungcu analizde hırsız imgesi, ego ile bilinçdışı arasında gerilim yaratan ve gölgeye ait unsurların fark edilmesini sağlayan bir motif olarak ele alınabilir. Murray Stein ve IAAP kaynakları çerçevesinde hırsızlık eylemi, benliğin ihmal ettiği bir yönün izinsizce \"alınması\" şeklinde sembolik bir ifade taşır; bu durum rüya görenin bilinçle yüzleşmesi gereken bir içeriğe işaret edebilir.",
-  "islamicTradition": "",
+  "psychology": "Ampirik rüya araştırmaları rüyaların büyük kısmının en az bir duygu içerdiğini ve korku ile kaygının sık bildirilen duygular arasında olduğunu göstermektedir. Gece ilerledikçe rüyaların duygusal yoğunluğu artabilir. Bu bağlamda hırsız imgeleri, genellikle tehdit, kayıp veya sınır ihlali duygulanımıyla bağlantılıdır; psikanalitik yaklaşımlar ise hırsızı gizli çatışmalar, suçluluk ya da rüya içi özdeşleşmeler ekseninde okur.",
+  "jungian": "",
+  "islamicTradition": "İslami rüya geleneği aktarımlarında (İbn Sîrîn, Nablusî gibi) hırsız çok katmanlı olarak yorumlanır: kurnaz/hilekâr kimse, bedenden sağlığı çalan hastalık, zina eden veya gıybet eden kişi gibi anlamlar verilmiştir. Ayrıntılar — hırsızın tanınıp tanınmaması, eve girme, çalınan şeyin niteliği — yorumu belirler.",
   "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
+  "jewishTraditions": "Yahudi hukuk ve etik yazıları hırsızlığı iade, değer ve onarım bağlamında ele alır; dolayısıyla rüyadaki hırsız imgesi kontrolsüz alım, sınır ihlali veya telafi gereksinimi ekseninde okunabilir.",
+  "buddhistEasternApproaches": "Budist metinlerde hırsızlık (steya) ‘verilmeyeni alma’ ve sahiplenme arzusu ile ilişkilendirilir; bu yüzden hırsız imgesi rüyalarda açgözlülük, yanlış benlik iddiası ve zihinsel kirlenmeler ekseninde kontrollü bir yorumla ele alınabilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda hırsız, dikkat, zaman, enerji veya iç huzurun dış etkenlerce izinsiz tüketilmesi; ayrıca gölge yönün bilinçdışından enerji çekmesi şeklinde metaforik olarak okunur.",
   "comparisonTable": [
     {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Rüyalarda korku ve kaygı duygularının sıklığı nedeniyle, hırsız teması tehdit, kayıp veya sınır ihlali duygulanımıyla ilişkilendirilmeye yatkındır.",
+      "evidenceLevel": "research"
+    },
+    {
       "approach": "Psikanaliz",
-      "interpretation": "Hırsızlık teması, bastırılmış arzular, suçluluk ve dürtü denetimi bağlamında teorik bir temsil sunar.",
+      "interpretation": "Hırsız figürü, görüngüsel içeriğin ötesinde gizli çatışmalar, suçluluk, yasaklanmış arzular veya rüya içi özdeşleşmelerin dolaylı ifadesi olarak okunabilir.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Analitik Psikoloji",
-      "interpretation": "Hırsız, gölge unsurların ve ego sınırlarının etkileşimini gösteren, bilinçdışının dikkati çekme biçimi olarak okunabilir.",
-      "evidenceLevel": "theoretical"
-    }
-  ],
-  "commonGround": "Kaynakların çoğu, hırsız imgesinin rüya görenin sınırlarına, güvenlik algısına ve bilinçdışındaki örtük yönlere gönderme yaptığını; anlamın ise bağlama ve öznel yaşama göre değiştiğini belirtir.",
-  "differences": "Psikanalitik metinler hırsızı daha çok bastırılmış dürtü ve suçluluk ekseninde tartışırken; Jungcu yaklaşım, imgeyi gölge-dinamiği ve ego telafisi çerçevesinde, daha arketipsel ve simgesel bir işlevle ele alır.",
-  "inusAssessment": "Hırsız sembolü tek başına belirleyici bir kehanet değildir. INUS perspektifiyle bakıldığında, bu imge genellikle rüya görenin içsel sınır ihlalleri, sahiplik ve güvenlik kaygıları ile ilişkili karmaşık bir koşulun parçasıdır; kesin anlamı ancak kişisel yaşam bağlamında değerlendirilmelidir.",
-  "faq": [
-    {
-      "question": "Rüyada hırsız görmek mutlaka gerçek bir kaybın işareti midir?",
-      "answer": "Hayır. Bu tür rüyalar genelde doğrudan bir kaybın habercisi olmaktan ziyade güvenlik ya da sahiplik duygusuyla ilgili öznel kaygıları ve sınır algısını yansıtır."
+      "approach": "İslami Gelenek",
+      "interpretation": "Geleneksel aktarım ve sözlü tabirlerde hırsız; hilekâr kişi, gizli zarar, hastalık veya nefsin simgesi gibi çok katmanlı anlamlar alır; bağlamsal ayrıntılar yorumu belirler.",
+      "evidenceLevel": "traditional"
     },
     {
-      "question": "Jungcu açıdan hırsız imgesi ne tür bir uyarı taşır?",
-      "answer": "Jungcu okumada hırsız, bilinçdışından gelen ve fark edilmesi gereken bir gölge yönünü veya ihmal edilen bir enerjiyi simgeler; bu, rüya görenin o yönle karşılaşmasının gerekliliğine işaret edebilir."
+      "approach": "Budist ve Etik Yaklaşım",
+      "interpretation": "Hırsızlık metaforu, sahiplenme, açgözlülük ve yanlış benlik iddiası bağlamında etik ve zihinsel kirlenme eleştirisi ekseninde yorumlanır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Spiritüel ve Esoterik",
+      "interpretation": "Hırsız figürü, enerji, huzur veya dikkat gibi iç kaynakların dış etkenlerle tüketilmesi ve kişisel sınırların ihlali biçiminde alegorik olarak okunabilir.",
+      "evidenceLevel": "spiritual"
     }
   ],
+  "commonGround": "Araştırma ve geleneksel okumalar ortaklaşa olarak hırsız sembolünü 'izinsiz alma', sınır ihlali ve değerli bir şeyin eksilmesi temaları etrafında toplar; hangi değerin hedef alındığı (maddi, duygusal, itibar veya enerji) yorumu belirler.",
+  "differences": "Psikolojik ve psikanalitik yaklaşımlar hırsızı içsel dinamikler, korku ve gölge ile ilişkilendirirken; bazı geleneksel/dini okumalar daha somut imgeler (hilekâr kişi, hastalık, ahlaki ihlal) üzerinden sentezleyici yorumlar önerir. Budist ve spiritüel yaklaşımlar ise etik ve enerji/metafor eksenlerine vurgu yapar.",
+  "inusAssessment": "Hırsız figürü tekil ve sabit bir anlam taşımaz; genellikle kişinin yaşamındaki sınır ihlalleri, kontrol kaybı endişeleri veya iç kaynakların tükenişine dair uyarı niteliğindedir. Rüyanın ayrıntıları — eve girme, çalınan nesnenin niteliği, hırsızın tanınması, rüya sahibinin duygu yoğunluğu ve hırsızla kurulan etkileşim (yakalama, kaçma) — sembolün yorum yönünü belirler; bu yön, korkuya dayalı bir kayıp beklentisinden kişisel sınırları onarma ve farkındalık kazanma çabasına kadar değişebilir.",
+  "faq": [],
   "sources": [
     {
-      "title": "Jung's Contributions to Psychoanalysis - Murray Stein",
-      "relevance": "Murray Stein'in Jungcu sembol anlayışını ve rüyada bilinçdışı ile ego arasındaki dinamiğin nasıl okunabileceğini açıklayan yazılarını özetler; hırsız imgesinin gölge/ego bağlamında yorumlanmasına zemin sağlar.",
-      "url": "https://www.murraystein.com/wp/jungs-contributions-to-psychoanalysis/"
+      "title": "Exploring emotional characteristics in dreams of clinical ...",
+      "relevance": "Klinik örneklemde rüya duygularının dağılımını vererek, hırsız gibi tehdit-kaybı çağrıştıran imgelerin sık görülen duygulanımla ilişkisini destekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/102923/99325/267300"
     },
     {
-      "title": "Symbol – International Association of Analytical Psychology – IAAP",
-      "relevance": "IAAP'nin kısa yazısı, sembollerin sabit bir anlamı olmadığını ve çok katmanlı okumalar gerektirdiğini vurgular; Jungcu çerçevede hırsız figürünün değerlendirilmesine kurumsal bir temel sunar.",
-      "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/symbol-2/"
+      "title": "DreamResearch.net: The content of dreams (Domhoff, 2005)",
+      "relevance": "Rüya içerik analizinde duygulanım sıklığı ve hoş olmayan duyguların baskınlığı üzerine özetlenmiş bulgular.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2005a.html"
     },
     {
-      "title": "Some Notes on Jungian Archetypes: Symbolism and the Politics of ...",
-      "relevance": "Jungcu ve psikanalitik yaklaşımlar arasındaki ayrımı ele alan tartışmacı bir metindir; hırsız temasının psikanalitik yorumlarının teorik bağlamda anlaşılmasına yardımcı olur.",
-      "url": "https://benjaminpedagogy.wordpress.com/2018/05/24/some-notes-on-jungian-archetypes-symbolism-and-the-politics-of-history/"
+      "title": "Relationships between Dream and Previous Wake Emotions ...",
+      "relevance": "Rüya ve uyanık duygular arasındaki bağlantıyı ve rüyalarda korkunun sık görülmesini ele alır; hırsız temasının duygusal tonu hakkında ampirik çerçeve sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601812/"
+    },
+    {
+      "title": "Nightly dynamics of emotional content in dreams - PubMed",
+      "relevance": "Gece ilerledikçe rüyaların duygusal yoğunluğunun artmasına dair yeni ampirik bulgular.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40803415/"
+    },
+    {
+      "title": "Psychoanalysis - Letter From Freud to Fliess",
+      "relevance": "Freud’a atfedilen örnek aracılığıyla hırsız figürünün rüyada özdeşleşme ve yanlış tanıma süreçleriyle nasıl okunabileceğine dair psikanalitik perspektif sağlar.",
+      "url": "https://www.freudfile.org/psychoanalysis/archive_4.html"
+    },
+    {
+      "title": "[PDF] Psychoanalysis, sleep and dreams - Wikimedia Commons",
+      "relevance": "Freudcu örneklerde hırsız figürünün rüyada suçluluk ve ilişki gerilimi içinde nasıl yorumlandığını gösteren çevrimiçi metin.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Psychoanalysis,_sleep_and_dreams_(IA_psychsleepdreams00tridiala).pdf"
+    },
+    {
+      "title": "Freud's Dream Interpretation: A Different Perspective Based ...",
+      "relevance": "Freud’un rüya kuramındaki görünen rüya ile gizli rüya içeriği ayrımını özetleyen akademik kaynak.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6115518/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritika geleneğinde gece dolaşan kişiler ve hırsız gibi figürlerin gizli eylem ve toplumsal düzen ihlali bağlamında yorumlandığına dair tarihsel bir çerçeve sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "The interpretation of dreams = Oneirocritica : Artemidorus ...",
+      "relevance": "Artemidorus’un Oneirocritica (Oneirokritika) metninin bibliyografik kaydıdır; hırsız teması için klasik oneirokritik bağlamı doğrular.",
+      "url": "https://archive.org/details/interpretationof0000arte"
+    },
+    {
+      "title": "Full text of \"Joannis Mylonopoulos Divine Images And Human Imaginations In Ancient Greece And Rome\"",
+      "relevance": "Antik Yunan dünyasında Artemidorus’un rüya yorumuna dair alıntılanan örneği aktarır; tapınak soygunu ve kutsal sunuları çalma temasını hırsızlık sembolüyle ilişkilendirir.",
+      "url": "https://archive.org/stream/JoannisMylonopoulosDivineImagesAndHumanImaginationsInAncientGreeceAndRome/Joannis%20Mylonopoulos%20Divine%20Images%20and%20Human%20Imaginations%20in%20Ancient%20Greece%20and%20Rome_djvu.txt"
+    },
+    {
+      "title": "Loss of Privacy (Ibn Sirin) - تفسير الأحلام الشامل",
+      "relevance": "İbn Sîrîn’e atfedilen hırsız yorumlarını aktararak İslami tabir geleneğinde hırsızın çok katmanlı anlamlarına dair ikincil kaynak örneği verir.",
+      "url": "https://ruya-ai.com/articles?id=Jt36AG1O9RvYzq5BPgoR&lang=en"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri H Harfi - Muhammed.net",
+      "relevance": "Nablusî’ye atfedilen hırsız sembolünü hastalık, hile, zina ve çeşitli sembolik karşılıklarla ilişkilendirir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-h-harfi.html"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Berakhot 57a’nın metni, Talmud’da rüyaların ve rüya yorumunun ele alındığı ana bağlama işaret eder.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Berakhot 56",
+      "relevance": "Berakhot 56 üzerine bu açıklama, rüyaların rabbanî gelenekte yorumlanan anlatılar olarak işlendiğini ve yorumun etkisine dair bir çerçeve sunduğunu gösterir.",
+      "url": "https://www.myjewishlearning.com/article/berakhot-56/"
+    },
+    {
+      "title": "Mishpatim 5761-2001 - NJOP",
+      "relevance": "Yahudi hukukundaki hırsızlık, iade ve onarım konularını ele alarak rüyadaki hırsız imgesinin etik ve telafi eksenli bir okumaya elverişli olduğunu gösterir.",
+      "url": "https://njop.org/mishpatim-5761-2001/"
+    },
+    {
+      "title": "Thief: Significance and symbolism",
+      "relevance": "Budist bağlamda hırsız metaforunun sahiplenme, açgözlülük ve zihinsel kirlenme ekseninde incelendiğini, dolayısıyla rüya yorumunda bu etik çerçevenin kullanılabileceğini belirtir.",
+      "url": "https://www.wisdomlib.org/concept/thief"
+    },
+    {
+      "title": "Thieves: Significance and symbolism",
+      "relevance": "Budist metinlerde hırsızlar imgesinin zihinsel kirlenme, tehdit ve disiplin bozulmasıyla ilişkisini toplar.",
+      "url": "https://www.wisdomlib.org/concept/thieves"
+    },
+    {
+      "title": "The updated version is freely available at",
+      "relevance": "Budist öğreti içinde \"çalma\" kavramının (ahlaki/öğretisel bağlamda) sonuçlarını ele alır.",
+      "url": "https://accesstoinsight.org/tipitaka/sn/sn09/sn09.014.than"
+    },
+    {
+      "title": "Stealing: Significance and symbolism",
+      "relevance": "Maha Prajnaparamita Sastra içinde hırsızlık (steya) tanımını ve sahiplenme mantığını verir.",
+      "url": "https://www.wisdomlib.org/concept/stealing"
+    },
+    {
+      "title": "Part 1 - Definition of theft (steya)",
+      "relevance": "Pali yorum geleneğinde hırsızlık (theyya) ifadesinin \"alma niyeti\" eksenini gösterir.",
+      "url": "https://www.wisdomlib.org/buddhism/book/maha-prajnaparamita-sastra/d/doc225293.html"
+    },
+    {
+      "title": "The Law of Theft:",
+      "relevance": "Pali yorum geleneğinde theft (theyya) ifadesinin ‘alma niyeti’ eksenini gösterir.",
+      "url": "https://hasp.ub.uni-heidelberg.de/journals/jpts/article/download/27926/27325"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Pali yorum geleneğinde hırsızlık (theyya) ifadesinin \"alma niyeti\" eksenini gösterir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/thief/"
+    },
+    {
+      "title": "Rüyada Hırsız Görmek, Klasik, Psikolojik, Nörolojik ve Spiritüel Yorum - Dreamorian",
+      "relevance": "Hırsız sembolünü spiritüel düzlemde enerji tüketimi, sınır ihlali ve iç huzuru bozan etkilerle ilişkilendiren modern yorumlar içerir.",
+      "url": "https://dreamorian.com/tr/ruyada-hirsiz-gormek-klasik-psikolojik-norolojik-ve-spirituel-yorum/amp/"
+    },
+    {
+      "title": "Dreaming of a Thief: Meaning and Interpretation - Midnight Mind",
+      "relevance": "Hırsız figürünü özgün benlikten enerji çalınması ve gölge yönün ortaya çıkışıyla ilişkilendiren modern sembolik yaklaşım sunar.",
+      "url": "https://midnightmind.app/blog/en/dreaming-of-a-thief/"
+    },
+    {
+      "title": "Dream About a Thief — Meaning and Interpretation - Dremyo",
+      "relevance": "Hırsız sembolünü enerjinin, zamanın ve güven duygusunun çalınması şeklinde yorumlayan modern spiritüel anlatım içerir.",
+      "url": "https://www.dremyo.com/en/symbols/thief/"
+    },
+    {
+      "title": "Dream Interpretation and Meaning of Thief in Dreams",
+      "relevance": "Hırsız figürünü içsel kaynakların izinsiz alınması ve karanlıkta çalışan ihtiyaçlarla bağlantılandıran spiritüel okuma sunar.",
+      "url": "https://www.cafeausoul.com/oracles/dream-dictionary/thief"
     }
   ],
   "relatedSlugs": []

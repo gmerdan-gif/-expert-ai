@@ -1,99 +1,191 @@
 {
   "slug": "ekmek",
-  "title": "ekmek",
-  "shortDescription": "Rüyada ekmek görmek; temel ihtiyaçlar, geçim, bereket ve beslenmeyle ilişkilidir. Ekmeği paylaşmak dayanışma ve birlikteliği, taze ekmek ev ve sofra çağrışımlarını, bayat ekmek ise eskimiş veya işlevini yitirmiş bir durumu öne çıkarabilir.",
+  "title": "Ekmek",
+  "shortDescription": "Rüyada ekmek görmek, genellikle beslenme ve geçim temalarıyla bağlantılı olmakla birlikte ekmeğin türü (beyaz/kara/yufka), tazeliği (sıcak/taze/bayat) ve rüyadaki eylemler (yemek, paylaşmak, bölmek, bulmak) yorumda belirleyici olur; tek ve sabit bir anlamdan ziyade bağlama bağlı, çok katmanlı bir imgedir.",
   "positiveAssociations": [
-    "Temel gıda ve maddi geçim",
-    "Paylaşım ve toplumsal dayanışma",
-    "Bereket ve beslenme",
-    "Birlik ve topluluk hissi"
+    "Temel beslenme ve günlük geçimin simgesi (taze, yeterli miktarda ekmek)",
+    "Güvenli rızık ve bereket çağrışımı (özellikle iyi pişmiş veya bol ekmek görülen rüyalarda)",
+    "Misafirperverlik ve paylaşım imgesi (evde ekmek bölüşme/dağıtma sahneleri)",
+    "İslami anlatımlarda ekmek genellikle ilim ve dinde doğrulukla ilişkilendirilir."
   ],
-  "challengingAssociations": [],
+  "challengingAssociations": [
+    "Kuru, sert veya yanmış ekmek: geçim sıkıntısı, darlık çağrışımı (İslami ve geleneksel aktarımlarda belirtilir)",
+    "Kaba ekmek veya aşağılayıcı sunum: zorluk, küçük düşme veya olumsuz toplumsal durum (Bizans aktarımları)",
+    "Yarım somun veya eksik pay: ilişkilerde zayıflama veya beklentilerin karşılanmaması (Bizans/Oneirokritika veya Artemidorus örnekleri)",
+    "Ekmeğin bölünmesi/dağıtılması bağlamında miras, sadaka veya mal paylaşımı konuları (klasik aktarımlarda yer alan temalar)"
+  ],
   "contextDependentAssociations": [
-    "Dini ritüellerde sunu ve temsil (ör. Komünyon/Eukaristi, tapınaktaki yüz ekmeği bağlamları)",
-    "Sofra paylaşımı ve aile/topluluk birlikteliği pratikleri",
-    "Metinsel veya rabbanî söylemlerdeki mecazî kullanımlar"
+    "Ekmek türü: beyaz, kara, yufka, kaba somun gibi ayrımlar",
+    "Tazelik ve pişme durumu: sıcak/taze vs. bayat/yanmış",
+    "Rüyadaki eylem: yemek, paylaşmak, saklamak, kaybetmek, vermek",
+    "Ekmekle birlikte görülen diğer unsurlar (ör. bal, başka gıdalar) ve sosyal bağlam"
   ],
   "commonVariations": [
     {
-      "title": "Taze Pişmiş Ekmek Kokusu",
-      "description": "Rüyada taze ekmek kokusu veya sıcak ekmek görünümü, ekmeğin günlük yaşam, ev ve yiyecek ile sofraya dair çağrışımlarını öne çıkarır; yorum rüyanın diğer unsurlarıyla yapılmalıdır."
+      "title": "Taze beyaz somun yemek",
+      "description": "Rüyada taze, beyaz somun yemek genelde rahat bir geçime, günlük ihtiyaçların karşılanmasına ve fiziksel doyuma işaret edebilir; geleneksel aktarımlarda olumlu geçim çağrışımı taşır."
     },
     {
-      "title": "Ekmeği Başkalarıyla Paylaşmak",
-      "description": "Bir ekmeği bölüşmek veya başkalarına ikram etmek, paylaşım pratiğini ve toplumsal ilişkilere verilen önemi vurgular; dinsel/ritüel bağlamda ise topluluk birlikteliğine işaret edebilir."
+      "title": "Kuru ya da kararmış ekmek görmek",
+      "description": "Kuru, sert veya yanmış ekmek imgesi, birçok gelenekte geçim darlığı, sıkıntı veya beklenmedik zorluklara işaret edebilecek bir uyarı olarak yorumlanır."
     },
     {
-      "title": "Kuru veya Bayat Ekmek Görmek",
-      "description": "Kuru veya bayat ekmek, artık kullanılamayan ya da yenilebilirliği azalmış nesneleri çağrıştırır; rüya bağlamında neyin eskidiği veya işlevini yitirdiğinin değerlendirilmesi gerekir."
+      "title": "Ekmeği başkalarına dağıtmak veya fakirlere vermek",
+      "description": "Ekmeği başkalarına verme, Nablusî geleneğinde bereket, sadaka ve dini doğrulukla ilişkilendirilir; paylaşma sahneleri aidiyet ve toplumsal destek temasını öne çıkarır."
     },
     {
-      "title": "Tapınak veya Kutsal Alanda Ekmek Sunumu",
-      "description": "Kutsal mekânlarda ekmek sunumu görüntüleri, litürjik ve kurumsal temsil ile ilişkilidir; bu tür sahneler topluluğun Tanrı huzurundaki duruşu veya ritüel işlevlere gönderme yapar."
+      "title": "Ekmeği bala batırıp yemek",
+      "description": "Artemidorus geleneğinde ekmekle başka bir gıdanın birlikte görülmesi (örneğin bala batırmak) yorumun yönünü değiştirir; bu tür birleşik sahneler bazen bilgeliğin kazanımı veya bundan doğan geçimle ilişkilendirilir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "Yeni Ahit geleneğinde ekmek, Komünyon/Eukaristi bağlamında İsa'nın bedeniyle simgesel olarak ilişkilendirilir; ayrıca ilahi besin, topluluk birliği ve ruhsal doyum temalarıyla bağlantılıdır.",
-  "jewishTraditions": "Yahudi metinlerinde (örneğin tapınak bağlamındaki yüz ekmeği) ekmek, İsrail toplumunun Tanrı huzurundaki temsili ve kutsal sunu işlevleriyle ilişkilendirilir; metinsel/rabbanî söylemlerde ayrıca mecazî kullanımlara rastlanır.",
+  "psychology": "Ekmek rüyada öncelikle bedensel beslenme ve geçim kaygısını çağrıştırır; psikanalitik literatürde (Freud örneklerinde) ekmek bazen başka bir fiziksel durumun yerine geçen bir nesne olarak görünür. Bu nedenle yorum, ekmeğin rüya içindeki işlevine —görünür mü yoksa bastırılmış/yer değiştirmiş bir anlam mı temsil ettiği— bakılarak yapılmalıdır. Doğrudan ekmek sembolünü inceleyen güvenilir ampirik çalışmalar sınırlı olduğundan, yoruma bağlama duyarlı, temkinli bir yaklaşım eşlik etmelidir.",
+  "jungian": "Jungcu seminer pasajlarında ekmek, ruhsal yaşamın beslenmesi ve Eros’un gıdası temalarıyla ilişkilendirilir; beyaz ve kara ekmek arasındaki karşıtlık, ekmeğin niteliğine göre farklı psişik çağrışımlar taşıyabileceğine işaret eder. Bu okumalar bağlama göre yapılmalı ve Jung'un birincil kaynaklarının sınırlı olduğu göz önünde tutulmalıdır.",
+  "islamicTradition": "Modern Nablusî derlemelerde ve aktarımlarda ekmek sıklıkla rızık, bereket, hayatı sürdürmeye yarayan mal ve bazen ilimle ilişkilendirilir; ekmeğin türü ve kalitesi (yufka, fırında kızarmış, kuru vb.) yorumda belirleyici kabul edilir. Bu aktarımlar, klasik literatüre atıfta bulunan modern derlemelerdir ve bağlama göre yorumlanmalıdır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde ekmek hem Tanrı’nın sağladığı geçim unsuru hem de Komünyon bağlamında Mesih’in bedeni çağrışımıyla ruhsal beslenme ve paydaşlık temalarına yakın olarak okunur; rüyadaki ekmek bu iki düzlemden biriyle ilişkilendirilebilir.",
+  "jewishTraditions": "Yahudi rabbinik çerçevede genel ilke olarak 'rüya yorumlandığı gibi sürer' yaklaşımı vurgulanır; ekmek, temel gıda ve emek-geçim temalarıyla ilişkili olup rüyada ekmek görüldüğünde geçim, alın teri ve ilahi rızık bağlamları göz önünde tutulur.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel okumalarda ekmek, ruhsal beslenme, varoluşsal doyum ve kozmik destek temalarıyla ilişkilendirilir; bu yaklaşımlar sembolik sentezlerdir ve ampirik kanıt yerine spiritüel/yorumlayıcı çerçevelere dayanır.",
   "comparisonTable": [
     {
-      "approach": "Hristiyan Gelenekleri",
-      "interpretation": "Komünyon/Eukaristi bağlamında Mesih'in bedeni, ilahi beslenme ve topluluk birliği.",
+      "approach": "Psikanaliz (Freud)",
+      "interpretation": "Ekmek bazen rüyada başka bir fiziksel durumun veya bastırılmış içeriğin yerini alan nesne olarak okunur; görünür ve örtük içerik ayrımı önemlidir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Ekmek ruhsal beslenme, Eros’un gıdası ve ilişkisellik/aidiyet temalarıyla ilişkilendirilir; tür ve nitelik farkları anlamı değiştirir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek (modern Nablusî aktarımları)",
+      "interpretation": "Rızık, bereket, geçim ve bazen ilimle ilişkilendirilen sembol; ekmeğin niteliği yorumu etkiler.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Yahudi Gelenekleri",
-      "interpretation": "Tapınak bağlamında topluluğun Tanrı huzurundaki temsili, kutsal sunu ve metinsel/mecazî kullanımlar.",
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "İlahi temin ve ruhsal beslenme; Komünyon ile bağlantı sembolik bir katman ekler.",
       "evidenceLevel": "traditional"
-    }
-  ],
-  "commonGround": "Farklı geleneklerde ekmek, temel yaşamın sürdürülmesi, beslenme ve paylaşılan toplumsal düzenle güçlü bir bağ kurar; ritüel kullanımlarda ise topluluk ve temsil işlevi öne çıkar.",
-  "differences": "Hristiyan uygulamalarında ekmek litürjik olarak Mesih'in bedeni ve Komünyon bağlamında merkeziyken, Yahudi metinlerinde ekmek bazen tapınak sunuları ve topluluğun temsiliyeti çerçevesinde ele alınır.",
-  "inusAssessment": "Ekmek sembolü, somut besin ve ekonomik gereksinimler ile kültürel ve dinsel temsiller arasında köprü kurar; rüyada ekmek görüldüğünde yorum, bireyin yaşam bağlamı ve rüyanın diğer öğeleri dikkate alınarak yapılmalıdır.",
-  "faq": [
-    {
-      "question": "Rüyada ekmek görmek her zaman maddi geçimle mi ilgilidir?",
-      "answer": "Sıkça temel beslenme ve geçim çağrışımı yapar; ancak kesin anlam rüyanın bütününe, kişinin yaşam koşullarına ve kültürel/dini bağlama göre değişir."
     },
     {
-      "question": "Hristiyanlık ve Yahudilikte ekmek sembolü nasıl özetlenebilir?",
-      "answer": "Kısaca: Hristiyanlıkta ekmek Komünyon aracılığıyla Mesih'in bedeni ve ilahi beslenme temasıyla ilişkilendirilir; Yahudi metinlerinde ise tapınak bağlamı ve topluluğun Tanrı huzurundaki temsili öne çıkar. Detaylar ilgili bölümlerde yer almaktadır."
+      "approach": "Spiritüel/Ezoterik",
+      "interpretation": "Ruhsal kabul, varoluşsal doyum ve paylaşım temaları; modern yorumlara dayanır.",
+      "evidenceLevel": "spiritual"
     }
   ],
+  "commonGround": "Çoğu çerçevede ekmek, yaşamı sürdürmeye yarayan temel besin, geçim ve paylaşım temalarında buluşur; ayrıntılar (tür, tazelik, eylem) yorum farklarını belirler.",
+  "differences": "Psikolojik okumalar daha çok bedenî ihtiyaç, yer değiştirme ve psişik işlev üzerinde dururken; dini/geleneksel okumalar rızık, ilahi temin, ritüel ve toplumsal paylaşım bağlamlarına vurgu yapar.",
+  "inusAssessment": "Ekmek rüyasının belirli bir anlamı doğrudan çıkarmaz; ekmeğin türü, tazeliği, rüyadaki eylemler (paylaşma, verme, bulma, yemek) ve rüyanın duygusal tonu birlikte, ekmeğin ifade ettiği temaların (rızık, paylaşım, sıkıntı, ruhsal beslenme vb.) hangi koşullar altında ortaya çıktığını gösterir. Doğrudan ampirik araştırma eksikliği nedeniyle yorumlar bağlama ve ayrıntılara dayanarak yapılmalıdır.",
+  "faq": [],
   "sources": [
     {
-      "title": "Our Daily Bread - www.anpv.nl",
-      "relevance": "Ekmek kültürel olarak temel besin, geçim ve paylaşım kavramlarıyla ilişkilendirilir.",
-      "url": "https://www.anpv.nl/platform/publication/rjDraa/Our%20Daily%20Bread.pdf"
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud’un metninde ekmeğe ilişkin örnekler vardır; ekmeğin rüyada başka bir fiziksel durumun yerine geçtiğini gösteren pasajlar içerir.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "[PDF] THE INTERPRETATION OF DREAMS - Lutecium Network",
+      "relevance": "Aynı Freud metninin erişilebilir bir kopyası; ekmek örneğinin geçtiği pasajı doğrular.",
+      "url": "https://www.lutecium.org/ftp/Freud/pdf/1900_the_interpretations_of_dreams.pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüyanın dilek gerçekleşmesi ve görünür/örtük içerik ayrımını kurduğu klasik metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams - Sigmund Freud",
+      "relevance": "Freud’un rüya kuramının başka bir PDF sürümü; bastırılmış arzular ve rüya yorumu çerçevesini doğrulayan metin.",
+      "url": "https://www.sigmundfreud.net/ebooks/the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Carl Jung's Dreams Analysis Seminars Lecture VIII 13 March 1929",
+      "relevance": "Jung seminerlerinde ekmek, ruhsal beslenme, Eros ve beyaz/kara karşıtlığı bağlamında ele alınır; ekmeğin niteliğinin sembolik fark yarattığına dair seminer pasajları mevcuttur.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/08/06/dreams-4/"
+    },
+    {
+      "title": "Interpretation of Dreams: Oneirocritica by Artemidorus",
+      "relevance": "Antik Oneirokritika geleneğinde ekmek sahnelerinin başka unsurlarla birlikte nasıl yorumlandığına dair örnekler sunar (ör. ekmeği bala batırmak gibi birleşik sahneler).",
+      "url": "https://www.goodreads.com/en/book/show/604460.Interpretation_of_Dreams"
+    },
+    {
+      "title": "Byzantine dreams and white bread.",
+      "relevance": "Bizans rüya tabirleri geleneğinde beyaz, sıcak, kaba ve yarım ekmek ayrımlarıyla ekmeğin rüya yorumunu işlemesine dair derlemeler içerir.",
+      "url": "https://1historyofgreekfood.wordpress.com/2014/11/15/byzantine-dreams-and-white-bread/"
+    },
+    {
+      "title": "Dreams of Food and their Meanings",
+      "relevance": "Yiyeceklerin, özellikle ekmekli sahnelerin, bedensel ihtiyaç ve gündelik yaşamla ilişkilendirildiğine dair yorum örnekleri içerir.",
+      "url": "https://sententiaeantiquae.com/2023/04/06/dreams-of-food-and-their-meanings-2/"
+    },
+    {
+      "title": "Rüyada Ekmek Görmek Ne Anlama Gelir?",
+      "relevance": "Rüyada ekmek görmenin ilim, İslamiyet ve geçimle ilişkilendirildiğine dair Nablusî atfı içeren modern bir aktarım.",
+      "url": "https://www.diyadinnet.com/ruyada-2274-ekmek-gormek"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri E Harfi",
+      "relevance": "Ekmek, yufka ekmek, ekmek bulma ve fakirlere ekmek dağıtma gibi sahnelerin rızık, bereket ve geçim bağlamında yorumlandığı modern bir Nablusî derlemesi.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-e-harfi.html"
+    },
+    {
+      "title": "تفسير رؤية الخبز في المنام لابن سيرين والنابلسي ودلالاته",
+      "relevance": "Arapça özet sayfası; ekmeği Nablusî atfıyla ilim, İslam, hayatı sürdüren mal ve kederin gitmesiyle ilişkilendiriyor.",
+      "url": "https://mana.ms/blog/ar/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%A8%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-2"
+    },
+    {
+      "title": "تفسير حلم الخبز في المنام – النابلسي | الخزانة الكلاسيكية",
+      "relevance": "Arapça klasik-derleme sayfası; ekmeğin rızık, yaşam, bereket, geçim darlığı ve miras/sadaka temalarıyla ilişkilendirildiğini aktarıyor.",
+      "url": "https://dreamsmetric.com/classical/al-nabulsi/bread/"
+    },
+    {
+      "title": "Topical Bible: Symbolism of Bread",
+      "relevance": "Hristiyan sembolik okumada ekmeğin ilahi temin ve ruhsal beslenme temalarıyla ilişkilendirildiğini açıklar.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_bread.htm"
     },
     {
       "title": "Topical Bible: Bread: Symbolical of the Body of Christ",
-      "relevance": "Ekmek ile Mesih’in bedeni ve Komünyon/Eukaristi arasındaki Hristiyan sembolik ilişkiyi özetler.",
+      "relevance": "Ekmek ile Mesih’in bedeni, Komünyon/Eukaristi ve Hristiyan ibadetindeki kurtuluş sembolizmi arasındaki ilişkiyi açıklar.",
       "url": "https://biblehub.com/topical/naves/b/bread--symbolical_of_the_body_of_christ.htm"
     },
     {
-      "title": "Symbols and Similitudes: Bread - Topical Bible",
-      "relevance": "Ekmek sembolünün Hristiyan bağlamda ilahi beslenme, şükran ve Tanrı’nın varlığıyla ilişkisini açıklar.",
-      "url": "https://biblehub.com/topical/naves/s/symbols_and_similitudes--bread.htm"
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Yahudi rabbinik çerçevede rüya yorumuna dair genel ilkeler ve ekmekle ilgili emek/geçim bağlamlarının tartışıldığı kaynaklar sağlar.",
+      "url": "https://www.sefaria.org/Berakhot.57a?lang=en"
     },
     {
-      "title": "Topical Bible: The Symbolism of the Bread",
-      "relevance": "Ekmek sembolünün Hristiyan kutsal metin yorumlarında kurban, kurtuluş ve topluluk birliğiyle bağını ele alır.",
-      "url": "https://biblehub.com/topical/t/the_symbolism_of_the_bread.htm"
+      "title": "Tractate Berakhot: Blessings | This Is Bar Mitzvah",
+      "relevance": "Berakhot’ta ekmeğin emek ve geçimle ilişkilendirildiği rabbanî bağlamı açıklar.",
+      "url": "https://thisisbarmitzvah.com/religion/talmud-berakhot/"
     },
     {
-      "title": "Sacred Objects: Bread | Sefaria",
-      "relevance": "Yahudi tapınak bağlamında ekmeğin İsrail’in Tanrı huzurundaki temsilî konumunu açıklar.",
-      "url": "https://www.sefaria.org/sheets/620858"
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Berakhot 57’de ekmeğin emek ve geçimle ilişkilendirildiği rabbanî bağlam ele alınır.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
     },
     {
-      "title": "Contextualizing Bread: An Analysis of Talmudic Discourse in Light of Christian and Islamic Counterparts",
-      "relevance": "Rabbanî/Talmudik söylemde ekmeğin mecazî kullanımlarını inceleyen akademik çalışma.",
-      "url": "https://academic.oup.com/jaar/article/80/2/411/713051?guestAccessKey="
+      "title": "[PDF] The dream of Pharaoh's Chief Cupbearer: A response to Philo of ...",
+      "relevance": "Yahudi-Helenistik rüya yorumunda ekmek ve yiyecek imgelerinin yorumlanabildiğini gösteren akademik bağlam.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/63461/65544/200579"
+    },
+    {
+      "title": "Bread Dream Meaning",
+      "relevance": "Ekmek rüyasını ruhsal kabul, başarı ve zihin-beden/duygusal enerji bağlantısı çerçevesinde ele alan modern bir spiritüel yorum sunar.",
+      "url": "https://www.dreamdictionary.org/dream-dictionary/bread-dream-meaning/"
+    },
+    {
+      "title": "Bread. The interpretation of the dream, numbers of the cabal",
+      "relevance": "Ekmek için ezoterik anlam başlıkları altında bedensel dayanıklılık ve huzur temalarını veren bir sembol listesi sunar.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=bread"
+    },
+    {
+      "title": "Bread, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Ekmek rüyasını yaşamın temel besini, paylaşma ihtiyacı ve varoluşsal ihtiyaçlar bağlamında ele alan ezoterik bir yorum metni sunar.",
+      "url": "http://www.dreamtation.com/docs/1378.htm"
+    },
+    {
+      "title": "Spiritual Meaning of Dreaming About Bread",
+      "relevance": "Rüyada ekmeği varlık, beslenme, destek ve ruhsal doyum temalarıyla ilişkilendiren modern bir spiritüel sentez metnidir.",
+      "url": "https://thedreamcodex.com/dreaming-about-bread-means"
     }
   ],
   "relatedSlugs": []

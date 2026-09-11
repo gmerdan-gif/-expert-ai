@@ -1,0 +1,251 @@
+{
+  "slug": "namaz",
+  "title": "namaz",
+  "shortDescription": "Rüyada namaz görmek, inanç pratikleri, içsel yönelim ve huzur arayışıyla ilişkilendirilir. Namazı kıbleye dönerek eksiksiz kılmak sorumlulukları yerine getirme, sözünde durma ve ferahlığa; yarım bırakmak ya da yanlış kılmak ise ihmal, dikkat dağınıklığı ve içsel sıkıntıya işaret edebilir.",
+  "positiveAssociations": [
+    "Dinî yükümlülüklerin yerine getirilmesi",
+    "Verilen sözlere sadakat",
+    "İçsel denge ve ferahlık",
+    "Kıbleye yönelerek doğru istikameti bulma"
+  ],
+  "challengingAssociations": [
+    "Eksik ya da yanlış yönlü ibadet sebebiyle hissedilen içsel uyumsuzluk",
+    "Görevlerde aksama ve dikkat dağınıklığı",
+    "Oturarak kılınan namazın bazı bağlamlarda acizlik veya korkaklık çağrıştırması",
+    "Rüya içeriğinin duygu tonuna bağlı olarak beliren kaygı veya sıkıntı"
+  ],
+  "contextDependentAssociations": [
+    "Farz namazların doğru biçimde tamamlanması",
+    "Abdestsiz veya kurallara uygun olmayan biçimde kılınan ibadet sahneleri",
+    "Toplu namaz kılma ve imamlık üstlenme anları",
+    "Kıble yönü ve kılınan vaktin özellikleri"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kıbleye Yönelerek Farz Namaz Kılmak",
+      "description": "Rüyada farz namazı kıbleye dönük ve eksiksiz şekilde kılmak; genellikle görev bilinci, verilen sözlerin tutulması ve bir sorun sonrasındaki rahatlama temasıyla ilişkilendirilir."
+    },
+    {
+      "title": "Eksik veya Yanlış Namaz Kılmak",
+      "description": "Namazın bozulması, eksik bırakılması veya yanlış yöne kılınması; uyanık yaşamdaki dikkat dağınıklığı, ihmal edilen sorumluluklar ve içsel karışıklıkların sembolik bir yansıması olarak ele alınabilir."
+    },
+    {
+      "title": "Cemaatle Namaz Kılmak",
+      "description": "Bir topluluk içinde veya imamın arkasında saf tutarak namaz kılmak; ortak sorumluluklar üstlenme, toplumsal bağlar ve çevreyle uyumlu bir ruhsal düzen kurma arayışını temsil eder."
+    },
+    {
+      "title": "Oturarak veya Uygunsuz Şekilde Namaz Kılmak",
+      "description": "Ayakta durmak yerine oturarak veya zorlanarak namaz kılmak; bazı geleneksel derlemelerde geçici bir acizlik hissi, isteksizlik veya rızka dair kaygılarla bağdaştırılır."
+    }
+  ],
+  "psychology": "Deneysel rüya çalışmaları, dinî içerikli rüyaların bireyin uyanık yaşamındaki inanç pratikleri ve dindarlık düzeyiyle anlamlı ilişkiler barındırabildiğini göstermektedir. Bununla birlikte rüyalarda ibadet temaları genel olarak seyrek görülür ve bu tür imgelerin tek ve sabit bir anlamı yoktur; rüyanın duygu tonu ve bağlamı, yorumunu doğrudan etkiler.",
+  "jungian": "Analitik psikoloji açısından dua ve ibadet eylemleri, egonun Benlik ile ilişki kurma eğilimini gösterir. Namaz sahnesi, bilinçdışında gözden kaçan değerlerin yeniden düzenlenmesi ve ruhsal bütünleşme arayışını simgeleyebilir.",
+  "islamicTradition": "İslami rüya yorumu kaynaklarında farz namazı doğru ve eksiksiz kılmak imana, doğruluğa, verilen sözlerin yerine getirilmesine ve ferahlığa işaret eder. Kıbleye yönelmek sünnete ve şeriata bağlılığı yansıtırken, oturarak kılmak veya namazı bozmak gibi durumlar acizlik, ihmal veya içsel sıkıntılarla ilişkilendirilebilir.",
+  "christianTraditions": "Hristiyanlık bağlamında rüyada ibadet ve dua etmek, ilahi olanla iletişim kurma, yakınlık arayışı, teslimiyet ve ruhsal sığınak bulma isteğinin bir ifadesi olarak okunabilir.",
+  "jewishTraditions": "Yahudi geleneğinde rüyalar tek başına katı birer kehanet olarak görülmez; özellikle karmaşık veya sarsıcı rüyalar, topluluk önünde okunan dualar ve tövbe ile olumlu bir yöne evrilebilen, yorumla şekillendirilen deneyimler olarak ele alınır.",
+  "buddhistEasternApproaches": "Doğu geleneklerinde ve rüya yogası pratiklerinde, uyku öncesi kutsal figürlere veya evrensel ilkelere yöneltilen niyet ve adanma biçimleri, rüya farkındalığını tetikleyen bilinç durumları ve içsel uyumlanma süreçleri olarak değerlendirilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda doğru yönelişle ve huşu içinde kılınan namaz; disiplin, arınma, ruhsal hizalanma ve hayatın dönemeçlerinde doğru istikameti seçme iradesinin sembolik bir dışavurumudur.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Dindarlık düzeyinin ve günlük pratiklerin rüya içeriğine nasıl yansıdığını gösterir; sembollerin sabit olmadığını, bağlama göre değişkenlik gösterdiğini vurgular.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Ego-Benlik ekseni, içsel yöneliş ve merkeze doğru kurulan ruhsal bağın arketipsel görünümünü ifade eder.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Dinî görevi tamamlama, söze sadakat, şeriata uygunluk ve ferahlık veya aksine ihmal ve sıkıntı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Ruhsal arınma, disiplin, doğru istikameti seçme ve yüksek bir düzene teslim olma hali.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, namaz veya benzeri ibadet eylemlerini kişinin hayatındaki yönelim, içsel düzen arayışı ve yüce bir değere bağlanma ihtiyacının dolaylı bir ifadesi olarak ele alırlar.",
+  "differences": "Ampirik psikoloji rüyadaki dinî imgeleri bireyin uyanık yaşamındaki alışkanlıklarıyla açıklarken; geleneksel ve spiritüel yaklaşımlar bu imgelere ahlaki, ilahi veya ruhsal bir yönlendirme işlevi yükler.",
+  "inusAssessment": "Rüyada namaz sembolü görmek, sabit ve önceden belirlenmiş bir geleceğin habercisi olmaktan ziyade, bireyin uyanık yaşamındaki içsel yönelimini, sorumluluk bilincini ve ruhsal dengesini yansıtan katmanlı bir imgedir. Rüyadaki namazın eksiksiz kılınması, kıbleye yönelinmesi ya da tam tersine yarım bırakılması gibi ayrıntılar, kişinin iç dünyasındaki uyumu veya çözülmeyi ele veren en kritik belirleyicilerdir.",
+  "faq": [
+    {
+      "question": "Rüyada namaz kılmak kesinlikle iyiye mi işaret eder?",
+      "answer": "Geleneksel ve psikolojik çerçeveler tek bir sembolden mutlak bir sonuç çıkarmaz; rüyanın duygu tonu, namazın eksiksiz olup olmadığı ve rüya görenin uyanık yaşamındaki bağlamı yorumu doğrudan değiştirir."
+    },
+    {
+      "question": "Namazı yarım bırakmak veya unutmak ne anlama gelir?",
+      "answer": "Namazı yarım bırakmak veya unutmak genellikle ihmal, dikkat dağınıklığı veya vicdani rahatsızlıkla ilişkilendirilebilir; ancak rüyanın duygu tonu, namazın nasıl bırakıldığı ve rüya görenin uyanık yaşamı yorumu belirler."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Methods and Measures for the Study of Dream Content",
+      "relevance": "Rüya içeriğini çözümlemede kullanılan yöntemleri ve tekrar eden temaları inceleyen çerçeveyi anlatır.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2000a.html"
+    },
+    {
+      "title": "Dream content influences daily spirituality",
+      "relevance": "Dinî ya da doğaüstü içerikli rüyaların duygu tonu, eylem gücü ve günlük maneviyatla ilişkisini rapor eder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40792092/"
+    },
+    {
+      "title": "Studying Dream Content Using Dreambank.Net",
+      "relevance": "Rüyalarda dinî ve ruhsal öğelerin ne kadar sık göründüğüne dair içerik analiz bulguları sunar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2004d.html"
+    },
+    {
+      "title": "The Neurocognitive Theory of Dreaming",
+      "relevance": "Rüya raporlarında dinî unsurların genel sıklığına dair özet istatistikler verir.",
+      "url": "https://dreams.ucsc.edu/NCTD/Neurocognitive%20Theory%20of%20Dreaming%20(Domhoff%202022).pdf"
+    },
+    {
+      "title": "Religious Worship and Dream Recall: New Results from a Survey of American Adults - Pastoral Psychology",
+      "relevance": "Dindarlık düzeyi ile rüya içeriği arasında ilişki olup olmadığını inceleyen çalışma.",
+      "url": "https://link.springer.com/article/10.1007/s11089-013-0560-6?error=cookies_not_supported&code=5ac715b3-caa6-4313-92ac-8e4c4fa6fea7"
+    },
+    {
+      "title": "Dreaming of God and the Role of Faith in Everyday Life: An Empirical Study",
+      "relevance": "Tanrı ile karşılaşma temalı rüyaların dinî yaşamla bağlantısını inceleyen ampirik çalışma.",
+      "url": "https://link.springer.com/article/10.1007/s11089-023-01083-x"
+    },
+    {
+      "title": "The Religious Content of Dreams: A New Scientific Foundation - Pastoral Psychology",
+      "relevance": "Rüya içeriğinin dinî inanç, uygulama ve deneyimlerle ilişkisini tartışan çalışma.",
+      "url": "https://link.springer.com/article/10.1007/s11089-008-0180-8"
+    },
+    {
+      "title": "К чему снится молитва: значение, символика и толкование сна",
+      "relevance": "Rüyada dua/ibadet temasını Freudcu dilek, güvenlik ve bakım isteği açısından ele alan kısa bir yorum içerir.",
+      "url": "https://www.interpretdreams.io/ru/dream-dictionary/prayer/"
+    },
+    {
+      "title": "Religious symbols in dreams of analytical patients - PubMed",
+      "relevance": "Rüyalardaki dinî imgelerin bağlama bağlı anlamını ve bilinçte değerler alanıyla ilişkisini tartışır.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6166599/"
+    },
+    {
+      "title": "A Preliminary Study on the Magical Nature of Tibetan Folk Religion:The Ritual of Recalling the Soul (bla) and Freud’s Dream Theory",
+      "relevance": "Ritüel eylemleri Freudcu düş kuramı ile birlikte ele alarak sembolik tekrar ve ritüel mantığına dair çerçeve sunar.",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003166026"
+    },
+    {
+      "title": "Jung on Prayer - Jungian Center for the Spiritual Sciences",
+      "relevance": "Jung’un dua, Tanrı-imgesi ve libido yoğunlaşması hakkındaki ifadelerini aktaran Jungcu yorum metni.",
+      "url": "https://jungiancenter.org/jung-on-prayer/"
+    },
+    {
+      "title": "Religious images in dreams - PubMed",
+      "relevance": "Jung analitik psikolojisinde rüyalardaki dinsel imgelerin türlerini sınıflayan akademik özet; namaz sahnesini bağlama duyarlı dini imge olarak düşünmek için çerçeve sağlar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24318665/"
+    },
+    {
+      "title": "Rüyada Namaz Kılmak Ne Demek? Kısaca Ne Anlama Gelir?",
+      "relevance": "Rüyada namaz kılma hakkında çevrimiçi aktarılan tabirler; özellikle oturarak kılma, kıbleye yönelme ve genellikle hayır veya iman yönünde çağrışımlar için modern bir aktarım örneğidir.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-namaz-kilmak-ne-anlama-gelir-28039"
+    },
+    {
+      "title": "Seeing Salat in a dream",
+      "relevance": "Salatın rüyadaki geleneksel yorumlarını, farz namazın tamamlanması, tövbe, sözünde durma ve dinî görevle ilişkilendiren derleme bir kaynak.",
+      "url": "https://www.shiacircle.com/dream-interpretation/salat"
+    },
+    {
+      "title": "Salat Islamic Interpretations & Meanings",
+      "relevance": "Salatın rüyadaki anlamlarını; namazın tamamlanması, hedefe ulaşma, sıkıntıdan kurtulma ve kaygıların azalması ekseninde aktaran derleme bir sayfadır.",
+      "url": "https://www.myislamicdream.com/salat.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri N Harfi - Muhammed.net",
+      "relevance": "İmam Nablusî’ye nispet edilen namaz yorumlarını kıble, vakitler ve muradın gerçekleşmesi bağlamında aktaran çevrimiçi derleme.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-n-harfi.html"
+    },
+    {
+      "title": "Biblical meaning of praying in a dream - biblestep.com",
+      "relevance": "Rüyada dua etme temasını Hristiyan bağlamda yakınlık, yakarma, teslimiyet ve aracılık ekseninde ele alan modern bir yorumlayıcı metin.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-praying-in-a-dream"
+    },
+    {
+      "title": "Berachot: 55a - Talmud",
+      "relevance": "Rüyalar için merhamet duası gerektiğini söyleyen temel Talmud pasajı; rüya ile dua arasındaki ilişkiyi kurar.",
+      "url": "https://www.chabad.org/torah-texts/5299903/Talmud/Berachot/Chapter-9/55a"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Rüya ıslahı ve olumluya çevirme duasının Berakhot 55a-b bağlamını özetler.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "I Dreamed a Dream",
+      "relevance": "Berakhot 55b’deki rüya duasının metnini ve Priestly Blessing bağlamını aktarır.",
+      "url": "https://hebrewcollege.edu/blog/i-dreamed-a-dream/"
+    },
+    {
+      "title": "les rêves dans les sources juives anciennes",
+      "relevance": "Eski Yahudi kaynaklarında kötü rüya, dua ve tövbe ilişkisini tarihsel bağlamda ele alır.",
+      "url": "https://rosa.uniroma1.it/rosa01/medicina_nei_secoli/article/download/325/308/620"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Yahudi pratiğinde rüya duasının sinagog ve Priestly Blessing sırasında nasıl okunduğunu anlatır.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "JHOM - Dreams - Prayer",
+      "relevance": "Rüya duasının klasik formülünü ve topluluk önünde söylenişini aktarır.",
+      "url": "https://www.jhom.com/topics/dreams/scary.html"
+    },
+    {
+      "title": "Dreams in the Talmud 1: Brachot 55",
+      "relevance": "Talmudik rüya yorumunun yorumlayıcı boyutunu ve rüyaların olumluya yönlendirilebilmesini gösteren derleme.",
+      "url": "https://www.sefaria.org/sheets/222313"
+    },
+    {
+      "title": "The Dhāraṇī “Dream Visions” / 84000 Reading Room",
+      "relevance": "Rüya öncesi ritüel, hürmet ve ‘bir rüya görme’ vaadi içeren Budist metin.",
+      "url": "https://84000.co/translation/toh460a"
+    },
+    {
+      "title": "Daimoku - Nichiren Worldwide",
+      "relevance": "‘Namu myoho renge kyo’ ifadesinin adanma ve Dharma ile uyum anlamı.",
+      "url": "https://nichirenworldwide.net/daimoku-en/"
+    },
+    {
+      "title": "Awakening Through Dream",
+      "relevance": "Uyumadan önce Buddha veya guruya yöneltilen dua ile lucid dream pratiği arasındaki bağlantı.",
+      "url": "https://www.lionsroar.com/awakening-through-dream/"
+    },
+    {
+      "title": "Dream Yoga Root Text v. 2 with page links Khenpo Samdup Rinpoche 1/16/2023",
+      "relevance": "Rüya yogasında uykudan önce kutsal varlıklara yöneliş ve rüya çağırma uygulaması.",
+      "url": "https://garchencanada.com/wp-content/uploads/2023/01/Dream-Yoga-Root-Text-v.-2-with-page-links-Khenpo-Samdup-Rinpoche-1_18_2023.pdf"
+    },
+    {
+      "title": "Исламский сонник: Намаз. К чему снится ...",
+      "relevance": "Namazın rüya yorumunda farz namaz, sünnet namaz, istihare ve kıbleye yöneliş gibi ayrımların ne tür sembolik sonuçlar taşıdığına dair çevrim içi derleme sunar.",
+      "url": "https://islam.global/obshchestvo/sonnik/namaz/"
+    },
+    {
+      "title": "Praying : 68 Islamic Dream Interpretations » 2025",
+      "relevance": "Farz namazı rüyada kılmayı, aileye ve sorumluluklara özen, yüksek makam, ruhsal ilerleme ve görevlerin yerine getirilmesiyle ilişkilendirir.",
+      "url": "https://islamdreaming.com/praying/"
+    },
+    {
+      "title": "What does it mean to pray Salah in a dream?",
+      "relevance": "Kıbleye dönerek doğru biçimde kılınan namazın hac, ıslah, dua cevabı ve dini görevi tamamlama ile bağlantısını aktarır.",
+      "url": "https://lifeinsaudiarabia.net/meaning-pray-salah-namaz-dream-islam/"
+    },
+    {
+      "title": "Dream Interpretation Praying, Namaz And Prayer",
+      "relevance": "Namazın rüyada farklı vakitleriyle ilgili sembolik anlamlar verir; örneğin belirli bir vakit namazı, aranan şeyin sona ermesi ya da işin tamamlanmasıyla ilişkilendirilir.",
+      "url": "https://www.islamicdreaminterpretation.org/praying-namaz-prayer"
+    },
+    {
+      "title": "Khawab Me Namaz Perhte Hue Dekhna Ya Namaz Se ...",
+      "relevance": "Namazı rüyada görmenin yedi anlama gelebildiğini ve rükû ile secdenin farklı sonuçlar doğurduğunu aktaran geleneksel bir çevrim içi aktarım sunar.",
+      "url": "https://www.urdupoint.com/horoscope/dream-interpretation/khawab-me-namaz-perhte-hue-dekhna-ya-namaz-se-mutaliq-kuch-dekhna/1284.html"
+    }
+  ],
+  "relatedSlugs": []
+}

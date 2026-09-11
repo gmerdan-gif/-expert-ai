@@ -1,0 +1,180 @@
+{
+  "slug": "kirpik",
+  "title": "kirpik",
+  "shortDescription": "Rüyada kirpik görmek, korunma, mahremiyet ve dış dünyaya karşı ne kadar açık olduğunuzla ilişkilendirilir. Kirpiklerin dökülmesi veya seyrelmesi ise savunmasızlık ya da kişisel sınırların zayıflaması hissini yansıtabilir.",
+  "positiveAssociations": [
+    "Dini ve ahlaki muhafaza",
+    "Gözü ve bakışı koruyan ince sınır",
+    "İçsel zarafet ve şefkat",
+    "Mahremiyete özen",
+    "Ölçülülük ve içsel uyum"
+  ],
+  "challengingAssociations": [
+    "Korunmasızlık ve kırılganlık hissi",
+    "Bakışın netliğinde azalma",
+    "Hassasiyetin artmasıyla dış dünyaya aşırı açık olma",
+    "Savunma mekanizmalarında zayıflama",
+    "Benlik algısının bozulmasından duyulan kaygı"
+  ],
+  "contextDependentAssociations": [
+    "Kirpiklerin dökülmesi veya seyrelmesi",
+    "Kirpiklerin uzun ve dolgun olması",
+    "Kirpiklerin renginde veya yapısında değişim",
+    "Ayna karşısında kirpikleri düzeltmek veya taramak"
+  ],
+  "commonVariations": [
+    {
+      "title": "Ayna Karşısında Uzun Kirpikler Görmek",
+      "description": "Rüyada aynaya bakıp kirpiklerin çok uzun ve belirgin olduğunu fark etmek, kişinin dış dünyaya karşı sergilediği duruşa, benlik ve çekicilik algısına odaklandığını gösterir."
+    },
+    {
+      "title": "Kirpiklerin Döküldüğünü veya Seyreldiğini Fark Etmek",
+      "description": "Göz kenarındaki kirpiklerin döküldüğünü görmek, psikolojik olarak savunmasızlık, dış etkilere karşı korunmasız kalma hissi veya kişisel sınırların zayıflamasıyla ilişkilendirilebilir."
+    },
+    {
+      "title": "Kirpikleri Taradığını veya Düzelttiğini Görmek",
+      "description": "Kişinin rüyasında kirpiklerini taraması ya da düzenlemesi, hayatındaki mevcut durumunu, değerlerini ve kişisel sınırlarını korumaya yönelik bilinçli çabasını simgeler."
+    },
+    {
+      "title": "Başka Birinin Kirpiklerine Dikkat Etmek",
+      "description": "Rüyada bir başkasının kirpiklerine dikkat etmek, o kişiyle ilişkide mahremiyet, bakış açısı ve dikkat temalarının yanı sıra dış dünyanın yarattığı estetik ve ahlaki izlenimlerle ilişkilendirilebilir."
+    }
+  ],
+  "psychology": "Ampirik psikoloji literatüründe kirpik sembolüne doğrudan karşılık gelen doğrulanmış deneysel bir çalışma bulunmamaktadır. Ancak göz ve görme duyusu etrafında şekillenen algı, dikkat ve tetikte olma halleri psikolojik incelemelerde sıklıkla ele alınır.",
+  "jungian": "Analitik psikolojide göz ve görme alanına ait ayrıntılar, dış dünya ile iç yaşantı arasındaki köprüyü simgeler. Kirpik bu çerçevede görüşü koruyan, dışarıdan gelen uyaranları yumuşatan ve bilinç ile bilinçdışı arasındaki eşiği temsil eden ince bir ara katman olarak değerlendirilebilir. Seyrelme veya dökülme imgeleri ise benlik sunumu ve savunma mekanizmalarındaki kırılganlık temalarıyla bağlantılıdır.",
+  "islamicTradition": "İslami rüya tabiri kaynaklarında kirpik, genel olarak gözün korunması, dini muhafaza, haramdan sakınma ve mahremiyetle ilişkilendirilir. Kirpiklerin düzgün ve sağlıklı olması dindarlığa ve hayra yorulurken, olmaması veya eksik görünmesi muhafaza zayıflığına işaret edebilir. Kirpiklerin beyazlaşması baş veya göz sağlığıyla ilgili durumlara işaret edebilir; uzaması ise izzet ve şerefe bağlanır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde kirpik için doğrudan bir rüya öğretisi bulunmamaktadır; ancak gözün kutsal metinlerde dikkat, ilahi yöneliş ve koruma imgeleriyle bağdaştırılması, kirpiği gözü dış etkilerden ayıran koruyucu bir eşik olarak düşündürür.",
+  "jewishTraditions": "Talmudik gelenekte rüyaların anlamı sabit olmayıp rüyaya verilen yoruma göre şekillenir. Yahudi sembolizminde doğrudan kirpikle ilgili kesin bir kehanet olmamakla birlikte, kirpik gözün korunması ve bakışın sınırlandırılması bağlamında dikkat ve iç-dış ayrımıyla ilişkilendirilebilir.",
+  "buddhistEasternApproaches": "Budist gelenekte ve ikonografide kirpikler genellikle rüya sembolünden çok bedensel alametler kapsamında ele alınır. Theravada metinlerinde, Buddha'nın otuz iki fiziksel özelliği arasında yer alan yumuşak kirpikler şefkat, zarafet, asalet ve erdem gibi niteliklerin simgesi olarak değerlendirilir.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda kirpik, gözün önünde yer alan ince bir filtre ve algı sınırı olarak kabul edilir. Dış dünyadan gelen enerjilerin veya uyaranların iç dünyaya süzülüşünü temsil eden bu sembol, aynı zamanda benlik algısı, hassasiyet ve kişisel koruma sınırlarıyla da ilişkilendirilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Göz ve görme alanına ait detaylar üzerinden bakış, cazibe, mahremiyet ve savunma dinamiklerini ele alabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilinç ile bilinçdışı arasındaki eşiği koruyan, algıyı yumuşatan ara katman ve kırılganlık göstergesi olarak ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Dini muhafaza, mahremiyet, haramdan sakınma, mal veya evlatla gelen sevinç bağlamında yorumlar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Dış etkileri filtreleyen ince bir eşik, algı sınırı ve hassasiyet ya da çekicilik göstergesi olarak değerlendirir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve psikolojik yaklaşımlar arasında kirpik sembolü, temel olarak 'korunma', 'sınır' ve 'gözün muhafazası' kavramları etrafında buluşur. Hangi bağlamda ele alınırsa alınsın kirpik, dış dünya ile iç dünya arasındaki hassas temas noktasını temsil eder.",
+  "differences": "Yaklaşımlar arasındaki temel fark, odak noktasında yatar: İslami gelenek dini muhafaza ve ahlaki duruşa odaklanırken, Psikanalitik ve Jungcu perspektifler içsel savunmalar, kırılganlık ve bilinç eşiklerine odaklanır. Spiritüel okumalar ise daha çok enerji filtreleme ve benlik algısı üzerine yoğunlaşır.",
+  "inusAssessment": "Rüyada kirpik görülmesi, gözün ve görme eyleminin en hassas koruyucu sınırında yer alması nedeniyle doğrudan kişinin dış dünyaya karşı kurduğu savunmaları ve mahremiyet algısını işaret eder. Bu sembolün anlamı, kirpiğin durumuna (uzun, dökülmüş, taranmış veya seyrek) ve rüyanın genel duygulanımına bağlı olarak tamamen değişir; dolayısıyla tek başına sabit bir hüküm vermek yerine, kişinin uyanık yaşamındaki sınırları ve korunma ihtiyaçları bağlamında ele alınmalıdır.",
+  "faq": [
+    {
+      "question": "Rüyada kirpiklerin dökülmesi ne anlama gelir?",
+      "answer": "Kirpiklerin dökülmesi veya seyrelmesi, psikolojik olarak korumasızlık, hassasiyetin artması veya savunma mekanizmalarındaki kırılganlıkla ilişkilendirilir."
+    },
+    {
+      "question": "İslami gelenekte kirpik görmek nasıl yorumlanır?",
+      "answer": "İslami kaynaklarda kirpiklerin sağlıklı ve düzgün olması dini muhafazaya, mahremiyete ve haramdan sakınmaya yorulurken, olmaması muhafaza zayıflığına, uzaması ise izzet ve şerefe işaret edebilir."
+    },
+    {
+      "question": "Kirpik sembolü psikolojik olarak neyi temsil eder?",
+      "answer": "Doğrudan ampirik bir karşılığı olmasa da psikanalitik ve Jungcu teorilerde kirpik, bilinç ile bilinçdışı arasındaki eşik, bakışın sınırları ve içsel dünyayı koruyan hassas bir ara katman olarak okunur."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Freud'un rüyaları bastırılmış isteklerin dolaylı görünümü olarak ele aldığı temel kuramsal çerçeve.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Eyelash Dream Meaning & Interpretation - Mirror",
+      "relevance": "Kirpik ve göz ilişkisini Jungcu algı, bilinç-bilinçdışı sınırı ve içsel görme temalarıyla ilişkilendiren modern bir yorum içerir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/eyelash/"
+    },
+    {
+      "title": "Long Thick Eyelashes as a Symbol of Divine Chastity-From ...",
+      "relevance": "Antik Yunan, Roma, erken Hristiyan/Bizans ve modern dönem boyunca kirpiklerin kültürel anlam değişimini özetler; kirpiğin erdem, iffet, alçakgönüllülük, güzellik ve kimlik ile ilişkisini verir.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40900183/"
+    },
+    {
+      "title": "What Does Dreaming About Eyelashes Mean? - Rüya Tabirleri",
+      "relevance": "Kirpik için İslami rüya yorumunda koruyucu sınır, mahremiyet ve haramdan sakınma temalarını aktaran modern bir derleme sayfası; Nablusî geleneğine atıf içerir.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-eyelashes"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri K Harfi",
+      "relevance": "Kirpik maddesinde dini muhafaza, mal, ilim, sevinç, uzama, beyazlama ve yokluk gibi yorumları açıkça sıralayan Nablusî geleneğine ait Türkçe derleme sayfası.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
+    },
+    {
+      "title": "Topical Bible: Eyelashes",
+      "relevance": "Göz imgeleri üzerinden dikkat, korunma ve ilahi muhafaza temalarını bir araya getirir; kirpik için doğrudan rüya girdisi vermese de Hristiyan sembolik okuma için dolaylı bir temel sağlar.",
+      "url": "https://biblehub.com/topical/e/eyelashes.htm"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Talmud’daki rüya yorumu ilkesini ve anlamın yorumla belirlendiği yaklaşımı ele alır; Yahudi rüya okuması için temel çerçeve sağlar.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Significance of Dreams",
+      "relevance": "Yahudi geleneğinde rüyaların statüsü, yorumun rolü ve Talmudik rüya yaklaşımı hakkında özet sunar.",
+      "url": "https://aish.com/significance-of-dreams/"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Yahudi gelenekte rüyaların nasıl anlaşıldığına ve yorumlandığına dair genel çerçeve verir; kirpik için korunma ve bakış sembolizmiyle ilişkilendirilebilir.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Significance of Soft and tender eyelashes",
+      "relevance": "Theravada Budizmi bağlamında kirpiklerin şefkat ve yumuşaklıkla ilişkilendirildiğini açıkça belirten kaynak.",
+      "url": "https://www.wisdomlib.org/concept/soft-and-tender-eyelashes"
+    },
+    {
+      "title": "The 32 Physical Attributes of Shakyamuni Buddha: Sacred Signs of Enlightenment",
+      "relevance": "Buddha’nın 32 fiziksel işareti içinde kirpiklerin ‘kraliyet boğası gibi’ tasvir edilişini veren kaynak; kirpik sembolizmini Budist beden alametleri çerçevesine yerleştirir.",
+      "url": "https://enlightenmentthangka.com/blogs/thangka/the-32-physical-attributes-of-shakyamuni-buddha-sacred-signs-of-enlightenment"
+    },
+    {
+      "title": "The 32 Marks of a Buddha – Encyclopedia Buddhica Fall 2019",
+      "relevance": "Buddha’nın 32 işaretini ve kirpiklerin bu işaretler içindeki yerini açıklayan akademik-tarzda çevrim içi kaynak; kirpikleri Budist ikonografi ve alametler bağlamında ele alır.",
+      "url": "https://encyclopediabuddhicaf19.andrewquintman.wescreates.wesleyan.edu/blog/t/the-32-marks-of-a-buddha/"
+    },
+    {
+      "title": "Rüyada Kirpik Görmek Ne Anlama Gelir?",
+      "relevance": "Kirpiği rüyada görünme bağlamında koruyuculuk, mahremiyet ve bakışın sınırıyla ilişkilendiren modern bir rüya tabiri metni.",
+      "url": "https://ruyaokuma.com/ruya-tabirleri/ruyada-kirpik-gormek"
+    },
+    {
+      "title": "Eyelash in dreams — meaning and symbolism",
+      "relevance": "Kirpiği ezoterik bir koruma perdesi ve algı filtresi olarak yorumlayan modern spiritüel rüya maddesi.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/eyelash"
+    },
+    {
+      "title": "Rüyada Kirpik Görmek Ne Anlama Gelir? - Diyadinnet Rüya Tabirleri",
+      "relevance": "Kirpiklerin korunma ve bakış sınırıyla ilişkilendirildiği modern rüya sözlüğü maddesi; kirpik sembolünü mahremiyet ve duyusal sınırlarla bağlar.",
+      "url": "https://www.diyadinnet.com/ruyada-6306-kirpik-gormek"
+    },
+    {
+      "title": "Spiritual Meaning of Eyelashes: Secrets to Your Soul?",
+      "relevance": "Kirpik sembolünü öz-imaj, çekicilik ve kırılganlık temalarıyla ilişkilendiren modern spiritüel açıklama.",
+      "url": "https://atmawise.com/symbolism/spiritual-meaning-of-eyelashes/"
+    },
+    {
+      "title": "Joshua Media Ministries Int'l. - Apostle David E. Taylor [Official Site]",
+      "relevance": "Kirpiklerin rüyalarda çekicilik, albeni ve baştan çıkarıcılık çağrışımlarıyla yorumlandığı modern dinsel-spiritüel içerik.",
+      "url": "https://joshuamediaministries.org/dreams/eyelashes/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "slug": "restoran",
+  "title": "restoran",
+  "shortDescription": "Rüyada restoran görmek, beslenme ve doyum ihtiyacını, paylaşımı ya da hayatınızdaki seçenekleri düşündüğünüz bir dönemi yansıtabilir. Temiz ve düzenli bir restoran huzur, bolluk ve uyumla; bakımsız bir yer ise geçim, düzen veya sosyal ilişkilerdeki sıkıntı hissiyle ilişkilendirilebilir.",
+  "positiveAssociations": [
+    "Psişik beslenme ve doyum",
+    "Ortak sofra, toplumsal paylaşım ve aidiyet",
+    "Rızık, bolluk ve yaşam düzeninde uyum (görünüşe göre temiz ve düzenli mekânla ilişkili)",
+    "İçsel büyüme ve deneyimlerin özümsenmesi (yeni seçenekleri deneme, öğeleri seçme ve sindirme)"
+  ],
+  "challengingAssociations": [
+    "Kirli veya bakımsız restoranın maddi/sosyal sıkıntı ya da düzensizlik çağrışımı",
+    "Menüdeki seçeneklerin kişiye uygun olmaması veya sunulanların rahatsız edici olması",
+    "Seçim yapamama, kararsızlık ve doyumsuzluk hissi"
+  ],
+  "contextDependentAssociations": [
+    "Mekânın temiz, düzenli veya bakımsız olması",
+    "Menüde sunulan yiyeceklerin niteliği (taze/leziz/sağlıklı vb.)",
+    "Masada yalnız olmak ya da kalabalık bir grupla yemek yemek",
+    "Restorandaki rolü (müşteri, gözlemci vb.) ve menü karşısındaki tutum (aktif seçim, kararsızlık)"
+  ],
+  "commonVariations": [
+    {
+      "title": "Temiz ve düzenli restoranda yemek",
+      "description": "Ferah, düzenli bir restoranda rahatça yemek yemek, yaşamda istikrar, huzur ve geçimle ilgili olumlu hisleri temsil edebilir."
+    },
+    {
+      "title": "Kirli veya bakımsız restoranda bulunmak",
+      "description": "Bakımsız bir restoranda olmak, geçim, düzen veya sosyal ilişkilerde belirsizlik ya da sıkıntı hissine işaret edebilir."
+    },
+    {
+      "title": "Kalabalık masada ortak yemek",
+      "description": "Restoranda geniş bir grupla aynı masayı paylaşmak, toplumsal bağları, aidiyet ve paylaşım ihtiyacını vurgular."
+    },
+    {
+      "title": "Menüye bakıp ne sipariş edeceğini bilememek",
+      "description": "Seçenekler arasında kararsız kalmak, uyanık yaşamda seçim yapma güçlüğü veya yeni deneyimler karşısında tereddütü simgeleyebilir."
+    }
+  ],
+  "psychology": "Rüya içerik analizinde 'restoran' gibi mekân öğeleri, rüya raporlarındaki metinsel kategorilere kodlanır; bu yöntem sembole tek bir evrensel anlam atamaktan kaçınır ve bağlam, duygusal ton ve diğer rüya öğelerine göre yorum yapılmasını önerir.",
+  "jungian": "Jungcu çerçevede restoran, psişenin ihtiyaç duyduğu \"psişik besin\"in hangi kaynaklardan ve nasıl alındığının sahnelendiği bir mekân olabilir; ortak masa ve paylaşım imgeleri, bireysel içselleştirme süreçlerinin toplumsal bağlamda nasıl düzenlendiğini gösterir. Bu okumalar bağlama ve kişisel çağrışımlara bağlı olarak dikkatle kullanılmalıdır.",
+  "islamicTradition": "Modern İslami rüya tabirlerinde restoran rüyası sıklıkla rızık, bolluk ve yaşam düzeni ile ilişkilendirilir; temiz ve düzenli restoranlar olumlu; kirli, düzensiz restoranlar ise sıkıntı veya geçim zorluğu çağrışımıyla aktarılır. Bu yorumlar çağdaş aktarım metinlerine dayanır ve klasik kaynaklarda 'restoran' maddesi doğrudan doğrulanmamıştır.",
+  "christianTraditions": "Hristiyan sembolik gelenekte sofra ve yemek, ilahi sağlama, misafirperverlik ve paylaşım/ortaklıkla bağlantılıdır; bu yüzden restoran imgesi, toplulukla bağ kurma, ruhsal beslenme ve ortak yaşamı akla getirebilir. Bu tür yorumlar yemek/sofra geleneği üzerinden kontrollü biçimde yapılmalıdır.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyanın anlamı yorumlama sürecinde şekillenir; doğrudan 'restoran' maddesi Talmudik kaynaklarda doğrulanmadığından, yemek, sofra ve bereket temaları üzerinden dikkatli ve bağlama duyarlı bir okuma yapılabilir.",
+  "buddhistEasternApproaches": "Budist bağlamda yemek ritüelleri, sunu ve adak pratikleriyle ilişkilidir; restoran imgesi, paylaşımın, farkındalığın ve beslenmenin ritüel/etik boyutlarını çağrıştıracak şekilde değerlendirilebilir.",
+  "spiritualApproaches": "Modern spiritüel okumalarda restoran, duygusal ve ruhsal beslenme, alma-verme dengesi ve hangi deneyimleri tercih edip içselleştirdiğimizin sahnesi olarak yorumlanır; bu yorumlar sembolik niteliğindedir ve bağlama bağlıdır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik rüya içerik analizi",
+      "interpretation": "Restoran gibi mekân öğelerinin rüya raporlarında kategorik ve istatistiksel olarak kodlanması; bağlama göre anlamlandırma.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik",
+      "interpretation": "Yemek, iştah ve doyum bağlamında restoran, bedensel ihtiyaçlar ile sahnelemenin bir ortamı olarak okunabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu",
+      "interpretation": "Psşik besin, içselleştirme ve ortak sofra imgeleri üzerinden restoranın psikolojik dönüşüm ve toplumsal ilişki bağlamında değerlendirilmesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami aktarımlar",
+      "interpretation": "Restoranın rızık, bolluk ve yaşam düzeni çağrışımları; mekânın görünüşüne göre olumlu/olumsuz ayrım.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel yaklaşımlar",
+      "interpretation": "Ruhsal/duygusal beslenme, seçim yapma bilinci ve topluluk içinde karşılanma temaları.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar restoranı tek bir kehanet sembolü olarak görmek yerine, beslenme, paylaşım, seçim ve kişinin çevresiyle kurduğu ilişkinin sahnelendiği bir mekân olarak değerlendirir; yorum bağlama ve rüyanın detaylarına bağlıdır.",
+  "differences": "Ampirik yöntemler, sembolü kategorik kodlama ve bağlamsal analizle ele alırken; psikanalitik ve Jungcu yaklaşımlar içselleştirme, iştah ve psikolojik büyüme temalarına odaklanır. Dini/geleneksel okumalar rızık, bereket ve topluluk temaları üzerinden pratik çağrışımlar sunar; spiritüel yaklaşımlar ise seçme ve ruhsal doyum vurgusunu öne çıkarır.",
+  "inusAssessment": "Restoran sembolü, rüya yorumunda tek başına belirleyici bir işaret değildir; bağlam içinde diğer unsurlarla birlikte değerlendirilmesi gereken öğelerden biridir. Mekânın temizliği, kalabalık düzeyi, menü içeriği ve rüya sahibinin restorandaki rolü gibi özellikler yorum sürecini etkileyebilir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin ilkelerini sunar; restoran gibi mekân öğelerinin rüya raporlarında nasıl kodlanıp incelenebileceğine dair ampirik çerçeve sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un metinleri, restoranı doğrudan sabit bir sembol yerine rüya anlatısındaki bir mekân ayrıntısı ve yemek/beden bağlamında ele almanın dayanağını verir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part a",
+      "relevance": "Rüya örnekleri içinde restoranın geçtiği pasajları gösterir; restoran imgelerinin yemek sahneleriyle ilişkisini belgelemeye yardımcı olur.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm"
+    },
+    {
+      "title": "Freud (1900) Chapter 1, part a",
+      "relevance": "Rüya kaynakları, bedensel uyarımlar ve duyumların rüya içeriğine dönüşmesi üzerine Freud'un genel çerçevesini sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams1a.htm"
+    },
+    {
+      "title": "Freud (1900) Chapter 3 - Classics in the History of Psychology",
+      "relevance": "Yemek, iştah ve doyum temalarının rüya örneklerinde nasıl sahnelendiğini gösterir; restoranı bu bağlam içinde düşünmek için yararlıdır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams3.htm"
+    },
+    {
+      "title": "Restaurant",
+      "relevance": "Yiyecek ve beslenmenin psikolojik büyüme, içselleştirme ve gereksinim duyulan \"psişik besin\" ile ilişkisini açıklayan Jungcu yorumu.",
+      "url": "https://dreampaths.com/symbol/restaurant"
+    },
+    {
+      "title": "夢に現れる「食べ物・食事」の象徴｜ユング心理学が読み解く滋養・欲求・変容のこころのメッセージ | ユングで学ぶ心理学入門",
+      "relevance": "Yeme ve paylaşma motiflerini ortak masa, toplumsal ilişki ve dönüşüm bağlamında ele alan Jungcu açıklama.",
+      "url": "https://www.kokoro-jung.com/dream-food-symbol-jung/"
+    },
+    {
+      "title": "ARTEMIDORUS: Interpretation of Dreams (The) (Unabr..",
+      "relevance": "Greko-Romen rüya yorum geleneğinde yiyecek, içecek ve ortak sofra bağlamlarını içeren temel metindir; modern 'restoran' sembolünü tarihsel olarak düşünmek için en yakın klasik çerçeveyi sağlar.",
+      "url": "https://www.naxos.com/CatalogueDetail/?id=NA0541"
+    },
+    {
+      "title": "دیدن رستوران و مدیر رستوران در خواب توسط ابن سیرین - تعبیرگر",
+      "relevance": "İbn Sîrîn’e atfedilen çağdaş Farsça bir kaynak; restoran rüyasını rızık, düzen ve yaşam uyumu temaları üzerinden yorumluyor.",
+      "url": "https://tabirgar.ir/dream/57231/"
+    },
+    {
+      "title": "تعبیر خواب رستوران در خواب ابن سیرین چیست؟",
+      "relevance": "Restoran için çağdaş rüya açıklaması; mekânın görünümü ve sunulan yiyecekler üzerinden olumlu/olumsuz anlamlar kuruyor.",
+      "url": "https://tabirgar.ir/dream/34629/"
+    },
+    {
+      "title": "تعبیر خواب رستوران ابن سیرین + برای زن متاهل و باردار و دختر مجرد",
+      "relevance": "Restoranı İbn Sîrîn adına anlatan Türkçe çağdaş özet; dünya nimetleri, bereket ve geçim kolaylığına vurgu yapıyor.",
+      "url": "https://persiansara.ir/62037-resturan-ebne-sirin/"
+    },
+    {
+      "title": "The indications of seeing the restaurant in a dream by Ibn Sirin - Interpretation of Dreams",
+      "relevance": "İngilizce çağdaş yorum; restoranı rüyada oturma, yemek isteme, iş ve terfiyle ilişkilendiriyor ve olumlu geçim temaları sunuyor.",
+      "url": "https://en.joellemena.com/dreaminterpretation/The-restaurant-in-a-dream/"
+    },
+    {
+      "title": "Dreams about restaurants Islamic Interpretations Explanation",
+      "relevance": "İslami rüya sözlüğü benzeri bir arama sayfası; restoran için bazı geçim ve eğitim temalı çağrışımlar veriyor.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=restaurants"
+    },
+    {
+      "title": "تفسير المطعم في المنام لابن سيرين - موسوعة عين المعرفة",
+      "relevance": "Arapça ansiklopedi tarzı bir sayfa; temiz, düzenli, büyük veya küçük restoran için farklı rüya çağrışımları veriyor.",
+      "url": "https://ain-marfa.com/article/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B7%D8%B9%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D9%84%D8%A7%D8%A8%D9%86-%D8%B3%D9%8A%D8%B1%D9%8A%D9%86-98"
+    },
+    {
+      "title": "Topical Bible: Eating: Sitting at Table",
+      "relevance": "Hristiyan gelenekte yemek ve sofra sembolizminin ilahi sağlama, misafirperverlik ve topluluk temalarıyla ilişkisini gösterir; restoran okuması için sembolik zemin sağlar.",
+      "url": "https://biblehub.com/topical/naves/e/eating--sitting_at_table.htm"
+    },
+    {
+      "title": "Topical Bible: Eating: Table Used In",
+      "relevance": "Sofrayı misafirperverlik, topluluk, ilahi sağlama ve Tanrı’nın krallığıyla ilişkilendirir; restoran okuması için sembolik zemin sağlar.",
+      "url": "https://biblehub.com/topical/naves/e/eating--table_used_in.htm"
+    },
+    {
+      "title": "The Dinner Table as a Place of Connection, Brokenness, and ...",
+      "relevance": "Yemek masasını Hristiyan yaşamında bağ kurma, kırılganlık ve ortaklık yeri olarak ele alır; restoran imgesine teolojik bağlam verir.",
+      "url": "https://voice.dts.edu/article/a-place-at-the-table-jones-barry/"
+    },
+    {
+      "title": "Babylonian Talmud: Tractate Berakoth",
+      "relevance": "Yahudi gelenekte rüyaların yorumlanma biçimini ve belirli semboller için örnek tabirleri sunar; doğrudan 'restoran' maddesi bulunmadığından benzer temalar üzerinden dikkatli okuma yapılmasını önerir.",
+      "url": "https://www.come-and-hear.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Berakhot 112 - Talmud Bavli Study",
+      "relevance": "Berakhot içinde belirli nesne ve imgeler için rüya tabir örnekleri bulunduğunu gösterir.",
+      "url": "https://talmudbavli.app/en/texts/Berakhot.112.1"
+    },
+    {
+      "title": "Dreams in the Talmud 1: Brachot 55",
+      "relevance": "Berakhot 55 çevresindeki rüya yorum ilkelerini ve gelenekteki kullanımını derler.",
+      "url": "https://www.sefaria.org/sheets/222313"
+    },
+    {
+      "title": "A Buddhist Cosmology in Food",
+      "relevance": "Budist geleneklerde yemekle ilgili ritüel ve bağlamları ele alır; restoran imgesinin paylaşım, adak ve farkındalık boyutlarıyla ilişkilendirilebileceğine dair akademik çerçeve sunar.",
+      "url": "https://research-information.bris.ac.uk/en/datasets/a-buddhist-cosmology-in-food/"
+    },
+    {
+      "title": "Restaurant Dream Meaning: What Your Mind Is Trying To ...",
+      "relevance": "Restoranın ortak sofra, paylaşım ve gündelik olanın kutsal bir ritüeli gibi okunmasıyla ilgili spiritüel sembolik dil sunuyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/restaurant"
+    },
+    {
+      "title": "Restaurant Dream Meaning & Interpretation - Mirror",
+      "relevance": "Restoranı beslenme, seçim, toplumsal ritüel ve ruhsal gelişim bağlamında ele alan modern spiritüel yorum içeriyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/restaurant/"
+    },
+    {
+      "title": "Restaurant Dream Interpretation - Restaurant Dream Meaning",
+      "relevance": "Restoranı yeme, toplumsal etkileşim ve ruhsal doyum üzerinden okuyan çevrimiçi sembolik yorum sunuyor.",
+      "url": "https://www.dreamsmain.com/restaurant"
+    },
+    {
+      "title": "Restaurant Dream Meaning - Dream Atlas",
+      "relevance": "Restoranı beslenme, aidiyet ve ruhsal enerjiyle ilişkilendiren modern spiritüel açıklama içeriyor.",
+      "url": "https://dreamatlasonline.com/restaurant-dream-meaningrestaurant-dream-meaningeating-out-dream-symbolismfood-and-nourishment-dreamsemotional-hunger-in-dreamssocializing-and-needs-dream/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "historical-cultural",
+    "islamic"
+  ]
+}

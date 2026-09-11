@@ -1,167 +1,255 @@
 {
   "slug": "nehir",
   "title": "nehir",
-  "shortDescription": "Rüyada nehir görmek, hayatın akışını, değişim ve geçiş dönemlerini; derin duygularla teması simgeleyebilir. Berrak ve sakin bir nehir huzur ve yenilenmeyi, bulanık ya da taşkın bir nehir ise belirsizlik, baskı ve kontrol kaybı hissini yansıtabilir.",
+  "shortDescription": "Rüyada nehir görmek, suyun berraklığına, akış hızına, rüya sahibinin nehirle kurduğu ilişkiye ve kültürel bağlamlara göre değişen çok katmanlı bir geçiş ve dönüşüm imgesidir.",
   "positiveAssociations": [
-    "Akış ve uyum içinde ilerleme",
-    "Psikolojik arınma ve yenilenme",
-    "Hayatın bereketli ve huzurlu dönemi",
-    "Hedeflere doğru engelsiz yolculuk"
+    "Yaşamın ve enerjinin akışı",
+    "Arınma ve yenilenme",
+    "Geçiş ve engelleri aşma",
+    "Bolluk ve rızık",
+    "Huzur ve esenlik"
   ],
   "challengingAssociations": [
-    "Bilinçdışının baskın gelmesiyle yaşanan kaygı",
-    "Kontrol dışı akıntı veya boğulma hissi",
-    "Hayattaki ani engeller ve geçiş zorlukları",
-    "Bulanık suların getirdiği belirsizlik ve keder"
+    "Akıntıya kapılma ve kontrol kaybı",
+    "Çalkantılı veya kirli suyun getirdiği karmaşa",
+    "Aşılması güç engeller ve sınavlar",
+    "Tıkanma ve belirsizlik"
   ],
   "contextDependentAssociations": [
-    "Nehrin berrak ya da bulanık akması",
-    "Nehir kenarında yürümek ya da suya girmek",
-    "Nehrin taşarak evlere veya sokaklara zarar vermesi",
-    "Nehir suyunu içmek"
+    "Nehrin berrak ya da bulanık olması",
+    "Nehrin akış hızı ve taşkınlık durumu",
+    "Nehirde yüzmek, karşıya geçmek veya sadece kıyısından izlemek",
+    "Rüya sahibinin o anki duygusal tonu ve yaşam bağlamı"
   ],
   "commonVariations": [
     {
-      "title": "Berrak bir nehirde yüzmek",
-      "description": "Suyun temiz ve sakin olduğu bir nehirde yüzmek, kişinin içsel dünyasıyla barışık olduğunu ve hayatındaki akışa güvenle teslim olabildiğini gösterebilir."
+      "title": "Berrak ve sakin bir nehir akıntısı",
+      "description": "Suyun berrak ve huzurlu bir şekilde aktığı nehir, psikolojik olarak zihinsel berraklığa ve yaşam akışıyla uyum içinde olmaya işaret edebilir."
     },
     {
-      "title": "Bulanık nehir sularına bakmak",
-      "description": "Çamurlu veya bulanık akan bir nehir, zihinsel karışıklıkları, kararsızlıkları ve yakın zamanda yaşanabilecek geçici belirsizlikleri simgeler."
+      "title": "Çalkantılı veya taşkın bir nehre girmek",
+      "description": "Hızlı ve coşkuyla akan bir nehre adım atmak veya akıntıya kapılmak, hayattaki büyük dönüşümlerle, risklerle ya da güçlü figürlerle karşılaşma temasıyla okunabilir."
     },
     {
-      "title": "Taşmış bir nehirle karşılaşmak",
-      "description": "Yatağından taşarak etrafa zarar veren bir nehir görmek, kişinin hayatındaki kontrol kaybını, baskı altında hissettiği durumları veya otorite figürleriyle ilgili gerilimleri yansıtabilir."
+      "title": "Nehrin karşı kıyısına geçmek",
+      "description": "Bir yakadan diğerine geçiş imgesi, bir evreden başka bir evreye geçişi, bir eşiği geride bırakmayı veya zihinsel bir dönüşümü simgeler."
     },
     {
-      "title": "Nehrin karşı kıyısına geçmeye çalışmak",
-      "description": "Bir nehrin bir yakasından diğerine geçiş çabası, yaşamda yeni bir evreye adım atmayı, bir eşiği geride bırakmayı veya önemli bir kararı temsil eder."
+      "title": "Kirlenmiş veya bulanık nehir suyu",
+      "description": "Bulanık veya akışı engellenmiş bir nehir, rüya sahibinin yaşadığı kararsızlıkları, duygusal tıkanıklıkları veya çözülmesi gereken karmaşık durumları yansıtabilir."
     }
   ],
-  "psychology": "",
-  "jungian": "Jungcu analitik psikolojide nehir, bilinçdışına doğru akan psişik süreci, benliğin bütünleşme yolculuğunu ve derinlerdeki dönüşümü simgeleyen bir imge olarak ele alınır. Suyun akışı, bireyin bilinçli zihninden daha derin katmanlara doğru yaptığı içsel seyahati ve psişik enerjinin hareketini temsil eder.",
-  "islamicTradition": "İslami rüya geleneklerinde nehir, bazı derlemelerde soylu ve büyük bir kişi, otorite, seyahat veya adalet ile ilişkilendirilir. Nehre girmek, genellikle önemli bir kişiyle karşılaşmaya yorumlanır; nehrin taşarak zarar vermesi adaletsiz bir duruma, su içmek ise bağlama bağlı olarak sıkıntıya veya refaha işaret edebilir. Bu bulgular modern çevrimiçi derlemelere dayanmaktadır ve gelenek içinde kaynaklar arasında farklılık vardır.",
-  "christianTraditions": "Hristiyan kutsal metin geleneğinde nehir, yaşam, bereket, arınma ve ilahi takdirin bir sembolü olarak ele alınır; bu bağlamda manevi tazelenmeyi ve ilahi lütfun akışını temsil eder. Bu, genel metinsel sembolizmdir; doğrudan rüya geleneklerinden ayrı değerlendirilmelidir.",
-  "jewishTraditions": "Yahudi rabbanî ve mistik düşüncesinde su ve nehir metaforları, yaşamın kaynağı ve kutsal öğretilerle bağdaştırılan genel bir sembolik zemine sahiptir; mevcut doğrulanmış kaynaklarda nehre dair doğrudan rüya yorumu örnekleri sınırlıdır.",
-  "buddhistEasternApproaches": "Budist ve Doğu geleneklerinde nehir, geçicilik, akış, engeller ve âlemler arasındaki sınırları simgeleyebilir; aynı zamanda tutunmanın olumsuz sonuçlarına dikkat çeken ve yolculuk zorluklarını betimleyen bir unsur olarak kullanılır.",
-  "spiritualApproaches": "Spiritüel ve ezoterik yaklaşımlarda nehir, akış, değişim ve engelleri aşma temalarıyla ele alınır; sembol genellikle dönüşüm, teslimiyet ve enerji hareketliliği bağlamında yorumlanır.",
+  "psychology": "Bilimsel rüya araştırmalarında nehir sembolünün doğrudan tek bir anlama karşılık geldiğine dair ampirik bir kanıt bulunmamaktadır. Rüya içerik analizleri, bu tür imgelerin bireyin o anki zihinsel durumuna, duygusal tonuna ve kişisel yaşam bağlamına göre çözümlenmesi gerektiğini gösterir.",
+  "jungian": "Analitik psikolojide akışkan su imgeleri bilinçdışının en temel katmanlarıyla ilişkilendirilir. Nehrin akışı, psişik süreçlerin yönünü, yaşam enerjisini ve dönüşüm imkanlarını temsil ederken, nehri izlemek, akıntıya kapılmak veya karşıya geçmek gibi eylemler bireyselleşme yolundaki içsel yönelimleri yansıtır.",
+  "islamicTradition": "Modern İslami rüya tabiri derlemelerinde nehir; akışın niteliğine, içindeki sıvıya ve rüya sahibinin nehirle kurduğu ilişkiye göre farklı anlamlarla aktarılır.",
+  "christianTraditions": "Hristiyan sembolizminde nehir ve akarsular genellikle Kutsal Ruh'un hareketini, ilahi sağlanımı, yaşamın bolluğunu ve arınmayı temsil eder. Berrak sular esenlik ve saflığı simgelerken, zorlu ve kirli nehirler aşılması gereken sınavlar veya ruhsal tıkanıklıklar olarak ele alınabilir.",
+  "jewishTraditions": "Talmudik gelenekte (örneğin Berakhot metinlerinde) rüyada nehir görmek genellikle 'barış' işaretlerinden biri olarak ele alınır ve belirli ayetlerle ilişkilendirilerek olumlu bir bağlamda değerlendirilir.",
+  "buddhistEasternApproaches": "Budist gelenekte nehir, samsara, arzular nehri ve fenomenler dünyasının akışıyla ilişkilendirilir. Nehir, kişinin geçici arzuların akıntısına kapılmasını değil, farkındalıkla karşı kıyıya (Dharma yoluna) geçişini anlatan bir eşik metaforudur.",
+  "spiritualApproaches": "Spiritüel ve ezoterik okumalarda nehir, zamanın kesintisiz akışını, bir evreden diğerine geçişi, yaşam gücü enerjisini ve bırakma gereksinimini simgeleyen evrensel bir akış imgesidir.",
   "comparisonTable": [
     {
-      "approach": "Jungcu Yaklaşım",
-      "interpretation": "Bilinçdışına akış, psişik bütünleşme ve içsel dönüşüm süreci.",
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Akışkan su imgeleri bedensel süreçler, bilinçdışı akış ve değişim dinamikleriyle bağlantılıdır.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami Rüya Geleneği",
-      "interpretation": "Otorite figürü, seyahat, adalet, rızık veya dönemsel sınavlar (farklı derlemelere göre değişir).",
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Nehir, psişik süreçlerin yönünü, dönüşümü ve yaşam akışını temsil eden temel bir bilinçdışı sembolüdür.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Saygın makam, rızık, otorite veya manevi bir zatın temsili olarak okunabilir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan Metinsel Sembolizm",
-      "interpretation": "Yaşam pınarı, ilahi bereket, arınma ve ilahi lütfun akışı.",
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Kutsal Ruh'un akışı, ilahi lütuf, arınma ve ruhsal yenilenme temalarıyla ilişkilendirilir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu ve Budist Yaklaşım",
-      "interpretation": "Geçicilik, akış fikri, engeller ve varoluşsal sınırların algısı.",
+      "approach": "Musevi Geleneği",
+      "interpretation": "Talmudik metinlerde sıklıkla barış ve esenlik alameti olarak değerlendirilir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Spiritüel / Ezoterik Yaklaşım",
-      "interpretation": "Evrensel akışa teslimiyet ve dönüşüm enerjisi.",
+      "approach": "Budist / Doğu Yaklaşımları",
+      "interpretation": "Samsara akıntısı, arzuların aşılması ve bilinçli bir geçiş eşiği olarak ele alınır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Zamanın akışı, yaşam enerjisi ve ruhsal dönüşüm süreci olarak yorumlanır.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenekler ve psikolojik ekoller arasında nehir sembolü, temel olarak 'hareket', 'geçiş' ve 'değişim' kavramları etrafında buluşur. Su nasıl durmaksızın akıyorsa, nehir imgesi de insan hayatındaki akışı, zamanın geçişini ve dönüşümü ifade eder.",
-  "differences": "Yaklaşımlar arasındaki temel fark, odak noktasındadır. Jungcu çerçeve nehri bireyin içsel psişik süreçleriyle ve bilinçdışıyla bağdaştırırken; İslami ve bazı geleneksel yorumlar daha çok dışsal yaşam olayları, otorite ilişkileri veya toplumsal durumlarla ilişkilendirir. Doğu gelenekleri ise geçicilik ve varoluşsal akış boyutuna vurgu yapar. Kaynaklar ve uygulama bağlamına göre anlam değişebilir.",
-  "inusAssessment": "Nehir sembolü, barındırdığı zıt kutuplar nedeniyle tek bir düzleme indirgenemez. Akışın huzur verici ve besleyici yönü ile taşkın ya da bulanık suların yarattığı tehlike hissi arasındaki ince çizgi, rüya görenin o anki içsel ve dışsal bağlamına göre şekillenir. Bu nedenle nehir rüyalarını yorumlarken suyun niteliğini (berrak/bulanık), hareketini (sakin/taşkın) ve rüya sahibinin nehirle olan etkileşimini bütüncül olarak ele almak gerekir.",
-  "faq": [],
+  "commonGround": "Farklı gelenekler ve psikolojik yaklaşımlar arasında nehir, sürekli hareket eden ve insanı bir halden diğerine taşıyan bir 'geçiş ve dönüşüm' imgesidir.",
+  "differences": "Kimi gelenekler nehri ilahi bir lütuf, barış veya rızık olarak konumlandırırken, bazı psikolojik ve Doğu felsefesi yaklaşımları onu zihinsel akıntı, bilinçdışı dinamikler ve bireysel dönüşüm çabasının bir aynası olarak ele alır.",
+  "inusAssessment": "Nehir sembolü, sabit ve tek bir anlama sahip olmaktan ziyade, rüya içinde nasıl deneyimlendiğine bağlı olarak anlam kazanan dinamik bir akış imgesidir. Suyun berrak olması zihinsel ve duygusal bir duruluğa işaret edebilirken, taşkın ya da çalkantılı bir nehir rüya sahibinin hayatındaki aşılması gereken bir eşiği, yoğun duygusal akıntıları veya kaçınılmaz değişim süreçlerini yansıtabilir. Bu nedenle nehir rüyasını çözerken suyun niteliği ile rüya sahibinin nehirle nasıl bir ilişki içinde olduğuna (örneğin kıyıda durmak, yüzmek, karşıya geçmeye çalışmak ya da akıntıya kapılmak) bakmak en belirleyici unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada nehir görmek her zaman olumlu bir anlam taşır mı?",
+      "answer": "Hayır. Geleneklerde ve psikolojik okumalarda nehrin berraklığı, akış hızı ve rüya sahibinin hissettiği duygular yorumun yönünü değiştirir; çalkantılı veya kirli nehirler zorluklara ya da karmaşaya işaret edebilir."
+    },
+    {
+      "question": "Nehirde yüzmek veya karşıya geçmek ne anlama gelir?",
+      "answer": "Bu tür eylemler genellikle hayatta bir eşikten geçme, bir engeli aşma veya yeni bir yaşam evresine adım atma çabasıyla ilişkilendirilir."
+    }
+  ],
   "sources": [
     {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizi için temel ilkeleri ve verinin nasıl güvenilir biçimde çözümlenmesi gerektiğini açıklar; nehir sembolüne doğrudan ampirik bulgu sağlamaz ama bu sembol için araştırma çerçevesi sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Rüyalarda suya girme, suda kalma ve dar geçitlerden geçme imgelerini anne rahmi ve doğum temalarıyla ilişkilendiren Freudcu pasajları içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Rüyada suyun bedensel uyarımlar ve idrar temalarıyla bağlantılanmasına dair Freud’un metninden bir bölüm sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
       "title": "River Dreams: Meaning & Psychological Interpretation",
-      "relevance": "Jungcu ve popüler psikolojik yorumları içeren derleme; Jung kuramına ilişkin atıflar ve popüler yorum örnekleri içerir.",
+      "relevance": "Nehir rüyalarının akış, geçiş ve duygusal yönelimle okunmasına dair Jungcu terminoloji ve kavramlar içerir; sembolün rüyadaki davranışı ve bağlama göre değişen yorum fikrini destekler.",
       "url": "https://somniscient.com/en/symbols/river"
     },
     {
-      "title": "The Influence of Rivers on Culture",
-      "relevance": "Nehirlerin kültürel rolünü ve toplumları şekillendiren etkilerini özetleyen derleme.",
-      "url": "https://www.riversarelife.com/articles/the-influence-of-rivers-on-culture"
+      "title": "Artemidorus Interprets the Dream of Mordecai (Additions to Esther A ...",
+      "relevance": "Artemidorus’un Oneirocritica’sı içindeki bağlama duyarlı rüya yorum mantığını inceleyen akademik çalışma; nehir imgelerinin de sabit değil bağlama bağlı okunmasına zemin sağlar.",
+      "url": "https://brill.com/abstract/journals/vt/73/4-5/article-p766_14.xml?language=en"
     },
     {
-      "title": "The Meaning of Rivers",
-      "relevance": "Nehirlerin coğrafi, tarihsel ve kültürel anlamını ele alan akademik çalışma; nehrin bağlayıcı/ayırıcı simgesel işlevi için bağlamsal destek sağlar.",
-      "url": "https://uipress.uiowa.edu/books/meaning-rivers"
+      "title": "Rüyada Nehir Görmek Ne Anlama Geliyor? - Diyadinnet",
+      "relevance": "Nehirle ilgili olarak İbn-i Sîrîn’e atfedilen saygınlık ve makam yorumlarını ve nehre girme temasını aktaran modern bir derleme sayfasıdır.",
+      "url": "https://www.diyadinnet.com/ruyada-2741-nehir-gormek"
     },
     {
-      "title": "Water as Cultural Memory: The Symbolism of Flow in ...",
-      "relevance": "Akademik makale; su ve akışın kültürel hafıza içindeki sembolik işlevini tartışarak nehir sembolünün kültürel boyutuna delil sağlar.",
-      "url": "https://www.mdpi.com/2076-0787/15/2/25"
+      "title": "تفسير رؤية النهر في المنام لابن سيرين والنابلسي ودلالاته",
+      "relevance": "Nehir imgesini otorite, adalet, bolluk ve kayıp temalarıyla ilişkilendiren Arapça bir derleme yazı; nehir sembolünün klasik yorum çevresini yansıtır.",
+      "url": "https://mana.ms/blog/ar/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D9%84%D8%A7%D8%A8%D9%86-%D8%B3%D9%8A%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A"
     },
     {
-      "title": "What does it mean to see a river in a dream?",
-      "relevance": "İslami rüya yorumuna atfedilen modern derlemede nehir sembolünün otorite, kişi ve davranışlarla ilişkili yorumları verilmiş.",
-      "url": "https://www.molla.az/en/dream-interpretation/what-does-it-mean-to-see-a-river-in-a-dream"
+      "title": "İmam Nablusi Rüya Tabirleri N Harfi - Muhammed.net",
+      "relevance": "Nablusî’ye atfedilen nehir tabirlerini; nehrin saygın bir zatı ve cennet nehirlerinin ilim, Kur’an ve sevinci sembolize etmesini aktarır.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-n-harfi.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri C Harfi",
+      "relevance": "Nablusî’ye atfedilen su nehri, süt nehri, şarap nehri ve bal nehri ayrımlarını verir; nehirlerin içeriğine göre sembolik ayrımları gösterir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-c1-harfi.html"
+    },
+    {
+      "title": "Dream symbols: Rivers, seas, lakes and water",
+      "relevance": "Hristiyan rüya ve sembolizm okumalarında nehir ve akarsular genellikle Kutsal Ruh'un hareketi ve etkinliğiyle ilişkilendirilir.",
+      "url": "https://heavensdreammessages.com/dream-symbols-rivers-seas-lakes-water/"
+    },
+    {
+      "title": "What does dream of River Mean spiritually? Dream ...",
+      "relevance": "Nehir rüyasında berraklık, durgunluk, renk ve akış üzerinden saflık, esenlik, karmaşa ve tıkanma gibi sembolik okumalar.",
+      "url": "https://www.christiandreamsinterpretation.com/dreamofriver"
+    },
+    {
+      "title": "Ask and You Shall Receive - Apostle David E. Taylor ...",
+      "relevance": "Nehir imgelerinin yaşam, Tanrı’nın Ruhu, doğruluk, sınav ve engel temalarıyla ilişkilendirilmesi.",
+      "url": "https://joshuamediaministries.org/dreams/river/"
+    },
+    {
+      "title": "Microsoft Word - Rivers and streams",
+      "relevance": "Kutsal Kitap dilinde nehir ve akarsuların lütuf, Müjde, Kutsal Ruh, bereket ve yaşam bolluğu gibi anlam alanları.",
+      "url": "https://www.biblehouseofgrace.com/uploads/9/2/2/1/92218980/rivers_and_streams.pdf"
     },
     {
       "title": "Topical Bible: Symbolism of the River",
-      "relevance": "Hristiyan kutsal metinler çerçevesinde nehir sembolizmini özetleyen kaynak; hayat, bereket ve arınma temalarına dair genel teolojik bağlam sağlar.",
+      "relevance": "Nehir başlığının biblikal sembolizm özetinde yaşam, bereket ve ilahi sağlanım çerçevesi.",
       "url": "https://biblehub.com/topical/s/symbolism_of_the_river.htm"
     },
     {
-      "title": "Seeing a river in a dream – Islamic Dream Interpretation",
-      "relevance": "İslami rüya geleneğine atfedilen çevrimiçi derleme; nehirle ilişkilendirilen otorite, seyahat ve adalet temalarını aktarır.",
-      "url": "https://themuslimtimes.info/2020/07/15/seeing-a-river-in-a-dream-islamic-dream-interpretation/"
+      "title": "Topical Bible: River",
+      "relevance": "Kutsal Kitap’ta nehirlerin yaşam, refah, yargı ve kurtuluş gibi anlam katmanlarıyla ele alınması.",
+      "url": "https://biblehub.com/topical/r/river.htm"
     },
     {
-      "title": "Living waters",
-      "relevance": "Yahudi rabbanî ve mistik düşüncede suyun Tora ve yaşamla ilişkilendirildiğini gösteren akademik/kurumsal metin; doğrudan rüya yorumu sunmaz fakat sembolik bağlama katkı sağlar.",
-      "url": "https://om.ciheam.org/om/pdf/a65/05002206.pdf"
+      "title": "Topical Bible: Rivers and Springs",
+      "relevance": "Nehir ve kaynak su imgelerinin Tanrı’nın sağlanımı, temizlenme, yenilenme ve Kutsal Ruh ile ilişkisinin özetlenmesi.",
+      "url": "https://biblehub.com/topical/r/rivers_and_springs.htm"
     },
     {
-      "title": "Dreaming about a River. Islamic dream interpretation",
-      "relevance": "İbn Sîrîn’e atfedilen nehir rüya yorumlarının çevrimiçi aktarımı; benzer yorum örnekleri içerir.",
-      "url": "https://themuslimtimes.info/2023/05/11/dreaming-about-a-river-islamic-dream-interpretation/"
+      "title": "Berakhot 112 - Talmud Bavli Study",
+      "relevance": "Rüyada nehir sembolünün doğrudan geçtiği temel rabbanî metin; nehir burada barış işareti olarak yorumlanır ve ilgili ayetle ilişkilendirilir.",
+      "url": "https://talmudbavli.app/en/texts/Berakhot.112.1"
     },
     {
-      "title": "Who Shall Cross?",
-      "relevance": "Yahudi metin geleneğinde nehir ve kutsal niyet/yaratılış ilişkisine dair kurumsal materyal; doğrudan rüya yorumu değildir.",
-      "url": "https://www.jtsa.edu/who-shall-cross/"
+      "title": "Berakhot 56 - Hadran",
+      "relevance": "Berakhot’taki nehir rüyası pasajını anlaşılır biçimde sunar; rüyada nehir gören kişi için okunan ayet ve karşıt ayet sıralamasını açıklar.",
+      "url": "https://hadran.org.il/daf/berakhot-56/"
     },
     {
-      "title": "Islamic Meaning: Seeing water in a river in dreams",
-      "relevance": "İbn Sîrîn’e atfedilen klasik nehir rüya yorumlarını toplayan çevrimiçi derleme.",
-      "url": "https://lifeinsaudiarabia.net/meaning-see-river-dream-islam/"
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Babil Talmudu’ndaki rüya malzemesini akademik çerçevede ele alır; rüyada nehir örneğini olumlu anlamlandırma bağlamında tartışır.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
     },
     {
-      "title": "Why if you drink water directly from a river you'd be considered ...",
-      "relevance": "Yahudi bağlamında nehirden su içme adabı ve putperestlik çağrışımı üzerine tartışma; rüya yorumu değil, rabbanî pratik bağlamında yardımcı bir gösterge.",
-      "url": "https://judaism.stackexchange.com/questions/86238/why-if-you-drink-water-directly-from-a-river-youd-be-considered-pagan"
-    },
-    {
-      "title": "River Islamic Interpretations & Meanings",
-      "relevance": "İbn Sîrîn’e atfedilen klasik nehir rüya yorumlarını toplayan çevrimiçi metin.",
-      "url": "https://www.myislamicdream.com/river.html"
-    },
-    {
-      "title": "What is the river of life?",
-      "relevance": "Hristiyan kaynaklarda nehirin 'river of life' şeklinde kutsal metin sembolizmini açıklayan genel teolojik kaynak.",
-      "url": "https://www.gotquestions.org/river-of-life.html"
-    },
-    {
-      "title": "Not by the Rivers of Babylon",
-      "relevance": "Talmudik düşüncede doğal unsur olarak su/nehir bağlamına değinen akademik yazı; doğrudan rüya yorumu sunmaz.",
-      "url": "https://jewishreviewofbooks.com/articles/1965/not-by-the-rivers-of-babylon/"
+      "title": "overcoming the assumptions of self with the River Sutra; ...",
+      "relevance": "Nehir akıntısının benlik yanılsaması, tutunma ve kurtuluş mücadelesiyle ilişkilendirildiği Budist öğreti anlatımı.",
+      "url": "https://buddhaweekly.com/buddha-teaches-nadi-sutta-overcoming-assumptions-self-river-sutra-river-samsara-cannot-escaped-clinging-notion-abiding-self/"
     },
     {
       "title": "River: Significance and symbolism",
-      "relevance": "Budist ve Hindu bağlamlarında nehir sembolizmini kısa ve karşılaştırmalı biçimde ele alan kaynak; Budist kozmografik ve geçicilik vurgularına dayanak oluşturur.",
+      "relevance": "Budist sembolizmde nehrin sınır, değişim ve engel anlamlarını özetleyen kavramsal açıklama.",
       "url": "https://www.wisdomlib.org/concept/river"
     },
     {
-      "title": "Ganges River | Dictionary of Buddhism",
-      "relevance": "Ganj’ın Budist kozmografide dört büyük nehirden biri olarak konumunu doğrulamak için kullanıldı.",
-      "url": "https://www.nichirenlibrary.org/en/dic/Content/G/8"
+      "title": "Zen Mountain Monastery • River Seeing River",
+      "relevance": "Zen çerçevesinde nehrin samsara ve fenomenler dünyasıyla ilişkisini anlatan öğretici metin.",
+      "url": "https://zmm.org/earth-initiative/river-seeing-river/"
+    },
+    {
+      "title": "The Tilting Stream of Dharma Metaphor in Mahāyāna ...",
+      "relevance": "Mahāyāna düşüncede ‘Dharma akışı’ metaforunun, öğretinin taşıyıcı ve dönüştürücü yönünü göstermesi.",
+      "url": "https://www.totetu.org/assets/media/paper/j032_207.pdf"
+    },
+    {
+      "title": "On the Metaphor of the Raft in the Mah¯aparinibb¯anasutta",
+      "relevance": "Nehir ve köprü imgeleriyle arzu, geçiş ve kurtuluş arasındaki Budist metafor ilişkisini açıklayan akademik çalışma.",
+      "url": "https://ir.lib.hiroshima-u.ac.jp/46455/files/20103"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Bodhisattva rüyalarında nehir ve çalkantılı nehir görüntülerini doğrudan ele alan Budist rüya metni.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "Mountains & Rivers Sutra - Upaya Zen Center",
+      "relevance": "Suyun nehre dönüşmesini öğretici bir Zen sembolü olarak ele alan metin.",
+      "url": "https://www.upaya.org/uploads/pdfs/MountainsRiversSutra.pdf"
+    },
+    {
+      "title": "Dreams about Rivers",
+      "relevance": "Rüyada nehir için genel spiritüel akış, yaşamın değişen akışı, geçiş ve siyah nehir suyunun bilinçdışıyla ilişkilendirilmesi gibi yorumlar sunar.",
+      "url": "https://www.dreamdictionary.org/meaning/dreams-about-rivers/"
+    },
+    {
+      "title": "Dreaming of a river",
+      "relevance": "Nehri ezoterik geleneklerde eşik, boyutlar arası sınır ve yaşam gücü akışı olarak ele alan bir sembolik çerçeve sunar.",
+      "url": "https://umenisoma.com/article/dreaming-of-a-river"
+    },
+    {
+      "title": "What do rivers symbolize in dreams?interpret.elsewhere.to › symbols › river",
+      "relevance": "Nehri ruhsal dönüşüm, arınma, yenilenme ve zamanın geçişiyle ilişkilendiren sembolik bir okuma verir; farklı kültürel çağrışımlara da değinir.",
+      "url": "https://interpret.elsewhere.to/en/symbols/river/"
+    },
+    {
+      "title": "River Dreams: Flow, Risk, Passage, and Renewal",
+      "relevance": "Nehri yaşam yolculuğu, duygusal akış ve spiritüel geçiş olarak yorumlayan kısa bir rüya açıklaması sunar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/river"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian"
+  ]
 }

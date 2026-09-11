@@ -1,87 +1,184 @@
 {
   "slug": "fotograf",
   "title": "fotoğraf",
-  "shortDescription": "Rüyada fotoğraf görmek, anıları ve geçmiş yaşantıların zihinde nasıl korunduğunu yansıtabilir. Kendi fotoğrafınızı görmek kendinize dışarıdan bakma ihtiyacını; eski, bulanık veya hasarlı fotoğraflar ise geçmişle ilgili belirsizlik, mesafe ya da kırgınlıkları öne çıkarabilir.",
+  "shortDescription": "Rüyada fotoğraf görmek, geçmişin izleri, hatıralar, anıların dondurulması, öz-imge ve bilinçdışının görsel temsilleriyle ilişkilendirilen çok katmanlı bir semboldür.",
   "positiveAssociations": [
-    "Güzel anıların canlanması",
-    "Geçmiş deneyimlerden içgörü kazanma",
-    "Kendi kimliği ve özimgeyle barışık olma"
+    "Güzel hatıraların canlanması",
+    "Netlik ve farkındalık",
+    "Değerli anların korunması",
+    "Öz-şefkat ve kimlikle barışma"
   ],
   "challengingAssociations": [
-    "Geçmişe saplanıp kalma duygusu",
-    "Kişiler veya yaşantılar karşısında mesafe hissetme",
-    "Zamanın akışına karşı duyulan geçicilik kaygısı"
+    "Geçmişe saplanıp kalma",
+    "Soluk veya belirsiz izlerin yarattığı kaygı",
+    "Yaşanan bir kaybın hatırasıyla yüzleşme",
+    "Yüzeydeki görünüş ile iç gerçeklik arasındaki çatışma"
   ],
   "contextDependentAssociations": [
-    "Eski bir fotoğrafın incelenmesi, geçmişteki bir olayın bugünkü yansımalarını değerlendirmeye işaret edebilir.",
-    "Kendi fotoğrafını görmek, kişinin kendini dışarıdan gözlemleme ve özdeğerlendirme ihtiyacıyla bağlantılıdır."
+    "Fotoğrafın net ve canlı mı yoksa soluk ve belirsiz mi olduğu",
+    "Fotoğrafta kimin veya hangi anın yer aldığı",
+    "Rüya sahibinin fotoğrafa bakarken ya da fotoğraf çekerken hissettiği duygusal ton"
   ],
   "commonVariations": [
     {
-      "title": "Eski bir albümde çocukluk fotoğraflarına bakmak",
-      "description": "Kişinin köklerine, geçmişteki masumiyetine ya da unutulmuş bazı yaşam sahnelerine yönelik zihinsel bir yolculuğa çıkmasını temsil eder."
+      "title": "Eski bir aile fotoğrafına bakmak",
+      "description": "Geçmişle kurulan köprüleri, aile bağlarını, kökleri hatırlama ihtiyacını ve zamanın akışına dair hissedilen nostaljiyi temsil eder."
     },
     {
-      "title": "Bulanık veya net çıkmamış bir fotoğraf görmek",
-      "description": "Geçmişe ait bazı anıların veya bir olayla ilgili detayların zihinde net olarak hatırlanamadığını ya da belirsizliğini koruduğunu gösterir."
+      "title": "Soluk ve silikleşmiş bir fotoğraf görmek",
+      "description": "Zamanla hafızada silikleşen anıları, tam olarak erişilemeyen geçmiş deneyimleri ya da kaybolmaya yüz tutmuş bir izi çağrıştırır."
     },
     {
-      "title": "Yırtılmış veya hasar görmüş bir fotoğrafla karşılaşmak",
-      "description": "Geçmişteki belirli bir ilişki, dönem veya anıyla ilgili kopuşları, kırgınlıkları ya da travmatik izleri simgeleyebilir."
+      "title": "Kendi fotoğrafını çekmek veya incelemek",
+      "description": "Kişinin kendi öz-imgesine ve dışarıdan nasıl göründüğüne dair farkındalığını; persona (kişinin toplum önündeki rolü) ile içsel gerçeklik arasındaki mesafeyi vurgular."
     },
     {
-      "title": "Tanımadık insanların fotoğraflarını incelemek",
-      "description": "Tanımadık insanların fotoğraflarını incelemek, bilinçdışının farklı insan tipleriyle veya kişinin yabancılık hissiyle karşılaşmasını ve bunun sosyal çevreye dair gözlemleri ya da kolektif insan hallerine bağ kurma çabalarını yansıtabileceğini gösterir."
+      "title": "Fotoğrafın yırtılması veya kırılması",
+      "description": "Geçmişle ilgili bir kopuşu, anılarda meydana gelen bir tahribatı, bastırılmış bir kaygıyı veya kırılganlık hissini simgeler."
     }
   ],
-  "psychology": "Ampirik psikoloji açısından rüyada fotoğraf görülmesinin belirli ve evrensel bir anlamı olduğuna dair doğrudan doğrulanmış bir bulgu bulunmamaktadır. Bununla birlikte, psikanalitik çerçevede fotoğraflar, anıları ve bilinçdışında iz bırakmış yaşam sahnelerini simgeler. Bazı durumlarda geçmişe ya da belirli kişilere karşı duyulan duygusal mesafeyi veya kopukluğu da temsil edebilirler.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
+  "psychology": "Psikanalitik teoride fotoğraf, rüya çalışmasının mekanizmalarıyla yakın bir ilişki içinde ele alınır. Freud’un çalışmalarında zihinsel aygıtın optik ve fotoğrafik araçlara benzetilmesi, bilinçdışı imgelerin oluşumunda negatif ve pozitif mercek metaforlarının rolünü gösterir. Rüyalarda yüzlerin üst üste bindirilmesi veya kompozit imgelerin üretilmesi, fotoğrafik yoğunlaştırma süreçleriyle benzerlik kurar.",
+  "jungian": "Analitik psikolojide rüya imgeleri harfi harfine değil, sembolik birer temsil şeklinde değerlendirilir. Fotoğraf, kimliğin, personanın, korunan anıların ve geçmişle kurulan psikolojik bağların bilinçdışı tarafından nasıl sahnelendiğini gösteren bir imge olarak okunur.",
+  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında 'fotoğraf' kelimesi doğrudan yer almasa da, modern aktarımlarda ve benzerlik ile resim eksenli yorumlarda geçmişin hatırlanması, niyetlerin tazelenmesi, netlik veya belirsizlik gibi temalar üzerinden ele alınmaktadır.",
+  "christianTraditions": "Kutsal metinlerde doğrudan fotoğraf kavramı bulunmamakla birlikte, Hristiyan görsel kültüründe ve ikonografideki temsil ve tanıklık temaları, rüyadaki fotoğraf sembolünün görünenin ötesindeki gerçeği yansıtma potansiyeliyle dolaylı bir bağ kurmasını sağlar.",
   "jewishTraditions": "",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel yaklaşımlarda fotoğraf, dondurulmuş bir anın izi, görünür dünya ile içsel dünya arasındaki köprü ve kalıcı bellek alanı olarak yorumlanır. Canlı fotoğraflar korunmuş deneyimlere işaret ederken, belirsiz fotoğraflar eksik kalan veya tam kavranamayan ruhsal bağları temsil edebilir.",
   "comparisonTable": [
     {
-      "approach": "Psikanalitik Çerçeve",
-      "interpretation": "Fotoğrafları bilinçdışında iz bırakan anıların, yaşam sahnelerinin ve geçmişe yönelik mesafenin birer simgesi olarak ele alır.",
+      "approach": "Psikanaliz",
+      "interpretation": "Yoğunlaştırma, bellek izleri ve görsel kompozisyonların zihinsel temsili.",
       "evidenceLevel": "theoretical"
-    }
-  ],
-  "commonGround": "Farklı yaklaşımların ortak paydası, görsel temsil ve nesnelerin zihinsel dünyamızda belirli hatıraları tetikleyen birer uyaran işlevi görmesidir.",
-  "differences": "Psikanalitik yaklaşım rüyadaki fotoğrafı içsel bellek ve özimge dinamikleriyle ilişkilendirir; ancak fotoğrafın rüyalarda tek ve doğrudan ampirik bir karşılığı yoktur.",
-  "inusAssessment": "Fotoğraf sembolü, rüyalarda doğrudan determinist bir gelecek habercisi ya da sabit bir kural olarak ele alınamaz. INUS yaklaşımı gereği, bu sembolün anlamı rüya görenin bireysel hafızası, geçmişiyle kurduğu bağ ve o anki psikolojik bağlamı ışığında esnek bir şekilde değerlendirilmelidir.",
-  "faq": [
-    {
-      "question": "Rüyada fotoğraf görmek kesin bir anlama mı gelir?",
-      "answer": "Hayır, ampirik olarak kanıtlanmış tek bir anlamı yoktur; rüyanın genel bağlamına ve bireyin kendi yaşamındaki karşılığına göre yorumlanır."
     },
     {
-      "question": "Eski fotoğraflar görmek geçmişe özlem duymak anlamına mı gelir?",
-      "answer": "Psikanalitik açıdan bu durum, zihnin geçmişteki yaşam sahnelerini ve anıları yeniden ele alma, onlarla bağ kurma veya mesafe koyma çabasını yansıtabilir."
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Bilinçdışının kişisel anıları, öz-imgeyi ve geçmiş bağlarını sembolik olarak sahnelemesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Modern Geleneksel Aktarımlar",
+      "interpretation": "Hatıraların canlanması, geçmişe bağlılık veya netlik ya da belirsizlik ekseninde okumalar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Zamanın dondurulmuş izi, öz-imge ve görünmeyen ile kurulan bağ.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, fotoğrafın rüyada sabitlenmiş bir anıyı, geçmişle kurulan bağı ve görsel bir temsil aracını simgelediği noktasında birleşir.",
+  "differences": "Psikanaliz fotoğrafı zihinsel aygıtın mekanizmaları ve yoğunlaştırma süreçleriyle açıklar; spiritüel ve modern yaklaşımlar ise onu daha çok öz-imge, kayıp korkusu ve anıların korunması ekseninde ele alır.",
+  "inusAssessment": "Rüyada fotoğraf görmek, sıradan bir görsel nesneden ziyade zihnin geçmişi sabitleme, anıları katmanlandırma ve öz-imgeyi yansıtma biçimiyle doğrudan ilgilidir. Bu rüyayı yorumlarken fotoğrafın net ya da soluk olması, rüya sahibinin o anki duygusal tonu ve imgenin hangi hatırayı tetiklediği, sembolün anlamını belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada net bir fotoğraf görmek ne anlama gelir?",
+      "answer": "Net bir fotoğraf, bilinçdışında canlı kalan anılara, geçmişteki bir deneyimin berraklığına ya da içsel gerçeklikle kurulan net bir bağa işaret edebilir."
+    },
+    {
+      "question": "Rüyada soluk veya silik bir fotoğraf görmek neyi simgeler?",
+      "answer": "Soluk bir fotoğraf genellikle zamanla silikleşen hatıraları, tam olarak kavranamayan geçmiş izlerini veya eksik kalmış duygusal bağları çağrıştırır."
     }
   ],
   "sources": [
     {
-      "title": "Signification : Photos - Psychologies.com",
-      "relevance": "Fotoğraf sembolünün anı, bellek ve geçmiş deneyimlerle ilişkilendirilmesini ele alan rüya yorumu metni.",
-      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Photos"
+      "title": "Photography and the Optical Unconscious",
+      "relevance": "Freud’un bir rüyasının fotoğrafik kompozisyon ve yüzlerin üst üste bindirilmesiyle ilişkilendirilmesini tartışır; fotoğrafın yoğunlaştırma ve imgesel kurguyla bağlantısını gösterir.",
+      "url": "https://muse.jhu.edu/pub/4/edited_volume/chapter/2613709"
     },
     {
-      "title": "Picture Islamic Interpretations & Meanings",
-      "relevance": "Rüyada resim/portreyle ilgili modern İslami yorum örneği; 'fotoğraf' sembolüne doğrudan klasik rüya geleneği yerine çağdaş yorumun nasıl göründüğünü gösterir.",
-      "url": "https://www.myislamicdream.com/picture.html"
+      "title": "Microsoft Word - primele pag",
+      "relevance": "Rüyanın ‘fotoğraf gibi’ berrak görünmesi ile rüya çalışmasının katmanlı yapısını karşılaştırır; yoğunlaştırmayı aile fotoğrafları benzetmesiyle açıklar.",
+      "url": "http://timothydavidson.com/Library/Articles/01.%20OLD%20CurriculumArticles-coursework/2.Hebbrecht-DreamPicturePsychoanalyticProcess.pdf"
     },
     {
-      "title": "Buddha Images",
-      "relevance": "Buddha imgelerinin Budist sembolizmde hangi ideal ve duygulanımsal işlevleri üstlenebildiğini açıklar.",
-      "url": "http://www.buddhistsymbols.org/buddhaimages.html"
+      "title": "Photography and the Optical Unconscious 9780822372998 - DOKUMEN.PUB",
+      "relevance": "Freud’un zihinsel aygıtı fotoğrafik aygıtla karşılaştıran modelini ve bunun bilinçdışı süreçlerle ilişkisini ele alır.",
+      "url": "https://dokumen.pub/photography-and-the-optical-unconscious-9780822372998.html"
     },
     {
-      "title": "INTERDISCIPLINARY CULTURAL AND HUMANITIES REVIEW",
-      "relevance": "Mandalanın Budizm’de kozmik düzeni ve meditasyonu simgeleyen dairesel bir form olduğunu belirtir.",
-      "url": "https://interculture.com.ua/web/uploads/pdf/Interdisciplinary%20Cultural%20and%20Humanities%20Review_4(1)_2025-35-45.pdf"
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Rüyada fotoğraf çekme ve kırılan plaka üzerinden ortaya çıkan imgesel sahneyi içerir; fotoğrafı rüya içi nesne ve iz olarak görünür kılar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Mirrors of Memory: Freud, Photography, and the History of Art",
+      "relevance": "Freud, fotoğraf ve bellek ilişkisini; fotoğrafın istemsiz bellek ve düşsel çağrışımlarla bağını tartışır.",
+      "url": "https://academic.oup.com/jhmas/article/66/4/585/839789"
+    },
+    {
+      "title": "Visual Culture in Freud's Vienna: Science, Eros, and the Psychoanalytic Imagination 9798765111963 - DOKUMEN.PUB",
+      "relevance": "Freud’un rüya kitabında fotoğrafik ve optik benzetmelerin yer aldığını, rüya temsillerini açıklamada kamera, negatif ve mercek imgelerinin kullanıldığını belirtir.",
+      "url": "https://dokumen.pub/visual-culture-in-freuds-vienna-science-eros-and-the-psychoanalytic-imagination-9798765111963.html"
+    },
+    {
+      "title": "Carl Jung's Original Dream Interpretation Method",
+      "relevance": "Jung'un rüya imgelerini sembolik okuma ilkesini ve rüyanın bilinçdışının kendini sembolik biçimde sunması fikrini aktarıyor.",
+      "url": "https://www.rafaelkruger.com/the-art-of-dream-interpretation/"
+    },
+    {
+      "title": "Jung's Dream Symbols: Archetypal Images | Somniary",
+      "relevance": "Jungcu sembol çözümlemede imgenin sabit sözlük anlamından çok kişisel, kültürel ve arketipsel bağlamda ele alınması gerektiğini açıklıyor.",
+      "url": "https://somniary.com/dream-library/dream-science/jung-dream-symbols"
+    },
+    {
+      "title": "A natureza simbólica da imagem fotográfica - cejaa.com",
+      "relevance": "Fotoğrafın Jungcu bakışta psişik temas, imge ve arketipsel süreçlerle ilişkilendirildiğini tartışıyor.",
+      "url": "https://www.cejaa.com/post/a-natureza-simb%C3%B3lica-da-imagem-fotogr%C3%A1fica"
+    },
+    {
+      "title": "Rüyada Resim, Fotoğraf Görmek Ne Anlama Gelir?",
+      "relevance": "Rüyanın 'resim veya fotoğraf gibi' berrak görünmesi ile rüya çalışmasının katmanlı yapısını karşılaştırır; yoğunlaştırmayı aile fotoğrafı benzetmesiyle açıklar.",
+      "url": "https://www.yenisafak.com/ruya-tabirleri/ruyada-resim-fotograf-gormek-ne-anlama-gelir"
+    },
+    {
+      "title": "Rêver de Photo en Islam : Interprétation et Signification ...",
+      "relevance": "Rüyada fotoğrafın geçmiş, duygusal bağ ve kimlik açıklığıyla ilişkilendirildiğini belirten modern bir İslami yorumdur.",
+      "url": "https://alhodhod.com/articles/rever-de-photo-islam"
+    },
+    {
+      "title": "What Does Dreaming About Photograph Mean? - Rüya Tabirleri",
+      "relevance": "Fotoğrafın klasik kaynaklarda açıkça yer almadığını belirterek, resim veya benzerlik üzerinden hatıra ve niyet temalarıyla okuyan modern bir İslami açıklamadır.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-a-photograph"
+    },
+    {
+      "title": "Rüyada Fotoğraf Görmek Ne Anlama Gelir? ...",
+      "relevance": "Fotoğrafın net, canlı, soluk ya da belirsiz oluşuna göre çağdaş İslami yorumlar veren sayfa.",
+      "url": "https://www.hurriyet.com.tr/mahmure/ruyada-fotograf-gormek-ne-anlama-gelir-ruyada-fotograf-cekmek-cekilmek-ve-aramak-tabiri-41827290"
+    },
+    {
+      "title": "Biblical meaning of a picture in a dream - Christian Faith Guide",
+      "relevance": "Fotoğraf kavramının İncil döneminde bulunmadığını ve bu yüzden doğrudan bir ayet karşılığı olmadığını belirten açıklama.",
+      "url": "https://christianfaithguide.com/biblical-meaning-of-a-picture-in-a-dream/"
+    },
+    {
+      "title": "Religious Experience and Photography",
+      "relevance": "Görüntü, temsil ve dinî tecrübe arasındaki bağı tartışan akademik çalışma; fotoğrafın temsil fikriyle ilişkili sembolik okumasına teorik zemin sağlar.",
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/opth-2017-0018/pdf"
+    },
+    {
+      "title": "Photography, the New Iconography of the Church - MML.MEDIA",
+      "relevance": "Fotoğraf ile kilise ikonografisi arasındaki ilişkiyi tartışan bir yazı; Hristiyan görsel kültüründe temsil ve kutsal imge temalarını ele alır.",
+      "url": "https://mml.media/mmlmedia/photography-the-new-iconography-of-the-church"
+    },
+    {
+      "title": "Symbolism - PhotoAnthology",
+      "relevance": "Fotoğrafın sembolik kullanımını, görünür olanın ötesinde zihinsel ya da ruhsal anlam taşıyan bir görsel strateji olarak açıklar; rüya içindeki fotoğraf için iz, anlam ve görünmeyeni çağrıştırma çerçevesi sağlar.",
+      "url": "https://photoanthology.org/influence/symbolism"
+    },
+    {
+      "title": "Photo in dreams — meaning and symbolism",
+      "relevance": "Rüyada fotoğrafı bellek, öz-imge, korunmuş an ve kayıp korkusu ile ilişkilendirir; ayrıca ezoterik bir okumada fotoğrafı bir iz alanı olarak ele alır.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/photo"
+    },
+    {
+      "title": "Photography. Meaning and numbers of the dream ...",
+      "relevance": "Fotoğrafı bir rüya sözlüğü bağlamında ‘güven’ ve ‘aile içi gerilim’ gibi ezoterik çağrışımlarla listeler; fotoğraf simgesinin modern sembolik yorumlarda hangi temalara bağlanabildiğini gösterir.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=photography"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
+  ]
 }

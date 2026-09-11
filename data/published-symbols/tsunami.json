@@ -1,140 +1,223 @@
 {
   "slug": "tsunami",
   "title": "tsunami",
-  "shortDescription": "Rüyada tsunami görmek, bastırılmış yoğun duyguların yüzeye çıkması, kontrol kaybı hissi ve ani değişimler karşısında bunalmayla ilişkilendirilebilir. Yaklaşan büyük dalga önemli bir değişim veya dönüm noktasını, kaçmaya çalışmak kontrolü koruma çabasını, suların durulması ise sarsıntı sonrası yeniden denge kurmayı yansıtabilir.",
+  "shortDescription": "Rüyada tsunami görmek; devasa dalgalar, kontrol edilemeyen su taşkınları ve derin bir sarsıntı hissiyle öne çıkan, bastırılmış yoğun duyguların veya kaçınılmaz köklü değişimlerin zihinsel yansımasıdır.",
   "positiveAssociations": [
-    "Hızlı ve yıkıcı değişim",
-    "Tutunmayı bırakma",
-    "Sarsıcı dönüşüm",
-    "Kontrol kaybı karşısında farkındalık"
+    "Arınma ve köklü yenilenme",
+    "Eski yapılardan ve kısıtlayıcı kalıplardan özgürleşme",
+    "Büyük bir eşik atlama ve içsel dönüşüm",
+    "Bastırılmış potansiyelin veya enerjinin yüzeye çıkması"
   ],
   "challengingAssociations": [
-    "Ezici duygu yoğunluğu",
-    "Kontrolü kaybetme korkusu",
-    "Ani ve yıkıcı değişimler",
-    "Zihinsel ve duygusal olarak bunalma"
+    "Duygusal taşma ve kontrol kaybı hissi",
+    "Bilinçdışının egoyu aşmasıyla gelen yoğun korku ve kâbus unsurları",
+    "Travmatik anıların veya tehdit unsurlarının tetiklenmesi",
+    "Hayatın düzenini altüst eden sarsıcı krizler"
   ],
   "contextDependentAssociations": [
-    "Dalganın büyüklüğü ve yaklaşma hızı",
-    "Rüya sahibinin kaçıp kaçamadığı veya dalgayla yüzleştiği an",
-    "Çevredeki diğer insanların durumu",
-    "Uyanma anındaki duygu durumu"
+    "Dalgaların arasında savrulmak ile sudan sağ salim karaya çıkmanın sunduğu kurtuluş arasındaki fark.",
+    "Tsunaminin aniden gelip her şeyi yıkmasıyla onun getirdiği yeni başlangıç potansiyeli arasındaki gerilim.",
+    "Dışsal bir felaket senaryosu olarak yaşanması ile içsel bir duygusal patlamanın dışavurumu arasındaki fark."
   ],
   "commonVariations": [
     {
-      "title": "Ufukta Yaklaşan Devasa Tsunami Dalgası",
-      "description": "Uzaktan üzerinize doğru gelen çok büyük bir su kütlesini izlemek, yaklaşan büyük bir hayat değişikliğinin veya kaçınılmaz bir dönüm noktasının habercisi olarak algılanır."
+      "title": "Ufukta Yaklaşan Dev Dalgaları İzlemek",
+      "description": "Rüya sahibinin uzaktan devasa bir su kütlesinin kendisine doğru geldiğini görmesi; yaklaşan kaçınılmaz bir değişimin veya baskı yaratan bir durumun önsezisini simgeler."
     },
     {
-      "title": "Tsunami Dalgalarından Yüksek Bir Yere Kaçmak",
-      "description": "Su baskınından kurtulmak için dağ veya yüksek bir bina gibi güvenli bir noktaya tırmanmaya çalışmak, zorluklar karşısında kontrolü koruma çabasını yansıtır."
+      "title": "Tsunami Dalgalarının İçinde Sürüklenmek",
+      "description": "Su baskınının ortasında kalıp dalgalarla birlikte savrulmak; günlük yaşamdaki sorumluluklar veya yoğun duygular karşısında kontrolü tamamen yitirme korkusunu yansıtır."
     },
     {
-      "title": "Tsunami Sularına Kapılıp Sürüklenmek",
-      "description": "Dalganın altında kalıp akıntıya kapıldığını görmek, günlük yaşamdaki sorumluluklar veya yoğun duygular karşısında direnmeyi bırakma ve teslim olma durumunu simgeler."
+      "title": "Dalgalardan Kaçıp Yüksek Bir Yere Sığınmak",
+      "description": "Yıkıcı sudan kaçarak güvenli bir tepeye veya binanın çatısına çıkmak; kriz anlarında sığınacak bir içsel direnç veya koruma mekanizması arayışına işaret eder."
     },
     {
-      "title": "Tsunami Sonrası Sakinleşen Sular",
-      "description": "Felaket geçtikten sonra suyun durulduğunu ve ortalığın sessizleştiğini görmek, sarsıcı bir dönemin ardından gelecek zihinsel arınma ve yeni bir denge arayışını gösterir."
+      "title": "Tsunami Sonrasında Sakinleşen Sulara Bakmak",
+      "description": "Büyük taşkın dindikten sonra geride kalan manzarayı gözlemlemek; sarsıcı bir dönemin ardından gelen zihinsel durulmayı ve yeni bir düzene uyum sağlama çabasını gösterir."
     }
   ],
-  "psychology": "Psikanalitik ve psikodinamik çerçevede tsunami, bilinçdışında uzun süredir bastırılmış olan duyguların, dürtülerin veya travmatik yaşantıların büyük bir güçle yüzeye çıkmasını temsil eden bir metafor olarak ele alınır. Freudyen perspektifte id'in kontrolsüz gücünün ego savunmalarını aşması şeklinde yorumlanır. Klinik bağlamda ise düzensizleşmiş duygulanım durumlarını ifade etmek için kullanılan kuramsal bir imgedir.",
-  "jungian": "Jungcu analitik psikolojiye göre su temel bir bilinçdışı sembolüdür. Tsunami ise bu bağlamda, bilinçdışı içeriklerin egonun sınırlarını zorlayacak düzeyde yoğun ve baskın bir biçimde taşmasını, yani büyük bir psişik dönüşümü veya 'gölge' arketipinin açığa çıkmasını simgeler.",
-  "islamicTradition": "Klasik İslami rüya yorumu kaynaklarında doğrudan 'tsunami' kelimesi geçmemekle birlikte, benzer semboller üzerinden okumalar yapılır. Dalgalar yaklaşan sıkıntı, acı veya yanlış tutumlara bağlı ceza ile ilişkilendirilirken, sel ve taşkın gibi olgular toplumsal felaketler, zarar veya düşman saldırısı gibi anlamlarla bağdaştırılır. Suların genel durumu ise rüyanın bağlamına göre olumlu ya da olumsuz bir etkiye işaret edebilir.",
-  "christianTraditions": "Hristiyanlıkta deniz ve büyük sular sembolizmi genellikle kaos, bilinmezlik, karmaşa ve insan iradesini aşan ilahi veya doğaüstü güçlerin tezahürü olarak okunur.",
-  "jewishTraditions": "Yahudi geleneğinde rüyaların içeriğinden ziyade rüya sonrasındaki yaklaşım öne çıkar. Rahatsız edici nitelikteki rüyaların olumsuz etkisini azaltmak ve bunları yapıcı bir yöne evirmek amacıyla 'hatavat chalom' gibi geleneksel dönüştürme ve iyileştirme pratiklerine başvurulur.",
-  "buddhistEasternApproaches": "Zen ve Doğu felsefesi bağlamında tsunami, hayatın akışındaki hızla değişen ve sarsıcı koşulları simgeleyen bir öğretim örneğidir. Bu yaklaşım, kişinin beklenmedik değişimler karşısında zihinsel bağlılıklarını ve tutunma çabalarını bırakması gerektiğini, tutunmanın kendisinin acı ürettiğine dikkat çeker. Bu kullanım rüya tabiri sağlamaktan çok, değişkenlik ve bırakma üzerine manevi bir öğretidir.",
-  "spiritualApproaches": "Spiritüel perspektifte tsunami, evrendeki hiçbir şeyin sabit olmadığını, her şeyin hızla değişip dönüşebileceğini hatırlatan güçlü bir metafor olarak kabul edilir.",
+  "psychology": "Bilimsel rüya içerik analizleri rüyaların çoğunlukla duygusal yük taşıdığını ve korku, keder, sıkıntı gibi kategorilerin sıkça rapor edildiğini göstermektedir. Tsunami gibi sarsıcı imgeler, yoğun stresin, travmatik anıların veya tehdit algısının rüya örüntülerindeki yansımaları olarak ele alınabilir. Bu tür içerikler tek başına kehanet niteliği taşımaz; aksine kişinin uyanık yaşamındaki duygusal baskı düzeyi ve stres kaynaklarına ilişkin veri sağlar.",
+  "jungian": "Jungcu analitik psikolojide su, bilinçdışının en yaygın ve güçlü simgelerinden biridir. Yükselen, taşan ya da devasa dalgalar halini alan su kütleleri, kolektif veya kişisel bilinçdışının etkinleşerek bilinen bilinç sınırlarını ve egoyu aşması durumunu temsil eder. Bastırılmış içeriklerin veya fark edilmeyen ruhsal dinamiklerin ani bir biçimde yüzeye çıkması, yapının sarsılması ve nihayetinde derin bir psikolojik dönüşüm süreci bu çerçevede değerlendirilir.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik geleneğinde ve kutsal metin temalarında büyük sular, denizlerin taşması ve tufan motifleri; yaratılış düzenini aşan kaotik güçlerin, ilahî kudretin ve insanı aşan sarsıntıların simgesi olarak ele alınır. Tsunami gibi kontrol edilemeyen yıkıcı dalgalar, ilahî yargının, uyarının veya dünyevi sınırları zorlayan kaosun birer yansıması olarak teolojik bağlamda okunabilir.",
+  "jewishTraditions": "Yahudi mistik ve Kabalistik okumalarında tufan ve büyük su baskınları, dünyayı arındıran bir mikve (ritüel banyo) süreci, insanı kuşatan dünyevi geçim kaygıları ve ruhsal baskılarla ilişkilendirilir. Bu gelenekte büyük suların ani yükselişi, eski yapının çözülmesi ve kozmik düzenin yenilenmesi yönünde sarsıcı ama arındırıcı bir başlangıç hareketi olarak anlam bulur.",
+  "buddhistEasternApproaches": "Bazı Doğu ve Zen öğretilerinde deprem veya tsunami gibi yıkıcı doğal olaylar karşısında duyulan acı, geçicilik, neden-sonuç ilişkisi ve zihinsel tutunmaları bırakma pratikleri bağlamında ele alınır.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel yaklaşımlarda tsunami, birikmiş duygu enerjilerinin normal sınırları aşarak bir taşma yaratması ve 'karanlık gece' benzeri içsel krizlerin tetiklenmesiyle yorumlanır. Eski inançların ve ego bağlarının çözülmesi, ardından gelen arınma ve yeni bir ruhsal dengeye geçiş süreci için önemli bir eşik imgesi olarak kabul edilir.",
   "comparisonTable": [
     {
-      "approach": "Psikanaliz",
-      "interpretation": "Bastırılmış duyguların ve dürtülerin ego sınırlarını aşarak bilinç yüzeyine çıkması.",
+      "approach": "Ampirik Rüya Araştırmaları",
+      "interpretation": "Yoğun stres, korku ve tehdit algısının rüya içerikleri bağlamında duygusal yük açısından incelenmesi.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungcu Derinlik Psikolojisi",
+      "interpretation": "Bilinçdışının egoyu aşması, bastırılmış içeriklerin yüzeye çıkması ve sarsıcı dönüşüm süreçleri.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Analitik Psikoloji (Jung)",
-      "interpretation": "Bilinçdışı içeriklerin ve gölge arketipinin yoğun bir psişik dönüşümle taşması.",
-      "evidenceLevel": "theoretical"
-    },
-    {
-      "approach": "İslami Gelenek",
-      "interpretation": "Yaklaşan sıkıntılar, zorluklar veya sel/taşkın benzeri büyük yıkım ve kriz alametleri.",
+      "approach": "Hristiyan ve Yahudi Geleneksel Sembolizmi",
+      "interpretation": "Büyük suların ve tufanın ilahî yargı, kaosun dizginlenmesi, arınma ve dünyevi baskılarla ilişkisi.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Spiritüel ve Doğu Yaklaşımı",
-      "interpretation": "Hayatın akışındaki sarsıcı değişimler ve bunlara karşı tutunmayı bırakma öğretisi.",
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Duygusal patlama, eski inançların çözülmesi ve ruhsal uyanış öncesi bir eşik veya arınma dönemi.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplin ve geleneklerin ortak noktası, tsunamiyi insan iradesini aşan, ani, sarsıcı ve büyük bir değişim ya da kriz anı olarak ele almalarıdır.",
-  "differences": "Psikolojik yaklaşımlar bu durumu içsel dürtüler ve bilinçdışı süreçlerle açıklarken, geleneksel ve dini okumalar dışsal sıkıntılar, cezalar veya manevi dönüşüm dersleri üzerinden değerlendirir.",
-  "inusAssessment": "Tsunami sembolü, sabit ve tek bir geleceğe işaret eden kehanetlerden ziyade rüya sahibinin içsel sınırlarının ve duygusal dayanıklılığının zorlandığı dönüm noktalarını yansıtır. INUS editoryal yaklaşımı, bu tür yoğun imgelerin rüyanın kendi bağlamı ve kişinin uyanık yaşamındaki gerçek koşullarıyla birlikte ele alınması gerektiğini vurgular.",
+  "commonGround": "Farklı disiplinler ve gelenekler arasında tsunami imgesi, temel olarak 'kontrolün yitirilmesi', 'sarsıcı bir dış veya iç güçle yüzleşme' ve ardından gelen kaçınılmaz değişim ekseninde buluşur.",
+  "differences": "Bilimsel psikoloji bu durumu stres ve duygu yükü analizleriyle ele alırken; Jungcu yaklaşım bilinçdışı dinamiklere odaklanır. Teolojik ve geleneksel okumalar ilahî yargı, arınma veya kaos temalarını öne çıkarırken, spiritüel yaklaşımlar bunu bireysel bir ruhsal dönüşüm ve eşik atlama fırsatı olarak yorumlar.",
+  "inusAssessment": "Rüyadaki tsunami sembolü, yalnızca genel bir korku veya felaket alameti olarak indirgenemez; dalganın büyüklüğü, rüya sahibinin kaçma çabası ya da suların içinde kalma biçimi bu imgenin anlamını kökten değiştirir. Kimi okumalarda ezici bir kontrol kaybı ve içsel kriz olarak beliren bu büyük su baskını, diğer yandan eski yapıların dağılıp yeni bir dengeye ulaşılması için gereken arınma eşiğini temsil eder. Dolayısıyla tsunaminin rüyadaki seyri, kişinin uyanık yaşamındaki baskılanmış duygularla ve yaklaşan değişim rüzgarlarıyla nasıl bir hesaplaşma içinde olduğunun ipuçlarını barındırır.",
   "faq": [
     {
-      "question": "Rüyada tsunami görmek kesinlikle kötü bir olayın habercisi midir?",
-      "answer": "Hayır. Rüyalar geleceği önceden bildiren kesin kehanetler değildir. Tsunami genellikle içsel duygusal yoğunlukların veya ani hayat değişimlerinin zihinsel bir yansımasıdır."
+      "question": "Rüyada tsunami görmek her zaman gerçek bir felaketin habercisi midir?",
+      "answer": "Hayır. Rüyalar geleceği öngören kehanetler değildir; genellikle zihnin yoğun stres, duygusal baskı veya içsel çatışmalarla başa çıkma çabasını simgeler."
     },
     {
-      "question": "Tsunami rüyaları psikolojik olarak ne anlama gelir?",
-      "answer": "Psikolojik ve psikanalitik teorilerde bu rüya, baskılanmış duyguların, stresin veya kontrol edilemeyen yaşam olaylarının yarattığı bunalma hissinin bir metaforu olarak değerlendirilir."
-    },
-    {
-      "question": "İslami gelenekte tsunami rüyası nasıl yorumlanır?",
-      "answer": "Klasik İslami rüya tabiri kaynaklarında doğrudan tsunami terimi bulunmaz; ancak dalga, sel ve taşkın gibi yakın semboller sıkıntı, ani krizler veya zorluklarla ilişkilendirilir."
+      "question": "Tsunami rüyalarındaki korku hissi neden bu kadar yoğundur?",
+      "answer": "Devasa dalgalar ve su taşkınları, insanın kontrol edemediği büyük güçler karşısındaki acziyetini ve bilinçdışından gelen yoğun duygusal yüklerin yarattığı sarsıntıyı temsil ettiği için rüyada güçlü bir korku duygusuyla eşleşebilir."
     }
   ],
   "sources": [
     {
-      "title": "What are tsunamis? | Tsunami Programme UNESCO-IOC",
-      "relevance": "Tsunami sözcüğünün etimolojik kökeni ve doğa olayı olarak tanımı için birincil/kurumsal kaynak.",
-      "url": "https://tsunami.ioc.unesco.org/en/what-are-tsunamis"
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Rüya içerik analizinin kategori, frekans ve karşılaştırma temelli yöntem mantığı.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
     },
     {
-      "title": "History Of Tsunami: The Word And The Wave | NPR Illinois",
-      "relevance": "'Tsunami' kelimesinin Japonca kökeninin ve küresel kullanımının tarihsel bağlamı için gazetecilik kaynağı.",
-      "url": "https://www.nprillinois.org/2011-03-17/history-of-tsunami-the-word-and-the-wave"
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinde kodlama ve ölçekleme için temel yöntem ilkeleri.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
     },
     {
-      "title": "Historical Context | National Oceanic and Atmospheric Administration",
-      "relevance": "Tsunamilerin tarihsel etkileri ve doğal olay bağlamı için güvenilir kurumsal kaynak.",
-      "url": "https://www.noaa.gov/jetstream/tsunamis/historical-context"
+      "title": "Relationships between Dream and Previous Wake Emotions ...",
+      "relevance": "Rüyalarda duyguların sıklığı ve korku/keder gibi duyguların yaygınlığına dair ampirik bulgular.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601812/"
     },
     {
-      "title": "The dream between neuroscience and psychoanalysis - PubMed",
-      "relevance": "Rüya, psikanaliz ve sembol üretimi arasındaki teorik ayrımı açıklayan akademik özet; çevrimiçi ikincil yorumlarda Freud/Jung atıflarının bağlamını gösterir.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/15493553/"
+      "title": "Dreams Content and Emotional Load in Cardiac ...",
+      "relevance": "Rüya içeriklerinde duygusal kategorilerin ölçülmesi ve korku/sıkıntı gibi temaların görülmesi.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6206785/"
     },
     {
-      "title": "The Shadow of the Tsunami: and the Growth of the Relational Mind",
-      "relevance": "'Tsunami' metaforunun klinik/ilişkisel travma bağlamında kullanımını ele alan kitap; rüya sembolü değil, psikodinamik bir metafor örneğidir.",
-      "url": "https://www.routledge.com/The-Shadow-of-the-Tsunami-and-the-Growth-of-the-Relational-Mind/Bromberg/p/book/9780367606220"
+      "title": "Thematic and Content Analysis of Idiopathic Nightmares and Bad ...",
+      "relevance": "Kâbus ve kötü rüyalarda kullanılan içerik kategorileri ile korku ağırlıklı duygusal örüntüler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900621/"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud'un rüyalarda suya girme ve suda kalma imgelerini rahim ve doğum fantezileriyle ilişkilendirdiği pasaj.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/262 - Wikisource",
+      "relevance": "Freud'un suya girme ve sudan çıkma imgelerini doğumla bağlantılandırdığı klasik pasajın çevrimiçi kopyası.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/262"
+    },
+    {
+      "title": "Alchemy. An Introduction to the Symbolism ...",
+      "relevance": "Suyun bilinçdışıyla ilişkisini ve yükselen veya taşkın imgelerin Jungcu anlam çerçevesini verir.",
+      "url": "https://ndl.ethernet.edu.et/bitstream/123456789/4017/1/15.pdf"
+    },
+    {
+      "title": "Jungian Insights on Dreams and Death | PDF | Carl Jung - Scribd",
+      "relevance": "Suyun kolektif bilinçdışı ve dönüştürücü derinliklerle ilişkisini açıklar.",
+      "url": "https://www.scribd.com/document/900330711/On-Dreams-and-Death-a-Jungian-Interpretation-Traum-Und-Tod-Marie-Louise-Von-Franz-Translated-by-Emmanuel-Xipolitas-Boston-Massachusetts"
+    },
+    {
+      "title": "water | - Carl Jung Depth Psychology",
+      "relevance": "Taşkın ve su baskını imgelerini bilinçdışının egoyu aşması olarak yorumlayan Jungcu açıklama sunar.",
+      "url": "https://carljungdepthpsychologysite.blog/2023/10/31/water-2/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri S Harfi",
+      "relevance": "Sel rüyasının üzüntü, şiddet, zulümden kurtuluş ve zarar gibi anlamlarını veren, tsunami benzeri büyük su baskını için en yakın klasik İslami çerçeveyi sağlayan metin.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-s1-harfi.html"
+    },
+    {
+      "title": "Rüyada Sel Görmek İmam Nablusi",
+      "relevance": "Selin düşman hücumu, eziyet, hastalık, zahmetli yolculuk ve yıkıcı su taşkınıyla ilişkilendirildiği aktarım; tsunami için dolaylı İslami sembol alanı sunar.",
+      "url": "https://www.islamda.org/2015/06/ruyada-sel-gormek-imam-nablusi.html"
+    },
+    {
+      "title": "Sembol: Sel | Dream Muslim",
+      "relevance": "Sel sembolünün yolculuk, savaş ve düşmandan kurtuluş bağlamında sunulduğu İslami sembol derlemesi; tsunami rüyasında su baskını ve kurtuluş temasına dolaylı çerçeve verir.",
+      "url": "https://www.dream-muslim.com/tr/encyclopedia/Sel"
+    },
+    {
+      "title": "Representations of Tsunami in the Ancient Mediterranean: Cosmological Perspectives in the Long Durée",
+      "relevance": "Antik Akdeniz ve kutsal metinler bağlamında tsunaminin, denizin sınırlarını aşarak kaotik güçleri görünür kılan bir imge olarak ele alınışını ve bunun Hristiyan dönemdeki yorumlarını anlatır.",
+      "url": "https://ics.sas.ac.uk/blog/representations-tsunami-ancient-mediterranean-cosmological-perspectives-long-duree"
     },
     {
       "title": "Topical Bible: Tsunami",
-      "relevance": "Denizin Kutsal Kitap sembolizminde kaos ve bilinmezlik olarak okunmasına dair genel Hristiyan sembolik arka plan.",
+      "relevance": "Kutsal metinlerde su, tufan ve deniz motiflerinin Tanrı’nın egemenliği, yargı ve kaosun dizginlenmesiyle ilişkisini özetler; bu nedenle tsunami için Hristiyan sembolik okumaya zemin sağlar.",
       "url": "https://biblehub.com/topical/t/tsunami.htm"
     },
     {
-      "title": "Escape Big Waves Islamic Interpretations & Meanings",
-      "relevance": "Dalga sembolünün İslami rüya yorumunda sıkıntı ve ceza ile ilişkilendirildiğini iddia eden ikincil derleme; tsunamiye yakın bir çerçeve sunar.",
-      "url": "https://www.myislamicdream.com/escape_big_waves.html"
+      "title": "The Flood Within - Parshat Noach",
+      "relevance": "Tufanı mikveh ve arınma diliyle yorumlayan Yahudi mistik/simgesel okuma.",
+      "url": "https://www.chabad.org/theJewishWoman/article_cdo/aid/1641405/jewish/The-Flood-Within.htm"
     },
     {
-      "title": "Sea Flood Big Waves Islamic Interpretations & Meanings",
-      "relevance": "Sel/taşkın ve deniz sembollerini İslami rüya yorumunda felaket, saldırı ve güç bağlamında toplayan ikincil derleme; tsunamiye yakın semboller üzerinden kullanılabilir.",
-      "url": "https://www.myislamicdream.com/sea_flood_big_waves.html"
+      "title": "Raging Flood Waters",
+      "relevance": "Tufanın büyük sularını dünyevî baskılar ve geçim kaygılarıyla ilişkilendiren Kabalistik yorum.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/380583/jewish/Raging-Flood-Waters.htm"
     },
     {
-      "title": "Dreams in Judaism - Parshat Mikeitz",
-      "relevance": "Yahudi rüya yaklaşımında rahatsız edici rüyaların etkisini azaltma ve iyiye çevirme pratiğini açıklayan kaynak; tsunamiye özgü anlamdan çok yöntemsel çerçeve sağlar.",
-      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+      "title": "Kabbalah explains the mystical roots of the waters of the Great Flood.",
+      "relevance": "Tufanı dünyanın yenilenmesi ve yeniden düzenlenmesi olarak açıklayan Kabalistik yorum.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/380139/jewish/Mystical-Inundations.htm"
     },
     {
-      "title": "Volcano, Earthquake, Tsunami, War",
-      "relevance": "Tsunami örneğinin Zen öğretisinde hızlı değişim ve tutunmanın acı üretmesi bağlamında kullanıldığını gösteren öğretisel kaynak; rüya yorumu kaynağı değildir.",
+      "title": "FLOOD, THE - JewishEncyclopedia.com",
+      "relevance": "Tufanı Tanrısal yargı ve yıkım aracı olarak özetleyen tarihsel Yahudi referans.",
+      "url": "https://www.jewishencyclopedia.com/articles/6192-flood-the"
+    },
+    {
+      "title": "Volcano, Earthquake, Tsunami, War - Kwan Um School of Zen",
+      "relevance": "Tsunami rüyasını spiritüel düzlemde arınma, dönüşüm ve ruhun karanlık gecesi temasıyla ilişkilendirir; denizin/taşkın suyun ruhsal çözülme ve yeniden doğuşla bağlantısını vurgular.",
       "url": "https://kwanumzen.org/teaching-library/2007/07/16/volcano-earthquake-tsunami-war"
+    },
+    {
+      "title": "Kamma, social collapse or geophysics? Interpretations of suffering among Sri Lankan Buddhists in the immediate aftermath of the 2004 Asian tsunami",
+      "relevance": "2004 tsunami sonrasında Sri Lanka’daki Budistlerin acıyı nasıl yorumladığını, kamma ve doğal nedenlilik tartışmalarıyla birlikte inceleyen çalışma.",
+      "url": "http://www.tandfonline.com/doi/abs/10.1080/14639940802312683"
+    },
+    {
+      "title": "Understanding the layered meaning of tsunami dreams",
+      "relevance": "Tsunami rüyasını ezici duygular, büyük dönüşüm ve kontrol edilemeyen güçlerle yüzleşme ekseninde yorumlayan modern spiritüel bir okuma sunar.",
+      "url": "https://www.wellbeing.com.au/mind-spirit/spirituality/tsunami-dreams-meaning.html"
+    },
+    {
+      "title": "Tsunami Dream Meaning & Interpretation - Mirror",
+      "relevance": "Tsunami rüyasını spiritüel düzlemde arınma, dönüşüm ve 'dark night of the soul' temalarıyla ilişkilendirir; denizin/taşkın suyun ruhsal çözülme ve yeniden doğuşla bağlantısını vurgular.",
+      "url": "https://mirrorwithin.org/dream-dictionary/tsunami/"
+    },
+    {
+      "title": "Tsunami in dreams — meaning and symbolism",
+      "relevance": "Tsunamiyi ezoterik açıdan ani arındırıcı enerji akışı ve eski katmanların çözülmesi olarak okur; dalgayı bir eşik ve inisiyasyon imgesi gibi konumlandırır.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/tsunami"
+    },
+    {
+      "title": "Spiritual Meanings of Tsunami Dreams - Wisdom Of The Spirit",
+      "relevance": "Tsunamiyi spiritüel uyanış, içgörü, yoğun duygu boşalması ve yaklaşan değişimle ilişkilendiren modern spiritüel yorumlar içerir.",
+      "url": "https://wisdomofthespirit.com/spiritual-meanings-of-tsunami-dreams/"
+    },
+    {
+      "title": "Tsunami Dreams: Meanings, Emotions, and Ways to Work With The ...",
+      "relevance": "Tsunami rüyasını kontrolün bırakılması, artık hizmet etmeyeni salıverme ve daha derin akışa kulak verme çağrısı olarak ele alır.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/tsunami"
+    },
+    {
+      "title": "What Does It Mean When You Dream About a Tsunami?",
+      "relevance": "Tsunamiyi birçok spiritüel gelenekte temizlenme, arınma, duygusal/ruhsal dönüşüm ve eski inançların bırakılmasıyla ilişkilendirir.",
+      "url": "https://www.centreofexcellence.com/dreaming-of-tsunamis/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
 }

@@ -1,0 +1,283 @@
+{
+  "slug": "peygamber",
+  "title": "peygamber",
+  "shortDescription": "Rüyada peygamber veya dinsel figür görmek, içsel rehberlik arayışını, vicdani bir konuyla yüzleşmeyi ve doğruluk isteğini yansıtabilir. Huzurlu görünmesi ferahlık ve manevi desteği, öfkeli ya da ciddi görünmesi ise kişinin tutumlarına dair içsel bir uyarıyı öne çıkarır.",
+  "positiveAssociations": [
+    "Hidayet ve manevi uyanış",
+    "İçsel rehberlik ve doğruluk",
+    "Rahmet, izzet ve huzur",
+    "İhtiyaçların giderilmesi ve manevi destek"
+  ],
+  "challengingAssociations": [
+    "Sıkıntı ve darlık hissi",
+    "Öfkeli veya cezalandırıcı otorite figürü",
+    "Belirsizlik ve rehber arayışındaki kaygı",
+    "Bilinçdışı baskı ve suçluluk"
+  ],
+  "contextDependentAssociations": [
+    "Rüya sahibinin kişisel dini ve kültürel yönelimleri",
+    "Figürün sevinçli mi yoksa öfkeli mi göründüğü",
+    "Rüyanın genel duygusal tonu ve atmosferi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Gülümseyen ve huzur veren bir peygamber figürüyle karşılaşmak",
+      "description": "Rüya sahibinin aradığı içsel huzuru bulduğuna, doğru yolda olduğuna inanarak psikolojik olarak rahat bir döneme girdiğine işaret eder."
+    },
+    {
+      "title": "Yardıma muhtaç veya fakir görünen bir dinsel figür görmek",
+      "description": "Rüya sahibinin kendi vicdani sorumluluklarıyla yüzleşmesine, başkalarına yardım etme arzusuna ve maddi-manevi eksikliklerini tamamlama çabasına delalet eder."
+    },
+    {
+      "title": "Öfkeli veya ciddi bir peygamber silüetiyle karşılaşmak",
+      "description": "Kişinin hayatındaki hatalı tutumları, vicdani rahatsızlıkları ve bastırılmış suçluluk duygularının bilinçdışında uyarıcı bir yansımasıdır."
+    },
+    {
+      "title": "Kutsal metinler veya peygamber kıssaları arasında kalmak",
+      "description": "Rüya sahibinin zihnini meşgul eden bir konuda büyük bir karar aşamasında olduğunu, doğruyu yanlıştan ayırt etme ve rehberlik arayışı içinde olduğunu gösterir."
+    }
+  ],
+  "psychology": "Ampirik psikoloji çalışmalarında rüyalardaki dinsel ve doğaüstü imgelerin genel olarak nadir görüldüğü ve bireyin günlük dinsel yaşantısı, inanç düzeyi ve kültürel bağlamıyla doğrudan ilişkili olabileceği belirtilmektedir. Bu tür imgeler sabit bir evrensel anlam taşımaz; rüya sahibinin o anki duygusal tonu, günlük yaşamındaki etkinlikleri ve kişisel psikolojik arka planı bu anlamı şekillendirir.",
+  "jungian": "Jungcu analitik psikolojide rüyalar, bilinçdışının dengeleyici bir öz temsili olarak görülür. Rüyada beliren bir peygamber veya bilge figürü, sabit bir kehanet aracı olmaktan ziyade bilinçli tutumun dengelenmesini sağlayan arketipsel bir rehber, iç otorite veya anlam taşıyıcısı olarak okunur.",
+  "islamicTradition": "İslami rüya tabiri ve geleneksel kaynaklarda peygamberler rüyada görüldüğünde izzet, rahmet, hidayet ve toplumsal iyilikle bağdaştırılır. Hz. Muhammed'in rüyada görülmesi durumunda, şeytanın onun suretine giremeyeceğine dair köklü hadis temelli ilke, bu rüyaların özel bir doğruluk ve hakikat taşıdığı inancını pekiştirir. Görülme biçiminin sevinçli veya öfkeli olması tabirin yönünü değiştirir.",
+  "christianTraditions": "Erken Hristiyanlık ve patristik gelenekte rüyaların kaynağı Tanrı, insan ruhu veya yanıltıcı etkenler olarak üçe ayrılır. Peygamber figürleri ve vahiy nitelikli rüyalar, Kutsal Yazılarla uyum içinde test edilir; bu bağlamda ilahi öğüt, tövbe çağrısı ve manevi yakınlık temalarını barındırır.",
+  "jewishTraditions": "Yahudi geleneğinde ve Talmudik kaynaklarda (örneğin Berakhot 57b) rüyanın peygamberliğin \"altmışta biri\" sayıldığına dair ifadeler bulunmaktadır.",
+  "buddhistEasternApproaches": "Budist gelenekte rüyalar sabit şifreler olarak okunmaz; aksine zihnin koşullu oluşumlarını ve geçiciliği yansıtır. Peygamber benzeri bir figür bu yaklaşımda bir bodhisattva, bilge öğretmen veya içsel bir farkındalık ve uyarı işlevi olarak değerlendirilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda peygamber figürü, kişinin dışsal bir tarihi figüründen çok içsel hakikat çağrısı, vicdani uyanış ve üst düzey sezgisel rehberlik kaynağı olarak ele alınır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Bireyin kişisel inanç bağlamının, duygusal tonunun ve kültürel arka planının rüyadaki yansıması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Bilinçdışının dengeleyici (telafi edici) işlev gören arketipsel rehber ve iç otorite figürü.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Hidayet, rahmet, müjde veya uyarı niteliğinde hakiki rüya kategorisi ve manevi işaret.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Kutsal Yazılarla sınanan, ilahi öğüt, tövbe çağrısı ve manevi yakınlık taşıyan, vahiyle ilişkili bir imge.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği (Talmudik)",
+      "interpretation": "Peygamberlik ve rüya ilişkisi içinde bilgelik, kutsal metin ve sezgisel yönelim.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "İçsel hakikat, uyarı, vicdani ses ve üst düzey rehberlik kaynağı.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Tüm disiplinlerde ve geleneklerde peygamber figürü; sıradan bir nesne veya olay olmaktan öte, insana dışarıdan ya da derin bir içsel kaynaktan gelen güçlü bir yönlendirme, uyarı ve otorite merkezi olarak ele alınmaktadır.",
+  "differences": "Psikoloji ve analitik yaklaşım bu figürü bilinçdışının bir ürünü veya dengeleyici bir arketip olarak konumlandırırken; dini gelenekler (İslami, Hristiyan, Yahudi) onu ilahi kaynaklı bir mesaj, vahiy uzantısı veya kutsal otoritenin tezahürü olarak değerlendirir.",
+  "inusAssessment": "Rüyada peygamber figürünün belirmesi, rüya sahibinin hayatındaki otorite, rehberlik ve vicdani hesaplaşma alanlarıyla doğrudan ilişkilidir. Bu sembolü yorumlarken figürün duygusal tonu —sevinç ve rahmet sunması ya da öfkeli ve uyarıcı olması— kritik bir ayrım noktasıdır. Hiçbir psikolojik veya geleneksel çerçeve bu imgeyi tek ve katı bir kehanete indirgemez; aksine rüya, kişinin kendi inanç dünyası ve içsel denge arayışıyla birlikte ele alınmalıdır.",
+  "faq": [
+    {
+      "question": "Rüyada peygamber görmek kesin bir kehanet mi içerir?",
+      "answer": "Farklı geleneklerde ve psikolojik yaklaşımlarda bu imge doğrudan bir gelecek kehanetinden ziyade, manevi yönlendirme, vicdani uyarı veya içsel rehberlik işareti olarak kabul edilir."
+    },
+    {
+      "question": "Peygamber rüyalarının İslami gelenekteki yeri nedir?",
+      "answer": "İslami kaynaklarda salih rüya kategorisinde değerlendirilir ve özellikle Hz. Muhammed'in rüyada görülmesi durumunda şeytanın onun suretine giremeyeceği ilkesiyle özel bir doğruluk atfedilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream content influences daily spirituality - PMC - NIH",
+      "relevance": "Rüyalardaki doğaüstü içerik, rüyanın yönlendirici etkisi ve sonraki gün dinsel/spiritüel deneyimler arasındaki ilişkiyi inceler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12337890/"
+    },
+    {
+      "title": "ART 41217 Paquette.indd",
+      "relevance": "Rüyalarda peygamberler ve dinsel figürler gibi kategorilerin kültürler arası dağılımını içerik analiziyle inceler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/41217/pdf/167074"
+    },
+    {
+      "title": "Religious images in dreams - PubMed",
+      "relevance": "Rüyalardaki dinsel imgelerin kişisel dinsel bağlam ve numinöz anlamla ilişkisini tartışır.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24318665/"
+    },
+    {
+      "title": "Dream emotions: a comparison of home dream reports with laboratory early and late REM dream reports - PubMed",
+      "relevance": "Rüya raporlarında duygusal yoğunluk ve valansın laboratuvar ile ev ortamında nasıl değişebildiğini inceler.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28568911/"
+    },
+    {
+      "title": "Studying dream content using DreamBank.net",
+      "relevance": "Rüya içerik analizinde dinsel ve spiritüel öğelerin sıklığını ve peygamber kategorisi de dahil olmak üzere arama gruplarını gösterir.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2008c.html"
+    },
+    {
+      "title": "Religious Worship and Dream Recall: New Results from a Survey of American Adults - Pastoral Psychology",
+      "relevance": "Dini pratik ile rüya hatırlama ve rüya içeriği arasındaki ilişkileri anket verisiyle ele alır.",
+      "url": "https://link.springer.com/article/10.1007/s11089-013-0560-6?error=cookies_not_supported&code=5ac715b3-caa6-4313-92ac-8e4c4fa6fea7"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüya yorumunda kehanet fikrini ayıran ve sembolik rüya ile doğrudan haberci rüya ayrımını kuran temel Freud metni.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Syracuse University",
+      "relevance": "Freud’un rüyaları kehanet olarak değil, kişisel tarih ve bilinçdışı isteklerin ifadesi olarak okumasını açıklayan akademik tartışma.",
+      "url": "https://surface.syr.edu/cgi/viewcontent.cgi?article=1037&context=rel"
+    },
+    {
+      "title": "Freud (1900) Chapter 1, part a",
+      "relevance": "Antik rüya türlerini doğrudan kehanet ve sembolik yorum gerektiren rüyalar olarak ayıran Freud pasajı.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams1a.htm"
+    },
+    {
+      "title": "[PDF] PSYCHO-ANALYSIS Freud, The Interpretation of Dreams Freud ...",
+      "relevance": "Sembolik rüya yorumunu ve rüyanın geleceği haber verme inancıyla ilişkisinin Freud’daki eleştirisini gösteren metin.",
+      "url": "https://webpages.cs.luc.edu/~dennis/106/14-Freud.pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud",
+      "relevance": "Rüyanın geleceğe dair kehanet sayılmasının eski bir inancın kalıntısı olduğunu belirten Freud pasajı.",
+      "url": "https://media.thuze.com/MediaService/MediaService.svc/constellation/book/AUPSY330.12.2/%7Bpdfs%7Dch_2_the_interpretation_of_dreams_freud"
+    },
+    {
+      "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
+      "relevance": "Rüyanın istek doyumu yönünü öne çıkaran kısa Freud metni.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
+    },
+    {
+      "title": "Jung on Dreams: Part I - Jungian Center for the Spiritual Sciences",
+      "relevance": "Jung’un rüyayı bilinçdışı psişik etkinliğin ürünü, sembolik öz-temsil ve kompansasyon bağlamında ele alışını özetleyen bir derleme; peygamber figürünü Jungcu okumada nasıl çerçeveleyebileceğini anlamaya yardım eder.",
+      "url": "https://jungiancenter.org/jung-on-dreams-part-i/"
+    },
+    {
+      "title": "Jung on the Nature and Interpretation of Dreams - PMC",
+      "relevance": "Jung’un rüya anlayışını, rüyanın bilinçdışı durumun sembolik ifadesi ve kompansatuvar işlevi üzerinden tartışan akademik çalışma; peygamber sembolüne doğrudan değil, Jungcu yorum ilkelerine bağlanır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4217604/"
+    },
+    {
+      "title": "Dream Interpretation In Jung's Theory A Comparative ...",
+      "relevance": "Jung’un rüyayı bilinçdışının sözü ve sembolik bir sunumu olarak ele alışını aktaran metin; peygamber figürünü sabit bir anlam değil, sembolik imge olarak değerlendirme zemini sağlar.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/107-dream-interpretation-in-jungs-theory-a-comparative-analysis"
+    },
+    {
+      "title": "Full text of \"The Interpretation of Dreams in the Ancient ...",
+      "relevance": "Antik Yakın Doğu’da rüya türleri, vahiy ve kehanet bağlamı.",
+      "url": "https://archive.org/stream/Oppenheim1956AssyrianDreamBook/Oppenheim_1956_Assyrian_Dream_Book_djvu.txt"
+    },
+    {
+      "title": "Perchance to Dream: Dream Divination in the Bible and the Ancient Near East",
+      "relevance": "Antik Yakın Doğu’da rüya deneyimlerinin ilahî, kehanet ve ruhsal boyutları.",
+      "url": "https://www.sbl-site.org/assets/pdfs/pubs/9780884142874_OA.pdf"
+    },
+    {
+      "title": "Dream Accounts in the Hebrew Bible and Ancient Jewish ...",
+      "relevance": "İbrani geleneğinde vahiy rüyaları, vizyonlar ve peygamber figürü arasındaki ilişki.",
+      "url": "https://ora.ox.ac.uk/objects/uuid:31468460-01e8-4b10-977e-72b954a29fda/files/m094640d42e5594527fcf80f2cc76bc00"
+    },
+    {
+      "title": "Seeing Prophets in Dreams - Islamic Dream Interpretation",
+      "relevance": "Peygamberlerin rüyada görülmesine ilişkin maddeleri ve bunların izzet, yardım, zafer, rahmet ve toplumsal iyilikle ilişkilendirilişini aktarır.",
+      "url": "https://www.islamic-dream.com/en/prophets-in-dreams/"
+    },
+    {
+      "title": "Prophet Islamic Interpretations & Meanings",
+      "relevance": "Rüyada peygamber figürünün dinî rehber, vaiz, salih imam, öğretmen ve Allah'a çağıran kişiyle bağlantısını verir.",
+      "url": "https://www.myislamicdream.com/prophet.html"
+    },
+    {
+      "title": "Açıklamalı İslami rüya tabirleri / İmam Nablusi",
+      "relevance": "Nablusî’ye atfedilen rüya tabiri edisyonlarının bibliyografik varlığını gösterir ve peygamberler başlığının klasik İslami rüya literatürü bağlamını destekler.",
+      "url": "https://kutuphane.tbmm.gov.tr/bib/284903"
+    },
+    {
+      "title": "Interpretation of Dreams - Sunnah.com - Sunnah.com",
+      "relevance": "Rüyaların türleri ve salih rüyanın değeri hakkında hadis temelli çerçeve sunar.",
+      "url": "https://sunnah.com/bukhari/91"
+    },
+    {
+      "title": "Dreams and Dream Interpretation - Islam Question & Answer",
+      "relevance": "Hz. Muhammed'i rüyada görmenin özel konumu ve şeytanın onun suretine giremeyeceği ilkesi hakkında fetva temelli açıklama verir.",
+      "url": "https://islamqa.info/en/answers/6537"
+    },
+    {
+      "title": "What are prophetic dreams? - Got Questions",
+      "relevance": "Hristiyan rüya değerlendirmesinde rüyaların Kutsal Yazılarla sınanması ilkesini verir.",
+      "url": "https://www.gotquestions.org/prophetic-dreams.html"
+    },
+    {
+      "title": "Scriptural Models of Dream Interpretation",
+      "relevance": "Erken Hristiyan literatüründe peygamberlik rüyalarının daha açık ilahi mesajlar olarak anlaşılmasına dair tarihsel çerçeve sunar.",
+      "url": "https://academic.oup.com/book/31867/chapter/267515072?searchresult=1"
+    },
+    {
+      "title": "Studying Dream Interpretation from Early Christianity to the ...",
+      "relevance": "Erken Hristiyan rüya kuramında rüyaların ilahi, ruhsal ve yanıltıcı kaynaklara ayrılması konusunu özetler.",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9809.12262"
+    },
+    {
+      "title": "Doctrinalising dreams: patristic views of the nature of dreams and their relation to early Christian doctrines",
+      "relevance": "Patristik dönemde rüyaların ilahi vahiy ve yakınlık bağlamında yorumlanmasına dair tarihsel inceleme sunar.",
+      "url": "https://era.ed.ac.uk/handle/1842/5462"
+    },
+    {
+      "title": "Berakhot 57.b",
+      "relevance": "Berakhot 57b’de rüyada görülen bazı peygamber kitaplarının anlamı verilir; peygamberlik metinlerinin rüya bağlamındaki yerini gösterir.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Berakhot 57B – Hebrew & English Talmud | Bekiut",
+      "relevance": "Berakhot 57b’nin çevrim içi metninde rüyada kitaplar, kişiler ve kutsal metinler için yorumlar yer alır; rüya sembolizminin kapsamını gösterir.",
+      "url": "https://bekiut.com/talmud/Berakhot/57b"
+    },
+    {
+      "title": "Document 176",
+      "relevance": "Talmud’da rüyanın peygamberliğin küçük bir parçası olarak anlaşılmasını ve rüya-peygamberlik ilişkisinin klasik Yahudi literatürdeki yerini ele alır.",
+      "url": "http://library.huc.edu/pdf/theses/Barlev%20Pearl-LA-Rab%20Text-2007%20rdf.pdf"
+    },
+    {
+      "title": "Bavli Berakhot 55a–57b: The Talmudic Dreambook in ...",
+      "relevance": "Bavli Berakhot 55a–57b’de rüyaların peygamberlik statüsü ve Talmudik rüya kitabının yapısı tartışılır.",
+      "url": "https://www.liverpooluniversitypress.co.uk/doi/pdf/10.18647/1801/JJS-1995?download=true"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Berakhot 57 sayfasında rüya yorumlarının nasıl kurulduğunu gösteren tam metin erişimi sağlar.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist yaklaşımda rüyaların bodhisattva, ata ruhu ya da tanrısal varlık kaynaklı mesajlar içerebileceğini anlatır; rehberlik temasını destekler.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Dream: Significance and symbolism",
+      "relevance": "Budist düşüncede rüyanın geçicilik ve yanılsama ile ilişkisini açıklayan genel çerçeve sağlar.",
+      "url": "https://www.wisdomlib.org/concept/dream"
+    },
+    {
+      "title": "Prophet in dreams — meaning and symbolism",
+      "relevance": "Peygamber figürünü rüyalarda otorite, hakikat, uyarı ve içsel çağrı sembolü olarak ele alan modern bir spiritüel yorum metni.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/prophet"
+    },
+    {
+      "title": "[PDF] Dreams and Visions in Islamic Societies",
+      "relevance": "İslam toplumlarında rüyalar ile peygamberlik, haber alma ve manevî anlam üretimi arasındaki ilişkiyi tarihsel ve kültürel bağlamda tartışan akademik çalışma.",
+      "url": "https://www.orientalstudies.ru/eng/images/pdf/b_knysh_co_2012.pdf"
+    },
+    {
+      "title": "Prophetic Dream: Significance and symbolism www.wisdomlib.org › concept › prophetic-dream",
+      "relevance": "Rüyaların kehanet, sezgi ve manevî işaretler taşıyabilen bir alan olarak ele alındığı modern spiritüel açıklama.",
+      "url": "https://www.wisdomlib.org/concept/prophetic-dream"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

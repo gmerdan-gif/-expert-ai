@@ -1,0 +1,218 @@
+{
+  "slug": "sehir",
+  "title": "sehir",
+  "shortDescription": "Rüyada şehir görmek, toplumsal çevrenizle, aidiyet duygunuzla ve hayatınızdaki düzenle ilişkinizi yansıtabilir. Tanıdık ve düzenli bir şehir güveni; yabancı, karmaşık ya da harap bir şehir ise belirsizlik, yabancılaşma veya tükenmişlik hissini öne çıkarabilir.",
+  "positiveAssociations": [
+    "Emniyet ve toplumsal düzen",
+    "İçsel bütünlük ve yönelim",
+    "Mamur, kalabalık ve refah dolu bir alan",
+    "Kolektif yaşamla uyum"
+  ],
+  "challengingAssociations": [
+    "Yabancılaşma ve kalabalık içinde kaybolma",
+    "Terk edilmişlik ve içsel çöküntü",
+    "Ulaşılması zor hedefler ve engeller",
+    "Dağınıklık ve karmaşa"
+  ],
+  "contextDependentAssociations": [
+    "Tanıdık bir şehirde olmak güven veya rutin yaşamı temsil edebilirken, yabancı bir şehir keşif ya da yönelim bozukluğuna işaret edebilir.",
+    "Şehrin mamur ya da harap olması, rüya sahibinin ruhsal ve yaşamsal koşullarının genel durumunu yansıtır.",
+    "Şehir içindeki konum ve hareket biçimi, bireyin toplumsal rollerle ve kendi iç dünyasıyla olan mesafesini belirler."
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık ve Düzenli Bir Şehirde Dolaşmak",
+      "description": "Rüya sahibinin bildiği, sokaklarında rahatça yürüdüğü düzenli bir kent, günlük yaşamdaki aidiyet hissini, zihinsel netliği ve güvende olma arzusunu temsil eder."
+    },
+    {
+      "title": "Yabancı ve Karmaşık Bir Sokakta Kaybolmak",
+      "description": "Daha önce hiç görülmemiş, kalabalık ve karmaşık bir şehirde yönünü bulamamak, bireyin uyanık yaşamda hissettiği belirsizlikleri, yabancılaşma hissini ve adaptasyon sorunlarını yansıtır."
+    },
+    {
+      "title": "Terk Edilmiş veya Harap Bir Şehir Görmek",
+      "description": "Binaların yıkık, sokakların boş olduğu ıssız bir kent imgesi; içsel bir tükenmişliği, eski yaşam alışkanlıklarının geride kalmasını ya da duygusal yalıtılmışlığı simgeler."
+    },
+    {
+      "title": "Büyük ve Kalabalık Bir Metropolde Olmak",
+      "description": "Çok hareketli ve büyük bir şehirde yaşamak veya kalabalıklar arasında kalmak, kolektif yaşamın getirdiği yoğun uyaranları, toplumsal baskıları veya sosyal bağların karmaşıklığını gösterir."
+    }
+  ],
+  "psychology": "Ampirik psikoloji literatüründe rüyalardaki şehir imgesini doğrudan sabitleyen güçlü ve yaygın veri bulunmamaktadır. Bununla birlikte, mekân algısı ve çevresel rüyalar genellikle bireyin sosyal ortamlara uyum sağlama, kalabalık içinde kimliğini koruma ve dış dünyayla kurduğu sınırları işleme biçimleriyle ilişkilendirilir.",
+  "jungian": "Jungcu analitik psikolojide şehir, kolektif insan etkinliğinin bir merkezi olarak kolektif bilinçdışı ve toplumsal alanla kurulan bağı temsil eder. İdeal veya düzenli şehir formları, bireyleşme sürecindeki psişik bütünlük, uyum ve içsel düzen arayışının mimari birer metaforu olarak ele alınır.",
+  "islamicTradition": "Klasik İslami yorumlarda büyük ve mamur bir şehir, genellikle hayra, geçime, emniyete ve toplumsal düzene işaret eder. Şehrin genel durumu ve taşıdığı adın hissettirdiği anlamlar tabirin olumlu ya da olumsuz yönünü belirler.",
+  "christianTraditions": "Hristiyan sembolizminde şehir, yalnızca fiziksel bir yerleşim yeri değil; topluluk, ahlaki durum, ilahi düzen ve ruhsal kurtuluşun bir alegorisidir. Kutsal metinlerde şehirler hem insan uygarlığının doruğunu hem de yozlaşma ile sınavları temsil eden zengin bir mekânsal arka plana sahiptir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyaların anlamı büyük ölçüde hermenötik yoruma ve bağlama dayanır. Doğrudan tekil bir 'şehir' rüya maddesi bulunmamakla birlikte, rüya ile anlam arasındaki ilişki bireyin kendi yorumlama çabası ve ruhsal yönelimi üzerinden şekillenir.",
+  "buddhistEasternApproaches": "Budist metinlerde ve erken Mahāyāna geleneklerinde şehir imgesi, bodhisattva ilerleyişini işaret eden bazı ön-belirtiler veya zihnin altı duyu kapısını düzenleyen bir farkındalık modeli olarak ele alınabilir. Surlarla çevrili kent benzetmesi, öğretisel düzeni ve korunmuş bir zihinsel yapı kurma çabasını simgeler.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda şehir, içsel dünyadaki dağınıklığın örgütlenmesi, kalabalık içinde öz benliği bulma çabası ve bilinçli yaşamın karmaşası ile ruhsal kökler arasındaki gerilimi temsil eden arketipik bir alan olarak değerlendirilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Şehir, yer değiştirme ve sembolleştirme süreçleriyle arzu, bastırılmış istekler, engeller veya bedenle ilişkili mekânsal çağrışımlar üzerinden okunur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Şehir, kolektif bilinçdışının izdüşümü ve bireyleşme sürecindeki psişik bütünlük, merkez ile düzen arayışının bir yansımasıdır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Dini ve Geleneksel Yaklaşım",
+      "interpretation": "Mamur şehirler emniyet, hayır, geçim ve toplumsal düzenle ilişkilendirilir; yıkık şehirler ise sınav veya kriz halleriyle ilişkilendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Doğu ve Spiritüel Yaklaşımlar",
+      "interpretation": "Zihinsel duyu kapılarının modeli, geçici, kurmaca bir gerçeklik ya da içsel dağınıklığın örgütlendiği bir bilinç alanı olarak ele alınır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve teorik yaklaşımlar arasında şehir, bireyin kendi dışındaki dünyayla, toplulukla ve kendi içsel düzeniyle kurduğu ilişkinin bir sahnesi olarak ortaklaşa kabul edilir.",
+  "differences": "Psikanaliz şehri bireysel arzu ve bastırılmışlıklar üzerinden ele alırken; Jungcu yaklaşım kolektif bütünlüğe odaklanır; dini ve spiritüel gelenekler ise mekânı ahlaki, teolojik veya zihinsel birer dönüşüm alanı olarak konumlandırır.",
+  "inusAssessment": "Rüyada şehir sembolü, sabit ve tek bir anlama indirgenemeyen, rüya sahibinin o anki duygusal tonu ve mekânla kurduğu ilişkiye göre şekillenen dinamik bir kurgudur. Tanıdık sokaklarda güven ve aidiyet arayışını gösteren bir imge, yabancı veya harap bir coğrafyada derin bir yabancılaşma ya da içsel dönüşüm çabasını simgeleyebilir. Bu nedenle rüyadaki şehrin ne kadar kalabalık, düzenli ya da yok edilmiş olduğu, bireyin kendi yaşamındaki toplumsal rollerle ve iç dünyasıyla olan mesafesini anlamada kilit ayrıntılardır.",
+  "faq": [
+    {
+      "question": "Rüyada kalabalık bir şehirde kaybolmak ne anlama gelir?",
+      "answer": "Kalabalık bir şehirde yönünü bulamamak genellikle uyanık yaşamda hissedilen aşırı uyaran yükünü, kararsızlıkları ve toplumsal beklentiler arasında kaybolma endişesini yansıtır."
+    },
+    {
+      "question": "Rüyada görülen şehrin tanıdık ya da yabancı olması yorumu nasıl etkiler?",
+      "answer": "Tanıdık şehir genellikle bilinen rutinleri, güvenli alanı ve geçmiş deneyimleri temsil ederken; yabancı şehir yeni bir döneme geçişi, belirsizlikleri veya keşfedilmemiş içsel yönleri işaret edebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyalarda şehir, Roma örnekleri ve mekân imgelerinin arzuyla ilişkili kullanımını gösteren temel psikanalitik metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "SE 15.pdf",
+      "relevance": "‘City’, ‘citadel’, ‘castle’ ve ‘fortress’ gibi imgelerin kadın sembolizmi içinde ele alındığı bölüm.",
+      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149-169.pdf"
+    },
+    {
+      "title": "The interpretation of dreams",
+      "relevance": "Roma ve başka şehirlerin Freud’un rüya çözümlemelerinde kişisel istek, engel ve erişilmez hedeflerle ilişkilendirilmesi.",
+      "url": "https://s3.us-west-1.wasabisys.com/luminist/EB/F/Freud%20-%20The%20Interpretation%20of%20Dreams.pdf"
+    },
+    {
+      "title": "Dialectics of Sign and Symbol and the Utterance ...",
+      "relevance": "Şehir imgesinin kolektif yaşam ve kolektif bilinçdışıyla ilişkisini düşündüren Jungcu formülasyon.",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/1468-5922.12942"
+    },
+    {
+      "title": "Buzzinda: Walking through an Architectural Metaphor of the Jungian Individuation Process",
+      "relevance": "İdeal şehir ve mimari formu Jungcu bütünlük ve uyum sembolizmiyle ilişkilendiren çalışma.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00332925.2016.1202663"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "*Oneirocritica*’nın Greko-Romen antik rüya yorum geleneğindeki yerini ve kapsamını özetler; şehir rüyalarının tarihsel bağlamını kurmak için yardımcıdır.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Şehirler Tabiri - Kütüphane ve Ödev Merkezi",
+      "relevance": "Şehir adının hayırla ilişkilendirilmesi, mamur/büyük şehir vurgusu ve şehir sembolünün genel çerçevesi.",
+      "url": "https://www.islamidavet.com/kutuphane/sehirler-tabiri/"
+    },
+    {
+      "title": "Topical Bible: Symbolism of the City",
+      "relevance": "İncil literatüründe şehrin kutsal, ahlaki ve toplumsal anlam katmanlarını özetler.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_the_city.htm"
+    },
+    {
+      "title": "Topical Bible: Cities: Figurative",
+      "relevance": "Kutsal metinlerde şehirlerin mecazi kullanımlarını ve ruhsal topluluk imgesini derler.",
+      "url": "https://biblehub.com/topical/naves/c/cities--figurative.htm"
+    },
+    {
+      "title": "The Meaning of the City - The Ted K Archive",
+      "relevance": "Kutsal şehrin temelleri ve ilahi sözle ilişkisi üzerine Hristiyan şehir sembolizmini işler.",
+      "url": "https://www.thetedkarchive.com/library/jacques-ellul-the-meaning-of-the-city"
+    },
+    {
+      "title": "Conceptual and literary depictions of cities in the Bible: Chapter 5. Urban metaphors",
+      "relevance": "Kutsal metinlerde şehirlerin kişileştirilmiş ve mecazi kullanımlarını ele alır.",
+      "url": "https://benjamins.com/catalog/lal.37.05ver"
+    },
+    {
+      "title": "Topical Bible: The City",
+      "relevance": "Şehrin Kutsal Kitap’ta insan düzeni, güvenlik, isyan ve kurtuluş ekseninde nasıl simgesel işlev gördüğünü toplu biçimde açıklar.",
+      "url": "https://biblehub.com/topical/t/the_city.htm"
+    },
+    {
+      "title": "The Meaning of the City: An Urban Missional Approach to the Use of City Imagery in Revelation",
+      "relevance": "Vahiy kitabındaki şehir imgelerinin topluluk, kurum ve iyi-kötü çatışması boyutlarını tartışır.",
+      "url": "https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1325&context=jams"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Yahudi geleneğinde rüyaların anlamı, yorum ve ruhsal boyutları üzerine genel çerçeve sunar.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Klasik Yahudi kaynaklarında rüyalar ve onların yorumlanması hakkında tarihsel özet verir.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Dreams and Judaism",
+      "relevance": "Yahudi düşüncesinde rüyaların yorumla ilişkisini ve Talmudik yaklaşımı özetler.",
+      "url": "https://www.oxfordchabad.org/templates/articlecco_cdo/aid/374282/jewish/Dreams-and-Judaism.htm"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Berakhot 55b bağlamındaki olumlu rüya imgeleri listesini aktarır; rüya sembolleri arasında hangi örneklerin sayıldığını gösterir.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyanın yoruma bağlılığı ve rüya-yorum ilişkisine dair Talmudik çerçeveyi sunar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Bodhisattva rüyalarında şehir görme ve şehirde yaşama motiflerini doğrudan veren Budist metin.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "[PDF] Dreaming the path: diagnosing Bodhisattva progress in early ...",
+      "relevance": "Erken Mahāyāna bağlamında şehir imgesini ve buna eşlik eden ön-belirti mantığını tartışan akademik çalışma.",
+      "url": "https://scholarlypublications.universiteitleiden.nl/access/item:4105024/view"
+    },
+    {
+      "title": "Buddhism",
+      "relevance": "Budist metinlerde şehrin altı duyu kapısı ve farkındalıkla ilişkili mecazi kullanımını gösteren akademik kaynak.",
+      "url": "https://brill.com/downloadpdf/display/title/64427.pdf"
+    },
+    {
+      "title": "The Parable of the Conjured City in the Lotus Sutra",
+      "relevance": "Lotus Sūtra’daki ‘conjured city’ imgesinin bağımlı ortaya çıkış ve geçicilikle bağlantılı yorumunu sunan Budist anlatı.",
+      "url": "https://tricycle.org/article/lotus-sutra-conjured-city/"
+    },
+    {
+      "title": "catS With flaMing tailS: the SiMile Of the fOrtified city in PĀli ...",
+      "relevance": "Pāli gelenekte surlarla çevrili şehir benzetmesinin Dharma yolu ve öğretisel düzenle bağlantısını tartışan akademik çalışma.",
+      "url": "https://asian.washington.edu/sites/asian/files/documents/research/jiabs_38_marino_cats_with_flaming_tails.pdf"
+    },
+    {
+      "title": "Dream Dictionary: S - Dream Interpreter AI",
+      "relevance": "Rüyada 'sehir' için doğrudan bir sözlük maddesi sunuyor; şehir imgesini toplumsal yaşamın karmaşıklığı, aidiyet ve yabancılaşma duyguları üzerinden yorumluyor.",
+      "url": "https://dreaminterpreter.ai/dream-dictionary/s"
+    },
+    {
+      "title": "Occult Symbol Dream Meaning - Interpret Your Dream!",
+      "relevance": "Lotus Sūtra’daki \"conjured city\" imgesinin bağımlı ortaya çıkış (dependent origination) ve geçicilikle ilişkisini tartışan Budist anlatı.",
+      "url": "https://mirrorwithin.com/dream-dictionary/occult-symbol/"
+    },
+    {
+      "title": "Mystical Symbol Dream Meaning & Interpretation",
+      "relevance": "'Mystical symbol' için mistik ve ezoterik sembolizmi özetliyor; şehir sembolüne özel değil, fakat modern spiritüel okumalarda sembolü içsel dönüşüm ve anlam arayışı bağlamına yerleştirmek için kullanılabilir.",
+      "url": "https://mirrorwithin.com/dream-dictionary/mystical-symbol/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

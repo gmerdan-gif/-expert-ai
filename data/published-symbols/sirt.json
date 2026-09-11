@@ -1,0 +1,239 @@
+{
+  "slug": "sirt",
+  "title": "sırt",
+  "shortDescription": "Rüyada sırt görmek, taşıdığınız sorumlulukları, dayanma gücünüzü ve desteğe duyduğunuz ihtiyacı simgeleyebilir. Sırtın yük altında kalması baskıyı; yara, hassasiyet veya sırt dönmek ise görünmeyen kırılganlıkları, geçmişte kalan meseleleri ya da uzaklaşmayı çağrıştırır.",
+  "positiveAssociations": [
+    "Güç ve destek",
+    "Yük taşıma kapasitesi",
+    "Korunma ve dayanıklılık",
+    "Dayanılan kişi (destek alınan kişi)"
+  ],
+  "challengingAssociations": [
+    "Savunmasızlık ve görünmeyen riskler",
+    "Geçmişe takılıp kalma",
+    "İlişkisel sorumluluk baskısı",
+    "Yüz çevirme veya geri çekilme"
+  ],
+  "contextDependentAssociations": [
+    "Sırtın dönük olması veya arkaya yönelme",
+    "Sırtın yük altında ezilmesi veya rahatlaması",
+    "Yaşlılık veya bedensel sınırların fark edilmesi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Sırtında ağır bir yük taşıdığını görmek",
+      "description": "Rüya sahibinin günlük yaşamında omuzladığı aşırı sorumlulukları, ilişkisel yükleri ve bunların yarattığı baskıyı simgeler."
+    },
+    {
+      "title": "Birine sırtını dönmek",
+      "description": "Geçmişteki bir durumdan uzaklaşma, ilişkiyi sonlandırma, geri çekilme veya bir konuya karşı niyet değişikliğini ifade eder. Bağlam ve duygunun niteliği (suçluluk, rahatlama, öfke vb.) yorumun şeklini belirler."
+    },
+    {
+      "title": "Sırtının sıvazlandığını veya desteklendiğini görmek",
+      "description": "Kişinin zorluklar karşısında dışarıdan alacağı yardımı, güvende hissetme arzusunu ve içsel dayanma gücünü yansıtır."
+    },
+    {
+      "title": "Sırtta bir yara veya hassasiyet hissetmek",
+      "description": "Görünmeyen bir zayıflığa ya da kişinin doğrudan kontrol edemediği, geride kalan çözülmemiş meselelerin yarattığı kırılganlığa işaret eder."
+    }
+  ],
+  "psychology": "Ampirik psikoloji literatüründe tek bir beden parçasına evrensel ve sabit bir rüya anlamı atayan bir kanıt bulunmamaktadır. Bilimsel rüya içerik analizinde sırt gibi beden öğeleri sabit bir sözlük karşılığıyla değil, rüya metnindeki frekanslar, gövde/anatomi sınıflandırmaları ve bağlamsal değişkenler temelinde değerlendirilen nitel veriler olarak ele alınır.",
+  "jungian": "Analitik psikolojide rüya imgeleri sabit sözlük tanımlarıyla değil, bilinçdışının sembolik dışavurumu olarak okunur. Sırt veya bedenin arkada kalan tarafı, bilincin doğrudan görmediği alanlar, gölge unsurları, taşınan psikolojik yükler ve bireyin arkasında bıraktığı geçmişle kurduğu ilişki bağlamında değerlendirilir. Bu okumada rüyanın bütün yapısı, duygu tonu ve rüya sahibinin kişisel çağrışımları belirleyicidir.",
+  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında sırt ve arka taraf, kişinin dayandığı güç, yardımcısı veya yardım istenen kimse gibi kavramlar ile evin dışı veya yol gibi 'arka' çağrışımları üzerinden ele alınır. Ancak doğrudan tekil ve kesin bir tabir bulunmadığı için İslami yorumlarda bağlamın ve yorumcunun geleneğe göre yapacağı değerlendirmenin önemi büyüktür.",
+  "christianTraditions": "Hristiyan sembolik dilinde sırt; bedenin taşıyıcı ve destekleyici unsuru olarak güç, yük altında kalma, baskı, ihanet ya da geride bırakılmış geçmiş dönemlerle ilişkilendirilir. Kutsal metinlerdeki 'arka' imgeleri görünmeyen veya dolaylı olana işaret eden sembolik bir zemin sunar; bu temalar rüyanın bağlamına göre temkinli biçimde ele alınmalıdır.",
+  "jewishTraditions": "Rabbanî ve Talmudî gelenekte rüyaların yoruma bağlı olduğu vurgulanır; doğrudan 'sırt' için sabit bir klasik girdi bulunmamakla birlikte, gelenek içinde 'sırt' imgeleri kontrollü bir çerçevede şu temalar üzerinden okunabilir: dayanılan ya da yardımcı olan kişi, üstlenilen veya devredilen sorumluluklar (yük), arkada kalan geçmiş meseleler ya da kişinin görünmeyen zaafları. Berakhot gibi metinsel gelenekler, rüyanın parça parça değerlendirilebileceğini vurguladığı için, Yahudi yorum pratiğinde sırt görüntüsü önce rüyanın bütünü, rüya sahibinin yaşamı ve yorumcunun ritüel ve duyarlı yaklaşımı çerçevesinde ele alınmalıdır.",
+  "buddhistEasternApproaches": "Doğu ve Budist gelenek bağlamında bedenin arka yüzü, yük taşıma, korunma ve ilişkisel sorumluluklar gibi temalar üzerinden ele alınarak bireyin çevresiyle kurduğu dengenin bir yansıması olarak değerlendirilir. Ancak bu alandaki kaynaklar sınırlı olduğundan bağlama duyarlı ve temkinli bir okuma önerilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda sırt, kişinin taşıdığı manevi yükleri, destek ihtiyacını, omurga eksenindeki içsel dayanıklılığı ve geçmişte bırakılan etkenlerin bugünkü sınırlarla ilişkisini temsil eder. Bu yaklaşımlar sırtın görünmeyen dayanma gücü ve sınırlar temasını vurgular, ancak doğrudan belirleyici bir rüya hükmü olarak sunulmaz.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Beden imgesinin yer değiştirme, gizleme ve örtük içerik mekanizmaları içinde okunması; sırt, destek veya kaçınma gibi temalara dolaylı referans verebilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Bilincin arkasında kalan alanlar, gölge ve içsel yüklerin sembolik dışavurumu; sırt imgeleri rüyanın bağlamında bireysel anlam kazanır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Kuvvet, yardımcı, destek unsuru ve arka taraf/yol çağrışımları üzerinden temkinli yorumlama.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Dayanıklılık, yük taşıma, geçmişe bağlılık veya geride bırakılanlar şeklinde sembolik değerlendirme.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel / Ezoterik Yaklaşım",
+      "interpretation": "Görünmeyen dayanma gücü, omurga ekseni ve manevi sorumluluklar olarak metaforik okuma.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplin ve geleneklerin ortak noktası, sırtın yalnızca fiziksel bir anatomik bölge değil, aynı zamanda yük taşıma, destek, korunma ve arkada bırakılan geçmiş gibi temalar üzerinden sembolik bir derinlik taşıdığı kabulüdür. Bu ortaklık, rüya yorumunun bağlama ve duygusal tona duyarlı olması gerektiğini destekler.",
+  "differences": "Yaklaşımlar arasındaki temel fark, psikanaliz ve Jungcu ekollerin anlamı bireysel bağlama ve bilinçdışı dinamiklere dayandırması; dini geleneklerin ise sırtı kuvvet, yardımcı veya manevi yönelimler gibi kültürel ve arketipsel kodlar üzerinden daha sabit temalarla okumasıdır. Geleneksel yorumlar yorumcunun rolünü ve ritüel/pratik bağlamını vurgularken, psikolojik yaklaşımlar rüyanın kişisel işlevine odaklanır.",
+  "inusAssessment": "Sırt sembolü, rüyada doğrudan görülemeyen ama taşınan yüklerin, destek arayışının ve geçmişte kalan unsurların bedensel bir metaforudur.",
+  "faq": [
+    {
+      "question": "Rüyada sırtımın ağrıdığını görmek ne anlama gelir?",
+      "answer": "Sırt ağrısı veya yükü, günlük yaşamda taşınan aşırı sorumlulukların, psikolojik baskıların veya çözülmemiş geçmiş meselelerin rüya dilindeki bedensel bir yansıması olarak okunabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DreamResearch.net: Measurement and Statistical Issues",
+      "relevance": "Rüya içerik analizinin yöntemlerini ve beden-parçası imgelerinin nasıl kodlandığını gösterir; 'sırt' gibi öğelerin frekans ve bağlam temelinde değerlendirilebileceği çerçevesini sağlar.",
+      "url": "https://dreams.ucsc.edu/Library/methodological_appendix.html"
+    },
+    {
+      "title": "Freud, Psychoanalysis, and Symbolism",
+      "relevance": "Freud’un rüya kuramının temel metni; rüyaların dolaylı ve simgesel çalışma biçimini anlamak için ana başvuru kaynağı.",
+      "url": "https://www.ndl.ethernet.edu.et/bitstream/123456789/45242/1/268.pdf"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud’un rüya düşüncesinin önceki benlik durumları ve geri dönüş hareketi üzerine pasajlarını içeren metin sürümü.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya sembolizmi ve beden imgeleriyle ilgili genel ilkelerini sunar; sırt imgelerini örtme, yer değiştirme ve dolaylı temsil mekanizmaları içinde okumaya kaynaklık eder.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Symbolism, the Primary Process, and Dreams: Freud's Contribution",
+      "relevance": "Freud’da rüya sembolizminin birincil süreç ve örtük içerik dönüşümü içindeki yerini açıklayan akademik inceleme.",
+      "url": "https://academic.oup.com/edited-volume/28270/chapter/213427944"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Freud'da yönelim imgeleri ve beden temsilleri arasındaki ilişkiyi gösteren pasajlar içerir; beden bölgesi sembolizmi için bağlam sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "content",
+      "relevance": "Rüya yorumunda simgesel öğelerin ve çağrışımların, ikincil bir yorum yolu olarak nasıl ele alındığını gösteren akademik bir metin sürümüdür.",
+      "url": "https://api.repository.cam.ac.uk/server/api/core/bitstreams/3f5486ee-699b-477b-9ef0-e42ad8595713/content"
+    },
+    {
+      "title": "Dream Symbolism",
+      "relevance": "Psikanalizde rüya sembolizminin genel işleyişini ve beden imgelerinin sembolik karşılıklarını özetler.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/dream-symbolism"
+    },
+    {
+      "title": "Hall: A Cognitive Theory of Dream Symbols",
+      "relevance": "Freudcu sembol yorumunun rüya imgelerini örtme ve yer değiştirme olarak okuyan yaklaşımını özetler.",
+      "url": "https://dreams.ucsc.edu/Library/hall_1953a.html"
+    },
+    {
+      "title": "Jung on the Nature and Interpretation of Dreams - PMC",
+      "relevance": "Jungcu çerçeveyi sunarak, sırtın bilinçdışının arkada kalan alanları, gölge ve taşınan yükler bağlamında yorumlanabileceğine dair teorik zemin sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4217604/"
+    },
+    {
+      "title": "Jung's Theory of Dreaming and the Findings of Empirical and ...",
+      "relevance": "Bilinçdışı, gölge ve arketipsel imge mantığı üzerinden 'arkada kalan' ya da görünmeyen alanların sembolik yorumuna çerçeve sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12517111/"
+    },
+    {
+      "title": "Carl Jung's Approach to Symbolism",
+      "relevance": "Jungcu yorumda sembollerin bağlama bağlı işlediği, tekil imgelerin rüyanın bütünü içinde okunması gerektiği düşüncesine zemin sağlar.",
+      "url": "https://www.saspublishers.com/media/articles/SJAHSS_34B934-937.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Oneirokritik geleneğin bedenin arka kısmına ilişkin pasajlarını içerir; tarihsel olarak arka/sırt imgelerinin yaşlılık, zaman ve arkada kalanlarla ilişkilendirildiğine dair örnek sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri S Harfi",
+      "relevance": "İslami rüya tabiri derlemelerinde 'sırt/arka' ile ilgili geleneksel çağrışımları (kuvvet, yardımcı, arka taraf) aktaran modern bir derlemeye işaret eder; klasik kaynaklarda doğrudan açık bir tekil madde bulunmadığı için kontrollü okuma önerir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-s1-harfi.html"
+    },
+    {
+      "title": "back",
+      "relevance": "Sırtı Hristiyan rüya dili içinde güç, destek, yük taşıma ve ihanet temalarıyla ilişkilendiren çevrimiçi bir yorum.",
+      "url": "https://joshuamediaministries.org/dreams/back/"
+    },
+    {
+      "title": "Dream symbols: Right, left, front, and back – and what they ...",
+      "relevance": "Ön/arka karşıtlığını geçmiş ve gelecek üzerinden sembolik olarak açıklayan Hristiyan rüya yorumu metni.",
+      "url": "https://heavensdreammessages.com/biblical-symbolism-right-left-front-back-in-dreams/"
+    },
+    {
+      "title": "Topical Bible: Back",
+      "relevance": "‘Back’ kavramını dayanıklılık, yük ve Tanrı’ya yöneliş/geri dönüş gibi temalarla ilişkilendiren Hristiyan tema başlığı.",
+      "url": "https://biblehub.com/topical/b/back.htm"
+    },
+    {
+      "title": "Back Parts (backside) Back - Encyclopedia of The Bible",
+      "relevance": "Musa’nın Tanrı’nın ‘back parts’ını görmesi üzerinden Tanrı’nın dolaylı biçimde kavranmasını anlatan İncil ansiklopedisi maddesi.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Back-Parts-backside-Back"
+    },
+    {
+      "title": "Significance of Dreams",
+      "relevance": "Yahudi hukukunda ve gelenekte rüyalar için dua ve yatıştırma uygulamalarını özetler; rüya deneyiminin sabit bir sözlükten çok yorum ve ritüel çerçevesi içinde ele alındığını gösterir.",
+      "url": "https://aish.com/significance-of-dreams/"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Berakhot geleneğinde rüyaların bir kısmının anlamlı, bir kısmının ise anlamsız/dağınık görüldüğünü anlatır; Yahudi rüya anlayışının yorum merkezli yapısını gösterir.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Kutsal metinler ve Yahudi gelenek içinde rüyaların ilahî iletişim vasıtası olarak görüldüğünü anlatır; rüya sembollerinin bağlama göre anlam taşıdığı çerçeveyi destekler.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Geleneksel Yahudi rüya pratiklerinde korkutucu rüyalarla baş etme yollarını ve rüyanın sabit bir hüküm değil uyarı olarak da görülebileceğini aktarır.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Dreams and Judaism",
+      "relevance": "Yahudi geleneğinde rüyaların yorum merkezli doğasını ve Berakhot geleneğinin rüyanın parçalı yorumuna dair vurgusunu özetler; bu bağlamda 'sırt' imgelerinin yorumcunun çerçevesine göre anlam kazanacağını gösterir.",
+      "url": "https://www.oxfordchabad.org/templates/articlecco_cdo/aid/374282/jewish/Dreams-and-Judaism.htm"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200 ...",
+      "relevance": "Babil Talmudu’nun rüya pasajlarını akademik bağlamda ele alır ve rüya anlamının metin kadar yorum pratiğine bağlı olduğunu vurgular.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Klasik Yahudi kaynaklarda rüya yorumunun sembolik ve alegorik doğasını özetler; beden imgelerinin de simgesel düzlemde okunabildiği bir geleneksel çerçeve sunar.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Back Dream Meaning - Interpret Your Dream!",
+      "relevance": "Budist rüya sembolizmi bağlamında sırtın yük, destek ve sorumluluk çağrışımlarını tartışan çevrimiçi bir kaynak.",
+      "url": "https://mirrorwithin.com/dream-dictionary/back/"
+    },
+    {
+      "title": "Back in Dreams: Meanings of Support, Burden, and Boundaries",
+      "relevance": "Modern spiritüel/yorum kaynakları üzerinden sırt imgesinin yük, destek ve sınır temalarıyla nasıl ilişkilendirildiğini gösterir; ampirik kanıt yerine tematik sentez sağlar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/back"
+    },
+    {
+      "title": "Mystic Manga | Free Tarot, Astrology & Numerology",
+      "relevance": "Sırtı ezoterik sembolizm içinde, yük taşıma ve omurga/kanal imgeleriyle ilişkilendiren modern bir sembol sayfası.",
+      "url": "https://www.mystic-manga.com/en/dreams/symbol/back"
+    },
+    {
+      "title": "Back Dream Meaning: Body Symbol Interpretation - Somniscient",
+      "relevance": "Rüyada sırtı beden sembolü olarak destek, geçmiş, görünmeyen alan ve ruhsal eksen temalarıyla birlikte yorumlayan modern bir kaynak.",
+      "url": "https://somniscient.com/en/symbols/back"
+    },
+    {
+      "title": "What Does Dreaming About Your Back Mean? · Nightjar",
+      "relevance": "Sırtı rüyada yük, destek, arka planda kalan şeyler ve dayanma gücüyle ilişkilendiren modern spiritüel yorum.",
+      "url": "https://nightjarapp.com/dreams/back"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

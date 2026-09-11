@@ -1,150 +1,199 @@
 {
   "slug": "gul",
   "title": "gül",
-  "shortDescription": "Rüyada gül görmek genellikle sevgi, güzellik, huzur ve değer verdiğiniz ilişkileri çağrıştırır. Solmuş gül geçici sevinçleri ve fanilik duygusunu, dikenler ise incinme korkusunu veya engelleri simgeleyebilir.",
+  "shortDescription": "Rüyalarda gül, tek ve sabit bir anlama indirgenemeyen, duygusal tonu, rengi ve rüyanın bağlamına göre anlamı değişen çok katmanlı bir semboldür.",
   "positiveAssociations": [
-    "Aşk ve derin sevgi",
-    "Estetik güzellik ve zarafet",
-    "Ruhsal bütünleşme ve merkezlenme",
-    "İlahi adanmışlık ve saflık",
-    "Huzur ve fizyolojik rahatlama"
+    "Sevgi ve yakınlık",
+    "Güzellik ve zarafet",
+    "İçsel bütünlük",
+    "Müjde ve sevinç"
   ],
   "challengingAssociations": [
-    "Kısa ömürlü sevinçler",
-    "Geçici dünya nimetleri",
-    "Dikenlerin getirdiği incinme hissi",
-    "Fanilik ve solma kaygısı"
+    "Dikenlerin getirdiği acı veya sınavlar",
+    "Beyaz gülün ölüm veya tamamlanma çağrışımı",
+    "Sarı gülün hastalıkla ilişkilendirilmesi",
+    "Açılmamış gonca kayıp veya hassasiyeti çağrıştırabilir."
   ],
   "contextDependentAssociations": [
-    "Rüya görenin kültürel ve kişisel geçmişine göre değişen aşk veya yas imgeleri",
-    "Gülün rengine göre (kırmızı, beyaz, sarı) farklılaşan duygusal tonlar",
-    "Gülün toplanması ya da sadece uzaktan izlenmesi arasındaki eylem farkı"
+    "Rüyanın genel duygusal tonunun pozitif ya da negatif oluşu",
+    "Gülün renginin kırmızı, beyaz veya sarı olması",
+    "Gülün açık bir çiçek mi yoksa henüz açılmamış bir gonca mı olduğu"
   ],
   "commonVariations": [
     {
-      "title": "Kırmızı Gül Toplamak",
-      "description": "Rüyada canlı ve kırmızı güller topladığını görmek, gerçek yaşamda onur, sevgi kazanımı ve bereketli bir döneme girildiğinin işareti olarak ele alınabilir."
+      "title": "Kırmızı gül görmek",
+      "description": "Rüyada canlı ve parlak kırmızı bir gül görmek, yoğun duygular, tutku ve güzellikle ilişkilendirilir; ayrıca bir iddia ya da bir durumun açıklığa kavuşmasına işaret edebilir."
     },
     {
-      "title": "Solmuş Bir Gül Görmek",
-      "description": "Solmuş veya yapraklarını döken bir gül, yaşamdaki geçici sevinçleri, fanilik duygusunu ya da biten bir dönemin getirdiği melankoliyi yansıtabilir."
+      "title": "Gül toplamak",
+      "description": "Bahçeden veya bir daldan gül topladığını görmek, hayır, sevgi, nimet ve olumlu gelişmelerle yorumlanır."
     },
     {
-      "title": "Beyaz Gül Görmek",
-      "description": "Beyaz gül imgesi, saflık ve dindar bir yönelimi temsil edebilir."
+      "title": "Açılmamış gül goncası",
+      "description": "Henüz açılmamış bir gül tomurcuğu görmek, bazı geleneksel kaynaklarda hamilelikle veya çocuk sahibi olmakla ilişkilendirilir; ayrıca beklenmedik bir durumun seyrine karşı duyarlılığı işaret edebilir."
     },
     {
-      "title": "Dikenli Gül Sapı",
-      "description": "Gülün dikenleriyle karşılaşmak veya elin batması, sevgi ve güzellik arayışının beraberinde getirdiği hassasiyeti, incinme korkusunu veya engelleri simgeler."
+      "title": "Dikenli gül dalı",
+      "description": "Gülün dikenlerinin eline batması veya dikenli bir dal ile karşılaşmak, güzelliğin ve sevginin içinde barındırdığı zorlukları, acıları veya hayatın sınavlarını simgeler."
     }
   ],
-  "psychology": "Ampirik düzeyde, gül görüntüsünü izlemenin insanlarda parasempatik etkinliği artırdığı ve fizyolojik stresin azalmasıyla bağlantılı olduğu deneysel çalışmalarla rapor edilmiştir. Psikodinamik ve psikanalitik teorik çerçevede ise gül, anima ya da içsel dişil yönün bir sembolü ve bir arzu nesnesi olarak ele alınır.",
-  "jungian": "Analitik psikolojide ve sandplay terapisi (kum terapisi) uygulamalarında gül, 'sevgiliyi' ve ruhsal bütünleşmeyi temsil eder. Özellikle kırmızı gül, kadınsılık, sevgi nesnesine yeniden bağlanma, ruhsal merkez ve bireyselleşme sürecindeki tamamlanma temalarıyla ilişkilendirilir.",
-  "islamicTradition": "Klasik İslami rüya yorumu kaynaklarında ve çevrimiçi derlemelerde yer alan aktarımlara göre gül, kısa süreli sevinç, güzel haber, zarafet ve bazen geçici dünya nimetleri ile ilişkilendirilir. Gül toplamak onur ve bereket belirtisi olarak aktarılır; kaynaklarda kırmızı, beyaz ve sarı güller için farklı çağrışımlar (ör. beyaz için dindar bir kadın) yer alır.",
-  "christianTraditions": "Hristiyan sembolizminde gül, güzellik, saflık ve özellikle Meryem’le ilişkilendirilen 'Mystical Rose' (Mistik Gül) motifiyle anılır; bu kullanım daha çok dinsel ikonografi ve teolojik sembolizme aittir.",
-  "jewishTraditions": "Yahudi mistik geleneğinde ve Zohar'da gül, 'dikenler arasındaki gül' ifadesiyle İsrail cemaati, merhamet ile yargının dengesi ve açılan taç yaprakları aracılığıyla vahiy temalarını çağrıştırır; bu kullanım genel mistik sembolizme aittir.",
-  "buddhistEasternApproaches": "Doğu geleneklerinde gül, kalpte açılan ilahi hakikatle benzeştirilen bir imge olarak bazı mistik söylemlerde yer alır. Budist bakışta ise nilüfer daha merkezi olmakla beraber gül, aydınlanma yolu, geçicilik ve solma temaları üzerinden meditasyon nesneleriyle ilişkili okunabilir.",
-  "spiritualApproaches": "Spiritüel yaklaşımlarda gül, ruhun uyanışı ve ilahi kaynağa yeniden bağlanma sürecini simgeleyen bir 'kalp yolu' motifi olarak sunulur. Bazı Hindu yorumlarında gül, Lakshmi ile ilişkilendirilerek saflık, adanmışlık ve bolluk çağrışımı taşır; bu bağlantılar modern mistik literatürde sıkça yer alır.",
+  "psychology": "Ampirik psikoloji araştırmalarında rüya içeriği tek başına sabit bir sembolik sözlüğe indirgenemez; bunun yerine rüya raporlarındaki duygulanımın ve duygu yoğunluğunun ayrı ayrı kodlanması gerektiği vurgulanır. Gül sembolü, rüya görenin uyanık yaşamındaki duygusal tonuna ve bağlamına göre şekillenir.",
+  "jungian": "Analitik psikoloji çerçevesinde gül, sevilen nesne, ilişkisellik, bütünlük ve karşıtların birleşmesi temalarıyla bağdaştırılır. Bireyleşme sürecinde ruhsal merkeze ve içsel uyuma işaret eden simgesel bir imge olarak ele alınabilir.",
+  "islamicTradition": "İslami rüya tabiri geleneklerinde gül genellikle şerefli bir kimse, kadın, çocuk, kayıp bir kimsenin geri dönüşü veya sevindirici bir haber olarak yorumlanır. Gül toplamak hayır ve nimetle bağdaştırılır. Rengine göre kırmızı gül zinet ve güzelliğe, sarı gül ise hastalığa işaret edebilir.",
+  "christianTraditions": "Hristiyan sembolizminde gül, ilahi lütuf, saflık ve güzellik çağrışımları taşır. Meryem Ana figürüyle (Lat. \"Rosa Mystica\" / İng. \"Mystical Rose\") ilişkilendirilir; dikenleri ise sevgiyle birlikte gelen sınavları ve fedakârlığı temsil eder.",
+  "jewishTraditions": "Yahudi mistik geleneklerinde ve özellikle Zohar çevresinde gül, dikenden güller imgesi üzerinden topluluk ve ilahi merhamet nitelikleriyle ilişkilendirilir. Beyaz ve kırmızı renkler merhamet ile yargı arasındaki dengeyi simgeleyebilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda gül, sevgi, gizli bilgelik, ruhsal dönüşüm ve zıtlıkların birleşimi olarak ele alınır. Yaprakların yavaşça açılması, içsel arınma ve bilinç gelişiminin bir metaforu olarak okunabilir.",
   "comparisonTable": [
     {
-      "approach": "Ampirik Psikoloji",
-      "interpretation": "Gül görüntüsünün parasempatik sistemi tetikleyerek fizyolojik rahatlama ve stres azalması sağlaması.",
+      "approach": "Psikolojik ve Ampirik Yaklaşım",
+      "interpretation": "Sabit bir anlam yerine rüyanın duygulanımını ve bireysel bağlamını ön plana çıkarır.",
       "evidenceLevel": "research"
     },
     {
-      "approach": "Psikanaliz ve Jungcu Psikoloji",
-      "interpretation": "Gülün anima, içsel dişil yön, ruhsal merkezlenme ve sevgi nesnesiyle bütünleşme arzusu olarak okunması.",
+      "approach": "Psikanalitik / Jungcu Çerçeve",
+      "interpretation": "Arzu, ilişkisellik, bütünlük ve içsel birleşme süreçlerinin simgesel bir taşıyıcısı olarak yorumlar.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Klasik İslami Gelenek (çevrimiçi derlemeler)",
-      "interpretation": "Gülün kısa süreli sevinçler, onur, güzel haberler ve renklerine göre değişen sembolik atıfları barındırdığı yönündeki aktarımlar.",
+      "approach": "İslami ve Dini Gelenekler",
+      "interpretation": "Hayır, nimet, müjde, şerefli bir insan veya rengine bağlı olarak farklı yaşam durumlarıyla ilişkilendirir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Spiritüel ve Esoterik Yaklaşım",
-      "interpretation": "Gülün kalp çakrası, ilahi sevgi, saflık ve ruhun uyanış yolundaki bir rehber olarak ele alınması.",
+      "approach": "Ezoterik ve Simyasal Yaklaşım",
+      "interpretation": "Ruhsal dönüşüm, gizli bilgelik ve zıtlıkların uyumu bağlamında ele alır.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplinler ve gelenekler, gülün merkezinde estetik bir çekim, derin bir duygu (aşk/sevgi) ve hayatın kırılgan/geçici yönlerinin bulunduğu konusunda hemfikirdir.",
-  "differences": "Ampirik psikoloji gül görselinin somut fizyolojik etkilerine odaklanırken; Jungcu yaklaşım bireyselleşme ve içsel bütünlüğe; İslami rüya geleneği (çevrimiçi derlemeler temelinde) günlük hayatın sevinçlerine ve haberlerine; spiritüel yaklaşımlar ise ilahi adanmışlığa vurgu yapar. Kaynak türleri ve kanıtlama düzeyleri farklılık gösterir.",
-  "inusAssessment": "Gül sembolü, rüya bağlamında hem olumlu duygusal uyanışları (sevgi, estetik, huzur) hem de fanilik ve geçici sevinçleri aynı anda barındıran çok katmanlı bir yapıya sahiptir. Bu nedenle gül rüyalarını tek ve kesin bir geleceğe yormak yerine, rüya görenin o anki duygusal merkezi, ilişkileri ve rüyadaki renk/eylem bağlamı (toplama, solmuş görmek vb.) temel alınarak esnek bir perspektifle değerlendirmek uygundur.",
+  "commonGround": "Farklı gelenekler ve yaklaşımlar, gülün sıradan bir nesne olmadığını; estetik ve duygusal gücüyle insan ruhunun derin arzularını, sevgiyi ve yaşamın dönemeçlerini yansıttığı konusunda birleşir.",
+  "differences": "Kimi gelenekler gülü ilahi lütuf, saflık veya dini simgeler üzerinden manevi bir merkeze oturturken, psikolojik ve psikanalitik yaklaşımlar anlamı bireyin içsel arzularına, ilişkisel dinamiklerine ve rüya anındaki duygusal tona odaklar.",
+  "inusAssessment": "Rüyalarda gül sembolü, ne yalnızca düz bir güzellik imgesi ne de tek tip bir kehanet aracıdır. Onu benzersiz kılan, taşıdığı keskin ikiliklerdir: bir yandan sevgi, yakınlık ve estetik barındırırken, diğer yandan dikenleri aracılığıyla acı, sınav veya kaçınılmaz zorlukları hatırlatır. Gülün rengi (kırmızı, beyaz veya sarı) ve rüyadaki durumu (açık bir çiçek ya da henüz açmamış bir gonca), sembolün işaret ettiği psikolojik veya geleneksel yönelimi kökten değiştirir. Bu nedenle rüyadaki gül, kişinin sevgiyi arayış biçimini, hayatındaki hassas dengeleri ve duygusal katmanlarını çözmek için rüyanın bütünüyle birlikte ele alınmalıdır.",
   "faq": [
     {
-      "question": "Rüyada kırmızı gül görmek her zaman aşk anlamına mı gelir?",
-      "answer": "Jungcu ve kültürel geleneklerde kırmızı gül sevgi ve tutkuyla ilişkilendirilse de, rüyanın bütünündeki bağlama ve bireyin kişisel çağrışımlarına göre içsel bir merkezlenme veya psikolojik bir arzu nesnesi olarak da okunabilir."
+      "question": "Rüyada gül görmek her zaman olumlu bir anlam mı taşır?",
+      "answer": "Hayır. Geleneklerde ve psikolojik bağlamda gülün durumu ve rengi anlamı değiştirir. Örneğin, sarı gül genellikle hastalıkla ilişkilendirilir; açılmamış gonca (tomurcuk), kayıp veya hassasiyete işaret edebilir; dikenler ise zorluklarla ilişkilendirilir."
     },
     {
-      "question": "Gül rüyaları psikolojik olarak neyi ifade edebilir?",
-      "answer": "Psikolojik açıdan gül, bireyin içsel dişil yönü (anima), duygusal bütünleşme ihtiyacı veya zihinsel bir rahatlama ve huzur arayışının yansıması olabilir."
+      "question": "Gülün rengi rüya yorumunu nasıl etkiler?",
+      "answer": "Geleneksel aktarımlarda kırmızı gül güzellik ve tutkuyla, beyaz gül saflık veya tamamlanma/ölüm temalarıyla, sarı gül ise sağlık sorunlarıyla bağdaştırılır."
     }
   ],
   "sources": [
     {
-      "title": "Symbolism of plants: examples from European-Mediterranean ...",
-      "relevance": "Gülün Roma ve Hristiyan bağlamlarında Venüs, aşk ve Meryem çağrışımlarıyla Batı sembolizmindeki yerini özetleyen akademik inceleme.",
-      "url": "https://academic.oup.com/jxb/article/60/13/3611/529174"
+      "title": "[PDF] Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin temel ilkelerini, kodlama güvenirliğini ve bulguların nasıl yorumlanacağını açıklar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
     },
     {
-      "title": "Self, Psyche and Symbolism in the Roman de la Rose - PsyArt Journal",
-      "relevance": "Roman de la Rose eserindeki gül imgesinin edebî ve psikodinamik yorumlarını, kadın figürü ve anima çağrışımlarını tartışan makale.",
-      "url": "https://psyartjournal.com/article/show/todey-self_psyche_and_symbolism_in_the_roman_d"
+      "title": "Dream emotions: a comparison of home dream reports with ...",
+      "relevance": "Ev ve laboratuvar koşullarında toplanan rüya raporlarının duygusal yoğunluk ve duygulanım bakımından nasıl farklılaştığını inceler.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jsr.12555"
+    },
+    {
+      "title": "analyzing content and affect regulation in dream reports",
+      "relevance": "Rüya raporlarında duygusal tonun derecelendirilmesi ve içerik ile duygunun birlikte kodlanması için örnek metodoloji sunar.",
+      "url": "https://link.springer.com/article/10.1007/s11818-023-00417-4?error=cookies_not_supported&code=33f1b051-fe64-43cd-a0b1-c7257bd47ca6"
+    },
+    {
+      "title": "[PDF] The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramının temel metni; rüyaların arzu doyumu olarak ele alınması ve sembolik içeriklerin nasıl işlediği için ana çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "[PDF] Sigmund Freud: The Interpretation of Dreams - ICA Miami",
+      "relevance": "Freud’un rüyayı bastırılmış isteklerin dönüştürülmüş ifadesi olarak anlattığı metnin bir diğer erişilebilir kopyası; genel psikanalitik çerçeveyi doğrular.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
     },
     {
       "title": "The rose is a symbol of the beloved. - Carl Jung Depth Psychology",
-      "relevance": "Jungcu perspektifte gülün 'sevgili' sembolü ve ruhsal bütünleşme bağlamındaki kısa açıklamaları içeren kaynak.",
+      "relevance": "Gülün Jung’a atfedilen biçimde sevilen kişiyle ve ilişkisel anlamla bağlantılandırıldığı bir pasajı içerir.",
       "url": "https://carljungdepthpsychologysite.blog/2022/01/01/is-a-symbol/"
     },
     {
-      "title": "The Image of the Red Rose – Sandplay Therapists of America",
-      "relevance": "Sandplay/Jungcu çerçevede kırmızı gülün kadınsılık, sevgi ve ruhsal merkez temalarıyla ilişkisini vaka örnekleriyle ele alan yazı.",
-      "url": "https://www.sandplay.org/jst-article/the-image-of-the-red-rose/"
+      "title": "Imaging Dreams in the Middle Ages - ERA",
+      "relevance": "Antik ve ortaçağ rüya kitapları geleneğinin sürekliliği ile modern rüya sözlükleri arasındaki tarihsel ilişki.",
+      "url": "https://era.ed.ac.uk/bitstream/handle/1842/22938/Owen2016%20vol.1.pdf?sequence=3&isAllowed=y"
     },
     {
-      "title": "The physiological and psychological relaxing effects of viewing rose ...",
-      "relevance": "Gül görüntüsünü izlemenin parasempatik etkinlik ve fizyolojik/psikolojik rahatlama üzerindeki deneysel etkilerini rapor eden çalışma.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3974224/"
+      "title": "Artemidorus on Dreams - translation - Attalus.org",
+      "relevance": "Antik dönemde günümüze ulaşan en kapsamlı rüya yorumu el kitabının çevirisi ve genel çerçevesi.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "Roses Islamic Interpretations & Meanings",
-      "relevance": "Çevrimiçi İslami rüya tabiri derlemelerinde gülün kısa süreli sevinç, onur, güzel haber ve renk ayrımlarına göre yorumlandığını aktaran derleme metin.",
-      "url": "https://www.myislamicdream.com/roses.html"
+      "title": "An Ancient Dream Manual: Artemidorus' the Interpretation of Dreams",
+      "relevance": "Oneirocritica’nın antik dünyadan günümüze ulaşan tek rüya kitabı olduğuna dair bibliyografik kayıt.",
+      "url": "https://books.google.com/books/about/An_Ancient_Dream_Manual.html?id=QZjFDwAAQBAJ"
     },
     {
-      "title": "What Does A Rose Symbolize In The Bible? — Catholics & Bible",
-      "relevance": "Hristiyan sembolizminde gülün Meryem, saflık ve kutsallık çağrışımlarıyla ele alındığını açıklayan popüler/dinsel kaynak.",
-      "url": "https://catholicsbible.com/what-does-a-rose-symbolize-in-the-bible/"
+      "title": "İmam Nablusi Rüya Tabirleri G Harfi - Muhammed.net",
+      "relevance": "Gül sembolünü İmam Nablusî’ye atfedilen rüya tabirleri içinde özetleyen çevrim içi bir derleme; gülün kişi, çocuk, kadın, misafir ve mektup gibi anlamlarla ilişkilendirildiğini aktarıyor.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-g-harfi.html"
     },
     {
-      "title": "Rose | The Zohar",
-      "relevance": "Zohar metinlerinde geçen 'dikenler arasındaki gül' imgesi ve bunun mistik yorumlarına ilişkin metin/özet.",
-      "url": "https://www.kabbalah.info/eng/layout/set/trans_page/content/view/full/2858"
+      "title": "İslami rüya tabirleri -G- harfi",
+      "relevance": "Gülün renk ve durumuna göre değişen rüya yorumlarını aktaran çevrim içi bir derleme; sarı, kırmızı ve genel gül sembolizmi için farklı çağrışımlar veriyor.",
+      "url": "https://www.ihvanlar.net/islami-ruya-tabirleri-g-harfi/"
+    },
+    {
+      "title": "Topical Bible: Rose",
+      "relevance": "Gülün Hristiyan gelenekte güzellik, saflık, Kilise ve Meryem imgesiyle ilişkilendirilmesini özetler.",
+      "url": "https://biblehub.com/topical/r/rose.htm"
+    },
+    {
+      "title": "Topical Bible: Flowers: The Rose",
+      "relevance": "Gülün Hristiyan sembolizminde Meryem, cennet ve yaratılışın güzelliğiyle bağlantısını verir.",
+      "url": "https://biblehub.com/topical/ttt/f/flowers--the_rose.htm"
+    },
+    {
+      "title": "Topical Bible: Rose: General Scriptures Concerning",
+      "relevance": "Gülün sevgi ve güzellik temalarıyla, dikenlerinin ise sınav ve acı temalarıyla ilişkilendirildiğini derler.",
+      "url": "https://biblehub.com/topical/naves/r/rose--general_scriptures_concerning.htm"
+    },
+    {
+      "title": "The Rose Among the Thorns - Introduction - Part 1",
+      "relevance": "Zohar’daki 'gül' imgesinin Knesset Yisrael, Shekhinah, merhamet ve yargı ile bağlantısını açıklar.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/379477/jewish/The-Rose-Among-the-Thorns.htm"
     },
     {
       "title": "ROSE - JewishEncyclopedia.com",
-      "relevance": "Yahudi kaynaklarında gülün cennet ve rabbanî sembolizmle ilişkisini özetleyen ansiklopedik giriş.",
+      "relevance": "Gülün Yahudi sembolizminde cennet ve semavî güzellik imgeleriyle ilişkisini aktarır.",
       "url": "https://www.jewishencyclopedia.com/articles/12828-rose"
     },
     {
-      "title": "The Rose as a Jewish Symbol",
-      "relevance": "Yahudi mistik söylemde gülün Şavuot ve vahiy temalarıyla ilişkisini tartışan inceleme yazısı.",
-      "url": "https://sewjewish.com/2019/02/14/the-rose-as-a-jewish-symbol/"
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyalar üzerine rabbanî tartışmanın çerçevesini gösterir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "A Stroll in the Garden: A Brief History of the Rose without Thorns",
+      "relevance": "Yahudi post-biblikal kaynaklarda gülün İsrail’i simgeleyen bir motif olarak nasıl okunduğunu özetler.",
+      "url": "https://arts.duke.edu/stroll-in-the-garden/"
+    },
+    {
+      "title": "Roses / rose blossoms, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Rüya sözlüğü biçiminde gül sembolüne dair ezoterik yorumlar; gülün rüyada sevgi, hayranlık, gizli bilgelik ve merkezlilik gibi anlamlarla ilişkilendirilmesini tartışır.",
+      "url": "http://www.dreamtation.com/docs/6002.htm"
     },
     {
       "title": "Rosa Mystica - Anima Mundi school",
-      "relevance": "Gülün Doğu mistik gelenekleriyle, özellikle kalpte açılan ilahi hakikat imgesi üzerinden ilişkilendirilmesini anlatan metin.",
+      "relevance": "Gülün gnostik ve simyasal gelenekte Sophia, ilahi bilgelik ve kutsal dişil ile ilişkilendirilmesine dair sembolik çerçeve sunar.",
       "url": "https://www.animamundischool.org/voices-of-the-well-blog/symbol-of-the-rose-by-anne-baring"
     },
     {
-      "title": "The Rose in Spiritual Traditions – A Path to Enlightenment",
-      "relevance": "Gülün Budist ve genel spiritüel bağlamlarda aydınlanma yolu, geçicilik ve solma temalarıyla ilişkilendirildiğini ele alan popüler inceleme.",
-      "url": "https://calloftheheart.org/2026/04/07/the-rose-in-spiritual-traditions-a-path-to-enlightenment/"
+      "title": "International Alchemy Guild",
+      "relevance": "Simyasal bağlamda gülün temel sembollerinden biri olduğunu, özellikle kırmızı gülün dönüşüm ve birleşme süreçleriyle ilişkilendirildiğini aktarır.",
+      "url": "https://alchemyguild.wildapricot.org/page-311919"
     },
     {
-      "title": "Rose: Significance and symbolism",
-      "relevance": "Gülün Hindu bağlamda Lakshmi, saflık, adanmışlık ve dönüşüm temalarıyla ilişkisini özetleyen derleme.",
-      "url": "https://www.wisdomlib.org/concept/rose"
+      "title": "The Symbolism of the Rose in Alchemy",
+      "relevance": "Simyada gül sembolünün kırmızı gül ile dönüşüm, ruhsal aşk ve karşıtların birleşmesi gibi temaları nasıl taşıdığını özetler.",
+      "url": "https://www.alchemywebsite.com/rosesymb.html"
+    },
+    {
+      "title": "Мистика на розата",
+      "relevance": "Gülün ezoterik geleneklerde açılım, dönüşüm ve içsel benliğin gelişimiyle ilişkilendirilmesini ele alır.",
+      "url": "https://universemind.info/en/mistika-na-rozata/"
     }
   ],
   "relatedSlugs": []

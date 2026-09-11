@@ -1,143 +1,222 @@
 {
   "slug": "altin",
   "title": "altın",
-  "shortDescription": "Rüyada altın görmek, maddi kazançtan çok özdeğer, içsel kıymet, statü ve ruhsal dönüşüm temalarıyla ilişkilendirilebilir. Gizli bir hazine fark edilmemiş potansiyeli; külçe ağır bir yük veya sorumluluğu; takı ise bağlama göre statü, ziynet ya da sevinci öne çıkarabilir.",
+  "shortDescription": "Rüyada altın görmek, değer, biriktirme, saflık, içsel dönüşüm ve statü gibi zengin çağrışım katmanları barındıran, ancak tek bir sabit sözlük anlamına indirgenemeyen bağlamsal bir semboldür.",
   "positiveAssociations": [
-    "İçsel kıymet ve özdeğer",
-    "Ruhsal bütünlük ve dönüşüm",
-    "İlahi yücelik ve saflık",
-    "Kalıcı değer ve statü"
+    "İçsel saflık ve bozulmazlık",
+    "Kişisel değer ve özsaygı",
+    "Ruhsal dönüşüm ve tamamlanma",
+    "Miras, rızık ve ferahlık",
+    "Kutsallık ve göksel görkem"
   ],
   "challengingAssociations": [
-    "Aşırı hırs ve tehlike",
-    "Maddi kayıp veya iş kaybı",
-    "Keder, sıkıntı veya ağır yük",
-    "Geçici şeylerin yanıltıcı cazibesi"
+    "Para, borç ve mali yükler",
+    "Gam, keder ve elden çıkacak mal",
+    "Aşırı sahiplenme ve tutma eğilimi",
+    "Bedensel ve anal döneme ilişkin sembolik bağlantılar",
+    "Dünyevi zenginlik arzusu ve hırs"
   ],
   "contextDependentAssociations": [
-    "Erkeklerin ve kadınların rüyalarında altın görülmesine ilişkin geleneksel yorumlar arasındaki farklar",
-    "Altının külçe, kırık parça veya takı formunda olması",
-    "Maddi bir kazanç olarak algılanması ile ruhsal bir arınma süreci olarak değerlendirilmesi"
+    "Altının takı, külçe, sikke veya eritilmiş halde olması",
+    "Rüya sahibinin toplumsal konumu ve cinsiyeti",
+    "Altının veriliş, alınış veya kaybediliş biçimi",
+    "Rüyanın uyandırdığı duygusal ton ve eşlik eden detaylar"
   ],
   "commonVariations": [
     {
-      "title": "Rüyada Altın Külçesi Görmek",
-      "description": "Büyük bir sorumluluk, beklenmedik mali kayıp ihtimali veya iş hayatındaki risklerle ilişkilendirilen bir imgedir."
+      "title": "Erimiş Altın Görmek",
+      "description": "Altının sıvılaşması veya erimesi, katılaşmış kalıpların, biriktirilen maddi veya zihinsel değerlerin çözülmesine ve derin bir dönüşüm sürecine işaret edebilir."
     },
     {
-      "title": "Üzerinde Altın Takılar Taşımak",
-      "description": "Geleneksel bağlamlarda cinsiyete göre değişen yükler, ziynet eşyaları veya kişisel statü vurgularını yansıtır."
+      "title": "Altın Bilezik Takmak",
+      "description": "Geleneksel aktarımlarda ve kültürel bağlamda miras, sorumluluk, toplumsal roller veya bazen kısıtlanma hissiyle ilişkilendirilen bir nesne olarak görünür."
     },
     {
-      "title": "Kırık Altın Parçaları Bulmak",
-      "description": "Otorite figürleriyle yaşanabilecek karşılaşmaları veya dağıldığı izlenimi veren değerlerin yeniden değerlendirilmesini simgeler."
+      "title": "Altın Külçe Veya Sikke Bulmak",
+      "description": "Kişinin hayatında uzun süredir taşıdığı potansiyelin, gizli değerlerin veya birikimlerin somutlaşması; aynı zamanda maddi kaygılarla kurulan ilişkinin bir yansımasıdır."
     },
     {
-      "title": "Gizli Bir Hazine veya Altın Keşfetmek",
-      "description": "Kişinin kendi iç dünyasında henüz fark ettiği gizli bir potansiyeli, yeteneği veya bastırılmış bir özdeğer duygusunu açığa çıkarmasını ifade eder."
+      "title": "Altın Bozdurmak",
+      "description": "Sahip olunan bir değerin elden çıkarılması, birikimlerin harcanması veya yaşanan bir sıkıntıyı aşmak için fedakarlık yapılması temalarını barındırır."
     }
   ],
-  "psychology": "Freudcu ve psikodinamik çerçevede altın ve para imgeleri biriktirme, dürtüsel gerilim, verme-alma dinamikleri, kontrol ve özdeğerle bağlantılı çağrışımlar barındırır. Bu bağlamda değerli nesneler yalnızca ekonomik bir boyuta indirgenmez; bireyin psikolojik yatırımları ve psişik enerjisi üzerinden de okunur.",
-  "jungian": "Jungcu okumada altın, Benlik ve ruhsal bütünlüğün simgesi olarak ele alınır. Dışsal bir servetten ziyade ruhsal tamamlanmayı, içsel kıymeti ve psişik enerjinin dönüşüm süreçlerini işaret eder. Rüyada bulunan altın, kişinin kendi içindeki değerli ve arınmış bir yönü keşfetmesiyle bağdaştırılır.",
-  "islamicTradition": "İslami rüya tabirlerinde altın bağlama göre farklılık gösterir. Erkek için takı şeklinde görüldüğünde keder, sıkıntı veya yük anlamına gelebilir; bazı biçimleri ise kadınlar için sevinç, evlilik veya ziynetle ilişkilendirilebilir. Altın külçesi edinmek ise mali kayıp, iş kaybı veya beklenmedik sorumlulukların habercisi olarak yorumlanabilir.",
-  "christianTraditions": "Hristiyan sembolizminde altın, Tanrı'nın yüceliği, saflık ve kutsal değer ile doğrudan ilişkilendirilen güçlü bir manevi imgedir.",
-  "jewishTraditions": "Yahudi kutsal metinlerinde altın, ibadet edilen mekânlar, kutsal eşyalar ve Tanrı'ya adanmışlıkla kurulan bağlar üzerinden bir kutsallık sembolü olarak yer alır.",
-  "buddhistEasternApproaches": "Budist bağlamda altın, maddi dünyadaki kalıcı görünen şeylerin geçiciliğini hatırlatırken, hakiki içsel anlayışın kıymetini vurgular. Aynı zamanda duyusal hazlar ve kazanç arzusuyla ilişkilendirilirken, diğer yandan lotus çiçeğinin katmanlarıyla bağdaştırılarak ruhsal evrim ve saflaşma süreciyle de yan yana getirilir.",
-  "spiritualApproaches": "",
+  "psychology": "Rüya içerik analizi çalışmalarında altın gibi sembollerin sabit sözlük anlamlarına indirgenemeyeceği; bunların semantik ve tematik bağlam içinde ele alınması gerektiği vurgulanmaktadır.",
+  "jungian": "",
+  "islamicTradition": "İslami rüya tabiri geleneklerinde altın çift yönlü bir sembolizme sahiptir; bazı aktarımlarda gam, keder, borç ve dünya zineti olarak ele alınırken, bazı aktarımlarda ise miras, ferahlık, rızık, ilim, hidayet ve şeref ile ilişkilendirilir. Altının türü (bilezik, külçe, sikke vb.) ve rüyadaki kullanım biçimi yorumu doğrudan değiştirir.",
+  "christianTraditions": "Hristiyan sembolizminde altın; değer, saflık, bozulmazlık, ihtişam ve Tanrı’nın görkemiyle bağdaştırılır. Kutsal metinlerde hem tapınak ve göksel krallık gibi kutsal alanları hem de dünyevi zenginliği simgeleyebildiği için rüya bağlamında ikili bir anlam taşıyabilir.",
+  "jewishTraditions": "Yahudi düşüncesinde altın, Tapınak kültürü, kutsallık, ihtişam ve maddî dünyayı aşarak ruhsal yükselişe geçme temalarıyla ilişkilendirilir. Talmudik gelenekte metallerin genel olarak olumlu karşılanması ilkesi, altının değer ve kutsal amaç çağrışımlarını destekler.",
+  "buddhistEasternApproaches": "Budist gelenek ve metinlerde altın, bağlılıklardan ve geçici maddi değerlerden bağımsız olarak saflığı, değişmez özü ve uyanış zihninin kıymetini simgeler.",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda altın, mükemmellik, bozulmazlık, içsel tamamlanma ve arınmış bilincin simgesidir. Güneş ve ışıkla kurduğu bağ üzerinden, kişinin içsel potansiyelinin ve aydınlanmasının görünür hâle gelişini temsil eder.",
   "comparisonTable": [
     {
+      "approach": "Ampirik Araştırma",
+      "interpretation": "Sembollerin tek bir sabit anlamı yoktur; rüya raporları ve metin içerikleri bağlama ve tematik düzeye göre incelenmelidir.",
+      "evidenceLevel": "research"
+    },
+    {
       "approach": "Psikanalitik Çerçeve",
-      "interpretation": "Altın imgelerini özdeğer, dürtüsel kontrol, biriktirme ve bırakma temaları üzerinden ele alır.",
+      "interpretation": "Psikanalitik çerçeveye göre altın, para, değer, sahiplenme, kaybetme ve anal döneme ilişkin tutma-bırakma dinamiklerinin yoğunlaştığı bir simgedir.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Analitik Psikoloji",
-      "interpretation": "Altını bütünleşme, Benlik, içsel kıymet ve psişik dönüşümün simgesi olarak değerlendirir.",
-      "evidenceLevel": "theoretical"
-    },
-    {
-      "approach": "İslami Rüya Geleneği",
-      "interpretation": "Rüya sahibinin cinsiyetine, altının formuna (takı, külçe, kırık parça) göre keder, sorumluluk, ziynet veya kayıp gibi ikili anlamlar yükler.",
+      "approach": "İslami Gelenek",
+      "interpretation": "Bağlama göre hem borç, gam ve elden çıkacak mal hem de miras, rızık, ferahlık ve şeref olarak çift yönlü yorumlanır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan ve Yahudi Sembolizmi",
-      "interpretation": "Altını ilahi yücelik, kutsal tapınak bağları, saflık ve adanmışlık ekseninde yorumlar.",
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Tanrısal görkemi, kutsallığı ve göksel değerleri temsil edebileceği gibi dünyevi servet arzularını da işaret edebilir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist ve Doğu Yaklaşımı",
-      "interpretation": "Altını hem geçicilik/maddi arzu uyarıcısı hem de ruhsal saflaşma ve evrimin bir göstergesi olarak ele alır.",
+      "approach": "Yahudi Sembolizmi",
+      "interpretation": "Tapınak, kutsallık ve maddî dünyayı aşarak ruhsal yükselişe geçme bağlamında olumlu bir metal kategorisinde ele alınır.",
       "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Maddi bağlılıktan bağımsız olarak, uyanış zihninin saflığını ve değişmez özünü simgeleyen bir niteliktir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Simyasal ve Ezoterik Okuma",
+      "interpretation": "Büyük Eser'in nihai hedefi olan mükemmelliği, arınmayı, içsel tamamlanmayı ve ruhsal dönüşümü temsil eder.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplinler ve gelenekler, altının sıradan bir nesne olmadığını; insan zihninde veya kültüründe derin bir önem, statü ve saflık katmanı taşıdığı noktasında birleşir.",
-  "differences": "Psikolojik yaklaşımlar altını içsel bir değer ve psişik enerji dönüşümü olarak konumlandırırken, dini gelenekler onu bağlama göre ilahi bir kutsallık, uyarı, sorumluluk ya da geçiciliği hatırlatan bir unsur olarak ele alır.",
-  "inusAssessment": "Altın sembolü, rüyalarda ele alındığında tek boyutlu bir zenginlik müjdesi ya da kesin bir kayıp kehaneti olarak indirgenemez. INUS yaklaşımı gereği, altının rüyadaki formuna (külçe, takı, parça) ve rüya sahibinin öznel bağlamına bakılarak hem psişik bir değer arayışı (Jungcu/psikanalitik katman) hem de geleneksel uyarı ve sorumluluk halleri (İslami ve kültürel katman) bir arada ve temkinli bir dille değerlendirilmelidir.",
+  "commonGround": "Farklı gelenekler ve psikolojik yaklaşımlar altını sıradan bir nesne olarak görmez; altının temelde değer, saflık ve dönüşüm kavramlarıyla derin bağlar kurduğunu kabul eder.",
+  "differences": "Psikanaliz altını içsel dürtüler ve biriktirme psikolojisiyle ele alırken, dini ve ezoterik gelenekler onu kutsallık, ilahi ihtişam, borç/rızık ikilemi veya ruhsal saflık ekseninde değerlendirir.",
+  "inusAssessment": "Altın rüyası, rüya sahibinin hayatındaki değer, kontrol, mülkiyet ve değişim temalarıyla doğrudan ilişkilidir. Altının parıldayan bir hazine, eritilmiş bir maden veya takı olarak hangi bağlamda belirdiği, rüya sahibinin içsel zenginlik arayışını mı yoksa maddi kayıp, borç ve yük gibi zorlayıcı hislerini mi yansıttığını belirleyen en kritik unsurdur.",
   "faq": [
     {
-      "question": "Rüyada altın görmek kesinlikle zenginlik anlamına mı gelir?",
-      "answer": "Hayır. Psikolojik ve geleneksel analizlerde altın, maddiyattan ziyade kişinin özdeğeri, sorumlulukları, içsel dönüşümü veya taşıdığı manevi yükler gibi farklı eksenler üzerinden yorumlanır."
+      "question": "Rüyada altın görmek her zaman zenginlik anlamına mı gelir?",
+      "answer": "Hayır. Farklı geleneklerde ve psikolojik yaklaşımlarda altın; parasal kaygılar, borç, sorumluluklar, ruhsal dönüşüm veya kişisel değer gibi çok farklı temalarla ilişkilendirilebilir."
     },
     {
-      "question": "Jungcu psikolojide altın rüyaları neyi ifade eder?",
-      "answer": "Jungcu perspektifte altın, dış dünyadaki servetten ziyade bireyin ruhsal bütünlüğünü, Self'i ve içsel olarak keşfettiği kıymetli yönlerini simgeler."
-    },
-    {
-      "question": "İslami rüya tabirlerinde altın görmek hep hayırlı mıdır?",
-      "answer": "Geleneksel İslami yorumlarda altın, bağlama ve rüya sahibinin durumuna göre değişiklik gösterir. Kimi zaman sevinç ve ziynet olarak yorumlanırken, kimi zaman keder, sıkıntı, yük veya mali sorumluluk olarak da ele alınabilmektedir."
+      "question": "Altının bozdurulması veya eritilmesi rüyada neyi ifade eder?",
+      "answer": "Bu tür eylemler, sahip olunan bir değerin dönüştürülmesi, birikimlerin elden çıkarılması veya katılaşmış kalıpların çözülerek yeni bir aşamaya geçilmesi süreçlerini yansıtabilir."
     }
   ],
   "sources": [
     {
-      "title": "The Symbolic Power of Gold",
-      "relevance": "Altının tarihsel ve kültürel anlam katmanlarını, özellikle malzeme değeri ile simgesel güç arasındaki ilişkiyi tartışır.",
-      "url": "https://muse.jhu.edu/article/190597/pdf"
+      "title": "A Novel Approach to Dream Content Analysis Reveals Links ...",
+      "relevance": "Rüya içeriklerinin semantik benzerlik ve içerik karşılaştırmasıyla çözümlenebildiğini gösteren yöntemsel çalışma; sembollerin bağlam içinde incelenmesi gerektiğine dair çerçeve sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6088287/"
     },
     {
-      "title": "Dreaming About Gold: Meaning, Symbols & Cultures",
-      "relevance": "Altının kültürler arası anlamlarını ve Jungcu yorumla ilişkilendirilen sembolik okumaları bir araya getirir.",
-      "url": "https://dsfantiquejewelry.com/blogs/interesting-facts/dreaming-about-gold-meanings-interpretations-across-cultures"
+      "title": "Dream content analysis using Artificial Intelli- gence",
+      "relevance": "On binlerce rüya raporunu tema düzeyinde inceleyen çalışma; rüya içeriğinin tematik çeşitliliğini ve sınıflandırma yaklaşımını gösterir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/48744/54228"
     },
     {
-      "title": "Money in a Dream: Freud, Jung, Myth and Modern Meaning",
-      "relevance": "Altın ve para imgelerinin Freudcu ve Jungcu yorumlarda nasıl değer, kontrol ve içsel kıymet temalarına bağlandığını anlatır.",
-      "url": "https://rosmertapublishing.com/dream-symbols/money/"
+      "title": "Freud (1900) Chapter 6, part a",
+      "relevance": "Rüyalarda çağrışım yoluyla altın imgesinin para ve mali kaygılarla bağlanabildiğini gösteren örnek bölüm.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm"
     },
     {
-      "title": "Libido | Again libido, coined energy, a form of energy.",
-      "relevance": "Jung’un libido kavrayışını özetler; psişik enerjinin simgesel imgelerle ilişkisini ele alır.",
-      "url": "https://carljungdepthpsychologysite.blog/2021/11/02/again-libido/"
+      "title": "DREAMS IN FOLKLORE (FREUD AND OPPENHEIM)",
+      "relevance": "Altın ve hazine imgesinin rüya bağlamında dışkı sembolizmiyle ilişkilendirildiği psikanalitik folklor materyali.",
+      "url": "https://www.lutecium.org/ftp/Freud/pdf/1911_dreams_in_folklore.pdf"
     },
     {
-      "title": "Cultural Significance of Gold Across Societies and Its ...",
-      "relevance": "Altının toplumlar arası kültürel değer, kutsallık ve statüyle ilişkisini özetler.",
-      "url": "https://ijarsct.co.in/Paper30752.pdf"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya örneğinde 'golden eye' (altın göz) çağrışım zincirinin 'gold-money' (altın-para) eksenine bağlanması.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "Gold in a dream | The Islamic Dream Book",
-      "relevance": "Altın için İslami rüya yorumunda bağlama göre değişen anlamlar ve erkek/kadın ayrımıyla ilgili rüya maddeleri içerir.",
-      "url": "https://theislamicdreambook.com/gold-in-a-dream/"
+      "title": "Ernest Jones -The Theory of Symbolism.pdf",
+      "relevance": "Altın ve para simgesinin psikanalitik sembolizm içinde dışkı, sahip olma ve çocukluk kökenli birikim temalarıyla ilişkilendirilmesi.",
+      "url": "https://www.scribd.com/document/352189565/Ernest-Jones-The-Theory-of-Symbolism-pdf"
     },
     {
-      "title": "Biblical Meaning of Gold – Symbol of Glory & Divine ...",
-      "relevance": "Altının Hristiyan sembolizminde ilahi yücelik, saflık ve kutsal değerle ilişkilendirildiğini özetler.",
-      "url": "https://gracefiber.com/blogs/bible/biblical-meaning-of-gold"
+      "title": "Page:Freud - The interpretation of dreams.djvu/296 - Wikisource, the free online library",
+      "relevance": "Altın ile dışkı sembolizmi arasındaki klasik psikanalitik bağlantıyı aktaran metin parçası.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/296"
     },
     {
-      "title": "GOLD",
-      "relevance": "Altının Yahudi kutsal metinlerinde tapınak, kutsal eşya ve adanmışlıkla ilişkili kullanımını gösterir.",
-      "url": "https://wol.jw.org/en/wol/d/r1/lp-e/1200001737"
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus'un eserinin bir rüya yorum kılavuzu olduğunu ve antik oneirokritik bağlamı açıklar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus'un rüya yorum yaklaşımı hakkında genel bağlam sağlar; altın sembolünün bağlama göre değerlendirilmesi gerektiğini destekleyen modern aktarım sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Altın Rüyada Görmek İmam Nablusi",
+      "relevance": "Altın için olumlu ve olumsuz anlamların birlikte aktarıldığı, altın türlerine göre ayrım yapan bir İslami rüya tabiri sayfası.",
+      "url": "https://www.islamda.org/2015/05/altin-ruyada-gormek-imam-nablusi.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri A Harfi - Muhammed.net",
+      "relevance": "Altın için dünya zineti, borç, gam ve keder; altın bilezik için miras; altın külçe için elden çıkacak mal şeklinde özetlenen bir aktarım sunar.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-a-harfi.html"
+    },
+    {
+      "title": "Bible Encyclopedia on Gold | SermonIndex",
+      "relevance": "Altının Kutsal Kitap’taki değer, bozulmazlık, güç ve dünyevi zenginlik çağrışımlarını özetler.",
+      "url": "https://www.sermonindex.net/encyclopedia/g/gold/"
+    },
+    {
+      "title": "Gold - Topical Bible",
+      "relevance": "Altının Kutsal Kitap’ta ilahi görkem, saflık, krallık ve göksel tasvirlerle ilişkisini topluca sunar.",
+      "url": "https://biblehub.com/topical/g/gold.htm"
+    },
+    {
+      "title": "The Bible's Gold Hard Facts | Tomorrow's World Commentary",
+      "relevance": "Altının tapınak ve göksel krallık bağlamında Tanrı'nın varlığı ve kutsallıkla ilişkilendirilmesini açıklar.",
+      "url": "https://www.tomorrowsworld.org/commentary/the-bibles-gold-hard-facts"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Rüyada metallerin genel olarak olumlu sayıldığına dair Talmudik ilkeyi verir; altın için doğrudan rüya bağlamı kurmada temel çerçeve sağlar.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Revelation or Interpretation? - Jewish Theological Seminary",
+      "relevance": "Talmud’un rüyalar bölümünü insan deneyimi ve rüya içeriği ilişkisi üzerinden açıklar; altın sembolünü bu çerçevede okumaya yarar.",
+      "url": "https://www.jtsa.edu/torah/revelation-or-interpretation/"
+    },
+    {
+      "title": "The Mission of Gold - Our homes can suffice with silver and copper.",
+      "relevance": "Altının Yahudi düşüncesinde kutsallık ve Tapınak bağlamındaki sembolik yerini ele alır.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/1772136/jewish/The-Mission-of-Gold.htm"
+    },
+    {
+      "title": "Snake-Metal - The element of silver draws holiness into the realm of ...",
+      "relevance": "Altını ruhsal yükseliş ve maddî dünyayı aşma temalarıyla ilişkilendirir.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/622664/jewish/Snake-Metal.htm"
     },
     {
       "title": "Gold: Significance and symbolism",
-      "relevance": "Budist gelenekte altının anlamını, geçicilik, maddi arzu ve hakiki kavrayışın kıymeti üzerinden açıklar.",
+      "relevance": "Budist gelenekte altın, saflık, değer ve maddi bağlılıklardan ayrılan anlam katmanlarını içeren genel bir sembolik çerçeve içinde ele alınır.",
       "url": "https://www.wisdomlib.org/concept/gold"
     },
     {
-      "title": "Gold, silver, copper: Significance and symbolism",
-      "relevance": "Altını lotus çiçeğinin katmanları ve ruhsal gelişimle ilişkilendirir; Budist sembolizm içinde saflaşma ve evrim temasına değinir.",
-      "url": "https://www.wisdomlib.org/concept/gold-silver-copper"
+      "title": "༄༅། །གར་ི་མ།",
+      "relevance": "Altının Budist metinde uyanış zihninin saflığı ve değişmez doğası için benzetme olarak kullanılması.",
+      "url": "https://www.dharma-friends.org.il/wp-content/uploads/2024/05/toh125_84000-the-gold-sutra.pdf"
+    },
+    {
+      "title": "The Seven Precious Materials of the Lotus Sutra",
+      "relevance": "Lotus Sutra geleneğinde altının yedi değerli unsurdan biri olarak uyanışın nitelikleriyle ilişkilendirilmesi.",
+      "url": "https://tiantaicalendar.org/the-seven-precious-materials-of-the-lotus-sutra/"
+    },
+    {
+      "title": "Gold - Alchemy",
+      "relevance": "Altının simyadaki temel anlamını, yedi metallerden biri olarak mükemmellik, bozulmazlık ve zihinsel/ruhsal tamamlanma ile ilişkilendirir.",
+      "url": "https://periodic-table.rsc.org/alchemy/79/gold"
+    },
+    {
+      "title": "Gold and the Mysteries of Alchemy - MFEA",
+      "relevance": "Altını simyasal pratikte mükemmellik, sonsuzluk ve ruhsal aydınlanma ile ilişkilendirir.",
+      "url": "https://www.mfea.com/gold-and-the-mysteries-of-alchemy/"
+    },
+    {
+      "title": "Gold - Occult World",
+      "relevance": "Altını geleneksel okült çerçevede güneş, ışık, saflık ve ruhsal aydınlanma ile bağlantılı bir sembol olarak sunar; ezoterik sembol okuması için uygundur.",
+      "url": "https://occult-world.com/gold/"
     }
   ],
   "relatedSlugs": []

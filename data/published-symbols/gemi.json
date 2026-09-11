@@ -1,114 +1,208 @@
 {
   "slug": "gemi",
   "title": "gemi",
-  "shortDescription": "Rüyada gemi görmek, zorlu veya belirsiz bir dönemden güvenle çıkma ve ferahlığa ulaşma arayışını simgeleyebilir. Sakin denizdeki gemi güvenle ilerlemeyi, fırtınadaki gemi kriz ve dikkat gerektiren kararları, hasarlı gemi ise kayıp, korku veya hayal kırıklığını çağrıştırabilir.",
+  "shortDescription": "Rüyada gemi görmek, hayatınızdaki bir geçişi, ilerleme sürecini ve bu yolculuk üzerindeki kontrolünüzü simgeleyebilir. Sağlam bir gemi ve sakin deniz güvenli ilerlemeyi; fırtına, hasar veya batma ise kontrol kaybı, kriz ya da önemli bir kopuşu öne çıkarabilir.",
   "positiveAssociations": [
-    "Tehlikelerden ve krizlerden kurtuluş",
-    "Güvenli bir sürece veya karaya varış",
-    "İçsel selamet ve ferahlama",
-    "Büyük bir sorumluluğu veya kararı ihtiyatla yönetme"
+    "Güvenli bir güverte ve sağlam gövde: istikrar, kontrol ve planlı ilerleme",
+    "Geminin limana güvenle yanaşması veya demirlemesi: geçici sığınma, sıkıntıdan kurtulma",
+    "Gemiye salih veya güvenilir yolcularla binmek: doğru rehberlik ve topluluk desteği (İslami literatürde görülen bir tema)",
+    "Sakin denizde düzenli seyrin devam etmesi: sorumlulukların taşınması ve yolculuğun sağlıklı işlemesi",
+    "Gemi yükünün hafifliği veya düzenli istifleme: yükümlülüklerin taşınabilir olması, sorumlulukların dengede olması"
   ],
   "challengingAssociations": [
-    "Geminin batması durumunda yaşanabilecek kayıp ve derin korku",
-    "Fırtınalı denizlerde yönünü kaybetme hissi",
-    "Belirsizlikler karşısında çaresizlik"
+    "Gemi hasarı veya gövdede çatlak ya da hasar: beklenmedik kırılganlık, yükümlülüklerin tehlikeye girmesi",
+    "Fırtınada yalpalayan veya su alan gemi: kontrol kaybı, yoğun stres ve yönsüzlük hissi",
+    "Gemi batması veya enkaz: derin kayıplar, vazgeçiş ya da zorunlu dönüşümler (Artemidorus metinlerinde farklı bağlamlarda yorumlanır)",
+    "Kaptanın yokluğu ya da güvensiz mürettebat: liderlik eksikliği, yanlış yönlendirme riski",
+    "Geminin karada veya uygunsuz yerde görülmesi: olağan akışın bozulması, hareketin engellenmesi"
   ],
   "contextDependentAssociations": [
-    "Kurak bir dönemde gelen yağmur ve rahmet metaforu",
-    "Hastalıktan iyileşme ve şifa bulma süreci",
-    "Hayatın farklı evrelerine geçişte bir taşıyıcı veya araç işlevi"
+    "Denizin durumu (sakin/çalkantılı/şiddetli akıntılar) — rüyanın duygusal tonunu belirler",
+    "Geminin fiziksel durumu (sağlam, hasarlı, su alıyor) — risk/istikrar işaretleri",
+    "Kaptanın/mürettebatın kimliği ve yolcular — rehberlik, ilişki ve topluluk bağlamı",
+    "Geminin yükü (ağır/yüklü/boş) ve ambarın durumu — sorumluluklar ve taşınan duygusal yük",
+    "Geminin limana varıp varmadığı ya da karaya çekilip çekilmediği — hedefe ulaşma ya da duraksama göstergesi"
   ],
   "commonVariations": [
     {
-      "title": "Sakin denizde ilerleyen büyük gemi",
-      "description": "Hayatın kontrol altında olduğu, zorlukların geride bırakıldığı ve uzun soluklu bir yolculuğun güvenle sürdürüldüğü bir dönemi yansıtır."
+      "title": "Sağlam Gemi, Sakin Deniz",
+      "description": "Güvertede kontrolün sağlandığı, hasarsız bir gemi; planlı ilerleme, sorumlulukların dengeli taşınması ve genel bir güven hissini simgeler."
     },
     {
-      "title": "Fırtınada dalgalarla boğuşan gemi",
-      "description": "Kişinin hayatında ani krizlerle karşılaştığı, büyük kararlar alırken ihtiyatlı olmak zorunda kaldığı kaygılı bir süreci ifade eder."
+      "title": "Fırtınada Savrulan Gemi",
+      "description": "Gemi sallanıyor, su alıyor veya kaptanın kararlı olmadığı durumlarda acil karar verme gerekliliği, kontrol kaybı ve duygusal çalkantılar ön plana çıkar."
     },
     {
-      "title": "Güvenli bir limana yanaşan gemi",
-      "description": "Uzun süren bir mücadelenin, belirsizliğin veya yorucu bir dönemin ardından nihai bir huzura ve kararlılığa varıldığını gösterir."
+      "title": "Limanda Demirlemiş veya Karaya Çekilmiş Gemi",
+      "description": "Hareketin durduğu, bekleyiş veya koruma arayışının olduğu durum, planların ertelenmesi, iyileşme veya geçici sığınma anlamı taşıyabilir."
     },
     {
-      "title": "Batmakta olan veya hasar görmüş gemi",
-      "description": "Taşınan yüklerin veya girişilen büyük işlerin tehlikeye girmesiyle yaşanan kayıp, korku ve hayal kırıklığı temalarını barındırır."
+      "title": "Gemi Enkazı veya Batma",
+      "description": "Ciddi bir kopuş, kayıp veya zorunlu yeniden yapılanma iması; bağlama göre kurtuluşun zayıflaması, yükten kurtulma ya da derin yas veya yeniden doğuş temalarıyla ilişkilendirilebilir."
     }
   ],
-  "psychology": "",
+  "psychology": "Psikanalitik literatürde, özellikle Freud'un çalışmalarında, rüyalarda su imgeleri doğum fantezileri, rahim içi yaşam ve bedensel süreçlerle ilişkilendirilir. Freud’un kendi rüyasında geçen 'kahvaltı gemisi' (orijinal: 'breakfast-ship') sahnesi, gemi imgesinin savaş, tehdit veya ölüm kaygılarıyla ilişkilendirilebileceğini gösterir. Bu çerçevede gemi hem su ve beden simbiyozu ekseninde hem de tehlike ve kontrol korkularını yansıtan bir öğe olarak okunabilir. Güvenilir bir yorum için rüyanın duygusal tonu, geminin durumu ve deniz koşullarının birlikte değerlendirilmesi önemlidir.",
   "jungian": "",
-  "islamicTradition": "İslami rüya tabiri geleneklerinde gemi, en temel anlamıyla selamet, tehlikeden kurtuluş ve zorlukların aşılmasıyla ilişkilendirilir. Nûh kıssasındaki kurtuluş motifine dayandırılan bu sembol, aynı zamanda hastalıktan şifa bulmayı, keder ve sıkıntıların son bulmasını ve kuraklık sonrası gelen rahmeti simgeler. Sefine olarak da anılan gemi, güvenli geçişin ve ilahi korumanın bir metaforudur.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Erken Budist metinlerde ve Hint geleneksel sembolizminde gemi, sal veya tekne imgesi, 'öte kıyıya geçiş' metaforunun ayrılmaz bir parçasıdır. Burada rüya yorumundan ziyade öğretisel bir geçiş dili söz konusudur; gemi, insanı samsara çemberinden çıkarıp ruhsal özgürlüğe taşıyan bir dharma aracı veya taşıyıcı olarak işlev görür.",
-  "spiritualApproaches": "",
+  "islamicTradition": "İslami rüya tabiri geleneğinde gemi sıklıkla kurtuluş, emniyet ve sıkıntıdan çıkış ekseninde yorumlanır, gemiye binmek bazen salih kimselerle birlikte olma, doğru yolda rehberlik bulma ve manevi korunma ile ilişkilendirilir. Geleneksel bazı kaynaklarda geminin parçaları insan bedeninin öğeleriyle benzetilerek tümsel bir mecaz sunulur (örneğin direkler, kürekler ve güverte benzetmeleri). Bu okumalar bağlama bağlıdır ve geminin durumu ile yolcuların niteliği yorumda belirleyicidir.",
+  "christianTraditions": "Hristiyan sembolizminde gemi, erken dönemden itibaren Kilise’yi ve inananların topluluk halinde fırtınalı denizlerden kurtulup güvenli limana ulaşmasını temsil eden bir figürdür. Bu perspektifte rüyadaki gemi; topluluk, korunma, ilahi rehberlik ve eskatolojik sınav temaları etrafında yorumlanır; yorumlar bağlama ve ayrıntılara göre değişkenlik gösterir.",
+  "jewishTraditions": "Yahudi rüya yorumlama geleneğinde (Talmudik çerçeve dahil) rüyaların yorumu önemlidir ancak gemi için sabit, tek bir rabbanî açıklama mevcut değildir. Berakhot gibi metinler rüyaların yorumlanabilirliğini vurgular; dolayısıyla gemi imgesi genellikle yolculuk, korunma veya sürgün/dönüş temaları bağlamında temkinli ve bağlama dayalı şekilde ele alınır.",
+  "buddhistEasternApproaches": "Nāvā Sutta ve benzeri Budist metinlerde gemi benzetmesi, bağlılıkların gevşetilmesi ve özgürleşmeye giden pratik bağlamında kullanılır. Bu çerçevede gemi, dünyevi bağlılıkların zayıflatılması ve aydınlanmaya doğru yapılan aşamalı bir geçiş metaforu olarak okunabilir.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel yaklaşımlarda gemi, benliğin bilinçdışı denizlerinde ilerleyen bir taşıyıcı, dönüşüm eşiği ve hayat sürecinde amaç/rehberlik aracı olarak ele alınır. Bu okumalar genellikle metaforik düzeyde olup kişisel içsel yolculuk temasına odaklanır.",
   "comparisonTable": [
     {
-      "approach": "İslami gelenek",
-      "interpretation": "Tehlikeden kurtuluş, selamet, şifa, sıkıntıların bitmesi ve Nûh'un gemisi bağlamında güvenli sefer.",
+      "approach": "Psikanaliz (Freudyen)",
+      "interpretation": "Su/beden, doğum fantezileri ve zaman zaman savaş/ölüm kaygısı bağlamında değerlendirir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Kurtuluş, emniyet, sıkıntıdan çıkış ve salihlerle birlikte yol alma temalarını öne çıkarır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist ve Doğu yaklaşımı",
-      "interpretation": "Öte kıyıya geçiş, ruhsal kurtuluş ve samsaradan uzaklaştıran taşıyıcı bir dharma aracı.",
+      "approach": "Hristiyan Teolojik Sembolizm",
+      "interpretation": "Kilise, topluluk, ilahi koruma ve fırtınalı dünyada güvenli limana varış bağlamında görülür.",
       "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Yaşam yolculuğu, bilinçdışı süreçlerde ilerleme ve ruhsal dönüşüm aracı olarak okunur.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı geleneklerin tamamında gemi, sabit kalan bir konumdan ziyade zorlu bir ortamdan geçerek güvenli bir yere ulaşmayı sağlayan hareketli ve taşıyıcı bir köprü rolü üstlenir.",
-  "differences": "İslami gelenekte gemi daha çok somut sıkıntılardan, hastalıklardan ve krizlerden kurtulma yönüyle ele alınırken, Budist ve Doğu yaklaşımında aşkın bir ruhsal geçişin ve öğretisel taşıyıcılığın metaforu olarak konumlanır.",
-  "inusAssessment": "Gemi sembolü, sabit bir anlam taşımaktan ziyade içinde bulunulan denizin durumuna (sakin, fırtınalı) ve rüya görenin o anki kriz ortamına göre şekillenir. Bu nedenle sembolü ele alırken kesin bir gelecek kehanetinde bulunmak yerine, kişinin hayatındaki geçiş aşamalarını ve güvenlik arayışını anlamlandırmak daha tutarlı bir editoryal yaklaşım sunar.",
+  "commonGround": "Çeşitli geleneklerde gemi sembolü ortak olarak 'taşıyıcı' ve 'eşik/geçiş' işlevi taşır; özellikle denizin durumu, geminin fiziksel bütünlüğü, kaptan/mürettebat ve yolcuların niteliği gibi somut ögeler yorumda ortak odak noktalarıdır.",
+  "differences": "Psikanalitik okumalar gemiyi bedensel, içgüdüsel ve kaygısal imgelerle ilişkilendirirken, İslami ve Hristiyan gelenekleri gemiyi daha çok kurtuluş, rehberlik ve topluluk temaları çerçevesinde değerlendirir. Spiritüel yorumlar ise gemiyi içsel dönüşüm aracı olarak metaforikleştirir. Her yaklaşımın öncelikleri farklıdır; bu yüzden bağlamın ayrıntıları önem taşır.",
+  "inusAssessment": "Gemi sembolünün yorumu genellikle geminin sağlamlığı, denizin durumu, gemideki kişilerin kimliği ve geminin hareketi gibi unsurların birlikte değerlendirilmesine dayanır. Örneğin sağlam ve limana yanaşmış bir gemi kurtuluş veya istikrar çağrışımı yaparken, aynı gemi fırtınada su alıyorsa bu çağrışımı zayıflatabilir; anlam, tüm ayrıntıların bir arada ele alınmasıyla ortaya çıkar.",
   "faq": [
     {
-      "question": "Rüyada gemi görmek her zaman tehlikeden kurtulmak anlamına mı gelir?",
-      "answer": "Geleneksel bağlamlarda selamet ve kurtuluş olarak yorumlansa da, geminin fırtınada olması veya batması gibi detaylar zorluklar, korkular ve kayıp ihtimaline de işaret edebilir."
+      "question": "Fırtınada gemi görmek hangi duyguları işaret eder?",
+      "answer": "Fırtınada gemi genellikle yoğun belirsizlik, kontrol kaybı, acil karar verme ihtiyacı ve duygusal sarsıntılarla ilişkilidir. Rüyanın diğer ayrıntıları (kaptanın durumu, geminin su alıp almadığı, yolcuların tepkileri) hangi duyguların öne çıktığını daha iyi gösterebilir."
     },
     {
-      "question": "Budist sembolizminde gemi imgesi rüyalarda nasıl bir yere sahiptir?",
-      "answer": "Budist gelenekte gemi veya sal, doğrudan bir rüya sözlüğü maddesinden ziyade 'öte kıyıya geçiş' ve ruhsal özgürlüğe taşıyan bir araç metaforu olarak değerlendirilir."
+      "question": "Rüyada gemide başka insanlarla birlikte olmak ne anlama gelebilir?",
+      "answer": "Gemideki diğer kişiler genellikle destek, rehberlik veya topluluk ilişkilerini simgeler; salih veya güvenilir görünen yolcular varsa destek ve yön gösterme olasılığı artar; aksine güvensiz mürettebat liderlik veya ilişki sorunlarına işaret edebilir. Kişilerin kimliği ve etkileşim biçimi yorumu zenginleştirir."
     }
   ],
   "sources": [
     {
+      "title": "Ship Dream Meaning: Navigation, Risk, and the Waters of Change",
+      "relevance": "Modern bir çevrimiçi kaynak olarak gemi rüyasını geçiş, sorumluluk, kontrol ve belirsizlik bağlamında ele alır; güncel rüya-sözlüğü dilinin gemi sembolüne nasıl yaklaştığını gösterir.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/ship"
+    },
+    {
+      "title": "CHAPTER 6 (part 4) THE DREAM-WORK",
+      "relevance": "Freud’un kendi rüyasında geçen 'breakfast-ship' örneğini verir; burada gemi imgesi savaş çağrışımları ve ölüm kaygısı ile ilişkili olarak tartışılır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6d.htm"
+    },
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Freud’un rüya sembollerinde su ve gemi imgelerini bedensel işlevler, meni/amniyotik sıvı ve üretkenlikle ilişkilendirdiği pasajları içerir; geminin su/beden ekseninde okunmasına arka plan sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams (Freud)/Chapter 5",
+      "relevance": "Suyla ilgili rüyaların doğum fantezileri ve rahim içi yaşamla bağlantısını tartışır; gemi imgesinin su bağlamında değerlendirilmesi için psikanalitik temel sunar.",
+      "url": "https://en.wikisource.org/wiki/The_Interpretation_of_Dreams_(Freud)/Chapter_5"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual: Artemidorus' The ...",
+      "relevance": "Artemidorus’un gemi, deniz ve sefer bağlamındaki yorumlarını içeren çalışmanın bir değerlendirmesidir; gemi durumuna göre anlamın değiştiğini ve bazen gemi imgelerinin başka unsurlarla eşleştirildiğini gösterir.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation - Attalus.org",
+      "relevance": "Artemidorus çevirisi, rüyada denizde olma ve gemi batması örnekleri üzerinden gemi temalarının bağlama göre yorumlandığını doğrudan gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of the Interpolating ...",
+      "relevance": "Artemidorus metninde geminin başka imgelerle birlikte geçtiği örnekleri tartışan akademik inceleme; geminin bağlamsal işleyişini anlamaya yardım eder.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "The Realm of Dreams: Impressions from a Journey through its Cultural, Literary and Artistic History - Manfred Engel",
+      "relevance": "Artemidorus’tan gemi enkazı yorumunu alıntılayan kültürel tarih incelemesi; gemi hasarı ve enkazının tarihsel yorum çerçevesini gösterir.",
+      "url": "https://www.mhra.org.uk/publications/stable/10.59860/cl.c69adf6"
+    },
+    {
       "title": "Ship in Dreams — Islamic Interpretation & Meaning",
-      "relevance": "Gemi rüyasının İslami yorumunda kurtuluş, tehlikeden çıkış ve hastalıktan iyileşme temasını aktarır.",
+      "relevance": "İslami rüya tabiri perspektifinden geminin genellikle kurtuluş, emniyet, hastalıktan şifa ve salihlerle birlikte yol alma temalarıyla bağlandığını aktarır.",
       "url": "https://www.dream-wisdom.com/en/dreams/ship/"
     },
     {
-      "title": "Ship Islamic Interpretations & Meanings",
-      "relevance": "Gemi rüyası için İslami çevrim içi tabirlerde güvenli karaya ulaşma, sıkıntının kalkması ve batma durumlarıyla ilgili yorumlar verir.",
-      "url": "https://www.myislamicdream.com/ship.html"
+      "title": "Page 223 of 664 - Ruya Tabirleri - Ruya Tabirleri00223",
+      "relevance": "Nablusî’ye atfedilen gelenekte geminin parçalarının insan bedenine benzetildiği örnekleri sunar; gemiyi beden metaforuyla ilişkilendiren geleneksel bir açıklama içerir.",
+      "url": "https://www.islamiokul.com/oku.php?_kf=kutuphane/muhtelif/v2/ruya-tabirleri/ruya-tabirleri00223.html"
     },
     {
-      "title": "Ship in a Dream — Islamic Interpretation",
-      "relevance": "İbn Sîrîn ve Nablusî’ye atfedilen gemi yorumunu, zorluktan kurtuluş ve büyük işlerde ihtiyat sembolü olarak özetler.",
-      "url": "https://tafsiralholm.com/en/dream-interpretation/ship/"
+      "title": "Symbolism, Early Christian - Encyclopedia.com",
+      "relevance": "Erken Hristiyan sembolizminde geminin Kilise ve kurtuluş temalarını temsil ettiğini özetler; Hristiyan yorum dilinin gemi sembolünü nasıl kullandığını gösterir.",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/symbolism-early-christian"
     },
     {
-      "title": "A ship in a dream | The Islamic Dream Book",
-      "relevance": "Sefineyi İslami rüya geleneğinde selamet ve güvenli geçişle ilişkilendirir.",
-      "url": "https://theislamicdreambook.com/a-ship-in-a-dream/"
+      "title": "Boats",
+      "relevance": "Gemi sembolünün Hristiyan düşüncede koruma, topluluk ve eskatolojik yolculuk temalarıyla ilişkisini verir.",
+      "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/boats"
     },
     {
-      "title": "Ships Islamic Interpretations & Meanings",
-      "relevance": "Gemi sembolünü Kur’an’daki dolu gemi ayetiyle ilişkilendirerek kurtuluş ve güvenli sefer bağlamını sunar.",
-      "url": "https://www.myislamicdream.com/ships.html"
+      "title": "Ask and You Shall Receive - Apostle David E. Taylor [Official Site]",
+      "relevance": "Modern Hristiyan yorumlayıcı yaklaşımında, gemi veya tekne rüyasının ruhsal seviye değişimi, hizmet ve topluluk temalarıyla ilişkilendirildiğini gösterir.",
+      "url": "https://joshuamediaministries.org/dreams/boat/"
     },
     {
-      "title": "Journal of the Oxford Centre for Buddhist Studies, Vol. 3, November 2012",
-      "relevance": "Erken Budist metinlerde tekne, sal ve gemi imgelerinin ‘öte kıyıya geçiş’ ve kurtuluşla ilişkisini tartışır.",
-      "url": "https://smallpdfs.buddhistuniversity.net/shaw-s_2012_crossing-to-the-farthest-shore.pdf"
+      "title": "Jean Danielou--Primitive christian symbols.pdf",
+      "relevance": "Erken Hristiyan sembolik metinlerde geminin Kilise benzetmesi olarak kullanıldığını gösteren alıntılar ve analizler sunar.",
+      "url": "https://www.scribd.com/document/335131738/Jean-Danielou-Primitive-christian-symbols-pdf"
     },
     {
-      "title": "Ship and Three Drums",
-      "relevance": "Hint kökenli 'Ship and Three Drums' sembolünü Budist dharma bağlamında taşıyıcı bir araç ve ruhsal geçiş imgesi olarak açıklar.",
-      "url": "https://obcon.org/dharma/ship-and-three-drums/"
+      "title": "What Does the Ship Symbol Really Mean?",
+      "relevance": "Hristiyan gelenekte gemi sembolünün kurtuluş, kilise ve doğru yönelişle ilişkisini açıklar.",
+      "url": "https://www.catholicshare.com/what-does-the-ship-symbol-really-mean/"
     },
     {
-      "title": "Båten i buddhistisk symbolikk",
-      "relevance": "Budist sembolizmde tekne ve sal imgesinin erken Budist görsel dilinde yer aldığını belirten açıklama metni.",
-      "url": "https://www.sotozen.no/aktuelt/26-6-2022-bten-i-buddhistisk-symbolikk"
+      "title": "Berakhot 56 - My Jewish Learning",
+      "relevance": "Berakhot 56'daki rüya yorumcusu Bar Haddaya anlatısını ve 'tüm rüyalar ağıza uyar' ilkesini özetler; Yahudi rüya yorum geleneğinin işleyişini anlamak için yararlı bir çerçeve sunar.",
+      "url": "https://www.myjewishlearning.com/article/berakhot-56/"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Yahudi kaynaklarında rüyaların sembolik yorumlanmasına ilişkin genel çerçeveyi verir; gemi için doğrudan madde bulunmadığında interpretif yaklaşımı destekler.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Talmud’da rüyaların değeri, yorumu ve yorum farkları üzerine genel Yahudi çerçevesi sunar; gemi sembolünü doğrudan açıklamaz.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz - Chabad.org",
+      "relevance": "Yahudi rüya motifleri arasında ‘boat ride’ ifadesini anarak gemi/tekne temasının gelenekte yer aldığını gösterir; ayrıntılı klasik yorum vermez.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "Nava Sutta: The Ship - Thanissaro Bhikkhu",
+      "relevance": "Nāvā Sutta çevirisi aracılığıyla Budist literatürde gemi benzetmesinin bağlılıkların gevşetilmesi ve özgürleşme pratiği bağlamında nasıl kullanıldığını gösterir.",
+      "url": "https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.101.than.html"
+    },
+    {
+      "title": "Ship, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Gemi imgesini ezoterik ve spiritüel yorumlarda yaşam yolculuğu, dönüşüm ve bilinçdışı denizlerinde ilerleme metaforu olarak bir araya getiren bir derleme sayfası.",
+      "url": "http://www.dreamtation.com/docs/7986.htm"
+    },
+    {
+      "title": "Ship Dream Meaning & Interpretation - Mirror",
+      "relevance": "Gemi imgesini ezoterik ve spiritüel yorumlarda yaşam yolculuğu, dönüşüm ve bilinçdışı denizlerinde ilerleme metaforu olarak bir araya getiren bir derleme sayfa.",
+      "url": "https://mirrorwithin.org/dream-dictionary/ship/"
+    },
+    {
+      "title": "Dream About Boat or Ship - Meaning & Interpretation | Satyori",
+      "relevance": "Gemi ve tekne imgelerini rüya sözlüğü formatında manevi yolculuk ve dönüşümle ilişkilendiren modern bir yorum sayfası.",
+      "url": "https://satyori.com/dreams/boat-ship/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
+  ]
 }

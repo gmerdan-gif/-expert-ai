@@ -1,173 +1,213 @@
 {
   "slug": "deniz",
   "title": "deniz",
-  "shortDescription": "Rüyada deniz görmek, derin duyguları, bilinmeyenle ilişkiyi ve hayatınızdaki büyük imkânları ya da dönüşümleri simgeler. Sakin ve berrak deniz huzuru; dalgalı veya fırtınalı deniz ise duygusal çalkantıları, belirsizlikleri ve aşılması gereken zorlukları yansıtabilir.",
+  "shortDescription": "Rüyada deniz, yüzeyindeki dalgalar ve akıntılar; kıyı, ufuk hattı ve derinliğiyle birlikte özgün bir imge sunar. Bu fiziksel öğeler, rüyada bilinçli duygularla (fırtına, sakinlik, kıyıya ulaşma) ve bilinçdışının örtük katmanlarıyla (derinlik, uçsuz bucaksızlık) birlikte yorumlanmalıdır. Tek bir sabit anlamı yoktur; bağlam, yapılan eylem ve duygusal ton belirleyicidir.",
   "positiveAssociations": [
-    "Duygusal derinlik ve genişlik",
-    "İçsel bilgelik ve dönüşüm",
-    "İlahi kudret ve nimet hissi",
-    "Büyük imkânlar ve otorite"
+    "Denizin genişliği ve ufku: olasılık, yeni yönler ve uzak yolculuklarla ilişkili umut veya keşif hissi",
+    "Denizin derinliği: içsel kaynaklar, bilinçdışıyla temas veya derin kavrayış potansiyeli",
+    "Durgun ve temiz suda yıkanma veya yüzme: duygusal arınma ve kısa süreli rahatlama hissi",
+    "Deniz suyunu içme veya toplama motifleri (geleneksel tabirlerde): bolluk, ilim veya mal biriktirme çağrışımları",
+    "Kıyıya güvenle varma veya sakin açık denizde olma: denizin gücünü yönetebilmeye dair güven ve beceri hissi"
   ],
   "challengingAssociations": [
-    "Bilinmezliğin yarattığı kaygı",
-    "Kaos, yıkım ve tehdit algısı",
-    "İnsanın evrensel aczi",
-    "Aşılması güç zorluklar ve engeller"
+    "Fırtına, yüksek dalgalar veya güçlü akıntılar: kaos, duygusal taşkınlık ve başa çıkma zorluğu",
+    "Derinlikte kaybolma veya su altında kalma hissi: bilinmeyenle karşılaşma, boğulma benzeri kaygı.",
+    "Gelgitler veya denizin taşması: dışsal güçlerin (siyasi, kurumsal ya da toplumsal) beklenmedik değişimi",
+    "Ufkun belirsizliği ve uçsuz bucaksızlık: sınama, belirsizlik ve kontrol kaybı hissi",
+    "Denizin kirlenmesi/kuruması motifleri: bereketin azalması veya otoritenin zayıflaması olarak okunabilecek endişeler"
   ],
   "contextDependentAssociations": [
-    "Sakin bir deniz, dinginlik ya da otoritenin desteği olarak yorumlanabilir.",
-    "Dalgalı veya fırtınalı denizin içsel çatışmalar veya zorluklarla ilişkilendirilmesi",
-    "Denizden zarar görmek ile fayda sağlamak arasındaki iki yönlü imtihan."
+    "Denizin durumu: sakin mi yoksa çalkantılı mı olduğu",
+    "Rüya sahibinin denizle ilişkisi: yüzüyor, battı mı, kıyıda mı duruyor ya da su içiyor mu",
+    "Deniz olayının sonucu: gemi kazası, kıyıya ulaşma, suyun çekilmesi gibi sonuçlar",
+    "Rüyanın duygusal tonu: korku, rahatlama, merak veya hayranlık gibi hislerin yoğunluğu"
   ],
   "commonVariations": [
     {
-      "title": "Sakin ve Durgun Denizde Yüzmek",
-      "description": "Rüyada berrak ve sakin bir denizde yüzmek, kişinin bilinçdışı dünyasıyla kurduğu uyumlu dengeyi, içsel huzuru ve duygusal akıcılığı yansıtır."
+      "title": "Fırtınalı açık denizde sıkışmak",
+      "description": "Büyük dalgalar ve akıntılar arasında kalmak, rüya sahibinin günlük hayatta kontrolü zor durumlarla, dış baskılarla veya yoğun duygusal çalkantılarla sınanıyor olabileceğine işaret edebilir."
     },
     {
-      "title": "Fırtınalı ve Dalgalı Denizle Karşılaşmak",
-      "description": "Karanlık ve dev dalgaların olduğu hırçın bir deniz, rüya sahibinin zihninde yer eden belirsizlikleri, yoğun duygusal çalkantıları ya da aşılması gereken karmaşık engelleri simgeler."
+      "title": "Sakin açık denizde yüzmek",
+      "description": "Uzak ufukla çevrili, sakin denizde yüzmek veya yüzer halde olmak, duygusal denge, zihinsel açıklık veya bilinçdışından gelen rahatlama deneyimini simgeleyebilir."
     },
     {
-      "title": "Deniz Kıyısında Durup Uzaklara Bakmak",
-      "description": "Sahilde durarak uçsuz bucaksız denizi seyretmek, kişinin hayatındaki büyük potansiyelleri, geleceğe dair arayışlarını ve zihinsel genişleme isteğini gösterir."
+      "title": "Deniz suyunu içmek veya denizden su toplamak",
+      "description": "Deniz suyunu içme/toplama motifleri, özellikle İslami tabir geleneğinde bolluk, ilim ya da büyük kaynaklara erişim gibi olumlu çağrışımlarla ilişkilendirilebilir; bağlam belirleyicidir."
     },
     {
-      "title": "Denizde Boğulma Tehlikesi Geçirmek",
-      "description": "Derin suların ortasında boğulma hissi yaşamak, yoğun duygusal baskı altında kalmayı, kontrolü kaybetme korkusunu ve bilinçdışının baskın çıkma ihtimalini ele alır."
+      "title": "Denizin çekilmesi veya taşması",
+      "description": "Denizin aniden çekilip kuruması ya da taşması, toplumsal veya kurumsal düzenle ilgili değişimler, otoritenin çözülmesi veya beklenmedik krizler olarak okunabilir."
     }
   ],
-  "psychology": "Akademik psikolojide deniz sembolüne dair doğrudan ampirik veri bulunmamaktadır. Bununla birlikte psikanalitik ve teorik çerçevede deniz, bilinçdışı süreçlerin zihinsel bir projeksiyonu olarak ele alınır. Freudcu çizgide deniz, bilinçdışının simgesi ve ana kökeniyle bağdaştırılırken, Batı kültürünün tarihsel imgeleminde sınır, derinlik ve bilinmeyen boyutları temsil eden güçlü bir metafor olarak işlev görür.",
-  "jungian": "Jungcu analitik psikolojide deniz, en temel ve güçlü kolektif bilinçdışı sembollerinden biridir.",
-  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında deniz, Allah’ın sonsuz kudreti, insanın aczi, geniş rızık ve sabır kavramlarıyla ilişkilendirilir. Aynı zamanda kuvvetli ve adaletli bir otorite veya devlet başkanı simgesi olarak da değerlendirilir. Denizden fayda görmek hayra yorulurken, zarar görmek veya tehlike yaşamak bir uyarı ya da imtihan alanı şeklinde okunur.",
-  "christianTraditions": "Hristiyan kutsal metin geleneğinde deniz, doğrudan rüya tabiri olmamakla birlikte, sıklıkla kozmik kaos, belirsizlik ve yıkıcı güçlerin metaforik bir karşılığı olarak metinlerde yer bulur.",
-  "jewishTraditions": "İbranî Kutsal Kitabı bağlamında deniz, mitolojik kökenli kozmik kaosun ve derin metaforik anlamların yüklü olduğu güçlü bir sembolik unsurdur. Bu kullanım metinsel simgelem çerçevesinde ele alınır.",
-  "buddhistEasternApproaches": "Budist ve Doğu geleneklerinde okyanus ve deniz, engin bilgi, aydınlanma yolunda karşılaşılan zorluklar, zihnin sınırsızlığı ve benliksizlik doğasıyla bağdaştırılır. Erken dönem şiirsel metinlerinde deniz, aydınlanmaya erişmek için aşılması gereken dönüştürücü bir yolculuk metaforudur.",
-  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda deniz, fiziksel dünya ile ruhsal boyut arasındaki eşiktir. Formun çözülmesi, kaos, spiritüel dönüşüm ve eve veya köklerine dönüş imgeleriyle anlam kazanır.",
+  "psychology": "Ampirik psikoloji literatüründe ‘deniz’ için tek ve sabit bir anlamı doğrulayan güçlü kanıt yoktur. Bilimsel çalışmalarda su imgeleri sıklıkla rüyanın duygusal tonu, anılarla bağlantılı içerikler ve genel rüya temaları bağlamında ele alınır; bu nedenle deniz imgeleri de rüyanın bağlamı ve hissiyatıyla birlikte yorumlanmalıdır.",
+  "jungian": "Jungcu yaklaşımlarda deniz/okyanus sıkça bilinçdışının ve kolektif katmanların simgesi olarak okunur: yüzey ve derinlik ayrımı, görünenin altında saklı kaynaklar ve dönüşüm potansiyeli vurgulanır. Bu tür okumalar bağlama duyarlıdır ve denizin hali (durgun, çalkantılı, derin) arketipsel ton hakkında ipucu verebilir.",
+  "islamicTradition": "Klasik İslami rüya tabiri geleneğinde deniz genellikle büyük güç, hükümdar, mülk ve berekete işaret eden bir motif olarak yer alır; denizden su içme veya denizin çok olması olumlu olarak bolluk veya ilim çağrışımları uyandırır. Ancak eylem ve denizin durumu (kuruma, taşma, yıkanma vb.) yorumu değiştirir; dolayısıyla bağlama dikkat edilmelidir.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde deniz sık sık kaos, tehdit veya geçici düzensizliklerle ilişkilendirilir; İncil anlatılarındaki fırtınalar ve İsa’nın fırtınayı dindirmesi motifleri bu çizgiye örnek teşkil eder. Bazı metinlerde deniz, halklar, uluslar veya çokluklarla da bağdaştırılır.",
+  "jewishTraditions": "Yahudi rüya yorumu geleneğinde rüyaların anlamı büyük ölçüde yorum sürecine bağlıdır; Kabala’da deniz, gizli ve sınır-aşan alanları temsil edebilir. Tekil bir ‘deniz = …’ hükmü yerine rüyanın bütünü ve yorumu belirleyicidir.",
+  "buddhistEasternApproaches": "Budist metinlerde okyanus ve deniz imgeleri bazen zorlukların, dünyevi sıkıntıların veya Dharma öğretisinin derinliklerinin betimlemesi için kullanılır; zihnin dalgaları, bilincin akışı ve bilginin enginliği gibi metaforik çerçeveler görülür.",
+  "spiritualApproaches": "Ezoterik ve simyasal geleneklerde deniz, prima materia, kozmik başlangıç/kaos ve dönüşüm alanı ile ilişkili bir imgedir; denizin çözülme ve yeniden biçimlenme potansiyeli sembolik olarak vurgulanır.",
   "comparisonTable": [
     {
-      "approach": "Psikanalitik Çerçeve",
-      "interpretation": "Bilinçdışının ve ana arketipin simgesi.",
+      "approach": "Psikanaliz (Freudcu)",
+      "interpretation": "Su imgeleri genelde rahim/doğum fantezileri, bedensel dürtüler ve erken beden deneyimleri bağlamında tartışılır; deniz bu çerçevede bağlama göre köken veya yeniden doğuş çağrışımı taşıyabilir.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Analiz",
-      "interpretation": "Kolektif bilinçdışı, arketipler ve benliğin derinlikleri.",
+      "approach": "Jungcu Derinlik Psikolojisi",
+      "interpretation": "Deniz/okyanus bilinçdışının ve kolektif arketiplerin enginliğini, görünen yüzeyin altındaki dönüşüm potansiyelini simgeleyebilir.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "İlahi kudret, otorite, geniş imkânlar ve imtihan alanı.",
+      "approach": "İslami Rüya Tabiri",
+      "interpretation": "Deniz sıklıkla güç, sultanlık, bolluk, ilim veya bazen sıkıntıyla ilişkilendirilir; denizle ilgili özel eylemler yorumu belirler.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist / Doğu Yaklaşımı",
-      "interpretation": "Engin bilgelik, aydınlanma yolu ve zihinsel sınırsızlık.",
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Deniz çoğunlukla kaos, toplumsal kargaşa veya uluslar/çokluklar metaforu olarak okunur; eskatolojik metinlerde denizin çekilmesi düzenin yeniden kurulmasını işaret edebilir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Spiritüel ve Ezoterik Yaklaşım",
-      "interpretation": "Ruhsal geçiş eşiği, formun çözülmesi ve dönüşüm.",
+      "approach": "Simyasal / Ezoterik",
+      "interpretation": "Deniz prima materia, çözülme ve yeniden biçimlenme süreçlerinin sembolik alanı olarak ele alınır.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Tüm gelenek ve teorilerde deniz, sıradanlığın ötesine geçen uçsuz bucaksız bir büyüklüğü, insan iradesini aşan güçleri ve derin bir dönüşüm potansiyelini temsil etmesi bakımından ortaklaşır.",
-  "differences": "Yaklaşımlar arasındaki temel fark odak noktasındadır. Psikanaliz ve Jungcu ekol denizi bireyin içsel zihin yapısı ve kolektif kökenleriyle açıklarken, dini gelenekler ilahi irade, otorite veya imtihan kavramlarına odaklanır. Doğu ve spiritüel yaklaşımlar ise aydınlanma ve evrensel bilince yönelir.",
-  "inusAssessment": "Deniz sembolü, insan psikolojisinin en eski ve en derin arketiplerinden birini barındırır. Rüyada denizin nasıl görüldüğü (sakin, dalgalı, berrak ya da karanlık oluşu) ve rüya sahibinin suyla kurduğu ilişki, sembolün anlamını tamamen değiştirir. Bu nedenle deniz rüyaları, tek tip bir geleceğin habercisi olarak değil, bireyin iç dünyasındaki duygusal denge arayışının, bilinmeyenle olan mücadelesinin veya hayatındaki büyük geçişlerin birer yansıması olarak ele alınmalıdır.",
-  "faq": [
-    {
-      "question": "Rüyada sakin ve berrak deniz görmek ne anlama gelir?",
-      "answer": "Psikolojik ve geleneksel okumalarda sakin deniz, huzur, duygusal dengenin sağlanması, zihinsel berraklık ve hayatın akışıyla uyum içinde olma haliyle bağdaştırılır."
-    },
-    {
-      "question": "Fırtınalı deniz rüyaları hangi psikolojik durumları yansıtır?",
-      "answer": "Jungcu ve psikanalitik açıdan fırtınalı deniz, bilinçdışından gelen baskıların, çözülmemiş içsel çatışmaların veya yoğun duygusal çalkantıların zihinsel bir yansıması olarak değerlendirilir."
-    },
-    {
-      "question": "İslami rüya tabirlerinde deniz görmek her zaman iyiye mi yorulur?",
-      "answer": "Klasik İslami yorumlarda deniz hem geniş rızık, kudret ve hayır hem de rüya sahibinin yaşadığı duruma göre bir imtihan veya uyarı alameti olarak iki yönlü ele alınır."
-    }
-  ],
+  "commonGround": "Çoğu gelenekte ortak nokta, denizin tek ve değişmez bir anlam taşımadığıdır: denizin fiziksel nitelikleri (genişlik, derinlik, dalga ve akıntı, kıyı ve ufuk hattı) ile rüya içindeki eylemler, bağlam ve duygusal ton birlikte ele alınarak yorumlanmalıdır.",
+  "differences": "Psikanalitik okumalar denizi erken bedensel ve doğum çağrışımları ekseninde değerlendirirken; Jungcu yaklaşım kolektif bilinçdışı ve arketipsel derinlik vurgusunu öne çıkarır. Dini-tradisyonel okumalarda deniz genellikle toplumsal güçler, otorite veya ilahi sınamalarla ilişkilendirilir; yorumların ayrıntısı geleneğe ve metne bağlı olarak değişir.",
+  "inusAssessment": "Deniz rüyalarının açıklanmasında en belirleyici unsurlar: denizin durumu (sakin/fırtınalı), derinlik ve yüzey ayrımı, kıyıya ulaşma ya da denizde kalma eylemi ve rüya sahibinin hissettiği duygu yoğunluğudur. Bu öğeler birlikte değerlendirildiğinde deniz imgelerinin hangi koşullarda anlam taşıdığını daha iyi gösterir.",
+  "faq": [],
   "sources": [
     {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud’un rüyalarda su imgelerini doğum, rahim ve bedensel köken çağrışımları bağlamında ele aldığı temel bölüm; deniz temasını su çerçevesinde düşünmek için referans sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/261 - ...",
+      "relevance": "Freud’un rüyalarda suya girme, sudan çıkma ve doğum fantezileri arasındaki bağı tartıştığı bölüm; deniz imgesini doğum ve intrauterin yaşam üzerinden düşünmek için kullanılır.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud’un rüyalarda suyu bazen idrara ilişkin bedensel dürtülerle eşleştirdiği metin; su/deniz imgelerinin bedensel işlevlerle bağlantısını gösterir.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
       "title": "Carl Jung - Analysis of Dream Symbols (2)",
-      "relevance": "Deniz sembolünün Jungcu bilinçdışı, kolektif bilinçdışı ve ana-arketipi bağlamında nasıl yorumlandığını gösterir.",
+      "relevance": "Jungcu kaynaklarda denizin bilinçdışının ve arketipsel derinliklerin simgesi olarak okunmasına dair derlemeler; deniz/okyanusun kolektif bilinçdışıyla ilişkilendirilmesini aktaran çevrimiçi kaynak.",
       "url": "https://www.carl-jung.net/dream_symbols2.html"
     },
     {
-      "title": "Sea Dream Interpretation – Meaning",
-      "relevance": "Deniz sembolünün rüya bağlamında bilinçdışı, anne imgesi ve derinlik temalarıyla nasıl ilişkilendirildiğini örnekler.",
-      "url": "https://www.dreamsmain.com/sea"
+      "title": "Water in Dreams: Spiritual and Biblical Meaning (with Jung's ...",
+      "relevance": "Su ve deniz/okyanus imgesinin Jung'a atıfla bilinçdışı ve yeniden doğuş temalarıyla bağlandığını gösteren bir derleme sayfası.",
+      "url": "https://individuate.me/articles/spiritual-meaning-of-water-in-dreams"
     },
     {
-      "title": "Chapter 1 History in",
-      "relevance": "Denizin kültürel ve tarihsel anlamlarının Batı düşüncesinde sosyal ve metafizik imgelemle bağlantısını ele alır.",
-      "url": "https://brill.com/display/book/9789004426702/BP000002.xml?language=en"
+      "title": "Carl Jung on the “Sea.” – Anthology",
+      "relevance": "Denizi bilinçdışının sembolü olarak aktaran, Jung'a atıf içeren bir derleme sayfası.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/10/17/carl-jung-on-the-sea/"
     },
     {
-      "title": "The sea in culture - Wikipedia",
-      "relevance": "Denizin kültürel temsillerinde Jungcu yorumların ve kolektif bilinçdışı fikrinin nasıl dolaşıma girdiğini özetler.",
-      "url": "https://en.wikipedia.org/wiki/The_sea_in_culture"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritik gelenekte deniz imgelerinin rüya içindeki eylem ve sonuçla birlikte yorumlandığını gösteren çeviri; tarihsel bağlam için örnekler içerir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "Dunamis: Jurnal Teologi dan Pendidikan Kristiani",
-      "relevance": "Hristiyan kutsal metin geleneğinde denizin kaos ve yıkıcı güçle ilişkilendirildiğini özetleyen çevrim içi içerik.",
-      "url": "https://sttintheos.ac.id/e-journal/index.php/dunamis/article/download/2041/602"
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual",
+      "relevance": "Oneirocritica'nın tarihsel bağlamda antik rüya yorumu içindeki yerini tartışan Oxford Academic bölümü.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?guestAccessKey="
     },
     {
-      "title": "Rüyada deniz görmek ne anlama gelir? Diyanet'e göre ...",
-      "relevance": "İslami rüya yorumlarında denizin ilahi kudret, genişlik ve sabırla ilişkilendirildiğini aktaran kaynak.",
-      "url": "https://www.haber61.net/ruya-tabirleri/ruyada-deniz-gormek-ne-anlama-gelir-diyanete-gore-ruyada-deniz-h619658.html"
+      "title": "The Natural World | An Ancient Dream Manual - Oxford Academic",
+      "relevance": "Artemidorus’un deniz canlılarını ayrı bir kategori olarak işlemesini ve sucul dünyanın rüya sembolizmi içindeki yerini ele alan Oxford Academic bölümü.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
     },
     {
-      "title": "Rüyada deniz görmek ne anlama gelir? Diyanet'e göre ... - Haber61",
-      "relevance": "İslami yorumda denizden yarar görmenin hayır, zarar görmenin uyarı sayıldığını belirten haber içeriği.",
-      "url": "https://www.haber61.net/yasam/ruyada-deniz-gormek-ne-anlama-gelir-diyanete-gore-ruyada-deniz-gormek-ne-demek/619658"
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Klasik İslami rüya tabiri derlemelerinde deniz motifinin güç, sultanlık, bolluk ve ilimle ilişkilendirildiğini aktaran toplu kaynak; denizden su içme gibi motiflerin geleneksel yorumlarına örnek sağlar.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
     },
     {
-      "title": "Rüyada Deniz Görmek Ne Anlama Gelir?",
-      "relevance": "Klasik İslami tabirde denizin devlet başkanı ve otoriteyle ilişkilendirildiğini aktaran çevrim içi kaynak.",
-      "url": "https://www.diyadinnet.com/ruyada-4207-deniz-gormek"
+      "title": "What does the sea represent in the bible? - The holy script",
+      "relevance": "Mezmurlar ve İsa’nın fırtınayı dindirmesi üzerinden denizin Hristiyan sembolizminde kaos, tehdit ve ilahi otoriteyle ilişkisini gösteren çevrim içi Kutsal Kitap odaklı derleme.",
+      "url": "https://www.theholyscript.com/what-does-the-sea-represent-in-the-bible/"
     },
     {
-      "title": "The Sea in the Hebrew Bible: Myth, Metaphor, and",
-      "relevance": "İbranî Kutsal Kitap’ta denizin mit, metafor ve kozmik kaos boyutlarını inceleyen akademik çalışma.",
-      "url": "https://dash.harvard.edu/bitstream/handle/1/12269820/Cho_gsas.harvard_0084L_11462.pdf"
+      "title": "What the Bible says about Sea as Symbol",
+      "relevance": "Mezmurlar ve İsa’nın fırtınayı dindirmesi üzerinden denizin Hristiyan sembolizminde kaos, tehdit ve ilahi otoriteyle ilişkisini gösteren çevrimiçi Kutsal Kitap odaklı derleme.",
+      "url": "https://www.bibletools.org/index.cfm/fuseaction/Topical.show/RTD/cgg/ID/4342/Sea-as-Symbol.htm"
+    },
+    {
+      "title": "Topical Bible: Symbolism of the Sea",
+      "relevance": "Hristiyan sembolik okumada denizin kaos, dünyasal kargaşa ve nihai düzen fikriyle ilişkisini veren toplu İncil temaları sayfası.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_the_sea.htm"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Berakhot bölümü üzerinden Yahudi rüya yorumu çerçevesini sunar; rüyaların yorumla anlam kazandığını ve tekil sembollere sabit hüküm verilmemesi gerektiğini vurgular.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "“All Dreams Follow the Interpretation” – Even for the Rabbis!",
+      "relevance": "Berakhot’taki ‘rüyalar yorumlarına göre gider’ temasını aktarır; Yahudi rüya yorum çerçevesini özetler.",
+      "url": "https://thegemara.com/article/all-dreams-follow-the-interpretation-even-for-the-rabbis/"
+    },
+    {
+      "title": "Sea - Jewish Mythology",
+      "relevance": "Denizin Yahudi mit, midraş, Talmud, Kabala ve sonraki Yahudi literatüründeki sembolik yerini topluca gösterir.",
+      "url": "https://jewishmythology.com/themes/sea"
+    },
+    {
+      "title": "Land and Sea - The splitting of the Red Sea is among the greatest ...",
+      "relevance": "Kabala bağlamında denizin ‘gizli dünya’ ile ilişkilendirilmesini aktarır.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/379431/jewish/Land-and-Sea.htm"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot’taki rüya bölümünün amaç ve işlevini açıklar; rüya anlamının bağlama ve ahlaki dönüşüme açık olduğunu vurgular.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Berakhot ve Horayot üzerinden rüyaların kimi zaman önemsiz, kimi zaman anlamlı olabileceğini ve yorumun belirleyici olduğunu özetler.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
     },
     {
       "title": "Sea: Significance and symbolism",
-      "relevance": "Budist ve Hindu geleneklerinde deniz sembolünün temel anlam katmanlarını toplu biçimde sunar.",
+      "relevance": "Budist kaynaklarda deniz sembolünün enginlik, zorluk ve dünyevi sıkıntılarla ilişkisini özetleyen sayfa.",
       "url": "https://www.wisdomlib.org/concept/sea"
     },
     {
+      "title": "59.2a Atthaka Uposatha S 1 a8.20 piya",
+      "relevance": "Budist metinlerde büyük okyanusun niteliklerinin Dharma öğretisini betimlemek için kullanıldığına dair parabolik bir örnek; deniz/okyanus imgelerinin Budist bağlamdaki işlevine ışık tutar.",
+      "url": "https://www.themindingcentre.org/dharmafarer/wp-content/uploads/2021/10/59.2a-Atthaka-Uposatha-S-1-a8.20.pdf"
+    },
+    {
+      "title": "Waves of Mind, Oceans of Consciousness - aar papers",
+      "relevance": "Laṅkāvatāra Sūtra’daki su, dalga ve okyanus imgelerinin zihin ve bilinç metaforları olarak okunmasını tartışan akademik bildiri özeti.",
+      "url": "https://papers.aarweb.org/attached-paper/104290-waves-mind-oceans-consciousness-embodied-metaphors-lankavatara-sutra-and-its"
+    },
+    {
       "title": "Ocean: Significance and symbolism",
-      "relevance": "Budist gelenekte okyanus/deniz imgesinin enginlik ve bilgelik bağını verir. Hindu kullanımına da kısa bir karşılık sunar.",
+      "relevance": "Budist yorumlarda okyanusun bilginin genişliği ve Buddha’nın kavrayışıyla ilişkilendirilmesini derleyen sayfa.",
       "url": "https://www.wisdomlib.org/concept/ocean"
     },
     {
-      "title": "The Specific Characteristics of the Sea in the Buddhadharma",
-      "relevance": "Budist Dharma'da denizin özgürlük, sınırsızlık, Buddha doğası ve Bodhi-citta ile ilişkisini açıklar.",
-      "url": "https://phapnhan.org/en/the-specific-characteristics-of-the-sea-in-the-buddhadharma/"
+      "title": "Full text of \"The Flower Ornament Scripture A Translation Of The Avatamsaka Sutra By Thomas Cleary\"",
+      "relevance": "Avataṃsaka geleneğinde zihnin okyanus ve dalgalarla ilişkisini gösteren çeviri metni.",
+      "url": "https://archive.org/stream/TheFlowerOrnamentScriptureATranslationOfTheAvatamsakaSutraByThomasClearypdfdtyxxytd/The+Flower+Ornament+Scripture+A+Translation+of+the+Avatamsaka+Sutra+by+Thomas+Cleary+%5Bpdf%5D+%7Bdtyxxytd%7D_djvu.txt"
     },
     {
-      "title": "Symbolism of Ocean in Hinduism",
-      "relevance": "Hindu sembolizminde denizin Brahman, varoluş, samsara, sonsuzluk ve doğa gücüyle ilişkilerini özetler.",
-      "url": "https://www.hinduwebsite.com/symbolism/symbols/ocean.asp"
+      "title": "Lyndy Abraham - A Dictionary of Alchemical Imagery-Cambridge University Press (1998)",
+      "relevance": "Simyasal imgelemde denizin prima materia ve ‘filozofların cıva suları’ ile ilişkilendirildiğini gösteren akademik kaynak; ezoterik okumalarda deniz temsiline referans sağlar.",
+      "url": "https://www.scribd.com/document/606931931/Lyndy-Abraham-A-Dictionary-of-Alchemical-Imagery-Cambridge-University-Press-1998"
     },
     {
-      "title": "Ocean: Esoteric Meaning & Symbolism | Theosophy Trust",
-      "relevance": "Ezoterik/Theosophical gelenekte okyanusun doğuş, dönüşüm ve yaşam taşıyan bir eşik olarak yorumunu sunar.",
-      "url": "https://theosophytrust.org/697-the-ocean"
-    },
-    {
-      "title": "Ocean and sea",
-      "relevance": "Spiritüel-ezoterik yorumlarda denizin çözülme, kaosa dönüş ve ruhsal dünyaya geçiş imgeleriyle ilişkilendirilmesini verir.",
-      "url": "https://allaboutheaven.org/symbols/ocean-and-sea/123"
-    },
-    {
-      "title": "The Shores beyond the World: Fire and Ocean as Founding Metaphors of Early Buddhist Poetic Philosophy",
-      "relevance": "Erken Budist şiirsel-felsefi okumalarda denizin aydınlanma yoluyla bağlantılı bir metafor olarak kullanıldığını gösterir.",
-      "url": "https://www.academia.edu/143035672/The_Shores_beyond_the_World_Fire_and_Ocean_as_Founding_Metaphors_of_Early_Buddhist_Poetic_Philosophy"
+      "title": "BJHS Themes (2025), 1–21",
+      "relevance": "Mamluk simya metinlerinde çevreleyen büyük okyanus ve kozmik çevre düşüncesi gibi motiflere değinir.",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A4E4E02708B44CB8C85B4934E614152E/S2058850X25100283a.pdf/solving_the_rumuz_mamlukera_sources_on_alchemical_symbolism.pdf"
     }
   ],
   "relatedSlugs": []

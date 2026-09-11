@@ -1,129 +1,167 @@
 {
   "slug": "dag",
   "title": "dağ",
-  "shortDescription": "Rüyada dağ görmek; yüksek hedefleri, otoriteyi ve aşılması gereken büyük engelleri simgeler. Dağa tırmanmak hedefe ulaşma çabasını, dağdan düşmek ise itibar veya konum kaybı riskini ifade edebilir.",
+  "shortDescription": "Rüyada görülen dağ, keskin yamaçlar, patikalar, zirve ve iniş gibi fiziksel unsurlar bağlamında ele alınması gereken, hem dışsal makam veya otoriteyi hem de erişim, direnç ve perspektif kazanımını çağrıştıran çok katmanlı bir semboldür. Yorum, rüyadaki hareket, arazinin zorluğu ve rüya sırasındaki duygusal ton tarafından şekillenir.",
   "positiveAssociations": [
-    "Hedeflere ulaşma",
-    "Yüksek makam veya itibar",
-    "İlahi yakınlık ve vahiy",
-    "Dayanıklılık ve güç"
+    "uzun bir tırmanışın sonunda ulaşılan zirve ve bunun getirdiği başarı veya rahatlama",
+    "yüksek bir noktadan elde edilen geniş görüş ve yeni perspektif",
+    "korunaklı, hakim bir mevki veya himaye olarak algılanan yükseklik",
+    "zorlukları aşma kapasitesinin ve dayanıklılığın gösterilmesi",
+    "planlı, güvenli bir patikadan yükselme şeklinde görülen ilerleme"
   ],
   "challengingAssociations": [
-    "Aşılması zor engeller",
-    "İtibar veya konum kaybı",
-    "Baskın otoritelerin yarattığı baskı"
+    "sarp yamaçlar, yol kayması veya tehlike ile ilişkilendirilen fiziksel engeller",
+    "patikada kaybolma veya yönünü bulamama hissi",
+    "tırmanışın yarattığı aşırı yorgunluk ve dayanıklılık sınaması",
+    "dağın erişilemez veya engelleyici bir duvar gibi görünmesi",
+    "fırtına, sis veya ani değişen koşulların getirdiği belirsizlik ve korku"
   ],
   "contextDependentAssociations": [
-    "Dağa tırmanmak ile dağdan düşmek arasındaki zıtlık",
-    "Dağın sarp veya erişilebilir oluşu",
-    "Kozmik bir merkez veya ibadet mekânı olarak konumu"
+    "Tırmanışın zorluğu: kolay bir patika mı yoksa dik, tehlikeli bir yamaç mı olduğu",
+    "zirveye ulaşılıp ulaşılmaması ve zirvedeki durumun nasıl algılandığı",
+    "dağdan inişin biçimi: güvenli bir iniş mi yoksa düşüş/kaçış mı olduğu",
+    "yolda bir refakatçi veya rehber bulunup bulunmaması",
+    "hava koşulları, görüş mesafesi ve rüya sırasında hissedilen duygu (umutsuzluk, coşku, hafiflik vb.)"
   ],
   "commonVariations": [
     {
-      "title": "Dağın zirvesine tırmanmak",
-      "description": "Rüyada sarp bir dağın zirvesine çıkmaya çalışmak, hayatta belirli bir hedefe ulaşma çabasını veya bir işi başarıyla sonuçlandırma iradesini simgeler."
+      "title": "Sarp bir dağa tırmanmak",
+      "description": "Uzun, çetin bir çaba gerektiren süreçleri, dayanıklılık sınamalarını ve hedefe ulaşmak için harcanan enerjiyi vurgular; hem içsel çabayla hem de dışsal bir hedefle ilgili olabilir."
     },
     {
-      "title": "Dağdan aşağı düşmek",
-      "description": "Yüksek bir dağdan düştüğünü görmek, klasik yorumlarda sosyal konum veya itibar kaybı ihtimaline işaret eden bir uyarı olarak ele alınır."
+      "title": "Kolay bir patikadan yükselmek",
+      "description": "Düzenli, yönetilebilir ilerlemeyi ve kontrollü gelişimi simgeler; hedefe ulaşmanın mümkün olduğu bir süreci işaret edebilir."
     },
     {
-      "title": "Uzakta görülen sarp bir dağ",
-      "description": "Ufukta aşılması gereken büyük bir dağın belirmesi, kişinin önündeki devasa engelleri, zorlu yolculukları ve hayatındaki büyük kararları temsil eder."
+      "title": "Zirvede durup etrafa bakmak",
+      "description": "Bir dönüm noktası, yeni perspektif kazanma veya önemli bir karar öncesindeki duraksama anını temsil edebilir; başarı kadar sorumluluğu da çağrıştırır."
     },
     {
-      "title": "Kutsal veya kozmik dağ manzarası",
-      "description": "Evrenin merkezinde yer alan mitik bir dağ veya tapınak benzeri bir yükselti görmek, içsel bir yönelim, adanmışlık ve daha yüksek anlam arayışını yansıtır."
+      "title": "Fırtınada dağa tırmanmak veya iniş",
+      "description": "Beklenmedik zorluklar, kontrol kaybı riski ve kriz anlarında verilen kararları vurgular; ruhsal veya dışsal baskı altında hareketi gösterir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "Klasik İslami rüya tabirlerinde dağ, güçlü ve otoriter bir kişiyi, yüksek bir mevki ya da yönetici figürünü temsil eder. Dağın durumuna göre rüyanın anlamı şekillenir; örneğin dağa tırmanmak, hedeflere ulaşma ve bir ihtiyacı giderme anlamına gelirken, dağdan düşmek itibar veya konum kaybı olarak yorumlanır.",
-  "christianTraditions": "Hristiyan metinlerinde dağlar genellikle Tanrı’nın huzuru, vahiy, ibadet, tecelli ve antlaşma mekânları olarak geçer. Doğrudan bir rüya sözlüğü olmamakla birlikte, dağ imgesi ilahi yakınlık ve dönüştürücü dua deneyimleriyle özdeşleştirilir.",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist ve Doğu Asya geleneklerinde kutsal dağlar, hac, meditasyon, evrenin merkezini temsil eden Meru dağı ve canlı bir varlık gibi saygı gören koruyucu peyzajlar olarak konumlanır. Tibet bağlamında ise dağlar dharma'nın işaretleri olarak okunabilir.",
-  "spiritualApproaches": "Ezoterik ve alegorik dilde dağ, dünyevi düzlemden ruhsal düzleme yükselişi, daha yüksek gerçekliklere tırmanışı ve kozmik merkez imgesini besleyen temel bir metafordur.",
+  "psychology": "Dağ imgelerinin rüyalarda ne anlama geldiğine ilişkin doğrudan ampirik çalışmalar sınırlıdır. Psikanalitik çerçevede Freud'un rüya kuramı genel bir yorum zemini sağlar (rüyaların bastırılmış isteklerin dolaylı ifadesi), ancak Freud'un eserlerinde dağ imgeleri için özel bir hüküm bulunmamaktadır. Modern psikolojide dağın yorumu daha çok niteliksel, metaforik ve bağlama bağlı okumalara dayanır.",
+  "jungian": "Jungcu gelenekte dağ, dünya ekseni/merkez (axis mundi), bireyleşme yolculuğu ve bilinç ile bilinçdışı arasındaki gerilim bağlamında ele alınır. Tırmanış kişisel bütünleşme çabasını, zirveye yöneliş ise artan farkındalık ve bütünlüğe ulaşma sürecini çağrıştırabilir. Ancak doğrudan Jung'un birincil metinlerinde dağ için tek bir kesin hüküm bulunmadığından, bu okuma temkinli ve bağlama duyarlı biçimde sunulmalıdır.",
+  "islamicTradition": "İslami rüya tabirlerinde dağ geleneksel olarak yüksek makam, güç, zafer veya sığınılacak bir otorite figürü ile ilişkilendirilir. Bazı rivayetlerde aynı imge zorluk ve sınavı da çağrıştırır; bağlam, tırmanış veya iniş gibi ayrıntılar yorum yönünü değiştirir.",
+  "christianTraditions": "Hristiyan sembolizminde dağ, kutsal karşılaşma ve vahiy mekânı olarak okunur; dağa çıkma motifi ruhsal yükseliş, dua ve ilahî yönlendirme çağrışımı taşırken, dağın engel olarak belirmesi imanla aşılması gereken sınamaları ima edebilir. Bu yorum, kutsal metinlere dayanan dengeli bir sentez olarak verilir.",
+  "jewishTraditions": "Yahudi geleneğinde Berakhot uygulamasına göre rüyada dağ gören kişi uyanınca belirli ayetleri okumaya yönlendirilebilir; bu, dağ sembolünün rüyada tek anlamlı olmadığını, rabbanî çerçevede olumlu veya olumsuz biçimde yönlendirilebildiğini gösterir.",
+  "buddhistEasternApproaches": "Bazı Budist metinlerde (ör. Meru kozmolojisi ve belirli sûtralar bağlamında) dağ imgeleri kozmik merkez ve bodhisattva aşamalarıyla ilişkilendirilebilir; bu nedenle rüyada dağ, temkinli bir biçimde ruhsal ilerleme veya kurtuluş öğretileriyle ilgili aşamalarla bağdaştırılabilir. Ancak doğrudan rüya literatüründe bu konuda doğrulanmış örnekler sınırlıdır ve bu bağlantılar dikkatle ele alınmalıdır.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda dağ sıklıkla gökle yerin buluştuğu eşik veya ruhsal yükselişin simgesi olarak görülür. Rüyada dağ, hedefe yönelme, sınanma, sınırı aşma ya da kutsal bir mekâna yaklaşma metaforları şeklinde yorumlanır; bu okumalar gelenekler arasında değişkenlik gösterir.",
   "comparisonTable": [
     {
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Bireyleşme yolculuğu, dünya ekseni (axis mundi) ve Benlik'e yöneliş olarak dağın tırmanışının psikolojik anlamı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
       "approach": "İslami Gelenek",
-      "interpretation": "Güçlü otorite figürleri, yüksek makamlar, hedeflere varma veya engellerle karşılaşma.",
+      "interpretation": "Yüksek makam, güç/otorite, zafer veya bazen zorlu sınavlar; tırmanma genellikle olumlu, iniş farklı anlamlar taşıyabilir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan Metin Geleneği",
-      "interpretation": "İlahi vahiy, dua, tecelli ve Tanrı'nın huzuru ile yakınlık mekânı.",
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Vahiy ve ilahî karşılaşma mekânı; dağa çıkma ruhsal yükseliş ve dua ile ilişkilendirilir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu ve Budist Yaklaşımlar",
-      "interpretation": "Kozmik merkez (Meru), hac, meditasyon ve canlı kutsal peyzaj algısı.",
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Berakhot uygulaması çerçevesinde çift yönlü; olumlu veya olumsuz ayet seçimiyle yönlendirilebilir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Spiritüel ve Ezoterik Yaklaşım",
-      "interpretation": "Dünyevi düzlemden ruhsal düzleme tırmanış ve evrensel yükseliş metaforu.",
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Gökle yerin eşiği, içsel gelişim, hedefe yönelme ve sınanma metaforları.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı geleneklerde dağ, sıradan olanın üzerine çıkan, tırmanılması gereken ve insanı hem zorlayan hem de yücelten merkezi bir dikey eksen olarak kabul edilir.",
-  "differences": "İslami gelenekte dağ daha çok sosyal konum, otorite figürleri ve dünyevi/manevi hedeflerle ilişkilendirilirken, Hristiyanlıkta vahiy ve dua mekânı, Doğu geleneklerinde ise evrensel bir kozmik merkez ve yaşayan kutsal peyzaj olarak öne çıkar.",
-  "inusAssessment": "Dağ sembolü, kültürler arası bağlamda hem otorite ve tırmanış gibi başarı motiflerini hem de düşüş veya aşılmaz engeller gibi zorlukları aynı anda barındıran çok katmanlı bir imgedir. Rüyadaki dağın sarp, tırmanılabilir ya da yüksek olması, bireyin kendi hayatındaki engellerle ve hedeflerle kurduğu ilişkinin bağlamına göre ele alınmalıdır.",
+  "commonGround": "Çoğu gelenekte dağ imgesi, yüksek nokta ile engel/erişimsizlik arasındaki gerilim üzerinden okunur: yükseklik, güç, perspektif ve himaye çağrıştırırken aynı zamanda fiziksel zorluk, risk ve sınanmayı da ifade eder. Hareket (tırmanış/iniş), arazinin niteliği ve duygusal ton, ortak yorumu belirleyen başlıca unsurlardır.",
+  "differences": "Bazı gelenekler dağı dışsal otorite ve makamla (İslam) ya da vahiy mekânı olarak (Hristiyanlık) ilişkilendirirken, Jungcu ve spiritüel okumalar daha çok içsel bireyleşme, bütünleşme ve dönüşüm eksenine vurgu yapar. Artemidorus ve antik oneirokritik gelenekler ise engebeli araziyi genellikle olumsuz bir teknik bağlamda ele alır.",
+  "inusAssessment": "Dağ sembolü, rüyada tek başına belirli bir sonuca işaret etmesi için genellikle yeterli değildir; ancak 'dağ + hareket (tırmanma/iniş) + arazinin zorluğu + rüya duygusu' gibi belirli bileşimler belirli yorumlara olanak tanır. Örneğin, zirveye ulaşma eylemi başarı veya algıda bir dönüşümle ilişkilendirilebilir; aynı dağ durağan ve engelleyici görünüyorsa kayıp veya aşılması gereken bir engel olarak okunabilir.",
   "faq": [
     {
-      "question": "Rüyada dağa tırmanmak ne anlama gelir?",
-      "answer": "Klasik İslami yorumlarda dağa tırmanmak, bir hedefe ulaşma, makam elde etme veya bir işi başarıyla sonuçlandırma iradesiyle ilişkilendirilir."
+      "question": "Her rüyada dağ aynı anlama mı gelir?",
+      "answer": "Hayır. Dağın fiziksel niteliği, rüya sırasında yapılan hareket ve duygusal ton yorumu belirler."
     },
     {
-      "question": "Dağdan düşmek rüyada nasıl yorumlanır?",
-      "answer": "Geleneksel tabirlerde dağdan aşağı düşmek, mevcut itibarın, gücün veya sosyal konumun kaybedilme riskine işaret eden bir uyarı olarak değerlendirilir."
+      "question": "Dağa çıkmak mutlaka olumlu mu?",
+      "answer": "Mutlaka değil. Genellikle çaba ve ilerlemeyi gösterir; ancak süreç zorlu veya tehlikeliyse kaygı ya da aşılması gereken bir sınavı işaret edebilir."
     }
   ],
   "sources": [
     {
-      "title": "Mountain Islamic Interpretations & Meanings",
-      "relevance": "Dağın İslami rüya yorumunda otorite, güçlü kişi, yolculuk ve engel gibi anlamlarla ele alınışını gösterir.",
-      "url": "https://www.myislamicdream.com/mountain.html"
+      "title": "Mountain Dreams: Meaning & Psychological Interpretation",
+      "relevance": "Dağ sembolünü psikolojik ve sembolik açıdan ele alan bir derleme; doğrudan ampirik çalışma sunmamakla birlikte modern yorumlara örnek teşkil eder.",
+      "url": "https://somniscient.com/en/symbols/mountain"
     },
     {
-      "title": "Mountains Islamic Interpretations & Meanings",
-      "relevance": "Dağın insanlar, makamlar ve güç ilişkileriyle ilişkilendirildiği klasik rüya okumasını ayrıntılandırır.",
-      "url": "https://www.myislamicdream.com/mountains.html"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüya kuramı için temel kaynak; dağ imgeleri için doğrudan hüküm vermez ancak psikanalitik çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Symbolism of Mountains",
+      "relevance": "Jungcu ve arketipsel okumalar bağlamında dağın yüksek merkez, bireyleşme ve aşkınlık çağrışımlarını özetleyen bir derleme.",
+      "url": "https://symbolreader.net/2021/07/31/symbolism-of-mountains/"
+    },
+    {
+      "title": "Mountain Dream Meaning | Jungian Interpretation & Symbolism",
+      "relevance": "Dağ sembolünü Jungcu rüya dili içinde bireyleşme, Benlik (Self) ve ruhsal arayış başlıklarıyla ilişkilendirir.",
+      "url": "https://www.projectmorpheus.org/dream-symbols/mountain"
+    },
+    {
+      "title": "Mountain - Dreampaths",
+      "relevance": "Dağın yüksek bilinç, ruhsal yükseliş ve bireyleşme ile bağlantısını Jungcu bir çerçevede ele alır.",
+      "url": "https://dreampaths.com/symbol/mountain"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual - Oxford Academic",
+      "relevance": "Artemidorus geleneği çerçevesinde engebeli arazinin ve dağın rüyalarda genellikle uğursuz veya zorlayıcı unsurlar olarak ele alındığını gösterir.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "İslami Rüya Tabirleri, Nablusi, Kirmani, İbn-i Sirin, İmam Cafer Sadık, Seyyid Süleyman, Danyal - D",
+      "relevance": "Dağ sembolü için Cafer-i Sâdık’a atfedilen beşli anlam kümesini ve İslami rüya tabiri derlemelerini içerir.",
+      "url": "https://www.medicentertv.com/islami-ruya-tabirleri-nablusi-kirmani-ibn-i-sirin-imam-cafer-sadik-seyyid-suleyman-danyal-d"
+    },
+    {
+      "title": "The Symbolism of Mountains in the Bible | Free Guide",
+      "relevance": "Dağın İncil’de insan ve gök âleminin kesiştiği yer olarak nasıl sembolleştirildiğini açıklar.",
+      "url": "https://bibleproject.com/guides/the-mountain/"
+    },
+    {
+      "title": "Mountains Motivate the Ascent of the Spiritual Life",
+      "relevance": "Dağların Kutsal Kitap’ta Tanrı’nın görünür olduğu ve önemli vahiylerin gerçekleştiği yerler olarak işlevini ele alır.",
+      "url": "https://www.wordonfire.org/articles/fellows/mountains-motivate-the-ascent-of-the-spiritual-life/"
     },
     {
       "title": "Topical Bible: Symbolism of Mountains",
-      "relevance": "İncil’de dağların ilahi yakınlık, vahiy ve ibadetle ilişkilendirilen genel sembolik kullanımını özetler.",
+      "relevance": "Dağların Kutsal Kitap içinde Tanrı'nın varlığı, vahiy ve ibadetle bağlantılı sembolik anlamlarını özetler.",
       "url": "https://biblehub.com/topical/s/symbolism_of_mountains.htm"
     },
     {
-      "title": "Topical Bible: Symbolism of the Mountain",
-      "relevance": "Dağın Hristiyan anlatılarında dua, dönüşüm ve tecelli mekânı olarak kullanımına işaret eder.",
-      "url": "https://biblehub.com/topical/s/symbolism_of_the_mountain.htm"
+      "title": "Berakhot 112 - Talmud Bavli Study",
+      "relevance": "Yahudi geleneğinde rüyada dağ gören kişiye ilişkin ayet okuma uygulamasını ve dağ sembolünün çift yönlü yorumlanabilirliğini belgeleyen kaynak.",
+      "url": "https://talmudbavli.app/en/texts/Berakhot.112.1"
     },
     {
-      "title": "3. Mountains As Symbols Of...",
-      "relevance": "Dağın Tanrı’nın krallığı ve eskatolojik egemenlik sembolü olarak okunmasını gösterir.",
-      "url": "https://www.christsermons.com/sermons/understanding+the+symbolism+of+mountains"
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Budist metinler bağlamında Meru ve bazı sûtralarda dağ imgelerinin kozmik merkez ve ruhsal aşamalarla ilişkilendirildiğini gösteren çeviri/metin örneği; Budist rüya-literatüründe sınırlı fakat mevcut bağlantılara işaret eder.",
+      "url": "https://84000.co/translation/toh48.pdf"
     },
     {
-      "title": "The Symbolism of Sacred Mountains (Twelve)",
-      "relevance": "Kutsal dağların hac, meditasyon ve adanmışlıkla ilişkilendirilen dinsel anlamını anlatır.",
-      "url": "https://www.cambridge.org/core/books/sacred-mountains-of-the-world/symbolism-of-sacred-mountains/CEBC3727A7226460FA9569B0C67F37EF"
+      "title": "Symbolic Meaning",
+      "relevance": "Dağı rüyada hedef, engel, içsel keşif ve kutsal merkez fikriyle açıklayan modern spiritüel yorum sunar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/mountain/"
     },
     {
-      "title": "M",
-      "relevance": "Meru'nun Budist evrendeki merkezi mitik dağ konumunu açıklar.",
-      "url": "https://s3-eu-west-1.amazonaws.com/s3.spanglefish.com/s/35729/documents/articles/mountains_as_symbols_of_ascent.pdf"
-    },
-    {
-      "title": "Buddhist Sacred Mountains, Auspicious Landscapes,and Their Agency",
-      "relevance": "Budist kutsal dağların canlı, koruyucu ve düzenleyici bir varlık olarak tasavvurunu ele alır.",
-      "url": "https://academic.oup.com/book/32685/chapter/270767494"
-    },
-    {
-      "title": "To See a Mountain: Writing, Place,",
-      "relevance": "Tibet bağlamında dağların dharma ile ilişkili işaretler ve semboller olarak okunmasını ele alır.",
-      "url": "https://dash.harvard.edu/server/api/core/bitstreams/1ccc50fe-9c97-4a17-82e6-484ab6e8315a/content"
+      "title": "Dream Meaning: Mountain - Dream Insight",
+      "relevance": "Dağın rüyalarda güç, yükseklik, tamamlanma ve ruhsal yükselişle ilişkilendirildiğini anlatan çağdaş spiritüel yorum örneği verir.",
+      "url": "https://somnikon.com/dream-meaning/mountain/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian"
+  ]
 }

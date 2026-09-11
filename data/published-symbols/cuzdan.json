@@ -1,115 +1,241 @@
 {
   "slug": "cuzdan",
   "title": "cüzdan",
-  "shortDescription": "Rüyada cüzdan görmek, maddi kaynaklar, güvenlik ve kişinin kendini nasıl gördüğüyle ilişkilendirilir. Cüzdanın boşalması, kaybolması ya da çalınması; kayıp, belirsizlik ve kontrolü yitirme endişesini yansıtabilir.",
+  "shortDescription": "Rüyada cüzdan görmek, kişisel kaynaklar, kimlik, emanet edilen sırlar ve yaşamın maddi-manevi yükümlülükleriyle ilişkilendirilen çok katmanlı bir semboldür.",
   "positiveAssociations": [
-    "bereket ve maddi akış",
-    "kaynaklar ve güvenlik",
-    "kimlik ve benlik algısı",
-    "bağlılık ve tutunma"
+    "Maddi ve manevi bolluk",
+    "Başarı ve hedeflere ulaşma",
+    "Güvenlik hissi",
+    "Değerli bilgilerin veya sırların korunması",
+    "İlahi takdir ve bereket"
   ],
   "challengingAssociations": [
-    "kayıp ve belirsizlik",
-    "geçicilik",
-    "açgözlülük veya mal kaybı endişesi",
-    "aşırı kontrol veya tutunma"
+    "Gerçekleşmeyen arzular ve hayal kırıklıkları",
+    "Yoksunluk ve kaynak kaybı",
+    "Maddi nesnelere aşırı bağlanma",
+    "Sorumlulukların altında yaşanan kafa karışıklığı",
+    "Mahremiyetin ihlali veya sırların açığa çıkması"
   ],
   "contextDependentAssociations": [
-    "harcama ve birikim dengesi",
-    "zaman, dikkat ve öz-değer yönetimi",
-    "kişisel sınırlar ve emanet kavramı"
+    "Cüzdanın dolu veya boş olması",
+    "Cüzdanın kaybedilmesi veya çalınması",
+    "İçinde para, altın veya anahtar bulunması",
+    "Cüzdanın açık veya kapalı olması"
   ],
   "commonVariations": [
     {
-      "title": "Boş Cüzdan Görmek",
-      "description": "Rüyada cüzdanın içi boş şekilde görülmesi, kaynak yönetimi, güvenlik ve kimlik algısına dair içsel bir sorgulamaya ya da geçici bir tükenmişlik hissine işaret edebilir."
+      "title": "İçi altın dolu bir cüzdan bulmak",
+      "description": "Rüya sahibinin hayatında önemli bir emanet, saklı bir değer veya uzun süredir korunan bir sır ile karşılaşacağına işaret eder."
     },
     {
-      "title": "Cüzdanı Kaybetmek",
-      "description": "Cüzdanın kaybolması rüyası, kişinin yaşamındaki tutunma biçimlerini, kontrol kaybı korkusunu veya kimlik ve değer algısındaki sarsıntıları yansıtabilir."
+      "title": "Boş bir cüzdanı açıp bakmak",
+      "description": "Günlük yaşamda karşılanamayan beklentileri, kaynak eksikliği hissini veya hayal kırıklığını yansıtır."
     },
     {
-      "title": "Cüzdanın Suya veya Ateşe Düşmesi",
-      "description": "Klasik geleneklerde cüzdanın suya ya da ateşe düşmesi, otorite veya dış etkenler eliyle yaşanabilecek sermaye kaybı ve malın yanlış ellere geçmesi temalarıyla ilişkilendirilir."
+      "title": "Cüzdanı sokakta kaybetmek",
+      "description": "Kişisel sorumlulukların dağılması, işlerde yaşanan kafa karışıklığı ve dış güvenlik hissinin sarsılmasıyla ilişkilendirilir."
     },
     {
-      "title": "Çalınan Cüzdan",
-      "description": "Birinin cüzdanı alması veya çalınması senaryosu, kişinin hayatındaki mahremiyet sınırlarının ihlali, ölüm çağrışımları veya emanet edilen değerlerin kaybı bağlamında okunabilir."
+      "title": "Cüzdanı başkasına vermek veya paylaşmak",
+      "description": "Mahrem bilgilerin, kişisel alanın veya sahip olunan bazı kaynakların başka biriyle paylaşılması durumunu temsil eder."
     }
   ],
-  "psychology": "",
+  "psychology": "Ampirik literatür, tek bir nesne sembolünden sabit ve evrensel bir rüya anlamı türetmeyi desteklemez. Hall ve Van de Castle'ın rüya içeriği analizi yönteminde 'nesneler' kategorisi açıkça yer alır; bu yaklaşım, rüya raporlarındaki nesnelerin sistematik olarak incelenebileceğini gösterir. Ayrıca araştırmalar, gece ilerledikçe rüyalardaki duygusal yoğunluğun arttığını ve rüyaların duyguları düzenleyici bir işlev üstlenebildiğini ortaya koymaktadır. Psikanalitik teoride ise cüzdan gibi taşıma ve saklama işlevi gören nesneler, bedensel veya cinselleştirilmiş temsillerle ve değerli şeylerin saklandığı mahrem alanlarla ilişkilendirilebilir; ancak bu, doğrudan ampirik bir kanıt değil, teorik bir okumadır.",
   "jungian": "",
-  "islamicTradition": "İslamî rüya geleneğinde cüzdan ve para kesesi evlilik, oğul sahibi olmak, mal, anahtar, beden ve emanet edilen servet ile ilişkilendirilir. Cüzdanın denize ya da ırmağa düşmesi otorite figürleri eliyle yaşanabilecek sermaye kaybına işaret edebilirken, ateşe düşmesi malın açgözlü veya adaletsiz kişilere gitmesi şeklinde yorumlanır. Ayrıca cüzdanın alınması ölümle bağdaştırılır. Para kemeri taşımak ise kişinin geçmişte kazandığı ilim ve bilgiyi sürdürme gereğine işaret eder.",
-  "christianTraditions": "Hristiyan kutsal metinlerinde para kesesi veya cüzdan motifi, hazinenin ve bağlılığın dünyevi birikimlerden ziyade manevi değerlere yöneltilmesi bağlamında ele alınır. Bu yaklaşım doğrudan bir rüya tabiri geleneğinden ziyade genel bir dini sembolizm taşır.",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist ve Doğu kökenli yaklaşımlarda cüzdan, bağlılık, korku ve benlik-koruma eğilimlerini görünür kılan, para ve kimlik unsurlarının geçiciliği üzerinden 'tutunma' meselesine odaklanan bir nesne olarak değerlendirilir. Boş, kayıp veya çalınmış cüzdan, güvenlik, sınırlar ve kaynak yönetiminin zihinsel olarak nasıl deneyimlendiğini yansıtır. Vedik gelenekte para ile ilgili kaplar veya semboller ise genel olarak bereket, harcama ve maddi bağlanma temalarıyla birlikte düşünülür.",
-  "spiritualApproaches": "Spiritüel perspektifte cüzdan yalnızca parasal varlıkları değil, aynı zamanda zaman, dikkat, öz-değer ve kişisel sınırların da birer taşıyıcısı olarak görülür.",
+  "islamicTradition": "İslami rüya tabiri kaynaklarında cüzdan, sır, emanet ve kişisel yükümlülüklerle ilişkilendirilir. Dolu cüzdan başarı ve hayırla, boş cüzdan ise arzuların gerçekleşmemesi ve hayal kırıklığı ile bağdaştırılır. Cüzandaki altın, emanet ve sır temasını güçlendirir. Bazı derlemelerde cüzdan, evlilik, çocuk veya anahtar gibi sembollerle; ayrıca 'esas para' anlamına gelen terimler veya beden metaforuyla sembolik düzeyde ilişkilendirilir.",
+  "christianTraditions": "Hristiyan geleneksel ve teolojik okumalarında cüzdan bir kap olarak ele alınır; bu bağlamda kalp, kimlik ve emanet temalarıyla ilişkilendirilir. Dolu cüzdan ilahi takdir ve bollukla, boş cüzdan ise ruhsal yoksunluk ya da kaynak kaybıyla bağlantılandırılır. Ayrıca İncil'deki para kesesi motifleri üzerinden güvenin maddi zenginliğe mi yoksa manevi değerlere mi yöneldiği sorusu ve dünyevi zenginliğin geçiciliği vurgulanır.",
+  "jewishTraditions": "Talmudik gelenekte rüyalar tek başına kesin hüküm vermez; rüyanın anlamı büyük ölçüde yoruma bağlı olarak şekillenir ve yorumlanmamış rüyanın etkisi sınırlı kabul edilir. Bu çerçevede cüzdan gibi gündelik nesneler doğrudan sabit bir kehanet olarak değil, içerdiği etik, işlevsel ve kişisel değer çağrışımları üzerinden kontrollü bir bağlamda değerlendirilir.",
+  "buddhistEasternApproaches": "Bazı modern Budist ve Doğu temelli yaklaşımlarda cüzdanın yitirilmesi veya boşalması, geçicilik ve maddi nesnelere bağlanmanın yarattığı sıkıntı temalarıyla okunur. Bu perspektif, statü, kimlik ve dış güvenlik biçimlerine sıkı sıkıya tutunmanın yanılsamasını ve bu bağların bırakılması gerekliliğini vurgular.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel yorumlarda cüzdan; mülkiyet, kişisel sahiplik, mahremiyet ve saklı değerlerle ilişkilendirilir. Cüzdanın açılıp kapanması dışa vurum, öfkenin bastırılması veya korunması gereken içsel bir alan ile bağdaştırılır.",
   "comparisonTable": [
     {
-      "approach": "İslamî Gelenek",
-      "interpretation": "Evlilik, oğul, beden, emanet, mal ve ilim yolu.",
+      "approach": "Psikolojik Araştırma",
+      "interpretation": "Nesnelerin duygusal yoğunluk ve psikososyal yapılar bağlamında sistematik olarak kodlanabileceğini gösterir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Cüzdan, değerli şeylerin saklandığı mahrem bir kap olarak değerlendirilebilir; bu, teorik okumalarda sahiplik ve gizlilik temalarını vurgular.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Sır, emanet, başarı, boşluk veya doluluk ekseninde maddi-manevi durumların yorumlanması.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist ve Doğu Yaklaşımı",
-      "interpretation": "Geçicilik, tutunma, benlik-koruma ve kaynak yönetimi.",
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Kalp, kimlik, ilahi sağlayış ve dünyevi zenginliğin geçiciliği temalarıyla ilişkilendirilmesi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Rüyanın kendi başına kesin hüküm vermediği, yorumun yönüne ve ahlaki bağlama göre şekillendiği yaklaşım.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Doğu / Budist Yaklaşımlar",
+      "interpretation": "Geçiciliği, egoyu ve maddi nesnelere bağlılığın bırakılmasını vurgular.",
       "evidenceLevel": "spiritual"
     },
     {
-      "approach": "Hristiyan Kutsal Metin Sembolizmi",
-      "interpretation": "Dünyevi servete mesafe koyma ve bağlılığı yönlendirme.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Spiritüel Yaklaşım",
-      "interpretation": "Zaman, dikkat, kişisel sınırlar ve öz-değer taşıyıcısı.",
+      "approach": "Spiritüel / Ezoterik Yaklaşım",
+      "interpretation": "Mahremiyet, sır, kişisel alan ve korunması gereken içsel değerler.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Hangi kültürde ele alınırsa alınsın, cüzdan bireyin sahip olduklarıyla kurduğu ilişkiyi ve bu varlıkları kaybetme ya da koruma iradesini simgeler.",
-  "differences": "İslamî gelenekte cüzdan daha çok somut mal varlığı, evlilik, soy ve dışsal olaylar (suya düşme, çalınma gibi) üzerinden okunurken; Budist ve spiritüel yaklaşımlarda zihinsel tutunma, kimlik algısı, geçicilik ve içsel kaynakların (zaman, dikkat) yönetimi gibi soyut ve psikolojik temalara odaklanılır.",
-  "inusAssessment": "Cüzdan sembolü, somut bir nesne olmasından ötürü hem maddi güvenlik hem de soyut kimlik ve bağlılık katmanlarını aynı anda barındırır. Bu durum rüyanın tek bir düzlemde yorumlanmasını engeller; zira bir gelenekte kayıp mal veya ölüm işareti olarak okunabilen bir senaryo, diğer bir perspektifte zihinsel bir tutunmayı bırakma veya geçiciliği fark etme çabası olarak anlam kazanabilir.",
+  "commonGround": "Farklı gelenekler ve yaklaşımlar arasında cüzdan, taşıma, koruma ve içindeki değeri saklama işlevi üzerinden kimlik, sorumluluk ve kişisel kaynaklarla ortak bir bağ kurar.",
+  "differences": "Kimi gelenekler cüzdanı ilahi bereket veya maddi başarı göstergesi olarak ele alırken, bazı yaklaşımlar onu geçiciliğin, maddiyata bağlanmanın ya da sırların ve kayıpların bir işareti olarak değerlendirir.",
+  "inusAssessment": "Rüyada cüzdan görmek, nesnenin içeriğine ve rüya sahibinin o anki yaşam bağlamına göre zıt yönlere evrilebilen bir semboldür. Cüzdanın dolu veya boş olması, kaybedilmesi ya da korunması, kişinin kimlik algısı, sorumlulukları ve mahremiyet sınırlarıyla kurduğu ilişkiyi yansıtır. Bu nedenle sembolü değerlendirirken tek bir sabit anlam aramak yerine, rüyadaki nesnenin durumu ile bireyin kişisel kaynakları arasındaki duygu ve niyet dengesine odaklanmak gerekir.",
   "faq": [
     {
-      "question": "Rüyada cüzdan görmek her zaman para kaybına mı işaret eder?",
-      "answer": "Hayır. Geleneksel ve kültürel bağlamlarda cüzdan yalnızca para kaybına değil; aynı zamanda evlilik, soy, kimlik, emanet ve kişisel sınırların sorgulanması gibi çok katmanlı anlamlara gelebilir."
+      "question": "Rüyada cüzdan görmek kesin olarak maddi kazanç anlamına mı gelir?",
+      "answer": "Hayır. Ampirik ve geleneksel yaklaşımlar cüzdanın tek ve sabit bir anlama sahip olmadığını gösterir; sembol doluluk durumuna göre başarıya işaret edebileceği gibi, boş olması durumunda hayal kırıklığı veya kaynak eksikliği hissiyle de ilişkilendirilebilir."
     },
     {
-      "question": "Rüyada cüzdanın boş veya kaybolması ne anlama gelir?",
-      "answer": "Bu tür rüyalar genellikle güvenlik duygusunun sarsılması, kaynakların yönetimi, kimlik algısı veya maddi-manevi şeylere aşırı tutunma ve geçicilik temaları çerçevesinde değerlendirilir."
+      "question": "Cüzdanın kaybedilmesi rüyada neyi temsil eder?",
+      "answer": "Çeşitli gelenek ve modern yorumlarda cüzdan kaybı; sorumlulukların dağılması, kafa karışıklığı, dış güvenlik hissinin sarsılması veya geçicilik ve bağlanma temalarıyla bağdaştırılır."
     }
   ],
   "sources": [
     {
-      "title": "Topical Bible: Wallet",
-      "relevance": "Luka 12:33-34'teki para kesesi/cüzdan motifi, servet, sadakat ve göksel hazine temalarını gösterir.",
-      "url": "https://biblehub.com/topical/w/wallet.htm"
+      "title": "Nightly dynamics of emotional content in dreams",
+      "relevance": "Gece boyunca rüya duygusallığının arttığını gösteren makale; rüya içeriğinin bağlama ve zamanlamaya duyarlı olduğunu destekler.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40803415/"
+    },
+    {
+      "title": "Methods and Measures for the Study of Dream Content",
+      "relevance": "Rüya içeriği analiz yöntemlerini ve nesneler dahil olmak üzere kategorik kodlamayı özetleyen akademik kaynak; nesne imgelerinin sistematik incelenebildiğini gösterir.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2000a.html"
+    },
+    {
+      "title": "Evidence for an emotional adaptive function of dreams - PMC",
+      "relevance": "Rüyaların duygusal uyarlayıcı işlevine dair ampirik bulgular sunan çalışma; rüya metinlerinin psikososyal yapılarına ilişkin veri sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10545663/"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Rüya kuramının temelini veren eser; rüyanın dilek gerçekleşimi olarak ele alınışı, cüzdan için yapılacak Freudcu sentezin genel çerçevesini sağlar.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Hall: A Cognitive Theory of Dream Symbols",
+      "relevance": "Rüya sembollerinin psikanalitik yorumunda kese/cüzdan örneği üzerinden cinsellikle ilişkilendirilen sembolik eşleştirmelere değinir.",
+      "url": "https://dreams.ucsc.edu/Library/hall_1953a.html"
+    },
+    {
+      "title": "Losing Your Wallet Dreams — Meaning & Interpretation | PsySymbol",
+      "relevance": "Antik Yunan rüya yorumcusuna yapılan atıf üzerinden kayıp kese/cüzdan benzeri nesnenin sorumluluk ve işlerde karışıklıkla ilişkilendirildiğini aktaran modern bir özet.",
+      "url": "https://psysymbol.com/dream/lost-wallet.html"
+    },
+    {
+      "title": "Money Dreams: Meaning Across Five Traditions",
+      "relevance": "Antik para sembollerinin tarihsel rüya yorumunda borç, yükümlülük, sıkıntı ve rahatlama ekseninde ele alındığını özetleyen kültürel aktarım.",
+      "url": "https://dreamlore.net/dreams/money/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidoros’un antik rüya yorum geleneğindeki merkezi yerini ve eserin kapsamını gösteren çeviri kaynağı.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Cüzdan için doğrudan rüya tabiri maddesi içeriyor; sır, boşluk, doluluk ve altın temalarıyla ilişkilendiriyor.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Wallet in Dreams — Islamic Interpretation & Meaning",
+      "relevance": "Cüzdanın İslami rüya tabiri çerçevesinde evlilik, çocuk, anahtar, ana para ve kayıp gibi sembolik karşılıklarını derliyor.",
+      "url": "https://www.dream-wisdom.com/en/dreams/wallet/"
     },
     {
       "title": "Wallet Islamic Interpretations & Meanings",
-      "relevance": "Klasik İslami rüya atıflarında cüzdanın evlilik, oğul, mal, anahtar, beden ve kayıp senaryolarıyla ilişkilendirildiğini aktarır.",
+      "relevance": "Cüzdanı evlilik, çocuk, para, anahtar ve bedenle ilişkilendiren İslami yorumları topluyor.",
       "url": "https://www.myislamicdream.com/wallet.html"
     },
     {
-      "title": "Wallet Dreams: What They Reveal About Value, Identity, and ...",
-      "relevance": "Cüzdanın değer, kimlik, güvenlik ve kaynak yönetimiyle ilişkilendirildiğini ele alan modern bir Budist yorumu.",
-      "url": "https://www.dreamspoken.com/en/dream-meaning/wallet"
+      "title": "Apostle David E. Taylor [Official Site] - Joshua Media Ministries",
+      "relevance": "Rüyada cüzdanın değer, kalp, finans ve ruhsal eksiklik temalarıyla ilişkilendirildiği Hristiyan yorum metni.",
+      "url": "https://joshuamediaministries.org/dreams/wallet/"
     },
     {
-      "title": "Wallet Dream Meaning & Interpretation - Mirror",
-      "relevance": "Cüzdanın benlik ve maddi nesnelere bağlanma bağlamında Budist perspektiften yorumlandığını anlatan çevrimiçi metin.",
-      "url": "https://mirrorwithin.org/dream-dictionary/wallet/"
+      "title": "Topical Bible: Wallet",
+      "relevance": "Para kesesi/cüzdan benzeri nesneleri İncil’de güven, emanet ve servet bağımlılığı temalarıyla ilişkilendiren başvuru sayfası.",
+      "url": "https://biblehub.com/topical/w/wallet.htm"
+    },
+    {
+      "title": "Inside",
+      "relevance": "Kese/cüzdanın Hristiyan dünyada açgözlülük ve dünyevi zenginliğin geçiciliğiyle ilişkisini izleyen sembol-tarihsel çalışma.",
+      "url": "https://journals.flvc.org/athanor/article/download/126601/126089"
+    },
+    {
+      "title": "What's in Your Wallet? - All Saints Episcopal Church",
+      "relevance": "Cüzdanı dünyasal güç ve dış kimlik üzerinden teolojik olarak yorumlayan kilise metni.",
+      "url": "https://www.allsaintsbhm.org/what-s-in-your-wallet"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Berakhot 57a’nın dijital metni; Yahudi rüya tartışmasının temel Talmudik bağlamını sağlar.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Parashat Vayeshev - [How Much Credence Should be Attributed to ...",
+      "relevance": "Rüyaların bazen melek, bazen de zarar verici bir kaynaktan gelebileceği yönündeki rabbanî çerçeveyi aktarır.",
+      "url": "https://halachayomit.co.il/en/default.aspx?HalachaID=5477"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’nin rüyalar bölümünü ve rüyaların anlamı ile işlevine dair klasik talmudik çerçeveyi özetler.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Does Judaism Believe That Dreams Have Meaning?",
+      "relevance": "Rüyaların yorumla şekillenebildiği ve yorumun olumlu ya da olumsuz etki yaratabildiği yönündeki Yahudi yaklaşımı anlatılır.",
+      "url": "https://jewinthecity.com/2019/01/does-judaism-believe-that-dreams-have-meaning/"
+    },
+    {
+      "title": "Berakhot 56",
+      "relevance": "Rüya yorumunun hemen yapılmasının etkili görüldüğü ve yorumun rüyanın alacağı yön açısından önemli olduğu anlatılır.",
+      "url": "https://www.myjewishlearning.com/article/berakhot-56/"
+    },
+    {
+      "title": "Berakhot 56 - Hadran",
+      "relevance": "Talmud’daki rüya-sembol örneklerini gösterir; gündelik nesnelerin yorumlanış biçimine dair bağlam sağlar.",
+      "url": "https://hadran.org.il/daf/berakhot-56/"
     },
     {
       "title": "Lost Wallet Dream Meaning & Interpretation - Mirror",
-      "relevance": "Kayıp cüzdanı, geçicilik, bağlılık ve güvenlik duygusu temaları bağlamında Budist bir perspektifle ele alan çevrimiçi metin.",
+      "relevance": "Cüzdan kaybını Budist kavramlar olan geçicilik ve bağlanma üzerinden okuyan bir yorum içeriyor.",
       "url": "https://mirrorwithin.org/dream-dictionary/lost-wallet/"
     },
     {
-      "title": "Dreaming of Money / Gold — Vedic Dream Meaning | VedKosh",
-      "relevance": "Vedik rüya yorumunda para ve maddi sembollerle ilişkilendirilen anlamlar.",
-      "url": "https://www.vedkosh.com/swapna-shastra/money-dream"
+      "title": "Wallet Dream Meaning & Interpretation - Mirror",
+      "relevance": "Cüzdanı ego, sabit benlik ve maddi sahipliklere tutunma açısından Budist sembolizme bağlayan bir yorum sunuyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/wallet/"
+    },
+    {
+      "title": "Wallet, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Cüzdanı para, mülkiyet ve sahiplikle ilişkilendiren kısa bir ezoterik sözlük girdisi; ayrıca kadınsı nitelikler, dikkat ve bilinç/ sezgi gerilimi gibi sembolik çağrışımlar veriyor.",
+      "url": "http://www.dreamtation.com/docs/1363.htm"
+    },
+    {
+      "title": "Rüyada Cüzdan görmek - İhya Rüya Tabirleri",
+      "relevance": "Cüzdanın rüya yorumlarında sır, gizli durumlar ve para cüzdanı bağlamında beden/sahiplik çağrışımlarıyla ilişkilendirildiğini aktaran çevrim içi tabir metni.",
+      "url": "https://ruya.ihya.org/ruyada-cuzdan-gormek.html"
+    },
+    {
+      "title": "Rüyada Cüzdan Görmek Ne Anlama Gelir? Neye İşarettir?",
+      "relevance": "Cüzdanı sır, gizli durumlar ve para cüzdanı üzerinden mahrem bilgi ile ilişkilendiren başka bir tabir metni; cüzdanın açılıp kapanmasını öfke ve dışa vurumla bağlantılar.",
+      "url": "https://www.diyadinnet.com/ruyada-2098-cuzdan-gormek"
+    },
+    {
+      "title": "Rüyada cüzdan kaybetmek ne demek? Rüyada cüzdan çaldırmak neye işaret eder?",
+      "relevance": "Cüzdanın sır ve gizlilikle ilişkilendirildiği, ayrıca para cüzdanının sahibinin bedeni veya sırrı olarak yorumlandığı bir tabir derlemesi.",
+      "url": "https://www.haber7.com/dini-bilgiler/haber/3145760-ruyada-cuzdan-kaybetmek-ne-demek-ruyada-cuzdan-caldirmak-neye-isaret-eder"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
 }

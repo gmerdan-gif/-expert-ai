@@ -1,0 +1,229 @@
+{
+  "slug": "olu-dirilmesi",
+  "title": "ölü dirilmesi",
+  "shortDescription": "Rüyada ölü birinin dirildiğini görmek, geçmişte kapanmamış duyguların, kayıp sanılan bir umut ya da gücün yeniden gündeme gelmesiyle ilişkilendirilebilir. Rüyadaki korku ve şaşkınlık yasla veya çözülmemiş meselelerle yüzleşmeyi; huzur ise yenilenmeyi ve bir çıkmazı aşmayı çağrıştırabilir.",
+  "positiveAssociations": [
+    "Yeniden doğuş ve tazelenme",
+    "Kayıp olan bir umudun veya gücün geri dönüşü",
+    "İçsel bütünleşme ve dönüşüm",
+    "Kronikleşmiş psikolojik çıkmazların aşılması"
+  ],
+  "challengingAssociations": [
+    "Geçmişin çözülememiş yas ve kayıp yüküyle yüzleşme",
+    "Eski kimliğin yıkımı sırasında yaşanan sarsıntı ve şaşkınlık",
+    "Gaflet halinden ani ve rahatsız edici bir uyanış"
+  ],
+  "contextDependentAssociations": [
+    "Ölen kişinin kimliği ve rüya görenle olan geçmiş ilişkisi",
+    "Rüya sırasında hissedilen şaşkınlık, korku veya huzur duygusu",
+    "Dirilişin gerçekleştiği mekanın ev içi mi yoksa kamusal bir alan mı olduğu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık Birinin Dirilmesi",
+      "description": "Rüya sahibinin hayatta olmayan yakın bir tanıdığının yeniden canlandığını görmesi; genellikle geçmişle tamamlanmamış duygusal bir meseleye veya hesaplaşmaya işaret eder ve beklenmedik bir duygu yoğunluğu oluşturur."
+    },
+    {
+      "title": "Evde Gerçekleşen Canlanma",
+      "description": "Eski bir aile üyesinin veya tanıdık birinin ev ortamında yeniden hayata döndüğünün görülmesi; evin ve aile dinamiklerinin rüya anlamında belirleyici olduğu durumları kapsar."
+    },
+    {
+      "title": "Bilinmeyen Birinin Yeniden Canlanması",
+      "description": "Tanınmayan bir cesedin veya ölü bir figürün aniden canlanması; bu varyant daha çok genel dönüşüm, kolektif kayıp ya da bilinmeyen bir içsel içeriğin ortaya çıkışıyla ilişkilendirilebilir."
+    },
+    {
+      "title": "Dönüşüm Eşiğinde Diriliş",
+      "description": "Ölüm-diriliş döngüsünün simgesel bir mekânda, geçiş süreçlerini anlatan imgeler eşliğinde yaşanması; inisiyatik, ruhsal veya yaşam koşullarındaki köklü değişimlere işaret eder. (Burada 'simyasal çözülme ve yeniden kuruluş' ifadesi, 'simyasal çözülme-yeniden kurulum' yerine tercih edilebilir.)"
+    }
+  ],
+  "psychology": "Deneysel rüya araştırmalarında rüyalardaki canlılık, geri dönüş ve duygu yoğunluğu gibi temalar ev ve laboratuvar raporları üzerinden incelenir. Raporlarda 'yeniden canlanma' olarak tanımlanan örnekler, ölen birinin yeniden canlı görülmesi anında rüya görenin yaşadığı şaşkınlık ve duygusal sarsıntıyı belgeler. Psikanalitik çerçevede Freud, rüyaların bastırılmış dileklerin örtük doyumu olduğunu belirtirken, ölülerle ilgili rüyalarda rüya sahibinin ölüm gerçeğini göz ardı ederek kendini ölüyle özdeşleştirebileceğine işaret eder; ayrıca bu imge, dönüşüm ya da geri dönüş fantazisi bağlamında temkinli bir okuma gerektirir. Rüyalardaki duygusal tonun ölçülmesi ve bağlamın değerlendirilmesi, bu sembolün yorumunda merkezi öneme sahiptir.",
+  "jungian": "Jungcu analitik psikolojide ölüm ve diriliş motifleri, fiziksel bir sonu değil, eski bir psikolojik durumun çözülmesini ve yeni bir ruhsal düzenin doğumunu simgeler. Mısır mitolojisindeki skarabın yeniden doğuşu ve simyasal çözülme-yeniden kurulum temaları, eski kişiliğin çözülüp özbenlik düzeyinde yeniden örgütlenmesiyle ilişkilendirilen Jungcu okumalara yakınlık sağlar. Bu bağlamda ölü birinin canlanması, bilinçdışından yükselen tamamlanmamış süreçlerin ya da kayıp bir psikolojik enerjinin tekrar gündeme gelmesini ifade edebilir.",
+  "islamicTradition": "Bazı modern İslami derlemelerde rüyada ölen birinin dirilmesi, işlerin yeniden canlanması, durumun düzelmesi ve sıkıntıların geride kalması gibi olumlu alametlerle ilişkilendirilmektedir. Ayrıca bu tür imgeler, gaflet içindeki birini uyarma veya yanlış yoldan dönme çağrısı olarak yorumlanan aktarımlarda görünür; buna karşın klasik İslami kaynaklarda doğrudan ve sabit bir 'ölü dirilmesi' tabiri genelleştirilemez.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde ölüden dirilme, ölümün son söz olmadığı ve diriliş umudunun merkezî olduğu inanç ekseninde okunabilir. Patristik düşüncede uyku ile uyanış arasındaki analoji, rüyadaki ölü dirilişi motifinin ruhsal bir uyanış veya Tanrı’nın hayat verici kudretiyle ilişkilendirilmesine zemin hazırlar; ancak bu tür rüya imgeleri doğrudan kehanet olarak değil, teolojik ve sembolik bağlamlarda değerlendirilmelidir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde Talmud pasajları ve Berakhot çevresindeki yorumlar, ceset ve ölü imgelerini genellikle ev içi durum, barış, huzur veya çeşitli alametler bağlamında değerlendirir. Ölümden sonra yaşam ve diriliş inancı, güçlü bir eskatolojik tema olmakla birlikte, rüyadaki geri dönüş imgesi sabit bir tek-anlama indirgenmeden, teselli veya işaret düzeyinde kontrollü bir çerçevede yorumlanmalıdır.",
+  "buddhistEasternApproaches": "Tibet geleneğinde ölüm, varoluş döngüsü içinde bir geçiş olarak kabul edilir; Tibet Ölüler Kitabı (Bardo) bağlamında rüyada ölen birinin yeniden var olması, ölüm-sonrası süreklilik, bardo deneyimi ve yeniden bedenlenme fikirleriyle ilişkilendirilebilir. Bu çerçevede 'diriliş' yorumu Hristiyan geleneğindeki tekil bir geri dönüşten ziyade yeniden doğuş ve bilinç akışının dönüşümü anlamındadır.",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda ölü dirilmesi, eski biçimlerin çözülmesi ve daha yüksek bir bütünlük içinde yeniden canlanması süreçlerinin sembolüdür. Bu bağlamda motif, kayıp sanılan bir içsel gücün veya ruhsal yönelimin geri dönmesini, içsel simyasal dönüşümün görünürleşmesini ifade edebilir; yine de yorum duygu tonu ve rüyanın bağlamına göre değişir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Bastırılmış dileklerin örtük doyumu, ölümle özdeşleşme veya regresif yeniden doğuş fantazisi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Eski kişiliğin çözülmesi, psikolojik dönüşüm ve özbenlik düzeyinde bütünleşme.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Yaklaşım",
+      "interpretation": "İşlerin canlanması, sıkıntıların bitmesi ve gafletten uyarılma öğeleri.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Simyasal Yaklaşım",
+      "interpretation": "Ruhsal yenilenme, çözülme ve kayıp enerjinin yeniden canlanması.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşımda ortak nokta, 'ölü dirilmesi' imgesinin harfi anlamıyla fiziksel bir geri dönüşten ziyade dönüşüm, geçiş ve bilinç düzeyinde köklü bir değişim olarak okunmasıdır.",
+  "differences": "Yaklaşımlar arasındaki farklar, imgeyi içsel dilekler ve özdeşleşmeler bağlamında okuyan psikanaliz ile dönüşüm ve bireyleşme ekseninde değerlendiren Jungcu-simyasal okumalar ve dini geleneklerin dışsal alametler veya eskatolojik umutlar eksenindeki yorumları arasında yoğunlaşır.",
+  "inusAssessment": "Psikanalitik düzlemde yas, özdeşleşme ve geçmişle hesaplaşma izleri taşıyan bu imge; Jungcu perspektifte ise eski kişiliğin çözülüp yeni bir bütünleşme eşiğine gelindiğini gösteren bir dönüşüm işareti olarak değerlendirilebilir. Rüyanın ayrıntıları —dirilen kişinin kimliği, rüya anındaki duygusal ton ve rüya sahibinin yaşam bağlamı— bu imgenin travmatik bir yansıma mı yoksa ruhsal yenilenme habercisi mi olduğunu belirlemede belirleyicidir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin yöntemsel çerçevesini sunar; 'ölü dirilmesi' gibi imgelerin sistematik olarak nasıl kodlanabileceğini ve duygu tonunun nasıl değerlendirileceğini açıklar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "International Journal of Dream Research Volume 10, No. 1 (2017)",
+      "relevance": "Rüyalarda duyguların nasıl ölçülebileceğine dair yöntemsel ve kuramsal çerçeve sunar; rüya duygularının ölçümüne ilişkin yöntemleri tartışır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/34565/pdf/119430"
+    },
+    {
+      "title": "Dream emotions: a comparison of home dream reports with ...",
+      "relevance": "Ev ve laboratuvar rüya raporlarındaki canlılık ve geri dönüş örüntülerini karşılaştırır; 'yeniden canlanma' türü canlılık ve duygusal tepki örüntülerinin yorumlanmasında bağlamın önemini vurgular.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jsr.12555"
+    },
+    {
+      "title": "analyzing content and affect regulation in dream reports",
+      "relevance": "Rüya raporlarında açık ve örtük duyguların derecelendirilmesi için kullanılan duygu kodlama yaklaşımı.",
+      "url": "https://link.springer.com/article/10.1007/s11818-023-00417-4?error=cookies_not_supported&code=33f1b051-fe64-43cd-a0b1-c7257bd47ca6"
+    },
+    {
+      "title": "Finding Meaning in Dreams: Chapter 9",
+      "relevance": "Ölen bir kişinin rüyada yeniden canlı görülmesine benzeyen örnekler sunar; bu motifin rüya raporlarındaki anlatı yapısını göstermeye yardımcı olur.",
+      "url": "https://dreams.ucsc.edu/Library/fmid9.html"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramı, bastırılmış dilekler ve rüya sembolizmi bağlamında 'ölülerle karşılaşma' temalarına dair kontrollü psikanalitik bir çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Freud’un su, doğum ve ölü kişilerle karşılaşma örüntüleri hakkındaki notları, 'ölü dirilmesi' imgesine yakın psikanalitik bağlantılar sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "SE 15.pdf",
+      "relevance": "Freud’un rüya sembollerinde suyu doğumla ilişkilendiren kısa ve açık formülasyonunu içerir.",
+      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149-169.pdf"
+    },
+    {
+      "title": "Carl Jung – The Scarab as a Symbol of Resurrection",
+      "relevance": "Jungcu sembolizm perspektifi, ölümden sonra canlanma ve yeniden doğuş imgelerinin psikolojik anlamlarını örnekler üzerinden açıklar.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/09/15/scarab-2/"
+    },
+    {
+      "title": "Dying in Your Own Dream: What It Really Means (Jungian ...",
+      "relevance": "Ölüm rüyalarının dönüşüm, yer değişimi ve yolculuk gibi yeniden doğuş sembolleriyle bağlantısını öne çıkarır.",
+      "url": "https://individuate.me/articles/dying-in-your-own-dream-meaning"
+    },
+    {
+      "title": "rebirth | Rebirth, Resurrection, Reincarnation Anthology",
+      "relevance": "Rüya, hastalık ve inisiyasyon bağlamlarında ölüm ile sembolik dirilişin ortak motif olarak görülmesini aktaran derleme.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/03/29/rebirth-8/"
+    },
+    {
+      "title": "The dream in terminal illness : a Jungian case study.",
+      "relevance": "Jungcu vaka çalışmaları, ölüm, transfigürasyon ve diriliş temalarının rüya yorumunda nasıl işlendiğine dair somut örnekler sunar.",
+      "url": "https://open.uct.ac.za/server/api/core/bitstreams/c8a57081-f230-4b25-bff3-2ccd9d0af276/content"
+    },
+    {
+      "title": "Full text of \"Von Franz Luise Marie Jung Gustav Carl Man And His Symbols 1988\"",
+      "relevance": "Altarın mezar ve diriliş yeri olarak çift anlamı; ölümün dönüşüm ve yeniden yaşamla birlikte düşünülmesi.",
+      "url": "https://archive.org/stream/VonFranzLuiseMarieJungGustavCarlManAndHisSymbols1988/Von_Franz_Luise_Marie_Jung_Gustav_Carl_Man_and_His_Symbols_1988_djvu.txt"
+    },
+    {
+      "title": "Carl Jung on Pyramids, Death and Resurrection.",
+      "relevance": "Eski kişiliğin yıkımı ve yenisinin kurulumu üzerinden ölüm-diriliş sembolizmini ilişkilendirir.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/07/23/carl-jung-on-the-pyramids-death-and-resurrection/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation - Attalus.org",
+      "relevance": "Geç antik ve Bizans oneirokritik geleneğinde 'ölülerin dirilişi' motifine ilişkin tarihsel yorumları gösterir; sembolün tarihsel-kültürel çeşitliliğini açığa çıkarır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Rêver la mort, rêver la résurrection : notes sur les clés des songes du Moyen Age et de la Renaissance",
+      "relevance": "Ortaçağ ve Rönesans rüya anahtarlarında ölüm ve diriliş imgelerinin tarihsel kullanımını karşılaştırır.",
+      "url": "https://www.persee.fr/doc/rhren_0181-6799_1993_num_37_1_1934"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' the Interpretation ...",
+      "relevance": "Artemidoros'un eseri ve Antik Çağ rüya yorum geleneğinin tarihsel önemi hakkında akademik çerçeve sunar.",
+      "url": "https://books.google.com/books/about/An_Ancient_Dream_Manual.html?id=QZjFDwAAQBAJ"
+    },
+    {
+      "title": "Dead person : 65 Islamic Dream Interpretations » Dream interpretations based on islamic tradition",
+      "relevance": "Modern İslami rüya tabirleri bağlamında 'ölü dirilmesi' motifine ilişkin aktarımları örnekler; ancak bunların klasik birincil metin düzeyinde genellenemeyeceği not edilmelidir.",
+      "url": "https://islamdreaming.com/dead/"
+    },
+    {
+      "title": "The individual's experience as it applies to the community: An examination of six dream narrations dealing with the Islamic understanding of Death",
+      "relevance": "İslami ölüm anlayışı ve rüya anlatıları bağlamında, ölülerin rüyada görünmesi ve ölüm/diriliş imgelerinin geleneksel yorum çerçevesine dair akademik tartışma sunar.",
+      "url": "https://pdfs.semanticscholar.org/68db/4bbf79048efc55976529b616053e72985bc7.pdf"
+    },
+    {
+      "title": "Rüyada Ölünün Dirildiğini Görmek Ne Anlama Gelir? - Milliyet",
+      "relevance": "Ölünün dirilmesi imgesinin modern İslami rüya tabiri dilinde nasıl işaretlere bağlandığını gösteren bir aktarım.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-olunun-dirildigini-gormek-ne-anlama-gelir-28226"
+    },
+    {
+      "title": "Seeing dead person alive in dream meaning biblical meaning",
+      "relevance": "Ölü kişinin yeniden canlı görünmesi temasını Hristiyan inancında diriliş, umut ve ilişkilerin yeniden kurulması çerçevesinde ele alıyor.",
+      "url": "https://biblestep.com/dreams/seeing-dead-person-alive-in-dream-meaning-biblical-meaning"
+    },
+    {
+      "title": "Doctoral Thesis",
+      "relevance": "Patristik düşüncede uyku-uyanış ile ölüm-diriliş arasında kurulan benzetmeyi ve diriliş sembolizmini tartışıyor.",
+      "url": "https://era.ed.ac.uk/server/api/core/bitstreams/c52021c2-a434-4422-ad59-4122288fb573/content"
+    },
+    {
+      "title": "Berakhot 57.b - Steinsaltz Center",
+      "relevance": "Yahudi rüya yorum geleneğinde ceset/ölü imgelerinin nasıl işaretlere dönüştürüldüğünü gösteren Talmud pasajı; rüya bağlamında doğrudan sabit bir 'ölü dirilmesi' tabiri sunmaz.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Berakot 55-58’in rüya yorumları için temel bir Yahudi kaynak havuzu olarak konumunu ve ölüm temalı rüyaların yorumlanma biçimini özetler.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "The Power of Dreams - Jewish Theological Seminary",
+      "relevance": "Rüya, uyku, ölüm ve gelecek dünya arasındaki Yahudi düşünsel bağlantıyı açıklar; diriliş sembolü için teolojik arka plan sağlar.",
+      "url": "https://www.jtsa.edu/torah/the-power-of-dreams/"
+    },
+    {
+      "title": "THE%20TIBETAN%20BOOK%20OF%20THE%20DEAD.pdf",
+      "relevance": "Tibet Ölüler Kitabı’nın PDF nüshası; ölüm sonrası bardo, rüya-dünyası ve yeniden doğuş tasvirleri içerir.",
+      "url": "https://the-eye.eu/public/Books/World%20Tracker%20Library/worldtracker.org/media/library/Metaphysics%20&%20Spirituality/THE%20TIBETAN%20BOOK%20OF%20THE%20DEAD.pdf"
+    },
+    {
+      "title": "FUNERARY RITES AND THE BUDDHIST MEANING OF DEATH:",
+      "relevance": "Budist ölüm anlayışını ve ölüm-değişim ilişkisinin temel kavramlarını tartışır; ölümün son değil dönüşüm olarak yorumlanmasına bağlam sağlar.",
+      "url": "https://thesiamsociety.org/wp-content/uploads/1980/03/JSS_068_1b_PhraKhruAnusaranasasanaKiartiKeyes_FuneraryRitesAndBuddhistMeaningOfDeath.pdf"
+    },
+    {
+      "title": "Dreams and Death in Tibetan Culture - Tibet House US | NYCthus.org › dreams-death-tibetan-culture",
+      "relevance": "Tibet Budizmi’nde rüyanın ölüm deneyimiyle ilişkisini ve bardo öğretisiyle bağlantısını açıklar; rüya sembolizmi açısından ölüm-geçiş ilişkisinin çerçevesini verir.",
+      "url": "https://thus.org/dreams-death-tibetan-culture/"
+    },
+    {
+      "title": "Collected Works of C.G. Jung, Volume 12: Psychology and Alchemy",
+      "relevance": "Simyasal dönüşüm, çözülme ve yeniden kuruluş metaforları aracılığıyla ölüm-diriliş motiflerinin Jungcu-analitik yorumunu sunar; 'ölü dirilmesi' imgesinin simyasal bağlamdaki okuması için temel kaynaklardan biridir.",
+      "url": "https://jungiancenter.org/wp-content/uploads/2023/09/vol-12-psychology-and-alchemy.pdf"
+    },
+    {
+      "title": "Jungian Insights on Dreams and Death | PDF | Carl Jung - Scribd",
+      "relevance": "Simyasal gelenek içinde yeniden doğuş ve ölümden sonra canlanma temasını Jungcu bakışla yorumlayan metin.",
+      "url": "https://www.scribd.com/document/900330711/On-Dreams-and-Death-a-Jungian-Interpretation-Traum-Und-Tod-Marie-Louise-Von-Franz-Translated-by-Emmanuel-Xipolitas-Boston-Massachusetts"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "buddhist-eastern"
+  ]
+}

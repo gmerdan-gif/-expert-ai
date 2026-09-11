@@ -1,129 +1,259 @@
 {
   "slug": "karanlik",
-  "title": "karanlik",
-  "shortDescription": "Rüyada karanlık görmek, belirsizlik, kafa karışıklığı veya yönünü kaybetme hissiyle ilişkilendirilebilir. Karanlık korkutucuysa kaçınılan endişeleri, huzur vericiyse içe dönme ve dinlenme ihtiyacını yansıtabilir.",
+  "title": "karanlık",
+  "shortDescription": "Rüyada karanlık görülmesi, tek ve sabit bir anlamı olmayan, rüyanın görsel öğeleri, duygusal tonu ve bağlamıyla şekillenen çok katmanlı bir semboldür.",
   "positiveAssociations": [
-    "İçe dönüş ve derinleşme",
-    "Bilinmeyenin sunduğu potansiyel",
-    "Kavramsal düşüncenin sınırlarının ötesine geçme"
+    "Karanlıktan ışığa çıkış",
+    "İçsel gözlem ve içe yönelme",
+    "Gizli potansiyel ve oluş süreci",
+    "Korunma ve dinlenme alanı"
   ],
   "challengingAssociations": [
-    "Korku ve belirsizlik",
-    "Kafa karışıklığı ve yönünü kaybetme",
-    "Ruhsal körlük veya hakikatten uzaklık",
-    "Bilgisizlik ve engellenmiş farkındalık"
+    "Şaşkınlık ve yön kaybı",
+    "Bilinmezlik ve tehdit algısı",
+    "Bastırılmış içerikle karşılaşma",
+    "Ruhsal körlük ve sıkıntı"
   ],
   "contextDependentAssociations": [
-    "Rüya görenin karanlığı nasıl deneyimlediği",
-    "Karanlık içindeki hislerin doğası",
-    "Kültürel ve inançsal arka plan"
+    "Işık-karanlık geçişleri",
+    "Görsel erişimin kısıtlı olması",
+    "Uyku ve uyanıklık döngüsü",
+    "Bedensel ve duyusal uyarılar"
   ],
   "commonVariations": [
     {
-      "title": "Tamamen karanlık bir odada yönünü bulmaya çalışmak",
-      "description": "Rüyada hiçbir şeyin görünmediği karanlık bir mekanda hareket etmeye çalışmak, uyanık yaşamdaki belirsizliklerle ve kafa karışıklığıyla baş etme çabasını yansıtır."
+      "title": "Tanıdık bir odada mutlak karanlık",
+      "description": "Bildiğiniz bir evde ışığın olmaması ve hareket etmekte zorlanma, bireyin aşina olduğu mekânlarda bile yönünü kaybetme veya belirsizlikle yüzleşme durumunu yansıtabilir."
     },
     {
-      "title": "Karanlık bir yolda yürürken belirsiz bir siluet görmek",
-      "description": "Karanlığın içinde beliren şekiller veya siluetler, bilinçdışında kalan henüz adlandırılmamış düşüncelerin ya da dış dünyadaki gizli kalmış durumların simgesi olarak ortaya çıkabilir."
+      "title": "Karanlık bir yolda yürümek ve ışığı aramak",
+      "description": "Görüş mesafesinin sıfıra yakın olduğu karanlık bir patikada ilerlemeye çalışmak, hayatta bir karar aşamasında yön arayışını ve çıkış yolu bulma çabasını simgeler."
     },
     {
-      "title": "Karanlıktan korkarak kaçmaya çalışmak",
-      "description": "Karanlık hissinden kaçma dürtüsü, bireyin yaşamındaki yüzleşmekten kaçındığı korkular, belirsizlikler veya içsel sıkıntılarla ilişkilendirilebilir."
+      "title": "Karanlıktan aniden aydınlığa çıkmak",
+      "description": "Yoğun bir karanlık atmosferin ardından birdenbire gün ışığına veya aydınlık bir alana ulaşmak, sıkıntılı bir dönemin geride kalmasına ve ferahlamaya işaret eder."
     },
     {
-      "title": "Karanlık bir ortamda huzur bulmak",
-      "description": "Karanlığın korkutucu değil sükunet verici bir atmosfer olarak hissedilmesi, dış uyaranlardan uzaklaşma, dinlenme ve içsel dinginlik arayışını temsil edebilir."
+      "title": "Karanlıkta gölge veya belirsiz bir siluetle karşılaşmak",
+      "description": "Karanlık ortamda fark edilen net olmayan bir varlık veya gölge, genellikle kişinin kendi iç dünyasında henüz kabul etmediği veya yüzleşmekten kaçındığı yönlerle temas halinde olduğunu gösterir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "Hristiyanlık sembolizminde karanlık, günah, ruhsal körlük, Tanrı'dan uzaklık ve hakikatten sapma ile ilişkilendirilir; aynı zamanda kötülük, yargı ve ölüm kavramlarının bir metaforu olarak ele alınır.",
-  "jewishTraditions": "Yahudi literatüründe karanlık, gizemli sıkıntıların, insan kırılganlığının ve cehaletin simgesi olarak yer alır.",
-  "buddhistEasternApproaches": "Budist ve Doğu yaklaşımlarında karanlık, avidyā, yani bilgisizlik, aydınlanmayı örten cehalet, kafa karışıklığı ve kavramsal düşüncenin sınırları için kullanılan bir metafor olarak tanımlanır.",
-  "spiritualApproaches": "",
+  "psychology": "Ampirik psikoloji literatüründe karanlık sembolü tek bir sabit anlam taşımaz, rüya içeriği analizi, kodlama yöntemleri ve uykunun çevresel bağlamı üzerinden ele alınır. Melatonin, ışık-karanlık döngüsü ve uyku-uyanıklık düzeni rüya örüntülerini etkileyen fiziksel etmenlerdir. Psikanalitik çerçevede Freud rüyaları bastırılmış isteklerin örtük doyumu olarak görür. Bu bağlamda karanlık, görünürlüğü engelleyen psikik sansür, gerileme ve örtme işlevleriyle bağlantılı bir imge olarak okunabilir. Jungcu derinlik psikolojisinde ise karanlık ego bilincinin dışladığı geniş bilinçdışı alanı ve gölge arketiplerini temsil eder. Karanlıkta ilerlemek, bireyleşme sürecinde bilince katılmayı bekleyen reddedilmiş içeriklerle karşılaşmayı ifade eder.",
+  "jungian": "Jungcu analitik psikolojide karanlık, bilinçli kişiliğin görmediği ya da dışarıda bıraktığı bilinçdışı alanı simgeler. Gölge kavramı, egonun kabul etmek istemediği karanlık yönleri kapsar. Rüyadaki karanlık, bu yönlerle yüzleşme veya henüz ayrışmamış potansiyel içeriklerle temas etme eşiği olarak değerlendirilir.",
+  "islamicTradition": "Klasik ve modern İslami rüya tabiri aktarımlarında karanlık genellikle şaşkınlık, dalâlet, yolunu kaybetme, sıkıntı ve manevi darlıkla ilişkilendirilir. Buna karşın karanlıktan ışığa çıkış motifi, hidayete erme, tövbe etme, kurtuluş, günahları terk etme ve feraha kavuşma gibi olumlu bir dönüşüm olarak yorumlanır.",
+  "christianTraditions": "Hristiyan sembolizminde karanlık, ışığın yokluğunun yanı sıra ruhsal körlük, keder, bilgisizlik ve ilahi rehberliğin eksikliği gibi durumlarla bağdaştırılır. Bazı metinsel yorumlarda ise karanlık, Tanrı’nın insan gözünden sakladığı örtülü mevcudiyeti veya ilahi gizemi temsil eden bir unsur olarak da ele alınabilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyaların anlamı sabit sözlüklere dayanmaz; aksine rüyanın yorumla şekillendiği kabul edilir. Tekvin bağlamındaki yaratılış öncesi karanlık ve kaos motifi göz önüne alındığında, rüyadaki karanlık ilk belirsizlik, biçimlenmemiş potansiyel veya arayış dönemi olarak okunabilir.",
+  "buddhistEasternApproaches": "Budist metinlerde ve Doğu yaklaşımlarında karanlık, genellikle cehalet, yanılgı, bilginin yokluğu ve aydınlanmayı örten bir perde olarak işlenir. Bazı anlatılarda ise öğretinin dünyadan çekilmesi veya manevi boşluk hali karanlık imgeleriyle betimlenir.",
+  "spiritualApproaches": "Ezoterik ve simyasal geleneklerde karanlık, dış dünyanın uyaranlarının çekildiği, dikkatin içe yöneldiği bir dönüşüm alanıdır. Simyada nigredo aşamasıyla ilişkilendirilen karanlık, çözülme ve yeni bir form kazanmadan önceki ilksel hazırlık veya rahmin korunaklı karanlığına benzer bir potansiyel barındırır.",
   "comparisonTable": [
     {
-      "approach": "Jungcu Yaklaşım",
-      "interpretation": "Karanlığı bilinçdışı, gölge benlik ve bastırılmış içeriklerle bağdaştırır.",
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Bastırılmış içerikler, sansür mekanizmaları ve gizlenen arzuların rüyada görülen görsel öğe ve sahneler aracılığıyla ortaya çıkması.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Hristiyan Geleneksel Sembolizm",
-      "interpretation": "Karanlığı günah, ruhsal körlük, yargı ve Tanrı'dan uzaklık ekseninde ele alır.",
+      "approach": "Jungcu Derinlik Psikolojisi",
+      "interpretation": "Ego bilincinin ötesindeki bilinçdışı alan, gölge arketipleri ve henüz ayrışmamış ruhsal içerikle karşılaşma.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Rüya Geleneği",
+      "interpretation": "Şaşkınlık, yön kaybı, sapma veya darlık; karanlıktan aydınlığa geçiş ise tövbe, hidayet ve ferahlama.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist Sembolizm",
-      "interpretation": "Karanlığı bilgisizlik (avidyā), cehalet ve kavramsal kafa karışıklığı olarak tanımlar.",
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Ruhsal körlük, sıkıntı veya bazı bağlamlarda Tanrı'nın örtülü ve gizemli mevcudiyeti.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Yahudi Geleneği",
-      "interpretation": "Karanlığı gizemli sıkıntılar ve insan kırılganlığının bir simgesi olarak görür.",
-      "evidenceLevel": "traditional"
+      "approach": "Simyasal ve Ezoterik Yaklaşım",
+      "interpretation": "Nigredo evresi, ilksel kaos, içe çekilme ve yeniden yapılanma öncesindeki çözülme alanı.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenekler ve teorik yaklaşımlar incelendiğinde karanlığın ortak noktasının 'görünmeyen', 'bilinmeyen' ve algıyı sınırlayan bir alan sunması olduğu görülür.",
-  "differences": "Psikolojik yaklaşımlar karanlığı içsel bir bilinçdışı katman olarak yorumlarken, dini ve geleneksel metinler genellikle onu hakikatten uzaklık, cehalet veya tinsel bir engel olarak konumlandırır.",
-  "inusAssessment": "Karanlık sembolü, tek tip bir anlam taşımaması ve hem psikolojik içgözlem hem de geleneksel metinlerde farklı bağlamlara sahip olması nedeniyle indirgemeci bir yaklaşımla yorumlanamaz; rüyanın bütünündeki hissiyat ve bağlam dikkate alınmalıdır.",
-  "faq": [],
+  "commonGround": "Farklı gelenekler ve psikolojik ekoller arasında karanlık sembolü ortak olarak bilinmeyeni, örtülü olanı ve doğrudan aydınlatılamayan bir alanı işaret eder. İster psikolojik bir bilinçdışı katman, ister dini gelenekte bir sapma veya arayış olarak ele alınsın, karanlık her zaman bir belirsizlik ve ardından gelen bir dönüşüm potansiyeli barındırır.",
+  "differences": "Yorumlar arasındaki temel ayrışma yaklaşım ekseninde belirginleşir; psikanaliz karanlığı içsel sansür ve gizlenen arzularla açıklarken, İslami ve Hristiyan gelenekler manevi yönelim, hidayet veya ruhsal körlük kavramlarına odaklanır. Simyasal ve ezoterik okumalarda ise karanlık olumsuz bir sondan ziyade, yeni bir formun doğmasından önceki hazırlık evresi olarak değerlendirilir.",
+  "inusAssessment": "Rüyada karanlık görülmesi, tekil bir anlama hapsedilemeyecek kadar geniş bir yorumsal spektruma sahiptir. Bu sembolün rüya bağlamındaki gerçek ağırlığını anlamak için, rüya görenin uyanık yaşamındaki duygusal tonu, karanlık içindeki hareket kabiliyeti ve rüyanın sonunda bir aydınlanma ya da çıkış yaşayıp yaşamadığı kritik önem taşır. Karanlık, ister psikanalitik bir örtünme, ister Jungcu bir gölge teması, isterse geleneksel bir yön arayışı olarak okunsun; rüyadaki diğer imgelerle kurduğu zıtlık ve geçişler yorumun yönünü belirleyen temel unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada karanlık görmek her zaman kabus olarak mı yorumlanır?",
+      "answer": "Hayır. Rüyada karanlık görmek her zaman korku veya kabus anlamına gelmez; bazı bağlamlarda içsel dinlenme, potansiyel barındıran bir gizlilik veya dönüşüm öncesi bir hazırlık evresi olarak da ele alınabilir."
+    },
+    {
+      "question": "Karanlıktan aydınlığa çıkmak rüyada ne anlama gelir?",
+      "answer": "Çeşitli geleneklerde ve yaygın rüya yorumlarında karanlıktan aydınlığa geçiş, sıkıntılı bir dönemin son bulması, belirsizliklerin netleşmesi, ferahlama veya doğru yolu bulma şeklinde yorumlanır."
+    },
+    {
+      "question": "Psikolojik olarak rüyadaki karanlık neyi temsil eder?",
+      "answer": "Psikanalitik ve Jungcu çerçevede karanlık, ego bilincinin henüz ulaşmadığı bilinçdışı alanları, bastırılmış materyalleri veya bireyin yüzleşmekten kaçındığı gölge yönlerini temsil edebilir."
+    }
+  ],
   "sources": [
     {
-      "title": "Darkness, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
-      "relevance": "Çevrimiçi rüya yorum metni; karanlığın rüyalarda bilinmeyen, korku ve bilinçdışıyla ilişkilendirildiğini belirtir.",
-      "url": "http://www.dreamtation.com/docs/9431.htm"
+      "title": "[PDF] Dream content analysis: Basic principles",
+      "relevance": "Rüya içeriği analizinin nasıl yapılacağını ve rüya raporlarının nasıl kodlanacağını açıklayan yöntemsel çerçeve.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
     },
     {
-      "title": "Darkness Dreams: What It Means to Dream About ... - Hypnos",
-      "relevance": "Jungcu çerçevede karanlığın bilinçdışı, gölge ve bastırılmış içeriklerle ilişkilendirildiğini ele alan çevrimiçi kaynak.",
-      "url": "https://www.usehypnos.com/blog/darkness-dream-meaning"
+      "title": "When dreams turn dark: Neuroscientists to study nightmares and ...",
+      "relevance": "Kabuslar, kaygı ilişkisi ve 'karanlık rüyalar' başlığı altında karanlık rüya temalarıyla ilişkili güncel nörobilim araştırmalarına dair bir haber özeti.",
+      "url": "https://www.psu.edu/news/engineering/story/when-dreams-turn-dark-neuroscientists-study-nightmares-and-mental-health"
     },
     {
-      "title": "Darkness in Dreams: Meaning, Psychology, and Ways to Work ...",
-      "relevance": "Karanlığı Jungcu dilde gölge benlik, bastırılmış duygular ve içsel belirsizlikle ilişkilendiren çevrimiçi açıklama.",
-      "url": "https://www.dreamspoken.com/en/dream-meaning/darkness"
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Freud’un rüyayı dileğin kılık değiştirmiş doyumu olarak tanımlayan temel rüya kuramı.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
+    },
+    {
+      "title": "Freud (1900) Chapter 1, part a",
+      "relevance": "Freud’un rüya kaynaklarını duyusal, bedensel ve psikik uyarımlar olarak ayırdığı bölüm.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams1a.htm"
+    },
+    {
+      "title": "Dream Psychology",
+      "relevance": "Bastırılmış isteklerin gizlenmiş biçimde rüyada görünmesi fikrini özetleyen klasik Freudcu anlatım.",
+      "url": "https://www.rybn.org/ANTI/ADMXI/documentation/ADMXI/IV.ALGORITHMS/DREAMER/PSYCHOLOGY/pdfs/1920_Sigmund_Freud_Dream_-_Psychology.pdf"
+    },
+    {
+      "title": "preview-9780429907319_A35175687.pdf",
+      "relevance": "Karanlık ve düş çalışması arasında analitik-yorumsal bir metafor kuran psikanalitik tartışma.",
+      "url": "https://api.pageplace.de/preview/DT0400.9780429907319_A35175687/preview-9780429907319_A35175687.pdf"
+    },
+    {
+      "title": "Sigmund Freud [1900] The Interpretation of Dreams ( ...",
+      "relevance": "Rüyanın sansür, gerileme ve dolaylı anlatım mantığını destekleyen klasik Freudcu çerçeve.",
+      "url": "https://ia802907.us.archive.org/17/items/SigmundFreud/Sigmund%20Freud%20%5B1900%5D%20The%20Interpretation%20of%20Dreams%20(James%20Strachey%20translation,%201955).pdf"
+    },
+    {
+      "title": "A Library Guide to Jung's Collected Works: Shadow",
+      "relevance": "Jung’un gölge kavramını, düşlerde görülen karanlık ve reddedilen kişilik yönleriyle ilişkilendirir.",
+      "url": "https://pacifica.libguides.com/Jung/shadow"
+    },
+    {
+      "title": "Volume 9.2: AION: Researches into the Phenomenology of the Self",
+      "relevance": "Jung’un gölgeyi kişiliğin karanlık öğeleri ve bilinçdışı içeriklerle ilişkilendiren özet kaydını sunar.",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-2-aion-researches-phenomenology-self/"
+    },
+    {
+      "title": "Black in Dreams: Meaning in Depth Psychology - Forever Jung",
+      "relevance": "Karanlık ve siyah imgesini Jungcu derinlik psikolojisinde bilinçdışı ve gölgeyle ilişkilendirir.",
+      "url": "https://foreverju.ng/symbols/color_black"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation - Attalus.org",
+      "relevance": "Artemidorus’un rüya yorum kitabının kapsamını ve antik oneirokritik gelenekteki yerini gösterir; karanlık imgelerinin tarihsel rüya okuması için ana çerçeveyi sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "The Allusive Language of Dreams in the Ancient Near East ...",
+      "relevance": "Antik Yakın Doğu ve Greko-Romen rüya yorum gelenekleri arasındaki ilişkiyi ve Artemidorus’un bu alandaki önemini görünür kılar; karanlık sembolünü tarihsel karşılaştırmalı bağlama yerleştirmeye yarar.",
+      "url": "https://bmcr.brynmawr.edu/2008/2008.03.05/"
+    },
+    {
+      "title": "Sleep and Dreams in Ancient Medical Diagnosis and Prognosis",
+      "relevance": "Antik tıpta rüyada görülen karanlığın beden mizacıyla ilişkilendirildiğini ve 'derin karanlık' için siyah safra okumasını verir; karanlık sembolünün tıbbî-oneirokritik yorumunu destekler.",
+      "url": "https://theses.ncl.ac.uk/jspui/bitstream/10443/1577/1/Hulskamp%20M%20A%20A%2008.pdf"
+    },
+    {
+      "title": "Darkness in a dream | The Islamic Dream Book",
+      "relevance": "Karanlık rüya sembolüne dair İbn Sîrîn ve en-Nablusî geleneğine nispet edilen çevrimiçi aktarım; karanlığı şaşkınlık, sapma ve sıkıntı çerçevesinde ele alır.",
+      "url": "https://theislamicdreambook.com/darkness-in-a-dream/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri G Harfi - Muhammed.net",
+      "relevance": "Nablusî başlığı altında rüyada karanlık görmeyi yorumlayan Türkçe derleme; karanlık için dalâlet, şaşkınlık ve kalp/basar karanlığı temalarını aktarır.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-g-harfi.html"
+    },
+    {
+      "title": "تفسير رؤية الظلم في المنام: دلالات ابن سيرين والنابلسي",
+      "relevance": "Arapça derleme; 'ظلمة' için dalâlet, şaşkınlık ve karanlıktan aydınlığa çıkışın kurtuluş veya tövbe ile ilişkisini aktarır.",
+      "url": "https://mana.ms/blog/ar/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%B8%D9%84%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D8%A7%D8%A8%D9%86-%D8%B3%D9%8A%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A"
+    },
+    {
+      "title": "الظلمة في المنام: دلالات الضلال والنور لابن سيرين والنابلسي",
+      "relevance": "Arapça derleme; karanlık ve ışık karşıtlığını hidayet–dalâlet, fitne ve ferahlama ekseninde açıklayan pasajlar içerir.",
+      "url": "https://mana.ms/blog/ar/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D8%B8%D9%84%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D8%A7%D8%A8%D9%86-%D8%B3%D9%8A%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A"
+    },
+    {
+      "title": "Darkness in Dreams — Islamic Interpretation & Meaning",
+      "relevance": "İslami rüya yorumunda karanlığı sapma, şaşkınlık ve yön kaybıyla; karanlıktan ışığa geçişi ise kurtuluş ve doğru yol ile ilişkilendirir.",
+      "url": "https://www.dream-wisdom.com/en/dreams/darkness/"
+    },
+    {
+      "title": "Darkness Islamic Interpretations & Meanings",
+      "relevance": "İslami rüya sözlüğü sayfası; karanlığı yol sapması, hata ve karışıklıkla ilişkilendirir, karanlıktan ışığa çıkışı hidayet ve kurtuluş olarak verir.",
+      "url": "https://www.myislamicdream.com/darkness.html"
+    },
+    {
+      "title": "Ask and You Shall Receive - Apostle David E. Taylor [Official Site]",
+      "relevance": "Karanlığın rüyada ruhsal körlük, keder, sıkıntı, bilinmeyen ve Tanrı’nın ışığıyla aşılabilecek bir durum olarak yorumlanmasını anlatan modern Hristiyan yorum metni.",
+      "url": "https://joshuamediaministries.org/dreams/darkness/"
     },
     {
       "title": "Dark, Darkness - Encyclopedia of The Bible - Bible Gateway",
-      "relevance": "Hristiyan sembolizminde karanlığın günah, ruhsal körlük ve Tanrı'dan uzaklıkla ilişkilendirildiğini gösteren sözlük maddesi.",
+      "relevance": "Kutsal Kitap bağlamında karanlığın kötülük, bilgisizlik, yargı, ölüm ve Tanrı’dan uzaklıkla; bazı metinlerde ise Tanrı’nın örtülü mevcudiyetiyle ilişkilendirilmesini derleyen sözlük maddesi.",
       "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Dark-Darkness"
     },
     {
-      "title": "Topical Bible: Darkness/Night",
-      "relevance": "Kutsal Kitap bağlamında karanlığın Tanrı'nın yokluğu, kötülük ve yargı ile birlikte anıldığını özetleyen derleme.",
-      "url": "https://biblehub.com/topical/d/darkness_night.htm"
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b çevresindeki rüya pasajlarına dair bir Yahudi rüya çerçevesi sunuyor; rüya yorumunun merkezi rolünü anlamak için uygun.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
     },
     {
-      "title": "DARKNESS - JewishEncyclopedia.com",
-      "relevance": "Yahudi literatüründe karanlığın cehalet, kırılganlık ve gizemli sıkıntılarla ilişkilendirildiğini aktaran makale.",
-      "url": "https://www.jewishencyclopedia.com/articles/4904-darkness"
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Talmud'daki rüya yorumunun genel yapısını ve rüya anlamının yorumla ilişkisini özetliyor; 'karanlık' için doğrudan değil, yorum bağlamı için yararlı.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
     },
     {
-      "title": "Dark; Darkness - International Standard Bible Encyclopedia Online",
-      "relevance": "Kutsal Kitap bağlamında karanlığın günah, yargı, ölüm ve insan cehaleti ekseninde ele alındığını özetler.",
-      "url": "https://www.internationalstandardbible.com/D/dark-darkness.html"
+      "title": "Chanukah, Dreaming, Darkness and Light AJR Session II ...",
+      "relevance": "Tekvin 1:2'de karanlığın yaratılışın başındaki düzensizlik ve ışık öncesi durumla birlikte anılmasını gösteren pasajı içeriyor; Yahudi sembolizmi açısından karanlık için temel bir metinsel arka plan sağlıyor.",
+      "url": "https://www.sefaria.org/sheets/366442"
+    },
+    {
+      "title": "Andhakara Sutta: Darkness",
+      "relevance": "Karanlığın, ışığın ulaşmadığı kozmik boşluk ve kasvetli bölge olarak geçtiği Budist söylem.",
+      "url": "https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.046.than.html"
+    },
+    {
+      "title": "SN 5 56 46: Darkness",
+      "relevance": "Budist bağlamda karanlığın cehalet ve yanılgı ile ilişkilendirildiğini belirten metin çevirisi.",
+      "url": "https://obo.genaud.net/dhamma-vinaya/wp/sn/05_mv/sn05.56.046.bodh.wp.htm"
+    },
+    {
+      "title": "[PDF] Dream Interpretation in Buddhism and Contemporary Psychotherapy",
+      "relevance": "Bir Budist rüya sahnesinde tam karanlığın Dharma’nın dünyadan çekilmesiyle ilişkilendirilmesini tartışan çalışma.",
+      "url": "https://thecjbs.org/wp-content/uploads/2025/04/McCullough-Shiu_Dreaming-Buddha_19.pdf"
+    },
+    {
+      "title": "Darkness in dreams — meaning and symbolism",
+      "relevance": "Karanlık için rüyada ve ezoterik çerçevede kısa bir yorum sunan çevrimiçi metin; karanlığı gizlilik, enerjinin içe yönelmesi ve içsel dönüşüm alanı olarak ele alıyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/darkness"
+    },
+    {
+      "title": "Darkness Meaning: Spiritual Signs & Superstitions",
+      "relevance": "Karanlığı genel sembol düzeyinde gizlenmiş olan, henüz görünmeyen, bilinmeyen ve görünüşten önceki aşama olarak tanımlıyor; ezoterik bir sentez için uygun sembolik çerçeve sağlıyor.",
+      "url": "https://mymythos.org/archetype/darkness/"
     },
     {
       "title": "Darkness: Significance and symbolism",
-      "relevance": "Budist geleneklerde karanlığın bilgisizlik ve aydınlanmanın engellenmesiyle ilişkisini özetleyen kaynak.",
+      "relevance": "Karanlığı kaos, gizleme, bilinmezlik ve dönüşüm öncesi bir durum olarak yorumlayan sembolik bir derleme sunuyor; simyasal ve mistik okumalara temas ediyor.",
       "url": "https://www.wisdomlib.org/concept/darkness"
     },
     {
-      "title": "What Does Darkness Mean in Buddhist Imagery?",
-      "relevance": "Budist görsel sembolizmde karanlığın kafa karışıklığı, belirsizlik ve doğrudan kavramsal olmayan farkındalıkla ilişkisini açıklayan metin.",
-      "url": "https://gassho.info/blog-page/darkness-meaning-buddhist-imagery/"
+      "title": "7 Darkness Symbolic Meanings: Creation, Godly Mystery & More",
+      "relevance": "Karanlığı ilksel madde, kaos, gizli ilahi sır ve bilinmezlik ekseninde sembolleştiriyor; ezoterik ve simyasal yorum için yararlı genel bir çerçeve veriyor.",
+      "url": "https://atlasmythica.com/darkness-symbolic-meaning/"
     },
     {
-      "title": "Significance of Darkness and illumination",
-      "relevance": "Mahayana bağlamında karanlık-aydınlık karşıtlığını cehalet ve bilgelik ekseninde ele alan özet.",
-      "url": "https://www.wisdomlib.org/concept/darkness-and-illumination"
+      "title": "Darkness",
+      "relevance": "Karanlığı ilksel kaos, ölüm ve ruhsal karanlıkla ilişkilendirirken onu aynı zamanda tohumun ve rahmin karanlığındaki oluş süreçleriyle bağdaştırıyor; simgesel karşıtlık ve dönüşüm dili sağlıyor.",
+      "url": "https://websites.umich.edu/~umfandsf/symbolismproject/symbolism.html/D/darkness.html"
     },
     {
-      "title": "Mass of darkness: Significance and symbolism",
-      "relevance": "Tibet Budizmi bağlamında 'karanlık kütlesi' metaforunu aydınlanmayı örten bilgisizlik ve engeller olarak açıklayan kaynak.",
-      "url": "https://www.wisdomlib.org/concept/mass-of-darkness"
+      "title": "Nigredo - Wikipedia",
+      "relevance": "Karanlıkla ilgili klasik simyasal terim nigredo’ya kısa bir giriş sunuyor; blackness, çözülme ve dönüşüm öncesi evre çağrışımıyla ezoterik sentez için yardımcı.",
+      "url": "https://en.wikipedia.org/wiki/Nigredo"
     }
   ],
   "relatedSlugs": []

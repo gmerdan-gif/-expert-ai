@@ -1,161 +1,252 @@
 {
   "slug": "goz",
-  "title": "goz",
-  "shortDescription": "Rüyada göz görmek; farkındalık, içgörü ve bir durumu daha net anlama ihtiyacıyla ilişkilendirilir. Parlak ve sağlıklı bir göz berraklık ve güveni, sizi izleyen ya da hasarlı bir göz ise gözetlenme hissini veya dikkat edilmesi gereken bir konuyu çağrıştırabilir.",
+  "title": "göz",
+  "shortDescription": "Rüyada göz görmek, farkındalık, algı, içgörü ve çevrenizde olup bitenleri nasıl değerlendirdiğinizle ilişkilendirilebilir. Net ve sağlıklı gözler açıklık ve farkındalığı; bulanık görmek veya izlendiğinizi hissetmek ise kararsızlık, belirsizlik ya da başkalarının değerlendirmelerine karşı hassasiyeti öne çıkarabilir.",
   "positiveAssociations": [
-    "Gözle bağlantılı içgörü: bilinçdışından bilinçe geçen 'görme' ve yeni farkındalıklar",
-    "Algısal netlik ve odaklanma: bir durumun daha iyi anlaşılması veya dikkatin artması",
-    "Koruyucu/izleyici işlev: nazar inancı, ikonografide koruma amacı taşıyan imgeler ve gözetilme hissinin güven verici yönü.",
-    "Ruhsal veya ahlaki basiret: dini geleneklerde doğruyu görme, inançla ilgili öznel değerlendirme yetisi",
-    "Uyanış ve aydınlanma çağrışımı (üçüncü göz bağlamında)"
+    "Farkındalık ve içgörü",
+    "Ruhsal uyanıklık ve basiret",
+    "İlahi gözetim ve koruma",
+    "Net algı ve hakikati kavrama",
+    "Güçlü dikkat ve odaklanma"
   ],
   "challengingAssociations": [
-    "Süperegonun baskısı ve yargılanma hissi",
-    "Sürekli izlenme duygusu veya rahatsız edici gözetim",
-    "Sağlık, hasar veya karar verme süreçlerine dair uyarılar",
-    "Körlük veya algı kapanması, fark edememe korkusu"
+    "Gözetlenme veya yargılanma hissi",
+    "Kıskançlık ve nazar teması",
+    "Algı bozukluğu veya körlük korkusu",
+    "Oidipus ve kastrasyon çağrışımları",
+    "Hidayetten uzaklaşma veya gaflet"
   ],
   "contextDependentAssociations": [
-    "Gözün temiz, parlak ve sağlıklı görünmesi ile ağrılı, kırık veya kanamalı görünmesi arasındaki fark",
-    "Gözün rüyadaki konumu (başkalarının gözleri, kendi gözleriyle görülme, üçüncü göz hissi)",
-    "Göz imgelerinin kültürel kullanımı (koruyucu amuletler, kutsal bakış, üçüncü göz) yorumları şekillendirir."
+    "Gözün sağlıklı veya hastalıklı görünmesi",
+    "Rüya içindeki görsel dikkat ve sahneye odaklanma",
+    "Uyanık yaşamdaki yoğun düşünceler ve zihinsel içerik",
+    "Tek göz veya çoklu göz motiflerinin varlığı"
   ],
   "commonVariations": [
     {
-      "title": "Parlak ve Sağlıklı Bir Göz Görmek",
-      "description": "Rüyada net ve ışıklı görülen bir göz, zihinsel berraklık, karar alma kapasitesinde güçlenme veya güven duygusuyla ilişkili bir işaret olarak okunabilir."
+      "title": "Aynada kendi gözlerine dikkatle bakmak",
+      "description": "Rüya sahibinin uyanık yaşamdaki kendi farkındalığını, içsel durumunu ve vicdani muhasebesini gözden geçirme çabasını yansıtır."
     },
     {
-      "title": "Üçüncü Göz Deneyimi",
-      "description": "Alın bölgesinde hissedilen veya algılanan üçüncü göz imgesi, sezgisel uyanış, içsel algının genişlemesi veya ruhsal farkındalık arayışını yansıtabilir."
+      "title": "Bulanık veya görme güçlüğü çeken gözler",
+      "description": "Uyanık yaşamda bazı gerçekleri fark etmekte yaşanan tereddütleri, kararsızlıkları veya olayları net biçimde değerlendirememe durumunu simgeler."
     },
     {
-      "title": "İzlenme veya Gözetilme Hissi",
-      "description": "Rüyada bir göz tarafından sürekli takip edildiğini hissetmek, içsel denetim, vicdani sorgulama veya dışsal olarak gözetlenme kaygısına işaret edebilir."
+      "title": "Üzerinde başka gözlerin olduğunu hissetmek",
+      "description": "Rüya sahibinin sosyal çevresi tarafından sürekli izlendiği, denetlendiği ya da değerlendirildiği yönündeki kaygılarına işaret edebilir."
     },
     {
-      "title": "Ağrılı veya Hasarlı Göz",
-      "description": "Yaralı, kanayan veya ağrıyan bir göz görmek, algı, karar verme ya da fiziksel-psişik sağlıkla ilgili dikkat edilmesi gereken yönlerin olduğuna dair uyarı niteliğinde okunabilir."
+      "title": "Parlak ve çok net görünen tek bir göz görmek",
+      "description": "Ezoterik ve geleneksel bağlamda içsel bilgelik, gizli kalmış durumların aydınlanması ve güçlü bir koruma ya da keskin bir algı durumunu temsil eder."
     }
   ],
-  "psychology": "Psikodinamik çerçevede göz, süperegonun yargısı, kişinin kendini denetleniyormuş gibi hissetmesi ve izlenme duygusu ile ilişkilendirilir; rüyadaki gözetlenme hissi çoğunlukla içsel vicdani denetim mekanizmalarının bir yansıması olarak ele alınır.",
-  "jungian": "Jungcu analitik psikolojide göz, bilinç, içgörü ve psişenin kendi iç dünyasını görme kapasitesiyle bağdaştırılır; göz imgeleri, bilinçdışındaki materyalin ortaya çıkması ve bireyin farkındalığının genişlemesi sürecinde sembolik bir rol oynar.",
-  "islamicTradition": "İslami rüya tabirine ilişkin çevrimiçi derlemeler ve klasik yorumlar, göz sembolünü iman, basiret ve kişinin dünya ve ahiret yönelimiyle bağlantılı bir simge olarak ele alır: gözün sağlıklı görünmesi güç ve istikrar göstergesi; ağrı veya kanama ise uyarı biçiminde yorumlanabilir.",
-  "christianTraditions": "Kutsal Kitap ve Hristiyan gelenekte göz, algı, anlayış ve ahlaki sezgiyle ilişkilendirilir; kutsal metinlerde körlük mecazı genellikle Tanrı’ya karşı bilinmezlik veya ruhsal kavrayış eksikliğini simgeler.",
-  "jewishTraditions": "Rabbanî Yahudilikte göz sembolü, Tanrı’nın her şeyi bilmesi ve insanın kavrama yetisiyle bağlantılı olarak yorumlanır; Talmudik metinlerde göz daha çok bedensel işlevler ve rabbanî değerlendirmeler çerçevesinde ele alınır.",
-  "buddhistEasternApproaches": "Budist bağlamda 'göz' ve özellikle 'üçüncü göz' imgesi, sıradan görmenin ötesinde içgörü, uyanış ve gerçekliğin doğasını kavrama ile ilişkilendirilir; Buda gözleri ikonografisi bu farkındalığı simgeler.",
-  "spiritualApproaches": "Modern ezoterik kullanımlarda üçüncü göz, alın bölgesindeki enerji merkeziyle bağdaşlaştırılarak sezgi, içsel algı ve yüksek bilince açılan bir kapı olarak yorumlanır.",
+  "psychology": "Ampirik psikoloji araştırmalarında, 'göz' sembolünün rüyalarda sabit ve evrensel bir anlama sahip olduğuna dair doğrudan bir kanıt bulunmamaktadır. Çalışmalar, rüya içi hızlı göz hareketlerinin (REM) görsel içerikle ilişkili olabileceğini ve rüya imgelerinin uyanıklık deneyimleriyle anlamsal bir süreklilik gösterdiğini ortaya koymaktadır. Psikanalitik çerçevede ise Freudyen yaklaşım, göz sembolünü ve kör etme temalarını Oidipus karmaşası ve kastrasyon tehdidi ekseninde ele alarak bastırılmış korkular ve merak duygusuyla ilişkilendirir.",
+  "jungian": "",
+  "islamicTradition": "İslami rüya tabiri geleneklerinde göz, kişinin dini, basireti, hidayeti ve kalp gözüyle doğrudan ilişkilendirilir. Sağlıklı ve parlak gözler takva, artan basiret ve doğruluk olarak yorumlanırken, göz hastalıkları, körlük veya göz kaybı, dinî eksiklik, gaflet, musibet ya da dünya nimetlerinde kayıp yaşanması ihtimaliyle okunur. Aynı zamanda göz, çocuk, eş veya yakın bağlar metaforu olarak da ele alınır.",
+  "christianTraditions": "Hristiyan teolojik ve sembolik geleneğinde göz, algı, ayırt etme, hakikati yanlıştan seçme ve ruhsal uyanıklık kapasitesinin bir mecazıdır. 'Gören göz' motifi, Tanrı’nın her şeyi bilen ve hazır bulunan nazarını simgelediğinden, rüyada göz imgesi ilahî gözetim veya vicdanın aydınlanması şeklinde okunabilir.",
+  "jewishTraditions": "Nazar kavramı, dikkat, etki, korunma ve başkalarına zarar vermekten kaçınma gibi temalarla birlikte rüya yorumlarının yanı sıra daha geniş sembolik bağlamlarda da yer alır.",
+  "buddhistEasternApproaches": "Budist sembolizmde göz, sıradan bir duyusal organın ötesinde hakikati görme, Dharma’yı kavrama ve şefkatle ilişkilendirilen çok katmanlı bir metafordur. Bilgelik gözü, Dharma gözü ve Buddha gözü gibi hiyerarşik görme biçimleri uyanış ve içgörü düzeylerini simgeler, rüya bağlamında ise bu durum gelenek içi sembolik bir idrak düzeyi olarak ele alınır.",
+  "spiritualApproaches": "Ezoterik ve okült geleneklerde göz, bilinç, algı, içsel farkındalık ve yüzeyin ardını görme kapasitesinin evrensel simgesidir. Özellikle tek göz ya da her şeyi gören göz motifi, ilahî bilgelik, ruhsal uyanıklık, simyasal dönüşüm ve gizli bilgeliğin keşfiyle bağlantılıdır.",
   "comparisonTable": [
     {
-      "approach": "Psikanaliz",
-      "interpretation": "Süperegonun yargısı, vicdani denetim ve izlenme duygusu",
-      "evidenceLevel": "theoretical"
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Sabit bir sembol anlamı yerine görsel dikkat, uyanıklık sürekliliği ve REM hareketleri bağlamında incelenir.",
+      "evidenceLevel": "research"
     },
     {
-      "approach": "Jungcu Analiz",
-      "interpretation": "Bilinç, içgörü ve psişenin görme kapasitesi",
+      "approach": "Psikanaliz",
+      "interpretation": "Kör etme, merak, gözetlenme ve Oidipus karmaşası/kastrasyon tehdidi ekseninde değerlendirilir.",
       "evidenceLevel": "theoretical"
     },
     {
       "approach": "İslami Gelenek",
-      "interpretation": "İman, basiret, dinî/dünyevî yönelim ve sağlıkla ilgili uyarılar",
+      "interpretation": "Dini basiret, hidayet, kalp gözü, takva veya çocuk/eş gibi yakın bağların durumu ile ilişkilendirilir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan Gelenek",
-      "interpretation": "Ahlaki sezgi, ruhsal kavrayış ve kutsal metinlerdeki göz metaforları",
+      "approach": "Hristiyanlık",
+      "interpretation": "Ruhsal görüş, ayırt etme kapasitesi ve Tanrı'nın her şeyi gören nazarı (ilahi gözetim) olarak okunur.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Yahudi Gelenek",
-      "interpretation": "İnsanın kavrama yetisi ve Tanrı’nın her şeyi bilmesi vurgusu",
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Zihinsel içeriğin yansıması ve nazar temaları, dikkat ile değerlendirilme bağlamında ele alınır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu ve Budist Yaklaşım",
-      "interpretation": "Derin içgörü, uyanış ve üçüncü göz bağlantılı aydınlanma",
-      "evidenceLevel": "traditional"
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Dharma'yı kavrama, içgörü, şefkat ve hakikati görme (uyanış) metaforu olarak değerlendirilir.",
+      "evidenceLevel": "spiritual"
     },
     {
-      "approach": "Modern Spiritüel Yaklaşım",
-      "interpretation": "Üçüncü göz ve sezgisel yüksek bilinç kapısı",
+      "approach": "Ezoterizm",
+      "interpretation": "İçsel farkındalık, her şeyi gören göz motifi, ruhsal ışık ve simyasal dönüşümle bağdaştırılır.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Araştırma ve geleneksel kaynaklar göz sembolünde üç somut ortak noktada buluşur: (1) Göz, bilinçdışında kalanları ortaya çıkarıp 'görmeyi' sağlayan bir içgörü aracı olarak değerlendirilir (Jungcu ve Doğu gelenekleri); (2) Göz, ahlaki ve dini metinlerde doğruyu ve yanlış olanı ayırt etme, basiret veya Tanrı’nın gözetimi anlamlarıyla kullanılır (İslami, Hristiyan ve Yahudi kaynakları); (3) Antik ikonografide göz motifleri koruyucu veya tehditkâr bir işlev üstlenir—yani hem korunma hem de gözetlenme hissi üretebilir (Mezopotamya, Mısır buluntuları). Bu üç odak, 'göz'ün farklı disiplinlerde niçin merkezi kaldığını açıklayan özgül, sembole bağlı temalardır.",
-  "differences": "Yaklaşımlar arasındaki temel fark, gözün hangi yönünün vurgulandığıdır: psikanaliz içsel vicdani denetime odaklanırken, Doğu ve spiritüel ekoller içgörüyü ve uyanışı; tarihsel-ikonografik kaynaklar ise gözün koruyucu veya tehditkâr işlevine dikkat çeker; klasik dini geleneklerse basiret ve ahlaki kavrayışı ön plana çıkarır.",
-  "inusAssessment": "Göz sembolü rüya bağlamında genellikle birden fazla işlevi bir arada taşıyabilir: bilinç açılması, ahlaki/ruhsal değerlendirme ve gözetim/koruma dinamikleri iç içe geçer. Rüyanın diğer öğeleri ve kültürel bağlam, sembolün hangi bileşenlerinin öne çıktığını belirler.",
-  "faq": [],
+  "commonGround": "Farklı tüm disiplin ve geleneklerde göz sembolü, en temel düzeyde 'bilme', 'fark etme' ve 'algılama' edimiyle doğrudan köprü kurar; fiziksel görmenin ötesine geçerek zihinsel veya ruhsal bir yönelime işaret eder.",
+  "differences": "Ampirik psikoloji gözü bağlamsal görsel dikkat ve süreklilik verileriyle incelerken, psikanaliz bunu içsel dürtüler ve tehdit algısıyla ele alır. Dini ve ezoterik gelenekler ise sembole hidayet, vicdanın uyanışı, ilahî gözetim veya evrensel bilgelik gibi aşkın anlam katmanları yükler.",
+  "inusAssessment": "Rüyada göz sembolü, düz bir nesne olmaktan öte, rüya görenin uyanık yaşamdaki dikkat odağını ve içsel farkındalık düzeyini doğrudan merkeze alır. Bu sembolü yorumlarken gözün rüyadaki durumu (açık, kapalı, sağlıklı, bulanık veya izlenen bir konumda olması) rüya sahibinin kendi iç dünyasıyla yüzleşme biçimini ya da dış dünyadan gelen değerlendirmelere karşı duyduğu hassasiyeti belirler. Dolayısıyla rüyada göz görmek, tek bir sabit kehanetten ziyade kişinin algı alanında yaşadığı bir içsel durumun veya yönelimin yansımasıdır.",
+  "faq": [
+    {
+      "question": "Rüyada göz görmek her zaman birinin beni izlediği anlamına mı gelir?",
+      "answer": "Hayır; ampirik ve geleneksel yaklaşımlar göz sembolünün yalnızca gözetlenme değil, aynı zamanda içsel farkındalık, bilgi, algı ve dini basiret gibi çok farklı eksenlerde de ele alındığını göstermektedir."
+    },
+    {
+      "question": "Rüyada gözlerin bozulması veya kör olduğunu görmek nasıl yorumlanır?",
+      "answer": "Geleneksel ve psikanaliz kaynaklarında bu tür imgeler, hayattaki bazı gerçekleri fark etmekten kaçınma, kavrayış kaybı, gaflet veya koruma duygusunun zayıflaması gibi temalarla ilişkilendirilir."
+    }
+  ],
   "sources": [
     {
-      "title": "The symbolism of the eye in Mesopotamia and Israel",
-      "relevance": "Mezopotamya ve İsrail bağlamındaki göz ikonografisinin koruma, adanmışlık ve farklı anlam katmanlarına dair tarihsel inceleme.",
-      "url": "https://scholars.wlu.ca/etd/94/"
+      "title": "Using Real-time Reporting to Investigate Visual Experiences in ...",
+      "relevance": "Rüyada kapalı göz imgesinin görsel içerik üzerindeki etkisini inceleyen deneysel bulgular içerir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12829888/"
     },
     {
-      "title": "[PDF] A Study of the Eye Symbol in Mesopotamia Inass Mostafa Abd El ...",
-      "relevance": "Antik Mezopotamya sanatında göz sembolünün koruyucu, kutsal ve yıkıcı çağrışımlarını ele alan ikonografik çalışma.",
-      "url": "https://bcps.journals.ekb.eg/article_267389_90373801e3dac9476a5fed3ccf30f302.pdf"
+      "title": "Effect of Visual Stimuli on Dream Content - Allan Rechtschaffen, David Foulkes, 1965",
+      "relevance": "Görsel uyaranların rüya içeriğine nasıl yansıdığına dair deneysel bulgular sunar.",
+      "url": "https://journals.sagepub.com/doi/10.2466/pms.1965.20.3c.1149"
     },
     {
-      "title": "[Symbolics of the eye in mythology and history] - PubMed",
-      "relevance": "Göz sembolünün mitoloji ve tarih boyunca bilinç, ışık ve algı ile ilişkilendirilmesine dair tarihsel çerçeve.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/17153308/"
+      "title": "A Novel Approach to Dream Content Analysis Reveals Links ...",
+      "relevance": "Uyanıklık deneyimleri ile rüya raporları arasındaki anlamsal sürekliliği nicel olarak inceleyen çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6088287/"
     },
     {
-      "title": "Dreampaths",
-      "relevance": "Göz sembolünün Jungcu analitik psikoloji bağlamında bilinç ve içgörüyle ilişkilendirilmesine dair yorumlayıcı kaynak.",
-      "url": "https://dreampaths.net/symbol/eyes"
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Rüya içerik analizinin frekans ve bağlam temelli yöntemini açıklayan akademik kaynak.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
     },
     {
-      "title": "Eye Dream Interpretation - Eye Dream Meaning",
-      "relevance": "Göz imgesinin psikodinamik yaklaşımlarda süperego, izlenme ve yargılanma duygusuyla ilişkilendirilmesine dair popüler yorum.",
-      "url": "https://www.dreamsmain.com/eye"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüya çözümlemesinde göz sembolizmine ve kör etme/Oidipus bağlantısına değinen klasik metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "Eyes Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya yorumlarında gözün hangi temalarla (iman, basiret, uyarı) ilişkilendirildiğini derleyen çevrimiçi kaynak.",
-      "url": "https://www.myislamicdream.com/eyes.html"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus'un rüya kitabına erişim sağlayan çeviri sayfası; rüyada görme, körlük ve gözle ilişkili yorumların tarihsel oneirokritik bağlamını destekleyen genel bir kaynak.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "What does it mean to see an eye in a dream?",
-      "relevance": "Klasik İslami rüya yorumuna atıfla gözün sağlık, aile düzeni, güç ve uyarı anlamlarını özetleyen açıklama.",
-      "url": "https://www.molla.az/en/dream-interpretation/what-does-it-mean-to-see-an-eye-in-a-dream"
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Göz maddesinde gözün din, hidayet ve kalp gözü ile ilişkisi aktarılır.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
     },
     {
-      "title": "6. “The Pupil Of Your Eye”: God’s Eye And Our Perception",
-      "relevance": "Hristiyan/Kutsal Kitap geleneğinde göz metaforunun algı, anlayış ve ruhsal kavrayışla ilişkisini ele alan kaynak.",
-      "url": "https://bible.org/seriespage/6-pupil-your-eye-god-s-eye-and-our-perception"
+      "title": "تفسير حلم العين رؤيا عين في المنام للنابلسي لابن شاهين",
+      "relevance": "Gözün rüyada din ve basiret anlamına geldiğini, ayrıca bozuklukların dinî eksiklikle ilişkilendirildiğini gösteren Arapça bir derleme sayfası.",
+      "url": "https://www.m3any.com/eye-interpretation/"
     },
     {
-      "title": "[PDF] Eye of the Beholder: Ophthalmic Illness in Talmudic Literature",
-      "relevance": "Talmudik literatürde gözün bedensel işlevleri ve rabbanî değerlendirmeler bağlamında ele alınışına dair akademik çalışma.",
-      "url": "https://www.yu.edu/sites/default/files/legacy/uploadedFiles/Academics/Seminary/RIETS/Programs/Jewish_Medical_Ethics/Verapo_Yerapey/Eye%20of%20the%20Beholder-%20Ophthalmic%20Illness%20in%20Talmudic%20Literature.pdf"
+      "title": "Eyes in Dreams — Islamic Interpretation & Meaning | Dream Wisdom",
+      "relevance": "İslami yorum geleneğinde gözün din, basiret, çocuk, eş ve korku gibi anlam katmanlarını topluca veren çevrimiçi bir derleme.",
+      "url": "https://www.dream-wisdom.com/en/dreams/eyes/"
     },
     {
-      "title": "Journal of Religion & Society",
-      "relevance": "Rabbanî Yahudilikte Tanrı’nın bilgisi ve göz sembolü arasındaki bağlantıyı tartışan akademik analiz.",
-      "url": "https://cdr.creighton.edu/server/api/core/bitstreams/18e83a3f-5bd8-477f-a57a-228a0ec0011e/content"
+      "title": "تعبیر خواب چشم ابن سیرین",
+      "relevance": "İbn Sîrîn’e atfedilen göz yorumlarını toplu biçimde sunan Farsça bir sayfa; gözün çocuk, din, iman, eş ve mal ile bağlantılandırılmasını içeriyor.",
+      "url": "https://falokhab.ir/604170-cheshm-ebne-sirin/"
     },
     {
-      "title": "Third eye - Wikipedia",
-      "relevance": "Üçüncü göz kavramının Hinduizm ve Budizm’deki genel konumunu ve çağdaş ruhsallıktaki kullanımlarını özetleyen referans.",
-      "url": "https://en.wikipedia.org/wiki/Third_eye"
+      "title": "What Does Dreaming of Blue Eyes Mean? Don't Ignore This Message - Dreamorian",
+      "relevance": "Gözün parlaklık, renk ve ruh hâliyle ilişkili sembolik anlamlarını aktaran çevrimiçi bir yorum sayfası.",
+      "url": "https://dreamorian.com/what-does-dreaming-of-blue-eyes-mean-dont-ignore-this-message/"
+    },
+    {
+      "title": "IBN SEERiN'S",
+      "relevance": "İbn Sîrîn’e atfedilen bir sözlükte gözün din veya servetle ilişkili olduğu ve göz iltihabının da bazı kayıp ya da gaflet anlamları taşıdığı aktarılıyor.",
+      "url": "https://ia903101.us.archive.org/11/items/IbnSirinDictionaryOfDreams/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Meaning of Seeing Eyes in Dreams – By Imam Qarafi | Islamic ...",
+      "relevance": "Gözlerin çocuk, sevgili, din veya başka yakın bağlarla ilişkilendirildiği ve göz kusurunun bu alanlarda kusuru yansıttığı bir İslami yorum sayfası.",
+      "url": "https://islamicdreamqa.com/interpretation-of-seeing-eyes-in-dreams/"
+    },
+    {
+      "title": "5149 eyes - Dictionary of Bible Themes",
+      "relevance": "Gözün Kutsal Metin içindeki algı, uyanıklık ve ruhsal anlayış çağrışımlarını derler; Hristiyan sembolik okumaya arka plan sağlar.",
+      "url": "https://www.biblegateway.com/resources/dictionary-of-bible-themes/5149-eyes"
+    },
+    {
+      "title": "Eyes",
+      "relevance": "Gözün Kutsal Kitap dilinde görmek, bilmek ve yargılamakla ilişkili mecazi kullanımını açıklar; sembolik yorum için temel çerçeve sunar.",
+      "url": "https://sb.rfpa.org/eyes/"
+    },
+    {
+      "title": "Eye Christian Symbol",
+      "relevance": "Hristiyan sanatında 'gören göz' motifinin Tanrı’nın her şeyi bilen ve hazır bulunan nazarını temsil ettiğini açıklar; sembolik arka plan verir.",
+      "url": "https://www.catholic-saints.info/catholic-symbols/eye-christian-symbol.htm"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Berakhot 55b’de rüya, zihinsel içerik ve nazar temalarını bir arada gösteren pasaj.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Berakhot 55b:12",
+      "relevance": "Babil Talmudu’nda rüya yorumunun temel çerçevesini veren Berakhot 55b bölümü.",
+      "url": "https://www.sefaria.org/Berakhot.55b.12"
+    },
+    {
+      "title": "The Evil Eye - Aish.com",
+      "relevance": "Rabbanî gelenekte rüya yorumu ve nazar temasının nasıl birlikte düşünüldüğünü anlatan popüler bir açıklama.",
+      "url": "https://aish.com/48915467/"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Berakhot 55a–57b’nin Yahudi rüya geleneğindeki yerini ve rüya imgelerinin sembolik yorumunu inceleyen akademik çalışma.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
     },
     {
       "title": "Buddha-eye: Significance and symbolism",
-      "relevance": "Budist bağlamda 'Buddha gözleri' kavramının içgörü ve gerçekliği kavrama ile ilişkisini açıklayan kaynak.",
+      "relevance": "Budist gelenekte Buddha gözü kavramının içgörü, hakikati kavrayış ve şefkatle ilişkisini açıklar.",
       "url": "https://www.wisdomlib.org/concept/buddha-eye"
     },
     {
-      "title": "Eyes of Buddha - Wikipedia",
-      "relevance": "Budist sanatında 'Buddha gözleri' motifinin kullanımını ve göz ile üçüncü göz arasındaki ikonografik bağı ele alan kaynak.",
-      "url": "https://en.wikipedia.org/wiki/Eyes_of_Buddha"
+      "title": "Eye: Significance and symbolism",
+      "relevance": "Göz kavramının Budist bağlamda duyusal organı aşan, Dharma ve bilgelikle ilişkili anlam katmanlarını gösterir.",
+      "url": "https://www.wisdomlib.org/concept/eye"
     },
     {
-      "title": "Buddha Eyes - AncientSymbols.org",
-      "relevance": "Stupalar üzerindeki 'Buddha gözleri' motifinin yapısını ve göz ile üçüncü göz arasındaki ikonografik bağı ele alan açıklama.",
-      "url": "https://ancientsymbols.org/buddha-eyes/"
+      "title": "City of 10,000 Buddhas",
+      "relevance": "Buddha gözü ifadesinin Buddhadharma’nın gerçek anlamını kavramayla bağlantısını verir.",
+      "url": "https://www.cttbusa.org/vajrasutra/vs18.html"
+    },
+    {
+      "title": "Empty_Vision_Metaphor_and_Visionary_Imagery_in_Mahayana_Buddhism_(_PDFDrive_).pdf",
+      "relevance": "Mahayana bağlamında göz, bilgi-görüş eşleşmesi ve üst görme biçimleriyle açıklanır; uyanış metaforlarını da içerir.",
+      "url": "https://tibetanbuddhistencyclopedia.com/en/images/4/4e/Empty_Vision_Metaphor_and_Visionary_Imagery_in_Mahayana_Buddhism_(_PDFDrive_).pdf"
+    },
+    {
+      "title": "རྒྱལ་སྤྱིའྤྱི་གཞོན་ནུའྤྱི་བོད་རྤྱིག་པའྤྱི་གོས་ཚོགས་ཐེངས་བདུན་པ།",
+      "relevance": "Tibet Budizmi rüya pratikleri ile göz sembolizmi arasındaki ilişkiyi ana hatlarıyla belirtir.",
+      "url": "https://youngtibetologists.iats.info/Book-of-Abstracts_FINAL.pdf"
+    },
+    {
+      "title": "Eyes Meaning & Symbolism in Mythology, Folklore & Spirit Work",
+      "relevance": "Batı ezoterik ve mitolojik sembolizmde gözün bilinç, algı, omniscience ve ilahî gözetimle ilişkilendirilmesini anlatır.",
+      "url": "https://wisdomofthespirit.com/eyes-symbolism-meaning/"
+    },
+    {
+      "title": "Eye: Esoteric Meaning & Symbolism | Theosophy Trust",
+      "relevance": "Gözün ruhsal ışık, iç görme ve ezoterik algı ile bağlantısını ele alan teosofik yorum sunar.",
+      "url": "https://theosophytrust.org/712-the-eye"
+    },
+    {
+      "title": "Eye Images are Occult Symbols",
+      "relevance": "Gözün okült sembolizmde ilahîlük, ışık, içsel görme ve koruma gibi temalarla nasıl okunduğunu açıklar.",
+      "url": "https://www.shininglotus.com/eye-images-are-occult-symbols/"
+    },
+    {
+      "title": "The Eye That Watches: All-Seeing Eye Decoded",
+      "relevance": "All-seeing eye ve simyasal bağlamda gözün içsel görüş, dönüşüm ve bilinçle ilişkilendirilen yorumlarını derler.",
+      "url": "https://zenitheye.net/all-seeing-eye-decoded-meaning/"
+    },
+    {
+      "title": "The Eye As A Symbol | Mandala Madness - Shirleytwofeathers",
+      "relevance": "Gözün Batı büyüsel gelenekte, üçüncü göz ve all-seeing eye üzerinden ruhsal uyanıklık, içsel görme ve gizli bilgelikle bağlantısını özetler.",
+      "url": "https://shirleytwofeathers.com/The_Blog/mandalamadness/the-eye-as-a-symbol/"
     }
   ],
   "relatedSlugs": []

@@ -1,0 +1,254 @@
+{
+  "slug": "ogrenci",
+  "title": "öğrenci",
+  "shortDescription": "Rüyada öğrenci görmek, öğrenme ve kişisel gelişim isteğinin yanı sıra gündelik stresleri, değerlendirilme kaygısını veya sorumluluk yorgunluğunu yansıtabilir. Sınav ya da sınıf ortamı baskı ve yetersizlik duygularını; merak veya neşe ise yeni deneyimlere açıklığı çağrıştırır.",
+  "positiveAssociations": [
+    "Yeni bilgi ve deneyimlere açıklık",
+    "Kişisel gelişim ve dönüşüm süreci",
+    "Alçakgönüllülük ve öğrenme isteği",
+    "Bazı modern aktarımlarda neşe, bahtiyarlık ve dönüm noktası niteliğinde gelişmeler"
+  ],
+  "challengingAssociations": [
+    "Geçmişten gelen sınav kaygısı ve yetersizlik duyguları",
+    "Utanma ve yeniden değerlendirilme baskısı",
+    "Bir otorite karşısında kendini eksik veya sınanıyormuş gibi hissetme",
+    "Görev ve sorumlulukların yarattığı zihinsel yorgunluk"
+  ],
+  "contextDependentAssociations": [
+    "Rüya görenin uyanık yaşamdaki mesleki ve sosyal konumu",
+    "Rüyadaki öğrencinin kişinin kendisi mi yoksa dışsal bir figür mü olduğu",
+    "Ortamın bir sınav salonu, sınıf, kütüphane veya okul binası olması",
+    "Rüya sırasında hissedilen duygusal ton (baskı, neşe veya merak)"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kendini Tekrar Sınavda veya Sınıfta Görmek",
+      "description": "Yetişkinlik döneminde eski bir okula veya sınav salonuna geri döndüğünü görmek, geçmişteki değerlendirilme ve yetersizlik kaygılarını tetikleyebilir."
+    },
+    {
+      "title": "Kalabalık Bir Öğrenci Grubu Arasında Olmak",
+      "description": "Çevrenin genç veya öğrenci kimliğine sahip insanlarla dolu olması, sosyal etkileşim, toplumsal normlar ve kişinin kendi öğrenme evresindeki konumuyla ilgili dinamiklere işaret eder."
+    },
+    {
+      "title": "Ders Çalışan veya Okulda Olan Bir Öğrenciyi İzlemek",
+      "description": "Rüya sahibinin bizzat öğrenci olmak yerine dışarıdan bir öğrenciyi gözlemlemesi, uyanık yaşamda yeni bir bilgi edinme veya bir sürece dışarıdan bakma ihtiyacını yansıtabilir."
+    },
+    {
+      "title": "Üniversite Kampüsünde veya Kütüphanede Bulunmak",
+      "description": "Üniversite binaları, ders içerikleri veya kütüphane ortamlarının rüyada yer alması, zihinsel hazırlık, araştırma süreçleri ve gündelik akademik streslerin yansımalarıyla örtüşebilir."
+    }
+  ],
+  "psychology": "Ampirik psikoloji araştırmalarında, eğitim ve akademik yaşamla bağlantılı öğelerin rüyalarda düzenli olarak kodlandığı gösterilmiştir. Hall ve Van de Castle'e dayanan içerik analizleri, sınavlar, testler, ders çalışma grupları, kütüphaneler, üniversite binaları ve öğretim elemanı figürlerinin rüya içeriklerinde ölçülebilir kategoriler oluşturduğunu göstermektedir. Bu tür rüya içerikleri genellikle uyanık yaşamın yakın dönem deneyimleri ve gündelik streslerle yakından örtüşmektedir.",
+  "jungian": "Analitik psikoloji çerçevesinde öğrenci imgesi, bireyleşme süreciyle bağlantılı bir öğrenme konumunu ve ruhsal gelişimi çağrıştırır. Jungcu yaklaşıma göre semboller sabit sözlük anlamlarına sahip değildir; rüya, bilinçdışındaki gerçek durumu simgesel bir dille ifade eder ve öğrenci figürü de kişinin henüz tamamlanmamış potansiyeline veya içsel bir dönüşüm eşiğine işaret edebilir.",
+  "islamicTradition": "Klasik İslami rüya ilmi (oneiroloji) kaynaklarında doğrudan \"öğrenci\" sembolüne dair kesin ve doğrulanmış bir ana metin kaydı bulunmamakla birlikte, bazı modern aktarımlarda ve derlemelerde rüyada öğrenci görmek neşe ve hayatın dönüm noktası sayılabilecek hayırlı gelişmelerle ilişkilendirilmektedir.",
+  "christianTraditions": "Hristiyan sembolik okumalarında ve erken dönem rüya düşüncelerinde öğretim, şekillenme, ruhsal büyüme ve bir öğretime bağlılık önemli temalardır. Rüya bağlamında öğrenci figürü, kişinin ruhsal durumunu yansıtan, ilahî veya moral bir rehberliğe ve itaate açık olma halini temsil edebilir.",
+  "jewishTraditions": "Yahudi rüya yorum geleneğinde, özellikle Babil Talmudu’nun Berakhot bölümünde yer alan tartışmalar rüya anlamının sabit olmadığını ve büyük ölçüde yoruma bağlı şekillendiğini vurgular. Doğrudan 'öğrenci' için özel bir rüya maddesi bulunmasa da, öğrenme ve Tora çalışması ekseninde temkinli bir sembolik okuma yapılabilir.",
+  "buddhistEasternApproaches": "Tibet tıbbı ve Budist pratik geleneklerinde rüyalar, geçmiş deneyimlerin izleri, spiritüel isteklerin gerçekleşmesi veya rüya alametleri gibi kategoriler altında ele alınır. Öğrenci figürü bu gelenekte doğrudan tanımlanmasa da, rüya bağlamı zihinsel disiplin ve kültürel içeriklerle ilişkilendirilebilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda öğrenci figürü, kişinin kendini hâlâ bir gelişim aşamasında görmesi, alçakgönüllülük geliştirmesi ve yeni yaşam deneyimlerine açık kalmasıyla bağdaştırılır. Simyasal açıdan bu imge, umutların gerçekleşmesi ve yeni açılımlar barındıran bir geçiş evresini simgeleyebilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Eğitim ve okul temalı rüyaların gündelik stresler, akademik baskılar ve uyanık yaşam deneyimleriyle ölçülebilir ilişkisi.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Geçmişten gelen sınav rüyaları, utanma, yetersizlik duyguları ve bastırılmış isteklerin gizlenmiş doyum arayışı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bireyleşme süreci içinde ruhsal dönüşüm, içsel gelişim eşiği ve bilinçdışı durumun simgesel ifadesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel / Modern Aktarımlar",
+      "interpretation": "Bazı modern tabirlerde neşe, sevinç, bilgi artışı ve hayatın dönüm noktası niteliğindeki gelişmelerle ilişkilendirilmektedir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Alçakgönüllülük, yeni bilgiye açıklık, gelişim eşiği ve geçiş odaklı umutlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve yaklaşımlar, öğrenci veya okul temalı rüyaların tek ve sabit bir anlam taşımadığı görüşünde birleşir.",
+  "differences": "Yaklaşımlar arasındaki temel fark, odak noktalarından kaynaklanır. Ampirik psikoloji, rüyaları içerik ölçekleri kullanarak ve gündelik streslerle ilişkilendirerek açıklar; psikanaliz ise bastırılmış istekler ve sınav kaygısı gibi derin katmanlara odaklanır. Geleneksel ve spiritüel okumalar ise sembole daha umut verici veya gelişim odaklı manevi anlamlar yükler.",
+  "inusAssessment": "Rüyadaki öğrenci figürü, sadece okul veya eğitim hayatına duyulan nostaljik bir özlemi değil, kişinin uyanık yaşamında kendini hangi konumda gördüğünün psikolojik bir haritasını sunar. Sınav salonları, ders çalışma ortamları veya kalabalık öğrenci toplulukları gibi detaylar, rüya sahibinin hayatın hangi alanında test edildiğini, bir otorite karşısında nasıl konumlandığını ya da yeni bir şeyler öğrenme sürecinde ne tür içsel baskılar yaşadığını gösterir. Bu sembolü değerlendirirken rüyanın duygusal tonuna (baskı ve kaygı mı, yoksa keşif ve neşe mi baskın?) dikkat etmek, rüyanın taşıdığı anlamı çözmede en kritik ayrım noktasıdır.",
+  "faq": [
+    {
+      "question": "Rüyada sürekli öğrenci olduğumu ve sınava girdiğimi görmek ne anlama gelir?",
+      "answer": "Bu tür rüyalar genellikle psikodinamik literatürde 'sınav rüyaları' olarak ele alınır ve uyanık yaşamda hissedilen değerlendirilme baskısı, yetersizlik korkusu veya geçmişteki benzer stresli durumların yeniden canlanmasıyla ilişkilendirilir."
+    },
+    {
+      "question": "Öğrenci sembolü her zaman okul hayatıyla mı ilgilidir?",
+      "answer": "Hayır. Ampirik ve psikolojik çalışmalar bu temaların genellikle gündelik stresler ve görev baskılarıyla örtüştüğünü gösterse de, sembol aynı zamanda kişinin hayatta yeni bir şeyler öğrenme sürecinde olduğunu veya bir gelişim eşiğinde bulunduğunu da simgeleyebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream content analytic scale for measuring studies-related topics: Reliability and validity",
+      "relevance": "Rüyalarda eğitimle ilişkili temaları ölçmek için geliştirilmiş ölçeğin tanımını ve hangi öğelerin kodlandığını verir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/110481"
+    },
+    {
+      "title": "Dream content analytic scale for measuring studies-related ...",
+      "relevance": "Eğitim temalı rüya içeriğinin güvenilir biçimde ölçülebileceğini ve gündelik stresle ilişkili olabileceğini açıklar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/110481/109146/288743"
+    },
+    {
+      "title": "Sleep, dreams and emotion regulation in higher education ...",
+      "relevance": "Üniversite öğrencilerinin rüyalarında içerik analizi ve duygulanımın nasıl incelendiğini gösterir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/112003/109142/288739"
+    },
+    {
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içeriğini karakterler, duygular, etkinlikler ve mekânlar gibi kategorilerle sistematik olarak kodlayan klasik çerçeveyi özetler.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "[PDF] Can students' dream experiences reflect their performance in public ...",
+      "relevance": "Öğrencilerin rüya deneyimleri ile akademik performans arasındaki ilişkiyi ele alan çalışma kaydı.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/20464/pdf/90174"
+    },
+    {
+      "title": "Chapter 4: Normative Findings on American College Students",
+      "relevance": "Kolej öğrencilerinde normatif rüya bulgularını ve veri toplama bağlamını açıklar.",
+      "url": "https://dreams.ucsc.edu/Library/fmid4.html"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramının temel metni; rüyayı bastırılmış isteğin gizlenmiş doyumu olarak tanımlar ve sembol okumasının genel çerçevesini verir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Dream Psychology / Psychoanalysis for Beginners",
+      "relevance": "Freudçu rüya sembolizmi ve bir rüya örneğinde 'öğrenci' figürünün özneyle ilişkilendirilişi üzerine örnek malzeme sunar.",
+      "url": "https://www.ibhcenter.org/wp-content/uploads/Dream-Psychology-Psychoanalysis-for-Beginner-Sigmund-Freud.pdf"
+    },
+    {
+      "title": "Wish Fulfilment - The Interpretation of Dreams",
+      "relevance": "Freud’un rüya yorumunda istek doyumu ve rüya çalışması yaklaşımını özetleyen kurum sayfası.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/wish-fulfilment/"
+    },
+    {
+      "title": "Freud's Method for Interpreting Dreams - London",
+      "relevance": "Freud’un rüya yorum yönteminde serbest çağrışımın merkezde olduğunu anlatan kurum sayfası; sabit sembol sözlüğüne karşı yöntemsel bağlam sağlar.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/freuds-method-for-interpreting-dreams/"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Freud’un, psikanalitik süreç ve tedavi bağlamında görülen rüyaları ele aldığı bölüm; okul ve değerlendirilme çağrışımlarıyla birlikte düşünülebilir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Examination Dreams | Encyclopedia.com",
+      "relevance": "Freudcu literatürde 'sınav rüyaları' başlığı altında okul, sınıf ve yeniden sınanma temasını özetler; öğrencilik bağlamına en yakın klasik çerçevelerden biridir.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/examination-dreams"
+    },
+    {
+      "title": "[PDF] Dream Symbols of the Individuation Process: Notes of C. G. Jung's ...",
+      "relevance": "Jung’un seminer notları üzerinden bireyleşme sürecindeki rüya sembollerine dair derleme; öğrenci imgesinin öğrenme ve dönüşüm bağlamında düşünülmesine kapı açan Jungcu çerçeve sunuyor.",
+      "url": "https://pup-assets.imgix.net/onix/images/9780691191942/9780691228068.pdf?fm=pdf"
+    },
+    {
+      "title": "Dreams In Jungian Psychology: The use of Dreams as ... - PMC",
+      "relevance": "Jung’un sembol ve rüya anlayışını özetleyen akademik bir makale; sembollerin bilinçdışı içerik taşıdığı ve yorumun bağlama dayandığı fikrini doğruluyor.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3216128/"
+    },
+    {
+      "title": "Interpretation of Dreams (Analytical Psychology)",
+      "relevance": "Jungcu sözlük karşıtlığına dikkat çeken bir başvuru metni; sembolün sabit anlam değil, bilinçdışına işaret eden dinamik bir imge olduğu fikrini destekliyor.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/interpretation-dreams-analytical-psychology"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Grek rüya yorumunun temel kaynağıdır; rüya sembollerinin bağlama göre okunması ve yorumda rüya görenin durumunun dikkate alınması için merkezîdir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’un rüya tipleri ve yorum çerçevesi üzerine akademik tartışma sunar; rüya yorumunun teorik arka planını destekler.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’un rüya dili ve yorum formüllerini inceleyerek sembol-yorum ilişkisini ve bağlamsal açıklama biçimini gösterir.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un Oneirocritica’sının antik dönemde korunmuş en kapsamlı rüya yorumu metni olduğunu ve yorumun rüya görenin arka planına göre şekillendiğini belirtir.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri | Bilmesek olmaz - Nedir? Nasıl ...",
+      "relevance": "Rüyada öğrenci görmek ve öğrenci olarak okula devam etmek hakkında modern bir tabir aktarır; sembolü neşe, eğlence ve dönüm noktası niteliğindeki gelişmelerle ilişkilendirir.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/imam-nablusi-ruya-tabirleri/"
+    },
+    {
+      "title": "Rüyada Öğrenci Görmek Neyin Tabiridir - Secdem / Bir Dünya İçerik",
+      "relevance": "Rüyada öğrenci görmekle ilgili bir aktarım sunar ve bunu neşe, eğlence ve hayatı değiştiren olaylarla ilişkilendirir.",
+      "url": "https://www.secdem.net/ruya-tabirleri/ruyada-ogrenci-gormek-neyin-tabiridir.html"
+    },
+    {
+      "title": "Rüyada Öğrenci Görmek Ne Demek? Okulda, Sınıfta Kalabalık Öğrenci Topluluğu Görmek",
+      "relevance": "Rüyada öğrenci görmek ifadesini bahtiyarlık ve sevinçle ilişkilendiren modern bir tabir aktarımı sunar.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-ogrenci-gormek-ne-anlama-gelir-28185"
+    },
+    {
+      "title": "Disciple Dream Meaning - Interpret Your Dream! - Mirror",
+      "relevance": "Öğrenci ile disiplin, Mesih’i izleme ve öğretime bağlılık arasındaki teolojik ilişkiyi açıkça kuran Hristiyan yorum metni.",
+      "url": "https://mirrorwithin.com/dream-dictionary/disciple/"
+    },
+    {
+      "title": "Doctrinalising dreams: patristic views of the nature of dreams and their relation to early Christian doctrines",
+      "relevance": "Erken Hristiyanlarda rüyaların ruhsal durum, moral uyarı ve ilahî iletişimle ilişkisini tarihsel olarak tartışan akademik çalışma; 'öğrenci' sembolünün Hristiyan sembolik okumaya yerleştirilmesi için bağlam sağlar.",
+      "url": "https://era.ed.ac.uk/handle/1842/5462"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200 ...",
+      "relevance": "Babil Talmudu’ndaki rüya bölümünün kapsamını ve Yahudi rüya yorum geleneğindeki yerini açıklar.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Berakhot 57a metninin klasik rüya tartışmasını gösterir; 'öğrenci' için doğrudan madde içerip içermediğini kontrol etmeye yarar.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Berakhot 57B – Hebrew & English Talmud | Bekiut",
+      "relevance": "Berakhot 57b’de rüyada görülen belirli figür ve kitaplara yüklenen anlamları gösterir.",
+      "url": "https://bekiut.com/talmud/Berakhot/57b"
+    },
+    {
+      "title": "Document 176",
+      "relevance": "Talmud’daki rüya bölümlerinin tarihsel önemini ve kapsamını özetler.",
+      "url": "http://library.huc.edu/pdf/theses/Barlev%20Pearl-LA-Rab%20Text-2007%20rdf.pdf"
+    },
+    {
+      "title": "Dreams and Judaism",
+      "relevance": "Yahudi geleneğinde rüyanın yorumla anlam kazandığını açıklayan kısa bir kaynak sunar.",
+      "url": "https://www.oxfordchabad.org/templates/articlecco_cdo/aid/374282/jewish/Dreams-and-Judaism.htm"
+    },
+    {
+      "title": "Dream interpretation and practice - TME",
+      "relevance": "Tibet budist rüya anlayışında rüyaların türleri, alametler ve spiritüel uygulama bağlamı; rüya sembollerinin nasıl sınıflanabildiğine dair çerçeve sunar.",
+      "url": "https://tibetanmedicine-edu.org/tmm/tm/dream-and-bardo/the-dream-interpretation-and-practice/"
+    },
+    {
+      "title": "Dreams Related To Student",
+      "relevance": "Öğrenci figürünü rüyada görmek, ezoterik bir çerçevede gençlik duygusu, bilgi eksikliği hissi ve yeni yaşam veya kariyer yönleri arayışıyla ilişkilendirilir.",
+      "url": "https://www.dreamlookup.com/meanings/Student"
+    },
+    {
+      "title": "Student. Interpretation of the dream and the numbers to play",
+      "relevance": "Öğrenci sembolüne \"ezoterik anlam\" başlığı altında yer vererek bunu umutların gerçekleşmesi ve iş yaşamında yeni açılımlarla ilişkilendirir.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=student"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

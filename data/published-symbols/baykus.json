@@ -1,135 +1,179 @@
 {
   "slug": "baykus",
   "title": "baykuş",
-  "shortDescription": "Rüyada baykuş görmek; bilgelik, gizlilik ve fark edilmeyen bir duruma daha dikkatle bakma ihtiyacıyla ilişkilendirilebilir. Geleneksel tabirlerde ise uğursuzluk, kötü haber veya güven vermeyen kişilere karşı ihtiyatla da bağlantılandırılır.",
+  "shortDescription": "Rüyada baykuş görmek; tarihsel, kültürel ve geleneksel okumalarda genellikle gizem, uyarılar ve beklenmeyen gelişmeler ekseninde ele alınan, rüya bağlamına göre farklı anlamlar taşıyan bir semboldür.",
   "positiveAssociations": [
-    "bilgelik",
-    "gizlilik",
-    "inziva",
-    "cehaletle mücadele"
+    "Gizli bilgileri ve gerçeği fark etme",
+    "Sezgisel kavrayış ve keskin farkındalık",
+    "Zekâ, bilgelik ve derin bakış açısı",
+    "İçsel dönüşüm ve karanlık evrelerden geçiş"
   ],
   "challengingAssociations": [
-    "gece ve karanlık",
-    "ölüm ve uğursuzluk",
-    "kötü haber",
-    "zalim kişi veya hırsız"
+    "Kötü haber veya uğursuzluk algısı",
+    "Yalnızlık, ıssızlık ve keder",
+    "Tehlikeli veya güvenilmez kişiler, hırsızlar",
+    "Zalim otorite veya baskın güç figürleri"
   ],
   "contextDependentAssociations": [
-    "koruyucu (apotropik) anlamlar",
-    "bilinmeyenin araştırılması",
-    "yargı ve harabiyet"
+    "Baykuşun rüyada eve girmesi veya düşmesi",
+    "Gecenin karanlığında duyulan baykuş sesi",
+    "Baykuşun rengi ve rüyadaki genel duygu tonu"
   ],
   "commonVariations": [
     {
       "title": "Karanlıkta öten baykuş",
-      "description": "Rüyada gecenin karanlığında bir baykuşun sesini duymak, bilinmeyen durumlar veya beklenmeyen haberlerle ilgili duyulan kaygıları temsil edebilir."
+      "description": "Gecenin sessizliğinde uzaktan gelen baykuş sesi, rüya sahibine uyarı niteliğinde haberler gelebileceğine işaret edebilir."
     },
     {
-      "title": "Sakin duran baykuş",
-      "description": "Tünemiş ve sessiz duran, özellikle gün ışığında görülen bir baykuş, içsel gözlem, inziva ve olayları uzaktan tarafsız bir gözle inceleme ihtiyacına işaret edebilir."
+      "title": "Eve giren baykuş",
+      "description": "Baykuşun eve girmesi, geleneksel olarak hanede beklenmedik değişiklikler veya endişe verici gelişmelerle ilişkilendirilir."
     },
     {
-      "title": "Ev yakınında baykuş görmek",
-      "description": "Evin yakınında veya çatısında beliren baykuş, geleneksel bağlamlarda kötü alamet veya hırsızlık gibi dışsal tehlikelere karşı dikkatli olunması gerektiğine dair uyarılarla ilişkilendirilir."
+      "title": "Beyaz baykuşla karşılaşmak",
+      "description": "Nadiren karşılaşılan açık renkli baykuş imgesi, zekâ, keskin kavrayış ve gözden kaçan gerçeklerin açığa çıkması temalarıyla okunur."
     },
     {
-      "title": "Uçan baykuş ile karşılaşmak",
-      "description": "Sessizce uçan bir baykuşu izlemek, hayatın gizli kalmış yönlerini fark etme çabasını ve olayların arka planındaki gerçekleri anlama arayışını simgeleyebilir."
+      "title": "Baykuşu uzaktan izlemek",
+      "description": "Baykuşun rüyada uzakta durması veya izlenmesi, rüya sahibinin durumlarını ya da içsel süreçlerini dışarıdan gözlemleme ve üzerine düşünme çabasını temsil edebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "Analitik psikoloji bağlamında baykuş sembolü gece, ölüm, bilgelik ve karanlık/kötülük çağrışımları etrafında toplanır. Bu yaklaşımda baykuş, bireyin bilinçdışındaki karanlık, gizli veya henüz aydınlatılmamış yönleriyle yüzleşmesini ve içsel bilgeliğe ulaşma çabasını temsil eder.",
-  "islamicTradition": "Klasik İslami rüya tabiri geleneğinde baykuş genellikle zalim bir yönetici, hırsız, uğursuz bir kişi veya kötü haber getiren bir figür olarak aktarılır.",
-  "christianTraditions": "Kutsal Kitap metinlerindeki mecazi kullanımlarda baykuş, doğrudan rüya tabiri olmamakla birlikte, ıssızlık, boşluk, harabiyet ve ilahi yargı imgeleriyle ilişkilendirilir.",
-  "jewishTraditions": "Yahudi kaynaklarında baykuşun rüyada görünmesi klasik olarak kötü bir alamet şeklinde zikredilir ve gecenin karanlığıyla bağdaştırılır.",
-  "buddhistEasternApproaches": "Bazı modern derlemelerde Budist ve Doğu yaklaşımlarında baykuş, bilgelik ve gizlilik temalarıyla, özellikle cehaletle mücadele ve zihinsel inziva kavramlarıyla ilişkilendirilir.",
-  "spiritualApproaches": "",
+  "psychology": "Ampirik psikoloji literatüründe baykuş sembolüne özgü doğrudan bir rüya araştırması bulunmamaktadır. Bilimsel psikoloji rüyaları nörolojik ve bilişsel süreçler bağlamında incelerken, hayvan figürlerini zihnin günlük stres, kaygı veya imgeleri işleme biçimi olarak ele alır. Psikanalitik kuram çerçevesinde ise baykuş gibi imgeler sabit bir sözlük anlamı taşımaz; rüyanın görünen içeriği ile gizli içeriği arasındaki süreçte, rüya görenin kişisel çağrışımları, yer değiştirme ve yoğunlaştırma mekanizmaları üzerinden değerlendirilir.",
+  "jungian": "",
+  "islamicTradition": "İslami rüya tabiri kaynaklarında ve derleme eserlerde baykuş çoğunlukla uyarıcı, temkin gerektiren veya olumsuzlukla anılan bir sembol olarak aktarılır. Klasik tabirlerde baykuş zalim bir yönetici, hırsız, hilekâr insan ya da güvenilmez kişilerle bağdaştırılır. Ayrıca baykuş sesinin üzücü veya endişe verici haberlere delalet edebileceği, baykuşun eve girmesi veya düşmesinin ise ağır kayıplar ya da ecel gibi ciddi olaylarla ilişkilendirilebildiği vurgulanır.",
+  "christianTraditions": "Hristiyan sembolik geleneği açısından baykuş, Kutsal Kitap’taki kullanımına bağlı olarak çoğunlukla ıssızlık, terk edilmişlik, harabelik ve keder çağrışımı taşır; bu, rüyada baykuş görülmesi için doğrudan bir doktrin değil, metinsel sembolizmden türetilmiş temkinli bir okumadır.",
+  "jewishTraditions": "Talmud Berakhot 57b’de kuşların rüyada genel olarak hayırlı sayıldığı kuralının istisnaları arasında gececi ve ürkütücü görünümlü kuşlar yer alır; bu bağlamda baykuş türleri geleneksel rüya yorumunda olumlu sayılmamıştır. Bu rabbanî ve talmudik çerçeve, baykuş sembolünün Yahudi literatüründe olumsuz çağrışımlar taşıdığını gösterir.",
+  "buddhistEasternApproaches": "Budist geleneğe ait doğrudan, güvenilir rüya yorumlama kaynakları sınırlıdır. Doğu gelenekleri genelinde — örneğin Hindu bağlamında — baykuş Lakshmi’nin bineği olarak refah ve bollukla ilişkilendirilir; bazı modern yorumlarda ise gizli bilgi ve uyarı çağrışımları bulunur. Budizm adına kesin bir yorum kurulamaz.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda baykuş, sezgi, okült ya da gizli bilgi, eşiksel haller ve görünmeyeni fark etme yeteneğiyle simgelenir. Simyasal veya içsel dönüşüm çerçevelerinde ise baykuş, karanlık evrelerden geçişi ve içsel çözülme/yeniden doğuş süreçlerini çağrıştırabilir. Bu tür yorumlar büyük oranda modern ezoterik literatüre ve popüler kaynaklara dayanır.",
   "comparisonTable": [
     {
-      "approach": "Jungcu Psikanaliz",
-      "interpretation": "Gece, ölüm, bilinçdışı ve bilgelik temaları üzerinden bireyin içsel karanlığıyla yüzleşmesini ve gizli yönlerini keşfetmesini sağlar.",
+      "approach": "Psikanaliz",
+      "interpretation": "Sabit bir anlam yerine bireyin çağrışımları ve gizli içerik mekanizmalarıyla okunur.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami Rüya Tabirleri",
-      "interpretation": "Zalim kişi, hırsız, kötü haber veya uğursuzluk gibi dışsal ve olumsuz durumların simgesi olarak değerlendirilir.",
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilinçdışı, sezgi, gölge ve karanlıkta kalmış bilginin açığa çıkmasıyla ilişkilendirilir; bağlama dayalı yorumlanmalıdır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Zalim figürler, hırsızlık, uğursuz haberler ve keder getiren olaylar bağlamında ele alınır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Yahudi Kaynakları",
-      "interpretation": "Rüyada görülmesi kötü bir alamet ve gece kuşu bağlamında olumsuz bir işaret olarak ele alınır.",
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Talmudik referanslarla gececi ve ürkütücü niteliği nedeniyle olumsuz işaret sayılır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan Metinleri",
-      "interpretation": "Issızlık, harabiyet ve yargı kavramlarının mecazi bir temsilcisi olarak okunur.",
-      "evidenceLevel": "traditional"
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Sezgi, eşik deneyimleri, gizli bilgi ve içsel dönüşüm simgesi olarak kabul edilir.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı geleneklerde baykuş ortak olarak gece, karanlık, ıssızlık ve bilinmeyen alanlarla ilişkilendirilir.",
-  "differences": "Batı ve modern Doğu yaklaşımları baykuşu bilgelik ve cehaletle mücadele gibi olumlu veya aydınlatıcı yönleriyle ele alırken, klasik dini tabirler ve eski metinler çoğunlukla uğursuzluk, hırsızlık veya yıkım gibi zorlayıcı temalara odaklanır.",
-  "inusAssessment": "Baykuş sembolü, tarihsel ve kültürel bağlamda hem en derin bilgeliği hem de en koyu karanlığı aynı anda barındıran çelişkili bir yapıya sahiptir. Rüyada bu sembolle karşılaşan bireyin, tek bir sabit anlam aramak yerine sembolün çağrıştırdığı inziva, gizlilik veya olası kaygılarla kendi yaşam bağlamı arasındaki hassas dengeyi kurması gerekir.",
+  "commonGround": "Farklı gelenek ve ekollerin çoğunda baykuş, sıradan kuşlardan farklı olarak gece, gizem ve olağandışı durumlarla ilişkilendirilen karakteristik bir figür olarak öne çıkar.",
+  "differences": "Kimi geleneklerde baykuş korku, kayıp, uğursuzluk ve hırsızlık gibi olumsuz temalarla çerçevelenirken; psikolojik ve spiritüel yaklaşımlarda bilgelik, sezgi, bilinçdışı ile yüzleşme ve içsel rehberlik gibi daha yapıcı ve dönüşümsel boyutlar vurgulanır. Anlamın yönü büyük ölçüde rüyanın bağlamına, rüya sahibinin duygusal tepkisine ve kültürel arka plana bağlıdır.",
+  "inusAssessment": "Baykuş sembolü rüya yorumunda çelişkili çağrışımlar taşır: Geleneksel aktarımlar uyarı, kayıp ve uğursuzluk temalarını öne çıkarırken, psikolojik ve ezoterik okumalar sezgi, bilinçdışı farkındalık ve içsel bilgelik potansiyelini vurgular. Baykuş içeren bir rüyanın yönünü belirlemek için rüya sahibinin kuşla kurduğu mesafe, rüyanın uyandırdığı duygusal ton (korku mu, merak mı, huzursuzluk mu) ve baykuşun mekânsal konumu en kritik unsurlardır.",
   "faq": [
     {
-      "question": "Rüyada baykuş görmek her zaman kötü bir haber mi alacağımız anlamına gelir?",
-      "answer": "Hayır. Geleneksel tabirlerde uğursuzluk veya kötü haberle ilişkilendirilse de, psikolojik ve kültürel bağlamlarda baykuş bilgelik, inziva ve gizli gerçekleri fark etme anlamlarını da taşır."
+      "question": "Rüyada baykuş görmek kesinlikle kötü bir habere mi işaret eder?",
+      "answer": "Hayır. Geleneksel tabirlerde bazı olumsuz uyarılar bulunsa da, psikolojik ve spiritüel yaklaşımlarda baykuş bir uyarıdan ziyade içsel farkındalığa ve bilinçdışı mesajlara dikkatin belirli bir konuya yönelmesine işaret edebilir."
     },
     {
-      "question": "Baykuş sembolü ile bilgelik arasında nasıl bir bağ kurulmuştur?",
-      "answer": "Antik dönemden bu yana baykuşun gece karanlığında görebilme yeteneği, bilgiyi arama, cehaletle mücadele ve sıradan insanların göremediği detayları fark etme kapasitesiyle bağdaştırılmıştır."
+      "question": "Baykuş rüyaları psikolojik olarak nasıl yorumlanır?",
+      "answer": "Psikanalitik ve Jungcu çerçevesinde baykuş, kişinin bastırdığı gerçeklerle yüzleşmesi, sezgilerine kulak vermesi veya zihninin karanlıkta kalan yönlerini fark etmesiyle ilişkilendirilebilir; ancak en doğru yorum rüyanın bütünündeki bağlam ve rüya görenin kişisel çağrışımları göz önünde bulundurularak yapılır."
     }
   ],
   "sources": [
     {
-      "title": "Symbols of the Owl in different cultures",
-      "relevance": "Baykuşun Batı kültüründe bilgelik ve bilgi ile ilişkilendirilmesini özetleyen kültürel sembol incelemesi.",
-      "url": "https://www.johnmooremuseum.org/symbols-of-the-owl-in-different-cultures/"
+      "title": "Dream Distortion - The Interpretation of Dreams",
+      "relevance": "Freudçu kuram bağlamında rüyanın görünen (açık) ile gizli (örtük) içeriği ayırma gereğini ve bu nedenle hayvan imgelerinin sabit sözlük anlamı taşımadığını açıklar.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/dream-distortion/"
     },
     {
-      "title": "The Owl on the Couch: Jung Journal",
-      "relevance": "Baykuş sembolünün Jung çevresindeki kullanımında gece, ölüm, bilgelik ve kötülük temalarıyla anıldığını gösteren makale.",
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/19342039.2022.2016015"
+      "title": "Why did Freud Interpret Dreams in a Sexual Way?",
+      "relevance": "Freudyen rüya çözümlemesinde görünen içerik ile gizli içeriğin ayrımına ve bu ayrımın rüya yorumunda nasıl işlediğine ilişkin örnekleme sağlar.",
+      "url": "https://www.freud.org.uk/2019/11/12/why-did-freud-interpret-dreams-in-a-sexual-way/"
     },
     {
-      "title": "Owl symbolism in Greek civilization over the last 5000 years",
-      "relevance": "Antik Yunan kültüründe baykuşun tarihsel sembolik işlevlerini, bilgelik, güç, ölüm, kötü alamet ve koruyuculuk bağlamlarında inceleyen çalışma.",
+      "title": "Owl symbolism in Greek civilization over the last 5000 years: social perceptions and implications for conservation",
+      "relevance": "Antik Yunan bağlamında baykuşun bilgelik, koruma, güç ve bazen kötü alamet çağrışımlarını ele alarak tarihsel çok anlamlılığını gösterir.",
       "url": "https://www.tandfonline.com/doi/full/10.1080/24750263.2023.2254823"
     },
     {
-      "title": "Ancient Symbolism of the Owl: Omen of the Good, the Bad and the Deadly",
-      "relevance": "Baykuşun farklı dönemlerde gece, bilinmeyen, uğursuzluk ve ölümle ilişkilendirilmesini anlatan kültürel tarih yazısı.",
-      "url": "https://members.ancient-origins.net/articles/ancient-symbolism-owl"
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidoros’un Oneirocritica’sı üzerinden antik rüya yorum geleneğini tanıtır ve baykuş konusunun tarihsel rüya-yorumlama bağlamını sunar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
     },
     {
-      "title": "The Owl on the Couch",
-      "relevance": "Baykuş sembolü üzerine Jungcu sembol okumalarını özetleyen süreli yayın kaydı.",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/19342039.2022.2016015"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un eserine çevrimiçi erişim sağlayarak baykuş rüyasının tarihsel yorumlarına dair bir kaynak bağlantısı sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "Owls: Always a Hoot? – Medieval Studies Research Blog",
-      "relevance": "Ortaçağ Avrupa’sında baykuşun bilgelik, karanlık, pislik ve dinsel karşıtlıkla ilişkilendirilmesini ele alan akademik araştırma blogu.",
-      "url": "https://sites.nd.edu/manuscript-studies/2016/03/17/owls-always-a-hoot/"
+      "title": "Full text of \"hipnoz_kitabi_hakan_menguc\"",
+      "relevance": "İslami rüya tabirleri derlemesi olarak baykuşun klasik/modern aktarımlarındaki zalim hükümdar, hırsız, uğursuz haber ve ölüm temalarını belgeleyen derleme metne işaret eder.",
+      "url": "https://archive.org/stream/hipnoz_kitabi_hakan_menguc/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1_djvu.txt"
     },
     {
-      "title": "Rüyada Baykuş Görmek ne demek? Dini Rüya tabirleri",
-      "relevance": "Klasik İslami rüya tabirlerinde baykuşun hırsız, zalim kişi, kötü haber ve uğursuzlukla ilişkilendirildiğini aktaran çevrimiçi derleme.",
-      "url": "https://www.gencgazete.net/ruyada-baykus-gormek-ne-demek-dini-ruya-tabirleri"
+      "title": "تفسير رؤية البومة في المنام - ابن سيرين",
+      "relevance": "İbn Sîrîn atıfıyla çevrimiçi aktarımlarda baykuş rüyalarının siyah/beyaz ayrımı ve felaket/zekâ temalarıyla nasıl sunulduğunu gösterir.",
+      "url": "https://ibnsirin.net/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%AD%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A9/"
     },
     {
-      "title": "Is there any special meaning/symbolism to owls in the Bible?",
-      "relevance": "Kutsal Kitap bağlamında baykuşun ıssızlık, boşluk ve yıkım imgeleriyle ilişkilendirildiğini özetleyen Hristiyan odaklı kaynak.",
-      "url": "https://www.gotquestions.org/owls-in-the-Bible.html"
+      "title": "تفسير البوم في المنام | ابن سيرين والنابلسي",
+      "relevance": "İslami tabir geleneğinde baykuşun taşıdığı olumsuz sembolik alanı ve bağlantılı temaları özetleyen çevrimiçi bir aktarım sunar.",
+      "url": "https://lifebyislam.com/dreams/alboom-manam"
+    },
+    {
+      "title": "تفسير الاحلام الموسوعة الكاملة | عبد الغني النابلسي ⋆ الخارطة الفلكية",
+      "relevance": "Baykuşun Nablusî’ye nispet edilen tabirinde hükümdar, hırsız, korku, hıyanet, ölüm haberi ve yıkıntılarla ilişkili geniş sembolik çerçeve yer alır.",
+      "url": "https://kharta.website/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AD%D9%84%D8%A7%D9%85/"
+    },
+    {
+      "title": "Topical Bible: Symbolism of Owls",
+      "relevance": "Kutsal Kitap metinleri çerçevesinde baykuşun ıssızlık, terk edilmişlik ve yas gibi sembolik çağrışımlar taşıdığını aktarır.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_owls.htm"
+    },
+    {
+      "title": "Berakhot 57.b",
+      "relevance": "Talmud Berakhot 57b pasajının kuşların rüyada genellikle hayırlı sayıldığı kuralının istisnaları arasında baykuşun yer aldığını gösteren rabbanî kaynağa işaret eder.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
     },
     {
       "title": "OWL - JewishEncyclopedia.com",
-      "relevance": "Yahudi kaynaklarında baykuşun gece kuşu olarak tanımı ve rüyada kötü alamet sayılmasına dair ansiklopedik giriş.",
+      "relevance": "Yahudi literatüründe baykuşun rüyada kötü alamet olarak anılmasına dair ansiklopedik özet sağlar.",
       "url": "https://www.jewishencyclopedia.com/articles/11827-owl"
     },
     {
-      "title": "Owl: Significance and symbolism",
-      "relevance": "Baykuşun Budist bağlamda bilgelik, gizlilik ve cehaletle mücadele temalarıyla anıldığını belirten çevrimiçi derleme.",
-      "url": "https://www.wisdomlib.org/concept/owl"
+      "title": "Owl",
+      "relevance": "Talmud’daki kuşlar ve rüya işaretleri kuralını aktarır; baykuş türlerini rüyada olumlu saymayan kısa bir özet sunar.",
+      "url": "https://jewishvirtuallibrary.org/owl-2"
+    },
+    {
+      "title": "Dream of Owl Meaning — Vedic Interpretation (Swapna Shastra)",
+      "relevance": "Hindu bağlamında baykuşun Lakshmi ile ilişkilendirilmesi ve bunun refah/bolluk çağrışımlarını nasıl doğurduğuna dair ikincil bir kaynak sunar.",
+      "url": "https://www.vedicbirth.com/dream/owl"
+    },
+    {
+      "title": "Erk Hayvanı: BAYKUŞ ve Baykuş Arketipi",
+      "relevance": "Modern ezoterik/popüler literatürde baykuşun bilinçdışı, arketip ve dönüşümle ilişkilendirilmesine dair bir örnek aktarım sunar.",
+      "url": "https://www.tugbanureroglu.com/post/erk-hayvan%C4%B1-bayku%C5%9F-ve-bayku%C5%9F-arketipi"
+    },
+    {
+      "title": "The Owl and the Occult: Popular Politics and Social ...",
+      "relevance": "Baykuşun okült, eşiksel (liminal) ve toplumsal bağlamlardaki tarihsel-kültürel ilişkilerini tartışan akademik bir çalışma örneğidir.",
+      "url": "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/owl-and-the-occult-popular-politics-and-social-liminality-in-early-modern-south-asia/A6FCC4AB12B8787FBCFC424F775C5E06"
+    },
+    {
+      "title": "RUHSAL DÜNYADA BAYKUŞ'UN ANLAMI",
+      "relevance": "Modern spiritüel ve popüler yorumlarda baykuş, gizem, gece, sezgi ve görünmeyeni fark etme ile ilişkilendirilir.",
+      "url": "https://www.istecanakkalegazetesi.com/yazar/18952-ruhsal-dunyada-baykusun-anlami"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "psychoanalytic",
+    "buddhist-eastern"
+  ]
 }

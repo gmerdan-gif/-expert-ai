@@ -7,6 +7,45 @@ import {
   getPublishedSymbolBySlug,
 } from "@/lib/symbols/repository";
 
+import type {
+  LimitedEvidenceLane,
+} from "@/data/symbol-system/schema/symbol-schema";
+
+const LIMITED_EVIDENCE_LABELS: Record<
+  LimitedEvidenceLane,
+  string
+> = {
+  psychology: "modern psikoloji",
+  psychoanalytic: "psikanaliz",
+  jungian: "Jungcu yaklaşım",
+  "historical-cultural": "tarihsel/kültürel yaklaşım",
+  islamic: "İslami gelenek",
+  christian: "Hristiyan gelenekleri",
+  jewish: "Yahudi gelenekleri",
+  "buddhist-eastern": "Budist/Doğu yaklaşımları",
+  spiritual: "spiritüel yaklaşımlar",
+};
+
+function formatLimitedEvidenceLanes(
+  lanes: LimitedEvidenceLane[],
+): string {
+  const labels = lanes.map(
+    (lane) => LIMITED_EVIDENCE_LABELS[lane],
+  );
+
+  if (labels.length <= 1) {
+    return labels[0] ?? "";
+  }
+
+  if (labels.length === 2) {
+    return `${labels[0]} ve ${labels[1]}`;
+  }
+
+  return `${labels.slice(0, -1).join(", ")} ve ${
+    labels[labels.length - 1]
+  }`;
+}
+
 type PageProps = {
   params: Promise<{
     slug: string;
@@ -52,6 +91,14 @@ export default async function SymbolSourcesPage({
     notFound();
   }
 
+  const limitedEvidenceLanes =
+    symbol.limitedEvidenceLanes ?? [];
+
+  const limitedEvidenceLabel =
+    formatLimitedEvidenceLanes(
+      limitedEvidenceLanes,
+    );
+
   return (
     <main className="min-h-screen bg-[#f5f1ea] text-[#24221f]">
       <div className="mx-auto w-full max-w-4xl px-5 sm:px-8">
@@ -94,6 +141,25 @@ export default async function SymbolSourcesPage({
             perspektiflerin hazırlanmasında kullanılan referanslar burada
             toplu olarak gösterilir.
           </p>
+
+          {limitedEvidenceLanes.length > 0 && (
+            <aside className="mt-8 max-w-2xl border-l border-[#b9b0a6] pl-5">
+              <p className="text-[10px] uppercase tracking-[0.22em] text-[#8a8278]">
+                KAYNAK DOĞRULAMA NOTU
+              </p>
+
+              <p className="mt-3 text-sm leading-7 text-[#706961]">
+                Bu sayfada {limitedEvidenceLabel} kapsamında
+                sunulan bazı yorumlar ilgili ikincil kaynaklara
+                dayanmaktadır; ancak INUS&apos;un bu yaklaşımlar
+                için tercih ettiği güçlü otorite kaynaklarıyla
+                yeterli doğrulama sağlanamamıştır. Bu yorumlar
+                kesin geleneksel veya kuramsal hükümler olarak
+                değil, sınırlı kaynaklara dayalı yorumlayıcı
+                çerçeveler olarak sunulmuştur.
+              </p>
+            </aside>
+          )}
 
           {symbol.sources?.length > 0 ? (
             <div className="mt-14 divide-y divide-black/10 border-y border-black/10">

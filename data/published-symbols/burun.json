@@ -1,0 +1,254 @@
+{
+  "slug": "burun",
+  "title": "burun",
+  "shortDescription": "Rüyada burun görmek; kişinin kendini nasıl sunduğu, itibarı ve çevresindeki durumları sezme biçimiyle ilişkilendirilebilir. Burnun görünümü veya geçirdiği değişimler, dış görünüş, sosyal konum ya da biriken gerilimlere dair hassasiyetleri yansıtabilir.",
+  "positiveAssociations": [
+    "İtibar ve saygınlık",
+    "Sezgi ve duyusal farkındalık",
+    "Uzun ömür ve sıhhat",
+    "İçgüdüsel ayırt etme yeteneği"
+  ],
+  "challengingAssociations": [
+    "Öfke ve gerilim",
+    "Statü veya itibar kaybı",
+    "Suçluluk veya utanç dinamikleri",
+    "Beden imgesiyle ilgili endişeler"
+  ],
+  "contextDependentAssociations": [
+    "Yüz bütünlüğünün bozulması",
+    "Burun kanaması veya akıntısı",
+    "Tıbbi muayene sahneleri",
+    "Koku alma ve nefes farkındalığı"
+  ],
+  "commonVariations": [
+    {
+      "title": "Aynada burnunun değiştiğini veya farklı göründüğünü fark etmek",
+      "description": "Rüya sahibinin kendi kimliği, dış görünüşü veya başkaları tarafından nasıl algılandığı üzerine duyduğu içsel kaygılara veya kimlik sorgulamalarına işaret edebilir."
+    },
+    {
+      "title": "Rüyada burun kanaması yaşadığını görmek",
+      "description": "Klasik aktarımlarda ve bedensel rüya bağlamlarında maddi alışverişler, enerji kaybı ya da biriken duygusal baskıların dışa vurumuyla ilişkilendirilebilir."
+    },
+    {
+      "title": "Burnun zarar görmesi veya düşmesi",
+      "description": "Tarihsel ve kültürel okumalarda onur, sosyal statü veya mesleki duruşla ilgili hissedilen kırılganlıkları ve kayıp korkularını yansıtabilir."
+    },
+    {
+      "title": "Yoğun koku alma veya nefes alma hissi",
+      "description": "Çevredeki durumlara karşı gelişen sezgisel uyanıklığı, içgüdüsel farkındalığı ve dış dünyadan gelen etkilere karşı duyarlılığı temsil edebilir."
+    }
+  ],
+  "psychology": "Yüz özellikleri üzerine yapılan ampirik rüya çalışmaları, rüyalardaki yüz ayrıntılarının sabit olmayıp kişiden kişiye ve bağlama göre değişkenlik gösterdiğini ortaya koymuştur. Burun gibi yüz öğeleri, rüyalarda her zaman net bir şekilde yer almaz; belirdiğinde ise genellikle rüya sahibinin o anki algısal odağına ve duygusal tonuna eşlik eder.",
+  "jungian": "",
+  "islamicTradition": "Klasik ve modern aktarımlarda burun sembolü genellikle izzet, makam, itibar, mal, evlat ve güzel geçim gibi temalarla ilişkilendirilir. Rüyadaki burunda görülen artma, azalma, daralma veya kesilme gibi değişimler, rüya sahibinin yaşamındaki konum, rızık veya saygınlık ile ilgili dönüşümlere yorulur.",
+  "christianTraditions": "Hristiyan sembolik ve teolojik metinlerinde burun, ruhsal ayırt etme, güzellik ve ilahi yargı gibi temalarla bağlantılıdır. Kutsal metinlerde burun delikleri sıklıkla öfke, aşağılama veya otorite kavramlarıyla mecazi olarak ilişkilendirilir.",
+  "jewishTraditions": "Talmudik gelenekte, özellikle Berakhot bağlamında geçen rüya yorumlarında, burun ile ilgili ifadeler sıklıkla dilsel çağrışımlar ve öfkenin giderilmesi ekseninde ele alınır. Örneğin burnun düşmesi gibi imgeler, rüya sahibine yönelen bir öfkenin veya gerilimin sona ermesi yönünde yorumlanmıştır.",
+  "buddhistEasternApproaches": "Budist ve Doğu sembolizminde burun, beş duyu organından biri olarak duyusal deneyimin ve algının temel kapılarından biri sayılır. Bu çerçevede burun, duyusal arzular, geçicilik ve zihinsel farkındalık süreçleriyle ilişkilendirilen bedensel bir kapı olarak değerlendirilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda burun, nefes, yaşam akışı, sezgi ve içgüdüsel algı ile bağdaştırılır. Bir durumu sözlü açıklamalardan önce 'koklayarak' veya sezgiyle anlama, kişisel sınırlar ve benlik algısı gibi temalar bu alanda öne çıkar.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Beden imgesi, savunma mekanizmaları, yer değiştirme ve fallik çağrışımlar bağlamında ele alınır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "İzzet, makam, itibar, rızık ve sosyal konumdaki değişimlerin işareti olarak yorumlanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Ruhsal ayırt etme, ilahi yargı ve mecazi olarak öfke veya denetim temalarıyla ilişkilendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Dilsel çağrışımlar ve rabbani yorumlar çerçevesinde öfkenin hafiflemesi ya da gerilimin sona ermesi şeklinde okunur.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Nefes, yaşam enerjisi, sezgisel farkındalık ve kişisel sınırlar üzerinden değerlendirilir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, burun sembolünü yalnızca fiziksel bir organ olarak değil, aynı zamanda kimlik, itibar, duygusal tepkiler ve dış dünyayla kurulan hassas bağlantıların göstergesi olarak ele alır.",
+  "differences": "Psikanalitik yaklaşım rüyadaki burun detayını içsel çatışmalar ve beden simgeleri üzerinden incelerken, İslami ve dini gelenekler daha çok statü, öfke, itibar ve hayatın akışındaki değişimlere odaklanır ve spiritüel okumalar ise nefes ve sezgi kapısı olarak değerlendirilir.",
+  "inusAssessment": "Burun sembolü, yüzün merkezinde yer alan konumu gereği rüyalarda kimlik, dış dünyaya açılan sınırlar ve kişinin kendini nasıl sunduğu ile doğrudan bağlantılıdır. Freudyen psikanalizdeki bedensel muayene ve suçluluk dinamikleri ile dini geleneklerdeki itibar, öfke ve makam unsurları bir araya geldiğinde, rüyada burnun nasıl göründüğü (kanama, şekil değişikliği, kaybı veya normal görünümü) yorumun yönünü belirleyen kritik eşiktir. Bu nedenle burun içeren bir rüya, rüya sahibinin sosyal duruşunda, sezgisel farkındalığında veya bastırılmış gerilimlerinde yaşadığı hassasiyetleri anlamak için bağlamsal olarak ele alınmalıdır.",
+  "faq": [
+    {
+      "question": "Rüyada burnun kanaması ne anlama gelir?",
+      "answer": "Klasik tabirlerde ve bedensel rüya okumalarında burun kanaması; maddi alışverişler, enerji kaybı ya da uzun süredir biriken duygusal baskıların ve gerilimlerin dışa vurumu şeklinde değerlendirilebilir."
+    },
+    {
+      "question": "Rüyada burnun olmadığını veya düştüğünü görmek neyi ifade eder?",
+      "answer": "Tarihsel rüya yorumlarında (oneirokritik metinler: rüyaların anlamını çözen metinler) ve rabbani geleneklerde bu tür imgeler genellikle itibar kaybı, mesleki endişeler veya rüya sahibine yönelik öfkenin ve gerilimin sona ermesiyle ilişkilendirilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Perceiving facial features on dream personages",
+      "relevance": "Rüyalarda yüz özelliklerinin görülme sıklığı ve kişiden kişiye değişkenliği üzerine nicel bulgular.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/108748/109144/288741"
+    },
+    {
+      "title": "Freud's Nose - David Howes",
+      "relevance": "Freud’un Irma rüyası, burun imgeleri ve bu imgelerin psikanalizin kuruluşundaki yeri üzerine odaklanır.",
+      "url": "https://www.david-howes.com/senses/freudsnose.html"
+    },
+    {
+      "title": "Freud and the Dream of Dreams (1)",
+      "relevance": "Irma rüyasındaki burun benzeri anatomik ayrıntıları ve rüyanın Freudcu yorumunu tartışır.",
+      "url": "https://www.journal-psychoanalysis.eu/articles/freud-and-the-dream-of-dreams-1/"
+    },
+    {
+      "title": "Freud's Irma Dream, the Origin of Psychoanalysis, and a ...",
+      "relevance": "Irma rüyasındaki burun/turbinat bağlantısını ve Emma Eckstein bağlamını ele alır.",
+      "url": "https://mindconsiliums.org/pub/2014/09/2014-09-Schwartz-Jack-freuds-irma-dream-origin-of-psychoanalysis-and-a-bloody-nose.pdf"
+    },
+    {
+      "title": "The nose as a fetish | 17 | A Brief Apocalyptic History of Psychoanaly",
+      "relevance": "Freud’da burun imgesinin fetişist sembolizm ve kastrasyon kaygısı bağlamında nasıl okunabildiğini tartışır.",
+      "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9781003353058-17/nose-fetish-carlo-bonomi"
+    },
+    {
+      "title": "Withstanding Trauma: the Significance of Emma Eckstein’s Circumcision to Freud’s Irma Dream",
+      "relevance": "Freud’un Irma rüyasında Emma Eckstein’in burnu etrafındaki tıbbi olayın olası etkisini tartışır.",
+      "url": "https://www.tandfonline.com/doi/full/10.1002/j.2167-4086.2013.00052.x"
+    },
+    {
+      "title": "apa.044.0511a.pdf",
+      "relevance": "Irma rüyasındaki ağız-burun-boğaz sahnesini ve Freud’un bedensel muayene temalarını anlatır.",
+      "url": "https://web.english.upenn.edu/~cavitch/pdf-library/Blum_Irma_Dream.pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüya kuramının temel metni; burun ve diğer beden parçalarının rüya yorumunda nasıl yer değiştirebildiğini anlamak için başat kaynak.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "PSYCHOSOMATIC ASPECTS OF RHINOLOGY",
+      "relevance": "Burun ile cinsellik, beden imgesi ve psikanalitik çağrışımlar arasındaki ilişkiyi tartışır.",
+      "url": "https://www.rhinologyjournal.com/Rhinology_issues/manuscript_2856.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus'un rüya yorumlarında burun kaybına dair doğrudan tarihsel bir örnek ve yüz bütünlüğüyle ilgili klasik bir pasaj sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "(PDF) Ignoring the Nose: Making Faces - Academia.edu",
+      "relevance": "Burun temasının klasik ve sonraki sanat-kültür tarihindeki konumunu, özellikle güzellik ve yüz oranları bağlamında ele alır.",
+      "url": "https://www.academia.edu/123758315/Ignoring_the_Nose_Making_Faces"
+    },
+    {
+      "title": "On Noses - Yale University Press",
+      "relevance": "Burunun erken modern kültürde beden, yüz ve cinsel sağlıkla ilişkilendirilen anlam katmanlarını irdeler.",
+      "url": "https://yalebooks.yale.edu/2019/04/17/on-noses/"
+    },
+    {
+      "title": "Amputation of the nose throughout history - PMC - NIH",
+      "relevance": "Burunun tarih boyunca fizyognomi, karakter ve beden temsiliyle bağlantısını ele alan tıbbi-tarihsel inceleme.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2689568/"
+    },
+    {
+      "title": "[PDF] Why We Love the Nose - Srce",
+      "relevance": "Burunun kültürel anlamlarını estetik değer, cinsellik ve toplumsal başarı bağlamında tartışır.",
+      "url": "https://hrcak.srce.hr/file/480480"
+    },
+    {
+      "title": "Rüyada Burun Görmek Ne Anlama Gelir? Makam, Rızık, Evlat ...",
+      "relevance": "Burun sembolünü klasik tabir geleneğinde makam, itibar, rızık ve evlatla ilişkilendiren modern bir aktarım.",
+      "url": "https://www.bilgetabirci.com/ruyada-burun-goermek-ne-anlama-gelir-makam-rizik-evlat-ve-itibarin-isaretleri"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri B Harfi",
+      "relevance": "Burun maddesi üzerinden Nablusî’ye atfedilen yorumları ve burunla ilgili ayrıntılı tabirleri derleyen çevrimiçi metin.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-b-harfi.html"
+    },
+    {
+      "title": "[PDF] Ibn Seerin's Dictionary of Dreams - nur.nu",
+      "relevance": "Burun için onur, uzun ömür, saygı ve burun kanaması gibi ayrıntıları veren çevrimiçi PDF derlemesi.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Topical Bible: Noses",
+      "relevance": "Burun için İncil temelli toplu sembolik başvuru; ayırt etme, güzellik ve yargı çağrışımları.",
+      "url": "https://biblehub.com/topical/n/noses.htm"
+    },
+    {
+      "title": "Topical Bible: Nose",
+      "relevance": "Burun için İncil’deki mecazî kullanımlar; öfke, aşağılama ve denetim imgesi.",
+      "url": "https://biblehub.com/topical/n/nose.htm"
+    },
+    {
+      "title": "Nose - Wilson's Dictionary of Bible Types - StudyLight.org",
+      "relevance": "Burun maddesinde ruhsal ayırt etme ve Tanrı’dan geleni ayırt etme teması.",
+      "url": "https://www.studylight.org/dictionaries/eng/wdt/n/nose.html"
+    },
+    {
+      "title": "Nose, Nostrils",
+      "relevance": "Burun ve burun deliklerinin Eski Ahit’te öfke için mecazî kullanımı.",
+      "url": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Nose-Nostrils/"
+    },
+    {
+      "title": "(PDF) The Nose as Organ of Anger in the Book of Job",
+      "relevance": "İbrani Kutsal Kitabı’nda burunun fizyolojik ve mecazî kullanımları.",
+      "url": "https://www.academia.edu/145643415/The_Nose_as_Organ_of_Anger_in_the_Book_of_Job_A_Psychoanalytic_Understanding"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 56 - Come and Hear",
+      "relevance": "Burun düşmesi rüyasının 'şiddetli öfke' ile yorumlandığı rabbani pasaj.",
+      "url": "https://www.come-and-hear.com/berakoth/berakoth_56.html"
+    },
+    {
+      "title": "A Jewish Guide to Dream Interpretation",
+      "relevance": "Berakhot’taki burun rüyasını modern bir Yahudi özetinde 'öfkenin kalkması' olarak aktarır.",
+      "url": "https://www.heyalma.com/a-jewish-guide-to-dream-interpretation/"
+    },
+    {
+      "title": "Visions-in-the-night_-Jungian-and-ancient-Joel-Covitz. ...",
+      "relevance": "Rabbani rüya yorumunda burun ile öfke arasındaki dilsel bağlantıyı açıklar.",
+      "url": "https://www.crisrieder.org/thejourney/storage/2024/06/Visions-in-the-night_-Jungian-and-ancient-Joel-Covitz.pdf"
+    },
+    {
+      "title": "Nose: Significance and symbolism",
+      "relevance": "Budizm bağlamında burnu duyusal arzu, geçicilik ve algı kapısı olarak ele alan kavramsal açıklama.",
+      "url": "https://www.wisdomlib.org/concept/nose"
+    },
+    {
+      "title": "1999%20Encyclopedia%20of%20Tibetan%20Symbols%20and%20Motifs%20by%20Beer%20s.pdf",
+      "relevance": "Tibet Budizmi içinde burnu sembolik beden kapılarından biri olarak konumlandıran kaynak.",
+      "url": "https://pahar.in/pahar/Books%20and%20Articles/Tibet%20and%20China/1999%20Encyclopedia%20of%20Tibetan%20Symbols%20and%20Motifs%20by%20Beer%20s.pdf"
+    },
+    {
+      "title": "Nose-organ: Significance and symbolism",
+      "relevance": "Burunu beş duyudan biri ve algı kapısı olarak ele alan Budist açıklama.",
+      "url": "https://www.wisdomlib.org/concept/nose-organ"
+    },
+    {
+      "title": "Nose | dreamhawk.com",
+      "relevance": "Burun sembolünü rüya bağlamında sezgi, içgüdü ve bir durumu ‘koklayarak’ anlama ile ilişkilendirir; ezoterik okuma için çağdaş bir yorum çerçevesi sunar.",
+      "url": "https://dreamhawk.com/dream-dictionary/nose/"
+    },
+    {
+      "title": "Nose Dream Meaning & Interpretation - Mirror",
+      "relevance": "Burunu rüyada intüisyon, kişisel algı ve kimlikle ilişkilendirir; modern spiritüel yorumlarda burun sembolü için kullanılan çağdaş bir açıklama sağlar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/nose/"
+    },
+    {
+      "title": "Nose in Dreams: Scent, Instinct, Identity, and Boundaries",
+      "relevance": "Burunu sezgi, sınır ve yaşam nefesi temalarıyla ele alır; burun sembolünün spiritüel yorumlarda nefes ve farkındalıkla bağlanışını gösterir.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/nose"
+    },
+    {
+      "title": "Nose: Esoteric Meaning & Symbolism",
+      "relevance": "Burunu ezoterik sembolizm içinde prokreatif enerji ve cinsiyetle ilişkilendirir; simgesel-yorumsal kullanım açısından buruna doğrudan değinir.",
+      "url": "https://theosophytrust.org/1088-nose"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

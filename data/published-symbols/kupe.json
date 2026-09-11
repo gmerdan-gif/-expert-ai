@@ -1,0 +1,214 @@
+{
+  "slug": "kupe",
+  "title": "küpe",
+  "shortDescription": "Rüyada küpe görmek, dışarıdan gelen seslere, mesajlara ve ilişkilerdeki etkilere ne kadar açık olduğunuzu çağrıştırabilir. Küpenin malzemesi, kim tarafından takıldığı ve rüyadaki duygular; zarafet, sezgi ve aidiyet ya da eleştiri ve istenmeyen etkilere hassasiyet gibi temalardan hangisinin öne çıktığını gösterebilir.",
+  "positiveAssociations": [
+    "Dış dünyadan gelen yapıcı mesajlara ve sezgilere açık olma",
+    "İlişkilerde ve sosyal görünürlükte zarafet",
+    "Hayatın ahenkli seslerini ve güzelliklerini dinlemeye istekli olma",
+    "Kişisel aidiyet ve onurlu duruş"
+  ],
+  "challengingAssociations": [
+    "Dışarıdan gelen eleştirilere veya zararlı etkilere karşı savunmasız kalma",
+    "Uygunsuz ya da istenmeyen telkinleri duymaktan endişe duyma",
+    "Sosyal statü veya süse aşırı bağlanma",
+    "Bazı kültürel bağlamlarda yadırganabilecek tutumlar sergileme"
+  ],
+  "contextDependentAssociations": [
+    "Küpelerin altın, gümüş veya inci gibi malzemelerden yapılmış olması",
+    "Küpeleri rüyada takan kişinin cinsiyeti ve sosyal konumu",
+    "Küpenin kulağa takılış biçimi, tek veya çift olması",
+    "Rüya sahibinin işitme ve dış etkenlerle kurduğu hassas denge"
+  ],
+  "commonVariations": [
+    {
+      "title": "İnci Küpeler Takmak",
+      "description": "Rüyada inci küpeler taktığını görmek, genellikle rüya sahibinin hayatında ahenkli, zarif ve huzurlu bir döneme işaret edebileceği gibi, bazı geleneksel yorumlarda bolluk ve hayırlı bir evlatla ilişkilendirilir."
+    },
+    {
+      "title": "Tek Kulağında Küpe Görmek",
+      "description": "Tek kulakta küpe görülmesi, denge kaybı, dış sesler karşısında taraflı dinleme ya da bazı geleneksel yorumlarda yadırganabilecek toplumsal bir duruma işaret edebilir."
+    },
+    {
+      "title": "Erkeğin Kulağında Küpe Olması",
+      "description": "Yetişkin bir erkeğin kulağında küpe görmesi, rüyanın bağlamına göre ahenkli şeyleri dinleme sevgisini yansıtabileceği gibi, kimi geleneksel ve kültürel okumalarda eleştiriye açık veya hoş karşılanmayan bir tutumun simgesi olarak da değerlendirilebilir."
+    },
+    {
+      "title": "Gümüş Küpelerle Karşılaşmak",
+      "description": "Gümüş küpe görmek veya bulmak, sezgisel algının güçlenmesi ve dışarıdan gelen sesleri sakin ve berrak bir zihinle ayırt etme eğilimiyle ilişkilendirilir."
+    }
+  ],
+  "psychology": "Psikolojik açıdan küpe, doğrudan ampirik laboratuvar araştırmalarıyla desteklenmiş sabit bir rüya nesnesi değildir. Bununla birlikte psikanalitik kuramda kulak ve bedensel açıklıklar, arzunun dolaylı ifadesi ve dış dünyayla kurulan duyusal sınır bağlamında ele alınır. Freudyen perspektifte takı ve süs eşyaları narsisizm, erotik çekicilik ve yer değiştirme mekanizmaları etrafında değerlendirilebilir. Jungcu analitik psikolojide ise nesneler sabit sözlük anlamlarından ziyade, rüya bağlamında bireyin psişik bütünleşme sürecine hizmet eden simgesel araçlar olarak konumlanır.",
+  "jungian": "Analitik psikoloji bağlamında küpe gibi takılar, persona (bireyin dış dünyaya gösterdiği “yüz”) ile içsel benlik arasındaki sınırda konumlanır. Kulak bölgesine takılması, bilincin dışarıdan gelen seslere, arketiplere ve kolektif bilinçdışının fısıltılarına ne kadar açık veya kapalı olduğunun bir göstergesi olarak okunabilir. Sabit bir anlamı yoktur; rüya görenin bireyleşme yolculuğundaki içsel kabul ve dinleme kapasitesini yansıtır.",
+  "islamicTradition": "İslami rüya yorumlarında küpe çoğunlukla kulak, işitme, süs, evlilik, mülkiyet ve Kur’an’ı güzel sesle dinleme veya ezberleme temalarıyla ilişkilendirilir. Kadın için küpe, kullanılan madene göre evlilik, çocuk, güzellik veya geçim habercisi sayılabilir. Yetişkin bir erkek için küpe, bazı geleneksel yorumlarda hoş karşılanmayan veya kınanan bir durum olarak okunabilir; başka yorumlarda ise ahenkli sesleri dinleme eğilimini simgeleyebilir.",
+  "christianTraditions": "Hristiyan sembolik okumasında küpe, değerli bir süs eşyası, kimlik, onur, zenginlik ve bazen de ruhsal adanmışlık ya da görünür bir yönelim unsuru olarak ele alınabilir. Rüyanın bağlamına göre bu nesne, bireyin dış dünyaya yansıttığı manevi duruşu veya ilahi armağanları kabul etme biçimini simgeleyebilir.",
+  "jewishTraditions": "Yahudi geleneksel sembolizminde kulağa takılan bir nesne olan küpe, öncelikli olarak işitme, dinleme, itaat ve ilahi sese kulak verme temalarıyla bağdaştırılabilir. Bazı klasik anlatımlarda kulak takıları ve küpeler servet göstergesi, aidiyet veya sadakat işareti olarak okunurken, kimi bağlamlarda ise dışsal güçlerin veya putperest unsurların etkisine karşı bir uyarı anlamı taşıyabilir.",
+  "buddhistEasternApproaches": "Budist ve Doğu geleneksel yaklaşımlarında süs eşyaları ve takılar, keşişlerin (Pali: bhikkhu) manastır disiplininde kaçındığı dünyevi bağlanma ve maddi süs unsurları olarak kabul edilir. Budist ikonografisinde uzun kulak memeleri, geçmişteki takıların ve maddi ağırlıkların bırakılışını, yani dünyevi zenginlikten feragat edip manevi dönüşüm yaşamayı simgeler.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda küpe, kulağa yakın konumlandığı için sezgisel açıklık, sözleri seçme, iç sesle bağ kurma ve dışarıdan gelen enerjileri veya mesajları ‘alma’ kapasitesiyle ilişkilendirilir. Rüyada küpe görmek, kişinin ruhsal düzeyde hangi dışsal etkilere ve seslere kapı araladığının sembolik bir göstergesidir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Bedensel açıklıklar, arzu, narsisizm ve nesne seçimi bağlamında dolaylı bir ifade alanıdır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Persona, dış seslere açıklık ve bireyleşme sürecinde içsel kabulün simgesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Rüya Geleneği",
+      "interpretation": "İşitme, kulak, evlilik, çocuk, mülkiyet ve cinsiyete göre değişen ahlaki/sosyal durumlar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolik Okuması",
+      "interpretation": "Kimlik, değer, statü, görünürlük ve ruhsal adanmışlık temaları.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneksel Çerçevesi",
+      "interpretation": "Tanrı'nın sesine kulak verme, sadakat, aidiyet veya servet göstergeleri.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Dünyevi süslerden ve maddi bağlanmalardan feragat, kulak memeleri üzerinden dönüşüm.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Spiritüel Yaklaşım",
+      "interpretation": "Sezgisel duyarlılık, dışarıdan gelen enerjileri ve mesajları alma kapasitesi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenek ve ekollerin ortak noktası, küpenin doğrudan kulak ile ilişkilendirilmesi nedeniyle 'işitmek', 'dinlemek' ve 'dışarıdan gelen etkilere açık olmak' ekseninde anlam kazanmasıdır.",
+  "differences": "Gelenekler arasındaki en büyük ayrım, küpenin değerine ve takıldığı yere yüklenen manadır; kimileri bunu maddi zenginlik ve sosyal statü olarak görürken, kimileri manevi feragat, kimileri ise cinsel arzunun yer değiştirmesi veya ahlaki bir uyarı olarak ele alır.",
+  "inusAssessment": "Küpe sembolü, sabit bir rüya sözlüğü karşılığına sahip olmamakla birlikte, kulak ve işitme gibi bedensel ve duyusal merkezlerle doğrudan temas kurduğu için rüyada oldukça katmanlı bir konuma sahiptir. Onu incelerken küpenin hangi kulakta olduğu, yapıldığı malzemenin (inci, altın, gümüş) niteliği ve rüya sahibinin uyanık yaşamındaki işitsel veya ilişkisel hassasiyetleri, yorumun yönünü belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada küpe görmek kesinlikle iyi bir habere mi işaret eder?",
+      "answer": "Hayır, küpenin rüyadaki anlamı sabit değildir. Rüyanın duygu tonu, küpenin malzemesi ve rüya sahibinin kişisel bağlamı yorumu tamamen değiştirebilir."
+    },
+    {
+      "question": "Erkeğin rüyada küpe görmesi nasıl değerlendirilir?",
+      "answer": "Geleneksel ve kültürel okumalarda erkeğin küpe takması ya da görmesi, ahenkli şeyleri dinleme sevgisiyle ilişkilendirilebildiği gibi, bazı geleneklerde yadırganabilecek veya dikkat çekecek bir duruma işaret edebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Earrings in Dreams: Meaning, Psychology, and Cultural ...",
+      "relevance": "Rüyadaki küpeyi kulak, dinleme, sosyal görünürlük ve sınırlar gibi temalarla ilişkilendiren çevrimiçi bir açıklama sunar; ancak akademik ampirik bulgu vermez.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/earrings"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Kulak, dinleme ve bedensel açıklıklar etrafında gelişebilen psikanalitik sembolik okumalar için temel kuramsal arka plan sağlar.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Dora: An Analysis of a Case of Hysteria Section 3: The First ...",
+      "relevance": "Takı, hediye ve bedensel/cinsel yer değiştirme ilişkisini Dora vakası üzerinden tartışır.",
+      "url": "https://www.gradesaver.com/dora-an-analysis-of-a-case-of-hysteria/study-guide/summary-section-3-the-first-dream"
+    },
+    {
+      "title": "Symbol – International Association of Analytical Psychology",
+      "relevance": "Jungcu sembol anlayışını, görünen nesnenin ötesine taşan anlam üzerinden tanımlayan kurumsal açıklama.",
+      "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/symbol-2/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorum geleneğinin genel çerçevesini ve Artemidorus’un korunan rüya kitabının yapısını gösterir; küpe için doğrudan giriş sunmaz ama tarihsel oneirokritik bağlamı anlamaya yardım eder.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "The Magical History of Earrings - IAJA",
+      "relevance": "Küpelerin antik dünyada statü, dinsel bağlam ve koruyucu anlamlarla ilişkilendirildiğini özetler; küpenin tarihsel sembolik değerine dair genel arka plan sağlar.",
+      "url": "https://iaja.com/2025/06/04/the-magical-history-of-earrings/"
+    },
+    {
+      "title": "earrings + culture + craft: a historical view",
+      "relevance": "Küpelerin tarih boyunca sınıf, sosyal statü, din ve süslenme ile bağlantılı kullanımını özetler; kültürel sembolizmin tarihsel katmanlarını gösterir.",
+      "url": "https://craftcouncilbc.ca/the-earring-show-a-historical-view/"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’un rüya terminolojisini ve antik oneirokritik dilini inceler; küpeye doğrudan bir yorum vermese de antik rüya yorumunun kavramsal arka planını sağlar.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "Earrings in Dreams — Islamic Interpretation & Meaning",
+      "relevance": "Küpe için İslami rüya yorumunda cinsiyet, malzeme ve işitme temasına bağlanan ayrıntılı sembolik anlamlar verir.",
+      "url": "https://www.dream-wisdom.com/en/dreams/earrings/"
+    },
+    {
+      "title": "Earrings Islamic Interpretations & Meanings",
+      "relevance": "Küpeyi evlilik, çocuk ve ahlaki değerlendirme bağlamlarında ele alan İslami rüya tabiri maddesi sunar.",
+      "url": "https://www.myislamicdream.com/earrings.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri K Harfi",
+      "relevance": "Nablusî’ye atfedilen küpe yorumunu Türkçe olarak aktarır; işitme ve erkek/kadın kullanımı temalarını görünür kılar.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
+    },
+    {
+      "title": "Topical Bible: Earrings",
+      "relevance": "İncil’de küpe/earrings kullanımını derleyen sayfa; küpenin değer, statü, süs ve kimi bağlamlarda dinsel bağlılıkla ilişkili olabileceğini gösterir.",
+      "url": "https://biblehub.com/topical/e/earrings.htm"
+    },
+    {
+      "title": "EARRING:",
+      "relevance": "Kulak takısının sembolik anlamına dair klasik Yahudi ansiklopedik açıklama; küpenin kulağa takılmasının işitme ve ‘fısıldama’ çağrışımıyla nasıl okunabildiğini gösterir.",
+      "url": "https://www.jewishencyclopedia.com/articles/5393-earring"
+    },
+    {
+      "title": "The Golden Earrings: Wealth, Servitude, and the Golden Calf",
+      "relevance": "Küpe ve kulak delme temasını, Yahudi kölelik hukuku ve yalnızca Tanrı’ya hizmet etme sembolizmiyle ilişkilendiren ders metni.",
+      "url": "https://rabbizweig.com/shiur/cc796480-0a6f-49cb-8409-9cbb3a9fb077"
+    },
+    {
+      "title": "Earrings at Har Sinai: Symbol of Servitude or Display of Wealth?",
+      "relevance": "Kulak takılarının Har Sinai bağlamında servet ve Tanrı’ya hizmet işareti olarak yorumlandığı metin; küpeye aidiyet ve bağlılık anlamı yükler.",
+      "url": "https://rabbizweig.com/shiur/3db54ae7-c765-4021-a554-f048d1f32d0c"
+    },
+    {
+      "title": "Whose Earrings Did Jacob Bury? - The BAS Library",
+      "relevance": "Eldeki kulak takılarının bazen amulet ve putperest sembollerle bağlantılı olabileceğini tartışan tarihsel bağlam; küpenin Yahudi kültür tarihinde çift anlamlılığını gösterir.",
+      "url": "https://library.biblicalarchaeology.org/article/whose-earrings-did-jacob-bury/"
+    },
+    {
+      "title": "Earring: Significance and symbolism",
+      "relevance": "Buddhizm’de kulak süsünün dünyasal bağlanma ve takıdan uzak durma temasıyla ilişkilendirildiğini gösterir.",
+      "url": "https://www.wisdomlib.org/concept/earring"
+    },
+    {
+      "title": "Ear ornament: Significance and symbolism",
+      "relevance": "Kulak süslerinin Budist manastır düzeninde uygunsuz takılar kapsamında anılması nedeniyle küpe sembolünün disiplin ve süs ilişkisini gösterir.",
+      "url": "https://www.wisdomlib.org/concept/ear-ornament"
+    },
+    {
+      "title": "Symbolism in Asian Statues of the Buddha",
+      "relevance": "Buddha heykellerindeki uzamış kulak memelerinin mücevher ağırlığından kalan iz olarak yorumlanmasını aktarır; küpe sembolü için feragat bağlamı sağlar.",
+      "url": "https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1035&context=imwjournal"
+    },
+    {
+      "title": "Dream Interpretation and Meaning of Earring in Dreams",
+      "relevance": "Küpeyi rüya sözlüğü düzeyinde, ses ve iletişimle ilişkili bir nesne olarak ele alıyor; küpe sembolüne yönelik genel sembolik çerçeve sağlıyor.",
+      "url": "https://www.cafeausoul.com/oracles/dream-dictionary/earring"
+    },
+    {
+      "title": "Earring in dreams — meaning and symbolism",
+      "relevance": "Küpe için ‘alma/enerji kabulü’ temalı açık bir ezoterik okuma veriyor; rüyada takı olarak kulağa yakın sembollerin hassasiyet ve işitme ile ilişkisini öne çıkarıyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/earring"
+    },
+    {
+      "title": "Finding Earrings Dream Meaning & Interpretation - Mirror",
+      "relevance": "Küpeyi rüya bağlamında konuşan modern yorumlardan biri; sembolün anlamını duygusal durum, ilişki ve görünürlük temalarıyla ilişkilendiriyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/finding-earrings/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jewish"
+  ]
+}

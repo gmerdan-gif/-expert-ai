@@ -1,114 +1,194 @@
 {
   "slug": "sel",
   "title": "sel",
-  "shortDescription": "Rüyada sel görmek, kontrolü zorlayan güçlü duygulara, ani değişimlere veya sınırların aşıldığı hissine işaret edebilir. Aynı zamanda bastırılmış konuların açığa çıkması ve eski düzenin yerini yenisine bırakmasıyla da ilişkilendirilebilir.",
+  "shortDescription": "Rüyada sel görmek, suyun taşkın, denetlenemez ve her şeyi kaplayan yönleri aracılığıyla duygusal kapasitenin taşması, bastırılmış içeriklerin zihinsel sınırları zorlaması ve derin dönüşüm süreçlerine işaret etmesi bakımından çok katmanlı bir semboldür.",
   "positiveAssociations": [
-    "Zorunlu temizlenme ve yeniden başlangıç olanağı: eskimiş düzenin zorla çözülmesiyle yeni düzenlemelere kapı açılması",
-    "Gömülü ya da bastırılmış duyguların açığa çıkması ve böylece bunlarla yüzleşme imkânı",
-    "Bireysel veya toplumsal düzeyde kapsamlı dönüşüm potansiyeli; eski yapılar yerini yeniden yapılanmaya bırakabilir"
+    "Zihinsel ve duygusal olarak eski yapının çözülerek yenilenmeye zemin hazırlaması",
+    "Berrak suyun getirdiği ferahlık, adalet ve yardım olasılığı",
+    "Zorlu koşullardan ve baskılardan sağ salim kurtulma ve dayanıklılık",
+    "Derin bir arınma, tazelenme ve yeniden başlangıç"
   ],
   "challengingAssociations": [
-    "Kontrolün kaybolması; ani ve geniş kapsamlı değişim karşısında savunmasız hissetme",
-    "Güvenlik, mülkiyet veya yaşam düzeninde zarar, yer değiştirme veya kayıp riskinin sembolik yansıması",
-    "Baskılanmış travmatik anıların veya çözülmemiş sorunların taşarak rahatsız edici biçimde yüzeye çıkması"
+    "Duygusal veya psikik kapasitenin taşması ve zihinsel akışa kapılma",
+    "Bastırılmış içeriklerin veya geçim kaygılarının egoyu baskılaması",
+    "Zarar, fitne, çatışma veya zorlu yaşam olaylarıyla karşılaşma kaygısı",
+    "Sınırların aşılmasıyla gelen yıkım, kayıp ve eski düzenin dağılması"
   ],
   "contextDependentAssociations": [
-    "Selin kaynağı ve hızı (örneğin yavaş yükselen taşkın veya ani su baskını) — aciliyet ve etkilenme biçimini değiştirir",
-    "Rüya içinde selden kaçma, yardım etme veya izleyici kalma halleri — davranış biçimi sembolün tonunu belirler",
-    "Selin mekânı (ev, sokak, işyeri, kıyı) — hangi yaşam alanlarının tehdit altında hissedildiğine dair ipucu verir",
-    "Selin sonrasında kalan görüntüler (çökmüş binalar, temizlenen alanlar, yeni filizlenen bitkiler) — yıkımın ardından oluşan sonuçlara dair çağrışım taşır"
+    "Selin berrak ya da bulanık akışına göre değişen adalet veya düşmanlık temaları",
+    "Selin evin içine girip girmemesine bağlı olarak yaşanan bireysel veya toplumsal sarsıntılar",
+    "Rüya sahibinin sel içinde sürüklenmek yerine yüzüp kurtulmasıyla beliren direnç ve selamet",
+    "Yağmur sonrasında gelen suyun yıkıcı bir etki mi yoksa rahmet ve yardım mı taşıdığı?"
   ],
   "commonVariations": [
     {
-      "title": "Evin su basması",
-      "description": "Kişisel güvenlik, mahremiyet veya aile içi düzenin duygusal dalgalarca zorlanması veya sınanması hissinin bir yansıması."
+      "title": "Bulanık ve çamurlu bir selin evlere doğru aktığını görmek",
+      "description": "Zihinsel veya dışsal baskıların, zorlukların ve çatışmaların yaşam alanına kadar ulaşarak düzeni sarsma olasılığını simgeler."
     },
     {
-      "title": "Selde sürüklenmek",
-      "description": "Hayatın bir alanında irade dışı olarak akışa kapılma, kararları kontrol edememe ya da yön tayininde güçlük yaşama duygusunu gösterebilir."
+      "title": "Berrak suyun taştığını ve zarar vermeden aktığını izlemek",
+      "description": "Beklenmedik bir yardımı, adaletin tecellisini veya duygusal yüklerin hafifleyerek ferahlığa dönüşmesini yansıtır."
     },
     {
-      "title": "Başkalarını selde kurtarmaya çalışmak",
-      "description": "Sosyal sorumluluk, başkalarının sorunlarına müdahale etme arzusu veya başkalarının yükleriyle karşılaşma hissinin simgesel anlatımı olabilir."
+      "title": "Sel sularının ortasında kalıp yüzerek kıyıya ulaştığını fark etmek",
+      "description": "Yoğun duygusal krizler veya zorlu mücadeleler karşısında kişinin kendi çabasıyla güvenli bir noktaya varma direncini gösterir."
     },
     {
-      "title": "Şehir/sokakların su altında kalması",
-      "description": "Kamu yaşamı, toplumsal düzen veya geniş çevrenin beklenmedik biçimde bozulması ve kamu düzeyinde belirsizlik algısıyla ilişkilendirilebilir."
+      "title": "Selin bir yapıyı veya odayı yıkıp geçtiğini görmek",
+      "description": "Eski alışkanlıkların, kalıpların veya mevcut hayat düzeninin aniden çözülüp yeni bir evreye yer açma gereğini gösterir."
     }
   ],
   "psychology": "",
-  "jungian": "",
-  "islamicTradition": "",
+  "jungian": "Jungcu perspektifte su, bilinçdışının en temel simgelerinden biridir ve sel imgesi, bilinçdışı içeriklerin ego ve bilinç sınırlarını aşarak ortaya çıkması şeklinde okunur. Bu taşkınlık durumu her zaman yıkım anlamına gelmez; aynı zamanda eski ve katılaşmış yapının çözülmesi, bastırılmış malzemenin görünür hâle gelmesi ve yeni bir kişisel bütünleşme evresine geçiş için bir eşik deneyimidir.",
+  "islamicTradition": "Klasik tabir kaynaklarında sel, genellikle düşman, zulüm, fitne, musibet veya zahmetli yolculuklarla ilişkilendirilir. Selin berrak olması sultandan gelecek adalete veya yardıma delalet ederken, bulanık ve çamurlu olması zalim düşmana ya da batıl söze işaret edebilir. Selin eve girmesi veya her tarafı kaplaması ailevi kayıplara ya da toplumsal belalara yorulurken, sel içinde yüzüp kurtulmak ise zulümden ve tehlikelerden selametle çıkmayı simgeler.",
   "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Doğu gelenekleri doğrudan \"sel\" kelimesine özgü bir rüya tabiri sunmamakla birlikte, su öğesi genel olarak dönüşüm, saflık ve zihinsel süreçlerle ilişkilendirilir. Bu çerçevede sel teması geniş çaplı değişim, arınma veya bastırılanların açığa çıkışı bağlamında okunabilir.",
-  "spiritualApproaches": "Modern spiritüel yorumlarda taşkın imgeleri sıklıkla enerjisel arınma, duygusal boşalma ve hayat akışında ani değişimler olarak ele alınır; bu yorumlar geleneksel kaynaklardan ziyade çağdaş metaforik okumalar temelindedir.",
+  "jewishTraditions": "Yahudi teolojik ve mistik geleneğinde Tufan suları, yıkım ile arınma arasında çift yönlü bir sembolizm taşır. Zoharî okumalarda bu sular dünyevi meşguliyetler ve ruhsal hayatı bastıran engelleyici güçlerle ilişkilendirilirken, aynı zamanda dünyayı ilk saf hâline döndüren mikveh benzeri arındırıcı ve yenileyici bir dönüşüm süreci olarak da ele alınır.",
+  "buddhistEasternApproaches": "Pali gelenekte, duyusal haz, oluş, görüşler ile cehalet olarak tanımlanan 'dört sel' öğretisi zihnin akıntılarına kapılmayı ve bağlayıcı güçleri temsil eder. Bu bağlamda rüyadaki sel, arzuların ve zihinsel akıntıların sürükleyiciliğini ve onlara karşı dikkat gerektiren durumu anlamlandırmak için bir çerçeve sunar.",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda sel, sınırların aşılması, bastırılanın yüzeye çıkması ve suyun çözme ve biçim bozma niteliğidir. Bu durum, eski formların dağıldığı ve yeni bir dönüşüme evrilmeden önceki çözülme evresini temsil eder.",
   "comparisonTable": [
     {
-      "approach": "Budist ve Doğu Yaklaşımı",
-      "interpretation": "Su ve taşkın imgeleri dönüşüm, arınma ve zihinsel uyanış potansiyeliyle ilişkilendirilebilir; doğrudan 'sel' tabiri geleneklerde sabit değildir.",
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilinçdışı içeriklerin ego sınırlarını aşması, eski yapının çözülmesi ve dönüşüm eşiği.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel İslam Tabirleri",
+      "interpretation": "Zorluklar, düşmanlık, fitne veya berrak olması hâlinde adalet ve yardımla gelen kurtuluş.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Modern Spiritüel Yaklaşım",
-      "interpretation": "Taşkın imgeleri enerjisel temizlenme, duygusal boşalma ve hayat akışındaki ani değişimlerin metaforu olarak okunabilir.",
+      "approach": "Yahudi Mistik Okuması",
+      "interpretation": "Dünyevi baskılar ve engellerle birlikte, dünyayı yenileyen arındırıcı bir Tufan süreci.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Doğu Felsefesi",
+      "interpretation": "Duyusal arzu ve cehalet akıntılarına kapılma, zihinsel sürüklenme.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Simyasal Sembolizm",
+      "interpretation": "Biçimlerin dağılması, bastırılanın taşması ve yeni bir aşamaya geçiş öncesi çözülme evresi.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı yorumlar, sel gibi büyük su imgelerinin çoğunlukla sınırların aşılması, güçlü duygusal hareketlenmeler ve kapsamlı değişim süreçleriyle bağlantılı olarak algılanabileceği konusunda benzerlik taşır.",
-  "differences": "Geleneksel dini veya kültürel çerçeveler sembollere öğretisel veya ritüel anlamlar yüklerken, modern spiritüel ve psikolojik yaklaşımlar imgeleri daha çok bireysel dönüşüm, arınma ve duygusal süreçlerin metaforu olarak değerlendirir.",
-  "inusAssessment": "\"Sel\" sembolü hakkında doğrudan doğrulanmış geleneksel rüya tabiri veya ampirik psikoloji verisi bulunmamaktadır. Bu nedenle sembolün anlamı tekil ve evrensel bir açıklama yerine rüya bağlamı, selin niteliği ve rüya görenin kişisel yaşam koşulları dikkate alınarak, olasılıklar arasında değerlendirilmelidir.",
-  "faq": [],
+  "commonGround": "Farklı gelenekler ve psikolojik yaklaşımlar arasında sel, temel olarak 'sınırların aşılması', 'akıntıya kapılma' ve 'büyük bir sarsıntının ardından gelen değişim' ortak paydasında buluşur.",
+  "differences": "Kimi gelenekler seli dışsal bir bela, düşman veya yıkım olarak ele alırken, psikolojik ve ezoterik yaklaşımlar onu içsel kapasitenin taşması, bastırılanın dönüşü ve arındırıcı bir çözülme evresi olarak yorumlar.",
+  "inusAssessment": "Sel sembolü, rüyada karşılaşılan suyun akış kalitesine ve mekânsal konumuna göre bütünüyle zıt anlam katmanları barındırır. Bulanık bir suyun evi basması dışsal krizlere ve bastırılmış yüklerin baskısına işaret ederken, aynı suyun içinde hayatta kalma çabası veya suyun berrak akışı içsel dayanıklılığı ve yenilenme potansiyelini öne çıkarır. Bu nedenle sel rüyasını yorumlarken suyun rengi, evin içine girip girmemesi ve rüya sahibinin akıntı karşısındaki konumu en belirleyici unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada selin berrak veya çamurlu olması neyi değiştirir?",
+      "answer": "Geleneksel ve sembolik okumalarda berrak su adalet, yardım ve ferahlık çağrışımı taşırken; çamurlu ve bulanık sel zorluk, fitne veya engellerle ilişkilendirilir."
+    },
+    {
+      "question": "Sel rüyası psikolojik olarak ne anlama gelir?",
+      "answer": "Psikolojik ve Jungcu çerçevede sel, bilinçdışı materyallerin egonun taşıyabileceği sınırları aşması, duygusal kapasitenin dolup taşması ve eski yapının çözülme sürecini yansıtır."
+    },
+    {
+      "question": "Selden kaçmak veya yüzerek kurtulmak neye delalet eder?",
+      "answer": "Zorlu koşullar, baskılar veya krizler karşısında rüya sahibinin gösterdiği direnci, mücadele gücünü ve tehlikelerden selametle çıkma iradesini simgeler."
+    }
+  ],
   "sources": [
     {
-      "title": "UYGUR MASALLARINDAKİ SEÇİLMİŞLER VE RÜYALARI ...",
-      "relevance": "İslami rüya geleneği ve sembol diline dair genel çerçeve sunuyor; ancak 'sel' sembolüne özgü bir yorum vermiyor.",
-      "url": "https://dergipark.org.tr/en/download/article-file/1784934"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyalarda suyun bedensel dürtüler, idrar teması ve doğumla bağlantılı yorumlarına ilişkin temel Freud metni.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "Signs and Symbols",
-      "relevance": "Yahudi sembolleri üzerine genel referans; 'sel' sembolüne veya rüya yorumuna doğrudan kanıt sağlamıyor.",
-      "url": "https://mechon-mamre.org/jewfaq/signs.htm"
+      "title": "Page:Freud - The interpretation of dreams.djvu/261 - ...",
+      "relevance": "Rüyada suya girme veya sudan çıkma imgelerinin doğumla ilişkilendirildiği Freud pasajını içeren kaynak.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
     },
     {
-      "title": "Jewish Symbols & Meaning",
-      "relevance": "Modern Yahudi sembolleri hakkında genel bir açıklama sunar; doğrudan rüya geleneğiyle ilgili kanıt sağlamıyor.",
-      "url": "https://aish.com/9-common-jewish-symbols/"
+      "title": "Water in Dreams: Spiritual and Biblical Meaning (with Jung's ...",
+      "relevance": "Su ve bilinçdışı ilişkisini Jungcu çerçevede kuran temel ifade.",
+      "url": "https://individuate.me/articles/spiritual-meaning-of-water-in-dreams"
     },
     {
-      "title": "Signed, Sealed, and Delivered: The Sign of the Cross",
-      "relevance": "Hristiyanlıkta işaret/mühür sembolizmine dair genel bir açıklama; 'sel' sembolüne özgü rüya yorumu sağlamıyor.",
-      "url": "https://stpaulcenter.com/posts/signed-sealed-and-delivered-the-sign-of-the-cross"
+      "title": "Carl Jung: CW 5 “Symbols of Transformation” – Quotations",
+      "relevance": "Taşkın imgesini bilinçdışı içeriklerin bilinçli dengeyi aşması bağlamında ele alan Jungcu aktarım.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/10/14/symbols-5/"
     },
     {
-      "title": "Taste and See: The Jeweled Symbolism of Salt in Scripture",
-      "relevance": "Kutsal metinlerde tuz sembolizmini özetliyor; 'sel' sembolüne veya rüya yorumuna doğrudan ilgili değil.",
-      "url": "https://faithgateway.com/blogs/christian-books/taste-and-see-the-jeweled-symbolism-of-salt-in-scripture"
+      "title": "What Does Water Mean in a Dream? A Complete Jungian Guide",
+      "relevance": "Selin yıkım ve yeniden doğuşla birlikte düşünülmesine elveren Jungcu yorumlayıcı çerçeve.",
+      "url": "https://individuate.me/articles/dream-about-water"
     },
     {
-      "title": "A way of life. Why is the Talmud important to Jews?",
-      "relevance": "Talmud’un Yahudi dinindeki önemini doğruluyor; fakat 'sel' sembolüne yönelik rüya yorumu içermiyor.",
-      "url": "https://www.jhi.pl/en/articles/a-way-of-life-why-is-the-talmud-important-to-jews,4785"
+      "title": "Archetype and Archetypal Image in Chinese Myths, Legends ...",
+      "relevance": "Jung'un taşkın/sel motifini kolektif taşkınlık, bilinçdışının karşı-darbesi ve dönüşüm bağlamında tartışan akademik çalışma.",
+      "url": "https://repository.essex.ac.uk/23484/1/Archetype%20and%20Archetypal%20Image%20in%20Chinese%20myths,%20Legends%20and%20Tales.pdf"
     },
     {
-      "title": "The Stupa, Symbol of Unity",
-      "relevance": "Stupa’nın Budist sembol olarak birlik ve aydınlanmayı temsil ettiğini açıklayan kaynak; doğrudan rüya yorumu değil, sembol anlamı sağlar.",
-      "url": "https://www.gradualpath.com/blog/the-stupa-symbol-of-unity"
+      "title": "Artemidorus on Dreams - translation - Attalus.org",
+      "relevance": "Antik Yunan rüya yorumunun genel çerçevesini ve rüyaların işaret değeri taşıyan olaylar olarak ele alınışını gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "Hinduism Symbols and Their Meaning | The Indian Panorama",
-      "relevance": "Om/Aum’un Hindu sembolizmindeki önemini ve meditasyonla ilişkisini açıklar.",
-      "url": "https://www.theindianpanorama.news/hinduism-symbols-and-their-meaning/"
+      "title": "Title: The role of dreams in ancient medicine",
+      "relevance": "Antik dönemde sel ve su akıntılarının beden durumu ve humoral düşünceyle ilişkilendirilmesine dair tarihsel bağlam sağlar.",
+      "url": "https://core.ac.uk/download/pdf/197753172.pdf"
     },
     {
-      "title": "Buddhist Symbols |Guide to the Symbols of Buddhism",
-      "relevance": "Budist sembollerin anlamlarını özetler; lotus ve Dharma çarkı gibi sembollerin klasik Budist anlamlarını ele alır.",
-      "url": "http://www.buddhistsymbols.org/"
+      "title": "Sembol: Sel | Dream Muslim",
+      "relevance": "'Sel' sembolüne dair klasik İslami rüya tabiri aktarımı; selin düşman, fitne, savaş ve kurtuluş gibi anlamlarla ilişkilendirildiği bir giriş sunar.",
+      "url": "https://www.dream-muslim.com/tr/encyclopedia/Sel"
     },
     {
-      "title": "The Eight Auspicious Symbols of Buddhism - A Study in ...",
-      "relevance": "Vajrayana bağlamında conch shell’in (konç kabuğu) Dharma sesini nasıl sembolize ettiğini açıklar.",
-      "url": "https://www.exoticindiaart.com/article/symbols/"
+      "title": "İmam Nablusi Rüya Tabirleri S Harfi",
+      "relevance": "Selin yağmur sonrası görünmesi, yeryüzünü kaplaması ve bunun musibet, hastalık, düşman hücumu ya da bereketle ilişkilendirilişi üzerine aktarımlar içerir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-s1-harfi.html"
+    },
+    {
+      "title": "Rüyada Sel Görmek İmam Nablusi",
+      "relevance": "Selin düşman saldırısı, aileye zarar, ilahi gazap ve bir eve giren selin yıkımı gibi temalarla yorumlanmasına dair ayrıntılı aktarım sunar.",
+      "url": "https://www.islamda.org/2015/06/ruyada-sel-gormek-imam-nablusi.html"
+    },
+    {
+      "title": "ETH Library",
+      "relevance": "Tufan anlatısının Yahudi ve Hristiyan dini bağlamda yıkım ve kurtuluşu birlikte taşıyan sembolik çerçevesini gösterir.",
+      "url": "https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/152873/eth-3260-11.pdf?sequence=11"
+    },
+    {
+      "title": "Raging Flood Waters",
+      "relevance": "Tufan sularını geçim kaygıları ve dünyevî meşguliyetler için sembolik bir okuma içinde ele alır.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/380583/jewish/Raging-Flood-Waters.htm"
+    },
+    {
+      "title": "Of Irony and Water - Mayyim Hayyim",
+      "relevance": "Tufanı arındırma, düzeltme ve yeniden canlılığa dönüş temalarıyla ilişkilendirir.",
+      "url": "https://www.mayyimhayyim.org/of-irony-and-water/"
+    },
+    {
+      "title": "The Flood Within - Parshat Noach",
+      "relevance": "Tufanı bir mikveh benzetmesiyle arınma ve yeniden doğuş süreci olarak yorumlar.",
+      "url": "https://www.chabad.org/theJewishWoman/article_cdo/aid/1641405/jewish/The-Flood-Within.htm"
+    },
+    {
+      "title": "Kabbalah explains the mystical roots of the waters of the Great Flood.",
+      "relevance": "Tufanı dünyanın ilk hâline dönüşü ve yenilenmesiyle ilişkilendirir.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/380139/jewish/Mystical-Inundations.htm"
+    },
+    {
+      "title": "What Is a Flood of Water in the Work? | Глава Ноах",
+      "relevance": "Zohar’a atfedilen bir okuma üzerinden 'su tufanı' ifadesini ruhsal hayatı bastıran engellerle ilişkilendirir.",
+      "url": "https://www.kabbalah.info/eng/layout/set/trans_page/content/view/full/6999"
+    },
+    {
+      "title": "Flood Ogha Sutta (SN 38:11) - dhammatalks.org",
+      "relevance": "Zohar’a atfedilen bir okuma üzerinden 'su tufanı' ifadesini ruhsal hayatı bastıran engellerle ilişkilendirir.",
+      "url": "https://www.dhammatalks.org/suttas/SN/SN38_11.html"
+    },
+    {
+      "title": "Water in Dreams: A Cross-Cultural Symbol Guide | Elucid",
+      "relevance": "Rüyalarda su ve sel imgelerini taşkınlık, bastırılanın geri dönüşü ve alşimik çözülme bağlamında ele alan modern sembolik bir yorum.",
+      "url": "https://liminaut-labs.org/blog/water-in-dreams-cross-cultural-guide/"
+    },
+    {
+      "title": "Alchemical Symbolism in Dreams: Nigredo to Rubedo",
+      "relevance": "Rüyalarda su, sel ve batma imgelerini alşimik çözülme, sınırların dağılması ve dönüşüm evreleriyle ilişkilendiren sembolik bir çerçeve.",
+      "url": "https://www.liminaut-labs.org/blog/alchemical-symbolism-dreams-nigredo-rubedo/"
     }
   ],
   "relatedSlugs": []

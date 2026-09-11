@@ -1,94 +1,153 @@
 {
   "slug": "ip",
   "title": "ip",
-  "shortDescription": "Rüyada ip görmek; birlik, güven ve bağlılığın yanı sıra kısıtlama ya da baskı hissini de yansıtabilir. İpin sağlam, kopuk, düğümlü veya çözülüyor olması, bağların ve sorumlulukların durumuna işaret eder.",
+  "shortDescription": "Rüyalarda ip, bağ kurma, tutunma, sınırlanma veya çözülme gibi birbirine zıt gerilimleri barındıran çok katmanlı bir nesnedir; tek anlamlı ve sabit bir sembol olmayıp rüyanın duygu tonuna ve eylemine göre şekillenir.",
   "positiveAssociations": [
-    "Güvenlik",
-    "Kurtuluş",
-    "Birlik",
-    "Bağlılık",
-    "Hakikate/gerçeğe yöneliş"
+    "bağlanma ve süreklilik",
+    "kurtuluş ve yardım",
+    "yüksek bir amaca veya inanca tutunma",
+    "ilişkileri onarma ve denge kurma"
   ],
   "challengingAssociations": [
-    "Esaret",
-    "Kısıtlama",
-    "Yanlış algılama",
-    "Açgözlülük",
-    "Istıraplı bağlanmalar"
+    "kısıtlama ve esaret",
+    "düğümlenmiş karmaşa ve sıkışma",
+    "kopma veya gerilme hissi",
+    "aşırı kontrol veya baskı altında kalma"
   ],
   "contextDependentAssociations": [
-    "İpin sağlamlığı, kopma olasılığı veya gevşeme kapasitesi",
-    "Düğümün varlığı, sıkılığı veya çözülme potansiyeli",
-    "İpin neyi/kimleri bağladığı ve yönünün ne olduğu (bağlayan mı, birleştiren mi, ayıran mı)",
-    "İpin uzunluğu, sürekliliği veya uçlarının serbest/bağlı olması"
+    "İp yün veya lif gibi farklı malzemelerden yapıldığında kişisel ve sosyal bağların niteliği değişebilir.",
+    "İp yüksekten sarkıyorsa destek arayışı veya yüksek bir hedefe yönelme anlamı taşıyabilir.",
+    "İp kopmuş veya düğüm düğüm olmuşsa ilişkilerdeki veya zihinsel süreçlerdeki tıkanıklıkları yansıtabilir."
   ],
   "commonVariations": [
     {
-      "title": "Elde tutulan uzun bir ip",
-      "description": "Uzunluk ve süreklilik hissi; birden çok noktayı bir arada tutma, sorumluluk veya uzun vadeli bağlar simgesi olarak okunabilir."
+      "title": "Yukarıdan sarkan sağlam bir ipe tutunmak",
+      "description": "Zor bir durumdan kurtulmak için dışsal bir yardıma yönelmeyi, inanç veya cemaat bağlarına tutunma arzusunu simgeler."
     },
     {
-      "title": "Düğümlenmiş bir ipi çözmeye çalışmak",
-      "description": "Düğüm metaforu, ilişki veya zihinsel sorunların karmaşıklığını gösterir; çözülme çabası ise sorunun açılma/aydınlanma potansiyelini ima eder."
+      "title": "Düğümlenmiş ve karışmış bir ipi çözmeye çalışmak",
+      "description": "Gündelik yaşamdaki karmaşık ilişkileri, zihinsel düğümleri ve çözülmeyi bekleyen sorumlulukları temsil eder."
     },
     {
-      "title": "Bedeni saran ip",
-      "description": "İpin fiziksel olarak sınırlayıcı biçimi, içsel ya da dışsal kısıtlanma ve bunların yarattığı baskıya dikkat çeker."
+      "title": "Kopmuş bir ip görmek",
+      "description": "Bir bağın, bir anlaşmanın ya da yaşam çizgisi sayılan bir ilişkinin kesintiye uğradığını gösterir."
     },
     {
-      "title": "Kopmuş bir ip",
-      "description": "Kopma durumu, mevcut bağların sonlanması veya beklenen bir ayrışma/serbestleme olasılığına işaret eden bir durum olarak ele alınır."
+      "title": "Bedenine sarılmış veya bağlanmış bir ip hissetmek",
+      "description": "Kısıtlanmışlık hissini, dürtülerin baskılanmasını ya da başkalarının beklentileri arasında sıkışmış olma durumunu yansıtır."
     }
   ],
-  "psychology": "",
+  "psychology": "Ampirik psikoloji araştırmaları, rüya içeriğindeki duygu tonunun ve etkileşim örüntülerinin kişinin genel psikolojik iyi oluşu ve yaşam uyumuyla doğrudan ilişkili olduğunu göstermektedir. Psikanalitik çerçevede ise uzayan nesneler (iplik, kordon, halat), bağlanma ile kısıtlama arasındaki gerilimi veya Freudcu sembolizmde fallik ve kökensel çağrışımları temsil edebilir.",
   "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "Kutsal metinlerde ip ve halat genellikle bağlama, kurtuluş, güvenlik veya esaret temalarıyla ilişkilendirilir. Örneğin Rahab’ın kırmızı ipi kurtuluş/korunma bağlamında anılır; başka metinlerde ip metaforu günahın bağı veya toplumsal birliği çağrıştırabilir.",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Doğu geleneklerinde — özellikle Hindu ve Budist kaynaklarda — ip kimi zaman yanılsamanın çözülmesi ve gerçeğin ortaya çıkmasıyla ilişkilendirilir; Budist metinlerde ayrıca ip ve zincirler arzuların yarattığı bağlılıkları, acı verici kısıtlamaları ve özgürleşme ihtiyacını betimleyen imgeler olarak kullanılır.",
-  "spiritualApproaches": "Spiritüel okumalarda ip, ruhsal bağlanma ile çözülme arasındaki gerilimi taşıyan bir semboldür; hem bağlılığı hem de ayrışma/özgürleşme olasılığını işaret edebilir.",
+  "islamicTradition": "İslami rüya geleneklerinde ve klasik tabir kaynaklarında ip, ahd, misak ve dine bağlılık ile ilişkilendirilir. Gökten sarkan ip motifi Kur’an’daki 'Allah’ın ipine sımsıkı sarılma' sembolü üzerinden okunarak inanca, cemaate ve şerefe bağlanma şeklinde değerlendirilir.",
+  "christianTraditions": "Bazı modern Hristiyan dindar yorumlarında ip, kurtuluş, yardım, verilen yeminler, bağlanma ve esaret gibi temalarla ilişkilendirilerek ele alınmaktadır.",
+  "jewishTraditions": "Talmudik Berakhot geleneği, rüyaların bütünüyle anlamsız olmadığını ve yorumla anlam kazandığını vurgular. Bu çerçevede ip sembolü, bağ kurma ve tutunma potansiyeli taşıyan yorumlanabilir bir işaret olarak değerlendirilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel okumalarda ip, düşüncenin akışı, yaşam çizgisi, kişilerarası bağlar ve bilinç ile daha büyük bütünlük arasındaki köprü olarak kabul edilir; karışmış ipler ise çözülmesi gereken içsel karmaşaları gösterir.",
   "comparisonTable": [
     {
-      "approach": "Hristiyan Gelenekleri",
-      "interpretation": "İp/halat; kurtuluş, güvenlik, günahın bağı veya topluluk birliği temaları ekseninde kullanılır.",
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Bağlanma ile kısıtlama arasındaki gerilimi, uzayan nesneler bağlamındaki dürtüsel veya kökensel çağrışımları inceler.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Ahd ve misak, inanç bağlamında ve Kur'an'daki 'Allah'ın ipine sımsıkı sarılma' teması çerçevesinde okunur.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu ve Budist Yaklaşımlar",
-      "interpretation": "İp, zihinsel yanılsamalar, arzunun bağlayıcı etkileri ve özgürleşme çabalarıyla bağlantılı bir metafor olarak ele alınır.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Spiritüel Yaklaşımlar",
-      "interpretation": "Ruhsal düzeyde bağlanma/özgürleşme ikiliğini vurgulayan bir sembol olarak değerlendirilir.",
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Kader, yaşam çizgisi, onarım ve ilişkiler arasındaki görünmez bağlar metaforu olarak değerlendirilir.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenek ve yaklaşımlarda ip, yaşamı şekillendiren bağlantılar ile bireysel özgürlük arasındaki dinamik gerilimi yansıtan merkezi bir semboldür.",
-  "differences": "Hristiyan metinlerinde ip daha çok kurtuluş, güvenlik veya günah bağları gibi teolojik bağlamlarda görünürken; Doğu geleneklerinde daha çok yanılsama, arzu kaynaklı bağlılıklar ve bunlardan kurtulma temaları öne çıkar.",
-  "inusAssessment": "İp sembolü hem birlikte tutma hem de kısıtlama işlevini aynı anda barındırır; bağın niteliği, fiziksel durumu ve bağlam göz önünde bulundurularak anlamlandırılmalıdır. Tek bir bağlayıcı açıklama yerine, bağlama göre değişen koşullu bir ilişki sunar.",
-  "faq": [],
-  "sources": [
+  "commonGround": "Farklı gelenekler ve psikolojik yaklaşımlar arasında ip sembolü, insan hayatındaki bağlar, sorumluluklar ve tutunma noktaları etrafında ortaklaşır; ip her durumda kurulan ya da koparılan bir ilişkiyi temsil eder.",
+  "differences": "Psikanaliz, ipi içsel dürtüler ve kısıtlama gerilimi üzerinden ele alırken, İslami gelenek onu ilahi ahit ve inanca bağlılık bağlamına oturtur; spiritüel okumalar ise daha geniş bir yaşam çizgisi ve enerji ağı metaforu kullanır.",
+  "inusAssessment": "Rüyayı yorumlarken ipin durumu (sağlam, kopuk, düğümlü veya bedene sarılı) ve rüya sahibinin o sırada hissettiği duygu tonu, bu sembolün kurtuluş müjdesi mi yoksa sıkışmışlık işareti mi olduğunu belirleyen en kritik unsurlardır.",
+  "faq": [
     {
-      "title": "Rope - Bible Encyclopedia",
-      "relevance": "İncil bağlamında ip/halatın bağ, kurtuluş, esaret ve birlik çağrışımlarını özetler.",
-      "url": "https://www.biblexika.com/encyclopedia/rope"
+      "question": "Rüyada ip görmek her zaman kısıtlandığım anlamına mı gelir?",
+      "answer": "Hayır. İp rüyaları bağlama göre değişir; kısıtlanma hissi verebileceği gibi, yüksek bir amaca tutunma veya bir sorunu çözme çabasını da temsil edebilir."
     },
     {
-      "title": "Rope: Significance and symbolism",
-      "relevance": "Hindu bağlamında ipin yanılsama, yanlış algı ve gerçeğin açığa çıkmasıyla ilişkilendirildiğini gösterir.",
-      "url": "https://www.wisdomlib.org/concept/rope"
-    },
-    {
-      "title": "Horse-hair rope: Significance and symbolism",
-      "relevance": "Budist bağlamda ipin açgözlülük ve acı verici bağlanmayı anlatan bir benzetme olarak kullanıldığını gösterir.",
-      "url": "https://www.wisdomlib.org/concept/horse-hair-rope"
-    },
-    {
-      "title": "Significance of Chains and ropes",
-      "relevance": "Budist ve Hindu bağlamlarda ip ve zincirlerin kısıtlama, bağlılık ve özgürlük temalarıyla ilişkilendirildiğini özetler.",
-      "url": "https://www.wisdomlib.org/concept/chains-and-ropes"
+      "question": "Düğümlü ip görmek psikolojik olarak neye işaret eder?",
+      "answer": "Zihinsel veya ilişkisel düzeyde çözülmeyi bekleyen karmaşık sorunları, içsel sıkışıklıkları ve aşılması gereken engelleri simgeleyebilir."
     }
   ],
-  "relatedSlugs": []
+  "sources": [
+    {
+      "title": "a longitudinal study of the continuity hypothesis",
+      "relevance": "Rüya içeriği ile psikolojik iyi oluş arasındaki bağlantıyı inceler; rüyalarda duygu tonu ve etkileşim örüntülerinin genel ruhsal durumla ilişkisini gösterir.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16288448/"
+    },
+    {
+      "title": "DREAMS IN FOLKLORE (FREUD AND OPPENHEIM)",
+      "relevance": "Rüyadaki iplik, kordon, halat ve sicim gibi uzayan nesnelerin sembolik anlamı üzerine Freudcu yorum.",
+      "url": "https://www.lutecium.org/ftp/Freud/pdf/1911_dreams_in_folklore.pdf"
+    },
+    {
+      "title": "Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149- ...",
+      "relevance": "Rüyada uzayan nesnelerin cinsel organ sembolizmiyle ilişkilendirildiği Freudcu sembolizm çerçevesi.",
+      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149-169.pdf"
+    },
+    {
+      "title": "Dream About a Rope: Meaning & Interpretation | Revalite",
+      "relevance": "Halatın bağ ve kısıtlama çağrışımlarını Freud’a atfeden çevrimiçi özet; bir psikanalitik çerçeve sunuyor.",
+      "url": "https://my.astrofame.com/dream-interpretation/dream/rope/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorumlama çerçevesini ve rüyada görülen nesnelerin bağlama göre değerlendirilmesini gösterir; ip sembolü için tarihsel oneirokritik okuma zemini sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri İ Harfi",
+      "relevance": "Rüyada ip sembolüne dair klasik Nablusî atıflarını derleyen bir sayfa; ip için ahd/misak, Kur’an ve mevki anlamlarını aktarıyor.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-i2-harfi.html"
+    },
+    {
+      "title": "[PDF] D?EAN \\l;:t r{+ail",
+      "relevance": "Rüyada ipin Kur’an’daki ‘Allah’ın ipi’ sembolizmiyle ilişkilendirilmesine dair bir açıklama; ipe tutunmayı İslam’a bağlılıkla yorumluyor.",
+      "url": "https://inspiredbyislam.wordpress.com/wp-content/uploads/2022/08/dream-interpretation-according-to-the-quran-and-sunnah-dr.-abu-ameenah-bilal-philips-z-lib.org_.pdf"
+    },
+    {
+      "title": "Ask and You Shall Receive - Apostle David E. Taylor ...",
+      "relevance": "Hristiyan dindar rüya yorumunda ipin kurtuluş, yardım, ant ve esaret çağrışımlarıyla nasıl ele alındığını gösteren çevrimiçi bir örnek.",
+      "url": "https://joshuamediaministries.org/dreams/rope/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyaların anlamı, yorum ve tövbe bağlamı.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Berakhot 56b-57b’de rüya yorumunun önemi ve olumlu yorum geleneği.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Thread, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "İp/iplik imgesini rüya bağlamında doğrudan ele alıyor; ipliği düşünce çizgisi ve ruhsal düzeyde aydınlanma yolu olarak okuyor.",
+      "url": "http://www.dreamtation.com/docs/1477.htm"
+    },
+    {
+      "title": "Thread Dream Meaning & Symbolism | DreamWiki",
+      "relevance": "İplik/bağ sembolünün rüyada bağlantı, kader çizgisi ve spiritüel bütünlük gibi temalarla okunmasına örnek veriyor.",
+      "url": "https://dreamwiki.net/en/dream-meaning/thread-dream-meaning-symbolism"
+    },
+    {
+      "title": "Thread in Dreams: Meanings, Emotions, and Practical Ways to ...",
+      "relevance": "İplik üzerine modern spiritüel yorumlar sunar; bağ, süreklilik, göbek bağı ve onarım temalarını rüya okumasına taşır.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/thread"
+    },
+    {
+      "title": "Thread Dream Interpretation - Thread Dream Meaning",
+      "relevance": "İpliği rüyalarda düşünce/araştırma çizgisi olarak ve kimi bağlamlarda göbek kordonu (ana rahmi bağı) çağrışımlarıyla ilişkilendiriyor; ip sembolünü açıklayan bir yorum sunuyor.",
+      "url": "https://www.dreamsmain.com/thread"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
 }

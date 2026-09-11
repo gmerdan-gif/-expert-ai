@@ -1,0 +1,234 @@
+{
+  "slug": "sut",
+  "title": "Süt",
+  "shortDescription": "Rüyada süt görmek genellikle helal rızık, bereket, saflık ve doyumla ilişkilendirilir. Taze süt ferahlık ve yenilenmeyi; ekşimiş ya da dökülmüş süt ise şüpheli kazanç, kayıp veya huzursuzluğu çağrıştırabilir.",
+  "positiveAssociations": [
+    "Helal rızık ve bolluk",
+    "Manevi arınma ve yenilenme",
+    "Temel beslenme ve güvenlik hissi",
+    "Fıtratla uyumluluk ve saflık"
+  ],
+  "challengingAssociations": [
+    "Ekşimiş veya bozulmuş süt nedeniyle haram/şüpheli kazanç",
+    "Erken dönem bağımlılık ve gerileme (regresyon) korkusu",
+    "Yön kaybı, dağılma veya amaçtan uzaklaşma",
+    "Manevi eksiklik veya dinî noksanlık hissi"
+  ],
+  "contextDependentAssociations": [
+    "Sütün tazeliği veya bozuk olması",
+    "Rüya sahibinin o anki duygusal tonu ve uyanıklık hali",
+    "Sütün içilmesi, dökülmesi ya da bedenden akması gibi eylemsel bağlam",
+    "Kişinin erken çocukluk anılarıyla kurduğu ilişki"
+  ],
+  "commonVariations": [
+    {
+      "title": "Taze ve Berrak Süt İçmek",
+      "description": "Rüyada taze, ılık ve berrak süt içtiğini görmek, kişinin hayatında helal kazanç, zihinsel berraklık ve manevi bir rahatlama dönemine girdiğini yansıtır."
+    },
+    {
+      "title": "Ekşimiş veya Kesilmiş Süt Görmek",
+      "description": "Bozulmuş ya da yoğurtlaşmış sütle karşılaşmak, şüpheli kazançlar, maddi-manevi kayıplar veya içsel huzursuzluk hissiyle ilişkilendirilir."
+    },
+    {
+      "title": "Sütün Etrafa Dökülmesi",
+      "description": "Sütün yere dökülmesi veya ziyan olması, kaçırılan fırsatlar, elde olan bolluğun kontrol dışı kaybolması ya da duygusal bir dağılma halini gösterir."
+    },
+    {
+      "title": "Bebek Emzirme veya Süt Akması",
+      "description": "Memeden süt gelmesi ya da emzirme eylemi, erken dönem bakım alma, başkalarına karşı koruyuculuk hissi veya derin bir doyum arayışını temsil eder."
+    }
+  ],
+  "psychology": "Ampirik rüya içerik analizi çalışmalarında, rüyaların geniş bir duygu yelpazesi barındırdığı ve nesne etkileşimlerinin önemli değişkenler olduğu gösterilmiştir. Hall/Van de Castle sistemi gibi yaklaşımlar, rüyadaki nesnelerin ve sosyal etkileşimlerin bütüncül bir kodlama çerçevesiyle ele alınmasını önerir.",
+  "jungian": "Jungcu analitik psikolojide su ve akışkan imgeleri genellikle bilinçdışının katmanları, derinlikler ve psişik yenilenme süreçleriyle ilişkilendirilir. Süt gibi besleyici ve hayati bir sıvı, bilincin daha derin arketiplerle ve ilk nesne deneyimleriyle temasını simgeleyebilir.",
+  "islamicTradition": "İslami rüya tabiri geleneğinde süt genellikle insan fıtratı, kolay elde edilen helal rızık, ilim, hikmet ve bereket ile bağdaştırılır. Bununla birlikte, ekşimiş veya bozulmuş süt haram mala ya da dinî eksikliğe işaret eden uyarıcı bir unsur olarak ele alınır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde süt, Tanrı'nın sağladığı koruma ve bakım ile, aynı zamanda Kutsal Söz'ün katıksız saflığıyla ilişkilendirilir. Erken dönemde süt ve bal birleşimi, vaftiz sonrası yenilenme ve vaat edilmiş bir konuma varış metaforu olarak kullanılmıştır.",
+  "jewishTraditions": "Yahudi rüya yorumu çerçevesinde rüyaların yorum yoluyla şekillendiği kabul edilir. İbranice'deki bazı kökensel yakınlıklar ve teolojik metinlerdeki ayrılmış/kutsal yağ (helev) anlayışları, maddi fazlalık yerine kutsal olana ayrılma temasını arka plan olarak sunar.",
+  "buddhistEasternApproaches": "Budist rüya yaklaşımında semboller tek başına sabit ve değişmez birer gerçeklik olarak kodlanmaz; aksine zihinsel duruma, koşullara ve dharma ile kurulan ilişkiye bağlı olarak değişkenlik gösterir.",
+  "spiritualApproaches": "Ezoterik ve geleneksel okumalarda bu tür akışkan simgeler, bir yandan bereket ve ruhsal lütuflarla, diğer yandan yeraltı geçişleri, karanlık evreler ve dönüşüm eksenindeki ruhsal basamaklarla ilişkilendirilebilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Rüya Araştırmaları",
+      "interpretation": "Rüya raporlarını kategorize ederek duygusal ton, nesne etkileşimleri ve frekanslar üzerinden inceler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Erken beslenme, ilk doyum, anne-bebek bağı ve bilinçdışı regresyon arzusunun bir yansıması olarak ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Bilinçdışının derinlikleri, arınma motifleri ve psişik yenilenme süreçleriyle bağdaştırır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Fıtrat, helal rızık, ilim ve bereket alameti; bozulmuş hali ise şüpheli kazanç belirtisi olarak yorumlar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojik Sembolizmi",
+      "interpretation": "Tanrı'nın sağlayışı, ruhsal beslenme, saflık ve iman öğretilerinin temel gıdası olarak değerlendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Spiritüel Okumalar",
+      "interpretation": "Bereket, bolluk ve ruhsal dönüşüm ile yeraltı geçişleri ekseninde ele alır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, süt imgesini hayatı idame ettiren temel bir besin, saflık unsuru ve derin bir doyum arayışı ekseninde buluşturur.",
+  "differences": "Psikanaliz bu imgeyi erken çocukluk dönemindeki anne ilişkisi ve regresyonla açıklarken, dini gelenekler helal kazanç, ilim ve ilahi lütuf bağlamında somutlaştırır. Ezoterik yaklaşımlar ise daha çok geçiş ve dönüşüm hallerine odaklanır.",
+  "inusAssessment": "Süt sembolü, biyolojik ve ruhsal beslenmeyi aynı anda barındıran ikili yapısıyla öne çıkar. Rüyada taze süt görmek ile ekşimiş ya da dökülmüş süt görmek arasındaki keskin fark, rüya sahibinin o anki içsel doyum ve kazanç algısının yönünü belirler. Bu nedenle rüyadaki sütün formu, akış biçimi ve uyandırdığı duygu tonu, sembolün anlamını tayin eden kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada süt içtiğini görmek her zaman helal rızık anlamına mı gelir?",
+      "answer": "Geleneksel tabirlerde taze süt helal mal ve ilim ile bağdaştırılsa da, rüyanın genel duygusal tonu ve sütün tazeliği yorumun yönünü değiştirebilir."
+    },
+    {
+      "question": "Ekşimiş süt rüyaları neden olumsuzlukla ilişkilendirilir?",
+      "answer": "Ekşimiş veya bozulmuş süt, gıdanın bozulması üzerinden şüpheli kazanç, maddi kayıp veya manevi bir eksiklik hissinin simgesi olarak ele alınır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin nasıl kurulduğunu, ölçek geliştirme ve kodlama ilkelerini anlatır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Rüya içerik analizinin frekans, oran ve norm örnekleriyle nasıl çalıştığını açıklar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
+    },
+    {
+      "title": "Relationships between Dream and Previous Wake Emotions ...",
+      "relevance": "Rüyalarda bildirilen duyguların nicel dağılımını inceleyen ampirik bulgular ve yöntemler sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601812/"
+    },
+    {
+      "title": "Content Analysis Explained",
+      "relevance": "Hall/Van de Castle sisteminin rüya raporlarını hangi kategorilerle çözümlediğini gösterir.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyalarda sembolik yoğunlaşma, arzu doyumu ve bedensel/erken çocukluk çağrışımları için temel psikanalitik çerçeveyi kurar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Metinde anne memesi ve ilk besin teması açıkça geçer; süt imgesini ilk doyum, beslenme ve anne-çocuk ilişkisi bağlamında okumaya izin veren somut pasajlar içerir.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Carl Jung - Analysis of Dream Symbols (2)",
+      "relevance": "Rüya sembollerinde suyun bilinçdışıyla ilişkisini ve deniz/okyanus gibi su imgelerinin Jungcu anlam alanını gösterir.",
+      "url": "https://www.carl-jung.net/dream_symbols2.html"
+    },
+    {
+      "title": "Water is the commonest symbol for the unconscious",
+      "relevance": "Su imgesinin bilinçdışı, arınma ve yenilenme çağrışımlarını Jung’a atfedilen pasajlar üzerinden sunar.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/04/20/carl-jung-water/"
+    },
+    {
+      "title": "Water in Dreams: Spiritual and Biblical Meaning (with Jung's ...",
+      "relevance": "Jungcu su sembolizmini rüyada bilinçdışıyla karşılaşma ve ruhsal derinleşme bağlamında özetler.",
+      "url": "https://individuate.me/articles/spiritual-meaning-of-water-in-dreams"
+    },
+    {
+      "title": "[PDF] The Nourishing word. The symbolism of milk in Late Antiquity and ...",
+      "relevance": "Geç antik dönemde süt sembolizmini annelik ile fiziksel ve ruhsal beslenme bağlamında tartışır.",
+      "url": "https://ora.ox.ac.uk/objects/uuid:b25eb188-38c0-41b8-a3cd-e3ccc66981cf/files/ma4d5d09c8ad8bad33da3da5fe04c40e7"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri S Harfi",
+      "relevance": "Sütün İslam fıtratı, kolay elde edilen mal ve helal kazançla ilişkilendirildiği bir rüya tabiri aktarımı içerir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-s1-harfi.html"
+    },
+    {
+      "title": "İslami rüya tabirleri -S- harfi",
+      "relevance": "Sütün helal mal, ilim ve hikmetle; ekşi veya bozuk sütün ise olumsuz kazançla ilişkilendirildiği bir tabir aktarımı içerir.",
+      "url": "https://www.ihvanlar.net/islami-ruya-tabirleri-s-harfi/"
+    },
+    {
+      "title": "Rüyada Süt Görmek ve Manaları - Haydarı Kerrar İslami bilgiler",
+      "relevance": "Yoğurt olmuş veya ekşimiş sütün olumsuz mala ve dinî eksilmeye işaret ettiği yönünde bir tabir aktarımı içerir.",
+      "url": "https://www.hkerrar.com/ruyada-sut-gormek-ve-manalari/"
+    },
+    {
+      "title": "What Does Milk Symbolize In The Bible?",
+      "relevance": "Kutsal Kitap bağlamında sütü Tanrı’nın sağlayışı, bakım ve bereketle ilişkilendirir.",
+      "url": "https://christianpure.com/learn/where-is-milk-mentioned-bible/"
+    },
+    {
+      "title": "Milk - Holman Bible Dictionary - StudyLight.org",
+      "relevance": "Kutsal Kitap’taki süt imgelerini bolluk, bereket, saflık ve Hristiyan yaşamının temel öğretisiyle ilişkilendirir.",
+      "url": "https://www.studylight.org/dictionaries/eng/hbd/m/milk.html"
+    },
+    {
+      "title": "Bible Encyclopedia on Milk - SermonIndex",
+      "relevance": "Sütü doktrinin temel unsurları ve Tanrı sözünün saflığıyla ilişkilendirir.",
+      "url": "https://www.sermonindex.net/encyclopedia/m/milk/"
+    },
+    {
+      "title": "Milk and honey: Prosperity in the Promised Land",
+      "relevance": "Süt ve bal motifinin erken Hristiyan vaftiz ve Vaat Edilmiş Topraklar sembolizmiyle bağlantısını gösterir.",
+      "url": "https://thecentralminnesotacatholic.org/milk-and-honey-prosperity-in-the-promised-land/"
+    },
+    {
+      "title": "Milk - McClintock and Strong Biblical Cyclopedia",
+      "relevance": "Sütü öğreti, saf söz ve ruhsal beslenme imgeleriyle açıklar.",
+      "url": "https://www.biblicalcyclopedia.com/M/milk.html"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Rüyaların anlamı ve yorumun etkisi bağlamında Yahudi rüya yorumu (oneirology) perspektifini sunar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Rüyaların yorumla ilişkisinin Talmudik ifadesi",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Sut (סוּת, H5496): incite, entice | StrongerBible",
+      "relevance": "İbranice שׂוּט kökünün sözlük anlam alanını gösterir.",
+      "url": "https://strongerbible.com/lemma/H5496/sut"
+    },
+    {
+      "title": "Sacred Fat, Vulnerability and God's Choice - JewishBoston",
+      "relevance": "Suet/helev’in kutsallık ve ayrılmışlık temasını tartışır.",
+      "url": "https://www.jewishboston.com/read/sacred-fat-vulnerability-and-gods-choice/"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist düşler ve semboller üzerine genel bir yaklaşım sunar; rüya sembollerinin sabit değil bağlama bağlı okunması fikrini destekler.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Supina Sutta: Dreams - Access to Insight",
+      "relevance": "Budist kanondaki büyük düşler örneği üzerinden rüyaların öğretici/alametsel çerçevede ele alınabildiğini gösterir.",
+      "url": "https://www.accesstoinsight.org/tipitaka/an/an05/an05.196.than.html"
+    },
+    {
+      "title": "The Meaning of Sut",
+      "relevance": "Kachin manau bağlamında 'sut'un anlamını, zenginlik ve bereket ile ruhların lütfuyla ilişkili bir kavram olarak açıklar.",
+      "url": "https://pjlarchive.omeka.net/exhibits/show/the-kachin-manau/sut"
+    },
+    {
+      "title": "Ladder of Sut: Significance and symbolism",
+      "relevance": "Mısır ezoterik geleneği içinde 'Ladder of Sut' sembolünü ruhsal yükseliş ve öte-dünya yolculuğu bağlamında sunar.",
+      "url": "https://www.wisdomlib.org/concept/ladder-of-sut"
+    },
+    {
+      "title": "Tunnels of Sut: Significance and symbolism",
+      "relevance": "Mısır ezoterik geleneğinde 'Tunnels of Sut' ifadesini karanlık, yeraltı geçişi ve öte-dünya yolculuğuyla ilişkilendirir.",
+      "url": "https://www.wisdomlib.org/concept/tunnels-of-sut"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
+}

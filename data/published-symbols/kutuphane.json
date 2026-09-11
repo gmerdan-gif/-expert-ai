@@ -1,0 +1,251 @@
+{
+  "slug": "kutuphane",
+  "title": "kütüphane",
+  "shortDescription": "Rüyada kütüphane görmek; bilgi arayışı, hafıza ve zihinsel birikimle ilişkilendirilir. Dolu ve düzenli raflar öğrenme isteği ile zihinsel berraklığı; boş raflar veya aranan kitabı bulamamak ise eksiklik hissini, zihinsel yorgunluğu ya da kararsızlığı yansıtabilir.",
+  "positiveAssociations": [
+    "İlim ve bilgi arayışı",
+    "Zihinsel düzen ve berraklık",
+    "İçsel keşif ve bilgelik",
+    "Kapsamlı öğrenme isteği"
+  ],
+  "challengingAssociations": [
+    "Bilgiye erişimde zorlanma",
+    "Zihinsel yorgunluk ve aşırı doluluk",
+    "Boş kütüphanenin getirdiği eksiklik hissi",
+    "Erişilemeyen içerikler"
+  ],
+  "contextDependentAssociations": [
+    "Dolu bir kütüphanede kitap incelemek",
+    "Boş veya terkedilmiş raflarla karşılaşmak",
+    "Eski ve gizemli ciltler bulmak",
+    "Kütüphanede kaybolmak veya aradığını bulamamak"
+  ],
+  "commonVariations": [
+    {
+      "title": "Binlerce kitapla dolu devasa bir kütüphanede dolaşmak",
+      "description": "Zihinsel birikimi, öğrenme isteğini ve keşfedilmeyi bekleyen bilgi potansiyelini gösterir."
+    },
+    {
+      "title": "Tamamen boş raflardan oluşan terk edilmiş bir kütüphane",
+      "description": "Zihinsel yorgunluk, bilgi eksikliği ya da yaşamda hissedilen keder ve boşluk duygusunu simgeleyebilir."
+    },
+    {
+      "title": "Eski ve gizemli semboller içeren ciltlerin bulunduğu gizli bölme",
+      "description": "Bilinçdışında saklı kalan derin hatıralara, örtük bilgilere ve simgesel bir içsel arayışa yönelişi gösterir."
+    },
+    {
+      "title": "Kütüphanede aradığı kitabı bir türlü bulamamak",
+      "description": "Günlük yaşamda bilgiye, doğru karara veya anılara erişimde yaşanan geçici bir karmaşayı veya zihinsel dağınıklığı yansıtır."
+    }
+  ],
+  "psychology": "Rüyalar tek bir sabit kelime anlamıyla yorumlanamaz; bilimsel rüya araştırmaları ve Hall/Van de Castle gibi içerik analizi yaklaşımları, rüyaların sosyal bağlam, duygulanım ve örüntüler aracılığıyla incelenmesi gerektiğini vurgular.",
+  "jungian": "C.G. Jung'un kendi deneyimlerinde ve analitik psikolojisinde kütüphane, bilinçdışının derinliklerinde keşfedilen, bilinmeyen psikik içeriklere ve simgesel açılımlara işaret eden bir mekândır. Sabit bir sözlük anlamı taşımayan bu imge, bireyin içsel arayışını, henüz tam formüle edilmemiş bilgeliği ve simya ile simgesel keşif süreçlerini temsil edebilir.",
+  "islamicTradition": "Modern aktarımlarda ve geleneksel tabirlerde kütüphane, ilim, hikmet ve öğrenme ile ilişkilendirilir. Dolu bir kütüphane ilme merak, mertebe ve zihinsel zenginlik olarak yorumlanırken, boş kütüphane sıkıntı veya eksiklik hissiyle bağdaştırılır.",
+  "christianTraditions": "Hristiyan sembolizminde kitap ve bilgi alanı, ilahi zeka, ışık ve kutsal öğrenimle bağlantılıdır. Kütüphane imgesi, kişinin Tanrı'nın bilgi ve anlayışına yönelmesini, ruhsal bir arayışı ve patristik düşüncedeki figüratif kavrayış çabasını temsil edebilir.",
+  "jewishTraditions": "Yahudi yorum geleneğinde ve Talmudik metinlerde rüyalar, metinle ilişki kurma, yorumlama ve anlamı açma ekseninde ele alınır. Kütüphane sembolü bu çerçevede çalışma, metne yöneliş ve geleneğe ait bilgi birikimiyle bağdaştırılabilecek bir zihinsel zemin sunar.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda kütüphane, ruhun birikmiş bilgeliğini, evrensel kayıtları ve bilinçdışında saklanan hatıraları simgeler. Gizli hakikatlere erişme arzusunu ve içsel uyanışı tetikleyen bir ruhsal arşiv olarak yorumlanır.",
+  "comparisonTable": [
+    {
+      "approach": "Psikolojik İçerik Analizi",
+      "interpretation": "Zihinsel kategorilerin, hafıza organizasyonunun ve rüya örüntülerinin nicel/nitel incelenmesi.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Bilinçdışına açılan düzenli bir bilgi alanı, içsel keşif ve simgesel açılım çağrısı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel / İslami Aktarımlar",
+      "interpretation": "İlim, hikmet ve dini kitaplara yönelişi vurgular; dolu kütüphane ilme merak ve zihinsel zenginlik, boş kütüphane ise sıkıntı ile ilişkilendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyanlık ve Metinsel Gelenekler",
+      "interpretation": "İlahi anlayış alanına yönelme, kutsal öğrenim ve alegorik kavrayış.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Ruhsal bilgelik, içsel kayıtlar deposu ve gizli hakikatlere erişme arzusu.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplin ve gelenekler, kütüphane imgesini sabit bir nesne olarak değil, bilgi, hafıza, öğrenme ve zihinsel düzenleme süreçleriyle ilişkilendirir.",
+  "differences": "Psikolojik yaklaşımlar kütüphaneyi zihinsel içeriklerin organizasyonu ve hafızanın düzenlenmesi olarak ele alır; Jungcu yaklaşım bilinçdışı keşiflere, geleneksel ve spiritüel yaklaşımlar ise ilim, bilgelik ve ilahi ya da ruhsal arayışa odaklanır.",
+  "inusAssessment": "Rüyada kütüphane görmek, zihinsel arşivimizin ve bilgi birikimimizin rüya sahnesindeki yansımasıdır. Bu sembolün anlamı, kütüphanenin fiziksel durumuna ve rüya sahibinin oradaki hislerine bağlı olarak kökten değişir: rafların dolu ya da boş olması, aranan bilginin bulunup bulunamaması veya mekânın atmosferi, kişinin içsel arayışındaki berraklığı veya zihinsel yorgunluğunu ele verir.",
+  "faq": [
+    {
+      "question": "Rüyada kütüphanede kitap aramak ne anlama gelir?",
+      "answer": "Kütüphanede kitap aramak, uyanık yaşamda bilgiye, çözüme veya kendi içsel anılarınıza ulaşma çabasının bir göstergesi olarak yorumlanabilir."
+    },
+    {
+      "question": "Boş bir kütüphane görmek olumsuz bir işaret midir?",
+      "answer": "Boş kütüphane, geleneksel ve modern aktarımlarda zihinsel yorgunluk, bilgi eksikliği hissi ya da geçici bir keder durumuyla ilişkilendirilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The DreamResearch.net Dream Library",
+      "relevance": "Rüya içeriği araştırmalarının Hall geleneği içindeki genel çerçevesini ve içerik analizi yaklaşımını gösteren derleme kaynak.",
+      "url": "https://dreams.ucsc.edu/Library/index.html"
+    },
+    {
+      "title": "Chapter 1: The Scientific Study of Dream Content",
+      "relevance": "Rüya içeriği analizinde kullanılan temel yöntemleri ve tekrar eden temaları arama yaklaşımını açıklayan kaynak.",
+      "url": "https://dreams.ucsc.edu/Library/fmid1.html"
+    },
+    {
+      "title": "Studying dream content using DreamBank.net",
+      "relevance": "Rüya raporlarının içerik analiziyle kodlanması ve tekrarlanabilir veri analizi yapılmasına ilişkin kaynak.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2008c.html"
+    },
+    {
+      "title": "Chapter 2: The Hall/Van De Castle System",
+      "relevance": "Rüya içeriğinin duygu, etkinlik ve sosyal bağlam gibi kategorilerle sistematik kodlanmasını anlatan kaynak.",
+      "url": "https://dreams.ucsc.edu/Library/fmid2.html"
+    },
+    {
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Rüya içeriğinin nicel olarak sınıflandırılması, karşılaştırılması ve örüntülerin çıkarılması üzerine metodolojik kaynak.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüya kuramında istek gerçekleşmesi, düş çalışması ve sembolik anlatımın temel çerçevesini sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
+      "relevance": "Rüyaların nasıl çözümleneceğini, sembolizmin nasıl işlediğini ve yorumda bağlamın neden önemli olduğunu açıklar.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
+    },
+    {
+      "title": "The alchemical rare book collection of CG Jung",
+      "relevance": "Jung'un kendi rüya anlatısında, sonradan simya ilgisiyle bağlantı kurduğu 'harikulade kütüphane' sahnesi geçer; kütüphane imgesinin Jungcu bağlamı için en doğrudan birincil malzemedir.",
+      "url": "https://static1.squarespace.com/static/62ac7487966a967b7e2f6437/t/62b4223d72b1f910dec47013/1655972414113/The_Alchemical_Rare_Book_Collection_of_C.G.Jung_.pdf"
+    },
+    {
+      "title": "Dreams In Jungian Psychology: The use of Dreams as ... - PMC",
+      "relevance": "Jungcu sembol ve rüya yorumunun nasıl çalıştığını; sembollerin sabit sözlük karşılıkları olmadığını ve anlamın bağlama göre genişlediğini açıklar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3216128/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus'un rüya yorum kitabının çevrimiçi güvenilir çevirisine erişim sağlar; Greko-Romen oneirokritik geleneğin temel metnidir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' The Interpretation of ...",
+      "relevance": "Artemidorus'un eseri ve antik rüya yorum geleneği üzerine akademik çerçeve sunar; antik oneirokritik bağlamı doğrular.",
+      "url": "https://academic.oup.com/book/40085"
+    },
+    {
+      "title": "How to Interpret a Dream | An Ancient Dream Manual",
+      "relevance": "Artemidorus'un rüya türleri ve yorum yöntemini tartışan bölüm; sembol çözümünün nasıl işlediğini anlamaya yardım eder.",
+      "url": "https://academic.oup.com/book/40085/chapter-abstract/341036120?redirectedFrom=PDF"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus'un profesyonel bir rüya yorumcusu olduğunu ve Oneirocritica'nın kapsamını özetler; antik rüya yorumunun tarihsel konumunu gösterir.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "The Meaning of the Library: A Cultural History",
+      "relevance": "Kütüphane kavramının kültürel tarih içindeki anlamlarını; bilgi, hafıza, öğrenme ve arşiv gibi çağrışımlarını derler.",
+      "url": "https://assets.press.princeton.edu/chapters/i10442.pdf"
+    },
+    {
+      "title": "ARTEMIDORUS: Interpretation of Dreams (The) (Unabr..",
+      "relevance": "Artemidorus'un eserine genel bir giriş sağlar; antik dönemde rüya öğelerinin nasıl yorumlandığını ve eserin kapsamını açıklar.",
+      "url": "https://www.naxos.com/catalogue/item.asp?item_code=NA0541"
+    },
+    {
+      "title": "Rüyada Kütüphane Görmek Ne Anlama Gelir?",
+      "relevance": "Rüyada kütüphane görmekle ilgili modern bir İslami tabir aktarımı; dolu ve boş kütüphane ayrımı ile ilim, merak, makam ve sıkıntı temalarını aktarıyor.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-kutuphane-gormek-ne-anlama-gelir-27206"
+    },
+    {
+      "title": "What does it mean to see a library in a dream?",
+      "relevance": "Kütüphane sembolünü klasik İslami rüya yorumu çerçevesinde bilgi, güven, geçişler ve sosyal düzenle ilişkilendiren modern bir aktarımdır.",
+      "url": "https://www.molla.az/en/dream-interpretation/what-does-it-mean-to-see-a-library-in-a-dream"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri K Harfi - Muhammed.net",
+      "relevance": "Nablusî’ye atfedilen kütap maddesi üzerinden kitap sembolünü kuvvet ve kudretle ilişkilendiren bir aktarım içerir; kütüphane için doğrudan giriş vermese de kitaplık bağlamında dolaylı kullanım sağlar.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
+    },
+    {
+      "title": "Library - Interpreting Dream Symbols - David E. Taylor",
+      "relevance": "Kütüphane rüyasını Tanrı’nın bilgi ve anlayış alanına giriş ya da ilahi arayış çağrısı olarak yorumlayan bir Hristiyan rüya metni.",
+      "url": "https://joshuamediaministries.org/dreamoflibrary/"
+    },
+    {
+      "title": "George Ashdown Audsley | Handbook of Christian Symbolism | The Metropolitan Museum of Art",
+      "relevance": "Hristiyan sembolizminde kitap, bilgi ve ilahi zeka ilişkisini gösteren sembol kaynağı; kütüphane imgesinin daha geniş sembolik bağlamını destekler.",
+      "url": "https://www.metmuseum.org/art/collection/search/345202"
+    },
+    {
+      "title": "The patristic dream (Chapter 3) - Dreaming in the Middle ...",
+      "relevance": "Patristik rüya düşüncesinde rüyanın figüratif imgelerle hakikat aktarabileceğini tartışır; kütüphane gibi bir imgenin alegorik okunmasına teorik zemin sağlar.",
+      "url": "https://www.cambridge.org/core/books/abs/dreaming-in-the-middle-ages/patristic-dream/AF4244F788B3C8B6E3361A7951BE82DE"
+    },
+    {
+      "title": "Handbook of Christian symbolism",
+      "relevance": "Christian symbolism eserinin dijital kopyasında kitap ve bilgiyle ilgili sembolik açıklamalar bulunur; kütüphane imgesinin bilgi/öğrenme temalarıyla bağlantısını destekler.",
+      "url": "https://ia600705.us.archive.org/6/items/handbookofchrist00auds/handbookofchrist00auds.pdf"
+    },
+    {
+      "title": "Berakhot 57.b",
+      "relevance": "Berakhot 57b’de rüyada görülen kişilerin işaret değeri ve rüya sembollerinin yorumlanma biçimi yer alır.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Berakhot 55b’de rüyanın yorumlanması, rüya anlamının açılması ve yorumun belirleyici rolü ele alınır.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Dreams - Jewish Virtual Library",
+      "relevance": "Yahudi geleneğinde rüyaların sembolik yapısı ve yorum ilkeleri hakkında genel çerçeve sunar.",
+      "url": "https://jewishvirtuallibrary.org/dreams"
+    },
+    {
+      "title": "Document 176",
+      "relevance": "Babil Talmudu’nda rüyalar üzerine geniş bir bölüm bulunduğunu ve rüya konusunun Yahudi geleneğinde merkezî görüldüğünü gösterir.",
+      "url": "http://library.huc.edu/pdf/theses/Barlev%20Pearl-LA-Rab%20Text-2007%20rdf.pdf"
+    },
+    {
+      "title": "The Starry Sky & the Still Small Voice: The World Within",
+      "relevance": "Talmudik rüya anlayışının kimi bağlamlarda iç düşünce ve psikolojik içerikle ilişkilendirildiğini aktarır.",
+      "url": "https://jewishvirtuallibrary.org/the-world-within-judaic-treasures"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Kütüphaneyi gizli hakikatler, içsel arayış ve ezoterik bilgiye erişme isteğiyle ilişkilendiriyor.",
+      "url": "https://mirrorwithin.com/dream-dictionary/occult-library/"
+    },
+    {
+      "title": "Dreaming of Library: Meaning, Symbolism & Interpretation",
+      "relevance": "Kütüphaneyi ruhsal bilgelik, içsel kayıt ve Akaşik Kayıtlar (Akashic Records) benzeri bir sembolik çerçeveyle yorumluyor.",
+      "url": "https://dreamz-journal.com/blog/dream-symbol/library/"
+    },
+    {
+      "title": "Library: Meaning, Symbolism & Mythology",
+      "relevance": "Kütüphaneyi birikmiş bilgi, gizli yollar ve anlam kurma süreciyle ilişkilendiriyor; rüya bağlamında sorgulama ve keşif alanı olarak ele alıyor.",
+      "url": "https://mymythos.org/archetype/library/"
+    },
+    {
+      "title": "Meaning of Dreaming About a Library",
+      "relevance": "Kütüphane sembolünü bilinçdışındaki bir bilgi deposu olarak okuyor ve rüyada ortaya çıkışını içsel arşivle bağlantılandırıyor.",
+      "url": "https://oneiro.click/en/articles/library-dream/"
+    },
+    {
+      "title": "Dream About Library — Meaning & Interpretation",
+      "relevance": "Kütüphane rüyasını ruhsal uyanış, içsel bilgelik ve sezgisel rehberlikle ilişkilendiriyor.",
+      "url": "https://thedreamindex.com/dream-about-library/"
+    }
+  ],
+  "relatedSlugs": []
+}

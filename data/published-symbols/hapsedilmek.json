@@ -1,0 +1,188 @@
+{
+  "slug": "hapsedilmek",
+  "title": "hapsedilmek",
+  "shortDescription": "Rüyada hapsedilmek, yaşamınızdaki baskılar, sorumluluklar veya daralan seçenekler nedeniyle kendinizi sıkışmış ve kontrolünüz azalmış hissetmenizi yansıtabilir. Hapisten çıkmak ise ferahlama ve çözüm bulma arzusunu öne çıkarır.",
+  "positiveAssociations": [
+    "İçsel bir durulma ve dış dünyadan geçici olarak uzaklaşarak toparlanma",
+    "Sabır ve metanet geliştirme imkânı",
+    "Mevcut kısıtlamalar içinde koruma bulma ve zararlı dış etkenlerden arınma",
+    "Geçici bir duraksama döneminin ardından gelecek ferahlık ve rahatlama potansiyeli"
+  ],
+  "challengingAssociations": [
+    "Seçeneklerin daralması ve hareket alanının kısıtlanması",
+    "Bastırılmış dürtüler ile üstbenlik baskısı arasındaki içsel çatışma",
+    "Sorumluluklar veya yaşam koşulları altında ezilme hissi",
+    "Suçluluk, cezalandırılma beklentisi ve zihinsel tutsaklık"
+  ],
+  "contextDependentAssociations": [
+    "Hapishanenin fiziksel yapısı (oda, çit, kafes veya zindan) ile rüyadaki duygulanımın niteliği",
+    "Kişinin rüyada kendini hapseden konumda mı yoksa hapsedilen olarak mı deneyimlediği",
+    "Hapisten çıkış anının varlığı ve bu geçişin rüyaya yansıyan atmosferi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Dar ve penceresiz bir hücrede kilitli kalmak",
+      "description": "Kişinin günlük yaşamında çıkış yolu bulamadığı bir çıkmazda hissettiği yoğun sıkışmışlığı ve nefessiz kalma duygusunu simgeler."
+    },
+    {
+      "title": "Tanıdık bir binanın odasına kısıtlanmak",
+      "description": "Ev veya iş yeri gibi bilinen bir mekânın içinde kilitli kalmak, kişinin yakın ilişkilerinde ya da sorumluluklarında özerkliğini yitirdiğini gösterir."
+    },
+    {
+      "title": "Hapishaneden kaçmaya çalışıp başaramamak",
+      "description": "Mevcut yaşam koşullarının getirdiği baskılara karşı direnme çabasını, ancak bu yapıların aşılmazlığı karşısında hissedilen çaresizliği vurgular."
+    },
+    {
+      "title": "Hapisten çıkıp feraha erdiğini görmek",
+      "description": "Uzun süredir devam eden bir baskı, borç veya sıkıntılı dönemin ardından gelen psikolojik rahatlama ve özgürleşme arzusunu temsil eder."
+    }
+  ],
+  "psychology": "Ampirik psikoloji literatüründe rüyada hapsedilme deneyimi doğrudan test edilen bir alan değil; ancak genel olarak gündelik yaşamdaki stres, kontrol kaybı ve karar mekanizmalarındaki daralmaların rüyalarda kendini göstermesi biçiminde ele alınır.",
+  "jungian": "Analitik psikoloji perspektifinde hapsedilmek, dış çevreyle olan dinamik ilişkiden bilinçli ya da bilinçsiz bir şekilde çekilmeyi ve ego ile bilinçdışı arasında sıkışıp kalma halini temsil eder. Bu durum bazen psişenin kendi iç dinamiklerini incelemesi için zorunlu bir içe kapanma ya da travmatik baskıları işleme çabası olarak görülür.",
+  "islamicTradition": "İslami rüya derlemelerinde hapsedilmek genellikle geçici bir sıkıntı, borç, kısıtlanma veya dünya meşgalesiyle ilişkilendirilir. Bununla birlikte, bazı yorum çizgilerinde bu durum sabır imtihanı veya beladan korunma olarak değerlendirilirken, hapisten çıkış ise ferahlık ve durumun düzelmesi alameti olarak okunur.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde hapishane metaforu, fiziksel kapatılmanın ötesinde ruhsal esaret, günah ve kurtarılış ihtiyacını temsil eder. Rüyada hapsedilmek, kişinin kendini baskı ve özgürlük kaybı içinde hissettiği durumlarda bir sınanma ve ilahi teselli arayışı olarak değerlendirilebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde ve Talmudik yaklaşımlarda rüyalar sabit kehanetler olarak görülmez; aksine rahatsız edici imgeler onarım, dua ve yeniden çerçeveleme bağlamında yorumlanır. Yusuf'un hapisteyken rüyaları yorumlaması hikâyesi bağlamında hapsedilmek, kısıtlanmışlık içinde dahi ilahi bir anlamın ve çözümün ortaya çıkabileceği bir süreç olarak ele alınır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda hapsedilmek, kişinin kendi varoluşsal sorumluluklarını üstlenmekten kaçınmasının, eylemsizliğin ve içsel kaçış eğilimlerinin bir yansıması olarak ele alınır. Bu durum, özgürlüğün engellenmesi ve içsel sınırların aşırı katılaştırılması dönemini simgeler.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Bastırılmış dürtüler, suçluluk duygusu ve üstbenliğin baskısı bağlamında, dolaylı dilek doyumuyla ilişkilendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Dış dünyadan içe çekilme, ego-bilinçdışı gerilimi ve psişik sınırların daralması olarak değerlendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Kısıtlanma, sabır imtihanı, dünya meşgalleri veya geçici bir daralma şeklinde aktarılır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Ruhsal esaret, günah, sınanma ve kurtuluş arayışı metaforu olarak ele alınır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Varlık sorumluluğundan kaçış, eylemsizlik ve içsel kısıtlanma dönemi olarak yorumlanır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenek ve disiplinlerin çoğunda hapsedilmek, hareket alanının daralmasını, dış dünyayla kurulan bağların zayıflamasını ve kişinin yaşamındaki baskı unsurlarıyla yüzleşmek zorunda kalmasını ortak bir payda olarak ele alır.",
+  "differences": "Psikanalitik ve analitik yaklaşımlar sembolü içsel çatışmalar ve ego dinamikleri üzerinden çözerken; dini ve geleneksel çizgiler sabır, imtihan, manevi esaret ya da ferahlık beklentisi gibi dışsal ve aşkın temalara odaklanır.",
+  "inusAssessment": "Rüyada hapsedilmek, yalnızca dışsal bir mekânın kısıtlayıcılığına işaret etmez; aynı zamanda kişinin kendi iç dünyasındaki bastırılmış unsurlar, sorumluluklar ve özerklik kaybı ile kurduğu gerilimli ilişkinin bir dışavurumudur. Bu sembolü değerlendirirken rüyanın hangi fiziksel ortamda geçtiği, rüya görenin içerideki duyguları ve dışarı çıkma çabasının niteliği, yorumun yönünü belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada hapishanede olmak her zaman kötü bir olaya mı işaret eder?",
+      "answer": "Hayır. Geleneksel ve psikolojik yaklaşımlarda bu durum her zaman doğrudan bir felaket olarak okunmaz; sıklıkla yaşamın bir alanında yaşanan sıkışmışlığı, sabır gerektiren bir dönemi ya da içsel bir durulma ihtiyacını temsil eder."
+    },
+    {
+      "question": "Hapsedilme rüyaları günlük stresle doğrudan bağlantılı mıdır?",
+      "answer": "Psikolojik açıdan bu tür rüyalar, kişinin karar mekanizmalarının daraldığı, baskı altında hissettiği veya sorumluluklar tarafından kuşatıldığı dönemlerde zihnin gerilimi işleme biçimi olarak ortaya çıkabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Imprisonment in Dreams: How Confinement Reveals Pressure ...",
+      "relevance": "Rüyada hapsolma ve kısıtlanma temasını, yaşamda seçimlerin daraldığı durumlarla ve duygusal tonla ilişkilendiriyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/imprisonment"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramının temel metni; bastırma, dilek doyumu ve rüyanın ruhsal işlevi açısından hapsedilme imgesini psikanalitik olarak konumlandırmak için kullanılır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "The Dream of A Prisoner",
+      "relevance": "Freud’un mahpusluk temasını dilek doyumu bağlamında nasıl ele alabileceğini gösteren erken psikanalitik tartışma.",
+      "url": "https://www.jstor.org/stable/26301444"
+    },
+    {
+      "title": "Interpretation of the Fourth Vision - Carl Jung Depth Psychology",
+      "relevance": "Hapishane imgesini kısıtlanmış özgürlük, dış dünyadan çekilme ve bilinçdışı içeriğe kapılma bağlamında açıklar.",
+      "url": "https://carljungdepthpsychologysite.blog/2022/06/11/vision-53/"
+    },
+    {
+      "title": "Jungian Perspectives on the Etiology and Treatment of Torture",
+      "relevance": "Baskı ve travma bağlamında rüyaların psişik işleyişini ve kâbusların deneyiminin işlenmesine nasıl yardımcı olduğunu tartışır.",
+      "url": "https://www.jungpage.org/learn/articles/analytical-psychology/183-jungian-perspectives-on-the-etiology-and-treatment-of-torture"
+    },
+    {
+      "title": "Recurring dream of being in prison, what do you guys think?",
+      "relevance": "Hapishane rüyalarında özgürlüğün kısıtlanması ve kontrol kaybı gibi temaları tartışan bir kullanıcı örneği içerir.",
+      "url": "https://www.reddit.com/r/Jung/comments/1fmoi88/recurring_dream_of_being_in_prison_what_do_you/"
+    },
+    {
+      "title": "Artemidorus: How the Ancient Greeks Interpreted Dreams",
+      "relevance": "Artemidorus’un bir rüya örneğinde ziyafet vizyonunun ardından hapis cezası gelmesi, hapis temasının yorum bağlamını destekler.",
+      "url": "https://humanitext.ai/blog/decoding-the-night/"
+    },
+    {
+      "title": "ARTEMIDORUS AT THE DREAM GATES",
+      "relevance": "Artemidorus’un rüya yorumunda beden, bağlılık ve hapis ilişkisini tartışan akademik çalışma.",
+      "url": "https://www.jstor.org/stable/26360934"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus metninin çevirisi, hapis ve zorla alıkonulmaya işaret eden rüya örneklerini içerir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Prison in Dreams — Islamic Interpretation & Meaning",
+      "relevance": "Hapishane ve hapsedilme sembolünün İslami rüya tabiri bağlamında borç, sıkıntı, hastalık, sabır, ferahlık ve korunma eksenlerinde nasıl okunduğunu gösteren çevrimiçi derleme sayfası.",
+      "url": "https://www.dream-wisdom.com/en/dreams/prison/"
+    },
+    {
+      "title": "Topical Bible: Prison",
+      "relevance": "Kutsal Kitap’ta hapishane ve tutsaklık imgelerinin ruhsal esaret, kurtuluş ve özgürlük diliyle nasıl ilişkilendirildiğini gösteren toplu Hristiyan tematik kaynak.",
+      "url": "https://biblehub.com/topical/p/prison.htm"
+    },
+    {
+      "title": "Berakhot 56a | The Sefaria Library",
+      "relevance": "Rüyaların yoruma bağlı olduğuna dair Talmudik bir çerçeve sunar; rahatsız edici imgeler onarım, dua ve yeniden çerçeveleme bağlamında yorumlanır.",
+      "url": "https://www.sefaria.org/Berakhot.56a?lang=en"
+    },
+    {
+      "title": "Talmudology on the Parsha, Miketz: Why Do We Dream?",
+      "relevance": "Rahatsız edici rüyalar için merhamet ve olumlu çerçeve arama yaklaşımı; rüya korkusunu sabitlemek yerine dönüştürme pratiği.",
+      "url": "https://www.talmudology.com/jeremybrownmdgmailcom/2016/1/21/gittin-52a-do-dreams-mean-anything-4h8dw-4b8mk"
+    },
+    {
+      "title": "Chapter 13: Think Good",
+      "relevance": "Yusuf’un hapisteyken mahkûmların rüyalarını yorumlaması; hapishane ve rüya yorumunun aynı anlatı içinde birleşmesi.",
+      "url": "https://www.chabad.org/therebbe/article_cdo/aid/3240794/jewish/Chapter-13-Think-Good.htm"
+    },
+    {
+      "title": "That’s How He Got Out of Jail",
+      "relevance": "Yusuf’un hapiste bile rüya yorumlamaya aracılık etmesi; kısıtlılık içinde çözüm ve anlam açılması teması.",
+      "url": "https://torah.org/torah-portion/dvartorah-5784-vayeishev/?printversion=1"
+    },
+    {
+      "title": "Rüyada hapis görmek ne anlama gelir?",
+      "relevance": "Hapis ve zindan sembolünün rüya yorumunda sıkışmışlık, zillet, üzüntü ve kederle ilişkilendirildiğini aktaran çevrim içi bir tabir metni.",
+      "url": "https://www.sabah.com.tr/ruyada-hapis-gormek-ne-anlama-gelir"
+    },
+    {
+      "title": "Prison, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Rüyada hapsedilmenin, ruhsal düzlemde kişinin kendi varoluş sorumluluğunu üstlenmekten kaçınmasıyla ilişkilendirildiğini söyleyen ezoterik bir yorum metni.",
+      "url": "http://www.dreamtation.com/docs/1960.htm"
+    },
+    {
+      "title": "Prison Dreams: Meaning & Psychological Interpretation",
+      "relevance": "Hapsedilme temasını rüyalarda kısıtlanmışlık, özgürlüğün engellenmesi ve içsel sınırlar olarak ele alan modern sembolik yorum sayfası.",
+      "url": "https://somniscient.com/en/symbols/prison"
+    },
+    {
+      "title": "Getting Imprisoned Dream Meaning - Interpret Your Dream!",
+      "relevance": "Hapsedilme sembolünü yaşamın bir alanında sıkışma, kontrol kaybı ve iç kısıtlar üzerinden okuyan modern sembolik yorum metni.",
+      "url": "https://mirrorwithin.com/dream-dictionary/getting-imprisoned/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

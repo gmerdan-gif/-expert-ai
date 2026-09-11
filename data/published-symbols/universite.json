@@ -1,101 +1,338 @@
 {
   "slug": "universite",
   "title": "üniversite",
-  "shortDescription": "Rüyada üniversite görmek; bilgi arayışı, kişisel gelişim, kurumsal aidiyet ve otoriteyle ilişkilerle bağlantılıdır. Sakin bir üniversite güven ve hayırlı gelişmeleri, karanlık ya da ürkütücü bir üniversite ise baskı, belirsizlik ve gizli niyetlere karşı ihtiyatı düşündürebilir.",
+  "shortDescription": "Rüyalarda üniversite imgesi, yükseköğretim, kurumsal yetki, başarı, performans baskısı ve bireyin hayatındaki yeni bir eşik veya hazırlık süreci olarak anlam kazanır.",
   "positiveAssociations": [
-    "Yüksek öğrenim ve bilgiye erişim",
-    "Saygınlık ve toplumsal statü artışı",
-    "Kurumsal aidiyet ve güven",
-    "Yeni bir döneme hazırlık ve korunma hissi"
+    "İlim ve öğrenme",
+    "Yüksek statü ve makam",
+    "Hedeflere ulaşma",
+    "Yeni kapılar ve fırsatlar",
+    "Başarı ve ilerleme",
+    "Bilgelik",
+    "Ruhsal olgunlaşma",
+    "Uzmanlaşma"
   ],
   "challengingAssociations": [
-    "Sıkı hiyerarşik yapılar ve baskı",
-    "Gizli niyetler ve belirsizlikler",
-    "Eski bir yere dönüşün getirdiği nostaljik yük",
-    "Ürkütücü kurumsal görünümlerin yarattığı ihtiyat duygusu"
+    "Değerlendirilme endişesi",
+    "Performans baskısı",
+    "Sınanma ve başarısızlık korkusu",
+    "Kurumsal yükümlülükler ve sorumluluklar"
   ],
   "contextDependentAssociations": [
-    "Akademik mühürlerin ve armaların rüyadaki vurgusu",
-    "Okulun sakin veya ürkütücü bir atmosfere sahip olması",
-    "Geçmişteki anıların veya ahitlerin yeniden canlanması"
+    "Öğrencilik ve hazırlık dönemi",
+    "Akademik meşruiyet ve tanınma",
+    "Kurumsal kimlik ve aidiyet genellikle mühür veya arma ile simgelenir.",
+    "Bilinmeyene yöneliş ve içsel dönüşüm eşiği"
   ],
   "commonVariations": [
     {
-      "title": "Üniversite Kampüsünde Dolaşmak",
-      "description": "Geniş akademik binalar arasında yürümek, bireyin bilgi birikimini ve yaşamındaki yeni öğrenme süreçlerini gözden geçirdiğini gösterir."
+      "title": "Üniversite Kampüsünde Kaybolmak",
+      "description": "Büyük binalar, fakülteler ve kalabalık koridorlar arasında nereye gideceğini bilememek, kişinin hayatındaki yeni bir yönelim veya kariyer aşamasında yaşadığı belirsizlikleri ve hazırlık süreçlerini yansıtır."
     },
     {
-      "title": "Tarihi Bir Üniversite Mührü Görmek",
-      "description": "Kurumsal semboller ve armalarla karşılaşmak, otorite, aidiyet ve egemen yapılarla olan bağları sorgulama ihtiyacına işaret eder."
+      "title": "Üniversite Sınavına Girmek veya Hazırlanmak",
+      "description": "Zorlu bir sınava yetişmeye çalışmak ya da amfide sınav kağıdıyla baş başa kalmak, günlük yaşamdaki sorumluluklar, başkaları tarafından değerlendirilme korkusu ve performans kaygısıyla doğrudan ilişkilidir."
     },
     {
-      "title": "Eski Okula veya Koleje Dönmek",
-      "description": "Geçmişteki bir eğitim kurumuna geri dönmek, eski anılar, verilen sözler veya tamamlanmamış ahitlerle yüzleşmeyi temsil eder."
+      "title": "Üniversiteden Mezun Olmak",
+      "description": "Cübbe giymek, diploma almak veya kep atmak, uzun süreli bir emeğin karşılığını alma, hayatında yeni bir döneme geçiş yapma ve olgunlaşma temalarını simgeler."
     },
     {
-      "title": "Karanlık veya Ürkütücü Bir Üniversite Binası",
-      "description": "Tehditkâr görünen bir akademik mekân, kurumsal baskılara karşı duyulan ihtiyatı ve gizli niyetleri simgeler."
+      "title": "Üniversitede Ders Dinlemek veya Amfide Oturmak",
+      "description": "Bir derslikte hocayı dinlemek ya da not almak, zihinsel bir öğrenme sürecine, yeni öğretileri kabullenmeye ve bilgi arayışına işaret eder."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslami rüya anlatımlarında üniversite, mekânlar, korunma, yerleşim ve gizli niyetler çerçevesinde ele alınır. Sakin ve faydalı görünen akademik alanlar hayırlı haber veya korunma olarak değerlendirilirken, ürkütücü yapılar dikkat ve ihtiyat çağrısı taşır. Ayrıca okul ve ilim mekânı olarak kıyaslandığında yüksek ilmî derece, âlimler meclisi ve saygın bir konuma yükseliş anlamları da yüklenir. Kolej veya okul gibi benzer kurumlar bağlılık, ahit, anı ve geçmişe dönüş temalarıyla açıklanır.",
-  "christianTraditions": "Hristiyan geleneğinde üniversite sembolüne doğrudan atfedilen özel bir rüya yorumu bulunmamaktadır. Bununla birlikte, akademik mekânlar öğrenme, öğretme ve bilgeliğin kurumsal düzenini yansıtan unsurlar olarak değerlendirilebilir.",
-  "jewishTraditions": "Yahudi geleneğinde üniversite sembolüne özgü geleneksel bir rüya tabiri yer almamaktadır; mevcut metinler daha çok kimlik, dayanıklılık sembolleri ile kutsal bilgi ve otorite temalarına odaklanır.",
-  "buddhistEasternApproaches": "Budist kurumsal sembolizm bağlamında, Dünya Budist Üniversitesi gibi kurumların amblemlerinde yer alan Triratna (Üç Mücevher) ve Dhammacakka (Dharma Çarkı) gibi simgeler, öğretinin aktarımını ve kurumsal yapının temel felsefesini görselleştirir.",
-  "spiritualApproaches": "",
+  "psychology": "Ampirik rüya içeriği araştırmalarında eğitimle ilgili öğeler, okul, öğretmen, kolej, öğrenci, kütüphane, test, üniversite ve sınıf gibi başlıklar altında sistematik kategorilerle incelenir. Hall ve Van de Castle gibi nicel içerik analizi sistemleri, üniversite imgesini tek ve sabit bir sembol olarak ele almak yerine, öğrencilerden toplanan raporlardaki frekansları ve bağlamsal dağılımları istatistiksel olarak değerlendirir. Yükseköğretim bağlamındaki rüya deneyimleri, bireylerin günlük yaşamlarındaki akademik ve sosyal çevreye uyum çabalarını yansıtır.",
+  "jungian": "Analitik psikoloji geleneğinde rüyalar bilinçdışının doğal ifadeleridir ve semboller sabit bir sözlük karşılığına indirgenemez. 'Üniversite' imgesi, henüz tam form kazanmamış anlamlara işaret eden, psikolojik enerjiyi dönüştürebilen ve bireyin bilinmeyen alanlara yönelişini, zihinsel gelişimini veya uzmanlaşma çabasını temsil eden bir rüya sahnesi olarak okunur. Bu yaklaşımda yorum, rüyanın sahnesi, figürleri ve gelişim çizgisi dikkate alınarak rüya sahibinin kişisel çağrışımları üzerinden kurulur.",
+  "islamicTradition": "Modern aktarımlarda ve ilgili yorum metinlerinde üniversite sembolü genellikle ilim, öğrenme, hedeflere ulaşma, başarı ve hayatta yeni bir merhale açılmasıyla ilişkilendirilir. Kıyas yoluyla okul veya âlim meclisi gibi düşünülen bu mekân, kişinin ilmî ilerlemesini, statü kazanmasını ve faydalı gelişmelerle karşılaşmasını simgeleyebilir.",
+  "christianTraditions": "Hristiyan rüya yorumu perspektifinde eğitim kurumları ve yükseköğretim, bilgi arayışı, ruhsal büyüme, bilgelik kazanma ve Tanrı'dan gelen rehberlik süreçleriyle bağdaştırılır.",
+  "jewishTraditions": "Yahudi rüya geleneğinde ve Talmudik yaklaşımlarda rüya anlamının sabit bir sözlük tanımından çok yoruma dayandığı kabul edilir. 'Üniversite' kelimesi doğrudan klasik metinlerde geçmese de, sembolün barındırdığı öğrenme, disiplin, hazırlık ve bilgi arayışı temaları rüya sahibinin içsel muhasebesi ve rehberlik arayışı bağlamında ele alınır.",
+  "buddhistEasternApproaches": "Budist felsefe ve kurumsal eğitim arasındaki bağlar çerçevesinde üniversite imgesi, 'öğrenim ve bilgelik yolu' olarak düşünülebilir. Zihinsel saflık, öğreti ve içsel gelişim temaları, bireyin eğitim ve farkındalık yolculuğunu çerçeveleyen unsurlar olarak değerlendirilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda üniversite, inisiyasyon benzeri bir geçiş alanı, sınanma, yeni beceriler edinme ve ruhsal olgunlaşma evresi olarak görülür. Giriş ve mezuniyet imgeleri, kişinin yüksek bilgiye ve tamamlanma arayışına yöneldiğini gösteren eşik deneyimleridir.",
   "comparisonTable": [
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Araştırmada üniversiteye doğrudan rüya yorumu atfeden geleneklerin sayısı sınırlıdır; doğrulanabilen rüya-yorum kaynakları ağırlıklı olarak modern İslami rüya sözlüklerine dayanmaktadır. İslami gelenekte üniversite genellikle yüksek ilim, âlimler meclisi, saygınlık, korunma ve ahitlerle ilişkilendirilir.",
-      "evidenceLevel": "traditional"
-    }
-  ],
-  "commonGround": "Araştırmada üniversiteye doğrudan rüya yorumu sunmayan gelenekler de bulunmaktadır; yine de birçok kültürde üniversite veya benzeri akademik yapılar çoğunlukla bilgi, kurumsal düzen ve otorite temalarıyla ilişkilendirilir. Hristiyan ve Yahudi kaynaklarında doğrudan 'üniversite' rüya geleneği bulunmamakla birlikte, bu geleneklerdeki ilgili malzeme daha çok öğrenme, bilgelik ve kutsal bilgi bağlamındaki sembolik anlamlara işaret eder.",
-  "differences": "İslami kaynaklar, rüyadaki mekânın huzurlu veya ürkütücü olmasına göre pratik anlamlar çıkarırken, Batı ve Yahudi araştırmalarında doğrudan üniversite rüya yorumu doğrulanmamıştır. Doğu kurumsal sembolizminde (ör. Budist amblemler) ise semboller daha çok öğretinin ve kurumsal felsefenin görselleştirilmesine hizmet eder.",
-  "inusAssessment": "Üniversite sembolü, bireysel bilinçdışından ziyade kurumsal görsel formüller, otorite ilişkileri ve geleneksel ilim mekânı algıları üzerinden şekillenir. Bu nedenle rüyadaki işlevi, yapının mimari atmosferine ve rüya sahibinin kurumla kurduğu tarihsel veya kişisel bağa göre çok yönlü bir inceleme gerektirir.",
-  "faq": [],
-  "sources": [
-    {
-      "title": "Studies on the Iconography of Universities in the Holy Roman Empire: Images on Seals and Maces",
-      "relevance": "Orta Çağ ve erken dönem üniversite ikonografisinde mühürler ve arma biçimleri üzerinden kurumun kurumsal kimliği, işlevi ve yetki ilişkilerini inceler.",
-      "url": "https://academic.oup.com/book/11071/chapter-abstract/159458946?redirectedFrom=fulltext"
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Eğitim ve öğrenimle ilgili rüya öğelerinin kategorize edilerek frekans, dağılım ve bağlam üzerinden incelenmesi.",
+      "evidenceLevel": "research"
     },
     {
-      "title": "[PDF] A Study Of The Historical Foundations Of Academic Visual Identity Design - RJ Wave",
-      "relevance": "Üniversitenin görsel kimliğinin tarihsel gelişimini ve sembollerin kurumsal aidiyet ile siyasal bağlamı nasıl taşıdığını gösterir.",
-      "url": "https://rjwave.org/ijedr/papers/IJEDR2602331.pdf"
+      "approach": "Psikanaliz ve Jungcu Psikoloji",
+      "interpretation": "Üniversitenin akademik tanınma, otorite, performans baskısı veya bireyin zihinsel gelişim ve uzmanlaşma yönelimi olarak okunması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami ve Geleneksel Yaklaşımlar",
+      "interpretation": "İlim, başarı, yüksek statü, hedeflere ulaşma ve hayatta yeni bir merhale olarak değerlendirilmesi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşımlar",
+      "interpretation": "Ruhsal büyüme, inisiyasyon, bilinçli bir eşikten geçiş ve yüksek bilgelik arayışı alanı olarak ele alınması.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve ekoller, üniversite sembolünün temelinde bir öğrenme, hazırlık, disiplin ve gelişim süreci barındırdığı konusunda birleşmektedir.",
+  "differences": "Bilimsel psikoloji imgeyi istatistiksel içerik kategorileri ve performans baskısı üzerinden ele alırken, spiritüel ve geleneksel yaklaşımlar bunu bilgi, bilgelik, ruhsal olgunlaşma ve yeni bir statü kazancı olarak yorumlamaktadır.",
+  "inusAssessment": "Üniversite rüyasını çözerken en kritik nokta, rüya sahnelerinin kurumsal bir binadan ziyade bireyin performans kaygısı, değerlendirilme korkusu ya da yeni bir yaşam evresine hazırlık hissiyle kurduğu bağdır. Sınav salonlarında sıkışıp kalmak veya amfilerde kaybolmak gibi ayrıntılar, kişinin günlük hayattaki sorumlulukları ve başarı baskısıyla yüzleştiğini gösterirken, mezuniyet ya da ders dinleme gibi sahneler zihinsel bir olgunlaşma ve içsel ilerleme arzusuna işaret eder. Bu nedenle rüyanın anlamı, mekanın kendisinden ziyade rüya sahibinin o sırada hissettiği duygusal tona ve hayatındaki geçiş dönemlerine göre şekillenir.",
+  "faq": [
+    {
+      "question": "Rüyada üniversitede sınava girmek ne anlama gelir?",
+      "answer": "Sınav senaryoları genellikle günlük hayattaki performans baskısı, değerlendirilme endişesi ve sorumluluklarla baş etme çabasını yansıtır."
+    },
+    {
+      "question": "Üniversiteden mezun olduğunu görmek başarıyı mı temsil eder?",
+      "answer": "Mezuniyet imgeleri; uzun süreli bir çabanın karşılığını alma, hayatın yeni bir evresine geçiş yapma ve ruhsal olgunlaşma temalarıyla ilişkilendirilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içerik analizinin nasıl kurulduğunu ve binlerce rüya raporu üzerinden kategorileştirme yapıldığını açıklar.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "International Journal of Dream Research Volume XX, No. X (2025)",
+      "relevance": "Rüyalarda eğitimle ilişkili konuları ölçmek için geliştirilen ölçeğin üniversite dâhil akademik öğrenim öğelerini nasıl kapsadığını gösterir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/libraryFiles/downloadPublic/843"
+    },
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içeriği analizinin temel ilkelerini, kategori oluşturma ve güvenirlik hesaplama adımlarını sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Dream content analytic scale for measuring studies-related topics: Reliability and validity",
+      "relevance": "Rüyalarda eğitimle ilişkili konuları ölçen ölçeğin geliştirilmesini ve eğitimle ilgili rüya öğelerinin sistematik incelenmesini ele alır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/110481"
+    },
+    {
+      "title": "Dream content analytic scale for measuring studies-related ...",
+      "relevance": "Rüyalarda okul, öğretmen, kolej, öğrenci, üniversite ve sınıf gibi eğitim terimlerinin birlikte kodlanabildiğini gösteren ölçek materyalini içerir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/110481/109146/288743"
+    },
+    {
+      "title": "Sleep, dreams and emotion regulation in higher education ...",
+      "relevance": "Yükseköğretim bağlamında rüya içeriğinin nicel içerik analiziyle incelenmesini ve normatif verilerle karşılaştırılmasını raporlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/112003/109142/288739"
+    },
+    {
+      "title": "Domhoff: New Directions in the Study of Dream Content",
+      "relevance": "Rüya metinlerinde içerik analizinin nasıl frekans, yüzde ve istatistiksel karşılaştırmalarla yapıldığını açıklar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_1999a.html"
+    },
+    {
+      "title": "Studying dream content using the archive and search engine on DreamBank.net",
+      "relevance": "DreamBank arşivinde sözcük ve ifade düzeyinde arama yapılarak belirli rüya öğelerinin sistematik olarak incelenebildiğini gösterir.",
+      "url": "https://www.ocf.berkeley.edu/~jfkihlstrom/ConsciousnessWeb/PDFs/DomhoffSchneider2008.pdf"
+    },
+    {
+      "title": "Chapter 1: The Scientific Study of Dream Content",
+      "relevance": "Rüya içeriğinin bilimsel incelenmesinde içerik analizi ve kolej öğrencilerinden toplanan rüya raporlarının önemini anlatır.",
+      "url": "https://dreams.ucsc.edu/Articles/fmid1.html"
+    },
+    {
+      "title": "Chapter 2: The Hall/Van De Castle System",
+      "relevance": "Hall/Van de Castle sisteminde rüya kategorilerinin güvenilir ve kullanışlı biçimde oluşturulmasını açıklar.",
+      "url": "https://dreams.ucsc.edu/Library/fmid2.html"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramının temel çerçevesini ve rüyanın istek doyumu olarak ele alınışını verir; üniversite imgesini psikanalitik olarak yorumlarken dayanak olur.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 5, part a",
+      "relevance": "Freud’un üniversite atamasıyla ilgili kendi rüya örneğini içerir; üniversite sahnesini akademik tanınma ve mesleki statü bağlamında düşünmeye imkân verir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5a.htm"
+    },
+    {
+      "title": "Examination Dreams | Encyclopedia.com",
+      "relevance": "Freud’un sınav rüyaları tartışmasını özetler; üniversite, değerlendirilme ve başarısızlık kaygısı temasını anlamlandırmak için yararlıdır.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/examination-dreams"
+    },
+    {
+      "title": "[PDF] Dream Symbols of the Individuation Process: Notes of C. G. Jung's ...",
+      "relevance": "Jung’un rüya imgelerini çağrışım ve bağlam üzerinden ele alan yaklaşımını gösteren metin erişimi; rüya sembollerinin sabit sözlük anlamlarından ziyade kişisel ve yapısal bağlamda okunmasına dayanak sağlar.",
+      "url": "https://pup-assets.imgix.net/onix/images/9780691191942/9780691228068.pdf?fm=pdf"
+    },
+    {
+      "title": "Dreams In Jungian Psychology: The use of Dreams as ... - PMC",
+      "relevance": "Analitik psikolojide rüyaların bilinçdışından doğan sembolik süreçler olarak kavranmasına dair genel çerçeve sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3216128/"
+    },
+    {
+      "title": "Dream Interpretation In Jung's Theory A Comparative ...",
+      "relevance": "Jungcu rüya kuramında rüyanın bilinçdışının doğal ifadesi ve sembolik anlam üretimi olarak yorumlanmasına ilişkin özet sunar.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/107-dream-interpretation-in-jungs-theory-a-comparative-analysis"
+    },
+    {
+      "title": "Interpretation of Dreams (Analytical Psychology)",
+      "relevance": "Jungcu sembol kavrayışında sembolün, tamamlanmamış anlam taşıyan ve psikolojik enerjiyi dönüştüren bir imge olması fikrini destekler.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/interpretation-dreams-analytical-psychology"
+    },
+    {
+      "title": "The Role of Dreams in Analytical Psychology",
+      "relevance": "Rüyayı bilinçdışının düzenli bir iletişimi olarak ele alan Jungcu perspektifi özetler; bu, üniversite gibi eğitim mekânı imgelerinin sembolik işlevle değerlendirilmesine uygun bir zemin oluşturur.",
+      "url": "https://jungchicago.org/product/various-dreams-mp3/"
+    },
+    {
+      "title": "On the Nature of Dreams",
+      "relevance": "Rüya çözümlemesinde sahne, kişiler, gelişim ve çözüm aşamalarını izleyen Jungcu yöntemi özetler; üniversite imgesinin bağlama göre okunmasına yardım eder.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/86-on-the-nature-of-dreams"
+    },
+    {
+      "title": "UT Seal - Texas Exes",
+      "relevance": "Üniversite mührünün tarihsel anlamını, kurumsal yetki ve ayrıcalık simgesi olarak açıklar.",
+      "url": "https://www.texasexes.org/about-us/history-and-traditions/ut-seal"
+    },
+    {
+      "title": "The Significance of University Crests from Both Cultural and Historical Perspectives: A Case Study of the University of Education, Winneba, Ghana",
+      "relevance": "Üniversite armalarının kültürel ve tarihsel anlamını, kurumsal kimlik ve miras sembolü olarak ele alır.",
+      "url": "https://www.internationaljournalcorner.com/index.php/theijhss/article/view/172961"
+    },
+    {
+      "title": "3 How to Interpret a Dream - Oxford Academic",
+      "relevance": "Artemidoros’un rüya yorumunda doğrudan ve alegorik rüyalar ayrımını ve rüya öğelerinin yorum yöntemini açıklar.",
+      "url": "https://academic.oup.com/book/40085/chapter-abstract/341036120?redirectedFrom=fulltext"
+    },
+    {
+      "title": "University of South Africa",
+      "relevance": "Üniversite sembollerinin tarihsel olarak mühür, arma ve ikonografi üzerinden kurumsal kimlik üretmesini gösterir.",
+      "url": "https://www.unisa.ac.za/sites/corporate/default/Unisa-History-and-Memory-Project/Themes/All-themes/Symbols,-rituals-&-pageantry"
+    },
+    {
+      "title": "[PDF] Research on Brand Strategy of the German Exellenz-Universities",
+      "relevance": "Modern üniversite ambleminin ortaçağ arma geleneğiyle ilişkisini ve sembolik kurumsal işlevini açıklar.",
+      "url": "https://francis-press.com/uploads/papers/YyJOpkgj3jQVbEqIFIRhOTyyhvsU4pYwGCuphTem.pdf"
+    },
+    {
+      "title": "تفسير حلم رؤيا الجامعة في المنام",
+      "relevance": "Üniversite rüyasını hedeflere ulaşma ve arzuların gerçekleşmesiyle ilişkilendiren modern Arapça yorum.",
+      "url": "https://www.sayidaty.net/%D8%A8%D9%84%D8%B3/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A3%D8%AD%D9%84%D8%A7%D9%85/1793067-%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%AD%D9%84%D9%85-%D8%B1%D8%A4%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%C2%A0%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85%C2%A0"
+    },
+    {
+      "title": "تفسير رؤية الجامعة في المنام وحلم الذهاب للجامعة",
+      "relevance": "Üniversiteyi bilgi, yeni ilişkiler, değişim ve sorumluluklarla ilişkilendiren modern İslami rüya tabiri yazısı.",
+      "url": "https://www.hellooha.com/articles/7060-%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D9%88%D8%AD%D9%84%D9%85-%D8%A7%D9%84%D8%B0%D9%87%D8%A7%D8%A8-%D9%84%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9"
+    },
+    {
+      "title": "تفسير حلم الجامعه في المنام لابن سيرين",
+      "relevance": "Üniversiteyi başarı, hedefler ve mesleki ilerleme ile ilişkilendiren modern Arapça yorum.",
+      "url": "https://www.m3any.com/university/"
+    },
+    {
+      "title": "اعرف أكثر عن تفسير رؤية الجامعة في المنام لابن سيرين",
+      "relevance": "Üniversite rüyasını hedeflerin gerçekleşmesi, başarı ve ilerleme ile ilişkilendiren modern yorum yazısı.",
+      "url": "https://joellemena.com/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AD%D9%84%D8%A7%D9%85-%D9%84%D9%84%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A-%D9%88%D8%A7%D8%A8%D9%86-%D8%B3%D9%8A%D8%B1%D9%8A%D9%86/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AD%D9%84%D8%A7%D9%85-%D9%84%D8%A7%D8%A8%D9%86-%D8%B3%D9%8A%D8%B1%D9%8A%D9%86/%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%88%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%AD%D9%84%D9%85-%D8%AD%D8%B6%D9%88%D8%B1-%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9-%D9%81%D9%8A/"
     },
     {
       "title": "What does it mean to see a university in a dream?",
-      "relevance": "Modern İslami rüya sözlüklerinden biri; üniversiteyi mekân, korunma ve niyet temalarıyla ilişkilendirir.",
+      "relevance": "Üniversiteyi yer, korunak, faydalı haber ve rızıkla; iyi görünümdeyse olumlu, korkutucu görünümdeyse ihtiyatla yorumlayan modern İngilizce açıklama.",
       "url": "https://www.molla.az/en/dream-interpretation/what-does-it-mean-to-see-a-university-in-a-dream"
     },
     {
       "title": "Dream Interpretation",
-      "relevance": "İslami rüya sözlük kaydı; üniversiteyi yüksek ilim, âlimler meclisi ve saygınlık bağlamında ele alır.",
+      "relevance": "Üniversiteyi kıyas yoluyla okul ve ilim meclisi benzeri bir mekân olarak ele alan modern sözlük açıklaması.",
       "url": "https://www.dream-muslim.com/en/encyclopedia/University"
     },
     {
-      "title": "College Islamic Interpretations & Meanings",
-      "relevance": "Kolej/okul rüyasını bağlılık, ahit, anılar ve eski yere dönüş temalarıyla açıklayan İslami yorum örneğidir; üniversite benzeri kurumlar için karşılaştırma sağlar.",
-      "url": "https://www.myislamicdream.com/college.html"
+      "title": "Dream About University",
+      "relevance": "Üniversite rüyasını öğrenme, büyüme ve Tanrı’dan rehberlik alma temalarıyla ilişkilendirir.",
+      "url": "https://evangelistjoshua.com/university-dream/"
     },
     {
-      "title": "Sharing Symbols of Jewish Resilience Across California",
-      "relevance": "Yahudi kimlik sembollerinin anlam ve tarihine odaklanır; üniversite yerine Yahudi sembollerinin tematik yerleşimini gösterir.",
-      "url": "https://www.hillel.org/sharing-symbols-of-jewish-resilience-across-california/"
+      "title": "University Dream Symbolism: Unveiling the Hidden Meanings",
+      "relevance": "Üniversiteyi Hristiyan sembolizmi içinde bilgelik, aydınlanma ve başkalarına ışık olma temalarıyla açıklar.",
+      "url": "https://dict.dreamdecoder.me/symbol/university-dream-symbolism"
     },
     {
-      "title": "The Yale Seal (March 2001) - Yale Alumni Magazine",
-      "relevance": "Urim ve Tummim bağlamında kutsal bilgi ve otorite temalarını tartışır; üniversite sembolünden çok bilgi/otorite temasına ilişkin tarihsel örnek sunar.",
-      "url": "https://archives.yalealumnimagazine.com/issues/01_03/seal.html"
+      "title": "Enrolling in a Dream: Exploring Its Symbolism and Meaning",
+      "relevance": "Eğitim kurumuna kayıt olmayı öğrencilik ve ruhsal yolculuğa girişle ilişkilendirir; üniversite sembolüne uygulanabilir bir Hristiyan çerçeve sunar.",
+      "url": "https://dict.dreamdecoder.me/symbol/enrolling-in-a-dream"
     },
     {
-      "title": "WBU EMBLEM",
-      "relevance": "World Buddhist University amblemindeki Triratna ve Dhammacakka açıklaması üzerinden Budist kurumsal sembollerin dini anlamlarını gösterir.",
-      "url": "https://wbu.world/wbu-emblem/"
+      "title": "Dream Symbols Beginning With U | Biblical Dream Dictionary | RTCLM",
+      "relevance": "Üniversite/college için yüksek öğrenim, hazırlık, uzmanlaşma ve değerlendirme temalarını sıralayan Hristiyan rüya sözlüğü maddesi.",
+      "url": "https://revealingthechristianlife.org/dreams-visions-knowledge-center/biblical-dream-symbols-dictionary/biblical-dream-symbols-u/"
+    },
+    {
+      "title": "University Dream Meaning & Interpretation - Mirror",
+      "relevance": "Üniversiteyi bilgelik, anlayış ve ruhsal rehberlik arayışıyla ilişkilendiren Hristiyan yorum metni.",
+      "url": "https://mirrorwithin.org/dream-dictionary/university/"
+    },
+    {
+      "title": "The patristic dream (Chapter 3) - Dreaming in the Middle ...",
+      "relevance": "Patristik rüya düşüncesinin Hristiyan gelenekte rüyaları ilahi, insan ve şeytani kaynaklar açısından nasıl sınıflandırdığını gösterir.",
+      "url": "https://www.cambridge.org/core/books/dreaming-in-the-middle-ages/patristic-dream/AF4244F788B3C8B6E3361A7951BE82DE"
+    },
+    {
+      "title": "patristic views of the nature of dreams and their relation ... - ERA",
+      "relevance": "Patristik Hristiyan yaklaşımda rüyaların köken ve anlam bakımından ayrıştırıldığını gösteren tez kaydı.",
+      "url": "https://era.ed.ac.uk/items/34dcdb37-1233-47b7-8dd1-a587acf9e48d"
+    },
+    {
+      "title": "Document 176",
+      "relevance": "Babylonian Talmud’daki Berakhot rüya bölümünün yapısını ve Yahudi rüya yorumunun merkezî ilkelerini ele alır.",
+      "url": "http://library.huc.edu/pdf/theses/Barlev%20Pearl-LA-Rab%20Text-2007%20rdf.pdf"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Babylonian Talmud Berakhot 55a–57b’deki rüya pasajlarını, yorumun anlamı belirlediği bir ‘rüya kitabı’ çerçevesinde açıklar.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Yahudi geleneğinde bazı rüyaların anlamlı bazı rüyaların önemsiz kabul edildiğini ve yorumun belirleyici olduğunu özetler.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Prof. MP Narasimha Raju",
+      "relevance": "Budist esinli bir yükseköğretim kurumunun öğretim ve bilgelik merkezli kurumsal dili, üniversite sembolünün eğitim-yolculuk bağlantısını destekleyen bağlamsal malzeme sağlıyor.",
+      "url": "https://www.ddibu.in/read/vice-chancellor"
+    },
+    {
+      "title": "Sakya Buddha University",
+      "relevance": "Budist felsefe ile modern akademik eğitimi birleştiren üniversite tanımı, üniversiteyi Budist sembolizmde öğrenim ve bilgelik alanı olarak düşünmeye imkân veriyor.",
+      "url": "https://sakyauniversity.com/"
+    },
+    {
+      "title": "Dharma Realm Buddhist University – Accredited Buddhist ...",
+      "relevance": "Budist gelenekte liberal eğitim, kendini geliştirme ve bilgelik vurgusu yapan kurum tanımı, üniversite sembolünün Budist okumasında eğitim ve içsel gelişim temasını güçlendiriyor.",
+      "url": "https://www.drbu.edu/"
+    },
+    {
+      "title": "The Eight Auspicious Symbols | Tibetan Monks' Residency",
+      "relevance": "Tibet Budizmi’nin sekiz uğurlu sembolünü ve bunların aydınlanma, koruma, öğreti ve bilgelik anlamlarını özetliyor.",
+      "url": "https://www.salisbury.edu/academic-offices/liberal-arts/cultural-affairs/monks-residency/eight-symbols.aspx"
+    },
+    {
+      "title": "KNOCKING ON BUDDHA'S DOOR:",
+      "relevance": "Tibet Budizmi’ndeki lotus ve diğer uğurlu sembollerin saflık, bilgelik ve samsara’dan kurtuluş temalarıyla ilişkisini açıklıyor.",
+      "url": "https://dspace.library.uvic.ca/server/api/core/bitstreams/56ed3337-e162-4bde-9dbc-06b23f921eaa/content"
+    },
+    {
+      "title": "University Dream Meaning: Growth, Pressure & Potential",
+      "relevance": "Üniversiteyi büyüme, sınanma, inisiyasyon ve ruhsal arayış gibi sembolik temalarla ilişkilendiriyor; ayrıca ezoterik bir okumaya yakın biçimde öğrenme ve eşik geçişi fikrini vurguluyor.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/university/"
+    },
+    {
+      "title": "University Dreams: Meaning, Psychology, and Cultural Lenses",
+      "relevance": "Üniversiteyi rüyada bir 'ritüel kap', öğrenme ve tanınma alanı gibi ele alıyor; sembolü daha geniş spiritüel geçiş ve hazırlık çerçevesinde yorumluyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/university"
+    },
+    {
+      "title": "University - Dream Symbol Meaning and Interpretation",
+      "relevance": "Üniversiteyi inisiyasyon ve dönüşüm alanı olarak okuyor; rüyadaki üniversiteyi bireysel gelişim ve eşik deneyimi çerçevesinde sembolleştiriyor.",
+      "url": "https://dreams.guide/dream-symbols/university"
+    },
+    {
+      "title": "Dreaming about university? See what it means",
+      "relevance": "Üniversiteyi öğrenme, kimlik genişlemesi ve sınanma evresiyle ilişkilendiriyor; spiritüel düzlemde de sürekli öğrenme temasını vurguluyor.",
+      "url": "https://dreammeanings.pro/dream/university/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
 }

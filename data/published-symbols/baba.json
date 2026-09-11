@@ -1,130 +1,258 @@
 {
   "slug": "baba",
   "title": "baba",
-  "shortDescription": "Rüyada baba görmek; koruma, rehberlik, otorite ve sınır koyma temalarıyla ilişkilendirilir. Babanın tavrı, destek ve güven ihtiyacını, onay arayışını ya da otoriteyle yaşanan çatışmaları öne çıkarabilir.",
+  "shortDescription": "Rüyalarda baba figürü; kişisel ilişki, aile içindeki rol, otorite dinamikleri ve rüyanın duygusal tonuna göre farklı anlam katmanları kazanabilen bir semboldür.",
   "positiveAssociations": [
-    "Destek ve rehberlik",
-    "Korunma hissi",
-    "İçsel bilgelik",
-    "Düzen ve denge"
+    "Muradın gerçekleşmesi veya beklenmedik yerlerden gelecek iyilik; bazı klasik İslami yorumlarla örtüşen anlamlar.",
+    "Aile içi destek, himaye ve güven hissi",
+    "Bilge öğüt ve rehberlik ile içsel düzenin ve kuralların temsili.",
+    "Vefat etmiş yakınlarla kurulan bağın sürdürülmesi, geçmişin değerinin hatırlanması"
   ],
   "challengingAssociations": [
-    "Onay arayışı ve bağımlılık",
-    "Otoriteyle yaşanan çatışmalar",
-    "Eleştiriye karşı direnç",
-    "Çocukluktan kalan gerilimler"
+    "Otoriteyle çatışma, suçluluk veya onay arayışıyla ilişkili iç gerilimler",
+    "Baskılayıcı veya sınır koyan içsel güçler; kısıtlama hissi",
+    "Çocukluktan kalan rekabet, yas ya da çözülmemiş mesafeler",
+    "Aynı cinsiyetten ebeveynle ilgili psikodinamik gerilimlerin yansıması"
   ],
   "contextDependentAssociations": [
-    "Babanın rüyadaki ruh hali ve genel duruşu",
-    "Rüya sahibinin uyanık yaşamındaki ebeveyn ilişkileri",
-    "Kişinin kendi içsel otoritesini kurma süreci"
+    "Rüyadaki baba figürünün tavrı ve rüyanın genel duygu tonu (ör. şefkatli mi, tehditkâr mı olduğu)",
+    "Babanın rüya içindeki sağlık durumu, ölümü veya fiziksel mesafesi",
+    "Rüya görenin gerçek hayattaki ilişkisinin niteliği ve yaşam evresi"
   ],
   "commonVariations": [
     {
-      "title": "Babayla tartışmak veya çatışmak",
-      "description": "Uyanık yaşamda otorite figürleriyle yaşanan anlaşmazlıkların veya bireyselleşme çabasının rüya düzlemindeki yansımasıdır."
+      "title": "Babayla Tartışmak veya Çatışmak",
+      "description": "Sözlü veya fiziksel bir çatışma, uyanık yaşamda otorite figürleriyle içsel sürtüşmelere, kendi sınırlarını belirleme çabasına ya da geçmişteki çatışmaların yeniden canlanmasına işaret edebilir."
     },
     {
-      "title": "Babayı huzurlu ve iyi halde görmek",
-      "description": "İçsel denge, destek bulma duygusu ve psikolojik olarak güvende hissetme haliyle ilişkilendirilen bir görünümdür."
+      "title": "Hasta veya Yaşlı Babayı Görmek",
+      "description": "Babanın kırılganlığına tanık olmak, koruma sağlayan yapıların sarsılacağına ilişkin kaygıyı veya destek kaynaklarındaki değişimi çağrıştırabilir."
     },
     {
-      "title": "Babanın desteğini veya rehberliğini almak",
-      "description": "Kişinin karar verme süreçlerinde dışsal bir yönlendirmeye duyduğu ihtiyacı veya kendi içsel rehberliğiyle kurduğu bağı gösterir."
+      "title": "Ölmüş Babayı Rüyada Görmek",
+      "description": "Vefat etmiş bir babanın görünmesi genellikle yas, miras, hatırlama ve geride kalan değerlerin yeniden değerlendirilmesiyle ilişkilendirilir."
     },
     {
-      "title": "Babayı kederli veya sıkıntılı görmek",
-      "description": "İtibar, sorumluluklar veya yakın ilişkilerdeki bazı aksaklıklar üzerine duyulan bilinçaltı hassasiyetleri temsil edebilir."
+      "title": "Babanın Rehberlik veya Onay Vermesi",
+      "description": "Babanın yol göstermesi veya onaylaması, kişinin karar aşamasında güven ve etik rehberlik arayışını simgeleyebilir."
     }
   ],
-  "psychology": "Psikanalitik ve teorik çerçevede baba figürü; sevgi, korku ve onay arayışı eksenindeki ilişkileri, çocukluk çatışmalarını ve içselleştirilmiş yasaları temsil eder.",
-  "jungian": "Jungcu analitik psikolojide baba sembolü; düzen, yargılayıcı veya yol gösterici ilke, kuralları içselleştirme ve bireyin kendi otoritesini oluşturma süreciyle bağlantılıdır.",
-  "islamicTradition": "İslami rüya tabiri kaynaklarında baba figürü çoğunlukla destek, otorite, rehberlik ve korunma ile bağdaştırılır. Babanın rüyadaki neşeli veya kederli hali, rüya sahibinin hayatındaki itibar ve sorumluluk meselelerine işaret edecek şekilde ele alınır.",
-  "christianTraditions": "Hristiyan sembolizminde baba, Tanrı'nın babalığı ve ilahi kaynak ile antlaşma ilişkisi bağlamında ele alınan temel bir teolojik figürdür.",
-  "jewishTraditions": "Yahudi kutsal metin sembolizminde baba imgesi; koruma, soy, onur ve otorite unsurlarıyla ilişkilendirilen genel bir dini figür olarak yer alır.",
-  "buddhistEasternApproaches": "Budist bağlamda baba figürü; zihinsel niteliklerin, şefkat, cesaret ve bilgelik gibi arketiplerin veya otoriteyle kurulan içsel ilişkilerin bir ifadesi olarak okunur.",
-  "spiritualApproaches": "Spiritüel ve ezoterik okumalarda baba, hem dışsal bir koruyucu rehber hem de kişinin kendi içindeki yönlendirici ve sınır koyucu ilkesi olarak değerlendirilir.",
+  "psychology": "Ampirik rüya araştırmaları, aile figürlerinin anlamının sabit olmadığını; rüya içeriğinin duygusal tonu, rüya serilerindeki değişim ve bireyin ilişki bağlamıyla birlikte değerlendirilmesi gerektiğini vurgular. Baba imgeleri, içerik analizlerinde otorite, yakınlık ve duygusal tepki ekseninde kodlanmaktadır.",
+  "jungian": "Jungcu çerçevede 'baba' sıklıkla bir iç baba arketipi olarak okunur: düzen, yasa, sınır ve yönlendirme işlevleriyle ilişkili olabilir. Rüyanın kendine özgü duygusal tonu ve babanın sözlü/bedensel tutumu, arketipin koruyucu veya baskıcı yönlerinin hangisini ön plana çıkardığını belirler; bu yorum kişisel öyküyle birlikte ele alınmalıdır.",
+  "islamicTradition": "Klasik İslami rüya tabirleri içinde babayı görmek genellikle muradın gerçekleşmesi, hayır ve beklenmedik rızık gibi olumlu gelişmelerle ilişkilendirilir; aynı zamanda hastanın iyileşmesi veya aile üzerinden gelecek iyilikler şeklinde yorumlanan görüşler de bulunmaktadır.",
+  "christianTraditions": "Hristiyan teolojik okumalarda baba figürü bazen Tanrı Baba imgesi, otorite, merhamet ve miras temalarıyla ilişkilendirilir; bu yorumlar tarihsel ve çağdaş teolojik söylemler doğrultusunda farklı biçimlerde sunulmaktadır.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar yoruma bağlı olarak ele alınır; babanın görünmesi miras, maddi sorumluluklar veya ölen yakınlarla kurulan bağların rüya içindeki ifadesi bağlamında değerlendirilir ve kesin bir kehanet varsayılmaz.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda \"baba\" genellikle geleneksel düzen, yasa ve güneşle ilişkilendirilir; aynı zamanda eril ilke ve ruhsal rehberlikle bağlantılı bir imgedir.",
   "comparisonTable": [
     {
-      "approach": "Psikanaliz",
-      "interpretation": "Otorite, rekabet, onay arayışı ve çocukluk çatışmalarının çözümlenmesi.",
+      "approach": "Psikanalitik Kuram",
+      "interpretation": "Baba sembolü otorite, rekabet, yasak ve çocukluk çatışmaları ekseninde okunabilir.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Analiz",
-      "interpretation": "Düzen, içselleştirilmiş kurallar, yargı ve kendi otoritesini kurma ilkesi.",
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Baba arketipi olarak düzen, sınır, rehberlik ve içsel otoritenin temsili.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Destek, rehberlik, korunma ve babanın halinin yansıttığı itibar durumu.",
+      "approach": "Klasik İslami Gelenek",
+      "interpretation": "Muradın gerçekleşmesi, beklenmedik rızık ve aile aracılığıyla gelecek hayır yönünde yorumlanan geleneksel okumalar.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Spiritüel Yaklaşım",
-      "interpretation": "Koruyucu rehberlik ve içsel yönlendirici ilke.",
+      "approach": "Hristiyan Teolojik Sembolizm",
+      "interpretation": "Tanrı Baba imgesi, merhamet, miras ve koruma temaları üzerinden yapılan yorumlar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik/Spiritüel Yaklaşım",
+      "interpretation": "Baba ilkesini kozmik düzen, dönüşüm ve ruhsal rehberlik çerçevesinde ele alan yorumlar.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenekler ve teorik yaklaşımlar, baba sembolünü çoğunlukla otorite, yönlendirme, sınır koyma ve koruma gibi kurucu unsurlar etrafında konumlandırır.",
-  "differences": "Psikanalitik ve teorik yaklaşımlar sembolü bilinçdışı çatışmalar ve içselleştirilmiş yasalar üzerinden incelerken; geleneksel ve spiritüel yaklaşımlar daha çok rehberlik, korunma ve ilahi veya geleneksel hiyerarşi ekseninde ele alır.",
-  "inusAssessment": "Baba sembolü, rüya sahibinin yaşamındaki otorite anlayışı, ebeveynle olan gerçek ilişkileri ve içselleşmiş kurallarla kurduğu ilişkilere güçlü biçimde bağlıdır. Rüyadaki sahnenin ve figürün ruh halinin dikkate alınması, bu sembolün mekanik bir tabirden ziyade psikolojik bir içgörü olarak değerlendirilmesini gerektirir.",
+  "commonGround": "Çeşitli ekoller baba figürünü rüyada otorite, koruma, sınır ve kuşaklararası aktarım ekseninde görür; duygusal ton ve rüya bağlamı hangi yönün öne çıktığını belirler.",
+  "differences": "Psikanalitik yaklaşımlar daha çok çocukluk çatışmaları, suçluluk ve yasaklar üzerinden okurken; Jungcu yorumlar kolektif arketip ve içsel düzen işlevine vurgu yapar. Dini ve kültürel gelenekler ise babayı rızık, himaye veya ilahi otorite bağlamında farklı biçimlerde değerlendirir.",
+  "inusAssessment": "Baba sembolü rüyada genellikle tek bir nedene indirgenemez; rüyanın duygu tonu, babanın tutumu (ör. şefkatli mi yoksa sert mi olduğu), fiziksel durum ve rüya görenin gerçek ilişki geçmişi birlikte değerlendirilince sembolün işlevi daha açıklayıcı olur. Bu nedenle yorum, babanın rüyadaki rolünü ve bağlamsal koşulları vurgulamalıdır.",
   "faq": [
     {
-      "question": "Rüyada babayı görmek her zaman gerçek babayla mı ilgilidir?",
-      "answer": "Hayır. Rüya analizi ve psikolojik yaklaşımlar, rüyadaki baba figürünün genellikle gerçek kişiden ziyade içselleştirilmiş otoriteyi, kuralları veya koruma ihtiyacını temsil ettiğini belirtir."
+      "question": "Rüyada ölmüş babamı canlı görmek ne anlama gelir?",
+      "answer": "Genellikle yas, hatırlama ve mirasla ilgili temalara işaret eder; rüya, geçmişle duygusal bir hesaplaşma veya babanın öğretilerinin yeniden gündeme gelmesi anlamında okunabilir."
     },
     {
-      "question": "Babayla ilgili rüyalar hangi psikolojik temaları öne çıkarır?",
-      "answer": "Bu rüyalar çoğunlukla onay arayışı, bireyselleşme, sınır koyma, disiplin ve otorite figürleriyle yaşanan içsel rekabet veya uyum süreçlerini görünür kılar."
+      "question": "Babayla rüyada kavga etmek gerçek hayatta bir kavga olacak demek midir?",
+      "answer": "Böyle rüyalar çoğunlukla içsel sınır ve otorite meselelerine işaret eder; doğrudan gelecekte yaşanacak somut bir olaydan çok, kişinin karar alma süreçleri ve ilişkisel gerilimleriyle ilgili bir yansıma olabilir."
     }
   ],
   "sources": [
     {
-      "title": "Fathers in dreams: what does their appearance represent?",
-      "relevance": "Rüyalarda baba figürünün destek, yönlendirme, kontrol, disiplin ve koruma temalarıyla ilişkilendirildiğini anlatan çevrimiçi yorumlayıcı metin.",
-      "url": "https://www.wellbeing.com.au/mind-spirit/spirituality/fathers-dreams-appearance-represent.html"
+      "title": "Content analysis of 4 to 8 year-old children's dream reports",
+      "relevance": "Çocuk rüya raporlarının içerik analizleri; aile figürlerinin rüyadaki duygusal ton ve kodlama bağlamında nasıl incelendiğini gösterir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4415323/"
     },
     {
-      "title": "Father in a Dream: Freud, Jung, Myth and Modern Meaning",
-      "relevance": "Baba figürünü Freud ve Jung üzerinden ele alan, ayrıca modern anlamlandırmalarla birleştiren çevrimiçi metin; baba sembolünü otorite, yasa, rekabet ve içselleştirilmiş düzen bağlamında işler.",
-      "url": "https://rosmertapublishing.com/dream-symbols/father/"
+      "title": "Dreams of core family members in a long dream series",
+      "relevance": "Uzun rüya serilerinde çekirdek aile üyelerinin görünümü ve ilişkisel değişimlerin nasıl izlendiğine dair ampirik çerçeve.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/11055/pdf_53/17817"
     },
     {
-      "title": "Father Dreams: Meaning & Psychological Interpretation",
-      "relevance": "Baba figürünü otorite, koruma ve rehberlik temalarıyla ilişkilendiren çevrimiçi yorum metni; Jungcu ve çağdaş psikoloji dilini birlikte kullanır.",
-      "url": "https://somniscient.com/en/symbols/father"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un ebeveyn ölümü düşleri ve baba figürünü rekabet, suçluluk ve çocukluk çatışmaları çerçevesinde ele alışına ilişkin temel metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams"
+    },
+    {
+      "title": "Sigmund Freud / Dream of the Burning Child (1900)",
+      "relevance": "Freud'un örnek rüyalarında baba hitabının yas, suçluluk ve çocuk kaybı temasındaki rolüne dair örnekler.",
+      "url": "https://viennaproject.fas.harvard.edu/sigmund-freud-dream-burning-child-1900"
+    },
+    {
+      "title": "Sigmund Freud: Vorlesungen zur Einführung in die ...",
+      "relevance": "Babanın çocuklukta yasa koyan ve dürtüye karşı çıkan otorite olarak ele alınışı.",
+      "url": "https://projekt-gutenberg.org/authors/sigmund-freud/books/sigmund-freud-vorlesungen-zur-einfuehrung-in-die-psychoanalyse/chapter/12/"
+    },
+    {
+      "title": "Freud's Interpretation of His Own Dreams in “The ...",
+      "relevance": "Freud'un kendi rüyalarında baba figürünün suçluluk ve onay arayışıyla bağlantılı okunması.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/ijodr/article/download/80/98"
+    },
+    {
+      "title": "Exploring Jungian Themes in Dreams About My Father",
+      "relevance": "Rüyada baba figürünün içsel baba arketipi, otorite ve kuşaklararası psikolojik tema olarak yorumlandığı bir Jungcu aktarım.",
+      "url": "https://jfvernon.blog/2025/07/06/healing-the-father-complex-a-jungian-dream-analysis/"
+    },
+    {
+      "title": "About Father, Sister and Mother appearance in Dreams.",
+      "relevance": "Baba imgesinin kolektif düzen, akılcılık ve baba kompleksi bağlamında ele alındığı Jungcu forum tartışması.",
+      "url": "https://www.reddit.com/r/Jung/comments/hwnsvp/about_father_sister_and_mother_appearance_in/"
+    },
+    {
+      "title": "The Father Archetype in Jungian Psychology: Complete ...",
+      "relevance": "Baba arketipinin düzen, otorite, sınır ve rehberlik işlevleriyle açıklandığı Jungcu özet sayfası.",
+      "url": "https://www.selfgazer.com/blog/jungian-archetype-the-father"
+    },
+    {
+      "title": "Carl Jung Dream Interpretation: Recurring Father ...",
+      "relevance": "Baba figürünün iç otorite, moral düzen ve geçiş eşiğiyle ilişkili görüldüğü Jungcu yorum metni.",
+      "url": "https://www.befreed.ai/podcast/dreaming-of-your-father-jungs-view-on"
+    },
+    {
+      "title": "[PDF] Bernardo Antônio Almeida Pinto de Souza Arquétipos do Pai",
+      "relevance": "Pai arketipinin kişisel babanın ötesine geçen erkek otorite imgesi olarak ele alındığı akademik çalışma PDF'i.",
+      "url": "https://ppg.psi.puc-rio.br/uploads/uploads/1969-12-31/2014_f831985a969ca99c16f1dfcf22d3b93d.pdf"
     },
     {
       "title": "Father dreams: authority, protection, and inherited patterns",
-      "relevance": "Baba sembolünü düzen, sınır, soy, yasa ve otorite üzerinden okuyan çevrimiçi yorum metni; kültürel sembolizm ve Jungcu terimlerle genişletilmiş bir çerçeve sunar.",
+      "relevance": "Baba imgelerinin yön, sınır, disiplin ve iç otorite ekseninde yorumlandığı Jungcu uygulama yazısı.",
       "url": "https://www.echodream.io/interpret/father-dreams"
     },
     {
-      "title": "Your father in a dream | The Islamic Dream Book",
-      "relevance": "İslami rüya geleneğinde babanın destek, otorite ve korunma ile ilişkilendirildiğini aktaran çevrimiçi özet sayfa.",
-      "url": "https://theislamicdreambook.com/your-father-in-a-dream/"
+      "title": "Father in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Baba sembolünün Jungcu yorumda düzen ve yargı ilkesiyle ilişkisini özetleyen popüler kaynak.",
+      "url": "https://rosmertapublishing.com/dream-symbols/father/"
     },
     {
-      "title": "God (Father)",
-      "relevance": "Hristiyan kutsal metin geleneğinde baba sembolünün Tanrı’nın babalığı ve antlaşma ilişkisiyle bağlantısını veren genel bir teolojik sayfadır.",
-      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/god-father"
+      "title": "Father Images that Live Inside Us",
+      "relevance": "Baba yokluğu veya mesafesinin duygusal ve ilişkisel etkilerini ele alan Jungcu yazı.",
+      "url": "https://jungplatform.com/blog/stand-alone"
     },
     {
-      "title": "Topical Bible: Father's",
-      "relevance": "Yahudi/Hristiyan kutsal metin sembolizminde baba imgesinin genel anlam alanını veren kaynak sayfası.",
-      "url": "https://biblehub.com/topical/f/father's.htm"
+      "title": "Father Figure Dream Meaning | Jungian Interpretation & Symbolism",
+      "relevance": "Baba figürünün Jungcu yorumda düzen, otorite ve yön bulma ile ilişkisini özetleyen sayfa.",
+      "url": "https://www.projectmorpheus.org/dream-symbols/father"
     },
     {
-      "title": "Father in Dreams: Meanings, Psychology, and Cultural Lenses",
-      "relevance": "Budist bakış açısından baba figürünün zihinsel koşullanma, otoriteyle ilişki ve şefkat/bilgelik nitelikleriyle bağlantısını anlatan çevrimiçi bir derleme.",
-      "url": "https://www.dreamspoken.com/en/dream-meaning/father"
+      "title": "Father Shadow Dream: Jung's Hidden Message Revealed",
+      "relevance": "Baba gölgesini reddedilmiş eril nitelikler ve iç otoriteyle ilişkilendiren Jungcu popüler aktarım.",
+      "url": "https://www.dreamdecrypt.com/en/father-shadow-dream-jung"
     },
     {
-      "title": "Father: Significance and symbolism",
-      "relevance": "Budist bağlamda 'father' kavramının yaşlı erkek ebeveyn ve dünyevi destek sağlayan figür olarak tanımını veren kavramsal kaynak.",
-      "url": "https://www.wisdomlib.org/concept/father"
+      "title": "Male Psychology",
+      "relevance": "Baba arketipini bilgelik, koruma ve otoritenin olumlu-olumsuz biçimleriyle açıklayan Jungcu derleme.",
+      "url": "https://www.jungian-confrerie.com/phdi/p1.nsf/supppages/8209?opendocument&part=7"
+    },
+    {
+      "title": "A Library Guide to Jung's Collected Works: Father",
+      "relevance": "Jung’un Collected Works rehberinde rüyadaki baba-figüründen inanç, yasak ve bilge öğütlerin doğduğunu aktaran kılavuz kayıt.",
+      "url": "https://pacifica.libguides.com/Jung/father"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritik kaynakta baba figürünün hane içi konum, akrabalık düzeni ve baba-oğul ilişkisi bağlamında ele alınması.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un eserinin tarihsel bağlamı ve bir rüya yorumu el kitabı olarak niteliği.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Baba sembolü için açık bir rüya tabiri maddesi içerir; baba görmeyi muradın gerçekleşmesi, hayır ve beklenmedik rızıkla ilişkilendirir.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Baba Rüyada Görmek İmam Nablusi",
+      "relevance": "Baba rüyasının murada erme, rızık, kaybı bulma ve hastalıkta iyileşme ile ilişkilendirildiği çevrimiçi aktarımı içerir.",
+      "url": "https://www.islamda.org/2015/05/baba-ruyada-gormek-imam-nablusi.html"
+    },
+    {
+      "title": "Father",
+      "relevance": "Rüyada baba figürünün Tanrı Baba, otorite, miras ile besleme ve sağlama rolleriyle nasıl ilişkilendirildiğini gösteren Hristiyan çevrimiçi yorum kaynağı.",
+      "url": "https://joshuamediaministries.org/dreams/father/"
+    },
+    {
+      "title": "Biblical meaning of dreaming about your father - Christian ...",
+      "relevance": "Baba rüyalarının Hristiyan teolojik okumada otorite, bilge öğüt, koruma ve destek temalarıyla bağlantılandırılmasını özetleyen bir Hristiyan yorum metni.",
+      "url": "https://christianfaithguide.com/biblical-meaning-of-dreaming-about-your-father/"
+    },
+    {
+      "title": "Biblical Meaning of Father in Dreams: What Scripture Really ...",
+      "relevance": "Baba figürünün Hristiyan sembolizminde kabul, aidiyet, babalık merhameti ve Tanrı Baba imgesiyle ilişkilendirilmesine dair yorum metni.",
+      "url": "https://thedreamguidebook.com/biblical-meaning-of-father-in-dreams/"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Yahudi kaynaklarında babanın rüyada görünmesinin miras ve maddi sorumluluk temalarıyla ilişkilendirilebileceğine dair anlatı örneği.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Berakhot 10.a",
+      "relevance": "Rüyaların kesin bilgi vermediği, ihtiyatla ele alınması gerektiği yönündeki rabbanî çerçeve.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/10.a"
+    },
+    {
+      "title": "What Do Dreams Mean?",
+      "relevance": "Yahudi bağlamında rüyaların ölen yakınlarla ilişkilendirilebileceği yaklaşımını aktarır; baba rüyalarının yas ve hatırlama boyutuna temas eder.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/274823/jewish/What-Do-Dreams-Mean.htm"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Yahudi rüya literatüründe Berakhot’un yerini ve babanın göründüğü bir anlatıyı işaret eder; tarihsel rüya bilimi (oneiroloji) bağlamı sağlar.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Collected Works of C.G. Jung. Volume 12 Collected Works of C. G. Jung, Volume 12: Psychology and Alchemy [Course Book ed.] 9781400850877 - DOKUMEN.PUB",
+      "relevance": "Rüya ve simgesel dil bağlamında baba figürünü geleneksel ruh, bilinç ve yönlendirici otorite ile ilişkilendiren Jungcu okuma için temel metin.",
+      "url": "https://dokumen.pub/collected-works-of-cg-jung-volume-12-collected-works-of-c-g-jung-volume-12-psychology-and-alchemy-course-booknbsped-9781400850877.html"
+    },
+    {
+      "title": "Esoteric terminology and symbolism",
+      "relevance": "Ezoterik sembolizmde 'father' teriminin hiyerarşik/kozmik bir ilke olarak kullanılışını özetleyen bir derleme; baba sembolünü spiritüel-kozmik bağlamda konumlandırır.",
+      "url": "https://www.veidos.org/introduction/esoteric-terminology-and-symbolism/?lang=en"
+    },
+    {
+      "title": "Bābā Āb Dād: The Phenomenology of Sainthood in the Culture of Dreams in Kurdistan With an Emphasis on Sufis of Qāderie Brotherhood",
+      "relevance": "Rüya kültüründe 'Bābā' kelimesinin bilge erkek figürü ve rüya içindeki rehberlik/armağan yapısıyla ilişkisini ele alan çalışma; baba benzeri ruhsal otorite için doğrudan rüya malzemesi sağlar.",
+      "url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/9/19778/files/2023/03/English-phenomenology-of-sainthood.pdf"
+    },
+    {
+      "title": "Hidden Symbolism of Alchemy and the Occult Arts",
+      "relevance": "Ezoterik ve simyasal gelenekte baba ilkesinin kozmik/erkeksel yönleri ve dönüşüm bağlamındaki temsillerine dair kaynak.",
+      "url": "https://www.gutenberg.org/files/27755/27755-pdf.pdf"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
 }

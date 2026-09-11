@@ -1,145 +1,268 @@
 {
   "slug": "gunes",
   "title": "güneş",
-  "shortDescription": "Rüyada güneş görmek; aydınlanma, zihinsel netlik, yaşam enerjisi ve otoriteyle ilişkilendirilebilir. Güneşin doğması canlanma ve yükselişi, batması ise bir dönemin kapanışını ya da enerjinin içe yönelmesini simgeleyebilir.",
+  "shortDescription": "Rüyada güneş görmek, canlılık, zihinsel açıklık, farkındalık ve güçlü otorite figürleriyle ilişkilendirilebilir. Parlak ve sıcak bir güneş enerji ve yenilenmeyi, kararmış veya tutulmuş bir güneş ise güç kaybı, otoriteyle ilgili gerilimler ya da bir dönüşüm dönemini öne çıkarabilir.",
   "positiveAssociations": [
-    "Aydınlanma ve farkındalık",
-    "Canlılık ve yaşam enerjisi",
-    "Düzen ve açıklık",
-    "İçsel bütünleşme"
+    "Aydınlanma ve içsel netlik",
+    "Canlılık ve yüksek psişik enerji",
+    "Güçlü liderlik ve koruyucu otorite",
+    "Ruhsal dönüşüm ve yenilenme"
   ],
   "challengingAssociations": [
-    "Otoritenin baskıcı yönü",
-    "Aşırı görünürlük ve kontrol",
-    "Güneşin batmasıyla gelen gerileme hissi",
-    "Yoğun psişik enerji"
+    "Otorite figürleriyle yaşanan baskı veya çatışma",
+    "Tutulmuş veya kararmış güneş ile simgelenen tıkanıklıklar",
+    "Ego merkezli güç mücadeleleri"
   ],
   "contextDependentAssociations": [
-    "Güneşin ev içinde doğması veya batması",
-    "Rüya sahibinin otorite figürleriyle ilişkisi",
-    "Mevcut yaşam döngüsü ve dönüşüm süreçleri"
+    "Güneşin parlak, karanlık, tutulmuş veya batıyor oluşuna göre değişen anlamlar",
+    "Rüya sahibinin günlük yaşamındaki otorite ilişkileri ve kamu işleri",
+    "Rüyanın uyandırdığı duygu durumunun olumlu ya da kaygılı olması"
   ],
   "commonVariations": [
     {
-      "title": "Evde Doğan Güneş",
-      "description": "Rüya bağlamında evin içine doğan veya evini aydınlatan bir güneş görmek, hane içindeki yaşam enerjisinin artışı, yükselme veya otoriteyle ilgili yeni bir dönemin habercisi olarak ele alınabilir."
+      "title": "Parlak ve Bulutsuz Bir Güneş Görmek",
+      "description": "Gökyüzünde parlayan net bir güneş, zihinsel açıklığa, yaşam enerjisinin yüksekliğine ve hayatın farklı alanlarında kazanılan berraklığa işaret eder."
     },
     {
-      "title": "Batan Güneş",
-      "description": "Ufukta yavaşça kaybolan ya da batan bir güneş, bir dönemin kapanması, yaşam döngüsünde bir gerileme hissi veya dışsal enerjinin içselleşme sürecine girmesini simgeleyebilir."
+      "title": "Güneş Tutulması veya Kararmış Güneş",
+      "description": "Güneşin karanlık, tutulmuş veya sönük görünmesi, otorite figürleriyle ilgili sınavlara dikkat çeker ve genellikle içsel bir dönüşüm veya değişim sürecine işaret eder."
     },
     {
-      "title": "Bulutların Arasından Süzülen Güneş Işığı",
-      "description": "Bulutların arasından süzülerek yeryüzüne ulaşan güneş ışığı, belirsizliklerin ortadan kalkması, zihinsel netlik kazanma ve zorlukların ardından gelen aydınlanma anlarını temsil eder."
+      "title": "Güneşin Doğuşunu İzlemek",
+      "description": "Ufuktan doğan bir güneş, yeni bir dönemin başlangıcını, psikolojik yenilenmeyi ve uzun süredir kapalı olan yolların açılmasını simgeler."
     },
     {
-      "title": "Kavurucu ve Parlak Güneş",
-      "description": "Oldukça parlak ve kavurucu bir güneşle karşılaşmak, aşırı görünürlük, güçlü içsel itkiler veya baskın bir otorite figürünün yarattığı baskı hissiyle ilişkilendirilebilir."
+      "title": "Güneş Işınlarının Altında Kalmak",
+      "description": "Güneş ışığının doğrudan bedeni ısıttığı veya aydınlattığı rüyalar, içsel farkındalığın artmasını, ruhsal canlılığı ve koruyucu bir enerjinin varlığını yansıtır."
     }
   ],
-  "psychology": "Psikolojik açıdan rüyadaki güneş, psikanalitik çerçevede temel arzu, canlılık ve içsel itkilerle ilişkilendirilir. Freudcu perspektife göre güneş imgesi baba figürü veya güçlü bir otorite imgesiyle bağlantılandırılırken, tarihsel-kültürel incelemeler bu sembolün medeniyetler boyunca merkezî konumu, görünürlük ve düzen kavramlarıyla kurduğu bağı vurgular.",
-  "jungian": "Analitik psikolojide güneş, bilinç ve aydınlanma arketipi olarak ele alınır. Jungcu perspektife göre güneş imgesi, bireyin benlik (Self) kavramı, bütünlenme yönelimi ve içsel merkezine doğru yaptığı psikolojik yolculuğun güçlü bir sembolik ifadesidir.",
-  "islamicTradition": "Klasik İslami rüya tabiri geleneklerinde güneş; büyük bir hükümdar, baba figürü, güç, otorite veya hakikat ile ilişkilendirilir. Rüya bağlamında evde doğan güneş, yükselmeye ve bereketin artmasına işaret ederken, batan güneş gerileme veya gücün azalması şeklinde yorumlanabilir.",
-  "christianTraditions": "Hristiyan sembolizminde güneş, erken dönem kilise metinlerinde ve İncil'deki ışık motifleriyle bağdaştırılarak sıklıkla ilahi aydınlanma ve Mesih eksenli bir simgesel çerçevede ele alınır.",
-  "jewishTraditions": "Yahudi rabbanî literatüründe güneş, doğrudan bir rüya tabiri unsurundan ziyade metinsel ve tefsirsel düzeyde ilahi düzen, şifa verici özellikler ve yaratılışın kozmik dengesi bağlamında incelenir.",
-  "buddhistEasternApproaches": "Budist gelenekte, özellikle Mahayana ve Vajrayana kollarında Vairocana gibi figürlerle ve 'Great Sun' (Büyük Güneş) kavramıyla ilişkilendirilen güneş imgesi, kozmolojik aydınlanma ve zihinsel uyanış diliyle bağdaştırılır.",
-  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda güneş, evrensel yaşam enerjisi, yüksek bilinç ve kozmik düzenin temel ilkesi olarak okunur; Hindu geleneğindeki Sūrya figürü de ışık ve yaşam verici ilke ile benzer bir sembolik hatta yer alır.",
+  "psychology": "Rüya içerik analizleri, güneş gibi imgelerin tek başına sabit bir kehanet aracı olmadığını; rüya metnindeki diğer içerik örüntüleri ve rüyanın duygusal tonu ile birlikte değerlendirilmesi gerektiğini vurgular. Psikanalitik geleneğe göre ise güneş, öznenin baba figürü ve otorite ile kurduğu duygulanımsal bağların psişik odaklarından biri olarak okunabilir.",
+  "jungian": "Jungcu analitik psikolojide güneş, libido, ruhsal yaratıcı güç, tanrısal imge ve Benlik ile ilişkilendirilen merkezi bir simgedir. Rüya bağlamında güneş imgeleri bireyleşme, bilinç ile bilinçdışının entegrasyonu ve psikolojik bütünleşme süreçlerine işaret edebilir; bu okumalar bağlama ve rüya sahibinin psikolojik örüntülerine göre dikkatle değerlendirilmelidir.",
+  "islamicTradition": "Klasik İslami rüya tabirinde güneş sıklıkla hükümdar, devlet reisi, baba veya toplumda güçlü konumda bir kişi ile ilişkilendirilir. Güneşin parlaklığı genellikle güç ve hayra işaret eder; kararması veya tutulması ise otoritede sarsılma, sınanma veya düşüşe işaret edebilir (modern aktarımlar çerçevesinde).",
+  "christianTraditions": "Hristiyan sembolik geleneğinde güneş, Tanrı’nın görkemi, Mesih’in ışığı ve doğrulukla ilişkilendirilebilir; rüyalarda güneşli bir gökyüzü, ilahi varlığın hissedilmesi, ruhsal canlılık ve lütuf temalarına işaret edebilir.",
+  "jewishTraditions": "Yosef’in rüyasındaki 'güneş, ay ve on bir yıldız' anlatısı, güneşin Yahudi rüya geleneğinde aile içi otorite ve ebeveyn figürleriyle bağlantılı okunabileceğini gösterir. Rabbanî çerçevede rüya imgeleri birbirleriyle kurdukları ilişkiler üzerinden değerlendirilir; güneş de bu ilişkisellik içinde anlam kazanır.",
+  "buddhistEasternApproaches": "Bazı Budist metin ve biyografilerde güneş, kozmik merkez, aydınlanma ve Dharma’nın ışıltısıyla ilişkilendirilir; rüyalarda güneş-benzeri ışık imgeleri öğretinin yol göstericiliği ve aydınlanma çağrışımı verebilir.",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda güneş genellikle bilinç, içsel merkez, altın ve dönüşümle bağdaştırılır. Parlak güneş içsel açıklığı ve ruhsal uyanışı simgeler; kararmış ya da 'kara güneş' simgesi ise simyasal çözülme ve dönüşüm evrelerini çağrıştırabilir.",
   "comparisonTable": [
     {
       "approach": "Psikanaliz",
-      "interpretation": "Temel arzu, canlılık, içsel itkiler ve baba ya da otorite figürü.",
+      "interpretation": "Baba imgesi, otorite ve bastırılmış duygulanımsal bağların yansıması.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Psikoloji",
-      "interpretation": "Bilinç, aydınlanma, benlik (Self) ve bütünlenme yönelimi.",
+      "approach": "Jungcu Analiz",
+      "interpretation": "Libido, yaratıcı psişik enerji, Benlik ve psikolojik bütünleşme.",
       "evidenceLevel": "theoretical"
     },
     {
       "approach": "İslami Gelenek",
-      "interpretation": "Otorite, hükümdar, baba figürü, hakikat ve yaşam döngüsü.",
+      "interpretation": "Hükümdar, devlet reisi, baba figürü, liderlik ve toplumsal nüfuz.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Spiritüel Yaklaşım",
-      "interpretation": "Kozmik düzen, enerji, yaşam verici ilke ve yüksek bilinç.",
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Tanrı'nın görkemi, Mesih'in ışığı, ilahi rehberlik ve lütuf.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Ailevi hiyerarşi, ebeveyn otoritesi ve ilişkisel düzen.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Kozmik merkez, aydınlanma ve Dharma'nın yol gösterici ışıltısı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Simyasal Okuma",
+      "interpretation": "Bilinç, altın, eril ilke, içsel merkez ve dönüşüm.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenek ve disiplinler, güneşin merkezî konumu üzerinde uzlaşarak onu ışık, yaşam veren güç, düzen ve otorite gibi temel kavramlarla ilişkilendirir.",
-  "differences": "Yaklaşımlar arasındaki temel ayrım; psikanalitik teorinin güneşi içsel dürtüler ve otorite ile konumlandırması, Jungcu çerçevenin onu bütünleşme arketipi olarak görmesi, dini geleneklerin ise ilahi nizam, hükümdar veya yaratılış ekseninde yorumlamasıdır.",
-  "inusAssessment": "Güneş sembolü, somut tek bir geleceğin habercisi olmaktan öte, rüya sahibinin içsel farkındalığı, otoriteyle kurduğu ilişki ve yaşamındaki enerji akışını yansıtan çok katmanlı bir aynadır. Rüyadaki bağlamın (doğuş, batış, parlaklık veya gölge) titizlikle değerlendirilmesi gerekir.",
-  "faq": [
-    {
-      "question": "Rüyada güneş görmek her zaman olumlu bir anlam mı taşır?",
-      "answer": "Geleneksel ve psikolojik okumalarda güneş genellikle aydınlanma ve canlılıkla ilişkilendirilse de, aşırı parlaklık veya batan güneş gibi bağlamlar baskı, gerileme veya kontrol kaybı gibi zorlayıcı temaları da barındırabilir."
-    },
-    {
-      "question": "Jungcu psikolojide güneş rüyaları neyi ifade eder?",
-      "answer": "Jungcu perspektifte güneş, bireyin bilinç düzeyine çıkma çabasını, benlik (Self) bütünleşmesini ve içsel merkezini bulma yönelimini simgeler."
-    }
-  ],
+  "commonGround": "Çeşitli ekoller, güneş sembolünde merkezlenme, aydınlanma, yaşamsal enerji ve güçlü otorite vurgularında kesişir; farklı gelenekler bu ortak temayı kendi kültürel ve teorik çerçevelerine göre yorumlar.",
+  "differences": "Psikanalitik okumalar güneşi daha çok bireysel otorite ve baba figürü üzerinden değerlendirirken, Jungcu ve ezoterik yaklaşım güneşi kolektif Benlik ve dönüşüm arketipi olarak ele alır; dinî geleneklerdeyse güneş ilahi lütuf, kozmik düzen veya toplumsal liderlikle ilişkilendirilir.",
+  "inusAssessment": "Güneş rüyalarını yorumlarken en belirleyici unsur, ışığın niteliği (parlaklık, örtülme, hareket) ile rüyanın uyandırdığı duygusal ton ve rüya içindeki diğer imgelerin örgüsüdür. Parlak ve sıcak bir güneş zihinsel netlik ve enerji artışına işaret eder; kararmış, tutulmuş veya engellenmiş bir güneş ise genellikle otoriteyle ilişkili sınamalar, güç kaybı ya da içsel dönüşüm süreçlerine işaret eder. Bu yüzden güneş sembolü sabit bir anlam değil, rüya sahibinin ilişkisel ve içsel dünyasındaki dinamikleri yansıtan bir ayna olarak okunmalıdır.",
+  "faq": [],
   "sources": [
     {
-      "title": "Sun in a Dream: Freud, Jung, Myth and Modern Meaning",
-      "relevance": "Güneş sembolünün Freudcu ve Jungcu yorumlarını birlikte ele alan çevrimiçi derleme; aynı zamanda kültürel ve modern psikolojik çağrışımları özetler.",
-      "url": "https://rosmertapublishing.com/dream-symbols/sun/"
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Rüya içerik analizinin nasıl yapıldığını ve imgelerin bağlam içinde nasıl örüntülenip karşılaştırıldığını açıklayarak, güneşin tekil bir sabit anlamdan ziyade içerik örüntüsünün parçası olarak değerlendirilmesi gerektiğini gösterir.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
     },
     {
-      "title": "Sun Dreams: Meaning & Psychological Interpretation",
-      "relevance": "Güneş sembolünün Jungcu bilinç, Self ve bütünlenme temalarıyla ilişkisini anlatan çevrimiçi yorum yazısı.",
-      "url": "https://somniscient.com/en/symbols/sun"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüya kuramı, rüyaların bastırılmış isteğin dolaylı ifadeleri olarak okunabileceğini öne sürer; güneş için doğrudan tek anlam vermese de psikanalitik sembol okumasının çerçevesini sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "DE SÍMBOLO MÍTICO A PARADIGMA CIENTÍFICO",
-      "relevance": "Güneşin tarihsel düşünce, kozmoloji ve sembolik temsil içindeki yerini tartışan akademik içerik.",
-      "url": "https://dialnet.unirioja.es/descarga/articulo/10385328.pdf"
+      "title": "Freud, Psychoanalysis, and Symbolism",
+      "relevance": "Freudçuluğa atıf yapan metinler içerisinde güneşin bazen baba ve otorite çağrışımıyla anıldığına dair ikincil tartışmaları içermektedir.",
+      "url": "https://www.ndl.ethernet.edu.et/bitstream/123456789/45242/1/268.pdf"
     },
     {
-      "title": "The Sun Archetype - Daniele Cardelli",
-      "relevance": "Güneş arketipini Jungcu farkındalık ve canlılık ekseninde yorumlayan kısa teorik metin.",
-      "url": "https://www.cgjung.it/old/The_Sun_Archetype.doc"
+      "title": "Sigmund Freud: Psychoanalytische Bemerkungen über einen ...",
+      "relevance": "Freud’un güneş ile baba sembolü ilişkisine dair kısa atıfın çevrimiçi metin içinde görülebildiği sayfa.",
+      "url": "https://www.projekt-gutenberg.org/freud/paranoia/chap005.html"
     },
     {
-      "title": "Sun Dream Meaning: Vitality, Clarity & Purpose - Dream Interpretation",
-      "relevance": "Güneşi arzu, canlılık ve psişik enerjiyle ilişkilendiren psikanalitik içerikli çevrimiçi kaynak.",
-      "url": "https://www.interpretdreams.io/dream-dictionary/sun/"
+      "title": "Volume 5: Symbols of Transformation",
+      "relevance": "Jungcu literatürde güneş, libido, tanrısal imge ve dönüşümle bağlantılı bir sembol olarak ele alınır; bu kaynak Jungcu güneş sembolizminin temel fikirlerine işaret eder.",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-5-symbols-transformation/"
     },
     {
-      "title": "Dreams in Islam · Ta'bir al-Ru'ya, Etiquette, Symbols and ...",
-      "relevance": "Güneşin klasik İslami rüya tabirinde hükümdar, baba ve hakikatle ilişkilendirildiğini özetleyen çevrimiçi derleme.",
-      "url": "https://qaari.org/dreams"
+      "title": "Symbols of Transformation, Collected Works Vol. 5 - About Psyche",
+      "relevance": "Güneşin libido, tanrısal imge ve dönüşümle bağlantısını içeren pasajlara atıf yapar; güneş sembolünün Jungcu anlam alanını destekler.",
+      "url": "https://www.aboutpsyche.com/collected_works/cw5"
     },
     {
-      "title": "Dream of Seeing Sun - Islamic Dream Interpretation",
-      "relevance": "Güneşin İslami sembolizmde otorite, liderlik ve ilahî işaretlerle ilişkilendirilmesini anlatan çevrimiçi derleme.",
-      "url": "https://muslimdreammeaning.com/symbols.php?symbol=sun"
+      "title": "Collected Works of C.G. Jung. Volume 12 Collected Works of C. G. Jung, Volume 12: Psychology and Alchemy [Course Book ed.] 9781400850877 - DOKUMEN.PUB",
+      "relevance": "Güneşi yaşam kaynağı ve insan bütünlüğüyle ilişkilendirir; simyasal dönüşüm ve 'solificatio' bağlamına dair pasajlar içerir.",
+      "url": "https://dokumen.pub/collected-works-of-cg-jung-volume-12-collected-works-of-c-g-jung-volume-12-psychology-and-alchemy-course-booknbsped-9781400850877.html"
     },
     {
-      "title": "The Sun in the Talmud.",
-      "relevance": "Talmudik bağlamda güneşin sembolik ve metinsel kullanımını özetleyen rabbanî kaynak sayfası.",
-      "url": "https://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=3706&context=ocj"
+      "title": "The Collected Works of C.G. Jung: Volume 13: Alchemical Studies",
+      "relevance": "Simyasal gelenekte güneşin altınla ve olgunlaşma süreçleriyle bağdaştırılmasına dair Jungcu incelemeleri içerir; güneşin simyasal anlam katmanlarına dair kaynak sağlar.",
+      "url": "https://www.jungiananalysts.org.uk/wp-content/uploads/2018/07/C.-G.-Jung-Collected-Works-Volume-13_-Alchemical-Studies.pdf"
     },
     {
-      "title": "Christian solar symbolism and Jesus the Sun of justice",
-      "relevance": "Hristiyan güneş sembolizminin İncil’deki ışık motifleriyle ve erken kilise yorumuyla ilişkisini açıklayan akademik kayıt.",
-      "url": "https://ixtheo.de/Record/1767217250"
+      "title": "Astrology, Archetypes, the Sun and the Self",
+      "relevance": "Jung'un güneş ve Self bağlantısını alıntılayan ve güneşin döngüsel dönüşüm ile yeniden doğuş temasını açan bir Jungcu yorum metni sunar.",
+      "url": "https://www.astro.com/astrology/in_bh_jungmysticism_e.htm?nhor=1&nho2=2"
     },
     {
-      "title": "Dream Of The Sun Meaning & Definition | Slough Islamic Dictionary | The Slough Islamic Trust - Jamia Ghousia Masjid & Islamic Centre",
-      "relevance": "Güneşle ilişkili bir peygamber rüyasını İslam’ın yayılışıyla bağlantılandıran çevrimiçi dinî açıklama.",
-      "url": "https://www.sloughislamictrust.org.uk/dictionary/meaning/dream-symbol-sun/"
+      "title": "Artemidorus on Dreams - translation - Attalus.org",
+      "relevance": "Artemidorus’un Oneirocritica çevirisi, antik oneirokritikte güneşin konumu, parlaklığı ve örtülme durumuna göre farklı yorumlandığını göstererek tarihsel bağlam sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "Vairocana - Wikipedia",
-      "relevance": "Mahayana ve Vajrayana Budizminde Vairocana’nın güneşle ilişkisini ve “Great Sun” adlandırmasını verir.",
-      "url": "https://en.wikipedia.org/wiki/Vairocana"
+      "title": "Artemidorus | Dream Interpreter, Oracle & Seer - Britannica",
+      "relevance": "Artemidorus’un yaşamı ve *Oneirocritica*’nın antik rüya yorum geleneğindeki yerini özetler; güneş sembolünü tarihsel bağlamına yerleştirmek için yararlıdır.",
+      "url": "https://www.britannica.com/biography/Artemidorus-Ephesian-soothsayer"
     },
     {
-      "title": "The Sun in Stone—Early Anthropomorphic Imagery of Sūrya in North India",
-      "relevance": "Erken Kuzey Hindistan’da Sūrya’nın ışık, düzen ve zaman döngüsüyle bağlantısını ele alır.",
-      "url": "https://link.springer.com/article/10.1007/s00048-020-00265-5"
+      "title": "Allegorical Dreams in Antiquity Their Character and ...",
+      "relevance": "Antik dönem rüya okumalarında güneş imgelerinin iktidar, süre ve hükümranlık çağrışımlarıyla nasıl ilişkilendirildiğini tartışır.",
+      "url": "https://www.austriaca.at/0xc1aa5572%200x00369746.pdf"
+    },
+    {
+      "title": "Dreaming about the sun — meaning in three traditions",
+      "relevance": "Modern bir özet olarak İslami oneirological aktarımlarda güneşin baba, sultan veya güçlü figürlerle ilişkilendirildiğini bildirir; klasik atıfların modern aktarımı olarak okunmalıdır.",
+      "url": "https://www.nocturnary.com/symbols/sun"
+    },
+    {
+      "title": "The sun in a dream | The Islamic Dream Book",
+      "relevance": "Güneşin İbn Sîrîn ve el-Nablusî çizgisinde hükümdarlık ve baba sembolizmiyle ilişkilendirildiğini aktaran modern bir İslami özet.",
+      "url": "https://theislamicdreambook.com/the-sun-in-a-dream/"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Derleme, İslami rüya geleneğinde güneşin devlet reisi, ana-baba, altın veya servet gibi çeşitli anlam alanlarında kullanıldığını aktaran örnek maddeler içerir.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "تفسير رؤية الشمس في المنام ورمز أشعة الشمس في الحلم",
+      "relevance": "Şems sembolünün İbn Sîrîn, el-Nablusî ve İbn Şâhin çizgisindeki çoklu anlamlarını Arapça olarak özetleyen modern bir makale.",
+      "url": "https://www.hellooha.com/articles/2461-%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D9%88%D8%B1%D9%85%D8%B2-%D8%A3%D8%B4%D8%B9%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D9%84%D9%85"
+    },
+    {
+      "title": "Interpretation of Dreams - Inter-Islam",
+      "relevance": "Güneş için kalifelik, hükümdarlık, liderlik, eş ve toplumsal fayda gibi anlamlar veren geleneksel bir aktarım metni.",
+      "url": "http://www.inter-islam.org/faith/dreams899.htm"
+    },
+    {
+      "title": "Biblical Meaning of the Sun in a Dream (KJV) | Bible Sundays",
+      "relevance": "Hristiyan gelenekte güneşin Tanrı'nın görkemi ve Mesih'in ışığı ile ilişkilendirildiğini özetleyen çağdaş bir yorum kaynağıdır; rüya bağlamında ilahi rehberlik çerçevesi sunar.",
+      "url": "https://www.biblesundays.com/dream-meanings/sun"
+    },
+    {
+      "title": "Dream symbols: Sun, wind, rain, storms, and other types of ...",
+      "relevance": "Güneşli havanın Tanrı’nın varlığı, açık gök ve ilahî erişimle ilişkilendirilmesini verir; rüya bağlamında güneş sembolünün Hristiyan yorumunu destekler.",
+      "url": "https://heavensdreammessages.com/dream-symbols-weather-sun-wind-rain-storms/"
+    },
+    {
+      "title": "He Said",
+      "relevance": "Yosef’in rüyasındaki güneş örneği aracılığıyla Yahudi geleneğinde güneşin aile içi otoriteyi sembolize edebileceğini gösteren temel anlatıyı sağlar.",
+      "url": "https://biblehub.com/genesis/37-9.htm"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Talmud'da rüyaların yorumuna dair rabbanî çerçeveyi gösteren pasajlara işaret ederek Yahudi rüya yorum geleneğinin temel bağlamını sunar.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Joseph Dreams that the Sun, Moon and Stars Bow to Him",
+      "relevance": "Yosef’in rüyasındaki güneşin aile ve otorite sembolizmini tartışan yazı.",
+      "url": "https://www.thetorah.com/article/joseph-dreams-that-the-sun-moon-and-stars-bow-to-him-does-it-come-true"
+    },
+    {
+      "title": "Sun - Jewish Virtual Library",
+      "relevance": "Yosef’in rüyasında güneşin anne-babayı temsil ettiğini özetleyen başvuru maddesi.",
+      "url": "https://jewishvirtuallibrary.org/sun"
+    },
+    {
+      "title": "Significance of Dreams",
+      "relevance": "Rabbanî yorum geleneğinde rüyaların sembolik çözümleme ile ele alındığını gösteren not.",
+      "url": "https://www.sefaria.org/sheets/21971"
+    },
+    {
+      "title": "9781501718960_WEB.pdf",
+      "relevance": "Budist ve Brahmanik geleneklerde güneşin kozmik merkez ve en yüksek ilkeyle ilişkilendirilmesine dair tartışmalar içeren çalışmalardan biridir.",
+      "url": "https://api.pageplace.de/preview/DT0400.9781501718960_A33842579/preview-9781501718960_A33842579.pdf"
+    },
+    {
+      "title": "(PDF) Solar Symbolism in Early Buddhist Literature - Academia.edu",
+      "relevance": "Erken Budist metinlerde Buddha’nın güneşle ilişkilendirilen unvanlarını ve güneş sembolizmini örnekler.",
+      "url": "https://www.academia.edu/31272092/Solar_Symbolism_in_Early_Buddhist_Literature"
+    },
+    {
+      "title": "Dreaming in the Lotus 0861711580 - DOKUMEN.PUB",
+      "relevance": "Budist biyografik ve tantrik rüya anlatılarında güneşin Buddha ya da Buddhism’i temsil edebildiğini açıklar.",
+      "url": "https://dokumen.pub/dreaming-in-the-lotus-0861711580.html"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist bir rüya yaklaşımı içinde güneş ve ayın rüya imgeleri arasında geçtiğini gösterir.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Sutra of Golden Light - Study Buddhism",
+      "relevance": "Bir Budist sutra geleneğinde, güneş gibi ışık saçan rüya imgesinin Dharma’nın aydınlatıcı gücüyle ilişkilendirildiğini aktarır.",
+      "url": "https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/sutra-of-golden-light"
+    },
+    {
+      "title": "Sun in Dreams, Somniary Dream Encyclopedia",
+      "relevance": "Ezoterik/sözlük türü bir kaynak olarak güneşin rüyalarda bilinç, ego ışığı ve simyasal anlamlarla ilişkilendirildiğini özetler; modern interpretatif perspektif sunar.",
+      "url": "https://somniary.com/dream-library/symbols/sun"
+    },
+    {
+      "title": "Dreaming of The Sun",
+      "relevance": "Güneş rüyasını simyasal Great Work ve yaşam/güç/öz ile ilişkilendiren modern bir yorum sunuyor.",
+      "url": "https://www.dreamdictionary.org/meaning/dreaming-of-the-sun/"
+    },
+    {
+      "title": "The sun, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Güneşi sıcaklık, bilinç, ruhsal aydınlanma ve ilahî/güneşsel sembolizm üzerinden ele alıyor.",
+      "url": "http://www.dreamtation.com/docs/8580.htm"
+    },
+    {
+      "title": "Sun in dreams — meaning and symbolism",
+      "relevance": "Güneşi ezoterik bilinç, yaratıcı güç ve içsel yolun aydınlanmasıyla ilişkilendiriyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/sun"
+    },
+    {
+      "title": "Large Black Sun Dream Meaning & Interpretation",
+      "relevance": "Kara güneş ve Sol Niger üzerinden simyasal kararma, ego çözülmesi ve dönüşüm temalarını sunuyor.",
+      "url": "https://mirrorwithin.com/dream-dictionary/large-black-sun/"
+    },
+    {
+      "title": "Suns in alchemy - Wikipedia",
+      "relevance": "Simya literatüründe güneşin altın, krallık ve erkekil/ateşsel ilke ile bağlantılarına dair genel bir özet sağlar; simyasal okumalar için giriş niteliğindedir.",
+      "url": "https://en.wikipedia.org/wiki/Suns_in_alchemy"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
 }

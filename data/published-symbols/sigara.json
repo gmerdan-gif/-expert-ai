@@ -1,0 +1,219 @@
+{
+  "slug": "sigara",
+  "title": "Sigara",
+  "shortDescription": "Rüyada sigara görmek genellikle alışkanlıklar, tekrarlayan döngüler ve gerilimi kısa süreliğine azaltma isteğiyle ilişkilendirilir. Bırakma veya yoksunluk döneminde görülen sigara rüyaları kaygı, suçluluk ya da yeniden başlama korkusunu yansıtabilir; başkasının dumanından rahatsız olmak ise rahatsız eden bir durumdan uzaklaşma ihtiyacını gösterebilir.",
+  "positiveAssociations": [
+    "İçsel bir molanın veya durup dinlenme ihtiyacının fark edilmesi",
+    "Stresli bir durum karşısında geçici de olsa rahatlama sağlama isteği",
+    "Kişisel bir ritüelin veya alışkanlığın yarattığı tanıdıklık duygusu"
+  ],
+  "challengingAssociations": [
+    "Nikotin yoksunluğu dönemlerinde ortaya çıkan kaygı, suçluluk ve panik",
+    "Zararlı döngülere veya bağımlılıklara karşı duyulan içsel direnç",
+    "Manevi veya ahlaki düzlemde kişiyi yoldan çıkaran arzuların baskısı"
+  ],
+  "contextDependentAssociations": [
+    "Rüyayı gören kişinin uyanık yaşamda sigara kullanıp kullanmadığı",
+    "Rüyada sigaranın bizzat içilip içilmediği veya başkasının içmesinden rahatsız olunup olunmadığı.",
+    "Dumanın yarattığı boğucu veya ferahlatıcı atmosfer"
+  ],
+  "commonVariations": [
+    {
+      "title": "Bırakma Döneminde Sigara İçmek",
+      "description": "Sigarayı bırakma sürecindeki kişilerin rüyalarında yeniden sigara içtiğini görmesi ve buna anlık bir suçluluk veya pişmanlık duygusunun eşlik etmesi."
+    },
+    {
+      "title": "Başkasının Sigara Dumanından Rahatsız Olmak",
+      "description": "Sigara kullanmayan bir kişinin rüyasında etrafındaki birinin sigara içmesinden ve yayılan dumandan rahatsızlık duyarak uzaklaşmaya çalışması."
+    },
+    {
+      "title": "Stres Anında Sigara Yakmak",
+      "description": "Yoğun bir gerilim veya koşturmaca ortasında durup bir sigara yakarak sakinleşmeye ve gerginliği düşürmeye çalışmak."
+    },
+    {
+      "title": "Yarım Kalmış veya Sönmüş Sigara",
+      "description": "Elinde tutulan sigaranın sürekli sönmesi, bitmemesi veya yakılamaması nedeniyle arzulanan tatminin bir türlü elde edilememesi."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar, sigara rüyalarının özellikle sigara içenlerde bırakma veya yoksunluk dönemlerinde arttığını ve bu rüyaların sıklıkla korku, suçluluk ve panik gibi olumsuz duygularla tetiklendiğini göstermektedir. Ayrıca deri yoluyla uygulanan nikotinin (ör. nikotin bantları) uyku mimarisini ve REM uykusundaki görsel içeriğin yoğunluğunu artırabildiği bilinmektedir. Öte yandan, sigara içmeyen bireylerin rüyalarında bu temanın nadiren yer aldığı ve genellikle başka birinin içmesinden duyulan rahatsızlık hissiyle ortaya çıktığı gözlemlenmiştir.",
+  "jungian": "Analitik psikoloji çerçevesinde sigara ve duman imgesi, bilinçdışı ile temas, gölge benlikle yüzleşme ve bastırılmış dürtülerin görünür hale gelmesi ekseninde ele alınır. Tütünü doldurma, sıkıştırma ve yakma eylemlerinden oluşan ritüel zinciri, bireyin yaşamındaki geçişleri, tekrar eden alışkanlıkları ve psişik enerjinin yönünü simgeleyen bir ritüel dizisi olarak okunabilir.",
+  "islamicTradition": "Klasik İslami rüya yorumlarında modern \"sigara\" nesnesi için doğrudan doğrulanmış bir rüya yorumu bulunmamaktadır (oneirokritik: rüya yorumu). Bununla birlikte, aynı geleneksel derlemelerde yer alan ağızlık ve tütün kullanımı gibi yakın unsurlar, bireyin verdiği mücadeleler veya geçici menfaatler bağlamında ikincil yorum çizgileri barındırır.",
+  "christianTraditions": "Çağdaş Hristiyan yorum geleneklerinde sigara teması çoğunlukla bağımlılık, bedensel zarar, kirlenme veya tövbe ihtiyacı gibi ahlaki ve ruhsal eksenlerle ilişkilendirilir. Bu yaklaşım, kesin bir rüya kanunundan ziyade, bireyin ruhsal bütünlüğünü zedeleyen unsurlara karşı dikkatli olması gerektiğine dair bağlamsal bir uyarı sunar.",
+  "jewishTraditions": "Yahudi halakhik ve ahlaki kaynaklarda doğrudan sigara rüyası için sabit bir tanım yer almasa da, dumanın kurban, vahiy, örtülme ve eşik sembolizmi üzerinden değerlendirildiği görülür. Rüyada sigara içme pratiği, dinî ve ahlaki sınırlar, zamanlama bilinci ve eylemlerin sonuçlarıyla yüzleşme temaları etrafında şekillenen bir uyarı çerçevesinde ele alınır.",
+  "buddhistEasternApproaches": "Budist ve Doğu geleneklerinde tütün ve sigara, zihinsel bağlanmayı (tanhā — Pali/Sanskritçe: arzu/bağlanma) ve geçici haz döngüsünü besleyen, dolayısıyla aydınlanma veya özgürleşme yolunda engel teşkil eden unsurlar olarak değerlendirilir. Rüyadaki sigara imgesi bu bağlamda, kişinin uyanık yaşamdaki bağımlılık eğilimlerine, arzularına ve zihinsel takıntılarına dair uyarıcı bir işaret kabul edilir.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel okumalarda sigara, nefes ve duman aracılığıyla içsel baskının boşaltılması, ağırlaşmış enerjinin dağılması veya kısa süreli bir teselli arayışı olarak yorumlanır. Dumanın yükselişi aynı zamanda bilinçli algının ötesine geçme isteğini ve geçici haz ile kontrol arasındaki hassas dengeyi temsil edebilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Yoksunluk dönemlerinde artan kaygı, suçluluk ve canlı rüya imgelemeleriyle ilişkili bir içerik.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Oral haz, gerilim düzenleme ve ikame doyum ekseninde beden ve kaygı ile kurulan bağ.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Gölge benlikle karşılaşma, bastırılmış dürtüler ve kişisel ritüel döngüleri.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel Dini Yaklaşımlar",
+      "interpretation": "Mücadele, geçici menfaatler, ahlaki sınırlar ve alışkanlıklar bağlamında yapılan ikincil okumalar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Enerji dağılımı, geçici teselli, nefes yoluyla rahatlama ve arzu döngüsü.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve yaklaşımlar, sigara rüyasının ardında yatan temel ortak paydanın 'alışkanlık', 'tekrarlayan döngüler' ve 'anlık bir rahatlama veya gerilim giderme çabası' olduğu konusunda birleşmektedir.",
+  "differences": "Bilimsel psikoloji sigara rüyalarını yoksunluk ve fizyolojik uyku değişiklikleriyle açıklarken; psikanalitik ve Jungcu yaklaşımlar içsel dürtüler ile gölge entegrasyonuna odaklanır. Dini ve spiritüel gelenekler ise bu sembolü çoğunlukla ahlaki engeller, bağımlılık döngüleri veya manevi uyanıklık ihtiyacı çerçevesinde yorumlar.",
+  "inusAssessment": "Sigara sembolü, rüya dünyasında sabit ve tektipli bir anlam taşımaktan ziyade, kişinin uyanık yaşamındaki alışkanlıklarıyla ve özellikle bırakma ya da yoksunluk süreçleriyle doğrudan bağlantılıdır. Rüyada sigara içildiğini görmek ile başkasının dumanından rahatsız olmak arasında köklü bir psikolojik ayrım bulunur; birincisi içsel gerilimleri ve haz arayışlarını tetiklerken, ikincisi dışsal sınırlara ve rahatsızlık duyulan durumlara işaret eder. Dolayısıyla bu sembolü değerlendirirken rüya sahibinin sigarayla olan gerçek hayattaki ilişkisi ve rüyadaki duygusal ton en belirleyici kılavuzlardır.",
+  "faq": [
+    {
+      "question": "Sigarayı bıraktıktan sonra sürekli sigara rüyası görmek normal midir?",
+      "answer": "Evet, ampirik çalışmalar sigarayı bırakma ve yoksunluk dönemlerinde bu tür rüyaların sıklıkla arttığını ve genellikle suçluluk veya korku gibi duygularla birlikte görüldüğünü doğrulamaktadır."
+    },
+    {
+      "question": "Sigara kullanmadığım halde rüyamda sigara içtiğimi görmek ne anlama gelir?",
+      "answer": "Sigara kullanmayan bireylerde bu tema genellikle uyanık yaşamda maruz kalınan rahatsız edici durumların, geçici bir kaçış arayışının veya başka birinin alışkanlıklarından duyulan rahatsızlığın yansıması olarak ortaya çıkabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream of absent-minded transgression: an empirical study ...",
+      "relevance": "Sigara içmeye ilişkin rüyaların bırakma/yoksunluk dönemiyle ilişkisini ve bu rüyaların eşlik ettiği duygusal tonu ele alır.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1757662/"
+    },
+    {
+      "title": "The effect of transdermal nicotine patches on sleep and dreams",
+      "relevance": "Nikotin bantlarının uyku ve rüya özelliklerini nasıl değiştirebildiğini inceler; rüya canlılığı ve görsel imgeleme boyutlarına dair veriler sağlar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16782142/"
+    },
+    {
+      "title": "Dream content in cigarette smokers",
+      "relevance": "Günlük rüya raporlarında sigara imgelerinin sıklığını ve sigara içenler ile içmeyenler arasındaki farkı inceler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/83871"
+    },
+    {
+      "title": "Smoking dreams in the dream series of a non-smoker",
+      "relevance": "Sigara temasının uzun bir rüya serisinde nasıl göründüğünü, özellikle başka kişilerin sigara içmesi ve buna verilen tepki üzerinden inceler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/12059"
+    },
+    {
+      "title": "Sigmund Freud: The Unconscious, the Couch, and the 20 Cigars ...",
+      "relevance": "Freud'un yaşamında puro kullanımının biyografik bağlamını gösteren kaynak.",
+      "url": "https://scihub101.com/scientists/sigmund-freud"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüya kuramının genel ilkelerini ve istek doyumu çerçevesini özetleyen kaynak.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud's Irma Dream, the Origin of Psychoanalysis, and a ...",
+      "relevance": "Irma Rüyası üzerinden Freud'un sigara alışkanlığı, beden kaygısı ve rüya düşüncesi arasındaki bağı tartışan akademik inceleme.",
+      "url": "https://mindconsiliums.org/pub/2014/09/2014-09-Schwartz-Jack-freuds-irma-dream-origin-of-psychoanalysis-and-a-bloody-nose.pdf"
+    },
+    {
+      "title": "Freud and his Cigars - London",
+      "relevance": "Freud'un sigara alışkanlığını ve bunun çalışma yaşamındaki yerini anlatan kurumsal kaynak.",
+      "url": "https://www.freud.org.uk/2020/04/22/freud-and-his-cigars/"
+    },
+    {
+      "title": "Cigarette Dream Meaning & Interpretation - Mirror",
+      "relevance": "Sigara rüyasını gölge benlik, bastırılmış eğilimler ve kişiliğin kabul edilmeyen yönleriyle bağlantılandırıyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/cigarette/"
+    },
+    {
+      "title": "Tobacco in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Tütün içme ritüelinin Jungcu yorumunda doldurma, sıkıştırma ve yakma sırasının sembolik önemini vurguluyor.",
+      "url": "https://rosmertapublishing.com/dream-symbols/tobacco/"
+    },
+    {
+      "title": "Smoking Dream Meaning & Interpretation - Mirror",
+      "relevance": "Sigara içme eylemini gölge, bastırılmış dürtüler ve kişisel özgürleşme temalarıyla ilişkilendiriyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/smoking/"
+    },
+    {
+      "title": "Tobacco Dream Meaning & Interpretation - Mirror",
+      "relevance": "Tütün ve dumanı yükseliş, aracı imge ve bilinçdışıyla temas bağlamında yorumluyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/tobacco/"
+    },
+    {
+      "title": "The Gods",
+      "relevance": "Rüya isteme ritüellerinde duman ve tütsü kullanımının klasik rüya yorumculuğu bağlamındaki yerini açıklar.",
+      "url": "https://academic.oup.com/book/40085/chapter/341038245?guestAccessKey="
+    },
+    {
+      "title": "Tobacco Dreams",
+      "relevance": "Tütünün yerli Kuzey Amerika ritüellerindeki kutsal kullanımını anlatan sayfa.",
+      "url": "https://www.psychologistworld.com/dreams/dictionary/tobacco"
+    },
+    {
+      "title": "Ayahuasca Makes you See, and Tobacco Makes You Dream",
+      "relevance": "Tütünün Amazonya’da rüyayı güçlendirme ve tören kullanımıyla ilişkisini tartışan etnografik metin.",
+      "url": "https://chacruna.net/ayahuasca-tobacco-visions-dreams/"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Sigara ağızlığı ve tütün içme üzerine geleneksel derleme içinde kısa bir madde sunuyor.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Sen o paleniu: Biblijna interpretacja snów",
+      "relevance": "Sigara rüyasını doğrudan ele alan modern Hristiyan yorum metni; sigara rüyaları için günah, bağımlılık ve ruhsal kirlilik gibi temaları açıkça ilişkilendiriyor.",
+      "url": "https://christianpure.com/pl/learn/bible-smoking-dreams/"
+    },
+    {
+      "title": "Smoking and Halacha",
+      "relevance": "Sigara içmeyle ilgili bir rüya anlatısını ve onun dinî-ahlaki uyarı çerçevesini aktarır; sigara temasının Yahudi halakhik söylemde nasıl geçtiğini gösterir.",
+      "url": "https://ohr.edu/this_week/insights_into_halacha/5717"
+    },
+    {
+      "title": "Tobacco: ‘the guide that leads the blind on a false path which ends in a precipice’",
+      "relevance": "Tibet Budist geleneğinde tütünün manevi zarar ve uygulamaya engel olarak anlatıldığı kısa derleme sayfası.",
+      "url": "https://welcomingbuddhist.org/archives/294"
+    },
+    {
+      "title": "Smoking - Buddhism Toronto",
+      "relevance": "Sigarayı Budist didaktik dilde özgürleşmeye/kurtuluşa engel ve kötü alametlerle ilişkilendiren kısa derleme sayfası.",
+      "url": "https://www.buddhismtoronto.com/intro-1.6.php"
+    },
+    {
+      "title": "Cigarette in dreams — meaning and symbolism",
+      "relevance": "Sigara rüyasını ezoterik okumada enerji, aura ve tükenme temalarıyla ilişkilendiren bir güncel yorum metni.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/cigarette"
+    },
+    {
+      "title": "Cigarette - Dream Symbol Meaning and Interpretation",
+      "relevance": "Sigara ve puro imgelerini arzu, haz, kontrol ve geçicilik ekseninde ele alan modern sembolik yorum.",
+      "url": "https://dreams.guide/dream-symbols/cigarette"
+    },
+    {
+      "title": "Cigarette, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Sigaranın birden çok anlamını bağımlılık, haz, ilham ve ruhsal gevşeme temalarıyla birleştiren çevrimiçi yorum.",
+      "url": "http://www.dreamtation.com/docs/7616.htm"
+    },
+    {
+      "title": "Tobacco, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Tütün rüyasını ruhsal düzeyde vizyonlara götüren bir araç olarak okuyan esoterik yorum.",
+      "url": "http://www.dreamtation.com/docs/6105.htm"
+    },
+    {
+      "title": "Smoking Tobacco in dreams — meaning and symbolism",
+      "relevance": "Sigara ve tütün dumanını temizlenme, ağır enerjinin dağılması ve geçici rahatlama ile ilişkilendiren ezoterik yaklaşım.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/smoking-tobacco"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "historical-cultural",
+    "christian",
+    "buddhist-eastern"
+  ]
+}

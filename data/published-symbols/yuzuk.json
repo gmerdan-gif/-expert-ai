@@ -1,114 +1,208 @@
 {
   "slug": "yuzuk",
   "title": "yüzük",
-  "shortDescription": "Rüyada yüzük görmek genellikle bağlılık, aidiyet, bütünlük ve sorumlulukları simgeler; yeni bir döneme adım atmayı da anlatabilir. Yüzüğün kaybolması bağlarda belirsizlik veya kopuş hissini, bol gelmesi ise üstlenilen bir rolün ya da sorumluluğun ağır gelmesini gösterebilir.",
+  "shortDescription": "Rüyada yüzük görmek, bağlar, taahhütler, aidiyet hissi ve kişisel sınırlar etrafında şekillenen, rüyanın duygusal tonuna ve bağlamına göre anlamı değişen çok katmanlı bir semboldür.",
   "positiveAssociations": [
-    "Güçlü bağlılık ve sadakat",
-    "Bütünlük ve içsel tamamlanma",
-    "Toplumsal ilişkilerde uyum",
-    "Süreklilik ve döngüsel tamamlanma"
+    "anlaşma ve sadakat",
+    "birlik ve bütünleşme",
+    "yetki ve aidiyet",
+    "yeni bir sözleşme veya başarı"
   ],
   "challengingAssociations": [
-    "Kısıtlanmışlık hissi",
-    "Aşırı yükümlülük veya sorumluluk",
-    "Kapalı bir döngüde sıkışma"
+    "bağımlılık ve kısıtlanma",
+    "eşle huzursuzluk veya ilişkide çatlaklar",
+    "yetkinin veya makamın zayi olması",
+    "kapanmış döngü ve çıkmaz hissi"
   ],
   "contextDependentAssociations": [
-    "Kişisel statü veya rol değişimi",
-    "Bir eşiği geçme veya yeni bir döneme adım atma",
-    "Korunma ihtiyacı veya sınır koyma"
+    "yüzüğün malzemesi (altın, gümüş, demir vb.)",
+    "yüzüğün durumu (parlak, kırık, kayıp)",
+    "yüzüğü takma, alma, verme veya düşürme eylemi"
   ],
   "commonVariations": [
     {
-      "title": "Parmağında parlak bir yüzük taşımak",
-      "description": "Kişinin hayatındaki mevcut bir bağlılığı, taşıdığı sorumlulukları veya toplumsal rolünü görünür kılma ihtiyacını yansıtır."
+      "title": "Parlak ve Sağlam Bir Yüzük Takmak",
+      "description": "Rüyada parmağında parlak ve sağlam bir yüzük görmek, kişinin hayatındaki önemli bir bağa, sadakate ya da içsel bir karara güçlü biçimde sahip çıktığını gösterebilir."
     },
     {
-      "title": "Elden düşen veya kaybolan yüzük",
-      "description": "Sosyal bağlarda, aidiyet duygusunda veya kişisel bütünlük algısında geçici bir belirsizlik ya da kopuş hissine işaret edebilir."
+      "title": "Yüzüğü Kaybetmek veya Düşürmek",
+      "description": "Parmaktaki yüzüğün kaybolması veya düşmesi, ilişkilerde yaşanan huzursuzlukları, aidiyet kaybını ya da sorumlulukların elden çıkmasıyla ilgili endişeleri yansıtabilir."
     },
     {
-      "title": "Büyük veya parmağa bol gelen yüzük",
-      "description": "Üstlenilen rollerin veya sorumlulukların kişinin şu anki kapasitesine fazla gelmesi ya da yabancı gelmesiyle ilgilidir."
+      "title": "Kırık veya Deforme Olmuş Yüzük",
+      "description": "Kırık bir yüzük görmek, eskimiş taahhütlerin çözülmesini, enerji sızıntılarını veya artık kişiye hizmet etmeyen bağların sona erdiğini gösterebilir."
     },
     {
-      "title": "Antik veya süslü bir yüzük bulmak",
-      "description": "Geçmişten gelen bir değerin yeniden hatırlanması, unutulmuş bir aidiyete yeniden bağlanma veya içsel bir eşiği geçme temalarını barındırır."
+      "title": "Değerli Taşlı Yüzük Almak",
+      "description": "Akik, zümrüt veya elmas gibi taşlara sahip bir yüzük edinmek, itibar kazanımı, bolluk, yeni bir iş birliği veya önemli bir statü artışıyla ilişkilendirilebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "Jungcu analitik psikolojide yüzük, dairesel formu sayesinde bir mandala işlevi görür; psişik entegrasyonu, bütünleşmeyi (bütünlük) ve Benlik arketipini temsil eder. Bu çerçevede rüyadaki yüzük, bireyin bilinçdışı parçalarını bir araya getirme ve ruhsal merkezini bulma çabasının simgesel ifadesidir.",
-  "islamicTradition": "",
-  "christianTraditions": "Hristiyan litürjik geleneklerinde yüzük, kutsama, sadakat ve özellikle evlilik bağını simgeleyen kutsal bir nişane olarak ele alınır. Bu sembolizm, genel dini yaşam ve ritüel bağlamında anlam taşır.",
-  "jewishTraditions": "Yahudi gelenek ve hukukunda yüzük, özellikle kiddushin töreni sırasında evliliği takdis eden ve hukuki-kutsal bir bağ oluşturan bir araç olarak işlev görür.",
-  "buddhistEasternApproaches": "Budist ve doğu geleneklerinde dairesel formlar sonsuzluğu ve kapalı çemberleri simgeler. Yüzük bu bağlamda, evrensel döngüler ve gök ile yer arasındaki bütünlük fikriyle dolaylı bir ilişki kurar.",
-  "spiritualApproaches": "Ezoterik ve spiritüel öğretilerde yüzük, bir koruma alanı oluşturan ve kuşak görevi gören bir nesne olarak değerlendirilir. Yüzüğe sahip olmak, belirli bir eşiği geçmek, ruhsal alanı dış etkenlerden korumak veya saklı bir bilgiyi kabul etmekle bağdaştırılır.",
+  "psychology": "Psikolojik açıdan rüyadaki nesneler, zihnin örtük düşüncelerini simgesel yollarla temsil eder. Doğrudan ampirik rüya verileri sınırlı olmakla birlikte, psikanalitik teori çerçevesinde yüzük, kapalı formu ve beden üzerinde taşınması nedeniyle bağlanma, birleşme, sahip olma, narsisistik yatırımlar ve sınırlama temalarıyla ilişkilendirilebilir.",
+  "jungian": "Analitik psikolojide yüzük, dairesel yapısı nedeniyle bütünlük, tamamlanma ve Benlik arketipiyle bağdaştırılır. Aynı zamanda bilinçli olarak seçilmiş bir yükümlülüğü veya zıt kutupların entegrasyonunu simgeleyebilir. Kişinin psişik yapısındaki birlik arayışını ve ilişkisel bağları temsil eden bir imge olarak ele alınır.",
+  "islamicTradition": "İslami rüya tabiri geleneğinde yüzük görmek, makam, mal, zenginlik, geçimin bolluğu ve evlilik bağı ile ilişkilendirilir. Yüzük takmak yeni bir sözleşmeye veya başarıya işaret ederken, altın veya değerli taşlı yüzükler itibar kazandırır. Pirinç veya demir gibi metaller ise kederle ilişkilendirilir. Yüzüğü kaybetmek ise eşle huzursuzluğa veya yetki kaybına yorulur.",
+  "christianTraditions": "Hristiyan sembolizminde yüzük, antlaşma, ilahi bağlılık, sadakat ve ilişkisel yükümlülükleri çağrıştırır. İncil'deki mühür ve halka kullanımlarından ilham alan bu okumada rüyadaki yüzük, aidiyet ve yetkilendirme temalarını taşıyan manevi bir sözleşme olarak değerlendirilebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde, Berakhot metinlerinde yüzüğe özel doğrudan bir rüya maddesi yer almasa da, rüyaların yorumlanabilir olduğu ve yorumun rüya üzerinde belirleyici bir rol oynadığı kabul edilir ve bu bağlamda rüyadaki semboller bütüncül bir metinsel geleneğin parçası olarak ele alınır.",
+  "buddhistEasternApproaches": "Budist sembolizminde yüzük formundaki halkalar, bazı metinlerde bağımlılık halkalarını ve Dharma yolunu hatırlatan unsurlar olarak geçer. Modern Doğu esintili takı pratiklerinde ise bu form, taşıyıcıya içsel öğretileri ve sürekliliği hatırlatan bir nesne işlevi görebilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda yüzük, koruyucu bir çember, enerji akışı, sonsuzluk ve ruhsal bir yemin olarak okunur. Parlak veya sağlam bir yüzük ruhsal bir bağın ağırlığını simgelerken, kırık yüzük bağların çözülmesine işaret eder.",
   "comparisonTable": [
     {
-      "approach": "Jungcu Psikanaliz",
-      "interpretation": "Mandala benzeri bir bütünlük imgesi ve Benlik entegrasyonu.",
+      "approach": "Psikanaliz",
+      "interpretation": "Kapalı devre, bağlanma, sınır oluşturma ile narsisistik ve bedensel simgeleşme.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Hristiyan Geleneği",
-      "interpretation": "Kutsama, sadakat, antlaşma ve evlilik bağı.",
+      "approach": "Jungcu Analiz",
+      "interpretation": "Birlik, bütünlük, Benlik arketipi, içsel entegrasyon ve ilişkisel bağ.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Makam, mülk, evlilik, zenginlik, yetki ve mal kaybı riskleri.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Yahudi Geleneği",
-      "interpretation": "Kiddushin ile kurulan hukuki ve kutsal evlilik bağı.",
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Antlaşma, ilahi sadakat, yetki ve kutsal aidiyet.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Ezoterik Yaklaşım",
-      "interpretation": "Koruyucu bir nesne, eşik açıcı ve kuşak işlevi.",
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Koruyucu çember, ruhsal yemin, enerji akışı ve döngüsellik.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplinler ve gelenekler, yüzüğün dairesel yapısından hareketle onu birleştirici, sınır çizen ve kalıcı bir bağ kuran temel bir insan sembolü olarak ele alır.",
-  "differences": "Yaklaşımlar arasındaki temel fark, Jungcu çerçevenin sembolü bireysel içsel bütünleşme (Benlik) ekseninde okuması ile dini ve ezoterik geleneklerin onu toplumsal akitler, hukuki bağlar, kutsal antlaşmalar veya dışsal koruma kalkanları üzerinden tanımlamasıdır.",
-  "inusAssessment": "Yüzük sembolü, rüya bağlamında tek tip bir anlam taşımaktan uzaktır; çünkü hem bireyin kendi içsel bütünlük arayışını (Jungcu perspektif) hem de dış dünyayla kurduğu somut sözleşme ve aidiyetleri (kültürel ve geleneksel katmanlar) aynı anda barındırır. Bu nedenle rüyadaki yüzüğü yorumlarken, nesnenin parmaktaki konumu, rüya görenin taşıdığı sorumluluklar ve hissettiği duygusal ton en kritik belirleyicilerdir.",
+  "commonGround": "Farklı gelenekler ve teorik yaklaşımlar arasında yüzük sembolü için en güçlü ortak payda, nesnenin dairesel formu ve takılma biçiminden kaynaklanan \"bağlanma\", \"sözleşme\", \"süreklilik\" ve \"birlik\" fikirleridir.",
+  "differences": "Yaklaşımlar arasındaki temel fark odak noktasındadır: İslami gelenek somut statü, mal ve evlilik göstergelerine odaklanırken, Jungcu ve psikolojik yaklaşımlar içsel bütünleşme, Benlik ve psişik bağlara yönelir. Spiritüel okumalar ise nesneyi koruyucu bir enerji alanı olarak ele alır.",
+  "inusAssessment": "Rüyada yüzük gören kişinin, yüzüğün parmağı sıkıp sıkmadığına, yüzüğün parlak olup olmadığına ya da kayıp olup olmadığına dikkat etmesi gerekir; zira bu fiziksel detaylar, kişinin gerçek hayattaki taahhütleriyle kurduğu ilişkinin yapıcı mı yoksa yük mü olduğunu açığa çıkarır.",
   "faq": [
     {
-      "question": "Rüyada yüzük görmek her zaman evlilik anlamına mı gelir?",
-      "answer": "Hayır. Yüzük geleneksel olarak evlilikle anılsa da, rüya bağlamında genel anlamda bağlılık, aidiyet, sorumluluk veya kişisel bütünlük gibi daha geniş temaları temsil edebilir."
+      "question": "Rüyada yüzük görmek her zaman evliliğe mi işaret eder?",
+      "answer": "Hayır. Yüzük sembolü her ne kadar geleneksel olarak evlilikle bağdaştırılsa da, psikolojik ve ezoterik okumalarda her türlü ortaklık, iş sözleşmesi, aidiyet hissi veya içsel taahhütleri temsil edebilir."
     },
     {
-      "question": "Jungcu psikolojide yüzük neden bütünlükle ilişkilendirilir?",
-      "answer": "Yüzüğün dairesel formu, Jungcu psikolojide psişik bütünleşmeyi ve bireyin kendi merkezini bulmasını simgeleyen mandalalarla yapısal bir benzerlik taşır."
+      "question": "Rüyada yüzük kaybetmek ne anlama gelir?",
+      "answer": "Yüzüğün kaybolması farklı geleneklerde ilişkilerde huzursuzluk, aidiyet kaybı, yetkinin zayi olması veya çözülen bağlar şeklinde yorumlanmaktadır."
     }
   ],
   "sources": [
     {
-      "title": "Ring Dreams",
-      "relevance": "Yüzük düşleri ve yüzük sembolünün bağlılık, evlilik, arkadaşlık ve toplumsal refah gibi çağrışımlarıyla ilişkisini veren bir çevrimiçi sözlük girdisi.",
-      "url": "https://www.psychologistworld.com/dreams/dictionary/ring"
+      "title": "Ring Dreams: Meaning & Psychological Interpretation",
+      "relevance": "Jungcu yorumlar içeren bir çevrimiçi sayfa; Jungcu yaklaşımın yüzük sembolünü nasıl ele aldığını tartışır.",
+      "url": "https://somniscient.com/en/symbols/ring"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Düşlerin örtük düşünceleri simgesel ve dolaylı biçimde ifade etmesi ilkesini kurar; yüzük için doğrudan bir hüküm değil, psikanalitik okuma zemini sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "The ring of the narcissist",
+      "relevance": "Freudyen sembol oluşumunda yüzüğün narsisistik, bedensel ve anal savunmalarla ilişkilendirilebilen bir nesne olarak ele alınmasını tartışır; yüzük için kontrollü psikanalitik sentez kurmaya yarar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8789170/"
+    },
+    {
+      "title": "Carl Jung - Analysis of Dream Symbols (3)",
+      "relevance": "Yüzüğün birlik, bütünlük ve Benlik ile ilişkilendirilmesini anlatan Jungcu derleme.",
+      "url": "https://www.carl-jung.net/dream_symbols3.html"
     },
     {
       "title": "Ring in Dreams: Meaning & Symbolism (Jungian, Freudian, Vedic ...",
-      "relevance": "Yüzüğün Jungcu ve folklorik bağlamlarda bağlılık, bütünlük ve dairesellik temalarıyla ele alınışını özetleyen çevrimiçi yorum sayfası.",
+      "relevance": "Yüzük rüyasını Jungcu, Freudyen ve kültürel çerçeveler içinde tartışan yorumlayıcı sayfa.",
       "url": "https://ihadthisdream.com/symbols/r/ring/"
     },
     {
-      "title": "Dream Interpretation of Ring: Union and Power - fassir.ai",
-      "relevance": "Yüzüğü Jungcu mandala ve Benlik sembolizmi bağlamında değerlendiren çevrimiçi yorum sayfası.",
-      "url": "https://fassir.ai/en/dictionary/ring"
+      "title": "Ring dreams: vows, cycles, and symbolic commitment",
+      "relevance": "Yüzüğün Jungcu sembolizmde bütünlük, içerme ve dönüş temalarıyla ilişkisini ele alan yorumlayıcı sayfa.",
+      "url": "https://www.echodream.io/interpret/ring-dreams"
     },
     {
-      "title": "Rings | Catholic Answers Encyclopedia",
-      "relevance": "Katolik litürjik bağlamda yüzüğün kutsama, sadakat ve evlilik bağıyla ilişkisini açıklar.",
-      "url": "https://www.catholic.com/encyclopedia/rings"
+      "title": "Symbol – International Association of Analytical Psychology",
+      "relevance": "Jung’un sembol anlayışını ve yüzüğün daha derin bir psikik anlam taşıyan imge olabileceğini açıklayan analitik psikoloji metni.",
+      "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/symbol-2/"
     },
     {
-      "title": "RINGS",
-      "relevance": "Yahudi geleneğinde yüzüğün kiddushin ve evlilik takdisindeki işlevini, ayrıca Tevrat ve Talmud’daki genel kullanımdan ayrımını açıklar.",
-      "url": "https://www.jewishencyclopedia.com/articles/12767-rings"
+      "title": "Best Quotes of The Interpretation Of Fairy Tales with Page Numbers By Marie-Louise Von Franz",
+      "relevance": "Yüzüğün Benlik ve birlik simgesi olarak, ayrıca bağlanma ve kısır döngü anlamlarıyla ilişkilendirildiği von Franz alıntısı.",
+      "url": "https://www.bookey.app/book/the-interpretation-of-fairy-tales/quote"
     },
     {
-      "title": "The Symbolism of the Ring",
-      "relevance": "Yüzüğün Budist ve ezoterik sembolizmde dairesel formunun koruma ve eşik açma işlevleriyle ilişkilendirildiğini aktaran kaynak.",
-      "url": "https://library.acropolis.org/the-symbolism-of-the-ring/"
+      "title": "C. G. JUNG",
+      "relevance": "Jung’a atfedilen metinde yüzüğün bağ ve ilişki sembolü olarak kullanıldığı örnek pasaj.",
+      "url": "https://ronliskey.com/docs/collected-Works-07-Analytical-Psychology-by-C-G-Jung.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorum geleneğinin temel metni; tarihsel oneirokratik bağlamı kurar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Ring Symbolism & Meaning - Archetypes",
+      "relevance": "Yüzüğün kültürel sembol olarak bağlılık, süreklilik ve aidiyet alanlarını açıklar.",
+      "url": "https://mymythos.org/archetype/ring/"
+    },
+    {
+      "title": "Yüzük Rüyada Görmek İmam Nablusi",
+      "relevance": "İmam Nablusî’ye atfedilen yüzük yorumları: makam, mal, zenginlik, arkadaşlık, evlilik ve kayıp temaları.",
+      "url": "https://www.islamda.org/2015/06/yuzuk-ruyada-gormek-imam-nablusi.html"
+    },
+    {
+      "title": "Rüyada Siyah Yüzük Görmek Ne Anlama Gelir? - Diyadinnet Rüya Tabirleri",
+      "relevance": "Siyah taşlı yüzük mal artışı ve makamla, yüzük kaybı ise yetki kaybıyla ilişkilendirilen aktarımlardır.",
+      "url": "https://www.diyadinnet.com/ruyada-2568-siyah-yuzuk-gormek"
+    },
+    {
+      "title": "Biblical meaning of Engagement Ring in Dreams",
+      "relevance": "Yüzüğün Hristiyan bağlamda antlaşma, ilahi vaat ve Mesih ile Kilise arasındaki ilişkiyle bağlantılı yorumlarını öne çıkaran çevrim içi bir açıklama.",
+      "url": "https://krkjewels.com/blogs/engagement-ring/biblical-meaning-of-engagement-ring-in-dreams"
+    },
+    {
+      "title": "Biblical meaning of ring in dreams | Biblical Dream Meanings ...",
+      "relevance": "Yüzüğün Kutsal Kitap bağlamında antlaşma, yetki, kimlik ve geri kazanım temalarıyla ilişkilendirildiğini söyleyen Hristiyan rüya yorumu sayfası.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-ring-in-dreams"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyalar, yorumun rolü ve rüyanın dini işlevi üzerine genel rabbanî çerçeve.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Berakhot 57a metni, rüyalarla ilgili Talmudik tartışmanın birincil metin konumunu gösterir.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Berachot: 55a - Talmud",
+      "relevance": "Berakhot 55a’daki rüya tartışmasının metin düzeyinde izini verir ve genel rüya yorum bağlamını destekler.",
+      "url": "https://www.chabad.org/torah-texts/5299903/Talmud/Berachot/Chapter-9/55a"
+    },
+    {
+      "title": "༄༅། །འཁར་གལ་ི་མ། The Sūtra on the Ringing Staff",
+      "relevance": "Budist gelenekte üzerindeki on iki halka ile bağımlı oluş ve Dharma yolunu hatırlatma anlamlarını doğrudan açıklayan bir birincil metin.",
+      "url": "https://84000.co/translation/toh335.pdf"
+    },
+    {
+      "title": "The Heart Of Prajna Paramita Sutra Ring – The Yoga Mandala",
+      "relevance": "Mahayana Heart Sutra yazısını taşıyan Budist temalı yüzüğün, öğretiyi sürekli hatırlatan takı olarak sunulduğu örnek.",
+      "url": "https://theyogamandala.com/product/the-heart-of-prajna-paramita-sutra-ring/"
+    },
+    {
+      "title": "Ring in dreams — meaning and symbolism",
+      "relevance": "Rüyada yüzük için açık biçimde ezoterik bir okuma sunuyor; koruyucu çember, enerji akışı, yemin ve bağ temalarını yüzük sembolüne bağlıyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/ring"
+    },
+    {
+      "title": "Ring, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Yüzüğü ruhsal düzeyde sonsuzluk, tanrısallık, birlik ve ittifak ile ilişkilendiriyor; yüzük sembolünün dairesel anlamını vurguluyor.",
+      "url": "http://www.dreamtation.com/docs/5951.htm"
+    },
+    {
+      "title": "Dream About Ring — Meaning and Interpretation | Dremyo",
+      "relevance": "Yüzüğü bağ, bütünlük ve döngü sembolizmi içinde açıklıyor; rüya yüzüğü için modern spiritüel yorum örneği sunuyor.",
+      "url": "https://www.dremyo.com/en/symbols/ring/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
 }

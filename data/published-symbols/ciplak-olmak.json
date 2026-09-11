@@ -1,0 +1,243 @@
+{
+  "slug": "ciplak-olmak",
+  "title": "çıplak olmak",
+  "shortDescription": "Rüyada çıplak olmak, korunmasızlık ve görünür olma duygusunu yansıtabilir. Kalabalıkta utanç duymak yargılanma veya ifşa olma kaygısına; rahat hissetmek ise maskelerden arınma ve dürüstlüğe işaret edebilir.",
+  "positiveAssociations": [
+    "İçsel temizlik ve iç huzuru",
+    "Hastalıkta iyileşme",
+    "Borçtan kurtulma",
+    "Korkunun dağılması",
+    "Maskelerden arınma ve dürüstlük",
+    "Karmik örtülerin azalması"
+  ],
+  "challengingAssociations": [
+    "Utanç ve mahcubiyet",
+    "Kamusal alanda ifşa olma ve itibar kaybı",
+    "Saklanma isteğine rağmen yerinden kıpırdayamama",
+    "Kırılganlık ve korunmasızlık",
+    "Ruhsal örtünün kalkması",
+    "Statü kaybı"
+  ],
+  "contextDependentAssociations": [
+    "Uygun mekânlarda bedenin açık olmasının nötr karşılanması",
+    "Coğrafi konuma ve ahlaki duruma göre değişen geleneksel yorumlar",
+    "Şehir merkezinde olmak veya doğada bulunmak gibi farklı mekânlara göre değişen ruhsal aşamalar"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kalabalık Bir Sokakta Yarı Çıplak Dolaşmak",
+      "description": "Toplumsal bir alanda giysilerinizin eksik olduğunu fark etmek ve başkalarının bakışları altında yoğun utanç ve saklanma isteği duymak."
+    },
+    {
+      "title": "Yalnız Olduğu Bir Odada Çıplak Olmak",
+      "description": "Kendi özel alanında veya sakin bir mekânda giysisiz bulunmak, bu durumun herhangi bir utanç yaratmaktan ziyade daha şeffaf veya nötr bir his vermesi."
+    },
+    {
+      "title": "Soyunup Mahremiyetin Açığa Çıkmasından Korkmak",
+      "description": "Kendi isteğiyle ya da zorla üzerindeki giysileri çıkararak gizli kalması gereken özel hayatının başkaları tarafından görüleceği endişesini yaşamak."
+    },
+    {
+      "title": "Halk İçinde Soyunup Hiç Utanç Duymamak",
+      "description": "İnsanların ortasında tamamen çıplak olmasına rağmen mahcubiyet hissetmemek; aksine içsel doğruluk hissi, rahatlama veya sükûnet deneyimlemek."
+    }
+  ],
+  "psychology": "Ampirik içerik analizleri, çıplaklık temasının rüyalarda nadiren görüldüğünü ve tek bir anlam taşımayıp bağlama göre değiştiğini göstermektedir. Bilimsel çalışmalar, bu temanın utanç, mahcubiyet ve başkalarının değerlendirilmesine ilişkin kaygılarla bağlantılı olabileceğini, ancak tek boyutlu süreçlerle açıklanamayacağını ortaya koymaktadır.",
+  "jungian": "Analitik psikoloji perspektifinde çıplaklık veya soyunma motifi, sosyal maskenin (persona) çözülmesi ve daha çıplak, öz bir benliğin görünür hâle gelmesiyle ilişkilendirilir. Bu durum, bireyleşme sürecinde rol ile öz arasındaki gerilimi, psikolojik dönüşümü ve büyük geçiş deneyimlerini yansıtabilir.",
+  "islamicTradition": "Geleneksel ve modern İslami tabir aktarımlarında çıplaklık çeşitli biçimlerde ele alınır. Bazı bağlamlarda iç huzuru, düşüncelerden kurtulma, içsel temizlik, hastanın iyileşmesi, borçtan kurtulma veya dindarlıkla ilişkilendirilebilir. Halk içinde soyunup utanma genellikle özel hayatın ifşa olması veya rezil olma korkusuyla bağdaştırılır; buna karşın utanç hissedilmemesi, dürüstlük ve korkuların dağılması şeklinde yorumlanabilir.",
+  "christianTraditions": "Hristiyan teolojik sembolizminde çıplaklık, insanın Tanrı önünde tamamen açık ve kırılgan hâlde bulunması fikrine dayanır. Kutsal metinlerdeki ifadeler doğrultusunda bu durum, hiçbir şeyin gizlenemediği hesap verebilirlik, ruhsal şeffaflık ve ilahî adalet karşısında tam görünürlük anlamı taşır.",
+  "jewishTraditions": "Talmudik gelenekte çıplaklık rüyaları coğrafi ve ahlaki bağlama göre değerlendirilir. Örneğin Babil'de çıplak durmak suçsuzlukla ilişkilendirilirken, İsrail topraklarında mitsvalardan yoksunluk veya dinsel eksiklik işareti olarak yorumlanabilir, bu da sembolün evrensel bir utançtan ziyade mekâna bağlı okunduğunu gösterir.",
+  "buddhistEasternApproaches": "Tibet ve Budist rüya metinlerinde çıplaklık, bodhisattva bağlamında küçük karmik örtülerin azalması, boşluk kavramının idrak edilmesi ve farklı bhūmi (ruhsal aşama)larla ilişkilendirilir. Ayrıca Siddhārtha'nın dünyevi hayattan ayrılışından önceki rüyasında olduğu gibi, çıplaklık bir eşik, dönüşüm ve dünyevi bağlardan sıyrılma motifi olarak da görünür.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel yaklaşımlarda çıplaklık, ego kılıflarının soyulması, dış katmanların dökülmesi ve maskesiz bir dürüstlükle öz benliğe ulaşma çabası olarak okunur.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Çocukluk dönemindeki teşhir arzularının ve bastırılmış dürtülerin utanç ve saklanma isteğiyle dışavurumu.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Sosyal persona'nın çözülmesi, rol ile öz arasındaki gerilim ve psikolojik dönüşüm süreci.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Bağlama göre kişinin içsel huzuru veya iç dünyasının selameti, dindarlık ve şifa göstergesi olabileceği gibi, ifşa olma ve mahcubiyet korkusunu da işaret edebilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Talmudik Geleneği",
+      "interpretation": "Rüyanın geçtiği coğrafi ve ahlaki konuma bağlı olarak suçsuzluk veya dinsel eksiklik göstergesi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Karmik örtülerin hafiflemesi, boşluğun idrak edilmesi ve dünyevi bağlardan arınma eşiği.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Okuma",
+      "interpretation": "Ego katmanlarının soyulması, maskelerin kalkması ve radikal bir şeffaflık ile savunmasızlık hâli.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler arasında çıplaklık sembolü, sıradan bir giysi eksikliğinden öte, kişinin kimliği, saklamak istedikleri ve dış dünyaya karşı takındığı tavırlarla doğrudan ilişkilendirilir. Çoğu yaklaşım çıplaklığı bir tür korumasızlık, görünür olma veya örtülerin kalkması durumu olarak ele alır.",
+  "differences": "Psikanalitik ve psikolojik yaklaşımlar çıplaklığı daha çok bastırılmış arzular, teşhir kaygısı ve içsel utanç dinamikleri üzerinden incelerken; dini ve geleneksel metinler mekân, coğrafya, ahlaki durum veya karmik aşamalar gibi somut bağlamsal ayrımlara odaklanır. Spiritüel okumalar ise bunu bir arınma ve ego soyunması olarak pozitif bir dönüşüm imgesi şeklinde değerlendirebilir.",
+  "inusAssessment": "Rüyada çıplak olmak, tek boyutlu bir utanç sembolü olmaktan ziyade rüya sahibinin kamusal alandaki konumu ile iç dünyasındaki açıklık arasındaki gerilimi yansıtır. Rüyayı yorumlarken çıplaklığın nerede gerçekleştiği —kalabalık bir kamusal alan mı yoksa güvenli bir özel alan mı— ve rüya sırasında hissedilen duygunun utanç mı yoksa özgürlük hissi mi olduğu, anlamı kökten değiştiren en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada çıplak olmak her zaman utanç duyulacağı anlamına mı gelir?",
+      "answer": "Hayır. Geleneksel metinlerde çıplaklığın halk içinde utanç duymadan yaşanması durumunda doğruluk, şifa, borçtan kurtulma veya içsel sükûnet gibi olumlu durumlarla ilişkilendirildiği görülmektedir."
+    },
+    {
+      "question": "Kalabalıklar içinde çıplak kalmak psikolojik olarak nasıl yorumlanır?",
+      "answer": "Psikanalitik çerçevede bu durum, kişinin sosyal hayatındaki maskelerinin (persona) çözülmesi, başkalarının gözü önünde yargılanma veya yetersiz kalma kaygısı ve bastırılmış teşhir dinamikleriyle açıklanır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Being naked in dreams: Analysis of a long dream series",
+      "relevance": "12.159 rüyadan oluşan uzun bir seride 'tamamen ya da kısmen çıplak olma' temasının sıklığını, içerik dağılımını ve utanç/mahcubiyetle ilişkili bağlamlarını inceler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/82663"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Rüyada çıplaklık bölümünde utanç, saklanma isteği ve teşhir rüyası yorumu yer alır.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Nakedness, Dream of | Encyclopedia.com",
+      "relevance": "Freud’un çıplaklık rüyasını teşhir arzusu ve çocuklukla ilişkilendiren özet açıklaması.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/nakedness-dream"
+    },
+    {
+      "title": "Nakedness in a Dream: Freud, Jung, Myth and Modern ...",
+      "relevance": "Jungçu çerçevede çıplaklığı persona'nın çözülmesi, özün görünür olması ve savunmasızlıkla ilişkilendiren modern bir yorum sunar.",
+      "url": "https://rosmertapublishing.com/dream-symbols/nakedness/"
+    },
+    {
+      "title": "motif of undressing",
+      "relevance": "Analitik psikoloji bağlamında soyunma motifini psikolojik dönüşüm, değişim ve doğum temalarıyla ilişkilendirir; çıplaklık temasına doğrudan yakın bir sembolik çerçeve sağlar.",
+      "url": "https://aras.org/concordance/content/motif-undressing"
+    },
+    {
+      "title": "The Gods",
+      "relevance": "Artemidorus’un rüya el kitabında çıplaklık ve kamusal görünürlük bağlamı; bedenin görünmesinin yer ve toplumsal duruma göre nasıl değişik yorumlandığını gösterir.",
+      "url": "https://academic.oup.com/book/40085/chapter/341038245?guestAccessKey="
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un onirokritik yaklaşımını aktaran çevrimiçi çeviri; çıplaklığın bazı durumlarda ani ve ağır uğursuzluk ile ilişkilendirildiğini gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "[PDF] ALCMENA'S DREAM IN MOSCHUS' MEGARA - Dialnet",
+      "relevance": "Geç antik edebi bağlamda ‘çıplak olmak’ ifadesinin kayıp ve yoksunluk çağrışımıyla kullanıldığı örnekleri gösteren akademik PDF.",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/633286.pdf"
+    },
+    {
+      "title": "[PDF] Ibn Seerin's Dictionary of Dreams - nur.nu",
+      "relevance": "Çıplaklık, soyunma, mahremiyetin açığa çıkması, utanç, sağlık, borç ve korku ile ilgili rüya tabiri maddeleri içeriyor.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "True Dreams: 'Nakedness' - The Muslim Times",
+      "relevance": "Rüyada çıplaklık için geleneksel bir yorum aktarımı sunuyor; bütünüyle çıplak kalma temasına değiniyor.",
+      "url": "https://themuslimtimes.info/2025/02/18/true-dreams-nakedness/"
+    },
+    {
+      "title": "The 20 most important interpretations of a dream about being naked in a dream by Ibn Sirin - Interpretation of Dreams",
+      "relevance": "Rüyada çıplak olmanın İbn Sirin’e atfedilen modern bir yorum aktarımını içeriyor; ifşa ve gizli sırların açığa çıkması temasına değiniyor.",
+      "url": "https://en.joellemena.com/dreaminterpretation/Interpretation-of-a-dream-about-nudity/"
+    },
+    {
+      "title": "Seeing Nakedness in a dream - ShiaCircle",
+      "relevance": "Çıplaklık temasını içsel temizlik, ifşa, utanç, düşman baskısı ve pişmanlık bağlamlarında ele alıyor.",
+      "url": "https://www.shiacircle.com/dream-interpretation/nakedness"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri Ç Harfi",
+      "relevance": "Çıplaklık ve çıplak görmek için Nablusî’ye atfedilen modern bir derleme aktarımı sunuyor.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-c2-harfi.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri U Harfi",
+      "relevance": "Rüyada üryan/çıplak olmayı iç yüzün selameti, temizlik ve dindarlıkla ilişkilendiren modern bir Nablusî aktarımı içeriyor.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-u1-harfi.html"
+    },
+    {
+      "title": "Apostle David E. Taylor [Official Site]",
+      "relevance": "Rüyada çıplaklığın Hristiyan bağlamda masumiyet, açıklık, alçakgönüllülük, utanç ve ruhsal ifşa gibi anlamlarla ilişkilendirildiğini gösteren modern yorum sayfası.",
+      "url": "https://joshuamediaministries.org/dreams/nudity/"
+    },
+    {
+      "title": "Naked Dreams - United Church of Christ",
+      "relevance": "İbraniler 4:13 üzerinden Tanrı önünde saklı kalmama, çıplak ve açıkta olma fikrini vurgular; çıplaklık sembolünün teolojik okuması için doğrudan Kutsal Kitap dayanağı sağlar.",
+      "url": "https://www.ucc.org/daily-devotional/naked-dreams/"
+    },
+    {
+      "title": "Dreams in the Talmud | Sefaria",
+      "relevance": "Rüyada çıplak durmanın Babil’de suçsuzluk, İsrail topraklarında ise mitsvalardan yoksunluk olarak yorumlandığına dair talmudik kayıtları özetler.",
+      "url": "https://prod.sefaria.org.il/sheets/233896"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Babylonian Talmud’un rüya maddelerini inceleyerek çıplak durma örneğini Berakhot 57a bağlamında özetleyen akademik çalışma.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Toh 48 — The Teaching on Dreams",
+      "relevance": "Budist rüya öğretisinde rüyada çıplak görülmenin doğrudan yorumunu verir; çıplaklık ile karmik örtüler, boşluk çalışması ve bhūmi dereceleri arasında bağlantı kurar.",
+      "url": "https://buddhistcanon.ru/tibetan_canon/kangyur/039-004-toh48-the-teaching-on-dreams.html"
+    },
+    {
+      "title": "Significance of Naked",
+      "relevance": "Buddhist bağlamda çıplaklığın keşiş disiplini ve uygun davranış kuralları içindeki kullanımını gösterir; sembolün gündelik-dinî arka planını sağlar.",
+      "url": "https://www.wisdomlib.org/concept/naked"
+    },
+    {
+      "title": "Nakedness: Significance and symbolism",
+      "relevance": "Buddhizm ve Hinduizm içinde çıplaklığın genel sembolik anlamlarını birlikte özetler; Budist kullanımda arınma ve dünyevî bağlardan ayrılma temalarını verir.",
+      "url": "https://www.wisdomlib.org/concept/nakedness"
+    },
+    {
+      "title": "Chapter 45: Siddhartha’s Final Night Before Renunciation",
+      "relevance": "Buddist anlatıda Siddhārtha’nın rüyasında bedeninin çıplak görünmesi, rüya motifinin dönüşüm ve ayrılış bağlamında kullanılmasına örnek olur.",
+      "url": "https://www.wisdomlib.org/buddhism/book/taisho-chinese-buddhist-canon/d/doc1856793.html"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Rüyada çıplaklık için açık Budist yorumlar sunan çeviri; şehir merkezi, ıssızlık ve dağ gibi farklı bağlamlara göre değişen ruhsal aşamalar tanımlar.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "Nakedness in Dreams: Vulnerability, Honesty, and the Wish to ...",
+      "relevance": "Rüyalarda çıplaklığı açıklık, kırılganlık, dürüstlük ve başkaları tarafından görülme duygusu üzerinden ele alan modern spiritüel bir metin.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/nakedness"
+    },
+    {
+      "title": "Dreams involving nudity: uncovering their hidden meanings",
+      "relevance": "Çıplak olma rüyalarını gizlenmiş utanç, kırılganlık ve mahremiyet kaybı ekseninde yorumlayan modern spiritüel bir içerik.",
+      "url": "https://www.wellbeing.com.au/mind-spirit/spirituality/dreams-involving-nudity-meanings.html"
+    },
+    {
+      "title": "Dreaming of Being Naked: Psychological and Spiritual Meanings - Tarotur",
+      "relevance": "Çıplaklık sembolünü ruhsal düzlemde açıklık, özgünlük, ego katmanlarının soyulması ve yeniden doğuş temalarıyla ilişkilendiren modern bir yorum.",
+      "url": "https://www.tarotur.com/en/dreaming-of-being-naked-psychological-and-spiritual-meanings/"
+    },
+    {
+      "title": "Nakedness in Dreams: Meaning & Symbolism (Jungian, Freudian ...",
+      "relevance": "Çıplak olmayı ruhsal olarak korunmasızlık, örtünün kalkması, utanç ve bazen de saflık/şeffaflık temalarıyla açıklayan modern popüler bir yorum.",
+      "url": "https://ihadthisdream.com/symbols/n/nakedness/"
+    },
+    {
+      "title": "PROPHETIC MEANING OF BEING NAKED IN DREAMS",
+      "relevance": "Çıplaklık rüyasını ruhsal örtünün kalkması, zayıflık ve korumasızlık diliyle yorumlayan vaaz tarzı bir içerik.",
+      "url": "https://www.youtube.com/watch?v=da10UDA2cGU"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "christian"
+  ]
+}

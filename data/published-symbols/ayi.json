@@ -1,0 +1,265 @@
+{
+  "slug": "ayi",
+  "title": "ayı",
+  "shortDescription": "Rüyada ayı görmek; güç, içgüdüler, bastırılmış öfke veya tehdit hissinin yanı sıra koruyuculuk ve sınır koyma ihtiyacını çağrıştırabilir. Ayının sakin ya da saldırgan olması ve onunla nasıl etkileştiğiniz yorumu etkiler.",
+  "positiveAssociations": [
+    "Güç ve dayanıklılık",
+    "Koruyuculuk ve sınır koyma",
+    "İçgüdüsel bilgelik",
+    "İçe çekilme ve yenilenme"
+  ],
+  "challengingAssociations": [
+    "Bastırılmış öfke ve saldırganlık",
+    "Denetimsiz itkiler ve vahşet",
+    "Tehdit ve baskı hissi",
+    "Afet, bela ve fitne çağrışımları"
+  ],
+  "contextDependentAssociations": [
+    "Siyah ayı ile beyaz ayının rüyadaki görünüm farkları",
+    "Ayının saldırgan mı yoksa sakin mi olduğu",
+    "Rüya sahibinin ayıyla olan mesafesi ve etkileşim biçimi",
+    "Yavrularını koruyan dişi ayı figürünün çifte anlamı."
+  ],
+  "commonVariations": [
+    {
+      "title": "Sakin bir ayı ile ormanda karşılaşmak",
+      "description": "Rüya sahibinin kendi içgüdüsel gücü ve vahşi doğasıyla çatışmadan, sakin bir temasta bulunması."
+    },
+    {
+      "title": "Saldırgan bir ayıdan kaçmak",
+      "description": "Baskı altında hissedilen öfkenin, çözülmemiş tehditlerin veya ego tarafından korkulan ilkel dürtülerin rüya sahibini kovaladığını gösterir."
+    },
+    {
+      "title": "Yavrularını koruyan dişi ayı",
+      "description": "Şiddetli bir koruma refleksini, anneye dair arketipsel imgeleri veya dizginlenemez bir savunma dürtüsünü temsil eder."
+    },
+    {
+      "title": "Kış uykusuna yatmış bir ayı görmek",
+      "description": "Zihinsel veya fiziksel olarak içe çekilme, dinlenme, enerji toplama ve derin bir dönüşüm sürecine girme ihtiyacını simgeler."
+    }
+  ],
+  "psychology": "Psikoterapötik süreçlerde hayvan içeren rüyalar, hastanın içsel dinamiklerinin ve bastırılmış dürtülerinin yansıması olarak ele alınır. Bu çerçevede rüyadaki ayı figürü, doğrudan öfke veya saldırganlık gibi ilkel dürtülerin bir simgesi şeklinde okunabilir.",
+  "jungian": "Jungcu analizde ayı; içgüdüsel yaşam gücü, bilinçdışının öngörülemez ve tehditkâr yönleri, gölge ile karşılaşma ve benliğin bedensel boyutları ile ilişkilendirilir. Aynı zamanda kış uykusu teması üzerinden içe dönüşü ve sosyal olarak bastırılmış gücün geri kazanılmasını temsil eder.",
+  "islamicTradition": "Modern aktarımlara dayanan geleneksel tabirlerde ayı, bela, fitne, esaret, hilekâr düşman veya hırsızlık gibi olumsuz anlamlarla ilişkilendirilirken, bazı varyantlarda ayıya binmek düşmana galip gelmeye, beyaz ayı ise kazançlı işlere işaret edebilir.",
+  "christianTraditions": "Hristiyan sembolizminde ayı, ilahi adalet, günaha ve ayartıya karşı uyanıklığın kaybı, ruhsal mücadeleler ve yavrularını koruyan bir canlının sunduğu çelişik güç temaları bağlamında okunur.",
+  "jewishTraditions": "Yahudi kutsal metinlerinde ve Daniel peygamberin vizyonlarında ayı; doymak bilmez sertlik, vahşet, yıkıcı güç ve baskı unsuru olan imparatorlukların veya kontrolsüz öfkenin bir sembolü olarak yer alır.",
+  "buddhistEasternApproaches": "Budist ve Doğu kökenli yaklaşımlarda ayı, evcilleşmemiş zihni, denetimsiz itkileri ve açgözlülüğün sürüklediği tehlikeleri temsil edebileceği gibi; Mahayana geleneklerinde sığınak sunan, uyanık ve şefkatli bir koruyucu figür olarak da yorumlanabilir.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda ayı; ham güç, sınır koyma, dayanıklılık, içgüdüsel bilgelik ve simyada dönüşümün ilk aşaması olan \"nigredo\" (kararma/çözülme evresi) gibi ham maddeyle temas eden bir eşik figürü olarak ele alınır.",
+  "comparisonTable": [
+    {
+      "approach": "Psikoterapi Yaklaşımı",
+      "interpretation": "İçsel dürtülerin, öfkenin ve saldırganlığın psikolojik dışavurumu.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Gölge, içgüdüsel güç, bilinçdışı ve benlikle karşılaşma.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Tabirler",
+      "interpretation": "Fitne, bela, düşmanlık veya bazı bağlamlarda kazanç ve yolculuk.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "İlahi yargı, ruhsal mücadele, tehlike ve koruma temaları.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Metinleri",
+      "interpretation": "Vahşet, yıkıcı güç, baskı ve kontrolsüz öfke.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Evcilleşmemiş zihin, farkındalık veya koruyucu şefkat.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Modern Spiritüel Okuma",
+      "interpretation": "Ham güç, sınır koyma, dayanıklılık ve içe çekilme.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenek ve disiplinlerin çoğunda ayı; güçlü, vahşi ve kontrol edilmesi gereken ilkel bir güç ile koruyuculuk arasındaki ikili gerilimi barındıran ortak bir paydada buluşur.",
+  "differences": "Psikolojik yaklaşımlar ayıyı içsel dürtüler ve gölge ile açıklarken; dini ve geleneksel metinler onu dışsal bir tehdit, ilahi yargı veya bela unsuru olarak konumlandırabilir.",
+  "inusAssessment": "Ayı rüyası, sahip olduğu vahşi ve koruyucu ikiliği nedeniyle tek bir sabit anlama indirgenemez; rüyada ayının saldırgan, sakin, siyah veya beyaz olması, yorumun yönünü tamamen değiştiren kritik bağlamsal ayrımlardır.",
+  "faq": [
+    {
+      "question": "Rüyada ayı görmek her zaman tehlikeye mi işaret eder?",
+      "answer": "Hayır; ayı rüyaları bağlama göre tehdit ve saldırganlık barındırabileceği gibi, içsel güç, koruyuculuk, sınır koyma veya içe çekilme gibi yapıcı temaları da temsil edebilir."
+    },
+    {
+      "question": "Siyah ayı ile beyaz ayı rüyada farklı mı yorumlanır?",
+      "answer": "Bazı geleneksel ve modern aktarımlarda siyah ayı ev içi tatsızlık veya zorluklarla ilişkilendirilirken, beyaz ayı kazançlı işler veya farklı yaşam döngüleri bağlamında ele alınabilir."
+    },
+    {
+      "question": "Jungcu perspektifte ayı rüyası ne anlama gelir?",
+      "answer": "Jungcu okumada ayı; bireyin bilinçdışındaki gölgesiyle yüzleşmesini, bastırılmış gücünü geri kazanmasını ve bedenli içgüdüleriyle yeniden temas kurmasını simgeler."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dreams with animals in psychotherapeutic pro- cess",
+      "relevance": "Hayvan içeren rüyaları terapötik bağlamda içsel dürtülerle ilişkilendirir ve ayı örneğini öfke/saldırganlıkla bağlantılı olarak tartışır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/83826/82597/234814"
+    },
+    {
+      "title": "A content analysis of bizarre elements in dreams. - APA PsycNet",
+      "relevance": "Rüya içerik analizinin ampirik çalışma geleneğine işaret eden kayıt; ayı sembolüne özgü sonuç vermese de alanın yöntemsel bağlamını destekler.",
+      "url": "https://psycnet.apa.org/doiLanding?doi=10.1037/h0094433"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Freud'un rüya kuramında hayvan imgelerinin bastırılmış dürtüler ve libido ile ilişkisini gösteren pasaj.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Rüyaların bastırılmış isteklerin kılık değiştirmiş doyumu olduğu yönündeki temel Freudcu çerçeve.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
+    },
+    {
+      "title": "Dreaming of Bears: Meaning Through Processwork, Jungian ...",
+      "relevance": "Ayı rüyasının Jungcu yorumunda içgüdü, gölge ve bastırılmış güç temalarını açıkça tartışan bir çağdaş Jungcu yazı.",
+      "url": "https://dreampower.app/blog/post/dreaming-of-bears-what-your-nighttime-encounters-might-be-telling-you"
+    },
+    {
+      "title": "Spiritual Meaning of a Bear in a Dream: Jungian ...",
+      "relevance": "Ayıyı Jungcu kavramlarla, gölge, benlik, bedenli bilinçdışı, özerklik ve dönüşüm ekseninde yorumlayan bir çağdaş yazı.",
+      "url": "https://www.selfgazer.com/blog/bear-dream-spiritual-meaning"
+    },
+    {
+      "title": "Full text of \"Von Franz Luise Marie Jung Gustav Carl Man And His Symbols 1988\"",
+      "relevance": "Marie-Louise von Franz’a atfedilen ayı rüyası pasajını içeren bu derleme metin, ayı figürünü benlik ve eşik temalarıyla ilişkilendiren bir örnek sunar.",
+      "url": "https://archive.org/stream/VonFranzLuiseMarieJungGustavCarlManAndHisSymbols1988/Von_Franz_Luise_Marie_Jung_Gustav_Carl_Man_and_His_Symbols_1988_djvu.txt"
+    },
+    {
+      "title": "Archetype in Focus: A Monthly ARAS Feature - Bear",
+      "relevance": "Ayının Jungcu sembolizmde birden fazla anlama gelebileceğini ve benlik ya da bilinçdışının tehditkâr yönleriyle bağlantılanabileceğini özetleyen Jungcu özellik sayfası.",
+      "url": "https://jungian.directory/archetype-in-focus-a-monthly-aras-feature-bear/"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual - Oxford Academic",
+      "relevance": "Artemidorus’un rüya yorumunda ayı simgesinin kadın, hastalık ve yolculukla ilişkisini veren temel oneirokritik pasajı içerir.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "Bears: a social and cultural history",
+      "relevance": "Ayının kültürel tarihteki güç, vahşilik ve koruyuculuk gibi geniş sembolik alanını özetleyen akademik bir kültür tarihi çalışmasıdır.",
+      "url": "https://insight.cumbria.ac.uk/id/eprint/5420/"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Nablusî ve İbn Sîrîn adıyla dolaşan rüya tabiri malzemelerini bir araya getiren PDF derleme; ayı sembolü için geleneğin içindeki bağlantıları izlemeye yardımcı olur.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri A Harfi - Muhammed.net",
+      "relevance": "Nablusî atfıyla 'ayı' için verilen yorumları açıkça listeliyor: bela, fitne, hilekâr hırsız, ayıya binme, ayı derisi ve ilgili varyantlar.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-a-harfi.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri – Sayfa 3 – Bilmesek olmaz – Nedir? Nasıl yapılır? Ne demektir?",
+      "relevance": "'Ayı' için olumsuz anlamlar ve bazı renk/varyant ayrımları veren modern rüya tabiri aktarımı; sembolün geleneksel yorum hattını göstermesi bakımından ilgili.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/imam-nablusi-ruya-tabirleri/page/3/"
+    },
+    {
+      "title": "تفسير الأحلام لإبن شاهين",
+      "relevance": "İbn Şâhin’e nispet edilen Arapça rüya tabiri derlemesi; klasik rüya yorumlama literatüründe ayı maddesinin aranabileceği ana kaynaklardan biri.",
+      "url": "https://mktbtk.com/dir/Ibnshahin.htm"
+    },
+    {
+      "title": "Dreams About Bears: Biblical Meaning and Interpretation",
+      "relevance": "Rüyalarda ayıların anlamını Hristiyan çerçevede bağlama göre güç, tehlike, korku, koruma ve çatışma temaları üzerinden ele alan bir modern Hristiyan yazısı.",
+      "url": "https://revealingthechristianlife.org/2025/07/06/dreams-and-visions-how-to-interpret-dreams-about-bears/"
+    },
+    {
+      "title": "What does a bear symbolize in the Bible? - Christian Faith Guide",
+      "relevance": "İncil’de ayının hangi bağlamlarda geçtiğini ve ayı imgesinin ruhsal çatışma ile koruyuculuk çağrışımlarını özetleyen modern Hristiyan kaynak.",
+      "url": "https://christianfaithguide.com/what-does-a-bear-symbolize-in-the-bible/"
+    },
+    {
+      "title": "Bear Symbolism in the Bible: What Does it Mean?",
+      "relevance": "İncil metinlerinde ayının ilahi yargı, güç ve tehlike çağrışımlarıyla nasıl kullanıldığını ayet örnekleriyle tartışan Hristiyan içerik.",
+      "url": "https://christianpure.com/learn/bear-symbolism-bible/"
+    },
+    {
+      "title": "Topical Bible: The Bears",
+      "relevance": "İncil’de ayıların güç, vahşet ve ilahi yargı bağlamında yorumlandığını derleyen ansiklopedik Hristiyan kaynak.",
+      "url": "https://biblehub.com/topical/t/the_bears.htm"
+    },
+    {
+      "title": "Bear, Rochester Bestiary, c.1230",
+      "relevance": "Ortaçağ Hristiyan bestiarya geleneğinde ayının günah, ayartı, uyanıklık ve kimi yorumlarda Mesihî çağrışımlarla nasıl sembolleştirildiğini anlatan tarihsel kaynak.",
+      "url": "https://www.kentarchaeology.org.uk/records/rochester-bestiary-bear"
+    },
+    {
+      "title": "The Torah Universe",
+      "relevance": "Daniel’in ayı görüntüsünün Pers imparatorluğu ve onun sert/doğrudan güç karakteriyle ilişkilendirildiği anlatım.",
+      "url": "https://ohr.edu/1505"
+    },
+    {
+      "title": "BEAR - JewishEncyclopedia.com",
+      "relevance": "Ayının Yahudi metinlerinde vahşet, öfke ve tehlike çağrışımlarıyla ele alınışı.",
+      "url": "https://www.jewishencyclopedia.com/articles/2689-bear"
+    },
+    {
+      "title": "10 Wild Facts About Bears in Judaism",
+      "relevance": "Daniel’in rüyasındaki ayının Medo-Persya gücünü temsil etmesi ve Talmud’daki ayı benzeri Pers tasviri.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/7457795/jewish/10-Wild-Facts-About-Bears-in-Judaism.htm"
+    },
+    {
+      "title": "דֹּב (dôb) — (H1677)",
+      "relevance": "דֹּב sözcüğünün Tanah’ta güç, yırtıcılık ve yargı sembolizmiyle kullanımı.",
+      "url": "https://www.biblexika.com/bible-lexicon/dob-h1677"
+    },
+    {
+      "title": "Bear - Bible Encyclopedia",
+      "relevance": "Ayı imgesinin kontrolsüz öfke ve yırtıcılık örneği olarak açıklanması.",
+      "url": "https://www.biblexika.com/encyclopedia/bear"
+    },
+    {
+      "title": "BEAR",
+      "relevance": "Ayının yargı, baskı ve tehdit çağrışımlarıyla kullanıldığı Tanah pasajlarına dair derleme.",
+      "url": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000589"
+    },
+    {
+      "title": "Bear Dream Meaning & Interpretation - Mirror",
+      "relevance": "Budist çerçevede ayının evcilleşmemiş zihin, öfke ve denetimsiz itkilerle ilişkilendirildiğini aktaran çevrim içi derleme sayfası.",
+      "url": "https://mirrorwithin.org/dream-dictionary/bear/"
+    },
+    {
+      "title": "SMOKEY THE BEAR SUTRA",
+      "relevance": "Ayıyı uyanıklık ve tetikte olma ile ilişkilendiren Budist uyarlama metni.",
+      "url": "https://sacred-texts.com/bud/bear.htm"
+    },
+    {
+      "title": "Big bear: Significance and symbolism",
+      "relevance": "Mahayana bağlamında ayının koruyuculuk ve şefkat temasını taşıyan anlatı özeti.",
+      "url": "https://www.wisdomlib.org/concept/big-bear"
+    },
+    {
+      "title": "Bear: Significance and symbolism",
+      "relevance": "Budist anlatıda ayıyı açgözlülük ve bunun aşılması temasıyla ilişkilendiren kavramsal sayfa.",
+      "url": "https://www.wisdomlib.org/concept/bear"
+    },
+    {
+      "title": "Bear Dream Meaning Explained: Interpretation & Spiritual ...",
+      "relevance": "Ayı rüyasını doğrudan ele alan modern spiritüel yorum; güç, koruma, sınır koyma, içe çekilme ve bastırılmış öfke temalarını birlikte işler.",
+      "url": "https://thesymbolicdream.com/common-dreams-and-symbols/bear-dream-meaning/"
+    },
+    {
+      "title": "Full text of \"Dictionary Of Symbols\"",
+      "relevance": "Ayıyı simyasal sembolizm içinde nigredo, ham madde ve içgüdülerle ilişkilendiren sözlük niteliğinde bir kaynak.",
+      "url": "https://archive.org/stream/DictionaryOfSymbols/Dictionary%20of%20Symbols_djvu.txt"
+    },
+    {
+      "title": "What Does It Mean To Dream About Bears?",
+      "relevance": "Ayı rüyalarını güç, dayanıklılık, yalnızlık, geri çekilme ve yenilenme döngüleri üzerinden okuyan genel spiritüel içerik.",
+      "url": "https://www.today.com/life/bear-dream-meaning-rcna182796"
+    }
+  ],
+  "relatedSlugs": []
+}

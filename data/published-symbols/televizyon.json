@@ -1,0 +1,197 @@
+{
+  "slug": "televizyon",
+  "title": "televizyon",
+  "shortDescription": "Rüyada televizyon görmek, dışarıdan gelen görüntülerin ve bilgilerin zihninizde yer etmesini yansıtabilir. Ekranda ne izlediğiniz ve sadece izleyici mi olduğunuz, yoksa görüntülerle etkileşime mi girdiğiniz yorumun yönünü değiştirir.",
+  "positiveAssociations": [
+    "Evden dünyayla bağlantı kurma ve güncel bilgileri izleme",
+    "Görsel farkındalığın genişlemesi; uzaktaki olayları kavrama hissi",
+    "Kişisel yaşamın dışarıdan incelenmesi (ör. kendi hayatını ekranda izlemek)",
+    "Dinlenme, arka plandaki etkiler ve rutin yansımalar"
+  ],
+  "challengingAssociations": [
+    "Pasif izleyicilik, eylemsizlik hissi ve sorumluluktan uzaklaşma",
+    "Zihinsel yorgunluk, bilgi fazlalığı ve dikkat dağınıklığı",
+    "Ekranın sunduğu illüzyonların gerçek algısını etkilemesi",
+    "Ev içi düzen ve dikkat sınırlarının bozulması (arka planda devam eden yayınlar)"
+  ],
+  "contextDependentAssociations": [
+    "Uyku öncesi televizyon programları veya haberlerin rüya içeriğine doğrudan yansıması",
+    "Televizyonun uyanık yaşamda tuttuğu yer (ör. sürekli açık kalan televizyon seti) ve ev atmosferine etkisi",
+    "İzlenen programın türü ve duygusal tonu (haber, dram, aksiyon vb.)",
+    "Rüya görenin izleyici konumunda mı yoksa ekrandaki içerikle etkileşime giren biri mi olduğu, yorumun anlamını değiştirir."
+  ],
+  "commonVariations": [
+    {
+      "title": "Açık ama kimsenin izlemediği televizyon",
+      "description": "Evde arka planda sürekli açık kalan televizyon, dış etkenlerin zihinde süregelen bir dikkat dağıtıcı etki yarattığını gösterebilir."
+    },
+    {
+      "title": "Kendi hayatını ekranda izlemek",
+      "description": "Televizyonda kendinizi veya tanıdığınız birini izlemek, yaşamınızı dışarıdan gözlemleme, öz-eleştiri veya projeksiyon temalarına işaret edebilir."
+    },
+    {
+      "title": "Boş ya da sinyali kesilmiş ekran",
+      "description": "Görüntü vermeyen bir ekran, iletişim kopukluğu, belirsizlik veya dış dünyadan gelen akışın kesilmesi hissini simgeleyebilir."
+    },
+    {
+      "title": "Hızla kanal değiştirmek",
+      "description": "Sürekli programlar arasında geçiş yapmak, kararsızlık, bilgi bombardımanı ve odaklanma güçlüğüne dair bir metafor olabilir."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar, uyku öncesi televizyon ve görsel medya maruziyetinin rüya içeriğine bağlamsal olarak sızabildiğini göstermektedir. Özellikle hareketli medya öğeleri, haberler ve eğlence programlarının rüyalarda yeniden ortaya çıktığı bildirilmiştir. Çocuk çalışmalarında televizyon içeriğini rüyalarına dahil edenlerin kâbus bildirme olasılığının arttığı rapor edilmiştir.",
+  "jungian": "Jungcu çerçevede televizyon, dışarıdan gelen kolektif imgelerin benlik algısına yansıtıldığı, izleyici konumunun ve projeksiyonların öne çıktığı aracı bir yüzey olarak görülebilir. Doğrudan Jung’un metinlerinde sabit bir anlam yoktur; bu nedenle yorumlar Jung’un genel sembolizm ve projeksiyon kavramları temelinde temkinli yapılmalıdır.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan okumalarında televizyon, iletişim, gelen mesajların ayırt edilmesi ve görsel etkiler bağlamında tartışılabilir. Ancak mevcut çalışmalar televizyonda doğrudan klasik teolojik rüya tabirleri sunmuyor; modern çevrimiçi yorumlar bulunduğundan Hristiyan perspektifleri ruhsal bir bağlamda temkinli ifadelerle aktarılmalıdır.",
+  "jewishTraditions": "Yahudi rüya geleneği rüyaların yorumlanabilirliğini vurgular; klasik kaynaklar televizyonu tanımaz. Modern Yahudi açıklamaları uyurken açık kalan televizyonun rüya içeriğini etkileyebileceğini belirtir. Bu yüzden Yahudi çerçevede yapılacak okumalar, klasik metodoloji ile çağdaş ev yaşamının ekran etkilerini birlikte değerlendiren kontrollü çıkarımlarla sınırlıdır.",
+  "buddhistEasternApproaches": "Doğu gelenekleri bağlamında televizyon, dünyanın geçici imgeleriyle meşguliyet, dış meşguliyetlerin içsel farkındalığı nasıl etkilediği ve bireysel yolculuğa dönük dikkatin dağılması temaları üzerinden değerlendirilir. Klasik metinler televizyona doğrudan işaret etmez; bu yüzden genel ilkeler üzerinden temkinli yorum yapılmalıdır.",
+  "spiritualApproaches": "Spiritüel okumalarda televizyon, hangi hikâyeleri ve etkileri benimsemeye eğilimli olunduğunu, algı filtresini ve pasif alımlama ile aktif seçicilik arasındaki gerilimi gösteren bir sembol olarak ele alınır. Bazı yorumlar ekrandaki imgeleri 'görünüş' veya 'maya' bağlamında değerlendirir; bu tür okumalar kaynaklandıkları geleneğe göre değişir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Gündüz televizyon maruziyetinin ve izlenen programların rüya içeriğine bağlamsal olarak yansıması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Ekran, içsel dürtüleri ve gizli arzuları örten veya taşıyan bir gösterim yüzeyi olarak işlev görür; psikanalizde benzer bir işlev üstlenir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Dış dünya imgeleri ile bilinç arasındaki aracı yüzey; projeksiyon, persona ve izleyici konumu temaları üzerinden temkinli yorumlar.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Sembolik Okuma",
+      "interpretation": "Gelen mesajların ayırt edilmesi, görsel etki ve ruhsal sezgi bağlamında televizyonun değerlendirilmesi (modern yorumlara dayanır).",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Algı filtresi, illüzyon/gerçeklik ayrımı ve dış akışları işleme eşiği olarak televizyonun rolü.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli yaklaşımlar televizyonu genel olarak dışarıdan gelen imgelerin rüya içeriğine aktarımı, ekranın aracı işlevi ve bireyin pasif izleyici konumunun yarattığı dikkat sorunları ekseninde ele alır.",
+  "differences": "Ampirik çalışmalar daha çok televizyon maruziyetinin rüya içeriğine katkısına odaklanırken, psikanalitik ve Jungcu yaklaşımlar ekranı içsel projeksiyonların bir yüzeyi olarak değerlendirir. Spiritüel ve dinsel okumalar ise gelen mesajların ayırt edilmesi ve görsel etkilerin ruhsal yönleri üzerinde durur.",
+  "inusAssessment": "Televizyon sembolü rüyada genellikle uyanık yaşamda televizyondan gelen görüntülerin veya ev içi ekran kullanımının zihinsel sürekliliğini gösterir. Yorumda ekranın durumu, izlenen içeriğin türü ve rüya görenin izleyici mi yoksa ekrandaki olaylarla etkileşimde bulunan biri mi olduğu önemli belirleyicilerdir. Tek bir zorunlu anlam atfetmekten kaçınılmalıdır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Impact of Pre-Sleep Visual Media Exposure on Dreams - PMC",
+      "relevance": "Uyku öncesi görsel medya maruziyetinin rüya içeriğine nasıl sızabildiğini ve medya öğelerinin rüyalarda yeniden ortaya çıkma örüntülerini inceliyor; televizyonun rüya içeriğine katkısını destekleyen ampirik bir çerçeve sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11274468/"
+    },
+    {
+      "title": "[PDF] TV viewing and dreaming in children: The UK library study",
+      "relevance": "Çocuklarda televizyon izlemenin rüya içeriği ve kâbus sıklığı ile ilişkisini rapor ederek televizyondan kaynaklanan rüya etkilerine dair örnekler sunuyor.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/9454/pdf_26/10802"
+    },
+    {
+      "title": "Social Media, Dreaming, and Personality: An Online Study - PubMed",
+      "relevance": "Medya kullanımının türüne göre rüya içeriklerinde görülen farklılıkları ve medyanın rüyalarda yer alma olasılığını inceleyerek ekran-temelli içeriklerin rüya temsilindeki genel örüntüye katkı sağlar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31580735/"
+    },
+    {
+      "title": "ART 46416 Media.indd",
+      "relevance": "Farklı televizyon türlerine maruziyet ile ilgili medya referanslı rüyaların sıklığı arasındaki ilişkiyi ele alıyor.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/46416/pdf/167077"
+    },
+    {
+      "title": "Introduction to Freud's Concepts of Sleep and Dream2",
+      "relevance": "Freudcu ekran anısı ve rüya ekranı kavramları üzerinden televizyon ekranını psikanalitik bir analojiyle düşünmek için kavramsal zemin sağlar.",
+      "url": "https://freudiangroup.com/wp-content/uploads/2025/10/4_5918123140390585450.pdf"
+    },
+    {
+      "title": "Psychoanalysis, Film, and Television | 11 | v2 | Channels of Discourse",
+      "relevance": "Film ve televizyonu, rüya ve düş çalışmasıyla ilişkili imgeler dünyası içinde ele alan psikanalitik eleştiri çerçevesini sunar.",
+      "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9780203991329-11/psychoanalysis-film-television-robert-allen"
+    },
+    {
+      "title": "Day residue and screen memory in Freud's dream of the botanical ...",
+      "relevance": "Ekran anısı tartışmaları, görünür yüzeylerin daha derin içerikleri örtme ya da taşıma işlevini anlamak için kullanışlıdır.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3235760/"
+    },
+    {
+      "title": "Psychoanalytic Criticism",
+      "relevance": "Televizyon ekranını, psikanalitik çözümlemede görüntülerin anlam üretimindeki rolü üzerinden düşünmeye yarayan bir eleştirel çerçeve sunar.",
+      "url": "https://us.sagepub.com/sites/default/files/upm-binaries/5172_Berger_Final_Pages_Chapter_3.pdf"
+    },
+    {
+      "title": "La voie des rêves - Marie Louise von Franz",
+      "relevance": "Jungcu çerçevede rüya imgelerinin bireysel ve kolektif bağlamla ilişkisini ele alarak televizyon gibi modern imgelerin yorumlanması için temkinli bir Jungcu perspektif sunar.",
+      "url": "https://www.cgjung.net/mlvf/oeuvre/la_voie_des_reves.htm"
+    },
+    {
+      "title": "Watch Now! - Apostle David E. Taylor [Official Site]",
+      "relevance": "Modern Hristiyan çevrimiçi yorum örneği; televizyon rüyalarının mesaj, vaaz veya olumsuz ruhsal etki temalarıyla nasıl ilişkilendirilebileceğini gösterir (çağdaş yorum kaynağı).",
+      "url": "https://joshuamediaministries.org/dreams/television/"
+    },
+    {
+      "title": "Beholding the Image: Vision in John Calvin's Theology - DukeSpace",
+      "relevance": "Hristiyan teolojisinde görme, imge ve iman ilişkisini ele alan akademik çalışma; televizyon için doğrudan yorum değil, kontrollü sembolik çerçeve sağlar.",
+      "url": "https://dukespace.lib.duke.edu/items/b2c7c0a2-f414-4d4d-96ad-430deff9bc3a"
+    },
+    {
+      "title": "Visual Arts and Christian Theology",
+      "relevance": "Hristiyanlıkta görsel algının ve görmenin ruhsal yaşam içindeki yerini özetleyen akademik kaynak; televizyon sembolü için genel teolojik arka plan sunar.",
+      "url": "https://www.saet.ac.uk/Christianity/VisualArts"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Yahudi rüya yorumlama geleneğinin rüyaların yorumlanabilirliği ve statüsü hakkındaki temel çerçevesini vererek, televizyon gibi çağdaş imgelerin Yahudi yorumunda nasıl temkinli ele alınması gerektiğini gösterir.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot’un rüyalar bölümünün neyi tartıştığını özetleyen açıklama; Yahudi rüya yorumunun bağlamını gösterir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "What Do Dreams Mean?",
+      "relevance": "Uyku sırasında açık kalan televizyonun rüya içeriğini etkileyebileceğini söyleyen modern Yahudi açıklaması; televizyonun rüya bağlamına dolaylı girişi.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/274823/jewish/What-Do-Dreams-Mean.htm"
+    },
+    {
+      "title": "Rüyada televizyon izlemek ne anlama gelir?",
+      "relevance": "Televizyon rüyasını Budizm ve Hinduizm gibi inançlarda geniş farkındalık ve iç yolculuk isteğiyle ilişkilendiren modern bir yorum sunar.",
+      "url": "https://bilgisozlugu.com/detay/ruyada-televizyon-izlemek-ne-anlama-gelir-4845.html"
+    },
+    {
+      "title": "Rüyada Televizyon Görmek, İzlemek ve Televizyona Çıkmak Ne Demek?",
+      "relevance": "Televizyonu rüyada medya, haberleşme ve dünya işleriyle meşguliyet bağlamında ele alan modern bir yorum verir.",
+      "url": "https://www.diyadinnet.com/ruyada-9368-televizyon-gormek"
+    },
+    {
+      "title": "Television and Hinduism - Oxford Academic - Oxford University Press",
+      "relevance": "Televizyonun Hindistan bağlamında dinî ve kültürel değerleri kamusal alanda yeniden üretebilen bir medya aracı olarak tartışılmasına yer verir.",
+      "url": "https://academic.oup.com/reference/62357/reference-article-abstract/561728246?redirectedFrom=fulltext"
+    },
+    {
+      "title": "Santanu Chakrabarti Dissertation for Submission",
+      "relevance": "Hindistan televizyon dizilerinin ritüel ve Hindu kültürel sembolizmle ilişkisini inceleyen akademik bir çalışma sunar.",
+      "url": "https://rucore.libraries.rutgers.edu/rutgers-lib/39115/PDF/1/play/"
+    },
+    {
+      "title": "Television in Dreams: Screens, Stories, and the Self",
+      "relevance": "Televizyonun rüya bağlamında dikkat, yönelim ve maruziyetin etkileriyle ilişkilendirildiği modern spiritüel bir okuma sunar; ayrıca görünüşler, maya ve içsel alımlama kavramlarına değinir.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/television"
+    },
+    {
+      "title": "Television Dream Meaning & Interpretation",
+      "relevance": "Televizyonu rüyalarda iletişim, bilgi akışı, aracı görüntüler ve illüzyon/gerçeklik ayrımı üzerinden ele alan kapsamlı modern sembolik yorumlar içerir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/television/"
+    },
+    {
+      "title": "Tv - Dream Symbol Meaning and Interpretation",
+      "relevance": "Televizyon rüyasını dış etkiler, algı, içerik tüketimi ve dikkat odağıyla ilişkilendiren modern sembolik açıklamalar verir; spiritüel yorum için yararlanılabilir.",
+      "url": "https://dreams.guide/dream-symbols/tv"
+    },
+    {
+      "title": "Télévision - Dictionnaire des rêves - Tristan Moir",
+      "relevance": "Televizyonu dünyaya açılan pencere, geri çekilme ve ekrandaki imgelerle ilişki gibi karşıt anlamlar üzerinden yorumlayan modern rüya sözlüğü maddesidir.",
+      "url": "https://tristan-moir.fr/television/"
+    }
+  ],
+  "relatedSlugs": []
+}

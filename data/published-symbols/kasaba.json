@@ -1,0 +1,187 @@
+{
+  "slug": "kasaba",
+  "title": "kasaba",
+  "shortDescription": "Rüyada kasaba görmek; aidiyet, sosyal çevre ve iç dünyadaki düzenle ilişkilendirilebilir. Tanıdık ve canlı bir kasaba yakın bağları, yabancı ya da harap bir kasaba ise uyum arayışını veya zayıflayan aidiyet hissini yansıtabilir.",
+  "positiveAssociations": [
+    "Aidiyet ve korunma hissi",
+    "Düzenli sosyal çevre",
+    "Arzuların gerçekleşmesi ve hedefe varış",
+    "İç dünyanın düzenlenmesi"
+  ],
+  "challengingAssociations": [
+    "Yabancılık ve uyum sorunları",
+    "Terk edilmişlik veya harap durumlar"
+  ],
+  "contextDependentAssociations": [
+    "Kasabaya giriş yapılması veya bir yerleşime varılması",
+    "Kasabada yangın çıkması veya tehlike yaşanması",
+    "Kasabanın tanıdık ya da tamamen bilinmeyen bir yer olması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık bir kasabada yürümek",
+      "description": "Geçmişe, kökenlere veya tanıdık sosyal ilişkilere bağlılığı, aidiyet duygusunu ya da bu alanlara duyulan özlemi gösterir."
+    },
+    {
+      "title": "Yabancı ve sessiz bir kasabaya varmak",
+      "description": "Hayatın yeni bir evresine geçişi, bilinmeyen bir toplumsal çevreye uyum çabasını veya içsel bir arayışı işaret edebilir."
+    },
+    {
+      "title": "Kasabada yangın çıktığını görmek",
+      "description": "Toplumsal ya da bireysel yaşamda ani dönüşümleri, arınma süreçlerini veya içsel çatışmaların dışavurumunu simgeleyebilir."
+    },
+    {
+      "title": "Terk edilmiş veya harap bir kasabada olmak",
+      "description": "Sosyal bağların zayıflaması, aidiyet hissinin kaybı veya psikolojik olarak ihmâl edilmiş yönlerin imgesi olabilir."
+    }
+  ],
+  "psychology": "Psikanalitik çerçevede kasaba tek başına sabit bir anlam taşımaz; gündelik artıklar, anı parçaları ve yer değiştirme süreçleri bağlamında rüyanın sahnesi olarak işlev görebilir.",
+  "jungian": "Analitik psikolojide kasaba imgeleri kolektif yaşam sahnesi, toplumsal rol (persona) ve psikikte yapılandırılmış alanlarla ilişkilendirilebilir. Bu okumalar, bağlam ve duygusal tonu dikkate alarak kasabayı bilinçli sosyal yönün bir yansıması olarak ele alır.",
+  "islamicTradition": "Bu derlemede kasaba için güvenilir klasik bir İslâmî rüya tabiri doğrulanmadı; çevrimiçi modern tabir sayfaları bulunmakla birlikte bunlar klasik metinlere doğrudan atıf sağlamıyor. Dolayısıyla İslâmî perspektiften yorumlar yaparken dikkatli ve sınırlı bir yaklaşım gerekir.",
+  "christianTraditions": "Hristiyan gelenekte şehir/kasaba imgeleri hem güven, sığınak ve topluluk temaları hem de insan gururu ve yargı simgeleriyle ilişkilendirilebilir; kasaba rüyası bu iki yön arasında, rüyanın bağlamına bağlı olarak okunabilir.",
+  "jewishTraditions": "Rabbanî gelenekte (ör. Berakhot 57a) bir şehre/yerleşime girmenin arzu ve dileklerin gerçekleşmesiyle ilişkilendirildiği görülür; kasaba motifi bu çerçevede hedefe varma ya da bir dileğin tahakkuku bağlamında değerlendirilebilir.",
+  "buddhistEasternApproaches": "Budist metinlerde şehir ve kasaba imgeleri genellikle bedensel ve toplumsal düzenlemelerin metaforu olarak kullanılır; bazı örneklerde kasabada veya köyde yangın görmek ya da yeni kurulmuş bir şehir görmek gelişim ya da arınma işareti olarak değerlendirilir.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel yorumlarda kasaba, bireyin iç dünyasının düzenlenmiş bir alanı, yakın çevresi ve topluluk içindeki konumu ile bağlantılı bir semboldür; bu okumalar bağlama dayanır ve kesin anlamlar vermez.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Rüyanın gündelik artıklarını, bellek kalıntılarını ve yer değiştirme süreçlerini taşıyan mekânsal bir sahne olarak görülebilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Kasaba, kolektif düzenin ve toplumsal rolün (persona) simgesel izdüşümü olarak görülebilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Yerleşime giriş motifi, arzuların gerçekleşmesi veya hedefe varışın bir işareti olarak yorumlanabilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Gelenekleri",
+      "interpretation": "Şehir/kasaba teması, topluluk ve sığınak simgesi ya da insanî gurur ve yargı sahnesi olarak yorumlanabilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımları",
+      "interpretation": "Beden/şehir benzetmesi bağlamında kasaba imgeleri arınma ve gelişim aşamalarını simgeleyebilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "İç dünyanın örgütlenmesi ve topluluk içindeki konumla ilgili metaforik bir okuma sunar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Birçok yaklaşım kasaba imgesini topluluk, düzen ve aidiyet ekseninde değerlendirir; kasabanın görünümü (düzenli, kalabalık, terk edilmiş, yanıyor olması vb.) yorumun yönünü belirleyen ortak bir faktördür.",
+  "differences": "Psikanalitik okuma kasabayı rüyayı oluşturan malzemenin bir sahnesi olarak vurgularken; Jungcu, spiritüel ve bazı tarihsel gelenekler kasabayı içsel düzen, toplumsal rol ve kolektif düzen simgesi olarak ele alır. Rabbanî ve bazı Budist gelenekleri ise kasaba/yerleşim motifini daha spesifik dönüşüm veya gerçekleşme temalarıyla ilişkilendirir.",
+  "inusAssessment": "Kasaba rüyası tek başına belirli bir anlama indirgenemez; en güvenli okuma, kasabayı bireyin toplumsal çevre, aidiyet duygusu ve içsel düzeniyle kurduğu ilişkinin mekânsal karşılığı olarak görmektir. Detaylar—örneğin kasabanın tanıdık olup olmaması, hasar görmüş olması veya içine girilmesi—yorumun yönünü önemli ölçüde değiştirir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud örnekleri bağlamında kasaba/şehir sahnelerinin rüya malzemesi ve yer değiştirme süreçleri içinde nasıl işlev gördüğünü ele alır.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 5, part a",
+      "relevance": "Rüyada önemsiz görünen yer ve çevre ayrıntılarının yer değiştirme ve sansür süreçleriyle öne çıkmasını açıklar; kasaba imgesi için yorumlayıcı zemin sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5a.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyanın gündüz artıklarından ve bastırılmış dilekten kurulduğunu anlatır; kasaba imgeleri bu genel rüya kuramı içinde değerlendirilir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "City - Dreampaths",
+      "relevance": "Jungcu çerçevede şehir/kasaba imgelerinin kolektif boyutları, toplumsal rol ve persona ilişkileri bağlamında nasıl okunabileceğine dair modern bir yorum sunar.",
+      "url": "https://dreampaths.com/symbol/city"
+    },
+    {
+      "title": "City / Urban Environment in Dreams: Meaning in Depth ...",
+      "relevance": "Kenti Jungcu okumada yapılandırılmış bilinç, persona ve toplumsal düzenle ilişkilendiren bir çevrimiçi yorum kaynağı.",
+      "url": "https://foreverju.ng/symbols/city"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritik gelenekte şehir tipi yerleşimlerin düzenli ya da düzensiz hallerine göre uğurlu ya da uğursuz biçimde yorumlanmasına örnek teşkil eder.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual ...",
+      "relevance": "Artemidorus ve Oneirocritica’nın antik rüya yorum geleneğindeki yerini ve sistematik yorum yaklaşımını açıklar.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?login=true"
+    },
+    {
+      "title": "Kasaba | Rüya Tabirleri - Ezan Vakti Pro",
+      "relevance": "Kasaba başlığı altında modern bir rüya tabiri metni sunar.",
+      "url": "https://books.ezanvaktipro.com/ruya-tabirleri/kasaba/"
+    },
+    {
+      "title": "(PDF) İbn Kuteybe'den Rüya Tabirciliği",
+      "relevance": "İbn Kuteybe üzerine akademik kayıt görünümü verir; fakat kasaba sembolünün rüya yorumu için doğrudan metin sunmaz.",
+      "url": "https://www.academia.edu/98681166/%C4%B0bn_Kuteybeden_R%C3%BCya_Tabircili%C4%9Fi"
+    },
+    {
+      "title": "Paterson, Martin H. (2022) An assessment of the city motif in Revelation 17-18",
+      "relevance": "Vahiy 17–18 bağlamında şehir motifinin olumlu ve olumsuz anlamlar arasında nasıl çalıştığını ele alır.",
+      "url": "https://theses.gla.ac.uk/82784/3/2022PatersonMTh(R).pdf"
+    },
+    {
+      "title": "Topical Bible: Cities: Figurative",
+      "relevance": "Kutsal Kitap’taki şehir imgesinin ruhsal ve ahlaki anlamlarını özetler; Yeruşalim ve Babil karşıtlığını hatırlatır.",
+      "url": "https://biblehub.com/topical/naves/c/cities--figurative.htm"
+    },
+    {
+      "title": "Topical Bible: Symbolism of the City",
+      "relevance": "Şehir sembolünün sığınak, yargı ve kurtuluş gibi farklı İncil temalarıyla ilişkisini özetler.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_the_city.htm"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Rabbanî literatürde bir şehre/yerleşime girmenin arzuların gerçekleşmesi ile ilişkilendirildiğine dair doğrudan pasajı içerir.",
+      "url": "https://www.sefaria.org/Berakhot.57a?lang=en"
+    },
+    {
+      "title": "Nagara Sutta, Mah Sakya,muni Gotama Sutta",
+      "relevance": "Nagara Sutta'da şehir, beden, duyular ve bilinç için bir benzetme olarak kullanılır.",
+      "url": "https://www.themindingcentre.org/dharmafarer/wp-content/uploads/2009/12/14.2-Nagara-S-s12.65-piya.pdf"
+    },
+    {
+      "title": "Early Buddhists and urban centers",
+      "relevance": "Erken Budist metinlerde şehir ve kasaba anlatılarının toplumsal ve mekânsal bağlamını inceler.",
+      "url": "https://scispace.com/pdf/early-buddhists-and-urban-centers-narrative-representations-4w7gh7s1sy.pdf"
+    },
+    {
+      "title": "[PDF] Dreaming the path: diagnosing Bodhisattva progress in early ...",
+      "relevance": "Budist rüya geleneğinde kasaba/köy yangını gibi imgelerin bodhisattva gelişimi veya arınma bağlamında kullanıldığı örnekleri tartışır.",
+      "url": "https://scholarlypublications.universiteitleiden.nl/access/item:4105024/view"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Rüyada şehir görmek ile yeni kurulmuş veya temizlenmiş bir şehir görmek, bodhisattva aşamalarıyla ilişkilendirildiği Budist rüya metinlerinde yer alır.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "City Dreams: Meaning & Psychological Interpretation",
+      "relevance": "Şehir/kent sembolünü ruhun yolculuğunda karmaşık bir iç düzen ve ruhsal deneyim alanı olarak ele alır.",
+      "url": "https://somniscient.com/en/symbols/city"
+    },
+    {
+      "title": "Town Dream Interpretation – Meaning",
+      "relevance": "Kasaba/kent düşlerini topluluk, sosyal çevre ve aidiyet duygusu bağlamında yorumlar.",
+      "url": "https://www.dreamtion.com/town"
+    },
+    {
+      "title": "Town Dream Meaning & Interpretation - Mirror",
+      "relevance": "Kent sembolünü iç dünyanın örgütlenmesi, sosyal bağlar ve kolektif insan deneyimi açısından açıklar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/town/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian"
+  ]
+}

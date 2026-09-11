@@ -1,105 +1,233 @@
 {
   "slug": "eski-sevgili",
   "title": "eski sevgili",
-  "shortDescription": "Rüyada eski sevgili görmek, çoğu zaman ayrılık sonrası kalan duyguların ve geçmiş ilişkinin zihinde işlenmesiyle ilgilidir. Rüyadaki hisler ve mevcut ilişki durumunuz, geçmişe yeniden bakma ya da bir konuyu kapatma ihtiyacını öne çıkarabilir.",
+  "shortDescription": "Rüyada eski sevgili görmek, geçmiş ilişkilerin, tamamlanmamış duygusal bağların ve zihinsel meşguliyetlerin rüya yaşamındaki yankısıdır. Doğrudan sabit bir kehanet veya geri dönüş arzusu taşımaktan ziyade, kişinin mevcut duygusal durumunu ve geçmişle kurduğu bağı yansıtır.",
   "positiveAssociations": [
     "Geçmiş deneyimlerden öğrenilen dersler",
+    "İçsel kapanış ve huzura varma",
     "Kişisel gelişim ve olgunlaşma",
-    "Yeni başlangıçlara duyulan hazırlık",
-    "İçsel kapanış ve huzur arayışı"
+    "Affetme ve geçmişle barışma"
   ],
   "challengingAssociations": [
-    "Çözülmemiş içsel çatışmalar",
-    "Güncel ilişkide yaşanan güvensizlikler",
-    "Devam eden özlem veya kayıp hissi",
-    "Zihinsel olarak geçmişe takılı kalma"
+    "Çözülmemiş duygusal tortular ve ambivalans",
+    "Geçmişe takılı kalma ve yas sürecinin uzaması",
+    "Tekrarlayan içsel döngüler",
+    "Kaybedilen nesneye yönelik özlem ve melankoli"
   ],
   "contextDependentAssociations": [
-    "Rüya görenin mevcut ilişki durumu",
-    "Ayrılığın üzerinden geçen süre",
-    "Rüyadaki duygu tonunun olumlu veya olumsuz olması"
+    "Mevcut ilişki dinamiklerinin ve duygusal tatminin yansıması",
+    "Gündelik hayattaki anıların ve zihinsel artıkların tetiklenmesi",
+    "Bireyleşme sürecinde içsel niteliklerin geri çağrılması"
   ],
   "commonVariations": [
     {
-      "title": "Eski sevgiliyle barıştığını görmek",
-      "description": "Kişinin hayatında benzer bir döngüyü veya çözülmemiş bir meseleyi yeniden ele alma ihtiyacını simgeleyebilir."
+      "title": "Eski sevgiliyle yeniden bir araya gelme",
+      "description": "Rüyada eski sevgiliyle barıştığını veya tekrar ilişkiye başladığını görmek, genellikle geçmişin konforuna duyulan özlemi veya mevcut duygusal yaşamdaki bazı eksiklikleri telafi etme arayışını yansıtır."
     },
     {
-      "title": "Eski sevgilinin başka biriyle olduğunu görmek",
-      "description": "Geçmişteki ilişkiyle ilgili bağın tamamen koptuğunu kabullenme veya güncel ilişkideki kıyaslama eğilimlerini yansıtabilir."
+      "title": "Eski sevgilinin uzaklaşması veya konuşmayı reddetmesi",
+      "description": "Eski sevgilinin rüyada ulaşılamaz olması ya da iletişim kurmaktan kaçınması, yaşanan ayrılığın gerçekliğiyle yüzleşme, kapanış ihtiyacı ve libidonun eski nesneden geri çekilme sürecini simgeler."
     },
     {
-      "title": "Eski sevgiliyle tartışmak",
-      "description": "Geçmişte ifade edilememiş öfkenin veya ayrılık sürecindeki tamamlanmamış hislerin zihinsel olarak dışavurumudur."
+      "title": "Eski sevgilinin evinde veya eski ortak mekânlarda bulunma",
+      "description": "Geçmişte paylaşılan mekânlarda eski sevgiliyle karşılaşmak, zihnin geçmiş bir yaşam evresine veya o döneme ait kimlik parçalarına dönerek bir iç hesaplaşma yapmasına işaret eder."
     },
     {
-      "title": "Eski sevgilinin yardım istemesi",
-      "description": "Kişinin kendi içindeki fedakarlık, vicdani sorumluluk veya geçmişe karşı duyulan borçluluk duygularını temsil edebilir."
+      "title": "Eski sevgilinin yardıma ihtiyacı olması",
+      "description": "Eski sevgilinin rüyada zor bir durumda belirmesi, kişinin kendi içindeki çözülmemiş merhamet, suçluluk veya geçmişe ait sorumluluk duygularını projeksiyon yoluyla ele almasıyla ilgilidir."
     }
   ],
-  "psychology": "Ampirik çalışmalar, partner ve eski partnerlerin rüyalarda yer almasının romantik ilişkilerin ve ayrılık süreçlerinin zihinsel işlenmesiyle doğrudan bağlantılı olduğunu göstermektedir. Bu tür rüyalar, kişinin duygusal entegrasyon sürecinde önemli bir rol oynayabilir ve psikoterapide güncel ilişkiler ile geçmiş bağlar arasındaki köprüleri anlamak için bir araç olarak ele alınabilir.",
-  "jungian": "",
-  "islamicTradition": "Modern çevrimiçi İslami rüya kaynaklarında aşk ve eski ilişkiler bazen imtihan veya nefsin arzularıyla ilişkilendirilse de, bu yaklaşım klasik birincil metinler üzerinden doğrudan doğrulanan sabit bir kural sunmamaktadır.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
+  "psychology": "Ampirik çalışmalar, eski partner rüyalarının mevcut partner rüyalarına kıyasla daha seyrek görüldüğünü, ancak ayrılıktan yıllar sonra bile sıklıkla raporlandığını ortaya koymaktadır. Bu rüyaların görülme sıklığı genellikle ilişki dönemindeki yakınlık düzeyi ve önceki partnerin rüya yaşamındaki yeriyle bağlantılıdır. Süreklilik hipotezi çerçevesinde, bu imgeler geçmiş ilişki deneyimlerinin zihinsel olarak işlenmeye devam ettiğini gösterir. Psikanalitik düzlemde Freud, görünür rüya içeriği ile gizli düşüncelerin ayrı olduğunu belirtir. 'Mourning and Melancholia' bağlamında ise yas, kaybedilen nesnenin yokluğunun kabulü ve libidonun o nesneden geri çekilmesiyle ilgilidir. Rüyada eski sevgilinin belirmesi, doğrudan o kişiye yönelik bir istekten ziyade, geçmişteki kayıp nesneye bağlı duygulanımın ve yas çalışmasının yeniden canlanması olarak okunabilir.",
+  "jungian": "Jungcu analitik psikolojide eski sevgili figürü, rüya sahibinin iç dünyasında projeksiyonun odağı olarak işlev görür. İlk aşk veya eski partnerler, anima ya da animus projeksiyonlarının odağı haline gelebilir. Bu rüyalar, dışsal kişiden çok, kişinin kendi içinde bastırdığı veya henüz bütünleştirmediği nitelikleri, gölge yönleri ve tamamlanmamış duygusal süreçleri temsil eder. Bireyleşme yolculuğunda eski partner, geçmiş bir yaşam evresinin ve bu evrede bırakılmış ruhsal parçaların geri alınması gereken simgeleri olarak rüyada yeniden sahneye çıkar.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan bakış açısına dayanan modern teolojik yorumlarda, eski sevgiliyi rüyada görmek geçmişin anılarıyla yüzleşme, bitmemiş duyguları fark etme veya affetme ihtiyacı olarak ele alınır. Kutsal metinlerdeki geride bırakma ve geleceğe yönelme temalarıyla bağdaştırılarak, bu tür rüyalar eski bir dönemin duygusal yükünü dua ve manevi pratiklerle geride bırakma çağrısı şeklinde değerlendirilir.",
+  "jewishTraditions": "Talmudik gelenekte Berakhot çerçevesinde rüyalar, bireyin gün içindeki zihinsel meşguliyetlerini ve düşünce akışını yansıtabilir. Rüyaların tek başına mutlak bir kehanet taşımadığı, kişinin içsel dünyasına ayna tuttuğu kabul edilir. Bu bağlamda eski sevgili imgesi, zihnin geçmiş anılarla ve çözülmemiş zihinsel uğraşlarla kurduğu bağın bir yansımasıdır.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "Spiritüel ve ezoterik yaklaşımlarda eski sevgili figürü, genellikle henüz kapanmamış duygusal meselelerin, tamamlanmayı bekleyen yaşam derslerinin veya zihinsel düzeyde taşınmaya devam eden karmik bağların bir yansıması olarak yorumlanır.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yaklaşımlarda eski sevgili rüyası, bitmiş bir ilişkiyi değil, ruhsal olarak kapanmamış bir döngüyü, karmik dersleri ya da geçmişten kalan enerji izlerini simgeler. Kişinin o dönemdeki benlik haline veya kimlik parçalarına duyduğu özlemi ya da kalbin enerjisinin hâlâ nereye bağlı olduğunu sorgulatan bir iç hesaplaşma vesilesi olarak görülür.",
   "comparisonTable": [
     {
       "approach": "Ampirik Psikoloji",
-      "interpretation": "Ayrılık süreçlerinin, bağlanma dinamiklerinin ve güncel ilişkilerin zihinsel işlenme biçimi.",
+      "interpretation": "İlişki yakınlığı, süreklilik hipotezi ve geçmiş deneyimlerin rüya yaşamındaki sıklığı.",
       "evidenceLevel": "research"
     },
     {
-      "approach": "Spiritüel Yaklaşımlar",
-      "interpretation": "Bitmemiş duygular, yaşam dersleri ve ruhsal bağların veya karmik etkilerin yansıması.",
-      "evidenceLevel": "spiritual"
+      "approach": "Psikanaliz",
+      "interpretation": "Kayıp nesne, yas çalışması, libidonun geri çekilmesi ve gizli arzular.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Geleneksel / Modern Derleme",
-      "interpretation": "Aşk temasını ve geçmiş ilişkileri kişisel imtihanlar veya arzular bağlamında ele alma eğilimi.",
+      "approach": "Jungcu Analiz",
+      "interpretation": "Anima/animus projeksiyonları, gölge entegrasyonu ve bireyleşme süreci.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Yorumu",
+      "interpretation": "Geçmişe takılmama, affetme, kapanış ve yeni bir kimliğe yönelme.",
       "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Talmudik Yaklaşım",
+      "interpretation": "Gündüz düşüncelerinin yansıması ve zihinsel meşguliyetler.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Kapanmamış döngüler, ruh dersleri ve enerjetik bağlar.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı yaklaşımlar, eski sevgili rüyasının sadece geçmişteki kişiye harfi harfine bir özlem olmadığını, kişinin kendi iç dünyasındaki duygusal durumlarla bağ kurduğunu kabul eder.",
-  "differences": "Ampirik Psikoloji bu rüyaları günlük yaşam ve ilişki süreçleriyle temellendirirken, Spiritüel Yaklaşımlar daha çok içsel dersler ve enerjisel kapanışlar üzerine odaklanır.",
-  "inusAssessment": "Eski sevgili sembolü, kesin ve tek bir anlama indirgenemeyecek kadar bağlama bağımlıdır. Rüyayı gören kişinin bugünkü ilişkisel gerçekliği, ayrılığın doğası ve rüya anındaki duygusal ton göz önüne alınmadan yapılan deterministik yorumlar eksik kalmaya mahkumdur. INUS yaklaşımı, bu tür rüyaların dogmatik birer gelecek habercisi olarak değil, zihnin geçmişle hesaplaşma ve bugünü dengeleme aracı olarak ele alınmasını önerir.",
+  "commonGround": "Farklı disiplinler ve yaklaşımlar, eski sevgili rüyalarının nadiren salt dışsal ve fiziksel bir geri dönüş anlamına geldiği konusunda genellikle hemfikirdir; bu rüyalar çoğunlukla içsel bir durumu, geçmişle kurulan bağı ve zihinsel artıkların dışavurumunu yansıtır.",
+  "differences": "Psikolojik araştırmalar rüya sıklığını ve ilişki yakınlığını ampirik verilerle incelerken, psikanaliz kayıp ve yas süreçlerine odaklanır. Jungcu yaklaşım içsel projeksiyonlara ve bütünleşmeye ağırlık verirken, teolojik, geleneksel ve spiritüel okumalar rüyayı ahlaki bir uyarı, affetme vesilesi veya tamamlanmamış bir döngü olarak ele alır.",
+  "inusAssessment": "Eski sevgili sembolü, rüya analizinde bireyin geçmişiyle kurduğu duygusal köprünün en hassas göstergelerinden biridir. Bu sembolü ele alırken rüyanın taşıdığı duygusal ton —özlem, ambivalans, yas veya huzursuzluk— yorumun yönünü belirleyen en kritik unsurdur. Rüyada beliren figür gerçekten geri dönme isteğinden ziyade, çözülmemiş bir içsel döngünün, kaybedilen bir parçanın ya da bireyleşme sürecinde geri alınması gereken bir yansımanın habercisi olabilir. Dolayısıyla rüya sahibi, imgenin yüzeyindeki kişiden çok, o ilişkinin kendisinde bıraktığı tortuya ve bugünkü ruh haline odaklanmalıdır.",
   "faq": [
     {
-      "question": "Eski sevgilimi rüyamda görmek onu hala sevdiğim anlamına mı gelir?",
-      "answer": "Araştırmalar bu rüyaların her zaman romantik özlem anlamına gelmediğini, bazen sadece zihnin geçmişteki bir dönemi veya ayrılık sürecini işlemeye çalıştığını göstermektedir."
+      "question": "Rüyada eski sevgilimi görmek onun da beni düşündüğü anlamına mı gelir?",
+      "answer": "Bilimsel ve psikolojik veriler bu rüyaların çoğunlukla rüya sahibinin kendi içsel süreçleri, geçmiş ilişki hafızası ve mevcut duygusal durumuyla ilgili olduğunu gösterir; doğrudan karşı tarafın düşüncesinin telepatik bir yansıması olarak kanıtlanmamıştır."
     },
     {
-      "question": "Sürekli aynı eski sevgiliyi görmek neyi ifade eder?",
-      "answer": "Bu durum, ilişkide kapanmamış bazı duygusal meselelerin, çözülmemiş çatışmaların veya kişinin güncel hayatındaki benzer dinamiklerin bir göstergesi olabilir."
+      "question": "Mutlu bir ilişkim varken neden eski sevgilimi rüyamda görüyorum?",
+      "answer": "Bu durum, zihnin geçmişteki önemli bir ilişki dönemini veya o döneme ait bir kimlik parçasını güncel anılar ve gündüz artıklarıyla birleştirerek işlemesinden kaynaklanabilir; mevcut ilişkinizin kalitesini doğrudan yargılamaz."
+    },
+    {
+      "question": "Eski sevgilimi sürekli rüyamda görmek neyi ifade eder?",
+      "answer": "Tekrarlayan eski sevgili rüyaları, psikolojik olarak yas sürecinin tamamlanmadığına, psikanalitik olarak libidonun eski nesneden tam anlamıyla çekilmediğine ya da Jungcu açıdan bütünleşmeyi bekleyen içsel projeksiyonların varlığına işaret edebilir."
     }
   ],
   "sources": [
     {
       "title": "Partners and Ex-Partners in Dreams: A Diary Study - PMC",
-      "relevance": "Partner ve eski partnerlerin rüyalarda nasıl göründüğünü, ilişki ve ayrılık süreçleriyle bağlantılı biçimde inceleyen günlük çalışma.",
+      "relevance": "Günlük verilerle partner ve eski partner rüyalarının görülme sıklığını, duygusal bağlamını ve süreklilik hipoteziyle ilişkisini ele alır.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8161826/"
     },
     {
-      "title": "A Dream of Past Love Points to New Beginnings",
-      "relevance": "Eski sevgili rüyalarının her zaman özlem anlamına gelmediğini; güncel duygular ve ilişki bağlamıyla ilişkili olabileceğini tartışan klinik psikoloji yazısı.",
-      "url": "https://www.psychologytoday.com/us/blog/understanding-dreams/202101/a-dream-of-past-love-points-to-new-beginnings"
+      "title": "Partners and ex-partners in dreams: An online survey",
+      "relevance": "Çevrimiçi ankette partner ve eski partner rüyalarının sıklığını, duygusal tonunu ve ilişki sonrası dönemdeki devamını inceler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/75338"
     },
     {
-      "title": "Old Lover Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya sözlüğünde 'eski sevgili / eski aşk' başlığı altında aşkın rüyada deneme ve ayartı ile ilişkilendirildiğini gösteren çevrimiçi kaynak.",
-      "url": "https://www.myislamicdream.com/old_lover.html"
+      "title": "Reminiscences of love: Former romantic partners in dreams",
+      "relevance": "Uzun rüya serisinde romantik partnerlerin ve eski partnerlerin rüyalarda ne kadar yer aldığını, ayrılık sonrası devamlılık ve ilişki yakınlığı bağlamında inceler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/43842"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/228 - ...",
+      "relevance": "Rüyada görünen sahne ile altta yatan düşünceler arasındaki ayrımı ve rüya içeriğinin gizli arzularla ilişkisini açıklar.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/228"
+    },
+    {
+      "title": "[PDF] Freud, S. (1917). Mourning and Melancholia. The Standard Edition ...",
+      "relevance": "Sevilen nesnenin kaybı, yas, gerçeklik testi ve libidonun nesneden geri çekilmesi kavramlarını geliştirir.",
+      "url": "http://static1.1.sqspcdn.com/static/f/325352/22733109/1369101177787/freud_-_mourning_and_melancholia.pdf?token=8g2SHxVKfSgQjcMFrLxEC0E6O6U="
+    },
+    {
+      "title": "[PDF] Dreams of Love and Fateful Encounters",
+      "relevance": "Kayıp, arzu ve sevilen nesnenin rüyalarda yeniden belirmesi arasındaki ilişkiyi psikanalitik bağlamda tartışır.",
+      "url": "http://ndl.ethernet.edu.et/bitstream/123456789/47874/1/Ethel%20Spector%20Person.pdf"
+    },
+    {
+      "title": "Ex girlfriend is a recurring dream character : r/Jung",
+      "relevance": "Eski sevgilinin rüyalarda anima/animus figürüne dönüşebileceği yönünde Jungcu tartışma içerir.",
+      "url": "https://www.reddit.com/r/Jung/comments/1bu56a5/ex_girlfriend_is_a_recurring_dream_character/"
+    },
+    {
+      "title": "Why You Keep Dreaming About Your Ex: The Unfinished Shadow Bond | Carl Jung Psychology",
+      "relevance": "Eski sevgili imgesini projeksiyonların taşıyıcısı olarak yorumlayan Jungcu anlatım sunar.",
+      "url": "https://www.youtube.com/watch?v=ixAbM-jndZw"
+    },
+    {
+      "title": "Why You Still Dream About Your Ex (It’s Not What You Think) | Carl Jung",
+      "relevance": "Eski sevgiliyi tamamlanmamış duygusal malzeme ve geçmiş yaşam evresiyle ilişkilendiren Jungcu yorum içerir.",
+      "url": "https://www.youtube.com/watch?v=G_ZCo3JRbkY"
+    },
+    {
+      "title": "Dreaming About Your Ex? Dream Meaning and What Your Mind Is ...",
+      "relevance": "Eski partneri anima/animus projeksiyonu ve bireyleşme bağlamında ele alır.",
+      "url": "https://mindpickers.com/en/ex-dream"
+    },
+    {
+      "title": "I Dreamed About My Ex... Dream Interpretation with Carl Jung",
+      "relevance": "Rüyadaki eski partnerin anima/animus ve geçmiş yaşam evresiyle ilişkisini, yorumda duygu ve çağrışımın önemini vurgulayarak ele alır.",
+      "url": "https://www.youtube.com/watch?v=Ge-5hqHVVy8"
+    },
+    {
+      "title": "Still Dreaming About Your Ex? | Carl Jung Reveals the Shocking Truth",
+      "relevance": "Eski sevgiliyi gölge, çözülmemiş döngü ve içsel bütünleşme ihtiyacıyla ilişkilendirir.",
+      "url": "https://www.youtube.com/watch?v=qpj8VZxr6rE"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorumu çerçevesi, rüyaların gündelik artıklar ve mevcut bedensel/duygusal durumlarla ilişkisini ele alır; eski sevgili figürünün tarihsel bağlamda nasıl düşünülebileceğine dair en yakın oneirokritik çerçeveyi sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Bu aktarımda yakın ilişki figürleri, özellikle eş ya da metres gibi kişiler, rüya yorumunun parçası olarak görünür; eski sevgili sembolü için tarihsel yakın ilişki okuması açısından önem taşır.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' the Interpretation ...",
+      "relevance": "Greko-Romen rüya yorumunun tarihini ve Artemidorus’un yaklaşımını özetleyerek, ilişki figürlerinin rüyada bağlama göre okunması gerektiğini gösterir.",
+      "url": "https://books.google.com/books/about/An_Ancient_Dream_Manual.html?id=QZjFDwAAQBAJ"
+    },
+    {
+      "title": "Dreaming About Your Ex: Biblical Christian Interpretation",
+      "relevance": "Eski sevgili rüyasını Hristiyan bakış açısından geçmişe bağlılık, affetme ve yeniye yönelme temalarıyla ilişkilendiren modern bir yorum metni; ayrıca İşaya 43:18, Filipililer 3:13, 2 Korintliler 5:17, Mezmur 147:3 ve Efesliler 4:31–32 gibi ayetleri bir arada kullanır.",
+      "url": "https://revealingthechristianlife.org/2025/07/08/dreams-and-visions-how-to-interpret-dreams-about-your-ex/"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Rüyaların yorumlanması, yorumun etkisi ve rüyanın gündüz düşünceleriyle ilişkisi üzerine temel Talmudik çerçeve.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Talmud’daki rüya pasajının metinsel konumunu ve klasik kaynak bağlamını gösterir.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Rüyaların ahlaki/ruhsal işlevi ve yorumun önemini ele alan açıklama.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dream accounts in the Hebrew Bible and ancient Jewish ...",
+      "relevance": "İbranice Kutsal Kitap ve erken Yahudi edebiyatında rüya anlatılarının tarihsel çerçevesi.",
+      "url": "https://ora.ox.ac.uk/objects/uuid:31468460-01e8-4b10-977e-72b954a29fda"
+    },
+    {
+      "title": "Dreams of a lost love",
+      "relevance": "Modern kişisel gelişim/blog yazısı; Budist veya Doğu geleneklerine ilişkin kişisel gözlemler ve anekdotlar içerir.",
+      "url": "https://tinybuddha.com/topic/dreams-of-a-lost-love/"
+    },
+    {
+      "title": "Former Lover Dream Meaning - Interpret Your Dream!",
+      "relevance": "Eski sevgili rüyasını geçmiş duygular, kişisel büyüme ve mevcut ilişki dinamikleriyle ilişkilendiren modern spiritüel yorum.",
+      "url": "https://mirrorwithin.com/dream-dictionary/former-lover/"
+    },
+    {
+      "title": "Dream About Ex-Lover: Unresolved Emotions, Closure, and Soul ...",
+      "relevance": "Eski sevgiliyi bitmiş bir döngü, ruh dersi ve tekrarlayan duygusal kalıp olarak ele alan spiritüel yorum.",
+      "url": "https://oraclejewel.com/en/dream-interpretation/ex-lover"
+    },
+    {
+      "title": "Ex Partner Dream Meaning: What Your Dreams About Former ...",
+      "relevance": "Eski partner rüyasını geçmişe bağlı çözülmemiş bağlar ve enerji bağları çerçevesinde yorumlayan modern spiritüel yaklaşım.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/ex-partner/"
     },
     {
       "title": "Dream Of Ex Lover: Spiritual Meaning Of Returning And ...",
-      "relevance": "Genel spiritüel yorumlarda eski sevgili, bitmemiş duygular, kapanış arayışı ve kişisel gelişim temalarıyla ilişkilendiriliyor.",
+      "relevance": "Eski sevgiliyi kişinin geçmiş benliği, bir yaşam dönemi ve içsel duygusal örüntülerin aynası olarak okuyan spiritüel yorum.",
       "url": "https://thesoultext.com/dream-of-ex-lover/"
     },
     {
-      "title": "夢到前任代表什麼？前任夢完整解析",
-      "relevance": "Eski sevgili rüyalarını karma, bağlanma ve ayrılık sonrası süren duygusal bağlar açısından ele alıyor; Budist ve Hint geleneklerinin etkilerini içeren bir çerçeve sunuyor.",
-      "url": "https://tell-dream.com/zh-hant/dreams/ex-partner"
+      "title": "What Does Dreaming About a Past Lover Mean? · Nightjar",
+      "relevance": "Eski eş/partner rüyalarını hatırlanmış yakınlık, bağın sürmesi ve kalpte kalan izler üzerinden ele alan spiritüel okuma.",
+      "url": "https://nightjarapp.com/dreams/past-lover"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian",
+    "buddhist-eastern"
+  ]
 }

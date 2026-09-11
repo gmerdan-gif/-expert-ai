@@ -1,128 +1,179 @@
 {
   "slug": "yuksekten-dusmek",
   "title": "yüksekten düşmek",
-  "shortDescription": "Rüyada yüksekten düşmek; kontrol kaybı, güven duygusunun sarsılması veya başarısızlık baskısıyla ilişkilendirilebilir. Ayrıca aşırı hırs ya da özgüveni gözden geçirip daha gerçekçi ve dengeli bir bakış geliştirme ihtiyacını yansıtabilir.",
+  "shortDescription": "Yüksekten düşmek rüyası, düşüş hissiyle birlikte kontrolün aniden kaybolması, elde edilen bir konumun sarsılması veya egonun gerçeklikle çarpışması temalarını öne çıkaran belirgin bir rüya motifi olarak okunur.",
   "positiveAssociations": [
-    "Düşüşün güvenli bir şekilde sonlanması veya bir şey tarafından yakalanması",
-    "Psikolojik olarak daha topraklanmış ve dengeli bir konuma geçiş",
-    "Gurur veya aşırı özgüvenden arınarak daha gerçekçi bir perspektif kazanma"
+    "Son anda zarar görmeden kurtulma veya riskten sıyrılma (kurtulma motifi)",
+    "Gerçeklikle yeniden temas ve aşırı iddianın dengelenmesi",
+    "Mevcut durumun gözden geçirilmesini sağlayan uyarı niteliğinde deneyim",
+    "Rüya sonrası farkındalığın artması"
   ],
   "challengingAssociations": [
-    "Kontrolü kaybetme ve güvensizlik hissi",
-    "Başarısızlık korkusu ve hayatın baskısının omuzlara binmesi",
-    "Egonun aşırı yükselmesi ve bunun yarattığı kırılganlık"
+    "Ani kontrol kaybı ve savunmasızlık hissi",
+    "Beklenen hedefin veya işin tamamlanmaması, statü/itibar kaygısı",
+    "Düşme anındaki korku, sarsılma veya sıkıntı hissi",
+    "Dini/geleneksel yorumlarda günaha veya zarara işaret etme"
   ],
   "contextDependentAssociations": [
-    "Düşme deneyiminin, ruhun gökten ansızın çıkarıldığına dair bir halk inancına ya da rüya dünyası ile göksel alan arasında bağ kurulduğu inancına işaret etmesi.",
-    "Kişinin desteklenmediği hissiyle yüzleşmesi",
-    "Hırsların kapasiteyi aşmasının yarattığı uyarıcı bir gerilim."
+    "Düşülen yüksekliğin niteliği (dağ, kule, çatının türü)",
+    "Düşüşün sonlandığı yerin olumlu ya da olumsuz karakteri (ör. yeşillik veya mescid gibi olumlu alanlar; harabe veya tehlikeli alan gibi olumsuz yerler)",
+    "Düşüş anındaki duygulanım (korku, rahatlama, beklenmedik kurtuluş)",
+    "Rüya görenin toplumsal konumu veya günlük yaşam bağlamı"
   ],
   "commonVariations": [
     {
-      "title": "Bilinmeyen bir boşluğa doğru sonsuz düşüş",
-      "description": "Herhangi bir yere çarpmadan uzun süre düşmeye devam etmek, günlük yaşamda karşılaşılan belirsizlikler ve kontrolü tamamen yitirme endişesiyle ilişkilendirilir."
+      "title": "Kulenin tepesinden aşağı doğru hızla kaymak",
+      "description": "Hızlı iniş hissi, kısa süre önce elde edilmiş bir yükselişin dayanıksızlığı veya statüyle ilgili kaygıları yansıtabilir."
     },
     {
-      "title": "Yüksek bir binadan veya uçurumdan aşağı kayarak düşmek",
-      "description": "Sabit bir konumdayken aniden zeminin kayması, statü, itibar veya başarı alanlarında yaşanabilecek sarsıntılara karşı duyulan kaygıları yansıtır."
+      "title": "Çatıdan düşüp uyanmak (ani irkilme)",
+      "description": "Freudcu çerçevede hipnik sıçrama (ani kas gevşemesi) gibi bedensel olaylarla örtüşerek, uyanmaya yol açan duyumlarla eşzamanlı görülebilir."
     },
     {
-      "title": "Düşerken son anda güvenli bir şekilde yakalanmak",
-      "description": "Kriz anında hissedilen zorlanmanın ardından dış veya içsel bir dirençle destek bulmak, dayanıklılık ve zorluklarla başa çıkabilme kapasitesine işaret eder."
+      "title": "Yüksekten düşerken son anda güvenli bir yere inmek",
+      "description": "Düşüş sonrasında zarar görmeden inmek veya güvenli bir yere düşmek, bazı geleneksel aktarımlarda olumlu sonuçlara yorulur."
     },
     {
-      "title": "Düşüşün ardından sarsıntıyla uyanmak",
-      "description": "Yere çarpma anıyla birlikte uykunun bölünmesi, psikolojik ya da fiziksel düzeyde ani bir uyarıya ve gerçeklikle yeniden hizalanma ihtiyacına dikkat çeker."
+      "title": "Yüzüstü veya sarsıntılı biçimde düşmek",
+      "description": "Yüzüstü düşüş ya da darbe etkisi içeren senaryolar, geleneksel metinlerde sıkıntı, muradın tam olmaması veya kötü akıbetle ilişkilendirilebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "Jungçu analitik psikolojide yüksekten düşme, egonun enflasyonu yani benliğin başarı ve kontrolde aşırı özdeşleşmesi sonrasında gerçekleşen düzeltici bir iniş olarak yorumlanır. Bu deneyim, egonun kontrolü bırakmasını, bilinçdışına doğru bir iniş yaşamasını ve bireyin psikolojik gerçeklikle yeniden hizalanarak daha topraklanmış bir konuma gelmesini sağlar.",
-  "islamicTradition": "",
-  "christianTraditions": "Hristiyan kutsal metinlerinde ve düşüncesinde düşme teması, doğrudan bir rüya tabiri geleneği olmamakla birlikte, alçakgönüllülük, düşüş ve ahlaki uyarı bağlamında simgesel bir karşılık bulur.",
-  "jewishTraditions": "Yahudi halk düşüncesinde ani bir düşme deneyimi bazen ruhun gökten ansızın çıkarıldığına dair bir halk inancı olarak görülür; bu, düşmenin rüya dünyası ile göksel alan arasında bir bağlantı kurulması şeklinde yorumlanmasına yol açabilir.",
+  "psychology": "Temsili örneklem çalışmalarında düşme rüyaları tipik rüya temaları arasında yer alır; ampirik veriler bu motifin yaygın olduğunu, ancak tek bir sabit anlam taşımaması gerektiğini gösterir. Psikoloji açısından rüyanın bağlamı, rüya görenin duygulanımı ve uyku sırasında ortaya çıkan bedensel duyumlar (ör. ani kas hareketleri) içerik oluşumunda belirleyicidir.",
+  "jungian": "Analitik psikoloji okumalarında yüksekten düşme, egonun 'çok yukarıda' konumlandığı ve gerçeklikle sert bir temas sonucu aşağı çekildiği bir imge olarak ele alınır; bu çerçevede düşüş, telafi (kompansasyon), dengeleme veya egonun alçaltılması şeklinde yorumlanır.",
+  "islamicTradition": "İslami rüya tabirlerinde yüksekten düşmek sıklıkla kıymet, itibar veya muradın eksik kalması bağlamında yorumlanır. Düşülen yerin niteliği (yeşillik/mescid hayra, harabe veya yırtıcı hayvanların bulunduğu yer şerre işaret edebilir) ve düşüş biçimi (yüzüstü düşme gibi) yorumu değiştirir; bazı aktarımlarda son anda kurtulma motifi zararı/riski atlatma biçiminde ele alınır.",
+  "christianTraditions": "",
+  "jewishTraditions": "Yahudi rüya okuma geleneğinde yükselme/iniş imgeleri statü ve korunma temalarıyla ilişkilendirilir; doğrudan 'yüksekten düşmek' için sabit bir Talmudî tabir bu çalışmada doğrulanmamıştır; bu nedenle konu genel statü/korunmasızlık bağlamında sunulmuştur.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "Spiritüel ve Vedik okumalarda yüksekten düşme, kişinin gururunun, aşırı özgüveninin ya da kapasitesini aşan hırslarının uyarıcı bir işareti olarak kabul edilir. Bu yaklaşım, bireyin yaşam yönünü alçakgönüllü bir şekilde yeniden değerlendirmesi için bir uyarı niteliği taşır.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda yüksekten düşmek, egonun bağlarının çözülmesi, yanılsamaların dağılması veya dönüşüm eşiği olarak yorumlanabilir; bu yorumlar rüyanın duygusuna ve kurtulma/rahatlama unsurlarına göre farklı tonlar alır.",
   "comparisonTable": [
     {
-      "approach": "Jungçu Psikoloji",
-      "interpretation": "ego enflasyonunun ardından gelen düzeltici iniş, kontrolün bırakılması ve topraklanma ihtiyacı.",
+      "approach": "Ampirik Araştırma",
+      "interpretation": "Düşme temalarını tipik rüya motifleri olarak inceler; anlamı sabit bir kehanet yerine rüya bağlamına ve duygulanıma bağlar.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Uyku sırasında ortaya çıkan bedensel duyumların (ani kas hareketleri vb.) rüyada düşme hissiyle ilişkili olduğunu vurgular ve düşüşü korku/arzu dinamikleriyle ilişkilendirir.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Spiritüel ve Vedik Yaklaşım",
-      "interpretation": "Aşırı özgüven, gurur ve hırslara karşı yapılan uyarıcı bir yeniden değerlendirme çağrısı.",
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Egonun aşırı yükselmiş tutumunun gerçeklikle çarpışması ve bunun kompansasyonu olarak düşüşü açıklar.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel Aktarımlar",
+      "interpretation": "Düşülen yerin niteliğine göre itibar, muradın tamamlanması veya sıkıntı gibi akıbet yorumları yapar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Düşüşü yanılsamadan arınma, egonun gevşemesi veya bilincin dönüşümü perspektifinden okur.",
       "evidenceLevel": "spiritual"
-    },
-    {
-      "approach": "Yahudi Halk Geleneği",
-      "interpretation": "Ani düşüş deneyiminin ruhun göksel alanla ilişkilendirilmesi şeklinde yorumlanması.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Hristiyan Simgesel Okuması",
-      "interpretation": "Alçakgönüllülük, düşme riski ve ahlaki açıdan dikkatli olunması yönünde uyarı.",
-      "evidenceLevel": "traditional"
     }
   ],
-  "commonGround": "Farklı yaklaşımların ortak noktası, yüksekten düşmenin bireyi sarstığı, güvenli zeminini kaybettirdiği ve mevcut durumunu gözden geçirmeye zorladığı bir dönüm noktası olmasıdır.",
-  "differences": "Psikolojik ve Jungçu çerçeveler düşüşü içsel ego dengesi, kontrol kaybı ve topraklanma üzerinden açıklarken; spiritüel ve geleneksel yaklaşımlar bunu daha çok gurur, uyarı ve aşkın alanlarla kurulan bağlar çerçevesinde ele alır.",
-  "inusAssessment": "Yüksekten düşmek sembolü, sabit ve tek bir geleceğe işaret eden kehanetlerden ziyade, bireyin zihinsel ve duygusal dünyasındaki gerilimleri yansıtan çok katmanlı bir motiftir. Bu rüya, kişinin yaşamındaki aşırılıkları, kontrol çabalarını veya destek arayışlarını kendi özgün bağlamı içinde değerlendirmesi için bir davettir.",
+  "commonGround": "Tüm yaklaşımlar ortak olarak 'yüksekten düşmek' sembolünün tek ve sabit bir anlam taşımadığını; düşüşün niteliği, duygulanım, düşülen yer ve rüya görenin koşullarının yorumda belirleyici olduğunu kabul eder.",
+  "differences": "Yaklaşımlar arasındaki ayrım, ampirik yönelimin olgusal yaygınlık ve uyku-fizyolojisi verilerine dayanması; psikanalitik ve Jungcu okumaların düşüşü içsel dinamiklerle (arzu, ego dengesi) ilişkilendirmesi; geleneksel yorumların ise düşülen yer ve toplumsal konuma göre akıbet odaklı yorumlar yapmasından kaynaklanır.",
+  "inusAssessment": "Yüksekten düşmek sembolü, kontrolün aniden bozulması ile elde edilen konumun sarsılması arasındaki gerilimi ifade eden çok bileşenli bir motiftir. Bu tür rüyanın anlamını belirlemek için düşüşün fiziksel niteliği, rüya anındaki duygular ve düşülen yerin sembolik değeri bütüncül olarak ele alınmalıdır; tek başına 'düşme' genellemesi yanıltıcı olur.",
   "faq": [
     {
-      "question": "Yüksekten düşerken neden birden irkilerek uyanırız?",
-      "answer": "Bu durum genellikle psikolojik olarak kontrol kaybı hissinin bedensel bir tepkiyle tetiklenmesi ve bireyin ani bir uyarı mekanizmasıyla gerçekliğe dönmesiyle ilişkilendirilir."
+      "question": "Yüksekten düşerken uyanmak neden bu kadar yaygındır?",
+      "answer": "Freud ve sonraki çalışmalar, uyku sırasında ortaya çıkan ani bedensel değişimlerin (ör. hipnik sıçrama/ani kas gevşemesi) rüyalarda 'düşme' hissi üretebileceğini ve uyanmayı tetikleyebileceğini öne sürer. Ayrıca yoğun korku veya beklenmedik kurtuluş duygusu gibi güçlü rüya duygulanımları da uyanmaya yol açabilir."
     },
     {
-      "question": "Düşme rüyaları her zaman olumsuz bir anlama mı gelir?",
-      "answer": "Hayır. Her ne kadar kaygı ve güvensizlik barındırsa da, bazı yorumlarda düşüşün güvenli bir şekilde sona ermesi veya yakalanması, kişinin dayanıklılığını ve krizlerle başa çıkma kapasitesini gösterir."
+      "question": "Yüksekten düşmek her zaman kötü bir olaya mı işaret eder?",
+      "answer": "Hayır. Rüyanın yorumu düşülen yerin niteliğine, düşüşün sonuna ve rüya görenin yaşam bağlamına bağlıdır; bazı geleneklerde güvenli bir yere inmek olumlu sonuç sayılırken, fiziksel sarsıntı veya yüzüstü düşüş sıkıntı işareti sayılabilir."
     }
   ],
   "sources": [
     {
-      "title": "Falling Dreams Decoded: What Losing Ground Really Means in ...",
-      "relevance": "Jungçu düşme yorumunu ve yüksekten düşmenin ‘fazla yükselme’ sonrası düzeltici iniş olarak okunmasını açıklar.",
-      "url": "https://individuate.me/articles/dream-about-falling"
+      "title": "Typical dreams of falling, being chased, and being paralyzed ...",
+      "relevance": "Düşme rüyasının yaygınlığını ve tipik rüya temaları içindeki yerini gösteren ampirik çalışma; düşme motifinin tek anlamlı olmadığını gösteren temel veri kaynağı.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/75878"
     },
     {
-      "title": "Dreams About Falling Explained - DeepJung",
-      "relevance": "Yüksekten düşme temasını Jungçu benlik imgesi, kontrol ve gerçeklik uyumsuzluğu üzerinden tartışır.",
-      "url": "https://www.deepjung.com/blog/falling-dream-meaning"
+      "title": "[PDF] The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Düşme rüyalarını bedensel duyumlarla, hipnik sıçrama ve ani kas hareketleriyle ilişkilendiren klasik psikanalitik metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "What Does It Mean to Dream About Falling? Jungian Analysis",
-      "relevance": "Yüksekten düşmeyi kontrol kaybı, başarısızlık korkusu ve ego enflasyonu bağlamında ele alır.",
-      "url": "https://dreamai.vision/en/blog/what-does-it-mean-to-dream-about-falling"
+      "title": "Page:Freud - The interpretation of dreams.djvu/257 - Wikisource, the free online library",
+      "relevance": "Düşme rüyalarının korku ve bazı yorumlarda erotik bir ima ile bağlantılı biçimde geçtiği sayfa.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/257"
     },
     {
-      "title": "A Jungian Perspective on Nightmares and Bad Dreams - Sam Woolfe",
-      "relevance": "Düşme rüyasını Jungçu perspektifte destek eksikliği ve topraklanma ihtiyacıyla ilişkilendirir.",
-      "url": "https://www.samwoolfe.com/2014/06/a-jungian-perspective-on-nightmares.html"
+      "title": "Page:Freud - The interpretation of dreams.djvu/256 ... - Wikisource",
+      "relevance": "Düşme ve uçma rüyalarının kaynaklarına ilişkin bedensel duyum açıklamasını içeren sayfa.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/256"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/253 - Wikisource, the free online library",
+      "relevance": "Düşme, uçma, yüzme gibi deneyimlerin tipik rüyalar arasında sınıflandırıldığı sayfa.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/253"
+    },
+    {
+      "title": "Marie-Louise von Franz - The Way of the Dream - Part 1",
+      "relevance": "Analitik psikoloji perspektifinden düşme imgelerini 'fazla yukarıda olma' ve gerçeklikle çarpışma bağlamında ele alan konuşma/transkript kaynağı (çevrimiçi ikincil materyal).",
+      "url": "https://www.youtube.com/watch?v=2MZ0G4PEe2g"
+    },
+    {
+      "title": "Falling Dream Meaning: Symbolism & Interpretation",
+      "relevance": "Artemidorus çizgisinin düşme temasını rüya görenin mesleği, statüsü ve bağlamına göre yorumladığını bildiren tarihsel-aktarım özetlerinden biri.",
+      "url": "https://mymythos.org/archetype/falling/"
+    },
+    {
+      "title": "Dreaming of a Tower: Height, Isolation, and What You're Watching From Up There | The Dream Guidebook",
+      "relevance": "Yüksekten ya da kuleden düşme temasını, Artemidorus’a atfen statü kaybı ve dayanıksız yükselişle ilişkilendirir.",
+      "url": "https://thedreamguidebook.com/dreaming-of-a-tower/"
+    },
+    {
+      "title": "Full text of \"hipnoz_kitabi_hakan_menguc\"",
+      "relevance": "İslami tabir aktarımlarını derleyen kaynak; yüksekten düşmenin muradın tam olmaması, düşülen yerin hayır/şer belirleyiciliği gibi geleneksel yorumlarını içerir.",
+      "url": "https://archive.org/stream/hipnoz_kitabi_hakan_menguc/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1_djvu.txt"
+    },
+    {
+      "title": "İslami Rüya Tabirleri, Nablusi, Kirmani, İbn-i Sirin, İmam Cafer Sadık, Seyyid Süleyman, Danyal - D",
+      "relevance": "Yüksek bir yerden düşmenin muradın tam olmaması, düşülen yerin hayır veya şer yönünü belirlemesi ve yüzüstü düşmenin sıkıntıyla bağlantısı.",
+      "url": "https://www.medicentertv.com/islami-ruya-tabirleri-nablusi-kirmani-ibn-i-sirin-imam-cafer-sadik-seyyid-suleyman-danyal-d"
+    },
+    {
+      "title": "مصر تايمز | تفسير حلم الوقوع من مكان مرتفع لابن سيرين",
+      "relevance": "Yüksek bir yerden düşmenin işin tamamlanmaması ve mescide düşmenin hayra yorulması gibi İbn Sîrîn ve İbn Şâhin’e atfedilen aktarım.",
+      "url": "https://nabd.com/s/142828367-df4785/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%AD%D9%84%D9%85-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%B9-%D9%85%D9%86-%D9%85%D9%83%D8%A7%D9%86-%D9%85%D8%B1%D8%AA%D9%81%D8%B9-%D9%84%D8%A7%D8%A8%D9%86-%D8%B3%D9%8A%D8%B1%D9%8A%D9%86"
+    },
+    {
+      "title": "Falling Islamic Interpretations & Meanings - myIslamicDream",
+      "relevance": "Yüksekten düşmenin, yükseklikle simgelenen şeyden ayrılma ve düşülen yerdeki unsurlara göre zarar veya günah ihtimaliyle açıklanması.",
+      "url": "https://www.myislamicdream.com/falling.html"
+    },
+    {
+      "title": "Babylonian Talmud: Tractate Berakoth",
+      "relevance": "Yahudi metin geleneğinde rüya imgelerinin sembolik yorumlandığını ve yükselme/iniş motiflerinin statü/korunmasızlık eksenli çerçevesini sağlayan rabbanî kaynak.",
+      "url": "https://halakhah.com/berakoth/berakoth_56.html"
+    },
+    {
+      "title": "Free Choice, Causality and the Person Who Fell Off a Roof",
+      "relevance": "Çatıdan düşme ve korunma fikrinin Yahudi teolojik bağlamı; yüksekten düşme imgesinin güvenlik ve düşüş riskiyle ilişkilendirilmesi.",
+      "url": "https://www.chabad.org/theJewishWoman/article_cdo/aid/6041347/jewish/Free-Choice-Causality-and-the-Person-Who-Fell-Off-a-Roof.htm"
+    },
+    {
+      "title": "Dropped From A Height Dream Meaning & Interpretation",
+      "relevance": "Yüksekten düşme imgesini modern ruhsal yorum içinde ‘kontrol kaybı, kırılganlık ve dönüşüm eşiği’ olarak ele alan bir çevrimiçi yorum örneği.",
+      "url": "https://mirrorwithin.com/dream-dictionary/dropped-from-a-height/"
     },
     {
       "title": "Dreaming about falling — meaning in three traditions",
-      "relevance": "Farklı gelenekleri bir araya getirerek düşme motifinin çeşitli kültürel okumasına dair özet sunar.",
+      "relevance": "Yüksekten düşmeyi ruhsal yorumda ‘ego kontrolünün bırakılması’ ve dönüşümle ilişkilendiren modern bir çevrimiçi yorum örneği.",
       "url": "https://www.nocturnary.com/symbols/falling"
     },
     {
-      "title": "DREAMS - JewishEncyclopedia.com",
-      "relevance": "Yahudi halk düşüncesinde ani düşme deneyiminin nasıl anlaşılabildiğine dair bilgi verir.",
-      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
-    },
-    {
-      "title": "Biblical meaning of falling in a dream - biblestep.com",
-      "relevance": "Düşme rüyasını Hristiyan bağlamda alçakgönüllülük ve ahlaki uyarı temalarıyla ilişkilendirir.",
-      "url": "https://biblestep.com/dreams/biblical-meaning-of-falling-in-a-dream"
-    },
-    {
-      "title": "Dreaming of Falling — Vedic Dream Meaning | VedKosh",
-      "relevance": "Vedik yorum çerçevesinde yüksekten düşmenin gurur ve aşırı özgüvenle ilişkilendirilen okumasını sunar.",
-      "url": "https://www.vedkosh.com/swapna-shastra/falling-dream"
-    },
-    {
-      "title": "Falling Dream Meaning in Hindu Tradition",
-      "relevance": "Hindu geleneğinde yüksekten düşmenin hırs, kapasite sınırı ve uyarı temalarıyla ilişkilendirildiğini açıklar.",
-      "url": "https://grahaguru.in/dreams/falling-dream-meaning"
+      "title": "Rüyada Yüksekten Düşmek Üzereyken Son Anda Kurtulmak Ne Anlama Gelir?",
+      "relevance": "Yüksekten düşme temasını içsel güç, dayanıklılık ve bir sorun karşısında eşiğe gelme duygusuyla birlikte yorumlayan modern bir çevrimiçi metin.",
+      "url": "https://www.sabah.com.tr/ruya-tabirleri/ruyada-yuksekten-dusmek-uzereyken-son-anda-kurtulmak-ne-anlama-gelir-6844095"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "historical-cultural"
+  ]
 }

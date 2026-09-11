@@ -1,141 +1,235 @@
 {
   "slug": "tavsan",
   "title": "tavşan",
-  "shortDescription": "Rüyada tavşan görmek; verimlilik, yenilenme ve hassasiyetle ilişkilendirilebilir. Ay ışığı, tavşanın sakinliği ve rüyadaki hisler; sezgi, korunma isteği veya yeni başlangıç temasının hangisinin öne çıktığını etkileyebilir. Bazı geleneklerde tavşan korkaklık, kaçınganlık veya ilişki ve evlilik konularıyla da bağlantılandırılır.",
+  "shortDescription": "Rüyalarda tavşan görmek; çeviklik, ürkeklik, doğurganlık ve hızlı değişimler gibi çelişkili temaları barındıran, bağlama göre farklı anlamlar kazanabilen bir imgedir.",
   "positiveAssociations": [
-    "Verimlilik ve üretkenlik",
-    "Yeniden doğuş ve döngüsel yenilenme",
-    "Özveri ve fedakârlık",
-    "Uzun ömür ve canlılık"
+    "Çeviklik ve yaşam enerjisi",
+    "Yeni başlangıçlar ve fırsatlar",
+    "Bereket ve doğurganlık",
+    "Hassasiyet ve sezgisel uyanış"
   ],
   "challengingAssociations": [
-    "Korkaklık ve kaçınganlık",
-    "Önemsiz konularla meşguliyet",
-    "Geçici ve sınırlı menfaatler",
-    "Cinsel saflık ve verimlilik arasındaki sembolik gerilim"
+    "Korku ve kaçma eğilimi",
+    "Kırılganlık ve korunma ihtiyacı",
+    "Ani kaçma veya ürkeklikle duraksama eğilimi",
+    "Gizli tehlikeleri sezme ve tetikte olma"
   ],
   "contextDependentAssociations": [
-    "Ay sembolizmi ve geceyle gelen yenilenme",
-    "İlişkiler, evlilik ve ortaklık bağlamları",
-    "Kültürel mitolojilerde koruyucu figür olma durumu"
+    "Rüya sahibinin içgüdüsel dürtüleri ve günlük yaşam eğilimleri",
+    "Sembolün beyaz, vahşi veya evcil olması",
+    "Tavşanın kaçması veya rüya sahibi tarafından yakalanması",
+    "Rüya atmosferindeki baskın duygu tonu"
   ],
   "commonVariations": [
     {
-      "title": "Ay Işığında Koşan Tavşan",
-      "description": "Rüyada ay ışığı altında hareket eden bir tavşan görmek, bilinçdışı süreçlerin, sezgisel döngülerin ve kişisel yenilenme arzusunun ön plana çıktığına işaret edebilir."
+      "title": "Beyaz tavşanın hızla uzaklaşması",
+      "description": "Beyaz bir tavşanın ani hareketle gözden kaybolması, yakalanması zor bir fırsatın ya da hızla geçen bir dönemin çağrışımı olarak okunabilir."
     },
     {
-      "title": "Tavşanı Yakalamaya Çalışmak",
-      "description": "Rüyada bir tavşanı kovalamak veya ele geçirmeye çalışmak, rüya bağlamında evlilik veya yakın ilişki dinamikleriyle ilişkilendirilebilir."
+      "title": "Tavşanı kovalayıp yakalamak",
+      "description": "Kaçan bir tavşanı takip ederek yakalamaya çalışmak, belirsiz bir durumu kontrol altına alma çabası veya belirli bir ilişki/durum üzerindeki ısrarı gösterebilir."
     },
     {
-      "title": "Ev İçinde Dolaşan Tavşan",
-      "description": "Yaşam alanında sakin duran bir tavşan, ailevi ilişkiler, yakın çevre dinamikleri veya günlük hayattaki küçük ama etkili değişimlerle ilişkilendirilebilir."
+      "title": "Sakin duran bir tavşanla karşılaşmak",
+      "description": "Sessizce duran bir tavşan, rüya sahibinin içsel hassasiyetini, korunma ihtiyacını veya dış dünyaya karşı temkinli duruşunu işaret edebilir."
     },
     {
-      "title": "Beslenen veya Sakin Duran Tavşan",
-      "description": "Zararsız ve sakin bir tavşanla etkileşimde bulunmak, içsel saflık, korunma isteği veya yaşamın belirli bir alanında taze bir başlangıç yapma arzusunu yansıtabilir."
+      "title": "Çok sayıda tavşan yavrusu görmek",
+      "description": "Bu görüntü çeşitli kültürel okumalarda farklı değerlendirilir; örneğin bazı İslami aktarımlarda tavşan yavrusu görmek sıkıntı veya alışılmadık bir durumla karşılaşma şeklinde aktarılır. Bağlam burada belirleyicidir."
     }
   ],
-  "psychology": "Akademik ve ampirik psikoloji literatüründe tavşan sembolünün rüyalardaki karşılığına dair doğrudan doğrulanmış veri bulunmamaktadır. Bununla birlikte, psikanalitik ve tarihsel-kültürel materyallerde tavşan, dişil cinsellik, doğurganlık ve cinsel saflık ile verimlilik arasındaki gerilim ekseninde ele alınır. Neolitik dönemden bu yana insan topluluklarında yeniden doğuş, sosyallik ve döngüsellik fikirleriyle bağdaştırılmıştır.",
-  "jungian": "Jungçu analitik psikolojide tavşan, arketipsel çocuk teması, dönüşüm, anima ve bilinçdışı katmanlarıyla ilişkilendirilir. Aynı zamanda hilebaz motifleri veya beklenmedik yön değiştirmeler içerebilecek sembolik potansiyele sahip bir imge olarak değerlendirilmiştir.",
-  "islamicTradition": "İslami rüya tabirleri geleneğinde tavşan, korkak bir insan, bir eş, olumsuz özellikler barındıran bir kadın veya önemsiz detaylarla vakit harcayan bir kişi figürüyle simgelenebilir. Rüyada tavşan yakalamak evlilikle bağdaştırılırken, tavşan eti yemek sınırlı miktarda maddi kazanca veya bir kadından elde edilecek menfaate işaret edebilir.",
-  "christianTraditions": "Hristiyanlık bağlamında tavşan, doğrudan bir rüya sembolü olmaktan ziyade, kutsal metinlerde temiz olmayan hayvanlar kategorisinde anılan bir varlıktır. Bununla birlikte, Ortaçağ ve Rönesans sanatında Bakire Meryem tasvirleriyle birlikte kullanıldığında cinsel saflık ve kurtuluş temalarına referans vermiştir.",
-  "jewishTraditions": "Yahudi kutsal metinlerinde tavşan ve benzeri hayvanlar, Yahudi dinsel beslenme kuralları (kashrut/koşer) çerçevesinde ritüel olarak tüketilmemesi gereken canlılar arasında sayılır; bu bağlam doğrudan rüya yorumculuğu içermez.",
-  "buddhistEasternApproaches": "Doğu Asya ve Budist folklorunda tavşan, özellikle Sāsa Jātaka anlatısı üzerinden özveri, fedakârlık ve ay ile özdeşleşen kutsal bir varlık olarak anlatılır. Kore Budist tapınak sanatında ise uzun ömür ve kötücül enerjilerden arınma simgesi olarak yer bulur; Ay tavşanı motifleri ölümsüzlük iksiri ve ayla ilişki bağlamlarında anlatılmıştır.",
-  "spiritualApproaches": "",
+  "psychology": "Rüyalardaki hayvan imgeleri genel olarak yaygındır ve bireyin içgüdüsel eğilimleriyle, gündelik yaşam dinamikleriyle ilişkili olarak okunabilir. Ampirik çalışmalar hayvan imgelerinin rüyalarda düzenli biçimde ortaya çıktığını; tavşanın ise köpek, at veya kediye göre daha seyrek rapor edilen bir imge olduğunu göstermektedir. Bu nedenle tavşan, kaçınma, ürkeklik, doğurganlık veya hassasiyet gibi temalarla dolaylı olarak ilişkilendirilebilir, ancak tek bir sabit anlam atfedilmemelidir.",
+  "jungian": "Analitik psikoloji bağlamında (ARAS ve Jungçu ikincil kaynaklara dayanarak) tavşan, psikenin Merkür’e ilişkin, çevik ve aracı yanlarıyla ilişkilendirilebilir. Bu perspektifte tavşan geçiş, dönüşüm, bağ kurma ve psikenin akışkan, oyuncu doğasıyla bağlantılı bir imge olarak değerlendirilebilir. Bu yorum, 'Jung’a göre tavşan budur' şeklinde kesin bir iddia taşımadan, kontrollü bir çerçeve sunar.",
+  "islamicTradition": "İslami rüya aktarımlarında tavşanla ilgili yineleyici temalar arasında kadın, evlilik, az miktarda menfaat ve kimi aktarımlarda korkaklık veya kötü huyluluk yer alır. Bazı derlemelerde tavşanı tutmanın evlilikle; tavşan eti veya derisi almanın eşten gelecek az hayırla; tavşan yavrusu görmenin ise sıkıntı veya alışılmadık bir durumla karşılaşmayla ilişkilendirildiği aktarılır. Bu geleneksel aktarımlar farklı yorumlar içerir ve bağlamla birlikte dikkatle değerlendirilmelidir.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde tavşan genellikle bereket, çoğalma ve yenilenme çağrışımları taşır; Paskalya/diriliş simgeleriyle kültürel bağlantıları vardır. Öte yandan Levililer 11:6 ve Tesniye 14:7’de benzeri hayvanlar 'törensel açıdan temiz olmayan' kategoride anıldıkları için kutsal metin bağlamında saflık/arınma temalarıyla ilişkilendirilebilecek yönler de vardır. Bu okumalar, rüya yorumu geleneği olmaktan ziyade sembolik ve kültürel bir çerçevede değerlendirilir.",
+  "jewishTraditions": "Yahudi rüya yorumu geleneğinde (Talmudik ilkeler çerçevesinde) rüyaların anlamı yoruma ve bağlama bağlı kabul edilir. Talmudik kaynaklarda rüya yorumunun yöntemi ön plandadır; tavşan için doğrudan bir klasik maddeden söz edilmediğinden, tavşan ancak hız, ürkeklik veya çoğalma gibi genel çağrışımların metinsel gelenek ve rüya bağlamı birlikte ele alınmasıyla değerlendirilebileceği bir semboldür. Tek ve sabit bir hüküm çıkarılmamalıdır.",
+  "buddhistEasternApproaches": "Doğu ve Budist anlatılarında tavşan; ay, uyanış, merhamet ve özveri temalarıyla ilişkilendirilir. Örneğin Zen anlatılarında beyaz tavşan ay ve uyanışla bağdaştırılırken, bazı Jataka öykülerinde özveri, bazılarında ise kırılganlık ve korku temaları öne çıkar. Rüya düzeyinde doğrudan bir kanıt yoksa, Budist sembolizminden kontrollü, bağlamsal ipuçları alınabilir.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda tavşan genellikle bereket, yeni başlangıçlar, hassasiyet ve fırsatların hızla belirmesi temalarıyla ilişkilendirilir. Ayrıca çeviklik, doğurganlık ve koruma/kırılganlık ikiliği sık vurgulanır. Bu yaklaşımlar çoğunlukla modern yorumlara dayanır ve bağlama göre değişebilecek olasılıkları sunar.",
   "comparisonTable": [
     {
-      "approach": "Psikanalitik Yaklaşım",
-      "interpretation": "Cinsellik, dişil verimlilik ve cinsel saflık-bereket ikilemi üzerinden okunur.",
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Hayvan imgelerinin rüyalardaki tipik dağılımı içinde yer alan, yaş ve bağlama göre değişebilen, tekdüze olmayan bir unsurdur.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungçu Analiz",
+      "interpretation": "Psikenin Merkür’e ilişkin, çevik ve aracı işlevleriyle ilişkilendirilebilen; dönüşüm ve geçişkenlikle bağdaşan tematik bir okuma sunar (ikincil Jungçu kaynaklara dayanan temkinli bir yorumdur).",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Analiz",
-      "interpretation": "Anima, bilinçdışı dönüşüm, arketipsel çocuk ve hilebaz motifleriyle ilişkilendirilir.",
-      "evidenceLevel": "theoretical"
-    },
-    {
-      "approach": "İslami Rüya Geleneği",
-      "interpretation": "Korkaklık, eş, evlilik, aile ilişkileri veya sınırlı menfaatler ekseninde ele alınır.",
+      "approach": "İslami Gelenek",
+      "interpretation": "Geleneksel aktarımlarda tavşan çoğunlukla kadın, evlilik, az menfaat ve kimi yorumlarda korkaklık/kötü huyluluk çağrışımlarıyla verilir; bağlam önemlidir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu Asya ve Budist Gelenek",
-      "interpretation": "Özveri, fedakârlık, ay sembolizmi, uzun ömür ve koruma bağlamında değerlendirilir.",
+      "approach": "Hristiyan Gelenekleri",
+      "interpretation": "Kültürel ve sembolik okumalarda bereket, çoğalma ve yenilenme ile ilişkilendirilebilir; kutsal metinlerde törensel temalar bağlam sağlar.",
       "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Gelenekleri",
+      "interpretation": "Talmudik rüya hermenötiği bağlamında, tavşan doğrudan bir klasik madde olmadığından bağlama dayalı, dikkatli bir yorumlama gerektirir; tekil ve sabit bir anlam yoktur.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Bereket, yeni başlangıçlar, hassasiyet ve hızlı fırsat belirmesi temaları etrafında şekillenen modern bir sembolik okuma.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı geleneklerin ve ekollerin çoğunda tavşan, doğurganlık, döngüsellik ve hassasiyet gibi temalar etrafında kümelenir. Ay, yeniden doğuş ve verimlilik motifleri birçok bağlamda tekrar eder.",
-  "differences": "Batı psikanalizi tavşanı daha çok içgüdüsel dürtüler, cinsellik ve anima ekseninde incelerken; İslami gelenek tavşanı insan tipolojileri (korkaklık, eş, ailevi ilişkiler) üzerinden somutlaştırır. Doğu Asya gelenekleri ise tavşanı fedakârlık ve kozmik döngülerle (ay tavşanı) ilişkilendirir.",
-  "inusAssessment": "Tavşan sembolü, farklı kültürel kodları bir arada taşıyan çok katmanlı bir işarettir. Bir kültürde verimlilik ve yeniden doğuşa işaret ederken başka birinde korkaklık veya sınırlı kazanç çağrıştırabilir. Bu yüzden rüyanın bireysel bağlamı, rüya görenin kültürel arka planı ve rüyadaki duygular, yorum üzerinde belirleyicidir; tekil, evrensel bir anlam yüklemekten kaçınılmalıdır.",
-  "faq": [],
+  "commonGround": "Çoğu yaklaşım tavşanın tek ve sabit bir anlam taşımadığını, bunun yerine hareketlilik, hassasiyet, çeviklik ve bağlama göre değişen bir imge olarak okunması konusunda hemfikirdir.",
+  "differences": "Ampirik çalışmalar sıklık ve demografik dağılıma vurgu yaparken, dini ve kültürel geleneklere dayanan okumalar (İslami, Hristiyan, Yahudi) sembolik veya ahlaki çağrışımlara dayanır; Jungcu ve spiritüel yorumlar ise dönüşüm, aracı işlevler ve bereket/sezgi temalarını öne çıkarır. Her yaklaşım bağlam ve kaynak sınırlamalarıyla okunmalıdır.",
+  "inusAssessment": "Rüyada tavşan, hız, kaçınma, kırılganlık ve bereket/doğurganlık gibi temalar arasında belirsiz bir konum taşır; belirleyici olan rüyanın ayrıntıları, duygusal tonu ve rüya sahibinin yaşam koşullarıdır. Tek başına tavşan imgesi kesin bir hüküm vermez; olası çağrışımlar bağlama göre değerlendirilmelidir.",
+  "faq": [
+    {
+      "question": "Rüyada tavşan görmek her zaman iyi şans anlamına mı gelir?",
+      "answer": "Hayır. Modern spiritüel okumalarda bazen iyi şans ve bereketle ilişkilendirilse de rüyadaki kaçma, korku veya ürkeklik gibi unsurlar bu çağrışımları değiştirebilir; kültürel aktarımlar da farklı yorumlar sunar."
+    },
+    {
+      "question": "Rüyadaki tavşanın kaçması neye işaret eder?",
+      "answer": "Tavşanın kaçması, yakalanması zor bir fırsatı, kişinin kaçındığı bir durumu ya da içsel huzursuzluktan uzaklaşma eğilimini simgeleyebilir; kesin değerlendirme rüyanın bağlamına bağlıdır."
+    }
+  ],
   "sources": [
     {
-      "title": "Becoming Rabbit",
-      "relevance": "Tavşanın farklı kültürlerde verimlilik, dişil cinsellik, ay ve yeniden doğuşla ilişkisini özetler.",
-      "url": "https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1009&context=acwp_habr"
+      "title": "Typical images of animals in dreams: Results from a content ...",
+      "relevance": "Hayvan imgelerinin rüyalardaki tipik dağılımını gösteren ampirik çalışma; tavşanın rüya içeriğinde göreli sıklığına ilişkin bağlam sağlar.",
+      "url": "https://psycnet.apa.org/record/2023-54046-001"
     },
     {
-      "title": "Medieval Rabbits: Ancient Symbolism, English Migration, and ...",
-      "relevance": "Ortaçağ bağlamında tavşanın cinsellik, saflık ve kurtuluşla ilişkisini tartışır.",
-      "url": "https://sites.nd.edu/manuscript-studies/2024/03/22/medieval-rabbits-ancient-symbolism-english-migration-and-murderous-marginalia/"
+      "title": "Animals in Dreams of Children, Adolescents, and Adults",
+      "relevance": "Çocuk, ergen ve yetişkin rüyalarında hayvan imgelerinin sıklığını karşılaştıran çalışma; hayvan rüyalarının yaşa göre değişebileceğini bildirir.",
+      "url": "https://journals.sagepub.com/doi/10.1177/0276236620960634"
     },
     {
-      "title": "Down the rabbit hole: The significance of Late Neolithic lagomorph figurines in anthropological perspective",
-      "relevance": "Neolitik dönem figürinlerinde tavşanın yeniden doğuş, topluluk ve sosyallik çağrışımlarını ele alır.",
-      "url": "https://www.academia.edu/5196872/Down_the_rabbit_hole_The_significance_of_Late_Neolithic_lagomorph_figurines_in_anthropological_perspective"
+      "title": "Animals in a long dream series - Heidelberger OJS-Journals",
+      "relevance": "Uzun rüya dizilerinde hayvan imgelerinin görülme oranlarını belgeleyen seri analiz; hayvanların rüya içeriğinde düzenli yer tuttuğunu destekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/79436"
     },
     {
-      "title": "Merry March Hares and Rabbits",
-      "relevance": "Antik Roma ve Ortaçağ sanatında tavşanın Venüs, cinsellik ve Meryem ikonografisiyle ilişkisini özetler.",
-      "url": "https://www.vam.ac.uk/blog/caring-for-our-collections/merry-march-hares-and-rabbits"
+      "title": "Dreams with animals in psychotherapeutic process",
+      "relevance": "Psikoterapötik bağlamda hayvan rüyalarının nasıl yorumlanabildiğini ve içgüdüsel eğilimlerle ilişkili olabileceğini inceleyen çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/83826"
     },
     {
-      "title": "Hopping through cultures: the rabbit in art - About JSTOR",
-      "relevance": "Tavşanın kültürlerarası yeniden doğuş, Ay’daki Tavşan ve mitolojik anlatılarla ilişkisini örnekler.",
-      "url": "https://www.about.jstor.org/blog/hopping-through-the-centuries-rabbits-in-art/"
+      "title": "Archetype in Focus: A Monthly ARAS Feature Rabbit",
+      "relevance": "Jungçu ikincil materyal; tavşanı Merkürcü, çevik ve aracı bir imge olarak ele alır ve dönüşüm/bağ kurma temalarına işaret eder.",
+      "url": "https://jungian.directory/archetype-in-focus-a-monthly-aras-featurerabbit/"
     },
     {
-      "title": "A Jungian Perspective on the Longevity of Peter Rabbit",
-      "relevance": "Peter Rabbit örneği üzerinden tavşanın Jungçu arketipsel çocuk ve anima bağlamındaki yorumlarını tartışır.",
-      "url": "https://digitalcommons.molloy.edu/eng_fac/10/"
+      "title": "Archetype in Focus: A Monthly ARAS FeatureRabbit",
+      "relevance": "Tavşanın psikenin karşıt yönlerini bağlayan Merkürcü bir işleve sahip olabileceğini vurgular; Jungcu yorumda geçiş, bağ kurma ve dönüşüm eksenini güçlendirir.",
+      "url": "https://jungian.directory/blog-post/archetype-in-focus-a-monthly-aras-featurerabbit/"
     },
     {
-      "title": "Образ зайца с точки зрения юнгианской психологии",
-      "relevance": "Tavşanın Jungçu sembolizmini verimlilik, dönüşüm, ay ve bilinçdışı eksenlerinde yorumlar.",
-      "url": "https://www.b17.ru/article/obraz_zaytsa_s_tochki_zreniya_yungianskoy_ps/"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Klasik oneirokritik geleneğe ait kaynak; tavşanımsı hayvanların rüya bağlamında nasıl ele alınabileceğine dair tarihsel bir arka plan sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "Rabbit Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya geleneğinde tavşanın korkaklık, eş, evlilik, et yeme ve muska gibi anlamlarla ilişkilendirildiğini aktarır.",
-      "url": "https://www.myislamicdream.com/rabbit.html"
+      "title": "Part 2. Sign Systems - The Center for Hellenic Studies",
+      "relevance": "Klasik kültür bağlamında tavşan (hare) sembolizminin tarihsel niteliklerini tartışan akademik bir okuma.",
+      "url": "https://chs.harvard.edu/chapter/part-2-sign-systems/"
     },
     {
-      "title": "Bible Study: Are Rabbits Really Mentioned in the Bible?",
-      "relevance": "Kutsal metinlerde tavşan benzeri hayvanların ritüel olarak yenmeyen varlıklar arasında sayıldığına dair genel bir çerçeve sunar.",
-      "url": "https://christianpure.com/learn/are-rabbits-mentioned-in-the-bible/"
+      "title": "İslami Rüya Tabirleri, Nablusi, Kirmani, İbn-i Sirin, İmam Cafer Sadık, Seyyid Süleyman, Danyal - T",
+      "relevance": "İslami aktarımlarda tavşanla ilgili derlemeler; tavşan, tavşan eti/derisi, yakalama ve yavru gibi ayrıntıların geleneksel yorumlarını içerir.",
+      "url": "https://www.medicentertv.com/islami-ruya-tabirleri-nablusi-kirmani-ibn-i-sirin-imam-cafer-sadik-seyyid-suleyman-danyal-t"
     },
     {
-      "title": "Rabbit Symbolism in the Bible",
-      "relevance": "Yahudi bağlamında tavşan benzeri hayvanların Levililer ve Tesniye’deki beslenme kuralları (kashrut) çerçevesinde ritüel olarak tüketilmemesi gereken canlılar arasında yer aldığına dair bir çerçeve sunar.",
-      "url": "https://www.scribd.com/document/867909660/What-Do-Rabbits-Represent-in-the-Bible-Christian-Pure"
+      "title": "İmam Nablusi Rüya Tabirleri T Harfi",
+      "relevance": "Nablusî atıfıyla sunulan derlemeler; tavşanın kadın, evlilik ve az hayır gibi temalarla ilişkilendirildiğine dair modern aktarım örneği.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-t-harfi.html"
     },
     {
-      "title": "The Role of the Rabbit in Chinese Buddhist Myths - Chinese Mythology",
-      "relevance": "Çin Budist mitleri içinde tavşanın ay ve Sāsa Jātaka ile bağlantısını ve ay tavşanı motiflerini anlatır.",
-      "url": "https://chinese.mythologyworldwide.com/the-role-of-the-rabbit-in-chinese-buddhist-myths/"
+      "title": "Tavşan Rüyada Görmek İmam Nablusi",
+      "relevance": "Tavşanın kadın olarak görülmesi, tavşanı tutmanın evlilik sayılması ve tavşan kesmenin eşin ömrüyle ilişkilendirilmesi gibi aktarımlar.",
+      "url": "https://www.islamda.org/2015/06/tavsan-ruyada-gormek-imam-nablusi.html"
     },
     {
-      "title": "Looking for rabbits at Korean Buddhist temples",
-      "relevance": "Kore Budist tapınak sanatında tavşan figürünün uzun ömür ve kötücül etkilerden uzaklık temalarıyla ilişkilendirilmesini aktarır.",
-      "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20230116/temple-adventures-looking-for-rabbits-at-korean-buddhist-temples"
+      "title": "Şeyh Ali'nin Ta'bîrnâme'sinde Rüya Türleri ve Hayvan ...",
+      "relevance": "Şeyh Ali neşriyatına dayanan akademik tartışma; tavşanla ilişkili bazı geleneksel pasajları ve yorum çeşitlerini aktarır.",
+      "url": "https://dergipark.org.tr/tr/download/article-file/5051906"
     },
     {
-      "title": "Rabbit - 국립민속박물관",
-      "relevance": "Ay tavşanını ay, uzun ömür ve ölümsüzlük iksiriyle ilişkilendiren kültürel anlatılara dair bilgi verir.",
-      "url": "https://www.nfm.go.kr/english/subIndex/1015.do"
+      "title": "Apostle David E. Taylor [Official Site]",
+      "relevance": "Modern Hristiyan yorum örneği; tavşanın bereket ve çoğalma çağrışımlarıyla ele alınmasına dair kültürel bir gösterge sunar.",
+      "url": "https://joshuamediaministries.org/dreams/rabbit/"
+    },
+    {
+      "title": "What Does A Rabbit Symbolize In The Bible - Bible Paradise",
+      "relevance": "Tavşanın kutsal metinlerde 'törensel açıdan temiz olmayan hayvan' kategorisi bağlamında anıldığına dair referanslar sağlar.",
+      "url": "https://bibleparadise.org/what-does-a-rabbit-symbolize-in-the-bible/"
+    },
+    {
+      "title": "Berakhot 57.b",
+      "relevance": "Talmudik kaynak; rüya yorumunun bağlama ve yorumlayana bağlı olduğunu gösteren rabbanî hermenötik ilkeleri sunar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Berakhot 56b | The Sefaria Library",
+      "relevance": "Talmudik rüya yorumuna ilişkin pasajlar; hayvan imgelerinin rabbanî rüya literatüründe nasıl ele alındığına dair çerçeve sağlar.",
+      "url": "https://www.sefaria.org/Berakhot.56b"
+    },
+    {
+      "title": "Berakhot 112 - Talmud Bavli Study",
+      "relevance": "Rüyada görülen hayvanlara ilişkin örneklerin bulunduğu rabbanî rüya yorum geleneğine erişim sağlar.",
+      "url": "https://talmudbavli.app/en/texts/Berakhot.112.1"
+    },
+    {
+      "title": "The White Rabbit: A Zen Story About Awakening",
+      "relevance": "Zen anlatılarında beyaz tavşanın ay ve uyanışla ilişkilendirildiğine dair örnek anlatı.",
+      "url": "https://tricycle.org/article/white-rabbit-zen/"
+    },
+    {
+      "title": "Four Harmonious Brothers - Tibetan Trekking Travel",
+      "relevance": "Tibet Budizmi bağlamında tavşanın 'Four Harmonious Brothers/Beasts' anlatısındaki sembolik işlevine dair aktarım.",
+      "url": "https://tibetantrekking.com/tibetan-buddhism/four-harmonious-brothers/"
+    },
+    {
+      "title": "Sutta 21: A hare attempts to sacrifice himself for a brahmin",
+      "relevance": "Jataka anlatıları içinde tavşanın özveri hikâyesi; Budist sembolizminde merhamet ve fedakârlık temalarına işaret eder.",
+      "url": "https://www.wisdomlib.org/buddhism/book/taisho-chinese-buddhist-canon/d/doc1856156.html"
+    },
+    {
+      "title": "Chapter 6 - The Story of the Rabbit King",
+      "relevance": "‘Rabbit King’ hikâyesinde tavşanın korku ve ürkeklik temalarıyla kurulduğunu gösterir.",
+      "url": "https://www.wisdomlib.org/buddhism/book/taisho-chinese-buddhist-canon/d/doc1856235.html"
+    },
+    {
+      "title": "Rabbit Symbolism & The Spiritual Meaning Of Seeing ...",
+      "relevance": "Modern spiritüel literatürde tavşan sembolünün bereket, yeni başlangıçlar, hassasiyet ve iyi şansla ilişkilendirildiğini gösteren örnek bir kaynak.",
+      "url": "https://www.yourtango.com/2021344547/rabbit-symbolism-meaning-totem-spirit-omens"
+    },
+    {
+      "title": "Dreaming of Rabbits",
+      "relevance": "Tavşan rüyasını; bolluk, kırılganlık, saflık, dönüşüm ve bilinmeyenden gelen mesajlarla ilişkilendiren modern bir yorum sunuyor.",
+      "url": "https://www.dreamdictionary.org/dream-dictionary/dreaming-of-rabbits/"
+    },
+    {
+      "title": "Rabbit Spiritual Meaning: A Complete Guide",
+      "relevance": "Tavşanın spiritüel anlamını; bolluk, büyüme, nazik yönlendirme ve rüyada tavşanın korku ya da oyunculuk çağrıştırabilmesi üzerinden ele alıyor.",
+      "url": "https://spiritualmeaningz.com/rabbit-symbolism/"
+    },
+    {
+      "title": "Rabbit - Symbolism, Meaning & Spirit Animal",
+      "relevance": "Tavşanla ilgili rüya okumalarında hızlı çoğalma, bolluk, yeni başlangıçlar ve korunma-kırılganlık ikiliğini birlikte yorumluyor.",
+      "url": "https://mymythos.org/archetype/rabbit/"
+    },
+    {
+      "title": "Rabbit Spirit Animal: Symbolism and Dreams - Magickal Spot",
+      "relevance": "Tavşanı esoterik bir bağlamda; doğurganlık, çeviklik, kırılganlık ve sezgiyle ilişkilendiriyor; rüya sahneleri için de kısa yorumlar veriyor.",
+      "url": "https://magickalspot.com/rabbit-spirit-animal-meaning/"
+    },
+    {
+      "title": "Rabbit Spiritual Meaning: Symbolism, Luck & Spirit Animal",
+      "relevance": "Tavşanı spiritüel bir işaret olarak; şans, büyüme ve yumuşak ama hızlı hareket etme temalarıyla açıklıyor; rüyada tavşan görmeyi de bu eksende ele alıyor.",
+      "url": "https://jobcannon.io/blog/rabbit-spiritual-meaning"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "christian"
+  ]
 }

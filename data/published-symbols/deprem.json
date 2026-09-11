@@ -1,111 +1,193 @@
 {
   "slug": "deprem",
   "title": "deprem",
-  "shortDescription": "Rüyada deprem görmek, hayatınızdaki düzenin veya güven duygusunun ani bir değişimle sarsılmasını simgeler. Eski kalıpların yıkılıp yenilenmeye alan açmasını da anlatabilir.",
+  "shortDescription": "Rüyada deprem görmek, yerin ve temel imgelerin sarsılmasıyla ortaya çıkan somut bir istikrarsızlık hissi, yeniden düzenleme gereği ve bazen travmaya bağlı, canlı ve korkutucu imgelerle ilişkilendirilen bir semboldür.",
   "positiveAssociations": [
-    "Dönüşüm",
-    "Eski kalıplardan arınma",
-    "Yenilenmeye alan açma",
-    "Geçicilik bilinci"
+    "Zorunlu yeniden düzenleme imkânı: eskimiş yapıların (ilişkiler, roller, yaşam düzenleri) çöktüğünün farkına varma ve yeniden inşa fırsatı.",
+    "Temel savunmaların açığa çıkması sayesinde eyleme geçmeye yönelik hazırlıklar yapma veya pratik değişiklikler başlatma olanağı.",
+    "Normalleşmiş güvenceleri veya gündelik varsayımları sorgulama: alışılmış kabulleri somut biçimde yeniden değerlendirmeyi tetikler."
   ],
   "challengingAssociations": [
-    "İstikrarsızlık",
-    "Güven sarsılması",
-    "Ani musibet veya tehdit algısı",
-    "Maddi temellerin sarsılması"
+    "Ev/barınak veya yakın çevrenin zarar görmesi korkusu (çökme, enkaz, altüst olan ev düzeni)",
+    "Yerinden edilme, tahliye veya göç kaygısı; altyapı ve güvenlik hissinin somut olarak bozulması",
+    "Otorite ya da toplum düzeninin beklenmedik şekilde çökeceğine dair kaygı; artçı sarsıntılar ve belirsiz devam eden tehlike hissi",
+    "Travma sonrası deprem anısı olanlarda tekrarlayan kabuslar ve uyanık yaşamı zorlayabilecek canlı, hoş olmayan imgeler."
   ],
   "contextDependentAssociations": [
-    "Toplumsal veya şehir düzeyinde çalkantılar",
-    "Aile/ev yaşamında güvenlik hissinin zedelenmesi",
-    "Kariyer veya ekonomik temellerin değişmesi"
+    "Gerçek bir deprem yaşamış veya afet bölgesinde olan kişilerde rüyada deprem teması daha sık ve daha canlı bildirilmiştir; bağlam bu yüzden belirleyicidir",
+    "Rüyanın mekâna ilişkin ayrıntıları (ev, kent, tanıdık binaların yıkımı) genellikle rüya sahibinin somut kaygılarıyla örtüşür",
+    "Dini veya kültürel okuma çerçeveleri (ör. teolojik uyarı, alamet okumaları) sembolün yorumunu değiştirebilir; Talmudik geleneğe göre rüyaların anlamı yorumla belirlenir.",
+    "Rüyanın duygusal tonu ve rüya içindeki davranış (kaçma, enkazı inceleme, sığınma arayışı) deprem imgelerinin yıkım mı yoksa yeniden düzenleme çağrısı mı olduğunu belirlemede önem taşır"
   ],
   "commonVariations": [
     {
-      "title": "Evde deprem hissetmek",
-      "description": "Kişisel ve en yakın güven alanındaki sarsıntı; iç dünyada temel güven duygusunun sorgulanması veya aile ilişkilerinde dönüşüm işareti."
+      "title": "Evin Temellerinin Çatladığını Görmek",
+      "description": "Rüyada kendi evinin temellerinin çatladığını ya da duvarlarının çatladığını görmek; güvenlik duygusunun somut bir mekânda hedef alınması ve günlük yaşamın doğrudan tehdit altında olduğu hissi."
     },
     {
-      "title": "Şehirde geniş çaplı sarsıntı",
-      "description": "Kolektif düzeydeki huzursuzlukları, toplumsal değişimleri veya dışsal koşullardaki ani bozulmaları simgeler."
+      "title": "Şehirde Ani Yıkım ve Kaos",
+      "description": "Şehrin sokaklarının çöktüğünü, binaların birer birer devrildiğini görmek; toplumsal düzenin, altyapının ve otoritenin bozulması kaygısının kolektif bir sahneyle dışavurumu."
     },
     {
-      "title": "Yıkım sonrası manzara görmek",
-      "description": "Eski yapıların, alışkanlıkların veya inançların zorunlu olarak sona ermesi; ardından gelebilecek yeniden inşa veya yeni başlangıç olasılığı."
+      "title": "Artçı Sarsıntılarla Süregelen Korku",
+      "description": "Sarsıntının duruyor gibi görünüp sonra yeniden başlaması; rüya, tekrarlayan tehdit, belirsizlik ve güvenin kolay kolay geri gelmeyeceği hissini gösterir."
     },
     {
-      "title": "Deprem anında kaçmaya çalışmak",
-      "description": "Değişim karşısında kontrolü koruma, uyum sağlama veya güvenliğe yönelme çabası."
+      "title": "Enkazı İncelemek veya Kayıpları Aramak",
+      "description": "Deprem sonrası yıkıntılar arasında yakınlarını ya da eski alışkanlıklarını aramak; bu, kayıp ve yas sürecinin ve eski düzenin geri gelmeyeceğinin sembolik anlatımıdır."
     }
   ],
-  "psychology": "",
+  "psychology": "Araştırmalar, gerçek bir deprem yaşayan topluluklarda deprem temalı rüyaların sıklık ve canlılık bakımından arttığını; ayrıca bu rüyaların genellikle hoş olmayan, korkutucu duygularla birlikte olduğunu göstermektedir. Bununla birlikte bazı çalışmalar, deprem kabuslarının her zaman diğer kabuslardan daha yoğun duygulanım taşıması gerekmediğini de bildirmiştir. Psikodinamik bir çerçevede temkinli bir yorumla deprem imgesi, ego istikrarının sarsılması veya bastırılmış çatışmaların dramatik dışavurumu olarak ele alınabilir; bu tür yorumlar bağlam ve kanıt gerektirir.",
   "jungian": "",
-  "islamicTradition": "İslami rüya tabiri literatüründe deprem genellikle şehir veya toplum düzeyinde ağır sarsıntı, fitne, hastalık, kuraklık ya da yöneticilerden gelecek tehdit ve uyarı olarak yorumlanır; burada vurgu kolektif etkiler ve toplumsal düzenin bozulması üzerinedir.",
-  "christianTraditions": "Hristiyanlık bağlamında depremler Kutsal Kitap anlatılarında çoğunlukla Tanrı’nın müdahalesi, ilahi yargı veya kudret gösterisi biçiminde yer alır; bu okumalar daha çok kutsal metin sembolizmine dayanır ve doğrudan rüya tabirinden farklıdır.",
-  "jewishTraditions": "Yahudi metin geleneğinde depremler benzer şekilde ilahi müdahale ve yargı temalarıyla ilişkilendirilir; mevcut kaynaklar bu okumaları kutsal metin sembolizmi çerçevesinde ele alır ve doğrudan rabbanî rüya yorumu kanıtı sunmaz.",
-  "buddhistEasternApproaches": "Budist ve bazı doğu kökenli yaklaşımlarda deprem, varoluştaki geçicilik ve süreksizlik bağlamında okunur; değişim ve bırakma süreçlerini simgeleyen bir işaret olarak ele alınır.",
-  "spiritualApproaches": "Spiritüel ve Vedik kökenli okumalarda deprem, eski maddi ve sembolik yapıların yıkılmasıyla derin dönüşüme ve uyanışa açılan bir alan olarak yorumlanır; bazı Vedik kaynaklarda yaşamın temellerinin sarsılması veya uyarı işareti biçiminde yer alır.",
+  "islamicTradition": "İslami rüya yorumlarında deprem sıklıkla yerin sarsılması üzerinden toplumsal bela, kıtlık, hastalık veya büyük değişim alameti şeklinde okunur; klasik metin atıfları çevrimiçi derlemelerde yer alsa da yorumların kaynak ve bağlama göre değiştiği vurgulanır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde deprem, İncil bağlamında Tanrı’nın müdahalesi, uyarı veya yargı temalarıyla ilişkilendirilebilir; rüyada görüldüğünde bu çerçeveden dikkat, sınanma veya düzenin kırılması biçiminde yorumlanabilir.",
+  "jewishTraditions": "Talmudik metinlerde deprem kozmik bir sarsıntı ve ilahi kudretle bağlantılı bir tema olarak yer alır; Yahudi rüya yorumu geleneği rüyayı yoruma açar—dolayısıyla deprem rüyası tek bir sabit anlam taşımaz, yorumla şekillenir.",
+  "buddhistEasternApproaches": "Bazı Budist kaynaklarda deprem, kutsal dönemeçler veya bodhisattva ilerlemesini işaret eden alametler arasında sayılır; erken Mahāyāna metinleri bu imgeleri manevi dönüşüm bağlamında ele alır.",
+  "spiritualApproaches": "Modern ezoterik/spiritüel okumalarda deprem rüyası genellikle enerji alanında ani değişim, eski düzenin çatlaması ve ruhsal dönüştürücü baskı olarak yorumlanır; bu yorumlar sembolü içsel dönüşüm bağlamına yerleştirir.",
   "comparisonTable": [
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Toplumsal çalkantı, fitne, hastalık, kuraklık veya yönetici kaynaklı tehdit/uyarı.",
+      "approach": "Ampirik psikoloji",
+      "interpretation": "Deprem yaşayanlarda deprem temalı rüyaların sıklığı ve canlılığı artar; duygusal içeriği genellikle olumsuztur.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikodinamik",
+      "interpretation": "Ego istikrarının sarsılması ve bastırılmış çatışmaların dramatik temsili olarak okunabilir; kontrollü bir Freudyen çerçeveyle ele alınır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami/Yerel Gelenekler",
+      "interpretation": "Toplumsal musibet, kıtlık veya uyarı alameti şeklinde yorumlanır; kaynak ve yorumcıya bağlı değişir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan / Yahudi Metinleri",
-      "interpretation": "Kutsal metinlerde ilahi müdahale, yargı ve Tanrı’nın kudretinin göstergesi olarak sembolik kullanım.",
+      "approach": "Budist Metinler",
+      "interpretation": "Kozmik alamet veya bodhisattva ilerleyişine eşlik eden işaretler olarak ele alınabilir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist / Doğu Yaklaşımları",
-      "interpretation": "Geçicilik, değişim ve bırakma temalarıyla bağlantılı sembolik okuma.",
-      "evidenceLevel": "spiritual"
-    },
-    {
-      "approach": "Spiritüel / Vedik Yaklaşımı",
-      "interpretation": "Maddi temellerin sarsılması, eski yapıların yıkılması ve derin dönüşüm; bazen uyarı niteliğinde.",
+      "approach": "Modern Spiritüel",
+      "interpretation": "Ruhsal sarsılma ve dönüşüm baskısı; eski bağların çözülmesi ve yeniden yapılanma çağrısı.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenekler deprem sembolünde ortak olarak kurulmuş düzenin bozulması, ani sarsıntı ve önemli değişim unsurlarını görür; yorumlar burada olumlu dönüşüm veya olumsuz tehlike vurgularından birine daha çok eğilebilir.",
-  "differences": "Dini metin okumaları (İslam, Hristiyanlık, Yahudilik) depremi daha çok toplumsal/ilahi bağlamda uyarı veya yargı olarak sunarken; spiritüel ve doğu yaklaşımları bireysel ve evrensel dönüşüm, geçicilik ve yeniden doğuş olasılıklarına vurgu yapar.",
-  "inusAssessment": "INUS çerçevesiyle deprem sembolü, tek başına belirleyici ya da kesin bir kehanet değildir; sembolün yıkım ve sarsıntı unsurları, rüya görenin yaşam bağlamındaki değişimler, güvenlik algısı ve bırakma süreçlerinin bir kombinasyonu olarak değerlendirilmelidir.",
-  "faq": [],
+  "commonGround": "Çoğu yaklaşım deprem sembolünü somut bir kriz imgesi olarak görür: güvenlik, temel yapı veya düzenin sarsıldığını işaret eden güçlü, dikkat çekici bir simgedir.",
+  "differences": "Farklılıklar, sembolün açıklamasında ortaya çıkar: ampirik psikoloji bunu travma ve stres bağlamında tanımlar; dini gelenekler ise ilahi uyarı veya kolektif alamet olarak okur; psikodinamik ve spiritüel yaklaşımlar içsel çatışma ve dönüşüm ekseninde yorumlar.",
+  "inusAssessment": "Deprem rüyası tek başına belirli bir anlam taşımaz; rüyanın bağlamı (gerçek deprem deneyimi, rüyanın ayrıntıları, duygusal ton ve yorumcunun kültürel çerçevesi) bir araya gelerek anlam üretir. Sembol, 'temel sarsılması' ve buna bağlı yeniden düzenleme gereğini işaret eden, önemli ancak bağlama bağlı bir öğedir.",
+  "faq": [
+    {
+      "question": "Rüyada deprem görmek her zaman gerçek bir felaketin habercisi midir?",
+      "answer": "Hayır. Bu rüya genellikle içsel veya toplumsal düzeyde istikrarsızlık ve değişim kaygısının bir yansımasıdır; bazı geleneklerde uyarı olarak okunabilir ama tek başına kehanet değildir."
+    },
+    {
+      "question": "Deprem rüyaları neden bu kadar korkutucu ve canlı olur?",
+      "answer": "Gerçek deprem deneyimi veya yüksek stres, rüya içeriğini daha sık ve daha canlı hale getirir; bu nedenle tehdit hissi ve korku öne çıkabilir."
+    }
+  ],
   "sources": [
     {
-      "title": "Topical Bible: Earthquakes: Symbolical",
-      "relevance": "Kutsal Kitap içindeki deprem motiflerinin ilahi müdahale, yargı ve kudret bağlamında nasıl kullanıldığını özetler.",
-      "url": "https://biblehub.com/topical/naves/e/earthquakes--symbolical.htm"
+      "title": "Effects of the 1989 San Francisco earthquake on frequency ...",
+      "relevance": "Loma Prieta depreminin ardından deprem temalı kabusların sıklığı ve özelliklerini inceleyen ampirik çalışma; deprem yaşayan gruplarda artan kabus bildirimi ile ilgilidir.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1583211/"
+    },
+    {
+      "title": "APA PsycNET",
+      "relevance": "Depremden sağ kurtulanlarda rüya içeriklerinin canlılık ve olumsuz duygulanım açısından değişimini inceleyen çalışmaya ait bibliyografik kayıt.",
+      "url": "https://psycnet.apa.org/record/2006-23055-001"
+    },
+    {
+      "title": "About dreams with earthquake - Sigmund Freud",
+      "relevance": "Freudyen çerçevede deprem imgesine ilişkin modern bir yorum sunar; depremin bastırılmış çatışmaların sarsıcı temsili olabileceği perspektisini ele alır.",
+      "url": "https://www.freudfile.org/psychoanalysis/dream_earthquake.html"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritik geleneğe dair çeviri; deprem ve yer sarsıntısı imgelerinin antik rüya yorum repertuarında yer aldığını gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "(PDF) The Body, Experience, and the History of Dream Science in ...",
+      "relevance": "Artemidorus’un eserinde deprem ve diğer yeryüzü olaylarının rüya malzemesi olarak bulunduğunu tartışan akademik çalışma; sembolün antik bağlamını destekler.",
+      "url": "https://www.academia.edu/68691950/The_Body_Experience_and_the_History_of_Dream_Science_in_Artemidorus_Oneirocritica"
+    },
+    {
+      "title": "Earthquakes, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Deprem rüyasının antik yorum repertuarına dair aktarımlar içerir; yerin, evin ve otorite alanlarının sarsılması motifiyle ilişki kurar.",
+      "url": "http://www.dreamtation.com/docs/9755.htm"
     },
     {
       "title": "What is the sign of seeing earthquake in dream? - IslamQA",
-      "relevance": "Modern İslami rüya tabiri çerçevesinde depremin toplumsal musibet, kuraklık veya yönetici kaynaklı tehdit gibi yorumlarını aktarır.",
+      "relevance": "Rüyada deprem sembolünü hastalık, kıtlık, büyük değişim ve toplumsal musibet bağlamında ele alan İslami yorum aktarımı.",
       "url": "https://islamqa.org/hanafi/askimam/125633/what-is-the-sign-of-seeing-earthquake-in-dream/"
     },
     {
+      "title": "Dreams about earthquake Islamic Interpretations Explanation",
+      "relevance": "Deprem sembolüne dair İslami rüya yorumlarında tekrar eden ana temaları gösteren çevrimiçi derleme sayfası.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=earthquake"
+    },
+    {
+      "title": "What does the great earthquake in Revelation 6:12 ...",
+      "relevance": "Depremi Hristiyan sembolizmi içinde Tanrı’nın müdahalesi, yargı ve dönüşüm temalarıyla ilişkilendirir; rüya için kontrollü bir sembolik okuma zemini sağlar.",
+      "url": "https://biblehub.com/q/Symbolism_of_Rev_6_12_earthquake.htm"
+    },
+    {
+      "title": "Topical Bible: Earthquakes: Symbolical",
+      "relevance": "İncil’de depremlerin Tanrı’nın gücü, hükmü ve yönlendirici eylemiyle birlikte anıldığını özetler; Hristiyan sembolik okuma için temel sağlar.",
+      "url": "https://biblehub.com/topical/naves/e/earthquakes--symbolical.htm"
+    },
+    {
+      "title": "Berakhot 59a-b: The Source of an Earthquake - Steinsaltz.org",
+      "relevance": "Talmudik metinde depremin ilahi sarsıntı ve kutsal tarih bağlamında nasıl anıldığını aktaran kaynak; Yahudi gelenekteki teolojik okuma için referans sağlar.",
+      "url": "https://steinsaltz.org/daf/berakhot59/"
+    },
+    {
+      "title": "No More Solid Than a Dream: Week 8 of Our Literary Critic’s Daf Yomi Talmud Study",
+      "relevance": "Talmudik rüya anlayışındaki 'rüyalar yorumla tamamlanır' ilkesini ve Berakhot’taki deprem pasajının rüya okumasına dolaylı çerçeve sağlayan yorum kültürünü özetler.",
+      "url": "https://www.tabletmag.com/sections/belief/articles/the-rabbis-mental-world"
+    },
+    {
+      "title": "On Omens | WND I",
+      "relevance": "Yer sarsılmasını alamet ve kozmik işaret olarak tartışır.",
+      "url": "https://www.nichirenlibrary.org/en/wnd-1/Content/79"
+    },
+    {
+      "title": "Earthquakes",
+      "relevance": "Büyük depremlerin sekiz nedenini ve Buddha’nın yaşamındaki dönüm noktalarıyla ilişkisini verir.",
+      "url": "https://obo.genaud.net/dhamma-vinaya/pts/an/08_eights/an08.070.hare.pts.htm"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Rüyada deprem görülmesini doğrudan yorumlar ve bhūmi ilerleyişiyle ilişkilendirir.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "Dreaming the path: diagnosing Bodhisattva progress in early",
+      "relevance": "Budist rüya literatüründe deprem imgelerinin bodhisattva ilerleyişiyle nasıl ilişkilendirildiğini tartışan çalışmaya ilişkin akademik kaynak.",
+      "url": "https://scholarlypublications.universiteitleiden.nl/access/item:4105021/view"
+    },
+    {
+      "title": "19: Eight Reasons for Earthquakes",
+      "relevance": "Büyük depremlerin sekiz nedenini aktaran erken Budist metin çevirisi sunar.",
+      "url": "https://ancient-buddhist-texts.net/English-Texts/Great-Emancipation/19-Earthquakes.htm"
+    },
+    {
+      "title": "City of 10,000 Buddhas",
+      "relevance": "Depremin altı türü ve on sekiz biçimini Buddha’nın gücü ve on sekiz dhātu ile ilişkilendirir.",
+      "url": "https://www.cttbusa.org/fas1/fas1p4and5_22.asp.html"
+    },
+    {
+      "title": "Earthquake - Dreampaths",
+      "relevance": "Modern ezoterik/spiritüel okumalarda deprem sembolünün dönüşüm, enerji değişimi ve eski düzenin çöktüğü yorumlarına örnek sağlayan çevrimiçi kaynak.",
+      "url": "https://dreampaths.com/symbol/earthquake"
+    },
+    {
       "title": "What Does it Mean When You Dream About an Earthquake?",
-      "relevance": "Çevrimiçi bir kaynak olarak depremi değişim ve geçicilik temalarıyla ilişkilendiren popüler açıklamalar içerir.",
+      "relevance": "Depremi ‘eski yapının kırılması’, dönüşüm ve daha bilinçli yaşama geçiş temalarıyla açıklayan modern spiritüel yorum.",
       "url": "https://www.centreofexcellence.com/dreams-about-earthquakes/"
-    },
-    {
-      "title": "Earthquake - Dream Symbol Meaning and Interpretation",
-      "relevance": "Spiritüel/düşsel yorumlarda depremin dönüşüm, bırakma ve uyanışla bağlantısını ele alan açıklamalar sunar.",
-      "url": "https://dreams.guide/dream-symbols/earthquake"
-    },
-    {
-      "title": "Dream of Earthquake Meaning — Vedic Interpretation (Swapna ...",
-      "relevance": "Vedik gelenekte deprem, yaşamın temellerinin sarsılması ve ani geçiş olarak yorumlanır; çevrimiçi bir derlemeye işaret eder.",
-      "url": "https://www.vedicbirth.com/dream/earthquake"
-    },
-    {
-      "title": "Earthquake / land shaking Dream Meaning (भूकंप) | Vedic ...",
-      "relevance": "Vedik Swapna Shastra perspektifinde depremin ani değişim ve uyarı sembolizmini tartışan kaynaklardan biridir.",
-      "url": "https://trikalvaani.com/swapna/earthquake"
-    },
-    {
-      "title": "Chapter 34 - Earthquakes and Dreams",
-      "relevance": "Hindu metin geleneğinde depremler ve rüyalar arasındaki ilişkiye dair derleme niteliğinde bir bakış sunar.",
-      "url": "https://www.wisdomlib.org/hinduism/essay/varahi-tantra-english-study/d/doc1239522.html"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
 }

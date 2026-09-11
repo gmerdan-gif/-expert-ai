@@ -1,133 +1,236 @@
 {
   "slug": "anne",
   "title": "anne",
-  "shortDescription": "Rüyada anne görmek; güven, şefkat, korunma ve duygusal destek ihtiyacını çağrıştırabilir. Rüyanın havasına göre baskı, bağımlılık ya da sorumluluk yüküyle ilgili duyguları da yansıtabilir.",
+  "shortDescription": "Rüyada anne görmek; şefkat, güven, korunma ve yakınlık ihtiyacının yanı sıra aile ilişkileri ve bağımsızlaşma temalarıyla ilişkilendirilebilir. Annenin destekleyici, kaygılı veya öfkeli oluşu, rüyanın güven ve bakım mı yoksa ailevi gerilim ve içsel kaygı mı etrafında şekillendiğini gösterebilir.",
   "positiveAssociations": [
-    "Güvenlik",
-    "Şefkat",
-    "Duygusal beslenme",
-    "Destek",
-    "Aidiyet"
+    "Güven ve emniyet",
+    "Şefkat ve merhamet",
+    "Manevi beslenme ve korunma",
+    "Bereket ve rahatlama",
+    "Koşulsuz sevgi"
   ],
   "challengingAssociations": [
-    "Bağımlılık",
-    "Yutulma korkusu",
-    "Çatışmalı duygular",
-    "Baskı",
-    "Ruhsal yük"
+    "Uyarı veya serzeniş",
+    "Baskıcı ya da bunaltıcı kontrol",
+    "Bireyselleşmeyi zorlaştıran yoğun anne etkisi",
+    "Aile düzeninde yaşanabilecek bozulmalar",
+    "Bastırılmış erken dönem çatışmaları"
   ],
   "contextDependentAssociations": [
-    "Yardım ve rahatlama",
-    "Hastalıkta şifa arayışı",
-    "Beklenmedik destek",
-    "Kişisel kökenlerle yüzleşme"
+    "Annenin rüyadaki canlı veya ölü oluşu",
+    "Annenin neşeli, öfkeli, ağlayan ya da hasta görünmesi",
+    "Rüya sahibinin gebelik gibi belirli yaşam evrelerinde olması",
+    "Babanın sağlık durumu ve aile içi ilişkilerin genel seyri"
   ],
   "commonVariations": [
     {
-      "title": "Annenin sarılması",
-      "description": "Rüyada annenin kucaklaması veya şefkat gösterdiğini görmek, bireyin günlük yaşamında aradığı duygusal güvenliğe, sığınma ihtiyacına ve içsel rahatlamaya işaret edebilir."
+      "title": "Neşeli ve Destekleyici Anne",
+      "description": "Annenin rüyada huzurlu ve güler yüzlü görünmesi, uyanık yaşamda ferahlık, iyi haberler ve içsel bir güven hissiyle ilişkilendirilir."
     },
     {
-      "title": "Anneyle tartışmak",
-      "description": "Anneyle girilen bir çatışma veya tartışma sahnesi, bağımsızlaşma çabalarını, otoriteyle yaşanan içsel sürtüşmeleri veya geçmişten gelen çözülmemiş bağlanma meselelerini yansıtabilir."
+      "title": "Hasta veya Kaygılı Anne",
+      "description": "Annenin rüyada sağlık sorunları yaşadığını veya sıkıntılı olduğunu görmek, ailevi ilişkilerdeki hassasiyetlere ve kişinin kendi içsel kaygılarına işaret edebilir."
     },
     {
-      "title": "Annenin hastalanması",
-      "description": "Annenin sağlık sorunu yaşaması ya da zor durumda olması, rüya görenin destek kaybı yaşama endişesini, yaşam kaynağının zayıflaması korkusunu veya aşırı sorumluluk yükünü simgeleyebilir."
+      "title": "Gebelik ve Anne-Bebek Temsilleri",
+      "description": "Özellikle gebelik dönemindeki rüyalarda anne ve bebek imgelerinin artması, yeni bir yaşam evresine geçişi ve artan sorumluluk bilincini yansıtabilir."
     },
     {
-      "title": "Uzakta olan anneyi görmek",
-      "description": "Uzakta olan veya hayatında olmayan bir anneyi rüyada görmek, köklerden kopuş hissine, aidiyet arayışına ya da bireyin kendi içsel besleyici yönüyle yeniden bağ kurma ihtiyacına işaret edebilir."
+      "title": "Öfkeli veya Uyarıcı Anne",
+      "description": "Annenin rüyada tepki göstermesi ya da ikaz etmesi, kişinin uyanık yaşamındaki vicdani muhasebesine ve dikkat etmesi gereken konulara odaklanmasını sağlar."
     }
   ],
-  "psychology": "Psikanalitik açıdan anne figürü, erken çocukluk bağları, bakım ihtiyacı, bireyleşme süreci ve bağımlılık dinamiklerinin bir yansımasıdır. Kişinin zihninde erken dönem ilişkilerinin izlerini ve bilinçdışı arzularını taşır.",
-  "jungian": "Jungcu analitik psikolojide anne, hem besleyen ve koruyan hem de yutan veya boğan yönleriyle tezahür eden 'Great Mother' (Büyük Anne) arketipini temsil eder. Bu arketip, ruhsal gelişimin hem destekleyici kaynağını hem de bireyselleşme önündeki gölge engellerini barındırır.",
-  "islamicTradition": "Klasik İslami rüya kaynaklarında anne figürünün görünmesi, yardım, rahatlama, hastalık hallerinde şifa ve sıkıntılı zamanlarda gelen beklenmedik destek gibi temalarla ilişkilendirilir. Genellikle baba figürüne kıyasla daha baskın ve koruyucu bir sembolik değere sahip olduğu kabul edilir.",
-  "christianTraditions": "Hristiyan gelenek ve kutsal metinlerde anne kavramı, besleyici sevgi, koruma ve rehberlik unsurlarını açıklamak üzere kullanılan metaforik bir semboldür.",
-  "jewishTraditions": "Yahudi kaynaklarında anne figürü, temel ebeveynlik sorumluluğu, ebeveyne duyulan saygı ve derin aile bağlarının simgesi olarak ele alınır.",
-  "buddhistEasternApproaches": "Budist literatürde anne sembolü ikircikli bir yapı arz eder; bir yandan evrensel şefkat, minnettarlık ve besleyici sevginin en saf örneğiyken, diğer yandan dünyevi bağlılık ve acı çekme döngüsünün kaynağı olarak değerlendirilebilir. Mahāyāna ve Tibet geleneklerinde ise kurtarıcı bilgelik ve aydınlanmanın doğurucu kaynağı anlamında 'Buddhaların Annesi' metaforuyla bağdaştırılır.",
-  "spiritualApproaches": "",
+  "psychology": "Ampirik psikoloji araştırmaları, rüyalarda aile üyelerinin ve özellikle annenin en sık görülen figürler arasında yer aldığını ve bu sıklığın annenin ölümünden sonra azalabildiğini göstermektedir. Ayrıca gebelik gibi dönemlerde anne-bebek temsillerinin arttığı; üçüncü trimesterin sonlarında ise bu imgelerin daha az özgül hâle gelebileceği saptanmıştır. Psikanalitik düzlemde ise anne, ilk sevgi nesnesi, arzu ve çocukluk çatışmaları ekseninde ele alınırken, beden temaları, göğüs simgeleri ve erken dönem nesne ilişkileri üzerinden şekillenen bir içsel dünya figürü olarak değerlendirilir.",
+  "jungian": "",
+  "islamicTradition": "Bazı modern aktarımlarda ve derlemelerde rüyada annenin görünmesi güven, emniyet, sevgi ve berekete işaret eder. Annenin ağlaması sıkıntıya, gülmesi sevinçli bir olaya ve hasta görünmesi ise aile düzenindeki bozulmalara işaret edebilir. Nablusî'ye dayandırılan nakillerde, annenin rüyadaki durumunun babaya kıyasla öncelikli olabildiği ve bazı özel bağlamların farklı sonuçlar doğurabileceği aktarılır.",
+  "christianTraditions": "Bazı modern Hristiyan yorumlarında ve ikincil kaynaklarda rüyada annenin belirmesi hatıra, özlem, teselli, otorite veya vicdan gibi ahlaki ve duygusal katmanlarla ilişkilendirilir. Bu bağlamda rüyadaki figür, kişinin rahatlama, yönlendirme ihtiyacı veya daha yüksek bir şefkat arayışıyla bağlantılı olarak okunabilir.",
+  "jewishTraditions": "Yahudi geleneğinde anne figürü hem aile içi otorite ve saygı hem de teolojik-ahlaki değer taşıyan merkezi bir konuma sahiptir. Talmudik metinlerde, örneğin Yusuf'un rüyası bağlamında ayın anne figürünü simgelediği belirtilmiş; erken Kabalistik gelenekte ise ana-baba sembolizmi mitik ve kozmik bir düzleme taşınmıştır.",
+  "buddhistEasternApproaches": "Mahayana Budizmi'nde anne motifi, Prajñāpāramitā'nın 'Buddhaların Annesi' olarak personifikasyonu üzerinden bilgelik, doğurganlık ve besleyicilik metaforlarıyla birlikte düşünülür. Bu gelenekte anne figürü yalnızca biyografik bir kişi değil; şefkat, koşulsuz sevgi ve manevi doğurma gücünün bir sembolüdür.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda anne, besleyici ve koruyucu niteliklerin, 'Büyük Anne' veya 'Toprak Ana' arketipinin, yaratıcı dişil ilkenin ve yaşamın kaynağının simgesidir. Gölge yönleriyle ise kişiyi fazla saran, ayrışmayı zorlaştıran ya da bağımsızlığını baskılayan bir kapsayıcılık barındırabilir.",
   "comparisonTable": [
     {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Ailenin ve annenin rüyalardaki yüksek görülme sıklığını, yaşam evrelerine (örneğin gebelik) ve ilişkisel sürekliliğe bağlı değişimleri inceler.",
+      "evidenceLevel": "research"
+    },
+    {
       "approach": "Psikanaliz",
-      "interpretation": "Erken dönem bağlanma ihtiyaçları, bağımlılık ve çocukluk ilişkilerinin yansıması.",
+      "interpretation": "Anneyi ilk sevgi nesnesi, arzu ekseni, çocukluk çatışmaları ve beden temalarıyla bağlantılı simgesel bir nesne olarak ele alır.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Analiz",
-      "interpretation": "Koruyucu ve yutan yönleriyle Büyük Anne ('Great Mother') arketipi.",
-      "evidenceLevel": "theoretical"
+      "approach": "İslami ve Kültürel Aktarımlar",
+      "interpretation": "Annenin rüyadaki halini (gülmesi, ağlaması, hastalanması) güvenlik, şefkat, bereket veya uyarı bağlamında değerlendirir.",
+      "evidenceLevel": "traditional"
     },
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Yardım, rahatlama, şifa ve sıkıntıda beklenmedik destek.",
+      "approach": "Hristiyan Yorumları",
+      "interpretation": "Rüyadaki anne figürünü teselli, özlem, vicdan ve ilahi şefkatin bir yansıması olarak okur.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği ve Kabala",
+      "interpretation": "Anne figürünü ahlaki saygı, ay sembolizmi ve kozmik/sefirik ana-baba sembolizmi çerçevesinde ele alır.",
       "evidenceLevel": "traditional"
     },
     {
       "approach": "Budist Yaklaşım",
-      "interpretation": "Evrensel şefkat, minnettarlık, bağlılık ve aydınlatıcı bilgelik metaforu.",
+      "interpretation": "Anne imgesini bilgelik, şefkat, koşulsuz sevgi ve manevi beslenme kaynağı olarak yorumlar.",
       "evidenceLevel": "traditional"
-    }
-  ],
-  "commonGround": "Farklı disiplinler ve gelenekler, anne sembolünün özünde 'kaynak', 'koruma' ve 'besleme' unsurlarını barındırdığı konusunda birleşir. Hangi çerçeveden ele alınırsa alınsın, anne figürü insan hayatının temel bağlarıyla ilişki kurar.",
-  "differences": "Psikolojik ve psikanalitik yaklaşımlar anne figürünü bireyin içsel dinamikleri, bilinçdışı çatışmaları ve bağımsızlaşma çabaları üzerinden okurken; geleneksel ve dini yorumlar sembolü dışsal bir destek, şifa, ilahi şefkatin yansıması veya ahlaki bir bağlam içinde konumlandırır.",
-  "inusAssessment": "Anne sembolü, içerdiği ikircikli yapısı (hem besleyen hem de yutan yönler) nedeniyle tek tip bir yargıya indirgenemez. INUS yaklaşımı, rüyadaki anne figürünün bireyin kendi yaşam bağlamı, bağımsızlık düzeyi ve erken dönem ilişkileri süzgecinden geçirilerek temkinli bir şekilde ele alınmasını gerektirir.",
-  "faq": [
-    {
-      "question": "Rüyada anne görmek her zaman güvenlik ihtiyacına mı işaret eder?",
-      "answer": "Şart değildir. Çoğu yorumda koruma ve bakım öne çıksa da, rüyanın detaylarına göre bağımlılık, baskı veya çözülmemiş geçmiş çatışmalar da söz konusu olabilir."
     },
     {
-      "question": "Jungcu perspektifte 'yutan anne' ne anlama gelir?",
-      "answer": "Bireyin büyümesini, bireyselleşmesini veya özerklik kazanmasını engelleyen aşırı korumacı ya da baskıcı ruhsal tutumları simgeleyen arketipsel bir durumdur."
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Anneyi Büyük Anne, yaratıcı dişil ilke, bakım verme-alma dengesi ve koruyucu köken sembolü olarak görür.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, anne figürünün rüyalarda temel bir güvenlik, şefkat, beslenme ve ilişki ekseni sunduğu konusunda birleşmektedir.",
+  "differences": "Ampirik psikoloji bulgulara ve yaşam evrelerine odaklanır; psikanaliz bastırılmış arzu ve erken nesne ilişkilerini ön plana çıkarır; dini ve ezoterik gelenekler ise ahlaki değerleri, ilahi şefkati veya evrensel dişil arketipleri vurgular.",
+  "inusAssessment": "Tek bir sabit anlama indirgenemeyen bu imge, hem şefkat ve koruma ihtiyacını hem de bireyselleşmeyi zorlaştıran veya baskılayan yönleri aynı anda barındırabilir.",
+  "faq": [
+    {
+      "question": "Rüyada annenin öfkeli veya ağlıyor olması ne anlama gelir?",
+      "answer": "Geleneksel aktarımlarda ve modern yorumlarda annenin öfkeli veya ağlıyor görünmesi, genellikle kişinin uyanık yaşamındaki vicdani muhasebesine, ailevi ilişkilerde yaşanan hassasiyetlere ya da dikkat etmesi gereken bazı uyarılara işaret edebilir."
+    },
+    {
+      "question": "Gebelik döneminde rüyada anne figürünü sık görmek normal midir?",
+      "answer": "Ampirik çalışmalar, gebelik döneminde anne ve bebek/çocuk temsillerinin arttığını göstermektedir. Bu durum, yeni bir yaşam evresine geçişin ve anne olma/bakım verme rollerinin rüya içeriğine yansımasıyla doğrudan ilişkilidir."
+    },
+    {
+      "question": "Rüyada annenin vefat etmiş olması rüyayı nasıl etkiler?",
+      "answer": "Uzun rüya serisi araştırmalarında annenin vefatından sonra rüyalarda görülme sıklığının değişebildiği gözlenmiştir. Bu tür rüyalar, yas sürecini, özlem katmanlarını, geçmişle hesaplaşmayı veya rüya sahibinin içsel teselli arayışını yansıtabilir."
     }
   ],
   "sources": [
     {
-      "title": "Mother Dreams — Meaning & Interpretation | PsySymbol",
-      "relevance": "Anne sembolünü psikodinamik ve Jungcu temalarla birlikte ele alan çevrimiçi derleme; bakım, bağımlılık, güvenlik ve 'Büyük Anne' (Great Mother) çerçevesine dair ifadeler içerir.",
-      "url": "https://psysymbol.com/dream/mother.html"
+      "title": "Family members in a long dream series",
+      "relevance": "Uzun bir rüya serisinde aile üyelerinin ve özellikle annenin görülme sıklığını inceleyen çalışma; anne figürünün rüya içeriğinde ne kadar sık ortaya çıkabildiğine dair doğrudan veri sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/82662"
     },
     {
-      "title": "Mother Islamic Interpretations & Meanings",
-      "relevance": "Klasik İslami rüya yorumunda anne sembolünün hangi durumlarda yardım, rahatlama, şifa veya özel bir uyarı anlamı alabileceğini gösteren çevrimiçi derleme.",
-      "url": "https://www.myislamicdream.com/mother.html"
+      "title": "Maternal representations in the dreams of pregnant women - PMC",
+      "relevance": "Hamile ve hamile olmayan kadınların rüyalarında anne-bebek/çocuk temsillerini karşılaştıran ampirik çalışma; anneyle ilişkili rüya imgelerinin gebelik döneminde nasıl değişebildiğini gösterir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3753535/"
+    },
+    {
+      "title": "The interpretation of dreams",
+      "relevance": "Rüya kuramının temel metni; rüyayı bastırılmış isteklerin dolaylı, simgesel ve bozulmuş gerçekleşmesi olarak ele alır ve anneye uzanan beden/çocukluk imgeleri için çerçeve sağlar.",
+      "url": "https://s3.us-west-1.wasabisys.com/luminist/EB/F/Freud%20-%20The%20Interpretation%20of%20Dreams.pdf"
+    },
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Freud’un rüya çalışmasının çevrimiçi tam metninden, anne bedenine ve annenin göğüslerine bağlanan rüya imgesine dair açık pasajlar içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Reading the Object: Freud's Dreams - PsyArt Journal",
+      "relevance": "Freud’un kendi rüyalarındaki anne göndermelerini, Oidipal ve erken anne nesnesi bağlamında okuyan psikanalitik bir tartışma sunar.",
+      "url": "https://psyartjournal.com/article/show/van_den_berg-reading_the_object_freuds_dreams"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Anneyle ilgili rüyaların doğrudan ele alındığı birincil Greko-Romen oneirokritik metin; annenin hayatta olması, baba durumu ve eylem türüne göre farklı yorumlar verir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "In Bed with Mother: Sexual Dreams in Artemidorus’ Interpretation of Dreams",
+      "relevance": "Artemidorus’un eserinin antik dünyadan günümüze ulaşan tek tam rüya manueli oluşunu vurgulayan akademik makale; tarihsel bağlam sağlar.",
+      "url": "https://journal.almamater.si/index.php/monitorish/article/view/170"
+    },
+    {
+      "title": "تفسير رؤية الأم في المنام لابن سيرين | أبجد هوز - الامارات 7",
+      "relevance": "Rüyada anne sembolünü güven, sevgi ve bereket bağlamında yorumlar; annenin ağlaması, gülmesi veya hastalığı ise farklı anlamlar taşıyabilir.",
+      "url": "https://www.emirates7.com/article/101599"
+    },
+    {
+      "title": "تفسير الأحلام...رؤية الام في المنام لابن سيرين - شبكة أضواء الإخبارية",
+      "relevance": "Rüyada annenin görünümünün rüya sahibinin hâli, ferahlık ve iyi haberlerle ilişkisine dair yorumlar aktarır.",
+      "url": "https://www.adwwa.com/2020/03/1_21.html"
+    },
+    {
+      "title": "تفسير رؤية الأم في المنام عند ابن سيرين والنابلسي بتفاصيل",
+      "relevance": "Nablusî’ye atfen annenin rüyadaki önceliği ve annenin doğurması temasının hasta kişi için ölümle ilişkilendirildiği bir aktarım sunar.",
+      "url": "https://mana.ms/blog/ar/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D8%A7%D8%A8%D9%86-%D8%B3%D9%8A%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A"
+    },
+    {
+      "title": "تفسير حلم الأم في المنام",
+      "relevance": "Rüyada anneyle ilgili olarak güven, şefkat ve bereket imgeleri ile annenin duygusal durumlarının yorumlarına dair bir özet sunar.",
+      "url": "https://www.sayidaty.net/%D8%A8%D9%84%D8%B3/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A3%D8%AD%D9%84%D8%A7%D9%85/1797321-%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%AD%D9%84%D9%85-%D8%A7%D9%84%D8%A3%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85%C2%A0"
+    },
+    {
+      "title": "Spiritual meaning of mother in a dream | Biblical Dream ...",
+      "relevance": "Rüyada annenin görülmesini hatırlama, özlem, teselli, otorite ve vicdan katmanlarıyla ilişkilendirir.",
+      "url": "https://biblestep.com/dreams/spiritual-meaning-of-mother-in-a-dream"
+    },
+    {
+      "title": "Biblical Meaning of a Mother in Dreams - Wisdom Of The Spirit",
+      "relevance": "Rüyadaki annenin Tanrı’nın şefkati, koruyucu rehberlik ve teselli ihtiyacıyla bağlantısını öne çıkarır.",
+      "url": "https://wisdomofthespirit.com/biblical-meaning-of-a-mother-in-dreams/"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Yusuf’un rüyasında annenin ay sembolizmi üzerinden yorumlandığını gösteren doğrudan bir Talmudik pasaj sunar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
     },
     {
       "title": "MOTHER (Hebrew, \"em\"; Aramaic, \"imma\").",
-      "relevance": "Yahudi literatüründe anne kavramının saygı ve aile bağları bağlamındaki genel kullanımını gösteren ansiklopedik madde.",
+      "relevance": "Yahudi geleneğinde annenin ahlaki ve ailevi konumunu özetleyen bir metindir.",
       "url": "https://www.jewishencyclopedia.com/articles/11184-mother"
     },
     {
-      "title": "Metaphoric Mothers - L'Osservatore Romano",
-      "relevance": "Hristiyan kutsal metin geleneğinde anne figürünün sembolik kullanımını anlatan kurumsal dini içerik.",
-      "url": "https://www.osservatoreromano.va/en/news/2023-12/dcm-011/metaphoric-mothers.html"
+      "title": "Honoring Father and Mother in Early Kabbalah: From Ethos to Mythos",
+      "relevance": "Erken Kabalistik düşüncede anne-baba imgesinin teolojik ve simgesel değer kazanmasını inceleyen çalışma.",
+      "url": "https://cris.bgu.ac.il/en/publications/honoring-father-and-mother-in-early-kabbalah-from-ethos-to-mythos"
     },
     {
-      "title": "5721 mothers, as a symbol - Dictionary of Bible Themes",
-      "relevance": "İncil temaları sözlüğünde anneliğin sembolik işlevini özetleyen kaynak.",
-      "url": "https://www.biblegateway.com/resources/dictionary-of-bible-themes/5721-mothers-as-symbol"
+      "title": "“She Is the Mother and Begetter of the Conquerors”: Pregnancy, Gestation, and Enlightenment",
+      "relevance": "Mahayana geleneğinde anne, gebelik ve Prajñāpāramitā’nın ‘Buddhaların Annesi’ olarak ele alınmasını tartışıyor.",
+      "url": "https://academic.oup.com/book/2846/chapter/143419863?searchresult=1"
     },
     {
-      "title": "Ties That Bind: Maternal Imagery and Discourse in Indian ...",
-      "relevance": "Budist literatürde anneliğin sembolik, duygusal ve kurumsal boyutlarını; ayrıca anne sevgisinin hem yüceltilmesi hem de ikircikli biçimde ele alınmasını tartışan akademik çalışma.",
-      "url": "https://academic.oup.com/book/2846"
+      "title": "Buddhism, Patronage, and...",
+      "relevance": "Lotus Sutra ve Prajñāpāramitā sutralarında anne ve 'maternal debt' (anneye olan borç) imgelerinin öğretici kullanımını ele alır.",
+      "url": "https://academic.oup.com/edited-volume/27986/chapter/211691386"
+    },
+    {
+      "title": "Reflections on Mother's Day - 84000.CO84000.co › blog-stories › reflections-on-mothers-day",
+      "relevance": "Prajñāpāramitā’nın kişileştirilmiş ‘Bilgeliğin Annesi’ olarak anlaşılmasını açıklıyor.",
+      "url": "https://84000.co/blog-stories/reflections-on-mothers-day"
+    },
+    {
+      "title": "Prajñā or Prajñāpāramitā as 'the Mother of the Buddhas'",
+      "relevance": "Prajñā/Prajñāpāramitā’nın ‘Buddhaların Annesi’ olarak adlandırılmasını derleyen Budist kavramsal kaynak sunuyor.",
+      "url": "https://www.wisdomlib.org/buddhism/book/maha-prajnaparamita-sastra/d/doc226380.html"
+    },
+    {
+      "title": "Significance of Buddha's mother",
+      "relevance": "Buda’nın annesi Maya figürünü ve anneliğin Budist bağlamdaki yerini özetliyor.",
+      "url": "https://www.wisdomlib.org/concept/buddhas-mother"
     },
     {
       "title": "Mothers, Compassion, and Wisdom: Buddhist Teachings ...",
-      "relevance": "Budist öğretilerde annenin şefkat, minnettarlık ve besleyici sevgiyle ilişkilendirildiğini anlatan güncel Dharma yazısı.",
+      "relevance": "Budist öğretilerde annelerin şefkat, besleme ve koşulsuz sevgiyle ilişkilendirilmesini vurguluyor.",
       "url": "https://84000.co/post/reflections-on-mothers-day"
     },
     {
-      "title": "Prajñāpāramitā Devī - Wikipedia",
-      "relevance": "Prajñāpāramitā’nın ‘Buddhaların Annesi’ ve benzeri unvanlarla anılmasını aktaran Budist kadın tanrısal bilgelik geleneğine ilişkin kaynak.",
-      "url": "https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81p%C4%81ramit%C4%81_Dev%C4%AB"
+      "title": "Significance of Bodhisattva's mother",
+      "relevance": "Bodhisattva’nın annesi ifadesini hem doğum hem de bilgelik-besleyicilik bağlamında açıklıyor.",
+      "url": "https://www.wisdomlib.org/concept/bodhisattvas-mother"
     },
     {
-      "title": "Mother-Love and Mother-Grief: South Asian Buddhist Variations on a Theme",
-      "relevance": "Güney Asya Budist metinlerinde anne sevgisinin bir yandan evrensel şefkat için örnek, öte yandan ruhsal bağlılığın kaynağı olarak değerlendirilişini inceleyen makale özeti.",
-      "url": "https://muse.jhu.edu/article/215448/summary"
+      "title": "What it means to dream about a mother",
+      "relevance": "Anne figürünü başlangıç, bakım, güvenlik ve kişinin bakım alma ve verme biçimleriyle ilişkilendiren modern spiritüel bir rüya yorumudur.",
+      "url": "https://www.wellbeing.com.au/mind-spirit/spirituality/what-means-dream-mother.html"
+    },
+    {
+      "title": "Mother figures in dreams: why do they appear and what does it mean?",
+      "relevance": "Anne figürünü başlangıç, bakım, güvenlik ve kişinin bakım alma verme biçimiyle ilişkilendiren modern spiritüel rüya yorumu.",
+      "url": "https://www.wellbeing.com.au/mind-spirit/spirituality/mother-figure-dream-meaning.html"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
+  ]
 }

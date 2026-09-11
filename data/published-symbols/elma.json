@@ -1,156 +1,219 @@
 {
   "slug": "elma",
-  "title": "elma",
-  "shortDescription": "Rüyada elma, geleneksel yorumlarda rızık, niyet, azim ve bereketle ilişkilendirilir. Tatlı elma helâl kazancı, ekşi elma ise şüpheli kazanca karşı dikkati çağrıştırır; psikolojik açıdan arzu, bilgi ve dönüşüm temalarıyla da anılabilir.",
+  "title": "Elma",
+  "shortDescription": "Elma, tarihsel ve kültürel bağlamlarda sevgi, arzu, bilgi, bereket ve yasak imgeleriyle ilişkilendirilmiş çok katmanlı bir semboldür. Tek bir anlamı yoktur; elmanın tadı, rengi, olgunluğu ve rüyadaki bağlamı, yorumun yönünü belirleyen temel unsurlardır.",
   "positiveAssociations": [
-    "Bereket",
-    "Sağlık",
-    "Saflık",
-    "Bolluk",
-    "Yenilenme ve yeni başlangıç umudu"
+    "Tatlı ve olgun meyvenin çağrıştırdığı haz, zevk ve sevinç",
+    "Helal kazanç, bereket ve maddi-manevi doyum",
+    "Evlat, güzel yüzlü çocuklar ve ailevi sevinç",
+    "Saygın bir kişi aracılığıyla elde edilen destek veya menfaat",
+    "İçsel olgunlaşma, bütünleşme ve ruhsal tatmin"
   ],
   "challengingAssociations": [
-    "Yasak olanın cazibesi",
-    "İlk günah ve düşüş çağrışımı",
-    "Ekşi elmanın getirdiği şüpheli kazanç",
-    "Seçim yapma ve kararsızlık gerilimi"
+    "Ekşi veya çürük elmanın çağrıştırdığı tartışma, anlaşmazlık ve hüzün",
+    "Yasak meyve imgeleri üzerinden gelen ayartı, sınır ihlali ve itaatsizlik",
+    "Şüpheli veya haram kazanç çağrışımları",
+    "Bölünme, incinme, zarar ve pişmanlık temaları"
   ],
   "contextDependentAssociations": [
-    "Elmanın tadının tatlı ya da ekşi olması",
-    "Elmanın yenilmesi veya sadece koklanması",
-    "Kişinin rüyadaki niyet ve azim durumu",
-    "Ailenin ve evin bereketine dair umutlar"
+    "Elmanın tadı (tatlı/ekşi/buruk/çürük) ve görünüşü",
+    "Rüya sahibinin mesleği, sosyal statüsü ve yaşam bağlamı",
+    "Elmayla ilgili eylemler: yemek, toplamak, dikmek, ikram etmek vb.",
+    "Rüyadaki duygusal valans ve rüya sahibinin kişisel çağrışım zinciri"
   ],
   "commonVariations": [
     {
-      "title": "Tatlı bir elma yemek",
-      "description": "Rüyada taze ve tatlı bir elma yediğini görmek, klasik İslami tabirlerde helâl kazanç, niyetin karşılığını bulması ve azimde sebat ile ilişkilendirilir."
+      "title": "Tatlı ve Olgun Kırmızı Elma Yemek",
+      "description": "Parlak, tatlı ve olgun bir elma yemek genellikle helal kazanç, yakın ilişkilerde tatlılık ve içsel doyumla ilişkilendirilebilir."
     },
     {
-      "title": "Ekşi elma görmek",
-      "description": "Ekşi bir elma ile karşılaşmak veya onu tatmak, rüya yorumlarında haram ya da şüpheli kazanç ihtimaline ve dikkat edilmesi gereken durumlara işaret edebilir."
+      "title": "Ağaçtan Ekşi Elma Toplamak",
+      "description": "Ağaçtan ekşi veya kalitesiz elmalar toplamak, yakın çevrede tartışma, uyumsuzluk veya hüzün verici durumlara işaret edebilir."
     },
     {
-      "title": "Elma koklamak",
-      "description": "Elmanın kokusunu aldığını veya kokladığını görmek, bağlama ve duruma göre evlilik beklentisi ya da çeşitli sosyal dedikodu veya skandal çağrışımlarıyla yorumlanabilir."
+      "title": "Büyük Bir Elma Ağacı Dikmek",
+      "description": "Elma fidanı dikmek veya bir elma ağacı yetiştirmek, uzun vadeli ve hayırlı yatırımlar, koruma ve birine destek olma temalarıyla ilişkilendirilebilir."
     },
     {
-      "title": "Elma ağacı ve ürünleri",
-      "description": "Elma ağacının çiftçi için ürün, tüccar için mal, hükümdar için ise yönetilen ülke veya genişleme imkânı olarak değerlendirildiği klasik kaynaklarda geçer."
+      "title": "Çürük veya Kurtlu Elma Bulmak",
+      "description": "Çürük veya kurtlu elma görmek, fırsat kaybı, maddi zarar veya güvenilmez durumlara karşı uyarı olarak yorumlanabilir."
     }
   ],
-  "psychology": "Psikanalitik ve teorik yaklaşımlarda elma, özellikle cinsel sembolizm, beden ve arzu çağrışımları üzerinden ele alınır. Freudcu ve psikanalitik sözlüklerde meyve imgesi, temel insan dürtüleri ve bedensel arzularla bağlantılandırılır.",
-  "jungian": "Jungcu ve analitik psikoloji çerçevesinde elma, bilgi, arzu ve dönüşüm temalarıyla ilişkilendirilen arketipler arasında yer alır. Aynı zamanda yaşamın sürekliliği ve eski bir bereket sembolü olarak görülür; bireyselleşme sürecinde ise gölge arketipiyle ilişkilendirilen bir imge olarak değerlendirilir.",
-  "islamicTradition": "Klasik İslami rüya yorumlarında elma, güzel çocuklar, kişinin azmi, iyi niyeti, tüccar için mal ve çiftçi için ürün anlamlarına gelir. Elmanın tadı bu gelenekte kritik bir ayrımdır, tatlı elma helâl rızık ve kazancı simgelerken, ekşi elma şüpheli ya da haram kazançla bağdaştırılır. Ayrıca elma yemek azim ve amaçta sebat göstergesi sayılırken, elma koklamak evlilik veya duruma göre skandal çağrışımı taşıyabilir.",
-  "christianTraditions": "Hristiyan sembolizminde elma, Âdem ve Havva'nın cennetten kovuluşu anlatısıyla bağlantılı olarak ilk günah ve insanın düşüşünü temsil eden teolojik ve ikonografik bir işaret olarak kabul edilir; bu katman doğrudan bir rüya tabiri geleneği olmaktan ziyade kültürel-dinî bir semboldür.",
-  "jewishTraditions": "Yahudi kültüründe elma, ev, aile, iyimserlik ve geleceğe dair umutlarla birlikte anılır. Özellikle Roş Aşana (yeni yıl) geleneklerinde bal ile birlikte tüketilerek tatlı bir yıl temennisini simgeler. Hasidik ve Kabalistik yorumlarda ise elma, insanın tanrısal ruhunu temsil eden derin bir imge olarak açıklanır.",
-  "buddhistEasternApproaches": "Budist düşünce felsefesinde elma, doğrudan rüya tabiri barındırmaz; bunun yerine zihinsel kavram ile fiziksel nesne arasındaki algı farkını açıklamak için somut bir örnek nesne olarak felsefi tartışmalarda kullanılabilir. Hindu gelenekte ise elma merkezî bir kutsal sembol olmamakla birlikte, genel doğa bereketi, sağlık ve saflık bağlamında ele alınır.",
-  "spiritualApproaches": "",
+  "psychology": "Doğrudan 'elma' üzerine ampirik rüya çalışması bulunmadığı için, elma sembolünü yorumlamada rüya araştırması yöntemleri yol göstericidir. İçerik analizi çerçevesinde elmanın fiziksel niteliği (tatlı/ekşi/çürük), ilgili eylemler ve rüya duygularının (valans ve yoğunluk) kodlanması, simgeye dair daha güvenilir ve bağlama duyarlı çıkarımlar sağlar. Bu yaklaşım, elma sembolünü tekil bir sözlük anlamına indirgemekten kaçınarak, rüya sahibinin duygusal deneyimi ve çağrışım zincirine odaklanmayı teşvik eder.",
+  "jungian": "",
+  "islamicTradition": "İslami rüya geleneğinde elma sıklıkla evlat, güzel yüzlü kişiler, elde edilen mallar ve helal ve haram kazanç ayrımı ile ilişkilendirilir. Kaynaklara göre tatlı elma genellikle hayra ve helal kazanca; ekşi elma ise şüpheli veya zararlı kazanca işaret edebilir. Elma ağacı bazen toplum yararına hizmet eden kimseler veya himaye simgesi olarak yorumlanır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde elma, Âdem-Havva anlatısı üzerinden ayartı ve yasak meyve motifleriyle anılır; aynı zamanda tarihsel olarak bilgelik, bereket ve bazı patristik yorumlarda tipolojik olarak kurtuluş veya enkarnasyon çağrışımları da taşımıştır. Bu okumalar rüya bağlamında dikkatle yorumlanmalı ve kesin hükümlere varılmamalıdır.",
+  "jewishTraditions": "Yahudi sembolik edebiyatta elma olumlu bir motif olarak tatlılık, bereket, güzellik ve yeni yıl dileği bağlamında yer alır. Rüya yorumunda bu sembol bağlama göre nimet, sevindirici haber veya kolektif aidiyet temalarını çağrıştırabilir; ancak doğrudan klasik bir 'elma rüya hükmü' kaydı bulunmadığından ihtiyatlılık gereklidir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda elma, yaşam gücü, bütünlük ve dönüşüm temalarıyla ilişkilendirilebilir. \"Altın elma\" motifi simyasal dönüşümü çağrıştırır; elma çekirdeğinin yapısal düzeni inisiyatik veya merkezsel çağrışımlara örnek teşkil edebilir. Bu okumalar, kişisel ve kültürel bağlam dikkate alınarak temkinli biçimde değerlendirilmelidir.",
   "comparisonTable": [
     {
-      "approach": "Psikanaliz",
-      "interpretation": "Cinsel sembolizm, beden ve arzu temaları üzerinden teorik okuma.",
+      "approach": "Ampirik Araştırma",
+      "interpretation": "Elma gibi spesifik bir sembol için doğrudan çalışma olmaması durumunda bile ampirik yöntemler (içerik kodlama, duygusal valans ölçümü, kör derecelendirme) sembolün bağlam içindeki işlevini ve duygusal ağırlığını ortaya koymaya yarar.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Elma, arzunun örtük ifadesi, çocukluk anıları ve bedensel çağrışımlar zinciri içinde yorumlanır; bu tür okumalar Freud’un çağrışım yaklaşımıyla uyumludur.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Psikoloji",
-      "interpretation": "Bilgi, arzu, dönüşüm, yaşam ve gölge arketipleriyle ilişki.",
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Bireyleşme, bütünlük ve olgunlaşma temaları çerçevesinde elma sembolünü değerlendirir; bu yorumlar bağlama duyarlı ve metaforik düzeydedir.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami Rüya Geleneği",
-      "interpretation": "Çocuk, rızık, niyet, azim; tatlı elmanın helâl, ekşi elmanın şüpheli kazanç anlamı taşıması.",
+      "approach": "İslami Gelenek",
+      "interpretation": "Evlat, helal/haram kazanç ayrımı, elma ağacı üzerinden himaye/yararlılık temaları gibi geleneksel okumalara dayanır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Yahudi Gelenekleri",
-      "interpretation": "Aile, yeni yıl umutları, iyimserlik ve Kabalistik olarak ruhsal simge.",
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "İlk günah ve yasak meyve motiflerinin yanı sıra bilgelik ve kurtuluş ekseninde bağlama göre okunabilir.",
       "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Yaşam gücü, içsel merkez, dönüşüm ve simyasal bütünlük temaları üzerinden metaforik okumalar sunar.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı kültür ve disiplinlerde elma, temel olarak yaşam, bereket, bilgi ve arzunun nesnesi olma özelliğini korur. İster psikolojik arzu ister geleneksel rızık olsun, elma insan bilincinde değerli ve anlam yüklü bir meyve olarak öne çıkar.",
-  "differences": "Yaklaşımlar arasındaki temel ayrım odak noktasındadır: Psikanaliz elmayı içsel dürtüler ve cinsellikle açıklarken, İslami gelenek somut rızık, niyet ve kazanç kriterlerine (tatlı/ekşi ayrımı) odaklanır. Yahudi geleneği ise toplumsal ve ruhsal umutlara vurgu yapar.",
-  "inusAssessment": "Elma sembolü, rüya bağlamında tek ve indirgemeci bir anlamla çözülemeyecek kadar katmanlıdır. Rüyada elmanın tadı, yenilmesi ya da sadece algılanması gibi ayrıntılar, psikolojik dürtüler ile geleneksel rızık algısı arasında köprü kurar. INUS yaklaşımı, bu sembolü ele alırken rüya görenin kişisel bağlamını, elmanın durumunu (tatlı/ekşi) ve kültürel arka planı bir arada değerlendirmeyi öngörür.",
+  "commonGround": "Çeşitli gelenekler ve yaklaşımlar arasında elma genellikle arzu nesnesi olmakla birlikte bereket veya bilgi kaynağı ve olgunlaşmanın simgesi olarak da görülür. Hangi gelenekte ele alınırsa alınsın, elmanın niteliği (tatlı/ekşi/çürük) yorumun olumlu ya da zorlu yönünü şekillendiren ana detaylardan biridir.",
+  "differences": "Yaklaşımlar arasındaki fark, yorumun odak noktasındadır: Psikanalitik ve Jungcu okumalar sembolü içsel psikolojik dinamiklerle ilişkilendirirken; dini ve geleneksel okumalarda dışsal kazançlar, aile ilişkileri, ahlaki sınırlar veya toplumsal roller öne çıkar. Ampirik yaklaşım ise bu iddiaları evrensel yasalar olarak değil, bağlama göre test edilebilir hipotezler olarak ele alır.",
+  "inusAssessment": "Elma rüyasında en belirleyici unsurlar meyvenin fiziksel durumu, elmayla yapılan eylemler ve rüya duygusudur. Bu öğeler bir arada değerlendirildiğinde elma, rüya sahibinin arzuları, seçimleri ve ilişkisel koşulları hakkında bağlama duyarlı ipuçları sunar; tekil ve kesin bir kehanet aracı değildir.",
   "faq": [
     {
-      "question": "Rüyada elma görmek genel olarak ne anlama gelir?",
-      "answer": "Elmanın rüyadaki anlamı bağlama göre değişir. Klasik İslami gelenekte çocuk, niyet ve rızıkla ilişkilendirilirken, psikolojik teorilerde arzu ve beden sembolizmiyle okunur."
+      "question": "Elma rüyası her zaman iyiye mi işaret eder?",
+      "answer": "Hayır. Elmanın durumu ve rüyadaki bağlam belirleyicidir; tatlı ve olgun elmalar genellikle olumlu çağrışımlar verebilirken, ekşi veya çürük elmalar zorlukları çağrıştırabilir."
     },
     {
-      "question": "Tatlı elma ile ekşi elma rüyada aynı şekilde mi yorumlanır?",
-      "answer": "Hayır. Klasik İslami tabir geleneğinde tatlı elma helâl kazanç ve niyetin karşılığını bulması anlamına gelirken, ekşi elma şüpheli veya haram kazanç ihtimaliyle ilişkilendirilir."
+      "question": "Ampirik araştırma elma rüyasını nasıl ele alır?",
+      "answer": "Doğrudan elma çalışması bulunmadığı için, ampirik yaklaşımlar elmanın fiziksel özelliklerini, ilgili eylemleri ve rüya duygularını kodlayarak sembolün bağlam içindeki işlevini incelemeyi önerir."
     },
     {
-      "question": "Elmanın psikolojik ve Jungcu yorumu nedir?",
-      "answer": "Psikanalizde cinsel sembolizm ve bedensel arzu ekseninde ele alınırken, Jungcu gelenekte bilgi, dönüşüm, yaşam ve gölge arketipi gibi temalarla bağdaştırılır."
+      "question": "Jungcu yorumlarda elma ne anlama gelir?",
+      "answer": "Jungcu yaklaşıma göre elma, bütünlük, bireyleşme ve içsel olgunlaşma temalarıyla ilişkilendirilebilir; ancak bu okumalar bağlama duyarlı ve metaforik düzeydedir."
     }
   ],
   "sources": [
     {
-      "title": "Apple: Food Symbolism in History of Art & Contemporary ...",
-      "relevance": "Elmanın sanat tarihi ve Jungcu sembolizm bağlamındaki çağrışımlarını bir arada ele alır.",
-      "url": "https://humakabakci.substack.com/p/apple-food-symbolism-in-history-of"
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içeriği kodlaması, kör derecelendirme ve duygusal valans ölçümü yöntemleri; elma gibi sembollerin ampirik olarak nasıl ele alınabileceğini gösterir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
     },
     {
-      "title": "Article: Did you bite the Magic Apple? - Jakob Lusensky",
-      "relevance": "Elma logosunun kültürel ve psikodinamik anlam yüklenmesini tartışır; ısırılmış elma imgesini modern bir sembol olarak yorumlar.",
-      "url": "https://www.psychoanalystinberlin.com/did-you-bite-the-magic-apple-branding-archetypes"
+      "title": "Sleep, dreams and emotion regulation in higher education ...",
+      "relevance": "Rüyalarda duygu frekansı ve valansın incelenebileceğine dair örnek çalışmalar; elma rüyalarının duygusal bağlamının önemini vurgular.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/112003/109142/288739"
     },
     {
-      "title": "Apples: A Greek History | Diane Kochilas",
-      "relevance": "Elmanın Yunan kültürü, mitoloji ve halk inancındaki çok yönlü sembolik kullanımlarını özetler.",
-      "url": "https://www.dianekochilas.com/apples-a-greek-history/"
+      "title": "Exploring emotional characteristics in dreams of clinical ...",
+      "relevance": "Rüya duygularının dağılımı ve olumsuz duyguların klinik örneklerde öne çıkması; elma yorumunda duygusal tonun dikkate alınması gerektiğini destekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/102923/99325/267300"
     },
     {
-      "title": "How the apple became an important symbol in culture, science and story",
-      "relevance": "Elmanın kültür, bilim ve anlatı geleneğindeki sembolik kullanımını kısa bir tarihsel çerçevede sunar.",
-      "url": "https://www.europeana.eu/en/stories/how-the-apple-became-an-important-symbol-in-culture-science-and-story"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un çağrışım zinciri ve meyve imgeleri üzerinden rüya çözümlemesi; elma ve ağaç imgelerinin çocukluk ve bedensel çağrışımlarla ilişkilendirilebileceğini gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "Apples in Mythology | NC Historic Sites",
-      "relevance": "Elmanın mitolojide aşk, güzellik ve bilgelik sembolü olarak kullanımına değinir; ayrıca eski bereket ve yaşam çağrışımlarını anımsatır.",
-      "url": "https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apple-history/apples-mythology"
+      "title": "The Interpretation of Dreams (Freud)/Chapter 6",
+      "relevance": "Freud’un elma ağacı içeren rüya örneği; elma imgelerinin analizde bağlama ve çağrışımlara nasıl bağlandığına dair birincil metin örneği sunar.",
+      "url": "https://en.wikisource.org/wiki/The_Interpretation_of_Dreams_(Freud)/Chapter_6"
     },
     {
-      "title": "The online symbolism dictionary, definition: APPLES",
-      "relevance": "Elmayı psikanalitik sembolizm içinde cinsellik ve beden çağrışımlarıyla ilişkilendirir.",
-      "url": "https://www.scootermydaisyheads.com/fine_art/symbol_dictionary/apple.html"
+      "title": "The Interpretation of Dreams",
+      "relevance": "Greko-Romen rüya yorum geleneğinin temel metni; rüya anlamlarının rüya sahibinin yaşam bağlamına göre değiştiği tarihsel çerçeveyi sağlar.",
+      "url": "https://books.apple.com/it/book/the-interpretation-of-dreams/id1491907686?l=en-GB"
     },
     {
-      "title": "You've seen Apple logo a million times, but what's it look ...",
-      "relevance": "Apple logosunun görsel bellekte hatırlanması üzerine bir deney çalışmasına atıf yapar; sembolün bilişsel olarak nasıl işlendiğine dair dolaylı bir bağlam sağlar.",
-      "url": "https://www.networkworld.com/article/937544/youve-seen-apple-logo-a-million-times-but-whats-it-look-like.html"
+      "title": "Apple (apples), dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Antik/Greko-Romen rüya geleneğindeki elma yorumları; elmanın tadı ve mevsimsel niteliğinin rüya yorumunu değiştirebileceğini aktaran tarihsel bir bağlam sağlar.",
+      "url": "http://www.dreamtation.com/docs/350.htm"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri E Harfi",
+      "relevance": "Elma için rüyada evlat, güzel yüzlü insanlar, kazanılan mal ve elma ağacı üzerinden himaye/koruma temaları verir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-e-harfi.html"
+    },
+    {
+      "title": "Ibn Seerin's Dictionary of Dreams",
+      "relevance": "İslami gelenekte elmayla ilişkilendirilen evlat, helal veya haram kazanç ayrımı, elma ağacı ve toplama eylemi gibi rüya motiflerini ele alır.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Bible Encyclopedia on Apple | SermonIndex",
+      "relevance": "Hristiyan sembolik geleneğinde elmanın Âdem-Havva anlatısı ve yasak meyve bağlamındaki çağrışımlarını açıklar; rüya yorumunda kültürel okumalara işaret eder.",
+      "url": "https://www.sermonindex.net/encyclopedia/a/apple/"
+    },
+    {
+      "title": "Topical Bible: Apple",
+      "relevance": "Elmanın Hristiyan düşüncesinde yasak meyve, ayartı ve günahla bağlantısını özetler.",
+      "url": "https://biblehub.com/topical/a/apple.htm"
+    },
+    {
+      "title": "The Apple among the Trees: To Abraham (PBodmer 30) and the Apple at the Sacrifice of Isaac",
+      "relevance": "Patristik okumada elmanın Mesih, enkarnasyon ve Eukaristiya ile tipolojik ilişkisini tartışır.",
+      "url": "https://vc.bridgew.edu/cgi/viewcontent.cgi?article=1040&context=english_fac"
+    },
+    {
+      "title": "Apples - Topical Bible",
+      "relevance": "Elmanın Hristiyan sembolizminde güzellik, sevgi, bilgelik ve bereket gibi anlamlar taşıdığını özetler.",
+      "url": "https://biblehub.com/topical/a/apples.htm"
     },
     {
       "title": "APPLE - JewishEncyclopedia.com",
-      "relevance": "Hristiyan sembolizminde elmanın Âdem ile Havva, ilk günah ve düşüşle bağlantısını açıklar.",
+      "relevance": "Yahudi kültüründe elmanın sembolik yerini ve Rosh Hashanah bağlamındaki olumlu çağrışımlarını özetler; rüya okumasında dikkatle kullanılabilecek sembolik arka plan sunar.",
       "url": "https://www.jewishencyclopedia.com/articles/1666-apple"
     },
     {
-      "title": "Seeing 'apples' in your dream - The Muslim Times",
-      "relevance": "Klasik İslami rüya tabirinde elmanın çocuk, niyet, rızık, kazanç ve elma yeme/koklama gibi ayrıntılara göre değişen anlamlarını aktarır.",
-      "url": "https://themuslimtimes.info/2023/01/09/seeing-apples-in-your-dream/"
-    },
-    {
       "title": "Apples and Honey - Aish.com",
-      "relevance": "Yahudi kültürel sembolizminde elmanın aile, umut ve yeni yıl geleneğiyle bağlantısını açıklar.",
+      "relevance": "Elmanın Rosh Hashanah, tatlılık ve Yahudi kimliğiyle bağlantılarını anlatan derleme yazı.",
       "url": "https://aish.com/apples_and_honey/"
     },
     {
       "title": "The Apple - \"King\" of the Fruit - Nature's Wonderland",
-      "relevance": "Kabalistik/Hasidik yorumda elmanın ruhla ilişkilendirilmesini verir.",
+      "relevance": "Elmayı Tora, İsrail halkı, ruhsallık ve kutsallıkla ilişkilendiren geleneksel yorum yazısı.",
       "url": "https://www.chabad.org/kids/article_cdo/aid/114763/jewish/Apples.htm"
     },
     {
-      "title": "Spiritual Benefits of Apple in Hinduism",
-      "relevance": "Hinduizm bağlamında elmanın bereket, sağlık, saflık ve bollukla ilişkilendirildiğini; ayrıca puja uygulamalarında armağan olarak anıldığını belirtir.",
-      "url": "https://www.hindu-blog.com/2014/04/spiritual-benefits-of-apple-in-hinduism.html"
+      "title": "The apple as symbol - Jewish Journal",
+      "relevance": "Elmanın güzellik, tatlılık, umut ve dayanıklılık temalarıyla anıldığını gösteren kültürel yorum.",
+      "url": "https://jewishjournal.com/commentary/opinion/133520/"
     },
     {
-      "title": "On Buddhism | Evan Conrad",
-      "relevance": "Budist düşünceyi anlatırken elmayı örnek nesne olarak kullanır; zihinsel kavram ile fiziksel nesne ayrımını açıklayan felsefî bir kullanım sunar.",
-      "url": "https://evanjconrad.com/posts/buddhism"
+      "title": "Rosh Hashanah and Apples - United Synagogue",
+      "relevance": "Elma geleneğini Yahudi halkının sürekliliği ve yeni yıl umuduyla ilişkilendiren eğitim materyali.",
+      "url": "https://theus.org.uk/festivals/rosh-hashanah/rosh-hashanah-and-apples/"
+    },
+    {
+      "title": "Sweet! 15 Things About Apples in Judaism",
+      "relevance": "Elmanın cennet bahçesi, Tora’ya yöneliş ve ruhsal tatlılıkla ilişkisini özetleyen derleme.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/7494091/jewish/Sweet-15-Things-About-Apples-in-Judaism.htm"
+    },
+    {
+      "title": "Why specifically an apple on Rosh HaShanah?",
+      "relevance": "Elmanın Rosh Hashanah’daki geleneksel açıklamalarını ve Zohar’a atfedilen yorumları bir araya getiren tartışma sayfası.",
+      "url": "https://judaism.stackexchange.com/questions/20334/why-specifically-an-apple-on-rosh-hashanah"
+    },
+    {
+      "title": "Apple in dreams — meaning and symbolism",
+      "relevance": "Elmanın rüya yorumunda yaşam gücü, kalp, bütünlük ve beden-ruh dengesiyle ilişkilendirildiği modern ezoterik bir okuma sunar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/apple"
+    },
+    {
+      "title": "The History & Use of the Apple/Tree & Its Symbolism - Graham Hancock Official Website",
+      "relevance": "Simyasal gelenekte 'Altın elma' ile kükürt arasında kurulan sembolik ilişkiyi aktarır; elmayı simyasal dönüşüm bağlamına yerleştirir.",
+      "url": "https://grahamhancock.com/phorum/read.php?4,784480,785026"
+    },
+    {
+      "title": "Rocznik Komparatystyczny – Comparative Yearbook",
+      "relevance": "Elma ve elma ağacının farklı geleneklerde sonsuzluk, ölüm-diriliş, arzu ve esoterik inisiyasyon çağrışımları taşıdığını; çekirdeğin pentagram benzeri düzeninin inisiyatik anlamlarla yorumlandığını belirtir.",
+      "url": "https://wnus.usz.edu.pl/rk/file/article/download/20371.pdf"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "historical-cultural"
+  ]
 }

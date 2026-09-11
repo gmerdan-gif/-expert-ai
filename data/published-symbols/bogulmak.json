@@ -1,110 +1,210 @@
 {
   "slug": "bogulmak",
   "title": "boğulmak",
-  "shortDescription": "Rüyada boğulmak, yoğun duygular, stres veya ağır sorumluluklar karşısında bunalmayı ve kontrolü kaybetmiş hissetmeyi yansıtabilir. Boğulmaktan kurtulmak ya da yardım görmek ise zor bir dönemin ardından ferahlamaya ve beklenmedik desteğe işaret eder.",
+  "shortDescription": "Rüyada boğulma imgesi çoğunlukla tehdit ve duygusal yoğunluğun rüyadaki dışavurumudur; tek ve kesin bir anlamı yoktur. Yorum, bağlam ve eşlik eden duygulara bağlıdır.",
   "positiveAssociations": [
-    "Suda boğulup kurtulmak suretiyle ferahlama yaşamak",
-    "Umulmadık bir yardım görerek sıkıntılardan sıyrılmak",
-    "İşlerin veya sorumlulukların hayırlı bir sonuca ulaşması",
-    "Zorlu bir dönemin ardından gelen içsel arınma ve dönüşüm"
+    "Krizin çözülmesiyle birlikte gelebilecek rahatlama ve ferahlama",
+    "Manevi arınma, tövbe veya yeni başlangıç arzusu",
+    "Zorlukların ardından beklenen olumlu değişim ve toparlanma",
+    "Eski kalıpların çözülerek dönüşüm sürecine girme olanağı"
   ],
   "challengingAssociations": [
-    "Yoğun duygusal taşkınlıklar karşısında savunmasız kalmak",
-    "Hayatın getirdiği ağır sorumluluklar ve yükler altında ezilmek",
-    "Travmatik anı parçalarının rüyalarda yinelenen yankıları",
-    "Egonun bastırılan bilinçdışı içerikler tarafından kuşatılması"
+    "Uyanık yaşamda çaresizlik veya kontrolün kaybolduğunu hissetme",
+    "Nefessizlik ya da boğulma benzeri bedensel algılara eşlik eden sıkıntı",
+    "Bastırılmış duygu ve içeriklerin bilinçte baskı yaratması",
+    "Dünyevi sorumluluklar, borçlar veya otoriteyle ilişkili kronik sıkıntı hissi"
   ],
   "contextDependentAssociations": [
-    "Su içinde boğulmak ile ipte boğulmanın farklı sıkıntılara işaret etmesi",
-    "Denizde boğulma halinin bedensel rahatsızlıklar veya hastalık bağlamıyla okunması",
-    "Boğulma hissinin bireyin anlık yaşam koşulları ve stres düzeyine göre şekillenmesi"
+    "Gerçek bir solunum güçlüğü deneyiminin rüya içeriğine yansıması",
+    "Rüyada kurtulma veya yardım bulma sahnelerinin çözüm ve toparlanma işareti olması",
+    "Uyanık yaşamdaki stres kaynaklarının (iş, ilişkiler, borç vb.) rüyanın yoğunluğu ile paralellik göstermesi"
   ],
   "commonVariations": [
     {
-      "title": "Açık denizde dalgalar arasında boğulmak",
-      "description": "Kişinin kontrol edemediği büyük yaşam olayları ve duygusal dalgalanmalar karşısında çaresizlik hissetmesi."
+      "title": "Derin bir suda boğulma tehlikesi geçirmek",
+      "description": "Açık deniz veya derin bir nehirde suyun altında kalma hissi; genellikle kontrolü yitirme, ağır sorumluluklar veya güçsüzlük algısıyla bağlantılıdır."
     },
     {
-      "title": "İp veya benzeri bir unsurla boğulmak",
-      "description": "Bireyin üstlendiği ağır görevlerin, taahhütlerin veya sorumlulukların kişiyi ezmesi"
+      "title": "Boğulurken son anda kurtulmak",
+      "description": "Su altında zor anlar yaşadıktan sonra yüzeye çıkmak ya da yardım görmek; kriz sonrası rahatlama, çözüm veya destek bulma olasılığına işaret eder."
     },
     {
-      "title": "Suda boğulup son anda kurtulmak",
-      "description": "Zorlu bir sürecin veya krizin ardından dışarıdan gelen umulmadık bir destekle yeniden nefes alabilmek."
+      "title": "Akıntıya kapılarak sürüklenmek",
+      "description": "Güçlü bir akıntının içinde yönünü kaybetme hissi; olaylar karşısında yön belirleyememe ve zihnin baskı altında kalması temalarını çağrıştırır."
     },
     {
-      "title": "Derin suların altında kalıp nefessiz hissetmek",
-      "description": "Bilinçdışından gelen baskıların veya bastırılmış meselelerin zihinsel alanı tamamen kaplaması."
+      "title": "Nefes alamayacak kadar dar bir alanda sıkışmak",
+      "description": "Kapalı, kalabalık veya hava almayan bir mekânda boğulma hissi; hem solunum kısıtlanması imgeleri hem de psikolojik olarak köşeye sıkışmışlıkla ilişkilendirilebilir."
     }
   ],
-  "psychology": "Ampirik psikoloji bağlamında, su ve boğulma temaları özellikle travmatik düşsel içeriklerin yinelenen görünümleri arasında rapor edilmiştir. Bu tür imgeler, kişinin yaşadığı yoğun stresin veya travmatik anı parçalarının zihinsel yansımaları olarak ortaya çıkabilir.",
-  "jungian": "Jungcu analitik psikolojide boğulma, egonun bilinçdışından yükselen yoğun içerikler karşısında zayıf düşmesi veya baskı altında kalması şeklinde yorumlanır. Bilinçdışı sularının taşarak bilinen alanı kaplaması, bireyin psişik dengesini yeniden kurması için bir uyarı niteliği taşıyabilir.",
-  "islamicTradition": "Çevrimiçi rüya tabiri geleneğinde boğulmak çoğunlukla ağır sorumluluklar, sıkıntılar, günahlar veya dünyevi meşguliyetler altında ezilmeye yorulur. Denizde boğulmak hastalıkla ilişkilendirilirken, ipte boğulmak üstlenilen bir işin ağırlığına işaret eder. Suda boğulup kurtulmak ise ferahlamaya ve umulmadık yardımlarla işlerin yoluna girmesine delalet eder.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist perspektifte su, genel olarak zihin akışını ve duygusal dalgalanmaları temsil eden geniş bir sembolik alanın parçasıdır; ancak boğulma rüyası bu gelenekte doğrudan yerleşik ve özel bir rüya tabiri olarak ele alınmaz.",
-  "spiritualApproaches": "Spiritüel yaklaşımlarda su, bireyin iç dünyasını, arınma ve dönüşüm potansiyelini simgeler. Boğulma imgesi ise bu akışın veya içsel süreçlerin kişi için bunaltıcı ve aşırı bir hal almasını yansıtabilir.",
+  "psychology": "Ampirik çalışmalar, anksiyetenin ve genel kaygı düzeyinin korkutucu rüya içeriğini artırabileceğini gösterir; boğulma imgeleri bu çerçevede tehdit ve yoğun duygulanım belirtisi olarak okunmalıdır. Ayrıca travmatik rüyalarda su/boğulma motifleri örneklenmiştir, fakat bu motifin tek bir evrensel psikolojik anlamı yoktur.",
+  "jungian": "Jung'a göre su, bilinçdışının temel simgelerindendir; boğulma ise egonun bilinçdışı içerikler tarafından aşırı yüklenmesi ya da bu içeriklerle zorlu bir karşılaşma yaşanması olarak yorumlanabilir. Bu okumalar dönüşüm ve derin psikolojik temaslarla ilişkilidir; ancak bağlama duyarlıdır.",
+  "islamicTradition": "Elde bulunan İslami aktarımlarda boğulma genellikle dünyevî meşgale, yük ve sorumluluk baskısıyla ilişkilendirilir; kendini asma veya boğulma görüntüleri ise üzüntü, keder ya da borç baskısıyla bağdaştırılır. Bazı modern derlemeler boğulurken kurtulmayı sıkıntı sonrası ferahlıkla ilişkilendirir. Bununla birlikte, gelenek içinde yorum çeşitliliği mevcuttur ve bazı okumalar klasik metinlerle doğrudan paralellik göstermeyebilir.",
+  "christianTraditions": "Hristiyan rüya geleneğinde boğulma için doğrudan İncil temelli tek bir hüküm bulunmaz; çoğu yorum su ve taşkın imgelerinin teolojik anlamının rüyanın duygusal deneyimine uygulanmasıyla kurulur. Bu çerçevede boğulma, günah, suçluluk veya ezilme hissiyle ilişkilendirilebilir; kurtuluş senaryoları ise tövbe ve yeniden doğuş çağrışımları taşıyabilir.",
+  "jewishTraditions": "Yahudi gelenekte rüyaların anlamı yorumla şekillenir; tek ve sabit bir okuma yapılmaz. Talmudik yaklaşım rüyaların dönüşümsel okunmasını ve korkuya dayalı yorumlamadan kaçınılmasını önerir; boğulma imgeleri ise genellikle baskı, sınanma veya toparlanma çağrışıyla ele alınır.",
+  "buddhistEasternApproaches": "Hint geleneksel kaynaklarda boğulma/nehirde boğulma görüntüleri bazen uğursuz kabul edilirken, bazı kaynaklarda ise zorlu bir mücadelenin ardından olumlu sonuçlara işaret edebileceği aktarılır; dolayısıyla gelenek içinde yorum çeşitliliği mevcuttur.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalar boğulmayı duygusal taşma, teslimiyet veya eski biçimlerin çözülmesi olarak değerlendirir. Bu perspektifte imge, dönüşüm eşiğine işaret eden zorlayıcı bir sürecin sembolik ifadesi olabilir; yine de yorum bağlama göre değişir.",
   "comparisonTable": [
     {
       "approach": "Ampirik Psikoloji",
-      "interpretation": "Travmatik düşsel içeriklerin ve stres unsurlarının yinelenen bir yansıması.",
+      "interpretation": "Boğulma imgeleri, artmış kaygı ve korku dönemlerinin rüyaya yansıması; solunumla ilgili tehdit hissinin sıklaştığı durumlar olarak değerlendirilir.",
       "evidenceLevel": "research"
     },
     {
-      "approach": "Jungcu Analiz",
-      "interpretation": "Egonun bilinçdışı içeriklerin yükselişi karşısında zorlanması.",
+      "approach": "Psikanaliz ve Jungcu Derinlik Psikolojisi",
+      "interpretation": "Freud açısından beden sınırları ve doğum/rahim çağrışımları; Jung açısından bilinçdışıyla zorlayıcı karşılaşma ve egonun taşması ekseninde sembolik okunur.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Geleneksel / İslami Yorum",
-      "interpretation": "Ağır sorumluluklar, sıkıntılar, hastalık veya bunlardan kurtulup ferahlama.",
+      "approach": "İslami ve Kültürel Aktarımlar",
+      "interpretation": "Geleneksel aktarımlarda boğulma, dünyevi yük, sorumluluk, hastalık ya da otorite baskısıyla ilişkilendirilir; kurtuluş motifleri de sıkça görülür.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Spiritüel Yaklaşım",
-      "interpretation": "İçsel akışın ve arınma sürecinin bunaltıcı bir boyuta ulaşması.",
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Ruhsal okumalarda teslimiyet, çözülme ve dönüşüm başlangıcı olarak ele alınır; imge çoğunlukla yeniden doğuş öncesi gerilimle ilişkilendirilir.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı yaklaşımların ortak noktası, boğulma rüyasını bireyin taşıyamayacağı kadar yoğun bir baskı, akış veya kontrol kaybı tecrübesiyle bağdaştırmasıdır.",
-  "differences": "Psikolojik ve analitik ekoller süreci içsel zihinsel dinamikler ve ego-bilinçdışı gerilimi üzerinden ele alırken, geleneksel ve dini yorumlar bunu daha çok somut sorumluluklar, sıkıntılar veya dışsal yardımlarla ilişkilendirir.",
-  "inusAssessment": "Boğulmak sembolü, ne saf bir felaket habercisi ne de tek tip bir psikolojik teşhis olarak okunmalıdır. İNUS yaklaşımı, bu rüyanın kişinin o anki duygusal yükleri, yaşam stres faktörleri ve sorumlulukları bağlamında çok katmanlı bir gerilimi yansıttığını vurgular.",
-  "faq": [
-    {
-      "question": "Rüyada boğulmak her zaman kötü bir olaya mı işaret eder?",
-      "answer": "Hayır. Özellikle boğulma hissinden kurtulmak veya yardım görmek, sıkıntılardan sonra gelen ferahlamaya ve işlerin yoluna girmesine işaret edebilir."
-    },
-    {
-      "question": "Suda boğulmak ile ipte boğulmak arasında fark var mıdır?",
-      "answer": "Geleneksel tabirlerde suda boğulma daha çok hastalık veya genel sıkıntılarla ilişkilendirilirken, ipte boğulma kişinin bizzat üstlendiği sorumlulukların ağırlığına yorulur."
-    }
-  ],
+  "commonGround": "Çeşitli disiplinler boğulma sembolünü genel olarak 'sınırların zorlanması' ve 'yoğun duygusal yük' ekseninde ortak bir paydada buluşturur; rüyanın olumlu ya da olumsuz yönü ise bağlama, rüya içindeki çıkış sahnelerine ve eşlik eden duygulara bağlıdır.",
+  "differences": "Bilimsel yaklaşımlar imgeyi anksiyete ve uyku içi duygulanımın bir yansıması olarak vurgularken, geleneksel/dinî okumalar daha çok sorumluluk, günah veya sınanma bağlamlarıyla açıklar. Spiritüel perspektifler süreci dönüşüm fırsatı olarak çerçeveler; her bakış açısı sembolün tekdüzeliğini reddeder.",
+  "inusAssessment": "Boğulma, rüyada pasif gözlemden ziyade aktif bir hayatta kalma gerilimi taşır: nefessizlik, batma veya su altında kalma hissi rüyanın duygusal merkezini oluşturur. Bu nedenle değerlendirme, rüya sahibinin uyanık yaşamındaki stres, sorumluluk yükü ve rüya içindeki kurtuluş/çıkış anlarına dikkat ederek yapılmalıdır.",
+  "faq": [],
   "sources": [
     {
-      "title": "Drowning in a Dream: Freud, Jung, Myth and Modern ...",
-      "relevance": "Jungcu okumada boğulmanın bilinçdışı tarafından taşan içerik karşısında egonun zorlanması olarak yorumlanmasına temas eder.",
-      "url": "https://rosmertapublishing.com/dream-about/drowning/"
+      "title": "Fear in dreams and in wakefulness: Evidence for day/night ...",
+      "relevance": "Anksiyete düzeylerinin korkutucu rüya içeriğini ve tehdit imgelerinin sıklığını nasıl etkilediğine dair ampirik çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7267911/"
     },
     {
       "title": "The repetition principle of traumatic dreams - PMC - NIH",
-      "relevance": "Travmatik rüyalarda su ve boğulma temalarının örneklenmesini içerir; boğulma imgesinin travmatik düşsel içerikte görünümüne dair ampirik bağlam sağlar.",
+      "relevance": "Travmatik rüyalarda su ve boğulma temalarının nasıl tekrarlandığı ve psikanalitik çerçevede nasıl ele alınabildiğine dair akademik örnekler.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12144281/"
     },
     {
-      "title": "Current Issues in North American and Water Corpses in US ...",
-      "relevance": "Su ve boğulma sembolizminin kültürel ve edebî bağlamlarda nasıl çok anlamlı işlediğine dair tarihsel-kültürel çerçeve sunar.",
-      "url": "https://www.nas.uni-bonn.de/en/media/becker_1-9-2025.pdf"
+      "title": "Dreams in anxiety disorders and anxiety",
+      "relevance": "Kaygı bozuklukları ile rüya içeriği arasındaki ilişkiyi tartışan derleme; boğulma imgelerinin kaygı bağlamında okunmasını destekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/60789/65594"
     },
     {
-      "title": "Rüyada Boğulmak görmek - İhya",
-      "relevance": "Rüyada boğulma ve boğulmadan kurtulma için İslami çevrimiçi tabirlerde yer alan yorumları aktarır; sorumluluk, sıkıntı, hastalık ve yardım görme temalarıyla ilişkilendirir.",
-      "url": "https://ruya.ihya.org/ruyada-bogulmak-gormek.html"
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Freud'un solunum sıkıntısı ve boğulma imgelerine dair gözlemlerini (ör. boğulma, kalabalıkta sıkışma, kaçış temaları) içeren metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
     },
     {
-      "title": "Deep water: Significance and symbolism",
-      "relevance": "Buddhist sembolizm içinde su ve derin su, zihinsel dalgalanma ve ruhsal engellerle ilişkilendirilen genel bir imge alanı sunar.",
-      "url": "https://www.wisdomlib.org/concept/deep-water"
+      "title": "Page:Freud - The interpretation of dreams.djvu/261 - ...",
+      "relevance": "Freud'un suya girme/çıkma rüyalarını doğum ve rahim fantezileriyle ilişkilendiren pasajını içeren kaynak.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
+    },
+    {
+      "title": "water | - Carl Jung Depth Psychology",
+      "relevance": "Jungcu perspektifte suyun bilinçdışıyla ilişkisini özetleyen değerlendirme; boğulma temasını bilinçdışı baskısı bağlamında konumlandırır.",
+      "url": "https://carljungdepthpsychologysite.blog/2023/10/31/water-2/"
+    },
+    {
+      "title": "Water in Dreams: Calm, Stormy, Drowning or Flooded",
+      "relevance": "Jungcu su sembolizmini ve boğulma temasını birlikte ele alan bir yorum metni; boğulmayı psikolojik taşma ve bilinçdışı baskısı çerçevesinde açıklar.",
+      "url": "https://somniary.com/dream-library/symbols/water"
+    },
+    {
+      "title": "Carl Jung: On Water Symbolism - Carl Jung Depth Psychology",
+      "relevance": "Jungcu su sembolizmine dair bir derleme; suyun derin psikolojik içeriklerle bağlantısını ve boğulma deneyimini ele alır.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/09/10/carl-jung-on-water/"
+    },
+    {
+      "title": "What Does Water Mean in a Dream? A Complete Jungian Guide",
+      "relevance": "Jung’un suyu bilinçdışının simgesi olarak kullanan yaklaşımını ve boğulma temasını bir Jungcu okuma içinde birleştirir.",
+      "url": "https://individuate.me/articles/dream-about-water"
+    },
+    {
+      "title": "Water in Dreams: Spiritual and Biblical Meaning (with Jung's ...",
+      "relevance": "Su rüyalarını Jungcu çerçevede tartışır; derin su ve boğulma temasını egonun bilinçdışıyla ilişkisi üzerinden yorumlar.",
+      "url": "https://individuate.me/articles/spiritual-meaning-of-water-in-dreams"
+    },
+    {
+      "title": "Dreams of Infanticide II: Flayed for a Wineskin (book review)",
+      "relevance": "Artemidorus ve antik oneirokritik gelenek bağlamında suya düşme ve boğulma temalarının tarihsel bir örnekle bağlantısını tartışan değerlendirme.",
+      "url": "https://cliospsyche.org/articles/rousselle-r-2000-dreams-of-infanticide-ii-flayed-for-a-wineskin-review-of-the-book-oneirocritica-the-interpretation-of-dreams-by-artemidorus-2nd-century-ad-clios-psyche-71-45"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus'un antik dönemde yazdığı kapsamlı rüya yorumu kitabını aktarır ve oneirokritik geleneğin tarihsel bağlamını açıklar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "‘Boğmak’ başlığı altında kendini asarak boğma ve buna bağlı üzüntü ve keder yorumunu aktaran derleme PDF.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Rüyada Birinin Boğulduğunu Görmek Ne Anlama Gelir? Neye İşarettir? Anlamı, Yorumu",
+      "relevance": "Boğulmayı ahiretten yüz çevirme, dünyaya düşkünlük ve emanetlere ilgisizlikle; kurtuluşu ise ferahlıkla ilişkilendiren modern rüya tabiri metni.",
+      "url": "https://www.dirilispostasi.com/haber/7076368/ruyada-birinin-boguldugunu-gormek-ne-anlama-gelir-neye-isarettir-anlami-yorumu"
+    },
+    {
+      "title": "Nablusi Rüya Tabirleri | Bilmesek olmaz | Sayfa 3",
+      "relevance": "Boğulmayı emanet ve sorumluluk baskısı, üzüntü-keder ve borçla bağlantılandıran çevrimiçi derleme sayfası.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/nablusi-ruya-tabirleri/page/3/"
+    },
+    {
+      "title": "Biblical Meaning of Drowning in Dreams: Water, Overwhelm, and ...",
+      "relevance": "Boğulma rüyasına doğrudan İncil'de karşılık bulunmadığını ve anlamın su teolojisinin rüya duygusuna uygulanmasıyla kurulduğunu söyleyen Hristiyan yorum metni.",
+      "url": "https://thedreamguidebook.com/biblical-meaning-of-drowning-in-dreams/"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Rüyaların anlamının yoruma bağlı olduğu ve tek başına sabit bir tabir olarak ele alınmadığı Talmudik çerçeveyi gösterir.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Dreams",
+      "relevance": "Berakhot 56b etrafındaki gelenekte rüyaların ihtiyatla ve olumlu yorumla ele alınmasına dair kısa bir açıklama sunar.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot traktatının rüyalar ve onların anlamı üzerine yoğunlaşan bölümünü tanıtır; Yahudi rüya literatürü için ana bağlam sağlar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Interpretation of a Dream About Drowning - Hidabroot",
+      "relevance": "Boğulma rüyasını gemiyle kurtuluş, sonucun yumuşaması ve anlamın bağlama göre değişmesi üzerinden yorumlayan modern bir Yahudi içerik sunar.",
+      "url": "https://www.hidabroot.com/question/3364"
+    },
+    {
+      "title": "Nature of Dreams - Indian Puranas - IndiaNetzone",
+      "relevance": "Hint geleneksel rüya yorumunda nehirde boğulma görüntüsünün uğursuz sayıldığını aktaran kaynak.",
+      "url": "https://www.indianetzone.com/nature_dreams"
+    },
+    {
+      "title": "Drowning in Water in Dream – Meaning and Interpretation",
+      "relevance": "Hindu swapna geleneğinde suda boğulma rüyasının olumlu yorumlanabildiğini bildiren kaynak.",
+      "url": "https://www.hindu-blog.com/2014/05/drowning-in-water-in-dream-meaning-and.html"
+    },
+    {
+      "title": "Spiritual Meaning of Drowning in a Dream: Jungian ...",
+      "relevance": "Boğulma imgesini modern spiritüel yorumda duygusal taşma, kontrol kaybı ve teslimiyet temalarıyla ilişkilendiren bir çevrimiçi değerlendirme sunuyor.",
+      "url": "https://www.selfgazer.com/blog/drowning-dream-spiritual-meaning"
+    },
+    {
+      "title": "Understanding the Spiritual Meaning of Drowning",
+      "relevance": "Boğulmayı ruhsal olarak ‘teslim olma’ ve bırakma deneyimiyle ilişkilendiren kısa bir modern spiritüel yorum veriyor.",
+      "url": "https://spiritualityshepherd.com/spiritual-meaning-of-drowning/"
+    },
+    {
+      "title": "Alchemical Symbolism in Dreams: Nigredo to Rubedo",
+      "relevance": "Rüya sembollerinde su, boğulma ve simyasal nigredo/çözülme çağrışımlarını birlikte ele alan modern bir sembolizm yazısı.",
+      "url": "https://www.liminaut-labs.org/blog/alchemical-symbolism-dreams-nigredo-rubedo/"
+    },
+    {
+      "title": "Drowning dream meaning",
+      "relevance": "Boğulma imgesini, suyun duygusal ve bilinçdışı alanı temsil ettiği genel bir çerçevede taşma ve bunaltı temalarıyla ilişkilendiriyor.",
+      "url": "https://www.dreamxfile.com/2026/03/drowning-dream-meaning.html"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian",
+    "buddhist-eastern"
+  ]
 }

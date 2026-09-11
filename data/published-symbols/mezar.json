@@ -1,135 +1,250 @@
 {
   "slug": "mezar",
   "title": "mezar",
-  "shortDescription": "Rüyada mezar görmek; kayıp, yas, geçmiş ve hayatın geçiciliği üzerine düşünmeyle ilişkilendirilir. Mezar kazmak veya boş mezara girmek ise klasik İslami yorumlarda yeni bir ev ya da yuva kurmaya işaret edebilir.",
+  "shortDescription": "Rüyalarda mezar sembolü, sonlanma, yas, gömülme ve içe çekilme temaları etrafında şekillenen; aynı zamanda psikolojik dönüşüm ve yeni bir eşiğe geçiş imgesi olarak okunabilen çok katmanlı bir rüya imgesidir.",
   "positiveAssociations": [
-    "Geçiciliğin farkındalığıyla gelen içsel olgunlaşma",
-    "Kayıp ve yas sürecinin dönüşüm potansiyeli",
-    "Ahiret ve yaşamın anlamı üzerine derin tefekkür",
-    "Yeni bir ev veya yuva kurma potansiyeli"
+    "Eski kimliklerin, alışkanlıkların veya zorlu dönemlerin geride bırakılması",
+    "İçsel yenilenme, dönüşüm ve bireyleşme sürecinde yeni bir psişik biçimin doğuşu",
+    "Ölüm ve geçicilik gerçeği üzerinden yaşamın değerini fark etme ve farkındalık kazanma",
+    "Geçmişle bağların sağlıklı bir şekilde kesilmesi ve içsel kapanış sağlanması"
   ],
   "challengingAssociations": [
-    "Çözülmemiş kayıp ve keder yükü",
-    "Hapishane veya kısıtlanmışlık hissi",
-    "Unutulmuş haklar veya vicdani yükümlülükler",
-    "Geçmişin ağırlığı altında kalma endişesi"
+    "Bastırılmış kayıplar, çözülmemiş yas süreçleri ve ölüm korkusu",
+    "Zihinsel daralma, sıkışmışlık hissi ve psikolojik olarak bir zindanda olma duygusu",
+    "Uğursuzluk kaygıları, kayıp endişeleri ve geçmişe saplanıp kalma",
+    "Gömülmüş veya bastırılmış zorlu psişik içeriklerin yeniden su yüzüne çıkmasıyla yaşanan gerilim"
   ],
   "contextDependentAssociations": [
-    "Mezarın bilinen ya da bilinmeyen bir kişiye ait olması",
-    "Mezarın üzerinde durmak veya kazmak gibi eylemler",
-    "Mezarlığı ziyaret etme biçimi ve rüyadaki duygusal ton"
+    "Mezarın açık veya kapalı olması, rüya sahibinin içsel kapanış veya açılış sürecini farklı şekillerde yansıtır",
+    "Mezarın içinde olunması ya da dışarıdan izlenmesi, tehdit algısı ile arzu edilen bir sığınak olma durumu arasında farklılık gösterir",
+    "Mezarlık bağlamındaki eylemlerin niteliği: ağlamak, ibret almak ya da ölülerle temas kurmak gibi unsurlar yorumun tonunu belirler",
+    "Rüya sahibinin o anki duygulanımı ve rüyadaki genel atmosfer, sembolün bir tehdit mi yoksa bir huzur eşiği mi olduğunu şekillendirir"
   ],
   "commonVariations": [
     {
-      "title": "Bilinmeyen Bir Mezar Kazmak",
-      "description": "Rüyada tanınmayan bir mezar kazdığını görmek, klasik İslami aktarımlarda yeni bir ev inşa etme veya yuva kurma çabasıyla ilişkilendirilir."
+      "title": "Açık ve Boş Bir Mezar Görmek",
+      "description": "Eski bir dönemin resmen bittiğini ancak henüz tamamen kapatılamadığını, yeni bir yaşam evresine geçiş için hazırlık aşamasında olunduğunu gösterir."
     },
     {
-      "title": "Mezarın İçine Girmek",
-      "description": "Cenaze görmeksizin boş bir mezara girdiğini görmek, uyanık yaşamda yeni bir mülk edinme veya ev satın alma ihtimaline işaret edebilir."
+      "title": "Kendi Mezarını Kazmak",
+      "description": "Kişinin kendi hayatında köklü bir temizliğe gitmesi, eski alışkanlıklarını bilinçli olarak geride bırakma çabası veya yeni bir yer edinme arayışını simgeler."
     },
     {
-      "title": "Mezar Üzerinde Durmak",
-      "description": "Bir mezarın üstünde dikildiğini veya yürüdüğünü görmek, geleneksel yorumlarda hata yapma, günah veya vicdani muhasebe gerektiren durumlarla bağdaştırılır."
+      "title": "Karanlık ve Dar Bir Mezarda Sıkışıp Kalmak",
+      "description": "Günlük yaşamda yaşanan sıkışmışlıkları, psikolojik daralmayı, baskı altında hissetmeyi veya çözülemeyen içsel sorunların yarattığı zindan benzeri ruh halini yansıtır."
     },
     {
-      "title": "Mezarlık Ziyareti Yapmak",
-      "description": "Mezarlıkta dolaşmak veya kabirleri ziyaret etmek, kişinin geçmişteki anıları, toplumsal hafızayı ve hayatın geçiciliğini zihinsel olarak ele almasına aracılık eder."
+      "title": "Bakımlı ve Çiçekli Bir Mezarlıkta Yürümek",
+      "description": "Ölüm ve geçicilik gerçeğiyle barışma, kayıpların ardından gelen duygusal sükûnet, yas sürecinin hafiflemesi ve içsel bir dinginliğe ulaşma çabasını ifade eder."
     }
   ],
-  "psychology": "Ampirik psikoloji literatüründe mezar sembolüne özgü doğrudan doğrulanmış bir rüya karşılığı bulunmamaktadır; bununla birlikte, komplike yas ve kayıp üzerine yapılan araştırmalar, yas sürecindeki bireylerin rüyalarında kaybettikleri kişileri ve ölüm temasını yoğun biçimde deneyimleyebildiğini göstermektedir.",
-  "jungian": "",
-  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında mezar sembolü çok katmanlı anlamlar barındırır. Kendini mezarda görmek bazen hapishane veya kısıtlanmışlık olarak yorumlanırken, mezar kazmak evlenmeye veya ev sahibi olmaya işaret edebilir. Bilinen mezar, hakikate veya unutulmuş bir hakka işaret edebilir; bilinmeyen mezar ise münafık karakterine yorulabilir. Ayrıca mezarlık ziyareti, ölenleri anma veya hatırlama temasıyla ilişkilendirilir ve mezar genel olarak ahireti hatırlatan bir uyarı kabul edilir.",
-  "christianTraditions": "Hristiyan teolojik sembolizminde mezar, hem somut ölüm gerçeğini hem de diriliş umudunu aynı anda barındıran merkezi bir imgedir; ancak bu yaklaşım doğrudan bir rüya tabiri geleneği değil, genel inanç sisteminin bir yansımasıdır.",
-  "jewishTraditions": "Yahudi geleneğinde mezar, rüya yorum malzemesinden ziyade insan hayatının geçiciliğini ve ölümün kaçınılmazlığını vurgulayan genel bir dini sembolizm unsuru olarak ele alınır.",
-  "buddhistEasternApproaches": "Budist öğretilerde ve Doğu geleneklerinde mezar veya anıt mezar, varoluşun geçiciliği (anicca) ve kederin dönüşümlü doğası üzerine düşünmek için bir araçtır. Mezarlıklar ve ölüm teması, dünyavi bağları gevşetmek ve derin farkındalık geliştirmek amacıyla meditasyon pratiğinde kullanılabilir.",
-  "spiritualApproaches": "Spiritüel çerçevelerde mezarlık ve kabir imgesi, ölüm ve yaşam dengesini hatırlatan, ego merkezli bağları zayıflatarak şefkat ve berraklık geliştirmeyi sağlayan içsel bir tefekkür alanı olarak değerlendirilir.",
+  "psychology": "Rüya çalışmalarında ölümle ilişkili içeriklerin çok çeşitli biçimlerde ortaya çıktığı ve tek bir sabit anlama indirgenemediği görülmektedir. Psikanalitik kuramsal çerçevede yeraltı mekânları, kapalı ve gömülü yapısıyla bastırma, geri çekilme veya yas süreçleriyle ilişkilendirilir. Freudyen perspektifte mezar, tehditkâr bir unsur olabileceği gibi, yer değiştirme yoluyla daha katlanılabilir veya arzu edilen bir sığınak sahnesine dönüşebilir. Aynı zamanda belirli kayıp ve ölüm temalarına bağlanan bir rüya sahnesi olarak işlev görür.",
+  "jungian": "Jungcu analitik psikolojide mezar, eski benliğin gömülmesi ve yeninin ortaya çıkışıyla bağlantılı bir geçiş imgesidir. Yeraltı ve derinlik teması, bilinçdışına inişi, gölge ile karşılaşmayı ve bireyleşme sürecinde işlevini yitirmiş psişik yapıların çözülüp yenilenmesini simgeler. Nekropol veya mezar, ego ile bilinçdışı arasındaki sınırda yer alan, artık kullanılmayan içeriklerin bırakıldığı sembolik bir dönüşüm mekânıdır.",
+  "islamicTradition": "Klasik ve modern bazı İslami rüya tabiri derlemelerinde kabir ve mezar sembolü hapis, zindan, darlık, ahiret bilinci ve tövbe çağrısı ekseninde ele alınmaktadır. Mezar görmek bazı aktarımlarda sıkıntı ve üzüntüyle ilişkilendirilirken, mezarlık bağlamı vaaz, nasihat, ibret alma ve dünyadan yüz çevirme gibi temalarla da bağdaştırılmaktadır. Kimi yorumlarda ise mezar kazmak ev yapma veya hayatta yeni bir yer edinme çabası olarak da aktarılmaktadır.",
+  "christianTraditions": "Hristiyan sembolizminde mezar, salt bir son değil, ölüm ile diriliş arasında bir geçiş sınırı olarak okunur. Boş mezar anlatısı, mezarın kalıcılıktan ziyade dönüşüm ve umut temasına bağlanmasına zemin hazırlar. İnsan ölümlülüğünü, yas ve gömülme gerçekliğini simgelediği gibi, Mesih'in ölüm üzerindeki zaferi inancına göre ölüm karşısında zafer ve sonsuz yaşam umudunu da temsil eder.",
+  "jewishTraditions": "Rabbanî rüya geleneğinde, ölüm ve gömme imgeleri tek başına mutlak bir kader hükmü olarak görülmez; korkutucu rüyalarda bile merhamet dilenebileceği kabul edilir. Mezar ve mezarlık çevresi, ölü ruhlarla temas, hatırlama ve sınır-ötesi bir mekân olarak algılanır. Ölülerin rüyada görünmesi her zaman olumsuz sayılmamakla birlikte, gömülmeyi doğrudan çağrıştıran bazı unsurlar dikkatle ve bağlamına göre ele alınır.",
+  "buddhistEasternApproaches": "Budist ve Doğu yaklaşımlarında mezar, beden kalıntılarını barındıran ve ölüm gerçeğini görünür kılan bir yapı olarak tanımlanır. Bu bağlamda mezar imgesi, varoluşun geçiciliği (anicca), yapışmama ve ölüm farkındalığı temalarını çağrıştıran bir tefekkür alanı sunar.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel okumalarda mezar, bir döngünün tamamlanması, eski kimliklerin veya alışkanlıkların gömülmesi ve yeni bir yaşam evresine geçişin dönüşüm eşiği olarak değerlendirilir. Geçmişe duyulan bağların kesilmesi, içsel kapanış sağlanması ve gömülü kalmış bazı duygu veya hakikatlerin açığa çıkarak yenilenmeye zemin hazırlamasıyla ilişkilendirilir.",
   "comparisonTable": [
     {
-      "approach": "Ampirik Psikoloji",
-      "interpretation": "Mezar sembolünün kendisinden ziyade, kayıp, yas ve komplike keder süreçlerinin rüya içeriğindeki yansımalarını inceler.",
-      "evidenceLevel": "research"
+      "approach": "Psikanaliz",
+      "interpretation": "Bastırma, yas ve kayıp; mezar, yeraltı mekânı olarak içsel geri çekilme alanını işaret eder.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Eski benliğin gömülmesi, bilinçdışıyla temas ve bireyleşme eşiği.",
+      "evidenceLevel": "theoretical"
     },
     {
       "approach": "İslami Gelenek",
-      "interpretation": "Hapishane, evlilik, ev sahibi olma, günah, ahiret bilinci ve unutulmuş haklar gibi pratik ve manevi anlamlar yükler.",
+      "interpretation": "Zindan, hapis hissi, ahiret hatırlaması, ibret ve tövbe çağrısı.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist ve Doğu Yaklaşımı",
-      "interpretation": "Geçicilik (anicca), kederin kabulü ve bağlılıkları azaltma odaklı farkındalık ve tefekkür aracı olarak ele alır.",
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Ölümlülük, yas ve diriliş umuduna açılan bir geçiş sınırı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Ölüm ve gömme çevresindeki bağlamsal alametler, ruhsal temas ve ihtiyat.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Eski dönemin bitişi, bırakma, arınma ve dönüşüm eşiği.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenekler ve disiplinler arası bakış açıları incelendiğinde, mezar sembolünün ortak paydasının \"sınır\", \"hafıza\", \"geçicilik\" ve \"derin düşünmeye davet eden bir duruş\" olduğu görülür.",
-  "differences": "Akademik ve ampirik psikoloji yaklaşımı rüyayı yas ve kayıp bağlamında ele alırken, İslami gelenek rüyadaki eylemlere (kazmak, girmek, ziyaret etmek) göre somut yaşam olaylarına (ev, hapis, evlilik) işaret eden kurallı bir tabir dili sunar; Doğu yaklaşımları ise bunu bir meditasyon ve farkındalık pratiği olarak konumlandırır.",
-  "inusAssessment": "Rüyalarda görülen mezar sembolü, tek tip ve sabit bir geleceğe işaret eden kehanetler barındırmaz. Rüyayı gören kişinin kültürel arkaplanı, kayıp deneyimleri ve günlük yaşamındaki psikolojik bağlamı, sembolün anlam katmanlarını belirleyen en temel unsurlardır.",
+  "commonGround": "Farklı gelenekler ve psikolojik ekoller arasında mezar sembolü, en temel düzeyde bir sonlanma, sınır durumu ve geçiş noktası olarak ortaklaşır. Hiçbir yaklaşım mezarı tamamen yalıtılmış, tek tip bir anlamla sınırlamaz; aksine onun insan ömrünün geçiciliği, kayıp ve psikolojik derinleşme ile olan bağına odaklanır.",
+  "differences": "Yaklaşımlar arasındaki temel ayrım, sembolün taşıdığı duygu tonu ve yönelimde ortaya çıkar. Psikanalitik ve Jungcu ekoller mezarı içsel psişik süreçler, bilinçdışı ve ego dönüşümü üzerinden okurken; İslami ve Hristiyan gelenekleri bunu teolojik dersler, ahiret bilinci, tövbe veya diriliş umudu çerçevesinde ele alır. Spiritüel yaklaşımlar ise daha çok kişisel bırakma ve yenilenme eşiğine odaklanır.",
+  "inusAssessment": "Rüyalarda görülen mezar sembolü, düz bir ölüm korkusundan ziyade psikolojik bir eşik ve kapanış ihtiyacını temsil eder. Rüyayı yorumlarken mezarın açık olup olmadığı, rüya sahibinin orada kendini güvende hissedip hissetmediği veya oradan çıkıp çıkamadığı gibi ayrıntılar yorum biçimini tamamen değiştirebilir. Bu sembol, eski kimliklerin geride bırakılması ile yeni bir döneme adım atılması arasındaki gerilimi barındır.",
   "faq": [
     {
-      "question": "Rüyada mezar görmek kesinlikle bir ölüm haberi midir?",
-      "answer": "Hayır. Bilimsel ve geleneksel kaynaklarda mezar sembolü ölümün kendisinden ziyade geçicilik, yas, içsel değişim veya yaşamdaki kısıtlanma ve ev edinme gibi farklı temalarla ilişkilendirilir."
+      "question": "Rüyada mezar görmek gerçek hayatta birinin öleceği anlamına mı gelir?",
+      "answer": "Hayır. Psikolojik ve geleneksel okumaların çoğunda mezar, fiziksel bir ölüm haberinden ziyade bir dönemin kapanması, psikolojik sonlanma veya geçiş süreçleri olarak ele alınır."
     },
     {
-      "question": "Rüyada mezar kazmak ne anlama gelir?",
-      "answer": "Klasik İslami rüya aktarım geleneklerinde mezar kazmak genellikle bir ev inşa etme, evlenme veya yeni bir yuva kurma çabasıyla bağdaştırılır."
+      "question": "Mezar kazdığını görmek rüyada neyi ifade eder?",
+      "answer": "Kendi mezarını kazmak genellikle kişinin hayatında köklü bir temizlik yapma, eski alışkanlıklarını geride bırakma veya yeni bir düzen kurma çabası olarak yorumlanır."
     }
   ],
   "sources": [
     {
-      "title": "The Evolution of Funerary Symbolism (or “What's With All the Willow ...",
-      "relevance": "Mezar taşı sembollerinin tarihsel dönüşümünü ve ölümle ilgili görsel dilin değişimini açıklar.",
-      "url": "https://www.dhr.virginia.gov/blog-posts/the-evolution-of-funerary-symbolism-or-whats-with-all-the-willow-trees/"
+      "title": "The law of large numbers and finite variety in death-related dreams",
+      "relevance": "Ölümle ilişkili rüya kayıtlarında sembolik içeriğin ne kadar sınırlı kaldığını inceleyen çalışma.",
+      "url": "https://www.academia.edu/88801098/The_law_of_large_numbers_and_finite_variety_in_death_related_dreams"
     },
     {
-      "title": "Situating the Dead: Cemeteries as Material, Symbolic, and Relational Space",
-      "relevance": "Mezarlıkları maddi, sembolik ve ilişkisel bir alan olarak ele alır; mezar çevresindeki yazı ve imgelerin kimlik ve inanç ifadesi olarak kullanımını inceler.",
-      "url": "https://academic.oup.com/edited-volume/43183/chapter/362537080?login=false&guestAccessKey="
+      "title": "CHAPTER 6 (part 3) THE DREAM-WORK",
+      "relevance": "Yeraltı mekânlarının rüyada kadın bedeni veya rahimle ilişkilendirilebildiğini söyler; mezar gibi kapalı yeraltı imgesinin psikanalitik okuması için kavramsal zemin sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
     },
     {
-      "title": "Introduction: Grave markers and the cemeteries to which they belong are becoming more recognized as having historic significa",
-      "relevance": "Mezar işaretlerinin tarihsel ve kültürel önemini, anma ve toplumsal hafıza bağlamında tartışır.",
-      "url": "https://njh.libraries.rutgers.edu/index.php/njh/article/download/1103/2551/5711"
+      "title": "Forgetting Signorelli: Monstrous Visions of the Resurrection of the Dead",
+      "relevance": "Freud’un bir mezar deneyimini rüya örneği olarak aktaran çalışma; mezarın rüyada duygulanım ve yer değiştirme yoluyla nasıl işlenebildiğini gösterir.",
+      "url": "https://muse.jhu.edu/article/54618/summary"
     },
     {
-      "title": "Forget-Me-Not: American Consumerism and its Impact on Philadelphia Gravestones, 1800-1930",
-      "relevance": "Philadelphia mezar taşlarındaki ikonografinin (kitap, çelenk, melek, monogram vb.) kültürel anlamlarını açıklar.",
-      "url": "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1191&context=hc_sas_etds"
+      "title": "Page:Freud - The interpretation of dreams.djvu/228 - ...",
+      "relevance": "Ölüm dilekleri ve yas temalarıyla ilgili Freud pasajlarına erişim sağlar; mezar imgesini ölüm ve kayıp eksenine bağlamak için yararlıdır.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/228"
     },
     {
-      "title": "Dream Content in Complicated Grief: A Window into Loss ...",
-      "relevance": "Yas ve kayıp bağlamındaki rüya içeriklerine dair ampirik veriler sunar; kaybedilen kişilerin rüyalarda sık görünmesi gibi örüntüleri raporlar.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3929213/"
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Freud’un rüyanın bir isteğin doyumu olduğu yönündeki temel kuramını verir; mezar imgesinin tek anlamlı değil, bağlama bağlı okunmasını destekler.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
     },
     {
-      "title": "Grave Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya tabiri geleneklerinde mezarın hapishane, ev, evlilik ve ahiret hatırlatması gibi anlamlarla ilişkilendirildiğine dair derleme bilgiler içerir.",
-      "url": "https://www.myislamicdream.com/grave.html"
+      "title": "Cemetery in a Dream: Freud, Jung, Myth and Modern ...",
+      "relevance": "Mezarın eski benliğin gömülmesi, yeni biçimin ortaya çıkışı ve geçiş motifiyle ilişkilendirildiği Jungcu bir çevrimiçi yorum.",
+      "url": "https://rosmertapublishing.com/dream-symbols/cemetery/"
+    },
+    {
+      "title": "The Case of C. G. Jung's House Dream",
+      "relevance": "Jung’un rüya malzemesi tartışmasında yeraltı/alt katman imgesinin mezar benzeri bir derinlik olarak anılmasına işaret eden akademik bir PDF kaydı.",
+      "url": "https://scispace.com/pdf/a-discovery-of-meaning-the-case-of-c-g-jung-s-house-dream-uuog66lngb.pdf"
+    },
+    {
+      "title": "Grave Dream Meaning & Interpretation - Mirror",
+      "relevance": "Mezarın Jungcu okuma içinde bilinçdışı, gölge ve bireyleşme temalarıyla ilişkilendirildiğini söyleyen çevrimiçi bir yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/grave/"
+    },
+    {
+      "title": "Freddie Taborda | Jungian Analysis for the Living and ...",
+      "relevance": "Mezar ve nekropolün bilinçdışının sembolik mekânı olarak düşünülmesi, ölü psişik içeriklerin ‘gömülmesi’ ve bireyleşme süreciyle ilişkisi.",
+      "url": "https://jungchicago.org/freddie-taborda-jungian-analysis-for-the-living-and-for-the-dead-lessons-from-the-jaguar-man-in-a-tomb/"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’un rüya yorumunda gömme/defin örnekleri ve ölüm çağrışımları üzerine akademik tartışma.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorum geleneğinde gömme, ölüm ve defin imgelerine ilişkin çeviri pasajlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "The Interpretation of Dreams in the Ancient Near East. With a Translation of an Assyrian Dream-Book",
+      "relevance": "Eski Yakın Doğu’da rüyalar, yeraltı ve ölüm bağlamını belgeleyen klasik çalışma.",
+      "url": "https://ia802907.us.archive.org/6/items/Oppenheim1956AssyrianDreamBook/Oppenheim_1956_Assyrian_Dream_Book.pdf"
+    },
+    {
+      "title": "Rüyada Mezar Görmek: Anlamı ve Yorumu",
+      "relevance": "Rüyada mezar ve mezarlık için hapis, zindan, sıkıntı ve ibret temasını bir arada aktaran modern İslami derleme.",
+      "url": "https://www.diyadinnet.com/ruyada-743-mezar-mezarlik-gormek"
+    },
+    {
+      "title": "Khawab Main Qabar Dekhna - Islamic Khawab ki Tabeer - UrduPoint",
+      "relevance": "Kabir sembolünü hapisle eşleyen ve mezar kazmayı ev veya yer edinme ile ilişkilendiren Urduca İslami tabir metni.",
+      "url": "https://www.urdupoint.com/horoscope/dream-interpretation/khawab-main-qabar-dekhna/1092.html"
+    },
+    {
+      "title": "Dreaming About a Grave: Meaning and Interpretation",
+      "relevance": "Mezarın Hristiyan bağlamında ölüm, dönüşüm ve diriliş umuduyla ilişkilendirilen sembolik okumalarını özetler.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/grave/"
     },
     {
       "title": "Reflections on Graves in the Bible: A Study on Death, Burial ...",
-      "relevance": "Hristiyan metinlerinde mezarın ölüm ve diriliş umudu bağlamındaki sembolik kullanımını özetleyen bir çalışma niteliğindedir.",
+      "relevance": "Kutsal metinlerde mezarın ölüm, yas ve diriliş umudu ile bağlantısını genel hatlarıyla açıklar.",
       "url": "https://digitalbible.ca/article-page/modern-topics-what-does-the-bible-say-about-grave"
     },
     {
+      "title": "Matthew 27:52 - Verse-by-Verse Bible Commentary - StudyLight.org",
+      "relevance": "Matta 27:52 üzerine yorumda mezarların açılması, Mesih’in ölüm ve mezar üzerindeki zaferi olarak ele alınır.",
+      "url": "https://www.studylight.org/commentary/matthew/27-52.html"
+    },
+    {
       "title": "Topical Bible: Graves",
-      "relevance": "Yahudi kaynaklarında mezarın insan hayatının geçiciliği ve ölümün kesinliğiyle ilişkilendirildiğini gösteren genel bir sembolizm özeti sunar.",
+      "relevance": "İncil’de mezarların, fiziksel gömülme alanı olmanın yanında, ölümlülük ve ruhsal hakikatleri işaret eden semboller olarak nasıl ele alındığını özetler.",
       "url": "https://biblehub.com/topical/g/graves.htm"
     },
     {
-      "title": "Graves Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya aktarımlarında mezarın farklı yorumlarını derleyen çevrim içi bir derlemedir.",
-      "url": "https://www.myislamicdream.com/graves.html"
+      "title": "Topical Bible: The Graves",
+      "relevance": "Mezarı ölüm, gömülme ve özellikle diriliş umudu ile ilişkilendiren teolojik bir özet sunar.",
+      "url": "https://biblehub.com/topical/t/the_graves.htm"
     },
     {
-      "title": "Tomb: Significance and symbolism",
-      "relevance": "Budist bağlamda mezar sembolünün geçicilik ve yasla ilişkisinin farklı yönlerini ele alır.",
-      "url": "https://www.wisdomlib.org/concept/tomb"
+      "title": "Berakhot 57.b",
+      "relevance": "Rüyada ölü, ev, eşya, toprak ve gömme çağrışımları üzerinden alamet dilini verir; mezar imgesiyle en yakın Rabbanî rüya çerçevesini sağlar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
     },
     {
-      "title": "Cemetery Dreams: Meaning, Psychology, and Cultural ...",
-      "relevance": "Mezarlık imgelerinin rüya anlamı, psikolojik ve kültürel yansımalarını tartışan bir popüler kaynak açıklamasıdır.",
-      "url": "https://www.dreamspoken.com/en/dream-meaning/cemetery"
+      "title": "Berakhot 10.a",
+      "relevance": "Rüyaların kesin hüküm olmadığını ve korkutucu rüyalarda bile merhamet için dua edilebileceğini anlatır; mezar sembolünün yorumunda ihtiyat sağlar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/10.a"
+    },
+    {
+      "title": "Talmudic Ghost Stories (Berakhot 18b)",
+      "relevance": "Mezarlıkta uyuma ve ölü ruhlarla rüyada teması gösterir; mezar/mezarlık mekânının rüya bağlamını aydınlatır.",
+      "url": "https://www.sefaria.org/sheets/427857"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 5. The Spirits of the Dead | Sacred Texts Archive",
+      "relevance": "Ölülerin rüyalarda görünmesi ve mezarın rahatsız edilmesiyle bağlantılı halk-dinsel Yahudi tasavvurları özetlenir; mezar sembolünün ölümle ilişkili anlam alanını genişletir.",
+      "url": "https://sacred-texts.com/jud/jms/jms07.htm"
+    },
+    {
+      "title": "The Buddhist praying-wheel; a collection of material bearing upon the symbolism of the wheel and circular movements in custom and religious ritual",
+      "relevance": "Budist bağlamda mezar ve gömü alanını, kalıntılarla ilişkili maddi ve ritüel bir yapı olarak tanımlar.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Buddhist_praying-wheel;_a_collection_of_material_bearing_upon_the_symbolism_of_the_wheel_and_circular_movements_in_custom_and_religious_ritual_(IA_cu31924023188349).pdf"
+    },
+    {
+      "title": "Tomb Dream Meaning & Interpretation",
+      "relevance": "Tomb/mezar imgesini Budist çerçevede geçicilik ve yapışmama temalarıyla ilişkilendirir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/tomb/"
+    },
+    {
+      "title": "FUNERARY RITES AND THE BUDDHIST MEANING OF DEATH:",
+      "relevance": "Budist cenaze ritüelleri ve ölümün anlamı üzerinden mezar çevresindeki düşünsel çerçeveyi sağlar.",
+      "url": "https://thesiamsociety.org/wp-content/uploads/1980/03/JSS_068_1b_PhraKhruAnusaranasasanaKiartiKeyes_FuneraryRitesAndBuddhistMeaningOfDeath.pdf"
+    },
+    {
+      "title": "What Does It Mean to Dream About a Cemetery? - Dreamorian",
+      "relevance": "Mezarın spiritüel anlamını bitiş, salıverme, içe gömülü duygular ve yenilenme eşiği olarak açıklar.",
+      "url": "https://dreamorian.com/what-does-it-mean-to-dream-about-a-cemetery/"
+    },
+    {
+      "title": "Grave in dreams — meaning and symbolism",
+      "relevance": "Mezarı ezoterik bir okumada sembolik ölüm, enerji düzeyinde iniş ve yeniden doğuş temalarıyla ilişkilendirir.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/grave"
+    },
+    {
+      "title": "Spiritual Meaning of a Grave in a Dream - Wisdom Of The Spirit",
+      "relevance": "Mezarı ruhsal bağlamda kapanış, bırakma, korku ve fiziksel ile ruhsal alan arasında eşik imgesi olarak ele alır.",
+      "url": "https://wisdomofthespirit.com/spiritual-meaning-of-a-grave-in-a-dream/"
+    },
+    {
+      "title": "Grave Dream Symbol - Meaning, Interpretation and Symbolism www.barneslawassociates.com › grave-dream-meaning-interpretation-and-s...",
+      "relevance": "Mezar sembolünü yeni başlangıçlar, duygusal sükûnet ve yeniden doğuşla ilişkilendiren modern bir rüya yorumu sunar.",
+      "url": "https://www.barneslawassociates.com/grave-dream-meaning-interpretation-and-symbolism/8704619.html"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "buddhist-eastern"
+  ]
 }

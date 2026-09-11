@@ -1,150 +1,229 @@
 {
   "slug": "silah",
   "title": "silah",
-  "shortDescription": "Rüyada silah görmek; güç, otorite, korunma ve zorluklar karşısında üstün gelme isteğiyle ilişkilendirilir. Silahın saldırı amacıyla kullanılması saldırganlık ve zulüm uyarısı taşırken, savaş ortamında görülmesi toplumsal kargaşa ve zorlu dönemlere işaret edebilir.",
+  "shortDescription": "Rüyada silah görüntüsü genellikle aktif bir unsur olarak ortaya çıkar; saldırı ya da savunma niyeti, güç gösterisi veya tehdit algısı yaratır.",
   "positiveAssociations": [
-    "Güç ve otorite kazanma",
-    "Korunma ve güvenlik",
-    "Zorluklar veya düşmanlar karşısında zafer",
-    "Bilgi ve servet edinme"
+    "Aktif savunma ve güvenlik arayışı",
+    "Kuvvet, zafer ve toplumsal otoritenin göstergesi",
+    "Koruyucu kaynaklar: mal, ilaç veya destekleyici ilişkiler",
+    "Hedefe odaklanma, eyleme geçme yetisi ve disiplinli irade"
   ],
   "challengingAssociations": [
-    "Saldırganlık ve zulüm uyarısı",
-    "Fitne, kargaşa ve kıtlık gibi toplumsal felaketler",
-    "Yargı ve keskin kararlar",
-    "Dünyevi bağlar ve bırakılması gereken alışkanlıklar"
+    "Doğrudan tehdit, saldırı veya fiziksel tehlike algısı",
+    "Saldırganlık eğilimi veya başkalarına zarar verme riski",
+    "İçsel bastırılmış öfke; Freudçu çerçevede fallik/erkeksi çağrışımlar taşıyabilir.",
+    "Korku, savunmasızlık veya güç kaybı hissi"
   ],
   "contextDependentAssociations": [
-    "Silahın doğru veya yanlış amaçla kullanılması",
-    "Kişinin rüyada silah taşıması ya da saklaması",
-    "Savaş düzeni içinde silahların görünmesi",
-    "Ritüel veya ikonografik nesnelerle kurulan bağ"
+    "Silahın türü (kılıç, mızrak, tabanca vb.) arındırma mı yoksa yıkım mı ima ettiğini belirler.",
+    "Silahı kullananın kim olduğu (rüya sahibinin kendisi mi, başkası mı yoksa bilinmeyen bir güç mü) yorumda belirleyicidir.",
+    "Silahın kullanılıp kullanılmadığı, taşınış biçimi ve rüya sırasındaki duygusal ton yorum için belirleyicidir.",
+    "Kültürel/ritüel bağlam (ör. gladiatör sahnesi, dini imgeler veya savaş anlatısı) yorumda önem taşır."
   ],
   "commonVariations": [
     {
-      "title": "Topluluk İçinde Silah Taşımak",
-      "description": "Rüyada taşınan silah, kişinin sosyal çevresinde veya iş hayatında liderlik, güç ve otorite elde etme arayışına ya da bu statünün kazanılmasına işaret edebilir."
+      "title": "Savunma Amaçlı Silah Taşımak",
+      "description": "Rüya sahibinin bir tehdide karşı korunma içgüdüsü, sınır koyma ihtiyacı veya kendini güvenceye alma arzusunu gösterir; genelde kontrol ve hazırlık hissi eşlik eder."
     },
     {
-      "title": "Silah Saklamak veya Gizlemek",
-      "description": "Rüyada gizlenen bir silah, bilgi, servet, korunma veya kişinin kendini güvende hissetme çabasıyla birlikte değerlendirilir."
+      "title": "Korku ve Tehdit Algısı ile Silah Görmek",
+      "description": "Çevresel baskıların, tehditlerin veya çözülmemiş çatışmaların rüya imgesi haline gelmesi; rüya boyunca hissedilen korku, yorumda belirleyici olur."
     },
     {
-      "title": "Savaş Düzeni ve Silahlar Görmek",
-      "description": "Ortamda savaş düzeninin ve çok sayıda silahın görülmesi, toplumsal düzeyde fitne, kargaşa veya zorlu dönemlerin habercisi olarak ele alınabilir."
+      "title": "Ustalıkla Silah Kullanmak",
+      "description": "Silahı amaçlı ve yetkin biçimde kullanmak, sorumluluk üstlenme, hedefe odaklanma ve kişisel otoritenin bilinçli kullanımıyla ilişkilidir."
     },
     {
-      "title": "Ritüel ve Aydınlanma Odaklı Silah İmgeleri",
-      "description": "Vajra veya Kartika gibi yıkılmazlık ya da dönüşüm simgeleyen özel nesneler, dünyevi bağlardan kopma ve sarsılmaz bir içsel duruş arayışını yansıtır."
+      "title": "Kılıç/Mızrak Gibi Kesici Silah",
+      "description": "Kılıç benzeri bir silah, ayrım, arındırma veya adalet temasını vurgulayabilir; bazı spiritüel ve ezoterik okumalarda ‘kesip ayırma’ yetisiyle bağlantılıdır."
+    },
+    {
+      "title": "Artemidorus Bağlamında Gladiatör Silahları",
+      "description": "Antik Yunan/Artemidorus geleneğinde gladiatörün taşıdığı silah türü, rüya sahibinin davadaki ya da toplumsal konumdaki rolü (davalı mı yoksa davacı mı olduğu) gibi belirleyici işaretler verir."
     }
   ],
-  "psychology": "",
+  "psychology": "Ampirik rüya içeriği araştırmaları, silah imgelerinin çoğunlukla tehdit, saldırganlık ve yüksek duygulanım durumlarıyla birlikte ortaya çıktığını göstermektedir; özellikle asker rüyalarında bu ilişki belirgindir. Bu bulgular, silahın rüyalarda tek, sabit bir anlamdan ziyade duygusal ve işlevsel bir gösterge olduğunu destekler. Psikanalitik çerçevede ise silahlar fallik/erkeksi çağrışımlar taşıyabilir; bu yorum da bağlama ve rüya sahibinin çağrışımlarına bağlı olarak uygulanmalıdır.",
   "jungian": "",
-  "islamicTradition": "İslami rüya tabiri geleneğinde silah, güç, otorite, korunma ve düşmana karşı üstünlük sağlama anlamlarına gelir. Silahın doğru bir şekilde kullanılması üstünlük ve adalete işaret ederken, yanlış kullanımı zulüm ve saldırganlık uyarısı olarak yorumlanır. Ayrıca silah taşımak topluluk içinde liderlik kazanmakla bağdaştırılırken savaş düzeni içinde görünmesi fitne ve kıtlık gibi toplumsal kargaşalara işaret edebilir.",
-  "christianTraditions": "Hristiyan sembolizminde silah veya bıçak benzeri kesici nesneler, ilahî yargı, ayrım, saldırı-savunma dengesi ve ahlaki keskinlik temalarıyla ilişkilendirilir.",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist ve özellikle Vajrayana geleneğinde silah formundaki veya ritüel araç niteliğindeki objeler derin anlamlar taşır. Örneğin Vajra, yıldırım ve elmastan türetilen yapısıyla yok edilemezliği ve aydınlanmış hâlin sarsılmaz gücünü temsil eder. Kartika adı verilen kavisli ritüel bıçak, dünyevi bağları kesip geçme ve dönüşüm pratiğiyle bağlantılıdır. Ayrıca ikonografide yer alan silahlı ve öfkeli tanrısal figürler koruyucu ve dönüştürücü işlevler üstlenir.",
-  "spiritualApproaches": "",
+  "islamicTradition": "Modern İslami rüya aktarımlarında silah, kuvvet, zafer, liderlik ve kişiyi zarardan koruyan araçlar anlamlarıyla ilişkilendirilir. Bazı aktarımlarda silah taşımak hastalıklardan şifa bulma, ilim ya da mal gibi olumlu sembollerle de bağdaştırılır; bu tür okumalar genellikle bağlama ve silahın kullanım biçimine göre değişir.",
+  "christianTraditions": "Hristiyan yorumlarında silah görüntüsü genellikle dışsal çatışma veya içsel ruhsal mücadele çerçevesinde okunur; aynı zamanda ilahi koruma, güç ya da aşırı güven uyarısı gibi temalar da gündeme gelebilir. Bu okumalar çoğunlukla rüyanın ahlaki veya ruhsal işlevine vurgu yapar.",
+  "jewishTraditions": "Yahudi rabbanî geleneğinde (Berakhot gibi metinler ışığında) rüyaların anlamı önemsenir; silah imgeleri Tanah ve rabbanî literatürde savaş, koruma, yargı ve mecazî güçlerle ilişkilendirilir. Ancak rüya içindeki silah yorumu, metinsel ve toplumsal bağlama göre ele alınmalıdır.",
+  "buddhistEasternApproaches": "Erken Mahāyāna/Bodhisattva metinlerinde silah veya zırh görmek, bodhisattva yolunda ilerlemenin işaretleri arasında sayılır; metinler silahın temizliği/keskinliği ile belirli bhūmiler arasında bağlantılar kurar.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel yorumlarda silah, çoğunlukla kişisel güç, sınır koyma yetisi, korunma ve eyleme geçme kapasitesiyle okunur. Kılıç odaklı sembolizmde arındırma ve ayrıştırma temaları vurgulanır; bu okumalar da bağlama ve duygusal tona duyarlıdır.",
   "comparisonTable": [
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Güç, otorite, zafer, korunma, liderlik ile birlikte yanlış kullanımda zulüm ve toplumsal fitne uyarısı.",
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Tehdit, saldırganlık ve yüksek duygulanım bağlamında işlevsel bir gösterge",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz (Freudçu)",
+      "interpretation": "Fallik çağrışımlar ve bastırılmış öfke/erkeklik dinamikleri üzerinden teorik yorum",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Artemidorus / Antik gelenek",
+      "interpretation": "Gladiatörün silah türü üzerinden toplumsal rol, dava/görev yönelimleri ve taraf belirleme işareti",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan Sembolizmi",
-      "interpretation": "İlahî yargı, keskin kararlar ve ahlaki ayrım temaları.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Budist ve Doğu Gelenekleri",
-      "interpretation": "Sarsılmaz aydınlanma gücü (Vajra), dünyevi bağları kesme (Kartika) ve koruyucu/dönüştürücü formlar.",
-      "evidenceLevel": "traditional"
+      "approach": "Spiritüel / Ezoterik",
+      "interpretation": "Kişisel otorite, arındırma ve ruhsal disiplin aracı olarak sembolik okuma",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı geleneklerde silah imgesi, temel olarak dışsal veya içsel tehditlere karşı korunma, keskin bir irade ortaya koyma ve güçlü bir duruş sergileme ortak paydasında buluşur.",
-  "differences": "İslami yorumlarda güç, otorite, zafer ve toplumsal kargaşa gibi pratik ve sosyal boyutlar öne çıkarken Budist gelenekte nesneler aydınlanma, sarsılmazlık ve zihinsel bağları koparma gibi tinsel ve ritüel süreçlerle ilişkilendirilir.",
-  "inusAssessment": "Rüyada silah görmek, doğrudan tek bir geleceğe veya duruma işaret etmez; rüyanın bağlamına, rüya sahibinin psikolojik durumuna ve kültürel arka planına göre şekillenir. Silahın bir saldırı aracı mı yoksa korunma ve güç simgesi mi olduğu, yorumun yönünü belirleyen en kritik unsurdur.",
-  "faq": [
-    {
-      "question": "Rüyada silah görmek her zaman şiddet veya düşmanlık anlamına mı gelir?",
-      "answer": "Hayır. Geleneksel yorumlarda silah, korunma, güç kazanma, otorite ve düşmana karşı üstünlük gibi olumlu temalarla da ilişkilendirilir. Anlam rüyanın bağlamına göre değişir."
-    },
-    {
-      "question": "İslami rüya tabirlerinde silah taşımak nasıl yorumlanır?",
-      "answer": "İslami kaynaklarda silah taşımak genellikle kişinin toplum içinde liderlik veya otorite kazanması, aynı zamanda korunma ve bilgi/servet elde etmesi ile bağdaştırılır."
-    },
-    {
-      "question": "Budist gelenekte yer alan silah benzeri ritüel nesneler rüyada neyi simgeler?",
-      "answer": "Vajra veya kartika gibi nesneler yıkılmazlık, sarsılmaz bir içsel güç, aydınlanma ve dünyevi bağları kesip atma gibi dönüşüm temalarını temsil eder."
-    }
-  ],
+  "commonGround": "Çoğu yaklaşım silahı tarafsız bir nesne olmaktan çok gerilim, güç ve korunma/tehdit ekseninde değerlendirir. Ortak vurgu, silahın rüya içindeki işlevi (kim tarafından ve nasıl kullanıldığı) ile duygusal tonun birlikte anlamı belirlediğidir.",
+  "differences": "Yöntemler arasındaki ayrım, silahın hangi düzeyde yorumlandığıyla ilgilidir: ampirik çalışmalar duygulanıma ve tehdit göstergesine odaklanırken, psikanalitik okumalar içsel dürtü ve fallik çağrışımları öne çıkarır. Artemidorus gibi tarihsel gelenekler ise silah tipolojisini toplumsal-rol işaretleriyle eşleştirir.",
+  "inusAssessment": "Rüyada silah görmek tek başına belirleyici bir anlam taşımaz; anlam için en kritik bileşenler silahın türü, kimin elinde olduğu, kullanım niyeti ve rüyanın duygusal atmosferidir. Bir silah, rüyada 'aktör' olarak saldırı veya savunma dinamiklerini somutlaştırır; bu yüzden yorum, rüya sahibinin uyanık yaşamındaki çatışma, sınır koyma, güç ilişkileri ve varsa fallik çağrışımlar bağlamında yapılmalıdır.",
+  "faq": [],
   "sources": [
     {
-      "title": "Bible Mysteries: The Symbolism of Knives - Christian Pure",
-      "relevance": "Hristiyan sembolizminde bıçak/silah benzeri nesnelerin ahlaki ve kutsal anlamlarına değinen modern bir açıklama.",
-      "url": "https://christianpure.com/learn/bible-view-on-knives/"
+      "title": "Dream content of soldiers",
+      "relevance": "Askerlerin rüya içeriğinde saldırganlık ve tehdit temaları bağlamında silah benzeri imgelerin nasıl yer aldığını gösteren ampirik çalışma; silah imgelerinin duygulanım bağlamında okunmasının önemini destekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/9427/pdf_32"
+    },
+    {
+      "title": "Hall: A Cognitive Theory of Dream Symbols",
+      "relevance": "Rüya sembollerinde silahların fallik çağrışımlarla ilişkilendirilebileceğine dair psikanalitik tartışma ve örnekler sunar.",
+      "url": "https://dreams.ucsc.edu/Library/hall_1953a.html"
+    },
+    {
+      "title": "How the gun lobby turned a fake quote from Sigmund ...",
+      "relevance": "Freud’un rüya sembolizmine ilişkin silah ve araçları genital sembollerle ilişkilendiren yaklaşımının modern aktarımını sunar.",
+      "url": "https://www.lgbtqnation.com/2017/10/gun-lobby-turned-fake-quote-sigmund-freud-rallying-cry/"
+    },
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Freud’un rüya kuramı metininden silah ve araçların fallik sembolizm içinde anılmasına dair klasik aktarım.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "ὀχεῖσθαι δὲ ἀετῷ βασιλεῦσι μὲν καὶ ἀνδράσι πλουσίοις ...",
+      "relevance": "Artemidorus geleneği bağlamında gladiatörlerin taşıdığı silah türleri üzerinden savunma/saldırı ayrımının ve toplumsal rol bağlantılarının açıklaması.",
+      "url": "https://classicsforall.org.uk/sites/default/files/uploads/Bellaria/CfA%20BELLARIA%2015.pdf"
+    },
+    {
+      "title": "Thraex",
+      "relevance": "Gladiatör tipolojisi üzerinden silahların toplumsal statü, karakter ve ilişki sonuçlarıyla nasıl eşleştirildiğine dair tarihsel bilgi.",
+      "url": "https://penelope.uchicago.edu/encyclopaedia_romana/gladiators/thraex.html"
+    },
+    {
+      "title": "Rüyada Silah Görmek, Taşımak, Almak Ne Anlama Gelir?",
+      "relevance": "Silah sembolünün kuvvet, şeref, zenginlik, memuriyet ve emniyetle ilişkilendirildiği çevrim içi İslami rüya tabiri aktarımı.",
+      "url": "https://www.diyadinnet.com/ruyada-8552-silah-gormek"
+    },
+    {
+      "title": "Silah Rüyada Görmek İmam Nablusi",
+      "relevance": "Modern İslami rüya aktarımlarında silahın kuvvet, zafer, şifa ve koruma gibi çeşitli olumlu ve koruyucu anlamlarla ilişkilendirildiğine dair aktarımlar.",
+      "url": "https://www.islamda.org/2015/06/silah-ruyada-gormek-imam-nablusi.html"
+    },
+    {
+      "title": "Оружие во сне - Исламское толкование - Dream Wisdom",
+      "relevance": "Silah sembolünün güç, zafer, hastalığı yenme, liderlik, bilgi, mal, ilaç ve koruma ile ilişkilendirildiği çevrim içi İslami yorum derlemesi.",
+      "url": "https://www.dream-wisdom.com/ru/dreams/weapon/"
+    },
+    {
+      "title": "weapon threat",
+      "relevance": "Silah taşıma ve kullanma biçiminin liderlik, ustalık, olgunluk ve hastalıktan şifa ile ilişkilendirildiği çevrim içi İslami yorum derlemesi.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=weapon+threat"
+    },
+    {
+      "title": "Christian Meanings of Weapons and Clothing in Dreams",
+      "relevance": "Hristiyan rüya yorumunda silahları savaş, savunma ve ruhsal mücadele diliyle ilişkilendiren modern bir yorum metni.",
+      "url": "https://apostlehumphrey.com/weapons-and-clothing"
+    },
+    {
+      "title": "Biblical meaning of gun in a dream",
+      "relevance": "Silahı rüyada çatışma, korku, içsel mücadele ve barış çağrısı bağlamında yorumlayan modern Hristiyan açıklaması.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-gun-in-a-dream"
+    },
+    {
+      "title": "Biblical Meaning of Dreaming About a Gun - biblestep.com",
+      "relevance": "Silahı Hristiyan sembolizmi içinde yetki, koruma, çatışma ve ruhsal savaşla ilişkilendiren modern yorumlayıcı metin.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-dreaming-about-a-gun/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Yahudi rabbanî geleneğinde rüyaların yorumu ve rüyaların anlamı üzerinde duran metinsel çerçeve; silah imgelerinin bu çerçevede değerlendirilmesine arka plan sağlar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Jewish Ideas Daily » Daily Features » Gun Control, Halakhah, and History: Further Thoughts",
+      "relevance": "Tanah ve rabbanî okumada silahların sembolik kullanımı; genellikle savaş, koruma ve barış temalarıyla ilişkilendirilir.",
+      "url": "http://jewishideasdaily.com/5788/features/gun-control-halakhah-and-history-further-thoughts/"
+    },
+    {
+      "title": "Yitro: Weapons on Shabbat - OU Life",
+      "relevance": "Kılıcın Yahudi hukuk ve kültüründe işlevsel ve sembolik bir nesne olarak görülmesi.",
+      "url": "https://www.ou.org/life/torah/weapons_on_shabbat/"
+    },
+    {
+      "title": "Оружие",
+      "relevance": "Silah imgelerinin Tanah ve rabbanî literatürde mecazî kullanımına dair örnekler.",
+      "url": "https://toldot.com/weapon.html"
+    },
+    {
+      "title": "Topical Bible: The Sword was Used by the Jews",
+      "relevance": "Kılıcın metinlerde savaş, yargı ve koruma metaforu olarak kullanımı.",
+      "url": "https://biblehub.com/topical/ttt/t/the_sword_was_used_by_the_jews.htm"
+    },
+    {
+      "title": "The Kabbalah of Bow and Sword - The more one draws ...",
+      "relevance": "Yay ve kılıç sembollerinin kabalistik okumaları; koruma, antlaşma ve savaş/barış temaları.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/2561254/jewish/The-Kabbalah-of-Bow-and-Sword.htm"
+    },
+    {
+      "title": "Dreams and Dream Interpretation - Berachot 9 - ספריא",
+      "relevance": "Berakhot 9 çevresinde Yahudi rüya yorum geleneğine ait derleme ve sembol listeleri.",
+      "url": "https://www.sefaria.org/sheets/226246"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Budist rüya öğretisinde silah ve zırh görüntülerinin bodhisattva ilerleyişiyle ilişkilendirildiğini belirten pasaj ve açıklama.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "Dreaming the path: diagnosing Bodhisattva progress in early",
+      "relevance": "Erken Budist/Bodhisattva rüya literatüründe silahların rüya işareti olarak nasıl kullanıldığını tartışan akademik çalışma.",
+      "url": "https://scholarlypublications.universiteitleiden.nl/access/item:4105021/view"
+    },
+    {
+      "title": "The Spiritual Meaning Decrypted Of Dreaming About Guns + Weapons",
+      "relevance": "Modern spiritüel/ezoterik yorumlarda silahın güç, korunma ve içsel sınır koyma temalarıyla nasıl okunduğuna dair örnek metin.",
+      "url": "https://my.astrofame.com/clairvoyance/article/dreaming-of-weapons"
+    },
+    {
+      "title": "Dreaming About a Weapon: Meaning, Psychology & Symbolism",
+      "relevance": "Silahları ruhsal koruma, güç ve dönüşümle ilişkilendiren modern spiritüel/ezoterik yorum metni; ayrıca kılıç için arındırma ve içsel ayırım sembolizmi sunuyor.",
+      "url": "https://dreammeaning.today/meaning/weapon"
+    },
+    {
+      "title": "Dreaming of Weapon: Meaning, Symbolism & Interpretation",
+      "relevance": "Silahın rüya yorumunda güç, kontrol, savunma ve çatışma işlevi taşıyabileceğini söyleyen modern spiritüel yorum.",
+      "url": "https://dreamz-journal.com/blog/dream-symbol/weapon/"
+    },
+    {
+      "title": "Sword, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Silahı kişisel güç, otorite ve korunma bağlamında ele alan çevrimiçi rüya yorumu; özellikle kılıcı adalet ve cesaret simgesi olarak vurguluyor.",
+      "url": "http://www.dreamtation.com/docs/8359.htm"
+    },
+    {
+      "title": "Weapons, dream interpretation, interpreter of dreams ...",
+      "relevance": "Silahları saldırganlık, çatışma ve savunma motifleriyle ilişkilendiren çevrimiçi açıklama; bazı silah türlerinin dini veya ritüel çağrışımları olabileceğine değiniyor.",
+      "url": "http://www.dreamtation.com/docs/7083.htm"
+    },
+    {
+      "title": "Dreaming of a Weapon: Power, Fear, and Who's Armed",
+      "relevance": "Silahın rüya dilinde güç, korku, savunma ve yönetsel kapasite temalarıyla ele alındığı modern yorum metni.",
+      "url": "https://thedreamguidebook.com/dreaming-of-a-weapon/"
     },
     {
       "title": "Dream Interpretation of Weapon: Power and Danger",
-      "relevance": "İslami rüya yorumunda silahın güç, zafer ve yanlış kullanımda saldırganlık anlamlarına değinen çevrimiçi derleme.",
+      "relevance": "Silahı güç, saldırganlık ve savunma mekanizmalarıyla ilişkilendiren modern yorum metni.",
       "url": "https://fassir.ai/en/dictionary/weapon"
-    },
-    {
-      "title": "Dreams about weapon Islamic Interpretations Explanation",
-      "relevance": "İslami rüya tabirinde silah taşımanın liderlik, güç ve zaferle ilişkilendirildiğini bildiren çevrimiçi derleme.",
-      "url": "https://www.myislamicdream.com/search.php?txtSearch=weapon"
-    },
-    {
-      "title": "Dreams about hiding weapon Islamic Interpretations Explanation",
-      "relevance": "Silahın bilgi, servet, korunma ve düşmana karşı üstünlük gibi çoklu sembolik anlamlarını açıklayan çevrimiçi içerik.",
-      "url": "https://www.myislamicdream.com/search.php?txtSearch=hiding+weapon"
-    },
-    {
-      "title": "Islamic Dream Interpretation – Meaning of Tools, War, and ...",
-      "relevance": "Savaş ve silah görüntülerinin fitne, kargaşa ve kıtlık gibi toplumsal anlamlarla ilişkilendirildiğini belirten çevrimiçi yorum.",
-      "url": "https://islamicdreamqa.com/tools-war-and-armies-in-dreams/"
-    },
-    {
-      "title": "Dream of Seeing Sword - Islamic Dream Interpretation",
-      "relevance": "Kılıcın güç, otorite, adalet ve korunma sembolü olarak ele alındığını belirten İslami rüya yorumu sayfası.",
-      "url": "https://muslimdreammeaning.com/en/symbols.php?symbol=sword"
-    },
-    {
-      "title": "Vajra",
-      "relevance": "Vajra'nın Budist ve dinsel geleneklerde ritüel silah/nesne olarak anlamını ve Vajrayana ile ilişkisini özetleyen giriş niteliğinde metin.",
-      "url": "https://en.wikipedia.org/wiki/Vajra"
-    },
-    {
-      "title": "“O Dharma das Armas”: origem e significados da iconografia marcial ...",
-      "relevance": "Budist ikonografide silahlı ve öfkeli tanrısal figürlerin yaygınlığını ve bunların köken ile anlamlarını ele alan akademik makale.",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=5175306"
-    },
-    {
-      "title": "[PDF] Ritual Implements in Tibetan Buddhism : A Symbolic Appraisal",
-      "relevance": "Tibet Budizmi ritüel araçları içinde Vajra'nın sembolik anlamını açıklayan akademik çalışma (PDF).",
-      "url": "https://web.stanford.edu/class/history11sc/pdfs/ritual"
-    },
-    {
-      "title": "Khaṭvāṅga - Wikipedia",
-      "relevance": "Khaṭvāṅga'nın tantrik Hindu ve Tibet Vajrayana Budizmi ikonografisindeki kullanımı hakkında bilgi veren ansiklopedik giriş.",
-      "url": "https://en.wikipedia.org/wiki/Kha%E1%B9%ADv%C4%81%E1%B9%85ga"
-    },
-    {
-      "title": "Vajra – Encyclopedia Buddhica Fall 2019",
-      "relevance": "Vajra'yı Vajrayana'nın temel simgesi olarak ele alan ansiklopedik giriş/özet.",
-      "url": "https://encyclopediabuddhicaf19.andrewquintman.wescreates.wesleyan.edu/blog/v/vajra/"
-    },
-    {
-      "title": "Kartika (knife) - Wikipedia",
-      "relevance": "Kartika'nın Vajrayana Budizmi'nde kullanılan törensel bıçak olduğunu ve Çöd pratiğiyle bağlantısını açıklayan ansiklopedik madde.",
-      "url": "https://en.wikipedia.org/wiki/Kartika_(knife)"
-    },
-    {
-      "title": "Khatvanga (Waffe) – Wikipedia",
-      "relevance": "Khatvanga'nın Hinduizm ve tantrik Budizm içindeki tören nesnesi ve sembolik yapısını tanımlayan Almanca ansiklopedik madde.",
-      "url": "https://de.wikipedia.org/wiki/Khatvanga_(Waffe)"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
 }

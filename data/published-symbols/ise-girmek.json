@@ -1,0 +1,228 @@
+{
+  "slug": "ise-girmek",
+  "title": "ise-girmek",
+  "shortDescription": "Rüyada işe girmek, yeni sorumluluklar üstlenme, çalışma düzenine katılma ya da işle ilgili düşünceleri yansıtabilir. Rüyada rahat hissetmek istikrar ve üretkenlik arayışını, baskı veya karanlık bir ortam ise rol belirsizliği ve iş stresini öne çıkarır.",
+  "positiveAssociations": [
+    "Mesleki düzen ve istikrar",
+    "Geçim akışında rahatlama",
+    "Üretkenlik ve emek karşılığını alma",
+    "Yaşamda yeni bir sorumluluk alanı üstlenme"
+  ],
+  "challengingAssociations": [
+    "Rol belirsizliği ve baskı",
+    "Tekrarlayan rutinlerin yarattığı sıkışmışlık",
+    "İş stresi ve ertesi güne taşınan olumsuz duygulanım",
+    "Kişisel yaratıcılık ile sabit düzen arasındaki çatışma"
+  ],
+  "contextDependentAssociations": [
+    "Rüya sahibinin uyanık yaşamındaki iş durumu ve stres seviyesi",
+    "İş yerine girerken hissedilen duygunun tonu",
+    "Ortamın bir fabrika, müessese veya kapalı bir alan olarak algılanışı"
+  ],
+  "commonVariations": [
+    {
+      "title": "Yoğun tempolu bir fabrikaya girmek",
+      "description": "Rüya sahibinin ham potansiyelini disiplin ve emek yoluyla biçimlendirdiğini, üretim düzenine katıldığını gösterir."
+    },
+    {
+      "title": "Büyük bir müessesede işe başlamak",
+      "description": "Toplumsal konum, kurumsal düzen ve devlet kurumlarına ya da kamu hizmetine yönelme temalarıyla ilişkilendirilir."
+    },
+    {
+      "title": "Yabancı ve karanlık bir iş yerine adım atmak",
+      "description": "Bilinçdışının derinlikleriyle karşılaşma veya bilinmeyen bir rolün getirdiği belirsizlik ve baskıyı yansıtır."
+    },
+    {
+      "title": "İş görüşmesinden geçip içeri girmek",
+      "description": "İş görüşmesini başarıyla geçip işe başlamayı veya işe kabul edilmeyi simgeler."
+    }
+  ],
+  "psychology": "İşle ilgili rüyalar, uyanık yaşamdaki iş deneyimlerini ve bu deneyimlerin taşıdığı stres yükünü doğrudan yansıtır. Ampirik çalışmalar, iş bağlamlı rüyalardaki duygusal tonun ertesi sabahki duygu durumunu etkilediğini ve bu içeriklerin duygusal işlemleme süreçleriyle yakından bağlantılı olduğunu göstermektedir.",
+  "jungian": "Jungcu bakış açısından, iş yeri veya kapalı mekân eşiğinden içeri adım atmak, bilinçli tutumdan bilinçdışının daha derin katmanlarına yönelişi simgeler. Su veya derinlik imgeleriyle birleştiğinde bu geçiş, bastırılmış içeriklerle karşılaşmayı veya ruhsal bir yenilenme döngüsünü çağrıştırır.",
+  "islamicTradition": "Geleneksel yorumlarda fabrika veya benzeri işleyen müesseseler toplumsal düzen, rızık akışı ve emekle ilişkilendirilir. Rüyada bir iş yerine girmek, kişinin dünyevi geçim düzenine katılımı ve toplumdaki yeri üzerinden okunur.",
+  "christianTraditions": "Hristiyan sembolizminde bir yapının veya evin girişinden içeri adım atmak, seküler olandan içsel ya da manevi alana geçişi simgeler. Bu eylem, yaşamın belirli bir alanına dikkat çekmesi, barış arayışı veya kutsal bir düzene yönelişle bağdaştırılır.",
+  "jewishTraditions": "Talmudik rüya geleneğinde rüyalar yorumla birlikte anlam kazanır ve bu süreçte rüyanın kendi bağlamı temel alınır. Doğrudan işe girmek için sabit bir tabir olmasa da, rüyaların anlam taşıyan yapısı ve Berakhot çerçevesindeki uzlaştırıcı okumalar, bu tür geçişlerin bütüncül bir yaklaşımla ele alınmasını sağlar.",
+  "buddhistEasternApproaches": "Budist sembolizmde eşik ve giriş noktaları, sıradan bir hareketten öte farkındalık ve saygı gerektiren sınırları temsil eder. İç mekân metaforu ise zihnin alışıldık konfor alanına veya bağlanma biçimlerine yönelmesini ifade edebilir.",
+  "spiritualApproaches": "Spiritüel ve ezoterik okumalarda işe girme, ham potansiyelin disiplin ve sorumluluk yoluyla olgunlaşmasıdır. Bu, simyasal bir dönüşüm sürecine benzer şekilde kişinin dünyadaki çağrısını üstlenmesini ve yaşam enerjisini şekillendirmesini temsil eder.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Güncel iş stresi, duygusal yükler ve bunların ertesi güne yansımaları üzerinden değerlendirilir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilinçdışı katmanlara yöneliş, derinleşme ve ruhsal dönüşüm eşiği olarak ele alınır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Rızık düzeni, toplumsal konum, emek ve üretim akışına giriş şeklinde yorumlanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "İçsel hayata yöneliş, ruhsal alanın bir kısmına odaklanma ve barış arayışı olarak okunur.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Hizmet, sorumluluk ve karakterin disiplin yoluyla biçim kazanması olarak görülür.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, işe girme eylemini sıradan bir mekân değişikliğinden ziyade, bireyin hayatında yeni bir sorumluluk alanına geçişi, bir düzene katılımı ve içsel bir eşiği aşması olarak ele alır.",
+  "differences": "Ampirik psikoloji odağı günlük iş stresi ve duygulanımda tutarken, Jungcu ve spiritüel yaklaşımlar bu geçişi daha derin psişik dönüşüm ve karakter gelişimi katmanlarında inceler; dini gelenekler ise bunu rızık ve toplumsal düzen çerçevesine oturtur.",
+  "inusAssessment": "Rüyada işe girmek, tek bir mesleki kehanet olmaktan öte, bireyin uyanık yaşamdaki sorumlulukları ile içsel ruhsal düzeni arasındaki gerilimi ortaya koyar. Rüyadaki iş yerinin atmosferi, duyulan baskı veya rahatlık hissi ve içeri adım atarken yaşanan duygusal ton, bu geçişin kişinin hayatında hangi anlama geldiğini belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada işe girmek gerçek hayatta iş bulacağım anlamına mı gelir?",
+      "answer": "Psikolojik ve sembolik açıdan bu rüyalar doğrudan gelecekteki iş tekliflerinin bir tahmini değildir; daha çok uyanık yaşamdaki mesleki stresin, sorumlulukların veya çalışma hayatına dair zihinsel meşguliyetlerin bir yansımasıdır."
+    },
+    {
+      "question": "İş yerine girerken stres duymak neyi gösterir?",
+      "answer": "Rüyadaki olumsuz duygulanım ve stres, genellikle uyanık yaşamda taşınan rol belirsizliklerinin veya baskıların gece boyunca duygusal olarak işlendiğine işaret eder."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Work-Related Dreams: An Online Survey - PMC - NIH",
+      "relevance": "İşle ilgili rüyaların uyanık yaşam iş deneyimleri, stres ve duygusal içerikle bağlantısını gösteren ampirik bulgu sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7573803/"
+    },
+    {
+      "title": "Dreams In Jungian Psychology: The use of Dreams as ... - PMC",
+      "relevance": "Rüya içerik çözümlemesinde duygusal bağlamın ve anıların işlenişinin nasıl ele alındığını gösteren akademik bir derleme.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3216128/"
+    },
+    {
+      "title": "The dream-based overnight carryover of emotional ...",
+      "relevance": "İş stresörleri, rüyalardaki olumsuz duygulanım ve ertesi sabahki duygu durumu arasındaki bağlantıyı inceleyen ampirik çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33250392/"
+    },
+    {
+      "title": "The Interpretation of Dreams - Sigmund Freud",
+      "relevance": "Freud’un rüyalarda su imgesini beden işlevleri, idrar ve cinsel sembolizmle ilişkilendirdiği pasaj.",
+      "url": "https://www.sigmundfreud.net/ebooks/the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Freud’un suya girme motifini doğum rüyası bağlamında yorumladığı pasaj; manifest hareketi ters çevirerek doğum anlamına ulaşır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un su içinde kalma, dar geçitlerden geçme ve rahim içi yaşam arasında kurduğu bağlantılar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Water is the commonest symbol for the unconscious",
+      "relevance": "Su ve derinlere iniş imgelerinin bilinçdışıyla ilişkisini ele alan Jungcu pasajlar.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/04/20/carl-jung-water/"
+    },
+    {
+      "title": "Full text of \"Marie Louise Von Franz books\"",
+      "relevance": "Su imgesinin bağlama göre bilinçdışı, yaşam veren unsur ve dönüşümle ilişkisini açıklayan Jungcu pasajlar.",
+      "url": "https://archive.org/stream/marielouisevonfranzalchemyanintroductiontothesymbolismandthepsychologystudiesinj/Marie-Louise%20Von%20Franz%20-%20Alchemy_%20An%20Introduction%20to%20the%20Symbolism%20and%20the%20Psychology%20(Studies%20in%20Jungian%20Psychology)%20(1981,%20Inner%20City%20Books)_djvu.txt"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorum geleneğinde kapıların hane, eş ve mülkiyetle ilişkili sembolik anlamlarını verir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "The ancient Greek Oneirology and the Muslim Interpretation",
+      "relevance": "Antik Yunan rüya yorumunda kapıdan geçme ve eve girme sahnelerinin yorumuna dair akademik bağlam sunar.",
+      "url": "https://journals.iium.edu.my/jiasia/index.php/jia/article/download/556/260/1649"
+    },
+    {
+      "title": "Rüya Tabiri - F - İslami Dini Bilgiler",
+      "relevance": "Fabrika sembolüne dair toplumsal konum, emek ve düzen temalarını içeren rüya tabiri aktarımı.",
+      "url": "https://www.islamiyet.gen.tr/ruya-tabirleri/ruyatabiri-f.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri F Harfi",
+      "relevance": "Fabrika sembolünü kazanç, menfaat ve beden benzetmesiyle ilişkilendiren rüya tabiri aktarımı.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-f-harfi.html"
+    },
+    {
+      "title": "Rüyada Fabrika Görmek Ne Anlama Gelir? Ne Demek, Neye Yorumlanır?",
+      "relevance": "Fabrikaya girme ifadesini bir müessese veya devlet hizmetine girişle ilişkilendiren modern rüya tabiri aktarımı.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-fabrika-gormek-ne-anlama-gelir-26370"
+    },
+    {
+      "title": "[PDF] Opening and Entering the Gospel of Mark: Jesus in the House",
+      "relevance": "Mark İncili’nde evin içine giriş ve ev sahnesinin kutsallık, sınır ve arınma temalarıyla ilişkisini tartışır.",
+      "url": "https://collectionscanada.ca/obj/thesescanada/vol2/BVAU/TC-BVAU-25584.PDF"
+    },
+    {
+      "title": "Topical Bible: Entrance to the House",
+      "relevance": "Evin girişini seküler olanla kutsal olan arasındaki eşik olarak açıklayan Hristiyan sembolizm özeti sunar.",
+      "url": "https://biblehub.com/topical/e/entrance_to_the_house.htm"
+    },
+    {
+      "title": "Biblical Meaning of House in Dreams – Symbols and Signs Meaning",
+      "relevance": "Ev sembolünü rüyalarda içsel ya da ruhsal durumla ilişkilendiren bir Hristiyan yorum çerçevesi verir.",
+      "url": "https://spiritualroutine.com/biblical-meaning-of-house-in-dreams/"
+    },
+    {
+      "title": "Topical Bible: Entering God's House",
+      "relevance": "Tanrı’nın evine girişin ibadet, dua, topluluk ve Tanrı’nın huzuruna yöneliş anlamlarını açıklar.",
+      "url": "https://biblehub.com/topical/e/entering_god's_house.htm"
+    },
+    {
+      "title": "Biblical Dream Symbols Guide: Animals, Water, Numbers ...",
+      "relevance": "Ev sembolünü kişinin kendisi, ailesi veya kilise ile ilişkilendiren Hristiyan sembol sözlüğü sunar.",
+      "url": "https://www.theeasternchurch.com/saints/biblical-dream-symbols-guide"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot’ta rüyaların ahlaki ve yorumlayıcı bir çerçevede ele alınışını gösterir; Yahudi rüya okuması için temel metinsel bağlam sağlar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Babylonian Talmud’daki Berakhot 55a–57b bölümünün Yahudi rüya literatüründeki merkezî yerini ortaya koyar.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Berakhot 56 - Hadran",
+      "relevance": "Talmudik rüya yorumunda kuyu imgesinin barış ile ilişkilendirildiğini gösterir; suyla bağlantılı sembollerin Yahudi rüya yorumlama geleneğindeki kullanımına örnek sunar.",
+      "url": "https://hadran.org.il/daf/berakhot-56/"
+    },
+    {
+      "title": "Threshold: Significance and symbolism",
+      "relevance": "Budist bağlamda eşik ve giriş noktası sembolizmini, bir mekâna girmenin sınır ve farkındalık boyutunu anlamak için kullanışlıdır.",
+      "url": "https://www.wisdomlib.org/concept/threshold"
+    },
+    {
+      "title": "House: Significance and symbolism",
+      "relevance": "Budist sembolizmde evin cehalet, dünyevi konfor ve bağlanma ile ilişkilendirilebilmesini gösterir; ‘eve girmek’ motifi için doğrudan sembolik çerçeve sağlar.",
+      "url": "https://www.wisdomlib.org/concept/house"
+    },
+    {
+      "title": "Buddhist Symbols |Guide to the Symbols of Buddhism",
+      "relevance": "Budist uygulamada kutsal mekâna girişten önceki dikkat ve saygı unsurunu gösterir; ‘giriş’ temasının ritüel anlamını destekler.",
+      "url": "http://www.buddhistsymbols.org/"
+    },
+    {
+      "title": "4 Foundry Dream Interpretation: Crucible of Creation",
+      "relevance": "Fabrika sembolü üzerinden emek, disiplin, üretim ve dönüşüm temalarını işler; fabrikaya/iş yerine girme sahnesini bu çerçevede okumaya imkân verir.",
+      "url": "https://www.dreamchrist.com/foundry-dream-interpretation/"
+    },
+    {
+      "title": "Job Dreams: Work, Worth, and the Roles We Carry",
+      "relevance": "İş ve rol temalı rüyaların anlamını mesleki yönelim, hizmet ve sorumluluk diliyle ele alır; işe girme temasını amaç ve görev bağlamında düşünmeye elverişlidir.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/job"
+    },
+    {
+      "title": "Factory",
+      "relevance": "Fabrika sembolünü dönüşüm, üretim ve sistemlilik olarak açıklar; çalışılan yer imgesini içsel süreçler ve üretkenlik bağlamında yorumlar.",
+      "url": "https://dreamhawk.com/dream-dictionary/factory/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "slug": "patron",
+  "title": "patron",
+  "shortDescription": "Rüyada patron görmek, otoriteyle ilişkinizi, değerlendirilme kaygınızı ve sorumluluk baskısını yansıtabilir. Patronun tavrı ile hissettiğiniz korku, öfke ya da rahatlama; performans kaygısı, bağımsızlık isteği veya liderlik duygusuna işaret edebilir.",
+  "positiveAssociations": [
+    "Himaye ve koruma",
+    "Adil yönlendirme ve rehberlik",
+    "Sorumluluk bilinci ve liderlik",
+    "Mesleki gelişim ve düzen"
+  ],
+  "challengingAssociations": [
+    "Yargılanma ve performans baskısı",
+    "Baskı, otorite çatışması ve korku",
+    "Gelecek kaygısı ve geçim sıkıntısı",
+    "İhmal edilmiş haklar ve suçluluk"
+  ],
+  "contextDependentAssociations": [
+    "Rüya sırasında hissedilen duygusal ton",
+    "İşyeri hiyerarşisi ile kişisel ilişkiler arasındaki bağ",
+    "Rüya sahibinin uyanık yaşamdaki otorite figürleriyle olan mesafesi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Adil ve Güler Yüzlü Patron",
+      "description": "Patronun rüyada destekleyici, gülümseyen veya yapıcı geribildirim veren bir tutum sergilemesi, kişinin kendi içsel düzeniyle barışık olmasına ve mesleki yeterlilik duygusuna işaret edebilir."
+    },
+    {
+      "title": "Öfkeli ve Baskıcı Yönetici",
+      "description": "Patronun bağırdığı, eleştirdiği veya cezalandırdığı senaryolar, uyanık yaşamdaki yoğun performans kaygısının, içselleştirilmiş sert bir üstbenliğin ya da haksızlık korkusunun yansıması olabilir."
+    },
+    {
+      "title": "Patronla Tartışmak veya Karşı Gelmek",
+      "description": "Rüya sahibinin işyerindeki otoriteyle açık bir çatışmaya girmesi, bireyin bağımsızlık arayışını, bastırılmış öfkesini ya da mevcut kurallarla yaşadığı yapısal uyumsuzluğu sahneler."
+    },
+    {
+      "title": "Kendi işinin patronu olmak veya çalışma ortamını değiştirmek",
+      "description": "Kişinin kendisini bir yönetim pozisyonunda görmesi veya yeni bir çalışma ortamına girmesi, sorumluluk alma, liderlik üstlenme ya da sosyal rolde statü değişimini işaret edebilir."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmaları, rüyaların büyük ölçüde gündelik yaşamı, sosyal etkileşimleri ve karakterleri simüle ettiğini gösterir. Bu bağlamda rüyadaki patron figürü, kişinin sosyal çevresindeki hiyerarşik ilişkileri ve çalışma ortamını yansıtır. Öte yandan, rüya sırasında hissedilen korku, öfke, baskı ya da rahatlama gibi duygusal tepkiler, uyanık yaşamdaki benzer durumlarda verilen tepkilerle paralellik gösterir.",
+  "jungian": "Analitik psikolojide patron figürü, 'Kral' veya 'baba' arketipiyle ilişkilendirilerek içselleştirilmiş bir yasa, düzen ve yargılama ilkesi olarak ele alınır. Dışarıdaki gerçek kişiden ziyade 'iç patron' şeklinde okunabilecek bu imge, otorite kompleksi, disiplin, persona ve performans baskısını görünür kılar.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik dilinde rüyalar genellikle doğal süreçler veya ilahî yönlendirmeler olarak ele alınırken, koruma, rehberlik ve ayırt etme temaları ön plana çıkar. Aziz Joseph ve Aziz Raphael gibi figürlerin koruyucu ve rehber yönleriyle ilişkilendirilmesi, otorite ve himaye temasını dolaylı olarak destekler.",
+  "jewishTraditions": "Talmudik rüya geleneğinde rüyalar sabit ve değişmez kehanetler olarak değil, yorumla şekillenen ve sözle yönlendirilebilen bir alan olarak kabul edilir. Bu yaklaşım, patron gibi karmaşık sosyal figürlerin rüyalarında tek bir mutlak anlam aramak yerine, rüya sahibinin bağlamına odaklanmayı gerektirir.",
+  "buddhistEasternApproaches": "Budist perspektif, rüyaların geçici ve yanılsamalı doğasına dikkat çeker. Bu bağlamda rüyada görülen otorite figürleri de katı bir gerçeklik veya kelimenin tam anlamıyla bir kehanet olarak değil, zihnin geçici imgeleri olarak temkinle ele alınmalıdır.",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Gündelik sosyal etkileşimlerin, işyeri dinamiklerinin ve bunlara verilen duygusal tepkilerin bir simülasyonu.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "İçselleştirilmiş otorite, baba arketipi, performans baskısı ve yargılayan psişik işlev.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Sabit bir tabir yerine, rüyanın bağlama göre yorumlanabileceği ve yönlendirilebileceği esnek bir alandır.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, patron figürünün tek ve katı bir dışsal olaydan ibaret olmadığını, kişinin otorite, sorumluluk, değerlendirilme ve sosyal rollerle kurduğu derin ilişkisel gerilimleri yansıttığında aynı noktada buluşur.",
+  "differences": "Ampirik yaklaşım sosyal simülasyon ve duygusal tepkileri merkeze alırken, Jungcu gelenek bu figürü içsel bir otorite kompleksi olarak okur; geleneksel ve kültürel yaklaşımlar ise rehberlik, himaye ve geçim eksenli bağlamlara odaklanır.",
+  "inusAssessment": "Patron sembolü, rüyada yalnızca iş yaşamındaki bir amiri değil, aynı zamanda bireyin içselleşmiş yargılama mekanizmalarını ve otoriteyle kurduğu güç dengesini sahneler. Bu rüyayı yorumlarken patronun gösterdiği tutum (adil veya baskıcı) ile rüya sahibinin hissettiği duygusal tepki (korku, öfke, rahatlama) en kritik ayrım noktalarıdır; çünkü aynı figür bir taraftan mesleki performans baskısını görünür kılarken, diğer taraftan bireyin kendi içsel disipliniyle ve sorumluluk bilinciyle olan hesaplaşmasını ele verir.",
+  "faq": [
+    {
+      "question": "Rüyada patronu görmek mutlaka iş hayatıyla mı ilgilidir?",
+      "answer": "Her zaman doğrudan iş hayatını simüle etmese de, sosyal hiyerarşi, değerlendirilme korkusu ve dışsal otoriteyle kurulan ilişkileri temsil etmesi yaygındır."
+    },
+    {
+      "question": "Rüyada patronun bağırması ne anlama gelir?",
+      "answer": "Bu durum genellikle uyanık yaşamda hissedilen yoğun performans baskısını, hata yapma korkusunu ya da içselleştirilmiş sert bir eleştirmeni yansıtabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DreamResearch.net: The content of dreams (Domhoff, 2005)",
+      "relevance": "Rüya içeriğinin gündelik yaşamı, sosyal etkileşimleri ve karakterleri nasıl yansıttığına dair genel çerçeve sağlar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2005a.html"
+    },
+    {
+      "title": "Reactions to Dream Content: Continuity and Non ... - PMC - NIH",
+      "relevance": "Rüyadaki kişiler ve olaylara verilen duygusal tepkilerin uyanık yaşam tepkileriyle ilişkisini ele alır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6901388/"
+    },
+    {
+      "title": "The Dream-Work - The Interpretation of Dreams",
+      "relevance": "Rüya çalışması, görünen içerikten gizil içeriğe geçişte yoğunlaştırma, yer değiştirme ve temsil dönüşümleri fikrini verir.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/the-dream-work/"
+    },
+    {
+      "title": "COPYRIGHTED MATERIAL",
+      "relevance": "Rüyayı kişinin yaşam dünyasının bütünsel ifadesi olarak ele alan fenomenolojik yaklaşımı gösterir.",
+      "url": "https://catalogimages.wiley.com/images/db/pdf/9781119167150.excerpt.pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyalarda kişilerin özdeşleşme ve yer değiştirme ile temsil edilebildiğini tartışır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Your Boss / Authority Figure: Dream Meaning & Interpretation",
+      "relevance": "Patron figürünü Jungcu otorite ve baba arketipi bağlamında ele alan bir yorum sunuyor.",
+      "url": "https://somniscient.com/en/common-dreams/your-boss-authority-figure"
+    },
+    {
+      "title": "Boss dreams: authority, evaluation, and workplace power",
+      "relevance": "Patronu otorite kompleksi, baba kompleksi ve persona bağlamında açıklayan Jungcu bir okuma veriyor.",
+      "url": "https://www.echodream.io/interpret/boss-dreams"
+    },
+    {
+      "title": "Boss/Authority Figure Dream Meaning | Jungian Interpretation ...",
+      "relevance": "Patronun içselleştirilmiş otorite ve yargılayan psişik işlev olarak okunmasına dair kısa bir Jungcu çerçeve sunuyor.",
+      "url": "https://www.projectmorpheus.org/dream-symbols/boss"
+    },
+    {
+      "title": "Carl Jung's Dream Analysis: How Therapists Use It Today",
+      "relevance": "Jungcu rüya analizinde dış kişi ile içsel psişik işlev ayrımını açıklıyor; patron figürünü ‘iç patron’ olarak düşünmek için yararlı bir çerçeve sağlıyor.",
+      "url": "https://drnathanbrandon.com/carl-jungs-dream-analysis-how-therapists-use-it-today/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorum geleneğinin temel çevirilerinden biridir; 'patron' sembolü için doğrudan başvuru noktası sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "[PDF] Adam R. Bartnicki - Books, Journals & Research",
+      "relevance": "'Patron' kavramının sözlükteki anlam alanını: koruyucu, himaye eden ve kurumsal bağlamlardaki kullanımını gösterir.",
+      "url": "https://reference-global.com/download/article/10.2478/slgr-2025-0004.pdf"
+    },
+    {
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual",
+      "relevance": "Artemidorus'un Oneirocritica'sındaki rüya yorum yöntemi ve sosyal konum vurgusu üzerinden tarihsel bağlam sunar.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?guestAccessKey="
+    },
+    {
+      "title": "The Encyclopedia Americana (1920)/Patron - Wikisource, the free online library",
+      "relevance": "'Patronus' kelimesinin Roma'daki koruyucu/hami anlamını ve sonraki kullanım alanlarını özetler.",
+      "url": "https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/Patron"
+    },
+    {
+      "title": "Types of renaissance patronage (article) | Khan Academy",
+      "relevance": "'Patronus' kökünü ve koruyucu-bağlılık ilişkisini açıklayan tarihsel etimolojik arka plan sağlar.",
+      "url": "https://www.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/beginners-renaissance-florence/a/types-of-renaissance-patronage"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' the Interpretation ...",
+      "relevance": "Artemidorus'un Oneirocritica'sının antik dünyadaki kapsamını ve rüya yorum geleneğindeki yerini doğrular.",
+      "url": "https://books.google.com/books/about/An_Ancient_Dream_Manual.html?id=QZjFDwAAQBAJ"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus'un profesyonel bir rüya yorumcusu olarak çalıştığını ve metninin kapsamlı bir rehber olduğunu belirtir.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Employer Dream Meaning & Interpretation - Mirror",
+      "relevance": "İşveren/usta figürünü liderlik, hesap verebilirlik ve geçim bağlamında yorumlar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/employer/"
+    },
+    {
+      "title": "Employment Islamic Interpretations & Meanings",
+      "relevance": "İş ve ofis sembolünün klasik atıflı rüya anlamlarını derleyen bir kaynaktır.",
+      "url": "https://www.myislamicdream.com/employment.html"
+    },
+    {
+      "title": "What Does Dreaming About Manager Mean? - Rüya Tabirleri",
+      "relevance": "Yönetici/amir figürünün adalet, uyarı ve sorumluluk eksenindeki yorumlarını derleyen bir kaynaktır.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-a-manager"
+    },
+    {
+      "title": "What Does Dreaming About Supervisor Mean? - Rüya Tabirleri",
+      "relevance": "Süpervizör figürünün otorite ve görevlerle ilişkili yorumlarını derler.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-a-supervisor"
+    },
+    {
+      "title": "Symbol Not Found - Islamic Dream Interpretation",
+      "relevance": "Ofis/iş sembolünün yükseliş, darlık ve kaygı eksenindeki klasik atıflı özetini verir.",
+      "url": "https://theislamicdream.com/islamic-dreams/office-dream-meaning-islam"
+    },
+    {
+      "title": "Dreams - EWTN",
+      "relevance": "Hristiyan rüya anlayışında rüyaların ilahî mesaj ya da doğal süreç olabileceğini anlatır.",
+      "url": "https://www.ewtn.com/catholicism/library/dreams-12575"
+    },
+    {
+      "title": "Doctrinalising dreams: patristic views of the nature of ... - ERA",
+      "relevance": "İlk Hristiyan yazarların rüya doğası ve rüya yorumu üzerine düşünceler geliştirdiğini gösteren akademik kayıt.",
+      "url": "https://era.ed.ac.uk/handle/1842/5462?show=full"
+    },
+    {
+      "title": "Divine Messages in Dreams",
+      "relevance": "Aziz Raphael’in kâbuslara karşı koruyucu olarak anılması üzerinden Hristiyan koruma dili sunar.",
+      "url": "https://kathleenglavich.org/divine-messages-in-dreams/"
+    },
+    {
+      "title": "Bad dreams? Saints to the rescue! - Rhode Island Catholic",
+      "relevance": "Aziz Joseph’in düşlerde melek uyarıları alması ve kötü rüyalarla ilişkilendirilmesi üzerinden koruyucu aziz teması sağlar.",
+      "url": "https://www.thericatholic.com/stories/bad-dreams-saints-to-the-rescue,15343"
+    },
+    {
+      "title": "St. Joseph: Patron of Dreamers and Discerners",
+      "relevance": "Aziz Joseph’i rüyalar ve ayırt etme temalarıyla ilişkilendirir.",
+      "url": "https://www.maryknollmagazine.org/2021/03/st-joseph-patron-of-dreamers-and-discerners/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’deki rüya pasajlarının genel çerçevesini ve rüyaların yorumla ilişkisinin Talmudik temelini sunar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams and Dream Interpretation - Berachot 9 - ספריא",
+      "relevance": "Berakhot’taki rüyalar bölümünden, rüyanın olumlu yönde yorumlanmasına ilişkin pasajı gösterir.",
+      "url": "https://www.sefaria.org/sheets/226246"
+    },
+    {
+      "title": "Berakhot 56",
+      "relevance": "Patron sembolünü rüyada doğrudan ele alan popüler bir çevrimiçi rüya yorum sayfasıdır.",
+      "url": "https://www.myjewishlearning.com/article/berakhot-56/"
+    },
+    {
+      "title": "Berakhot 56 - Hadran",
+      "relevance": "Berakhot 56’daki sembolik rüya örneklerini derleyerek Yahudi rüya yorumunda figür ve nesnelerin çağrışım mantığını gösterir.",
+      "url": "https://hadran.org.il/daf/berakhot-56/"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Rüyaların Budist çerçevede geçici ve yanılsamalı görülebileceğini belirten kısa bir giriş; patron figürünü sabit bir anlamla eşitlemek yerine temkinli okumaya zemin sağlar.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Rêve de patron : signification psychologique, spirituelle et ...",
+      "relevance": "Patron sembolünü rüyada doğrudan ele alan çevrimiçi bir kaynaktır; ancak içerik popüler bir rüya yorumu sayfasıdır ve ezoterik gelenek için temel kaynak olarak alınmaz.",
+      "url": "https://www.dreamly-app.com/fr/symboles-reves/patron-reve-signification/"
+    },
+    {
+      "title": "Caduceus Symbol: Staff of Hermes Meaning - Nicole's ritual universe",
+      "relevance": "Hermes’i simyasal geleneğin koruyucu/öğretici figürü olarak sunar; patron kavramını ezoterik bağlamda patronaj ve rehberlik ilişkisiyle düşünmek için dolaylı bir dayanak sağlar.",
+      "url": "https://mysticryst.com/blogs/the-mystic-journal/caduceus-symbol-staff-of-hermes-meaning"
+    },
+    {
+      "title": "The Book of Alchemy [I] - Paracelsus Magazin",
+      "relevance": "Hermes Trismegistus’u simyanın koruyucu figürü olarak anan bir popüler aktarım içerir; ‘patron’ ifadesinin simyasal sembolizmde nasıl kullanılabildiğini gösteren dolaylı malzeme sunar.",
+      "url": "https://www.paracelsus-magazin.ch/traditional-western-medicine/the-book-of-alchemy-i/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "buddhist-eastern"
+  ]
+}

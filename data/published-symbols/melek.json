@@ -1,0 +1,268 @@
+{
+  "slug": "melek",
+  "title": "melek",
+  "shortDescription": "Rüyada melek görmek; koruma, rehberlik, teselli ya da hayırlı bir haberle ilişkilendirilebilir. Meleğin konuşması, bir şey vermesi veya tavrı, rüyanın uyarı mı yoksa yönlendirme mi taşıdığını anlamada önemlidir.",
+  "positiveAssociations": [
+    "İlahî koruma ve rehberlik",
+    "Müjde ve hayırlı haber",
+    "İçsel yönelim ve uyum",
+    "Şifa, teselli ve manevi yakınlık"
+  ],
+  "challengingAssociations": [
+    "Bastırılmış arzuların ve çatışmaların örtük dışavurumu",
+    "Aşırı gerilim veya fitne ortamına işaret eden korkutucu topluluklar",
+    "Eşik durumlarının yarattığı belirsizlik"
+  ],
+  "contextDependentAssociations": [
+    "Meleğin çocuk, genç veya yaşlı bir şekilde görünmesi, zaman algısını değiştirebilir.",
+    "Meleğin konuşması ya da bir nesne vermesi, rüyanın bağlamına göre özel manevi anlamlar taşıyabilir.",
+    "Meleğin savaş veya barış bağlamında nasıl konumlandığı yorumun yönünü etkiler"
+  ],
+  "commonVariations": [
+    {
+      "title": "Gökyüzünden inen ışıklı varlık",
+      "description": "Gökten süzülerek inen bir melek görmek, rüyanın bağlamına göre manevi destek, korunma ya da önemli bir haber beklentisi olarak okunabilir."
+    },
+    {
+      "title": "Melek gibi kanatlanıp uzaklaşma",
+      "description": "Kendini veya bir yakınını melek gibi kanatlanıp uzaklaşırken görmek, ayrılık ya da bastırılmış dileklerin sembolik dışavurumu olabilir."
+    },
+    {
+      "title": "Konuşan/mesaj veren melek",
+      "description": "Rüyada bir meleğin seslenmesi veya bir şey vermesi, rüyanın mesaj niteliğini güçlendirir; dikkat çekme, vicdani uyarı veya yönlendirme olarak yorumlanabilir."
+    },
+    {
+      "title": "Savaş veya kalabalıkta görülen melekler",
+      "description": "Çatışma sahnesinde beliren melekler, toplumsal gerilim, adalet beklentisi veya içsel çatışmanın bir dışavurumu olarak değerlendirilebilir."
+    }
+  ],
+  "psychology": "Ampirik rüya içerik analizleri, 'melekler' gibi dini karakter kategorilerinin kodlanabildiğini gösterir; buna karşın dini figürlerin rüyalarda görece düşük oranda yer aldığı saptanmıştır. Psikanalitik çerçeve ise melek imgesini doğrudan kutsallık simgesi olarak sabitlemez; rüya süreçlerindeki yer değiştirme, sansür ve dönüşüm mekanizmaları bağlamında ele alır (ör. çocuklukta uçma/kanatlanma ile bağlantılı arzular).",
+  "jungian": "Analitik psikolojide melek, bilinç ile bilinçdışı arasında aracı, mesaj taşıyan bir imge olarak okunur. Jungcu yaklaşımlar melek figürünü rehberlik, eşik geçişleri ve Benlik ile ilişkili bir merkeze işaret eden numinöz bir sembol olarak değerlendirir; bu okumalar bağlam ve duygusal tonla birlikte dikkatle yapılmalıdır.",
+  "islamicTradition": "İslamî rüya tabiri literatüründe melek sıkça müjde, ilahî yardım, zafer, bereket ve bazen şehadetle ilişkilendirilir. Meleklerin inişi, secde etmesi veya konuşması gibi ayrıntılar klasik aktarım kaynaklarında farklı zaman ve sonuç yorumlarına bağlanır; bu okumalar geleneksel yorum çerçevesine dayanmaktadır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde melek, Tanrı’nın mesajını ileten, koruyan ve dikkati ilahî olana yönelten bir figürdür. Rüyada belirmesi bağlama göre ilahî yönlendirme, teselli veya bir çağrı olarak yorumlanabilir.",
+  "jewishTraditions": "Yahudi rüya literatüründe melek figürü, Berakhot geleneğinde rüyanın kaynağı ya da otoritesiyle ilişkilendirilebilir. Gelenek rüyaların yorumlanmasının önemini vurgular; melek görünmesi tek başına kesin bir hüküm vermez, bağlam ve yorum belirleyicidir.",
+  "buddhistEasternApproaches": "Budist çerçevede Hristiyan anlamındaki 'melek' doğrudan klasik bir karşılık bulmaz; ancak deva, bodhisattva veya dakini gibi ışıklı/koruyucu varlıklar benzer işlevler üstlenebilir. Bu bağlamda rüyadaki melek benzeri figürler koruma, şefkat, uyanıklık niyeti veya etik hatırlatma temalarıyla ilişkilendirilebilir.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel okumalarda melek, içsel rehberlik, ruhsal koruma ve bilinçdışından gelen numinöz mesajların kişileşmiş biçimi olarak yorumlanır. Bu okumalar duygusal tona ve melek figürünün rüyadaki işlevine göre farklılaşır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik İçerik Analizi",
+      "interpretation": "Rüya raporlarında nadir görülen, ancak kodlanabilecek bir karakter kategorisidir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Bastırılmış arzuların, yer değiştirmenin ve dönüşüm mekanizmalarının örtük görünümü.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Bilinç ile bilinçdışı arasında aracılık eden, rehberlik ve numinöz deneyim temalarını taşıyan psişik bir figür olarak yorumlanır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslamî Literatür",
+      "interpretation": "Müjde, ilahî yardım, bereket, zafer ve manevi mesaj taşıyıcısı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Gelenek",
+      "interpretation": "Koruma, ilahî yönlendirme, teselli ve Tanrı’ya çağrı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Gelenek",
+      "interpretation": "Rüya otorisi ve ilahî boyutla ilişkilendirilen, ancak yorum gerektiren deneyim.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımları",
+      "interpretation": "Koruma, şefkat ve etik uyanıklık niyeti taşıyan deva veya bodhisattva benzeri varlıklar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Yükselmiş farkındalık, ruhsal koruma ve içsel rehberlik teması.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplin ve gelenekler, melek figürünün rüyalarda sıradan bir nesne olmadığını; aksine bilinçdışı veya daha büyük bir ilahi/ruhsal düzen ile birey arasında köprü kuran rehberlik, koruma ve mesaj taşıma işlevi gördüğü konusunda birleşir.",
+  "differences": "Ampirik psikoloji rüyalardaki frekansı ve içerik kodlamasını incelerken, psikanaliz rüyaların örtük arzular, sansür ve dönüşüm süreçlerine vurgu yapar. Jungcu yaklaşım melek imgesini psişik yönelim ve arketip bağlamında ele alırken, dini gelenekler daha doğrudan ilahî yardım, müjde veya kozmik otorite ekseninde yorum yapar.",
+  "inusAssessment": "Rüyada melek görülmesi tek ve değişmez bir kehanet olarak ele alınamaz. Meleğin rüyadaki tavrı—koruyucu, uyarıcı, mesaj veren ya da uzaklaşan—ile rüyanın duygusal tonu ve anlatı içindeki konumu, sembolün muhtemel psikolojik veya manevi işlevini belirler.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Studying dream content using DreamBank.net",
+      "relevance": "DreamBank veri tabanında 'angels' (melekler) kategorisinin nasıl kodlandığını ve dini karakterlerin rüya içerik analizinde nasıl sınıflandırılabildiğini gösterir.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2008c.html"
+    },
+    {
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içerik analizinde karakter, etkileşim, duygu ve nesne kodlamasının yöntemsel çerçevesini açıklar; melek gibi figürlerin bağlamla birlikte incelenmesi gerektiğini vurgular.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içeriği çalışmalarında hipotez kurma, kodlama ve güvenirlik ilkelerini özetleyerek sembolik öğelerin sistematik değerlendirilmesini destekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
+      "relevance": "Freud'un rüya kuramı bağlamında rüyalardaki dönüşüm, sansür ve örtük doyum mekanizmalarının anlaşılmasına katkı sağlar; melek imgesinin belirli rüya örneklerindeki dönüşümle açıklanabileceğine dair teorik zemin sunar.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud'un betimlediği örnekler (ör. çocukların kanatlanıp uzaklaşması) üzerinden melekleşme/kanatlanma imgelerinin bastırılmış dileklerle nasıl ilişkilendirilebileceğine dair kaynak sağlar.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Angels, Dreams, and Premonitions: How to Use Inner ...",
+      "relevance": "Meleklerin Jungcu okumada bilinçdışı içerikleri taşıyan ve mesaj getiren aracı figürler olarak ele alınışını gösterir.",
+      "url": "https://thisjungianlife.com/angels/"
+    },
+    {
+      "title": "Angels as Archetype and Symbol",
+      "relevance": "Analitik psikoloji perspektifinden melek imgesini arketip ve sembol olarak tartışır; Jungcu okumalarda melek figürünün rehberlik ve numinöz işlevlerine dair çerçeve sunar.",
+      "url": "https://karger.com/books/book/chapter-pdf/3673123/000387663.pdf"
+    },
+    {
+      "title": "Marie-Louise von Franz: The Ladder to Heaven",
+      "relevance": "Melek deneyimini egodan daha büyük bir iç ilkenin ortaya çıkışıyla ilişkilendirir; Jungcu iç merkez ve yönelim temalarını destekler.",
+      "url": "https://carljungdepthpsychologysite.blog/2023/03/27/heaven-5/"
+    },
+    {
+      "title": "Angelic Imagery: A Jungian Perspective",
+      "relevance": "Melek imgelerini psişede yönelim işlevi ve simgesel yeniden düzenleme ile ilişkilendirir; Jungcu sembol okuması için yararlıdır.",
+      "url": "https://www.themindfulword.org/angelic-imagery/"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus'un antik rüya yorumlama çerçevesi üzerinden ilahi haberci figürlerin tarihsel rüya literatüründeki yerini inceleyerek tarihsel bağlam sağlar.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "Artemidorus Archives « Polis",
+      "relevance": "Artemidorus’un kehanet ve dilek rüyalarına yer veren rüya yorumlama (oneirokritik) çerçevesini açıklar; ilahi figürlerin rüya yorumundaki işlevi için bağlam sağlar.",
+      "url": "https://www.polisjerusalem.org/tag/artemidorus/"
+    },
+    {
+      "title": "Arab Stars, Assyrian Dogs and Greek ‘Angels’: How Islamic is Muslim Dream Interpretation?",
+      "relevance": "Artemidorus’ta ‘angelos/angel’ benzeri figürlerin nasıl işlev gördüğünü tartışır; bu, melek sembolünün antik rüya yorumundaki yerini anlamaya yardımcı olur.",
+      "url": "https://academic.oup.com/jis/article/22/2/215/798175"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un profesyonel bir rüya yorumcusu olarak kapsamını ve antik rüya yorum geleneğindeki yerini özetler; melek temasını tarihsel rüya manualı bağlamına yerleştirir.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un korunmuş rüya kılavuzunun İngilizce çevirisine erişim sağlar; melek benzeri ilahi figürlerin tarihsel yorumunu izlemek için temel metin sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "The Gods | An Ancient Dream Manual - Oxford Academic",
+      "relevance": "Artemidorus’un rüyalarda tanrılar, ilahi köken ve sınıflandırma yaklaşımını ele alır; melek sembolünü daha geniş tarihsel ilahi aracı figürler çerçevesinde düşünmeye yardım eder.",
+      "url": "https://academic.oup.com/book/40085/chapter-abstract/341038245?redirectedFrom=PDF"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri M Harfi",
+      "relevance": "Klasik İslamî rüya tabirleri bağlamında 'melek' maddesinin aktarımlarını sunar; meleğin konuşması, vermesi ve görünüşü gibi ayrıntıların geleneksel yorumdaki anlamlarını gösterir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-m-harfi.html"
+    },
+    {
+      "title": "37.ibni sÎrÎn | PDF",
+      "relevance": "'Ferişteh (melek)' maddesinde meleğin görülmesini helâl mal ve ailevi bereketle ilişkilendiren bir aktarım içerir.",
+      "url": "https://www.scribd.com/document/883606681/37-ibni-sIrIn"
+    },
+    {
+      "title": "Şeyh Ali'nin Ta'bîrnâme'sinde Rüya Türleri ve Hayvan Motifleri Dream Types and Animal Motifs in Sheik Ali's Book of Dream Interpretation",
+      "relevance": "Şeyh Ali’nin ta'bîrnâmesinde melekü’r-rüyâ ve rüyada melek görevlendirilmesi üzerinden müjde ve gelecek hayrı temasını açıklar.",
+      "url": "https://nesir-en.samsun.edu.tr/wp-content/uploads/sites/127/2022/04/YILMAZO%CC%88-BU%CC%88YU%CC%88KS%CC%A7EKERCI%CC%87A-S%CC%A7eyh-Ali-Tabirnamesi-2.pdf"
+    },
+    {
+      "title": "Angels Islamic Interpretations & Meanings",
+      "relevance": "Meleklerin inişi, secde etmesi ve topluca görünmesi gibi sahneleri zafer, ihtiyaçların karşılanması ve fitneyle ilişkilendirir.",
+      "url": "https://www.myislamicdream.com/angels.html"
+    },
+    {
+      "title": "Angel Taking Soul Islamic Interpretations & Meanings",
+      "relevance": "Meleklerin savaş alanı, korku, çocuk/genç/yaşlı formu ve dua etmesi gibi ayrıntıları zaman, zafer ve toplumsal gerilim bağlamında açıklar.",
+      "url": "https://www.myislamicdream.com/angel_taking_soul.html"
+    },
+    {
+      "title": "When Angels Appear in Your Dreams",
+      "relevance": "Rüyalarda meleklerin ortaya çıkışını Tanrı’nın dikkatini, sevgi hissini ve mesajın insanı Tanrı’ya yöneltmesini vurgulayan Hristiyan inanç çerçevesinde ele alır.",
+      "url": "https://www.beliefnet.com/inspiration/angels/2007/03/when-angels-appear-in-your-dreams.aspx"
+    },
+    {
+      "title": "Biblical Meaning Of Angels In Dreams",
+      "relevance": "Melek rüyasını Hristiyan yorum içinde koruma, rehberlik, teselli ve ilahî müdahale temalarıyla ilişkilendirir.",
+      "url": "https://evangelistjoshua.com/dream-about-angels/"
+    },
+    {
+      "title": "Berakhot 10.a",
+      "relevance": "Talmud'da rüya, melek ve rüya otoritesi ilişkisine değinen pasajlar içerir; bu metinler melek görünmesinin rüya kaynağı/otoritesi bağlamında nasıl değerlendirilebileceğine dair tarihsel bir referans sunar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/10.a"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Yahudi rüya geleneğinde rüyaların anlamı, karışıklığı ve yorumun rolü üzerine genel çerçeve sunan Talmud incelemesi.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "ANGELS? | BUDDHA IN THE MUD is a blog",
+      "relevance": "Budist kavramlarla melek benzetmesi yapan modern bir açıklama; dakini ve \"sky dancer\" (gökyüzü dansçısı) üzerinden sembolik eşleştirme kuruyor.",
+      "url": "https://buddhainthemud.com/2014/12/15/angels/"
+    },
+    {
+      "title": "Angelic Visions in Buddhism",
+      "relevance": "Budist bakış açısıyla melek görülerini bodhisattva fikriyle karşılaştıran bir yorum yazısı; koruyucu ve ışıklı figürlerin sembolik okunmasına kapı açıyor.",
+      "url": "https://www.dantemag.com/2015/12/angelic-visions-in-buddhism/"
+    },
+    {
+      "title": "[PDF] Dream Interpretation in Buddhism and Contemporary Psychotherapy",
+      "relevance": "Budist rüya yorumunda dış güçler ve \"melekler ya da iblisler\" gibi figürlerin rüya içeriğinde anlam taşıyabileceğini aktaran akademik PDF.",
+      "url": "https://thecjbs.org/wp-content/uploads/2025/04/McCullough-Shiu_Dreaming-Buddha_19.pdf"
+    },
+    {
+      "title": "Awakening Through Dream",
+      "relevance": "Tibet Budizmi rüya yogası pratiğinde Buddha/guru yönelimi ve Chenrezig görselleştirmesi üzerinden koruyucu-aydınlatıcı varlıkların rüya pratiğindeki yerini gösteriyor.",
+      "url": "https://www.lionsroar.com/awakening-through-dream/"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist rüya yaklaşımında tehlikeden korunma, güzellik ve yükselme gibi sembolleri ele alan bir kaynak; koruyucu figürlerin bağlamını destekliyor.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Characteristics and types of dreams according to the Buddhist ...",
+      "relevance": "Budist yorum geleneğinde rüyadaki ilahî/esin verici varlıkların niyet ve bağlama göre değerlendirildiğini aktarıyor.",
+      "url": "https://so11.tci-thaijo.org/index.php/JCBS/article/view/1345"
+    },
+    {
+      "title": "What Are Angels? - bdbuddha",
+      "relevance": "Budizmde melek kavramının bodhisattva, deva ve koruyucu işlev gören varlıklarla ilişkilendirilebileceğini anlatan açıklayıcı yazı.",
+      "url": "https://bdbuddha.com/2014/03/23/what-are-angels/"
+    },
+    {
+      "title": "Celestial Beings In Buddhism: What The Sutras Say About The Devas",
+      "relevance": "Sutralarda devasların ışıklı, koruyucu ve etik pratiği çağrıştıran varlıklar olarak tasvirini özetliyor; melek sembolüne Budist kozmoloji içinden yakın bir çerçeve sunuyor.",
+      "url": "https://anjosehistoriassagradas.com/en/celestial-beings-in-buddhism-what-the-sutras-say-about-the-devas/"
+    },
+    {
+      "title": "Dreaming about an angel — meaning in three traditions",
+      "relevance": "Rüyada melek temasını doğrudan ele alıyor; sembolü rehberlik, koruma ve bilinçdışından gelen mesajlarla ilişkilendiriyor.",
+      "url": "https://www.nocturnary.com/symbols/angel"
+    },
+    {
+      "title": "Angel in dreams — meaning and symbolism",
+      "relevance": "Melek sembolünü ezoterik yorum içinde açık biçimde koruma, yükselmiş farkındalık ve ruhsal yönlendirme ile ilişkilendiriyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/angel"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
+}

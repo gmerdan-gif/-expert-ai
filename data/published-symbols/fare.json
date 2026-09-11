@@ -1,112 +1,232 @@
 {
   "slug": "fare",
   "title": "fare",
-  "shortDescription": "Rüyada fare görmek, küçük ama ısrarlı kayıpları, gizlice gelişen sorunları veya yakın çevredeki huzursuzlukları simgeler. Çok sayıda fare ise bazı geleneksel yorumlarda evde hareketlilik, kâr ve refah artışıyla ilişkilendirilir.",
+  "shortDescription": "Rüyada fare görülmesi, küçümsenmeyen fakat psişik düzeyde derin izler bırakabilen gizli kaygılar, kemirici düşünceler, ev içi ilişkiler ve görünmez detaylara dikkat çekmesiyle ilişkilendirilebilir.",
   "positiveAssociations": [
-    "Kâr ve refah artışı",
-    "Maddi bolluk ve koruyucu sembolizm",
-    "Zorlu koşullarda hayatta kalma ve uyum sağlama yeteneği"
+    "dayanıklılık ve hayatta kalma becerisi",
+    "gözden kaçan ayrıntıları fark etme",
+    "maddi bolluk ve rızık potansiyeli",
+    "alçakgönüllülük ve uyum sağlama",
+    "keskin sezgisel dikkat"
   ],
   "challengingAssociations": [
-    "Küçük ama ısrarlı zararlar",
-    "Gizli çürüme ve ahlaki bozulma",
-    "Huzursuz zihin, arzu ve egonun kontrolsüzlüğü"
+    "gizli tehditler ve sinsi zararlar",
+    "zihni kemiren suçluluk ve kaygılar",
+    "küçük ama yıpratıcı psişik etkiler",
+    "kirlenme, fitne ve çürüme hissi",
+    "enerji tüketen, huzursuz edici detaylar"
   ],
   "contextDependentAssociations": [
-    "Hane halkı, eş ve çocuklar",
-    "Hırsızlık veya gizli mal kayıpları",
-    "Neden-sonuç ilişkileri ve ahlaki sonuçlar"
+    "Ev içinde hareket eden farenin paylaşılan yaşam alanını ve yakın çevreyi temsil etmesi",
+    "Farenin eşyaları kemirmesi veya elbiseyi kesmesi, zamanın akışı ve geçmişin izlerine işaret edebilir.",
+    "Gündüz görülen hareket ile gece hissedilen huzursuzluk arasındaki psikolojik ayrım",
+    "Kültürel bağlama göre farenin refah simgesi mi yoksa zararlı bir unsur mu olarak algılandığı değişir."
   ],
   "commonVariations": [
     {
-      "title": "Evde Çok Sayıda Fare Görmek",
-      "description": "Ev ortamında birden fazla fare görmek, geleneksel yorumlarda hane halkı, günlük yaşamdaki hareketlilik veya refah artışı gibi farklı bağlamlarla ilişkilendirilir."
+      "title": "Ev İçinde Dolaşan Fare",
+      "description": "Rüya sahibinin yakın çevresinde, ortak yaşam alanında veya günlük rutinlerinde göz ardı ettiği ancak sürekli varlık gösteren küçük bir meseleyi simgeler."
     },
     {
-      "title": "Farenin Eşyaları Kemirmesi",
-      "description": "Bir farenin küçük nesnelere veya eşyalara zarar verdiğini görmek, hayatın içindeki küçük ama sinsi kayıplara, gizli aksaklıklara veya biriken ihmallere işaret eden bir imgedir."
+      "title": "Eşyaları Kemiren Fare",
+      "description": "Zamanın akışını, hayatın kırılganlığını veya kişinin zihnini yavaş yavaş kemiren, farkında olmadan enerji tüketen kronik endişeleri yansıtır."
     },
     {
-      "title": "Fareye Binmek veya Kontrol Etmek",
-      "description": "Doğu mitolojisindeki binek motiflerinden ilhamla, huzursuz zihinsel dürtülerin, arzuların veya egonun farkına varılması ve bunlar üzerinde denge kurulması temasını taşır."
+      "title": "Karanlıkta Görülen Gri Fare",
+      "description": "Bilinçdışının karanlık katmanlarından süzülüp gelen, suçluluk duyguları ya da bastırılmış psişik içeriklerle yüzleşme ihtiyacını ifade eder."
     },
     {
-      "title": "Hazine Getiren Fare Motifi",
-      "description": "Asya geleneklerindeki koruyucu ve zenginlik getiren simgesel tasvirlere benzer şekilde, beklenmedik maddi imkanların veya korunan değerlerin gündeme gelmesini simgeler."
+      "title": "Küçük ve Görünmez Bir Ayrıntıya Odaklanma",
+      "description": "Kişinin uyanık yaşamında büyük resme odaklanırken kaçırdığı, ancak ihmal edildiğinde büyüyebilecek küçük ama kritik detaylara işaret eder."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslami rüya geleneklerinde fare, hırsız, düşkün ve günahkâr bir kadın, başkalarının mahremiyetini kurcalayan kişiler ya da ev halkı ve çocuklarla ilişkilendirilir.",
-  "christianTraditions": "Hristiyan sembolizminde fare, doğrudan bir rüya tabiri geleneği olmamakla birlikte, kutsal metin ve topluluk bağlamında murdarlık, gizli çürüme ve ilahi yargı temalarıyla birlikte anılan bir hayvan olarak yer alır.",
-  "jewishTraditions": "Yahudi kaynaklarında fare, küçük nesneleri taşıyan ve götüren bir varlık olarak betimlenir; bu imge kültürel ve dilsel düzlemde hırsızlık, cimrilik ve mal saklama tasvirleriyle ilişkilendirilir.",
-  "buddhistEasternApproaches": "Budist ve Doğu geleneklerinde fare farklı anlam katmanlarına sahiptir. Budist anlatılarda küçük ama zararlı etkilerin neden olduğu ahlaki sonuçları simgelerken, Hindu mitolojisinde Ganeşa'nın bineği (Mushika) aracılığıyla huzursuz zihni, arzuları ve egoyu temsil eder. Tibet Budizmi geleneğinde ise hazine getiren fare motifiyle maddi bolluk ve koruyucu sembolizm arasında bağ kurulur.",
-  "spiritualApproaches": "",
+  "psychology": "Rüya içerik analizi yaklaşımı, rüyalardaki hayvan imgelerini sabit ve evrensel anlamlar yerine frekans, bağlam ve duygusal ton örüntüleri içinde inceler. Uykudaki göz hareketleri ile rüya dünyasındaki algısal odak değişimleri arasındaki paralellikler, rüya içeriğinin zihinsel bir izleme süreci barındırdığını gösterir. Hayvan figürlerinin rüyalardaki varlığı, kişinin o anki duygusal sürekliliğine ve bağlamsal koşullarına göre şekillenir.",
+  "jungian": "Jungcu derinlik psikolojisinde fare, karanlık, gece, dişil verimlilik ve bilinçdışının gölge yönleriyle ilişkilendirilir. Gri bir fare, genellikle ruhun karanlık doğasıyla bağlantılı olan ve geceleri zihni huzursuz eden 'kemirici düşünceleri' temsil eder. Küçüklüğüne rağmen psişik açıdan önem taşıyan bu imge, bilinçdışından gelen ancak ego tarafından küçümsenen bir benlik parçasını veya bastırılmış enerjiyi görünür kılar.",
+  "islamicTradition": "Klasik tabir kaynaklarında fare sembolü birden çok farklı yorumla ele alınmaktadır. Bazı aktarımlarda evde dolaşan fareler rızkın çokluğuna ve devamlılığına işaret ederken, farenin elbiseyi kesmesi ömrün geçişine veya geçmiş izlere bağlanır. Bunun yanı sıra bazı yorumlarda hırsız, fitne unsuru veya gizli zarar verebilecek durumlarla da ilişkilendirilmiştir.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde fare, doğrudan bir rüya kuralından ziyade kutsal metinlerdeki arınmamışlık, yıkım ve gizli tehdit çağrışımlarıyla okunur. Modern Hristiyan yorumlarında fare, olumlu düzlemde keskin farkındalık ve uyum sağlama becerisini simgelerken, olumsuz düzlemde çekingenlik, kirlilik, ruhsal körlük ve günah temalarını çağrıştırabilir.",
+  "jewishTraditions": "Talmudik rüya pasajlarında fareye dair doğrudan ve standartlaştırılmış bir rüya tabiri kaydı bulunmamaktadır. Ancak genel Yahudi sembolizminde hayvan imgeleri üzerinden yapılan çıkarımlar, rüya bağlamının kişisel ve toplumsal ahlaki durumla birlikte değerlendirilmesi gerektiğini hatırlatır.",
+  "buddhistEasternApproaches": "Budist ve Doğu geleneklerinde fare, bazen küçük ama yıkıcı sonuçlar doğuran yıpratıcı etkilerin mecazı olarak ele alınır. Çin ve Tibet bağlantılı anlatılarda ise on iki hayvanlı takvim döngüsü içinde yer almasının yanı sıra, 'iki fare' motifiyle zamanın hızlı akışını ve yaşamın kırılganlığını simgeler; bazı ritüel bağlamlarda ise bereketle ilişkilendirilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda fare; sessiz gözlem, çeviklik, alçakgönüllülük ve görünmez emek kavramlarıyla bağdaştırılır. Rüyada fareyle karşılaşmak, gözden kaçan küçük endişelerin, kenarda duran detayların ya da hayatta kalma ve uyum sağlama içgüdüsünün sezgisel bir hatırlatıcısı olarak yorumlanır.",
   "comparisonTable": [
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Hırsız, ev halkı, günahkâr kimse veya refah artışı gibi çok yönlü toplumsal ve ahlaki anlamlar barındırır.",
+      "approach": "Psikolojik İçerik Analizi",
+      "interpretation": "Fare imgesini sabit bir anlam yerine duygusal ton, frekans ve bağlamsal örüntüler çerçevesinde inceler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungcu Derinlik Psikolojisi",
+      "interpretation": "Fareyi gölge, ruh imgesi, kemirici düşünceler ve bilinçdışının küçümsenen parçaları olarak ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami ve Klasik Gelenek",
+      "interpretation": "Fareyi rızık, ömür, hırsız veya fitne gibi çok yönlü ve bağlama göre değişen simgelerle ilişkilendirir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan ve Yahudi Sembolizmi",
-      "interpretation": "Murdarlık, gizli çürüme, cimrilik ve küçük nesnelerin kaybolması gibi didaktik imgelerle ele alınır.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Doğu ve Budist Yaklaşımlar",
-      "interpretation": "Zihinsel huzursuzluk, ego dürtüleri, küçük ama kalıcı zararlar veya hazine ve bolluk sembolizmi olarak okunur.",
-      "evidenceLevel": "traditional"
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Fareyi sessiz gözlem, gizli kaygılar, hayatta kalma becerisi ve gözden kaçan detaylar üzerinden yorumlar.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı kültür ve geleneklerde fare, fiziksel olarak küçük boyutuna rağmen bıraktığı etkilerin büyüklüğü, gizli hareket etme yeteneği ve yaşam alanlarıyla kurduğu yakın ilişki üzerinden benzer edebi ve sembolik izlekler taşır.",
-  "differences": "İslami yorumlar rüya sahibinin yakın çevresini, hane halkını ve ahlaki durumunu ön plana alırken; Hristiyan ve Yahudi metinleri daha çok genel murdarlık veya cimrilik tasvirlerine odaklanır. Doğu geleneklerinde ise zihinsel arzuların aşılması veya maddi bolluk gibi daha felsefi ve ikonografik eksenler ağırlktadır.",
-  "inusAssessment": "Fare sembolü, tek tip bir anlamdan uzaktır; çünkü hem zarar, gizlilik ve çürüme gibi olumsuz algıları hem de çoğalma, refah ve zihinsel denge gibi yapıcı motifleri aynı anda barındırır. Bu nedenle rüyadaki farenin bağlamı, rüya sahibinin zihnindeki hangi gerilim alanına dokunduğuna bağlı olarak değerlendirilmelidir.",
+  "commonGround": "Farklı yaklaşımlar incelendiğinde, fare sembolünün doğası gereği büyük ve gürültülü unsurlardan ziyade, ilk başta gözden kaçan ancak zamanla etkisini hissettiren küçük detaylarla ilişkilendirildiği görülür. İster psikolojik bir gölge parçası, ister geleneksel tabirlerdeki rızık veya gizli unsur olsun, fare her zaman dikkat gerektiren ama sıklıkla ihmal edilen bir boyuta işaret eder.",
+  "differences": "Temel ayrım, yaklaşımların bu küçük imgeye yüklediği değerde ortaya çıkar. Bilimsel psikoloji ve içerik analizi imgeye sabit bir anlam vermezken, Jungcu yaklaşım onu içsel bir psişik içerik veya düşünce olarak ele alır. Geleneksel ve dini okumalar ise farenin rüyada nerede ve nasıl göründüğüne bağlı olarak dışsal olaylara, rızka veya gizli tehditlere yönelik daha belirgin simgesel karşılıklar öne sürer.",
+  "inusAssessment": "Fare sembolü, fiziksel olarak küçük ve sessiz olmasına rağmen rüya düzleminde yarattığı rahatsız edici ya da dikkat çekici kontrastla öne çıkar. Bu rüyayı yorumlarken en kritik eşik, farenin nerede konumlandığı ve rüya sahibinde uyandırdığı duygusal tondur; ev içinde paylaşılan alanlardaki varlığı yakın çevredeki küçük ama kemirici bir meseleyi işaret edebilirken, zihinsel arka plandaki konumu ihmal edilen kaygılara ışık tutar. Dolayısıyla fare rüyası, büyük krizlerden ziyade gözden kaçan detayların fark edilmesini gerektiren özgül bir uyarıcı işlevi görür.",
   "faq": [
     {
-      "question": "Rüyada fare görmek her zaman zarara mı işaret eder?",
-      "answer": "Hayır. Geleneksel kaynaklarda fare her ne kadar gizli zarar veya hırsızlık gibi temalarla anılsa da, bazı İslami yorumlarda çok sayıda fare görülmesi kâr ve refah artışı olarak da değerlendirilmiştir."
+      "question": "Rüyada fare görmek kesinlikle kötü bir olaya mı işaret eder?",
+      "answer": "Hayır. Fare sembolü tek ve sabit bir anlama sahip değildir. Bağlama göre gizli kaygıları ve tehditleri çağrıştırabileceği gibi, bazı geleneklerde rızık, dayanıklılık veya gözden kaçan küçük detayların fark edilmesine yönelik bir uyarı olarak da ele alınabilir."
     },
     {
-      "question": "Fare sembolü psikolojik olarak neyi temsil edebilir?",
-      "answer": "Doğu ve mitolojik geleneklerde fare, zihinsel huzursuzlukların, kontrolsüz arzuların veya egonun bir temsili olarak görülür; bu yorumlar modern ampirik psikolojiden ziyade geleneksel yorumlama çerçevesine aittir."
+      "question": "Fare rüyasını yorumlarken en çok hangi detaylara dikkat edilmelidir?",
+      "answer": "Farenin nerede görüldüğü (örneğin ev içi mi, karanlık bir alan mı), rüya esnasında hissedilen duygu (korku, rahatsızlık, şaşkınlık veya sakinlik) ve farenin yaptığı eylem (kemirmek, oynaşmak veya saklanmak) yorumun yönünü belirleyen en önemli unsurlardır."
     }
   ],
   "sources": [
     {
-      "title": "A good coming and a bad coming : the dual symbolic roles of mice in ancient Egyptian representations",
-      "relevance": "Eski Mısır temsil ve sembolizminde farenin ikili anlamını, özellikle doğurganlık ve hastalık çağrışımlarını inceleyen çalışma.",
-      "url": "https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0343519"
+      "title": "A New Test for an Old Theory About Dreams | Blumberg Lab",
+      "relevance": "Farelerde uyku sırasındaki göz hareketlerinin rüya içeriğine dair ipuçları taşıyabileceğini anlatan bilim haberi özeti.",
+      "url": "https://blumberg.lab.uiowa.edu/sites/blumberg.lab.uiowa.edu/files/2022-11/A%20New%20Test%20for%20an%20Old%20Theory%20About%20Dreams%20-%20The%20Atlantic.pdf"
     },
     {
-      "title": "Mice Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya geleneğinde farenin hırsız, günahkâr kadın, ev halkı ve refahla ilişkili yorumlarını derleyen çevrimiçi kaynak.",
-      "url": "https://www.myislamicdream.com/mice.html"
+      "title": "DreamResearch.net: Internet Content Analysis",
+      "relevance": "Rüya içerik analizinin kategori, frekans ve karşılaştırma temelli yöntemini açıklayan akademik kaynak.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2004a.html"
+    },
+    {
+      "title": "Typical images of animals in dreams: Results from a content ...",
+      "relevance": "Rüyalardaki hayvan imgelerini içerik analizi ile inceleyen çalışma kaydı.",
+      "url": "https://psycnet.apa.org/record/2023-54046-001"
+    },
+    {
+      "title": "Dreams with animals in psychotherapeutic process",
+      "relevance": "Rüya duyguları ve hayvan imgeleri arasında bağ kuran klinik-yorumlayıcı çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/83826"
+    },
+    {
+      "title": "Dream Distortion - The Interpretation of Dreams - Freud Museum London",
+      "relevance": "Freud’un rüya bozulması ve gizlenmiş istek doyumu fikrini özetler; fare sembolü için doğrudan değil, Freudcu rüya okumasının temel çerçevesi için yararlıdır.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/dream-distortion/"
+    },
+    {
+      "title": "An Introduction and Brief Overview of Psychoanalysis - PMC",
+      "relevance": "Freud’un rüyalarda bilinçdışı istekler ile açık/gizli içerik ayrımına dair temel yaklaşımını özetler; fare sembolü için kontrollü bir psikanalitik sentez yapılmasına olanak sağlayan arka plan sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10575551/"
+    },
+    {
+      "title": "Carl Jung: What Eros wants is to make man ask a question. To ...",
+      "relevance": "Fareyi karanlık, gece ve verimlilik çağrışımlarıyla ilişkilendiren Jungcu pasaj.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/09/08/eros-6/"
+    },
+    {
+      "title": "The Mouse is a Soul Animal.",
+      "relevance": "Fareyi ruhun karanlık doğası ve kemirici düşüncelerle ilişkilendiren Jungcu pasaj.",
+      "url": "https://carljungdepthpsychologysite.blog/2024/08/23/mouse/"
+    },
+    {
+      "title": "Quotations from Carl Jung Seminars with Citations",
+      "relevance": "Fareyi ‘ruh-fare’ ve gece ruhu anlatısıyla ilişkilendiren Jungcu seminer alıntısı.",
+      "url": "https://carljungdepthpsychologysite.blog/2022/02/09/seminars-2/"
+    },
+    {
+      "title": "god | We have ideas about the godlikeness of man and forget about the gods.",
+      "relevance": "Fareyi cinselliğin küçültülmüş bir sembolik temsili olarak ele alan Jungcu pasaj.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/09/07/god-30/"
+    },
+    {
+      "title": "Help interpreting a dream about a mouse and a long sleep.",
+      "relevance": "Fare içeren bir rüya örneğine verilen Jungcu yorum, küçük ve ihmal edilen benlik parçasına dikkat çekiyor.",
+      "url": "https://www.reddit.com/r/Jung/comments/79hu92/help_interpreting_a_dream_about_a_mouse_and_a/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Fareyi rüyada görülen bir işaret olarak ev kölesiyle ilişkilendiren klasik oneirokritik pasaj.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "ANIMAL SYMBOLISM IN ANCIENT AND MEDIEVAL ...",
+      "relevance": "Fare sembolünün Slav ve Çin kültürel bağlamlarında nasıl değişken anlamlar taşıyabildiğine dair kültürel-sembolik çözümleme.",
+      "url": "https://www.etd.ceu.edu/2018/vujnovic_milica.pdf"
+    },
+    {
+      "title": "Mouse, Rochester Bestiary, c.1230 — Kent History ...",
+      "relevance": "Fareyi Ortaçağ Hristiyan sembolizminde kirlilik, çürüme ve ahlaki bozulma ile ilişkilendiren tarihsel kültürel anlatım.",
+      "url": "https://www.kentarchaeology.org.uk/records/rochester-bestiary-mouse"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri F Harfi - Muhammed.net",
+      "relevance": "Fare için Nablusî’ye atfedilen yorumları aktarır; rızık, fitneci kadın, hırsız ve ömürle ilgili anlamlar sunar.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-f-harfi.html"
+    },
+    {
+      "title": "Mouse - Joshua Media Ministries Int'l. - Apostle David E. Taylor [Official Site]joshuamediaministries.org › dreams › mouse",
+      "relevance": "Rüyada fare için Hristiyan çevrede kullanılan modern bir yorum çerçevesi sunar; olumlu ve olumsuz çağrışımları birlikte verir.",
+      "url": "https://joshuamediaministries.org/dreams/mouse/"
+    },
+    {
+      "title": "Dreaming about Mice: Biblical Dream Interpretation | Christian Pure",
+      "relevance": "Farelerin Kutsal Kitap’taki konumunu ve buradan türetilen Hristiyan rüya yorumunu bir arada tartışır; doğrudan rüya metni içermediğini de belirtir.",
+      "url": "https://christianpure.com/learn/mice-biblical-dreams/"
     },
     {
       "title": "Mouse - Topical Bible",
-      "relevance": "İncil bağlamında fareyi murdarlık ve ilahi yargı temalarıyla ilişkilendiren özet.",
+      "relevance": "Fareyi Kutsal Kitap bağlamında arınmamışlık ve yargı temalarıyla ilişkilendirir; sembolik Hristiyan okuma için arka plan sağlar.",
       "url": "https://biblehub.com/topical/m/mouse.htm"
     },
     {
-      "title": "MOUSE - JewishEncyclopedia.com",
-      "relevance": "Yahudi ansiklopedisinde fareyi küçük nesneleri taşıma, cimrilik ve mal saklama imgeleriyle ilişkilendiren madde.",
-      "url": "https://www.jewishencyclopedia.com/articles/11192-mouse"
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Berakhot’taki rüya pasajlarının yer aldığı Talmud sayfası; Yahudi rüya yorumunun genel çerçevesini kontrol etmek için temel metin.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
     },
     {
       "title": "Mouse: Significance and symbolism",
-      "relevance": "Budist metinlerde farenin küçük ama zararlı etkilerini ve neden-sonuç ilişkisi bağlamındaki kullanımını ele alan değerlendirme.",
+      "relevance": "Budizm bağlamında farenin sembolik anlamını ve zararlı etki/nedensellik ilişkisini özetleyen çevrim içi derleme sayfa.",
       "url": "https://www.wisdomlib.org/concept/mouse"
     },
     {
-      "title": "Rat in Hindu mythology - Bihar Times",
-      "relevance": "Hindu mitolojisinde Ganeşa'nın bineği üzerinden farenin arzu, ego ve zihinsel huzursuzluk temalarındaki rolünü açıklayan yazı.",
-      "url": "http://www.bihartimes.in/maneka/rats.html"
+      "title": "佛教中的老鼠喻義 從十二生肖說起",
+      "relevance": "Çin Budist bağlamında fareyi on iki hayvanlı döngü ve ilgili kültürel sembolizm içinde ele alan çalışma.",
+      "url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag602943.pdf"
     },
     {
-      "title": "佛教中的老鼠喻義 從十二生肖說起",
-      "relevance": "Tibet Budizmi ve ilgili ikonografide farenin zenginlik, hazine ve koruyucu sembolizm bağlamında ele alınışını inceleyen makale.",
-      "url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag602943.pdf"
+      "title": "Mushika, Mūsika, Musika, Mūṣika, Muṣika, Mūsīkā, Mūṣikā ...",
+      "relevance": "Budist ve ilgili Sanskritçe kullanım içinde fare/muṣika terimini, anlatı ve ritüel bağlamlarıyla birlikte sunan kaynak.",
+      "url": "https://www.wisdomlib.org/definition/mushika"
+    },
+    {
+      "title": "鼠與佛教也是“緣分不淺”！",
+      "relevance": "Budist aktarımda ‘iki fare’ mecazı ile Tibet Budizmiyle ilişkilendirilen ‘tükenmeyen/servet saçan fare’ sembolünü aktaran Çince kaynak.",
+      "url": "http://wap.xuefo.tw/show1.asp?id=610207"
+    },
+    {
+      "title": "The Cat and the Mice",
+      "relevance": "Fareyi Buda’nın geçmiş yaşam biçimlerinden biri olarak anlatan Jataka geleneği örneği.",
+      "url": "http://www.storyandreligion.div.ed.ac.uk/wp-content/uploads/2015/08/The-Cat-and-the-Mice.pdf"
+    },
+    {
+      "title": "Mouse - Symbolism, Meaning & Spirit Animal",
+      "relevance": "Fareyi dayanıklılık, sessiz gözlem ve gözden kaçan ayrıntılarla ilişkilendiren modern spiritüel/simgesel bir okuma sunar; rüya bağlamında küçük kaygıların veya fark edilmemiş bir meselenin öne çıkabileceğini söyler.",
+      "url": "https://mymythos.org/archetype/mouse/"
+    },
+    {
+      "title": "Spiritual Meaning of Mice in a Dream: Jungian ...",
+      "relevance": "Fare rüyasını sezgisel/spiritüel düzlemde küçük ama önemli işaretler, görünmeyen kaygılar ve hayatta kalma becerisiyle ilişkilendiren modern bir açıklama sunar; rüya bağlamında küçük kaygıların veya fark edilmemiş bir meselenin öne çıkabileceğini belirtir.",
+      "url": "https://www.selfgazer.com/blog/mice-dream-spiritual-meaning"
+    },
+    {
+      "title": "What Does it Mean When You Dream About Mice?",
+      "relevance": "Fareyi rüyada küçük tehditler, gözden kaçan sorunlar ve ihmal edilirse büyüyebilecek meselelerle ilişkilendirir; ayrıca alçakgönüllülük ve değişim temalarına değinir.",
+      "url": "https://www.centreofexcellence.com/dreaming-about-mice/"
+    },
+    {
+      "title": "Mouse Symbolism & The Spiritual Meanings Of Seeing Mice",
+      "relevance": "Fare rüyasını sezgisel/spiritüel düzlemde küçük ama önemli işaretler, görünmeyen kaygılar ve hayatta kalma becerisiyle ilişkilendiren popüler bir yorum sunar.",
+      "url": "https://www.yourtango.com/self/mouse-symbolism-spirit-animal"
+    },
+    {
+      "title": "Mouse or Mice in Dream: Meaning & Interpretation",
+      "relevance": "Fareyi rüya bağlamında küçük, gözden kaçan ama rahatsız edici meselelerin simgesi olarak ele alır; ezoterik okuma için yararlı olabilecek genel sembolik çağrışımlar verir.",
+      "url": "https://mindberg.org/insights/mouse-in-dream/"
     }
   ],
   "relatedSlugs": []

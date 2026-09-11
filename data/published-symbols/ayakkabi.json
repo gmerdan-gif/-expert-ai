@@ -1,161 +1,204 @@
 {
   "slug": "ayakkabi",
   "title": "ayakkabı",
-  "shortDescription": "Rüyada ayakkabı görmek, kimlik, toplumsal konum ve hayattaki geçişlerle ilişkilendirilebilir. Ayakkabının türü ve durumu koruma ve geçmiş yaşantıları; ayakkabıyı çıkarmak ise saygı, rahatlama veya gündelik rolleri geride bırakma temalarını öne çıkarabilir.",
+  "shortDescription": "Rüyada ayakkabı görmek, benlik ile dış dünya arasındaki sınır, sosyal roller, yaşam yolculuğu ve bedensel temas gibi katmanlı anlamlar barındıran bağlama dayalı bir semboldür.",
   "positiveAssociations": [
-    "Sosyal statü ve aidiyet göstergesi",
-    "Yolculuğa ve yeni yaşam evrelerine hazırlık",
-    "Dünyevi yaşamda koruma ve güven hissi",
-    "Sadelik, arınma ve disiplinli duruş (özellikle manastır bağlamlarında)"
+    "Yaşam yolculuğunda ilerleme ve hazırlık",
+    "Sosyal dünyada uyum ve kabul",
+    "Yeni bir yönelime adım atma",
+    "Destek ve koruma hissi"
   ],
   "challengingAssociations": [
-    "Aşağılanma, yoksulluk veya utanç hissi",
-    "Uygun olmayan rol veya konuma sıkışma",
-    "Dünyevi meşguliyetlere aşırı bağlanma",
-    "Kişinin temsil edildiği alandan veya kimlik unsurundan yoksun kalma teması"
+    "Dar ayakkabının yarattığı sıkıntı ve borç",
+    "Eski ayakkabının işaret ettiği fakirlik veya üzüntü",
+    "Uyumsuzluk, kayıp ve kimlik krizi",
+    "Ölüm çağrışımı taşıyan istisnai durumlar"
   ],
   "contextDependentAssociations": [
-    "Ayakkabıyı çıkarmak bir mekâna duyulan saygıyı veya benliği geçici olarak askıya almayı simgeleyebilir; Budist ve bazı Doğu uygulamalarında arınma ve ritüel adabı ile bağlantılıdır.",
-    "Ayakkabının türü (günlük, spor, manastır tipi vb.) sembolün toplumsal kimlik, spor ve aidiyet ya da manevi disiplin gibi farklı vurgu ve bağlamlara işaret etmesine neden olur.",
-    "Ayakkabının eskimesi, yıpranması veya kaybolması kişisel biyografi, kullanım geçmişi ve toplumsal statü katmanlarına işaret edebilir."
+    "Ayakkabının dar, bol, eski, yeni, ters veya kaybolmuş olması",
+    "Ayakkabının giyilip çıkarıldığı anlar ve bağlamdaki eşikler",
+    "Rüyayı gören kişinin duygusal tonu ve nesneyle kurduğu gündelik ilişki"
   ],
   "commonVariations": [
     {
-      "title": "Eski veya yıpranmış ayakkabılar giymek",
-      "description": "Kişisel tarihin, yaşanmışlıkların ve geçmiş dönemlere ait kimlik izlerinin maddi bir yansıması olarak okunabilir; maddi kültür çalışmalarında bu tür nesneler aidiyet ve belleğe bağlanır."
+      "title": "Dar Ayakkabı Giymek",
+      "description": "Günlük hayatta üstlenilen rollerin kişiye dar gelmesi, sıkıntı, borç veya sosyal baskı hissiyle ilişkilendirilen bir uyumsuzluk durumudur."
     },
     {
-      "title": "Kutsal bir mekâna girerken ayakkabıları çıkarmak",
-      "description": "Dünyevi kaygıları ve gündelik rollerin getirdiği meşguliyetleri geride bırakma, hürmet gösterme ve ibadet alanına uygunluk jesti olarak değerlendirilir; Budist literatürde bu davranış ritüel adabın bir parçası olarak yer alır."
+      "title": "Ayakkabıyı Kaybetmek",
+      "description": "Yön duygusunu yitirme, bireyleşme sürecinde yaşanabilecek bir duraklama veya kişinin güven hissinin zedelenmesi temalarını barındırır."
     },
     {
-      "title": "Tek bir ayakkabıyı kaybetmek veya tek ayakkabı ile kalmak",
-      "description": "Ayakkabının giyeni temsil etme işlevi göz önüne alındığında, tek ayakkabının eksikliği temsil ve yokluk temalarını çağrıştırabilir. Bu tür yorumlar doğrudan somut vaka örnekleriyle sunulmamıştır; anlamı bağlama göre değişir."
+      "title": "Eski Ayakkabı Görmek",
+      "description": "Geçmişte kalmış kalıplar, eskimeye yüz tutmuş sosyal roller ve keder gibi temalarla birlikte ele alınır."
     },
     {
-      "title": "Farklı türde spor ayakkabıları görmek",
-      "description": "Modern bağlamlarda spor ayakkabıları sosyal kimlik, spor ve aidiyet, cinsiyet rolleri ve grup dinamikleri gibi toplumsal mesajlar taşıyabilir."
+      "title": "Başkasının Ayakkabısını Giymek",
+      "description": "Devralınmış yollar, başkalarının beklentilerini karşılama çabası ya da henüz tam oturtulamamış yeni bir kimlik ve rol denemesidir."
     }
   ],
   "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslami rüya tabirleri derlemelerinde ayakkabı, eş/hanım, yolculuk, dost, ortak, kardeş ve geçim gibi sosyal/ilişkisel alanlarla ilişkilendirilerek yorumlanır.",
-  "christianTraditions": "",
-  "jewishTraditions": "Yahudi sembolizminde ayakkabı bazı kaynaklarda bedenle benzeştirilerek, bedenin dış etkenlerden koruması ve temsil işlevi bağlamında tartışılmıştır.",
-  "buddhistEasternApproaches": "Budist ve manastır adabı bağlamında ayakkabılar uygunluk, temizlik ve saygı kurallarıyla ilişkilendirilir; Çin Budist geleneğinde keşiş ayakkabılarındaki altı açıklık gibi uygulamalar öğretiyi hatırlatıcı sembolik işlevlere sahiptir.",
-  "spiritualApproaches": "Modern spiritüel yorumlarda ayakkabıyı çıkarmak, dünyevi meşguliyetleri geride bırakma ve benliği kısa süreliğine askıya alma jesti olarak açıklanır; bu tür yorumlar uygulama ve bağlama göre değişkenlik gösterir.",
+  "jungian": "Jungcu bakış açısından ayakkabılar, kişinin dış dünyaya sunduğu persona ile içsel benliği arasındaki aracı öğe olarak yaşam yolculuğundaki yönelimini ve bireyleşme sürecindeki uyumunu simgeler. Ayakkabının fiziksel durumu ise bireyin gerçeklikle kurduğu teması ve üstlendiği rollere ne kadar uyum sağladığını gösterir.",
+  "islamicTradition": "Geleneksel ve modern derlemelerde ayakkabı sembolü; kadın, geçim, mal, yolculuk, üzüntü veya evlilik gibi temalarla ilişkilendirilmektedir. Örneğin İbn-i Sîrîn'e atfedilen aktarımlarda dar ayakkabı sıkıntı ve borçla, deri ayakkabı evlilikle, eski ayakkabı ise keder ve fakirlikle bağdaştırılır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde ayakkabı, kişinin ruhsal yürüyüşü, yönelimi, kutsal alana hazırlığı ve yaşam yolculuğundaki yetki veya hizmet bilinciyle bağlantılı bir çağrışım alanı sunar.",
+  "jewishTraditions": "Yahudi rüya geleneğinde ve Talmudik kaynaklarda (örneğin Berakhot 57b), ölü bir kişinin rüyada ayakkabı alıp götürmesi özel bir istisna olarak ele alınır ve bu durum evden birinin çıkacağı uzun bir yolculuk ya da bu dünyadan öte dünyaya geçiş bağlamında değerlendirilir.",
+  "buddhistEasternApproaches": "Budist ve Doğu yaklaşımlarında ayakkabı, kutsal mekânlara girerken çıkarılan bir eşik nesnesi olarak tevazu, saygı, dünyaya ait yüklerden arınma ve uygun davranış sınırları bağlamında ele alınır.",
+  "spiritualApproaches": "",
   "comparisonTable": [
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Eş, yolculuk, dost, ortak ve geçim gibi sosyal/ilişkisel alanlarla bağlantılı yorumlar.",
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Ayakkabı; beden, arzu, bastırma ve sosyal kabul gerilimleri ekseninde cinsellik ve kişisel kontrol ile ilişkilendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Ayakkabı; persona, yaşam yolculuğu, temel güven ve bireyleşme sürecindeki uyumun bir uzantısı olarak okunur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel / İslami Aktarımlar",
+      "interpretation": "Ayakkabı; geçim, evlilik, yolculuk, borç veya dar ya da eski olması durumuna göre değişen sıkıntı ve keder temalarıyla ele alınır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Yahudi Sembolizmi",
-      "interpretation": "Ayakkabının koruyucu ve bedenle benzeştirme işlevi üzerinden ele alınması.",
+      "approach": "Yahudi / Talmudik Gelenek",
+      "interpretation": "Ayakkabı; ayağın desteği ve dünyevi duruşla birlikte, özellikle ölü ile ilgili rüyalarda uzun yolculuk ve geçiş alameti sayılır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist ve Doğu Yaklaşımı",
-      "interpretation": "Saygı, arınma, manastır disiplini ve ritüel adabına bağlı sembolik kullanım.",
+      "approach": "Budist Sembolik Yaklaşım",
+      "interpretation": "Ayakkabı; dışsal konfor ile içsel arınma arasındaki eşik, saygı, tevazu ve manastır disiplini çerçevesinde değerlendirilir.",
       "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Spiritüel Yaklaşım",
-      "interpretation": "Dünyevi meşguliyetleri arka plana atma ve benliği geçici olarak askıya alma jesti şeklinde yorumlanması.",
-      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Çeşitli disiplin ve geleneklerde ayakkabı, kişinin dünyayla temas kurduğu, toplumsal duruşunu ve kimliğini işaret eden temel maddi nesne olarak görülür; bu ortak çerçeve farklı yorumların zeminini oluşturur.",
-  "differences": "Kültürel ve tarihsel incelemeler ayakkabıyı daha çok statü, sınıf ve maddi kültür göstergesi olarak ele alırken, dini ve spiritüel yaklaşımlar ayakkabıyı arınma, saygı, koruma ve disiplin bağlamında yorumlama eğilimindedir. Bu farklılıklar yorumun bağlamına ve kaynakların türüne bağlıdır.",
-  "inusAssessment": "Ayakkabı sembolü, doğrudan tek bir rüya tabiri yerine insanın toplumsal rolleri, kimliği ve maddi kültürle kurduğu ilişkinin bir yansımasıdır. Rüyada ayakkabının durumu, çıkarılışı veya türü, temsil, koruma, statü ve geçiş temalarını aydınlatmada çok katmanlı bir inceleme sunar. Kesin anlam bağlama, kültüre ve kişisel yaşantıya bağlıdır.",
-  "faq": [],
+  "commonGround": "Farklı gelenekler ve psikolojik yaklaşımlar arasında ayakkabı; kişinin dünyadaki duruşu, attığı adımlar, yönelimi ve dış dünyayla kurduğu ilişki biçimi etrafında birleşir.",
+  "differences": "Psikanalitik ve Jungcu ekoller ayakkabıyı bireyin iç dünyası, persona ve uyum süreçleriyle açıklarken; geleneksel ve dini yaklaşımlar daha çok somut yaşam olayları, geçim, yolculuk ve dönüm noktaları üzerinden yorumlar.",
+  "inusAssessment": "Ayakkabı sembolü rüyada ele alınırken, nesnenin fiziksel durumu (dar, bol, eski veya kaybolmuş olması) ve rüya sahibinin onunla kurduğu pratik ilişki yorumun yönünü doğrudan belirler. Sabit ve tek bir manaya indirgenemeyen bu imge; bireyin toplumsal rolleriyle ne kadar uyumlu hissettiğini, yaşam yolculuğunda hangi eşikte durduğunu ve dış dünya ile nasıl bir temas kurduğunu anlamak adına bağlamsal bir odak sunar.",
+  "faq": [
+    {
+      "question": "Rüyada dar ayakkabı giymek ne anlama gelir?",
+      "answer": "Dar ayakkabı, üstlenilen rollerin kişiye dar gelmesi, günlük yaşamda hissedilen sıkıntılar, uyumsuzluk ve borç gibi temalarla ilişkilendirilir."
+    },
+    {
+      "question": "Rüyada ayakkabı kaybettiğini görmek nasıl yorumlanır?",
+      "answer": "Ayakkabının kaybolması, yön duygusunun sarsılması, güven duygusunun yitirilmesi veya yaşam yolculuğunda bir duraklama hissi çağrıştırır."
+    },
+    {
+      "question": "Ölünün rüyada ayakkabı alması neye işaret eder?",
+      "answer": "Talmudik ve geleneksel bazı Yahudi kaynaklarında, ölü kişinin rüyada ayakkabı alıp götürmesi diğer nesnelerden ayrı tutularak uzun bir yolculuk veya bu dünyadan geçiş bağlamında ele alınır."
+    }
+  ],
   "sources": [
     {
-      "title": "The symbolism of shoes in heritage, art, and literature: a semiotic study",
-      "relevance": "Ayakkabının edebiyat, sanat ve kültürde taşıdığı sembolik anlamları ve tarihsel-toplumsal bağlamlarını ele alır.",
-      "url": "https://acikerisim.bartin.edu.tr/handle/11772/16604"
+      "title": "Shoes - Dream Symbol",
+      "relevance": "Jung'a atıfla ayakkabıların rüyadaki anlamını tartışan çevrimiçi içerik.",
+      "url": "https://dreampaths.com/symbol/shoes"
     },
     {
-      "title": "[PDF] Worn. Footwear, Attachment And Affective Experience Ellen Sampson",
-      "relevance": "Ayakkabıların maddi kültür, kimlik ve duygusal bağlanma süreçleri açısından nasıl işlediğini araştırır.",
-      "url": "https://researchonline.rca.ac.uk/1811/1/Ellen%20Sampson%20PhD%20Thesis.pdf"
+      "title": "Shoes Dream Meaning & Interpretation - Mirror",
+      "relevance": "Ayakkabıların giyme, çıkarma, oturuş ve biçim üzerinden cinsellik, güç ve kontrolle ilişkilendirilmesini anlatan çevrimiçi Freudyen yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/shoes/"
     },
     {
-      "title": "[PDF] In the Sight of an Old Pair of Shoes - Queen's University Belfast",
-      "relevance": "Ayakkabıların kültürel anlamları, sosyal statü ve geçiş ritüelleriyle ilişkisini tartışır.",
-      "url": "https://pureadmin.qub.ac.uk/ws/files/8882568/In_the_Sight_of_an_Old_Pair_of_Shoes.pdf"
+      "title": "Signification : Chaussures",
+      "relevance": "Ayakkabının psikanalitik gelenekte cinsel çağrışımlarını ve çift olma, uyum, kimlik eksenlerini ele alan Fransızca kaynak.",
+      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Chaussures"
     },
     {
-      "title": "Provocations on Sneakers: The Multiple Significations of Athletic Shoes, Sport, Race, and Masculinity",
-      "relevance": "Spor ayakkabılarının sosyal kimlik, ırk ve erkeklik bağlamındaki anlam katmanlarına dair analiz sunar.",
-      "url": "https://muse.jhu.edu/article/369274"
+      "title": "Signification de chaussures en rêve - Doctissimo",
+      "relevance": "Ayakkabıyı Freud ve Lacan’a atfederek cinsel sembolizm içinde yorumlayan Fransızca rüya maddesi.",
+      "url": "https://www.doctissimo.fr/psychologie/dictionnaire-des-reves/reve-chaussures"
     },
     {
-      "title": "Ceri Houlbrook 1 Ritual, Recycling and Recontextualisation",
-      "relevance": "Ayakkabının ritüel kullanımını, halk inançlarını ve koruyucu sembolizmini tarihsel bağlamda inceler.",
-      "url": "https://uhra.herts.ac.uk/id/eprint/5851/1/Ritual_Recycling_and_Recontextualisation_Proof.pdf"
+      "title": "Shoes Dream Meaning: A Context-First Jungian Guide",
+      "relevance": "Ayakkabıyı beden ile yol arasındaki ilişki, uyum ve konum üzerinden açıklayan Jungcu yorum sayfası.",
+      "url": "https://individuationing.com/dream-symbols/shoes-dream-meaning/"
     },
     {
-      "title": "Tracing the Footsteps of Ritual: Concealed Footwear in America",
-      "relevance": "Ayakkabının ritüel koruma ve folklorik işlevleriyle ilgili tarihsel belgeleri inceler.",
-      "url": "https://link.springer.com/article/10.1007/BF03376936"
+      "title": "Dreaming of Shoes: Meaning and Interpretation",
+      "relevance": "Ayakkabıyı persona, toplumsal yüz ve bireyleşme süreciyle ilişkilendiren Jungcu açıklama sayfası.",
+      "url": "https://ezoterika.com.ua/en/dreams/dictionary/shoes"
     },
     {
-      "title": "The Meaning of Shoes",
-      "relevance": "Ayakkabıların sosyal kimlik, sınıf, cinsiyet ve aidiyet göstergesi olarak kültürel anlamlarını özetler.",
-      "url": "https://warwick.ac.uk/news/knowledge-archive/arts/shoes/"
+      "title": "Spiritual Meaning of Shoes in a Dream: Jungian ...",
+      "relevance": "Ayakkabı sembolünü yaşam yolculuğu, persona ve bireyleşme bağlamında tartışan Jungcu içerik sayfası.",
+      "url": "https://www.selfgazer.com/blog/shoes-dream-spiritual-meaning"
     },
     {
-      "title": "Shoes: A History from Sandals to Sneakers. Giorgio Riello and ...",
-      "relevance": "Ayakkabıyı maddi kültür ve toplumsal işaret sistemi içinde konumlandırır.",
-      "url": "https://scholarworks.iu.edu/journals/index.php/mar/article/download/1124/1186/4917"
+      "title": "Shoes",
+      "relevance": "Ayakkabıyı gerçeklikle temas, rol ve devralınmış yol metaforlarıyla ele alan Jungcu sembol sayfası.",
+      "url": "https://rosmertapublishing.com/dream-symbols/shoes/"
     },
     {
-      "title": "Worn Shoes: Identity, Memory and Footwear - Jenny Hockey, Rachel Dilley, Victoria Robinson, Alexandra Sherlock, 2013",
-      "relevance": "Ayakkabıların kişisel biyografilerle tarihsel dönemleri bağlayan sembolik nesneler olarak nasıl çalıştığını gösterir.",
-      "url": "https://journals.sagepub.com/doi/10.5153/sro.2897?icid=int.sj-abstract.similar-articles.3"
+      "title": "Dream Interpretation of Shoes: Life Path and Status",
+      "relevance": "Ayakkabıyı persona, psikolojik temel, yön değişimi ve kimlik uyumu üzerinden açıklayan Jungcu sözlük sayfası.",
+      "url": "https://fassir.ai/en/dictionary/shoes"
     },
     {
-      "title": "Shoes Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya tabiri geleneğinde ayakkabıyla ilişkilendirilen temel temaları derleyen bir kaynak.",
-      "url": "https://www.myislamicdream.com/shoes.html"
+      "title": "İslami Rüya Tabirleri, Nablusi, Kirmani, İbn-i Sirin, İmam Cafer Sadık, Seyyid Süleyman, Danyal - A",
+      "relevance": "Ayakkabı sembolünün Cafer-i Sadık ve İbn-i Sîrîn’e atfedilen çoklu yorumlarını bir araya getiriyor; kadın, geçim, mal ve yolculuk temaları öne çıkıyor.",
+      "url": "https://www.medicentertv.com/islami-ruya-tabirleri-nablusi-kirmani-ibn-i-sirin-imam-cafer-sadik-seyyid-suleyman-danyal-a"
     },
     {
-      "title": "Jews and Shoes 9781847887207, 9781847880499, 9781847880505, 9781474263566 - DOKUMEN.PUB",
-      "relevance": "Ayakkabının Yahudi sembolizminde bedenle ilişkilendirilen bir koruma imgesi olarak yorumlandığını belirtir.",
-      "url": "https://dokumen.pub/jews-and-shoes-9781847887207-9781847880499-9781847880505-9781474263566.html"
+      "title": "Rüyada Ayakkabı Görmek Nedir? Rüyada Kaybedilen Ayakkabıyı Aramak, Yeni Ayakkabı Denemek Ve Alıp Giymek Anlamı",
+      "relevance": "Ayakkabı için İbn-i Sîrîn’e atfedilen ayrıntılı modern derleme; dar, deri, eski, sarı ve yeşil ayakkabı gibi niteliklerin yorumları yer alıyor.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-ayakkabi-gormek-ne-anlama-gelir-25312"
     },
     {
-      "title": "Shoe: Significance and symbolism",
-      "relevance": "Budizm’de ayakkabının uygun olmayan giyim, öğretim adabı ve belirli durumlarda yasak/uygunsuz eşya olarak ele alınışını özetler.",
-      "url": "https://www.wisdomlib.org/concept/shoe"
+      "title": "Rüyada ayakkabı görmek ne anlama gelir? - Takvim Gazetesi",
+      "relevance": "Ayakkabı için İbn-i Sîrîn’e nispet edilen yorumları aktarır; dar ayakkabı, deri ayakkabı, ters giyme ve mest/kundura giymenin rüya anlamlarına dair tema verir.",
+      "url": "https://www.takvim.com.tr/ruya-tabirleri/2019/05/06/ruyada-ayakkabi-gormek-ne-anlama-gelir"
     },
     {
-      "title": "Acta Orientalia Academiae Scientiarum Hung. Volume 69 (4), 411 – 439 (2016)",
-      "relevance": "Acta Orientalia makalesi Budist topluluklarda ayakkabının sadelik, temizlik ve saygı ile bağlantısını tarihsel-kültürel açıdan tartışır.",
-      "url": "https://real.mtak.hu/107547/1/062.2016.69.4.5.pdf"
+      "title": "HIDDEN MEANING BEHIND DREAMS OF SHOES",
+      "relevance": "Ayakkabıyı ruhsal yürüyüş, yönelim, kimlik ve çağrıya hazırlık temalarıyla ilişkilendiren bir Hristiyan yorum sunar.",
+      "url": "https://mountcarmelreliefservices.com/hidden-meaning-behind-dreams-of-shoes/"
+    },
+    {
+      "title": "Shoe, Shoe-Latchet - Encyclopedia of The Bible",
+      "relevance": "Ayakkabı ve sandalet temalarının Hristiyan-Biblikal bağlamda yetki, yolculuk ve hazır oluşla ilişkilendirildiğini anlatan sözlük maddesi.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Shoe-Shoe-Latchet"
+    },
+    {
+      "title": "Berakhot 57.b",
+      "relevance": "Rüyada ölünün ayakkabı veya sandalet alıp götürmesinin istisnai anlamını veren temel Talmudik pasaj.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Berakhot 57b | The Sefaria Library",
+      "relevance": "Berakhot 57b’nin İngilizce aktarımında ayakkabı ve sandalet istisnası ile bunun yolculuk açıklaması yer alır.",
+      "url": "https://www.sefaria.org/Berakhot.57b?lang=en"
+    },
+    {
+      "title": "On Dreams",
+      "relevance": "Ayakkabının Yahudi rüya yorumunda ayağın desteği ve ölüm/geçiş çağrışımıyla ilişkilendirildiği açıklamayı içerir.",
+      "url": "https://www.sefaria.org/sheets/614307"
     },
     {
       "title": "Shoes and sandals: Significance and symbolism",
-      "relevance": "Wisdomlib girişinde ayakkabılar ve sandaletlerin Budist gelenekteki sembolik anlamları özetlenir.",
+      "relevance": "Theravada bağlamında ayakkabı ve sandaletlerin uygunluk, saygı ve öğretiyle karşılaşma adabı içindeki yerini açıklar.",
       "url": "https://www.wisdomlib.org/concept/shoes-and-sandals"
     },
     {
-      "title": "Wearing shoes: Significance and symbolism",
-      "relevance": "Ayakkabı giymenin kutsal bağlamlarda saygısızlık olarak değerlendirilebileceğini açıklar.",
-      "url": "https://www.wisdomlib.org/concept/wearing-shoes"
+      "title": "Golden Footwear: Significance and symbolism",
+      "relevance": "Theravada geleneğinde 'altın ayakkabı' ifadesinin Yasa anlatısı ve Bodhisatta’nın ayak nitelikleriyle bağlantısını sunar.",
+      "url": "https://www.wisdomlib.org/concept/golden-footwear"
     },
     {
-      "title": "Hsingyun.org - Dharma Instrument: Monastic Shoes - Master Hsing Yun",
-      "relevance": "Çin Budist manastır geleneğinde keşiş ayakkabılarındaki sembolik öğelerin yorumlanmasına ilişkin bir örnek sunar.",
-      "url": "https://hsingyun.org/temple/MonasticShoes.php"
+      "title": "Ja 231 The Birth Story about the Shoes (2s)",
+      "relevance": "Jātaka 231'de ayakkabı başlığı altında öğretici bir benzetme verilir; ayakkabının Budist didaktik kullanımına örnek sağlar.",
+      "url": "https://ancient-buddhist-texts.net/English-Texts/Jataka/231.htm"
     },
     {
-      "title": "Taking Our Shoes off Before the Buddha",
-      "relevance": "Ayakkabı çıkarma eylemini Budist pratikte geçici bir feragat, benliği askıya alma ve kutsal alan bilinciyle ilişkilendirir.",
-      "url": "https://tricycle.org/article/taking-our-shoes-off-before-the-buddha/"
+      "title": "SHOES IN BUDDHIST MONASTERIES FROM INDIA TO CHINA: FROM PRACTICAL ATTIRE TO SYMBOL",
+      "relevance": "Budist manastırlarında ayakkabıların tarihsel kullanımını ve bazı bağlamlarda saygısızlıkla ilişkilendirilmesini inceler.",
+      "url": "https://www.ceeol.com/search/article-detail?id=614456"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "psychoanalytic",
+    "jungian",
+    "buddhist-eastern"
+  ]
 }

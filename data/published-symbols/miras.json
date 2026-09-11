@@ -1,0 +1,132 @@
+{
+  "slug": "miras",
+  "title": "Miras",
+  "shortDescription": "Rüyada miras görmek, maddi kazancın yanı sıra aileden devralınan değerleri, rolleri, yetenekleri ve sorumlulukları simgeler. Mirasın kimden geldiği, ne olduğu ve rüyada hissettikleriniz, bu aktarımı nasıl karşıladığınızı gösterebilir.",
+  "positiveAssociations": [
+    "Aileden devredilen kaynakların (bilgi, yetenek, sosyal statü) uygulanabilir hale gelmesi",
+    "Soy bağlarının somut veya sembolik sürekliliğinin onaylanması (soy devamı, aile geleneği)",
+    "Beklenen bir hakkın resmileşmesi ya da aile içi paylaşımın netleşmesi",
+    "Geçmişin olumlu miraslarının (ör. dayanışma, miras kalan beceriler veya hikâyeler) bugünkü yaşamda işe yaramaya başlaması"
+  ],
+  "challengingAssociations": [
+    "Yasal/ailesel miras süreçleriyle ilişkili kaygılar: bölüşüm, adalet ve anlaşmazlık korkusu",
+    "Atalardan devralınan sorumluluklar veya aile kalıplarının yük olarak hissedilmesi",
+    "Mirasın biçimiyle (maddi ya da manevi) uyumsuzluk: beklenen kazanımın olmaması veya istenmeyen bir rolün devredilmesi",
+    "Mirası alma veya reddetme kararıyla bağlantılı kimlik çatışmaları ve aidiyet baskısı"
+  ],
+  "contextDependentAssociations": [
+    "Mirasın kimden geldiği (ör. ebeveyn, büyükebeveyn, toplum) rüyanın yorumunu doğrudan etkiler",
+    "Mirasın görüldüğü biçim —nakit, evrak, aile eşyası, töre veya yetenek— yorum açısından belirleyicidir",
+    "Rüyadaki duygusal ton (şaşkınlık, memnuniyet, yük olma hissi, suçluluk) mirasın deneyimlenen anlamını çizer",
+    "Gerçek hayatta devam eden olaylar (ölüm, vasiyet, aile tartışmaları, veraset planlaması) rüyanın içeriğini şekillendirebilir"
+  ],
+  "commonVariations": [
+    {
+      "title": "Beklenmedik bir mirasın gelmesi",
+      "description": "Rüya sahibinin önceden talep etmediği bir rolün, sorumluluğun veya aile yükümlülüğünün aniden önüne gelmesi; karar verme gereksinimi ve şaşkınlık duygusu öne çıkabilir."
+    },
+    {
+      "title": "Aileden kalma bir eşya veya belgeyi devralmak",
+      "description": "Somut nesne aracılığıyla geçmişin geleneklerinin, hatıralarının veya aile kurallarının bugüne taşındığını; bu nesnenin kişisel kimlikle nasıl örtüştüğünün sorgulandığını gösterir."
+    },
+    {
+      "title": "Mirası reddetmek veya paylaşmakta zorlanmak",
+      "description": "Kişinin üstlenilmesi beklenen aile rollerinden veya kalıplardan uzaklaşma isteğini ve bağımsızlaşma ihtiyacını vurgular."
+    },
+    {
+      "title": "Miras yoluyla büyük bir mal varlığı kazanmak",
+      "description": "Maddi kazanım beklentisinin yanı sıra, bu durumun getireceği sorumluluklar, toplumsal statü değişimi ve aile içi algı farklılıklarına dikkat çeker."
+    }
+  ],
+  "psychology": "Klinik ve kuramsal yaklaşımlar, rüyadaki miras temasını bireyin aile içindeki rollerine ilişkin algısı, miras sürecine ilişkin duyguları (adalet, kayıp, yük, hak etme) ve yaşam olaylarıyla (ölüm, vasiyet, ekonomik değişim) ilişkili bir imgeleme olarak ele alır. Freudyen perspektifler bu imgelerin çocukluk ve kuşaklar arası aktarımlardan kaynaklanabileceğini öne sürerken, ampirik kanıtların yetersizliği nedeniyle doğrudan genelleştirici çıkarımlardan kaçınılmalıdır.",
+  "jungian": "Jungcu çerçevede miras, biyolojik mirastan ziyade psişeye geçen örüntüler, aile arketipleri ve kuşaklar arası psişik izler bağlamında okunur. Rüyada miras almak, kişinin kuşaklar arası çözümlenmemiş materyalle temas kurması ve bu içeriği bireyleşme sürecinde bilinçli bir biçime dönüştürme gereksinimine işaret edebilir; bu yorum Jung’un kolektif bilinçdışı ve arketip kuramı bağlamında sembolik olarak anlaşılmalıdır.",
+  "islamicTradition": "",
+  "christianTraditions": "Patristik ve erken Hristiyan düşüncesinde rüyalar genellikle ahlaki ve ruhsal durumu yansıtan deneyimler olarak görülür. Bu çerçevede miras sembolü doğrudan kehanet olarak kabul edilmez; daha ziyade kişinin sahiplik, sorumluluk ve ilahi lütuf ile insani yükümlülükler arasındaki denge konusundaki tutumunu görünür kılan bir işaret olarak ele alınır.",
+  "jewishTraditions": "Yahudi rüya geleneğinde sembollerin yorumu rüya bağlamı ve yorumu yapan kişinin konumuyla şekillenir. Talmudik örneklerde miras temasıyla ilişkili rüya imgelerine rastlanır; bu nedenle miras rüyası, aile içi aktarım ve sonuçları açısından, kesin bir kehanet değil, bir yorum nesnesi olarak değerlendirilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlar mirası yalnızca maddi bir aktarım olarak değil, yeteneklerin, kadersel eğilimlerin veya karmik yükümlülüklerin kuşaklar arasında aktarımı şeklinde yorumlar.",
+  "comparisonTable": [
+    {
+      "approach": "Psikodinamik / Psikanalitik",
+      "interpretation": "Kuşaklar arası aktarımlar, çocukluk izleri ve aile içi dinamiklerin bilinçdışı izdüşümleri.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jungcu)",
+      "interpretation": "Kollektif, arketipsel ve atasal psişik kalıpların devralınması; bireyleşme sürecinde dönüşüm çağrısı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Klasik Oneirocritica (Greko-Romen rüya yorumlama geleneği)",
+      "interpretation": "Soy devamı, aile serveti ve ebeveyn-evlat ilişkileri bağlamında somut ve sosyal bir okuma.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel / Ezoterik",
+      "interpretation": "Manevi veya karmik miras, yetenek ve sorumluluk devri olarak yorumlanır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşım, \"miras\" imgesinin maddi kazançtan öte olduğunu, esas olarak kimin neyi devrettiğini, neyin kaldığını ve bunun taşıdığı sorumluluk veya değerin önemine işaret ettiğini kabul eder.",
+  "differences": "Kuramsal psikoloji mirası daha çok içsel aktarımlar (çocukluk izleri, kuşaklar arası kalıtılmış örüntüler) üzerinden yorumlarken, tarihsel gelenekler ve klasik Oneirocritica sembolü somut aile ilişkileri, mülk devri ve toplumsal statü bağlamında okur. Ezoterik yaklaşımlar ise manevi/karmik bir boyutu vurgular.",
+  "inusAssessment": "Miras rüyasında asıl ayrım, neyin miras kaldığı, kimden geldiği ve rüya sahibinin bunu kabul ederken rahatlık mı yoksa yük mü hissettiğidir. Bu nedenle sembolü doğrudan maddi bir kehanet olarak değil, aileden devralınan değerler, roller, sorumluluklar ve duygusal bağlar üzerinden değerlendirmek gerekir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dream About an Inheritance — Meaning and Interpretation",
+      "relevance": "Modern çevrimiçi yorum yazısı; miras rüyasını kuşaklar arası aktarım, sorumluluk ve ölüm-kaygısı ekseninde ele alır.",
+      "url": "https://www.dremyo.com/en/symbols/inheritance/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüya kuramı, rüya imgelerinin çocukluk kökenleri ve arkaik miras kavramıyla ilişkilenmesine dair kuramsal zemin sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Freudyen perspektife ait pasajlar, kuşaklar arası içeriklerin rüyalarda belirebileceğini öne sürer.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
+    },
+    {
+      "title": "Jung on the Nature and Interpretation of Dreams - PMC",
+      "relevance": "Jung'un rüyalar ve semboller üzerindeki yaklaşımını özetler; miras yorumunda arketipsel ve kolektif boyutun dikkate alınması gerektiğini destekler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4217604/"
+    },
+    {
+      "title": "Jungian Analysis and Biology",
+      "relevance": "Jungcu düşüncenin kalıtsal-eğilim ve atasal psişik örüntüler bağlamında miras temasına dayanak sağlayan ikincil kaynaklardan biridir.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/205-jungian-analysis-and-biology"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Klasik Greko-Romen oneirokritica içinde anne, mirasçı ve servet devrine dair pasajlar; miras temasının tarihsel bağlamını sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Doctrinalising dreams: patristic views of the nature of dreams and their relation to early Christian doctrines",
+      "relevance": "Patristik düşüncede rüyaların ahlaki/ruhsal işlevi; miras simgesinin kehanet yerine ahlaki ve sorumluluk boyutuyla okunabileceğini gösterir.",
+      "url": "https://era.ed.ac.uk/handle/1842/5462"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Yahudi rüya geleneğinde miras temasıyla ilişkili örneklerin bulunduğu derleme; rüya yorumunun bağlama göre şekillendiğini vurgular.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Talmudik rüya tartışmalarını içeren metin; rüyaların yorumla anlam kazandığı ve mirasla ilgili motiflere referans sağladığı bir çerçeve sunar.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Inheritance — Dream Meaning - Palaneri",
+      "relevance": "Popüler rüya yorum kaynağı; mirasın sadece maddi değil, aile kalıpları ve sorumluluklar bakımından da ele alınabileceğini belirtir.",
+      "url": "https://palaneri.com/dreams/treasures-and-valuables/inheritance/"
+    },
+    {
+      "title": "Dream Dictionary Inheritance",
+      "relevance": "Rüya sözlüğü yaklaşımıyla mirası kazanım ve hak etme bağlamında ele alır; modern sözlük yorumlarını temsil eder.",
+      "url": "http://www.gotohoroscope.com/txt/dream-dictionary-inheritance.html"
+    }
+  ],
+  "relatedSlugs": []
+}

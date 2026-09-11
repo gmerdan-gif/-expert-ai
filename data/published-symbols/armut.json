@@ -1,68 +1,225 @@
 {
   "slug": "armut",
-  "title": "armut",
-  "shortDescription": "Rüyada mevsiminde, taze armut görmek geleneksel yorumlarda rızık, bereket ve zamanında gelecek faydayla ilişkilendirilir. Mevsimsiz, çürük veya ezilmiş armut ise geçici aksilikler, sağlık hassasiyeti ya da kaçırılmış fırsatlara yorulabilir.",
+  "title": "Armut",
+  "shortDescription": "Rüyada armut görmek, rüyanın duygusal tonu, rüyanın gerçekleştiği ev ortamı ve kişinin uyanık yaşamındaki huzur veya kaygı dengesine göre şekillenen, psikanalitik ve geleneksel okumalarda mal, nimet, beden ve olgunlaşma temalarıyla bağdaştırılan çok katmanlı bir semboldür.",
   "positiveAssociations": [
-    "Rızık ve bereket (çevrimiçi ve bazı geleneksel yorumlarda, özellikle mevsiminde olan armutlar için belirtilir)",
-    "Miras veya maddi menfaat ima eden okumalar (bazı İslami derlemelerde yer alan iddialar)",
-    "Bazı modern yorumlarda tazelikle bağlantılı olarak sağlık, duygusal tatmin veya şehvet çağrışımları"
+    "Mal ve nimete kavuşma",
+    "Mevsiminde görüldüğünde hayır ve bereket",
+    "Tatlı armut tüketmenin getirdiği zenginlik",
+    "Bekâr bir kız için evlilik habercisi",
+    "Hamile bir kadın için erkek çocuk işareti",
+    "Duygusal beslenme ve içsel olgunlaşma"
   ],
   "challengingAssociations": [
-    "Mevsimi dışında yenmesi veya çürük ya da bozuk armutun bazı derlemelerde sağlık sorunlarına veya geçici zarar ve rahatsızlığa işaret etmesi",
-    "Çürük veya ezilmiş armudun bazı geleneksel anlatımlarda kaçırılan fırsatlara veya maddi hayal kırıklıklarına gönderme yapması"
+    "Mevsimi dışında armut yemenin getirdiği haram mal endişesi",
+    "Ev ortamında rapor edilen rüyalardaki olumsuz duygusal yoğunluk",
+    "Erken nesne ilişkilerinde yoksunluk veya kayıp yansımaları"
   ],
   "contextDependentAssociations": [
-    "Armudun mevsiminde görülmesi ile mevsim dışında görülmesi arasında farklı anlam ayrımları vardır; çeşitli çevrimiçi tabirlerde farklı yorumlar yer alır.",
-    "Armudun fiziksel durumu: taze, çürük, ezilmiş ya da olgun olması",
-    "Armutun nasıl elde edildiği: ağaçtan toplanması, hediye edilmesi veya yerde bulunması",
-    "Rüyayı görenin özel durumu: bazı modern İslami derlemeler hamilelik veya bekar olma gibi hallerle bağlantı kurar."
+    "Armudun mevsiminde mi yoksa mevsim dışı mı yenildiği",
+    "Rüyanın evde mi yoksa laboratuvarda mı görüldüğüne bağlı olarak duygusal tonunun değişmesi",
+    "Rüya sahibinin medeni durumu ve yaşam evresi",
+    "Çağrışım zincirinde nesnenin bedensel bir ikame olarak nasıl konumlandığı"
   ],
   "commonVariations": [
     {
-      "title": "Mevsiminde Armut Yemek",
-      "description": "Çevrimiçi ve bazı geleneksel yorumlarda, mevsiminde taze armut yemek genellikle fayda, uygun zamanda elde edilen menfaat veya rızık artışıyla ilişkilendirilir."
+      "title": "Mevsiminde Tatlı Armut Yemek",
+      "description": "Rüya sahibinin taze ve tatlı bir armudu mevsiminde yediğini görmesi, uyanık yaşamda eline geçecek helal mala, nimete ve berekete işaret eder."
     },
     {
-      "title": "Mevsimi Dışında Armut Görmek",
-      "description": "Çevrimiçi ve bazı geleneksel yorumlarda, mevsimi dışında görülen veya tüketilen armut bazı derlemelerde dengesizlik, geçici sağlık rahatsızlığı ya da alışılmışın dışında gelişen küçük aksiliklerle bağdaştırılabilir."
+      "title": "Mevsimi Dışında Armut Tüketmek",
+      "description": "Armudun kendi meyve mevsimi dışında yenilmesi, elde edilecek kazancın veya malın meşruiyeti konusunda duyulan kaygıları ve haram mal ihtimalini yansıtır."
     },
     {
-      "title": "Ağaçtan Armut Toplamak",
-      "description": "Ağaçtan meyve toplamak, bazı yorumlara göre emek sonucu elde edilen kazanç veya beklenen bir faydanın sembolü olarak değerlendirilir."
+      "title": "Çok Sayıda Armudu Avuçlamak",
+      "description": "Avuçlar dolusu armut tutmak, toplu bir mala varis olmaya ya da beklenmedik bir zenginliğe işaret eder."
     },
     {
-      "title": "Çürük veya Ezilmiş Armut",
-      "description": "Çürük, ezilmiş veya bozuk armut görüntüleri genellikle kaçırılan fırsatlar, maddi hayal kırıklıkları veya geçici sağlık hassasiyetlerine dikkat çeken bir işaret olarak yorumlanır."
+      "title": "Ağaçtan Olgun Armut Derlemek",
+      "description": "Dalından olgunlaşmış armutları toplamak, kişinin içsel dünyasında uzun süredir emek verdiği bir sürecin meyve verme ve olgunlaşma aşamasına ulaştığını gösterir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslami rüya tabiri derlemelerinde armut için rızık, bereket ve miras atıfları bulunur; bazen hastalık veya hamilelikle ilgili göndermeler de yer alır. Bu atıflar özellikle modern derlemelerde gözlemlenmektedir.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Doğrudan ve güvenilir Budist kaynaklarda armuda özgü bir rüya veya sembol yorumu tespit edilmedi; bu nedenle Budist bağlamlı bir yorum çıkarılmamıştır.",
-  "spiritualApproaches": "Modern popüler ve ezoterik içeriklerde armutla ilgili çeşitli çağrışımlar (ör. ölümsüzlük, armağan anlamları) bulunur; bu yorumlar daha çok çağdaş popüler kaynaklara dayanmaktadır.",
+  "psychology": "Deneysel rüya çalışmaları, rüyaların tek bir sabit nesneye indirgenemeyeceğini, aksine uyanık yaşamdaki huzur, kaygı ve duygusal düzenleme süreçleriyle doğrudan bağlantılı olduğunu gösterir. Ev ortamında kaydedilen rüyalar, laboratuvar ortamındakilere kıyasla daha yüksek duygusal yoğunluk ve olumsuz ton barındırabilir. Bu bağlamda rüyadaki armut, tek başına evrensel bir anlam taşımaktan ziyade, rüya sahibinin o anki duygusal örüntüsünün bir yansımasıdır.",
+  "jungian": "Analitik psikoloji perspektifinde armut üzerine doğrudan birincil bir metin yoktur; ancak genel meyve ve ağaç imgeleri bireyleşme ve psikolojik bütünleşme süreçleriyle ilişkilendirilir. Bu çerçevede armut, psişenin olgunlaşma ve içsel üretkenlik potansiyelini simgeleyen bir mecaz olarak değerlendirilebilir.",
+  "islamicTradition": "İslami rüya tabiri geleneklerinde armut görmek genellikle mal, nimet, helal kazanç, zenginlik, iyi bir eş, murat ve menfaat ile ilişkilendirilir. Tatlı armut yemek mala kavuşmaya, avuç dolusu armut toplamak ise toplu bir mala varis olmaya yorulur. Armudun mevsiminde yenilmesi hayır ve bereket getirirken, mevsimi dışında yenilmesi haram mal olarak yorumlanır. Ayrıca hamile kadınlar için erkek çocuğa, bekâr kızlar için ise evliliğe işaret ettiği kabul edilir.",
+  "christianTraditions": "Hristiyan sembolik okumalarında armut, nezaket, yumuşaklık, bereket, bolluk ve ilahi nimet çağrışımları barındırabilir. Doğrudan kanonik bir armut rüyası doktrini olmasa da genel meyve sembolizmi üzerinden ilahi sevgi ve yaratılışın güzelliğiyle ilişkilendirilebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde (özellikle Babil Talmudu ve Berakhot bağlamında) rüyalar tekil nesne eşleşmelerinden ziyade, olumlu yorumun rüyayı biçimlendirmesi ilkesiyle ele alınır. Armut için doğrudan Talmudik bir rüya maddesi bulunmamakla birlikte, meyve sembolizmi ve Tu BiShvat bağlamında bereket, dişil çağrışımlar ve mevsimsel bolluk çemberinde okunabilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yazında armut; bolluk, bereket, dişil enerji, doğurganlık, aşk, bilgelik ve duygusal beslenme ile ilişkilendirilir. Olgun armut, yaratıcı üretkenlik hissi ve hazır oluş dönemlerini simgelerken, uzun ömür ve fayda temalarıyla da desteklenir.",
   "comparisonTable": [
     {
-      "approach": "Çevrimiçi ve modern geleneksel derlemeler",
-      "interpretation": "Armut, mevsimsellik bağlamında rızık ve bereket ile; bozuk veya mevsimsiz armut ise sağlık veya geçici zarar çağrışımı ile ilişkilendirilir. Bazı derlemeler evlilik, hamilelik ve miras atıfları da yapar.",
-      "evidenceLevel": "traditional"
-    }
-  ],
-  "commonGround": "Mevcut çevrimiçi ve geleneksel derlemelerin kesişiminde armut sıklıkla mevsimsellik bağlamında yorumlanır: taze ve mevsiminde olan armut olumlu anlam taşır (rızık ve bereket); mevsimi dışında veya bozuk armut ise olumsuz ve rahatsız edici çağrışımlara işaret eder.",
-  "differences": "Kaynaklar arasında tutarsızlıklar vardır: bazı modern sözlükler armudu sağlık veya şehvetle ilişkilendirirken, diğer derlemeler ağırlıklı olarak rızık, miras ve mevsimsellik ayrımlarına odaklanır. Ayrıca klasik birincil dini metinlerle doğrudan doğrulama çoğunlukla eksiktir.",
-  "inusAssessment": "Armut rüya sembolü için destek ağırlıklı olarak çevrimiçi ve modern derlemelere dayanır; sembolün anlamı kültürel ve bağlamsal öğelere bağlıdır (mevsim, meyvenin durumu, rüyayı görenin durumu).",
-  "faq": [],
-  "sources": [
-    {
-      "title": "Pear Islamic Interpretations & Meanings",
-      "relevance": "Çevrimiçi bir İslami rüya tabiri derlemesi; armut için mevsimsel fayda, hastalık, miras, hamilelik/evlilik gibi çeşitli atıflar içerir.",
-      "url": "https://www.myislamicdream.com/pear.html"
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Sabit bir anlam olmadığı kabul edilir; rüyanın duygusal tonu, ev ortamı ve uyanık yaşamdaki kaygılar esas alınır.",
+      "evidenceLevel": "research"
     },
     {
-      "title": "Symbolism and Pear Gifts - Frog Hollow Farm",
-      "relevance": "Popüler içerik; armut ağacını Çin kökenli ölümsüzlük çağrışımıyla ilişkilendirir; modern ezoterik ve popüler bir perspektif örneğidir.",
-      "url": "https://www.froghollow.com/blogs/news/the-symbolism-of-pears-exploring-why-they-make-meaningful-gifts"
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Nesne, çağrışım zinciri içinde bedensel bir ikame veya erken nesne ilişkilerinin (örneğin anne göğsü) yer değiştirmesi olarak çözümlenir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jungcu)",
+      "interpretation": "Doğrudan armut kanıtı olmamakla birlikte, meyve imgeleri bireyleşme ve içsel olgunlaşma süreçleriyle bağdaştırılır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Rüya Geleneği",
+      "interpretation": "Mal, nimet, helal/haram kazanç ayrımı (mevsiminde/dışında), evlilik ve çocuk gibi somut yaşam başlıklarıyla yorumlanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Bolluk, dişil enerji, duygusal beslenme, doğurganlık ve yaratıcı üretkenlik temalarıyla okunur.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, armut gibi doğadan gelen meyve imgelerinin insan zihninde beslenme, bolluk, büyüme ve olgunlaşma fikriyle ortak bir zemin paylaştığını gösterir.",
+  "differences": "Bilimsel psikoloji rüyayı nöroduygusal bir düzenleme aracı olarak ele alıp sabit sembolleri reddederken, psikanaliz bireysel biyografik çağrışımlara odaklanır. İslami gelenek mal, rızık ve mevsimsel durumlar üzerinden daha kuralcı tabirler sunar. Spiritüel yaklaşım ise dişil enerji ve evrensel bolluk arketipine odaklanır.",
+  "inusAssessment": "Rüyada armut görmek, psikanalitik açıdan erken dönem beslenme deneyimleri ve anneyle kurulan ikame (yerine geçen nesne) unsurlarını; İslami gelenekte ise helal mal, mevsimsel bereket ve ailevi müjdeler (evlilik, çocuk) gibi açık çizgileri aynı anda barındırır. Bu sembolü yorumlarken armudun yenilip yenilmediği, hangi mevsimde algılandığı ve rüya sahibinin o anki duygusal tonu (huzur veya kaygı) rüyanın yorumunu kökten değiştiren en kritik ayrım noktalarıdır.",
+  "faq": [
+    {
+      "question": "Rüyada armut görmek kesinlikle zenginlik mi demektir?",
+      "answer": "Hayır. Bilimsel ve psikolojik araştırmalar rüyaların sabit bir anlama indirgenemeyeceğini gösterir. Geleneksel tabirlerde mal ve nimet olarak geçse de, rüyanın duygusal tonu ve bağlamı yorumu değiştirebilir."
+    },
+    {
+      "question": "Mevsimi dışında armut görmek ne anlama gelir?",
+      "answer": "İslami rüya tabiri geleneklerinde armudu mevsimi dışında yemek, elde edilen kazancın meşruiyeti veya haram mal ihtimali üzerine düşülen endişe ve uyarılarla ilişkilendirilir."
+    },
+    {
+      "question": "Psikanalizde armut neyi temsil eder?",
+      "answer": "Freudyen psikanalitik yaklaşımda armut sabit bir sembol değildir; rüya sahibinin zihinsel çağrışım zinciri içinde erken dönem beslenme deneyimleri veya anne bedeniyle ilişkili bir yer değiştirme nesnesi olarak çözümlenebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream emotions: a comparison of home dream reports with laboratory early and late REM dream reports",
+      "relevance": "Ev rüyası raporları ile laboratuvar REM rüyalarında duygusal yoğunluk ve olumsuzluk farkları.",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/jsr.12555"
+    },
+    {
+      "title": "Reactions to Dream Content: Continuity and Non ... - PMC - NIH",
+      "relevance": "Rüyadaki olaylara verilen duygusal tepkilerin uyanık yaşam duygulanımıyla ilişkisi.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6901388/"
+    },
+    {
+      "title": "Evidence for an emotional adaptive function of dreams - PMC",
+      "relevance": "Rüyaların duygusal işleme ve düzenleme işlevine dair deneysel bulgular.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10545663/"
+    },
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Rüyada iki armut örneğinin annenin göğsü olarak çözümlendiği klasik Freud vakasını içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "The Interpretation Of Dreams",
+      "relevance": "İki armutun annenin göğüslerine dönüştürüldüğü rüya yorumunu metin düzeyinde gösterir.",
+      "url": "https://ia601403.us.archive.org/13/items/in.ernet.dli.2015.188424/2015.188424.The-Interpretation-Of-Dreams_text.pdf"
+    },
+    {
+      "title": "Help interpreting a dream, of which I cannot get any further",
+      "relevance": "Jungcu bakış açısından armut rüyasına ilişkin bireysel yorum ve çağrışımlar içeren çevrimiçi forum paylaşımı.",
+      "url": "https://www.reddit.com/r/Jung/comments/uqs9fe/help_interpreting_a_dream_of_which_i_cannot_get/"
+    },
+    {
+      "title": "Pear Dream Meaning & Interpretation - Mirror",
+      "relevance": "Armutu Jungcu dille dişil, besleyici ve olgunlaşma çağrışımlarıyla ilişkilendiren çevrimiçi sembol sayfası.",
+      "url": "https://mirrorwithin.org/dream-dictionary/pear/"
+    },
+    {
+      "title": "Book Summary and Quotes: Man and His Symbols by Carl G. Jung ...",
+      "relevance": "Jung’un ağaç ve meyve imgelerini bireyleşme ve psikolojik bütünleşme bağlamında ele aldığı anlatıya işaret eden çevrimiçi kitap özeti ve alıntı derlemesi.",
+      "url": "https://tuningjohn.com/book/symbols/"
+    },
+    {
+      "title": "Marie-Louise Von Franz, Archetypal Symbols in Fairytales ...",
+      "relevance": "Masal bağlamında armut ağacı, içsel yaşama çekilme ve yaşam ilkesi temalarıyla ilişkilendirilir.",
+      "url": "https://www.scribd.com/document/656686646/Marie-Louise-von-Franz-Archetypal-symbols-in-fairytales-vol-3"
+    },
+    {
+      "title": "islâmî rüya tabirleri ansiklopedisi",
+      "relevance": "Armut için rüya tabiri maddesi; mal, nimet, mevsim, evlilik ve çocuk temalarını doğrudan bir arada verir.",
+      "url": "https://can-ada.net/wp-content/uploads/2018/01/ruya-tabirleri-ansiklopedisi-2.pdf"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri A Harfi - Muhammed.net",
+      "relevance": "Armut için Nablusî’ye atfedilen aktarım; mal, nimet, mevsimsel ayrım ve Cafer-i Sâdık’a atfedilen çoklu anlam çerçevesini verir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-a-harfi.html"
+    },
+    {
+      "title": "The Spiritual Symbolism of Pears in the Bible - John Baptist Church",
+      "relevance": "Armutu Kutsal Kitap bağlamında bereket, bolluk ve ilahi nimetlerle ilişkilendiren Hristiyan içerik.",
+      "url": "https://johnbaptistchurch.org/biblical-meaning-nature/pear"
+    },
+    {
+      "title": "Biblical Meaning of a Pear: Discover Its Symbolism of Abundance and Divine Love",
+      "relevance": "Armutun Kutsal Kitap’ta güzellik, bolluk ve ilahi sevgiyle ilişkilendirildiğini öne süren Hristiyan çevrimiçi kaynak.",
+      "url": "https://biblicalchronology.com/biblical-meaning-of-a-pear/"
+    },
+    {
+      "title": "Topical Bible: Pearl: Symbolical",
+      "relevance": "İncil’de incinin değer, güzellik ve Krallık bilgeliği sembolizmini ele alan kaynak; armut için dolaylı arka plan sağlar.",
+      "url": "https://biblehub.com/topical/naves/p/pearl--symbolical.htm"
+    },
+    {
+      "title": "Bavli Berakhot 55a–57b: The Talmudic Dreambook in ...",
+      "relevance": "Babil Talmudu'ndaki rüya yorum geleneğini ve Berakhot 55a–57b'nin dreambook niteliğini ele alır.",
+      "url": "https://www.liverpooluniversitypress.co.uk/doi/pdf/10.18647/1801/JJS-1995?download=true"
+    },
+    {
+      "title": "Pear.",
+      "relevance": "Babil Talmudu'ndaki rüya yorum geleneğini ve Berakhot 55a–57b'nin rüya kitabı niteliğini ele alır.",
+      "url": "https://allaboutheaven.org/symbols/pear_2/123"
+    },
+    {
+      "title": "The Spiritual Meaning of Tu b'Shevat: The Blessing and Symbolism of Fruits in Jewish Tradition",
+      "relevance": "Yahudi geleneklerinde Tu BiShvat, meyveler ve armutun meyve sembolizmi içindeki yerini anlatan çevrim içi açıklama.",
+      "url": "https://www.hidabroot.com/article/16742"
+    },
+    {
+      "title": "Berakhot 56",
+      "relevance": "Berakhot 56’daki rüya yorumları ve olumlu yorumun önemi üzerine modern Talmud açıklaması.",
+      "url": "https://www.myjewishlearning.com/article/berakhot-56/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a–b’de rüyaların anlamı, yorum ve olumlu yorum pratiği üzerine açıklama.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berachot: 56b - Talmud",
+      "relevance": "Berakhot 56b’de rüya yorum örnekleri ve rüyanın olumlu yorumlanmasına dair Talmud metni.",
+      "url": "https://www.chabad.org/torah-texts/5299914/Talmud/Berachot/Chapter-9/56b"
+    },
+    {
+      "title": "Which Fruit Comes First? - When G-d promised the land of ...",
+      "relevance": "Kabbalah bağlamında meyvelerin sıralanışı içinde armudun yer aldığı Yahudi meyve sembolizmi sayfası.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/2097208/jewish/Which-Fruit-Comes-First.htm"
+    },
+    {
+      "title": "Pear: Magical Properties, Ritual Uses, and Spiritual Benefits in Witch",
+      "relevance": "Armutun modern spiritüel ve büyüsel kullanımında bolluk, bereket, dişil nitelikler ve kehanet/rüya çalışmasıyla ilişkilendirildiğini anlatan güncel bir çevrimiçi derleme.",
+      "url": "https://nkhtarot.com/blogs/hexe-and-hearth-by-nkh/properties-of-pear-in-witchcraft"
+    },
+    {
+      "title": "Pears - Maite Leon",
+      "relevance": "Armutu Batı sembolizminde dişil bir simge olarak ele alan kısa bir sembol notu; rüya dışı genel sembolik okuma için kullanışlı.",
+      "url": "https://maiteleon.com/pears/"
+    },
+    {
+      "title": "Symbolism Of Pears In Chinese Culture",
+      "relevance": "Armutun Çin kültüründe uzun ömür ve fayda ile ilişkilendirildiğini açıklayan kültürel-sembolik bir not; sembolün bereket ve yarar çağrışımlarını destekler.",
+      "url": "https://www.fengshuied.com/pear-fruit"
+    },
+    {
+      "title": "Magical Properties of Pears | How to Use Pears in Spells - Plentiful Earth",
+      "relevance": "Armutun aşk, bilgelik, doğurganlık, refah ve bolluk gibi temalarla ilişkilendirildiğini söyleyen modern spiritüel içerik; rüya çağrışımları için genel sembolik zemin sağlar.",
+      "url": "https://plentifulearth.com/spiritual-uses-pears/"
+    },
+    {
+      "title": "The Spiritual Meaning of Pears - Sarai Chinwag",
+      "relevance": "Armutun rüyada görülmesini bolluk, duygusal beslenme, olgunluk ve yaratıcı/annelik temalarıyla yorumlayan güncel spiritüel bir metin; doğrudan rüya çağrışımı içerir.",
+      "url": "https://saraichinwag.com/the-spiritual-meaning-of-pears"
     }
   ],
   "relatedSlugs": []

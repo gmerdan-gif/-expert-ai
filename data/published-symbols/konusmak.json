@@ -1,0 +1,304 @@
+{
+  "slug": "konusmak",
+  "title": "konuşmak",
+  "shortDescription": "Rüyada konuşmak, kendini ifade etme ve iletişim kurma ihtiyacını yansıtabilir. Kiminle konuştuğunuz, sözlerin tonu ve rüyanın hissettirdikleri yorumu belirler; açık ve güzel sözler netliğe, kaba sözler ise gerilim veya bastırılmış öfkeye işaret edebilir.",
+  "positiveAssociations": [
+    "iletişim kurma",
+    "ifade",
+    "söz söyleme",
+    "hitabet",
+    "mesaj iletme",
+    "içsel ses",
+    "bilgi alışverişi",
+    "güzel ve anlaşılır sözler"
+  ],
+  "challengingAssociations": [
+    "kaba veya zarar verici konuşma",
+    "uygunsuz davranışlar",
+    "iletişim tıkanıklığı",
+    "zihinsel içeriklerin yer değiştirmesi"
+  ],
+  "contextDependentAssociations": [
+    "konuşmanın muhatabı",
+    "sözün tonu ve içeriği",
+    "rüyanın duygu tonu ve sosyal bağlam"
+  ],
+  "commonVariations": [
+    {
+      "title": "Açık ve anlaşılır bir dille konuşmak",
+      "description": "Rüyayı gören kişinin uyanık yaşamındaki ifade gücünün, netliğinin ve düşüncelerini dışa vurma ihtiyacının simgesel bir yansımasıdır."
+    },
+    {
+      "title": "Yabancı bir dilde ama anlaşılır şekilde konuşmak",
+      "description": "Farklı bakış açılarıyla iletişim kurma çabası, yeni sosyal çevrelere uyum sağlama ya da bilginin farklı aktarım biçimlerini temsil edebilir."
+    },
+    {
+      "title": "Kötü veya kaba sözler söylemek",
+      "description": "İlişkilerde yaşanan gerilimleri, bastırılmış öfkeyi veya uygunsuz iletişim biçimlerinin yarattığı içsel huzursuzluğu yansıtır."
+    },
+    {
+      "title": "Tanıdık biriyle sohbet etmek",
+      "description": "Muhatap alınan kişiyle olan gerçek yaşam bağlarına, çözülmemiş meselelere ya da o kişinin temsil ettiği niteliklerle kurulan içsel diyaloga işaret eder."
+    }
+  ],
+  "psychology": "Rüya içerik analizlerinde konuşma temaları, rüya raporlarında sıklıkla izlenen ve ampirik olarak kodlanabilen sosyal etkileşim kategorileridir. Dış uyaranların veya zihinsel süreçlerin rüyalara sözel öğeler olarak yansıdığı bilinmektedir. Psikanalitik çerçevede Freud, rüyada işitilen veya söylenen sözlerin yeni ve özgün bir üretim olmadığını, çoğunlukla uyanık yaşamda daha önce işitilmiş veya söylenmiş ifadelerin rüya işi aracılığıyla parçalandığını, birleştirildiğini ve yer değiştirdiğini belirtir. Bu bağlamda psikanalitik okumada konuşma, doğrudan bir mesajdan ziyade çağrışım ve aktarım işaretidir.",
+  "jungian": "Jungcu analitik psikolojide rüyalar, bilinçdışının kendini sembolik öz-temsil yoluyla ortaya koyduğu süreçlerdir. Rüyada geçen konuşma, harfi anlamıyla bir mesaj olmaktan ziyade bilinç ile bilinçdışı arasında kurulan sembolik bir anlam aktarımı olarak okunur. Dilin duyguya doğrudan hitap ettiği varsayılır ve rüyadaki sözlü içerikler, bilinçdışının iletmek istediği psikolojik içeriğin dili şeklinde değerlendirilir.",
+  "islamicTradition": "İslami rüya tabiri geleneklerinde konuşmanın niteliği ve içeriği yorumun yönünü belirler. Güzel, açık ve anlaşılır sözler söylemek, şeref, izzet, sevinçli haberler ve faydalı gelişmelerle ilişkilendirilir. Buna karşılık kaba, kötü veya zarar verici sözler olumsuz sonuçlara veya uygunsuz davranışlara işaret edebilir. Konuşmanın kiminle yapıldığı ve muhatabın niteliği tabirin çeşitlenmesinde temel unsurlardır.",
+  "christianTraditions": "Rüyadaki konuşma teması, iletişim, ilahi rehberlik, ifşa, çağrı ya da bireyin içsel muhasebesi gibi temalarla ilişkilendirilerek yorumlanır.",
+  "jewishTraditions": "Yahudi geleneğinde, özellikle Talmudî metinlerde (örneğin Berakhot bağlamında), rüyaların sözle paylaşılması ve yorumla şekillenmesi fikri merkezi bir yer tutar. 'Rüyalar yorumun ardından gider' öğretisi, rüyadaki sözlü ifadenin ve anlatının, rüyanın nihai anlamını belirlemedeki aktif rolünü ortaya koyar. Sözlü beyan, rüya deneyiminin işlenmesinde ve yönlendirilmesinde önemli bir araçtır.",
+  "buddhistEasternApproaches": "Budist ve Doğu geleneksel yaklaşımlarında rüyalar tek ve sabit bir anlama indirgenmez; yorum her zaman rüyayı görenin bağlamına bağlıdır. Rüyadaki konuşma; öğretim alma, mesaj iletme, Dharma aktarımı veya zihinsel içeriklerin görünür hale gelmesi gibi temalarla ilişkilendirilebilir. Tibet rüya pratiğinde rüya, zihnin işleyişini gösteren ve tıkanıklıkları haber veren bir işaret alanı olarak ele alınır.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel okumalarda konuşmak; iletişim kurma, düşünceyi dışa vurma, hitabet gücü, bilgi alışverişi ve çevre üzerinde etki yaratma temalarıyla bağlanır. Daha geniş bir perspektifte ise içsel sesin görünürleşmesi, mesaj taşıma ve ilişkilerde dürüstlük ihtiyacının fark edilmesi olarak yorumlanır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Araştırma",
+      "interpretation": "Konuşma teması, rüya raporlarında gözlenebilir ve kodlanabilir bir sosyal etkileşim kategorisi olarak incelenir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Rüyadaki sözler hatırlanmış malzemenin dönüşmüş parçalarıdır; çağrışım ve yer değiştirme işareti olarak okunur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilinçdışının bilinçle kurduğu sembolik anlam aktarımı ve öz-temsil biçimi olarak ele alınır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Konuşmanın açıklığına, güzelliğine veya kabalığına göre izzet, şeref veya olumsuz sonuçlarla ilişkilendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Rüyanın sözle anlatılması ve yorumla şekillenmesi, sözlü ifadenin anlam üzerindeki belirleyici gücünü vurgular.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Zihinsel içeriklerin açığa çıkması, öğretim ve bağlama duyarlı işaret alanı olarak değerlendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Okuma",
+      "interpretation": "İçsel sesin dışa vurumu, iletişim kurma ihtiyacı ve bilgi alışverişi temalarına bağlanır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplin ve gelenekler, konuşma eyleminin rüyada tek ve değişmez bir özellik taşımadığını, aksine muhataba, sözün niteliğine ve bağlama göre şekillendiğini kabul eder.",
+  "differences": "Ampirik ve psikanalitik yaklaşımlar konuşmayı zihinsel malzemenin işlenmesi ve davranışsal bir içerik kodu olarak ele alırken, dini, geleneksel ve spiritüel okumalar onu ilahi mesaj, içsel rehberlik veya ahlaki bir işaret olarak yorumlar.",
+  "inusAssessment": "Konuşmak sembolü, rüya anlatısı içinde dış dünya ile içsel dünya arasındaki köprüyü temsil eder. Onu diğer eylem rüyalarından ayıran en temel özellik, doğrudan bir anlam iletme iddiası taşımasına rağmen rüya mekanizması içinde genellikle hatırlanmış dağınık söz kırıntılarının yeniden birleşmesiyle oluşmasıdır. Bu durum, rüyada duyulan veya söylenen sözlerin harfi anlamıyla kehanetler gibi değil, kişinin uyanık yaşamındaki iletişim biçimlerinin, bastırılmış diyaloglarının veya zihinsel tıkanıklıklarının yansıması olarak ele alınmasını gerektirir. Konuşulan kişinin kimliği, sözün tonu ve rüyanın bıraktığı duygusal iz, bu sembolün gerçek anlamını çözerken en belirleyici unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada konuşmak her zaman gerçek hayattaki bir mesajın tekrarı mıdır?",
+      "answer": "Psikanalitik kurama göre rüyadaki sözler genellikle uyanık yaşamda işitilmiş veya söylenmiş ifadelerin rüya işiyle parçalanıp dönüştürülmüş kırıntılarıdır; yani doğrudan yeni bir mesaj üretmekten ziyade mevcut malzemenin yeniden düzenlenmiş halidir."
+    },
+    {
+      "question": "Rüyalarda konuşma temasının yorumlanmasında en önemli unsur nedir?",
+      "answer": "Konuşmanın niteliği (açık, anlaşılır, kaba veya güzel olması), muhatap alınan kişi ve rüyanın genel duygu tonu, yorumun yönünü belirleyen en kritik bağlamsal unsurlardır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "[PDF] The effect of external stimuli on dreams, as assessed using Q ...",
+      "relevance": "Dış uyaranların rüya raporlarına nasıl yansıdığını ve sözel içeriklerin rüyada görülebileceğini ele alan çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/15754/pdf_78/39669"
+    },
+    {
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içerik analizinde sosyal etkileşimler ve eylemler içinde konuşma öğesinin nasıl kodlanabildiğini açıklayan akademik kaynak.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "[PDF] Dream content analysis using Artificial Intelli- gence",
+      "relevance": "Yapay zekâ ile yapılan rüya içerik analizinde 'konuşma' temasının yüksek sıklıkta raporlandığını gösteren çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/48744/54228"
+    },
+    {
+      "title": "Dream interpretation and empirical dream research",
+      "relevance": "Ampirik rüya araştırmasının rüya yorum sorularını veriyle nasıl ele aldığını tartışan çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37139735/"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part a",
+      "relevance": "Rüyalarda açık biçimde duyulan sözlerin, rüya malzemesinde daha önce işitilmiş ya da söylenmiş konuşmalardan türediğini anlatır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Rüyadaki konuşma parçalarının rüya işince parçalanıp birleştirildiğini ve çoğu zaman çağrışımlı bir iz taşıdığını açıklar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Hearing Voices in Dreams: Freud's Tossing and Turning ...",
+      "relevance": "Freud’un rüyadaki konuşma ve seslere dair yaklaşımını tartışır; rüya dilinin özgün üretim değil, dönüştürülmüş dilsel malzeme olarak okunmasına odaklanır.",
+      "url": "https://psyartjournal.com/article/show/keskinen-hearing_voices_in_dreams_freuds_tossing_"
+    },
+    {
+      "title": "[PDF] THE INTERPRETATION OF DREAMS - Lutecium Network",
+      "relevance": "Rüya konuşmasının hatırlanmış sözlerden geldiğini ve metnin değişmiş ya da birleştirilmiş biçimlerini taşıyabildiğini belirtir.",
+      "url": "https://www.lutecium.org/ftp/Freud/pdf/1900_the_interpretations_of_dreams.pdf"
+    },
+    {
+      "title": "Jung's Theory of Dreaming and the Findings of Empirical and ...",
+      "relevance": "Jung’un rüyayı bilinçdışının sembolik öz-temsili olarak çerçeveleyen yaklaşımını özetleyen akademik kaynak.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12517111/"
+    },
+    {
+      "title": "Jung on Dreams: Part I - Jungian Center for the Spiritual Sciences",
+      "relevance": "Jung’un rüyaların sembolik dili ve bilinçdışıyla ilişkisi üzerine aktarılan temel görüşlerini derleyen sayfa.",
+      "url": "https://jungiancenter.org/jung-on-dreams-part-i/"
+    },
+    {
+      "title": "Full text of \"Carl Gustav Jung The Red Book Liber Novus [english ...",
+      "relevance": "Jung’un düş, söz ve vahiy dili arasındaki ilişkiyi çağrıştıran pasajların bulunduğu metin dökümü.",
+      "url": "https://archive.org/stream/CarlGustavJungTheRedBookLiberNovusenglish.ocrNo.images/Carl%20Gustav%20Jung%20-%20The%20Red%20Book%20-%20Liber%20Novus%20%5Benglish.ocr_no.images%5D_djvu.txt"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorumunun kapsamını ve temel yaklaşımını gösterir; konuşma gibi ayrıntıların yorumda bağlama bağlı ele alınmasını anlamak için uygundur.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Perchance to dream. Dream divination in the Bible and the ...",
+      "relevance": "Eski Yakın Doğu’da rüyalarda konuşma ve söz içeren iletişim biçimlerini tarihsel bağlamda tartışır.",
+      "url": "https://repositorio.uca.edu.ar/bitstream/123456789/7998/1/perchance-dream-ancient-near-east.pdf"
+    },
+    {
+      "title": "When Dreams Speak in Riddles: Learning from an Ancient ...",
+      "relevance": "Artemidorus’un rüya yorum geleneğine dair genel çerçeve ve ‘sözlü anlatı’ ile rüya yorumu arasındaki ilişkiyi popüler düzeyde özetler.",
+      "url": "http://mossdreams.blogspot.com/2021/08/when-dreams-speak-in-riddles-learning.html"
+    },
+    {
+      "title": "Microsoft Word - 5. Descartes Dream for FS revised V2 Ed.docx",
+      "relevance": "Antik oneirokritiğin rüyayı yaşam ve kendilik pratiği olarak nasıl ele aldığını ve rüya yorumunun tarihsel çerçevesini açıklar.",
+      "url": "https://rauli.cbs.dk/index.php/foucault-studies/article/download/5575/6214/20725"
+    },
+    {
+      "title": "When Gods Speak to Men",
+      "relevance": "Tanrısal mesajların rüyalar yoluyla iletilmesi temasını ele alır; konuşma, sesleniş ve ilahi haberleşme bağlamı açısından ilişkilidir.",
+      "url": "https://www.peeters-leuven.be/download_OA.php?id=9789042941335&name=When+Gods+Speak+to+Men"
+    },
+    {
+      "title": "Full text of \"The Interpretation of Dreams in the Ancient ...",
+      "relevance": "Eski Yakın Doğu’da rüyaların vahiy, ruhsal durum ve kehanet düzlemlerini ayıran klasik tartışmayı sunar; konuşma içeren rüya temasını tarihsel arka plana yerleştirir.",
+      "url": "https://archive.org/stream/Oppenheim1956AssyrianDreamBook/Oppenheim_1956_Assyrian_Dream_Book_djvu.txt"
+    },
+    {
+      "title": "2 Dream Description and Dream Hermeneutics",
+      "relevance": "Artemidorus’ta rüya çözümlemesinin değişkenlere bağlı olduğunu ve konuşma dâhil ayrıntıların yorumda bağlamla birlikte ele alındığını gösterir.",
+      "url": "https://academic.oup.com/book/3530/chapter/144764678"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Rüyada güzel konuşma ve dil çeşitleri üzerinden yapılan tabirleri içeren derleme; 'konuşmak' sembolünün olumlu niteliklerde şeref, izzet ve mülkle ilişkilendirilmesini gösterir.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "تعبیر سخن گفتن در خواب ابن سیرین",
+      "relevance": "'Söz söyleme' ve konuşmanın niteliği üzerinden övülen, hoş görülen ve olumsuz görülen anlamları ayıran Farsça aktarım.",
+      "url": "https://tabirgar.ir/dream/24099/"
+    },
+    {
+      "title": "الموسوعة الكونية لتأويل عالم الثعابين ( الحيه او الافعى ) - رؤيا",
+      "relevance": "Yılanın konuşması örneğinde, konuşmanın tonu ve içeriğine göre olumlu ya da olumsuz yön değiştiren bir İslami sembol yorumu sunar.",
+      "url": "https://ruya-ai.com/articles?id=4oeQkjrNWaGx9pqwxFa7&lang=tr"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri T Harfi",
+      "relevance": "İmam Nablusi aktarımlarında biriyle konuşmak veya sohbet meclisi görmek genellikle hayır, saadet ve doğru yola yönelme ile ilişkilendirilir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-t-harfi.html"
+    },
+    {
+      "title": "Rüyada Birisiyle Konuşmak Ne Anlama Gelir? Ne Demek, Neye Yorumlanır?",
+      "relevance": "Rüyada birisiyle konuşma temasını, konuşmanın içeriği ve muhatabına göre iletişim, görüşme ve yardım isteme ile açıklayan aktarım.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-birisiyle-konusmak-ne-anlama-gelir-6986118"
+    },
+    {
+      "title": "Rüyada Konuşamamak Ne Anlama Gelir? - Diyadinnet Rüya Tabirleri",
+      "relevance": "Ölüyle konuşma temasını uzun ömürle ilişkilendiren aktarım.",
+      "url": "https://www.diyadinnet.com/ruyada-1171-konusamamak-gormek"
+    },
+    {
+      "title": "How God Speaks Through Dreams",
+      "relevance": "Konuşma sahnelerinin ilahi iletişim çerçevesinde nasıl okunabileceğine dair modern Hristiyan örneklerini tartışır.",
+      "url": "https://krisreece.com/2022/06/09/how-god-speaks-through-dreams/"
+    },
+    {
+      "title": "The patristic dream (Chapter 3) - Dreaming in the Middle ...",
+      "relevance": "Patristik ve ortaçağ Hristiyan rüya düşüncesinde rüyaların hakikat, figür ve ilahi‑maddenin ilişkisi bağlamında ele alınışını bağlamlandırır; konuşma sembolüne doğrudan bir giriş vermez ama yorum çerçevesi sağlar.",
+      "url": "https://www.cambridge.org/core/books/abs/dreaming-in-the-middle-ages/patristic-dream/AF4244F788B3C8B6E3361A7951BE82DE"
+    },
+    {
+      "title": "Christian Dream Interpretation - What Is it and Is it Biblical",
+      "relevance": "Hristiyan rüya yorumunda sembollerin kişinin yaşam bağlamı ve duygusal tonu içinde çözümlenmesi gerektiğini vurgular; konuşma sembolünü bu genel hermenötik içinde konumlandırmaya yarar.",
+      "url": "https://www.crosswalk.com/faith/spiritual-life/how-to-hear-from-god-through-christian-dream-interpretation.html"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Rüyanın sözle anlatılması ve başkalarının sözlü yorumu üzerinden iyiye çevrilmesi temasını verir.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Babylonian Talmud: Tractate Berakoth",
+      "relevance": "Rüyanın anlamının yorumlanan sözle şekillenebileceğini anlatan temel Talmudî ilkeyi içerir.",
+      "url": "https://www.come-and-hear.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Rüyayı çözülmesi gereken bir metin gibi ele alan ve yorumun merkeziliğini açıklayan çerçeve sunar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 57.b",
+      "relevance": "Sözlü/dilsel ifadenin işaret değeri kazanabildiğini gösteren Talmudî pasajdır.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Berakhot 10.a",
+      "relevance": "Rüya içi konuşmanın bağlayıcı olmadığını, yine de dua ve merhametin gerekli olduğunu anlatır.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/10.a"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist rüya yaklaşımında rüyanın tek ve sabit bir anlam taşımadığı, yorumun bağlama göre değiştiği fikrini verir; konuşma sembolünü de bu çerçevede sınırlı biçimde okumaya imkân tanır.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Dream interpretation and practice - TME",
+      "relevance": "Tibet Budist rüya pratiğinde rüyanın ‘gizli dil’ ve zihinsel durumların göstergesi olarak ele alınmasına dair açıklama içerir; konuşma sembolünü iletim ve zihinsel açıklığın işareti olarak düşünmeye yardımcı olur.",
+      "url": "https://tibetanmedicine-edu.org/tmm/tm/dream-and-bardo/the-dream-interpretation-and-practice/"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Rüya ve bodhisattva bağlamında Budist metin çevirisi sunar; rüya işaretlerinin öğretim, işitme ve görünümle ilişkili okunabildiği bir çerçeve sağlar.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "Dreams: Their Interpretation, Yoga and Discrimination",
+      "relevance": "Tibetçe rüya yorum geleneğinde işitme, vaaz etme ve öğretme gibi konuşma temalarını içeren rüya işaretleri listeler; konuşma sembolünün Dharma ve öğretimle ilişkili okunmasına örnek verir.",
+      "url": "https://tibetanbuddhistencyclopedia.com/en/index.php/Dreams:_Their_Interpretation,_Yoga_and_Discrimination"
+    },
+    {
+      "title": "Rüyada Söz Söylemek (Konuşmak) Ne Demek? İfade Etmenin Anlamı",
+      "relevance": "Rüyada konuşmayı iletişim, ifade, hitabet ve etkileme olarak yorumlayan modern bir rüya tabiri sayfası.",
+      "url": "https://kesif.ruya-tabiri.com/ruyada-soz-soylemek-konusmak-ne-demek-i-fade-etmenin-anlami"
+    },
+    {
+      "title": "Rüyada Sohbet Etmek - RuyaTabirleri.com",
+      "relevance": "Rüyada konuşmayı yetenek, parlak fikirler ve dikkat çekme ile ilişkilendiren modern bir rüya tabiri sayfası.",
+      "url": "https://www.ruyatabirleri.com/ruyada-sohbet-etmek.html"
+    },
+    {
+      "title": "Dreaming About Speech: Meaning, Psychology & Symbolism",
+      "relevance": "Konuşma temasını (konuşma yapma) kendini ifade etme, etki kurma ve içsel diyalog üzerinden ele alan modern bir yorum sayfasıdır.",
+      "url": "https://dreammeaning.today/meaning/speech"
+    },
+    {
+      "title": "Conversation in Dreams: How Spoken Exchanges Reveal What ...",
+      "relevance": "Konuşma temasını rüyalarda ilişkisel temas, dürüstlük ve mesaj iletimi açısından ele alan modern bir yorum sayfası.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/conversation"
+    }
+  ],
+  "relatedSlugs": []
+}

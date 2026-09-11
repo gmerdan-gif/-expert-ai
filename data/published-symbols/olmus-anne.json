@@ -1,0 +1,232 @@
+{
+  "slug": "olmus-anne",
+  "title": "olmus-anne",
+  "shortDescription": "Rüyada ölmüş anne görmek, özlem, yas ve onun şefkatini ya da sığınak hissini yeniden duyma ihtiyacıyla ilişkilendirilebilir. Annenin huzurlu görünmesi iç ferahlığını, üzgün görünmesi ise suçluluk, çözülememiş keder ya da dua ve hayır düşüncesini öne çıkarabilir.",
+  "positiveAssociations": [
+    "Yas sürecinde ruhsal teselli ve içsel huzur bulma",
+    "Annenin temsil ettiği şefkat, bakım ve sığınak hissiyatının sürmesi",
+    "Sıkıntılı dönemlerde ferahlama ve manevi destek",
+    "Köklerle olan bağın dönüşerek güçlenmesi"
+  ],
+  "challengingAssociations": [
+    "Çözülmemiş suçluluk duyguları ve tamamlanmamış yas süreçleri",
+    "Ayrılık anksiyetesi ve derin bir içsel boşluk deneyimi",
+    "Anne kaybının yarattığı travmatik yankılar ve keder",
+    "Eski bağımlılık biçimlerinin veya boğucu örüntülerin yarattığı çatışma"
+  ],
+  "contextDependentAssociations": [
+    "Annenin rüyadaki görünümünün temiz, huzurlu veya aksine üzgün ve perişan olması",
+    "Rüya sahibinin yasın hangi evresinde bulunduğu",
+    "Rüya sırasındaki duygusal tonun (korku, özlem, rahatlama) niteliği",
+    "Rüyadaki etkileşimin doğrudan bir veda, uyarı veya sadece varlık hissi olması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Mutlu ve Temiz Görünümlü Ölmüş Anneyle Karşılaşmak",
+      "description": "Rüya sahibinin annesini huzurlu, bakımlı ve güler yüzlü görmesi; yasın hafiflemesine, ruhsal bir ferahlamaya ve annenin hatırasıyla barışık bir denge kurulduğuna işaret edebilir."
+    },
+    {
+      "title": "Üzgün veya Sıkıntılı Vefat Etmiş Anneyle Konuşmak",
+      "description": "Annenin kaygılı, perişan veya mutsuz görünmesi; rüya sahibinin iç dünyasındaki suçluluk duygularını, çözülmemiş vicdani meseleleri ya da vefat etmiş annenin anısına yönelik hayır ve dua ihtiyacını yansıtabilir."
+    },
+    {
+      "title": "Ölmüş Anneye Sarılmak ve Vedalaşmak",
+      "description": "Yoğun özlem duygusuyla sarılma eylemi, kayıp karşısında yaşanan ayrılık acısının ve kabullenme arayışının ruhsal düzlemdeki dramatik ifadesidir."
+    },
+    {
+      "title": "Vefat Etmiş Annenin Evinde veya Eski Ortamda Bulunmak",
+      "description": "Annenin hayattayken bulunduğu mekânlarda geçen rüyalar, rüya sahibinin kökleriyle, çocukluk anılarıyla ve ilk besleyicisiyle yeniden bağ kurma ya da bu bağı bırakma çabasını gösterir."
+    }
+  ],
+  "psychology": "Ampirik yas araştırmaları, kaybedilen ebeveynleri içeren rüyaların yaygın olduğunu ve zaman içinde içeriklerinin değiştiğini göstermektedir. Birçok katılımcıda bu rüyalar hem rahatsız edici hem de teselli edici duygulara, kimi zaman olumlu hislere de eşlik edebilir ve yasın uyum sürecini etkileyebilir.",
+  "jungian": "Rüyadaki ölmüş anne görüntüsü gerçek bir ziyaret olarak değil, anne kompleksi, bireyleşme sürecindeki bir dönüşüm evresi veya eski bağımlılık biçimlerinin çözülmesi bağlamında yorumlanır. Bu imge bilinçdışının eşiğinde ortaya çıkan, psişik enerjinin dönüşümünü, içselleşmeyi ve ayrışmayı tetikleyebilen arketipsel bir katman olarak görülür. Yine de tek ve sabit bir yorum olarak alınmamalıdır.",
+  "islamicTradition": "Vefat etmiş annenin rüyada görünmesi, temiz ve huzurlu halde görülmesi durumunda ferahlamaya; üzgün veya perişan görünmesi durumunda ise dua, sadaka ve hayır ihtiyacına işaret edecek şekilde yorumlanır.",
+  "christianTraditions": "Hristiyan perspektifinde ölmüş bir annenin rüyada görülmesi doğrudan ölülerle iletişim anlamına gelmez; daha ziyade yasın içsel işlenmesi, Tanrı'nın kırık kalbe verdiği teselli ve umut bağlamında ele alınır. Anne imgesi, şefkat ve rehberlik çağrışımı üzerinden kayıp ile teselli arasındaki gerilimi görünür kılar.",
+  "jewishTraditions": "Yahudi rüya geleneği içinde vefat etmiş yakınların rüyada görünmesi, yaşayanın hatırlaması, bağın sürmesi veya merhum için iyilik yapma çağrısı gibi anlamlarla ilişkilendirilebilir. Talmudik metinlerdeki sembolik eşleştirme gelenekleri, anne figürünün rüya sembolizmi içinde manevi bir karşılık bulmasına zemin hazırlar.",
+  "buddhistEasternApproaches": "Budist ve Doğu yaklaşımlarında ölmüş anne temalı rüyalar, kalıcılıktan ziyade geçicilik (anicca), bağlanma, yas ve bırakma ekseninde okunur. Hindu/Vedik geleneğinde bu rüyalar ata bağı, bereket ya da dua çağrışımıyla ele alınırken, Budist bakışta rüya çocukluk anılarıyla yüzleşme, çözülmemiş duyguları kabullenme ve değişimin doğallığını idrak etme vesilesi olarak görülür.",
+  "spiritualApproaches": "Ezoterik ve simyasal sembolizmde anne figürü ilk kaynağa, doğuran niteliğe ve prima materia (ilk madde) kavramına bağlanır. 'Ölmüş anne' imgesi, simyasal metaforlarda eski bir dönemin kapanması, köklerle bağın dönüşümü ve yeni bir psikospiritüel sürecin başlaması olarak yorumlanabilir; bu okumalar sembolik düzeyde tutulmalıdır.",
+  "comparisonTable": [
+    {
+      "approach": "Psikolojik ve Ampirik Yaklaşım",
+      "interpretation": "Yas sürecinin uyum evrelerini, rüyaların yapısal değişimini ve bireyin kayıp sonrası duygusal entegrasyonunu inceler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Kayıp, ayrılık, içsel boşluk ve çatışmalı duygulanımlar üzerinden okur; ayrıca André Green'in \"dead mother\" (ölü anne) kavramı üzerinden psişik kopuşu ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analitik Yaklaşım",
+      "interpretation": "Kişisel anneden arketipsel Büyük Anne'ye geçişi, bireyleşmeyi, içselleştirilmeyi ve bağımlılıkların çözülmesini vurgular.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami ve Geleneksel Okumalar",
+      "interpretation": "Şefkat, rahmet, sığınak ve teselli temalarıyla birlikte, merhum için dua, hayır ve sadaka ihtiyacına işaret eder.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojik Yaklaşım",
+      "interpretation": "Ölülerle iletişimi reddederek, yasın içsel işlenmesini ve Tanrı'nın teselli edici huzurunu ön plana çıkarır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneksel Bağlamı",
+      "interpretation": "Akrabaların rüyada görünmesi geleneği çerçevesinde hatırlama, bağın sürmesi ve ruhun faydasına olacak eylemlere yönlendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Doğu ve Budist Yaklaşımlar",
+      "interpretation": "Geçicilik, bağlanmaların bırakılması, merhamet ve çocukluk anılarındaki çözülmemiş duygular üzerine tefekkür aracıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Simyasal Sembolizm",
+      "interpretation": "İlk kaynakla bağın dönüşümü, eski bir dönemin kapanması ve yeni bir psikospiritüel evrenin doğuşu olarak yorumlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler arasında ölmüş anne sembolü, anne figürünün kaybı ve bunun bıraktığı duygusal izler etrafında buluşur. İster yas uyumu, ister psikanalitik açıdan içsel boşluk, ister dini teselli veya arketipsel dönüşüm olarak ele alınsın; bu rüya temel bir ayrılık, anı ve duygusal hesaplaşma zeminine dayanır.",
+  "differences": "Yaklaşımlar arasındaki temel ayrım, rüyanın kaynağına ve amacına yüklenen anlamda ortaya çıkar. Ampirik psikoloji rüyayı yasın doğal bir evresi ve zihinsel uyum süreci olarak incelerken, psikanalitik ve Jungcu teoriler daha çok içsel imgeler, bastırılmış arzular ve psişik yapılar üzerine yoğunlaşır. Dini gelenekler ruhsal teselli, dua ve hayır gerekliliğini vurgularken, ezoterik okumalar bu imgeyi ilksel kaynağa dönüş, eski bir dönemin kapanışı ve simyasal bir eşik olarak işler.",
+  "inusAssessment": "Bu imge ne basit bir kehanet ne de sıradan bir hatıra; bireyin iç dünyasındaki tamamlanmamış süreçleri ve köklerle kurduğu bağın dönüşümünü anlamada önemli bir eşiktir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dreams in bereavement: Case study",
+      "relevance": "Yas döneminde görülen rüyaların içerik ve yapı bakımından zamanla nasıl değiştiğini ve kayıp sonrası uyumla ilişkisini gösteren olgu çalışması.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/74179"
+    },
+    {
+      "title": "Dream content of grieved parents",
+      "relevance": "Yas yaşayan ebeveynlerde, ölen ebeveynin rüyada belirgin biçimde yer alması ve bu rüyaların tematik özellikleri üzerine çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/74960/74990/220058"
+    },
+    {
+      "title": "The impact of dreams of the deceased on bereavement",
+      "relevance": "Ölen yakınları içeren rüyaların yaygınlığı, duygusal tonu ve yas üzerindeki algılanan etkileri üzerine anket çalışması.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23449603/"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Rüyada sevilen bir yakının ölümünü, rüya dileği ve çatışmalı arzu bağlamında ele alan temel psikanalitik metin.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "ON PRIVATE MADNESS",
+      "relevance": "André Green’in \"dead mother\" (ölü anne) kavramını ortaya koyan metin; annenin psikolojik olarak erişilemez hale gelmesi ve içselleştirilmiş boşluk temalarını tartışır.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Green_Dead_Mother.pdf"
+    },
+    {
+      "title": "The Dead Mother | 8 | On Private Madness | André Green | Taylor & Fran",
+      "relevance": "Yaşayan fakat çocuğun gözünde psikik olarak ölü/uyuşmuş hale gelen anne imgesini ayrıntılandıran ve anne kaybı ile içsel boşluğu işleyen akademik bölüm.",
+      "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9780429478024-8/dead-mother-andr%C3%A9-green"
+    },
+    {
+      "title": "Mother in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Anne arketipinin Jungcu ikili yapısını ve rüyadaki anne figürünün arketipsel anlamını özetleyen çevrim içi aktarım.",
+      "url": "https://rosmertapublishing.com/dream-symbols/mother/"
+    },
+    {
+      "title": "1. Carl Jung analyzes dreams of the Terrible Dreadful Mother.",
+      "relevance": "Jung’a atfedilen yorumlar bağlamında rüyadaki anne imgesinin fiziksel kişiden çok psişik bir imge olarak okunabileceğine dair aktarım.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/04/02/carl-jung-analyzes-dreams-of-the-terrible-dreadful-mother/"
+    },
+    {
+      "title": "Dreams by Marie-Louise von Franz — Dreams of Jung, Descartes ...",
+      "relevance": "Von Franz’a atfedilen rüya yorumu çerçevesinde bilinç ile bilinçdışı arasındaki eşik, dönüşüm ve anneyle ilişkili içgüdüsel enerji temalarını ele alan aktarım.",
+      "url": "https://www.seba.health/library/the-psyche/vonfranz-dreams/"
+    },
+    {
+      "title": "Oneirocritica english pdf",
+      "relevance": "Artemidoros’a atfedilen metinde ölmüş anne rüyasına dair bir yorum içeren tarihsel kaynak aktarımı.",
+      "url": "https://assets.website-files.com/6723749a08afe7cc796e1d7e/67289911a5735c59bb064211_83960022953.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidoros’un Oneirocritica’sını Antikçağ’dan kalan kapsamlı bir rüya yorum kılavuzu olarak tanıtan çeviri ve bağlam çalışması.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Deceased Mother Islamic Interpretations & Meanings",
+      "relevance": "İslami rüya geleneği bağlamında ölmüş annenin rüyada görünmesine ilişkin geleneksel yorumları ve dua-sadaka vurgusunu aktaran ikincil kaynak.",
+      "url": "https://www.myislamicdream.com/deceased_mother.html"
+    },
+    {
+      "title": "Your mother in a dream - The Islamic Dream Book",
+      "relevance": "Anne sembolünün merhamet, şefkat ve sığınak anlamlarıyla ele alındığı; vefat etmiş annenin görünmesi halinde yorumun dua ve hayır çerçevesine kaydığını aktaran çevrim içi metin.",
+      "url": "https://theislamicdreambook.com/your-mother-in-a-dream/"
+    },
+    {
+      "title": "Dream About Dead Mother: Meaning and Interpretation",
+      "relevance": "Ölmüş anne rüyasını Hristiyan teselli ve yas bağlamında yorumlayan çevrim içi bir okuma.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/dead-mother/"
+    },
+    {
+      "title": "9 Biblical Meanings of Dreaming of Deceased Mother: Powerful",
+      "relevance": "Ölmüş annenin rüyada görülmesini yas, kapanış, yeniden bağ kurma ve Hristiyan yaşam muhasebesi temalarıyla ilişkilendiren yorum metni.",
+      "url": "https://www.fromtheangels.com/biblical-meanings/biblical-meaning-dreaming-of-deceased-mother/"
+    },
+    {
+      "title": "Biblical Meaning Of Dreaming Of Deceased Mother - The Soul Text",
+      "relevance": "Ölmüş anne rüyasını doğrudan ruhlarla iletişim yerine yasın işlenmesi ve Tanrı’nın tesellisi çerçevesinde ele alan Hristiyan yorum metni.",
+      "url": "https://thesoultext.com/biblical-meaning-of-dreaming-of-deceased-mother/"
+    },
+    {
+      "title": "聖書は亡くなった母親の夢を説明するか？",
+      "relevance": "Kutsal Kitap’ta ölmüş anne rüyasına dair açık ve spesifik bir kaydın olmadığını belirten kısa Hristiyan kaynak sayfası.",
+      "url": "https://christianpure.com/ja/learn/dreaming-deceased-mother/"
+    },
+    {
+      "title": "I dreamt that my mother is sad...",
+      "relevance": "Vefat etmiş annenin rüyada görülmesini ve bunun ardından yapılabilecek manevi/ahlaki eylemleri tartışan Yahudi pratik metni.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/612166/jewish/I-dreamt-that-my-mother-is-sad.htm"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Berakhot 55b’de rüya sembolizmi içinde 'ay' motifi ve anne eşleştirmesi kapsamında yapılan tartışmanın aktarımı.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Viviennes Visitation « Ask The Rabbi « - Ohr Somayach",
+      "relevance": "Ölen yakınların rüyada görülebileceği ve bunun yaşayanla manevi bir ilişki taşıyabileceği düşüncesini özetleyen Yahudi kaynak aktarımı.",
+      "url": "https://ohr.edu/explore_judaism/ask_the_rabbi/ask_the_rabbi/4199"
+    },
+    {
+      "title": "Dream of Mother Meaning — Vedic Interpretation (Swapna ...",
+      "relevance": "Vedic gelenekte ölmüş annenin rüyada görülmesini ata ziyareti ve İlahi Anne çağrışımıyla ilişkilendiren çevrim içi yorum.",
+      "url": "https://www.vedicbirth.com/dream/mother"
+    },
+    {
+      "title": "Dying Mother Dream Meaning & Interpretation",
+      "relevance": "Budist açıdan annenin ölümü temasını geçicilik (anicca), ızdırap/acı (dukkha) ve bırakma ekseninde yorumlayan modern rüya sayfası.",
+      "url": "https://mirrorwithin.com/dream-dictionary/dying-mother/"
+    },
+    {
+      "title": "Dreaming of the Dead - JOSePH DReAM CATCHeRZ",
+      "relevance": "Ölmüş yakınların rüyasını yas, anı, merhamet ve geçicilikle ilişkilendiren modern yorum metni.",
+      "url": "https://joesphdream.com/dreaming-of-the-dead/"
+    },
+    {
+      "title": "Mother's Death Dream Meaning & Interpretation",
+      "relevance": "Budist açıdan annenin ölümü temasını anicca, dukkha ve bırakma üzerinden yorumlayan modern rüya sayfası.",
+      "url": "https://mirrorwithin.com/dream-dictionary/mother-death/"
+    },
+    {
+      "title": "The Forge and the Crucible",
+      "relevance": "Simyada 'anne' imgesinin prima materia (ilksel madde) ve ilksel doğa kavramlarına işaret eden sembolik kullanımlarını ele alan metin.",
+      "url": "https://rexresearch1.com/AlchemyArchives/EliadeForgeCrucible.pdf"
+    },
+    {
+      "title": "Full text of \"Hidden Symbolism of Alchemy and the Occult Arts\"",
+      "relevance": "Anne, yer ve içe dönüş imgelerinin simyasal ve okült sembolizmde nasıl birlikte düşünüldüğünü gösteren kaynak.",
+      "url": "https://archive.org/stream/hiddensymbolismo27755gut/27755-pdf_djvu.txt"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian",
+    "buddhist-eastern"
+  ]
+}

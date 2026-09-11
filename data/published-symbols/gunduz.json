@@ -1,0 +1,250 @@
+{
+  "slug": "gunduz",
+  "title": "gündüz",
+  "shortDescription": "Rüyada gündüz görmek, günlük yaşamın, rutinlerin ve görünür olma temasının rüyaya yansımasını çağrıştırabilir. Yumuşak bir aydınlık ferahlık ve netleşme hissi verirken, göz alıcı sert ışık dış baskı veya değerlendirilme kaygısıyla ilişkilendirilebilir.",
+  "positiveAssociations": [
+    "Görünürlük ve açıklık (şeylerin daha açık olması veya görünür hale gelmesi)",
+    "Kamusal/işlevsel yaşam, sorumluluk ve düzenle ilişkili temalar",
+    "Zihinsel netlik veya bir konunun aydınlanması ihtimali",
+    "Rahatlama ve sıkıntıdan geçici kurtuluş hissi (gündelik yükün hafiflemesi)"
+  ],
+  "challengingAssociations": [
+    "Aşırı uyarılma veya rahatsız edici parlaklık (dış dünyanın baskısını hissetme)",
+    "Rutin ve sıradanlığın bunaltıcılığı; monotonluğun vurgulanması",
+    "Maruz kalma, mahremiyetin azalması veya değerlendirilme kaygısı",
+    "İnce içsel işaretlerin gözden kaçması (dışa dönük talep veya dikkat nedeniyle içe dönük sinyallerin bastırılması)"
+  ],
+  "contextDependentAssociations": [
+    "Gündüz şekerlemeleri ve gündüz düşleri, duygu yoğunluğu ve duyusal canlılık bakımından farklılıklar gösterebilir.",
+    "Gündüzün rüyada nasıl göründüğü (yumuşak şafak mı yoksa sert öğle güneşi mi olduğu) anlamı etkiler.",
+    "Gündüz imgelerinin rüya içindeki diğer kişiler, mekân ve etkinliklerle birleşerek özel bir bağlam oluşturması, yorumun bağlama göre değişebileceğini gösterir."
+  ],
+  "commonVariations": [
+    {
+      "title": "Göz Alıcı / Baskın Gündüz Işığı",
+      "description": "Rüyada olağandışı derecede parlak, göz alıcı bir gündüz; dış dünyanın taleplerinin veya farkındalık baskısının arttığını, bazı durumlarda içsel detayların gözden kaçabileceğini gösterebilir."
+    },
+    {
+      "title": "Gündüz Şekerlemesi Sırasında Canlı Rüya",
+      "description": "Kısa gündüz uykusunda duyusal olarak yoğun ve tuhaf öğeler içeren rüyalar; bu tür rüyalar genellikle o anki duygulanımı ve gün içindeki yaşantı izleriyle bağlantılı olur."
+    },
+    {
+      "title": "Alışılmış Bir Gündüz Akışı",
+      "description": "Rüyada tanıdık gündelik bir gündüz sahnesi; rüya sahibinin rutinleri, görevleri ve günün izlerinin bilinçdışında işlenmesine işaret edebilir."
+    },
+    {
+      "title": "Karanlıktan Ani Gündüze Geçiş",
+      "description": "Rüyada karanlık bir ortamdan ani olarak gündüze, şafağa veya parlak aydınlığa çıkmak; belirsizliklerin azalması veya bir konunun daha görünür hale gelmesi ile ilişkilendirilebilir. Bu tür görüntüler bağlama göre yorumlanmalı; birdenbire 'çözüm' anlamı çıkarmak yerine olasılık olarak değerlendirilmelidir."
+    }
+  ],
+  "psychology": "Rüya içerik analizleri gündüz imgelerini tek bir sabit anlamla değil, uyanıklık deneyimlerinin rüyaya taşınması ve bağlamsal örüntüler içinde değerlendirilmesi gerektiğini vurgular. Gündüz şekerlemeleri ve gündüz düşleri bağlamında yapılan çalışmalar, REM ve NREM evreleri arasındaki farklara bağlı olarak duygu yoğunluğu ve duyusal tuhaflıkta farklılıklar olduğunu göstermektedir; gündüz imgeleri rüya içeriğini etkileyebilir, ancak bunu tek bir sabit anlama genellememek gerekir.",
+  "jungian": "Jungcu yaklaşımlar doğrudan bir 'gündüz' sembolü sunmaz; bununla birlikte Jungcu çerçevede gündüz imgeleri muhtemelen bilinçli, sıradan veya gündelik yaşamla ilişkili çağrışımlar uyandırabilir. Bu tür okumalar bağlamsal olup rüya sahibinin kişisel çağrışımları ve rüyanın bütünlüğü göz önünde bulundurularak yapılmalıdır.",
+  "islamicTradition": "İslam rüya tabir geleneklerinde gündüzün rüyada belirgin olması genelde aydınlık, ferahlık ve gizli şeylerin açığa çıkması ekseninde yorumlanır; geleneksel maddelerde ayrıca sıkıntıdan kurtulma, sevinçli haberler veya hapisten kurtuluş gibi olumlu anlamlar da yer alır. Bu tema genel bir eğilimi yansıtır; belirli yorumlar rüyanın bağlamına ve tabir geleneğinin kaynağına göre değişir.",
+  "christianTraditions": "Hristiyan metin ve yorumlarında 'gün' ve ışık motifleri yaratılış düzeni, ilahî aydınlık ve doğruluk ile ilişkilendirilir; rüyada gündüz algısı bu bağlamda açıklık, yön gösterme ve yaşamın görünür yönleriyle bağlantılı şekilde ele alınabilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde (Berakhot çevresi dahil) rüyaların sabit mesajlar taşımadığı, yorum ve rüya sonrasındaki uygulamaların anlamı şekillendirdiği vurgulanır. Bu çerçevede gündüz, ibadet, çalışma ve topluluk ritmine bağlı uyanık yaşamın rüyaya yansıma potansiyeli taşıyan bir zamansal çerçeve olarak düşünülebilir.",
+  "buddhistEasternApproaches": "Budist metin ve şiirsel geleneğe göre gündüz ışığı bilgi ve berraklık simgesi olarak kullanılır; şafaktan gündüze geçiş genellikle doğru görüşün hakikati kavrama süreciyle ilişkilendirilir ve gündüz–gece ikiliği sürekli dikkat ve uyanıklık idealini çağrıştırır.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel yorumlarda gündüz, dış dünyaya yönelme, iç ışığın görünür hale gelmesi ve bilinçli farkındalıkla ilişkilendirilir. Buna karşılık, yapay ya da aşırı sert gündüz imgeleri enerjinin aşırı dışa yönelmiş olabileceğini veya daha ince sezgisel bilgilerin gölgede kaldığını düşündürebilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Gündüz yaşantılarının rüya içeriğine aktarılması ve gündüz şekerlemesi raporlarında duygu yoğunluğu ile duyusal özelliklerdeki farklılıkların gözlenmesi.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Kuram (Freud)",
+      "interpretation": "Gün kalıntılarının rüya malzemesi sağlaması; gündelik yaşantının rüya içeriğine katkıda bulunması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jungçu)",
+      "interpretation": "Gündüz imgeleri bağlama göre bilinçli ve gündelik durumlarla ilişkilendirilebilir; anlam kişisel çağrışımlara bağlıdır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Aydınlık, ferahlık, gizlinin açığa çıkması ve bazen sıkıntıdan kurtuluşla ilişkilendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik / Spiritüel",
+      "interpretation": "Güneşsel bilinç, netleşme ve dışa dönük etkinlik gibi temalarla yorumlanır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşım gündüzü görünürlük, aydınlık/aydınlanma ve uyanıklık ile ilişkilendirir; ayrıca gündelik yaşamın izlerinin rüya içeriğini şekillendirebileceği konusunda örtüşme vardır. Bununla birlikte yorumlar bağlama ve geleneksel çerçeveye göre değişir.",
+  "differences": "Bilimsel ve psikanalitik yaklaşımlar gündüzü sıklıkla 'gün kalıntıları' ve uyanıklık yaşantılarının bir aktarımı olarak görürken; dini ve ezoterik gelenekler daha çok gündüzü aydınlanma, kurtuluş veya ilahî ışık ile ilişkilendirir. Jungcu okumalar ise sabit anlamlar yerine kişisel çağrışımları ve rüyanın bütününü önceler.",
+  "inusAssessment": "Rüyada gündüz görülmesi, tek bir sabit anlamdan ziyade rüyanın bağlamı, gündüzün niteliği (ör. yumuşak şafak veya sert öğle güneşi), rüya sahibinin uyanık yaşamına dair son izler ve duygulanım örüntüleri üzerinden anlam kazanır. Gündüz imgesi genellikle görünürlük, kamusal zaman dilimi ve günlük sorumluluklarla ilgili işaretleri içerir; bu işaretlerin hangi anlama geldiği rüyanın detaylarıyla belirlenir.",
+  "faq": [
+    {
+      "question": "Rüyada gündüz görmek her zaman ferahlık ve aydınlanma anlamına mı gelir?",
+      "answer": "Hayır. Geleneksel tabirlerde gündüz sıklıkla ferahlık veya gizlinin açığa çıkmasıyla ilişkilendirilse de, psikolojik ve modern okumalarda gündüzün niteliği önemlidir: aşırı parlak veya sert bir gündüz dışsal baskıların, uyarılmanın ya da içsel ayrıntıların gözden kaçmasının işareti olabilir. Yorum rüyanın bağlamına bağlıdır."
+    },
+    {
+      "question": "Gündüz şekerlemesinde görülen rüyalar diğer rüyalardan farklı mıdır?",
+      "answer": "Evet; araştırmalar gündüz şekerlemelerinde rapor edilen rüyaların duygu yoğunluğu, duyusal canlılık ve tuhaflık açısından farklılıklar gösterebileceğini belirtir. Bu tür rüyalar genellikle o anki duygulanımı ve güncel yaşam izlerini daha belirgin yansıtabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "A Novel Approach to Dream Content Analysis Reveals Links ...",
+      "relevance": "Gündüz yaşantıları ile rüya içeriği arasındaki anlamsal benzerlikleri ve uyanık yaşam izlerinin rüyalara aktarılma biçimlerini inceleyen ampirik çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6088287/"
+    },
+    {
+      "title": "Daydreams and nap dreams: Content comparisons - PubMed",
+      "relevance": "Gündüz uykusu ve gündüz düşleri bağlamında rüya raporlarındaki duygu yoğunluğu, duyusal deneyim ve tuhaflık farklarını karşılaştıran araştırma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26164253/"
+    },
+    {
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içerik analizinin kategori temelli yöntemini ve zaman/ortam referanslarının nasıl kodlandığını açıklayarak 'gündüz' gibi öğelerin örüntü içinde ele alınması gerektiğini gösterir.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "Copyright American Psychological Association. Not for ...",
+      "relevance": "Rüya araştırmasında içerik analizinin tarihsel yöntembilimini ve rüya raporlarının kategorik/frekans temelli incelenmesini özetler.",
+      "url": "https://dreams.ucsc.edu/TSSOD/TSSOD.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 7, part b",
+      "relevance": "Psikanalitik çerçevede 'gün kalıntıları' kavramını sunar; uyanık yaşantıların rüya malzemesi sağlamasına dair temel metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7b.htm"
+    },
+    {
+      "title": "Characteristics of the memory sources of dreams",
+      "relevance": "Rüyalarda gün kalıntılarının varlığını ve gündelik yaşantı izlerinin rüya içeriğine katkısını inceleyen akademik çalışma.",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185262"
+    },
+    {
+      "title": "Daytime in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Gündüzün rüyada bilinçli, gündelik ve sıradan olanı çağrıştırabileceğini söyleyen Jungcu yorum.",
+      "url": "https://rosmertapublishing.com/dream-symbols/day/"
+    },
+    {
+      "title": "Jung on the Nature and Interpretation of Dreams - PMC",
+      "relevance": "Jung'un rüya anlayışı ve rüya imgelerinin bağlam/çağrışımla okunması gerektiğine dair akademik özet; Jungcu yaklaşıma dair temkinli açıklamalar sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4217604/"
+    },
+    {
+      "title": "The Analytical Psychology of Carl Gustav Jung",
+      "relevance": "Jungcu sembol ve rüya imgelerinin sabit değil, bilinçdışıyla ilişkili ve çokanlamlı olduğunu anlatan genel açıklama.",
+      "url": "https://static1.squarespace.com/static/52cdf95ae4b0c18dd2d0316a/t/52dd858be4b047cdd8890e60/1390249355596/The+Analytical+Psychology+of+Carl+Gustave+Jung.pdf"
+    },
+    {
+      "title": "Dreams In Jungian Psychology: The use of Dreams as ... - PMC",
+      "relevance": "Jungcu rüya yorumunda sembollerin bağlam ve çağrışımla okunması gerektiğini aktaran modern akademik özet.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3216128/"
+    },
+    {
+      "title": "Jung's Dream Symbols: Archetypal Images | Somniary",
+      "relevance": "Jungcu analizde imgeyi kişisel ve arketipsel çağrışımlarla birlikte ele alma yöntemini anlatan modern açıklama.",
+      "url": "https://somniary.com/dream-library/dream-science/jung-dream-symbols"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorumcusu Artemidoros'un rüya sınıflandırması; zaman göstergelerinin bağlam içinde okunması gerektiğini gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidoros’un rüya tipleri ve yorum yöntemi üzerine akademik açıklama sunar; yakın zamanlı ve alegorik rüya ayrımı, gündüzün tarihsel rüya yorumunda bağlamsal okunmasına yardımcı olur.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "The Interpretation of Dreams in the Ancient Near East. With a Translation of an Assyrian Dream-Book",
+      "relevance": "Eski Yakın Doğu rüya kitaplarının nasıl yapılandığına dair tarihsel çerçeve verir; zaman ve görünürlük unsurlarının geniş işaret sistemleri içinde yorumlandığını anlamaya katkı sağlar.",
+      "url": "https://ia802907.us.archive.org/6/items/Oppenheim1956AssyrianDreamBook/Oppenheim_1956_Assyrian_Dream_Book.pdf"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "İslami tabir geleneğinde 'gündüz' maddesini içeren derleme kaynak; rüyada gündüz görmenin gelenek içindeki yorumlarına dair örnekler sunar.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri G Harfi - Muhammed.net",
+      "relevance": "Nablusî’ye atfedilen gündüz tabiri maddesini çevrimiçi olarak aktaran sayfa; gündüz sembolü için aynı anlam kümesini yeniden sunar.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-g-harfi.html"
+    },
+    {
+      "title": "12. gündüz görülen rüya",
+      "relevance": "İbn Sîrîn’e atfedilen \"gündüz görülen rüya, gece görülen rüya gibidir\" aktarımını veren sayfa; gündüz-gece karşıtlığını göstermesi bakımından ilişkili.",
+      "url": "https://www.islamiokul.com/kitap/files/buh/had/171/2278.htm"
+    },
+    {
+      "title": "Day and Night in Scripture: 7 Patterns of Creation and Covenant",
+      "relevance": "Kutsal Yazılarda gün/ışık motiflerinin yaratılış ve ilahî aydınlık temalarıyla bağlantısını ele alır; Hristiyan sembolik çerçeveye katkı sağlar.",
+      "url": "https://biblicalpathway.com/day-and-night-in-scripture-7-patterns-of-creation-and-covenant/"
+    },
+    {
+      "title": "SIGNS & SYMBOLS OF THE BIBLE (DAY) - Jesusway4you",
+      "relevance": "Günün, doğru ve iyi olanla ve 'günün insanı' imgesiyle ilişkilendirildiği Hristiyan sembolik okuma sunar.",
+      "url": "https://jesusway4you.com/2019/02/04/signs-symbols-of-the-bible-day/"
+    },
+    {
+      "title": "Dictionary_of_Theology-66_eng_cn_v2",
+      "relevance": "'Day' kavramının Kutsal Kitapta gündüz, zaman ve iyi-kötü karşıtlığıyla kullanılabildiğini özetler.",
+      "url": "https://biblestudydownloads.org/files/eng/cn/Dictionary_of_Theology_(Debbie_Dodd)-67_eng_cn_v2.pdf"
+    },
+    {
+      "title": "Day - Encyclopedia of The Bible",
+      "relevance": "Günün Kutsal Kitapta 'Rabbin günü', yargı ve kurtuluş gibi geniş sembolik kullanımlarını derler.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Day"
+    },
+    {
+      "title": "Dreams in the Talmud 1: Brachot 55",
+      "relevance": "Berakhot 55a–57b çevresindeki rüya tartışmalarına erişim sağlar; Yahudi rüya yorumunun temel çerçevesini görmek için yararlıdır.",
+      "url": "https://www.sefaria.org/sheets/222313"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Berakhot 57 sayfasına işaret eden metin erişimi; Talmudik rüya tartışmalarının yerini doğrulamak için kullanışlıdır.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Dreams in Judaism?",
+      "relevance": "Rüyaların gündüz yaşanan düşünce ve olaylarla ilişkilenebileceği yönündeki Talmudik aktarımı içerir.",
+      "url": "https://judaism.stackexchange.com/questions/10502/dreams-in-judaism"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Rüyadan sonraki gün yapılan düzeltici uygulamaları anlatır; rüya ile ertesi gün arasındaki pratik bağı gösterir.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot’taki rüya öğretisinin yorum merkezli ve temkinli yapısını açıklar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Verse 387. The Buddha Shines Day And Night",
+      "relevance": "Budist gelenekte gündüz/gece parlaklığına dair imgeler; gündüzü bilgi ve aydınlanma simgesi olarak okuyan metinsel örnek.",
+      "url": "http://vipassana24.com/verse-387-the-buddha-shines-day-and-night/"
+    },
+    {
+      "title": "[PDF] 1.7 Seeing the Light - The Minding Centre",
+      "relevance": "Budist ışık sembolizmini, gündüz ışığıyla bağlantılı olarak bilgelik ve aydınlanma çerçevesinde açıklar.",
+      "url": "https://www.themindingcentre.org/dharmafarer/wp-content/uploads/2010/02/BBB-7-Light-symbolism.pdf"
+    },
+    {
+      "title": "Suriy'upamā Sutta 1",
+      "relevance": "Şafak ve güneşin doğuşunu doğru görüş ve hakikatin kavranmasıyla ilişkilendiren Budist pasaj.",
+      "url": "https://www.themindingcentre.org/dharmafarer/wp-content/uploads/2013/04/49.15-Suriyupama-S-1-s56.37-piya.pdf"
+    },
+    {
+      "title": "Day and night: Significance and symbolism",
+      "relevance": "Gündüz-gece ikiliğini Budist uygulamada süreklilik, dikkat ve uyanıklık bağlamında ele alan sembolik derleme.",
+      "url": "https://www.wisdomlib.org/concept/day-and-night"
+    },
+    {
+      "title": "Day in Dreams: Light, Clarity, and the Timetable of the Psyche",
+      "relevance": "Modern yorum bağlamında gündüzün rüyalarda bilinç, görünürlük ve egonun dış dünyaya yönelimiyle ilişkilendirilebileceğini tartışan kaynak.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/day"
+    },
+    {
+      "title": "Day in dreams — meaning and symbolism",
+      "relevance": "Gündüzü ışık, ritim, etkinlik ve görünürlük; ayrıca ezoterik bağlamda güneşsel bilinç ve dışa dönük enerji olarak ele alan modern yorum metni.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/day"
+    }
+  ],
+  "relatedSlugs": []
+}

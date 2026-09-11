@@ -1,0 +1,245 @@
+{
+  "slug": "harita",
+  "title": "harita",
+  "shortDescription": "Rüyada harita görmek, hayatınızdaki yön arayışı, kararlar ve gelecek planlarıyla ilişkilendirilir. Temiz bir harita netlik ve düzeni, eski ya da okunmayan bir harita ise geçmiş hedefleri veya belirsizlikleri yeniden düşünme ihtiyacını çağrıştırabilir.",
+  "positiveAssociations": [
+    "Doğru rota tayini",
+    "Hedef netliği",
+    "İçsel rehberlik",
+    "Fırsatları değerlendirme",
+    "Düzen ve organizasyon"
+  ],
+  "challengingAssociations": [
+    "Karar verme sürecinde dağınıklık",
+    "Fırsatları kaçırma endişesi",
+    "Yönünü kaybetme korkusu",
+    "Belirsizlik karşısında bocalama"
+  ],
+  "contextDependentAssociations": [
+    "Haritanın temiz, bozuk veya eski olması",
+    "Haritayı incelemek veya kendiniz çizmek",
+    "Mevcut yaşam evresindeki karar ve sorumluluklar"
+  ],
+  "commonVariations": [
+    {
+      "title": "Ayrıntılı Bir Haritayı İncelemek",
+      "description": "Rüyada büyük ve detaylı bir haritayı dikkatle incelemek, uzun vadeli bir seyahate çıkma veya hayatın mevcut yönünü gözden geçirme ihtiyacına işaret eder."
+    },
+    {
+      "title": "Yeni Bir Harita Çizmek",
+      "description": "Kendi elinizle bir harita çizdiğinizi görmek, yeni bir plan yapma, yeni bir iş teklifini değerlendirme veya sıfırdan bir yön tayin etme çabasını yansıtır."
+    },
+    {
+      "title": "Eski veya Yıpranmış Harita Görmek",
+      "description": "Üzerindeki yazıları silinmiş veya yıpranmış bir harita bulmak, geçmişteki kararları sorgulama, unutulmuş bazı hedefleri yeniden hatırlama veya maddi-manevi rehberlik arayışını simgeler."
+    },
+    {
+      "title": "Haritada Kaybolmak veya Yolu Bulamamak",
+      "description": "Haritaya bakmanıza rağmen nereye gideceğinizi kestiremediğinizi görmek, karar aşamasındaki kararsızlıkları ve belirsizlik hissini gösterir."
+    }
+  ],
+  "psychology": "Rüya içerik analizleri ve rüya duyguları üzerine yapılan ampirik çalışmalar, rüya raporlarındaki duygu tonunun ve içerik öğelerinin sistematik olarak kodlanabileceğini gösterir. Harita gibi görsel ve işlevsel bir sembol, dış değerlendiriciler tarafından bireyin o anki bilişsel durumunu, kararsızlıklarını veya yönelim arayışını yansıtan bir kodlama öğesi olarak incelenebilir.",
+  "jungian": "Analitik psikoloji perspektifinde semboller, bilinçdışı içeriğin o anda sunulabilen en iyi ifadesidir. Rüyada harita görmek, bilinçli benlik ile bilinçdışı arasındaki bağı kurma, ruhsal alanı düzenleme ve kişisel bütünleşme yolunda bir yönelim işlevi taşır.",
+  "islamicTradition": "Modern çevrimiçi rüya tabiri kaynaklarında harita görmek çoğunlukla yolculuk, fırsat, karar verme, kazanç ve günlük sorumluluklar ile ilişkilendirilir. Haritanın düzgün ve temiz olması işlerin kolaylaşmasına ve doğru vasıtaların bulunmasına işaret eder. Bozuk, eski veya kayıp olması ise fırsatları kaçırmamaya dikkat etme uyarısı olarak yorumlanır.",
+  "christianTraditions": "Hristiyanlık eksenli bazı yorumlayıcı çerçevelerde harita, ilahi yönlendirme, Tanrı'nın sözü, öğüt ve doğru yolu izleme çağrışımları taşır; bu okuma nesneyi manevi itaat ve rehberlik temasıyla bağlar.",
+  "jewishTraditions": "Talmudik gelenekte rüyaların anlamlı ve yorumlanabilir kabul edildiği temel çerçeve göz önüne alındığında, harita sembolü kişinin hayat yolundaki yönünü, karar süreçlerindeki konumunu ve amaçlı hareket etme ihtiyacını simgeleyen bir işaret olarak okunabilir.",
+  "buddhistEasternApproaches": "Budist rüya yaklaşımında zihin tarafından kurulan temsiller geçici ve akışkandır. Harita sembolü, mutlak bir gerçekliğe yapışmadan yön tayin etme, planları geçicilik bilinci içinde tutma ve mandala benzeri bir mekânsal bütünlük hissiyle değerlendirilebilir.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda harita, içsel pusulayı güçlendirme, mevcut yaşam rotasını tartma ve henüz keşfedilmemiş içsel alanlara bakma isteğiyle ilişkilendirilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Rüya raporlarındaki içerik ve duygu tonunun sistematik olarak sınıflandırılması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Bilinç ve bilinçdışı arasında köprü kurma, ruhsal uzayı düzenleme ve yönelim işlevi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve (Freud)",
+      "interpretation": "Zihinsel katmanlar arasındaki regresif süreçler ve gizli düşüncelerin temsili.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami ve Kültürel Aktarımlar",
+      "interpretation": "Yolculuk, planlama, karar verme ve doğru vasıtaları bulma temaları.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Manevi ve Spiritüel Okumalar",
+      "interpretation": "Yaşam rotasını tayin etme, içsel keşif ve belirsizlikte yön bulma.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımların ortak noktası, haritanın sabit bir kehanet nesnesi olmaktan ziyade yön bulma, düzenleme, karar alma ve içsel ve dışsal konum belirleme süreçlerinin birer temsil aracı olarak ele alınmasıdır.",
+  "differences": "Yaklaşımlar arasındaki temel fark şudur: ampirik psikoloji rüya raporlarını dışsal kodlama kategorileriyle inceler. Psikanalitik ve Jungcu gelenekler içsel zihinsel mekanizmalara odaklanır. Spiritüel ve geleneksel yaklaşımlar ise yönlendirme ile kader ve karar eksenli anlamlar yükler.",
+  "inusAssessment": "Rüyada harita görmek, sabit bir sözlük anlamından ziyade rüya sahibinin uyanık yaşamındaki karar aşamalarını ve yönelim arayışını yansıtan dinamik bir imgedir. Haritanın temiz, eski veya yeni olması ya da rüya sahibinin haritayı incelemek yerine çizmesi gibi ayrıntılar, zihnin hangi yaşam alanında düzen kurmaya veya rota tayin etmeye çalıştığını anlamada belirleyicidir.",
+  "faq": [
+    {
+      "question": "Rüyada harita görmek kesinlikle seyahat edeceğim anlamına mı gelir?",
+      "answer": "Hayır. Çeşitli yaklaşımlar haritayı yalnızca fiziksel bir yolculukla değil, aynı zamanda hayatta alınan kararlar, planlama süreçleri ve zihinsel yönelimlerle de ilişkilendirir."
+    },
+    {
+      "question": "Eski bir harita görmek rüyada neyi ifade eder?",
+      "answer": "Eski bir harita, geçmişteki kararları gözden geçirme, unutulmuş bazı hedefleri hatırlama veya eski yöntemlerle rehberlik arama çabasına işaret edebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinde kodlama ilkeleri ve dış değerlendiriciyle sınıflama yaklaşımını açıklar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Dream emotions: a comparison of home dream reports with ...",
+      "relevance": "Rüya raporlarında duyguların bağımsız değerlendirmeyle kodlanmasına ilişkin ampirik yöntem sunar.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jsr.12555"
+    },
+    {
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Rüyanın anlamlı bir ruhsal oluşum olarak ele alınışı ve istek gerçekleşimi fikri.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams - London",
+      "relevance": "Rüya öğeleriyle serbest çağrışım yöntemi ve rüya yorumunun çalışma biçimi.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/"
+    },
+    {
+      "title": "Unlocking Dreams: Freud's Topographic Model Explained",
+      "relevance": "Freud'un topografik modelini ve zihinsel aygıtın katmanlarını açıklayan metin; rüya imgelerine mekânsal bir okuma zemini sağlar.",
+      "url": "https://www.therapyroute.com/article/dreams-theory-and-clinical-practice-part-2-by-d-van-der-heide"
+    },
+    {
+      "title": "The Interpretation of Dreams",
+      "relevance": "Rüyaların regresif süreçler ve örtük düşüncelerin temsil biçimleri üzerinden işlendiğini anlatan açıklama.",
+      "url": "https://www.learnlacan.com/sources/barnes-and-noble-classics-sigmund-freud-gina-masucci-mackenzie-a-a-brill-transla/"
+    },
+    {
+      "title": "Analytical psychology among symbolism, semiotics, iconology, and ...",
+      "relevance": "Analitik psikoloji açısından sembol kavramının, bilinçdışı içeriğin en iyi ifadesi olarak anlaşılmasını açıklar.",
+      "url": "https://www.cgjung.net/espace/jps/articles/rachel-huber/situating-analytical-psychology/"
+    },
+    {
+      "title": "Carl Jung's “Living Symbols”",
+      "relevance": "Jung’un sembol anlayışını ve rüyalarda imgelerin anlam katmanlarını ele alan Jungcu bir çerçeve sunar.",
+      "url": "https://www.thesquaremagazine.com/mag/article/202212carl-jungs-living-symbols/"
+    },
+    {
+      "title": "Cultured Symbols / Thoughts on the Cultural Context of Cartographic Symbols",
+      "relevance": "Haritanın kültürel bağlamlarda yalnızca gösteren değil, aynı zamanda anlam ve ikna üreten bir sembol olarak nasıl işlediğini açıklar.",
+      "url": "https://www.academia.edu/92384672/Cultured_Symbols_Thoughts_on_the_Cultural_Context_of_Cartographic_Symbols"
+    },
+    {
+      "title": "A Cultural History of Maps - j.b.krygier: geography 222: lecture outline",
+      "relevance": "Haritaların kültürler ve dönemler arasındaki dünya tasavvurlarını yansıttığını ve kosmolojik harita türlerinin sembolik anlam taşıdığını anlatır.",
+      "url": "https://krygier.owu.edu/krygier_html/geog_222/geog_222_lo/geog_222_lo05.html"
+    },
+    {
+      "title": "The Map and the Development of the History of Cartography",
+      "relevance": "Haritaların kutsal, mitik, ideolojik ve sembolik işlevler taşıyabildiğini tartışan kartografi tarihi çerçevesi sunar.",
+      "url": "https://press.uchicago.edu/books/hoc/HOC_V1/HOC_VOLUME1_chapter1.pdf"
+    },
+    {
+      "title": "Symbolic space on the old maps of Silesia (16th–18th c.)",
+      "relevance": "Tarihî haritalardaki sembolik ve ideolojik katmanların nasıl kurulduğunu örnekleyen akademik bir çalışma sunar.",
+      "url": "https://apcz.umk.pl/AZMDDP/article/download/SG.2013.07/17328/49044"
+    },
+    {
+      "title": "[PDF] The World as Allegory in Cartography Symbolic and Allegorical ...",
+      "relevance": "Kartografik temsillerin alegorik ve sembolik yorumlara açık olduğunu tartışır.",
+      "url": "https://edizionicafoscari.unive.it/media/pdf/article/the-journal-for-the-philosophy-of-language-mind-an/2024/1/art-10.30687-Jolma-2723-9640-2024-01-010.pdf"
+    },
+    {
+      "title": "What does it mean to see a map in a dream?",
+      "relevance": "Harita sembolünün çevrimiçi İslami rüya tabiri içinde fırsat, emanet, karar verme ve işlerin kolaylaşması temalarıyla nasıl ilişkilendirildiğini gösteren modern bir aktarım.",
+      "url": "https://www.molla.az/en/dream-interpretation/what-does-it-mean-to-see-a-map-in-a-dream"
+    },
+    {
+      "title": "Ansiklopedik Büyük Rüya Tabirleri - Yusuf Tavaslı | PDF - Scribd",
+      "relevance": "Harita için yolculuk merkezli bir tabir aktarımı veren modern derleme; haritayı inceleme ve harita çizme gibi ayrıntılar içeriyor.",
+      "url": "https://www.scribd.com/document/803462110/Ansiklopedik-Buyuk-Ruya-Tabirleri-Yusuf-Tavasl%C4%B1"
+    },
+    {
+      "title": "الخريطة في المنام - مقالات نت",
+      "relevance": "Harita/خرائط için planlama, hedef arama, yön bulma, karar dağınıklığı ve seyahat düşüncesi gibi yorumlar sunan Arapça çevrimiçi aktarım.",
+      "url": "https://www.maqlat.net/%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85/"
+    },
+    {
+      "title": "What does it mean to see an old map in a dream?",
+      "relevance": "Eski harita için para, rehberlik ve amaçta yön bulma temalarını aktaran çevrimiçi İslami rüya tabiri sayfası.",
+      "url": "https://www.molla.az/en/dream-interpretation/what-does-it-mean-to-see-an-old-map-in-a-dream"
+    },
+    {
+      "title": "[PDF] İbni Sîrîn'den Tercüme Edilen Bir Rüya Tabîr-Nâmesi - SADAB",
+      "relevance": "İbn Sîrîn’e nispet edilen rüya tabiri geleneğinin tarihsel çerçevesini ve ilgili yazma/metin aktarımını belgeleyen kayıt.",
+      "url": "https://makale.isam.org.tr/server/api/core/bitstreams/c513adc0-7e40-4fcb-930b-660b5bc70fa0/content"
+    },
+    {
+      "title": "Rüyada Harita Görmek Ne Anlama Gelir? Neye İşarettir? - Diyadinnet",
+      "relevance": "Harita görmenin yolculukla ilişkilendirildiğini aktaran Türkçe çevrimiçi tabir sayfası; harita çizme ve harita inceleme ayrıntıları içeriyor.",
+      "url": "https://www.diyadinnet.com/ruyada-5131-harita-gormek"
+    },
+    {
+      "title": "تفسير رؤية الخرائط في المنام لأبن شاهين- مرجعي Marj3y",
+      "relevance": "Haritaların rüyada çok seyahat etme ve ülkeler arasında dolaşma anlamlarına gelebileceğini ileri süren Arapça çevrimiçi aktarım.",
+      "url": "https://marj3y.com/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D9%84%D8%A3%D8%A8%D9%86-%D8%B4%D8%A7%D9%87%D9%8A/"
+    },
+    {
+      "title": "Celebrating Memorial Day 2026 - Apostle David E. Taylor [Official Site]",
+      "relevance": "Haritanın Tanrı'nın sözü, öğüt ve ilahi yönlendirme ile bağdaştırıldığını gösteren Hristiyan içerik.",
+      "url": "https://joshuamediaministries.org/dreams/map/"
+    },
+    {
+      "title": "Berakhot 57b | The Sefaria Library",
+      "relevance": "Berakhot 57b metni, Talmud’daki rüya pasajlarının merkezî bir örneğini ve rüyalarla ilgili Yahudi düşüncenin temel bağlamını gösterir.",
+      "url": "https://www.sefaria.org/Berakhot.57b?lang=en"
+    },
+    {
+      "title": "In Our Dreams",
+      "relevance": "Yahudi rüya düşüncesinde rüyaların anlamlı ve yorumlanabilir görülmesine dair genel çerçeveyi sunar; sembolik okuma için teolojik arka plan sağlar.",
+      "url": "https://bzbi.org/in-our-dreams/"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist yaklaşımda rüya sembollerinin sabit olmadığını, geçicilik ve boşluk düşüncesiyle ilişkilendirilebileceğini anlatır.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "15 · Maps of Greater Tibet",
+      "relevance": "Tibet bağlamında haritaların Budist meditasyon ve kozmografik düşünceyle bağlantısını gösterir.",
+      "url": "https://press.uchicago.edu/books/hoc/HOC_V2_B2/HOC_VOLUME2_Book2_chapter15.pdf"
+    },
+    {
+      "title": "[PDF] Dream Interpretation in Buddhism and Contemporary Psychotherapy",
+      "relevance": "Budist rüya yorumu tartışmalarında beden-evren ilişkisi ve mandala benzeri düzen fikrini öne çıkarır.",
+      "url": "https://thecjbs.org/wp-content/uploads/2025/04/McCullough-Shiu_Dreaming-Buddha_19.pdf"
+    },
+    {
+      "title": "Map Dream Meaning: Finding Direction, Choice, and Inner ...",
+      "relevance": "Harita sembolünü rüyada yön bulma, karar verme ve içsel yolculuk bağlamında ele alan modern spiritüel yorum.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/map"
+    },
+    {
+      "title": "Map Dream Meaning & Interpretation - Mirror",
+      "relevance": "Harita sembolünü rüyalarda açıklık, yön tayini ve kişisel amaç arayışıyla ilişkilendiren modern spiritüel yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/map/"
+    },
+    {
+      "title": "Dream Meaning: Map - Dream Insight",
+      "relevance": "Harita sembolünü oryantasyon, bilinçli farkındalık ve ruhsal arayış ekseninde yorumlayan modern sembolik okuma.",
+      "url": "https://somnikon.com/dream-meaning/map/"
+    },
+    {
+      "title": "Map Archetype Meaning & Symbolism",
+      "relevance": "Harita sembolünü yaşam yönü, amaç ve kişisel anlam arayışıyla bağlayan modern spiritüel içerik.",
+      "url": "https://mymythos.org/archetype/map/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
+  ]
+}

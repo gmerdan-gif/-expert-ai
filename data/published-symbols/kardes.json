@@ -1,86 +1,284 @@
 {
   "slug": "kardes",
-  "title": "kardes",
-  "shortDescription": "Rüyada kardeş görmek; aile ilişkilerinde destek, yakınlık ve aidiyetin yanı sıra rekabet ya da mesafeyi de yansıtabilir. Kardeşin tavrı ve rüyanın duygusal atmosferi, yorum için belirleyicidir.",
+  "title": "kardeş",
+  "shortDescription": "Rüyada kardeş görmek, günlük sosyal ilişkilerle aile dinamiklerinin rüyalara yansıması sonucu ortaya çıkan ve destek ile rekabet gibi çelişkili temaları barındıran yaygın bir semboldür.",
   "positiveAssociations": [
-    "Güçlü dayanışma ve destek",
-    "Yakınlık ve aidiyet",
-    "Sadakat ve topluluk bağı",
-    "Anlaşılma ve paylaşım"
+    "destek",
+    "dayanışma",
+    "güçlenme",
+    "sadakat",
+    "ortaklık",
+    "yakınlık"
   ],
   "challengingAssociations": [
-    "Kardeşler arası rekabet ve gizli gerilimler",
-    "İçsel çatışmalar ve zıtlıklar",
-    "Mesafe ve yabancılaşma hissi",
-    "Rol karmaşası"
+    "rekabet",
+    "kıskançlık",
+    "aile içi gerilim",
+    "bastırılmış saldırganlık",
+    "ihanet",
+    "çatışma"
   ],
   "contextDependentAssociations": [
-    "Rüya sahibinin uyanık yaşamdaki gerçek kardeşlik ilişkilerinin yansıması",
-    "Kardeşin rüyadaki tutumuna ve duygusal atmosferine göre değişen anlamlar",
-    "Kişinin kendi iç dünyasındaki farklı yönlerle olan mücadelesi"
+    "biyolojik kardeş veya ruhsal bağ",
+    "aynı cinsiyetten kardeşin gölge yönleri",
+    "ortak çıkar ve paydaşlık ilişkisi",
+    "geçmiş yaşam akrabalık bağları"
   ],
   "commonVariations": [
     {
       "title": "Kardeşle tartıştığını görmek",
-      "description": "Uyanık yaşamda bastırılmış rekabet unsurlarının veya çözülmemiş aile içi gerilimlerin rüya aracılığıyla dışa vurumu olabilir; ayrıca içsel bir ikilemin sembolik temsili de olabilir."
+      "description": "Rüya sahibinin uyanık yaşamındaki rekabet duygularının veya çözülmemiş aile içi gerilimlerin bilinçdışı düzeyde dışavurumu olarak değerlendirilir."
     },
     {
-      "title": "Kardeşe yardım ettiğini görmek",
-      "description": "Kişinin kendi içinde savunmasız veya destek bekleyen bir yönüyle empati kurduğunu, sorumluluk duygusu veya yakın çevresine karşı koruyucu bir tutum taşıdığını gösterebilir."
+      "title": "Kardeşi sağlıklı ve mutlu görmek",
+      "description": "Sosyal ilişkilerde güçlenme, karşılıklı dayanışma ve yakın çevreden destek bulma temalarıyla ilişkilendirilir."
     },
     {
-      "title": "Hiç olmayan bir kardeşi rüyada görmek",
-      "description": "Jungcu perspektifte benliğin henüz tanınmamış veya bastırılmış bir yönüyle karşılaşma; içsel diyalog başlatma ve kimlikte yeni bir yönün ortaya çıkışı işareti olabilir."
+      "title": "Kardeşin yardıma ihtiyacı olduğunu görmek",
+      "description": "Kişinin yakın çevresine karşı taşıdığı sorumlulukları, koruma dürtüsünü veya paylaşılan yükleri simgeleyebilir."
     },
     {
-      "title": "Kardeşin uzaklaştığını ya da kaybolduğunu görmek",
-      "description": "Yakın ilişkilerde kopukluk, destek kaybı endişesi ya da yaşamın bir alanından uzaklaşma isteğinin ifadesi olarak okunabilir."
+      "title": "Kardeşle birlikte bir iş yaptığını görmek",
+      "description": "Ortaklık, paydaşlık ve birlikte yük taşıma gibi temalar üzerinden sosyal ve profesyonel bağları yansıtır."
     }
   ],
-  "psychology": "",
-  "jungian": "Jungcu çerçevede kardeş figürü, rüya görenin benliğinin diğer yönleriyle ilişkisini gösteren ‘ikiz/diğer’ bir imge olarak okunabilir. Kardeşin özellikleri, rüya sahibinin kendi içinde henüz bütünleşmemiş, gölgeye yakın ya da projeksiyon aracılığıyla dışa vurulan yönlerini işaret edebilir; böylece kardeş-dinamiği içsel karşıtlıkların, kimlik süreçlerinin ve denge arayışının bir sembolik sahnesi haline gelir.",
-  "islamicTradition": "",
-  "christianTraditions": "Hristiyan metin ve sözlük geleneklerinde \"kardeş\" çoğunlukla iman ortaklığını ve cemaat içindeki ahlâkî/ruhsal bağları vurgulayan bir sözdür. Bu kullanım rüya bağlamında doğrudan yorum sunmaz; daha ziyade metinsel kaynaklarda akrabalığın ötesinde topluluk ilişkisini anlatmak için kullanılır.",
-  "jewishTraditions": "Yahudi yazınında ve kutsal metinlerde \"kardeş\" terimi hem kan bağı hem de daha geniş toplumsal ve ritüel bağları kapsayacak şekilde yer alır. Bu metinsel kullanım, rüya-sembolizmi için doğrudan yorum sağlamaktan çok, kavramsal olarak akrabalık ve topluluk ilişkilerini işaret eder.",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
+  "psychology": "Boylamsal rüya çalışmaları, çekirdek aile üyelerinin ve kardeşlerin rüya içeriklerinde düzenli olarak yer aldığını ve bu durumun gelişime bağlı olarak zamanla değişim gösterdiğini ortaya koymaktadır.",
+  "jungian": "Jungcu okumada kardeş figürü, benliğin yakın aynası olarak ele alınır; bu, bireyleşme sürecinde karşıt niteliklerin görünür hale gelmesini sağlar.",
+  "islamicTradition": "İslami rüya tabiri bağlamında kardeş destek, güç, dayanışma ve ortak çıkar ilişkileriyle ilişkilendirilirken, kardeşin rüyadaki durumu yorumun yönünü etkiler.",
+  "christianTraditions": "Hristiyan sembolik okuma çerçevesinde kardeş, biyolojik bağların ötesinde ruhsal kardeşlik, benzer nitelikler, sadakat ve düzeltilmesi gereken ilişkisel gerilimleri temsil edebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyanın yorumla şekillendiği vurgulanırken, kardeş imgesi Yusuf anlatısındaki aile içi kıskançlık ve kader temalarıyla bağdaştırılır.",
+  "buddhistEasternApproaches": "Budist metinlerde akraba figürleri zihnin yanılsamalı doğası ve geçmiş yaşam bağları üzerinden ele alınarak bağlanma örüntüleriyle ilişkilendirilir.",
+  "spiritualApproaches": "Ezoterik okumalarda kardeş, benzer ruhlar arasındaki sadakati ve içsel ikiliği yansıtan bir ayna figürü olarak yorumlanır.",
   "comparisonTable": [
     {
-      "approach": "Jungcu Analiz",
-      "interpretation": "Benliğin tanınmayan yönü, ikizlik veya gölge figürü; içsel karşıt yönlerin çatışması ve entegrasyon ihtiyacı.",
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Yakın aile üyelerinin rüya serilerindeki düzenli görünürlüğü ve gelişimsel örüntüleri.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Bastırılmış rekabet, çocukluk dönemi dilekleri ve çelişik duyguların taşıyıcısı.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Kültürel ve metinsel gelenek",
-      "interpretation": "Kardeşlik kavramı, fiziksel yakınlığın ötesinde topluluk, sadakat ve dayanışma ekseninde anlam kazanır; rüyalarda somut yorumlardan ziyade kültürel çerçeve sunar.",
+      "approach": "Jungcu Analiz",
+      "interpretation": "Benliğin yakın ikizi ve gölge yönlerin yansıması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Destek, güç, dayanışma ve ortaklık bağları.",
       "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Ruhsal kardeşlik, sadakat ve ilişkisel onarım ihtiyacı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Benzer ruh hatları ve içsel ikiliğin aynası.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı yaklaşımlar, kardeş figürünün temelinde ötekilerle kurulan bağlar, yakınlık/mesafe dinamikleri ve ilişkinin taşıdığı hem destekleyici hem de çatışmalı potansiyeller bulunduğu konusunda ortaklaşır.",
-  "differences": "Jungcu okumalar kardeşi içsel psikolojik unsurların temsili olarak değerlendirirken, metinsel ve kültürel yaklaşımlar onu toplumsal aidiyet, akrabalık ve cemaat boyutları üzerinden açıklar; bu yüzden yorum bağlama göre değişir.",
-  "inusAssessment": "Kardeş sembolü tekil ve deterministik bir anlama indirgenemez. Rüyadaki anlam, rüya sahibinin uyanık yaşam ilişkileri, duygusal tonu ve bireysel psikolojik bağlamıyla birlikte değerlendirilmelidir; tek bir neden ya da yoruma bağlamak yanıltıcı olur.",
-  "faq": [],
+  "commonGround": "Farklı yaklaşımlar, kardeş figürünün tek ve sabit bir anlama sahip olmadığını, aksine bağlama göre değişen ilişkisel bir dinamik barındırdığını kabul eder.",
+  "differences": "Ampirik çalışmalar rüya sıklığı ve gelişimsel örüntülere odaklanırken, psikanaliz ve Jungcu ekoller içsel çatışmalar ve gölge yönlerini vurgular; geleneksel ve spiritüel yaklaşımlar ise destek, dayanışma ve bağ temalarına odaklanır.",
+  "inusAssessment": "Kardeş sembolünde temel ayrım, yakınlık ve dayanışma ile rekabet, kıyaslanma ve gölgede kalma duyguları arasındaki gerilimdir. Rüyadaki kardeşin gerçek hayattaki yaşı, cinsiyeti, koruyucu ya da rakip rolü ve rüya sahibinin onunla kurduğu ilişkinin niteliği yorumu doğrudan değiştirir. Destek veren kardeş ortaklık ve korunmayı öne çıkarabilirken, çatışılan kardeş rekabeti, paylaşım sorunlarını veya kişinin kendinde görmek istemediği benzer özellikleri görünür kılabilir.",
+  "faq": [
+    {
+      "question": "Rüyada kardeş görmek her zaman aile içi bir olaya mı işaret eder?",
+      "answer": "Hayır. Ampirik çalışmalar kardeşlerin sıklıkla rüyada yer aldığını gösterse de, bu figür psikanalitik ve Jungcu okumalarda içsel çatışmaların, gölge yönlerin veya başka ilişkisel dinamiklerin birer yansıması olarak da ele alınabilir."
+    },
+    {
+      "question": "Kardeşle kavga ettiğini görmek ne anlama gelir?",
+      "answer": "Çeşitli analitik ve geleneksel çerçevelerde bu durum, bastırılmış rekabet duygularının, çözülmemiş gerilimlerin veya uyanık yaşamdaki çatışmaların rüya imgelemine yansıması olarak değerlendirilir."
+    }
+  ],
   "sources": [
     {
-      "title": "Brother in Dreams: Meanings, Emotions, and Cultural Wisdom",
-      "relevance": "Çevrimiçi bir derleme olarak kardeş rüyalarında yakınlık, rekabet, sınırlar ve destek temalarının nasıl tekrarlandığını özetler; sembolün modern rüya-sözlüğü bağlamındaki kullanımına dair örnek sağlar.",
-      "url": "https://www.dreamspoken.com/en/dream-meaning/brother"
+      "title": "Relationship and personality factors predict longitudinal ...",
+      "relevance": "Yakın ilişkilerin ve kişilik özelliklerinin rüya karakterlerinin uzunlamasına görünürlüğünü nasıl öngördüğünü ele alır; kardeşlerin rüyalarda görünme sıklığına ilişkin doğrudan veri sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12049429/"
     },
     {
-      "title": "Brother in a Dream: Freud, Jung, Myth and Modern Meaning",
-      "relevance": "Kardeş imgesini Jungcu bakış açısından ikizlik, gölge ve içsel karşıtlıklarla ilişkilendirerek, psikodinamik ve mitolojik perspektifleri birleştiren popüler bir kaynak sunar.",
-      "url": "https://rosmertapublishing.com/dream-symbols/brother/"
+      "title": "Dreams of core family members in a long dream series",
+      "relevance": "Uzun bir rüya günlüğünde çekirdek aile üyelerinin rüyalarda ne kadar sık göründüğünü inceleyen çalışma; kardeşin aile bağlamındaki rüya görünürlüğü için yararlı.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/11055"
     },
     {
-      "title": "Brother - International Standard Bible Encyclopedia Online",
-      "relevance": "Hristiyan metinsel geleneğinde \"kardeş\" kavramının iman-topluluğu bağlamında nasıl anlaşılabildiğine dair sözlük türü bir açıklama sunar; rüya yorumu değil, metinsel kullanım örneğidir.",
-      "url": "https://www.internationalstandardbible.com/B/brother.html"
+      "title": "Family members in a long dream series",
+      "relevance": "Aile üyelerinin rüyalarda zaman içinde nasıl değiştiğini gösteren çalışma; kardeş imgelerinin gelişimsel ve ilişkisel bağlamını anlamaya yardımcı olur.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/82662"
+    },
+    {
+      "title": "From Adolescence to Young Adulthood in Two Dream Series",
+      "relevance": "Ergenlikten genç yetişkinliğe uzanan rüya serilerinde ebeveynler ve kardeşlerin yer aldığını rapor eder; gelişimsel bağlam sağlar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_schneider_2020.pdf"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Rüyada kardeş ve kız kardeşlere yönelik bastırılmış düşmanca istekler ve çocukluk kökenli dilekler üzerine Freud’un temel pasajı.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 4 - Classics in the History of Psychology",
+      "relevance": "Freud’un rüya örneğinde erkek kardeş figürünün rekabet, suçluluk ve yer değiştirme süreçleri içinde nasıl işlendiğini gösteren metin bölümü.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams4.htm"
+    },
+    {
+      "title": "BROTHERS AND SISTERS:",
+      "relevance": "Freud’un kardeşlik ilişkileri, bilinçdışı saldırganlık ve rüya imgelemi arasındaki bağlantıyı tartışan psikanalitik inceleme.",
+      "url": "https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/b/22/files/2015/11/Sibling-Rivalry_-A-Phenomenon-of-Construction-and-Destruction-xvgw9s.pdf"
+    },
+    {
+      "title": "Sibling Dreams — Meaning & Interpretation | PsySymbol",
+      "relevance": "Kardeş figürünü Jungcu bağlamda gölge ve içsel yansıtma üzerinden açıklayan çevrimiçi yorum.",
+      "url": "https://psysymbol.com/dream/siblings.html"
+    },
+    {
+      "title": "Jung on the Nature and Interpretation of Dreams - PMC",
+      "relevance": "Jung'un rüya yorumundaki kardeş temasına dair akademik tartışmayı ve kardeşin sıradan akrabalık anlamını aşan kullanımını aktaran çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4217604/"
     },
     {
       "title": "Brother",
-      "relevance": "Yahudi/Kutsal Yazılar bağlamında \"kardeş\" teriminin akrabalık ve geniş toplumsal ilişkiler anlamlarını ele alan referans niteliğinde bir kaynaktır; rüya-sembolizmi için doğrudan yorum sağlamaz.",
-      "url": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Brother/"
+      "relevance": "Kardeşi Jungcu bağlamda benliğin yakın yansıması ve gölge temalarıyla ilişkilendiren çevrimiçi yorum.",
+      "url": "https://rosmertapublishing.com/dream-symbols/brother/"
+    },
+    {
+      "title": "Dream About Brother — Meaning and Interpretation - Dremyo",
+      "relevance": "Kardeş figürünü gölge ve benliğin yakın yansıması olarak yorumlayan çevrimiçi içerik.",
+      "url": "https://www.dremyo.com/en/symbols/brother/"
+    },
+    {
+      "title": "Dream About Siblings — Meaning & Interpretation",
+      "relevance": "Kardeş ve kardeşler temasını Jungcu kolektif bilinçdışı ve arketipsel sembolizm çerçevesinde sunan çevrimiçi içerik.",
+      "url": "https://thedreamindex.com/dream-about-siblings/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Kardeş ve kan bağı akrabalarının beden/soy ilişkileri üzerinden yorumlandığı antik Greko-Romen rüya yorumu metni.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un rüya yorumunun kapsamı ve antik oneirokritik yönteminin genel çerçevesi.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Dream of Brother — Islamic Meaning - Naeem Foundation",
+      "relevance": "Kardeş sembolünü İslami rüya tabiri çerçevesinde destek, güç ve dayanışma başlıklarıyla ele alan modern bir derleme.",
+      "url": "https://www.naeemfoundation.org/dreams/brother"
+    },
+    {
+      "title": "Brother Islamic Interpretations & Meanings",
+      "relevance": "Kardeş sembolünü ortaklık, paydaşlık ve ortak çıkarları gözetme ekseninde sunan rüya tabiri sayfası.",
+      "url": "https://www.myislamicdream.com/brother.html"
+    },
+    {
+      "title": "Rüyada Kardeş Görmek Ne Anlama Gelir? - Diyadinnet Rüya Tabirleri",
+      "relevance": "Kardeşin görülmesini akraba ya da dostlardan güzel haber alma yönünde yorumlayan Türkçe rüya tabiri sayfası.",
+      "url": "https://www.diyadinnet.com/ruyada-5991-kardes-gormek"
+    },
+    {
+      "title": "Ask and You Shall Receive - Apostle David E. Taylor ...",
+      "relevance": "Rüyada kardeş figürünün ruhsal kardeşlik, benzer nitelikler ve düzeltme/uyarı temalarıyla ilişkilendirildiğini aktarıyor.",
+      "url": "https://joshuamediaministries.org/dreams/brother/"
+    },
+    {
+      "title": "Biblical Meaning of a Brother in Dreams: What Scripture ...",
+      "relevance": "Kardeş figürünü Kutsal Kitap’taki kardeş anlatılarının sadakat, rekabet, ihanet ve restorasyon temalarıyla birlikte ele alıyor.",
+      "url": "https://thedreamguidebook.com/biblical-meaning-of-brother-in-dreams/"
+    },
+    {
+      "title": "Brother Dream Interpretation – Meaning",
+      "relevance": "Kardeş imgesini Hristiyan kardeşlik, Mesih ve diğer inanlılarla ilişkilendiren sembolik okumalar sunuyor.",
+      "url": "https://www.dreamsymbol.net/brother"
+    },
+    {
+      "title": "Helpful Clues to Dream & Vision Interpretation",
+      "relevance": "Kardeş için ruhsal kardeşlik, benzer özellikler ve uyarı/ayıklama temalarını sıralayan bir yorum listesi veriyor.",
+      "url": "https://davewilliams.com/wp-content/uploads/2018/09/Helpful-Clues-to-Dream-and-Vision-Interpretation.pdf"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Rüyaların anlamı, yorumu ve rüyanın etkisine dair Talmudî çerçeve.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot’ta rüyalar bölümünün kapsamını özetleyen açıklama.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Parashat Vayeshev 5776 -2015 | Voices on ...",
+      "relevance": "Yusuf’un rüyasındaki on bir yıldızın kardeşleri temsil ettiği yönündeki geleneksel okuma.",
+      "url": "https://voices.sefaria.org/sheets/21603"
+    },
+    {
+      "title": "Joseph, Scene I (Genesis 37) | ספריא",
+      "relevance": "Yusuf’un rüyası, kardeşlerin kıskançlığı ve rüyanın gerçekleşmesine dair rabbanî tartışma parçası.",
+      "url": "https://www.sefaria.org/sheets/154590"
+    },
+    {
+      "title": "Oh brother! | Sefaria",
+      "relevance": "Yusuf’un kardeşleriyle ilgili anlatının kardeşlerin kıskançlığı üzerinden okunması.",
+      "url": "https://www.sefaria.org/sheets/612618"
+    },
+    {
+      "title": "On Dreams and Prophecy | My Jewish Learning",
+      "relevance": "Yahudi geleneğinde rüyanın anlatılacağı kişinin önemi ve Yusuf örneği üzerinden rüya yorumunun bağlama bağlı oluşu.",
+      "url": "https://www.myjewishlearning.com/article/on-dreams-and-prophecy/"
+    },
+    {
+      "title": "Dream Interpretations are G‑d's business - Dreams preferably should be interpreted on the morning following the night they have been dreamt.",
+      "relevance": "Talmudî rüya yorumu ve Yusuf anlatısı üzerinden rüyanın zamanında ve yorumla ilişkili oluşu.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/2044820/jewish/Dream-Interpretations-are-Gds-business.htm"
+    },
+    {
+      "title": "Dreams and Judaism",
+      "relevance": "Berakhot’taki 'rüyalar yoruma bağlıdır' ilkesinin özeti.",
+      "url": "https://www.oxfordchabad.org/templates/articlecco_cdo/aid/374282/jewish/Dreams-and-Judaism.htm"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist rüya yaklaşımını ve belirli imgelerin listelenebildiği bir çerçeveyi gösteren modern aktarım.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Buddhist Dream Experience | Springer Nature Link",
+      "relevance": "Budist rüya deneyimi üzerine akademik çerçeve sunan bölüm; rüya yorumuna dair genel bağlam sağlıyor.",
+      "url": "https://link.springer.com/chapter/10.1007/978-1-137-08545-0_2"
+    },
+    {
+      "title": "༄༅། །ད་པ་འ་བ་མ།",
+      "relevance": "Budist metinde rüyanın zihinsel/yanılsamalı doğasını anlatan çeviri; akraba imgelerinin sembolik okunmasına zemin sağlar.",
+      "url": "https://84000.co/translation/toh226.pdf"
+    },
+    {
+      "title": "Brotherhood - International Buddhist Society | 國際佛教觀音寺",
+      "relevance": "Budist anlatıda kardeşler üzerinden özveri, pişmanlık ve uyanış temasını işleyen metin.",
+      "url": "https://buddhisttemple.ca/teaching/brotherhood/"
+    },
+    {
+      "title": "City of 10,000 Buddhas",
+      "relevance": "Rüyada görülen akraba figürlerini, geniş aile ve geçmiş yaşam ilişkileri bağlamında ele alan sutra alıntısı.",
+      "url": "http://www.cttbusa.org/esscommentary/earthstore6_2.htm"
+    },
+    {
+      "title": "Brother in dreams — meaning and symbolism",
+      "relevance": "Rüyada kardeş temasını ezoterik bir dille yorumlayan çevrimiçi bir giriş; kardeşi benzer enerji, sadakat, koruma ve rekabet ekseninde okuyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/brother"
+    },
+    {
+      "title": "Brother, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Kardeşi düşsel bağlamda yol arkadaşı, ayna ve içsel karşıtlıkları taşıyan bir figür olarak ele alan kısa bir yorum metni.",
+      "url": "http://www.dreamtation.com/docs/1384.htm"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
+  ]
 }

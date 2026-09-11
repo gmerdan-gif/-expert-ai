@@ -1,77 +1,163 @@
 {
   "slug": "asansor",
   "title": "asansör",
-  "shortDescription": "Rüyada asansör görmek; yükselme, iniş, geçiş ve statü değişimiyle ilişkilendirilebilir. Asansörün yukarı ya da aşağı hareket etmesi, rüyadaki yön duygusunu öne çıkarır.",
-  "positiveAssociations": [],
-  "challengingAssociations": [],
-  "contextDependentAssociations": [],
+  "shortDescription": "Asansör, modern bir mekanik nesne olarak rüyalarda dikey geçişleri, kısa sürede konum değişimini ve makineyle ilgili kontrol ya da arıza senaryolarına bağlı endişe veya fırsat beklentilerini yansıtabilir.",
+  "positiveAssociations": [
+    "Hızlı dikey konum değişimi: ani terfi veya beklenenden hızlı ilerleme umudu",
+    "Mekanik kontrol altında hedefe ulaşma hissi; planlı ve düzenli bir şekilde yukarı çıkma.",
+    "Kısa sürede yeni bir kata veya konuma erişme — erişimin kolaylaşması, fırsatların yakın görünmesi."
+  ],
+  "challengingAssociations": [
+    "Asansör arızası veya mahsur kalma: kontrolü yitirme, çaresizlik ve kararsızlık hissi",
+    "Hızla düşme senaryosu: ani panik, statü ya da güven kaybı korkusu.",
+    "Kapıların açılmaması veya uzun bekleme: gecikme, engellenme ve belirsizlik duygusu"
+  ],
+  "contextDependentAssociations": [
+    "Asansörün yukarı mı aşağı mı hareket ettiği (yönün sembolik çağrışımları)",
+    "Asansörün çalışır durumda mı, durdu mu, sıkıştı mı yoksa düzensiz mi hareket ettiği",
+    "Rüya sırasındaki duygusal ton ve rüya sahibinin uyanık yaşamındaki kaygı düzeyi",
+    "Asansörün bulunduğu çevre (bina, kalabalık, operatör varlığı) ve teknisyen veya teknik unsurlar."
+  ],
   "commonVariations": [
     {
-      "title": "Hızlıca Yukarı Çıkan Asansör",
-      "description": ""
+      "title": "Yukarı çıkan asansör",
+      "description": "Asansörün kontrollü ve hızlı şekilde üst katlara çıkması, rüya sahibinde kısa süre içinde konum veya statü değişikliği beklentisini, erişim kolaylığını ve yükselme arzularını yansıtabilir."
     },
     {
-      "title": "Kontrolü Kaybeden ve Aşağı Düşen Asansör",
-      "description": ""
+      "title": "Aşağı inen asansör",
+      "description": "Asansörün aşağı doğru hareket etmesi, geri çekilme, bilinçdışıya yönelme ya da belirli bir konumun veya geçmişin yeniden gündeme gelmesi gibi içsel yönelimleri çağrıştırabilir; geleneksel okumalarda bazen kayıp veya zorlukla ilişkilendirilir."
     },
     {
-      "title": "Asansörde Mahsur Kalmak",
-      "description": ""
+      "title": "Mahsur kalınan asansör",
+      "description": "Kapıları açılmayan veya katlar arasında sıkışan asansör, uyanık yaşamda hissedilen çıkmaz, zaman kaybı ve kontrol eksikliğinin rüya dilindeki yansımasıdır."
     },
     {
-      "title": "Sürekli Yanlış Katlarda Duran Asansör",
-      "description": ""
+      "title": "Kontrolü kaybedip düşen asansör",
+      "description": "Asansörün hızla düşmesi veya frenin tutmaması, ani kaygı ataklarını, beklenmedik statü değişikliği korkusunu veya güven duygusunun sarsılmasını simgeleyebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslami rüya yorum geleneğinde doğrudan 'asansör' terimi klasik kaynaklarda yer almaz; bunun yerine yukarı çıkma/yükselme ve iniş motifleri onur, mevki ve değer kazanımı ya da bunun tersine düşüş bağlamlarında ele alınır. Modern İslami rüya derlemeleri asansör benzeri imgeleri hareket/taşıma bağlamında tartışır.",
-  "christianTraditions": "Kutsal Yazılar modern asansörden bahsetmez; Hristiyan yorumunda dikey yönlü imgeler (yukarı/aşağı) genellikle ruhsal yükseliş, alçalma veya benzeri temalarla ilişkilendirilir. Bazı modern rüya sözlükleri asansörü dikey hareket çağrışımlarıyla ele alır.",
-  "jewishTraditions": "Yahudi uygulamalarında 'Şabbat asansörü' bir rüya sembolü değil; Şabbat'ta düğme basmayı gerektirmemek üzere ayarlanmış pratik bir teknolojik çözümdür. Bu bağlam dinsel uygulama ve halakhik uyarlamalarla ilgilidir; rüya yorumu olarak doğrudan eşdeğer değildir.",
+  "psychology": "Ampirik rüya araştırmaları, asansör içeren rüyaların uzun rüya serilerinde görülebildiğini (yaklaşık %1 düzeyinde olduğunu bildiren çalışmalar vardır) ve rüya içeriklerinin çoğunlukla duygusal bir yük taşıdığını göstermektedir. Bu bağlamda asansör imgeleri, rüyanın duygusal tonu, rüya sahibinin kaygı düzeyi ve uyku kalitesi gibi değişkenlerle birlikte değerlendirilmelidir.",
+  "jungian": "Jungcu çerçevede asansör gibi dikey imgeler sublimatio (yükselme/psişik dönüşüm) temalarıyla ilişkilendirilebilir. Ancak Jungcu yaklaşımda asansörün yönü, durması, sıkışması ve rüya sırasındaki duygular yorumu belirgin biçimde değiştirir; bu nedenle yorum kesin sonuçlara varmayan bir dille, kişisel çağrışımlar ve rüyanın bağlamı gözetilerek yapılmalıdır.",
+  "islamicTradition": "Modern İslami tabir aktarımlarında asansörle yukarı çıkma genellikle mevki veya servete hızlı erişimle, aşağı inme ise sıkıntı veya konum kaybıyla ilişkilendirilir. Bununla birlikte klasik İslami rüya yorumlama kaynaklarında asansörün doğrudan bir karşılığı bulunmadığı için bu yorumlar merdiven/yükselme-alçalma sembolizmi bağlamında sunulmalıdır.",
+  "christianTraditions": "Modern Hristiyan yorumlarında asansörün yukarı hareketi ruhsal yükseliş, ilerleme veya yeni bir konuma geçişle, aşağıya inme veya sıkışma halleri ise alçaltılma, imtihan veya geri çekilme temalarıyla ilişkilendirilir.",
+  "jewishTraditions": "Yahudi rüya düşüncesinde doğrudan 'asansör' maddesi bulunmamakla birlikte, Yakup’un merdiveni ve dikey hareket imgeleri üzerinden yükselme ve alçalma temalarına dayalı kontrollü yorum çerçeveleri kurulabilir. Ayrıca bazı rabbinik metinler rüyaların hem önemsiz hem de anlamlı olabileceğini vurgular; bu yüzden bağlam önemlidir.",
   "buddhistEasternApproaches": "",
   "spiritualApproaches": "",
   "comparisonTable": [
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Yukarı/iniş motiflerini onur, mevki ve hareket bağlamında ele alır; 'asansör' terimi klasik kaynaklarda doğrudan yer almaz, modern derlemelerde benzer imgelerden söz edilebilir.",
-      "evidenceLevel": "traditional"
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Asansör rüyaları belirli bir sıklıkta ortaya çıkar; rüya duyguları, uyku kalitesi ve kaygı düzeyi ile korelasyon gösterir; bu yüzden sembolün yorumunda bağlamsal veriler öne çıkar.",
+      "evidenceLevel": "research"
     },
     {
-      "approach": "Hristiyan Yaklaşımı",
-      "interpretation": "Dikey hareket imgelerini ruhsal yükseliş, alçalma veya ahlaki uyarı temalarıyla ilişkilendirir; asansör modern bir nesne olduğundan klasik kutsal metinlerde örneği bulunmaz.",
+      "approach": "Psikanalitik ve Jungcu Çerçeve",
+      "interpretation": "Psikanalitik perspektifler dikey hareketi, fallik/dikey arzu ve güç dinamikleri bağlamında ele alır (bazı Freudyen okumalar dikey imgeleri cinsel çağrışımlarla ilişkilendirir); Jungcu çerçeve ise sublimatio ve bireyleşme süreçleriyle ilişkilendirir. Her iki yaklaşımda da yorum rüya sahibinin kişisel çağrışımları ve rüyanın duygusal tonu dikkate alınarak sınırlı biçimde yapılmalıdır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel ve Dini Okumalar",
+      "interpretation": "Geleneksel yorumlar yukarı çıkmayı yükselme, prestij veya başarı; aşağı inme ve düşmeyi de kayıp, zorlanma veya alçaltılma ile ilişkilendirir; modern asansör ise bu eski dikey metaforların teknolojik bir izdüşümü olarak ele alınır.",
       "evidenceLevel": "traditional"
     }
   ],
-  "commonGround": "İslami ve Hristiyan bağlamlarda dikey yönlü imgeler (yükseliş/iniş) belirli manevi veya toplumsal temalarla ilişkilendirilir; modern rüya derlemeleri asansörü taşıma veya iniş bağlamında tartışsa da asansörün kendisi klasik kutsal metinlerde doğrudan yer almaz.",
-  "differences": "İslam ve Hristiyan yorumları daha çok dikey hareket motifleri üzerinden manevi veya onur/konum vurguları yaparken, Yahudi bağlamında öne çıkan konu asansörün Şabbat uygulamasındaki teknolojik ve halakhik kullanımıdır; bu, sembolik rüya yorumu ile karıştırılmamalıdır.",
-  "inusAssessment": "Rüyada asansör görüldüğünde dikey hareket motifleri (yükseliş/iniş) bazı dini geleneklerde ele alınır; ancak güvenilir akademik, psikolojik veya psikanalitik atıflar olmadan asansörün anlamına ilişkin kesin, kaynak-temelli genellemeler yapılamaz. Yorumlar, rüya görenin bağlamı ve kültürel referansları göz önünde bulundurularak yapılmalıdır.",
+  "commonGround": "Çoğu yaklaşım, asansörün dikey hareketinin (yükselme/alçalma) ve makinenin işleyiş durumunun (çalışma, durma, sıkışma, düşme) rüya sahibinin yaşamındaki yön değişiklikleri, statü algısı ve kontrol duygusunu anlamada merkezi olduğunu kabul eder.",
+  "differences": "Ampirik çalışmalar sıklık ve duygusal korelasyonlara odaklanırken, psikanalitik yaklaşımlar dikeyliği güç, arzu ve bazen fallik çağrışımlarla ilişkilendirir. Jungcu yorumlar ise sublimatio ve psikolojik dönüşüm vurgusunu ön plana çıkarır. Geleneksel/dini okumalar ise daha çok dışsal statü ve kader temalarıyla ilgilenir. Her yaklaşımda asansörün modern/mekanik doğası bağlamı değiştirebilir.",
+  "inusAssessment": "Asansör rüyasını açıklarken en önemli unsurlar: asansörün mekanik durumu (sorunsuz mu, durdu mu, sıkıştı mı, düştü mü), rüya sırasındaki duygusal ton ve rüya sahibinin uyanık yaşam bağlamıdır. Freudyen çerçevede dikey hareket kontrollü biçimde fallik veya enerji dinamikleri açısından ele alınabilir; Jungcu okumalarda ise sublimatio ve bilinç–bilinçdışı geçişleri öne çıkar. Yorum tek bir sabit anlama indirgenmemeli, rüya sahibinin kişisel çağrışımlarıyla ilişkilendirilmelidir.",
   "faq": [],
   "sources": [
     {
-      "title": "Biblical Meaning of Elevator in Dreams: Spiritual Insights",
-      "relevance": "Hristiyan yorumunda asansörün doğrudan değil, dikey hareketin ruhsal yükseliş ve alçalma çağrışımları üzerinden ele alındığını gösterir.",
-      "url": "https://www.authorkennethgray.com/biblical-meaning-of-elevator-in-dreams/"
+      "title": "Elevators in a Long Dream Series - Michael Schredl, 2020",
+      "relevance": "Uzun rüya serisinde asansör içeren rüyaların varlığını ve yaklaşık sıklığını belgeleyen ampirik çalışma.",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0276236620926486"
     },
     {
-      "title": "Ascending Lift Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya yorumunda yükselme motiflerinin onur ve mevki kazanımı gibi temalarla ilişkilendirildiğini gösterir; klasik metinlerde asansör yoktur, modern derlemeler bu tür motifleri kullanır.",
-      "url": "https://www.myislamicdream.com/ascending_lift.html"
+      "title": "Relationships between Dream and Previous Wake Emotions ...",
+      "relevance": "Rüyaların duygusal niteliği ile uyanıklık duygulanımları arasındaki bağı inceleyerek asansör rüyası yorumunda duygusal bağlamın önemini destekleyen ampirik bulgular sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601812/"
     },
     {
-      "title": "Falling Lift Islamic Interpretations & Meanings",
-      "relevance": "Modern İslami rüya derlemelerinde iniş/taşıma imgelerinin asansör benzeri anlatılarla nasıl ele alındığını örnekler.",
-      "url": "https://www.myislamicdream.com/falling_lift.html"
+      "title": "The Effects of Sleep Quality on Dream and Waking Emotions",
+      "relevance": "Uyku kalitesinin rüya ve uyanıklık duygu durumları üzerindeki etkilerini gösterir; asansör imgelerinin duygusal valansının bu değişkenlerle ilişkili olabileceğini işaret eder.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7827529/"
     },
     {
-      "title": "Embracing the Idea of the Sabbath Elevator",
-      "relevance": "Şabbat asansörünün Yahudi pratiğinde düğmeye basmayı gerektirmeyecek şekilde ayarlanmış pratik bir çözüm olduğunu açıklar; bu, rüya yorumu değil uygulama bilgisidir.",
-      "url": "https://shirinmcarthur.com/2023/06/12/embracing-the-idea-of-the-sabbath-elevator/"
+      "title": "Interpreting the Dream of a Stuck Elevator: The Psychology of Being ...",
+      "relevance": "Asansörün arızalanma veya mahsur kalma senaryolarını Freudcu temalarla ilişkilendirerek dikey hareket ve kontrol kaybı ekseninde psikanalitik bir yorum örneği sunar.",
+      "url": "https://ruya-ai.com/articles?id=gjMIJBcCspiqWkkA60SD&lang=en"
     },
     {
-      "title": "What's a shabbat elevator?",
-      "relevance": "Şabbat asansörlerinin elektrik kullanımı ve otomatik durma mantığı bağlamında Yahudi uygulamasını ve pratik gerekçesini açıklar.",
-      "url": "https://www.uclahealth.org/news/article/whats-a-shabbat-elevator"
+      "title": "Freud's Interpretation of His Own Dreams in “The ...",
+      "relevance": "Freud'un düşlerde merdiven ve dikey imgeler hakkındaki tartışmalarını aktaran kaynak; asansör için dikey analojiye dayanan bir okuma örneğine referans sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/ijodr/article/download/80/98"
+    },
+    {
+      "title": "Signification : Ascenseur - Psychologies.com",
+      "relevance": "Freudyen yöntemde rüya sahibinin kişisel çağrışımlarını önceleyen yorum ilkelerini ve sabit sembol anlamlarına temkinli yaklaşımı aktarıyor.",
+      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Ascenseur"
+    },
+    {
+      "title": "\"\"' Powder \"\"' Subtle +S Sublimatio+",
+      "relevance": "Yukarı yönelimli görüntülerin sublimatio bağlamında değerlendirilmesine dair Jungcu literatüre işaret eder; asansörün dikey yükseliş imgesi olarak yorumlanmasına katkıda bulunur.",
+      "url": "https://www.jungiananalysts.org.uk/wp-content/uploads/2024/09/Edinger-E.-1985-Anatomy-of-the-Psyche-Sublimatio-1.pdf"
+    },
+    {
+      "title": "Elevator Dream Meaning: A Context-First Jungian Guide",
+      "relevance": "Asansör rüyalarında yön, kontrol ve duygusal bağlamın yorumu değiştirdiğini vurgulayan Jungcu bir çerçeve sunar.",
+      "url": "https://individuationing.com/dream-symbols/elevator-dream-meaning/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritik geleneğin dikey hareket ve statü ilişkisini açıklayan metni; asansörün klasik merdiven/yükselme metaforlarıyla tematik bağlantısını anlamaya yardımcı olur.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Antik rüya yorumunda sembolik yön, toplumsal konum ve yorum mantığını tarihsel bağlamda açıklar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "تعبیر خواب آسانسور در خواب ابن سیرین",
+      "relevance": "Asansör rüyasını doğrudan ele alan Farsça bir tabir metni; yukarı çıkış, aşağı iniş ve düşme için farklı sonuçlar veriyor.",
+      "url": "https://tabirgar.ir/dream/21097/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri A Harfi - Muhammed.net",
+      "relevance": "Asansör maddesini İmam Nablusî adıyla aktaran bir çevrimiçi tabir sayfası; yükselme ve engelleri aşma temasını veriyor.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-a-harfi.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri M Harfi",
+      "relevance": "Merdiven sembolünü klasik yükselme/iniş diliyle açıklayan bir çevrimiçi derleme; asansörün hareket yönüyle kurulabilecek sembolik zemini gösteriyor.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-m-harfi.html"
+    },
+    {
+      "title": "Dream Meaning Of Seeing Yourself In A Lift- ...",
+      "relevance": "Asansör rüyasını doğrudan ele alan modern Hristiyan yorum; yukarı veya aşağı hareketi ruhsal yükseliş, başarı, alçaltılma ve uyarı temalarıyla ilişkilendiriyor.",
+      "url": "https://evangelistjoshua.com/%E2%81%A0dream-of-seeing-yourself-in-a-lift/"
+    },
+    {
+      "title": "Biblical meaning of elevator in dreams | Biblical Dream ...",
+      "relevance": "Asansör rüyasını ‘yükselme, alçalma ve sıkışma’ başlıkları altında Hristiyan-Biblikal sembolik çerçevede özetleyen modern içerik.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-elevator-in-dreams"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Yahudi geleneğinde rüyaların statüsü ve Berakhot 57b bağlamı.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Of Ladders, Escalators and Elevators | David Walk - The Blogs",
+      "relevance": "Yahudi sembolizmi içinde merdiven, yükseliş ve iniş imgeleri; dikey hareketin anlam alanı.",
+      "url": "https://blogs.timesofisrael.com/of-ladders-escalators-and-elevators/"
+    },
+    {
+      "title": "Parashat Vayeishev: December 11, 2025 | Temple Beth Zion",
+      "relevance": "Berakhot 55b’ye dayalı rüya çerçevesi; rüya içeriklerinin gündelik zihinsel meşguliyetlerle bağlantısı.",
+      "url": "https://www.tbzbrookline.org/welcome/spiritual-leaders/rav-tiferet-berenbaum/parashat-vayeishev-december-11-2025/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
 }

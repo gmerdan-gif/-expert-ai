@@ -1,143 +1,176 @@
 {
   "slug": "hapishane",
   "title": "hapishane",
-  "shortDescription": "Rüyada hapishane görmek, baskı altında kalma, kontrolü yitirme ya da kendini zihinsel olarak sıkışmış hissetmeyle ilişkilendirilebilir. Mahkûm olmak içsel kısıtlamaları veya sorumlulukları, kaçmak ise bu baskılardan kurtulma isteğini yansıtabilir.",
+  "shortDescription": "Rüyalarda hapishane teması, bilinçdışında kısıtlanma, özgürlük kaybı, sıkışmışlık ve özgür iradenin zayıflaması duygularını yansıtan güçlü bir simgedir.",
   "positiveAssociations": [
-    "Özgürleşme arzusu",
-    "İçsel farkındalık ve dönüşüm ihtiyacı",
-    "Sınırlardan arınma ve yeni bir başlangıç yapma isteği"
+    "Günahtan korunma",
+    "İçsel yeniden yapılanma",
+    "Sabır ve sebat",
+    "Arınma ve içsel muhasebe",
+    "Geçici içe çekilme"
   ],
   "challengingAssociations": [
-    "Yoğun kısıtlanma ve sıkışmışlık duygusu",
-    "Suçluluk ve ceza beklentisi",
-    "Sosyal dışlanma ve kontrolü kaybetme korkusu"
+    "Özgürlükten mahrumiyet",
+    "Ruhsal bağlanma",
+    "Beklenmedik kısıtlamalar ve tıkanmalar",
+    "Sıkıntı ve zihinsel tutsaklık",
+    "İşlerin engellenmesi ve keder"
   ],
   "contextDependentAssociations": [
-    "Farklı geleneklerde hapishane bazen ölüm, keder veya geçici bir esaret hali olarak yorumlanabilir.",
-    "Kişinin günlük yaşamındaki baskı ve sorumlulukların rüyaya yansıması",
-    "Kişinin zihinsel ya da ruhsal düzeyde kendini sınırlaması."
+    "Kişinin rüyadaki konumunun zorunlu mu yoksa kendi tercihi mi olduğu",
+    "Hapishanenin belirsiz veya meçhul bir mekân olarak algılanması",
+    "Yaşamdaki stres, baskı ve kısıtlanma hissinin düzeyi",
+    "Hapishanede geçirilen sürenin niteliği ve çıkış anı"
   ],
   "commonVariations": [
     {
-      "title": "Kendini hapishanede mahkum olarak görmek",
-      "description": "Kişinin hayatında kendini kapana kısılmış hissettiği bir durumu, sorumlulukları veya içsel kısıtlamaları temsil edebilir."
+      "title": "Zorla Kapatılma ve Tıkanma",
+      "description": "Rüya sahibinin istemediği halde bir hücreye kapatılması veya zorla tutulması, uyanık yaşamdaki baskılar, engeller ve hareket alanının daralmasıyla ilgilidir."
     },
     {
-      "title": "Hapishaneden kaçmaya çalışmak",
-      "description": "Mevcut yaşam koşullarından, baskılardan veya zihinsel kalıplardan kurtulma arzusunu ve özgürleşme çabasını simgeler."
+      "title": "İsteyerek Hapishaneye Girme",
+      "description": "Kişinin kendi iradesiyle hapishaneye yönelmesi; dış dünyanın karmaşasından kaçma, hatalardan sakınma ya da korunaklı bir içe çekilme arzusunu yansıtabilir."
     },
     {
-      "title": "Birini hapishanede ziyaret etmek",
-      "description": "Çevredeki bir kişinin yaşadığı kısıtlanma, sıkıntı veya dışlanmışlık durumuna karşı duyulan empatiyi ya da mesafeli bir ilişkiyi gösterir."
+      "title": "Hapishaneden Kurtulma",
+      "description": "Kapalı bir alandan veya zindandan çıkıldığının görülmesi, genellikle uzun süren bir sıkıntının sona erdiğinin, hastalıktan şifa bulunmasının ya da özgürlüğün yeniden kazanılmasının işaretidir."
     },
     {
-      "title": "Hapishaneden tahliye olmak",
-      "description": "Uzun süredir hissedilen bir baskının, suçluluk duygusunun veya zorlu bir dönemin sona erdiğine dair rahatlama hissini yansıtır."
+      "title": "Gardiyanlar ve Gözetim Altında Olma",
+      "description": "Rüyada hapishane görevlileriyle karşılaşmak veya sürekli izlendiğini hissetmek, genellikle sorumluluk, vicdani yük ya da dışsal otoritenin baskısı altında kalma korkusunu simgeler."
     }
   ],
-  "psychology": "Ampirik psikoloji literatüründe hapishane imgelerinin tek ve kesin bir anlamına dair doğrulanmış bilimsel bir bulgu bulunmamaktadır. Mevcut gözlemler genellikle kısıtlama, kontrol kaybı, ceza ve sosyal dışlanma temalarıyla sınırlıdır. Psikanalitik çerçevede ise hapishane, suçluluk, ceza beklentisi ve bastırılmış dürtülerin yarattığı içsel kapanmışlık hissini simgeleyebilir.",
-  "jungian": "Jungcu analitik psikoloji yaklaşımında hapishane, benliğin bazı yönlerinin kapatılması, gölgede kalması veya kişinin psikolojik olarak dar bir kimliğe sıkışmasıyla ilişkilendirilir. Bu durum, bireyleşme sürecinde entegre edilmemiş yönlerin yarattığı içsel sınırları işaret edebilir.",
-  "islamicTradition": "İslami rüya tabiri aktarımında 'meçhul zindan' çoğunlukla ölümü, 'bilinen zindan' ise üzüntü ve sıkıntıyı işaret eden semboller olarak aktarılır.",
-  "christianTraditions": "Hristiyan Kutsal Kitabı bağlamında hapishane, hem fiziksel tutsaklık hem de ruhsal esaret için mecazi bir kullanım taşır; özgür bırakılma teması da bu sembolizmin bir parçasıdır.",
-  "jewishTraditions": "Rabbanî gelenekte uykuyu sembolik bir tutsaklık hâli olarak yorumlayan açıklamalar bulunur; uyanış ise bu bağdan çözülme olarak ele alınır.",
-  "buddhistEasternApproaches": "Budist çerçevede hapishane, zihnin arzu, öfke ve cehalet tarafından kısıtlanmasını simgeleyen bir kapanmışlık imgesi olarak okunur; bu okumalarda mahkûmiyet, samsara ve içsel bağlanma temaları ön plana çıkar.",
-  "spiritualApproaches": "",
+  "psychology": "Ampirik literatürde mahpus örneklemleriyle yapılan çalışmalar, rüya anlatılarında hapislik ve kısıtlanma bağlamlarının gerçek yaşam deneyimleriyle doğrudan örtüşebildiğini ve kabus içeriklerinde sıkça yer aldığını göstermektedir. Bu bağlamda rüyadaki hapishane, bireyin uyanık yaşamında deneyimlediği daralma, sıkışmışlık ve kontrol kaybı hissinin bir yansıması olarak ele alınabilir.",
+  "jungian": "",
+  "islamicTradition": "İslami rüya yorum geleneğinde hapishane çoğunlukla kısıtlanma, keder, borç, hastalık veya engellenme temalarıyla ilişkilendirilir; bununla birlikte rüya sahibinin durumuna bağlı olarak günahtan korunma, sabır, afiyet, şifa veya mihnet sonrası bir makam anlamı da taşıyabilir.",
+  "christianTraditions": "Hristiyan sembolik ve teolojik bağlamında hapishane, fiziksel esaretin ötesinde ruhsal düzeltme, rehabilitasyon, günahların farkına varma ve ilahî kurtuluş arayışının bir metaforu olarak okunur.",
+  "jewishTraditions": "Yahudi rüya hermenötiğinde rüyaların yorumla şekillendiği ilkesi temel alınarak, hapishane imgesi sabit bir kehanetten ziyade kısıtlılık içinde bir bekleme eşiği ve ahlaki-varoluşsal bir çözülme alanı olarak değerlendirilir.",
+  "buddhistEasternApproaches": "Bazı geleneksel yaklaşımlarda hapishane, kişinin koşullar, ilişkiler veya kendi zihinsel sınırları yüzünden kapana kısılmış hissetmesini anlatan karmasal veya durumsal bir bağlanma sembolü olarak ele alınır.",
+  "spiritualApproaches": "Ezoterik ve çağdaş spiritüel okumalarda hapishane, dışsal engellerden çok ruhsal/psikolojik daralmayı ve kişinin varoluşsal sorumluluğunu üstlenmekten kaçınmasını temsil eder; simyasal açıdan dönüşümün başlangıcı için koruyucu bir kap işlevi görebilir.",
   "comparisonTable": [
     {
-      "approach": "Psikanaliz",
-      "interpretation": "Suçluluk, ceza beklentisi ve bastırılmış içeriklerin yarattığı içsel kapanmışlık.",
-      "evidenceLevel": "theoretical"
-    },
-    {
-      "approach": "Jungcu analitik psikoloji",
-      "interpretation": "Benliğin bazı yönlerinin gölgede kalması ve dar bir kimliğe sıkışma.",
-      "evidenceLevel": "theoretical"
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Gerçek yaşamdaki kısıtlanma deneyimlerinin ve kabus temalarının rüyadaki yansıması.",
+      "evidenceLevel": "research"
     },
     {
       "approach": "İslami Gelenek",
-      "interpretation": "Zindan veya hapis, üzüntü, sıkıntı veya meçhul durumda ölüm işareti olarak aktarılır.",
+      "interpretation": "Kısıtlanma, keder veya borç alameti olabileceği gibi, günahtan korunma, sabır ve şifa vesilesi de olabilir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyanlık",
-      "interpretation": "Fiziksel tutsaklık ve ruhsal esaretin mecazi bir yansıması.",
+      "approach": "Hristiyan Teolojik Okuma",
+      "interpretation": "Ruhsal esaret, içsel muhasebe ve ilahi kurtuluş ihtiyacının metaforik ifadesi.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist Yaklaşım",
-      "interpretation": "Zihinsel kısıtlanma, samsara ve içsel bağlanma temalarının bir metaforu.",
-      "evidenceLevel": "traditional"
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Psişik daralma, içe kapanma ve simyasal dönüşümün başlangıcına işaret eden kapalı bir muhafaza.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplinler ve gelenekler arasında hapishane sembolü, ortak bir payda olarak sınırlandırılma, özgürlüğün kısıtlanması ve bir tür içsel veya dışsal esaret halini vurgular.",
-  "differences": "Yaklaşımlar arasındaki temel fark, kiminin konuyu zihinsel ve arzusal bağlar (Budizm) üzerinden, kiminin bilinçdışı baskılar ve suçluluk (Psikanaliz) üzerinden, kiminin ise dini ve metinsel gelenekler (İslami ve Hristiyan aktarımlar) çerçevesinde ele almasından kaynaklanır.",
-  "inusAssessment": "Hapishane rüyaları tek bir düzleme indirgenemeyecek kadar çok katmanlı gerilimler barındırır. Kişinin günlük hayatındaki baskıların bir yansıması olabileceği gibi daha derin bir zihinsel sıkışmışlığın veya içsel denetim arayışının sembolik bir dışavurumu da olabilir. Bu nedenle rüyayı yorumlarken tek bir belirleyici (kesin) sonuç aramak yerine bireyin kendi yaşam bağlamındaki kısıtlama ve özgürlük dengesini gözetmesi gerekir.",
+  "commonGround": "Farklı gelenek ve yaklaşımların ortak noktasında hapishane, bireyin hareket alanının daralmasını, dış dünyadan kopuşunu ve özgürlüğün sınırlandırılmasıyla gelen bir içsel gerilimi işaret eder.",
+  "differences": "Yaklaşımlar arasındaki temel fark, psikolojinin bunu mevcut yaşam stresleri ve kısıtlanma hissiyle açıklamasına karşın, dini ve geleneksel ekollerin bunu bir sınanma, ahlaki muhasebe, ilahî uyarı ya da koruyucu bir kapanma olarak ele almasıdır.",
+  "inusAssessment": "Rüyada hapishane görmek, basit bir korku veya düz bir kısıtlanma tabirinden öte, bireyin iç dünyasındaki sıkışmışlıklar ile dış dünyanın baskıları arasındaki hassas dengeyi yansıtır. Rüya sahibinin hapishaneye kendi iradesiyle mi girdiği, yoksa zorla mı kapatıldığı, mekanın belirsizliği ve uyanık yaşamdaki mevcut stres unsurları, sembolün anlamını tamamen değiştiren kritik ayrıntılardır.",
   "faq": [
     {
-      "question": "Rüyada hapishanede olmak, gerçek hayatta kısıtlanacağım anlamına mı gelir?",
-      "answer": "Rüyalar geleceği doğrudan tahmin etmez. Bu tür rüyalar genellikle günlük yaşamda hissedilen baskı, kontrol kaybı veya zihinsel sıkışmışlık duygularının bir yansıması olarak değerlendirilir."
+      "question": "Rüyada hapishanede olmak her zaman kötü bir olaya mı işaret eder?",
+      "answer": "Hayır. Geleneksel ve ezoterik okumalarda hapishane, bazı durumlarda günahtan sakınma, içsel arınma, sabır gösterme veya korunaklı bir içe çekilme süreci olarak da yorumlanabilir."
     },
     {
-      "question": "Hapishaneden kaçtığını görmek ne anlama gelir?",
-      "answer": "Bu tür senaryolar çoğunlukla kişinin hayatındaki baskılardan, zorluklardan veya kendi koyduğu zihinsel sınırlardan kurtulma arzusunu ve özgürleşme çabasını simgeler."
+      "question": "Hapishaneden kaçmak veya çıkmak rüyada ne anlama gelir?",
+      "answer": "Hapishaneden çıkmak genellikle uzun süredir hissedilen baskıların, engellerin veya kısıtlamaların sona ermesine, şifa bulmaya ve özgürlük iradesinin yeniden kazanılmasına işaret eder."
     }
   ],
   "sources": [
     {
-      "title": "Metaphors of confinement",
-      "relevance": "Hapishane ve kapatma imgelerinin tarihsel-kültürel olarak nasıl düzen, denetim ve sınırlama çağrışımları ürettiğini tartışır.",
-      "url": "https://digitale-objekte.hbz-nrw.de/storage2/2019/10/27/file_6/8755393.pdf"
+      "title": "Nightmares, nightmare topics and lucid dreaming in a male prison sample",
+      "relevance": "Hapishane bağlamındaki kabusların tema dağılımını ve hapislikle ilişkili rüya örüntülerini içerik analiziyle ortaya koyar.",
+      "url": "https://link.springer.com/article/10.1007/s11818-023-00413-8"
     },
     {
-      "title": "Prison, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
-      "relevance": "Hapishane sembolünü suçluluk, ceza ve bastırılmış içeriklerle ilişkilendiren psikanalitik yorumu temsil eder.",
-      "url": "http://www.dreamtation.com/docs/1960.htm"
+      "title": "Artemidorus: How the Ancient Greeks Interpreted Dreams",
+      "relevance": "Artemidorus'tan aktarılan örnekte tanrıyla yemek yemenin ardından hapse düşme sahnesi, hapishanenin rüyada beklenmedik kısıtlama ve kötü sonuçla bağlantılı bir imge olarak kullanımını gösterir.",
+      "url": "https://humanitext.ai/blog/decoding-the-night/"
     },
     {
-      "title": "Spiritual Meaning of Jail in a Dream: Jungian Interpretation ...",
-      "relevance": "Hapishaneyi gölge, persona ve psikolojik sıkışmışlık temalarıyla ilişkilendiren Jungcu yorum çerçevesi sunar.",
-      "url": "https://www.selfgazer.com/blog/jail-dream-spiritual-meaning"
+      "title": "Illness and its Metaphors in Artemidorus’ Oneirocritica. A Negative list, in: Steven Oberhelman (ed.), Dreams, Healing, and Medicine in Greece. From Antiquity to the Present, Ashgate 2013, 128–158.",
+      "relevance": "Artemidorus'un rüya repertuarında hapishane, hareketin durması ve özgür iradenin kısıtlanmasıyla ilgili bir kümeye yerleştirilir; bu, sembolün tarihsel bağlamını görünür kılar.",
+      "url": "https://www.academia.edu/11907140/Illness_and_its_Metaphors_in_Artemidorus_Oneirocritica_A_Negative_list_in_Steven_Oberhelman_ed_Dreams_Healing_and_Medicine_in_Greece_From_Antiquity_to_the_Present_Ashgate_2013_128_158"
     },
     {
-      "title": "Dreaming of a Prison: Confinement, Guilt, and the Sentence ...",
-      "relevance": "Hapishane imgelerinin rüyada kısıtlama ve sıkışmışlık duygularıyla nasıl ilişkilendirildiğini ele alır.",
-      "url": "https://thedreamguidebook.com/dreaming-of-a-prison/"
+      "title": "Full text of \"Artemidoros aus Daldis Symbolik der Träume -- Artemidorus ; übersetzt und mit Anmerkungen begleitet von Friedrich S. Krauss\"",
+      "relevance": "Almanca çeviride hapishaneye isteyerek ya da zorla giriş, uzun hastalık ve büyük sıkıntı olarak yorumlanır; hapishane görevlileri de tutukluluk ve sıkıntı sembolü sayılır.",
+      "url": "https://archive.org/stream/BIUSante_55615/BIUSante_55615_djvu.txt"
     },
     {
-      "title": "Rüyada Hapis görmek",
-      "relevance": "İslami rüya tabiri aktarımında zindan/hapis sembolünün ölüm, üzüntü ve sıkıntıyla ilişkilendirilen kullanımını verir.",
-      "url": "https://ruya.ihya.org/ruyada-hapis-gormek.html"
+      "title": "[PDF] Artémidore de Daldis LA CLEF DES SONGES Onirocriticon",
+      "relevance": "Fransızca çeviride hapishane, engellenme, keder ve işlerde tıkanma ile ilişkilendirilir. Gardiyan figürleri ise tutukluluk ve üzüntü ile ilişkilendirilir.",
+      "url": "https://www.psychaanalyse.com/pdf/Artemidore%20de%20Daldis%20LA%20CLEF%20DES%20SONGES%20Onirocriticon%20-%20BIBLIO%20(171%20Pages%20-%202,5%20Mo).pdf"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri H Harfi",
+      "relevance": "Hapishane sembolüne dair korunma, şifa, itham, kabir, hastalık ve cehennem gibi çoklu anlam kümelerini aktarır.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-h-harfi.html"
+    },
+    {
+      "title": "تفسير رؤية الحبس في المنام لابن سيرين والنابلسي وابن قتيبة",
+      "relevance": "Hapis sembolünü İslami rüya geleneğinde keder, sınanma ve kimi bağlamlarda yükselme ile ilişkilendiren Arapça derleme sunar.",
+      "url": "https://lifebyislam.com/en/dreams/habs-manam"
+    },
+    {
+      "title": "Dream About Prison/Jail",
+      "relevance": "Rüyada hapishane konusunda doğrudan yorum sunan modern bir Hristiyan çevrimiçi kaynak; hapishaneyi kısıtlama, engellenme ve bağlanmışlık temalarıyla ilişkilendiriyor.",
+      "url": "https://evangelistjoshua.com/dream-prison-jail/"
+    },
+    {
+      "title": "READINESS\" - Apostle David E. Taylor [Official Site] - JMMI",
+      "relevance": "Rüyada hapishane temasını ruhsal düzeltme, rehabilitasyon ve gözetim altında hesaplaşma/hesap verme bağlamında ele alan modern bir Hristiyan kaynak.",
+      "url": "https://joshuamediaministries.org/dreams/prison/"
     },
     {
       "title": "Topical Bible: The Prison",
-      "relevance": "İncil bağlamında hapishanenin fiziksel tutsaklık ve ruhsal esaret için mecazi kullanımını özetler.",
+      "relevance": "Kutsal Kitap’ta hapishane imgesinin ruhsal esaret ve kurtuluş metaforu olarak nasıl kullanıldığını özetleyen konu sayfası.",
       "url": "https://biblehub.com/topical/t/the_prison.htm"
     },
     {
-      "title": "Why is the Torah So Silent About Prisons?",
-      "relevance": "Rabbanî geleneğin uykuyu sembolik esaret olarak okumasına ve 'matir asurim' ifadesine değinir.",
-      "url": "https://truah.org/resources/greg-hersh-parshat-emor-moraltorah/"
+      "title": "Topical Bible: Prison: Cells of",
+      "relevance": "Kutsal Kitap anlatılarında hapishane hücrelerinin ilahî müdahale, dua ve özgürleşme bağlamında nasıl göründüğünü derleyen konu sayfası.",
+      "url": "https://biblehub.com/topical/naves/p/prison--cells_of.htm"
     },
     {
-      "title": "Prison in Dreams: Confinement, Control, and the Quiet Keys ...",
-      "relevance": "Budist bağlamda hapishane imgesini zihinsel tutsaklık ve içsel kapanmışlık üzerinden yorumlayan modern bir anlatı sunar.",
-      "url": "https://www.dreamspoken.com/en/dream-meaning/prison"
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Rüyaların yorumla anlam kazandığı, yorumsuz rüyanın okunmamış mektup sayıldığı ve rüyaların yorumlayana göre sonuçlandığı bölüm.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
     },
     {
-      "title": "Prison Dream Meaning & Interpretation - Mirror",
-      "relevance": "Budist perspektifle hapishane temasını samsara, bağlanma ve özgürleşme düşünceleriyle ilişkilendiren modern yorum.",
-      "url": "https://mirrorwithin.org/dream-dictionary/prison/"
+      "title": "Dream of Being in Prison Meaning — Vedic Interpretation (Swapna ...",
+      "relevance": "Vedik/Hindu rüya yorumunda hapishaneyi kısıtlanmışlık, karmasal bağlanma ve özgürleşme temalarıyla ilişkilendiren çevrim içi açıklama.",
+      "url": "https://www.vedicbirth.com/dream/prison-dream"
     },
     {
-      "title": "Going To Prison Dream Meaning & Interpretation - Mirror",
-      "relevance": "Budist çerçevede hapishaneyi samsara ve zihinsel esaret metaforu olarak ele alan modern yorum.",
-      "url": "https://mirrorwithin.org/dream-dictionary/going-to-prison/"
+      "title": "Prison, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Hapishaneyi 'psişik daralma' ve kişinin varoluş sorumluluğunu üstlenmeyi reddetmesiyle ilişkilendiren ezoterik bir rüya yorumu sunar.",
+      "url": "http://www.dreamtation.com/docs/1960.htm"
     },
     {
-      "title": "Imprisonment in Dreams: How Confinement Reveals Pressure ...",
-      "relevance": "Budist çerçevede mahkûmiyet temasını bağlanma ve kaçınma üzerinden açıklayan modern yorum.",
-      "url": "https://www.dreamspoken.com/en/dream-meaning/imprisonment"
+      "title": "Prison: Meaning, Symbolism & Mythology - Archetypes - MyMythos",
+      "relevance": "Hapishaneyi kısıtlama, içe çekilme ve görünür sınırlanmışlık sembolü olarak ele alan çağdaş bir sembol/mitleştirme sayfasıdır; rüya bağlamına da temas eder.",
+      "url": "https://mymythos.org/archetype/prison/"
+    },
+    {
+      "title": "[PDF] Hidden Symbolism of Alchemy and the Occult Arts - Project Gutenberg",
+      "relevance": "Simyasal ve okült sembolizm içinde hapishane motifini athanor ve diğer hermetik dönüşüm kaplarıyla ilişkilendirir; hapishane, dönüşümü içeren kapalı bir muhafaza olarak okunabilir.",
+      "url": "https://gutenberg.org/files/27755/27755-pdf.pdf"
+    },
+    {
+      "title": "La prison est l'emblème du début de l'Oeuvre",
+      "relevance": "'La prison est l'emblème du début de l'Oeuvre' ifadesiyle hapishaneyi simyasal Opus'un başlangıcıyla ilişkilendiren açık bir ezoterik yorum sunar.",
+      "url": "https://www.cgjung.net/alchimie/1997/juin.htm"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
 }

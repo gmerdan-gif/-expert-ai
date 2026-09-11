@@ -1,163 +1,246 @@
 {
   "slug": "ayna",
   "title": "ayna",
-  "shortDescription": "Rüyada ayna görmek, kişinin kendini ve iç dünyasını daha yakından değerlendirme ihtiyacıyla ilişkilendirilir. Berrak bir ayna açıklığı ve gerçeği olduğu gibi görmeyi, bulanık ya da bozulmuş bir yansıma ise kaygılı veya belirsiz bir benlik algısını çağrıştırabilir.",
+  "shortDescription": "Rüyada ayna görmek, kendinizi nasıl gördüğünüz, kimliğiniz ve iç dünyanızla yüzleşmenizle ilişkilendirilebilir. Berrak bir ayna netlik ve dengeyi; kırık, bulanık veya çarpık bir ayna ise benlik algısındaki çatışmaları, belirsizliği veya yabancılaşma hissini öne çıkarabilir.",
   "positiveAssociations": [
-    "Berraklık",
-    "Öz-farkındalık",
-    "Gerçeği olduğu gibi görme",
-    "Zihnin arınması"
+    "İçsel bütünleşme",
+    "Net öz-farkındalık",
+    "İlişkilerde uyum",
+    "Ferahlama ve berraklık"
   ],
   "challengingAssociations": [
-    "Dış bakışın yarattığı nesneleşme",
-    "Kibir veya gösterişle ilişkili yansımalar",
-    "Bozulmuş ya da kaygılı kendilik algısı"
+    "Algı bozulması",
+    "Korku ve yabancılaşma",
+    "Kibir veya hayal kırıklığı",
+    "Sıkıntı, belirsizlik ve parçalanmış benlik algısı"
   ],
   "contextDependentAssociations": [
-    "Anne-çocuk ilişkisi ve görsel doğrulama dinamikleri",
-    "Bilinçdışının nesnel görünüm sunma çabası",
-    "Fenomenlerin görünüş ile gerçeklik arasındaki ilişkisi"
+    "Aynanın kırık, temiz, paslı veya berrak olması",
+    "Aynadaki görüntünün tanınabilir, çarpık veya yok olması",
+    "Rüya sırasındaki duygusal ton (rahatlık, korku, utanç vb.)",
+    "Sosyal statü ve yakın ilişkiler bağlamı"
   ],
   "commonVariations": [
     {
-      "title": "Aynaya Bakıp Kendini Görmek",
-      "description": "Rüyada kişinin doğrudan kendi yüzüyle karşılaşması ve dışsal bir perspektiften öz kavramını deneyimlemesi."
+      "title": "Berrak ve net aynaya bakmak",
+      "description": "Parlak, lekesiz bir aynada kendinizi net görmek; içsel netlik, psikolojik denge ve yakın ilişkilerde uyumla ilişkilendirilebilir."
     },
     {
-      "title": "Bozulmuş veya Net Olmayan Ayna Görüntüsü",
-      "description": "Aynadaki yansımanın net olmaması veya tanınabilir ancak deforme bir kendilik imgesi sunması."
+      "title": "Kırık ya da parçalanmış ayna",
+      "description": "Aynanın çatlaması veya parçalanması, benlik algısında bölünme, bastırılmış duygular veya çözülmemiş çatışmalarla bağlantılı olarak yorumlanabilir."
     },
     {
-      "title": "Aynanın Örtülmesi",
-      "description": "Geleneksel bağlamlarda dış görünüşten içe yönelmeyi ve manevi bir pratiği hatırlatan ritüelistik bir sahne."
+      "title": "Çarpık veya tanınmayan suret",
+      "description": "Aynada tanınmayan veya bozulmuş bir yüz görmek, kimlik sorgulamaları, yabancılaşma hissi veya bilinçdışındaki bütünleşmemiş yönlerle yüzleşme çağrısı olabilir."
     },
     {
-      "title": "Berrak ve Lekesiz Ayna",
-      "description": "Zihnin berraklığını, saflığını ve fenomenlerin şeffaf biçimde yansıtılma doğasını simgeleyen bir görünüm."
+      "title": "Bulanık/paslı aynayı silmek",
+      "description": "Bulanık ya da paslı bir aynayı temizlemeye çalışmak, belirsizlikleri ortadan kaldırma, gerçekleri açığa çıkarma ve kendi durumunu netleştirme çabasını simgeler."
     }
   ],
-  "psychology": "Ampirik psikoloji ve bilişsel nörobilim araştırmalarında ayna, kişinin kendi yüzünü ve bedenini başkalarının görebileceği dışsal bir perspektiften algılamasını ve benliğin dışsallaştırılmış bir temsili olarak işlev görmesini inceler. Psikanalitik kuramlarda ise ayna düşleri, anne-çocuk ilişkisi, görsel doğrulama, simgesel kastrasyon kaygısı ve Lacancı anlamda egonun dışsal bir imgeyle özdeşleşme evresiyle bağlantılı olarak ele alınır.",
-  "jungian": "Jungcu analitik psikolojide ayna, bilinçdışının bireye kendisi hakkında nesnel bir görünüm sunabilen güçlü bir sembol olarak okunur.",
-  "islamicTradition": "",
-  "christianTraditions": "Hristiyan teolojik sembolizminde ayna, Meryem'in lekesiz saflığını simgeleyen bir imge olarak yer alır; ayrıca metinsel gelenekte ruhsal özdeğerlendirme ve öz-denetim çağrısıyla ilişkilendirilir.",
-  "jewishTraditions": "Yahudi gelenek ve folklorunda ayna, yas evlerinde dış görünüşten içe yönelmeyi hatırlatan bir nesne olarak örtülürken, mistik metinlerde ise içgörü, ruhsal sınav ve ilahi bilgelik yansısı olarak ele alınır.",
-  "buddhistEasternApproaches": "Budist gelenekte ayna, zihnin ve fenomenlerin yansıtıcı doğasını, berraklığını ve şeyleri lekelerden arınmış hâliyle olduğu gibi görme kapasitesini anlatan temel bir benzetmedir.",
-  "spiritualApproaches": "",
+  "psychology": "Ampirik rüya araştırmaları, aynaya ilişkin rüyaların çeşitli biçimler aldığını göstermektedir. Net ve sağlam yansımalar genellikle önceki tehditkâr deneyimlerin yaratıcı biçimde bütünleşmesiyle ilişkilidir; kırık ya da yansıma yapmayan aynalar ise daha yoğun korku ve zayıf psikolojik örgütlenmeyle ilişkilidir. Rüyadaki duygusal ton, aynanın fiziksel niteliği ve görülen suretin tanınabilirliği gibi değişkenlerle birlikte değerlendirilmelidir.",
+  "jungian": "",
+  "islamicTradition": "İslami rüya geleneği derlemelerinde ayna, rüya sahibinin hâlini, görünüşünü, sosyal makamını ve yakın ilişkilerini çağrıştıran semboller arasında sayılır. Berrak aynalar olumlu haber veya ferahlama, paslı ya da bozuk aynalar hüzün, sıkıntı veya gurur/yanılsama temalarıyla birlikte okunabilir; bazı aktarımlarda bekâr için evlilik veya benzer nitelikte bir çocuk çağrışımı da bulunur. Bu tür geleneksel okumalar bağlama ve ek ayrıntılara göre değişir.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde ayna, kişinin kendini Tanrı’nın ışığında görme ve gizli kusurlarını fark ederek tövbe etme çağrışımlarıyla ilişkilendirilir. İkonografide \"lekesiz ayna\" gibi ifadeler Meryem imgeleriyle bağlantılıdır; rüyada ayna, ahlaki öz-farkındalık veya ruhsal arınma temaları içinde değerlendirilebilir.",
+  "jewishTraditions": "Yahudi mistik ve ritüel bağlamlarda ayna temaları, yansıma, görüngü ve içe yönelme çağrışımları taşır. Talmudik rüya literatüründe aynaya özgü bir klasik rüya kaydı bulunmamakla birlikte, mistik metinlerde mar'eh ve görülecek imgelerle bağdaştırma yapılır; aynanın yas döneminde örtülmesi gibi uygulamalar da aynanın kendine bakış ve içe çekilme ile ilişkisini vurgular.",
+  "buddhistEasternApproaches": "Hindu ve İndo-Tibet geleneklerinde ayna metaforu, 'kalbin aynası' ve bilincin evreni yansıtması düşüncesiyle kullanılır; bazı ritüel ve meditasyon pratiklerinde aynalar, zihnin berraklığını ve fenomenlerin geçiciliğini düşünmeyi destekleyen semboller olarak yer alır. Bu kaynaklar rüya yorumundan çok sembolik-felsefi bir bağlam sağlar.",
+  "spiritualApproaches": "Modern spiritüel okumalarda ayna, öz-yansıtma, hakikat ve kişinin başkalarına gösterdiği yüz ile içsel hali arasındaki farkı görünür kılan eşik simgesi olarak değerlendirilir. Kırık veya bulanık aynalar genellikle kaçınılan gerçekler, kimlik gerilimleri veya fark edilmemiş yönlerin açığa çıkmasıyla ilişkilendirilir; bunlar tematik, bağlama bağlı yorumlardır.",
   "comparisonTable": [
     {
       "approach": "Ampirik Psikoloji",
-      "interpretation": "Ayna, benlik tanıma ve başkalarının perspektifinden kendilik deneyimi sağlayan dışsal bir araçtır.",
+      "interpretation": "Ayna rüyaları benlik temsili ve duygusal bütünleşme süreçlerini yansıtır; aynanın berrak olması genellikle güven ve bütünleşmeyle, kırılmış olması ise korku ve ayrışma ile ilişkilidir.",
       "evidenceLevel": "research"
     },
     {
-      "approach": "Psikanaliz ve Jungcu Kuram",
-      "interpretation": "Bilinçdışının nesnel yansıması, ego oluşumu ve özdeşleşme süreçlerinin simgesel bir temsilidir.",
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Ayna, persona ile gölge arasındaki karşılaşmanın, ego ile bilinçdışı öğelerin yüzleşmesinin imgesel ortamıdır; aynanın fiziksel niteliği (kırık, bulanık, ters çevrilmiş) bu dinamiklerin nasıl deneyimlendiğine dair simgesel ayrımlar sağlar.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Hristiyan ve Yahudi Gelenekleri",
-      "interpretation": "Ruhsal arınma, saflık, içe yöneliş ve ilahi bilgelik metaforu olarak işlev görür.",
+      "approach": "İslami Gelenek",
+      "interpretation": "Ayna görünümleri kişinin hâli, makamı, yakın ilişkileri ve bazen evlilik/çocukla ilgili işaretlere gönderme yapabilir; berraklık/bozukluk gibi ayrımlar olumlu veya olumsuz çağrışımları değiştirebilir.",
       "evidenceLevel": "traditional"
-    }
-  ],
-  "commonGround": "Farklı disiplin ve geleneklerde ayna, temel olarak bir 'gösterme', 'yansıtma' ve 'öz-değerlendirme' aracı olarak konumlanır; bireyin iç dünyası ile dış dünya arasındaki köprüyü simgeler.",
-  "differences": "Ampirik psikoloji aynayı dışsal bir perspektiften öz-farkındalık olarak incelerken, psikanaliz ve Jungcu ekoller onu bilinçdışı dinamikler ve ego imgeleriyle bağlar; dini gelenekler ise kavramı ruhsal saflık ve içsel yöneliş bağlamında ele alır.",
-  "inusAssessment": "Ayna sembolü, tek bir sabit anlama indirgenemeyecek kadar karmaşık bir yapıya sahiptir. Bireyin rüyasında ayna görmesi, bilişsel öz-farkındalık arayışından bilinçdışı içeriklerin nesnelleşmesine kadar çok çeşitli katmanlar barındırabilir. INUS yaklaşımı, bu sembolün rüya görenin özgün bağlamı, psikolojik durumu ve yansımanın niteliği (berrak, bozulmuş vb.) ışığında ele alınması gerektiğini vurgular.",
-  "faq": [
-    {
-      "question": "Rüyada aynaya bakmak psikolojik olarak ne anlama gelir?",
-      "answer": "Bilişsel araştırmalar ve psikanalitik kuramlar bağlamında aynaya bakmak, kişinin kendi benliğini dışsal bir perspektiften gözlemlemesi, öz kavramını sorgulaması ve bilinçdışı unsurlarla yüzleşmesi süreçleriyle ilişkilendirilir."
     },
     {
-      "question": "Ayna rüyaları dini geleneklerde nasıl ele alınır?",
-      "answer": "Hristiyan ve Yahudi geleneklerinde ayna doğrudan bir rüya tabiri aracı olmaktan ziyade, ruhsal arınma, saflık, içe yöneliş ve öz-denetim metaforu olarak metinsel ve kültürel yer bulur."
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Ayna, hakikatle yüzleşme ve içsel arınma kapısı olarak okunur; kırılma ve bulanıklık temaları, parçalanmışlık ve kaçınılan gerçeklerle ilişkilendirilir.",
+      "evidenceLevel": "spiritual"
     }
   ],
+  "commonGround": "Tüm yaklaşımlarda ayna, kişinin kendine dönmesine ve görünenle görünmeyen arasındaki ilişkinin sorgulanmasına aracılık eden bir simge olarak görülür; aynanın fiziksel niteliği ile rüyadaki duygusal tonun yorumda temel belirleyiciler olduğu vurgulanır.",
+  "differences": "Bilimsel/ampirik yaklaşımlar, aynanın fiziksel niteliği ve duygusal ton ile ilişkisini vurgularken, dini ve geleneksel okumalarda ayna sembolü daha çok sosyal statü, tövbe veya ilişkiler bağlamında değerlendirilir. Psikodinamik ve Jungcu okumalar ise aynayı ego, persona ve gölge dinamiklerinin bir sahası olarak ele alır.",
+  "inusAssessment": "Ayna sembolü, rüyada diğer nesnelere göre daha doğrudan özne-odaklıdır: ayna, rüya sahibinin benlik imgesine, kimlik sorgulamasına veya bütünleşme derecesine işaret eden bir göstergedir. Anlamı, aynanın durumu (berrak/kırık/paslı), görülen suret ve rüya sırasındaki duygusal tonun bir arada değerlendirilmesiyle ortaya çıkar; tek bir kesin açıklama yerine bağlama dayalı bir dizi gereklilik sunar.",
+  "faq": [],
   "sources": [
     {
-      "title": "Quote by C.G. Jung: “In dreams a mirror can symbolize the ...",
-      "relevance": "Rüyada ayna imgesinin Jungcu anlamlandırması ve bilinçdışıyla ilişkisi.",
-      "url": "https://www.goodreads.com/quotes/11817642-in-dreams-a-mirror-can-symbolize-the-power-of-the"
+      "title": "Dream Mirrors",
+      "relevance": "Aynaya dair rüya örüntülerini, net/bozuk yansıma ayrımlarını ve bunların duygulanım ile psikolojik örgütlenmeyle ilişkisini inceleyen ampirik çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/840955/"
     },
     {
       "title": "The common mirror dream, dreamer, and the dream mirror",
-      "relevance": "Ayna düşlerinin psikanalitik çözümlemesi ve 'common mirror dream' (yaygın ayna rüyası) tipinin betimlenmesi.",
+      "relevance": "Rüyada kendini veya çarpık bir sureti aynada görme biçimlerinin tipik özelliklerini tanımlayan klinik gözlem ve analiz.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/3843600/"
     },
     {
-      "title": "Archetypal-Imaging and Mirror-Gazing - PMC - NIH",
-      "relevance": "Aynanın Jungcu yorumları, bilinçdışıyla ilişkisi ve kültürel/simgesel bağlamı.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4219253/"
+      "title": "International Journal of Dream Research Volume 10, No. 1 (2017)",
+      "relevance": "Rüya raporlarında duygusal tonun pozitif/negatif boyutlarda kodlanmasına ilişkin ampirik bir çerçeve sunar; ayna rüyalarının duygusal tonunun sınıflandırılmasında başvuru sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/34565/pdf/119430"
     },
     {
-      "title": "Face yourself: The social neuroscience of mirror gazing - PMC",
-      "relevance": "Aynanın benlik tanıma, dış perspektiften kendilik deneyimi ve sosyal-bilişsel işlevleri.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9691426/"
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Rüya içerik analizinde nesne ve duygu kategorilerinin nasıl sınıflandırıldığı ve karşılaştırmalı olarak kullanıldığı.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
     },
     {
-      "title": "Lacan: The Mirror Stage",
-      "relevance": "Lacan’ın ayna evresi kuramının öznenin oluşumu ve ego özdeşleşmesiyle ilişkisi.",
-      "url": "https://www.english.hawaii.edu/criticalink/lacan/guide5.html"
+      "title": "Ecrits - University of Illinois Urbana-Champaign",
+      "relevance": "Ayna evresi, kurucu özdeşleşme ile benlik ve imge ilişkisini ortaya koyar; ayna sembolü için psikanalitik çerçeve sağlar.",
+      "url": "http://faculty.las.illinois.edu/rrushing/581b/ewExternalFiles/Lacan,%20Mirror%20Stage.pdf"
     },
     {
-      "title": "ayna sembolü çerçevesinde metafiziksel anlatımlar ibnü'l- ...",
-      "relevance": "İbnü’l-Arabî’de aynanın metafizik ve bilgisel sembolizmi ele alınır.",
-      "url": "https://www.academia.edu/48816777/AYNA_SEMBOL%C3%9C_%C3%87ER%C3%87EVES%C4%B0NDE_METAF%C4%B0Z%C4%B0KSEL_ANLATIMLAR_%C4%B0BN%C3%9C_L_ARAB%C3%8E_%C3%96RNE%C4%9E%C4%B0"
+      "title": "Freud's Concept of Narcissism",
+      "relevance": "Freud’un narsisizm kavramının aynalanma, idealizasyon ve benlik ilişkisiyle nasıl düşünülebileceğini gösterir.",
+      "url": "https://www.journal-psychoanalysis.eu/wp-content/themes/europeanjourna/pdf.php?ida=576"
     },
     {
-      "title": "Christian Symbols - Objects",
-      "relevance": "Hristiyan sembolizminde aynanın peygamberlik ve Meryem’in saflığıyla ilişkilendirilmesini özetler.",
-      "url": "https://www.christiansymbols.net/objects.html"
+      "title": "Lacan: The Mirror Stage - English",
+      "relevance": "Özne ve imge arasındaki özdeşleşme ilişkisini, aynadaki görüntü üzerinden kuran temel metindir.",
+      "url": "https://www.english.hawaii.edu/criticalink/lacan/"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Antik oneirokritik geleneğe ilişkin inceleme; aynanın tarihsel olarak kadın/partner çağrışımı ve sembolik kullanımına dair kanıtlara işaret eder.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "[PDF] The Mirror: A History",
+      "relevance": "Aynanın kehanet ve yansıtıcı bilgiyle bağlantısını tarihsel-kültürel çerçevede ele alır; aynayı rüya ve görünmeyenle ilişkili daha geniş bir sembol alanına yerleştirir.",
+      "url": "https://ia801304.us.archive.org/3/items/HistoryOfTheoriesAndIdeologiesThatGotUsInTheTurmoil/%5BSabine_Melchior-Bonnet%5D_The_Mirror__A_History.pdf"
+    },
+    {
+      "title": "تفسير حلم المرآة: انعكاس الذات والحقيقة",
+      "relevance": "İslami rüya tabirleri derlemelerinde aynanın berraklık/bozukluk ayrımlarına göre farklı temalar (hüzün, makam, evlilik, çocuk vb.) taşıdığına dair örnekler sunar.",
+      "url": "https://fassir.ai/dictionary/mirror"
+    },
+    {
+      "title": "Rüyada Ayna Görmek Ne Demek? Aynanın Kırılması (Kırık Ayna) Ne Anlama Gelir?",
+      "relevance": "Nablusî’ye atfedilen ayna yorumlarını aktaran Türkçe çevrim içi sayfa; kadın, çocuk ve suret görme temasını içeriyor.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-ayna-gormek-ne-anlama-gelir-25306"
+    },
+    {
+      "title": "Dream Interpretation | Najoomi",
+      "relevance": "Ayna sembolünü İslami rüya tabiri başlığı altında statü, kadın, çocuk, dost ve ortaklık çağrışımlarıyla veren çevrim içi derleme.",
+      "url": "https://dev.najoomi.com/en/dream-interpretation"
+    },
+    {
+      "title": "Full text of \"hipnoz_kitabi_hakan_menguc\"",
+      "relevance": "Türkçe derlemede ayna maddesi; hayâl, gurur, kadın, berrak ayna, bekar için evlilik ve ferahlama temalarını topluyor.",
+      "url": "https://archive.org/stream/hipnoz_kitabi_hakan_menguc/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1_djvu.txt"
+    },
+    {
+      "title": "İslami Rüya Tabirleri, Nablusi, Kirmani, İbn-i Sirin, İmam Cafer Sadık, Seyyid Süleyman, Danyal - A",
+      "relevance": "Ayna maddesini kadın, erkek çocuk, makam, dost, ortak ve parlak iş başlıklarıyla veren çevrim içi liste.",
+      "url": "https://www.medicentertv.com/islami-ruya-tabirleri-nablusi-kirmani-ibn-i-sirin-imam-cafer-sadik-seyyid-suleyman-danyal-a"
     },
     {
       "title": "Mirrors - The Fitzwilliam Museum - University of Cambridge",
-      "relevance": "Hristiyan sanatında aynanın Meryem’in saflığı ve ruhsal özdeğerlendirme ile ilişkisinin tarihsel örneklerini sunar.",
+      "relevance": "Hristiyan ikonografide aynanın saflık, hakikat ve ruhsal öz-denetim metaforu olarak nasıl kullanıldığını gösteren kaynak.",
       "url": "https://fitzmuseum.cam.ac.uk/explore-our-collection/highlights/context/sign-and-symbols/mirrors"
     },
     {
-      "title": "[PDF] SEEING THROUGH: THE MIRROR AS RELIGIOUS SYMBOL",
-      "relevance": "İslam düşüncesinde aynanın hakikati yansıtma ve varlık-bilgi ilişkisi içindeki sembolik anlamını işler.",
+      "title": "THE DICTIONARY | 8 | Illustrated Dictionary Of Symbols In Eastern And",
+      "relevance": "Klasik Hristiyan ikonografisinde ‘speculum sine macula’ yani ‘lekesiz ayna’ ifadesinin Meryem’le bağlantısını verir.",
+      "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9780429499937-8/dictionary-james-hall"
+    },
+    {
+      "title": "SEEING THROUGH: THE MIRROR AS RELIGIOUS SYMBOL",
+      "relevance": "Aynanın dinî bir sembol olarak saflık, hakikat ve ruhsal görünürlükle ilişkisini tartışır; Hristiyan sembolik okumaya zemin sağlar.",
       "url": "https://dvkjournals.in/index.php/jd/article/download/1856/1799/3811"
     },
     {
-      "title": "Aynanın Tarihçesi Sembolik Anlamı ve İslam Sanatındaki ...",
-      "relevance": "İslam sanatında aynanın benlik, dünya ve kibirle bağlantılı sembolik kullanımlarını ele alır.",
-      "url": "https://sssjournal.com/?mod=makale_tr_ozet&makale_id=71048"
-    },
-    {
-      "title": "The World is Full of Mirrors: What Values Do We Want to Reflect?",
-      "relevance": "İslam bağlamında ayna metaforunu algı, yansıma ve ilahî hakikatle ilişkilendirir.",
-      "url": "https://thewisdomdaily.com/the-world-is-full-of-mirrors-what-values-do-we-want-to-reflect/"
-    },
-    {
-      "title": "Mirrors in the Bible and in Jewish Tradition",
-      "relevance": "Yahudi gelenekte aynaların yas evinde örtülmesi ve içe yöneliş anlamını açıklar.",
-      "url": "https://jewishcurrents.org/mirrors-in-the-bible-and-in-jewish-tradition"
-    },
-    {
       "title": "Topical Bible: The Mirror",
-      "relevance": "Yahudi metinlerinde aynanın özdenetim, içgörü ve kutsal yansımayla ilişkisini özetler.",
+      "relevance": "Kutsal Kitap dilinde aynayı öz sınama, kutsallık ve daha tam anlama yönelişinin metaforu olarak özetler.",
       "url": "https://biblehub.com/topical/t/the_mirror.htm"
     },
     {
-      "title": "Bodies in Mirrors - Jewish Theological Seminary",
-      "relevance": "Yahudi gelenekte aynaların kadınların emeği, beden ve kutsallık temalarıyla bağlantısını anlatır.",
-      "url": "https://www.jtsa.edu/torah/bodies-in-mirrors/"
+      "title": "Mirrors | Encyclopedia.com",
+      "relevance": "Hristiyan düşüncede aynanın Tanrı’nın imgesine benzerlik, ilahi bilgiyi dolaylı edinme ve Kutsal Kitap’ı ‘kusursuz ayna’ gibi okuma temalarıyla bağlantısını aktarır.",
+      "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/mirrors"
     },
     {
-      "title": "Mirror, Mirror On the Wall | My Jewish Learning",
-      "relevance": "Yahudi folklorunda aynaların ruhlar âlemi ve mistik görü ile ilişkisini ele alır.",
-      "url": "https://www.myjewishlearning.com/article/mirror-mirror-on-the-wall/"
+      "title": "The Mirror in Art: Vanitas, Veritas, and Vision",
+      "relevance": "Hristiyan sanat bağlamında aynanın ilahi hakikati, görünür/görünmez kusurları ve ruhsal temizlenmeyi düşündüren bir sembol olarak kullanımını açıklar.",
+      "url": "https://pdfs.semanticscholar.org/e843/267659c49f3f8847c114bfce8c7dccb0dda9.pdf"
     },
     {
-      "title": "Mirror: Significance and symbolism",
-      "relevance": "Budist bağlamlarda aynanın yansıtıcılık, berraklık ve Buddha’nın öğretileriyle ilişkilendirilen sembolik anlamlarını toplar.",
-      "url": "https://www.wisdomlib.org/concept/mirror"
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Yahudi rüya yorumu geleneğinin rüyaların anlamı ve yorumlama çerçevesine dair temel tartışmalarını içeren metin; aynaya özgü klasik bir rüya kaydı olmamakla birlikte rüya yorumunun bağlamsallığını vurgular.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
     },
     {
-      "title": "THE MIRROR IN VEDIC INDIA: ITS ANCIENT USE AND ...",
-      "relevance": "Veda sonrası Hint bağlamında aynanın ritüel kullanımlarını ve Budist gelenekte ayna metaforunun zihin ve boşluk öğretisiyle ilişkisini belirtir.",
-      "url": "https://journal.fi/store/article/view/76275/40608"
+      "title": "The Greatest Mirror",
+      "relevance": "Zohar’daki mar’eh ve ayna ilişkisini, Yahudi mistik sembolizminde yansıma temasını gösterir.",
+      "url": "https://www.marquette.edu/maqom/greatest123.pdf"
+    },
+    {
+      "title": "Precious Holy Mirrors - Beyond Speech - Parshah - Chabad.org",
+      "relevance": "Mishkan’daki aynaların kutsal amaç ve dış görünüş temalarıyla ilişkisini ele alır.",
+      "url": "https://www.chabad.org/parshah/article_cdo/aid/3612409/jewish/Precious-Holy-Mirrors.htm"
+    },
+    {
+      "title": "MIRROR - JewishEncyclopedia.com",
+      "relevance": "Yahudi geleneğinde aynaya bakma ve ayna uygulamalarına dair tarihsel notlar içerir.",
+      "url": "https://www.jewishencyclopedia.com/articles/10106-looking-glass"
+    },
+    {
+      "title": "[PDF] Self-reflecting & Reflecting the Self in the Other: Mirrors in Hindu ...",
+      "relevance": "Hindu görsel kültüründe aynanın benlik ve algı ile ilişkisini ele alan akademik inceleme.",
+      "url": "https://campuspress.yale.edu/templecultures/files/2021/08/Naman-Ahuja-Self-Reflecting-and-Reflecting-the-Self.pdf"
+    },
+    {
+      "title": "Verse 27: Darpaṇa",
+      "relevance": "Aynayı 'kalbin aynası' olarak yorumlayan ve bilincin dünyayı yansıtma kapasitesiyle ilişkilendiren geleneksel metin.",
+      "url": "https://www.wisdomlib.org/hinduism/book/cidvilasastava-by-amrtananda/d/doc1546843.html"
+    },
+    {
+      "title": "[PDF] THE MIRROR IN VEDIC INDIA: ITS ANCIENT USE AND ... - Journal.fi",
+      "relevance": "Vedik Hindistan’da aynanın erken kullanımları ve tarihsel anlamları üzerine akademik çalışma.",
+      "url": "https://pdfs.semanticscholar.org/8ed7/2d7d5ca148e690836039e9fd7dc411122fef.pdf"
+    },
+    {
+      "title": "On the symbolism of the mirror in Indo-Tibetan consecration rituals",
+      "relevance": "İndo-Tibet ritüellerinde aynanın fenomenlerin boşluğu, divinasyon ve kutsama bağlamlarında nasıl sembolik işlevler üstlendiğini ele alır.",
+      "url": "https://pluto.huji.ac.il/~msyben/7_%20On-the-Symbolism-of-the-Mirror.pdf"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Aynayı, içsel-dışsal benlik, hakikat, persona ve gölge gibi temalarla ilişkilendirerek spiritüel ve Jungî çağrışımları bir arada ele alıyor; aynı zamanda rüyada aynayı görünüş ve özdeşlik sorusu olarak okuyor.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Mirror in Dreams: Meaning & Symbolism | Somniary",
+      "relevance": "Aynayı içsel-dışsal benlik, hakikat, persona ve gölge temalarıyla ilişkilendirir ve rüyada aynayı görünüş ile özdeşlik bağlamında yorumlar.",
+      "url": "https://somniary.com/dream-library/symbols/mirror"
+    },
+    {
+      "title": "Mirror Symbolism — Self-Perception, Truth, and the Unfamiliar ...",
+      "relevance": "Aynayı, içsel- dışsal benlik, hakikat, persona ve gölge gibi temalarla ilişkilendirerek spiritüel ve Jungî çağrışımları bir arada ele alıyor; aynı zamanda rüyada aynayı görünüş ve özdeşlik sorusu olarak okuyor.",
+      "url": "https://psysymbol.com/symbol/mirror.html"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Aynayı rüyalarda öz algı, kimlik, iç dünya ve dış dünya sınırıyla ilişkilendiriyor; ayrıca ruhsal okumada hakikati ve saklı bilgiyi açığa çıkaran bir simge olarak konumlandırıyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/mirror/"
+    },
+    {
+      "title": "The Spiritual Science of Mirrors in Dreamwork",
+      "relevance": "Aynanın rüya çalışmasında ve spiritüel bağlamda kalbin aynası, ilahî ışığın yansıması ve içsel arınma temalarıyla bağ kurulduğunu aktarıyor.",
+      "url": "https://dreamstudies.org/spiritual-science-mirrors-dreaming/"
+    },
+    {
+      "title": "mirror - Dream Symbol Meaning and Interpretation",
+      "relevance": "Aynayı rüya sembolü olarak öz-imge, ikilik, kaçınılan hakikat ve ruhsal geçit fikriyle ilişkilendiriyor; modern spiritüel dilde ayna sembolünün nasıl okunduğunu gösteriyor.",
+      "url": "https://dreams.guide/dream-symbols/mirror/"
     }
   ],
   "relatedSlugs": []

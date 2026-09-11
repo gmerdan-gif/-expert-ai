@@ -1,168 +1,189 @@
 {
   "slug": "yilan",
   "title": "yılan",
-  "shortDescription": "Rüyada yılan görmek; korku, gizli tehdit veya rekabetle yüzleşmeyi çağrıştırabileceği gibi şifa, içsel bilgelik ve dönüşümle de ilişkilendirilebilir. Deri değiştiren yılan ise eski alışkanlıklardan ya da bağlardan sıyrılıp yenilenmeyi simgeler.",
+  "shortDescription": "Rüyada yılan görmek; tehdit, geçim ve rızık, dürtüler ve dönüşüm gibi farklı temalarla ilişkilendirilebilir. Anlamı rüyanın bağlamına göre değişir.",
   "positiveAssociations": [
-    "Dönüşüm ve yenilenme",
-    "İçsel bilgelik",
-    "Şifa ve iyileşme",
-    "Koruma ve himaye"
+    "Geçim ve rızık artışı",
+    "İçsel dönüşüm ve yenilenme",
+    "Gizli güç ve potansiyel",
+    "Koruma ve sığınak"
   ],
   "challengingAssociations": [
-    "Gizli düşmanlık ve rekabet",
-    "Ani tehdit ve zarar algısı",
-    "Aldatma ve suçluluk",
-    "Bilinçdışının ezici dürtüleri"
+    "Tehdit ve korku",
+    "Gizli düşmanlık",
+    "Aldatma ve ruhsal tehlike",
+    "Bastırılmış arzular"
   ],
   "contextDependentAssociations": [
-    "Çevredeki insanlarla olan ilişkiler",
-    "Kişinin kendi içsel öfkesi veya dürtüleriyle yüzleşmesi",
-    "Hayattaki büyük değişim dönemleri ve geçişler"
+    "Yılanın rüyadaki davranışı ve konumu",
+    "Yılanın rengi ve türü",
+    "Rüya sahibinin yılan karşısındaki tavrı"
   ],
   "commonVariations": [
     {
-      "title": "Yılanın deri değiştirmesini görmek",
-      "description": "Eski alışkanlıklardan, toksik bağlardan veya artık işlevini yitirmiş yaşam biçimlerinden arınarak yeni bir döneme adım atmaya işaret eden köklü bir değişim sürecini yansıtır."
+      "title": "Üzerinize doğru gelen bir yılan görmek",
+      "description": "Günlük yaşamda bastırılan ya da yüzleşmekten kaçınılan bir tehdidin, korkunun veya çözülmemiş bir meselenin bilinç düzeyine yaklaşmasına işaret eder."
     },
     {
-      "title": "Gizli bir yerde yılanla karşılaşmak",
-      "description": "Günlük yaşamda fark edilmeyen ama kişiye zarar verme potansiyeli taşıyan gizli bir rekabetin veya bastırılmış bir kaygının su yüzüne çıkmasını simgeler."
+      "title": "Yılan tarafından ısırılmak",
+      "description": "Geleneksel ve psikanalitik bağlamlarda ani bir uyarı, beklenmedik bir dış etki veya bazı kültürel okumalarda rızık ve geçimle ilgili ani bir değişim olarak değerlendirilir."
     },
     {
-      "title": "Yılanın koruyucu bir varlık gibi yanında durması",
-      "description": "Zorlu bir yaşam evresinde dışsal veya içsel bir güç tarafından kollanma hissini, sığınma arayışını ve ruhsal bir himaye bulma ihtiyacını temsil eder."
+      "title": "Sakin ve zararsız görünen bir yılanla karşılaşmak",
+      "description": "Bilinçdışının henüz biçimlenmemiş enerjisi veya açığa çıkmamış içsel potansiyelle temasa geçildiğini, bunun ise tehdit içermediğini gösterir."
     },
     {
-      "title": "Yılanın Üç Zehir'den biri olan öfkeyi tetiklemesi",
-      "description": "Kişinin kontrol etmekte zorlandığı yıkıcı tutkuları, öfke patlamalarını ve zihinsel dengesini bozan yoğun duygusal çalkantıları gözler önüne serer."
+      "title": "Yılanın derisini dökmesini veya yenilenmesini görmek",
+      "description": "Eski kalıplardan, alışkanlıklardan veya zorlu dönemlerden arınarak kişisel bir dönüşüm sürecine girildiğinin simgesel bir ifadesidir."
     }
   ],
-  "psychology": "Ampirik psikoloji literatüründe yılanın rüyalardaki sembolik anlamını sabitleyen doğrudan bir bulgu bulunmamaktadır; buna karşın yılan uyaranlarının insan zihninde evrimsel olarak yüksek düzeyde korku, dikkat ve tehdit algısı tetiklediği bilinmektedir. Psikanalitik ve psikodinamik çerçevede ise yılan, fiziksel özelliklerinin zihinsel karşılığı olarak bilinçdışı dürtüleri, bastırılmış cinselliği ve beden-zihin ilişkisini temsil eden teorik bir figür olarak ele alınır.",
-  "jungian": "Jungcu analitik psikolojide yılan, kolektif bilinçdışının tehlikeli ama aynı zamanda dönüştürücü gücünü barındıran arketipsel bir simgedir. Bilinçdışından gelen bu yeraltı enerjisi, doğru entegre edildiğinde içsel bilgeliğe ve psişik bütünleşmeye kapı aralar.",
-  "islamicTradition": "İslami rüya yorum geleneğinde yılan, ekseriyetle gizli düşman, rakip, zarar veya tehdit kaynağı olarak değerlendirilir. Kur'an-ı Kerim'de rüyada yılan görmenin anlamına dair doğrudan bir hüküm yer almasa da, sonraki dönemlerde gelişen geleneksel tabirlerde yılan genellikle olumsuz bir dışsal etken veya hasım simgesiyle özdeşleştirilmiştir.",
-  "christianTraditions": "Hristiyan teolojisinde ve kutsal metin sembolizminde yılan, Yaratılış anlatısı üzerinden baştan çıkarma, günah ve kötülük unsurlarıyla ilişkilendirilir. Bu bağlamda yılan, metinsel düzlemde düşüşün ve ruhsal tehlikenin simgesi olarak konumlanır.",
-  "jewishTraditions": "Yahudi kutsal metinlerinde yılan, aldatma ve günah kavramlarıyla anılırken, Talmudik bağlamda ise ölüm ve çöküş gibi olumsuz durumların yanı sıra dikkat çekici biçimde şifa ile de ilişkilendirilen ikili bir yapı sergiler.",
-  "buddhistEasternApproaches": "Budist gelenekte yılanlar, Buda ve Dharma’nın koruyucusu olarak inananları himaye eden varlıklar şeklinde yorumlanabilirken, aynı zamanda zihinsel kirleticilerden biri olan öfkeyi temsil eden Üç Zehir içinde de yer alır. Ayrıca Naga adı verilen yarı insan yarı yılan figürleri, kutsal öğretilerin koruyucusu ve kapı bekçisi olarak mitolojik ve sembolik düzlemde kendine yer bulur.",
-  "spiritualApproaches": "",
+  "psychology": "Rüya araştırmalarında yılan, genel olarak tehdit simülasyonu ve insan zihninin tehlikeli uyaranlara karşı verdiği evrimsel dikkat tepkisiyle ilişkilendirilir. Bilimsel çalışmalar, yılanın tek bir sabit anlamı olmadığını; daha çok korku unsurları ve dikkat çeken canlılara ilişkin temalar taşıdığını göstermektedir.",
+  "jungian": "Jungcu analitik psikolojide yılan, kolektif bilinçdışının ötekiyle ilişkili boyutunu, içgüdüsel temelleri ve bilinçli tutumun doğadan uzaklaştığı dönemlerde ortaya çıkan arketipsel enerjileri temsil eder. Ayrıca bilinçdışından gelen ani imgelerin hem korkutucu hem de dönüştürücü yönlerine dikkat çeker.",
+  "islamicTradition": "İslami rüya tabiri kaynaklarında yılan genellikle gizli düşmanlık, zarar veya rekabetle ilişkilendirilir. Yılanın rengi, türü ve rüyadaki durumu dikkate alındığında ise mal, rızık, eş veya yüksek makam gibi farklı anlamlara da gelebilir.",
+  "christianTraditions": "Hristiyan sembolizminde yılan ağırlıklı olarak aldatma, günah, ayartı ve ruhsal tehlike ekseninde okunurken, bazı bağlamlarda şifa ve dönüşüm çağrışımlarıyla da ele alınır; bu durum rüyadaki yılanın tek bir sabit anlam taşımadığını gösterir.",
+  "jewishTraditions": "Yahudi rabbanî geleneğinde ve Talmudik kaynaklarda, yılanın toprakla ve tozla olan ilişkisi üzerinden rüyada görülmesi geçim ve rızıkla bağdaştırılır; yılanın ısırması geçimde artışa işaret ederken, yılanı öldürmek geçim kaybı olarak yorumlanmıştır.",
+  "buddhistEasternApproaches": "Budist sembolizmde yılan, derisini bırakması motifi üzerinden arzu ve bağlanmalardan kurtulma disipliniyle ilişkilendirilirken, bazı anlatılarda tehlike ve engellerin yanı sıra koruyucu bir figür olarak da yer bulur.",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda yılan, ouroboros (kendi kuyruğunu yiyen yılan) simgesi ve eşik sembolizmi aracılığıyla ruhsal enerjinin uyanışını, maddi bütünlüğü, gizli bilgiyi ve kesintisiz dönüşüm sürecini temsil eder.",
   "comparisonTable": [
     {
-      "approach": "Ampirik Psikoloji",
-      "interpretation": "Yılan sembolünün tek bir rüya anlamı yoktur; ancak evrimsel olarak insan zihninde yüksek korku, dikkat ve tehdit tepkileri uyandırdığı gözlemlenmiştir.",
+      "approach": "Psikoloji ve Tehdit Simülasyonu",
+      "interpretation": "Yılan, zihnin tehlikeli uyaranları ve korku unsurlarını prova etmesine yarayan evrimsel bir dikkat nesnesidir.",
       "evidenceLevel": "research"
     },
     {
-      "approach": "Psikanaliz",
-      "interpretation": "Yılan, bilinçdışı dürtülerin, bastırılmış enerjilerin ve beden-zihin temsillerinin teorik bir ifadesi olarak okunur.",
+      "approach": "Psikanaliz ve Jungcu Psikoloji",
+      "interpretation": "Bastırılmış arzular, libido, içgüdüsel psişik katmanlar ve kolektif bilinçdışıyla karşılaşma alanı olarak görülür.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Psikoloji",
-      "interpretation": "Kolektif bilinçdışından gelen, hem tehditkâr hem de ruhsal bütünleşme ve dönüşüm sağlayan arketipsel bir güçtür.",
-      "evidenceLevel": "theoretical"
-    },
-    {
-      "approach": "İslami Gelenek",
-      "interpretation": "Çoğunlukla gizli düşmanlık, rakip ve zarar verme ihtimali taşıyan dışsal tehditler bağlamında yorumlanır.",
+      "approach": "İslami ve Yahudi Gelenekleri",
+      "interpretation": "Düşmanlık, zarar, gizli husumet veya rızık, geçim ve maddi durumdaki değişimler ekseninde ele alınır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan Teolojisi",
-      "interpretation": "Yaratılış anlatısına dayalı olarak baştan çıkarma, günah ve kötülüğün simgesi olarak ele alınır.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Yahudi / Talmudik Gelenek",
-      "interpretation": "Ölüm ve çöküş çağrışımlarının yanında, metinsel bağlamlarda bazen şifa ile de ilişkilendirilen ikili bir anlam taşır.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Budist Gelenek",
-      "interpretation": "Dharma'nın koruyucusu olarak himaye anlamı taşımasının yanı sıra öfke bağlamında zihinsel bir zehir olarak da konumlanır.",
-      "evidenceLevel": "traditional"
+      "approach": "Ezoterik ve Simyasal Yaklaşımlar",
+      "interpretation": "İçsel dönüşüm, arınma, gizli bilgi ve döngüsel yenilenme süreçlerinin bir eşik sembolüdür.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Tüm disiplinler ve gelenekler yılanı, insanı sarsan, dikkat çeken ve olağan dengeyi bozan güçlü bir odak noktası olarak görür. Hem tehdit barındırması hem de köklü bir değişim veya şifa potansiyeli taşıması, yılanın evrensel ikiliğini oluşturur.",
-  "differences": "Yaklaşımlar arasındaki temel ayrım, ampirik bilimin yılanı yalnızca evrimsel bir korku ve dikkat uyaranı olarak incelemesi; psikanaliz ve Jungcu teorilerin onu içsel dinamikler ve arketipler üzerinden okuması; dinî geleneklerin ise ağırlıklı olarak dışsal tehlike, ahlaki sınırlar veya koruyucu mitolojik figürler olarak ele almasından kaynaklanır.",
-  "inusAssessment": "Yılan sembolü, insan psikolojisinin en derin ve çok katmanlı imgelerinden biridir. Bilimsel olarak tehdit algısını tetiklerken, teorik ve geleneksel düzlemde korku ile şifayı, yıkım ile dönüşümü aynı anda barındırır. Bu nedenle rüyada yılan görmek, kişiye dayatılan sabit bir kehanet ya da deterministik bir tabir olmaktan öte; bireyin iç dünyasındaki bastırılmış gerilimleri, gizli rekabetleri veya hayatındaki büyük geçiş evrelerini anlamlandırması için derin bir aynadır.",
+  "commonGround": "Farklı gelenekler ve yaklaşımlar arasında yılan sembolünün hem yıkıcı/tehditkâr hem de yapıcı/dönüştürücü olmak üzere ikili bir kapasite barındırdığı konusunda belirgin bir ortak zemin bulunur.",
+  "differences": "Bilimsel psikoloji yılanı tehdit algısı ve evrimsel refleksler bağlamında ele alır; psikanaliz içgüdüsel dürtülere, dini gelenekler ise ahlaki veya maddi durumlara, ezoterik yaklaşımlar da ruhsal dönüşüm süreçlerine odaklanır.",
+  "inusAssessment": "Yılan sembolü, rüya bağlamındaki davranışına, rengine ve kişinin ona karşı geliştirdiği tavra göre tamamen zıt anlamlar üretebilen esnek bir yapıya sahiptir. Bu rüyayı yorumlarken tek bir sabit hükme varmak yerine, yılanın üzerinize gelmesi, ısırması ya da sakin durması gibi ayrıntıların rüya sahibinin uyanık yaşamındaki içsel gerilimler ve dış etkenlerle nasıl bağlandığına dikkat edilmelidir.",
   "faq": [
     {
-      "question": "Rüyada yılan görmek kesinlikle düşman sahibi olmak anlamına mı gelir?",
-      "answer": "Hayır. İslami ve geleneksel tabirlerde gizli düşman veya zarar ihtimaliyle ilişkilendirilse de, psikolojik ve kültürel bağlamda yılan içsel dönüşüm, korkularla yüzleşme veya kişisel gelişim süreçlerinin bir işareti de olabilir."
+      "question": "Rüyada yılan görmek her zaman düşman anlamına mı gelir?",
+      "answer": "Hayır. Yılan sembolü dini ve kültürel metinlerde düşmanlık veya zarar olarak yorumlanabildiği gibi, bazı geleneklerde ve bağlamlarda geçim, rızık veya içsel dönüşüm gibi farklı anlamlarla da ilişkilendirilebilir."
     },
     {
-      "question": "Yılan sembolü psikolojik olarak neden bu kadar yoğun korku yaratır?",
-      "answer": "Ampirik psikoloji ve evrimsel araştırmalar, yılanların insan zihninde ve dikkat mekanizmalarında hayatta kalma odaklı güçlü bir tehdit ve uyarı tepkisi tetiklediğini göstermektedir."
-    },
-    {
-      "question": "Yılanın deri değiştirmesi rüyada nasıl ele alınmalıdır?",
-      "answer": "Tarihsel ve kültürel sembolizmde deri değiştirme, kişinin eski kalıplarından, zararlı alışkanlıklarından veya zorlu süreçlerinden arınarak yenilenme arzusunu ve dönüşüm potansiyelini temsil eder."
+      "question": "Yılan tarafından ısırılmak neye işaret eder?",
+      "answer": "Farklı çerçevelerde yılan ısırması, dışarıdan gelebilecek ani bir uyarıya, psikolojik bir sarsıntıya veya bazı rabbanî yorumlarda geçimde yaşanılabilecek değişimlere işaret eden bir varyant olarak ele alınır."
     }
   ],
   "sources": [
     {
-      "title": "Reading The Red Book (32)",
-      "relevance": "Yılanın Jungcu sembolizmde bilinçdışı, arketip ve dönüşümle ilişkisini ele alan kuramsal çerçeve.",
-      "url": "https://symbolreader.net/2021/03/21/reading-the-red-book-32/"
+      "title": "Snake Symbolism and Precognition Dream",
+      "relevance": "Freudcu psikanalizde yılanın libido ve cinsel sembolizmle ilişkisini özetleyen kısa bir metin.",
+      "url": "https://www.freudfile.org/psychoanalysis/dream_snake.html"
+    },
+    {
+      "title": "Snakes and Their Relevance to Psychiatry : Annals of Indian Psychiatry",
+      "relevance": "Freud'un yılanı cinsel sembol ve bastırılmış cinsellikle ilişkilendiren yaklaşımını akademik bir bakışla aktarır.",
+      "url": "https://journals.lww.com/aips/fulltext/2019/03010/snakes_and_their_relevance_to_psychiatry.15.aspx"
+    },
+    {
+      "title": "Symbols Analysis",
+      "relevance": "Freud’un sembol kavrayışına dair kısa açıklama; yılanın sembolik yer değiştirme yoluyla anlam kazanabileceğini gösterir.",
+      "url": "https://www.freudfile.org/psychoanalysis/symbols.html"
     },
     {
       "title": "Snakes, Dreams, and Jung's Red Book",
-      "relevance": "Yılan sembolünün Jungcu psikolojide kolektif bilinçdışı ve arketipsel anlamlarla bağlantısını tartışan yorum.",
+      "relevance": "Jungcu açıdan yılan rüyalarının kolektif bilinçdışı ve arketipsel deneyimle ilişkisini tartışır.",
       "url": "https://bulkeley.org/snakes-dreams-jungs-red-book/"
     },
     {
-      "title": "The Symbolism of Snakes",
-      "relevance": "Yılanın kültürel sembolizmde şifa, tehlike, yeraltı, yeniden doğuş ve bilgelik gibi karşıt anlamlarını özetleyen çağdaş kültürel değerlendirme.",
-      "url": "https://www.psychologytoday.com/us/blog/hide-and-seek/202105/the-symbolism-of-snakes"
+      "title": "Carl Jung on Serpents and Dragons in Dreams",
+      "relevance": "Yılan ve ejderha imgelerinin bilinç, içgüdüsel psişe ve bilinçdışına geri çekilme tehlikesiyle ilişkisini aktarır.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/08/16/dragons-2/"
     },
     {
-      "title": "Comments on snake symbolism and mind-body relations - PubMed",
-      "relevance": "Yılan sembolünün fiziksel özellikleri ile bilinçdışı ve beden temsilleri arasındaki ilişkiyi tartışan psikanalitik yorum.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/6169284/"
+      "title": "The Serpent's Prayer: The Psychology of an Image",
+      "relevance": "Yılanı bilinçdışı ve libidinal/instinktif psişik enerji bağlamında ele alan Jungçu yorum pasajları sunar.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/277-the-serpents-prayer-the-psychology-of-an-image"
     },
     {
-      "title": "Dream of Snake — Islamic Meaning - Naeem Foundation",
-      "relevance": "İslami rüya geleneğinde yılanın düşman, rakip ve gizli zarar kaynağı olarak yorumlanmasına dair çevrim içi derleme.",
-      "url": "https://www.naeemfoundation.com/dreams/snake"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un yılan rüyaları için verdiği temel anlamlar: güç, krallık, zaman, yenilenme, servet ve rüyadaki davranışa bağlı olumlu/olumsuz ayrımlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "Topical Bible: The Snakes",
-      "relevance": "Yahudi kutsal metin geleneğinde yılanın aldatma ve günahla ilişkilendirilmesine dair çevrim içi dini başvuru sayfası.",
-      "url": "https://biblehub.com/topical/t/the_snakes.htm"
+      "title": "Yılan Rüyada Görmek İmam Nablusi",
+      "relevance": "Yılanın düşman, zarar, ısırma, renk farkları ve bazı bağlamlarda mal ile ilişkilendirilmesini aktaran çevrimiçi derleme.",
+      "url": "https://www.islamda.org/2015/06/yilan-ruyada-gormek-imam-nablusi.html"
     },
     {
-      "title": "How a Universal Symbol Became Christianized. By James H ...",
-      "relevance": "Hristiyanlıkta yılan sembolünün kötülük, düşüş ve teolojik anlam dönüşümü üzerine akademik değerlendirme.",
-      "url": "https://academic.oup.com/jaar/article-abstract/80/1/275/1011075"
+      "title": "İmam Nablusi Rüya Tabirleri Y Harfi",
+      "relevance": "Cafer-i Sâdık ve Nablusî’ye nispet edilen yılanla ilgili çok anlamlı rüya tabiri maddelerini bir araya getiren çevrimiçi derleme.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-y-harfi.html?m=1"
     },
     {
-      "title": "Snakes in Dreams in Islam: The Quran, the Hadith, and the ...",
-      "relevance": "Kur’an’da ve İslami gelenekte yılanın rüya anlamı ile doğrudan ilişkilendirilmediğini ve Talmudik bağlamda yılanın şifa/ölüm çağrışımlarını anlatan çevrim içi açıklama.",
-      "url": "https://dreamtold.com/blog/snakes-in-dreams-in-islam/"
+      "title": "What Is the Biblical Meaning of Snakes in a Dream ...",
+      "relevance": "Yılanın Hristiyan sembolik eksenlerini; aldatma, ayartı, şifa ve dönüşüm çağrışımlarını özetleyen modern bir Hristiyan yorum metni.",
+      "url": "https://www.faithtime.ai/content/bible-lessons/biblical-meaning-of-snakes/"
     },
     {
-      "title": "Meaning of Seeing Snakes in Your Dreams",
-      "relevance": "İslami rüya kültüründe yılanın kötü kişi ve zarar sembolü olarak ele alınışını veren çevrim içi dini içerik.",
-      "url": "https://www.dawateislami.net/magazine/en/the-world-of-dreams/dream-of-seeing-snake"
+      "title": "Biblical Meaning of Dreaming About A Snake (Ultimate ...",
+      "relevance": "Yılanı rüya bağlamında aldatma, ayartı, ruhsal saldırı ve zafer temalarıyla ilişkilendiren modern Hristiyan rüya-yorum metni.",
+      "url": "https://www.alivechristians.com/acblog/meaning-of-snakes-in-the-dream-biblical-interpretation"
     },
     {
-      "title": "Pesachim 56a~ The Snake as a Symbol of Healing",
-      "relevance": "Talmudik bağlamda yılanın ölüm ve bazen şifa ile ilişkilendirildiğini belirten kısa açıklama.",
-      "url": "https://www.talmudology.com/jeremybrownmdgmailcom/2014/12/21/yevamot-116b-deadly-snakebites-5es6n-shnzl"
+      "title": "Topical Bible: Serpent",
+      "relevance": "Yılan/serpent için Kutsal Kitap eksenli sembolik çerçeve sunar; aldatma, günah, düşmanlık ve şifa çağrışımlarını bir arada verir.",
+      "url": "https://biblehub.com/topical/s/serpent.htm"
     },
     {
-      "title": "Buddhist symbols: Dragons, Serpents, Snakes",
-      "relevance": "Budist sembolizmde yılanın koruyucu işlevi ve öfke ile ilişkisi hakkında kısa açıklama.",
-      "url": "https://higashihonganjiusa.org/2021/06/22/buddhist-symbols-dragons-serpents-snakes/"
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Rüyada yılan için doğrudan rabbanî yorum metni; yılan, ısırma ve öldürme varyantlarıyla birlikte geçim ve rızık bağlamında ele alınır.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
     },
     {
-      "title": "Naga | Origins, Symbolism & Significance - Britannica",
-      "relevance": "Naga'nın Hinduizm ve Budizm’deki yarı ilahi (yarı tanrısal) yılan-varlık niteliğini ve Budist bağlamdaki işlevlerini özetler.",
-      "url": "https://www.britannica.com/topic/naga-Hindu-mythology"
+      "title": "Judaism and Snakes",
+      "relevance": "Talmud’daki yılan rüyası pasajını ve bunun geçimle ilişkilendirilen açıklamasını özetleyen Yahudi kaynak.",
+      "url": "https://aish.com/judaism-and-snakes/"
     },
     {
-      "title": "What the mythical snake Naga represents, both good and evil, in ...",
-      "relevance": "Naga'nın koruyucu rolünü ve Budist anlatılardaki yerini açıklar.",
-      "url": "https://www.scmp.com/lifestyle/arts-culture/article/3291021/what-mythical-snake-naga-represents-both-good-and-evil-hinduism-and-buddhism"
+      "title": "The Discourse on the Snake Simile",
+      "relevance": "Yılanın derisini bırakması üzerinden bırakma ve arınma temasını gösteren Budist metin erişimi.",
+      "url": "https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel048.pdf"
+    },
+    {
+      "title": "Black snake: Significance and symbolism",
+      "relevance": "Yılanın derisini bırakma motifi aracılığıyla arınma temasını ele alan Budist metin.",
+      "url": "https://www.wisdomlib.org/concept/black-snake"
+    },
+    {
+      "title": "Poisonous snake: Significance and symbolism",
+      "relevance": "Zehirli yılanın zarar verici arzu ve içsel tehlike için metaforik kullanımını derler.",
+      "url": "https://www.wisdomlib.org/concept/poisonous-snake"
+    },
+    {
+      "title": "The Snake: Uragasutta, Snp1.1",
+      "relevance": "Mucilinda anlatısının Budist gelenekte yılanı koruyucu ve siper sağlayıcı bir figür olarak konumlandırmasına işaret eder.",
+      "url": "https://discourse.suttacentral.net/t/the-snake-uragasutta-snp1-1/26198"
+    },
+    {
+      "title": "The Ouroboros · Salvador Dalí: Alchimie des Philosophes",
+      "relevance": "Ouroboros’un simyada en eski sembollerden biri olarak döngüsel süreç ve dönüşümle ilişkilendirilmesini açıklar.",
+      "url": "https://library.willamette.edu/hfma/omeka/exhibits/show/salvador-dali--alchimie-des-ph/the-ouroboros"
+    },
+    {
+      "title": "Inner alchemy archives - Serpents",
+      "relevance": "Simyasal bağlamda yılanın farklı dönüşüm işlevleri ve maddesel süreçlerle ilişkilendirilişine dair açıklamalar içerir.",
+      "url": "https://www.alchemywebsite.com/I-serpen.html"
+    },
+    {
+      "title": "Carl Jung: The purified and nourished serpent alchemy is the mercurial ...carljungdepthpsychologysite.blog › 2020/02/25 › alchemy-32",
+      "relevance": "Yılanı Merkür, ruh ve bilinçdışıyla ilişkilendiren Jungcu-simgesel bir okuma sunar; rüya sembolizmine aktarılabilecek kavramlar içerir.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/02/25/alchemy-32/"
     }
   ],
   "relatedSlugs": []

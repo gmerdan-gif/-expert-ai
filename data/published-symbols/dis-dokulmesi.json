@@ -1,100 +1,217 @@
 {
   "slug": "dis-dokulmesi",
   "title": "diş dökülmesi",
-  "shortDescription": "Rüyada diş dökülmesi; kayıp, güçsüzlük, aile ilişkilerindeki değişimler ya da eski bir dönemi geride bırakma düşüncesiyle ilişkilendirilebilir. Bazen de uyanıkken hissedilen diş, diş eti veya çene geriliminin rüyaya yansımasıdır.",
+  "shortDescription": "Rüyada diş dökülmesi, kayıp, kontrolün sarsılması ve yaşamınızdaki değişimlerle ilişkilendirilebilir; ancak bu rüyalar bazen uyku sırasında veya uyanırken hissedilen diş, diş eti ya da çene geriliminin rüyaya yansımasıyla da bağlantılı olabilir. Dişlerin nasıl düştüğü, ağrı veya kan olup olmadığı ve rüyadaki duygunuz yorumu değiştirir.",
   "positiveAssociations": [
-    "Sıkıntıların ve zorlukların sona ermesi",
-    "Eski kimliğin bırakılarak yeni bir evreye geçilmesi",
-    "Yaşamda çözülme ve yenilenme süreci"
+    "Akranlarından daha uzun yaşama beklentisi",
+    "Bazı geleneksel yorumlarda borçların ödenmesi veya yüklerden kurtulma",
+    "Yeni bir döneme veya aile içi yenilenmelere geçiş ihtimali"
   ],
   "challengingAssociations": [
-    "Diş ve çene bölgesinde hissedilen fiziksel gerilim ve tahriş",
-    "Maddi ya da manevi kayıp hissi",
-    "Güç kaybı ve kırılganlık temaları",
-    "Akrabalar arasında yaşanabilecek dargınlıklar"
+    "Beden bütünlüğü ve güç kaybı endişesi",
+    "Yakın çevre, akrabalık bağları veya aile bireyleriyle ilgili kayıp kaygısı",
+    "İfade ve konuşmada zorlanma ile kontrol duygusunun sarsılması"
   ],
   "contextDependentAssociations": [
-    "Aile bireyleriyle ilişkilerdeki değişimler",
-    "Konuşma ve ifade zayıflığına dair endişeler",
-    "Eski alışkanlıkların geride bırakılması"
+    "Dişin elde veya kucakta toplanması ya da yere düşüp kaybolması",
+    "Düşme anında ağrı veya kan olup olmadığı",
+    "Uyanma sonrası çene bölgesinde hissedilen fiziksel gerilim ve hassasiyet"
   ],
   "commonVariations": [
     {
-      "title": "Aynanın Karşısında Dişlerin Tek Tek Dökülmesi",
-      "description": "Kişinin aynaya bakarken dişlerinin yerinden oynayıp sırayla döküldüğünü görmesi, bedensel farkındalığın ve kontrol kaybı endişelerinin yoğunlaştığı anlara işaret edebilir."
+      "title": "Ön dişlerin dökülmesi",
+      "description": "Rüyada özellikle ön dişlerin elde veya yere dökülmesi, geleneksel aktarımlarda yakın çevre, aile üyeleri veya görünürlük ve statü alanındaki endişelerle ilişkilendirilir."
     },
     {
-      "title": "Sert Bir Şey Yerken Dişlerin Kırılıp Dökülmesi",
-      "description": "Yemek yerken veya bir şeyi ısırırken dişlerin kırılıp ağızdan düşmesi, uyanık yaşamdaki diş veya çene sıkma alışkanlıklarının rüyadaki yansımasıyla örtüşebilir."
+      "title": "Ağrısız ve kanamasız diş kaybı",
+      "description": "Herhangi bir fiziksel acı veya kanama olmaksızın dişlerin kendiliğinden dökülmesi, modern yorumlarda ve bazı geleneklerde kontrolün elden kayması ya da günlük yaşamda yaşanan değişikliklerle ilişkilendirilebilir."
     },
     {
-      "title": "Avuç Dolusu Dişin Dökülmesi",
-      "description": "Dişlerin bir anda ağızdan avuca dolması, modern tabirlerde ani yaşam değişimleri, kayıp endişeleri veya ailevi bağlardaki dönüşümlerle ilişkilendirilir."
+      "title": "Düşen dişleri kucakta toplamak",
+      "description": "Dökülen dişlerin yere düşmeyip elde veya kucakta toplanması, geleneksel tabirlerde uzun bir ömre veya aile içi dengelerin korunmasına yorulur."
     },
     {
-      "title": "Dişler Döküldükten Sonra Yerine Yenilerinin Gelmesi",
-      "description": "Dökülen dişlerin yerine yeni ve sağlıklı dişlerin gelmesi, çağdaş spiritüel yaklaşımlarda eski bir dönemin kapanıp yeni bir başlangıca işaret eder."
+      "title": "Uyanış anında çene gerilimi eşliğinde dişlerin dökülmesi",
+      "description": "Uyandıktan hemen sonra çene, diş etleri veya diş bölgesinde hissedilen fiziksel gerilme ve sıkma hissi rüya senaryosuna doğrudan yansıyabilir."
     }
   ],
-  "psychology": "Ampirik psikoloji çalışmalarında, diş dökülmesi rüyalarının genel psikolojik sıkıntı düzeyinden ziyade uyanış anındaki diş, diş eti veya çene bölgesindeki fiziksel gerilim ve tahriş hissiyle doğrudan ilişkili olduğu bulunmuştur. Bu bulgu, rüyanın sembolik stresten öte fiziksel ve diş/çene kaynaklı uyarılma hipoteziyle açıklanabileceğini göstermektedir.",
+  "psychology": "Doğrudan ampirik çalışmalar, diş dökülmesi rüyalarının evrensel bir psikolojik sıkıntı veya genel anksiyete göstergesi olmaktan ziyade, uyanış sonrasında ağız, diş eti ve çene bölgesinde tespit edilen fiziksel gerilim duyumlarıyla daha güçlü biçimde ilişkili olabileceğini göstermektedir. Bu bulgu, rüya içeriğinin somut duyusal girdilerden etkilenebildiğini ortaya koymaktadır. Psikanalitik çerçevede ise Freud, diş imgesini cinsel baskı, mastürbasyon ve hadım edilme kaygıları gibi bastırılmış dürtülerle ilişkilendirmiştir. Psikanalitik okumada bu imge, tek bir sabit yorum çerçevesinden ziyade, beden bütünlüğünün sarsılması ve güç kaybı temalarının yoğunlaştığı bir yer değiştirme öğesi olarak ele alınır.",
   "jungian": "",
-  "islamicTradition": "Modern İslami tabir kaynaklarında diş dökülmesi rüyası, genellikle aile ve akrabalık ilişkilerindeki değişimler, maddi ya da manevi kayıplar veya bazı sıkıntıların sona ermesi bağlamında ele alınır. Dişler bu bağlamda aile bireylerini temsil eden simgeler olarak değerlendirilir.",
-  "christianTraditions": "Hristiyanlık metinsel sembolizminde dişlerin düşmesi veya kaybı, güç kaybı, ifade zayıflığı ve insan kırılganlığı temaları üzerinden okunabilir. Ancak bu doğrudan bir rüya tabiri kılavuzu değildir.",
-  "jewishTraditions": "Yahudi geleneğinde diş imgesi, doğrudan rüya yorumu olmaksızın güç ve savunma/saldırı kapasitesiyle ilişkilendirilen kutsal metinsel bir sembol olarak ele alınır.",
+  "islamicTradition": "İslami rüya tabiri aktarımlarında dişler genellikle aile, akrabalık bağları, yaş ve ömür ile ilişkilendirilir. Üst dişlerin baba tarafı akrabalarını, alt dişlerin ise anne tarafı akrabalarını temsil ettiği yönünde görüşler bulunur. Dişlerin düşmesi bazı kaynaklarda akranlardan daha uzun yaşama (uzun ömür) ile bağdaştırılırken, dişin elde veya kucakta toplanması ya da yere düşüp kaybolması gibi ayrıntılar yorumun yönünü değiştirir. Ağrı veya kan olup olmadığı, borçların ödenmesi ya da bir işin eksik kalması gibi temalarla da ilişkilendirilmiştir.",
+  "christianTraditions": "Hristiyan sembolik okumalarında ve halk geleneklerinde dişlerin gevşemesi veya düşmesi, güç kaybı, itibarın zayıflaması, bilgelik arayışı veya yönelim ihtiyacı gibi temalarla ele alınır. Teolojik bir perspektifte bu imge, kişinin kendi yeterliliğine duyduğu güvenin sarsılması veya zorluklar karşısında manevi bir dayanak arayışına yönelmesi şeklinde yorumlanabilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde, özellikle Talmudik metinlerde (örneğin Berakhot 56a), dişlerin düşmesi rüyası aile bireyleriyle ilişkilendirilen bağlamlar içerebilir. Bununla birlikte, rüyanın her zaman mutlak bir olumsuzluk taşımadığı, yakın zamanda yaşanan diş ağrısı veya yoğun diş odaklı düşüncelerin rüyayı tetikleyebileceği ve bu durumlarda rüyaya aşırı anlam yüklenmemesi gerektiği halakhik açıklamalarda vurgulanmıştır. Kimi yorumlarda ise bu imge borç yükünden kurtulma gibi farklı bir çerçevede de okunmuştur.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "Modern spiritüel ve ezoterik yaklaşımlarda diş dökülmesi, eski bir kimliğin veya alışkanlığın bırakılması, çözülme ve yeni bir yaşam evresine geçiş süreci olarak yorumlanır.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda diş dökülmesi, iletişim kurmada yaşanan zorlanmalar, kontrol kaybı hissi, yaşamda bir dönemin kapanması ve yeni bir sürece uyum sağlama çabası olarak ele alınır. Bu yaklaşım, sembolü bir kriz anından ziyade geçiş ve dönüşüm süreci olarak yorumlar.",
   "comparisonTable": [
     {
       "approach": "Ampirik Psikoloji",
-      "interpretation": "Uyanış anındaki diş ve çene bölgesindeki fiziksel gerilimin rüyaya yansıması.",
+      "interpretation": "Genel psikolojik sıkıntılardan ziyade uyanma anındaki diş ve çene kası gerilimleriyle ilişkilendirilir.",
       "evidenceLevel": "research"
     },
     {
-      "approach": "İslami Tabir Geleneği",
-      "interpretation": "Aile bireyleri, akrabalık ilişkileri, kayıp ve sıkıntıların son bulması.",
+      "approach": "Psikanaliz",
+      "interpretation": "Beden bütünlüğünün kaybı, güçsüzlük hissi ve cinsel bastırma temalarının yoğunlaştığı bir imge olarak değerlendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Aile, akrabalık bağları, ömür uzunluğu ve dişin düşüş biçimine göre (kucakta toplanma, kaybolma) farklı anlamlar taşır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Talmudik metinlerde ailevi bağlamlarla anılsa da, fiziksel diş ağrısı gibi durumlarda rüyanın öneminin azaltılması gerektiği vurgulanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Güç kaybı, yönelim ihtiyacı, itibarın zayıflaması veya manevi dayanak arayışı çerçevesinde ele alınır.",
       "evidenceLevel": "traditional"
     },
     {
       "approach": "Modern Spiritüel Yaklaşım",
-      "interpretation": "Eski kimliğin geride bırakılması, dönüşüm ve yeni bir evreye geçiş.",
+      "interpretation": "İfade sorunları, kontrol kaybı ve yaşamdaki yapıların çözülüp yeniden kurulması olarak yorumlanır.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı yaklaşımlar diş dökülmesini bir değişim, kayıp hissi veya bedensel/yapısal bir sarsıntı noktası olarak ele alma eğilimindedir.",
-  "differences": "Bilimsel psikoloji rüyayı fiziksel çene gerilimine bağlarken, geleneksel ve spiritüel yaklaşımlar bunu ailevi bağlar, kayıplar veya kişisel dönüşüm gibi soyut temalarla açıklar.",
-  "inusAssessment": "Diş dökülmesi sembolü, ampirik verilerin işaret ettiği bedensel gerilim ile kültürel ve spiritüel geleneklerin yüklediği dönüşüm ve kayıp anlamları arasında köprü kurar. Bu durum, rüyanın tek bir evrensel anlama indirgenemeyeceğini, hem fiziksel duyumların hem de bireysel bağlamın dikkate alınması gerektiğini gösterir.",
-  "faq": [],
+  "commonGround": "Farklı disiplinler ve gelenekler arasında diş dökülmesi imgesi, kişisel istikrarın sarsılması, güvende olma duygusunun azalması ve yaşamsal bir kayıp veya değişim hissi etrafında ortak bir payda oluşturur.",
+  "differences": "Ampirik psikoloji bulguları bu rüyayı somut diş ve çene gerilimleriyle açıklarken, psikodinamik yaklaşım içsel kaygılara ve bastırılmış dürtülere odaklanır. Antik, dini ve kültürel gelenekler ise sembolü akrabalık ilişkileri, ömür, borçlar veya kehanet benzeri dışsal işaretler üzerinden okuma eğilimindedir.",
+  "inusAssessment": "Diş dökülmesi sembolü ne sadece uğursuz bir kehanettir ne de yalnızca biyolojik bir uyarımdır; rüya sahibinin uyanıklık halindeki fiziksel hassasiyetleri ile psikanalitik güç ve kayıp temalarını bir arada ele alır. Rüyayı yorumlarken dişin nasıl düştüğü, ağrı veya kanın eşlik edip etmediği ve rüya anındaki duygusal ton, bu çok katmanlı imgenin hangi anlama daha yakın olduğunu belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Diş dökülmesi rüyası mutlaka kötü bir olayın haberi midir?",
+      "answer": "Hayır. Ampirik çalışmalar bu rüyaların çoğunlukla uyanıklık sırasındaki çene gerilimiyle ilgili olabileceğini göstermektedir. Geleneksel ve kültürel yorumlarda da her zaman ölüm veya felaket anlamına gelmez; borçların kapanması, uzun ömür veya aile içi değişimler gibi farklı bağlamlarda ele alınmıştır."
+    },
+    {
+      "question": "Dişimin elde kalması ile yere düşmesi arasında fark var mıdır?",
+      "answer": "Geleneksel tabirlerde düşen dişin elde veya kucakta toplanması ile yere düşüp kaybolması farklı simgesel karşılıklara sahiptir. Örneğin, kucakta toplanması aile içi bolluk veya uzun ömürle bağdaştırılırken, kaybolması yakın çevreyle ilgili kayıp endişelerine yorulur."
+    }
+  ],
   "sources": [
     {
       "title": "Dreams of Teeth Falling Out: An Empirical Investigation ... - PMC",
-      "relevance": "Diş dökülmesi rüyalarının uyanışta diş/çene gerilimiyle ilişkisini inceleyen ampirik çalışma.",
+      "relevance": "Diş dökülmesi rüyalarını doğrudan inceleyen ampirik çalışma; rüya ile uyanış sonrası diş/çene gerilimi arasındaki ilişkiyi test eder ve psikolojik sıkıntı açıklamasını sınırlar.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6168631/"
     },
     {
-      "title": "Rüyada Diş Görmek Ne Anlama Gelir? İslami ve Dini Yorumu",
-      "relevance": "Modern İslami tabirlerde diş dökülmesi genellikle aile, kayıp ve sıkıntıların sona ermesi temalarıyla ilişkilendirilir.",
-      "url": "https://islamiyet.net.tr/ruyada-dis-gormek-ne-anlama-gelir/"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüyada diş imgesini cinsel baskı bağlamında ele aldığı klasik metin; diş dökülmesi için Freudcu kavramsal çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "Biblical Meaning of Teeth Falling Out in a Dream | AiAstrum",
-      "relevance": "İncil temelli sembolik okuma, diş kaybını güç, ifade ve kırılganlıkla ilişkilendirir.",
-      "url": "https://aiastrum.com/blog/biblical-meaning-of-teeth-falling-out-dream"
+      "title": "Interpretation of Dreams: Oneirocritica by Artemidorus",
+      "relevance": "Dişlerin düşmesiyle ilgili antik rüya yorumunu, dişlerin konumu ve türüne göre ev halkı, borç ve mal kaybı bağlamında ele alan klasik oneirokritik (antik rüya yorumlama) metin.",
+      "url": "https://www.goodreads.com/book/show/604460"
     },
     {
-      "title": "Rüyada diş görmek",
-      "relevance": "Genel kutsal metinlerde diş imgesinin güç ve saldırı kapasitesiyle ilişkilendirilmesine örnek sağlar.",
-      "url": "https://ruya.ihya.org/ruyada-dis-gormek.html"
+      "title": "Maybe it's because I'm a dreamer, By L.J. Trafford - The History Girls",
+      "relevance": "Artemidorus’un dişleri ev halkıyla eşleştiren yorum sistemini açıklayan, antik rüya geleneğine dair tarihsel okuma.",
+      "url": "http://the-history-girls.blogspot.com/2021/11/maybe-its-because-im-dreamer-by-lj.html"
     },
     {
-      "title": "Rüyada Dişlerin Dökülmesi",
-      "relevance": "İslami çevrimiçi tabirlerde diş dökülmesini akraba, mal ve kayıp bağlamında ele alır.",
-      "url": "https://www.trakyalife.com/ruyada-dislerin-dokulmesi/"
+      "title": "The Omen in Herodotus VI. 107",
+      "relevance": "Antik Yunan bağlamında dişin düşmesini uğursuzluk ve yakın çevreden kayıp ile ilişkilendiren bir tartışma.",
+      "url": "https://www.journals.uchicago.edu/doi/pdf/10.1086/358949"
     },
     {
-      "title": "Dreams About Teeth Falling Out: Meaning & Spiritual Symbolism",
-      "relevance": "Diş dökülmesi rüyasını çağdaş spiritüel dilde dönüşüm, bırakma ve yeni evreye geçiş temalarıyla ilişkilendirir.",
+      "title": "Rüyada Diş Dökülmesi Ne Demek? Hadislerle Rüya Tabiri Açıklaması",
+      "relevance": "Dişlerin rüyada akraba ve aileyle ilişkilendirildiğini, üst ve alt dişlere aile içi karşılıklar verildiğini aktaran YouTube kaydı; diş dökülmesi sembolünün aile/soy bağları çerçevesinde ele alınmasına dair veri sağlar.",
+      "url": "https://www.youtube.com/watch?v=Eut-YPhe3ZM"
+    },
+    {
+      "title": "Rüyada Dişlerin Düştüğünü Görmek Ne Anlama Gelir?",
+      "relevance": "Dişlerin düşmesinin uzun ömür, akranlarından daha uzun yaşama ve dişlerin elde/kucakta toplanması halinde ailede artış veya farklı ömür yorumları gibi anlamlara geldiğini aktaran çevrimiçi metin.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-dislerin-dustugunu-gormek-ne-anlama-gelir-26116"
+    },
+    {
+      "title": "tooth fall out",
+      "relevance": "Diş düşmesi için ağrı, kan ve sebep olmaması gibi ayrıntılara göre değişen yorumlar veren çevrim içi arama sayfası; alt ayrıntıların anlamı etkilediğini gösterir.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=tooth+fall+out"
+    },
+    {
+      "title": "Rüyada Diş Görmek Nedir? Rüyada Yeni Dişin Çıkması, Dişlerin Kendiliğinden Kırılıp Dökülmesi, Çürük Dişin Çektirilmesi Anlamı",
+      "relevance": "Dişin düşüp bulunmaması, yerde bulunması ve kucağa düşmesi gibi ayrımlarla ölüm, yeni doğum, mal ve musibet yorumları aktaran çevrim içi rüya tabiri yazısı.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-dis-gormek-ne-anlama-gelir-26124"
+    },
+    {
+      "title": "God Speaks through Dreaming of Teeth",
+      "relevance": "Hristiyan blog geleneğinde dişlerin gevşemesi veya düşmesi, yön, bilgelik ya da rehberlik ihtiyacıyla ilişkilendirilen bir yorum sunuyor.",
+      "url": "https://dougaddison.com/2014/06/god-speaks-through-dreaming-of-teeth/"
+    },
+    {
+      "title": "Dream About Broken Teeth",
+      "relevance": "Diş kırılması veya düşmesi rüyasını Hristiyan dilinde kayıp, utanç ve yaşamda önemli bir şeyin yitirilmesi temalarıyla açıklıyor.",
+      "url": "https://evangelistjoshua.com/dream-about-broken-teeth/"
+    },
+    {
+      "title": "Biblical Meaning of Teeth Falling Out in a Dream (KJV) | Bible Sundays",
+      "relevance": "Diş düşmesi rüyasını güç kaybı, konuşma ve güven temalarıyla ilişkilendiren bir İncil temelli yorum çerçevesi sunuyor.",
+      "url": "https://www.biblesundays.com/dream-meanings/teeth-falling-out"
+    },
+    {
+      "title": "Dreams About TEETH - Biblical Meaning of Teeth Falling Out In Dreams",
+      "relevance": "Diş dökülmesi rüyasını ruhsal kayıp, zayıflık ve utanç gibi temalarla ele alan çağdaş bir Hristiyan yorum içeriğidir.",
+      "url": "https://www.youtube.com/watch?v=4lBwGa1R0i8"
+    },
+    {
+      "title": "Dreams About Teeth Falling Out: Meaning & Spiritual Symbolism ...",
+      "relevance": "Diş kaybını Hristiyan halk yorumunda itibar, güç ve savunma kapasitesinin zayıflamasıyla ilişkilendiren bir açıklama sunuyor.",
       "url": "https://www.knowmastery.com/dreams-about-teeth-falling-out/"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 56 - Come and Hear",
+      "relevance": "Dişlerin düştüğü rüyanın aile bireyleriyle ilişkilendirildiği klasik Talmudik anlatı.",
+      "url": "https://www.come-and-hear.com/berakoth/berakoth_56.html"
+    },
+    {
+      "title": "Teeth Falling Out - The Yeshiva World",
+      "relevance": "Berakhot 56a’daki dişlerin düşmesi rüyasının kısa aktarımı ve yorum yönü.",
+      "url": "https://www.theyeshivaworld.com/coffeeroom/topic/teeth-falling-out"
+    },
+    {
+      "title": "What Does It Mean to Dream of Your Teeth Falling Out? - Chabad.org",
+      "relevance": "Diş dökülmesi rüyasına ilişkin Yahudi gelenek içindeki anlatı ve farklı yorum çizgileri.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/2842585/jewish/What-Does-It-Mean-to-Dream-of-Your-Teeth-Falling-Out.htm"
+    },
+    {
+      "title": "I Dreamed That My Teeth Fell Out—What Does It Mean?",
+      "relevance": "Diş dökülmesi rüyasının halakhik çerçevede nasıl ele alındığı ve yakın bağlamın önemine dair açıklama.",
+      "url": "https://www.hidabroot.com/question/178"
+    },
+    {
+      "title": "The Sages’ Knowledge on Matters of Dreams",
+      "relevance": "Rüyalarda dişlerin düşmesi konusundaki Talmudik ve sonraki yorumların bir araya getirilmesi.",
+      "url": "https://daatemet.org.il/en/torah-talmud/talmud-issues/tractate-berachot/the-sages-knowledge-on-matters-of-dreams/"
+    },
+    {
+      "title": "Falling Teeth in Dreams - Hidabroot",
+      "relevance": "Düşen diş rüyasının kötü işaret sayılabildiğini ve halakhik tavsiyeleri ele alan metin.",
+      "url": "https://www.hidabroot.com/question/2052"
+    },
+    {
+      "title": "Dream About Broken Teeth - Hidabroot",
+      "relevance": "Diş dökülmesi rüyasının anlamına dair halakhik yönlendirme ve bağlamsal değerlendirme.",
+      "url": "https://ennewsite.hidabroot.org/question/228"
+    },
+    {
+      "title": "Dream about Loose and Fallen Teeth - Hidabroot",
+      "relevance": "Geçici diş ağrısı ve düşüncenin rüya yorumunu nasıl değiştirebileceğini ele alan metin.",
+      "url": "https://ennewsite.hidabroot.org/question/305"
+    },
+    {
+      "title": "Rüyada diş dökülmesi görmek: Rüyada dişlerin dökülmesi ne anlama gelir?",
+      "relevance": "Rüyada diş dökülmesi için modern yorumlar arasında iletişim, kayıp ve keder temaları geçtiğini gösteren çevrim içi bir derleme.",
+      "url": "https://www.sabah.com.tr/ruya-tabirleri/2020/02/28/ruyada-dis-dokulmesi-gormek-ruyada-dislerin-dokulmesi-ne-anlama-gelir"
+    },
+    {
+      "title": "Rüyada Diş Dökülmesi Ne Anlama Gelir? | CosmicDreams",
+      "relevance": "Rüyada diş dökülmesini kayıp, değişim ve kontrol kaybı hissiyle ilişkilendiren modern spiritüel/yorumlayıcı özet.",
+      "url": "https://www.cosmicdreams.app/blog/ruyada-dis-dokulmesi-anlami-tr"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
+  ]
 }

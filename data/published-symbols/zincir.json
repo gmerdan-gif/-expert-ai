@@ -1,125 +1,241 @@
 {
   "slug": "zincir",
   "title": "zincir",
-  "shortDescription": "Rüyada zincir görmek, sorumluluklar, ilişkiler veya baskı yaratan yükümlülükler nedeniyle kısıtlanmış hissetmeyi; aynı zamanda bağlılık ve sürekliliği simgeleyebilir. Zincirden kurtulmak özgürleşme isteğini, bir yere zincirlenmek veya boynunda zincir görmek ise ağır sorumluluklar ve kapana kısılmışlık hissini öne çıkarabilir.",
+  "shortDescription": "Rüyada zincir görülmesi, bireyin hayatındaki bağları, sorumlulukları ve kısıtlanma hissini ya da tam tersine süreklilik ve sağlam bağlılıkları simgeleyen çok katmanlı bir semboldür.",
   "positiveAssociations": [
-    "Bağlılık ve karşılıklı bağıntı",
-    "Neden-sonuç ve ardışıklık",
-    "Ruhsal adanmışlık ve koruma",
-    "İlişkisel süreklilik"
+    "Güçlü bağlılık ve sadakat",
+    "İşlerde ve yaşamda süreklilik",
+    "Uzun ömürlü ve sağlam ilişkiler",
+    "Helal kazanç ve bereket",
+    "Ruhsal koruma ve enerji akışı"
   ],
   "challengingAssociations": [
-    "Sınırlama, bağlanma ve kısıtlanma",
-    "Yükümlülük ve sorumluluk baskısı",
-    "Günah veya itaatsizlik",
-    "Sıkıntı ve karmaşıklıklar"
+    "Esaret ve baskı altında hissetme",
+    "İşlerde engellenme ve gecikmeler",
+    "Ağır yükler ve sorumluluklar",
+    "Günah ve pişmanlık duygusu",
+    "Zihinsel ve arzusal sınırlılıklar"
   ],
   "contextDependentAssociations": [
-    "Boyunda veya elde görülen zincirin farklı tehditler, menfaatler ya da anlamlar taşıması.",
-    "Kültürel olarak hem koruma hem de baskı anlamı barındırması",
-    "Evlilik bağı veya dünyevî sorumluluklar arasında gidip gelmesi"
+    "Zincirin sağlam, ağır, dolaşmış ya da kırık olması.",
+    "Zincirin boyunda, elde veya bir nesneye bağlı olarak görülmesi.",
+    "Rüya sahibinin zinciri çözmeye çalışması veya koparması."
   ],
   "commonVariations": [
     {
-      "title": "Boyunda demir zincir taşımak",
-      "description": "Rüyada boynunda sarılı veya takılı bir demir zincir hissetmek, üstlenilen ağır yükümlülükleri, sorumlulukları ya da kaçınılmaz hissedilen bağları temsil edebilir."
+      "title": "Sağlam ve Parlak Bir Zincir Taşımak",
+      "description": "Rüyada kopmamış, düzenli halkalardan oluşan parlak bir zincir görmek, hayatta kurulan sağlam bağların, sadakatin ve düzenli bir akışın işareti olarak değerlendirilebilir."
     },
     {
-      "title": "Zincirden kurtulmak veya koparmak",
-      "description": "Üzerindeki ya da elindeki zinciri kırarak özgürleştiğini görmek, kısıtlayıcı bir durumdan, baskıdan veya rutinleşmiş bağlardan sıyrılma arzusunu simgeler."
+      "title": "Boyunda Ağır Bir Zincir Taşımak",
+      "description": "Rüya sahibinin boynunda taşıyamayacağı kadar ağır bir demir zincir hissetmesi, üzerindeki baskıları, aşırı sorumlulukları veya kaçınılmaz görünen zorunlulukları temsil edebilir."
     },
     {
-      "title": "Elde tutulan zincir halkaları",
-      "description": "Elde zincir halkalarıyla oynamak veya onları incelemek, yaşamdaki olaylar arasındaki neden-sonuç ilişkilerini ve ardışık süreçleri zihinsel olarak ele almaya işaret edebilir."
+      "title": "Zincirleri Kırarak Özgürleşmek",
+      "description": "Üzerinde ya da bir yere bağlı olan zincirleri kendi çabasıyla kırdığını veya çözdüğünü görmek, kişisel engelleri aşma, esaretten kurtulma ve rahatlama arzusunu yansıtabilir."
     },
     {
-      "title": "Bir yere zincirlenmiş olmak",
-      "description": "Kendini bir nesneye veya duvara zincirlenmiş şekilde bulmak, kişinin günlük hayatında kendini kapana kısılmış hissettiği durumları ve aşırı yükümlülükleri yansıtır."
+      "title": "Dolaşmış Zincirlerle Uğraşmak",
+      "description": "Karmaşık bir şekilde birbirine girmiş zincirleri çözmeye çalışmak, zihinsel karışıklıkları, çözülmesi güç yaşam düğümlerini ve günlük işlerdeki tıkanıklıkları ifade edebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslami rüya tabiri geleneğinde zincir, sıkıntılar, karmaşıklıklar, uzun ömür, evlilik, zenginlik ve günah gibi başlıklarla ele alınır. Zincirin boyunda veya elde görülmesine göre yorum farkları gözetilir. Bu bağlamlar tehdit, menfaat, itaatsizlik veya evlilik bağı gibi çeşitli anlamlara yorulur.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist ve Doğu geleneklerinde zincir kavramı, birbirine bağlılık, neden-sonuç ilişkileri ve ardışık bilinç süreçleriyle ilişkilendirilir. Tibet Budizmi bağlamında demir zincir, ruhsal adanmışlık, koruyucu rol ve zihinsel yükleri simgeleyen bir benzetme olarak kullanılır.",
-  "spiritualApproaches": "",
+  "psychology": "Psikolojik açıdan rüyalardaki nesneler rüya raporunun bütüncül kategorileri bağlamında —örneğin karakterler, etkileşimler ve duygular— incelenir. Doğrudan zincir sembolüne atfedilmiş kesin, ampirik bir anlam bulunmamakla birlikte, psikanalitik kuram imgeyi sabit bir sözlük anlamı olarak değil, yoğunlaştırma, yer değiştirme ve çağrışım dizileri bağlamında ele alır. Zincir, bireyin zihnindeki kısıtlayıcı düşünce kalıplarını, sorumluluk hissini veya ilişkiler arasındaki bağları yansıtan bir metafor işlevi görebilir.",
+  "jungian": "Analitik psikolojide zincir imgesi, bilinç ile bilinçdışı arasındaki ilişki, bireyleşme sürecindeki bütünleşme ve gölge temasına dair çağrışımlar taşıyabilir. Her halka yaşanan deneyimin bir parçasını, bütün zincir ise kişisel öykü ve kolektif imgelerle ilişkili bir sürekliliği temsil edebilir; yine de Jungcu atıflar, doğrudan bir sembol sözlüğü yerine geniş arketipsel bağlam içinde dikkatle ele alınmalıdır.",
+  "islamicTradition": "Klasik İslami rüya tabiri aktarımında zincir, kısıtlama, bağlanma, ağır yük, üzüntü ve günah temalarıyla ilişkilendirilir. Bazı geleneksel kaynaklarda zincir, helal mal veya uzun ömürlü, varlıklı bir kadınla bağdaştırılır; boyunda zincir görülmesi ise bazı yorumlarda sıkıntı veya zorluk anlamına gelir. Bu tür geleneksel maddeler tarihsel çerçeve içinde ve temkinle okunmalıdır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde zincir çoğunlukla esaret, baskı ve günahta tutsaklıkla ilişkilendirilir. Öte yandan zincirin kırılması veya çözülmesi temaları kurtuluş, özgürleşme ve ilahi müdahale ile gelen bağların çözülmesi olarak okunur. Bu yorumlar çoğunlukla kutsal metinlerdeki mecazî kullanımlara dayanır.",
+  "jewishTraditions": "Yahudi rüya hermenötiğinde rüyaların ahlaki ve manevi bir yönü olduğuna inanılır. Berakhot ve ilgili Talmudik tartışmalar zincir için doğrudan bir klasik madde vermez; yine de bu çerçeve, zinciri sorumluluk, bağlanma veya ahlaki baskı çağrışımları bağlamında temkinli biçimde ele almaya olanak sağlar.",
+  "buddhistEasternApproaches": "Doğu ve Budist düşüncede zincir, neden-sonuç yasasının sürekliliğini, arzuların bağlayıcılığını ve bireyi Samsara döngüsüne bağlayan sınırlılıkları temsil eden metaforik bir imgedir. Budist rüya yaklaşımları zinciri zihinsel bağlılıkların hatırlatıcısı ve çözülmesi gereken bağlar olarak görebilir.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yaklaşımlarda zincir, bağlayıcı sözler, karmik yükümlülükler ve enerjisel bağlar bağlamında ele alınır. Zincirin durumu — sağlam, ağır veya kırık olması — kişinin hangi bağları sürdürdüğü veya hangilerini bırakmayı düşünmesi gerektiği konusunda içsel bir işaret olarak yorumlanır.",
   "comparisonTable": [
     {
+      "approach": "Psikanaliz",
+      "interpretation": "Sabit bir anlam yerine çağrışım zincirleri, zihinsel bağlantılar ve örtük arzuların açığa çıkması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Bireyleşme, bilinç ve bilinçdışı arasındaki bağ ile kısıtlanma arketipinin yansıması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
       "approach": "İslami Gelenek",
-      "interpretation": "Sıkıntı, günah, borç ve evlilik bağı gibi anlamlar taşır; boyunda ya da elde görülmesine göre değişen uyarıcı anlamlar yükler.",
+      "interpretation": "Kısıtlama, günah, sıkıntı veya bazı durumlarda helal mal ve dindarlıkta sebat.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu ve Budist Yaklaşım",
-      "interpretation": "Neden-sonuç zincirini, karşılıklı bağıntıyı ve demir zincir üzerinden ruhsal adanmışlık ve korumayı ele alır.",
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Esaret, baskı, günahta tutsaklık veya ilahi müdahaleyle gelen kurtuluş.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Karmik bağlar, enerjisel süreklilik ve kısıtlayıcı yükümlülüklerin çözülmesi ihtiyacı.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı geleneklerde zincir, tamamen koparılamayan veya kişinin üzerinde taşımak zorunda olduğu bağları, yükleri ve ilişkisel sürekliliği simgeleyen ortak bir eksene sahiptir.",
-  "differences": "İslami gelenek zinciri daha çok günah, sıkıntı, evlilik ve bireysel sorumluluk bağlamında ele alırken, Doğu yaklaşımları kavramı neden-sonuç ilişkileri ve zihinsel ardışıklık üzerinden daha geniş bir ontolojik çerçeveye oturtur.",
-  "inusAssessment": "Zincir sembolü, tek yönlü bir iyilik ya da kötülük işareti olarak ele alınamaz; hem koruma ve bağ kurma hem de kısıtlama ve baskı barındıran ikili yapısıyla rüya bağlamının dikkatle incelenmesini gerektirir.",
+  "commonGround": "Farklı gelenekler ve psikolojik yaklaşımlar arasında zincir sembolü, temelde \"bağlantı\", \"sınırlılık\" ve \"sorumluluk\" ekseninde buluşur. İster ruhsal bir esaret ister yaşamın sürekliliği olarak görülsün, zincir bir şeylerin birbirine bağlı olduğunu veya bir kısıtlamaya tabi olduğunu gösterir.",
+  "differences": "Yaklaşımlar arasındaki temel fark, zincirin yüklediği değerde ortaya çıkar. Geleneksel ve dinsel okumalarda zincir genellikle dışsal esaret, günah veya engellerle ilişkilendirilirken; psikolojik ve spiritüel yaklaşımlar bunu içsel bağlar, bireyleşme süreci ve kişinin kendi zihinsel sınırları bağlamında değerlendirir.",
+  "inusAssessment": "Rüyada zincir görülmesi, rüya sahibinin yaşamındaki bağları ve sorumlulukları hangi duygu tonuyla deneyimlediğine bağlı olarak anlam kazanır. Zincirin sağlam bir sürekliliği mi yoksa hareket alanını kısıtlayan bir baskıyı mı temsil ettiği, rüyanın genel atmosferi, zincirin görünümü ve rüya sahibinin uyanık yaşamındaki ilişkileriyle birlikte değerlendirilmelidir.",
   "faq": [
     {
-      "question": "Rüyada zincir görmek her zaman kısıtlandığım anlamına mı gelir?",
-      "answer": "Hayır. Zincir sembolü bağ kurma, sorumluluk veya ilişkisel süreklilik gibi nötr ya da olumlu temaları da barındırabilir; rüyanın genel atmosferi ve kişinin hissiyatı önem taşır."
+      "question": "Rüyada kırık zincir görmek ne anlama gelir?",
+      "answer": "Kırık zincir, geleneksel ve spiritüel yorumlarda genellikle esaretten kurtulma, kısıtlayıcı bir durumun sona ermesi veya uzun süredir hissedilen bir yükün hafiflemesi olarak okunabilir."
     },
     {
-      "question": "Boyunda zincir görmek ile elde zincir görmek aynı şekilde mi yorumlanır?",
-      "answer": "Geleneksel kaynaklarda boyunda görülen zincir genellikle sorumluluk veya evlilik bağıyla, elde görülen zincir ise itaatsizlik veya benzeri temalarla ilişkilendirilir."
+      "question": "Rüyadaki zincir her zaman kötü bir olaya mı işaret eder?",
+      "answer": "Hayır. Zincir her zaman olumsuz bir esaret anlamı taşımaz; bazı bağlamlarda sadakati, sağlam ilişkileri ve dindarlıkta sebatı da simgeleyebilir. Yorum, rüyanın tonuna ve zincirin nasıl sunulduğuna bağlıdır."
     }
   ],
   "sources": [
     {
-      "title": "Chains",
-      "relevance": "Zincirin kültürel kullanımında bağ, koruma, kısıtlama ve baskı çağrışımlarını birlikte ele alan çevrimiçi bir tarihsel-simgesel değerlendirme.",
-      "url": "https://www.ericaweiner.com/history-lessons/jewelry_chains"
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya raporlarının nesneler, duygular, etkileşimler ve olay örgüsü içinde nasıl kodlanabileceğini anlatan içerik analizi yöntemi; zincir içeren bir rüyanın ampirik olarak nasıl incelenebileceğine dair yöntemsel çerçeve sunar.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
     },
     {
-      "title": "Seeing Chain in a dream",
-      "relevance": "İslami rüya sözlüğünde zincir için sıkıntı, evlilik, zenginlik, günah ve tehdit çağrışımlarını verir.",
-      "url": "https://www.shiacircle.com/dream-interpretation/chain"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya çözümlemesinde imgeler arasındaki çağrışım, yoğunlaştırma ve yer değiştirme mekanizmaları zincir imgesine sabit bir sözlük anlamı atfetmek yerine bağlam içinde yaklaşılmasını destekler.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "Chain Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya tabirinde zincirin boyunda ya da elde görülmesine bağlı anlamları aktarır.",
-      "url": "https://www.myislamicdream.com/chain.html"
+      "title": "6. Freud’s Tropology of Dreaming",
+      "relevance": "Freudçu rüya çözümlemesinde imgeler arasındaki bağlantılar ve çağrışım dizileri üzerine tartışma sunar; zincir imgesinin bağlantı mantığıyla dikkatle ilişkilendirilmesine zemin hazırlar.",
+      "url": "https://muse.jhu.edu/pub/1/oa_monograph/chapter/2476148/pdf"
     },
     {
-      "title": "Dream of Seeing Chain - Islamic Dream Interpretation",
-      "relevance": "Zinciri bağlayıcılık, günah, borç ve evlilik bağıyla ilişkilendiren İslami rüya yorumlarını sunar.",
-      "url": "https://muslimdreammeaning.com/symbols.php?symbol=chain"
+      "title": "Common Scenarios",
+      "relevance": "Jung’a atıfla zincir sembolünü bağlantı ve süreklilik temasıyla ilişkilendiren çevrimiçi yorum metni.",
+      "url": "https://my.astrofame.com/dream-interpretation/dream/chain/"
     },
     {
-      "title": "IBN SEERiN'S",
-      "relevance": "İbn Sîrîn’e atfedilen derleme içinde zincir maddesini içerir.",
+      "title": "Chain Dream Meaning & Interpretation - Mirror",
+      "relevance": "Zinciri Jungcu çerçevede bağlantı, kısıtlama, gölge ve bireyleşme temalarıyla ilişkilendiren rüya yorumu sayfası.",
+      "url": "https://mirrorwithin.org/dream-dictionary/chain/"
+    },
+    {
+      "title": "What Does It Mean to Dream About Chain? | Ai Dream Scope",
+      "relevance": "Zinciri Jungcu açıdan süreklilik, bağlantı, kısıtlanma ve bilinç-bilinçdışı ilişkisiyle açıklayan yorum metni.",
+      "url": "https://aidreamscope.com/dream-dictionary/chain"
+    },
+    {
+      "title": "The Interpretation of Dreams by Artemidorus",
+      "relevance": "Artemidorus’un Oneirocritica’sında zincir öğesi, bazı bağlamlarda evlilik/eş ve faaliyetlerde engellenme çağrışımlarıyla ele alınmıştır; tarihsel oneirokritik bağlamın örneğini verir.",
+      "url": "https://cdn.bookey.app/files/pdf/book/en/the-interpretation-of-dreams-by-artemidorus.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorumu el kitabının tarihsel bağlamını ve zincir maddesinin nasıl sınıflandırıldığını gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Chapter Four The Reality of Dreams",
+      "relevance": "Artemidorus’ta zincirin faaliyetlerde engellenme ve eşe gönderme yapan anlamlarını tartışan akademik değerlendirme sunar.",
+      "url": "https://publishing.cdlib.org/ucpressebooks/view?docId=ft0489n6b4;chunk.id=d0e3001;doc.view=print"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Oneirocritica’nın antik rüya yorumu geleneği içindeki yerini ve sınıflandırma yaklaşımını özetler.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "ARTEMIDORUS: Interpretation of Dreams (The) (Unabr..",
+      "relevance": "Oneirocritica’nın antik dönemde korunmuş en etkili rüya kitabı olduğunu ve zincir dahil çok sayıda rüya unsurunu katalogladığını belirtir.",
+      "url": "https://www.naxos.com/CatalogueDetail/?id=NA0541"
+    },
+    {
+      "title": "Rêver de CHAÎNE en Islam : Signification et Interprétation",
+      "relevance": "İslamî rüya yorumunda zinciri dinî bağlılık, zincirlenme veya dindarlıkta sebat bağlamında ele alan Fransızca çevrimiçi derleme.",
+      "url": "https://www.revesdislam.fr/dictionnaire/lettre-c/chaine/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri Z Harfi - Muhammed.net",
+      "relevance": "Nablusî’ye atıfla zincir maddesini veren Türkçe çevrimiçi rüya tabiri sayfası; zinciri helal mal, korkutulma, evlilik ve sıkıntı temalarıyla ilişkilendirir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-z-harfi.html"
+    },
+    {
+      "title": "Ibn Seerin's Dictionary of Dreams",
+      "relevance": "İslami rüya tabiri aktarımında zincir için kısıtlama, sıkıntı ve bazı durumlarda evlilik veya helal mal çağrışımları gibi geleneksel okumalara örnek sağlar.",
       "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
     },
     {
-      "title": "Chain: Significance and symbolism",
-      "relevance": "Budist gelenekte 'zincir' kavramının bağlılık, neden-sonuç ilişkisi ve sınırlılık anlamlarını özetler.",
+      "title": "Topical Bible: Chains: Figurative",
+      "relevance": "Kutsal Kitap’taki zincirlerin mecazî olarak bağlanmışlık, baskı ve ruhsal durumlarla ilişkilendirilişini toplar.",
+      "url": "https://biblehub.com/topical/naves/c/chains--figurative.htm"
+    },
+    {
+      "title": "Chains - Topical Bible",
+      "relevance": "Zincirlerin İncil bağlamında esaret, kısıtlama, yetki ve özgürleşme temalarıyla kullanımını özetler.",
+      "url": "https://biblehub.com/topical/c/chains.htm"
+    },
+    {
+      "title": "Topical Bible: Chain",
+      "relevance": "Zincirin kutsal metin dilinde hem fiziksel hem mecazî olarak bağlanmışlık ve ruhsal kısıtlama çağrışımı taşıdığını derler.",
+      "url": "https://biblehub.com/topical/c/chain.htm"
+    },
+    {
+      "title": "Topical Bible: Chains and Shackles",
+      "relevance": "Zincir ve benzeri bağların İncil’de esaret, baskı ve ilahi kurtuluş temalarıyla bağlantısını toparlar.",
+      "url": "https://biblehub.com/topical/c/chains_and_shackles.htm"
+    },
+    {
+      "title": "Chain - McClintock and Strong Biblical Cyclopedia",
+      "relevance": "Zincirin bazı kutsal metin kullanımlarında egemenlik ve otorite işareti olarak geçtiğini gösterir.",
+      "url": "https://www.biblicalcyclopedia.com/C/chain.html"
+    },
+    {
+      "title": "5251 chains - Dictionary of Bible Themes - Bible Gateway",
+      "relevance": "Zinciri tutsaklık, ruhsal esaret ve bazı bağlamlarda onur/kamusal görev ile ilişkilendirir.",
+      "url": "https://www.biblegateway.com/resources/dictionary-of-bible-themes/5251-chains"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Talmudik rüya tartışmasının yer aldığı metinler Yahudi rüya hermenötiğinin çerçevesini sunar; zincir için doğrudan bir madde vermese de rüya-anlam ilişkisinin nasıl değerlendirildiğini gösterir.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b üzerine açıklama; Masechet Berakhot’un rüyalara ayrılmış bölümünün kapsamını ve rüyaların ahlaki/yorumlayıcı işlevini özetler.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Significance of Chain",
+      "relevance": "Budist ve doğu düşüncesinde zincirin bağlantılılık, sınırlılık ve neden-sonuç ilişkileri için sembolik bir kavram olarak kullanımına dair bilgi sağlar.",
       "url": "https://www.wisdomlib.org/concept/chain"
     },
     {
-      "title": "Chaîne: Symbolisme et signification",
-      "relevance": "Tibet Budizmi’nde zincirin algı, duygu ve düşünce dizileri arasındaki bağlantıyı anlatan kullanımlarını verir.",
-      "url": "https://www.wisdomlib.org/fr/concept/cha%C3%AEne"
+      "title": "Significance of Chains and ropes",
+      "relevance": "Theravada çerçevesinde zincirler ve halatların bağlanma, arzu ve özgürleşme karşıtı sınırlılıkları simgelediğini belirtir.",
+      "url": "https://www.wisdomlib.org/concept/chains-and-ropes"
     },
     {
-      "title": "Significance of Iron chain",
-      "relevance": "Demir zincir sembolünün Budist bağlamda yük, bağlanma, koruma ve ruhsal bağlılıkla ilişkilendirilmesini aktarır.",
-      "url": "https://www.wisdomlib.org/concept/iron-chain"
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist rüya yaklaşımında rüyaların boşluk, alamet ve öğretici mesaj olarak okunabildiğini özetler; zincir yorumu bu geniş çerçeve içinde konumlandırılabilir.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
     },
     {
-      "title": "Cadenas de hierro: Simbolismo y significado",
-      "relevance": "Tibet Budizmi’nde demir zincir kullanımının ruhsal adanmışlık ve koruyucu kontrol temalarıyla bağlantısını gösterir.",
-      "url": "https://www.wisdomlib.org/es/concept/cadena-de-hierro"
+      "title": "Chain of dreams: Significance and symbolism",
+      "relevance": "Puranik gelenekte ardışık rüya akışını ve uyanış sonrası süren görüntü dizilerini anlatır.",
+      "url": "https://www.wisdomlib.org/concept/chain-of-dreams"
     },
     {
-      "title": "Significance of Chain-links",
-      "relevance": "Theravada bağlamında zincir halkalarını Buda’nın beden betimlemesi ve karşılıklı bağlılık fikriyle ilişkilendirir.",
-      "url": "https://www.wisdomlib.org/concept/chain-links"
+      "title": "Restraint, Bond, and the Work of Loosening What Holds You",
+      "relevance": "Modern spiritüel kaynaklarda zincirin bağlayıcı sözler, yükümlülükler ve çözülmesi gereken bağlar bağlamında nasıl yorumlandığına dair örnek bir perspektif sunar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/chains"
+    },
+    {
+      "title": "Chain Necklace in dreams — meaning and symbolism",
+      "relevance": "Zincir için ezoterik okuma dili kullanıyor; görünür ile gizli arasındaki enerji kanalı, süreklilik, koruma ve bağlanma-çözülme temaları veriyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/chain-necklace"
+    },
+    {
+      "title": "Dream Interpretation and Meaning of Chain in Dreams",
+      "relevance": "Zinciri bağ ve özgürleşme arasında ikili bir sembol olarak ele alıyor; zincirin nasıl göründüğünün anlamı değiştirdiğini vurguluyor.",
+      "url": "https://www.cafeausoul.com/oracles/dream-dictionary/chain"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "buddhist-eastern"
+  ]
 }

@@ -1,0 +1,218 @@
+{
+  "slug": "kilic",
+  "title": "Kılıç",
+  "shortDescription": "Rüyada kılıç görmek güç, otorite, koruma ve net karar verme ihtiyacını; bazen de tehdit, çatışma ya da sınırların zorlanmasını simgeleyebilir. Kılıç taşımak özgüven ve sorumluluk alma isteğine, kırık veya paslı kılıç ise güç kaybı ya da savunmasızlık hissine işaret edebilir.",
+  "positiveAssociations": [
+    "Güç ve otorite",
+    "Adalet ve hak",
+    "Cesaret",
+    "İçsel koruma",
+    "Bilgelik ve netlik"
+  ],
+  "challengingAssociations": [
+    "Tehdit ve saldırganlık",
+    "Sınır ihlali",
+    "Bastırılmış çatışma",
+    "Zihinsel karışıklık veya gece korkuları",
+    "Bedensel zarar görme endişesi"
+  ],
+  "contextDependentAssociations": [
+    "Kılıcın çekilmiş, kınında, kırık veya paslı olması",
+    "Rüya sahibinin kılıcı taşıyan kişi mi yoksa kılıcın hedefi mi olduğu, yorum açısından belirleyicidir.",
+    "Rüyadaki duygusal tonun korku ya da güç hissi arasında değişmesi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Çekilmiş Kılıçla Karşılaşmak",
+      "description": "Rüyada parlayan ve çekilmiş bir kılıç görmek veya bununla yüzleşmek, genellikle uyanık yaşamda ani bir tehdit, çözülmesi gereken keskin bir çatışma ya da sınırların zorlandığı bir durumla ilişkilendirilir."
+    },
+    {
+      "title": "Kılıç Taşımak veya Kuşanmak",
+      "description": "Kişinin belinde bir kılıç taşıması veya rütbe göstergesi olarak kılıç kuşanması, otorite, özgüven, sorumluluk alma ve sosyal statüsünü güçlendirme isteğini gösterir."
+    },
+    {
+      "title": "Kırık Kılıç Görmek",
+      "description": "Hasar görmüş, paslanmış veya kırılmış bir kılıçla karşılaşmak, güç kaybına, bir mücadelenin başarısızlıkla sonuçlanmasına ya da savunmasızlık hissine işaret edebilir."
+    },
+    {
+      "title": "Kılıçla Savunma Yapmak",
+      "description": "Rüyada bir saldırıya karşı kılıçla karşılık vermek veya kendini savunmak, kişinin yaşamındaki dışsal baskılara, haksızlıklara veya içsel çatışmalara karşı koyma çabasını yansıtır."
+    }
+  ],
+  "psychology": "Psikolojik içerik analizlerinde kılıç ve benzeri silah imgeleri, çoğunlukla savaş ve çatışma, tehlike ve baskı altındaki ruh halleriyle ilişkilendirilmiştir. Asker rüyaları üzerine yapılan çalışmalar ise silah motiflerinin doğrudan tehdit ve mücadele bağlamlarıyla güçlü bir korelasyon gösterdiğini ortaya koymuştur.",
+  "jungian": "Analitik psikolojide kılıç, bilinç ile bilinçdışı arasında net bir sınır çizen 'ayırt etme' işlevini simgeler. Ego ile gölge arasındaki mücadelede kılıç, zihinsel netlik sağlayan, karşıtlıkları birleştirme ekseni oluşturan ve ruhsal gelişimi destekleyen keskin bir araç olarak ele alınır. Jungcu yöntem, bu imgede önce kişisel çağrışımları toplamayı ve bağlama göre yorum yapmayı vurgular.",
+  "islamicTradition": "İslami rüya tabiri kaynaklarında kılıç, yüksek bir rütbe, memuriyet, izzet, evlat, mal ve mülk sahibi olma veya düşmana karşı zafer kazanma gibi temalarla yorumlanır. Kılıç takmak güç ve otoriteye işaret ederken, kılıcın durumu ve ağırlığı rüya sahibinin elde edeceği menfaatin niteliğini değiştirebilir.",
+  "christianTraditions": "Hristiyan sembolizminde kılıç, ağırlıklı olarak Tanrı'nın sözü, ilahi yargı, gerçeği yanlıştan ayırma ve ruhsal mücadele temalarıyla bağdaştırılır.",
+  "jewishTraditions": "Yahudi rüya geleneği ve İbrani metinlerde kılıç motifi, güvenlik tehdidi, savaş hali, savunma veya gece korkusu gibi unsurlarla birlikte düşünülen bir koruma ve çatışma sembolü olarak ele alınır; buna karşın doğrudan klasik bir \"kılıç rüyası\" tabiri verildiğine dair güçlü bir tekil kaynak doğrulanmamıştır.",
+  "buddhistEasternApproaches": "Mahayana ve Zen geleneklerinde kılıç, bilgelik ve ayırt edici farkındalığı simgeler. Özellikle Mañjuśrī'nin kılıcı, zihinsel yanılsamaları, cehaleti ve ikiliği kesip aşan manevi bir aydınlanma aracıdır; Budist rüya literatüründe ise silah görme motifleri genellikle bodhisattva aşamaları ve koruyucu/dönüştürücü imgeler bağlamında ele alınır.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel okumalarda kılıç; net karar alma, zihinsel arınma, ruhsal koruma ve hakikati savunma enerjisi taşıyan bir irade sembolü olarak kabul edilir. Simyasal çerçevelerde kılıç, gereksiz olanı kesip ayırma ve arındırma aracı olarak okunabilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Silah imgelerini çatışma, tehdit ve mücadele bağlamlarıyla ilişkilendirir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Kılıcı fallik güç ve bastırılmış saldırganlıkla ilişkilendirir; ayrıca bilinç ile bilinçdışı arasındaki ayrımı sağlayan analitik bir araç olarak görür.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami ve Kültürel Gelenek",
+      "interpretation": "Otorite, rütbe, mal-mülk, adalet ve düşmana karşı zafer sembolü olarak ele alır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Hakikat, zihinsel netlik, koruma ve ruhsal arınma aracı şeklinde yorumlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler arasında kılıç, temel olarak bir gerilim, güç, net karar verme veya savunma aracı olma özelliğini korur; hiçbir yaklaşım onu tamamen nötr bir nesne olarak ele almaz.",
+  "differences": "Psikolojik yaklaşımlar kılıcı içsel çatışmalar ve zihinsel sınırlarla açıklarken, geleneksel ve dini yorumlar onu dışsal otorite, güç, statü veya manevi zafer ekseninde değerlendirir. Jungcu çerçevede ise kılıç hem ayrım hem de bireyleşme aracı olarak iki yönlü bir işlev taşır.",
+  "inusAssessment": "Kılıç sembolü, taşıdığı keskin, metalik ve işlevsel nitelikler nedeniyle rüyada pasif bir dekor olmaktan ziyade aktif bir müdahale, yönelim veya tehdit barındırır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dream content analysis using Artificial Intelli- gence",
+      "relevance": "Rüya içerik analizinde kullanılan kategori setinde kılıç imgesinin bağımsız bir öğe olarak nasıl kodlanabildiğini gösterir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/48744/54228"
+    },
+    {
+      "title": "Exploring the dreams of Canadian soldiers with content ...",
+      "relevance": "Rüyalardaki silah imgelerinin tehdit, saldırganlık ve çatışma temalarıyla ilişkisini gösteren içerik analizi bulguları sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/9427/pdf_32/13657"
+    },
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Freud’un rüya sembolizmi içinde silah ve aletlerin erkek organıyla ilişkilendirilmesini açıkça örnekleyen bölüm.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Classics in the History of Psychology -- Freud (1901) Chapter 9",
+      "relevance": "Bir rüyada kılıçla saldırı motifinin geçtiği vaka anlatımı; kılıç imgesinin rüya bağlamındaki cinsel ve saldırgan çağrışımlarını gösteren örnek.",
+      "url": "http://www.yorku.ca/pclassic/Freud/Psycho/chap9.htm"
+    },
+    {
+      "title": "Freud, Psychoanalysis, and Symbolism",
+      "relevance": "Freudcu sembolizm tartışmasında silahların ve araçların fallik anlamı üzerine çerçeve sunan akademik çalışma.",
+      "url": "https://assets.cambridge.org/97805215/91522/sample/9780521591522wsc00.pdf"
+    },
+    {
+      "title": "Freud and the Concept of Mental Health",
+      "relevance": "Sıvı olmayan katı nesnelerin, saldırı ve bedensel/fallik çatışma bağlamlarında psikanalitik olarak okunabildiğini gösteren örnekli tartışma.",
+      "url": "https://academic.oup.com/book/11624/chapter/160519891?searchresult=1"
+    },
+    {
+      "title": "Dream About a Sword: Meaning & Interpretation | Revalite",
+      "relevance": "Kılıç sembolünün Jungcu yorumda bilinçdışıyla yüzleşme, ayırt etme ve bireyleşme temalarıyla ilişkilendirildiğini aktaran çevrimiçi metin.",
+      "url": "https://my.astrofame.com/dream-interpretation/dream/sword/"
+    },
+    {
+      "title": "Carl Jung's Original Dream Interpretation Method - Rafael Krüger",
+      "relevance": "Jung’un rüya yorum yöntemini, sembolik okuma ve kişisel çağrışımlar üzerinden kılıç örneğiyle anlatan metin.",
+      "url": "https://www.rafaelkruger.com/the-art-of-dream-interpretation/"
+    },
+    {
+      "title": "Carl Jung Dream Analysis Seminar Lecture IV 30 October 1929",
+      "relevance": "Jung seminer aktarımlarında kılıç imgesinin simgesel işlevi üzerine bir pasaj sunan sayfa.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/08/21/dream-46/"
+    },
+    {
+      "title": "The Puer and the Symbolism of the Sword",
+      "relevance": "Kılıç sembolünü analitik psikoloji bağlamında puer teması ve bilinç gelişimiyle ilişkilendiren akademik makale.",
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/00332920903543617"
+    },
+    {
+      "title": "Oneirocritica",
+      "relevance": "Antik Yunan rüya yorum geleneğinin temel metni; rüya nesnelerinin toplumsal, bedensel ve mesleki çağrışımlarla nasıl okunduğunu anlamak için ana çerçeve sağlar.",
+      "url": "https://en.wikipedia.org/wiki/Oneirocritica"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorum yaklaşımını İngilizce erişilebilir biçimde sunan çeviri/derleme; antik oneirokritik yöntemi ve sembol yorum mantığını göstermeye yarar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un Oneirocritica’sının kapsamını ve antik rüya yorumundaki yerini özetleyen erişilebilir akademik tanıtım; tarihsel oneirokritik bağlamı kurar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "The interpretation of dreams = Oneirocritica : Artemidorus ...",
+      "relevance": "Artemidorus’un rüya yorum metnine ait katalog kaydı; antik oneirokritik geleneğe doğrudan erişim için temel bibliyografik işaret sağlar.",
+      "url": "https://archive.org/details/interpretationof0000arte"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri K Harfi",
+      "relevance": "Kılıç için memuriyet, evlat, hak, menfaat, mal-mülk ve düşmana zafer anlamlarını aktaran bir İslami rüya tabiri derlemesi.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri - Nedir? Nasıl yapılır? Ne demektir?",
+      "relevance": "İslami rüya tabirinde kılıç takmayı rütbe ile; kılıcın ağırlığını güç ve menfaatle; kılıcı ise rızık, mülk ve ilimle ilişkilendirir.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/imam-nablusi-ruya-tabirleri/page/2/"
+    },
+    {
+      "title": "Bukhari 7041 - The Book of The Interpretation of Dreams - Chapter. If someone waves a sword in a dream.",
+      "relevance": "Kılıç rüyasının savaş, topluluk gücü, kayıp ve zaferle ilişkisini anlatan hadis merkezli rüya yorumu aktarımı.",
+      "url": "https://en.tohed.com/hadith/bukhari/7041/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri Ü Harfi",
+      "relevance": "Kılıç taşıyan bir emirin görülmesini zafer ve korkusuzlukla ilişkilendiren rüya tabiri aktarımı.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-u2-harfi.html"
+    },
+    {
+      "title": "Topical Bible: The Sword",
+      "relevance": "Kılıcın Hristiyan sembolizmi içinde yargı, otorite, ayrım ve Tanrı’nın sözüyle ilişkilendirilmesine dair genel bir metin sunar.",
+      "url": "https://biblehub.com/topical/t/the_sword.htm"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyaların anlamı ve rüya yorumunun ele alındığı Talmudik çerçeveyi gösterir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "The Gift of Dreams",
+      "relevance": "Rüya ve gece korkusu bağlamında 'cherev' (kılıç) imgesinin geçtiği İbranice metin dizisini gösterir.",
+      "url": "https://www.sefaria.org/sheets/224947"
+    },
+    {
+      "title": "Youthful Manjushri: the flowering of wisdom; the gentle ...",
+      "relevance": "Mañjuśrī’nin kılıcının bilgelik, ayırt edici kavrayış ve cehaleti kesme anlamını gösteren Budist ikonografi ve sembolizm açıklaması.",
+      "url": "https://buddhaweekly.com/youthful-manjushri-the-beginning-and-flowering-of-wisdom-the-gentle-friend-who-cuts-through-ignorance-with-his-flaming-sword-arapachana-the-great-essence-mantra/"
+    },
+    {
+      "title": "Sword of Manjushri: Dismantling the Veils of Ignorance",
+      "relevance": "Mañjuśrī’nin kılıcının Budist gelenekte bilgelik ve yanılsamayı kesme işleviyle nasıl yorumlandığını anlatan sembolizm özeti.",
+      "url": "https://evamratna.com/blogs/evamratna-blogs/sword-of-manjushri-dismantling-the-veils-of-ignorance"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Budist rüya metninde silah ve zırh görmenin bodhisattva aşamalarıyla ilişkilendirildiği bölümü içerir; rüyada silah kategorisi içinde kılıçla bağlantı kurulabilecek doğrudan bir örnek sunar.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "Contents",
+      "relevance": "Zen-Budist bağlamda kılıcın zihinsel ayrım gücü ve yanılsamayı kesen bilgelik olarak okunmasına dair akademik/çeviri temelli malzeme.",
+      "url": "https://terebess.hu/zen/mesterek/sword.pdf"
+    },
+    {
+      "title": "Sword Dream Meaning & Interpretation - Mirror",
+      "relevance": "Kılıcın rüyalarda güç, koruma, karar verme ve bazen ruhsal mücadeleyle ilişkilendirildiğini aktaran modern spiritüel yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/sword/"
+    },
+    {
+      "title": "Sword, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Kılıcın rüya yorumunda enerji, irade, adalet, cesaret ve ruhun savunucu yönüyle ilişkilendirildiğini söyleyen ezoterik yorum.",
+      "url": "http://www.dreamtation.com/docs/8359.htm"
+    },
+    {
+      "title": "Swords and Symbols",
+      "relevance": "Klasik simyada kılıcın arındırma sembolü olarak ele alınmasına dair akademik not.",
+      "url": "https://www.tf.uni-kiel.de/matwis/amat/iss/kap_2/advanced/a2_1_1.html"
+    }
+  ],
+  "relatedSlugs": []
+}

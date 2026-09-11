@@ -1,131 +1,213 @@
 {
   "slug": "kapi",
-  "title": "kapı",
-  "shortDescription": "Rüyada kapı görmek; geçişi, yeni başlangıçları ve fırsatlara erişimi düşündürebilir. Açık kapı ilerleme veya daveti, kapalı ya da kilitli kapı ise engeli, kapanan bir dönemi ya da henüz ulaşılamayan bir alanı simgeleyebilir.",
+  "title": "Kapı",
+  "shortDescription": "Kapı, rüyalarda sık görülen bir eşik, geçiş, erişim ve sınır sembolüdür; bilinen ile bilinmeyen, iç ile dış arasındaki ayrımı ve bir durumdan diğerine geçişi gösterir.",
   "positiveAssociations": [
-    "Yeni başlangıçlar ve dönüşüm potansiyeli",
-    "Fırsatlara erişim ve açılan yollar",
-    "İçsel aydınlanma ve bilgiye ulaşma",
-    "Korunma ve güvende hissetme"
+    "Fırsat",
+    "Yeni başlangıç",
+    "Ferahlık",
+    "Kolaylık",
+    "Kabul",
+    "İlerleme",
+    "Kurtuluş"
   ],
   "challengingAssociations": [
-    "Engellenme ve kısıtlanmışlık hissi",
-    "Dışlanma veya dışarıda bırakılma",
-    "Kapatılmışlık ve çıkış yolu bulamama",
-    "Bilinmeyene adım atmanın getirdiği belirsizlik"
+    "Engel",
+    "Gecikme",
+    "Sınırlandırma",
+    "İşlerin zorlaşması",
+    "Erişimin kısılması",
+    "Tehlike",
+    "Bağlanma"
   ],
   "contextDependentAssociations": [
-    "Kapının açık ya da kapalı olması",
-    "Eşikte durmak veya kapıyı çalmak",
-    "Mimari ve kültürel bağlamdaki konumu"
+    "Kapının açık, kapalı veya kilitli olması",
+    "Rüya sahibinin kişisel çağrışımları",
+    "Kapının bulunduğu mekân (ev kapısı, tapınak kapısı, sokak kapısı vb.)",
+    "Evin hâli ve hane içi dinamikleri",
+    "Duygusal ton ve rüyanın yaşam bağlamı"
   ],
   "commonVariations": [
     {
       "title": "Açık bir kapıdan içeri girmek",
-      "description": "Yeni bir sürece adım atmayı, sunulan bir fırsatı değerlendirmeyi veya bilinmeyen bir alana geçiş yapmayı simgeler."
+      "description": "Yeni bir olasılığa yönelme, ferahlık, ilerleme veya rızıkla ilişkilendirilebilecek bir geçişi simgeler."
     },
     {
-      "title": "Kilitli veya kapalı bir kapıyla karşılaşmak",
-      "description": "Mevcut bir engeli, bir dönemin kapanmış olmasını ya da henüz erişilemeyen bir alanı ve bilgiyi temsil eder."
+      "title": "Kilitli veya kapalı kapıyla karşılaşmak",
+      "description": "Erişimin ertelendiğini, bir engelle veya korunmuş bir sınırla karşılaşıldığını; çözülmesi gereken engellerin veya beklemenin varlığını işaret edebilir."
     },
     {
-      "title": "Kapı eşiğinde durmak",
-      "description": "Karar aşamasında olmayı; iki farklı durum veya mekân arasında ara mekânda kalma hissini yansıtır."
+      "title": "Yanan bir kapı görmek",
+      "description": "Antik rüya yorumlama metinlerinde nadir ve olumsuz sonuçlarla ilişkilendirilen bir durumdur; bağlama göre risk, tehlike veya dramatik bir değişimi çağrıştırabilir."
     },
     {
-      "title": "Büyük veya süslü bir kapıyı çalmak",
-      "description": "Kutsal, resmi veya otoriteye bağlı bir alana kabul edilme arzusunu ve önemli bir arayışı ifade edebilir."
+      "title": "Tapınak/manastır kapısından geçmek",
+      "description": "Arınma, adanmışlık ve içe yöneliş temasıyla bağlantılı olarak ruhsal ya da bilinç düzeyinde bir değişimi simgeleyebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "Çağdaş çevrimiçi İslami rüya tabiri derlemelerinde kapı, fırsat, geçiş, giriş-çıkış, rızık ve ilahi rahmetin açılması-kapanması eksenlerinde yorumlanır. Bu kaynaklar çoğunlukla geleneksel tabirlere dayanır.",
-  "christianTraditions": "Yeni Ahit bağlamında kapı, Tanrı’ya erişim ve kurtuluş mecazı olarak kullanılır; özellikle Yuhanna metinlerinde İsa’nın ‘kapı’ olarak betimlenmesi örnek gösterilir.",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Tibet ve Budist sanatında ve ritüel düzenlemelerinde kapılar ve eşikler, kutsal mekâna giriş, saygı gösterme ve aydınlanmaya açılan bir düzen olarak ele alınır. Hindu mimarisinde de üst eşik ve açıklık kültürel-dini bir öğe olarak önem taşır.",
-  "spiritualApproaches": "",
+  "psychology": "Psikanalitik bağlamda kapı, sabit ve evrensel bir sözlük anlamından ziyade rüya sahibinin kişisel çağrışım zinciri üzerinden çözümlenen öznel bir öğedir.",
+  "jungian": "Jungcu okumada kapı, bilinç ile bilinçdışı arasındaki eşik imgesi olarak okunur; kapının niteliği (açık/kapalı/kilitli/görünmez vb.) farklı geçiş deneyimlerine işaret eder ve bireyleşme sürecinde yeni bir psişik aşamaya geçiş olasılığını çağrıştırabilir.",
+  "islamicTradition": "Klasik İslami rüya tabir geleneğinde (modern derlemelerde aktarıldığı üzere) kapı bazen evin yöneticisi, hane halkı veya geçimle ilişkilendirilir; açık kapı ferahlık ve kolaylık, kapalı kapı ise zorlaşma veya gecikmeyle yorumlanabilir. Bu bağlamdaki ifadeler çoğunlukla derleme aktarımlarına dayanır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde kapı, Mesih aracılığıyla erişim ve kurtuluş, ilahi huzur, koruma ve fırsatlar gibi teolojik temalarla ilişkilendirilebilir; rüya bağlamında bu temalar metaforik olarak ele alınır.",
+  "jewishTraditions": "Yahudi dinî sembolizminde kapı ve kapı eşiği mahremiyet, koruma ve ilahî farkındalığın hatırlanmasıyla bağlantılıdır (mezuzah pratiği gibi); rüyada kapı teması temkinli biçimde eşik ve geçiş ima edebilir.",
+  "buddhistEasternApproaches": "Budist bakışta kapı sembolü, bilinç durumları arasındaki geçişleri ve aydınlanma yolundaki eşikleri temsil edebilir; tapınak kapısı gibi imgeler arınma ve içsel derinleşmeyi çağrıştırır.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda kapı, bilinen ile bilinmeyen arasında bir tercih ve dönüşüm anını temsil eder ve aynı zamanda yeni olasılıklara açılan bir geçit olarak görülür. Açık kapı fırsatı, kapalı ya da kilitli kapı ise engeli simgeler.",
   "comparisonTable": [
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Rızık, aile halkı, fırsat ve ilahi rahmetin açılıp kapanması bağlamında yorumlanır.",
+      "approach": "Psikanaliz",
+      "interpretation": "Sabit bir anlam yerine rüya sahibinin kişisel çağrışımlarına dayanan öznel bir öğe olarak değerlendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Bilinç ile bilinçdışı arasındaki eşik; psişik aşamalar arası geçişi simgeler.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Klasik İslami Gelenek",
+      "interpretation": "Evin yöneticisi, hane halkı, geçim kapısı veya işlerin kolaylaşması/zorlaşmasıyla ilişkilendirilen geleneksel bir tabir alanıdır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan Gelenek",
-      "interpretation": "Tanrı'ya erişim, kurtuluş ve manevi geçiş mecazı olarak ele alınır.",
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Mesih aracılığıyla kurtuluşa erişim, ilahi koruma ve fırsat temaları çerçevesinde okunabilir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu ve Budist Gelenek",
-      "interpretation": "Kutsal alana giriş, sınır ve aydınlanma eşiği çerçevesinde sembolize edilir.",
+      "approach": "Yahudi Dinî Sembolizmi",
+      "interpretation": "Mahremiyet, korunma ve kutsal farkındalık bağlamında kapı eşiğini vurgular; rüya yorumunda temkinli bir eşik sembolü olarak düşünülebilir.",
       "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Bilinç durumları arasındaki geçişleri ve aydınlanma yolundaki eşikleri temsil eder.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Dönüşüm, seçim ve yeni olasılıklara açılan bir geçit olarak yorumlanır.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı kaynaklar kapıyı temel olarak bir eşik ve geçiş aracı olarak konumlandırır; kapı, içerisi ile dışarısı arasında sınır çizer ve erişim/dışlama işlevi taşır.",
-  "differences": "Gelenekler arasında vurgular değişir: bazı metinler kapıyı ilahi rahmet ve kurtuluşla ilişkilendirirken, diğerleri daha çok toplumsal erişim, mimari kodlar veya korunma işlevine odaklanır.",
-  "inusAssessment": "Kapı sembolü, belirli koşullar ve bağlamlar bir araya geldiğinde rüyanın anlamını etkileyen bir unsur olarak görülmelidir; örneğin açık bir kapı davet anlamına gelebilir, kilitli bir kapı ise engeli simgeler. Tek bir kesin yoruma indirgenemez; sembolün yorumu rüyanın ayrıntılarına ve rüya görenin yaşam bağlamına bağlıdır.",
+  "commonGround": "Çoğu gelenekte ve yorumlarda kapı, bir mekânı ayıran, geçişi sağlayan temel bir eşik olarak görülür; olumlu veya olumsuz okumalar büyük ölçüde kapının niteliğine ve rüya sahibinin durumuna bağlıdır.",
+  "differences": "Bazı kültür ve gelenekler kapıyı hane içi sorumluluklar, rızık veya kurtuluş ekseninde somutlaştırırken; psikolojik ve spiritüel yaklaşımlar kapıyı bilinç, içsel geçişler ve bireysel dönüşüm bağlamında yorumlar.",
+  "inusAssessment": "Kapı sembolü, rüyada görüldüğü fiziksel biçim ve konumuna (açık/kapalı/kilitli; ev içi/tapınak/sokak vb.) göre rüya sahibinin yaşamındaki fırsatları, engelleri veya değişim anlarını gösterebilecek, bağlama bağlı bir eşik imgesidir. Tekil bir anlamdan ziyade, koşullara göre 'geçişi mümkün kılan' veya 'engelleyen' bir unsur olarak işlev görür.",
   "faq": [],
   "sources": [
     {
-      "title": "symbolism, door metaphors, and the cognitive sociology of access",
-      "relevance": "Kapının toplumsal olarak işaretlenmiş bir nesne ve erişim sembolü olarak nasıl anlam kazandığını açıklar.",
-      "url": "https://academic.oup.com/edited-volume/34264/chapter/290502817"
+      "title": "Signification : Rêver de porte - Psychologies.com",
+      "relevance": "Psikanalitik çerçevede kapı imgesinin sabit bir sözlük anlamı olmadığı, kişisel çağrışımlarla çözümlenmesi gerektiğini özetleyen içerik.",
+      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Porte"
     },
     {
-      "title": "Ethnographica 8:19-28. Copyright ©2008, Department of Social and Cultural Anthropology, KU-Leuven",
-      "relevance": "Kapıyı dönüşüm, başlangıç ve bitişi birlikte taşıyan bir eşik simgesi olarak betimler.",
-      "url": "https://soc.kuleuven.be/antropologie/ethnographica/2008/3Giorgadze.pdf"
+      "title": "Door Dream Meaning | Jungian Interpretation & Symbolism",
+      "relevance": "Kapının Jungcu yorumda bilinç ile bilinçdışı arasındaki eşik olarak ele alındığını belirten modern bir Jungçu özet.",
+      "url": "https://projectmorpheus.org/dream-symbols/door"
     },
     {
-      "title": "Door meanings and symbolism in European tradition - DOAJ",
-      "relevance": "Avrupa kültüründe kapının koruyucu, iletişimsel ve dönüşümsel anlamlarını tartışır.",
-      "url": "https://doaj.org/article/86a90989c99d4290a050900439b792b0"
+      "title": "Man and His Symbols",
+      "relevance": "Jung'un simgesel imgelerin rüyalarda ortaya çıkışı üzerine yaklaşımını sunarak kapı gibi imgelerin sembolik okunması için teorik zemin sağlar.",
+      "url": "https://sites.tufts.edu/mythritualsymbol2017/files/2017/08/Jung-approaching-the-unconscious-sm.pdf"
     },
     {
-      "title": "[PDF] Ancient Greek doors and their humans",
-      "relevance": "Antik Yunan bağlamında kapıların ayırma, giriş-çıkış ve dışlama işlevlerini gösterir.",
-      "url": "https://scholarlypublications.universiteitleiden.nl/access/item:4198882/view"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorumlama geleneğinin kapı imgesini açılma/kapanma ve iç-dış ayrımı üzerinden ele alışına dair tarihsel bir örnek sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "Door - umich.edu",
-      "relevance": "Kapının geçiş, açıklık, kapanış, koruma ve dışlama anlamlarını özetleyen sembolik bir kaynak sayfasıdır.",
-      "url": "https://public.websites.umich.edu/~umfandsf/symbolismproject/symbolism.html/D/door.html"
+      "title": "Inside the door (or anthropology of an everyday object) | Area",
+      "relevance": "Kapı sembolünün antik kültürel bağlamda eşik, geçiş ve ev içi sınır olarak okunmasına dair kültürel-tarihsel çerçeve.",
+      "url": "https://www.area-arch.it/en/inside-the-door-or-anthropology-of-an-everyday-object/"
     },
     {
-      "title": "Semiotic analysis of the door metaphor in sacred to earthly ...",
-      "relevance": "Kapı metaforunun kutsal ile dünyevî alanlar arasındaki eşikleri ve karşıtlıkları nasıl yapılandırdığını analiz eder.",
-      "url": "https://dergipark.org.tr/en/download/article-file/3857370"
+      "title": "Chapter Four The Reality of Dreams",
+      "relevance": "Antik dönem rüya yorumunun tarihsel bağlamını ve Artemidorus’un önemini doğrulayan akademik çerçeve sağlar.",
+      "url": "https://publishing.cdlib.org/ucpressebooks/view?docId=ft0489n6b4;chunk.id=d0e3001;doc.view=print"
     },
     {
-      "title": "[PDF] Doorways in the Old City of Bethlehem, Palestine",
-      "relevance": "Kapı eşiğinin yalnızca geçiş değil, aynı zamanda kültürel anlam üreten bir ara-mekân olduğunu vurgular.",
-      "url": "https://fada.birzeit.edu/bitstream/20.500.11889/4645/1/10.1.1.817.3355.pdf"
+      "title": "İmam Nablusi Rüya Tabirleri K Harfi",
+      "relevance": "Modern derlemelerde kapının evin işlerini yürüten kişiyle ilişkilendirildiğine dair aktarım örneği verir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
     },
     {
-      "title": "Rüyada Kapı Görmek - İslami Rüya Tabiri",
-      "relevance": "İslami rüya tabiri derlemelerinde kapı sembolünün açık/kapalı, fırsat ve geçiş temalarıyla nasıl işlendiğini gösterir.",
-      "url": "https://muslimdreammeaning.com/tr/symbols.php?symbol=door"
+      "title": "İbni Sîrîn'den Yapılan Rüya Tabirnameleri ve Tercümeleri ...",
+      "relevance": "İbn Sîrîn’e atfedilen tabirnamelerde kapı ve kapı eşiği gibi nesnelerin rüya tabirinde yer aldığını gösteren akademik çerçeve.",
+      "url": "https://dergipark.org.tr/tr/download/article-file/3169759"
     },
     {
-      "title": "5299 door - Dictionary of Bible Themes - Bible Gateway",
-      "relevance": "İncil’de kapının Tanrı’ya erişim ve kurtuluş mecazı olarak kullanımına dair giriş niteliğinde bir açıklama sunar.",
-      "url": "https://www.biblegateway.com/resources/dictionary-of-bible-themes/5299-door"
+      "title": "تفسير حلم الباب في المنام ودلالاته عند ابن سيرين والنابلسي",
+      "relevance": "Kapı sembolünün İbn Sîrîn ve Nablusi’ye atfedilen yorumlarını bir arada aktarır; açık-kapalı kapı karşıtlığını verir.",
+      "url": "https://abber.co/blog/post/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%AD%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D9%88%D8%AF%D9%84%D8%A7%D9%84%D8%A7%D8%AA%D9%87/"
     },
     {
-      "title": "Common Symbols in Tibetan Art",
-      "relevance": "Tibet sanatında kapıların kutsal geçiş ve öğretinin mekânsal düzeniyle ilişkisini ele alır.",
-      "url": "https://library.brown.edu/cds/BuddhistTempleArt/symbols.html"
+      "title": "الباب في المنام وتفسير حلم الأبواب بالتفصيل",
+      "relevance": "Kapının evin yöneticisiyle ilişkisine dair İbn Sîrîn’e atfedilen aktarımı içerir.",
+      "url": "https://www.hellooha.com/articles/456-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D9%88%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%AD%D9%84%D9%85-%D8%A7%D9%84%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%A8%D8%A7%D9%84%D8%AA%D9%81%D8%B5%D9%8A%D9%84"
     },
     {
-      "title": "Significance of Upper threshold",
-      "relevance": "Hindu mimari ve sembolizminde üst eşik ve kapı açıklığının kültürel-dini anlamını açıklar.",
-      "url": "https://www.wisdomlib.org/concept/upper-threshold"
+      "title": "قاموس تفسير كلمات الأحلام | رؤيا الباب",
+      "relevance": "Kapının evin kıymeti ve rızıkla ilişkisine dair klasik sözlük-derleme aktarımı sunar; kapı değişiminin hane sahibine yansıdığını belirtir.",
+      "url": "https://mktbtk.com/dir/nab/2/d-0001.htm"
     },
     {
-      "title": "Threshold: Significance and symbolism",
-      "relevance": "Budist bağlamda eşik ve girişin manastır düzeni içinde sınır, saygı ve kutsal geçiş anlamlarını özetler.",
-      "url": "https://www.wisdomlib.org/concept/threshold"
+      "title": "The Rally for Justice - Apostle David E. Taylor [Official Site]",
+      "relevance": "Kapı sembolünü Mesih, yeni yöneliş ve ilahi koruma bağlamında ele alan modern Hristiyan rüya metni.",
+      "url": "https://joshuamediaministries.org/dreams/door/"
+    },
+    {
+      "title": "Topical Bible: Symbolism of the Door",
+      "relevance": "Kutsal Kitap bağlamında kapı sembolizminin erişim, koruma ve ilahi temalarla ilişkilendirilebileceğini özetler.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_the_door.htm"
+    },
+    {
+      "title": "The symbolic-ritual dimension of the material door and the ...",
+      "relevance": "Kapıyı teolojik olarak iç-dış, günah-kutsanma ve eşik deneyimi üzerinden yorumlayan akademik çalışma.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/21692327.2026.2663767"
+    },
+    {
+      "title": "Door to Holiness",
+      "relevance": "Yahudi geleneği içinde kapı ve kapı eşiğinin mahremiyet, korunma ve kutsal farkındalığı hatırlatan bir işlevi olduğuna dair tema sunar.",
+      "url": "https://www.chabad.org/parshah/article_cdo/aid/724974/jewish/Door-to-Holiness.htm"
+    },
+    {
+      "title": "What is a Mezuzah? - Aish.com",
+      "relevance": "Yahudi rüya geleneğinde rüyaların ele alındığını gösteren Talmudik bir bağlantı; kapı için doğrudan klasik bir tabir sağlamasa da bağlam sunar.",
+      "url": "https://aish.com/31-mezuzah-2/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Yahudi rüya geleneğinde rüyaların ele alındığını gösteren Talmudik bir bağlantı; kapı için doğrudan bir klasik tabir sağlamaz ama bağlam sunar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dream About Door - Meaning & Interpretation | Satyori",
+      "relevance": "Tapınak kapısı ve manastır geçidi gibi kutsal mekân kapılarının geçiş ve arınma temalarıyla ilişkilendirildiğini betimler.",
+      "url": "https://satyori.com/dreams/door/"
+    },
+    {
+      "title": "What Does it Mean When You Dream About Doors?",
+      "relevance": "Kapıları Budist perspektiften bilinç durumları ve aydınlanma eşiği olarak yorumlayan çevrimiçi açıklama.",
+      "url": "https://www.centreofexcellence.com/dreaming-about-doors/"
+    },
+    {
+      "title": "Dream About Door — Meaning and Interpretation - Dremyo",
+      "relevance": "Kapıyı ezoterik bir okumada değişim geçidi, bilinç ve farkındalık geçişi olarak yorumlayan modern çevrimiçi içerik.",
+      "url": "https://www.dremyo.com/en/symbols/door/"
+    },
+    {
+      "title": "Door in dreams — meaning and symbolism",
+      "relevance": "Kapıyı ezoterik bir okumada değişim portalı, bilinç ve farkındalık geçişi olarak yorumlayan modern çevrimiçi içerik.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/door"
+    },
+    {
+      "title": "Door Dreams: Thresholds, Choices, and The Lives We Are ...",
+      "relevance": "Kapıyı ruhsal geçiş, davet ve dönüşüm sembolü olarak açıklayan modern spiritüel yorumlayıcı içerik.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/door"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "psychoanalytic",
+    "buddhist-eastern"
+  ]
 }

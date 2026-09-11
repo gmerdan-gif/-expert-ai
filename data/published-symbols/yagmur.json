@@ -1,115 +1,231 @@
 {
   "slug": "yagmur",
   "title": "yağmur",
-  "shortDescription": "Rüyada yağmur görmek genellikle rahmet, bereket ve manevi beslenmeyle ilişkilendirilir; hafif ve huzur veren yağış bu anlamı güçlendirebilir. Şiddetli veya yıkıcı yağmur korku ve sarsıcı değişimleri, kesintisiz yağış ise geçicilik veya kayıp duygusunu çağrıştırabilir.",
+  "shortDescription": "Yağmur sembolü, rüyalarda belirli bir sıklıkta (uzun rüya dizilerinde yaklaşık %1,4) rapor edilen doğa imgelerinden biri olup duygusal atmosfer, içsel değişim, bereket ve bilinçdışından gelen akışlar gibi çok katmanlı anlamlar taşır.",
   "positiveAssociations": [
-    "Bereket",
-    "İlahi lütuf",
-    "Manevi beslenme",
-    "Duaların kabulü"
+    "Rahmet, bereket ve rızık",
+    "İçsel arınma ve tazelenme",
+    "İlahi lütuf ve destek",
+    "Ruhsal canlanma"
   ],
   "challengingAssociations": [
-    "Korku",
-    "Yıkım",
-    "Geçicilik",
-    "Değişim"
+    "Duygusal sıkıntı ve üzüntü",
+    "Negatif duygulanım ve baskı",
+    "Yıkım, taşma veya afet çağrışımı",
+    "Hastalık veya kayıp endişesi"
   ],
   "contextDependentAssociations": [
-    "Yağmurun şiddeti",
-    "Yağmurun yağdığı zaman",
-    "Yağmurun yol açtığı etkiler",
-    "Rüya egosunu etkileme biçimi"
+    "Yağmurun şiddeti, berraklığı ve süresi",
+    "Rüya sahibinin yağmur altındaki konumu ve hissettiği duygu",
+    "Yağmurun belirli bir yere mi yoksa genel bir alana mı yağdığı",
+    "Su ile etkileşim biçimi (ıslanmak, yıkanmak, korunmak vb.)"
   ],
   "commonVariations": [
     {
-      "title": "Şiddetli ve Yıkıcı Sağanak",
-      "description": "Rüyada çevreyi tehdit eden, korku ve yıkım hissi uyandıran yoğun bir yağmur altında kalmak."
+      "title": "Hafif çiseleme altında yürümek",
+      "description": "Baskıların azalması, zihinsel sükûnet ve tazelenme hissine dair sakin bir dönemi simgeler."
     },
     {
-      "title": "Bereketli ve Rahatlatıcı Yağış",
-      "description": "Toprağa can veren, huzur ve manevi beslenme hissi uyandıran hafif bir yağmur altında olmak."
+      "title": "Ani, şiddetli bir sağanağa yakalanmak",
+      "description": "Duygusal taşkınlık, dışsal baskılar veya beklenmedik zorluklarla karşılaşma hissini yansıtabilir."
     },
     {
-      "title": "Mevsimsel Yağmur Döneminde Bulunmak",
-      "description": "Budist gelenekteki Vassa dönemine benzer şekilde, yağmurun durmaksızın yağdığı bir süreçte içsel bir yoğunlaşma yaşamak."
+      "title": "Yağmur suyu ile tamamen yıkanmak",
+      "description": "Korkulardan arınma, güvene kavuşma veya ritüelimsi bir temizlenme duygusunu temsil edebilir."
     },
     {
-      "title": "Kesintisiz Yağış",
-      "description": "Yağmurun kesintisiz akışını izleyerek yaşamın dönüşümlü, kayıp içeren ve geçici doğasını fark etmek."
+      "title": "Evden yağmur damlalarının sesini dinlemek",
+      "description": "Gözlemci bir konumdan dış dünyayı algılama, içsel dinginlik ve huzur arayışına işaret edebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslami rüya tabiri anlatılarında yağmur, genel olarak rahmet, bereket, ilahi lütuf ve duaların kabulüyle ilişkilendirilir.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist bağlamda yağmur, mevsimsel yağmurlar ve manastır yaşamı için önemli olan yağmur dönemi (Vassa) ile ilişkilidir; bu dönem, keşişlerin ve rahibelerin bir yerde kalarak uygulama ve çalışmaya yoğunlaşmasını işaret eder. Ayrıca öğretinin, ruhsal beslenmenin ve manevi gelişimin bir imgesi olarak kullanılırken, yağışın sürekliliği yaşamın dönüşümlü ve kayıp içeren geçici doğasına da işaret eder.",
-  "spiritualApproaches": "",
+  "psychology": "Uzun rüya dizilerini inceleyen ampirik verilere göre yağmur imgeleri nispeten nadirdir (çalışmada yaklaşık %1,4) fakat vakaların çoğunda rüya-ben üzerinde doğrudan bir etki bırakır; örneklerde negatif duygulanımlar pozitif olanlardan daha sık rapor edilse de birçok örnekte açık bir duygu belirtilmemiştir. Psikanalitik literatürde yağmur, su imgelerinin bağlamı üzerinden beden işlevleri, idrar/döllenme çağrışımları veya doğum/yeniden doğuş motifleriyle ilişkilendirilebilir; bu okumalar bağlama ve rüya ayrıntılarına bağlı olarak kullanılmalıdır.",
+  "jungian": "Analitik psikoloji bağlamında yağmur, bilinçdışından bilince doğru yükselen duyguların, birikmiş içeriklerin yüzeye çıkışının ve içsel dönüşüm sürecinin simgesi olarak ele alınır.",
+  "islamicTradition": "Klasik İslami rüya tabiri geleneğinde yağmurun niteliği yorumu belirler: zararsız ve bereketli yağmur genellikle hayır, rızık ve rahmet; şiddetli, bulanık veya bir yere mahsus yağışlar ise sıkıntı, keder veya uyarı olarak görülür. Yağmurla yıkanmak korkulardan arınmaya, damlaların sesini duymak ise izzet ve yüceliğe işaret edebileceği şeklinde geleneksel atıflar vardır.",
+  "christianTraditions": "Hristiyan sembolik dilinde yağmur sıklıkla Tanrı’nın bereketi, sağladığı bakım ve bazen Kutsal Ruh’un dökülmesiyle ilişkilendirilir; bununla birlikte İncil geleneklerinin bazı yorumları yağmurun yargı veya uyarı boyutu taşıyabileceğini de vurgular. Bu okumalar rüya bağlamına göre dikkatle değerlendirilmelidir.",
+  "jewishTraditions": "Rabbanî ve teolojik Yahudi geleneklerinde yağmur, gökten gelen lütuf ve toplumsal/ruhsal sürdürülebilirliğin simgesi olarak güçlü bir yer tutar; rüya bağlamında doğrudan antik rüya kaynakları sınırlı olduğundan bu anlamlar daha çok Rabbanî sembolik dil çerçevesinde sunulmuştur.",
+  "buddhistEasternApproaches": "Bazı Mahāyāna ve Pali metinlerinde yağmur, Dharma'nın tüm canlıları eşitçe beslemesi ve öğretinin çeşitli varlıklarda farklı biçimlerde alınması metaforuyla ilişkilendirilen bir imgedir; ayrıca zihnin yatışması ve arınma temalarıyla da bağdaştırılır.",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda yağmur, yukarıdan aşağıya inen hayat verici bir akış, arınma ve maddi olanı rafine eden 'göksel su' olarak yorumlanır; bağlama göre bu akış hem yenilenme hem de taşma/yoğunlaşma şeklinde algılanabilir.",
   "comparisonTable": [
     {
-      "approach": "Ampirik Araştırma",
-      "interpretation": "Uzun rüya serilerinde düşük oranda görülen ve rüya egosunu duygusal olarak etkileyen atmosferik bir imge olarak incelenir.",
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "rüya-ben üzerinde hissedilen, bağlama duyarlı; çalışmalarda negatif duygulanım eğilimi gözlenmiştir.",
       "evidenceLevel": "research"
     },
     {
+      "approach": "Psikanaliz (Freudcu)",
+      "interpretation": "Su/damla/ıslaklık imgeleri üzerinden beden işlevleri, idrar/döllenme ve doğum/yeniden doğuş çağrışımları.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Bilinçdışından bilince inen duygulanımlar, arınma ve bireyleşme sürecine dair sembolik okuma.",
+      "evidenceLevel": "theoretical"
+    },
+    {
       "approach": "İslami Gelenek",
-      "interpretation": "Rahmet, bereket, ilahi lütuf ve duaların kabulü ile ilişkilendirilir.",
+      "interpretation": "Yağmurun niteliğine göre rahmet/rızık veya sıkıntı/uyarı olarak okunması.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist Yaklaşım",
-      "interpretation": "Vassa dönemi, manevi beslenme, koruma, geçicilik ve içsel uygulamaya yoğunlaşma bağlamında ele alınır.",
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Bereket ve ilahi lütuf ile birlikte zaman zaman uyarı/yargı çağrışımları.",
       "evidenceLevel": "traditional"
-    }
-  ],
-  "commonGround": "Farklı yaklaşımlar ve gelenekler, yağmurun hem yapıcı ve besleyici hem de zorlayıcı veya yıkıcı olabilen ikili doğasında birleşir.",
-  "differences": "Ampirik ve psikolojik bakış açısı rüyadaki duygulanım ve görülme sıklığına odaklanırken, geleneksel ve kültürel yaklaşımlar sembolün bereket, rahmet veya manevi pratiklerle olan bağlarına odaklanır.",
-  "inusAssessment": "Yağmur sembolü, ne tamamen olumlu bir bereket müjdesi ne de kesin bir yıkım habercisi olarak indirgenebilir. Rüyadaki yağmurun şiddeti, zamanlaması ve rüya görenin hissettiği duygusal ton, sembolün anlamını belirlemede kritik değişkenlerdir. Bu nedenle, tek tip bir rüya tabirinden ziyade rüyanın kendi bağlamı içinde değerlendirilmelidir.",
-  "faq": [
-    {
-      "question": "Rüyada yağmur görmek her zaman bereket anlamına mı gelir?",
-      "answer": "Hayır. Kültürel ve geleneksel bağlamlarda yağmur bereketle ilişkilendirilse de, rüyanın atmosferine ve şiddetine göre korku veya yıkım çağrışımları da taşıyabilir."
     },
     {
-      "question": "Yağmur rüyalarının psikolojik araştırmalardaki yeri nedir?",
-      "answer": "Ampirik çalışmalar, yağmur rüyalarının rüya serilerinde belirli bir oranda görüldüğünü ve çoğunlukla rüya egosunun duygulanımını doğrudan etkilediğini ortaya koymaktadır."
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Gökten gelen bereket, toplumsal ve ruhsal sürdürülebilirliğin simgesi olarak değerlendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Doğu/Budist Yaklaşım",
+      "interpretation": "Dharma’nın eşitçe yayılması, beslenme ve zihinsel yatışa dair metaforik kullanım.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Ezoterik/Simyasal",
+      "interpretation": "Maddeyi rafine eden göksel su, dönüşüm ve arınma motifleri.",
+      "evidenceLevel": "spiritual"
     }
   ],
+  "commonGround": "Çoğu yaklaşımda yağmur, yukarıdan aşağıya inen bir etki olarak değişim, beslenme veya arınma ekseninde ortak anlamlar taşır; ancak yorumu belirleyen unsur her zaman rüyanın bağlamı ve duygusal tonudur.",
+  "differences": "Ampirik çalışmalarda yağmur rüyaları nispeten nadir ve genelde negatif ya da belirsiz duygu örüntüleriyle ilişkilendirilirken, dinsel ve ezoterik gelenekler yağmurun daha yapılandırılmış biçimde bereket, kutsallık veya öğretisel anlamlar taşıdığını vurgular.",
+  "inusAssessment": "Yağmur sembolünün anlamında kritik koşullar: yağmurun niteliği (hafif/şiddetli, berrak/bulanık), rüya sahibinin konumu ve hisleri, suyla etkileşim biçimi ve yağmurun mekansal yayılımıdır. Bu öğeler birlikte değerlendirildiğinde sembolün arınma mı, destek mi yoksa baskı/uyarı mı işaret ettiği daha sağlam biçimde ayırt edilebilir.",
+  "faq": [],
   "sources": [
     {
       "title": "“It’s raining again” – Bad weather in a long dream series",
-      "relevance": "Uzun bir rüya serisinde yağmur içeren rüyaların görülme sıklığını ve bu rüyalardaki duygusal tonu rapor eder.",
+      "relevance": "Uzun rüya dizilerinde yağmur imgelerinin sıklığını, rüya-ben üzerindeki etkisini ve duygulanım örüntülerini ampirik olarak inceleyen çalışma.",
       "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/75162"
     },
     {
-      "title": "'Rain', in: Andon (2016), no. 102, pp. 29-35",
-      "relevance": "Yağmurun kültürlerde korku, yıkım ve bereket gibi farklı sembolik anlamlar taşıyabildiğini özetler.",
-      "url": "https://www.academia.edu/30230345/Rain_in_Andon_2016_no_102_pp_29_35"
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud’un bazı pasajlarında yağmur/su imgelerinin idrar ve döllenme çağrışımlarıyla ilişkilendirildiğine dair metinsel destek içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
     },
     {
-      "title": "Rüyada Yağmur Görmenin Psikolojik Yorumu ve Anlamı",
-      "relevance": "İslami rüya tabiri geleneğinde yağmurun rahmet, bereket ve ilahi lütufla ilişkilendirildiğini aktaran çevrimiçi bir derleme.",
-      "url": "https://www.mentalgundem.com/ruyalar/ruyada-yagmur-gormenin-psikolojik-yorumu-ve-anlami/385"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Suya girme ve sudan çıkma motiflerinin doğum/rahim bağlamında ele alınmasına ilişkin Freudcu tartışma için temel metindir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/261",
+      "relevance": "Rüyalarda suya girme/çıkma motiflerinin doğumla ilişkisini aktaran sayfa görüntüsüdür.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
+    },
+    {
+      "title": "Rain",
+      "relevance": "Yağmur sembolünü Jungcu söylemde bilinçdışının aşağı inişi, arınma ve büyüme imgesi olarak ele alıyor.",
+      "url": "https://rosmertapublishing.com/dream-symbols/rain/"
+    },
+    {
+      "title": "The Mariner’s Way of Individuation: An Insight into the Jungian Principle of Acausality",
+      "relevance": "Su ve yağmur imgelerini bilinçdışı, yeniden doğuş ve bireyleşme süreciyle ilişkilendiriyor.",
+      "url": "https://digitalcommons.ciis.edu/cgi/viewcontent.cgi?article=1062&context=ijts-transpersonalstudies"
+    },
+    {
+      "title": "Water Symbolism — Meaning & Interpretation | PsySymbol",
+      "relevance": "Su sembolünü Jungcu bağlamda bilinçdışının doğal imgesi olarak, yağmuru ise duygulanımın ve birikmiş basıncın boşalması olarak ele alıyor.",
+      "url": "https://psysymbol.com/symbol/water-symbol.html"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Oneirocritica geleneğinin çevirisi olarak doğa olaylarının ve ıslak/kuru niteliklerin tarihsel rüya yorumundaki yerine dair bağlam sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Oneirocritica’nın tarihini ve Artemidorus’un eseri içinde rüyaların sınıflandırılmasını tanıtır; tarihsel rüya yorumu bağlamını kurar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "(PDF) The Body, Experience, and the History of Dream Science in ...",
+      "relevance": "Artemidorus’un rüya yorumunda ıslak/kuru nitelikler ve yağmur/dolu gibi imgelerin bedensel durumlarla ilişkilendirilmesine dair akademik tartışma sunar.",
+      "url": "https://www.academia.edu/68691950/The_Body_Experience_and_the_History_of_Dream_Science_in_Artemidorus_Oneirocritica"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri Y Harfi - Muhammed.net",
+      "relevance": "Klasik İslami rüya tabir aktarımlarında yağmurun niteliğine göre hayır veya sıkıntı olarak okunmasına dair geleneksel örnekleri aktarır.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-y-harfi.html"
+    },
+    {
+      "title": "Topical Bible: The Rain",
+      "relevance": "İncil kaynaklı sembolik dilde yağmurun bereket, bakım ve bazen yargı/uyarı çağrışımları taşıdığına dair teolojik özet sağlar.",
+      "url": "https://biblehub.com/topical/t/the_rain.htm"
+    },
+    {
+      "title": "Topical Bible: Rain: God Causes, to Come Down",
+      "relevance": "Yağmurun İncil bağlamında hem bereket hem de yargı/ceza yönü taşıdığını açıklar; Hristiyan teolojik sembolizminde çift yönlü okuma için yararlıdır.",
+      "url": "https://biblehub.com/topical/ttt/r/rain--god_causes,_to_come_down.htm"
+    },
+    {
+      "title": "When the Heavens Open: The Hidden Power and Meaning of Rain",
+      "relevance": "Yağmurun Yahudi rabbanî literatürdeki ilahî değeri, bereket temasını ve şükran çerçevesini gösterir.",
+      "url": "https://www.hidabroot.com/article/114"
+    },
+    {
+      "title": "Crying out for rain: The human, the holy, and the earth in the ritual fasts of rabbinic literature",
+      "relevance": "Rabbanî literatürde yağmur ve kuraklığın Tanrı–kavim ilişkisini sembolize edişine dair akademik tartışma sunar.",
+      "url": "https://bearworks.missouristate.edu/articles-chpa/684/"
+    },
+    {
+      "title": "Secrets of Rain | Importance of Rain | Hebrew - thetrugmans.com",
+      "relevance": "Yahudi sembolik düşüncede yağmurun bereket, ilahî bağ ve Tora ile ilişkilendirilmesini özetler.",
+      "url": "https://thetrugmans.com/secrets-of-rain/"
+    },
+    {
+      "title": "Rain, a River, Fire and Ice",
+      "relevance": "Yağmuru gök ile yer arasındaki karşılıklılık ve dua-cevap ilişkisi içinde yorumlayan Hasidik bir çerçeve sunar.",
+      "url": "https://www.chabad.org/parshah/article_cdo/aid/2753/jewish/Rain-a-River-Fire-and-Ice.htm"
+    },
+    {
+      "title": "11 Surprising Facts about Rain - Aish.com",
+      "relevance": "Yağmurun Tora, yaşam ve ilahî lütufla bağlantısını anlatır; Yahudi sembolik okumada yağmurun besleyici yönünü destekler.",
+      "url": "https://aish.com/11-surprising-facts-about-rain/"
+    },
+    {
+      "title": "Dharma Rain",
+      "relevance": "Lotus Sūtra ve bazı Mahāyāna metinlerinde yağmur metaforunun Dharma’nın yayılışı ve canlıları beslemesi bağlamında kullanımını ele alır.",
+      "url": "https://www.buddhistinquiry.org/article/dharma-rain/"
+    },
+    {
+      "title": "The Great Cloud (2) / Introduction / 84000 Reading Room",
+      "relevance": "Mahāyāna bağlamında yağışın öğretinin bereketi ve canlıları beslemesiyle ilişkilendirilmesi.",
+      "url": "https://84000.co/translation/toh657/UT22084-064-005-introduction"
+    },
+    {
+      "title": "SN 55.38 Vassa Sutta: Rain",
+      "relevance": "Pali Canon içinde yağmurun yaşamı sürdüren ve akışı başlatan bir doğa görüntüsü olarak kullanımı.",
+      "url": "https://suttafriends.org/sutta/sn55-38/"
+    },
+    {
+      "title": "AN 5.197 Vassa Sutta: Rain - The Open Buddhist University",
+      "relevance": "Yağmurun Budist metinlerde doğa olayı ve öğretisel çağrışımlar taşıyan bir tema olarak ele alınması.",
+      "url": "https://buddhistuniversity.net/content/canon/an5.197"
     },
     {
       "title": "Rain: Significance and symbolism",
-      "relevance": "Budist geleneklerde yağmurun anlamlarını, yağmur dönemi ve manevi çağrışımlar üzerinden özetleyen kavramsal bir derleme sunar.",
+      "relevance": "Yağmurun sembolik anlamlarını geniş bir gelenekler yelpazesinde toplar; arınma, yenilenme, bereket ve bazen de sıkıntı/ıstırap çağrışımlarını birlikte verir.",
       "url": "https://www.wisdomlib.org/concept/rain"
     },
     {
-      "title": "Regen: Symbolik und Bedeutung",
-      "relevance": "Yağmurun Budist bağlamda mevsimsel dönem ve manastır pratiğiyle ilişkisini açıklar.",
-      "url": "https://www.wisdomlib.org/de/concept/regen"
+      "title": "Rain | Encyclopedia.com",
+      "relevance": "Yağmurun kutsal suyla bağlantılı olarak yaşamın kökeni, yenilenme, arınma ve yeniden doğuş temalarıyla ilişkisini açıklar.",
+      "url": "https://www.encyclopedia.com/earth-and-environment/atmosphere-and-weather/weather-and-climate-terms-and-concepts/rain"
     },
     {
-      "title": "Significance of Water from a Buddhist Perspective",
-      "relevance": "Budist bakış açısından yağmur ile su, merhamet ve ruhsal iyi oluş arasındaki ilişkiye değinir.",
-      "url": "https://www.undv.org/vesak2011/panel3/10HewamanageFINAL.pdf"
+      "title": "Lyndy Abraham - A Dictionary of Alchemical Imagery-Cambridge University Press (1998)",
+      "relevance": "Simyasal literatürde yağmur/çiy motifinin arındırıcı ve dönüştürücü işlevine ilişkin sözcüksel ve tarihsel açıklamalar içerir.",
+      "url": "https://www.scribd.com/document/606931931/Lyndy-Abraham-A-Dictionary-of-Alchemical-Imagery-Cambridge-University-Press-1998"
     },
     {
-      "title": "Falling rain: Significance and symbolism",
-      "relevance": "Budist sembolizmde düşen yağmurun değişim ve fanilikle bağlantısını açıklar.",
-      "url": "https://www.wisdomlib.org/concept/falling-rain"
+      "title": "A Dictionary of Alchemical Imagery | Book of Shadows",
+      "relevance": "Simyasal bir sözlük girişinde yağmur ve çiy motifini, 'merkurial su' kavramıyla ve arındırıcı yıkama motifiyle ilişkilendirir; yağmurun dönüştürücü su imgesi olarak okunmasına katkı sağlar.",
+      "url": "https://www.quotev.com/story/4798826/Book-of-Shadows/61"
+    },
+    {
+      "title": "Rain in dreams — meaning and symbolism",
+      "relevance": "Ezoterik okumalarda yağmurun yukarı katmanlardan aşağıya akan enerji, temizlenme ve akışın yeniden kurulması olarak yorumlanabileceğini açıklar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/rain"
     }
   ],
   "relatedSlugs": []

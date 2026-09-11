@@ -1,149 +1,253 @@
 {
   "slug": "ay",
   "title": "ay",
-  "shortDescription": "Rüyada ay görmek genellikle değişim döngülerini, sezgiyi ve iç dünyayı çağrıştırır; ayın evresi yorumu etkiler. Parlak dolunay netlik ve duygusal yoğunluğu, hilal yeni başlangıçları, kararan ay ise belirsizlik veya geçici bir krizi yansıtabilir.",
+  "shortDescription": "Ay rüya imgesi olarak doğrudan tek bir anlam taşımaz; özellikle yansıtıcı ışığı, evreleri (hilâl–dolunay–yeni ay), güneşle kurduğu tamamlayıcı/karşıt ilişki ve suyla kurduğu görsel bağlar üzerinden ‘yansıtma’, döngüsellik ve değişim temalarını öne çıkarır.",
   "positiveAssociations": [
-    "Dönüşüm ve kişisel gelişim",
-    "İçsel rehberlik ve sezgi",
-    "Saflık ve sükûnet",
-    "Toplumsal süreklilik ve dayanıklılık"
+    "Yansıtıcı bilinç ve içsel aynalanma: ay ışığının görece ‘yansıyan’ niteliği, duyguların ve bilinçdışının yumuşakça görünür kılınmasıyla ilişkilendirilebilir.",
+    "Evreler aracılığıyla yenilenme: hilâl ve yeni ay başlangıç çağrışımı, dolunay ise döngüsel olgunlaşma çağrışımı taşıyabilir.",
+    "Parlak ayın rehberlik çağrışımı: klasik İslami tabirlerde parlak ay, saygı gören bir kişiden destek ya da görünür bir rehberlikle ilişkilendirilebilir.",
+    "Sezgisel ve duygusal duyarlılıkta artış: ayın dönemsel etkisi duygusal ritimlere dikkat çekebilir.",
+    "Estetik ve sakinleştirici imgeler: su üzerindeki yansıma gibi sahneler zihinsel berraklık ve dinginlik hissiyle bağdaştırılabilir."
   ],
   "challengingAssociations": [
-    "Bilinçdışının belirsizliği",
-    "Zorlu dönemlerde dayanıklılık ihtiyacı",
-    "Görüntü veya durumun ani değişkenlik göstermesi",
-    "Apokaliptik veya kozmik sarsıntı imgeleri"
+    "Yansıtmanın güvenilmezliği: ay ışığı doğrudan ışık değil, yansımadır; Artemidorus örneğinde olduğu gibi “aydınlanma beklentisi” boş çıkabilir (görünür ama güvenilmez bir kaynak).",
+    "Parlaklığın azalmasıyla otorite/itibar kaybı çağrışımı: geleneksel İslami yorumlarda ayın sönmesi olumsuz bir işaretle eşleştirilebilmektedir.",
+    "Duygusal dalgalanma ve bilinçdışı yoğunluk: dolunay gibi evreler imgelerin yoğunlaşmasına işaret edebilir; bu, kontrollü bir yorum gerektirir.",
+    "Antik oneirokritikte tutulma veya kaybolma durumları, ayın gök düzenindeki düzensizliklerin kozmik belirsizlik veya önemli değişimlerin göstergesi olarak yorumlandığını gösterir."
   ],
   "contextDependentAssociations": [
-    "Otorite veya aile figürleriyle olan ilişkiler",
-    "Takvimsel ve döngüsel zaman algısı",
-    "Kişisel farkındalık ve aydınlanma süreçleri"
+    "Ay fazı (hilâl, dolunay, yeni ay): her faz farklı ritim ve başlangıç/olgunlaşma çağrışımı getirir.",
+    "Parlaklık ve görünürlük (ay parlak mı, sönük mü, bulutlu mu): parlaklık geleneksel okumalarda destek ve itibarla ilişkilendirilir; sönüklük ise kayıpla ilişkilendirilir.",
+    "Ay tutulması veya kaybolması: kozmik düzensizlik, öngörülen değişim ya da belirsizlik katmanı ekler.",
+    "Ayın suya yansıması veya suyla ilişkisi: su ile birlikte görülen ay, bilinç ile duygular arasındaki yansıtmayı ve içsel süreçlerin görünürleşmesini vurgular.",
+    "Güneşle kurulan ilişki (karşıtlık/komplementerlik): ayın güneşe göre konumu bilinç/bilinçdışı, aydınlık/yansıma temalarını güçlendirir."
   ],
   "commonVariations": [
     {
-      "title": "Parlak Dolunay",
-      "description": "Gökyüzünde tüm ihtişamıyla parlayan bir dolunay görmek, içsel netlik, sezgisel yoğunluk ve duygusal farkındalığın zirve yaptığı bir döneme işaret edebilir."
+      "title": "Parlak dolunay",
+      "description": "Gökyüzünde dolunayın net ve parlak görülmesi, döngüsel tamlık, duygusal yoğunlaşma ve sezgisel açıklık çağrışımı yapabilir."
     },
     {
-      "title": "Hilal Evresi",
-      "description": "İnce bir hilal görmek, taze niyetleri ve hayatın döngüsel akışında küçük ama önemli bir başlangıç arzusunu simgeler."
+      "title": "Ay tutulması veya kararma",
+      "description": "Ay ışığının aniden azalması veya tutulması, rüyada kozmik düzensizlik, dışsal otoriteyle ilgili belirsizlik veya beklenmedik değişimlerin simgesi olarak okunabilir."
     },
     {
-      "title": "Ayın Karanlıklaşması",
-      "description": "Ayın ışığını kaybetmesi veya kararması, bilinçdışı süreçlerle yüzleşme, belirsizlikler ve geçici krizleri yansıtabilir."
+      "title": "İnce hilâl",
+      "description": "Yeni ya da yeniye yakın hilâl, başlayan bir dönemi, tohumlanmayı veya gizli potansiyelin henüz görünür olmamasını ima edebilir."
     },
     {
-      "title": "Ay ve Güneşin Birlikteliği",
-      "description": "Ay ile güneşin aynı anda görülmesi, geleneksel rüya tabirlerinde sıklıkla anne-baba veya diğer aile büyükleri sembolizmiyle ilişkilendirilir."
+      "title": "Ayın suya yansıması",
+      "description": "Ayın su üzerindeki yansımasını izlemek, bilinçli algı ile duygusal derinlik arasında bir köprü, içsel yansımaların dışavurumu veya simgesel ‘ayna’ işlevi göstergesi olabilir."
     }
   ],
-  "psychology": "",
-  "jungian": "Jungcu ve derinlik psikolojisinde ay, bilinçdışının arketipsel bir görüntüsü olarak görülür. Anima ve dişil ilkeyle bağdaştırılır; sezgi, duygulanım ve içsel dünyanın temalarını çağrıştırır. Ayın evreleri, psişedeki dönüşüm ve gelişim süreçlerinin metaforları olarak yorumlanır.",
-  "islamicTradition": "Klasik İslami rüya tabirlerinde ay, hükümdar, vezir, âlim, yakışıklı bir erkek çocuk, rehberlik eden bir ışık veya ailevi bağlar (eş, çocuklar vb.) gibi unsurları temsil edebilir. Ayın parlaklığı rehberlik ve aydınlanma anlamında okunurken, bazı ay tasvirleri önemli dönüşümlere işaret edebilir.",
-  "christianTraditions": "Hristiyan sembolizminde ay, özellikle Vahiy gibi metinlerde kozmik işaretler, karanlıklaşma ve eskatolojik dönüşümler bağlamında yer alır; bu, doğrudan rüya tabiri geleneğinden çok kutsal metin merkezli bir sembolik kullanımdır.",
-  "jewishTraditions": "Yahudi kaynaklarında ay, aylık yenilenme döngüsü nedeniyle İsrail’in ve toplumsal sürekliliğin simgesi olarak öne çıkar; ayın evreleri, baskıya rağmen yeniden belirme ve dayanıklılık imgesi taşır.",
-  "buddhistEasternApproaches": "Budist geleneklerde ay, saflık, parlaklık, dinginlik ve Buddha/Bodhisatta bilgeliğine yapılan benzetmelerle ilişkilendirilir. Dolunay diski üzerine meditasyon pratiklerinde ay, engellerden arınmış bilinç ve hakiki Dharma’yla ilişkilendirilen bir imgedir.",
-  "spiritualApproaches": "",
+  "psychology": "Ampirik uyku ve rüya çalışmalarında (ör. rüya hatırlama ile dolunay ilişkisini inceleyen bir çalışmada) ay görüntüsünün rüya içeriğine tek başına belirleyici etki gösterdiğine dair güçlü kanıt yoktur. Bununla birlikte psikodinamik yaklaşımlar, rüya içindeki ay imgesini bastırılmış istekler, beden ve su imgeleriyle örtüşen görsel bir motif olarak değerlendirebilir—özellikle Freud'un örneklerinde ayın doğum/çıkış çağrışımı taşıdığına dair pasajlara dayanır.",
+  "jungian": "Jungcu gelenekte ay, güneşle kurduğu karşıt/tamamlayıcı ilişki nedeniyle dişil ilkeyi, yansıtıcı ve döngüsel bilinçdışını simgeler. Ayın evreleri içsel dönüşüm süreçlerini, ayın beyaz–kara karşıtlığı ise bilinç ile bilinçdışı arasındaki görünür sınırları vurgular. Bu çerçevede ay rüyası, iç dünyaya yönelişi, ritim değişimlerini ve kolektif dişil temaları işaret edebilir; yine de her yorum bağlama ve eşlik eden imgelere bağlıdır.",
+  "islamicTradition": "Klasik İslami rüya tabirlerinde ayın anlamı kaynaklara göre değişir. İmam Ca‘fer es-Sâdık’a atfedilen geniş listelerde ay, başkan, yardımcı, makam, anne veya evlat gibi çeşitli toplumsal ve ailevi rollere işaret edebilecek bir sembol olarak aktarılırken (geniş bir olasılık yelpazesi), el‑Nablusî’ye ait aktarımlarda ay daha özel olarak 'sultan / hükümdar, güzellik ve zaman' ile ilişkilendirilir. Gelenekte ayın parlaklığı olumlu, sönüklüğü ise olumsuz yönleri çağrıştırma eğilimindedir.",
+  "christianTraditions": "Hristiyan sembolik-okumalarında ay, yaratılmış ışıklardan biri olarak Tanrı’nın düzenini, mevsimlerin ve zamanın ritmini temsil eder; rüya doktrininde doğrudan sabit bir karşılığı zayıftır, bu nedenle ay genellikle teolojik ve kozmik düzen bağlamında sembolik okunur.",
+  "jewishTraditions": "Yahudi metin ve geleneklerinde ay, döngüsellik, yenilenme ve dönemsel görünürlük temalarıyla ilişkilendirilir. Talmud Berakhot 55b’de rüya bağlamında geçen örnek, ayın Joseph’in annesiyle ilişkilendirilmesini gösterir; bu tür pasajlar, ayın rüyada aile/kimlik ya da yeniden ortaya çıkış çağrışımlarına zemin sağlayabilir.",
+  "buddhistEasternApproaches": "Bazı Budist rüya metinlerinde güneş veya ay tutulması gibi göksel olaylar uyanış ya da ilerleme bağlamında yorumlanır; Mahāyāna geleneğinde ayın su üzerindeki yansıması teklik ve zihnin doğasıyla ilişkilendirilerek ay imgelerine ruhsal bir çerçeve kazandırır.",
+  "spiritualApproaches": "Ezoterik ve simyasal geleneklerde ay (Luna), dişil ilke, yansıtıcı bilinç, döngüsellik ve dönüşüm temalarıyla ele alınır; ayın fazları içsel değişim evreleri ve görünürlük–gizlenme dinamiklerini simgeler.",
   "comparisonTable": [
     {
-      "approach": "Jungcu Yaklaşım",
-      "interpretation": "Bilinçdışı, anima, dişil ilke ve psişik dönüşüm süreçleri.",
+      "approach": "Psikanaliz",
+      "interpretation": "Su, doğum, beden ve bastırılmış isteklere işaret eden görsel bir motif.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Otorite figürleri, âlimlik, rehberlik ve aile bağlarıyla ilgili geleneksel rüya tabirleri.",
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Bilinçdışı, dişil ilke, yansıtıcı bilinç ve döngüsel dönüşüm.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Parlaklığına göre rehberlik/saygınlık; ayrıca sultan, makam, ailevi roller gibi kültürel okumalar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Yaratılmış ışık, göksel düzen ve zamanın ritmi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Döngüsellik, yenilenme ve dönemsel görünürlük (Berakhot örneğiyle ailesel çağrışımlar).",
       "evidenceLevel": "traditional"
     },
     {
       "approach": "Budist Yaklaşım",
-      "interpretation": "Saf bilinç, dinginlik, dolunay meditasyonu ve Bodhisatta bilgeliği çağrışımları.",
+      "interpretation": "Zihin doğasının yansıtılması, uyanışa işaret eden göksel motifler.",
       "evidenceLevel": "traditional"
-    }
-  ],
-  "commonGround": "Çeşitli gelenekler ayı değişken, döngüsel ve içsel dünyayı yansıtan bir simge olarak görür; hem bireysel dönüşüm hem de toplumsal süreklilik temaları sıkça ortaklaşır.",
-  "differences": "Psikolojik yorumlar ayı bireysel psişe, duygulanım ve anima ile ilişkilendirirken; dini ve kültürel yaklaşımlar onu otorite, toplumsal süreklilik, kozmik işaretler veya aydınlanma metaforu olarak farklı biçimlerde okurlar.",
-  "inusAssessment": "Ay sembolü rüya bağlamında tek bir anlama indirgenemez. Görülen evre, rüyayı görenin kültürel arka planı ve rüyanın duygusal atmosferi, sembolün yönelimini belirler; bu unsurlar bir araya gelerek ayın anlamını şekillendirir.",
-  "faq": [
-    {
-      "question": "Rüyada dolunay görmek her zaman olumlu bir anlama mı gelir?",
-      "answer": "Geleneksel ve psikolojik çerçevelerde dolunay genellikle içsel netlik ve zirve noktası olarak yorumlansa da, rüyanın bütünsel bağlamına göre duygusal yoğunluk veya belirsizlik barındırabilir."
     },
     {
-      "question": "Ayın evreleri rüya yorumunda neden önemlidir?",
-      "answer": "Jungcu ve kültürel yaklaşımlarda ayın evreleri (hilal, dolunay, karanlık evre) değişimin, büyümenin, küçülmenin ve döngüsel süreçlerin psişik yansımalarını simgeler."
+      "approach": "Ezoterizm / Simya",
+      "interpretation": "Dişil ilke, Luna'nın çözülme ve yeniden bütünleşme simyası ve içsel dönüşüm evreleri.",
+      "evidenceLevel": "spiritual"
     }
   ],
+  "commonGround": "Çoğu disiplin, ayı bir “yansıma” ve zaman-ritmi simgesi olarak görür: evreleri, parlaklık derecesi ve suyla kurulan sahneler içsel/duygusal katmanları aynı anda gündeme getirir.",
+  "differences": "Yaklaşımlar arasındaki ayrım, ayın hangi düzlemde okunduğuna bağlıdır: psikanalitik ve Jungcu okumalar içsel dinamiklere, yansıma ve dönüşüme odaklanırken; İslami ve tarihsel gelenekler ayı toplumsal roller, otorite ve görünür saygınlıkla ilişkilendirir.",
+  "inusAssessment": "INUS yaklaşımıyla \"ay\"ın rüyadaki işlevi değerlendirilirken şu unsurlar göz önünde bulundurulmalıdır: ayın fazı (hilâl/dolunay/yeni ay), parlaklığı (parlak ya da sönük), tutulma veya kaybolma durumu, su ile ilişkisi (yansıma var mı?), güneşle konumsal ilişki ve rüyada ayı çevreleyen kişiler/otorite imgeleri. Bu unsurlar birlikte değerlendirildiğinde ay, rehberlik, döngüsel değişim, içsel yansıma veya dışsal otoriteyle ilgili belirsizlik gibi farklı katmanları işaret edebilir. Yine de tek başına herhangi bir öğeyi kesin bir anlama indirgememek gerekir; kültürel bağlam ve rüyanın duygusal tonu göz önünde bulundurulmalıdır.",
+  "faq": [],
   "sources": [
     {
-      "title": "An Analysis of the Moon Image in Chinese and Western ...",
-      "relevance": "Ay imgesinin Çin ve Batı kültürlerindeki çağrışımlarını karşılaştırır.",
-      "url": "https://saudijournals.com/media/articles/SIJLL_412_378-381_zvxdIh7.pdf"
+      "title": "Dream recall and the full moon - PubMed",
+      "relevance": "Dolunay ile rüya hatırlama ilişkisini günlük verileri üzerinden inceleyen çalışma; ay görüntüsünün rüya içeriğine tek başına belirleyici etkisi olmadığını gösterir.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16671592/"
     },
     {
-      "title": "Walking on the Moon: A Depth Psychology of Luna Imagery",
-      "relevance": "Ayın derinlik psikolojisi ve Jungcu arketipsel yorum içinde bilinçdışıyla ilişkisini tartışır.",
-      "url": "https://www.pacifica.edu/dissertation-oral-defense/walking-on-the-moon-a-depth-psychology-of-luna-imagery/"
+      "title": "Synchronization of human sleep with the moon cycle under ...",
+      "relevance": "İnsan uykusunun ay döngüsüyle senkronize olabileceğini ele alan ampirik çalışma; ay döngüsünün uyku zamanlamasıyla ilişkili olabileceğini bildirir, rüya içeriğine doğrudan anlam atfetmez.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7840136/"
     },
     {
-      "title": "Dream About the Moon: Meaning & Interpretation | Revalite",
-      "relevance": "Ayın Jungcu yorumunda sezgi, dişil ilke ve içsel dünya ile ilişkilendirilmesini özetler.",
-      "url": "https://my.astrofame.com/dream-interpretation/dream/moon/"
+      "title": "On nights before a full moon, people go to bed later and ...",
+      "relevance": "Dolunaya yaklaşan günlerde uyku zamanlaması ve süresiyle ilgili bulguları özetleyen üniversite haberi.",
+      "url": "https://www.washington.edu/news/2021/01/27/moon-sleep/"
     },
     {
-      "title": "Moon | Marie-Louise von Franz: Looking Through the Moon",
-      "relevance": "Ayın tarihsel gelenekte değişkenlik, dişillik ve kolektif durumla bağlantısını anlatır.",
+      "title": "The interpretation of dreams",
+      "relevance": "Freud’un kuramsal çerçevesi ve bir rüya örneğinde 'soluk ay' görüntüsünün doğum/çıkış çağrışımıyla ilişkilendirilmesini içeren pasaj, ay imgelerinin psikanalitik okumasına temel sağlar.",
+      "url": "https://s3.us-west-1.wasabisys.com/luminist/EB/F/Freud%20-%20The%20Interpretation%20of%20Dreams.pdf"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/261 - ...",
+      "relevance": "Bir rüya örneğinde ‘pale moon’ ifadesini doğum sahnesiyle ilişkilendirir; ay imgesinin doğum/çıkış çağrışımı bakımından doğrudan en yakın psikanalitik pasajı sunar.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
+    },
+    {
+      "title": "I had two strange dreams about moons, maybe you could ...",
+      "relevance": "Ayın güneşin karşıtı olarak dişil, soğuk, nemli ve yansıtıcı niteliğiyle ele alındığı Jungcu sembolizm.",
+      "url": "https://www.reddit.com/r/Jung/comments/z1msuh/i_had_two_strange_dreams_about_moons_maybe_you/"
+    },
+    {
+      "title": "The Way of the Dream: Marie-Louise von Franz in Conversation with Fraser Boa (2008) - full transcript",
+      "relevance": "Ayın değişken, kadınsı ve döngüsel niteliğine dair Jungcu yorum geleneğini ele alır.",
+      "url": "https://subslikescript.com/movie/The_Way_of_the_Dream_Marie-Louise_von_Franz_in_Conversation_with_Fraser_Boa-2350070"
+    },
+    {
+      "title": "Marie-Louise von Franz: Looking Through the Moon",
+      "relevance": "Ayın tarihsel sembolizmde değişim, dişillik ve kolektif ruhsal dönüşümle ilişkisi.",
       "url": "https://carljungdepthpsychologysite.blog/2023/05/02/moon-4/"
     },
     {
-      "title": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.",
-      "relevance": "Hilalin modern ulusal sembollerdeki kullanımına dair örnekler sunar.",
-      "url": "https://www.spacearchitect.org/pubs/IAC-19-D4.2.7.pdf"
+      "title": "Carl Jung Dream Analysis Seminars Lecture VI 13 November 1929",
+      "relevance": "Beyaz ve kara ay karşıtlığının bilinç ve bilinçdışı ayrımıyla ilişkisi.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/08/25/carl-jungs-dream-2/"
     },
     {
-      "title": "The Moon in Mankind’s History and Lore",
-      "relevance": "Ayın insanlık tarihindeki ritimler ve tarihsel anlatılar içindeki yerini işler.",
-      "url": "https://link.springer.com/chapter/10.1007/978-1-4939-1664-1_1"
+      "title": "The Interpretation of Dreams by Artemidorus",
+      "relevance": "Ayı kandille ilişkilendiren ve ay ışığının güvenilirliği üzerine örnek veren rüya yorumu metni.",
+      "url": "https://cdn.bookey.app/files/pdf/book/en/the-interpretation-of-dreams-by-artemidorus.pdf"
     },
     {
-      "title": "Depictions of the Moon in Western Visual Culture",
-      "relevance": "Ayın Batı görsel kültüründeki temsillerini ve kültürel anlam katmanlarını açıklar.",
-      "url": "https://oxfordre.com/planetaryscience/display/10.1093/acrefore/9780190647926.001.0001/acrefore-9780190647926-e-55?p=emailAmf5tjzEUwvTw&d=/10.1093/acrefore/9780190647926.001.0001/acrefore-9780190647926-e-55"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritik geleneğin ayı bağlama bağlı değerlendirdiğini ve ayın kaybolması/tutulması gibi sahnelerin kozmik rüya kategorileriyle ilişkilendirildiğini gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "The history of the moon through languages and cultures",
-      "relevance": "Ayın diller ve kültürler boyunca değişen adlandırmalarını ve bunlara bağlı inançları tartışır.",
-      "url": "https://university.open.ac.uk/scotland/news/blogs/history-moon-through-languages-and-cultures"
+      "title": "An Ancient Dream Manual: Artemidorus' The Interpretation of ...",
+      "relevance": "Artemidorus’un rüya el kitabının tarihsel bağlamını ve yorum yöntemini veren akademik çalışma.",
+      "url": "https://academic.oup.com/book/40085"
     },
     {
-      "title": "Moon Islamic Interpretations & Meanings",
-      "relevance": "Klasik İslami rüya tabirinde ayın hükümdar, âlim, aile bireyleri ve rehberlik gibi anlamlarla ilişkilendirildiğini aktarır.",
-      "url": "https://www.myislamicdream.com/moon.html"
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’ta güneş, ay ve yıldızların kaybolması ya da düzensizleşmesinin kozmik rüya kategorisiyle ilişkisini tartışan akademik çalışma.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
     },
     {
-      "title": "The concept of Moon in Christianity",
-      "relevance": "Hristiyan sembolizminde ayın kutsal metinlerdeki kozmik işaretler ve eskatolojik çağrışımlarla bağlantısını sunar.",
-      "url": "https://www.wisdomlib.org/christianity/concept/moon"
+      "title": "Hall: A Cognitive Theory of Dream Symbols",
+      "relevance": "Ayın kadınlık, döngüsellik, değişkenlik ve zaman ölçümüyle ilişkilendirildiği sembol çözümlemesi.",
+      "url": "https://dreams.ucsc.edu/Library/hall_1953a.html"
+    },
+    {
+      "title": "İslami Rüya Tabirleri, Nablusi, Kirmani, İbn-i Sirin, İmam Cafer Sadık, Seyyid Süleyman, Danyal - A",
+      "relevance": "Rüyada ay için çok anlamlı geleneksel bir liste verir; sembolün otorite, aile ve saygınlık eksenlerini gösterir.",
+      "url": "https://www.medicentertv.com/islami-ruya-tabirleri-nablusi-kirmani-ibn-i-sirin-imam-cafer-sadik-seyyid-suleyman-danyal-a"
+    },
+    {
+      "title": "تفسير حلم القمر – النابلسي (الخزانة الكلاسيكية)",
+      "relevance": "El‑Nablusî’ye atfedilen tabirler içinde ayın özellikle 'sultan, güzellik ve zaman' ile ilişkilendirildiğini özetler.",
+      "url": "https://dreamsmetric.com/classical/al-nabulsi/moon/"
+    },
+    {
+      "title": "The moon in a dream | The Islamic Dream Book",
+      "relevance": "Ayı rehberlik, otorite ve anne figürüyle bağlayan geleneksel okumayı toplu halde aktarır.",
+      "url": "https://theislamicdreambook.com/the-moon-in-a-dream/"
+    },
+    {
+      "title": "What Does Dreaming About Moon Mean? - Rüya Tabirleri",
+      "relevance": "Ayın parlaklığı, aileye giriş ve destek/bereket temalarıyla ilişkilendirilmiş yorumları toplar.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-the-moon"
+    },
+    {
+      "title": "Topical Bible: Symbolism of the Moon",
+      "relevance": "Ayın mevsimler, ritim ve değişimle ilişkilendirildiği Hristiyan/Kutsal Kitap odaklı toplu başvuru sayfası.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_the_moon.htm"
+    },
+    {
+      "title": "The Bible Says the Moon Shows the Glory of God",
+      "relevance": "Ayın yaratılmış ışık ve Tanrı’nın görkemini yansıtan bir unsur olarak ele alındığı Hristiyan açıklama yazısı.",
+      "url": "https://www.biblegateway.com/blog/2019/07/the-bible-says-the-moon-shows-the-glory-of-god/"
+    },
+    {
+      "title": "Berakhot 55.b - Steinsaltz Center",
+      "relevance": "Talmud Berakhot 55b’deki rüya pasajı, ayın rüya bağlamında Joseph’in annesiyle ilişkilendirilmesine örnek teşkil eder; Yahudi rüya-okuma malzemesindeki doğrudan bir atıftır.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
     },
     {
       "title": "MOON - JewishEncyclopedia.com",
-      "relevance": "Yahudi kaynaklarında ayın İsrail için bir simge oluşunu ve ay evrelerinin toplumsal süreklilikle bağlantısını açıklar.",
+      "relevance": "Yahudi düşüncesinde ayın döngüsellik, yenilenme ve sembolik anlamlarını özetler.",
       "url": "https://www.jewishencyclopedia.com/articles/10975-moon"
     },
     {
+      "title": "The Moon’s Jewish Face",
+      "relevance": "Ayın Yahudi takvimi, kutsama ve İsrail sembolizmi içindeki yerini açıklar.",
+      "url": "https://www.nli.org.il/en/discover/manuscripts/hebrew-manuscripts/moon-jewish-face"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Rüyada güneş ya da ay tutulmasına ilişkin doğrudan Budist rüya pasajı.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "Reflections of The Moon",
+      "relevance": "Mahāyāna Budist gelenekte tek ay ve su üzerindeki yansımalar üzerinden birlik, zihin doğası ve uyanış sembolizmi.",
+      "url": "http://www.nembutsu.info/hsrmoon.htm"
+    },
+    {
       "title": "Moon: Significance and symbolism",
-      "relevance": "Budist bağlamda ayın saflık, parlaklık ve Buddha’ya benzetme anlamlarını özetler.",
+      "relevance": "Budist kaynaklarda ayın saflık, serinlik, dinginlik ve aydınlatıcılık ile ilişkilendirildiği sembolik özet.",
       "url": "https://www.wisdomlib.org/concept/moon"
     },
     {
-      "title": "352",
-      "relevance": "Vietnam şiirinde ve Budist kullanımda ay imgesinin mutlak saflık ve dolunay meditasyonu ile ilişkisini tartışır.",
-      "url": "https://china.ivran.ru/f/Knorozova_E_Iu__K_voprosu_simvoliki_obraza_luny_vo_vetnamskoi_traditsionnoi_poezii.pdf"
+      "title": "moon, god of the | Dictionary of Buddhism",
+      "relevance": "Budist ikonografi ve öğretide ay diski ile Buddha’nın bilgi/erdem ilişkisinin açıklaması.",
+      "url": "https://www.nichirenlibrary.org/en/dic/Content/M/124"
     },
     {
-      "title": "บทบาทของพระจันทร์ในอรรถกถาชาดก1 the role of the moon ...",
-      "relevance": "Cātaka anlatılarında ayın Bodhisatta ve Buddha bilgeliğini temsil edişini ve anlatı içi sahne işlevini inceler.",
-      "url": "https://so02.tci-thaijo.org/index.php/jica/article/download/5766/5050"
+      "title": "Sol And Luna | ARAS",
+      "relevance": "Simyasal gelenekte Sol ve Luna'nın karşıtlık, dişil ilke ve gök ile yeryüzü arasındaki aracı işlevi üzerine odaklanır.",
+      "url": "https://aras.org/concordance/sol-and-luna"
+    },
+    {
+      "title": "Moon in Alchemy",
+      "relevance": "Ayı simyada gümüş, dönüşüm, dişil ilke ve Solve et Coagula bağlamında ele alır.",
+      "url": "https://ecency.com/blog/@elevator09/moon-in-alchemy"
+    },
+    {
+      "title": "The Sun and the Moon - Dr. David Harrison",
+      "relevance": "Ayı simgesel olarak dişil özellikler, gümüş ve simyasal denge içinde açıklar.",
+      "url": "https://dr-david-harrison.com/freemasonry/the-sun-and-the-moon/"
+    },
+    {
+      "title": "Moon in dreams — meaning and symbolism",
+      "relevance": "Rüya bağlamında ayı sezgisel, alıcı ve ince enerji ile ilişkilendirir; sembolün ezoterik rüya okumasına örnek verir.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/moon"
+    },
+    {
+      "title": "Moon Symbolism in Dreams: Intuition and the Unconscious",
+      "relevance": "Ayın rüyada bilinçdışı, sezgi ve dişil ilke ile ilişkilendirildiği modern ezoterik rüya yorumunu sunar.",
+      "url": "https://dreamalchemy.me/en/learn/symbols/moon"
     }
   ],
   "relatedSlugs": []

@@ -1,106 +1,234 @@
 {
   "slug": "koyun",
   "title": "koyun",
-  "shortDescription": "Rüyada koyun görmek; aidiyet, korunma ve sakinlik arayışını, ayrıca kırılganlık ya da başkalarının yönlendirmesine uyma baskısını düşündürebilir. Sürü hâlindeki koyunlar bereket, geçim ve ortak sorumluluklarla da ilişkilendirilir.",
+  "shortDescription": "Rüyada koyun görmek genellikle topluluk aidiyeti, masumiyet, uyum, itaat ve korunma beklentilerini çağrıştırır; kesin anlam rüyanın bağlamı ve duygusal tonu ile belirlenir.",
   "positiveAssociations": [
-    "Sakinlik ve huzur arayışı",
-    "Topluluk içinde güvende hissetme",
-    "Bereket ve maddi refah",
-    "Bakım ve korunma görme"
+    "Masumiyet ve saflık",
+    "Bereket, rızık ve mal bolluğu",
+    "Toplumsal aidiyet ve dayanışma",
+    "İlahi rehberlik ve korunma"
   ],
   "challengingAssociations": [
-    "Gruba uyma ve sürünün arkasından gitme baskısı",
-    "Bireyselliği yitirme korkusu",
-    "Kırılganlık ve savunmasızlık hissi",
-    "İtaat etme veya yönlendirilme ihtiyacı"
+    "Sürü psikolojisi ve bireyselliğin kaybolması",
+    "Körlemesine itaat",
+    "Etkilenebilirlik ve duygusal kırılganlık",
+    "Kalabalığın baskısı"
   ],
   "contextDependentAssociations": [
-    "Sürü halinde hareket etmenin getirdiği aidiyet",
-    "Çoban figürüyle kurulan yönlendirilme ilişkisi",
-    "Maddi geçim ve sorumluluk alanları"
+    "Sürü halinde hareket etme ve kalabalığa uyum sağlama",
+    "Koyun sağma veya koyun sahibi olma durumunda ekonomik kazançlar",
+    "Çoban‑koyun ilişkisi ekseninde yönlendirilme veya liderlik arayışı"
   ],
   "commonVariations": [
     {
-      "title": "Sürü İçinde Yürümek",
-      "description": "Rüyada kalabalık bir koyun sürüsünün içinde ilerlediğini görmek, günlük yaşamdaki aidiyet, topluluğa uyum sağlama ve gruba ayak uydurma dinamiklerini yansıtabilir."
+      "title": "Büyük Bir Koyun Sürüsü Arasında Yürümek",
+      "description": "Rüya sahibinin sosyal çevresi, kalabalık gruplar içindeki konumu veya toplumsal uyum çabalarıyla ilgilidir."
     },
     {
-      "title": "Tek Başına Kalmış Koyun",
-      "description": "Sürüden ayrı düşmüş tek bir koyunla karşılaşmak, bireyselleşme çabasını, yalnızlık hissini ya da topluluk dışında kalmanın yarattığı kırılganlığı temsil edebilir."
+      "title": "Koyun Sağmak veya Süt Elde Etmek",
+      "description": "Geleneksel ve maddi bağlamda rızık, kazanç, bolluk ve emeğin karşılığını alma temalarıyla ilişkilendirilir."
     },
     {
-      "title": "Koyun Sürüsünü Gütmek",
-      "description": "Bir koyun sürüsünün başında yer aldığını veya sürüyü yönlendirdiğini görmek, uyanık yaşamındaki sorumlulukları, başkalarını idare etme durumunu ya da liderlik baskısını ele alır."
+      "title": "Yalnız Bir Koyunu Beslemek",
+      "description": "Kişinin kendi içindeki masum ve korumasız yönüyle ya da yakın çevresindeki kırılgan bir ilişkiyle kurduğu bağa işaret eder."
     },
     {
-      "title": "Koyunla Sakin Bir Temas",
-      "description": "Uysal bir koyunu sevdiğini veya onunla yakınlık kurduğunu görmek, içsel sakinlik arayışını, korunma ihtiyacını ve şefkatli bir döneme girme isteğini simgeler."
+      "title": "Çoban ve Koyunlar Arasında Olmak",
+      "description": "Hayatta rehberlik arayışı, bir otorite figürüne yönelme ya da dışsal bir yönlendirmeyle hareket etme ihtiyacını yansıtır."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslami rüya derlemelerinde koyun, rızık, bereket ve mal ile ilişkilendirilir. Aynı zamanda kişinin bakımı altındaki insanlarla, yönetimle ve topluluk içindeki sorumluluklarla ilişkili bir metafor olarak ele alınır. Sürü halinde görülen koyunlar uzun süren sevinç ve toplumsal refah bağlamında aktarılırken, bazı özel geleneksel aktarımlarda koyun kesmek gibi senaryolar ailevi sorumluluklar veya kayıplarla bağdaştırılabilen yorumlara konu olmuştur.",
-  "christianTraditions": "Hristiyan metinleri ve sembolizminde koyun, çoban ile sürü ilişkisi üzerinden Tanrı'nın halkını ve yönlendirilen topluluğu simgeleyen bir mecazdır. Bakım, korunma, itaat ve kurtuluş temalarıyla iç içe geçer; ancak bu yaklaşım doğrudan bir rüya tabiri geleneğinden ziyade metinsel bir sembolizmdir.",
-  "jewishTraditions": "Yahudi kaynaklarında koyun ve çoban figürü, İsrail halkı ile önderleri arasındaki bağı açıklamak için mecazi bir dil olarak kullanılır. Hasidik öğretilerde ise koyun, ilahi olana duyulan koşulsuz teslimiyetin ve aidiyet duygusunun bir benzetmesi olarak açıklanır.",
-  "buddhistEasternApproaches": "Doğu geleneklerinde koyun figürü farklı bağlamlarda yer alır. Tibet Budizmi bağlamında bazı tantrik metinlerde bir takvim yılı veya astrolojik işaret olarak görünürken, Hindu gelenekte ritüel adaklar, kurban bağlamı ve insanların kendi iç potansiyellerini fark etmelerine dair alegorik kullanımlarla ele alınır. Budist tantrasında ise mandala düzeni ve Ḍākinī betimlemeleri içinde kozmolojik bir konumda yer alır.",
-  "spiritualApproaches": "Spiritüel ve ritüel bağlamlarda koyun, armağan, adak ve kurban hayvanı olarak geleneksel pratiklerde kendine yer bulur; bu kullanım modern psikolojik yorumlardan bağımsız bir sembolik çerçeve sunar.",
+  "psychology": "Ampirik psikoloji literatüründe koyuna özgü evrensel bir rüya anlamı doğrulanmamıştır. Bilimsel perspektif, koyun imgelerinin tek başına sabit bir sözlük anlamı olmadığını; rüyanın bağlamı, duygusal tonu ve kişisel çağrışımlar üzerinden yorumlanması gerektiğini vurgular.",
+  "jungian": "Jungcu metinlerde koyun imgesi sıklıkla kolektif aidiyet, sürüye ait olma ve 'iyi çoban' temalarıyla bağlanır; anima ve animus ile bireyleşme sürecinde bireysel ile kolektif arasındaki gerilimi sembolize edebilir. Bu okumalar bağlam ve bireysel çağrışımlarla sınırlıdır; genelleştirilemez.",
+  "islamicTradition": "İslâmî rüya geleneğinde koyun, çeşitli aktarımlarda kadın, helal rızık, ganimet veya bereketle ilişkilendirilebilir. Koyun sağmak ya da sürü gütmek gibi ayrıntılar ise farklı yorumlara yol açabilir. Bu yorumlar geleneksel tabir çerçevesine dayanır ve bağlama göre değişir.",
+  "christianTraditions": "Hristiyan sembolizminde koyun çoğunlukla Tanrı’nın halkı, itaat ve çoban‑koyun ilişkisi çerçevesinde okunur; rüyada koyun aidiyet, ruhsal korunma ve yönlendirilme temalarını çağrıştırabilir. Bu tür yorumlar geleneksel dini imgelerle ilişkilidir.",
+  "jewishTraditions": "Yahudi rüya yorumu geleneğinde rüyaların yorumla şekillendiği ilkesi öne çıkar; doğrudan klasik bir 'koyun' girişi güvenilir biçimde tespit edilmediği için koyun imgesi Yahudi metinlerindeki sembolik kullanımı ve rüyanın bağlamı birlikte değerlendirilerek okunmalıdır.",
+  "buddhistEasternApproaches": "Bazı Budist metin çözümlemelerinde (ör. Lotus Sutra analizleri) koyun benzeri imgeler öğretiyi izleyen kişi (śrāvaka) çağrışımları üretebilir; bunlar doğrudan rüya tabiri değil, metin‑temelli sembolik okumalardır.",
+  "spiritualApproaches": "Modern spiritüel yorumlarda koyun genellikle masumiyet, yumuşaklık, aidiyet, grup enerjisiyle uyum ve ruhsal rehberlik arayışı temalarıyla ilişkilendirilir; bu okumalar çağdaş sembolik dilin yansımalarıdır.",
   "comparisonTable": [
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Rızık, bereket, geçim, mal ve bakımı üstlenilen kitleler/sorumluluklarla ilişkilendirilen metaforik anlamlar.",
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Çocukluk anıları, aile dinamikleri ve bilinçdışı çağrışım zincirleri.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Kolektif ruh, sürü aidiyeti, anima ve bireyleşme gerilimi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Rüya Geleneği",
+      "interpretation": "Kadın, mal, helal rızık, bereket ve topluluk yönetimi.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan Metaforik Gelenek",
-      "interpretation": "Çoban-sürü ilişkisi içinde yönlendirilen topluluk, korunma ve teslimiyet.",
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "İlahi korunma, çoban‑koyun bağı ve ruhsal aidiyet.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Yahudi / Hasidik Düşünce",
-      "interpretation": "Koşulsuz teslimiyet, aidiyet ve toplumsal rehberlik mecazı.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Doğu ve Tantrik Yaklaşımlar",
-      "interpretation": "Astrolojik işaret, takvimsel birim, ritüel bağlam ve mandala düzeni öğesi.",
-      "evidenceLevel": "traditional"
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Masumiyet, yumuşaklık, grup uyumu ve rehberlik arayışı.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenek ve metinlerde koyun sembolü; topluluk içinde bulunma, bir merkeze veya öndere bağlı olma, korunma ihtiyacı ve uysallık ekseninde buluşur.",
-  "differences": "İslami yorumlar koyunu daha çok maddi refah, rızık ve ailevi/toplumsal sorumluluklarla bağlarken; Yahudi ve Hristiyan gelenekleri onu daha çok inanç, teslimiyet ve çoban-halk ilişkisi üzerinden mecazlaştırır. Doğu geleneklerinde ise astrolojik ve kozmolojik bir ritüel nesnesi olarak öne çıkar.",
-  "inusAssessment": "Koyun sembolü, rüya bağlamında tek ve katı bir kehanet aracı olarak ele alınamaz. Sürünün içinde kaybolma hissi ile topluluktan güven alma ihtiyacı arasında gidip gelen psikolojik ve kültürel gerilimler barındırır. Bu nedenle rüyadaki koyun figürü; bireyin çevresiyle olan uyumunu, gruba uyma baskısını ya da koruma ve bakım beklentilerini rüya görenin kendi yaşam bağlamı içinde değerlendirmesini gerektirir.",
+  "commonGround": "Arkaik ve modern kaynaklar koyun imgelerinde topluluk içinde var olma, uyum veya itaat eğilimi, masumiyet ve korunma beklentileri gibi örtüşen temalar gösterir; aralarındaki farklar yorumun bağlamına ve geleneksel çerçeveye bağlıdır.",
+  "differences": "Psikanalitik okumalar koyunu kişisel çağrışımlar ve çocukluk bağlamları üzerinden ele alırken; dini gelenekler sembolik teolojik anlamlar (rızık, topluluk, ilahi rehberlik) vurgular. Modern spiritüel yaklaşımlar ise daha çok duygusal ve grup dinamiklerine odaklanır.",
+  "inusAssessment": "Koyun imgesi, bir rüyada bireyin toplumsal konumu, teslimiyet veya itaat düzeyi ve korunma beklentileri gibi belirli bileşenlerin bir arada bulunduğu durumlarda belirme eğilimindedir. En açıklayıcı unsurlar: sürü halinde mi yoksa tek mi görüldüğü, sağılıp sağılmadığı, rüyanın taşıdığı duygu tonu (huzur, tedirginlik, korunma arayışı) ve rüya sahibinin kişisel çağrışımlarıdır.",
   "faq": [],
   "sources": [
     {
-      "title": "Sheep in a dream - The Islamic Dream Book",
-      "relevance": "İslami rüya derlemelerinde koyunun rızık, bereket ve bakılan topluluk temalarıyla ilişkisini ele alan çevrimiçi derleme.",
-      "url": "https://theislamicdreambook.com/sheep-in-a-dream/"
+      "title": "The Dream - The Wolf Man’s Dream - Freud Museum London",
+      "relevance": "Wolf Man vakasında koyun imgelerinin çocukluk, baba figürü ve hastalık çağrışımlarıyla nasıl devreye girdiğini gösterir.",
+      "url": "https://www.freud.org.uk/schools/resources/the-wolf-mans-dream/interpreting-the-dream/"
     },
     {
-      "title": "SHEEP - JewishEncyclopedia.com",
-      "relevance": "Yahudi geleneklerinde koyun ve çoban mecazının halk ve önderler bağlamında nasıl kullanıldığını açıklayan kaynak.",
-      "url": "https://www.jewishencyclopedia.com/articles/13526-sheep"
+      "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
+      "relevance": "Rüya yorumunda sözcük çağrışmaları ve dil oyunlarının kullanımına ilişkin Freudcu örnekler içerir; koyun başı notu üzerinden imgesel çağrışımı gösterir.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
+    },
+    {
+      "title": "29 October 1930 Visions Seminar Lecture III",
+      "relevance": "Jung’un seminer notlarında koyun imgesinin Hristiyan sembolizmi, sürü aidiyeti ve 'iyi çoban' temalarıyla ilişkilendirildiği pasajları içerir.",
+      "url": "https://carljungdepthpsychologysite.blog/2021/09/03/vision-5/"
+    },
+    {
+      "title": "Dream Symbols of the Individuation Process: Notes of C. G. Jung's Seminars on Wolfgang Pauli's Dreams 9780691191942 - DOKUMEN.PUB",
+      "relevance": "Pauli rüyaları bağlamında koyunlar, Hristiyan cemaatine benzetilir ve masumiyet ile itaat temalarıyla ilişkilendirilir.",
+      "url": "https://dokumen.pub/dream-symbols-of-the-individuation-process-notes-of-c-g-jungs-seminars-on-wolfgang-paulis-dreams-9780691191942.html"
+    },
+    {
+      "title": "Full text of \"Marie Louise Von Franz books\"",
+      "relevance": "Koyunlar masumiyet, kolay etkilenebilirlik ve sürü ruhu çağrışımlarıyla ele alınır.",
+      "url": "https://archive.org/stream/marielouisevonfranzalchemyanintroductiontothesymbolismandthepsychologystudiesinj/Marie-Louise%20Von%20Franz,%20Marie-Luise%20von%20Franz%20-%20The%20Problem%20of%20the%20Puer%20Aeternus%20(2000)_djvu.txt"
+    },
+    {
+      "title": "[PDF] Dream Symbols of the Individuation Process: Notes of C. G. Jung's ...",
+      "relevance": "Dizin kaydında koyunların anima ve yönlendirme temalarıyla birlikte geçtiği görülür.",
+      "url": "https://pup-assets.imgix.net/onix/images/9780691191942/9780691228068.pdf?fm=pdf"
+    },
+    {
+      "title": "ANIMAL SYMBOLISM IN ANCIENT AND MEDIEVAL ...",
+      "relevance": "Artemidoros ve antik rüya yorum geleneği çerçevesinde koyunun toplumsal bağlılık ve itaatkârlıkla ilişkilendirilebileceğini tartışır.",
+      "url": "https://www.etd.ceu.edu/2018/vujnovic_milica.pdf"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual - Oxford Academic",
+      "relevance": "Artemidoros'ta evcil hayvanların çoğunlukla aile ve yakın çevre çağrışımı taşıdığına dair akademik açıklama sunar; koyunun tarihsel rüya yorumundaki yerini bağlamlandırır.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "sheep; Paradise; Antioch; Late Antiquity; mosaic",
+      "relevance": "Antik ve ortaçağ bağlamlarında koyunun güvenlik, uyum ve bollukla ilişkilendirildiğini özetleyen kültür-tarihsel çalışma.",
+      "url": "https://repositorio.uam.es/xmlui/bitstream/handle/10486/714807/10231493.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "title": "Sheep",
+      "relevance": "Koyunun evcilleştirme ve kültürel kullanım tarihine ilişkin genel arka plan; rüya yorumu için ikincil bir bağlam sağlar.",
+      "url": "https://en.wikipedia.org/wiki/Sheep"
+    },
+    {
+      "title": "Taxonomy",
+      "relevance": "Klasik rüya kitabı geleneğinde koyun görmenin ilerleme ve mal edinme ile ilişkilendirildiğini aktaran modern alıntı derlemesi.",
+      "url": "https://www.laphamsquarterly.org/night/taxonomy"
+    },
+    {
+      "title": "Historicising the Cultural Semiotics of Wolf and Sheep",
+      "relevance": "Koyun ve kurdun kültürel yarılmalarını ele alan çalışma; koyunun masumiyet, kırılganlık ve ekonomik değerle ilişkilendirildiği tarihsel sembolizm çerçevesi sunar.",
+      "url": "https://muse.jhu.edu/article/811932/summary"
+    },
+    {
+      "title": "Sheep and Goats",
+      "relevance": "Koyunun kurban, yumuşaklık, itaat ve saflıkla ilişkilendirildiğini özetleyen kültürel sembolizm maddesi.",
+      "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/sheep-and-goats"
+    },
+    {
+      "title": "Franco Gendering animals I",
+      "relevance": "Koyunun rüyalarda itaatkâr topluluk ve hiyerarşik düzenle ilişkilendirildiğini aktaran akademik metin.",
+      "url": "https://www.qro.unisi.it/frontend/sites/default/files/04%20Franco%20Gendering%20animals%20I%20-%20def.pdf"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri K Harfi",
+      "relevance": "İslâmî rüya tabiri geleneğinde koyun başlığı altında kadın, ganimet ve bereket gibi geleneksel tabir örnekleri sunar.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
+    },
+    {
+      "title": "islâmî rüya tabirleri ansiklopedisi",
+      "relevance": "Koyun ve dişi koyun için mal, saygın kadın, süt ve benzeri ayrıntılı tabirler sunan derleme bir rüya tabiri kaynağıdır.",
+      "url": "https://can-ada.net/wp-content/uploads/2018/01/ruya-tabirleri-ansiklopedisi-2.pdf"
+    },
+    {
+      "title": "Şeyh Ali'nin Ta'bîrnâme'sinde Rüya Türleri ve Hayvan ...",
+      "relevance": "Ta'bîrnâme geleneğinde koyunla ilgili motiflerin (boğazlama, yüzme, süt, evde koyun görme vb.) nasıl yorumlandığını gösterir.",
+      "url": "https://dergipark.org.tr/tr/download/article-file/5051906"
+    },
+    {
+      "title": "Biblical Meaning Of Sheep In Dream.-Dreamsdeliverance.org",
+      "relevance": "Koyunun Hristiyan sembolizmi içinde Tanrı’nın halkı, itaat ve çobanla ilişki üzerinden nasıl okunduğunu gösteren modern Hristiyan kaynak.",
+      "url": "https://dreamsdeliverance.org/biblical-meaning-of-sheep-in-dream/"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Talmudik metinde rüyaların yorumla şekillendiğine dair ilke sunar; koyun için sabit bir giriş bulunmadığından Yahudi çerçevesinde bağlamsal okumayı destekler.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
     },
     {
       "title": "Sheep - Chassidic Masters - Parshah",
-      "relevance": "Hasidik/Yahudi düşüncede koyunun teslimiyet ve aidiyet sembolü olarak yorumlanmasına dair öğretisel açıklamalar.",
+      "relevance": "Yakup’un koyun sürüsüyle ilgili düş anlatısını ve bunun ilahi yönlendirme temasını ele alır.",
       "url": "https://www.chabad.org/parshah/article_cdo/aid/2653/jewish/Sheep.htm"
     },
     {
-      "title": "Wood Sheep: Significance and symbolism",
-      "relevance": "Tibet Budizmi ve ilgili astrolojik/takvimsel kullanım bağlamlarında koyunun anlamını ele alan derleme.",
-      "url": "https://www.wisdomlib.org/concept/wood-sheep"
+      "title": "Parshat Vayeitzei: Yaakov's Second Dream - OU Press",
+      "relevance": "Yakup’un koyun sürüsüyle ilgili düş anlatısını ve bunun ilahî yönlendirme temasını ele alır.",
+      "url": "https://oupress.org/excerpts/vayeitzei-second-dream/"
     },
     {
-      "title": "Sheep: Significance and symbolism",
-      "relevance": "Hindu gelenekte koyunun ritüel adaklar, kurban ve alegorik kullanımlarını inceleyen kaynak.",
-      "url": "https://www.wisdomlib.org/concept/sheep"
+      "title": "A study on the religious symbolism of the chariots of animals at Chapter on A Parable in the Lotus Sutra",
+      "relevance": "Lotus Sutra analizleri bağlamında koyun benzeri imgelerin takipçi/śrāvaka çağrışımı yaratabileceğini tartışır; doğrudan rüya tabiri olmayıp metinsel bir sembolik okumadır.",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002215458"
     },
     {
-      "title": "Sheep: 7 definitions",
-      "relevance": "Buddhist tantrik metinlerde koyunun mandala ve Ḍākinī betimlemeleri içindeki yerini gösteren derleme.",
-      "url": "https://www.wisdomlib.org/definition/sheep"
+      "title": "Sheep - Dream Symbol Meaning and Interpretation",
+      "relevance": "Koyun rüyasını masumiyet, korunma ihtiyacı, sürüye aidiyet ve kolektif bilinçdışıyla ilişkilendiren çağdaş spiritüel yorum sunuyor.",
+      "url": "https://dreams.guide/dream-symbols/sheep"
+    },
+    {
+      "title": "Sheep Dream Meaning & Interpretation - Mirror",
+      "relevance": "Koyun rüyasını uyum, bireysel kimlik ile grup aidiyeti arasındaki denge ve kırılganlık temalarıyla açıklıyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/sheep/"
+    },
+    {
+      "title": "Sheep in Dreams: Meanings, Psychology, and Cultural ...",
+      "relevance": "Koyun rüyasını aidiyet, bakım, saflık, merhamet ve koruma gibi spiritüel anlam katmanlarıyla ele alıyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/sheep"
+    },
+    {
+      "title": "Sheep Dream Meaning: Dreams About Sheep Explained",
+      "relevance": "Koyun sembolünü ruhsal olarak saflık, sadakat, teslimiyet ve fedakârlıkla ilişkilendiriyor; rüya okuması için bu temaları genişletiyor.",
+      "url": "https://whatisyourspiritanimal.com/animal-dream-symbols/sheep-dream-meaning-and-symbolism/"
+    },
+    {
+      "title": "Sheep - Symbolism, Meaning & Spirit Animal",
+      "relevance": "Koyunu topluluk, yumuşaklık, kırılganlık ve grup dinamikleriyle ilişkili bir spiritüel sembol olarak sunuyor; rüya bağlamında sürü ve sosyal çevre vurgusu yapıyor.",
+      "url": "https://mymythos.org/archetype/sheep/"
+    },
+    {
+      "title": "What Does it Mean When You Dream About Sheep?",
+      "relevance": "Koyun rüyasını saflık, inanç, güven ve ruhsal koruma temalarıyla bağlantılandırıyor.",
+      "url": "https://www.centreofexcellence.com/meanings-of-sheep-in-dreams/"
+    },
+    {
+      "title": "Sheep Dream Meaning (Unveiling Vulnerability) - Spiritual Mojo",
+      "relevance": "Koyun rüyasını masumiyet, sadelik, uyum ve ilahi rehberlik arayışıyla açıklayan modern spiritüel bir çerçeve sunuyor.",
+      "url": "https://spiritualmojo.com/sheep-dream-meaning/"
+    },
+    {
+      "title": "Dream of Sheep (8 Meanings + Reasons) - Practical Psychology",
+      "relevance": "Koyun rüyasını huzur, masumiyet, sadelik, destek ve yön bulma ihtiyacıyla ilişkilendiriyor.",
+      "url": "https://practicalpie.com/dream-of-sheep/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
 }

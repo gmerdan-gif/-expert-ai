@@ -1,103 +1,205 @@
 {
   "slug": "yatak-odasi",
-  "title": "yatak odası",
-  "shortDescription": "Rüyada yatak odası görmek, mahremiyet, kişisel alan ve dinlenme ihtiyacıyla ilişkilidir. Temiz ve düzenli bir oda huzur ve içsel dengeyi, yeni bir yatak odası yenilenmeyi, dağınık veya bakımsız bir oda ise ihmal edilen duygusal konuları ya da iç çatışmaları öne çıkarabilir.",
+  "title": "Yatak odası",
+  "shortDescription": "Yatak odası, rüyalarda mahremiyet, kişisel sınırlar, dinlenme ve yakın ilişkilerle bağlantılı en özel yaşam alanlarından birini temsil eden bir mekân sembolüdür.",
   "positiveAssociations": [
-    "Güvenlik ve emniyet",
-    "Umutların yenilenmesi",
-    "İçsel huzur ve dinlenme",
-    "İyi niyetin ve karakterin olumlu yönleri"
+    "Mahremiyet ve içsel huzur",
+    "Güvenli kişisel alan",
+    "Derin istirahat ve yenilenme",
+    "Uyumlu yakın ilişkiler"
   ],
   "challengingAssociations": [
-    "Hile, saklanan düşünceler veya ikircikli davranış",
-    "Kötü görünen oda aracılığıyla yansıtılan olumsuz karakter yönleri"
+    "Sınır ihlali ve gerilim",
+    "Bastırılmış arzularla yüzleşme",
+    "Savunmasızlık ve kaygı",
+    "Dağınıklık ve birikmiş duygular"
   ],
   "contextDependentAssociations": [
-    "Evlilik ve aile ilişkileri",
-    "Yeni doğan veya ev halkından biri ile yakınlık",
-    "Yatak ve oda düzeni aracılığıyla görülen kişisel sınırlar ve dinlenme gereksinimi"
+    "Odanın aydınlık veya karanlık olması",
+    "Mekânın düzenli veya dağınık olması",
+    "Rüya sahibinin odadaki duygusal tonu"
   ],
   "commonVariations": [
     {
-      "title": "Yeni bir yatak odası görmek",
-      "description": "Rüyada yeni bir yatak odası, geleneksel kaynaklarda umutların tazelenmesi veya niyetlerin doğrulanması ile ilişkilendirilir; bağlam (kimle, nerede, oda nasıldı) yorumda önemli rol oynar."
+      "title": "Aydınlık ve Düzenli Yatak Odası",
+      "description": "Ferah ve temiz bir yatak odası görmek, içsel uyum, zihinsel arınma ve duygusal denge hissinin güçlendiğine işaret edebilir; yorum, rüyanın genel tonuyla birlikte değerlendirilmelidir."
     },
     {
-      "title": "Güzel ve düzenli yatak odası",
-      "description": "Odanın düzenli, temiz ve estetik görünmesi genellikle rüya görenin içsel dengesine, sosyal veya ahlaki yöndeki olumlu özelliklerine ya da dinlenme gereksiniminin karşılanmasına işaret eder."
+      "title": "Dağınık ve Sıkışık Yatak Odası",
+      "description": "Havasız veya dağınık bir yatak odası, yaşam alanındaki sınırların ihlal edildiğini, birikmiş duygusal yükleri veya zihinsel karışıklığı yansıtabilir."
     },
     {
-      "title": "Bakımsız veya kötü görünen yatak odası",
-      "description": "Kirli, dağınık veya kötü durumda bir yatak odası, rüya görenin ihmal edilmiş duygusal meselelerine, gölgelenmiş karakter yönlerine veya çözüme muhtaç içsel çatışmalara dikkat çekebilir."
+      "title": "Tanıdık Olmayan Yatak Odası",
+      "description": "Rüyada tanımadık bir yatak odası görmek, yatak ve uyku imgelerinin farklı bağlamlarda ortaya çıkabildiğini düşündürür. Böyle bir imge, özel alana ve mahremiyete ilişkin duygusal tonun değiştiğini ya da belirsizleştiğini gösterebilir; yorum rüyanın diğer ayrıntılarına bağlıdır."
     },
     {
-      "title": "Yatak odasında korunaklı bir düzen",
-      "description": "Kapı, perde, yatak konumu veya kişisel eşyaların vurgulanması gibi somut detaylar, yatak odasının ‘mahrem alan’ işlevini ve rüya görenin ev içinde dinlenme ve sınır koyma isteğini doğrudan göstermeye eğilimlidir."
+      "title": "Karanlık ve Sessiz Yatak Odası",
+      "description": "Loş veya gölgeli bir yatak odası, bilinçdışına yönelik içe çekilme, korunma ihtiyacı veya dış dünyadan uzaklaşma eğilimini çağrıştırabilir; bu izlenim rüyanın duygusuyla yakından bağlantılıdır."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslami rüya geleneğinde yatak odası, güvenlik, emniyet, evlilik, yeni doğan ve evin hanımı gibi somut konularla ilişkilendirilir. Bazı kaynaklar, odanın görünümünün kişinin iyi veya kötü yönlerine işaret ettiğini ve yeni bir oda görmenin umutların yenilenmesiyle ilişkilendirildiğini aktarır.",
-  "christianTraditions": "Hristiyan metinlerinde yatak odası doğrudan rüya yorumu malzemesi olarak görülmez; daha çok ev içi mahremiyet, kutsal evlilik yatağı ve aile bağları bağlamında betimlenir.",
-  "jewishTraditions": "Yahudi rabbanî metinlerde oda ve ev içi bölmeler mecazi ve pratik kullanım bağlamında ele alınır; elde edilen içerik yatak odasına özgü doğrulanmış rüya yorumları sunmaktan çok genel ev içi sembolizme işaret eder.",
-  "buddhistEasternApproaches": "Tibet Budizmi ve bazı Doğu kaynaklarında ‘iç oda’ imgesi, zihnin korunaklı bir mekânı ve dönüşümün gerçekleşebileceği içsel alan olarak kullanılır; bu, yatak odası sembolüne dolaylı bir ruhsal çerçeve sağlar fakat doğrudan tarihsel bir yatak odası rüya geleneği sunmaz.",
-  "spiritualApproaches": "Spiritüel yorumlarda yatak odası, dış etkenlerden soyutlanmış, içsel çalışmanın veya ruhsal dinlenmenin gerçekleştiği mahrem bir alan olarak okunur; fiziksel yatak, kişisel eşyalar ve odanın düzeni bu okumayı somutlaştırır.",
+  "psychology": "Ampirik çalışmalar, yatak ve uyku imgelerinin rüyalarda sıkça göründüğünü ancak bu imgelerin genellikle sabit bir mekâna bağlı kalmayıp değişik bağlamlarda ortaya çıktığını göstermektedir. Bu nedenle yatak odası görüntüsü tek başına kesin bir anlama sahip değildir; odanın özellikleri, rüyanın diğer öğeleri ve hissedilen duygular yorumda belirleyicidir.",
+  "jungian": "Analitik psikolojide ev, psişenin bütününü temsil eder; içindeki odalar ise bu bütünün farklı katmanlarıdır. Yatak odası, evin en mahrem ve savunmasız katmanlarından biri olarak iç dünya, kişisel sınırlar ve korunmuş mahremiyet ile ilişkili bir alan olarak okunabilir. Ancak Jungcu çerçevede de anlam, rüyanın tüm düzleminde ele alınmalıdır.",
+  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında doğrudan 'yatak odası' yerine 'oda' ve 'yatak' sembolleri ele alınır. Oda genellikle hane düzeni, mahremiyet ve eş ile ilişkilendirilir; yatak ise rahatlık, evlilik ve eşin niteliği bağlamında yorumlanır. Bu gelenekte yatak odası imgesi, oda ve yatak sembollerinin bileşkesi olarak dikkatle değerlendirilir.",
+  "christianTraditions": "Hristiyan sembolik okumalarında yatak odası istirahat, evlilik mahremiyeti ve özel ibadet temasına yakın bir mekân olarak görülür. Kapalı ve gizli bir alan olması açısından rüyadaki yatak odası, kişinin içsel yakarışları, mahrem yönleri veya Tanrı ile özel ilişkisinin simgesi olarak yorumlanabilir; yine de yorum bağlama göre değişir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar kesin hükümlere indirgenmez; yorum ve dua çerçevesinde ele alınır. Yatmadan önceki uygulamalar ve gecenin ritüelleri yatak odasını koruma, sınır ve manevi hazırlık bağlamında okunmasına zemin sağlar, ancak doğrudan tek bir 'yatak odası' yorumu antik metinlerde açıkça yer almaz.",
+  "buddhistEasternApproaches": "Tibet Budist geleneklerinde rüya pratiği bağlamında uykuya geçiş ve yatış mekânı, zihinsel farkındalığın geliştirildiği ve rüya durumunun niyetle karşılandığı bir alan olarak görülür. Bu perspektifte yatak odası, rüya farkındalığı uygulaması için işlevsel bir mekân olabilir; doğrudan sembolik kesinlikten kaçınılmalıdır.",
+  "spiritualApproaches": "Spiritüel ve ezoterik yorumlarda yatak odası, kişinin en mahrem iç alanı, dinlenme ve sınır koyma ihtiyacının simgesi olan eşik bir mekân olarak değerlendirilir. Odanın düzeni, aydınlığı veya kirliliği içsel enerji dengesi ve sınır korunmasıyla ilgili nitelikler hakkında ipucu verebilir; yine de yorum rüyanın diğer öğelerine bağlıdır.",
   "comparisonTable": [
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Evlilik, çocuk, ev içi güvenlik ve karakterin yansıması gibi somut bağlamlarla ilişkilendirilir.",
+      "approach": "Ampirik Araştırma",
+      "interpretation": "Yatak ve uyku imgelerinin sabit bir mekâna bağlı olmadığını, rüya bağlamına göre değiştiğini vurgular.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Mahremiyet, bastırılmış istekler ve ev içi yakın ilişkilerle bağlantılı çağrışımları öne çıkarır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Ev içindeki yatak odası, psişenin korunmuş, mahrem bir katmanını ve kişisel sınırları temsil edebilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel İslam Yaklaşımı",
+      "interpretation": "Oda ve yatak sembolleri üzerinden hane düzeni, eş ve evlilik uyumuna odaklanır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan Metinleri",
-      "interpretation": "Mahremiyet ve kutsal evlilik bağlamında metinsel sembolizm sunar; doğrudan rüya yorumu değildir.",
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "İstirahat, evlilik yakınlığı ve gizli ibadet/Tanrı ile özel ilişki bağlamında okur.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Tibet Budist Yaklaşımı",
-      "interpretation": "Oda imgesini zihinsel sığınak ve dönüşüm alanı olarak işler; yatak odasıyla dolaylı ilişki kurulabilir.",
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Dış etkilerden yalıtılmış bir eşik mekân, içsel uyum ve korunma alanı olarak değerlendirir.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Çoğu gelenekte yatak odası, gerçek dünyadaki fiziksel işleviyle (yatma, soyunma, kişisel eşyalar) bağlantılı olarak mahremiyet ve dinlenme temaları etrafında yorumlanır; rüyadaki fiziksel ayrıntılar yorumu belirginleştirir.",
-  "differences": "İslami kaynaklar yatak odasını evlilik, aile ve karakter göstergeleriyle somutlaştırırken Doğu ve spiritüel yaklaşımlar daha çok 'iç oda' metaforuna dayanır. Hristiyan ve Yahudi metinleri daha çok metinsel sembolizm sunar; doğrudan rüya yorumu sağlamaz.",
-  "inusAssessment": "Yatak odası sembolü, evin en mahrem alanlarından biri olması nedeniyle rüya görenin özel yaşamı, dinlenme düzeni ve yakın ilişkileri hakkında çok katmanlı ipuçları verebilir; bu ipuçları odanın görünümü, kimlerle birlikte olduğu ve bağlamsal ayrıntılara bağlı olarak yorumlanmalıdır.",
-  "faq": [
-    {
-      "question": "Rüyada yatak odası görmek ne anlama gelir?",
-      "answer": "Genelde mahremiyet, dinlenme ve içsel durumlarla ilgilidir; rüyanın ayrıntıları (oda durumu, kiminle olduğu, odadaki eşyalar) yorumu belirler."
-    },
-    {
-      "question": "Rüyada yeni bir yatak odası görmek neyi ifade eder?",
-      "answer": "Kaynaklarda çoğunlukla umutların yenilenmesi veya niyetlerin tazelenmesi olarak okunur; yine bağlam belirleyicidir."
-    }
-  ],
+  "commonGround": "Çeşitli disiplinler, yatak odasını dış dünyadan yalıtılmış, mahrem ve kişisel bir alan olarak görme konusunda görüş birliği gösterir. Bu mekân, kişinin özel hayatı, sınırları ve içsel dinlenme alanı ile ilişkilidir; spesifik yorumlar ise rüyanın bağlamına, odanın niteliğine ve hissedilen duygulara bağlıdır.",
+  "differences": "Yaklaşımlar arasındaki farklar odak noktalarında ortaya çıkar: psikanalitik okumalar bilinçdışı arzular ve cinsellik eksenine vurgu yaparken, dini gelenekler hane düzeni, evlilik ve ibadetle ilgili temalara yoğunlaşır. Ampirik araştırma ise sembolün tek ve sabit bir kod olmadığını vurgular.",
+  "inusAssessment": "Yatak odası sembolü, mahremiyet, sınırlar ve savunmasızlık temalarını barındırır; odanın fiziksel durumu (dağınık/temiz, aydınlık/karanlık) ile rüya sahibinin hissettiği duygusal ton, sembolün hangi yönünün öne çıktığını belirler. Bu sembol tek başına belirli bir olguya işaret etmez; daha çok uyanık yaşamda mahremiyet, dinlenme ve yakın ilişkilere dair duygu ve algıların rüyadaki yansıması olarak okunmalıdır.",
+  "faq": [],
   "sources": [
     {
-      "title": "GOOD NIGHT, SLEEP TIGHT: A CULTURAL STUDY OF THE BEDROOM AS A",
-      "relevance": "Yatak odasının kültürel ve tarihsel olarak özel alan, ev içi mahremiyet ve modern iç mekân düzeniyle ilişkisini inceleyen çalışma.",
-      "url": "https://repository.library.georgetown.edu/bitstream/handle/10822/553045/severyEmilyJean.pdf;sequence=1"
+      "title": "Beds in dreams | International Journal of Dream Research",
+      "relevance": "Yatak imgelerinin rüyalarda hangi bağlamlarda göründüğünü inceleyen ampirik çalışma; 'yatak odası' yorumlarında bağlamın önemini vurgulayan doğrudan veri sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/30894"
     },
     {
-      "title": "IBN SEERiN'S",
-      "relevance": "İslami rüya geleneğinde yatak odasıyla ilgili geleneksel rüya maddelerini ve bağlantılı anlamları sunan kaynak.",
-      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+      "title": "Freud (1900) Chapter 5, part a",
+      "relevance": "Freud'un rüya kuramı; rüyanın açık içeriği ile bastırılmış istekler arasındaki dönüşüm mekanizması üzerinden yatak odası gibi mahrem mekânların psikanalitik okunmasına teorik zemin sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5a.htm"
     },
     {
-      "title": "Bed, Bedroom - Holman Bible Dictionary",
-      "relevance": "İncil metinleri bağlamında yatak ve oda sembolizmini (mahremiyet, evlilik) açıklayan referans; doğrudan rüya yorumu içermez.",
-      "url": "https://www.studylight.org/dictionaries/eng/hbd/b/bed-bedroom.html"
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud'un 'oda' sembolünün kadınla ilişkilendirildiğini aktaran pasajı; yatak odası imgesinin tarihsel psikanalitik bağlamda kadınsı/ev içi çağrışımlarla okunabileceğini gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
     },
     {
-      "title": "Rooms and Doorposts",
-      "relevance": "Yahudi rabbanî metinlerde oda ve ev içi mekân kullanımına dair örnekler sunar; yatak odasına özgü rüya yorumu sağlamaz.",
-      "url": "https://www.chabad.org/library/article_cdo/aid/257634/jewish/Rooms-and-Doorposts.htm"
+      "title": "Freud The Scientific Literature of Dream-Problem Chapter 6A3",
+      "relevance": "Tarihsel sembol derlemesi; 'yatak odası' ile 'eş' eşleştirmesinin aktarıldığı bölüm, yatak odası imgesinin evlilik ve eş ilişkisi bağlamında ele alınmasına kaynaklık eder.",
+      "url": "https://kolbefoundation.org/gbookswebsite/studentlibrary/greatbooks/freud/chap6a3.htm"
     },
     {
-      "title": "Rever de chambre : signification et interpretation - Revalite",
-      "relevance": "Doğu veya spiritüel bağlamlarda iç oda imgesi ve zihinsel görselleştirme ilişkisini tartışan çevrimiçi kaynak; yatak odasıyla dolaylı ilişki kurar.",
-      "url": "https://mon.astrocenter.fr/interpretations-reves/reve/chambre/"
+      "title": "Bedroom Dreams: Meaning & Psychological Interpretation",
+      "relevance": "Jungcu perspektiften yatak odası imgesinin mahrem iç dünya ve korunmuş alanla ilişkilendirilebileceğine dair çağdaş bir yorum metni; Jungcu yorumları için bağlamsal destek sağlar.",
+      "url": "https://somniscient.com/en/symbols/bedroom"
+    },
+    {
+      "title": "Dream Meaning: Houses & Rooms",
+      "relevance": "Jung’un ev imgesini psişenin katmanlarıyla ilişkilendirir; odaların benliğin farklı bölümlerine açılan alanlar olduğunu açıklar.",
+      "url": "https://ethyria.at/en/symbols/haus-raeume/"
+    },
+    {
+      "title": "Dreams of Sex and the Sex of Dreams - The Jung Page",
+      "relevance": "Bu kaynak, Jungcu rüya anlayışının rüyaları doğal sembolik öz-anlatım olarak ele alan temel yaklaşımını açıklar.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/95-dreams-of-sex-and-the-sex-of-dreams"
+    },
+    {
+      "title": "In Bed with Mother: Sexual Dreams in Artemidorus’ Interpretation of Dreams",
+      "relevance": "Artemidorus ve Greko-Romen oneirokritik geleneği üzerine akademik inceleme; antik dönemdeki ev içi/cinsel mekân temalarının tarihsel bağlamını sunar.",
+      "url": "https://journal.almamater.si/index.php/monitorish/article/view/170"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un antik dönemde günümüze ulaşan en kapsamlı rüya yorumu kılavuzunun çevrimiçi çevirisini ve erişimini sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus, Dream Interpretation 1.81 - aleator classicus",
+      "relevance": "Artemidorus geleneğinde uykuya dair rüya yorumuna örnek bir metin parçası sunar.",
+      "url": "https://aleatorclassicus.wordpress.com/2011/10/22/artemidorus-dream-interpretation-1-81/"
+    },
+    {
+      "title": "Rüyada Oda Görmek Ne Anlama Gelir?",
+      "relevance": "Nablusî'ye atfedilen modern derleme; 'oda' ve 'yatak' yorumları üzerinden İslami gelenekte yatak odasıyla ilişkili temalara (eş, evlilik, mahremiyet) dair bilgi sağlar.",
+      "url": "https://www.diyadinnet.com/ruyada-7498-oda-gormek"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri - Nedir? Nasıl yapılır? Ne demektir?",
+      "relevance": "Odanın kadınla yorumlandığını ve oda niteliklerinin eş veya kadın figürüne göre değiştiğini aktaran modern derleme.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/imam-nablusi-ruya-tabirleri/page/2/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri Y Harfi",
+      "relevance": "Yatak sembolünü Nablusî’ye nispetle kadın/eş ve rahatlıkla ilişkilendiren modern aktarım.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-y-harfi.html?m=1"
+    },
+    {
+      "title": "Bedroom - Topical Bible",
+      "relevance": "Hristiyan kaynaklar bağlamında yatak odasının istirahat, evlilik mahremiyeti ve özel ibadet temalarıyla ilişkilendirilebileceğini gösterir.",
+      "url": "https://biblehub.com/topical/b/bedroom.htm"
+    },
+    {
+      "title": "Topical Bible: Sleeping-rooms",
+      "relevance": "Uyku odaları için dua, özel ibadet ve Tanrı ile gizli ilişki temalarını öne çıkarır; oda mekânını ruhsal mahremiyetle ilişkilendirir.",
+      "url": "https://biblehub.com/topical/s/sleeping-rooms.htm"
+    },
+    {
+      "title": "Topical Bible: The Bedroom",
+      "relevance": "Yatak odası temasını dinlenme, mahremiyet ve evlilikle bağlantılı olarak ele alır; aynı zamanda ruhsal yakınlık okumasına kapı açar.",
+      "url": "https://biblehub.com/topical/t/the_bedroom.htm"
+    },
+    {
+      "title": "Berakhot 10.a",
+      "relevance": "Talmud’da rüyaların yorum ve dua ile ilişkilendirildiğini gösteren metin; Yahudi rüya geleneğinde yatak odası temalarının yorum ve ritüel bağlamında ele alınmasına zemin sağlar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/10.a"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Yahudi geleneğinde rüyaların yorumu, rüya iyileştirme ritüelleri ve Talmudik yaklaşımın genel çerçevesini verir; yatak odası sembolü için disipline dayalı yorum zemini sağlar.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "At Tara in this Fateful Hour (Berakhot 2a-5b)",
+      "relevance": "Yatmadan önce okunan Shema’nın koruyucu işlevini ve gece ibadetini ele alır; yatak odası temasının mahremiyet ve korunma bağlamında anlamlandırılmasına yardımcı olur.",
+      "url": "https://hadran.org.il/beyond-the-daf/berakhot-2a-5b/"
+    },
+    {
+      "title": "Post navigation",
+      "relevance": "Tibet Budist rüya pratiği bağlamında uykuya geçişe ve yatış mekânının rüya farkındalığı çalışmalarındaki işlevine dair bir kaynak; rüya farkındalığı uygulamalarında yatak odasının kullanımına ilişkin bağlamsal bilgi sunar.",
+      "url": "https://www.sangye.it/altro/?p=1359"
+    },
+    {
+      "title": "Room in dreams — meaning and symbolism",
+      "relevance": "Modern spiritüel yorumlar üzerinden odanın, özellikle yatak odasının mahremiyet, dinlenme ve kişisel yaşamla ilişkilendirildiğini aktaran kaynak; spiritüel okumalara arka plan sağlar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/room"
+    },
+    {
+      "title": "Bedroom | dreamhawk.com",
+      "relevance": "Bu kaynak, yatak odasını uyuyan benlik, bilinçdışı yönler ve içsel dikkat ihtiyacıyla ilişkilendiren spiritüel yorumlar sunar.",
+      "url": "https://dreamhawk.com/dream-dictionary/bedroom/"
+    },
+    {
+      "title": "Bedroom Dream Meaning: Privacy, Rest, and Hidden Feeling",
+      "relevance": "Bu kaynak, yatak odasını mahremiyet, kırılganlık, yakınlık ve kişisel alan temaları bağlamında açıklayan modern bir yorum sunar.",
+      "url": "https://zhougongdreamguide.com/dreams/bedroom-dream-meaning"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "buddhist-eastern"
+  ]
 }

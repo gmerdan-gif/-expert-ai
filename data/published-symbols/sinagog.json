@@ -1,0 +1,240 @@
+{
+  "slug": "sinagog",
+  "title": "sinagog",
+  "shortDescription": "Rüyada sinagog görmek; aidiyet, ortak değerler, gelenekler ve içsel yönelim ihtiyacını çağrıştırabilir. Kalabalık bir sinagog toplulukla bağ kurmayı, boş veya kısıtlayıcı bir ortam ise kurallar, otorite ya da vicdanla ilgili içsel gerilimleri öne çıkarabilir.",
+  "positiveAssociations": [
+    "Kutsal mekân ve içsel düzen ile temas",
+    "Topluluk aidiyeti ve ortak hafıza",
+    "Ruhsal yönelim ve derinleşme ihtiyacı",
+    "Gelenek ve manevi süreklilik"
+  ],
+  "challengingAssociations": [
+    "Otorite, kural ve süperego baskısı",
+    "Bastırılmış suçluluk duygusu",
+    "İçsel kısıtlamalar ve çatışmalar",
+    "Yabancılaşma veya uyumsuzluk endişesi"
+  ],
+  "contextDependentAssociations": [
+    "Mekânın dolu veya boş olması",
+    "İbadet hâli veya sessizlik",
+    "Rüya sahibinin uyanık yaşamındaki dinsel tutumu",
+    "Rüyanın genel duygusal tonu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kalabalık bir sinagogda ibadet etmek",
+      "description": "Rüya sahibinin topluluk duygusu, ortak değerler ve aidiyet hissiyle yeniden bağ kurma çabasını yansıtır."
+    },
+    {
+      "title": "Boş ve sessiz bir sinagogda bulunmak",
+      "description": "Kişinin içsel bir muhasebe yaptığını; yalnızlık hissi, vicdan sorgulaması ve kendi iç dünyasıyla baş başa kalma ihtiyacını simgeler."
+    },
+    {
+      "title": "Sinagoga girerken tereddüt etmek",
+      "description": "Uyanık yaşamda otorite figürleri, kurallar, gelenekler veya bastırılmış bazı suçluluk hisleriyle yaşanan içsel çatışmayı gösterir."
+    },
+    {
+      "title": "Sinagogda Tora okunduğunu veya dinlendiğini görmek",
+      "description": "Bilgi, yasa, kutsal öğretiler ve yaşamın temel kurallarıyla yeniden temas etme arzusuna işaret eder."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmaları, kilise, sinagog, tapınak ve cami gibi dinî mekânların rüya raporlarında genel olarak nadir görülen kategoriler arasında yer aldığını gösterir. Bilimsel bulgular, rüyalardaki dinî içeriklerin kişinin uyanık yaşamındaki dinî tutumları, inançları ve pratikleriyle yakından ilişkili olduğunu ortaya koymaktadır. Bu bağlamda sinagog imgesi, sabit bir anlam taşımaktan çok, bireyin değerlerini ve iç dünyasını gözden geçirmesine vesile olan bir yansıma olarak değerlendirilebilir.",
+  "jungian": "Analitik psikoloji perspektifinden bakıldığında, sinagog gibi dinî yapılar ego ile daha derin psişik katmanlar arasındaki köprüyü temsil eden kutsal alanlar (Yunanca: temenos) olarak ele alınabilir.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik okuma geleneğinde sinagog doğrudan bir rüya doktrini olarak yer almasa da, kutsal topluluk, ibadet yeri ve yasa ile öğreti arayışı gibi temalar üzerinden yorumlayıcı bir çerçevede ele alınabilir.",
+  "jewishTraditions": "Yahudi geleneğinde sinagog; cemaatin toplandığı, kamusal duanın yapıldığı, Tora'nın okunduğu ve ortak belleğin yaşatıldığı merkezî bir mekândır. Berakhot geleneğinde rüyaların yorumlanması geleneksel olarak önemli ve ciddiye alınır; bu nedenle sinagog imgesi topluluk, kutsal metinler ve ilahî yakınlık arayışı ekseninde okunur.",
+  "buddhistEasternApproaches": "Dzogchen ve rüya yogası yaklaşımları, rüyalardaki tüm görünümleri ve mekânları katı ve değişmez gerçekler olarak değil, zihnin geçici yansımaları biçiminde ele alır. Bu bağlamda sinagog gibi zihinsel imgeler de sabit bir kehanet aracı olmaktan çok, uyanıklık ve farkındalık çalışmaları içinde dönüştürülebilir zihinsel formlar olarak değerlendirilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda sinagog, ruhsal aidiyet, ibadet düzeni, sığınak ve içsel disiplin mekânı olarak kabul edilir. Rüyada böyle bir alanla karşılaşmak, kişinin yaşamında anlam arayışını, manevi bir topluluğa bağlanma isteğini veya içsel toparlanma ihtiyacını temsil edebilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Dinî mekân imgeleri nadirdir ve kişinin uyanık yaşamındaki inanç tutumlarıyla birebir ilişkilidir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Bilinçdışına inişi, içsel düzeni ve ruhsal merkez arayışını temsil eden, temenos benzeri bir imgedir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Psikanaliz (Freudyen Çerçeve)",
+      "interpretation": "Süperego, otorite, kural, gelenek baskısı ve bastırılmış suçluluk temalarıyla ilişkilendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Cemaat, kamusal ibadet, Tora ve ortak dinî hafıza ekseninde anlam kazanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Ruhsal aidiyet, anlam arayışı ve içsel disiplin sığınağı olarak yorumlanır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, sinagogun rüyada ortaya çıkışının sıradan bir günlük olay olmadığını, aksine kişinin yaşamındaki kutsallık, aidiyet, kurallar ve içsel değerler gibi derin katmanlarla bağ kurduğunu kabul eder.",
+  "differences": "Psikolojik ve ampirik yaklaşımlar rüyayı bireyin zihinsel arka planı ve içsel gerilimleriyle açıklarken; geleneksel ve spiritüel yaklaşımlar mekânı cemaat, kutsal metinler, aidiyet ve ruhsal yönelim ekseninde daha sembolik bir düzlemde ele alır.",
+  "inusAssessment": "Sinagog sembolü, rüya içinde karşılaşıldığında tek ve indirgenebilir bir anlam sunmaz; aksine bireyin otorite, topluluk aidiyeti, inanç ve içsel vicdan mekanizmalarıyla kurduğu ilişkinin bir aynasıdır. Rüyada bu mekânın kalabalık ve canlı olması ortak değerler ve toplumsal bağlarla ilgili bir temaya işaret edebilirken, boş veya kısıtlayıcı bir atmosferde görülmesi içsel kurallar, vicdani muhasebeler ya da otoriteyle yaşanan çatışmalara dikkat çekebilir. Bu nedenle rüyanın duygusal tonu ve mekânın durumu yorumun yönünü belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada sinagog görmek her zaman dinî bir anlam mı taşır?",
+      "answer": "Hayır. Psikolojik araştırmalar dinî mekân imgelerinin bireyin uyanık yaşamındaki tutumları, değerleri veya içsel denge arayışlarıyla ilgili olabileceğini göstermektedir."
+    },
+    {
+      "question": "Sinagog rüyaları otorite veya kurallarla nasıl ilişkilendirilir?",
+      "answer": "Psikanalitik ve teorik yaklaşımlarda, kutsal ibadet mekânları süperego, toplumsal normlar ve içselleştirilmiş ahlaki kurallarla bağdaştırılarak yorumlanabilir."
+    },
+    {
+      "question": "Sinagogun dolu ya da boş olması rüyayı nasıl etkiler?",
+      "answer": "Dolu bir sinagog cemaat, aidiyet ve ortak hafıza temalarını öne çıkarırken; boş bir sinagog daha çok bireysel iç gözlem, yalnızlık ve vicdani sorgulamalara işaret edebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Religious symbols in dreams of analytical patients",
+      "relevance": "Rüyada dinî imgelerin kişisel değerler ve içsel gerilimlerle ilişkisini tartışan çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6166599/"
+    },
+    {
+      "title": "Studying dream content using DreamBank.net",
+      "relevance": "Rüya içerik analizinde kilise, sinagog, tapınak ve cami gibi dinî mekân kategorilerinin nasıl izlendiğini ve bunların düşük sıklıkta göründüğünü gösteren çalışma.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2008c.html"
+    },
+    {
+      "title": "Spiritual and religious imagery in dreams: A cross cultural analysis",
+      "relevance": "Rüyalarda dinî ve spiritüel imgelerin kültürler arasında değişen görünürlüğünü inceleyen ampirik analiz.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/10333"
+    },
+    {
+      "title": "The Religious Content of Dreams: A New Scientific Foundation - Pastoral Psychology",
+      "relevance": "Rüya içeriğinin kişinin uyanık dinî yönelimi ve deneyimleriyle ilişkisini inceleyen çalışma.",
+      "url": "https://link.springer.com/article/10.1007/s11089-008-0180-8"
+    },
+    {
+      "title": "Signification : Synagogue - Psychologies.com",
+      "relevance": "Sinagog rüyasını Freudyen çağrışımlarla otorite, kural ve içselleştirilmiş ahlaki düzen açısından ele alan çevrimiçi rüya sözlüğü kaydı.",
+      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Synagogue"
+    },
+    {
+      "title": "Rêver de Synagogue : Signification et Interprétation - France Minéraux",
+      "relevance": "Sinagog rüyasını psikoloji ve psikanaliz diliyle aidiyet, güven ve içsel yönelim temalarına bağlayan çevrimiçi yorum metni.",
+      "url": "https://magazine.france-mineraux.fr/psychanalyse/signification-reves/rever-de-synagogue/"
+    },
+    {
+      "title": "Signification : Église - Psychologies.com",
+      "relevance": "Kilise, cami ve sinagogu birlikte kutsal mekân ve içsel ruhsallık bağlamında ele alan rüya yorumu kaydı.",
+      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Eglise"
+    },
+    {
+      "title": "Synagogue Dream Meaning & Interpretation - Mirror",
+      "relevance": "Sinagogu Freudyen çerçevede otorite, süperego, gelenek ve aile kaynaklı baskılarla ilişkilendiren yorum metni.",
+      "url": "https://mirrorwithin.org/dream-dictionary/synagogue/"
+    },
+    {
+      "title": "Freud's B'nai B'rith Dream: Having Lost His Way, His \"Brethren … Were Unkind and Scornful …\" - PubMed",
+      "relevance": "Freud’un B'nai B'rith bağlamındaki rüyasını tartışan akademik kayıt; Yahudi topluluğu, yargılanma ve aidiyet temalarıyla ilgili arka plan sunuyor.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34468222/"
+    },
+    {
+      "title": "Jung on some dreams of the church - I of my own knowledge…",
+      "relevance": "Jung’un dinî mekân rüyalarında aşağı iniş, hizmet, içsel yapı ve psikolojik derinlik temalarını gösteren örnekler.",
+      "url": "https://ofmyownknowledge.com/2015/09/10/jung-on-some-dreams-of-the-church/"
+    },
+    {
+      "title": "Jung's childhood dream",
+      "relevance": "Jung’un çocukluk rüyasında yeraltı tapınağına iniş motifi üzerinden kutsal alan, derinlik ve dönüşüm ilişkisini ele alan akademik örnek.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/30093"
+    },
+    {
+      "title": "The Synagogue: Jewish History | The Makor Project",
+      "relevance": "Sinagogun Yahudi tarihinde cemaatin toplandığı ve dinî hayatın örgütlendiği mekân olarak konumunu açıklar.",
+      "url": "https://makorproject.org/topic-synagogue"
+    },
+    {
+      "title": "Synagogue Architecture: An Overview",
+      "relevance": "Sinagog mimarisinin tapınak imgesi, kutsallık ve Yahudi kimliğiyle bağlantısını ele alır.",
+      "url": "https://oxfordre.com/religion/display/10.1093/acrefore/9780199340378.001.0001/acrefore-9780199340378-e-1148?d=/10.1093/acrefore/9780199340378.001.0001/acrefore-9780199340378-e-1148&p=emailAilspEJmIDbKE"
+    },
+    {
+      "title": "Synagogue | Encyclopedia.com",
+      "relevance": "Sinagog içi semboller, ritüel nesneler ve görsel gelenek hakkında genel tarihsel çerçeve sunar.",
+      "url": "https://www.encyclopedia.com/philosophy-and-religion/judaism/judaism/synagogue"
+    },
+    {
+      "title": "Visual Moment | The Synagogue, a Symbol of Endurance",
+      "relevance": "Sinagogun süreklilik, topluluk ve dayanıklılık simgesi olarak modern tarihsel-kültürel anlamını özetler.",
+      "url": "https://momentmag.com/visual-moment-synagogue-endurance/"
+    },
+    {
+      "title": "RÜYA_TABİRLERİ_KÜLLİYATI_İbrahim_el_Tiflisî_230817_145715",
+      "relevance": "Sinagog/havra başlığı altında rüyada sinagoga girme durumuna dair atfedilen yorum aktarımı içerir.",
+      "url": "https://www.scribd.com/document/827704818/RU-YA-TABI-RLERI-KU-LLI-YATI-I-brahim-el-Tiflisi-230817-145715"
+    },
+    {
+      "title": "Rüyada Havra Görmek Ne Anlama Gelir?",
+      "relevance": "Sinagog/havra sembolünü Yahudi mabedi olarak sınıflandırır ve buna bağlı geniş yorumlar verir.",
+      "url": "https://www.diyadinnet.com/ruyada-5183-havra-gormek"
+    },
+    {
+      "title": "IBN SEERiN'S",
+      "relevance": "Sinagogun rüyada görünmesiyle kilise-sinagog dönüşümü ve kendini sinagogda görme yorumlarını aktarır.",
+      "url": "https://ia903101.us.archive.org/11/items/IbnSirinDictionaryOfDreams/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Synagogue Islamic Interpretations & Meanings",
+      "relevance": "Sinagogla ilgili İngilizce çevrimiçi bir derlemede rüya yorumları ve dönüşüm motifleri yer alır.",
+      "url": "https://www.myislamicdream.com/synagogue.html"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Yahudi gelenekte rüyaların yorumlanması ve rahatsız edici rüyaların ritüel olarak dönüştürülmesi için temel bir çerçeve sunar.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "Synagogue - Rossing Center for Education and Dialogue",
+      "relevance": "Sinagogun cemaatin dua ve Tora okuma merkezi olarak Yahudi dinî yaşamındaki yerini açıklar.",
+      "url": "https://rossingcenter.org/judaisms/synagogue/"
+    },
+    {
+      "title": "What Is a Synagogue? - The Jewish Place of Worship",
+      "relevance": "Sinagogun başlıca sembolik öğelerini ve bu öğelerin Yahudi kutsal mekân anlayışındaki işlevini anlatır.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/365930/jewish/What-Is-a-Synagogue.htm"
+    },
+    {
+      "title": "Buddhist Dream Yoga",
+      "relevance": "Dzogchen/Dream Yoga bağlamında rüya farkındalığı ve uyku pratiği üzerine modern bir uygulama kitabı.",
+      "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9781645472896"
+    },
+    {
+      "title": "The Dzog-chen Upadesa Series",
+      "relevance": "Dzogchen rüya yogası, rüya içinde farkındalık ve rüya imgelerini dönüştürme alıştırmaları hakkında metin.",
+      "url": "https://www.scribd.com/document/296334808/The-Dzog-chen-Upadesa-Series"
+    },
+    {
+      "title": "Synagogue in dreams — meaning and symbolism",
+      "relevance": "Sinagogun rüya içinde topluluk, ibadet ve aidiyet çağrışımlarıyla yorumlandığını söyleyen genel sembolik bir kaynak.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/synagogue"
+    },
+    {
+      "title": "Synagogue - Dream Dictionary Definition",
+      "relevance": "Sinagogun rüyadaki anlamını, ruhsallık, gelenek ve içsel yönelim bağlamında ele alan genel bir sembol sözlüğü sayfası.",
+      "url": "https://dreaminterpreter.ai/dream-dictionary/definition/synagogue"
+    },
+    {
+      "title": "Synagogue - Dream Dictionary",
+      "relevance": "Sinagogu anlam, topluluk ve kutsal aidiyet temalarıyla ele alan bir başka modern sembolik yorum sayfası.",
+      "url": "https://airabela.com/dream-dictionary/synagogue/"
+    },
+    {
+      "title": "Synagogue Archetype Meaning & Symbolism - MyMythos",
+      "relevance": "Sinagog imgesini ortak hafıza, disiplinli çalışma, aidiyet ve sığınak fikriyle ilişkilendiren ezoterik/arketipsel bir okuma sunuyor.",
+      "url": "https://mymythos.org/archetype/synagogue/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "historical-cultural",
+    "christian",
+    "buddhist-eastern"
+  ]
+}

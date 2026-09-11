@@ -1,0 +1,217 @@
+{
+  "slug": "golge",
+  "title": "gölge",
+  "shortDescription": "Rüyada gölge görmek, korunma ve sığınma ihtiyacını ya da bastırılmış yönlerle yüzleşmeyi çağrıştırabilir. Rahatlatıcı bir gölge ferahlama ve korunmayı, karanlık veya huzursuzluk veren bir gölge ise belirsizlik ve sıkıntı hissini öne çıkarabilir.",
+  "positiveAssociations": [
+    "Vakar ve saygınlık",
+    "Sığınma ve koruma",
+    "Üzüntüden ve sıkıntıdan kurtuluş",
+    "İlim ve dindarlığın işareti",
+    "Tövbe ve hidayet"
+  ],
+  "challengingAssociations": [
+    "Bastırılmış kişisel özellikler",
+    "Karanlık ve muğlaklık",
+    "Mevsimsel sıkıntı ve keder",
+    "Cehalet ve örtülme",
+    "Özsüzlük ve geçicilik"
+  ],
+  "contextDependentAssociations": [
+    "Yaz gölgesinin sağladığı rahatlık ile kış gölgesinin işaret ettiği sıkıntı arasındaki ikilik",
+    "Güneşten kaçıp gölgeye sığınmanın getirdiği ferahlama",
+    "Gölgede üşüyüp yeniden güneşe çıkmanın fakirlikten kurtulma anlamı taşıması",
+    "Rüyada gölgenin belirgin bir figür olarak çıkması hâlinde, bilinçdışından gelen kişisel içerikle yüzleşme olasılığı."
+  ],
+  "commonVariations": [
+    {
+      "title": "Ağaç gölgesine sığınmak",
+      "description": "Şiddetli sıcaktan bir ağacın gölgesine çekilmek, geleneksel tabirlere göre sıkıntıdan kurtulma ve korunma işaretidir."
+    },
+    {
+      "title": "Kendi gölgesiyle yüzleşmek",
+      "description": "Kendi gölgenizin ayrı bir varlık gibi belirmesi, Jungcu çerçevede ego tarafından reddedilen ya da bastırılan yönlerle karşılaşma sürecini simgeler."
+    },
+    {
+      "title": "Kış gününün soğuk gölgesi",
+      "description": "Kışın soğuk veya kasvetli bir gölgede kalma, bazı geleneklerde dönemsel keder veya yanlış yönelme çağrışımı yapar."
+    },
+    {
+      "title": "Gölgeden güneşli yere çıkmak",
+      "description": "Gölgede üşüyüp aydınlık bir yere çıkmak, tabirlere göre sıkıntıdan kurtulmaya ve refaha erişmeye işaret edebilir."
+    }
+  ],
+  "psychology": "Ampirik psikoloji literatüründe gölge motifine doğrudan odaklanan çalışmalar nadirdir. Bu alandaki örneklerden biri Sarnoff'un 'Symbols in Shadows—A Study of Shadows in Dreams' çalışmasıdır.",
+  "jungian": "Jungcu analitik psikolojide gölge, ego tarafından kabul edilmeyen, bastırılan veya bilinçte tanınmayan kişisel niteliklerin toplamı olarak tanımlanır. Rüyalarda sıklıkla aynı cinsiyetten bir figür şeklinde beliren gölge, kişinin bütünleşmemiş yönlerinin görünmesi ve bireyleşme sürecinde üzerinde çalışılması gereken içeriğin simgesi olarak okunur. Bu yorumlar teoriktir ve rüyanın bireysel bağlamı göz önünde tutulmalıdır.",
+  "islamicTradition": "İslami rüya tabirleri literatüründe gölge çoğunlukla heybet, vakar, koruma ve sığınma anlamlarıyla anılır. Yazın görülen gölge rahatlık ve menfaatle; kışın görülen gölge ise üzüntü ve sıkıntıyla ilişkilendirilebilir. Bazı tabirlerde gölge âbid, zâhid veya hâfız gibi dindar veya ilim sahibi kimselere, ayrıca tövbe ve hidayete işaret eder.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde gölge hem Tanrı’nın koruyucu yakınlığının diliyle hem de karanlık, geçicilik ve örtülülük anlamlarıyla kullanılır. Metinlerde gölge bazen gelecek gerçeğe işaret eden \"ön görüntü\" veya sınırlılığı vurgulayan bir metafor olarak görülür. Bu nedenle rüyada gölgenin görünümü doğrudan kehanet değil, işaret edici bir simge olarak değerlendirilmelidir.",
+  "jewishTraditions": "Yahudi rüya yorumu geleneğinde rüyanın yoruma bağlı olarak anlam kazanacağı vurgulanır. Kabala ve Zohar kaynaklarında gölge (tsel) zaman zaman ruhun dışsal izdüşümü veya içsel suret (tselem) ile ilişkilendirilir; diğer metinlerde gölge ilahi koruma ya da korumanın çekilmesi bağlamında ele alınır. Bu okumalar tarihsel ve teolojik çerçevede yorumlanmalıdır.",
+  "buddhistEasternApproaches": "Budist metinlerde gölge, koşullu oluşların geçici, tutulamayan ve özsüz niteliğini anlatan bir simge olarak yer alır. Mahayana geleneklerinde rüya-gölge benzetmesi, zihinsel yanılgıların ve bağımlı varoluşun doğasını açıklamak için kullanılır.",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda gölge genellikle dönüşümün karanlık evresiyle (nigredo) ilişkilendirilir. Modern ezoteride gölge, bastırılmış yanlar ve içsel karanlığın dönüştürülmesi gereken yönü olarak okunur; rüya bağlamında bu, yüzleşme gerektiren arketipsel bir içerik olabilir.",
+  "comparisonTable": [
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Egonun reddettiği veya bilinçdışında tuttuğu kişisel niteliklerin rüyada figür olarak belirip bütünleşme ihtiyacını işaret etmesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Vakar, himaye, sığınma veya mevsime göre rahatlık ile sıkıntı arasında değişen anlamlar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojik Sembolizmi",
+      "interpretation": "İlahi koruma, geçicilik ve sınırlılık temalarını çağrıştıran işaret edici bir metafor.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Yahudi Yorum Geleneği ve Kabala",
+      "interpretation": "Ruhsal izdüşüm, ilahi saklanma veya korumanın çekilmesi gibi çok katmanlı teolojik okumalar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Doğu ve Budist Yaklaşımı",
+      "interpretation": "Koşullu olguların geçiciliği ve zihinsel yanılsamaların örtüsü olarak gölge benzetmesi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli geleneklerde gölge, bilinçdışı kalan, örtülen veya sınırlandırılmış bir alanı gösteren, aydınlatılması veya yorumlanması gereken bir imge olarak ortak bir paydada toplanır.",
+  "differences": "Psikolojik yaklaşımlar gölgeyi kişisel entegrasyon ve bastırılmış malzemenin açığa çıkışı bağlamında ele alırken, dini ve kültürel tabirler gölgeyi korunma, vakar, mevsimsel durumlar veya ruhsal izdüşüm gibi dışsal ya da teolojik çerçevelerde yorumlar.",
+  "inusAssessment": "Gölge rüyası bileşenleri: rüyanın bağlamı (mevsim, gölgenin kaynağı, gölgeyle ilişki biçimi), rüya sahibinin yaşam koşulları ve rüyanın duygusal tonu birlikte değerlendirildiğinde anlam kazanır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Symbols in shadows. A study of shadows in dreams - PubMed",
+      "relevance": "Gölge imgelerini rüyalardaki sembol oluşumu bağlamında ele aldığı bibliyografik kayıt; gölgeye doğrudan odaklanan nadir çalışmalardan biri olarak not edilmiştir.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/4111931/"
+    },
+    {
+      "title": "Jung’s Shadow: The Gateway to the Instincts - James P Dowling",
+      "relevance": "Jungcu gölge kavramının tanımlanması ve rüyalarda nasıl belirebileceğine dair açıklayıcı derleme.",
+      "url": "https://jamespdowling.com/foundations/shadow/"
+    },
+    {
+      "title": "Jung's Shadow: The Hidden Self and How to Integrate It - Thalira",
+      "relevance": "Gölgeyi Jungcu kişilik kuramı içinde tanımlayan ve rüyalarda aynı cinsiyetli figür olarak belirmesinden söz eden sayfa.",
+      "url": "https://thalira.com/blogs/quantum-codex/jungian-shadow-integration"
+    },
+    {
+      "title": "A Library Guide to Jung's Collected Works: Shadow",
+      "relevance": "Jung’un Collected Works içindeki gölge başlığını ve Aion’daki ilgili bölümü bibliyografik olarak gösteren kılavuz sayfa.",
+      "url": "https://pacifica.libguides.com/Jung/shadow"
+    },
+    {
+      "title": "shadow | 1. Marie Louise Von Franz on the Shadow",
+      "relevance": "Von Franz’in gölgeyi ego tarafından bilinmeyen ya da az bilinen nitelikler olarak ele alan Jungcu açıklamasını aktaran kaynak.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/10/12/shadow/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Greko-Romen rüya yorumcusu Artemidorus’un Oneirocritica’sı; antik oneirokritik çerçeveyi sağlar, ancak mevcut kayıtlar arasında gölge için doğrudan doğrulanmış bir rüya girişi bulunmamıştır.",
+      "url": "https://books.google.com/books/about/An_Ancient_Dream_Manual.html?id=QZjFDwAAQBAJ"
+    },
+    {
+      "title": "The interpretation of dreams = Oneirocritica : Artemidorus ...",
+      "relevance": "Artemidorus’un eserinin arşivlenmiş kopyası; antik rüya yorum geleneği bağlamını takip etmek için yararlı bir metin kaydı.",
+      "url": "https://archive.org/details/interpretationof0000arte"
+    },
+    {
+      "title": "The Interpretation of DreamsAn Ancient Dream Manual: Artemidorus’ T...",
+      "relevance": "Artemidorus’un rüya yorum yönteminin ve beden durumuyla ilişkili rüya içeriği fikrinin akademik incelemesi; tarihsel bağlam sağlar.",
+      "url": "https://journals.openedition.org/kernos/3606"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’ta rüya terimlerinin anlam alanını ve sınıflandırmayı ele alan çalışma; antik oneirokritik terminoloji için bağlam sunar.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "islâmî rüya tabirleri ansiklopedisi",
+      "relevance": "İslami rüya tabirleri literatüründe gölgeyle ilgili doğrudan tabirlerin (mevsime göre ayrımlar, âlimlik ve koruma anlamları) derlendiği çalışma.",
+      "url": "https://can-ada.net/wp-content/uploads/2018/01/ruya-tabirleri-ansiklopedisi-2.pdf"
+    },
+    {
+      "title": "Rüya Tabirleri-2",
+      "relevance": "Bu çalışma, güneşten gölgeye çekilme, üzüntüden kurtuluş ve rızık gibi temaları derlemektedir; gölgede üşüyüp yeniden güneşe çıkmanın fakirlikten kurtulmayla bağlantısını ele alır.",
+      "url": "https://can-ada.net/ruya/ruya-tabirleri-ansiklopedisi-2/"
+    },
+    {
+      "title": "[PDF] THE THEOLOGICAL BACKGROUND OF TERMS SHADOW, EIKON ...",
+      "relevance": "Hristiyan teolojik kaynaklarda gölge dilinin hangi bağlamlarda koruma, geçicilik veya adumbration olarak kullanıldığını açıklayan akademik arka plan.",
+      "url": "https://crkvenestudije-churchstudies.com/index.php/studies/article/download/431/406/"
+    },
+    {
+      "title": "Topical Bible: Shadowed",
+      "relevance": "Kutsal metinlerde gölge imgesinin koruma, varlık ve bazen tehdit/yargı çağrışımlarıyla kullanıldığına dair derleme.",
+      "url": "https://biblehub.com/topical/s/shadowed.htm"
+    },
+    {
+      "title": "Shadow - Topical Bible",
+      "relevance": "İncil’de gölge temasının koruma, geçicilik ve Tanrı’nın rehberliğiyle ilişkilendirildiğini özetleyen derleme.",
+      "url": "https://biblehub.com/topical/s/shadow.htm"
+    },
+    {
+      "title": "Shade, Shadow - Encyclopedia of The Bible",
+      "relevance": "Gölgeyi gelecekteki gerçeği önceden işaret eden bir adumbration/foreshadowing dili olarak açıklayan ansiklopedik giriş.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Shade-Shadow"
+    },
+    {
+      "title": "4846 shadow - Dictionary of Bible Themes",
+      "relevance": "Gölgeyi koruma, yaşamın kısalığı ve ölüm deneyimiyle ilişkilendiren tematik başvuru.",
+      "url": "https://www.biblegateway.com/resources/dictionary-of-bible-themes/4846-shadow"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Yahudi rüya yorumu geleneğinin yöntemsel çerçevesini sunar; rüyaların yorumla anlam kazandığı klasik yaklaşımı gösterir.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Jacob's Heavenly Counterpart in Rabbinic Accounts",
+      "relevance": "Rabbanî ve Zoharik bağlamda gölge ile içsel suret/tselem arasındaki ilişkiyi tartışır.",
+      "url": "https://www.marquette.edu/maqom/jacob88.html"
+    },
+    {
+      "title": "Holy Shadows - There exists a spiritual ...",
+      "relevance": "Gölgenin ilahi koruma, güç ve ölüm işaretleriyle ilişkilendirildiği Yahudi teolojik sembolizmi sunar.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/683746/jewish/Holy-Shadows.htm"
+    },
+    {
+      "title": "The Greatest Mirror",
+      "relevance": "Zohar’daki shadow/tselem imgelemine ve gölgenin ruhsal izdüşüm olarak okunmasına değinir.",
+      "url": "https://www.marquette.edu/maqom/greatest123.pdf"
+    },
+    {
+      "title": "Shadow: Significance and symbolism",
+      "relevance": "Mahayana Budist literatürde rüyanın ve gölgenin geçicilik ve boşluk benzetmesi içindeki yerini özetliyor.",
+      "url": "https://www.wisdomlib.org/concept/shadow"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Mahayana Budist literatürde rüyanın ve gölgenin geçicilik/boşluk benzetmesi içindeki yerini özetliyor.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "The Diamond Sutra (Vajracchedika): Cutting Through Illusion — ELGODS",
+      "relevance": "Phantastes içindeki gölge figürünü simyasal nigredo ve 'kara güneş' (black sun) sembolizmiyle ilişkilendirir; gölgeyi dönüşümün karanlık evresi bağlamında okumaya imkân verir.",
+      "url": "https://elgods.jambudweep.tech/explore/sacred-texts/diamond-sutra"
+    },
+    {
+      "title": "48 Roukema",
+      "relevance": "Işık-karanlık karşıtlığı, gölge çalışması ve simyasal aşamalar arasında ezoterik bir sembol okuması sunar; gölgeyi bilinçdışının değil, kişisel karanlığın dönüştürülebilir yönü olarak çerçeveler.",
+      "url": "https://www.snc.edu/northwind/documents/By_genre_or_topic/Allegory_and_Symbolism/The_Shadow_of_Anodos=_Alchemical_Symbolism_in_'Phantastes'_-_Aren_Roukema.pdf"
+    },
+    {
+      "title": "The Relationship Between Light and Darkness in Symbolism",
+      "relevance": "Işık-karanlık karşıtlığı, gölge work ve simyasal aşamalar arasında ezoterik bir sembol okuması sunar; gölgeyi bilinçdışının değil, kişisel karanlığın dönüştürülebilir yönü olarak çerçeveler.",
+      "url": "https://legrandgrimoire.com/guides/shadow-work/the-relationship-between-light-and-darkness-in-symbolism/"
+    },
+    {
+      "title": "Jung Psikolojisinde Rüya",
+      "relevance": "Jung psikolojisinde gölge arketipinin rüyada korku sembollerine dönüşebildiğini anlatır; rüya bağlamında gölgeyi sembolik bir figür olarak ele alan bir yorum çerçevesi sağlar.",
+      "url": "https://dergipark.org.tr/en/download/article-file/143662"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

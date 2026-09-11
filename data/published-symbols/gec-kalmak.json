@@ -1,99 +1,206 @@
 {
   "slug": "gec-kalmak",
   "title": "geç kalmak",
-  "shortDescription": "Rüyada geç kalmak, çoğunlukla zaman baskısı, yetişememe telaşı ve bir fırsatı kaçırma korkusuyla ilişkilidir. Sınava, işe, yolculuğa ya da bir törene geç kalmak; değerlendirilme, sorumluluk veya sosyal kabul konularındaki kaygıyı öne çıkarabilir.",
+  "shortDescription": "Rüyada 'geç kalmak' imgesi genellikle zaman baskısı, içsel ritim ile dış takvim arasındaki uyumsuzluk ve sorumluluk hissi bağlamında ortaya çıkan, yoğun duygusal yük taşıyabilen bir temadır.",
   "positiveAssociations": [
-    "Zaman kullanımını ve öncelikleri gözden geçirme isteği",
-    "Hızlı kararlar yerine planlama yapma farkındalığı",
-    "Kişisel sorumluluk ve hazırlık düzeyini artırma potansiyeli"
+    "Zamanın ve fırsatların kıymetini daha derinlemesine fark etme",
+    "İçsel öncelikleri yeniden gözden geçirme ve yavaşlama ihtiyacını sezme",
+    "Gelecekteki olası aksaklıklara karşı uyanık ve hazırlıklı olma bilinci"
   ],
   "challengingAssociations": [
-    "Performans kaygısı ve sınanılma korkusu",
-    "Günlük yaşamda sürekli yetişememe hissi ve kronik stres",
-    "Kontrolü kaybetme, utanç veya sosyal onay kaybı endişesi"
+    "Yoğun suçluluk, yetersizlik ve öz-eleştiri duyguları",
+    "Yetişememe korkusuyla tetiklenen kronik kaygı",
+    "Yaşam evreleri ve beklentiler arasında sıkışmışlık hissi"
   ],
   "contextDependentAssociations": [
-    "Ulaşım aracına, uçağa veya trene yetişememek: büyük değişim veya fırsatlarla ilgili kaygıları yansıtabilir",
-    "Sınav ya da mülakata geç kalmak: yeterlilik ve değerlendirilme kaygısı",
-    "Önemli bir törene/etkinliğe geç kalmak: sosyal kabul veya aidiyetle ilgili endişeler"
+    "Gece ilerledikçe rüyaların duygusal yoğunluğunun artması.",
+    "Yakın dönemde yaşanan stresli olayların ve son birkaç günün baskılarının rüyaya yansıması.",
+    "Dış dünya temposu ile kişinin kendi içsel gelişim hızı arasındaki tempo uyumsuzluğu."
   ],
   "commonVariations": [
     {
-      "title": "Uçağa veya trene geç kalmak",
-      "description": "Büyük bir seyahate ya da hayatın dönüm noktası sayılabilecek bir plana yetişememe endişesini ve büyük bir fırsatın elden kaçacağı korkusunu yansıtır."
+      "title": "Önemli Bir Sınava veya Toplantıya Yetişememek",
+      "description": "Uyanık yaşamda üstlenilen rollerin ve sorumlulukların getirdiği performans kaygısının, zamanında yetişememe korkusuyla rüyada sahnelenmesidir."
     },
     {
-      "title": "Önemli bir sınava geç kalmak",
-      "description": "Kişinin günlük hayatta kendini bir değerlendirme, test edilme veya yeterlilik baskısı altında hissettiği durumlarla ilişkilendirilir."
+      "title": "Kalkıp Otobüse veya Uçağa Binememek",
+      "description": "Hayattaki büyük bir fırsatın, dönüm noktasının veya geçiş evresinin kaçırıldığına dair duyulan derin endişenin yansımasıdır."
     },
     {
-      "title": "İşe veya randevuya geç kalmak",
-      "description": "Günlük sorumlulukları yerine getirme konusunda hissedilen yükü, başkalarına karşı sorumluluk bilincini ve sosyal onay kaygısını gösterir."
+      "title": "Hazırlanıp Evden Çıkamamak",
+      "description": "Sürekli engellere takılma veya bir şeyleri unutma hissi, kişinin bir eşiğe geçişte ya da yeni bir adımı atmakta zorlandığını gösterir."
     },
     {
-      "title": "Düğüne veya törene geç kalmak",
-      "description": "Sosyal ilişkilerde, toplumsal beklentilerde veya önemli taahhütlerde geride kalma, uyum sağlayamama ya da dışlanma endişesini sembolize eder."
+      "title": "Zamanın Donması veya Akmaması",
+      "description": "Kontrol dışı koşullar karşısında kişinin kendi ritmini kaybetmesi ve zamana yetişme çabasının beyhude olduğu hissinin belirmesidir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
+  "psychology": "Ampirik çalışmalar, gece ilerledikçe rüyaların duygusal yoğunluğunun arttığını ve geç gece rüyalarının daha canlı, duygusal ve daha yoğun çağrışımsal içeriğe sahip olduğunu göstermektedir. Yakın dönemde yaşanan stresli olayların ve duygusal yüklerin rüyalara 1 ila 7 gün arayla gecikmeli olarak yeniden yansıabildiği (gecikmeli yeniden yansıma — dream-lag etkisi) bilinmektedir. Bu bağlamda geç kalmak teması, kişinin uyanık yaşamındaki yakın zamanlı zaman baskılarının, stres etkenlerinin ve artmış duygu yükünün bir yansıması olarak ortaya çıkabilir. Psikanalitik çerçevede ise Freud, 'çok geç' olma motifinin rüyada bir suçlama ve öz-eleştiri mekanizmasıyla ilişkilenebileceğini belirtir; burada merkez, gecikme deneyiminin rüya sahnesinde bir içsel hesaplaşmaya dönüşmesidir.",
+  "jungian": "Analitik psikoloji çerçevesinde gecikme veya yetişememe temaları, kişinin psikolojik zamanı ile yaşam evresi arasındaki uyumsuzluğa işaret edebilir. Bu yaklaşıma göre geç kalmak, bireyin içsel gelişim ritmi ile dış dünyanın temposu arasındaki uyumsuzluğu, bir eşikten geçmeye henüz hazır olmaması veya dönüşüm sürecine bilinçli olarak yetişememesi gibi durumları simgeleyen sembolik bir anlatım olarak ele alınabilir.",
   "islamicTradition": "",
-  "christianTraditions": "Hristiyan sembolizminde gecikme veya bekleme temaları sabır, sebat ve ilahi zamanlama bağlamında ele alınabilir. Bu çerçeve genel bir manevi bakış sunar; 'geç kalmak' imgeleri doğrudan sabit rüya tabirleri olarak verilmez.",
-  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar genellikle sembolik veya mesaj niteliğinde sınıflandırılır; bu nedenle 'geç kalmak' gibi imgeler bağlama göre çözümlenmelidir. Gelenek, rüyanın tek başına basit bir eşleme yerine daha derin bir yorum gerektirdiğini vurgular.",
-  "buddhistEasternApproaches": "Budist yaklaşımlarda rüyalar, zihnin koşullu ve geçici doğasının bir yansıması olarak görülür. 'Geç kalmak' teması sabit bir anlam taşımaz; daha ziyade rüya sırasında ortaya çıkan telaş, bağlılık ve zaman baskısı duygularının fark edilmesi için bir işarettir.",
-  "spiritualApproaches": "Spiritüel okumalar genellikle rüya imgesini içsel durumları görselleştiren bir araç olarak kullanır. 'Geç kalma' deneyimi hız, sabırsızlık veya uyum sağlayamama gibi içsel durumlara dikkat çeker; sabit sözlük anlamı verme eğiliminden kaçınılmalıdır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde zamanın emanet ve sorumluluk olarak görülmesiyle bağlantılı olarak, geç kalma teması uyanıklık, hazırlık ve verilen zamanı doğru değerlendirme yükümlülüğü ile ilişkilendirilebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyanın anlamının büyük ölçüde yorumla şekillendiği vurgulanır. Rüyaların kısa zaman aralıklarında gerçekleşebileceği inancı göz önüne alındığında, gecikme teması zamanın hassasiyetine, yaklaşan bir duruma karşı uyanık olma ihtiyacına ya da yorumun gecikmemesi gerektiğine işaret eden bir duyarlılık olarak değerlendirilebilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yaklaşımlarda geç kalmak, kişinin kendi ruhsal ritmi ile dış dünyanın hızı arasındaki uyumsuzluğu ifade eder. Bu bağlamda rüya, fırsatı kaçırma korkusunu veya kişinin kendi yaşam yolundaki ilahî zamanlama (divine timing) ile hizalanmada yaşadığı zorlukları yansıtan bir içsel uyarı olarak ele alınır.",
   "comparisonTable": [
     {
-      "approach": "Güncel psikoloji (sınırlı ampirik veri)",
-      "interpretation": "Genel olarak stres, performans kaygısı ve zaman baskısıyla ilişkilendirilir; doğrudan kontrollü çalışmalar sınırlıdır.",
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Gece ilerleyen saatlerde artan duygusal yoğunluk ve yakın dönemdeki gün artığı (day-residue) streslerinin rüyaya yansıması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Zaman baskısı, erteleme ve gecikme deneyiminin rüya sahnesinde öz-eleştiri ve suçluluk motifiyle ifade bulması.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Yahudi geleneksel yaklaşımı",
-      "interpretation": "Rüyaları sembolik veya mesaj niteliğinde ele alır; 'geç kalma' gibi imgeler bağlama göre yorumlanmalıdır.",
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "İçsel gelişim ritmi ile dış takvim arasındaki uyumsuzluk, eşikte kalma ve yaşam evresine ayak uyduramama gerilimi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Zamanın bir emanet olarak algılanması bağlamında ruhsal uyanıklık, hazırlık ve sorumluluk bilinci.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan manevi zamanlama çerçevesi",
-      "interpretation": "Gecikmeyi sabır, sınav ve ilahi zamanlama ile ilişkilendirir; doğrudan rüya tabiri sunmaz.",
+      "approach": "Yahudi Geleneksel Çerçevesi",
+      "interpretation": "Zaman hassasiyeti ve rüya zamanlaması bağlamında yaklaşan durumlara karşı dikkatli olma veya uyarıcı işaret.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist farkındalık yaklaşımı",
-      "interpretation": "Rüyanın sembolünden çok rüya sırasında ve sonrasında oluşan zihinsel tepkilerin fark edilmesini vurgular; 'geç kalmak' telaş ve bağlılık örüntülerini işaret edebilir.",
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Ruhsal yol ile dış koşulların temposu arasındaki uyumsuzluk ve doğru anı kaçırma endişesi.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Çoğu yaklaşım 'geç kalma' temasını kesin bir kehanet olarak değil, bireyin zaman algısı, kaygıları ve zihinsel gerilimleri üzerine düşünme çağrısı olarak görür. Bağlam ve bireysel duygusal tepki yorumu belirler.",
-  "differences": "Yahudi ve Hristiyan gelenekleri temayı ilahi zamanlama, sabır ve metinsel çerçeveler içinde konumlandırma eğilimindeyken; Budist ve spiritüel yaklaşımlar rüya imgesini daha çok zihinsel koşullanmaların farkındalığı için bir araç olarak kullanır. Modern psikoloji ise stres ve performans kaygısıyla ilişkilendirme eğilimindedir, ancak sembole özgü ampirik kanıt sınırlıdır.",
-  "inusAssessment": "Geç kalmak teması, tek başına evrensel bir anlam taşımaz; rüyadaki geç kalma deneyimi genellikle zaman baskısını, hazırlanma eksikliğini, performans kaygılarını veya sosyal onay kaygılarını işaret eden çok faktörlü bir uyarıcıdır. Bu nedenle yorumda bağlam ve rüyanın duygusal tonu öncelikli olmalıdır.",
-  "faq": [],
-  "sources": [
+  "commonGround": "Farklı disiplinler ve yaklaşımlar, geç kalma temasının temelinde bir uyumsuzluk, zaman baskısı ve hazırlıksızlık hissinin yattığı noktasında birleşir; ister yakın dönem stresleri ister içsel gelişim ritmi olarak ele alınsın, bu imge bireyin temposu ile dış dünyanın beklentileri arasındaki gerilimi öne çıkarır.",
+  "differences": "Yaklaşımlar arasındaki temel ayrım, odağın nereye yöneltildiğine göre ortaya çıkar: ampirik psikoloji yakın dönem stresleri ve duygu yüküne odaklanırken, psikanaliz suçluluk ve öz-eleştiriyi vurgular; Jungcu yaklaşım bireyselleşme ve yaşam evrelerini merkeze alırken, geleneksel ve spiritüel okumalar ise zamanın manevi emaneti veya kozmik ritimle hizalanma ekseninde yorumlar.",
+  "inusAssessment": "Rüyada geç kalmak, tek bir sabit anlama indirgenemeyen, aksine rüyanın gecenin hangi saatinde görüldüğüne, kişinin uyanık yaşamındaki yakın dönem streslerine ve içsel ritmine göre biçimlenen dinamik bir semboldür. Bu rüyayı değerlendirirken rüya sahibinin uyanık yaşamında baskı yaratan sorumlulukları ile kendi içsel zamanlaması arasındaki gerilimi dikkate almak, sembolün özündeki kaygı veya uyarı niteliğini anlamayı kolaylaştırır.",
+  "faq": [
     {
-      "title": "Dream Accounts in the Hebrew Bible and Ancient Jewish ...",
-      "relevance": "Yahudi rüya literatüründe rüyaların sembolik ve mesaj niteliği ayrımını gösteren çalışma; 'geç kalmak' imgesinin bağlamsal çözümlemesi için arka plan sağlar.",
-      "url": "https://ora.ox.ac.uk/objects/uuid:31468460-01e8-4b10-977e-72b954a29fda/files/m094640d42e5594527fcf80f2cc76bc00"
+      "question": "Rüyada geç kalmak her zaman gerçek hayatta bir şeyleri kaçıracağım anlamına mı gelir?",
+      "answer": "Hayır. Bilimsel ve psikolojik bağlamda bu rüyalar çoğunlukla yakın dönemde yaşanan stresin, zaman baskısının veya artmış duygusal yoğunluğun zihinsel bir yansımasıdır."
     },
     {
-      "title": "The Power of Dreams",
-      "relevance": "Yahudi geleneğinde rüyaların anlam ve vahiy ilişkisini özetleyen kurumsal kaynak; 'geç kalmak' gibi imgelerin doğrudan tabirinden çok yorum çerçevesi sunar.",
-      "url": "https://www.jtsa.edu/torah/the-power-of-dreams/"
-    },
-    {
-      "title": "Dreams: Judaism's Forgotten Spiritual Practice - Evolve",
-      "relevance": "Modern Yahudi dini pratikte rüyaların ruhsal işlevini tartışan kaynak; rüya yorumunun bağlamsal ve pratik yönlerine dair perspektif sağlar.",
-      "url": "https://evolve.reconstructingjudaism.org/dreams-practice/"
-    },
-    {
-      "title": "What Does Dreaming Of Being Late Mean? - Rüya Tabirleri",
-      "relevance": "İslami rüya yorumlarına dair popüler bir çevrimiçi kaynaktır; İslami rüya yorumları hakkında genel, popüler düzeyde bilgiler sunar.",
-      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-being-late"
-    },
-    {
-      "title": "A Buddhist Approach to Dreams - Urban Dharma",
-      "relevance": "Budist rüya anlayışında rüyaların geçici gerçeklik ve zihnin koşullanmış tepkileri bağlamında ele alınmasını ve sembollere sabit anlamlar yüklememe yaklaşımını açıklar.",
-      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+      "question": "Geç kalma rüyaları gecenin ilerleyen saatlerinde neden daha yoğun hissedilir?",
+      "answer": "Çünkü gece ilerledikçe rüyaların duygusal tonu genellikle güçlenir; psikoloji bölümünde kısaca değinilmiştir."
     }
   ],
-  "relatedSlugs": []
+  "sources": [
+    {
+      "title": "Nightly dynamics of emotional content in dreams",
+      "relevance": "Gece ilerledikçe rüyaların duygusal yoğunluğunun arttığını bildiren çalışma; rüya duygulanımı ve gece zamanının etkisiyle ilişkili.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40803415/"
+    },
+    {
+      "title": "Emotion, emotion regulation and sleep: An intimate relationship",
+      "relevance": "Uyku evresi ve gecenin zamanına göre rüya içeriğinin değiştiğini derleyen çalışma; rüya duygu ve içerik örüntülerinin çerçevesini verir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7181893/"
+    },
+    {
+      "title": "The Functional Role of Dreaming in Emotional Processes - PMC",
+      "relevance": "Duygusal olayların rüya hatırlanımında gecikmeli biçimde yeniden ortaya çıkabildiğini ele alan çalışma; gecikmeli yeniden yansıma (dream-lag etkisi) ve duygusal işlemleme ile ilişkilidir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6428732/"
+    },
+    {
+      "title": "Dream emotions: a comparison of home dream reports with ...",
+      "relevance": "Ev ve laboratuvar rüya raporlarının duygusallık farklarını gece zamanına bağlayan çalışma; rüya raporlarının bağlamsal yorumuna katkı sağlar.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jsr.12555"
+    },
+    {
+      "title": "Early-night dreams are more continuous with waking life ...",
+      "relevance": "Erken ve geç gece rüyalarının uyanık yaşam sürekliliği, duygusal önem ve çağrışımsallık bakımından farklılaştığını gösteren çalışma; rüya içeriğinin zaman ve bağlam ilişkisini açıklar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33360822/"
+    },
+    {
+      "title": "Emotional valence affects the day-residue and dream-lag effects",
+      "relevance": "Gün artığı ve gecikmeli yeniden yansıma (dream-lag etkisi) etkisini tanımlayan çalışma; gündüz yaşantılarının rüyalarda gecikmeli yeniden belirmesini açıklar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/50502/54230/"
+    },
+    {
+      "title": "[PDF] The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyada 'çok geç kalma' duygusunun suçlama ve öz-eleştiriyle birleştiği Freudcu örneğe dair metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Being late or missing transport in a Dream: Meaning and ...",
+      "relevance": "Geç kalma ve bir yere yetişememe imgesini Jung perspektifinden yaşam evresi ve uyum bağlamında tartışan modern yorum.",
+      "url": "https://rosmertapublishing.com/dream-about/being-late/"
+    },
+    {
+      "title": "Delay in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Rüyada gecikme ve bekleme imgesini Jung açısından yaşamın ara eşiği ve geçiş dönemi olarak ele alan modern bir analiz.",
+      "url": "https://rosmertapublishing.com/dream-symbols/delay/"
+    },
+    {
+      "title": "Running late dreams: timing anxiety and the inner clock",
+      "relevance": "Geç kalma rüyalarını zaman-anksiyetesi ve içsel zaman hissi ekseninde ele alan modern bir yazı.",
+      "url": "https://www.echodream.io/interpret/running-late-dreams"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Greko-Romen rüya yorumu geleneğinin ana metni; tarihsel bağlamda sembollerin yorumlanmasını anlamaya yardımcı olur.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un Oneirocritica’sının kapsamı ve antik rüya yorumu içindeki yeri hakkında genel tarihsel çerçeve sunar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’un rüya yorumu yaklaşımı ve metnin yorum pratiği üzerine akademik tartışma sunar.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "The patristic dream (Chapter 3) - Dreaming in the Middle ...",
+      "relevance": "Hristiyan patristik rüya düşüncesinin çerçevesini sunan çalışma; zamanın sorumluluk ve uyanıklık temalarıyla bağlantılı bağlam sağlar.",
+      "url": "https://www.cambridge.org/core/books/abs/dreaming-in-the-middle-ages/patristic-dream/AF4244F788B3C8B6E3361A7951BE82DE"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Yahudi rüya yorumunda rüyanın yorumla şekillendiğini ve rüyaların zamanlamasına dair geleneksel kuralları derleyen kaynak.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Talmudik çerçevede rüya yorumunun işlevi ve yorumun rüya anlamını nasıl şekillendirdiği üzerine akademik çalışma.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Dream Interpretations are G‑d's business - Dreams preferably should be interpreted on the morning following the night they have been dreamt.",
+      "relevance": "Berakhot 56’ya dayanan açıklama; rüyaların ertelenmeden yorumlanmasının önemine ve zaman unsuruna vurgu yapar.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/2044820/jewish/Dream-Interpretations-are-Gds-business.htm"
+    },
+    {
+      "title": "The Teaching on Dreams | 84000 Translating the Words of the Buddha",
+      "relevance": "Budist metinlerde rüya işaretlerine dair bir kayıt; bu kaynaklarda \"geç kalmak\" teması doğrudan rastlanmamıştır.",
+      "url": "https://84000.co/translation/toh48"
+    },
+    {
+      "title": "Dreams of Being Late: Spiritual Meaning & Interpretation",
+      "relevance": "Geç kalma rüyasını modern spiritüel bir çerçevede ruhsal uyumsuzluk ve kaçırılmış zaman temalarıyla ele alan kaynak.",
+      "url": "https://wisdomofthespirit.com/dreams-of-being-late/"
+    },
+    {
+      "title": "Dream of Being Late: 7 Subconscious Meanings | Dreams & Stars",
+      "relevance": "Geç kalma temasını ilahî zamanlama (divine timing) ve ruhsal hizalanma açısından yorumlayan modern spiritüel içerik.",
+      "url": "https://dreamandstars.com/blog/dream-of-being-late-meaning"
+    },
+    {
+      "title": "Spiritual Meaning Of Being Late In A Dream: Anxiety",
+      "relevance": "Geç kalma temasını zaman baskısı, fırsatı kaçırma korkusu ve ruhsal görevle uyum eksikliği bağlamında ele alan modern bir yazı.",
+      "url": "https://spiritualall.com/spiritual-meaning-of-being-late-in-a-dream/"
+    },
+    {
+      "title": "Dreaming about being late — meaning in three traditions",
+      "relevance": "Geç kalmak sembolünü modern ezoterik bir çerçevede yaşam yolu ve kaderî zamanlama temalarıyla ilişkilendiren derleme.",
+      "url": "https://www.nocturnary.com/symbols/late"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian"
+  ]
 }

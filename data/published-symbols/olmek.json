@@ -1,0 +1,257 @@
+{
+  "slug": "olmek",
+  "title": "olmek",
+  "shortDescription": "Rüyada ölmek, genellikle eski alışkanlıkların, kimliğin ya da hayatın bir döneminin geride kalıp yeni bir aşamaya geçilmesini simgeler. Yas, cenaze veya sevilen birinin ölümü gibi ayrıntılar ise kaybetme korkusunu ya da çözümlenmemiş duyguları öne çıkarabilir.",
+  "positiveAssociations": [
+    "Dönüşüm ve kişisel yenilenme",
+    "Eski alışkanlıkların ve kalıpların geride bırakılması",
+    "Derin bir içsel farkındalık ve olgunlaşma",
+    "Hayatta yeni bir aşamaya veya evreye geçiş"
+  ],
+  "challengingAssociations": [
+    "Bastırılmış yas ve çözülmemiş kayıp duyguları",
+    "Ölüm kaygısı ve bilinçaltındaki çelişkili duygular",
+    "Günah, suçluluk veya ruhsal uyarı hissi",
+    "Eski kimliğin elden gitmesinden duyulan korku"
+  ],
+  "contextDependentAssociations": [
+    "Rüyada ölen birinin canlı görünmesi, kayıp duygusuna veya arzu tatminine işaret edebilir.",
+    "Cenaze, defin veya ağlama gibi ayrıntılar rüyanın dünyevi veya manevi yönünü değiştirebilir",
+    "Kişinin kendi ölümünü veya bir yakınının ölümünü görmesi farklı psikolojik dinamikler barındırır"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kendi ölümünü yaşamak ve dışarıdan izlemek",
+      "description": "Rüya görenin kendi bedenini ölü olarak görmesi veya ölüm anına şahit olması, kimliğinde köklü bir değişim yaşandığının ve eski tutumların geride kaldığının işaretidir."
+    },
+    {
+      "title": "Sevilen birinin ölüm haberini almak",
+      "description": "Yakın bir akrabanın veya sevilen birinin ölümünü görmek, psikanalitik açıdan zaman zaman bilinçaltında bir çelişkinin ya da kaybetme korkusunun dışavurumu olarak ele alınır."
+    },
+    {
+      "title": "Ölmüş bir yakını canlı görmek ve konuşmak",
+      "description": "Hayatta olmayan bir kişinin rüyada tekrar canlı gibi görünmesi, yas sürecinin doğal bir parçası olup, kaybedilen kişiyle olan bağın zihinde geçici olarak sürdürülmesi anlamına gelir."
+    },
+    {
+      "title": "Kefenlenmek veya tabut içinde taşınmak",
+      "description": "Geleneksel tabirlerde ve kültürel okumalarda cenaze detaylarıyla birlikte görülen ölüm rüyaları, kişinin sosyal statüsü, dünyevi yönelimleri veya manevi durumu üzerine bir muhasebe olarak değerlendirilir."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar, ölüm temalı rüyaların ve vizyonların özellikle ölüm yakınlığı yaşayan bireylerde sıklıkla görüldüğünü, bu deneyimlerin genellikle duygusal olarak güçlü ve rahatlatıcı nitelikte olduğunu göstermektedir. Komplike yas süreçlerinde ise rüyalar aile ve tanıdık kişileri daha yoğun içerir ve gündüz yaşanan duygusal sıkıntılarla doğrudan ilişkilidir. Psikanalitik çerçevede Freud, ölüm rüyalarını doğrudan bir kehanet olarak değil, bastırılmış isteklerin, ambivalansın, yas süreçlerinin veya ölü biriyle özdeşleşerek kendi ölümünü düşlemenin dolaylı bir yansıması şeklinde yorumlar.",
+  "jungian": "Jungcu analitik psikolojide ölüm motifi, gerçek bir son olarak değil, psikolojik dönüşümün ve yeniden doğuşun en güçlü simgelerinden biridir. Rüyada ölmek veya kişinin kendi ölümünü görmesi, psişede artık işlevini yitirmiş eski bir tutumun, kimliğin ya da ego yapısının çözülmesini ve yeni bir bilinç aşamasına geçilmesini temsil eder. Bu süreç, bilinçdışına inerek eski biçimi geride bırakma ve yenilenme hareketidir.",
+  "islamicTradition": "İslami rüya tabirleri geleneğinde ölmek tek bir sabit anlama indirgenmez; rüyanın detaylarına ve kişinin hâline göre farklılık gösterir. Bazı aktarımlarda dinî eksiklik, bozulma veya tövbe ihtiyacına işaret ederken, ağlama ve defin gibi unsurlarla birlikte dünyevi itibarın artması, uzun ömür, bir hâlden başka bir hâle geçiş ya da hayatın farklı bir dönemine adım atma şeklinde de yorumlanır.",
+  "christianTraditions": "Hristiyan teolojik sembolizminde ölüm, hem günahın ve dünyevi ayrılığın bir uyarısı hem de yeni bir yaşamın başlangıcı için bir geçişin simgesidir. Buğday tanesinin toprağa düşüp ölerek meyve vermesi metaforunda olduğu gibi, rüyada ölmek eski benliğin bırakılması, ruhsal bir yenilenme ve vaftiz metaforuna benzer şekilde manevi bir diriliş süreci olarak okunabilir.",
+  "jewishTraditions": "Talmudik gelenekte rüyalar mutlak birer kehanet olarak kabul edilmez; aksine rüyanın anlamının yorumla şekillendiği vurgulanır. Berakhot metinlerinde, korkutucu rüyaların veya ölüm haberlerinin bile dua ve merhametle dönüştürülebileceği belirtilir. Ev içinde görülen ceset veya ölüm imgeleri ise bağlama göre ev içi huzurun ya da ayrılığın işareti olarak ele alınır.",
+  "buddhistEasternApproaches": "Bazı Tibet ve Doğu geleneklerinde ölümle ilgili imgeler, yaklaşan yaşam döngüsü değişimlerinin veya bilinç hallerindeki geçiş eşiklerinin birer alameti olarak ele alınır. Bu yaklaşımda ölüm, varoluşsal bir son değil, farkındalığın ve geçiş süreçlerinin derinlemesine incelendiği bir dönüşüm evresidir.",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda ölüm, eski formun çözülmesi, yeraltı dünyasıyla ilişkilendirilen bir eşikten geçerek bilinçte bir değişim yaşanması ve daha üst bir bilinç düzeyine evrilme hazırlığıdır.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Bastırılmış istekler, yas süreçleri, ambivalans ve ölüyle özdeşleşme biçimi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Eski ego yapısının çözülmesi ve psikolojik dönüşüm/yeniden doğuş süreci.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Dinî durum, tövbe, dünyevi değişimler, uzun ömür veya geçiş hâli.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Eski benliğin bırakılması, ruhsal yenilenme ve yeni yaşamın başlangıcı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Korkutucu rüyaların kader olmadığı, yorum ve dua ile dönüştürülebileceği inancı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Eski formun çözülmesi ve farklı bir bilinç düzeyine geçiş eşiği.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplin ve geleneklerin neredeyse tamamında, rüyada ölmek teması kelimenin tam anlamıyla fiziksel bir ölümün habercisi olarak görülmez; aksine bir dönemin kapanması, bir hâlden diğerine geçiş ve içsel bir dönüşüm süreci olarak ele alınır.",
+  "differences": "Yaklaşımlar arasındaki temel fark, odak noktalarında yatar; psikanaliz bunu bastırılmış arzular ve yas ile açıklarken, Jungcu perspektif ego dönüşümüne odaklanır. Dini ve geleneksel okumalar ise daha çok manevi muhasebe, tövbe, kaderin yorumlanması veya yaşam döngüsündeki statü değişimlerini öne çıkarır.",
+  "inusAssessment": "Rüyada ölmek sembolü, insan psişesinin en yoğun ve sarsıcı imgelerinden biri olmasına rağmen, rüya tabirlerinde ve analitik geleneklerde asla düz bir son ya da kehanet olarak okunmaz. Bu sembolün taşıdığı anlam, rüya görenin duygusal durumuna, kayıp ve yas geçmişine ve rüyadaki cenaze veya defin gibi eşlik eden ayrıntılara göre şekillenir. Kimi zaman eski bir kimliğin çözülüşünü ve psikolojik bir yeniden doğuşu müjdelerken, kimi zaman da çözülmemiş yasların veya hayatın kritik eşiklerindeki dönüşüm ihtiyacının zihinsel bir yansıması olarak ortaya çıkar.",
+  "faq": [
+    {
+      "question": "Rüyada kendi ölümünü görmek gerçek hayatta öleceğimiz anlamına mı gelir?",
+      "answer": "Hayır. Psikolojik ve geleneksel kaynakların hiçbirinde rüyada kendi ölümünü görmek tam anlamıyla bir ölüm kehaneti olarak yorumlanmaz. Bu imge genellikle psikolojik bir dönüşümün, eski alışkanlıkların geride bırakılmasının veya ego düzeyinde bir değişimin simgesidir."
+    },
+    {
+      "question": "Ölmüş bir yakını rüyada canlı görmek neyi ifade eder?",
+      "answer": "Psikanalitik ve ampirik çalışmalarda bu durum genellikle yas sürecinin, kaybedilen kişiyle olan bağın sürdürülme arzusunun ve zihinsel olarak kaybı kabullenme çabasının bir parçası olarak ele alınır."
+    },
+    {
+      "question": "Ölüm rüyaları her zaman olumsuz anlama mı sahiptir?",
+      "answer": "Kesinlikle hayır. Birçok gelenekte ve Jungcu psikolojide ölüm, eski ve işlevini yitirmiş yapıların ortadan kalkması, taze bir başlangıç, tövbe veya içsel bir olgunlaşma aşaması olarak olumlu bir dönüşüm süreci şeklinde değerlendirilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "End-of-life dreams and visions: a longitudinal study ...",
+      "relevance": "Ölümün yaklaştığı dönemlerde görülen rüya ve vizyonların sıklığı, içeriği ve duygusal etkisi üzerine uzunlamasına bulgular sağlar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24410369/"
+    },
+    {
+      "title": "Dream Content in Complicated Grief: A Window into Loss ...",
+      "relevance": "Komplike yas yaşayan yetişkinlerde rüya içeriğinin yas ve gündelik duygusal sıkıntıyla nasıl ilişkilenebildiğini gösteren ampirik bir çalışmadır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3929213/"
+    },
+    {
+      "title": "P015 Dreams, Nightmares and the Relationship with Death ...",
+      "relevance": "Rüya, kabus, dinî/spiritüel pratik ve ölüm kaygısı arasındaki ilişkileri ele alan ampirik bir poster/çalışma kaydıdır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10591623/"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Ölü kişilerle karşılaşma ve rüyada kendini ölüyle özdeşleştirme teması için temel Freudyen rüya metni.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Sigmund Freud [1900] The Interpretation of Dreams ( ...",
+      "relevance": "Rüyada ölü kişinin önce canlı, sonra ölü olarak görünmesi ve bunun kendi ölümüne ilişkin düşle ilişkilendirilmesi teması.",
+      "url": "https://ia802907.us.archive.org/17/items/SigmundFreud/Sigmund%20Freud%20%5B1900%5D%20The%20Interpretation%20of%20Dreams%20(James%20Strachey%20translation,%201955).pdf"
+    },
+    {
+      "title": "Mourning, Dream of | Encyclopedia.com",
+      "relevance": "Sevilen bir yakının ölümünü içeren rüyaların örtük dilek olarak yorumlandığı bölüm.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/mourning-dream"
+    },
+    {
+      "title": "Freud, Psychoanalysis and Death",
+      "relevance": "Freud’da ölümün rüyada dolaylı temsilleri ve rüya çözümlemeleri üzerine kuramsal tartışma.",
+      "url": "https://lit2talks.com/upload/Freud,_psychoanalysis_and_death_by_Freud,_Sigmund_Razinsky,_Liran.pdf"
+    },
+    {
+      "title": "Death as a Dream Symbol",
+      "relevance": "Rüyadaki ölüm temasını Jungcu dönüşüm, bitiş ve yeniden doğuş çerçevesinde ele alan çağdaş Jungcu yorum.",
+      "url": "https://www.thenightisjung.com/post/death-as-a-dream-symbol"
+    },
+    {
+      "title": "Dying in Your Own Dream: What It Really Means (Jungian ...",
+      "relevance": "Kişinin kendi ölümünü gördüğü rüyaları Jungcu çerçevede psikolojik dönüşüm ve eski kimliğin çözülmesi olarak açıklayan modern Jungcu anlatım.",
+      "url": "https://individuate.me/articles/dying-in-your-own-dream-meaning"
+    },
+    {
+      "title": "Jung on Death and Immortality 9780691215990 - DOKUMEN.PUB",
+      "relevance": "Jung’un ölüm, rüya ve yeniden doğuş sembolleri arasındaki ilişkiyi tartışan derleme metin.",
+      "url": "https://dokumen.pub/jung-on-death-and-immortality-9780691215990.html"
+    },
+    {
+      "title": "Carl Jung on “Recurring Dreams” and “Retrogressive Birth.",
+      "relevance": "Bilinçdışına iniş, figüratif ölüm ve yeniden doğuş arasındaki Jungcu sembolik bağlantıyı aktaran metin.",
+      "url": "https://carljungdepthpsychologysite.blog/2024/07/20/dreams-14/"
+    },
+    {
+      "title": "Jung, Parapsychology, and the Near-Death Experience:",
+      "relevance": "Ölüme yaklaşan rüyalarda yeniden doğuş sembolizmi görüldüğünü aktaran akademik çalışma.",
+      "url": "https://digital.library.unt.edu/ark:/67531/metadc1051969/m2/1/high_res_d/vol3-no1-3.pdf"
+    },
+    {
+      "title": "On the Theories of Dream Interpretation in Artemidorus",
+      "relevance": "Artemidorus'ta ölüm rüyalarının farklı bağlamlarda nasıl yorumlandığını erken akademik düzeyde tartışır.",
+      "url": "https://www.jstor.org/stable/3289049"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus'un ölümle ilgili rüya yorumlarının uzun bir bölümünü ve sağlık durumu ile bağlantılarını özetler.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Page:Modern Greek folklore and ancient Greek religion - a study ...",
+      "relevance": "Artemidorus'ta ölüm ve evlilik arasındaki karşılıklı sembolik ilişkiyi aktaran tarihsel metin alıntısı içeren sayfa.",
+      "url": "https://en.wikisource.org/wiki/Page:Modern_Greek_folklore_and_ancient_Greek_religion_-_a_study_in_survivals.djvu/571"
+    },
+    {
+      "title": "Rüyada Ölüm Ölmek Görmek İmam Nablusi",
+      "relevance": "Rüyada ölmek için Nablusî’ye atfedilen yorumları aktarır; dinî bozulma, dünya itibarı ve pişmanlık temalarını birlikte verir.",
+      "url": "https://www.islamda.org/2015/06/ruyada-olum-olmek-gormek-imam-nablusi.html"
+    },
+    {
+      "title": "Death in a dream | The Islamic Dream Book",
+      "relevance": "Ölüm rüyasını Nablusî ve İbn Sîrîn atıflarıyla geçiş, tövbe ve yeni dönem sembolizmi içinde sunar.",
+      "url": "https://theislamicdreambook.com/death-in-a-dream/"
+    },
+    {
+      "title": "Death in a Dream — Islamic Interpretation",
+      "relevance": "Ölüm rüyasını kişinin durumuna göre değişen bir geçiş sembolü olarak ele alır; evlilik, meslek değişimi ve yer değiştirme örnekleri verir.",
+      "url": "https://tawil.site/blog/death-dream/"
+    },
+    {
+      "title": "IBN SEERiN'S",
+      "relevance": "Ölümün rüyada dinî bozulma ile dünyevî itibar artışını birlikte çağrıştırdığını kısa bir formda verir.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Dream About Death Meaning",
+      "relevance": "Ölüm rüyasını günah, ayrılık, kayıp ve ruhsal uyarı temalarıyla ilişkilendiren modern bir Hristiyan yorum yazısı.",
+      "url": "https://evangelistjoshua.com/dream-about-death-meaning/"
+    },
+    {
+      "title": "Biblical Meaning of Death in a Dream – Symbols and Signs Meaning",
+      "relevance": "Ölümün Hristiyan bağlamda geçiş, dönüşüm ve yeni başlangıç sembolizmine işaret ettiğini anlatan modern bir açıklama.",
+      "url": "https://spiritualroutine.com/biblical-meaning-of-death-in-a-dream/"
+    },
+    {
+      "title": "Topical Bible: Symbolism of Death",
+      "relevance": "Yuhanna 12:24 üzerinden ölümün meyve veren bir dönüşüm dili olarak okunmasına imkân sağlayan ayet temelli kaynak.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_death.htm"
+    },
+    {
+      "title": "Topical Bible: Death: Figurative of Regeneration",
+      "relevance": "Romalılar 6:4 ve ilgili ayetler üzerinden ölüm ile yeni yaşam arasındaki Hristiyan teolojik bağı gösteren ayet temelli kaynak.",
+      "url": "https://biblehub.com/topical/naves/d/death--figurative_of_regeneration.htm"
+    },
+    {
+      "title": "Berakhot 10.a",
+      "relevance": "Rüyada ölüm haberinin alınması ve bunun dua ile karşılanması; korkutucu rüyanın kader olarak okunmaması.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/10.a"
+    },
+    {
+      "title": "Berakhot 57.b",
+      "relevance": "Evde görülen ceset, ev barışı ve evden eşya götürme gibi ayrıntılar üzerinden ölüm/ayrılık sembolizmi.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Dreams in the Talmud 1: Brachot 55",
+      "relevance": "Talmudik rüya yorumunun temel ilkelerini özetleyen derleme; yorumun belirleyiciliği ve rüya anlamının sabit olmaması.",
+      "url": "https://www.sefaria.org/sheets/222313"
+    },
+    {
+      "title": "Dreaming in the Lotus 0861711580 - DOKUMEN.PUB",
+      "relevance": "Tibetçe/Budist ölüm alametleri ve rüya işaretleri; ölümle bağlantılı rüya imgeleri örnekleri içerir.",
+      "url": "https://dokumen.pub/dreaming-in-the-lotus-0861711580.html"
+    },
+    {
+      "title": "Understanding Tibetan Buddhism - Death And Dying",
+      "relevance": "Tibet Budizmi’nde ölüm ve geçiş eşiklerini ele alan çerçeve; ölme temasının sembolik yorumunu destekler.",
+      "url": "https://www.pbs.org/wgbh/pages/frontline/shows/tibet/understand/dying.html/"
+    },
+    {
+      "title": "Collection Publications: The Olmec World: Ritual and Rulership",
+      "relevance": "Olmec sanatında ritüel dönüşüm, transe benzeri durumlar ve öte âlem geçişi temalarını gösteren tarihsel bağlam sağlar; ölümden çok dönüşüm ve eşik geçişi sembolizmi açısından yararlıdır.",
+      "url": "https://artmuseum.princeton.edu/art/stories-perspectives/collection-publications-olmec-world-ritual-and-rulership"
+    },
+    {
+      "title": "Olmec Iconographic Influences on the Symbols of Maya ...",
+      "relevance": "Olmec ve Maya bağlamında mağara ve dağların kutsal girişler ve yeraltı dünyasıyla ilişkili sembolik eşikler olarak ele alındığını gösterir; bu bağlam, \"olmek\" başlığı için ezoterik bir geçiş okumasına zemin sağlar.",
+      "url": "https://www.mesoweb.com/pari/publications/RT08/Olmec-Maya.pdf"
+    },
+    {
+      "title": "Olmec Religion",
+      "relevance": "Olmec dininde yer, su, ateş, bereket ve ritüel araçlar gibi unsurların sembolik sistemini özetler; ölüm sembolünden ziyade kozmik dönüşüm ve ritüel güç eksenini destekler.",
+      "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/olmec-religion"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

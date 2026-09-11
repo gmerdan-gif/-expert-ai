@@ -1,0 +1,256 @@
+{
+  "slug": "hac",
+  "title": "Hac",
+  "shortDescription": "Rüyada hac görmek, kutsal bir amaca yönelme, arınma ve dinî ya da kişisel sorumlulukları yerine getirme isteğini simgeler. Haccı tamamlamak iç huzuru ve yüklerin hafiflemesini, yolda kaybolmak ise tereddüt ve yön bulma zorluğunu gösterebilir.",
+  "positiveAssociations": [
+    "Dindarlık ve güzel amel",
+    "Güven ve borçların ödenmesi",
+    "Sıkıntıdan ferahlama",
+    "Ruhsal arınma ve tövbe",
+    "Tanrı’ya yaklaşma ve iman yolculuğu"
+  ],
+  "challengingAssociations": [
+    "Bastırılmış suçluluk duygusu",
+    "Obsesif tekrar ve ritüel baskısı",
+    "Ulaşılması güç bir merkezin yarattığı yetersizlik hissi",
+    "Kutsal mekân arayışındaki dünyevi kaygılar"
+  ],
+  "contextDependentAssociations": [
+    "Rüya sahibinin uyanık hayattaki dinî yönelimi ve pratikleri",
+    "Yolculuğun hangi aşamasında olunduğu",
+    "Kutsal merkeze varılıp varılmadığı",
+    "Rüyadaki duygusal tonun ferahlık veya kaygı barındırması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kâbe’ye doğru yürümek",
+      "description": "Kişinin hayatında önemli bir yönelişi, inanç yolculuğunu ve ruhsal bir hedefe odaklanma çabasını simgeler."
+    },
+    {
+      "title": "Hac ibadetini tamamlamak",
+      "description": "Uyanık yaşamda üstlenilen sorumlulukların yerine getirilmesi, borçların kapanması ve içsel bir huzura erişilmesi ile ilişkilendirilir."
+    },
+    {
+      "title": "Hac yolunda kaybolmak",
+      "description": "Kutsal merkeze yönelme arzusuna rağmen yaşanan tereddütleri, inanç yolundaki yön bulma zorluklarını ve içsel arayış krizlerini yansıtır."
+    },
+    {
+      "title": "Hac için hazırlık yapmak",
+      "description": "Zihinsel ve ruhsal arınma sürecine girildiğini; geçmişin yüklerinden sıyrılıp yeni bir döneme adım atma hazırlığını simgeler."
+    }
+  ],
+  "psychology": "Araştırmalar, rüyalardaki dinî ve ruhsal imgelerin genel olarak seyrek olduğunu ve bu imgelerin kişinin uyanık hayattaki dinî tutumlarıyla ilişkili olabildiğini göstermektedir. Bu çerçevede rüyada hac görmek; kişinin gerçek hayattaki hac planları, ibadet yoğunluğu, kutsal mekâna duyduğu özlem ve dinî sorumluluklarıyla ilişkilendirilebilir. Sembol, doğrudan hac yolculuğuna özgü hazırlık, yönelme ve tamamlanma temalarıyla değerlendirilmelidir.",
+  "jungian": "Doğrudan Jung’un yazılarında hac özel olarak ele alınmasa da, Jungcu yaklaşımlar hac imgesini içsel yolculuk, kutsal merkeze yöneliş ve dönüşüm temaları bağlamında yorumlayabilir. Bu yaklaşıma göre hac, bireyleşme sürecinde benliğin merkezine doğru yapılan sembolik bir yöneliş veya bilinçdışıyla karşılaşma olarak değerlendirilebilir; ancak bu okuma doğrudan Jung'a atfedilmiş tek bir hüküm değildir, tematik bir karşılaştırmadır.",
+  "islamicTradition": "Aktarılan İslami rüya tabirlerinde hac veya umre görmek genellikle hayır, emanetlerin yerine getirilmesi, güven, borçların kapanması, uzun ömür, güzel amel ve günahların bağışlanması ile ilişkilendirilir. Rüyada Hâcc sûresini okumak ise genellikle hac ibadetinin tekrarı ya da malı Allah yolunda harcamaya işaret olarak yorumlanır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde hac (yolculuk) kavramı iman yolculuğu, dünyevi hayatın geçiciliği ve Tanrı’ya yaklaşma arayışını ifade eden yerleşik bir metafordur. Rüyada hac imgesi bu çerçevede ruhsal arınma veya kutsala yönelme isteğini işaret edebilir; yine de bağlama göre yorumlanmalıdır.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar bağlama duyarlı kabul edilir; yükselme, inme ya da kutsal merkeze yöneliş gibi hareket imgeleri belirli yorumlarla ilişkilendirilebilir. Yeruşalayim vurgusu olan rüyalarda kutsallık, tövbe ya da ruhsal yönelimin ön plana çıkması olasıdır.",
+  "buddhistEasternApproaches": "Geleneksel Budist kaynaklarda doğrudan 'hac' terimi yaygın olmamakla birlikte, modern yorumlarda hac/yolculuk imgeleri içsel yolculuk, farkındalık ve uyanış arayışıyla ilişkilendirilmektedir. Hindu gelenekte tirth yātrā (tirtha yatra) benzeri motifler manevi yükseliş ve karma arınması ekseninde ele alınır; bu ilişkiler kontrollü ve tematik karşılaştırmalarla kurulmalıdır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda hac, kutsal merkeze doğru bir dönüş, arınma ve ruhsal yeniden düzenlenme imgesi olarak kullanılır. Bu çerçevede hac rüyası, kişinin hayatında merkeze döndüğünü veya kendini bir şeye adama niyetini simgeleyebilir; yine de somut yorum rüya bağlamına bağlıdır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Rüyalardaki dinî imgelerin seyrek oluşu ve bireyin dinî yaşamıyla ilişki kurma olasılığı.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Kuram",
+      "interpretation": "Ritüel ve yolculuk motifleri üzerinden tekrar, suçluluk veya bastırılmış arzuların düzenlenmesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Kutsal merkeze yöneliş olarak içsel yolculuk, dönüşüm ve benliğin yeniden örgütlenmesi temaları.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Hac/umre rüyasıyla ilişkilendirilen hayır, borçların kapanması, güven ve bağışlanma temaları.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "İman yolculuğu, geçicilik ve Tanrı’ya doğru ilerleyiş metaforu üzerinden yorum.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Ruhsal arınma, merkeze dönüş ve niyetlendirilmiş içsel yolculuk temaları.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşımda hac imgeleri, bireyin sıradan yaşamdan kutsal ya da daha yüksek bir merkeze doğru yönelme arzusunu veya bu yönde bir içsel hareketi gösterme eğilimindedir.",
+  "differences": "Farklı çerçeveler hac'ı ya da ritüel/eylem boyutuyla (psikanaliz), kutsal merkeze doğru bir manevi yolculuk olarak (dinî-tradisyonlar) veya bireyleşme/dönüşüm metaforu olarak (analitik psikoloji) vurgular; aradaki fark yoruma hangi temanın baskın olduğuna bağlıdır.",
+  "inusAssessment": "Hac rüyasında asıl ayırt edici unsurlar kutsal merkeze doğru yolculuk, hazırlık, ihram ve ibadetlerin tamamlanıp tamamlanmamasıdır. Yolculuğun kesintiye uğraması, Kâbe’ye ulaşılamaması veya ibadetin tamamlanması gibi ayrıntılar; dinî görev bilinci, arınma isteği ve tamamlanmamış sorumlulukların hangisinin öne çıktığını gösterir.",
+  "faq": [
+    {
+      "question": "Rüyada hacca gitmeye hazırlık yapmak ne anlama gelir?",
+      "answer": "Hazırlık sahnesi, hac yolculuğunun başlamasından önceki niyet, düzenleme ve sorumluluk alma evresini öne çıkarır; gerçek yaşamda da önemli bir dinî veya kişisel yükümlülüğe hazırlanma duygusuyla bağlantılı olabilir."
+    },
+    {
+      "question": "Hac rüyaları her zaman dini bir anlam mı taşır?",
+      "answer": "Hayır. Psikolojik ve analitik yaklaşımlar, bu tür rüyaların bireyin içsel bütünleşme, yön bulma ve yaşamının merkezini yeniden tanımlama çabasını da temsil edebileceğini belirtir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Religious Content of Dreams: A New Scientific Foundation - Pastoral Psychology",
+      "relevance": "Rüyalardaki dinî içeriğin kişinin dinî yaşamı ve deneyimleriyle ilişkili olabileceğini gösteren ampirik çalışma.",
+      "url": "https://link.springer.com/article/10.1007/s11089-008-0180-8"
+    },
+    {
+      "title": "Studying dream content using DreamBank.net",
+      "relevance": "Rüya içerik analizleri bağlamında dinî ve ruhsal öğelerin genel sıklığı ve dağılımına dair metodolojik açıklama.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2008c.html"
+    },
+    {
+      "title": "[PDF] Spiritual and religious imagery in dreams: A cross cultural analysis",
+      "relevance": "Rüyalardaki dinî ve ruhsal imgelerin kültürler arası dağılımını karşılaştırır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/10333/pdf_58/17959"
+    },
+    {
+      "title": "Spiritual and religious imagery in dreams: A cross cultural analysis",
+      "relevance": "UAE ve Kanada örneklemlerinde rüyalardaki dinî/ruhsal içerik farklarını rapor eder.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/10333"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüya sembolizmi ve dini ritüellerin rüyalardaki yerini tartışan temel metni; hac motifine ilişkin tematik pasajlar içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "READER IN",
+      "relevance": "Dini törenleri obsesif eylemlerle karşılaştıran ve ritüeli bastırılmış arzu bağlamında ele alan Freud metni.",
+      "url": "http://faculty.trinity.edu/mbrown/whatisreligion/PDF%20readings/Freud-Obsessive%20Acts%20&%20Religious%20Practices.pdf"
+    },
+    {
+      "title": "Pilgrimage in Dreams — Islamic Interpretation & Meaning",
+      "relevance": "Hac rüyasıyla ilgili çevrimiçi İslami yorumlar içerir; geleneksel tabir örnekleri ve çağdaş yorumlar sunar.",
+      "url": "https://www.dream-wisdom.com/en/dreams/pilgrimage/"
+    },
+    {
+      "title": "Hajj Dream Meaning & Interpretation",
+      "relevance": "Hacı içsel yolculuk ve bireyleşme üzerinden okuyan modern Jungcu yorum sayfası; sembolü Jungçu kavramlarla ilişkilendiriyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/hajj/"
+    },
+    {
+      "title": "Dream About Hajj — Meaning and Interpretation - Dremyo",
+      "relevance": "Hac'ı bireyleşme, benlik (Self) ve mandala temalarıyla açıklayan modern Jungcu yorum sayfası; analitik psikoloji dilinde bir sembol okuması sunar.",
+      "url": "https://www.dremyo.com/en/symbols/hajj/"
+    },
+    {
+      "title": "Bridging Imaginal Pathways: The Jungian Technique of Active ...",
+      "relevance": "Hac'ı bireyleşme, benlik ve mandala temalarıyla açıklayan modern Jungcu yorum sayfası; analitik psikoloji dilinde bir sembol okuması sunar.",
+      "url": "https://repository.essex.ac.uk/18001/1/Bridging%20Imaginal%20Pathways%20-%20Ph.%20D%20Thesis%20-%20Laner%20Cassar.pdf"
+    },
+    {
+      "title": "Book Summary and Quotes: Man and His Symbols by Carl G. Jung ...",
+      "relevance": "Jung'un yolculuk ve hac temasını genel sembolik bağlamda anan bir ikincil kaynak özeti; içsel yolculuk temasını izlemek için kullanılabilir.",
+      "url": "https://tuningjohn.com/book/symbols/"
+    },
+    {
+      "title": "Dreams and Dream Interpretation in the Middle Ages (article)",
+      "relevance": "Tarihsel bağlamda rüyaların hac uygulamalarıyla nasıl ilişkilendirildiğini ve rüyaların yönlendirici işlevini tartışan çalışma.",
+      "url": "https://cliospsyche.org/articles/hughes-j-d-1998-dreams-and-dream-interpretation-in-the-middle-ages-clios-psyche-52-45-48"
+    },
+    {
+      "title": "Performing Hajj or Umrah in a dream | The Islamic Dream Book",
+      "relevance": "Modern İslami rüya tabiri aktarımları içinde hac/umre rüyalarının sıkça olumlu, ibadet ve emanet temalarıyla ilişkilendirildiğini gösterir.",
+      "url": "https://theislamicdreambook.com/performing-hajj-or-umrah-in-a-dream/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri K Harfi",
+      "relevance": "Hac sûresi ve hac ibadetine dair rüya tabiri aktarımı; hac ve malı hayır yolunda harcama bağlantısını veriyor.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri U Harfi",
+      "relevance": "Hac ve umreyi birlikte ele alan rüya tabiri aktarımı; uzun ömür, güzel amel ve mağfiret temalarını veriyor.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-u1-harfi.html"
+    },
+    {
+      "title": "Pilgrim Dream Meaning & Interpretation - Mirror",
+      "relevance": "Hac/yolculuk imgesini Hristiyan sembolizmi içinde inanç yolculuğu, ruhsal arınma ve kutsala yaklaşma arayışı olarak ele alır.",
+      "url": "https://mirrorwithin.org/dream-dictionary/pilgrim/"
+    },
+    {
+      "title": "Topical Bible: Pilgrimage and Faith",
+      "relevance": "Pilgrimage ile iman arasındaki ilişkiyi, Hristiyan yaşamını Tanrı’ya doğru bir yolculuk olarak açıklar.",
+      "url": "https://biblehub.com/topical/p/pilgrimage_and_faith.htm"
+    },
+    {
+      "title": "Topical Bible: Pilgrimage and Spiritual Journey",
+      "relevance": "Pilgrimage’i kutsal mekâna yönelen dinsel/ruhsal yolculuk ve iman yolunun sembolü olarak tanımlar.",
+      "url": "https://biblehub.com/topical/p/pilgrimage_and_spiritual_journey.htm"
+    },
+    {
+      "title": "Topical Bible: Pilgrims",
+      "relevance": "Pilgrim kavramını, göksel hedefe ilerleyen inanç yolcusunun sembolü olarak özetler.",
+      "url": "https://biblehub.com/topical/p/pilgrims.htm"
+    },
+    {
+      "title": "Pilgrim - Topical Bible",
+      "relevance": "Pilgrim kavramını, kutsal yere seyahat eden kişi ve inananın göksel yurdu arayışıyla bağlantılı bir sembol olarak tanımlar.",
+      "url": "https://biblehub.com/topical/p/pilgrim.htm"
+    },
+    {
+      "title": "Topical Bible: Pilgrimage",
+      "relevance": "Pilgrimage’i ibadet, tövbe ve daha derin bir Tanrı ilişkisi arayışını temsil eden Hristiyan metaforu olarak açıklar.",
+      "url": "https://biblehub.com/topical/p/pilgrimage.htm"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Yahudi gelenekte rüyaların bağlama duyarlı yorumlandığını ve hareket/dönüş imgelerinin farklı anlamlar taşıyabileceğini açıklayan metin yorumu.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Berakhot 57a metninde rüyadaki hareket ve yön imgelerinin nasıl yorumlandığını gösterir.",
+      "url": "https://www.sefaria.org/Berakhot.57a?lang=en"
+    },
+    {
+      "title": "Dreaming of Jerusalem - Ateret Cohanim",
+      "relevance": "Yeruşalayim’i kutsallık, vizyon ve ruhsal yönelimle ilişkilendirerek hacın sembolik merkezini açıklar.",
+      "url": "https://www.ateretcohanim.org/dreaming-of-jerusalem/"
+    },
+    {
+      "title": "To See Hajj In A Dream - Khawab Ki Tabeer",
+      "relevance": "Haccı konu alan genel bir rüya tabiri sunar; Budist veya Hindu geleneklerine özgü kaynaklar içermemektedir.",
+      "url": "https://tabeerinfo.com/to-see-hajj-in-a-dream/"
+    },
+    {
+      "title": "Hajj Dream Meaning - Interpret Your Dream!mirrorwithin.com › dream-dictionary › hajj",
+      "relevance": "Budist çerçevede hac/pilgrimage rüyasını aydınlanma yolculuğu olarak yorumlayan modern bir sembol okuması sunar.",
+      "url": "https://mirrorwithin.com/dream-dictionary/hajj/"
+    },
+    {
+      "title": "Pilgrimage in Dream (Sapne Me Tirth Yatra), Vedic Shakun ...",
+      "relevance": "Hindu rüya geleneğinde hac/ti̇rth yātrā rüyasını manevi arınma ve karma ile ilişkilendirir.",
+      "url": "https://www.vedicbirth.com/shakun/sapne-me-tirth-yatra"
+    },
+    {
+      "title": "Pilgrimage Dreams: Meaning & Interpretation - Somniscient",
+      "relevance": "Pilgrimage rüyasını Budist sembolizmde içsel yolculuk ve öz-keşif olarak ele alır.",
+      "url": "https://somniscient.com/en/symbols/pilgrimage"
+    },
+    {
+      "title": "Dream of Seeing Hajj - Islamic Dream Interpretation",
+      "relevance": "Haccı bir rüyada görmek için çevrimiçi sembol açıklaması; ruhsal temizlik, dinî yükümlülüklerin yerine gelmesi ve bağışlanma arayışı gibi yorumlar sunar.",
+      "url": "https://muslimdreammeaning.com/en/symbols.php?symbol=hajj"
+    },
+    {
+      "title": "Dreams During Hajj and Umrah in Islam — Spiritual ...",
+      "relevance": "Hac sırasında görülen rüyalar ve Kâbe’ye yönelme gibi imgeleri ele alan yazı; hac deneyimiyle bağlantılı içsel hâller ve ruhsal yakınlık temalarını işler.",
+      "url": "https://tawil.site/blog/dreams-during-hajj-islam/"
+    },
+    {
+      "title": "Pilgrim in dreams — meaning and symbolism",
+      "relevance": "Hacı/pilgrim figürünü ezoterik bir yolculuk ve ruhun kaynağına dönüş imgesi olarak yorumlayan sözlük sayfası; hac sembolü için dolaylı spiritüel okuma zemini sağlar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/pilgrim"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "historical-cultural",
+    "buddhist-eastern"
+  ]
+}

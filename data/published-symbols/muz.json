@@ -1,129 +1,182 @@
 {
   "slug": "muz",
   "title": "muz",
-  "shortDescription": "Rüyada muz görmek rızık, bolluk ve manevi güçlenmeyle ilişkilendirilir. Muzun dışı dolu görünüp içinin boş çıkması ise görünüşe aldanmamayı ve geçiciliği fark etmeyi simgeler.",
+  "shortDescription": "Rüyalarda muz, belirgin formu (kavisli, soyulabilen yapısı), sarı rengi ve hızlı olgunlaşıp çürüme eğilimi gibi fiziksel özellikleriyle tropik veya egzotik kültürel çağrışımlar taşır; bağlam, olgunluk durumu ve rüyanın duygusal tonu göz önünde bulundurularak çok katmanlı yorumlanmalıdır.",
   "positiveAssociations": [
-    "Tropik bolluk ve bereket",
-    "Günlük beslenme ve rızık",
-    "İmanda güçlenme",
-    "İçsel bilgi ve tasarruf"
+    "besleyicilik ve günlük rızık çağrışımı (yenilebilirlik, paylaşılabilirlik)",
+    "verimlilik ve emeğin ürünü olarak sembolizasyon (salkım halinde oluşu)",
+    "sıcaklık, canlılık ve enerji (sarı renk, yumuşak doku)",
+    "alıcılık, kabul etme ve duygusal esneklik (yumuşak, soyulabilen yapı)",
+    "kültürel bereket ve tropik ya da egzotik bolluk imgeleri"
   ],
   "challengingAssociations": [
-    "Geçicilik ve kalıcılığın aldatıcı doğası",
-    "Dış görünüşün içi boş çıkması",
-    "Hastalık bağlamında ağırlaşma ihtimali",
-    "Yabancılık ve egzotiklik hissi"
+    "hızla bozulma, çürüme ve geçicilik (olgunlaşma sonrası hızla kaybolan değerler)",
+    "kaçırılan fırsatlar veya tükenen enerji (çürümüş muz imgesi)",
+    "aşırı duyusallık veya kontrolsüz cinsellik çağrışımları (biçimsel veya fallik okumalar bağlama bağlıdır)",
+    "bağımlılık veya rahatlama nedeniyle dikkat kaybı (yumuşak ve kolay tüketilen yapının bir metaforu)"
   ],
   "contextDependentAssociations": [
-    "Evde muz ağacı görülmesi",
-    "Muzun yenilme biçimi ve rüya sahibinin durumu",
-    "Muzun ikonik ve günlük bir nesne olarak rüyadaki konumu"
+    "muzun rüyadaki olgunluk durumu (taze, sararmış, kararmış/çürümüş)",
+    "muzun nasıl tüketildiği veya paylaşıldığı (soyma, yemek, atma, vermek)",
+    "rüya görenin kültürel ve kişisel bağlamı (tropik veya egzotik çağrışımlar, çocukluk anıları)",
+    "muzun mekânı ve ilişkiler içinde işlevi (pazarda, evde, tören veya ritüel bağlamında)"
   ],
   "commonVariations": [
     {
-      "title": "Evde muz ağacı yetiştiğini görmek",
-      "description": "Rüya bağlamında geleneksel yorumlarca erkek çocuk doğumu veya aile içi berekete işaret eden bir gelişim olarak ele alınır."
+      "title": "Taze, Parlak Sarı Muz Yemek",
+      "description": "Rüyada taze ve parlak bir muz yemek, bedensel canlılık, günlük doyum ve paylaşılabilir bir kaynak hissine işaret edebilir; aynı zamanda kullanım kolaylığı ve yakın destek hissiyle ilişkilendirilebilir."
     },
     {
-      "title": "Muz yemek",
-      "description": "Rüya sahibinin yaşam koşullarına bağlı olarak dünyevi kazançların artması, isteklerin gerçekleşmesi veya iman açısından bir derinleşme olarak değerlendirilir."
+      "title": "Salkım Halinde Olgun Muz Görmek",
+      "description": "Ağaçta veya dalında salkım halinde olgun muzlar, emeğin meyvesi, süreklilik ile aile ve üretkenlik bağlamlarında verimliliğin arttığı izlenimini çağrıştırır."
     },
     {
-      "title": "Dışı sarı ve dolu görünüp içi boş çıkan muz görmek",
-      "description": "Dış görünüş ile gerçek öz arasındaki farkı, maddi dünyanın aldatıcı doğasını ve geçicilik temasını simgeler."
+      "title": "Çürümüş veya Ezilmiş Muz",
+      "description": "Kararmış, ezilmiş ya da çürümekte olan muzlar genellikle fırsat kaybı, arzunun sönmesi veya enerjinin tükenmesi temalarını simgeleyebilir; uyarı ya da yeniden gözden geçirme çağrısı olabilir."
     },
     {
-      "title": "Hasta birinin muz yediğini görmesi",
-      "description": "Geleneksel İslami tabir kaynaklarında, sağlık durumunun ağırlaşabileceğine veya zorlu bir sürece işaret edebileceğine yorulur."
+      "title": "Muz Soymak ve Başkalarıyla Paylaşmak",
+      "description": "Bir muzu soyup başkalarına verdiğini görmek, somut kaynakların veya duygusal yakınlığın paylaşılması, yakın çevreye sunulan destek ve cömertlik hissiyle ilişkilendirilebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslami rüya tabiri derlemelerinde muz, servet, rızık, tasarruf, iman artışı ve cömert, yumuşak huylu bir insanla ilişkilendirilir. Muz ağacının evde büyümesi erkek çocuğa işaret ederken, sağlıklı bir kimsenin muz yemesi dünya malı kazanmaya veya imanda güçlenmeye yorulur. Buna karşın, hasta bir kişinin muz yemesi bazı kaynaklarda hastalığın kötüleşmesi ihtimaliyle bağdaştırılır.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist ve doğu geleneklerinde muz ağacı, geçiciliği ve maddi nesnelerin kalıcı görünümünü ele almak için sıkça kullanılan bir benzetmedir. Ağacın dışarıdan dolgun ve gür görünmesine karşın içinin boş olması, dış görünüş ile öz arasındaki derin farkı ve maddiyatın aldatıcı doğasını vurgulayan öğretici bir imge olarak rüyasal düşünce dünyasında yer alır.",
-  "spiritualApproaches": "Spiritüel ve ezoterik yaklaşımlarda muz ağacı ve meyvesi, bolluk, bereket ve haz temalarını simgelerken, aynı zamanda dışının dolu görünmesine rağmen içinin boş olması nedeniyle geçicilik ve illüzyon kavramlarını hatırlatır.",
+  "psychology": "Muzun rüyada yorumlanması, nesnenin fiziksel özellikleri (biçim, olgunluk, dokunulabilirlik) ve kişisel/kültürel çağrışımları göz önünde bulundurularak yapılmalıdır. Ampirik rüya araştırmaları (ör. içerik analizi ilkeleri) tekil bir nesne için sabit bir anlam öne sürmez; bu yüzden muzun olgunluk durumu, eylemler (soyma, yeme, atma) ve rüyanın duygusal tonu psikolojik okumada belirleyicidir.",
+  "jungian": "Jungcu çerçevede muz, genel meyve imgeleri gibi olgunlaşma, psişik beslenme ve bireyleşme süreçlerinin bir metaforu olarak ele alınabilir. Muzun eğrisi, yumuşaklığı ve soyulabilirliği libido, alıcılık ve içselleştirme temalarıyla analojik olarak ilişkilendirilebilir; ancak bu yorumlar bağlama ve kişisel çağrışımlara bağlı, genelleştirilemez sentezlerdir.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik geleneğinde meyve imgeleri Tanrı’nın rızkı, besleme ve bereket ekseninde okunur; muz için doğrudan klasik bir metinsel emsal bulunmamakla birlikte, rüyadaki muz tazelik, doyum veya ilahi temin çağrışımı verebilecek şekilde temkinli bir teolojik çerçevede ele alınabilir.",
+  "jewishTraditions": "Yahudi rüya yorumunda meyveler genelde olumlu kabul edilir; doğrudan klasik kaynaklarda muz için spesifik bir rüya girişi tespit edilmemiştir. Bu nedenle Yahudi çerçeveden yapılabilecek okumalar, meyvelere dair genel olumlu ilkelerle ve kültürel bağlamla temkinli şekilde ilişkilendirilmelidir.",
+  "buddhistEasternApproaches": "Budist ve Doğu yaklaşımlarında muzun hızla olgunlaşıp çürüyen doğası, arzuların geçiciliğini ve deneyimlerin gelip geçiciliğini hatırlatan bir uyarı veya farkındalık nesnesi olarak yorumlanabilir.",
+  "spiritualApproaches": "Popüler ezoterik okumalarda muz, bereket, doğurganlık, bedensel haz ve yaşam enerjisiyle ilişkilendirilir. Formu üzerinden yapılan fallik çağrışımlar bazı modern yorumlarda yer alsa da bunlar bağlama ve kaynağın niteliğine göre değişir.",
   "comparisonTable": [
     {
-      "approach": "İslami Rüya Geleneği",
-      "interpretation": "Rızık, servet, iman artışı, evlat ve hastalık durumuna göre değişen olumlu ya da uyarıcı işaretler.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Psikanalitik ve Popüler Yorum",
-      "interpretation": "Biçimsel özellikleri nedeniyle fallik çağrışımlar, haz arayışı ve bedensel dürtülerin yansıması.",
+      "approach": "Psikanaliz",
+      "interpretation": "Muzun biçim ve kullanımına bakılarak, bağlama bağlı fallik/cinsel çağrışımlar veya bastırılmış arzunun sembolik yer değiştirmesi olasıdır; kesin bir anlam değil, bağlamsal olasılıklar sunar.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Doğu ve Budist Yaklaşımlar",
-      "interpretation": "Maddiyatın geçiciliği, dış görünüşün aldatıcılığı ve öz ile biçim arasındaki çelişki.",
-      "evidenceLevel": "spiritual"
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Meyve ve olgunlaşma motifleri üzerinden libido, içselleşme ve psişik olgunlaşma süreçleriyle ilgili analojik okumalar yapılabilir; muzun somut özellikleri yorumda belirleyici olur.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Spiritüel Yaklaşım",
-      "interpretation": "Bolluk, bereket, egzotiklik ve aynı zamanda formun aldatıcı doğası.",
+      "approach": "Hristiyan Teolojik Sentez",
+      "interpretation": "Meyve ve yiyecek imgeleri bağlamında muz, ilahi rızık ve gündelik bakım/yaşam desteği temalarına işaret edebilir; bu, doğrudan klasik rüya metni yerine kontrollü teolojik bir sentezdir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Yahudi Geleneksel Çerçeve",
+      "interpretation": "Geleneksel Yahudi rüya geleneğinde meyveler genelde uğurlu sayıldığından, muz da kültürel bağlama göre olumlu çağrışımlar taşıyabilir; doğrudan antik kayıt yoktur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Okuma",
+      "interpretation": "Popüler spiritüel literatürde muz, bolluk, doğurganlık ve bazen fallik sembolizmle ilişkilendirilir; bunlar kaynak niteliğine göre değişkenlik gösterir.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenekler ve teorik yaklaşımlar incelendiğinde, muzun hem maddi bolluk, rızık ve haz unsuru olarak görüldüğü hem de dış görünüşün ötesindeki gerçekliği veya geçiciliği sorgulatan ikili bir yapıya sahip olduğu görülür.",
-  "differences": "İslami gelenek rüyadaki muzu rızık, evlat ve iman gibi somut ve manevi bağlamlarda değerlendirirken, psikanalitik ve popüler yaklaşım biçimsel çağrışımlara odaklanır. Doğu ve spiritüel yaklaşımlar ise nesnenin formundaki aldatıcı boşluğu bir bilinç metaforu olarak ele alır.",
-  "inusAssessment": "Muz sembolü, tek tip ve deterministik bir rüya tabiriyle açıklanamayacak kadar kültürel, teorik ve geleneksel katmanlara sahiptir. Rüyada muz görmek, rüya sahibinin kişisel bağlamına, muzun rüyadaki sunumuna (yenilme biçimi, ağacın görülmesi, boş ya da dolu olması) ve hissedilen duygusal tona göre tamamen farklı anlam kapıları aralayabilir. Bu nedenle rüyayı kesin bir geleceğin habercisi olarak değil, bireyin kendi iç dünyasındaki bolluk, haz, aldanma veya geçicilik temalarıyla kurduğu bir köprü olarak ele almak gerekir.",
-  "faq": [
-    {
-      "question": "Rüyada muz yemek ne anlama gelir?",
-      "answer": "Geleneksel tabirlerde muz yemek dindar kişiler için imanın güçlenmesine, dünyevi yönelimi olanlar için ise kazanç ve isteklerin gerçekleşmesine yorulur."
-    },
-    {
-      "question": "Muz rüyaları fallik veya cinsel anlamlar taşır mı?",
-      "answer": "Bu okuma, ampirik psikolojiden ziyade psikanalitik ve popüler kültürün teorik yorumlarına dayanır; rüya sahibinin kişisel çağrışımlarına göre anlam kazanır."
-    },
-    {
-      "question": "Rüyada muz ağacı görmek neyi temsil eder?",
-      "answer": "İslami gelenekte evde muz ağacı büyümesi erkek çocuk doğumuna işaret ederken, Doğu felsefesinde muz ağacı dış görünüşün aldatıcılığını ve geçiciliği simgeleyen bir benzetme olarak ele alınır."
-    }
-  ],
+  "commonGround": "Çoğu yaklaşım muzun beslenme, verimlilik ve döngüsel değişim temalarıyla ilişkilendirilebileceği konusunda örtüşür; farklılıklar ise bu temaların nasıl yorumlandığına ve hangi bağlamların önceliklendirildiğine göre ortaya çıkar.",
+  "differences": "Psikanalitik-okült okumalar biçimsel ve dürtüsel çağrışımlara eğilirken, teolojik ve kültürel yaklaşımlar daha çok rızk, bereket ve paylaşım eksenine odaklanır; sonuçlar bağlama ve kaynak güvenilirliğine göre değişir.",
+  "inusAssessment": "Muz rüyası ne tekil, sabit bir kehanet ne de sadece nesnel bir yiyecek göstergesidir; muzun kavisli formu, soyulabilen yapısı, sarı rengi ve hızlı bozulma eğilimi yorumun yönünü belirler. Rüyanın önerdiği anlam, muzun taze mi yoksa çürümüş mü olduğuna, kiminle nasıl ilişkiye girdiğine ve rüya sahibinin kültürel çağrışımlarına bağlı olarak şekillenir.",
+  "faq": [],
   "sources": [
     {
-      "title": "Banana in dreams — meaning and symbolism",
-      "relevance": "Muzun rüya bağlamında beslenme, haz, beden ve gündelik ihtiyaçlarla ilişkilendirilen kültürel yorumlarını içerir.",
-      "url": "https://bookofhoroscopes.com/en/dream-dictionary/banana"
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin yöntemlerini sunar; muz gibi tekil nesneler için sabit anlam atamadan önce bağlam, duygusal ton ve sistematik kodlamanın neden gerekli olduğunu gösterir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
     },
     {
-      "title": "Banana, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
-      "relevance": "Muzun biçiminden hareketle fallik ve cinsel sembolizm etrafında yapılan popüler yorumları sunar.",
-      "url": "http://www.dreamtation.com/docs/678.htm"
+      "title": "Dream Interpretation by Sigmund Freud",
+      "relevance": "Freudcu çerçeveyi özetleyerek, gündelik nesnelerin (ör. biçim olarak çağrışım uyandıran objelerin) rüyalarda örtük arzularla nasıl ilişkilendirilebileceğini açıklamak için referans sağlar.",
+      "url": "https://rafaelaielo.wordpress.com/2012/11/25/dream-interpretation-by-sigmund-freud/"
     },
     {
-      "title": "“Yes! We Have No Bananas”: Cultural Imaginings of the Banana in America, 1880-1945",
-      "relevance": "Muzun Amerikan kültüründe yabancılık, tropikiyet ve egzotiklikle ilişkilendirilmesini tarihsel olarak ele alır.",
-      "url": "https://scholarsbank.uoregon.edu/items/b170f5d7-2e07-47f8-99cf-a8b415133b24"
+      "title": "1. Carl Jung interprets Dream Associations",
+      "relevance": "Jungcu sembolizm bağlamında meyve ve olgunlaşma imgelerinin psişik gelişimle nasıl ilişkilendirilebileceğine dair genel bir çerçeve sunar; muz için kontrollü analojik okumalar yapılırken yararlıdır.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/04/02/dream-associations/"
+    },
+    {
+      "title": "Cultural significance of banana cultivation and its role in ...",
+      "relevance": "Muzun kültürler arası sembolik konumunu, bereket ve kutsama çağrışımlarını ele alan tarihsel-kültürel bir çalışma olarak, rüya yorumunda kültürel bağlam vurgusunu destekler.",
+      "url": "https://www.humanitiesjournal.net/archives/2025/vol7issue1/PartG/7-2-49-601.pdf"
+    },
+    {
+      "title": "[PDF] Bananas In Africa Ap World History",
+      "relevance": "Afrika bağlamlarında muzun ritüel, bereket ve soy sürekliliği ile ilişkisini inceleyen tarihsel notlar sağlar; muzun kültürel kutsallık çağrışımlarını açıklamak için önemlidir.",
+      "url": "https://sanandres.uep.edu.py/index.jsp/TC0Kqj/703435/Bananas%20In%20Africa%20Ap%20World%20History.pdf"
     },
     {
       "title": "[PDF] The Banana as Icon: Orientalism, Violence, and the ... - SAS-Space",
-      "relevance": "Muzun ikonlaşmış bir nesne olarak sömürgecilik, tropik imgeler ve popüler kültür içinde nasıl anlam kazandığını tartışır.",
+      "relevance": "Muzun modern kültürdeki ikonlaşma sürecini, sömürgecilik ve egzotizm temalarını tartışır; rüyalardaki muz imgelerinin modern kültürel yüklerini anlamaya yardımcı olur.",
       "url": "https://sas-space.sas.ac.uk/2291/1/Baker%20-%20Banana%20as%20Icon.pdf"
     },
     {
-      "title": "Banana Islamic Interpretations & Meanings",
-      "relevance": "Muz için rüya tabiri aktarır, servet, rızık, iman, evlat ve hastalık bağlamındaki yorumları toplar.",
-      "url": "https://www.myislamicdream.com/banana.html"
+      "title": "Bananas and Popular Culture",
+      "relevance": "Muzun bazı dinsel ve ritüel kullanımlarını ve özellikle modern bağlamlarda erotik/komik çağrışımları nasıl kazandığını tartışır; popüler kültür etkisini gösterir.",
+      "url": "https://humwp.ucsc.edu/cwh/bananas/Site/Bananas%20and%20Popular%20Culture.html"
     },
     {
-      "title": "Bananas in the Bible: What do they Symbolize? - Christian Pure",
-      "relevance": "Muzun Kutsal Kitap’ta adıyla geçmediğini belirtir; bu yüzden doğrudan Hristiyan metin temelli sembolizm kurmaya elverişli değildir.",
-      "url": "https://christianpure.com/learn/bananas-in-bible-meaning/"
+      "title": "BIOGRAPHY OF THE BANANA",
+      "relevance": "Muzun tarihsel dönüşümünü ve tropik/verimlilik ile cinsellik eksenlerinde nasıl sembolik anlamlar edindiğini anlatarak kültürel çağrışımların rüya yorumuna etkisini açıklar.",
+      "url": "https://www.the-independent.com/arts-entertainment/biography-of-the-banana-1179167.html"
     },
     {
-      "title": "What Is the Blessing on Bananas, Strawberries, Grapes ...",
-      "relevance": "Muzun rabbanî bağlamda ağaç/meyve sınıflandırması üzerinden bracha tartışmasını gösterir; doğrudan rüya sembolizmi değil, halakhik meyve kategorisi bağlamı sağlar.",
-      "url": "https://www.chabad.org/library/article_cdo/aid/4265961/jewish/What-Is-the-Blessing-on-Bananas-Strawberries-Grapes-Berries-Etc.htm"
+      "title": "Biblical meaning of banana in dream",
+      "relevance": "Muzun Hristiyan teolojik bağlamda nasıl temkinli bir şekilde 'rızk' ve 'beslenme' temalarıyla ilişkilendirilebileceğine dair modern bir yorum örneği sunar; doğrudan klasik metin dayanağı olmadığını belirtir.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-banana-in-dream"
     },
     {
-      "title": "Banana tree: Significance and symbolism",
-      "relevance": "Muz ağacının Budist gelenekte geçicilik ve görünüşte dolu ama özde boş olma fikriyle ilişkilendirildiğini anlatır.",
-      "url": "https://www.wisdomlib.org/concept/banana-tree"
+      "title": "Dreams in the Talmud | Voices on Sefaria",
+      "relevance": "Talmudik rüya pasajları ve meyve temaları hakkında bilgi verir; Yahudi rüya yorumunda meyvelerin genel konumunu anlamaya yardımcı olur, fakat muz için doğrudan klasik kayıt sunmaz.",
+      "url": "https://www.sefaria.org/sheets/233896"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Klasik Yahudi rüya geleneğinde meyvelerin genel olarak uğurlu sayıldığına dair erken derlemeyi içerir; muzun yorumlanmasında geleneksel genel ilkelerin referansı olarak kullanılır.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Sweet Dreams of Fruit - If one sees olives in a dream, it is ...",
+      "relevance": "Yahudi rüya literatüründe tek tek meyvelere özgü okumaların bulunduğunu gösterir; muzun doğrudan listelenmediği ancak meyve-motifinin rolünü anlamak için yararlıdır.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/1742513/jewish/Sweet-Dreams-of-Fruit.htm"
+    },
+    {
+      "title": "What's the Truth About. . . The Apple in the Garden of Eden?",
+      "relevance": "Muzun Yahudi tarihsel-sembolik tartışmalardaki yerini ve cennet meyvesi çağrışımlarını inceleyen popüler bir kaynak; muzun sembolik bağlamını tarihsel tartışmalarla ilişkilendirir.",
+      "url": "https://jewishaction.com/religion/jewish-law/whats-truth-apple-garden-eden/"
+    },
+    {
+      "title": "Banana Dream Meaning & Interpretation",
+      "relevance": "Muzun olgunlaşıp çürüme döngüsünü geçicilik temasıyla ilişkilendiren modern bir yorum örneği sunar; Budist geçicilik vurgusunu rüya bağlamında destekleyebilir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/banana/"
+    },
+    {
+      "title": "Banana, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Popüler ezoterik rüya sözlüğü örneği olarak muzun fallik ve bereket çağrışımlarını nasıl modern biçimde sunduğunu gösterir; popüler yorumların niteliğini anlamaya yardımcı olur.",
+      "url": "http://www.dreamtation.com/docs/678.htm"
+    },
+    {
+      "title": "Banana in dreams — meaning and symbolism",
+      "relevance": "Ezoterik-popüler kaynaklarda muzun yumuşak enerji, haz ve beslenme temalarıyla nasıl ilişkilendirildiğine dair bir örnek sunar; popüler semantik eğilimleri gösterir.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/banana"
+    },
+    {
+      "title": "Spiritual Meanings Of Bananas: 12 Sacred Signs",
+      "relevance": "Muzun spiritüel ve töresel anlam yüklemelerine dair çeşitli modern yorumlar içerir; bolluk ve döngüsellik temalarının popüler açıklamalarını sunar.",
+      "url": "https://soulfulsignificance.com/spiritual-meanings-of-bananas-12-sacred-signs/"
+    },
+    {
+      "title": "What is the Banana Spiritual Meaning? Symbolism of Life's Cycle",
+      "relevance": "Muzun döngüsellik, bereket ve yaşam akışı temaları etrafında nasıl yorumlandığını gösteren popüler bir yazıdır; rüya yorumunda bu popüler çerçevelerin etkisini anlamaya yardımcı olur.",
+      "url": "https://divinemarkings.com/banana-spiritual-meaning/"
+    },
+    {
+      "title": "Magickal Correspondences of Bananas | Witch Herb ...",
+      "relevance": "Ezoterik kullanım ve ritüel bağlamda muzun nasıl sembolik karşılıklara sahip olabileceğini tartışır; spiritüel okumalarda görülen temalar hakkında bilgi verir.",
+      "url": "https://plentifulearth.com/spiritual-meanings/bananas/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian",
+    "buddhist-eastern"
+  ]
 }

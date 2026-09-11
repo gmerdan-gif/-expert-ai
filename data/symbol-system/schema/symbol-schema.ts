@@ -46,6 +46,17 @@ export type SymbolResearchClaim = {
   sourceIds: string[];
 };
 
+export type LimitedEvidenceLane =
+  | "psychology"
+  | "psychoanalytic"
+  | "jungian"
+  | "historical-cultural"
+  | "islamic"
+  | "christian"
+  | "jewish"
+  | "buddhist-eastern"
+  | "spiritual";
+
 export type SymbolVariation = {
   title: string;
   description: string;
@@ -142,6 +153,14 @@ export type SymbolContent = {
   sources: SymbolSource[];
 
   /**
+   * Public epistemic metadata.
+   *
+   * These lanes contain grounded material, but the preferred
+   * authority threshold could not be verified.
+   */
+  limitedEvidenceLanes?: LimitedEvidenceLane[];
+
+  /**
    * Semantic relationships.
    *
    * These are determined after content generation,
@@ -189,6 +208,15 @@ export type SymbolResearch = {
   jewishMaterial: SymbolResearchClaim[];
   buddhistEasternMaterial: SymbolResearchClaim[];
   spiritualMaterial: SymbolResearchClaim[];
+
+  /**
+   * Evidence lanes where grounded material survived, but the
+   * preferred authority threshold could not be verified.
+   *
+   * Limited evidence may be shown with explicit qualification,
+   * but must not count toward the publication source contract.
+   */
+  limitedEvidenceLanes?: LimitedEvidenceLane[];
 
   relevantSources: SymbolResearchSource[];
 

@@ -1,85 +1,169 @@
 {
   "slug": "limon",
   "title": "limon",
-  "shortDescription": "Rüyada limonun yorumu rengine ve rüyada ne yaptığınıza göre değişir. Sarı limon hastalık veya eleştiriyle, yeşil limon daha hayırlı gelişmelerle; limon yemek eleştirilme veya rahatsızlıkla, birine limon vermek ise sürtüşmeyle ilişkilendirilebilir. Yalnızca limon görmek bazı geleneksel yorumlarda mal veya nafakayı çağrıştırır.",
+  "shortDescription": "Rüyada limon görülmesi; ekşilik ile ferahlık, zorluk ile berraklık, kınama ile gizli rızık gibi birçok zıt kutup aynı anda barındıran, bağlama göre anlamı bütünüyle değişen özgün bir semboldür.",
   "positiveAssociations": [
-    "Yeşil limonun daha hayırlı gelişmelerle ilişkilendirilebilmesi",
-    "Bir çevrimiçi kaynağa göre limon ağacı, başkalarına faydalı bir kişiyi temsil edebilir",
-    "Spiritüel bağlamda arındırma ve ritüel temizlik işlevi",
-    "Bazı ezoterik uygulamalarda nazara karşı koruma veya negatif enerjiyi uzaklaştırma aracı olarak görülmesi"
+    "Temizlik ve arınma",
+    "Acılıktan sonra gelen berraklık",
+    "Yeşil limon: mal ve hayır",
+    "Çevresine fayda sağlayan verimli bir duruş"
   ],
   "challengingAssociations": [
-    "Sarı limonun hastalık, kınama veya eleştiri çağrıştırması",
-    "Limon yemenin klasik aktarımlarda ayıplanma, eleştiri veya hastalanma ile ilişkilendirilmesi",
-    "Birine limon vermenin eleştiri veya zararla ilişkilendirilebilmesi"
+    "Sarı limonun hastalık ve sıkıntı çağrışımı",
+    "Sitem, kınama veya ayıplama",
+    "Acı deneyimler ve hayal kırıklığı",
+    "Rahatsız edici ama açıklığa götüren sınavlar"
   ],
   "contextDependentAssociations": [
-    "Limonun renginin (sarı/yeşil) anlamını olumlu ya da olumsuz yönde değiştirebilmesi",
-    "Limonu yalnızca görmek (uzaktan görmek) mal veya nafaka gibi maddi konulara işaret edebilir.",
-    "Rüyanın diğer öğeleri ve rüya sahibinin kişisel durumu limonun yorumunu olumlu ya da olumsuz yönde etkileyebilir"
+    "Limonun renginin sarı veya yeşil olması",
+    "Rüya sahibinin limonu tek başına görmesi ya da başkasıyla paylaşması",
+    "Meyvenin ağaç üzerinde veya ağaç formunda algılanması"
   ],
   "commonVariations": [
     {
-      "title": "Sararmış bir limon görmek",
-      "description": "Geleneksel rüya tabirlerinde sararmış veya solmuş limon, sağlık ya da sosyal eleştiriyle ilgili uyarılarla ilişkilendirilebilen olumsuz bir sembol olarak yorumlanır."
+      "title": "Ağaçta Parlayan Sarı Limonlar",
+      "description": "Dalları arasında dikkat çeken sarı limonlar görmek, kişinin hayatındaki zorlu yüzleşmelere, içsel bir aydınlanma sürecine ve sıkıntılı ama öğretici dönemlere işaret edebilir."
     },
     {
-      "title": "Taze yeşil limon görmek",
-      "description": "Yeşil veya olgunlaşmamış limon, bazı geleneksel yorumlarda sarı limona kıyasla daha hayırlı ve olumlu gelişmelerin işareti olarak değerlendirilir."
+      "title": "Birinden Limon Almak veya Limon Vermek",
+      "description": "Rüyada bir başkasından limon aldığını veya birine limon uzattığını görmek, çevreden gelebilecek sitemli sözlere, eleştirilere ya da karşılıklı yaşanabilecek kırgınlıklara delalet edebilir."
     },
     {
-      "title": "Rüyada limon yemek",
-      "description": "Klasik İslami rüya tabirlerinde limonu tatmak veya yemek genellikle ayıplanma, eleştiriye uğrama veya hastalanma gibi zorlayıcı durumlara işaret eder."
+      "title": "Yeşil Limon Görmek",
+      "description": "Henüz olgunlaşmamış yeşil limonlar, geleneksel aktarımlarda sarı rengin aksine daha çok hayra, rızka, mala ve beklenmeyen menfaatlere yorulur."
     },
     {
-      "title": "Birine limon vermek",
-      "description": "Rüyada birine limon verdiğini görmek, geleneksel tabirlere göre o kişiye yönelik eleştiri, sürtüşme ya da olası zarar/olumsuz alışveriş uyarısı olarak yorumlanabilir."
+      "title": "Limon Sıkmak veya Tadına Bakmak",
+      "description": "Limonun ekşiliğiyle doğrudan temas etmek, kişinin hayatında ani farkındalıklar yaratan, sarsıcı ancak zihni berraklaştırıcı bazı deneyimlerden geçmekte olduğunun bir göstergesi olabilir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "Klasik İslami rüya tabirlerinde limon, renk ve rüya içindeki eyleme göre farklı yorumlanır. Sarı limon genellikle hastalık, kınama veya eleştiri çağrıştırırken yeşil limon daha hayırlı sayılır. Limon yemek çoğu tabirde ayıplanma veya hastalanma ile ilişkilendirilir. Limonu yalnızca görmek ise bazı kaynaklarda mal veya nafaka ile yorumlanabilir. Birine limon vermek ise eleştiri ya da olumsuz bir alışveriş riskine işaret edebilir.",
-  "christianTraditions": "",
+  "psychology": "Ampirik psikoloji ve rüya içerik analizi literatüründe, rüyaların başarı, başarısızlık, şans ve duygulanım kategorileri üzerinden kodlandığı; tek bir nesnenin evrensel ve sabit bir anlamı olmadığını gösteren araştırmalar bulunur. Limon gibi keskin özelliklere sahip bir nesne de ancak rüya raporunun genel duygu tonu ve olay örgüsü içinde anlam kazanabilir.",
+  "jungian": "Jungcu ve analitik psikoloji perspektifinde, limon gibi keskin ve ekşi meyve imgeleri, bireyin psişik gelişim sürecinde zor duygularla yüzleşmesi, bilinçlenmesi ve nihayetinde bütünlük arayışına girmesi bağlamında ele alınabilir. Bu okuma, nesneye sabit bir sözlük anlamı yüklemek yerine kişinin içsel dönüşümüne odaklanır.",
+  "islamicTradition": "İslami rüya tabiri aktarımlarında limon sembolü genellikle kınama, ayıplama ve sitem ile ilişkilendirilir. Rüyada sarı limon görmek, hastalık veya sıkıntıya işaret ederken, yeşil limon hayır, mal ve rızık anlamlarına daha yakın bulunur. Limon ağacı ise insanlara fayda sağlayan, çevresine yararı dokunan hayırlı bir kimseyi temsil edebilir.",
+  "christianTraditions": "Hristiyan sembolizminde limonun arınma, tövbe, ışık, sadakat ve misafirperverlik gibi temalarla yan yana getirildiği geleneksel kayıtlar bulunur. Rüya bağlamında bu unsurlar, acı ile temizlenme arasındaki ikili dengeyi yansıtabilir.",
   "jewishTraditions": "",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "Modern spiritüel uygulamalarda ve bazı halk/ritüel uygulamalarda limon, arındırma, negatif enerjiyi uzaklaştırma ve nazara karşı koruma amacıyla kullanılan bir nesne olarak yer alır.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel yaklaşımlarda limon; arınma, temizlik, enerji sınırlarını koruma ve berraklık simgesi olarak ele alınır.",
   "comparisonTable": [
     {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Sabit bir sembol anlamı sunmaz; rüyaları içerik, duygu ve kategori desenleri üzerinden inceler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Zor duygularla yüzleşme, bilinçlenme ve bütünleşme sürecinin bir yansıması olarak ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
       "approach": "İslami Gelenek",
-      "interpretation": "Renk ve eyleme göre ayrışan yorumlar: sarı limon olumsuz sayılır; yeşil limon daha hayırlı kabul edilir. Limon yemek ayıplanma veya hastalanma ile ilişkilendirilirken, limonu görmek bazen mal veya nafaka ile ilişkilendirilebilir.",
+      "interpretation": "Kınama, uyarı, sarı renk için hastalık, yeşil renk için ise hayır, mal ve rızık olarak yorumlar.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Spiritüel ve Halk Pratikleri",
-      "interpretation": "Spiritüel ve halk pratikleri bağlamında limon genellikle dışsal arındırma, koruma ve ritüel amaçlarla ilişkilendirilir.",
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Arınma, sadakat, tövbe ve acı ile yenilenme arasındaki ikili denge bağlamında değerlendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Enerjisel sınırları koruma, arınma ve acı deneyimlerden sonra gelen berraklık olarak yorumlar.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "İslami rüya geleneği ile modern spiritüel uygulamalar arasında limon, doğrudan olumlu ya da olumsuz tek bir anlama indirgenemeyen; renginin, rüya içindeki davranışın ve kültürel bağlamın yön verdiği bir semboldür.",
-  "differences": "İslami rüya yorumları limonun bireysel durumlarla (hastalık, kınama, mal, eleştiri) ilişkisine vurgu yaparken, spiritüel ve halk pratikleri limonu daha çok dışsal arındırma, koruma ve ritüel amaçlarla ele alır.",
-  "inusAssessment": "Limon sembolü için INUS yaklaşımı, tekil bir belirleyiciden ziyade bir dizi koşulun (renk, eylem, kültürel bağlam) birlikte değerlendirilmesi gerektiğini vurgular. Bu koşulların farklı birleşimleri sembolün yönünü değiştirebilir, dolayısıyla rüya bağlamı dikkatle okunmalıdır.",
-  "faq": [],
-  "sources": [
+  "commonGround": "Farklı yaklaşımların kesiştiği ortak nokta, limonun tek düze bir nesne olmayıp hem zorlayıcı/acı deneyimleri hem de bu deneyimlerin ardından gelen temizlenme, farkındalık veya şifa potansiyelini aynı anda barındırmasıdır.",
+  "differences": "Kimi gelenekler limonu doğrudan kınama, sitem ve hastalık gibi uyarıcı işaretler olarak ele alırken, analitik ve spiritüel okumalar bu keskinliği kişisel dönüşüm ve zihinsel berraklık kapısı olarak değerlendirir.",
+  "inusAssessment": "Limon sembolü, rüyada belirdiği andan itibaren zihni uyandıran keskin bir ikilik yaratır; ekşiliği ve sarı rengin taşıdığı uyarıcı tonlar bir yandan sıkıntı ya da eleştiri ihtimalini hatırlatırken, yeşil tonları veya meyvenin sunduğu ferahlık, rızık ve arınma kapılarını açar. Bu nedenle rüyada limon gören kişinin meyvenin rengine, taze olup olmamasına ve rüyadaki duygu tonuna dikkat etmesi, yorumlanacak yönü belirlemede en temel anahtardır.",
+  "faq": [
     {
-      "title": "Lemon Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya tabirinde limonun renk ve eyleme göre (yemek, görmek, vermek) nasıl yorumlandığını aktaran çevrimiçi bir derleme.",
-      "url": "https://www.myislamicdream.com/lemon.html"
+      "question": "Rüyada sarı limon görmek ile yeşil limon görmek arasındaki fark nedir?",
+      "answer": "Geleneksel aktarımlarda sarı limon daha çok hastalık, sıkıntı veya sitemle ilişkilendirilirken; yeşil limon hayır, mal, rızık ve bereket yönüyle ele alınır."
     },
     {
-      "title": "Why lemon holds a special place in spirituality and Hinduism",
-      "relevance": "Limonun Hindu ritüelleri ve modern spiritüel çerçevede arındırma ile negatif enerjiyi uzak tutma işlevleriyle ilişkilendirildiğine dair popüler bir kaynak.",
-      "url": "https://timesofindia.indiatimes.com/life-style/food-news/why-lemon-holds-a-special-place-in-spirituality-and-hinduism/photostory/99964093.cms"
-    },
-    {
-      "title": "Method of casting off the evil-eye using Lemon",
-      "relevance": "Limonun nazar giderme amaçlı kullanımını ve ilgili halk uygulamalarını ele alan uygulamalı bir anlatım.",
-      "url": "https://www.sanatan.org/en/a/94955.html"
-    },
-    {
-      "title": "Lemon fruit: Significance and symbolism",
-      "relevance": "Limonun sembolik kullanımına ilişkin kültürel ve ritüel atıfları derleyen bir derleme kaynağı.",
-      "url": "https://www.wisdomlib.org/concept/lemon-fruit"
+      "question": "Rüyada limon yemek veya limon sıkmak ne anlama gelir?",
+      "answer": "Limonun ekşiliğiyle doğrudan temas etmek, kişinin hayatında sarsıcı, zorlayıcı fakat zihinsel berraklık getiren deneyimler yaşamakta olduğuna işaret edebilir."
     }
   ],
-  "relatedSlugs": []
+  "sources": [
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin temel ilkelerini, ölçek geliştirme ve rüya raporlarının sistematik kodlanmasını açıklar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içerik analizinde kullanılan kategori yapısını ve duygusal/olay temelli kodlamayı gösterir.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "The Jungian Symbolism of the Yellow Lemon on a Tree",
+      "relevance": "Limon görüntüsünü Jungcu terimlerle ekşi duygular, berraklık ve zor duygularla yüzleşme ekseninde yorumlayan modern bir yazı.",
+      "url": "https://rinalouwclinical.co.za/the-jungian-symbolism-of-the-yellow-lemon-on-a-tree/"
+    },
+    {
+      "title": "Dreams by Marie-Louise von Franz — Dreams of Jung, Descartes, Socrates, and Historical Figures | Seba.Health",
+      "relevance": "Rüyalarda meyve imgesini Benlik, bütünlük ve psişik gelişim bağlamında ele alan Jungcu çerçeveyi açıklar.",
+      "url": "https://www.seba.health/library/the-psyche/vonfranz-dreams/"
+    },
+    {
+      "title": "Lemon: A Global History – Elisabeth C. Miller Library",
+      "relevance": "Limonun küresel tarihini ve Avrupa’da değerli, statüyle ilişkili bir ithal ürün olarak konumunu ele alan kütüphane kaynağıdır.",
+      "url": "https://depts.washington.edu/hortlib/book/lemon-a-global-history/"
+    },
+    {
+      "title": "تفسير رؤية الليمون في المنام وأكل الليمون في الحلم - حلوها",
+      "relevance": "Limonun rüya yorumunda kınama, sarıysa hastalık, yeşilse mal ve ağaç halinde fayda anlamlarını aktaran modern Arapça derleme sayfası.",
+      "url": "https://www.hellooha.com/articles/2971-%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D9%8A%D9%85%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D9%88%D8%A3%D9%83%D9%84-%D8%A7%D9%84%D9%84%D9%8A%D9%85%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D9%84%D9%85"
+    },
+    {
+      "title": "تفسير الليمون في الحلم",
+      "relevance": "Limon için kınama, sarıysa hastalık, yeşilse hayır ve mal şeklindeki geleneksel yorumları açıkça özetleyen Arapça haber/yorum sayfası.",
+      "url": "https://www.assawsana.com/article/639738"
+    },
+    {
+      "title": "تفسير رؤية الليمون في المنام.. وما علاقته بجلب المشكلات بالرغبة في العتاب",
+      "relevance": "Limon ağacını fayda veren kimse ve çevresine yararı dokunan biriyle ilişkilendiren Arapça haber sayfası.",
+      "url": "https://www.vetogate.com/4485476"
+    },
+    {
+      "title": "SIGNS: THE SIGNIFICANCE OF - Catholic Tradition",
+      "relevance": "Limonun Hristiyan sembolik gelenekte sadakat ve Meryem’le ilişkilendirildiğini belirten kısa bir sembol kaydı sunar.",
+      "url": "https://www.catholictradition.org/Saints/signs4.htm"
+    },
+    {
+      "title": "Etrog - The Jewish Food Dictionary - foodish",
+      "relevance": "Etrog/citronun Yahudi takvimindeki Sukkot bağlamını ve Dört Tür içindeki yerini gösterir; limon sembolüne en yakın gelen Yahudi bitkisel sembol olarak önemlidir.",
+      "url": "https://foodish.anumuseum.org.il/en/etrog/"
+    },
+    {
+      "title": "Lemon in Dreams: Sour, Bright, and Surprisingly Deep",
+      "relevance": "Rüyada limon için doğrudan sembolik ve ruhsal anlamlar veren bir modern yorum sayfası; temizlik, arınma ve ayırt etme temalarını açıkça işler.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/lemon"
+    },
+    {
+      "title": "Lemon in dreams — meaning and symbolism",
+      "relevance": "Limonu esoterik bir okumada arınma, aydınlanma ve enerji sınırlarının korunmasıyla ilişkilendiren modern bir yorum sayfası.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/lemon"
+    },
+    {
+      "title": "Lemons, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Limonu ezoterik bir okumada arınma, aydınlanma ve enerji sınırlarının korunmasıyla ilişkilendiren modern bir yorum sayfası.",
+      "url": "http://dreamtation.com/docs/7643.htm"
+    },
+    {
+      "title": "Lemon Symbolism: What is the Spiritual Meaning of a ...",
+      "relevance": "Limon için modern ezoterik bir çerçevede temizlenme, yenilenme ve enerjisel arınma vurgusu veren bir yorum sayfası.",
+      "url": "https://www.centreofexcellence.com/lemon-symbolism/"
+    },
+    {
+      "title": "Lemon - Dream Symbol Meaning and Interpretation",
+      "relevance": "Limonun rüyadaki anlamını acılık, sınav ve sonrasında gelen berraklık üzerinden yorumlayan modern bir sembol sözlüğü sayfası.",
+      "url": "https://dreams.guide/dream-symbols/lemon"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
+  ]
 }

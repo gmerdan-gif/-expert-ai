@@ -1,0 +1,235 @@
+{
+  "slug": "ayna-kirilmasi",
+  "title": "ayna kırılması",
+  "shortDescription": "Rüyada ayna kırılması, kişinin kendini nasıl gördüğünün veya dışarıya yansıttığı kimliğin sarsıldığını gösterebilir. Eski kalıpların çözülmesi, huzursuzluk yaratsa da daha sahici bir farkındalığa açılan bir dönüşüm süreci olarak yorumlanabilir.",
+  "positiveAssociations": [
+    "eski ve işlevini yitirmiş kimlik kalıplarının geride bırakılması",
+    "illüzyonların dağılması ve gerçeğin daha net fark edilmesi",
+    "yeni bir içsel farkındalık ve dönüşüm eşiği",
+    "yaşantıya daha sahici bir bakışla yaklaşma imkânı"
+  ],
+  "challengingAssociations": [
+    "psikolojik bütünlükte çatlaklar ve içsel huzursuzluk",
+    "benlik imajının parçalanması ve aidiyet kaybı endişesi",
+    "sosyal itibarda veya dış görünüm algısında zedelenme",
+    "belirsizlik, ayrılık ya da planların bozulması kaygısı"
+  ],
+  "contextDependentAssociations": [
+    "rüyada aynanın kazara mı yoksa bilinçli olarak mı kırıldığı",
+    "kırık aynada rüya sahibinin yüzünün nasıl göründüğü",
+    "kırılma anındaki duygusal tonun korku mu yoksa rahatlama mı olduğu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Bilinçsizce yere düşürüp aynayı kırmak",
+      "description": "Günlük yaşamda kontrol dışı gelişen olaylar nedeniyle kişinin kendi benlik imajını ya da toplumsal duruşunu sarsacak bir hata yapma endişesini simgeler."
+    },
+    {
+      "title": "Kırık aynada parçalanmış kendi yüzünü görmek",
+      "description": "Bireyin iç dünyasındaki bölünmeleri, kendisini eskisi gibi bütünlüklü hissedememesini ve kimlik kargaşasını yansıtır."
+    },
+    {
+      "title": "Duvara asılı dev bir aynanın kendiliğinden çatlaması",
+      "description": "Uzun süredir devam eden bazı kabullerin, ilişkilerin veya yaşam anlatılarının ani olarak geçerliliğini yitirmesi ve bunun derin bir dönüşüm gerektirdiğini gösterir."
+    },
+    {
+      "title": "Elindeki küçük aynayı öfkeyle kırmak",
+      "description": "Kişinin kendi gerçekliğiyle, kusurlarıyla ya da geçmişteki duruşuyla yüzleşmekten kaçınma isteğini ve bastırılmış içsel çatışmalarını dışa vurur."
+    }
+  ],
+  "psychology": "Ampirik rüya çalışmalarında 'ayna kırılması'na ilişkin doğrudan veri yoktur. Bununla birlikte, rüya raporlarındaki duygulanımın otomatik metin analizi, sembollerin bağlamsal önemini desteklemektedir. Klinik gözlemler, rüyalarda sağlam aynaların bütünleşmeyle, parçalanmış veya bozulmuş aynaların ise korku ve daha düşük psikolojik örgütlenme düzeyleriyle ilişkili olabileceğini göstermektedir.",
+  "jungian": "Analitik psikolojide ayna, bilinçdışının kişiye kendini nesnel biçimde gösterme gücünü, öz-farkındalığı ve persona ile gölge arasındaki ilişkiyi temsil eder. Kırık ayna ise eski benlik imgesinin bozulmasını, yanılsamalı yüzeylerin çatlamasını ve bireyleşme sürecinde yaşanabilecek rahatsız edici ama gerekli bir uyanış anını simgeler.",
+  "islamicTradition": "Modern İslami rüya tabiri kaynaklarında kırık ayna, yansımanın temsil ettiği değerlerde bozulma, işlerin ters gitmesi, iç huzurun kaybı, ayrılık veya eş kaybı gibi temalarla ele alınmaktadır.",
+  "christianTraditions": "Kutsal metinlerde \"karanlıkta ayna aracılığıyla görme\" motifi üzerinden kırık ayna, insan algısının ve kavrayışının sınırlılığını vurgulayan teolojik bir paralel sunar.",
+  "jewishTraditions": "Talmudik rüya geleneğinde rüyalar anlamlı kabul edilse de kırık ayna için doğrudan klasik bir metin girişi bulunmamaktadır. Kaynaklarda yer alan bazı halk inançları, ayna kırılmasını talihsizlik veya yedi yıllık zorluklarla ilişkilendirirse de bu durum rüya tabirinden ziyade geleneksel kültürel bir motiftir.",
+  "buddhistEasternApproaches": "Doğu geleneklerindeki bazı halk anlatılarında ayna kırılması, zihinsel huzursuzluk ve denge kaybıyla ilişkilendirilir. Dar bir bakış açısıyla değerlendirildiğinde bu imge, zihnin dinginliğini yitirmesini ve odak bozulmasını işaret eder.",
+  "spiritualApproaches": "Ezoterik ve çağdaş spiritüel okumalarda kırık ayna, eski benlik anlatısının çökmesi, illüzyonların dağılması ve daha sahici bir içsel gerçeğin ortaya çıkması şeklinde yorumlanır. Bu durum, bireyin katı kimlik kalıplarından özgürleştiği bir dönüşüm eşiği olarak görülür.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz ve Klinik Gözlem",
+      "interpretation": "Psikolojik örgütlenmedeki sarsıntılar, bütünlük kaybı ve benlik imgesindeki çözülmelerle ilişkilendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Persona, gölge ve öz-imge arasındaki dengenin kırılması; bireyleşme yolunda eski kalıpların bozulmasıdır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel ve Kültürel Yorumlar",
+      "interpretation": "İşlerin ters gitmesi, ayrılık, beklenmedik haberler veya iç huzurun sarsılması şeklinde ele alınır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "İllüzyonların dağılması, eski kimlikten kurtuluş ve daha gerçekçi bir içsel bakışın doğuşudur.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, aynanın temel işlevi olan 'yansıtma' ve 'bütünlük' halinin kırılmasını ortak bir paydada buluşturur: Bu imge, bilinen gerçekliğin, dış görünümün ya da benlik algısının aniden kesintiye uğradığını gösterir.",
+  "differences": "Psikolojik ve analitik yaklaşımlar kırılmayı içsel bir yeniden yapılanma ve öz-farkındalık fırsatı olarak ele alırken, geleneksel tabirler daha çok dışsal kayıplar, ayrılıklar veya olumsuz gidişatlar üzerine odaklanır.",
+  "inusAssessment": "Bu sembolün yorumunda, kırılmanın kaza sonucu oluşup oluşmadığı ya da rüya sahibinin kasıtlı bir öfke eylemiyle gerçekleşip gerçekleşmediği ayrımına dikkat edilmelidir; kaza genellikle dış etkenlere bağlı bir yönelim kaybına işaret ederken, kasıtlı kırma eski kimlikten bilinçli bir kopuş arzusunu gösterir.",
+  "faq": [
+    {
+      "question": "Rüyada aynanın kendi kendine kırılması ne anlama gelir?",
+      "answer": "Kişinin kontrolü dışında gelişen yaşam olaylarının, uzun süredir sürdürdüğü benlik algısını ve inançlarını sarsacağına işaret eden içsel bir uyarı olarak değerlendirilir."
+    },
+    {
+      "question": "Kırık ayna rüyası kesinlikle kötü bir olayın habercisi midir?",
+      "answer": "Kesin bir kehanet veya kötü haber olarak yorumlanmaz. Daha çok psikolojik olarak eski kimlik kalıplarının geride kalmasından duyulan bilinçaltı kaygıları yansıtır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Signification : Rêver d'un miroir - Psychologies.com",
+      "relevance": "Freud’un rüya yorumunda ayna örneğini bağlamı içinde ele alır; sabit bir sembol sözlüğü yerine çağrışım ve klinik bağlamın önemini öne çıkarır.",
+      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Miroir"
+    },
+    {
+      "title": "Dream Mirrors",
+      "relevance": "Rüyalarda aynanın bütün, parçalanmış, çoğalmış ya da yansımasız olmasının psikolojik örgütlenme ve korku ile ilişkisini bildiren klinik not.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/840955/"
+    },
+    {
+      "title": "Quote by C.G. Jung: “In dreams a mirror can symbolize the power of t...”www.goodreads.com › quotes › 11817642-in-dreams-a-mirror-can-symbol...",
+      "relevance": "Aynanın bilinçdışının kişiye kendisini nesnel biçimde göstermesiyle ilişkisini kuran temel Jung pasajı.",
+      "url": "https://www.goodreads.com/quotes/11817642-in-dreams-a-mirror-can-symbolize-the-power-of-the"
+    },
+    {
+      "title": "projection - Carl Jung Depth Psychology",
+      "relevance": "Aynanın ruhun yansıması, gölge ve nesnel bilinç kazanımıyla ilişkisini öne çıkaran Jungcu aktarım.",
+      "url": "https://carljungdepthpsychologysite.blog/2025/05/19/projection-8/"
+    },
+    {
+      "title": "The Symbol of Mirror in the Analytical Psychology and the Counselor's Attitude - for the Practice of the Correctional Counseling -",
+      "relevance": "Analitik psikolojide aynanın kendini çarpıtmadan görme ve uyanış işlevi üzerine akademik başlık.",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001725094"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation - Attalus.org",
+      "relevance": "Rüya yorumunda sembollerin rüya sahibinin yaşam koşulları ve toplumsal konumuyla birlikte okunmasına dair Greko-Romen oneirokritik çerçeve.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "A mirror in a dream | The Islamic Dream Book",
+      "relevance": "Kırık aynayı, yansımanın temsil ettiği değerlerde bozulma veya benlik imajına ya da aynanın temsil ettiği kişiye yönelik zarar olarak ele alan modern İslami rüya yorumu.",
+      "url": "https://theislamicdreambook.com/a-mirror-in-a-dream/"
+    },
+    {
+      "title": "Rüyada Ayna Görmek Ne Demek? Aynanın Kırılması (Kırık Ayna) Ne Anlama Gelir?",
+      "relevance": "Rüyada aynanın kırılmasını kötü haber, ayrılık ve eşin ölümüyle ilişkilendiren modern Türkçe yorum sayfası.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-ayna-gormek-ne-anlama-gelir-25306"
+    },
+    {
+      "title": "Значение сна: Зеркало разбить — Исламский сонник",
+      "relevance": "Kırık aynayı iç huzurun kaybı, çatışma ve kişisel şüphelerle ilişkilendiren Rusça İslami rüya sözlüğü kaydı.",
+      "url": "https://xcards.ru/dreambook/islamskiy-sonnik/dream/%D0%97%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE%20%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D1%82%D1%8C/"
+    },
+    {
+      "title": "Ayna",
+      "relevance": "Aynanın kırılmasını eşin vefatı, hayal kırıklığı, kısmetin kapanması ve ayrılıkla ilişkilendiren modern Türkçe yorum.",
+      "url": "https://www.ruyaburcyorumlari.com/ruyada-ayna-gormek/"
+    },
+    {
+      "title": "Broken Mirror Islamic Interpretations & Meanings",
+      "relevance": "Kırık aynayı eşin ölümü olarak özetleyen kısa çevrimiçi İslami rüya tabiri kaydı.",
+      "url": "https://www.myislamicdream.com/broken_mirror.html"
+    },
+    {
+      "title": "Breaking Mirror Islamic Interpretations & Meanings",
+      "relevance": "Ayna kırmayı eşin ölümüyle ilişkilendiren kısa çevrimiçi İslami rüya tabiri kaydı.",
+      "url": "https://www.myislamicdream.com/breaking_mirror.html"
+    },
+    {
+      "title": "What Does It Mean to See a Mirror in a Dream? Ancient ...",
+      "relevance": "Kırık aynayı yeniden değerlendirme, dönemin sonu ve eş kaybı temalarıyla birlikte sunan modern yorum yazısı.",
+      "url": "https://dreamswisdom.com/what-does-it-mean-to-see-a-mirror-in-a-dream-ancient-scholars-unveil-the-layers-of-reflection"
+    },
+    {
+      "title": "Dreaming of Breaking a Mirror Meaning in Islam",
+      "relevance": "Kırık aynayı dönüşüm, iç çatışma ve iç gerçeklerle yüzleşme temalarıyla açıklayan modern yorum yazısı.",
+      "url": "https://dreamsq.org/dreaming-of-breaking-a-mirror-meaning-in-islam/"
+    },
+    {
+      "title": "Rüyada Ayna Görmek Ne Anlama Gelir? | Rüya Tabirleri - Yeni Şafak",
+      "relevance": "Aynanın kırılmasını işlerin ters gitmesi anlamıyla veren modern Türkçe rüya tabiri sayfası.",
+      "url": "https://www.yenisafak.com/ruya-tabirleri/ruyada-ayna-gormek-ne-anlama-gelir"
+    },
+    {
+      "title": "Ayna - Rüya Tabiri",
+      "relevance": "Aynanın kırılmasını kötü haber alınmasıyla ilişkilendiren Türkçe rüya tabiri sayfası.",
+      "url": "https://www.yeniarayis.com/ruya-tabirleri/ayna-461"
+    },
+    {
+      "title": "Biblical Meaning of Broken Mirror",
+      "relevance": "Kırık aynayı Hristiyan sembolizminde insan kırılganlığı, günah ve ilahî yenilenme ihtiyacıyla ilişkilendiren çağdaş bir açıklama.",
+      "url": "https://biblicalpathway.com/biblical-meaning-of-broken-mirror/"
+    },
+    {
+      "title": "Broken Mirrors in Dreams: Spiritual & Biblical Meanings",
+      "relevance": "1 Korintliler 13:12 üzerinden aynanın sınırlı kavrayışı simgeleyişini ve kırık aynanın parçalı algı fikrini destekleyen metin.",
+      "url": "https://mirrorvista.com/broken-mirrors-in-dreams-spiritual-biblical-meanings/"
+    },
+    {
+      "title": "The concept of Broken mirror in Christianity",
+      "relevance": "Kırık ayna benzetmesini, Mesih’in bedenine dair algının eksik ve benzetimsel yönünü anlatan Hristiyan kavramsal kullanım.",
+      "url": "https://www.wisdomlib.org/christianity/concept/broken-mirror"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Rüyaların anlamı ve yorumlanması üzerine temel rabbanî çerçeveyi sağlar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "MIRROR - JewishEncyclopedia.com",
+      "relevance": "Ayna kırılmasının Yahudi halk inancındaki yansımalarını aktarır.",
+      "url": "https://www.jewishencyclopedia.com/articles/10106-looking-glass"
+    },
+    {
+      "title": "Broken mirror - superstition?",
+      "relevance": "Aynanın kırılmasını zihnin huzursuzluğu ve kötü alametle ilişkilendiriyor; Doğu geleneklerinde ayna kırılması sembolüne yakın bir işaret sunuyor.",
+      "url": "https://namadwaar.org/columns-by-devotees/nibbles/broken-mirror-superstition/"
+    },
+    {
+      "title": "Broken Mirror Symbolism & Meaning: What It Represents - MyMythos",
+      "relevance": "Kırık aynayı parçalanmış kimlik, zorlayıcı hakikat ve tek bir yansımanın ötesini görme temalarıyla ilişkilendiriyor; ayrıca rüyada kırık aynayı öz-imajın artık uymadığı bir durum olarak ele alıyor.",
+      "url": "https://mymythos.org/archetype/broken-mirror/"
+    },
+    {
+      "title": "What does dreaming about broken mirror mean? - Insights by Omkar",
+      "relevance": "Rüyada kırık aynayı parçalanmış öz-imaj, uğursuzluk inancı ve bütün görülemeyen bir şeyin açığa çıkması olarak yorumluyor; yansıtıcı yüzeyin kırılmasını benlik algısındaki dağılma olarak okuyor.",
+      "url": "https://insightsbyomkar.com/dreams/broken-mirror"
+    },
+    {
+      "title": "Meaning of Dreaming About a Breaking Mirror",
+      "relevance": "Kırılan aynayı, mevcut öz-imajın çökmesi ve yeni benlik algısının ortaya çıkışı olarak açıklıyor; ayna kırılmasını dönüşüm eşiği şeklinde ele alıyor.",
+      "url": "https://oneiro.click/en/articles/mirror-breaking-dream/"
+    },
+    {
+      "title": "What Does it Mean When You Dream About Mirrors?",
+      "relevance": "Kırık aynayı özsaygı, kimlik ve dönüşüm temalarıyla ilişkilendiriyor; manevi çerçevede eski alışkanlıklardan kopuşu işaret eden bir sembol olarak sunuyor.",
+      "url": "https://www.centreofexcellence.com/dreams-about-mirrors/"
+    },
+    {
+      "title": "Discover the Broken Mirror Dream Meaning and Its Symbolism",
+      "relevance": "Kırık aynanın rüyada bozulmuş ya da belirsiz bir benlik algısını, yaşamda önemli bir geçişi ve eski kimliğin bırakılışını simgeleyebileceğini söylüyor.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/broken-mirror/"
+    },
+    {
+      "title": "Spiritual Meaning of Mirrors in Dreams - Night Omen",
+      "relevance": "Rüyadaki kırık aynayı kişisel parçalanma, yanılsamanın kırılması ve eski benlik imgesinin dağılmasıyla ilişkilendiriyor; bunu manevi bir çözülme ve yeniden yönelim teması olarak sunuyor.",
+      "url": "https://nightomen.com/spiritual-meaning-of-mirrors-in-dreams/"
+    },
+    {
+      "title": "Shattered Glass or Broken Mirror - Somniscient",
+      "relevance": "Kırık ayna ya da kırık cam görüntüsünü, öz-imajda yarılma ve içsel-gerçek benlik arasındaki kopukluk olarak yorumluyor; bu nedenle sembolü benlik bütünlüğüyle ilgili bir çatlak olarak ele alıyor.",
+      "url": "https://somniscient.com/en/common-dreams/shattered-glass-or-broken-mirror"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian",
+    "buddhist-eastern"
+  ]
+}

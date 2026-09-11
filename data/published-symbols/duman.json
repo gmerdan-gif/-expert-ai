@@ -1,131 +1,300 @@
 {
   "slug": "duman",
   "title": "duman",
-  "shortDescription": "Rüyada duman görmek, belirsizlik, gizli kalan durumlar veya kaynağı tam anlaşılmayan bir gerilimi çağrıştırabilir. Sakin tütsü dumanı ise arınma, adanmışlık ve geçicilikle ilişkilendirilebilir.",
+  "shortDescription": "Rüyada duman görmek, belirsizlik, görüşünüzü engelleyen bir durum, sıkıntı veya bastırılmış meselelerle ilişkilendirilebilir. Koyu ve boğucu duman baskı ve kargaşayı öne çıkarırken, dumanın dağılması veya içinden çıkmak rahatlama ve ferahlamayı çağrıştırabilir; sigarayı bırakma döneminde ise duman doğrudan yoksunluk deneyiminin rüyaya yansıması olabilir.",
   "positiveAssociations": [
-    "Ritüel arınma ve adanmışlık"
+    "Dumanın içinden selamete çıkmak ve feraha ermek",
+    "Beyaz dumanın çağrıştırdığı arınma, geçiş ve sakinleşme",
+    "Tütsü veya kurban dumanının temsil ettiği ibadet, dua ve ruhsal yükseliş",
+    "Evden veya iş yerinden yükselen duman, geçim üzerinde baskı oluştuğuna veya maddi sıkıntıya işaret edebilir."
   ],
   "challengingAssociations": [
-    "Korku, zarar ve musibet beklentisi",
-    "Belirsizlik ve olayların ardındakileri görememe",
-    "Otorite kaynaklı uyarılar ve kargaşa hissi"
+    "Yoğun ve karanlık dumanın işaret ettiği keder, sıkıntı, korku ve bunaltı",
+    "Nikotin yoksunluğu süreçlerinde görülen panik ve suçluluk duyguları.",
+    "Siyah dumanın veya dünyayı saran dumanın getirdiği fitne, zulüm ve kargaşa.",
+    "Ev ya da iş yerinden çıkan dumanın simgelediği mal kaybı ve daralma"
   ],
   "contextDependentAssociations": [
-    "Tütsü bağlamında huzur ve adanmışlık çağrıştırması",
-    "Yangın veya yoğun duman anında tehlike ve uyarı işareti olması",
-    "Geçici bir durumun veya faniliğin hatırlatıcısı"
+    "Dumanın rengi (beyaz, siyah, sarı veya kırmızı olması)",
+    "Dumanın kaynağı (evden yükselen, bir nesnenin üzerine çöken ya da ateşle birlikte görülen).",
+    "Rüya sahibinin uyanık yaşamındaki sigara bırakma ve alışkanlık süreçleri",
+    "Dumanın boğucu bir perde mi yoksa yukarı yükselen hoş kokulu bir buhur mu olduğu"
   ],
   "commonVariations": [
     {
-      "title": "Evde Yoğun Duman Görmek",
-      "description": "Yaşam alanını kaplayan ve kaynağı belirsiz yoğun duman, ev içindeki huzursuzluklara, iletişim kopukluklarına veya açığa çıkarılamayan meselelere işaret edebilir."
+      "title": "Sigara Bırakma Sürecinde Yoğun Duman Rüyası",
+      "description": "Sigarayı bırakma veya nikotin yoksunluğu döneminde, rüya sahibinin kendisini yeniden sigara içerken bulması ve bu esnada yoğun bir suçluluk veya panik yaşaması."
     },
     {
-      "title": "Tütsü Dumanının Yükselişi",
-      "description": "İnce ve sakin bir şekilde yükselen tütsü dumanı, zihinsel arınma arayışını, ruhsal adanmışlığı ve geçici dünyanın huzurlu bir anını yansıtır."
+      "title": "Evden veya İş Yerinden Yükselen Kara Duman",
+      "description": "Kişinin kendi yaşam alanından ya da çalışma ortamından koyu ve siyah dumanlar yükseldiğini görmesi; bu durum geçim sıkıntısına veya çevresel baskılara işaret edebilir."
     },
     {
-      "title": "Ateş Olmadan Duman Çıkması",
-      "description": "Ortada belirgin bir ateş olmaksızın yükselen duman, etkisi hissedilen ancak kaynağı henüz tam olarak çözülememiş gizli bir gerilimin veya durumun simgesidir."
+      "title": "Dumanın İçinden Selamete Çıkmak",
+      "description": "Yoğun bir duman bulutunun veya sisin ortasında kalındıktan sonra, kişinin aydınlığa ve ferah bir alana çıkarak rahat bir nefes alması."
     },
     {
-      "title": "Duman İçinde Yönünü Kaybetmek",
-      "description": "Yoğun duman nedeniyle görüş mesafesinin kısıtlandığı ve yönün bulunamadığı senaryolar, uyanık yaşamdaki belirsizlikleri, kararsızlıkları ve yönelim kayıplarını temsil eder."
+      "title": "Tütsü veya Buhur Dumanı",
+      "description": "Ritüel, ibadet veya sakinleşme bağlamında ince, yukarı doğru süzülen hoş kokulu tütsü dumanı görmek."
     }
   ],
-  "psychology": "Psikanalitik ve teorik yaklaşımlarda duman, görünmeyen ama etkisi derinden hissedilen bir gerilimin veya gizli bir ateşin izi olarak ele alınır. Doğrudan ampirik psikoloji çalışmalarında rüya unsuru olarak spesifik incelemeler bulunmamakla birlikte, duman metaforu bilinç ile bilinçdışı arasında bir perde işlevi görmek üzere teorik biçimde kullanılır.",
-  "jungian": "Jungcu analitik psikoloji çerçevesinde duman, bilinç ile bilinçdışı arasında kısmi bir örtü görevi görür; hangi kuvvetlerin veya duyguların altta yandığını bütünüyle göstermeyen, gerçekliği kısmen örten bir görüntü olarak yorumlanır.",
-  "islamicTradition": "İslami rüya tabir geleneğinde duman, geleneksel kaynaklarda sıklıkla korku, zarar, fitne, musibet veya otorite kaynaklı uyarılarla ilişkilendirilir; mevcut çevrimiçi derlemeler bu yönü vurgular.",
-  "christianTraditions": "Hristiyan kutsal metinlerinde duman, Tanrı'nın yüce varlığını, ilahi yargıyı, ibadet anlarını ve bazen uyarı işaretlerini simgeleyen çok katmanlı bir imge olarak yer alır; bu kullanım rüya yorumu değil, kutsal metinlerdeki sembolizmdir.",
-  "jewishTraditions": "Yahudi-Hristiyan ilahiyatında duman, Tanrı’nın varlığını ve yaklaşan uyarı veya yargıyı çağrıştıran kutsal metin motifleri içinde yer alır; bu bağlam doğrudan rüya tabiri geleneğiyle aynı şey değildir.",
-  "buddhistEasternApproaches": "Budist ve Doğu geleneklerinde duman, derin bir gerçeğin yalnızca dışsal göstergesi olarak görülür; tütsü dumanı ritüel bağlamında geçiciliği, adanmışlığı ve zihinsel arınmayı çağrıştırırken, dumanın kendisi ateşin doğrudan özü değildir.",
-  "spiritualApproaches": "",
+  "psychology": "Ampirik psikoloji literatüründe duman rüyaları çoğunlukla sigara içme davranışı ve yoksunluk süreçleriyle ilişkilendirilmiştir. Özellikle sigarayı bırakan bireyler üzerinde yapılan çalışmalar, bu süreçte duman ve sigara temalı rüyaların arttığını ve bu rüyalarda panik ile suçluluk gibi güçlü olumsuz duygu halleri bulunduğunu göstermektedir. Buna karşın, rüya günlüklerine dayanan çalışmalar, genel popülasyonda sigara veya duman referanslarının nispeten nadir olduğunu ve bu içeriklerin doğrudan sabit bir sembolik anlam taşımaktan çok uyanık yaşamdaki alışkanlıkları ve beden durumunu yansıttığını ortaya koymaktadır. Psikanalitik çerçevede ise duman, bastırılmış arzuların izi, ağızsal haz ve yasak-bastırma gerilimiyle bağdaştırılır; Freud’un vakalarında duman kokusu örtük arzuların ve yakınlık çağrışımlarının bir izi olarak ele alınmıştır.",
+  "jungian": "Jungcu ve analitik psikoloji perspektifinde duman, bilinç ile bilinçdışı arasındaki sınırın bulanıklaşmasını ve görüşü örten bir sis tabakasını simgeler. Duman, altındaki psikolojik içeriği gizlerken aynı zamanda görünür kılan geçişsel bir imge olarak değerlendirilir. Gölge yönlerin, bastırılmış dürtülerin ve psişik bütünleşme sürecinin bir yansıması olarak düşünülebilir; ancak bu imge sabit bir hüküm içermez ve rüyanın duygusal tonuna göre anlam değiştirir.",
+  "islamicTradition": "İslami rüya tabiri geleneklerinde duman çoğunlukla üzüntü, keder, gam, korku ve sıkıntıya delâlet eder. Siyah dumanın çökmesi günah, hata, kargaşa ve otorite kaynaklı haksızlıklarla ilişkilendirilirken, dumanın içinden selamete çıkmak günahlardan tevbe etmeye ve feraha ermeye işaret eder. Dumanın çıktığı yer (ev, dükkân veya dünyanın tamamı) ve niteliğine göre yorumu değişir; evden çıkan duman geçim sıkıntısı veya mal kaybına yorulabilirken, alevlerle birlikte görülen yoğun duman toplu musibet veya fitne anlamları taşıyabilir.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde duman, kutsal metinlerdeki kullanımlara dayanarak çok katmanlı biçimde ele alınır. Sina Dağı teofanisindeki duman ilahi varlığı ve numinöz atmosferi temsil ederken, Sodom ve Gomora örneklerinde olduğu gibi yıkım ve ilahi yargıyı da çağrıştırabilir. Aynı zamanda kurban ve tütsü dumanı ibadetin Tanrı’ya yükselişini simgeler; dumanın hızla dağılması ise insan yaşamının geçiciliği ve faniliği ile bağdaştırılır.",
+  "jewishTraditions": "Kabalistik okumalarda duman, dünya, zaman ve ruh gibi temel boyutlarla bağlantılı, çok katmanlı bir gizem unsuru olarak görülür.",
+  "buddhistEasternApproaches": "Tibet ve Budist ritüellerinde duman, kötücül etkileri yatıştırmak amacıyla yapılan tütsü ve adak uygulamalarıyla ilişkilendirilir; bu bağlamda arınma, zihnin sakinleşmesi ve dikkatin toplanması anlamları taşır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda duman, fiziksel dünya ile ruhsal alan arasında bir eşik veya perde olarak yorumlanır. Yukarı doğru yükselen duman dua, niyet veya enerjinin dönüşümünü simgelerken, yoğun ve kalın duman çözülmemiş bir karmaşayı veya enerji tıkanıklığını işaret edebilir. Beyaz duman genellikle arınma ve olumlu geçişlerle, siyah duman ise yoğunlaşmış olumsuzluk ve zihinsel bulanıklıkla ilişkilendirilir.",
   "comparisonTable": [
     {
-      "approach": "Psikanaliz ve Teorik Yaklaşım",
-      "interpretation": "Gizli bir ateşin izi ve bilinçdışı gerilimlerin dolaylı belirtisi.",
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Sigara bırakma süreci, nikotin yoksunluğu ve günlük yaşam alışkanlıklarının rüyaya yansıması; panik ve suçluluk tonları.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Bastırılmış arzuların izi, ağızsal haz, gerilim düzenleme ve dolaylı doyum mekanizmaları.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Analitik Psikoloji",
-      "interpretation": "Bilinç ile bilinçdışı arasında gerçeği kısmen örten bir perde.",
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilinç ile bilinçdışı arasındaki sisli sınır, geçişsellik, gölge yönler ve psişik bütünleşme arayışı.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami Rüya Geleneği",
-      "interpretation": "Korku, zarar, musibet ve otorite kaynaklı uyarılar.",
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Üzüntü, keder, sıkıntı, fitne veya zalim otorite; dumanın rengine göre azap ya da selamete çıkış.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan ve Yahudi Metinleri",
-      "interpretation": "İlahi varlık, yargı, ibadet ve uyarı işareti.",
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "İlahi teofani, ilahi yargı, ibadetin yükselişi ve insan yaşamının faniliği.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist ve Doğu Yaklaşımları",
-      "interpretation": "Görünüş ile hakikat arasındaki fark, geçicilik ve ritüel arınma.",
+      "approach": "Yahudi Mistik Geleneği",
+      "interpretation": "Ketoret ve kurban dumanı aracılığıyla ilahi yakınlık, arınma, gizem ve yargı-merhamet dengesi.",
       "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımı",
+      "interpretation": "Fenomenlerin geçiciliği, yanılsama, zihni sakinleştirme ve ritüel adak sunumları.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Okuma",
+      "interpretation": "Fiziksel ile ruhsal arasındaki eşik, enerjinin dönüşümü, arınma veya zihinsel bulanıklık.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Çeşitli gelenek ve teorik çerçeveler, dumanı kendisi başlı başına bir öz değil; arkasındaki başka bir duruma (ateş, ilahi varlık, gizli gerilim) işaret eden görünür bir belirti olarak görme eğilimindedir.",
-  "differences": "Yaklaşımlar arasındaki fark, dumanın yüklediği anlamın niteliğindedir: İslami rüya geleneği genellikle uyarı ve musibet üzerine vurgu yaparken, kutsal metin yorumları ilahi varlık ve yargıya odaklanır; Doğu gelenekleri görünüş ile hakikat ayrımını ve geçiciliği öne çıkarır; psikolojik teoriler ise içsel gerilimlerin perdelenmesi olarak yorumlar.",
-  "inusAssessment": "Duman sembolü tek bir kesin anlama indirgenemez. Rüyada dumanın yorumu, rüya görenin yaşam bağlamına, dumanın yoğunluğuna, kaynağına ve uyanıştaki duyguya göre değişir. Bu nedenle yorumu yaparken bağlamsal ve kişisel unsurların dikkate alınması gerekir.",
+  "commonGround": "Farklı disiplinler ve gelenekler arasında duman sembolü, net bir şekilde görülemeyen, ortalığı saran veya yukarı doğru hareket eden belirsiz bir unsur olarak ortak bir paydada buluşur. İster psikolojik yoksunluk ve bastırılmış arzular üzerinden, ister dini geleneklerdeki sıkıntı, arınma ve ilahi teofani ekseninde ele alınsın, duman her zaman arkasında gizlenen veya örtülen bir gerçeğe işaret eden geçişsel bir nitelik taşır.",
+  "differences": "Ampirik psikoloji ve psikanaliz, dumanı bireyin içsel alışkanlıkları, yoksunluk süreçleri ve dürtüsel dinamikleri bağlamında ele alırken; dini ve teolojik gelenekler dumanı ilahi yargı, sıkıntı veya ibadet bağlamında yorumlar. Spiritüel okumalar ise enerji dönüşümü ve eşik deneyimi ekseninde değerlendirir.",
+  "inusAssessment": "Rüyadaki duman sembolü, sabit ve tek bir anlama indirgenemeyen, son derece bağlama duyarlı bir imgedir. Rüyayı yorumlarken dumanın rengi (beyaz, siyah veya yoğun karanlık), kaynağı (evden, iş yerinden ya da bir ateşten yükselmesi) ve rüya sahibinin uyanık yaşamındaki koşulları (örneğin nikotin yoksunluğu veya bir bırakma süreci) kritik birer ayrım noktasıdır. Boğucu ve karanlık bir duman bulutu sıkıntı veya kargaşa çağrışımları uyandırabilirken, dumanın içinden selamete çıkmak veya yükselen ince bir buhur arınma ve ferahlama anlamları taşıyabilir. Bu nedenle duman rüyası, tekil bir kehanetten ziyade kişinin zihinsel, duygusal ve ruhsal eşiklerinin çok katmanlı bir yansıması olarak ele alınmalıdır.",
   "faq": [
     {
-      "question": "Rüyada duman görmek her zaman kötü bir olaya mı işaret eder?",
-      "answer": "Hayır. Duman geleneklerde ve kültürlerde korku ve musibet gibi zorlayıcı anlamlar taşıyabildiği gibi, tütsü bağlamında arınma, adanmışlık veya geçicilik gibi daha nötr veya olumlu temalarla da ilişkilendirilebilir."
+      "question": "Rüyada duman görmek her zaman sıkıntı ve keder anlamına mı gelir?",
+      "answer": "Hayır. Geleneksel tabirlerde siyah ve yoğun duman sıkıntı veya kederle ilişkilendirilse de, dumanın rengine ve bağlamına göre anlam değişir. Örneğin beyaz duman veya dumanın içinden selamete çıkmak, feraha ermek, tevbe etmek ve arınmak şeklinde yorumlanabilir."
     },
     {
-      "question": "Duman sembolü psikolojik olarak neyi temsil eder?",
-      "answer": "Psikanalitik ve Jungcu çerçevede duman, henüz tam olarak aydınlatılamamış bilinçdışı süreçleri, gizli gerilimleri ya da gerçek niyetlerin üzerini örten geçici perdeleri simgeler."
+      "question": "Sigarayı bıraktıktan sonra rüyada duman veya sigara görmek ne anlama gelir?",
+      "answer": "Ampirik psikoloji çalışmalarına göre, sigara bırakma ve nikotin yoksunluğu süreçlerinde bu tür rüyalar oldukça yaygındır. Genellikle uyanık yaşamdaki alışkanlıkların, bedensel yoksunluğun ve bu süreçte yaşanan panik veya suçluluk duygularının rüya içeriğine yansıması olarak görülür."
     }
   ],
   "sources": [
     {
-      "title": "A Global History of Smoking - PMC",
-      "relevance": "Tütün ve dumanın tarihsel-kültürel kullanım alanlarını, ritüel ve toplumsal pratiklerle birlikte ele alır.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC548194/"
+      "title": "Smoking dreams in the dream series of a non-smoker",
+      "relevance": "Sigara bırakma ve nikotin yoksunluğu bağlamında sigara içme rüyalarının sıklığını, duygusunu ve bağımlılık süreciyle ilişkisini ele alır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/12059"
     },
     {
-      "title": "Smoke Dreams - Psychologist World",
-      "relevance": "Rüya sözlükleri ve popüler psikoloji metinleri içinde dumanı belirsizlik, korku ve güçlüklerle ilişkilendirir; ayrıca psikolojik ve Jungcu çağrışımlar sunar.",
-      "url": "https://www.psychologistworld.com/dreams/dictionary/smoke"
+      "title": "Dream content in cigarette smokers",
+      "relevance": "Sigara içen ve içmeyen yetişkinlerin ev rüya günlüklerinde sigara referanslarının ne kadar yer aldığını ve bu içeriğin günlük yaşam davranışlarıyla ilişkisini inceler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/83871"
     },
     {
-      "title": "Smoke Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya tabir derlemelerinde dumanın korku, zarar, musibet ve otoriteyle bağlantılı yorumlarını toparlayan çevrimiçi kaynak.",
-      "url": "https://www.myislamicdream.com/smoke.html"
+      "title": "Freud - DreamsID.com",
+      "relevance": "Dora vakasında duman kokusunun bastırılmış istekler ve öpüşme/arzusal yakınlıkla ilişkilendirildiği pasaj.",
+      "url": "https://dreamsid.com/freud.html"
     },
     {
-      "title": "Microsoft Word - Smoke",
-      "relevance": "Dumanın kutsal metinlerde Tanrı’nın varlığı, yargısı ve koruyucu kudretiyle ilişkilendirildiğini özetleyen Hristiyan sembolizmine dair yazı.",
-      "url": "https://www.biblehouseofgrace.com/uploads/9/2/2/1/92218980/smoke.pdf"
+      "title": "Freud and his Cigars - Freud Museum London",
+      "relevance": "Freud’un sigara ve puro kullanımının ağızsal haz ve psikolojik çağrışımlarla ilişkilendirildiğini aktaran kurum yazısı.",
+      "url": "https://www.freud.org.uk/2020/04/22/freud-and-his-cigars/"
     },
     {
-      "title": "The Symbolism and Significance of Smoke in the Bible",
-      "relevance": "İncil metinleri bağlamında dumanın ilahi varlık, yargı ve ibadetle ilişkili sembolik kullanımlarını açıklar.",
-      "url": "https://digitalbible.ca/article-page/modern-topics-what-does-the-bible-say-about-smoke"
+      "title": "Literature, Psychoanalysis, and the Fictional Freud - NTU > IRep",
+      "relevance": "Sublimasyon teriminin dumanın havaya dağılması çağrışımıyla ilişkisini açıklayan akademik çalışma.",
+      "url": "https://irep.ntu.ac.uk/id/eprint/50569/1/Iain%20Spillman%202022.pdf"
     },
     {
-      "title": "Smoke - JW.ORG",
-      "relevance": "Kutsal metinlerde dumanın uyarı ve yaklaşan yıkım işareti olarak sembolleşmesi üzerine kurumsal ilahiyat açıklaması.",
-      "url": "https://www.jw.org/en/library/books/Insight-on-the-Scriptures/Smoke/"
+      "title": "Apocryphal Freud",
+      "relevance": "Freud’da rüya sembolizminin cinsel kompleksleri temsil etmede özel bir dile sahip olduğu yönündeki akademik derleme/inceleme.",
+      "url": "https://elms.faculty.ucdavis.edu/wp-content/uploads/sites/98/2014/07/20011Apocryphal-Freud-July-17-2000.pdf"
     },
     {
-      "title": "Smoke: Significance and symbolism",
-      "relevance": "Budist bağlamda dumanın ateşle ilişkili görünür bir işaret olarak anlamını tartışır.",
-      "url": "https://www.wisdomlib.org/concept/smoke"
+      "title": "More Than a Cigar",
+      "relevance": "Freud’un puroyu çalışma, topluluk ve erkeklik çağrışımlarıyla ilişkilendirdiğini aktaran popüler tarihsel yazı.",
+      "url": "https://www.cigaraficionado.com/article/more-than-a-cigar-6051"
     },
     {
-      "title": "Significance of Presence of smoke",
-      "relevance": "Tibet Budizmi ve ilgili Doğu geleneklerinde dumanın belirti oluşu ve görünüşün aldatıcılığıyla ilişkisini ele alır.",
-      "url": "https://www.wisdomlib.org/concept/presence-of-smoke"
+      "title": "Smoke Dream Meaning & Interpretation - Mirror",
+      "relevance": "Rüyadaki duman için Jungcu çağrışımlar sunan çevrimiçi yorum sayfası; gölge, bastırılmış içerik ve bütünleşme temalarıyla ilişki kuruyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/smoke/"
     },
     {
-      "title": "Incense-smoke: Significance and symbolism",
-      "relevance": "Budist ritüellerde tütsü dumanının geçicilik, adanmışlık ve zihinsel arınmayla ilişkilendirilmesini açıklar.",
-      "url": "https://www.wisdomlib.org/concept/incense-smoke"
+      "title": "Smoke",
+      "relevance": "Dumanı bilinç ile bilinçdışı arasındaki örtü ve algıyı bulandıran bir imge olarak ele alan Jungcu yorum sayfası.",
+      "url": "https://rosmertapublishing.com/dream-symbols/smoke/"
+    },
+    {
+      "title": "The Gods",
+      "relevance": "Rüya isteme ritüellerinde tütsü dumanının kullanılmaması, dumanın kutsal iletişim ve ritüel sınırlar bağlamındaki yerini gösterir.",
+      "url": "https://academic.oup.com/book/40085/chapter/341038245?guestAccessKey="
+    },
+    {
+      "title": "Artemidorus on Dreams - translation - Attalus.org",
+      "relevance": "Artemidorus’un antik rüya yorum geleneğindeki merkezi yerini gösterir ve tarihsel rüya tabiri çerçevesini kurar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "9789004473461.pdf",
+      "relevance": "Antik oneirokritik gelenekte duyusal işaretlerin nasıl dağıldığını tartışır; ‘duman’ için doğrudan maddesel kanıt bulunmadığında sınır çizmek açısından önemlidir.",
+      "url": "https://library.oapen.org/bitstream/id/be0d003a-dffa-4f0d-957d-ee9e2354433a/9789004473461.pdf"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Duman sembolüne doğrudan rüya tabiri verir; sıkıntı, günah ve ferahlığa çıkış eksenini açıklar.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri T Harfi",
+      "relevance": "Dumanın korku, azap, hastalık, geçim sıkıntısı ve toplu musibetlerle ilişkisini aktaran derleme kayıt.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-t-harfi.html"
+    },
+    {
+      "title": "İbn Sirin yuxuda dumanı görməyin ən vacib şərhləri - yuxuların onlayn təfsiri",
+      "relevance": "Dumanı otorite kaynaklı haksızlık, hastalık ve vesvese bağlamında sunan çevrimiçi aktarım; İbn Sîrîn’e nispet edilen ifadeler içerir.",
+      "url": "https://az.interpret-dreams-online.com/Yuxuda-duman-g%C3%B6rm%C9%99nin-t%C9%99fsiri/"
+    },
+    {
+      "title": "Smoke in a dream | The Islamic Dream Book",
+      "relevance": "Dumanı korku ve kargaşa ile ilişkilendiren çevrimiçi İslami rüya tabiri sayfası.",
+      "url": "https://theislamicdreambook.com/smoke-in-a-dream/"
+    },
+    {
+      "title": "White Smoke Islamic Interpretations & Meanings",
+      "relevance": "Dumanın azap, korku, menfaat kaybı ve musibet çağrışımlarını veren İslami yorum sayfası.",
+      "url": "https://www.myislamicdream.com/white_smoke.html"
+    },
+    {
+      "title": "Cloud of smoke - Islamic Interpretation - Dream Wisdom",
+      "relevance": "Yoğun dumanı ilahî veya yönetsel ceza, evden çıkan dumanı iftira ve hastalıkla ilişkilendiren yorum metni.",
+      "url": "https://www.dream-wisdom.com/en/dreams/cloud-of-smoke/"
+    },
+    {
+      "title": "What Does Dreaming About Smoke Mean? - Rüya Tabirleri",
+      "relevance": "Dumanı korku ve siyah dumanı büyük felaket olarak veren kısa çevrimiçi yorum.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-smoke"
+    },
+    {
+      "title": "Seeing Fire in Dream Islam (Dreaming of Burning, Fire Smoke)",
+      "relevance": "Dumanı savaş, fitne, hüzün ve bunaltı ile ilişkilendiren İslami yorum çerçevesi.",
+      "url": "https://www.hiwamag.com/dream-interpretation/seeing-fire-islam/"
+    },
+    {
+      "title": "Islamic Meaning: Seeing Smoke in a Dream",
+      "relevance": "Dumanı zalim hükümdar ve baskıcı güç temasıyla ilişkilendiren çevrimiçi aktarım.",
+      "url": "https://lifeinsaudiarabia.net/islamic-meaning-seeing-smoke-in-a-dream/"
+    },
+    {
+      "title": "İslami Rüya Tabirleri, Nablusi, Kirmani, İbn-i Sirin, İmam Cafer Sadık, Seyyid Süleyman, Danyal - D",
+      "relevance": "Dünyayı saran dumanı kargaşa; ev veya iş yerinden çıkan dumanı mal kaybı ve zorbalıkla ilişkilendiren derleme aktarım.",
+      "url": "https://www.medicentertv.com/islami-ruya-tabirleri-nablusi-kirmani-ibn-i-sirin-imam-cafer-sadik-seyyid-suleyman-danyal-d"
+    },
+    {
+      "title": "Smoke - Encyclopedia of The Bible - Bible Gateway",
+      "relevance": "Kutsal metinlerde dumanın Tanrı’nın varlığı, yargı, ibadet ve geçicilikle ilişkilendirildiğini özetleyen referans; Hristiyan sembolik okumada duman için temel ayet kümelerini gösterir.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Smoke"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Talmudik rüya tartışmalarının yer aldığı klasik metnin çevrimiçi erişim sayfası; Yahudi rüya yorumu çerçevesini doğrulamak için gerekli.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Yom Kippur: “Smoke Signals”",
+      "relevance": "Ketoret ve yükselen dumanın kutsal hizmet, yükseliş ve ilahî yakınlık sembolizmini anlattığı metin.",
+      "url": "https://www.chabad.org/therebbe/article_cdo/aid/2300184/jewish/Yom-Kippur-Smoke-Signals.htm"
+    },
+    {
+      "title": "Sinai Up in Smoke - Mount Sinai was a revelation of both an ascending <i>and</i> descending Returning Light",
+      "relevance": "Dumanın kabalistik anlamını, gerçekliğin üç boyutuyla ilişkilendiren mistik yorum.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/379535/jewish/Sinai-Up-in-Smoke.htm"
+    },
+    {
+      "title": "Tobacco and the Hasidim and a Comment on Artscroll",
+      "relevance": "Hasidik literatürde duman/tütünün dua, yükseliş ve mistik arınma ile bağlantılandırıldığına dair tarihsel tartışma.",
+      "url": "https://seforimblog.com/2014/04/tobacco-and-hasidim-and-comment-on/?print=print"
+    },
+    {
+      "title": "Smoke and Fragrance and Incense",
+      "relevance": "Dumanın yargı ve merhametle ilişkilendirildiği Zoharî sembolizm.",
+      "url": "https://www.zohar.com/zohar/Pinchas/chapters/38"
+    },
+    {
+      "title": "Smoke Signals: Sacrifices as a Ritual Vocabulary",
+      "relevance": "Kurban dumanının yükselen dua ve Tanrı’ya yaklaşma dili olarak yorumlandığı modern Yahudi yorum yazısı.",
+      "url": "https://reformjudaism.org/learning/torah-study/torah-commentary/smoke-signals-sacrifices-ritual-vocabulary"
+    },
+    {
+      "title": "The Symbolism of the Menora and the Incense | Yeshivat Har Etzion",
+      "relevance": "Buhur dumanının gizem, aşkınlık ve numinöz atmosferle bağlantısını açıklayan Yahudi eğitim kurumu metni.",
+      "url": "https://www.etzion.org.il/en/holidays/chanuka/symbolism-menora-and-incense"
+    },
+    {
+      "title": "Smoking - Guide To Buddhism A To Z",
+      "relevance": "Budist bakışta sigara içme konusunun ahlaki/bedensel etkiler bağlamında ele alındığını gösteriyor.",
+      "url": "https://www.buddhisma2z.com/content.php?id=387"
+    },
+    {
+      "title": "Buddhist Studies: Smoking",
+      "relevance": "Budist bir eğitim sayfasında sigara içme davranışının beşinci ilke bağlamında tartışılması, duman/yanma pratiklerinin Budist etik ve disiplin alanıyla ilişkisini gösteriyor.",
+      "url": "https://www.buddhanet.net/e-learning/dharmadata/fdd33/"
+    },
+    {
+      "title": "NYINGMA KATHOK BUDDHIST CENTRE PRAYER TEXT",
+      "relevance": "Tibet/Budist adak uygulamasında dumanın sunu aracı olarak kullanıldığını gösteren ritüel metin.",
+      "url": "https://kathok.org.sg/wp-content/uploads/2017/07/Burned-offering-text-_v1_20170405.pdf"
+    },
+    {
+      "title": "Incense Dream Meaning & Interpretation - Mirror",
+      "relevance": "Budist ritüellerde tütsü dumanının arınma, odaklanma ve Dharma ile ilişkilendirildiğini anlatıyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/incense/"
+    },
+    {
+      "title": "Smoke, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Dumanın rüya bağlamında ruhsal düzeyde, yukarı yükselen bir işaret olarak okunmasına dair açık bir ezoterik yorum içerir.",
+      "url": "http://www.dreamtation.com/docs/5753.htm"
+    },
+    {
+      "title": "Smoking in dreams — meaning and symbolism",
+      "relevance": "Dumanı ezoterik açıdan enerjinin dönüşümü, eski bağların bırakılması ve ağır etkinin dağılması ile ilişkilendirir.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/smoking"
+    },
+    {
+      "title": "Spiritual Meaning of Smoke in a Dream 🌫️✨",
+      "relevance": "Dumanın yoğunluk, renk ve dağılım biçimine göre sembolik okuma yapan bir spiritüel çerçeve sunar; beyaz duman, siyah duman ve hızlı dağılan duman için ayrı anlamlar verir.",
+      "url": "https://kleardreaming.com/spiritual-meaning-of-smoke-in-a-dream/"
+    },
+    {
+      "title": "The Spiritual Meaning of Smoke in Dreams",
+      "relevance": "Dumanı spiritüel düzeyde dönüşüm, gizem ve ilahi/ince alanlarla iletişim temalarıyla ilişkilendiren bir modern yorum içerir.",
+      "url": "https://atmosphericlights.com/blog/spiritual-meaning-of-smoke-in-a-dream/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "buddhist-eastern"
+  ]
 }

@@ -1,129 +1,280 @@
 {
   "slug": "hamilelik",
   "title": "hamilelik",
-  "shortDescription": "Rüyada hamilelik görmek, içinizde büyüyen bir fikir, proje ya da sorumluluğun zamanla somutlaşmasını simgeler. Aynı zamanda bu sürecin gerektirdiği emek, sabır ve taşıdığı yükü de yansıtabilir.",
+  "shortDescription": "Rüyada hamilelik görmek, bağlama göre değişen çok katmanlı bir semboldür. Bu imge uyanık yaşamdaki gebelik, doğum ve bakım kaygılarını, psikanalitik çerçevede istek doyumunu, Jungcu perspektifte içsel potansiyelin gelişimini ve dini ya da ezoterik yorumlarda bereket veya yük anlamlarını taşıyabilir.",
   "positiveAssociations": [
-    "İçte büyüyen bir yaşam: yeni bir fikir, proje veya ilişkinin gizli olgunlaşması",
-    "Doğumla somutlaşma: sürecin sonuçlanması ve görünür hale gelmesi",
-    "Maddi/manevi artış beklentisi ve yeni sorumlulukların getirdiği fırsatlar (İslami yorumlarla uyumlu bir tema)",
-    "Koruma ve bakım kapasitesinin artışı ve yeni rollerin ortaya çıkışı"
+    "Yeni bir kimlik, yaratıcı potansiyel ve psikolojik yenilenme",
+    "Mal, itibar, şeref ve nimet artışı",
+    "İçsel bir sürecin, niyetin veya vaadin olgunlaşması",
+    "Bereket, ümit ve olumlu yaşam dönüşümleri"
   ],
   "challengingAssociations": [
-    "Doğum sancısını andıran zorluklar: sürecin acılı, sabır gerektiren aşamaları",
-    "Taşıma yükü: korunma ve besleme sorumluluğunun getirdiği fiziksel/duygusal yük",
-    "İçte büyüyen endişeler: dışarıdan görünmeyen ancak giderek büyüyen sıkıntılar veya belirsizlikler",
-    "Bekleyiş kaygısı: ne zaman ve nasıl sonuçlanacağına dair belirsizlik"
+    "Ağır yük, sorumluluk ve gizli kalan keder",
+    "Beden sağlığıyla ilgili endişeler ve hastalık belirtisi olarak görülmesi",
+    "Kötü uyku kalitesi ve kâbus sıklığında artış",
+    "Uyanık yaşamdaki gebelik, doğum ve bakım kaygılarının rüyaya yansıması"
   ],
   "contextDependentAssociations": [
-    "Rüya görenin cinsiyeti ve sosyal rolü: bazı geleneklerde (ör. İslami aktarımlar) erkek ve kadın için farklı okumalar yapılır",
-    "Rüya biyolojik gebelikle ilişkilendiriliyorsa dikkatli olunmalıdır; sembol sıklıkla mecazi bir taşıma veya olgunlaşma anlamı taşır, ancak rüyanın bağlamı da dikkate alınmalıdır.",
-    "Kültürel çerçeve: İslami, Vedik/Tibet ve modern spiritüel yorumlarda farklı vurgular vardır"
+    "Rüyayı gören kişinin cinsiyeti ve toplumsal konumu",
+    "Uyanık yaşamdaki gerçek gebelik durumu ve bedensel koşullar",
+    "Rüya sırasında hissedilen duygulanım ve eşlik eden imgeler",
+    "Rüyanın psikolojik mi yoksa örtük bir bildirim mi olduğu bağlamı"
   ],
   "commonVariations": [
     {
-      "title": "Kendi hamile olduğunu görmek",
-      "description": "Rüya görenin içinde gizlice büyüyen bir fikir, proje veya duyguyu taşıdığını; bunun henüz dışa vurulmamış, olgunlaşmakta olan bir aşama olduğunu gösterir."
+      "title": "Gerçek Gebelikte Canlı Rüyalar",
+      "description": "Uyanık yaşamda gebelik süreci yaşayan kişilerin, fetüs ve bedenle ilgili temaları yoğun şekilde içeren canlı rüyalar ve kâbuslar görmesi."
     },
     {
-      "title": "Başka birinin hamile olduğunu görmek",
-      "description": "Yakın çevrede veya ortak bir işte gelişmekte olan, rüya görenin doğrudan kontrolü dışında ilerleyen bir durumun habercisi olabilir; başkalarının hayatındaki değişimlere tanıklık eder."
+      "title": "Psikolojik Doğum ve Yaratıcı Girişim",
+      "description": "Fiziksel bir hamilelik söz konusu değilken, kişinin iç dünyasında yeni bir fikir, tutum veya kimlik oluşturma sürecini deneyimlemesi."
     },
     {
-      "title": "Hamilelik sırasında sancı veya doğum sancısı yaşamak",
-      "description": "Bir sürecin zorlayıcı aşamalarını, hazırlık-acı-sabır döngüsünü ve sonuca ulaşmak için gereken çabayı simgeler."
+      "title": "Erkek Rüyasında Ağır Yük",
+      "description": "Erkek rüya sahibinin hamilelik imgesiyle karşılaşması durumunda ortaya çıkan gizli keder, saklanan mesele veya ağır sorumluluk hissi."
     },
     {
-      "title": "Hamileliğin doğumla sonuçlandığını görmek",
-      "description": "Uzun süredir içten yürütülen bir işin, ilişkinin ya da projenin somut bir sonucu; emeklerin görünür hale gelmesi ve tamamlanma evresi."
+      "title": "Kadın Rüyasında Nimet ve İtibar",
+      "description": "Kadın rüya sahibinin gebeliği deneyimlemesinin mal varlığı, şeref veya hayattaki konumunda artış anlamı taşıyabileceği."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslami rüya yorumu geleneğinde hamilelik genellikle gizli bir şeyin büyümesine, yeni sorumluluklara veya mal veya ilimde artışa işaret eden olumlu bir motif olarak değerlendirilir. İbn Sîrîn’e atfedilen aktarımlarda hamilelik çok katmanlı bir anlam taşır; kadın için genellikle artan iyilik ya da yeni bir yüke işaret edebilirken, erkek içinse gizli bir meseleye veya gizli bir servete delalet edebilir.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Tibet geleneğinde gebelik rüyaları doğacak varlığa ilişkin işaretler verme örüntüsüyle ele alınır. Vedik/Swapna Shastra çizgisinde ise hamilelik imgesi yaratım, verimlilik ve yakın zamanda ortaya çıkacak sonuçların olgunlaşması bağlamında değerlendirilir.",
-  "spiritualApproaches": "Modern spiritüel yorumlarda hamilelik, henüz görünür olmayan bir şeyin içten büyümesi, yaratıcı potansiyelin olgunlaşması ve doğru zamanda ortaya çıkma bekleyişi olarak okunur.",
+  "psychology": "Ampirik çalışmalar, gebelik döneminde rüya içeriğinin, rüya hatırlama oranının ve kâbus sıklığının arttığını göstermektedir. Bu içeriklerin anne ve bebek temsillerini ve uyanık yaşam kaygılarını sistematik olarak yansıttığı bulunmuştur. Psikanalitik çerçevede rüyalar istek doyumu olarak ele alınır; hamilelik imgesi bazen gerçek bir gebeliğin örtük duyurusu olabileceği gibi, su, rahim ve rahim içi yaşam imgeleriyle birlikte doğum fantazilerine de bağlanabilir. Bu sembolün anlamı, rüyanın kurulduğu bağlama ve rüya sahibinin o anki duygulanımına göre şekillenir.",
+  "jungian": "Jungcu perspektifte hamilelik sembolü, harfî bir gebelikten ziyade psikolojik bir olgunlaşma ve yaratıcı gelişim süreci olarak ele alınır. Bilinçdışında gelişen ancak henüz tam anlamıyla bilince çıkmamış yeni bir potansiyel, yeni bir kimlik veya bireyleşme sürecinde görünür olmaya hazırlanan bir benlik yönü bu imgeyle taşınır. İçsel dünyada biçimlenen ve doğuma hazırlanan bu yeni çekirdek, kişinin ruhsal dönüşümünün habercisi olarak okunur.",
+  "islamicTradition": "İslami rüya tabiri geleneğinde hamilelik sembolü, gizli kalan bir şeyin büyümesi, yük, sorumluluk ve dünyevi mal ile nimet artışı bağlamlarında değerlendirilir. Kadınlar için genellikle mal, itibar, şeref ve nimetin çoğalmasıyla ilişkilendirilirken, erkekler için gizli bir keder, ağır bir yük ya da saklanan bir mesele şeklinde yorumlanır. Gerçekte gebe olan kadın için sorunsuz bir süreç, genç kız veya dul kadın için evlilik, çocuklar için ise aileye katılacak bolluk anlamına gelebilir.",
+  "christianTraditions": "Hristiyan sembolik okumasında hamilelik, henüz görünür olmayan fakat gelişmekte olan bir süreci, yeni başlangıçları ve bir vaadin olgunlaşmasını simgeler. Kutsal Kitap'taki hamilelik ve doğum motiflerinin ümit, beklenti, sabır ve Tanrı'nın zamanlamasıyla ilişkilendirilmesi, rüya bağlamında da ilahi amaçların açığa çıkışına hazırlık dönemi olarak ele alınmasına olanak tanır.",
+  "jewishTraditions": "Yahudi sembolik çerçevesinde ve rabbanî rüya ilkelerinde rüyalar yoruma açıktır ve tek bir görüntüden zorunlu bir sonuç çıkarılmaz. Hamilelik, içeride gelişen potansiyel, oluşum ve insanın yaratıcı sürece katılımı fikriyle bağdaştırılır. Henüz dışa çıkmamış bir sorumluluğun veya gelişmekte olan bir durumun taşıyıcılığı olarak okunur.",
+  "buddhistEasternApproaches": "Tibet Budizmi geleneklerinde doğum öncesi rüyalar ve gebeliğin ilk dönemindeki imgeler, anne ile gelecek çocuk arasında erken bir bağ kurulması veya doğacak varlığın niteliklerine dair işaretler taşıması bağlamında ele alınır. Mahāmāyā'nın rüyası gibi kutsal doğum anlatılarında ise hamilelik motifi, kutsal bir doğum öncesi işaret çerçevesinde konumlandırılır.",
+  "spiritualApproaches": "Simyasal çerçevede kapalı bir kapta gerçekleşen dönüşüm metaforuna bağlanan bu sembol, görünür dünyaya henüz çıkmamış bir niyetin veya yaratıcı projenin içsel olarak taşınmasını ve uygun zamanda doğmasını ifade eder.",
   "comparisonTable": [
     {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Gebelik dönemindeki fizyolojik ve zihinsel uyku etkinliğinin, anne-bebek temsillerinin ve uyanık yaşam kaygılarının yansıması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "İstek doyumu, örtük gebelik duyurusu, rahim ve su imgeleri üzerinden okunan doğum fantazileri.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Bilinçdışında olgunlaşan yeni potansiyel, yaratıcı gestasyon ve bireyleşme sürecindeki içsel doğum.",
+      "evidenceLevel": "theoretical"
+    },
+    {
       "approach": "İslami Gelenek",
-      "interpretation": "Gizli bir şeyin büyümesi; rızık, mal veya ilim artışı veya yeni sorumluluk temasına vurgu yapar.",
+      "interpretation": "Kadın için mal, itibar ve nimet artışı; erkek için yük ve gizli keder; duruma göre evlilik veya bolluk.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Vedik / Swapna Shastra",
-      "interpretation": "Yaratım ve verimlilik; çabaların meyvesinin yakında olgunlaşacağına dair işaretler.",
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Henüz görünmeyen bir vaadin olgunlaşması, sabır, bekleyiş ve ilahi zamanlama süreci.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Modern Spiritüel Yaklaşım",
-      "interpretation": "İçsel yaratıcı potansiyelin ve ruhsal olgunlaşmanın sembolü; süreç odaklı bir bekleyişi ifade eder.",
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Enerjinin içsel olarak olgunlaştırılması, simyasal dönüşüm ve içsel bir niyetin görünür dünyaya hazırlanması.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Çoğu gelenekte hamilelik, dışarıdan görünmeyen bir şeyin taşınmasını ve zaman içinde görünür hale gelmesini vurgular; hem umut ve üretkenlik hem de bir şeyi taşımanın getirdiği yük arasındaki ikiliği barındırır.",
-  "differences": "İslami yorumlar daha çok rızık, artış ve cinsiyete göre değişen okumalara vurgu yaparken; Doğu gelenekleri yaratım ve olgunlaşmanın işaretlerine odaklanır; modern spiritüel yaklaşımlar ise içsel potansiyel ve ruhsal dönüşüm temalarını öne çıkarır.",
-  "inusAssessment": "Hamilelik sembolü, basit bir geleceğe ilişkin olaya indirgenemez; rüyanın yorumu, rüya görenin kişisel bağlamı, cinsiyeti, yaşam koşulları ve kültürel çerçevesi göz önünde tutularak çok katmanlı olarak ele alınmalıdır.",
+  "commonGround": "Farklı disiplin ve gelenekler arasında hamilelik sembolü, görünmeyen bir sürecin içeride olgunlaşması, bir hazırlık evresi ve yeni bir formun doğuma yaklaşması temalarında ortaklaşır.",
+  "differences": "Ampirik psikoloji rüyaları gebelik dönemindeki bedensel kaygılar ve uyku etkinliğiyle açıklarken, psikanaliz ise örtük istekler ve rahim fantezilerine odaklanır. Jungcu yaklaşım psikolojik yenilenmeye vurgu yaparken, İslami ve Hristiyan gelenekleri sırasıyla mal ve yük dengesi ile ilahi vaatlerin olgunlaşması ekseninde farklı yorumsal çerçeveler sunar.",
+  "inusAssessment": "Hamilelik sembolü, rüya dünyasında hem fiziksel beden gerçeğini hem de soyut potansiyellerin sessiz gelişimini aynı anda barındıran ender imgelerden biridir. Onu diğer sembollerden ayıran en temel özellik, rüya sahibinin cinsiyetine, yaşam evresine ve psikolojik durumuna göre anlamının zıt kutuplara (örneğin nimet artışı ile ağır bir yük arasında) esneyebilmesidir. Bu rüyayı yorumlarken rüya sahibinin gerçek hayattaki gebelik durumunu, eşlik eden duygulanımı ve hissedilen baskı veya heyecan tonunu birlikte ele almak, sembolün gerçek karşılığını bulmak açısından belirleyicidir.",
   "faq": [
     {
-      "question": "Hamilelik rüyası mutlaka gerçek bir gebeliğe işaret eder mi?",
-      "answer": "Hayır. Geleneksel ve spiritüel yorumlarda hamilelik çoğunlukla mecazi bir taşıma/olgunlaşma sembolüdür; gerçek gebelikle ilişkili olasılık varsa bağımsız olarak değerlendirilmelidir."
+      "question": "Hamile olmadığım halde rüyamda hamile olduğumu görmek ne anlama gelir?",
+      "answer": "Jungcu ve spiritüel yaklaşımlarda bu durum fiziksel bir gebelikten ziyade, psikolojinizde veya yaratıcı dünyanızda yeni bir fikrin, kimliğin ya da projenin olgunlaşma sürecine işaret edebilir."
     },
     {
-      "question": "Erkeklerin hamilelik rüyası görmesi ne anlama gelir?",
-      "answer": "Bazı geleneksel İslami aktarılarda erkeklerin gördüğü hamilelik rüyaları gizli bir mesele, üstlenilen sorumluluk veya maddi/manevi artış gibi temalarla yorumlanır; yorum kültürel bağlama bağlı olarak değişir."
+      "question": "Gebelik döneminde görülen hamilelik rüyaları neden daha yoğun ve kâbus ağırlıklı olur?",
+      "answer": "Ampirik araştırmalar, gebelik sürecinde artan rüya hatırlama oranlarının, uyanık yaşamdaki doğum ve bakım kaygılarıyla birlikte zihinsel uyku etkinliğindeki değişimlerden kaynaklandığını göstermektedir."
     }
   ],
   "sources": [
     {
-      "title": "[PDF] A Cultural History of Pregnancy",
-      "relevance": "Hamileliğin tarihsel ve kültürel temsillerini, doğurganlık ve beden imgeleri üzerinden ele alan akademik çalışma.",
-      "url": "https://ndl.ethernet.edu.et/bitstream/123456789/16992/1/Clare%20Hanson.pdf"
+      "title": "Dreaming for two: A systematic review of mental sleep activity during pregnancy - PubMed",
+      "relevance": "Gebelik sırasında rüya hatırlama, kötü rüyalar ve gebelikle ilişkili içerik örüntülerini özetleyen derleme.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38852848/?fc=20220523105801&ff=20240610030103&v=2.18.0.post9+e462414"
     },
     {
-      "title": "Сон о беременности в исламе: значение и толкование",
-      "relevance": "İslami rüya yorumu bağlamında hamilelik temasını bereket, gizli büyüme ve yeni sorumluluklarla ilişkilendiren çevrimiçi özet metin.",
-      "url": "https://islamicdreaminterpretation.info/dream-of-pregnancy-in-islam/"
+      "title": "Maternal representations in the dreams of pregnant women",
+      "relevance": "Hamilelik, doğum, fetüs ve bedenle ilgili rüya temalarını kodlayan ve bunların anne-bebek temsilleriyle ilişkisini inceleyen çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3753535/"
     },
     {
-      "title": "تفسير رؤية الحمل في المنام لابن سيرين - ابن سيرين لتفسير الأحلام",
-      "relevance": "İbn Sîrîn’e atfedilen geleneksel rüya sözlüğünde hamilelik maddesinin hayır, rızık ve artış temalarını içeren aktarımı.",
-      "url": "https://www.ibnsireen.com/ar/dictionary/%D8%AD/%D8%AD%D9%85%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85"
+      "title": "The association between dream activity and alexithymia during ...",
+      "relevance": "Gebelikte rüya etkinliği, canlılık ve gebelikle ilgili içerik eğilimlerini özetleyen güncel derleme.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12215283/"
     },
     {
-      "title": "Pregnant Ibn Sirin Islamic Interpretations & Meanings",
-      "relevance": "İbn Sîrîn geleneğine dayandırılan çevrimiçi aktarımlarda hamileliğin mal artışı, yük ve gizli meselelerle ilişkilendirildiğine dair örnekler.",
-      "url": "https://www.myislamicdream.com/pregnant_ibn_sirin.html"
+      "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
+      "relevance": "Rüyaların istek doyumu ve örtük anlamı üzerine temel psikanalitik çerçeve; hamilelik rüyasının sabit değil, bağlama bağlı okunmasına temel sağlar.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
     },
     {
-      "title": "IBN SEERiN'S",
-      "relevance": "İbn Sîrîn’e atfedilen İngilizce rüya sözlüğü PDF’si; hamilelik maddesinin gelenekteki geniş anlam alanına işaret eder.",
-      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+      "title": "Page:Freud - The interpretation of dreams.djvu/262",
+      "relevance": "Doğum fantazileri, rahim sıvıları ve sudan çıkma imgeleri üzerinden hamilelik ve doğum temalarına en yakın Freudcu rüya materyallerinden biri.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/262"
     },
     {
-      "title": "Being pregnant in a dream | The Islamic Dream Book",
-      "relevance": "İbn Sîrîn ve Nablusî’ye atfedilen yorumları derleyen çevrimiçi kaynak; hamileliği görünmeyen fakat büyüyen bir durum olarak tarif eder.",
-      "url": "https://theislamicdreambook.com/being-pregnant-in-a-dream/"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüyaları gizlenmiş istek doyumu olarak formüle ettiği temel metne erişim; hamilelik sembolünün psikanalitik yorumunda genel kuramsal arka plan sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Prenatal psychic experience: a psychoanalytic systematic exploration of the emotional life of the fetus",
+      "relevance": "Freud’un metninde hamilelik, su ve intrauterin yaşam çağrışımlarına dair örnekler sunulur.",
+      "url": "https://digitalcommons.pepperdine.edu/cgi/viewcontent.cgi?article=1084&context=etd"
+    },
+    {
+      "title": "The Interpretation ofDreams",
+      "relevance": "Freud’dan aktarılan doğum ve gebelik örneklerini içeren erişim; hamilelik temasının rüya bağlamındaki örtük bildirim işlevini destekler.",
+      "url": "https://sites.tufts.edu/mythritualsymbol2017/files/2017/08/Freud_Interpretation-of-Dreams_Chap-3.pdf"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams (1900)",
+      "relevance": "Freud’un rüyayı gizli dilek gerçekleşmesi olarak ele aldığı çerçeveyi ve hamilelik duyurusuna ilişkin örneği birlikte sunan erişim.",
+      "url": "https://brians.wsu.edu/2016/11/07/sigmund-freud-the-interpretation-of-dreams-1900/"
+    },
+    {
+      "title": "Dreams About Pregnancy and Babies: A Jungian Exploration",
+      "relevance": "Hamilelik ve bebek rüyalarını Jungcu açıdan psikolojik yenilenme, iç potansiyel ve bilinçdışında gelişen yeni bir süreç olarak ele alır.",
+      "url": "https://thisjungianlife.com/pregnancy_dreams/"
+    },
+    {
+      "title": "Pregnancy and Baby Dreams: What New Life Means in Jungian ...",
+      "relevance": "Hamilelik rüyalarını Jungcu perspektifte bilinçdışında gelişen yeni kimlik, yaratıcı potansiyel ve bireyleşme süreciyle ilişkilendirir.",
+      "url": "https://individuate.me/articles/dream-about-pregnancy"
+    },
+    {
+      "title": "Marie-Louise von Franz on Pregnancy | Jungian Psychology",
+      "relevance": "Doğum ve çocuk imgesini içsel yenilenme, kurtarıcı çekirdek ve ruhsal gelişim bağlamında ele alan Jungcu konuşma kaydı.",
+      "url": "https://www.youtube.com/watch?v=uAIaB69msGc"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’un hamile kadınların yılan doğurduğu vakaları ve onun rüya sınıflandırmasını tartışır; hamilelik imgesinin oneirokritik çerçevesini açıklar.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Hamilelik rüyalarıyla ilgili kısa örnekleri ve bunların yorumlarını erişilebilir çeviri biçiminde sunar; özellikle hamile olma rüyasının olumsuz/bedensel sonuçlarla ilişkilendirildiği pasajı görünür kılar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un doğum, hamilelik ve bedenle ilgili rüya yorumlarını özetler; hamilelik sembolünün kişinin statüsü ve bedensel durumu ile birlikte değerlendirildiğini gösterir.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "On the Theories of Dream Interpretation in Artemidorus",
+      "relevance": "Artemidorus’ta doğum ve hamilelik imgesinin farklı rüya durumlarında nasıl yorumlandığını tartışan erken bir akademik incelemedir.",
+      "url": "https://www.jstor.org/stable/3289049"
+    },
+    {
+      "title": "Hamile Rüyada Görmek İmam Nablusi",
+      "relevance": "Hamilelik sembolünün mal, itibar, şeref ve keder eksenindeki geleneksel yorumlarını aktarır.",
+      "url": "https://www.islamda.org/2015/05/hamile-ruyada-gormek-imam-nablusi.html"
+    },
+    {
+      "title": "Full text of \"hipnoz_kitabi_hakan_menguc\"",
+      "relevance": "‘Gebelik’ maddesinde klasik tabir derlemelerinden aktarılan hamilelik yorumu yer alır.",
+      "url": "https://archive.org/stream/hipnoz_kitabi_hakan_menguc/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1_djvu.txt"
+    },
+    {
+      "title": "45973154304.pdf",
+      "relevance": "Gebelikle ilişkili genel eğilimler ve paylaşılan içerik örüntüleri hakkında özet bilgi sunar.",
+      "url": "https://shreeminfratech.com/userfiles/file/45973154304.pdf"
+    },
+    {
+      "title": "Rüyada Hamile Kadın Görmek Ne Anlama Gelir? - Diyadinnet",
+      "relevance": "Hamile kadın, dul kadın, genç kız ve çocuk bağlamında hamilelik rüyasının farklı geleneksel yorumlarını aktarır.",
+      "url": "https://www.diyadinnet.com/ruyada-9199-hamile-kadin-gormek"
+    },
+    {
+      "title": "Dreaming of Being Pregnant Biblical Meaning",
+      "relevance": "Hamilelik rüyasını Hristiyan çerçevede yeni başlangıç, çağrı ve gelişmekte olan bir süreç olarak okuyan güncel İncil-temelli yorum.",
+      "url": "https://www.faithtime.ai/content/bible-lessons/dreaming-of-being-pregnant-biblical-meaning/"
+    },
+    {
+      "title": "Dreaming of Being Pregnant: Spiritual Meanings and ...",
+      "relevance": "Hamilelik imgesini Kutsal Kitap bağlamında umut, beklenti ve Tanrı’nın amaçlarının açığa çıkışıyla ilişkilendiren modern Hristiyan yorum.",
+      "url": "https://thebiblechat.com/dreaming-of-being-pregnant/"
+    },
+    {
+      "title": "Topical Bible: Pregnant",
+      "relevance": "Hamileliği Mukaddes Kitap’ta bereket, umut ve ilahi lütuf temalarıyla ilişkilendiren toplu İncil teması sayfası.",
+      "url": "https://biblehub.com/topical/p/pregnant.htm"
+    },
+    {
+      "title": "What the Bible says about Pregnancy as Metaphor",
+      "relevance": "Hamileliği İncil’de mecazi bir süreç olarak ele alıp doğuma hazırlık, zamanlama ve gelişme fikrine bağlayan tematik kaynak.",
+      "url": "https://www.bibletools.org/index.cfm/fuseaction/Topical.show/RTD/cgg/ID/7031/Pregnancy-as-Metaphor.htm"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Rüyaların yoruma açık oluşu ve rüya anlamının bağlama göre değişmesi.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "חלום על הריון: הפירוש המלא לפי היהדות, הקבלה והפסיכולוגיה",
+      "relevance": "Hamilelik sembolünün Yahudi yorumunda gelişmekte olan yeni bir şey, potansiyel ve içsel oluşum olarak okunması.",
+      "url": "https://www.shaharcohen.co.il/dreams/dream-about-pregnancy/"
+    },
+    {
+      "title": "Pregnancy, Power, and the Feminized Divine in Jewish Ritual ...",
+      "relevance": "Hamileliğin Yahudi teolojisinde yaratıcı ortaklık ve gelişen sorumluluk bağlamında ele alınması.",
+      "url": "https://academic.oup.com/jaar/article-abstract/91/2/382/7591939"
+    },
+    {
+      "title": "Dream of Pregnancy Meaning — Vedic Interpretation (Swapna ...",
+      "relevance": "Vedic yorumlarında hamilelik rüyası için doğrudan bir klasik giriş bulunmadığını belirtir.",
+      "url": "https://www.vedicbirth.com/dream/pregnancy-dream"
     },
     {
       "title": "The Wisdom Of Tibetan Childbirth",
-      "relevance": "Tibet geleneğinde gebelik sırasında görülen rüyaların doğacak çocuk veya gelecek döneme dair işaretler taşıyabileceğini ele alan metin.",
+      "relevance": "Tibet Budizmi’nde gebeliğin ilk dönemlerinde görülen rüyalar ve bunların rahme bir varlığı davet etme imgesiyle ilişkilendirilmesi; doğum öncesi rüya anlatısı.",
       "url": "https://www.context.org/iclib/ic31/farwell/"
     },
     {
-      "title": "Dreaming Of Being Pregnant – Meaning Of Pregnancy ...",
-      "relevance": "Hindu bağlamında hamilelik rüyasının uğurlu sayıldığını ve yeni başlangıçlarla ilişkilendirildiğini aktarır.",
-      "url": "https://www.hindu-blog.com/2021/03/dreaming-of-being-pregnant-meaning.html"
+      "title": "Divine Dreams of maternals in Buddhism and Jainism",
+      "relevance": "Budist doğum anlatısında Mahāmāyā’nın rüyası ve kutsal doğum öncesi işaretler; hamilelik motifiyle ilişkili sembolik çerçeve.",
+      "url": "https://www.academia.edu/112649957/Divine_Dreams_of_maternals_in_Buddhism_and_Jainism"
     },
     {
-      "title": "Dream of Pregnant Woman Meaning, Vedic Interpretation (Swapna ...",
-      "relevance": "Vedik/Swapna Shastra çizgisinde hamilelik imgesinin yaratım, verimlilik ve sonuçların olgunlaşmasıyla ilişkilendirildiğini aktaran metin.",
-      "url": "https://www.vedicbirth.com/dream/pregnant-woman"
+      "title": "Dreaming of Pregnancy: Symbol of New Beginnings or Profound ...",
+      "relevance": "Hamilelik rüyasını yeni başlangıçlar, kişisel yaratım ve içsel dönüşüm sembolü olarak yorumlayan modern spiritüel bir okuma sunuyor.",
+      "url": "https://www.karmaweather.com/mysticism/dreams/pregnancy-dream"
     },
     {
       "title": "Dream About Pregnancy - Meaning & Interpretation - Satyori",
-      "relevance": "Modern spiritüel yorumlarda hamileliğin içsel gelişim, yaratıcı potansiyel ve ruhsal olgunlaşma bağlamında okunduğunu gösteren kaynak.",
+      "relevance": "Hamilelik rüyasını yaratıcı proje, kimlik evresi ve ruhsal olgunlaşma metaforu olarak işleyen modern spiritüel bir yorum içeriyor.",
       "url": "https://satyori.com/dreams/pregnancy/"
+    },
+    {
+      "title": "Dreams About Pregnancy: Meaning & Symbolism | DreamAlchemy",
+      "relevance": "Hamilelik rüyasını yaradılış gücü, dönüşüm ve alşimik kap-küre metaforlarıyla ilişkilendiren ezoterik bir yorum sunuyor.",
+      "url": "https://dreamalchemy.me/learn/symbols/pregnancy"
+    },
+    {
+      "title": "Pregnancy Dreams: What They Mean (Even If You're Not Pregnant ...",
+      "relevance": "Hamilelik rüyasını spiritüel dönüşüm, yaratıcı potansiyel ve içsel doğum fikriyle birleştiren modern bir yorum veriyor.",
+      "url": "https://www.usehypnos.com/blog/pregnancy-dreams-meaning"
+    },
+    {
+      "title": "Pregnancy in dreams — meaning and symbolism",
+      "relevance": "Hamilelik rüyasını ezoterik okumada enerji inkübasyonu, olgunlaşma ve içte taşınan anlamın görünür hâle gelişi olarak açıklıyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/pregnancy"
+    },
+    {
+      "title": "Dream Meaning: Pregnancy",
+      "relevance": "Hamilelik rüyasını ruhun bereketi, gizli içsel gelişim ve görünürleşmeye doğru ilerleyen yaratım süreci olarak anlatıyor.",
+      "url": "https://ethyria.at/en/symbols/schwangerschaft/"
+    },
+    {
+      "title": "Pregnancy Dreams: What They Mean & Why They're So Vivid",
+      "relevance": "Hamilelik rüyasını potansiyel, yaratım ve kutsal zamanlama temalarıyla ele alan modern bir spiritüel yorum veriyor.",
+      "url": "https://www.bettersleep.com/blog/dream-dive-pregnancy"
     }
   ],
   "relatedSlugs": []

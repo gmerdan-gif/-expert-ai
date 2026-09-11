@@ -1,0 +1,213 @@
+{
+  "slug": "kilise",
+  "title": "kilise",
+  "shortDescription": "Rüyada kilise görmek, inançlarınız, vicdanınız ve aidiyet duygunuzla ilgili içsel bir değerlendirmeyi yansıtabilir. Huzur hissetmeniz sığınma ve denge arayışına; baskı hissetmeniz ise yargılanma, suçluluk ya da kurallarla çatışmaya işaret edebilir.",
+  "positiveAssociations": [
+    "İçsel sükûnet ve manevi merkezlenme",
+    "Topluluk aidiyeti ve ortak değerler",
+    "Ruhsal arınma ve vicdani muhasebe",
+    "Korunma ve sığınak arayışı"
+  ],
+  "challengingAssociations": [
+    "Otorite baskısı ve yargılanma kaygısı",
+    "İçselleştirilmiş suçluluk duyguları",
+    "Dünya meşgaleleri ve manevi yabancılaşma",
+    "Toplumsal normlarla çatışma"
+  ],
+  "contextDependentAssociations": [
+    "Rüya sahibinin kişisel inanç dünyası ve dini yönelimi",
+    "Kiliseye girme, cemaat içinde olma veya binayı dışarıdan izleme gibi eylemsel durumlar.",
+    "Rüyanın uyandırdığı duygusal tonun huzur mu yoksa baskı mı hissettirdiği."
+  ],
+  "commonVariations": [
+    {
+      "title": "Kiliseye tek başına girmek",
+      "description": "Rüya sahibinin uyanık yaşamında derin bir içsel sorgulama, yalnız kalma ihtiyacı veya vicdani bir muhasebe sürecinde olduğunu gösterir."
+    },
+    {
+      "title": "Kalabalık bir cemaatle birlikte olmak",
+      "description": "Bireyin sosyal aidiyet, toplulukla bütünleşme ve ortak değerleri paylaşma ihtiyacına işaret eder."
+    },
+    {
+      "title": "Kilise binasını dışarıdan izlemek",
+      "description": "Rüya sahibinin inanç sistemlerine, kurumsal otoritelere veya toplumsal normlara mesafeli bir bakışla yaklaştığını yansıtır."
+    },
+    {
+      "title": "Kiliseyi terk etmek veya dışarı çıkmak",
+      "description": "Mevcut kalıplardan, baskıcı kurallardan ya da eski alışkanlıklardan uzaklaşarak bireysel bir yola yönelme isteğini simgeler."
+    }
+  ],
+  "psychology": "Ampirik psikoloji çalışmalarında, dinî ve ruhsal içerikli imgelerin rüyalarda genel olarak düşük sıklıkta rapor edildiği görülmekle birlikte, bu tür sembollerin bireyin uyanık yaşamındaki dini tutumlarını, inanç örüntülerini ve kişisel bağlamını yansıtabildiği bilinmektedir. Özellikle dindar bireylerin rüyalarında dini temalı sözcüklerin ve mekanların daha görünür olabildiği, ancak bu sembollerin evrensel ve sabit birer anlam taşımaktan ziyade kişinin iç dünyasının birer göstergesi olduğu araştırmalarla desteklenmektedir.",
+  "jungian": "Jungcu analitik psikolojide, kilise gibi kutsal mekanlar bilinçdışı ile bilinç arasındaki köprüyü kuran ve numinöz (kutsal/ilahi) deneyimi taşıyan arketipsel alanlar olarak görülür. Sabit bir sözlük anlamından ziyade ruhsal bütünleşme, Benlik ile temas ve bireyleşme sürecindeki içsel merkezlenmeyi temsil eden sembolik taşıyıcılardır.",
+  "islamicTradition": "İslami rüya tabiri kaynaklarında kilise sembolü, Hristiyanlıkla ilişkili dini aidiyet, zühd, bilgi ve huşû gibi temaların yanı sıra dünya meşgalleri, fitne veya keder gibi farklı bağlamsal yorumlarla da ele alınmaktadır.",
+  "christianTraditions": "Hristiyan teolojik ve sembolik geleneğinde kilise, yalnızca fiziksel bir bina olarak değil; Tanrı’nın evi, Mesih’in bedeni ve toplanmış imanlılar topluluğu yani ekklesia olarak anlaşılır. Bu doğrultuda rüyada kilise görmek, ibadet, ruhsal aidiyet ve iman topluluğuyla bağ kurma temalarıyla ilişkilendirilir.",
+  "jewishTraditions": "Yahudi düşünce ve metinlerinde kilise kavramı doğrudan merkezi bir rüya sembolü olarak yer almasa da, Talmudik rüya hermenötiği, rüyaların yorum süreciyle anlam kazandığını vurgular. Tarihi metinlerdeki ekklesia terimi bağlamında ise bu tür imgeler dışsal dini aidiyet veya cemaat karşıtlığı ekseninde değerlendirilebilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yaklaşımlarda kilise, bireyin iç dünyasındaki sığınak, sükûnet, manevi yönelim ve vicdanı yeniden toplama ihtiyacını simgeleyen bir odak noktası olarak kabul edilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Kişinin uyanık yaşamındaki inanç tutumlarını ve dini yönelimlerini yansıtan bağlamsal bir gösterge.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jungcu)",
+      "interpretation": "Numinöz deneyim, bilinçdışı ile ilişki ve ruhsal merkezlenme alanı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Otorite, vicdan, suçluluk ve toplumsal normlarla ilişkili çağrışımları taşıyan sahne öğesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Teolojik Gelenek",
+      "interpretation": "Mesih’in bedeni, iman topluluğu, ibadet ve ruhsal aidiyet.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "İslami Rüya Geleneği",
+      "interpretation": "Dini aidiyet, zühd veya bağlama göre değişen dünya meşgaleleri ve uyarıcı durumlar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "İçsel sükûnet, kutsal alan, korunma arayışı ve manevi denge.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplin ve geleneklerin ortaklaştığı temel nokta, kilise sembolünün tekil ve katı bir kehanet aracı olmadığı; bireyin iç dünyası, vicdani durumu, aidiyetleri ve ruhsal yönelimiyle doğrudan bağ kurduğu gerçeğidir.",
+  "differences": "Yaklaşımlar arasındaki temel ayrım odak noktasındadır: Ampirik psikoloji bireyin inanç örüntüsüne ve veri sıklığına odaklanırken, psikanalitik ve Jungcu teoriler içsel çatışmalara ve arketipsel dönüşüme odaklanır; dini gelenekler ise sembolü teolojik aidiyet ve ibadet ekseninde değerlendirir.",
+  "inusAssessment": "Bu sembolü değerlendirirken, binanın fiziksel yapısından çok rüya sahibinin içerideki konumuna (yalnız olması, cemaat içinde bulunması ya da dışarıdan bakması) dikkat etmek önemlidir; rüyanın psikolojik ve manevi mesajını çözmede bu unsur en belirleyicidir.",
+  "faq": [
+    {
+      "question": "Rüyada kilise görmek dini inancımın değişeceğine mi işaret eder?",
+      "answer": "Bilimsel ve psikolojik veriler, rüyaların doğrudan bir gelecek öngörüsü olmadığını, aksine mevcut inanç tutumlarının ve içsel arayışların birer yansıması olabileceğini gösterir."
+    },
+    {
+      "question": "Rüyamda kilisede kalabalık bir cemaat görmemin anlamı nedir?",
+      "answer": "Bu durum genellikle bireyin sosyal aidiyet, toplulukla bütünleşme ve ortak değerleri paylaşma ihtiyacını simgeleyen bağlamsal bir göstergedir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Religious Worship and Dream Recall: New Results from a Survey of American Adults - Pastoral Psychology",
+      "relevance": "Dinî ibadet, Hristiyanlıkla ilişkili rüya sözcükleri ve rüya içeriğinin kişisel dinsellikle ilişkisi.",
+      "url": "https://link.springer.com/article/10.1007/s11089-013-0560-6?error=cookies_not_supported&code=5ac715b3-caa6-4313-92ac-8e4c4fa6fea7"
+    },
+    {
+      "title": "Religious dreaming: a viewpoint - PubMed",
+      "relevance": "Rüya içeriğinin kişinin dinî tutumlarını ve uyanık yaşam dini yönelimini yansıtabilmesi.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6194699/"
+    },
+    {
+      "title": "Studying dream content using DreamBank.net",
+      "relevance": "Rüyalarda kilise, katedral, tapınak ve şapel gibi dinî mekânların sıklığına dair içerik analizi.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2008c.html"
+    },
+    {
+      "title": "Religious images in dreams - PubMed",
+      "relevance": "Dinî imgelerin rüyalarda kişisel bağlam ve geleneksel dinî imgelerle ilişkili farklı görünümleri.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24318665/"
+    },
+    {
+      "title": "Sigmund Freud [1900] The Interpretation of Dreams ( ...",
+      "relevance": "Freud’un rüya kuramının temel metni; rüyaların bastırılmış isteklerle ilişkisini ve sembolik çözümlemeyi anlamak için temel çerçeve sağlar.",
+      "url": "https://ia802907.us.archive.org/17/items/SigmundFreud/Sigmund%20Freud%20%5B1900%5D%20The%20Interpretation%20of%20Dreams%20(James%20Strachey%20translation,%201955).pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part a",
+      "relevance": "Rüya çözümlemesi içinde ‘church of San Paolo’ ifadesinin geçtiği bir örnek; kilise imgesinin çağrışım zinciri içinde nasıl belirdiğini gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm"
+    },
+    {
+      "title": "The Collected Works of C.G. Jung: Volume 11: Psychology ...",
+      "relevance": "Jung'un dinî semboller, numinöz deneyim ve bilinçdışı ilişkisi üzerine temel metni.",
+      "url": "https://www.jungiananalysts.org.uk/wp-content/uploads/2018/07/C.-G.-Jung-Collected-Works-Volume-11_-Psychology-and-Religion_-West-and-East.pdf"
+    },
+    {
+      "title": "Man and His Symbols",
+      "relevance": "Sembolün görünen anlamı aşan bilinçdışı boyutunu açıklayan Jung metni.",
+      "url": "https://sites.tufts.edu/mythritualsymbol2017/files/2017/08/Jung-approaching-the-unconscious-sm.pdf"
+    },
+    {
+      "title": "Symbolism of C. G. Jung: The Unconscious and Religious Symbol",
+      "relevance": "Sembolün bilinç ve bilinçdışı karşıtlıklarını birleştiren işlevini özetleyen akademik kaynak.",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001737222"
+    },
+    {
+      "title": "[PDF] Volume 20 - General Index - Jungian Center for the Spiritual Sciences",
+      "relevance": "'Church' başlığı altında Jung'un Hristiyan sembolizmiyle ilişkili indeks kaydını içerir.",
+      "url": "https://jungiancenter.org/wp-content/uploads/2023/09/vol-20-collected-works-of-cg-jung-general-index.pdf"
+    },
+    {
+      "title": "Jung and Religious Experience M. Sudduth I. Religion as ...",
+      "relevance": "Kilise rüyasını Jungcu bağlamda Benlik ve numinöz kavramlarıyla ilişkilendiren değerlendirme.",
+      "url": "http://michaelsudduth.com/wp-content/uploads/2013/11/Jung-and-Religious-Experience.pdf"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’un rüya sınıflandırmasını ve tarihsel oneirokritik yaklaşımını ele alan akademik makale; rüya türleri ile anlam üretiminin nasıl kurulduğunu gösterir.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Religious conceptions in Artemidorus' Oneirocritica",
+      "relevance": "Artemidorus’ta kehanetsel rüyaların kökenine dair tutumu tartışan akademik kayıt; tarihsel rüya yorum geleneğinin epistemik çerçevesine ışık tutar.",
+      "url": "https://research.vu.nl/en/publications/gods-in-dreams-religious-conceptions-in-artemidorus-oneirocritica/"
+    },
+    {
+      "title": "Al Nabulsi Islamic Interpretations & Meanings",
+      "relevance": "Nablusî’ye atfen kilisenin sembolik anlamlarını derleyen İngilizce bir İslami rüya tabiri sayfası.",
+      "url": "https://www.myislamicdream.com/al_nabulsi.html"
+    },
+    {
+      "title": "Church Dream Meaning & Interpretation - Mirror",
+      "relevance": "Kilise sembolünün Hristiyan bağlamında Tanrı’nın evi ve Mesih’in bedeni olarak anlaşılmasına dair çevrimiçi özet sunar; rüyadaki kilise imgesinin topluluk ve iman temalarıyla ilişkilendirilmesine zemin verir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/church/"
+    },
+    {
+      "title": "patristic views of the nature of dreams and their relation ... - ERA",
+      "relevance": "Patristik düşüncede rüyaların moral durum, ilahi mesaj ve ruhsal ayırt edicilikle ilişkisini tartışır; kilise sembolünü doğrudan ele almasa da Hristiyan rüya okuması için genel çerçeve sağlar.",
+      "url": "https://era.ed.ac.uk/items/34dcdb37-1233-47b7-8dd1-a587acf9e48d"
+    },
+    {
+      "title": "Church in dream biblical meaning",
+      "relevance": "Yeni Ahit’te kilise kavramının toplanmış imanlılar anlamındaki 'ekklesia' çerçevesini hatırlatan bir Hristiyan teolojik özet sunar; rüyada kilise imgesinin cemaat ve ibadetle bağlantılı okunmasına dayanak oluşturur.",
+      "url": "https://biblestep.com/dreams/church-in-dream-biblical-meaning"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a–b bölümünün rüyalar ve anlamları üzerine olduğunu gösterir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Berakhot 57a metnine erişim sağlar; rüyaların Talmudik bağlamını doğrulayan ana metin bağlantısıdır.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "[PDF] Ekklēsia as a Jewish Synagogue Term: A Response to Erich Gruen",
+      "relevance": "Ekklēsia teriminin Yahudi sinagogu/topluluk terimi olarak tarihsel tartışmasını ele alır ve 'kilise' kelimesinin Yahudi-Hristiyan sembol tarihindeki yerini anlamaya yardımcı olur.",
+      "url": "https://www.jjmjs.org/uploads/1/1/9/0/11908749/korner_-_ekklesia_as_a_jewish_synagogue_term.pdf"
+    },
+    {
+      "title": "Kilise | Rüya Sözlüğü | Stellaxa",
+      "relevance": "Rüyada kilisenin ruhsallık, ahlak, topluluk, sığınak ve rehberlik temalarıyla ilişkilendirildiğini söyleyen modern spiritüel sözlük maddesi.",
+      "url": "https://www.stellaxa.com/tr/dream-dictionary/church"
+    },
+    {
+      "title": "Rüyada Kilise Görmek, Kendinizle ve Hayatla Barışma Zamanı Gelmiş Olabilir - Dreamorian",
+      "relevance": "Kiliseyi rüyalarda manevi arayış, iç huzur ve ruhsal denge ile ilişkilendiren modern spiritüel yorum.",
+      "url": "https://dreamorian.com/tr/ruyada-kilise-gormek-kendinizle-ve-hayatla-barisma-zamani-gelmis-olabilir/"
+    },
+    {
+      "title": "Rüyada Kilise Görmek ve Kiliseye Gitmek Ne Anlama Gelir? - Rüya Tabirleri | Aksam",
+      "relevance": "Kiliseyi rüyada kutsallık, huzur, manevi arayış ve ilahi bağlantı ekseninde ele alan popüler spiritüel yorum.",
+      "url": "https://ruyatabirleri.aksam.com.tr/ruya-tabirleri/ruyada-kilise-gormek-ve-kiliseye-gitmek-ne-anlama-gelir/haber-1513301"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

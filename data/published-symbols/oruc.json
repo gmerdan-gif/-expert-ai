@@ -1,0 +1,216 @@
+{
+  "slug": "oruc",
+  "title": "Oruç",
+  "shortDescription": "Rüyada oruç görmek, özdenetim, sabır ve manevi arınma isteğini simgeleyebilir; zorlanarak oruç tutmak ise baskı, yoksunluk veya aşırı fedakârlık hissiyle ilişkilendirilebilir. İftar görmek, sıkıntıdan sonra gelen rahatlama ve ferahlığı anlatabilir; bazen de rüya gerçek açlık ya da susuzluğun yansımasıdır.",
+  "positiveAssociations": [
+    "Oruç yoluyla ruhsal arınma ve içsel sadeleşme",
+    "Oruç yoluyla özdenetim ve irade gücü",
+    "Takva, dua ve tövbe ile manevi odaklanma",
+    "Zorlu bir dönemden sonra iftar/rahatlama ile gelen ferahlık"
+  ],
+  "challengingAssociations": [
+    "Bedensel yoksunluk ve açlık hissi",
+    "Günlük kısıtlamaların psikolojik baskısı",
+    "Ağızla ilgili doyum eksikliği ve bastırılmış arzuların sembolik yansıması",
+    "Oruç tutmanın getirebileceği aşırı fedakârlığın yarattığı yorgunluk"
+  ],
+  "contextDependentAssociations": [
+    "Uyanık yaşamdaki beslenme düzeni, diyet veya iradi oruç uygulamaları",
+    "Rüyanın dini ritüel bağlamında mı yoksa somatik açlık bağlamında mı geçtiği",
+    "Rüyayı görenin dinsel, kültürel veya klinik durumu",
+    "Uyku sırasında hissedilen gerçek açlık/susuzluk gibi somatik uyarılar"
+  ],
+  "commonVariations": [
+    {
+      "title": "Gündüz vakti zorlanarak oruç tuttuğunu görmek",
+      "description": "Bedenî sınırlamalar veya irade sınavlarının rüya biçiminde dışavurumu; uyanık yaşamdaki diyet, yoksunluk veya kontrol endişesiyle ilişkili olabilir."
+    },
+    {
+      "title": "İftar vaktinde orucu açmak",
+      "description": "Uzun süredir devam eden sıkıntı ve yoksunluğun sona ermesiyle gelen rahatlama, kolaylaşma ve rızık/bereket temalarıyla ilişkili bir imgedir."
+    },
+    {
+      "title": "Kötü bir rüyanın ardından oruç tutmak",
+      "description": "Yahudi ve bazı rabbanî pratiklerde görüldüğü gibi, rüya sonrası tövbe, iç muhasebe veya olası olumsuz etkileri bertaraf etme amacı taşıyan davranışsal tepkiyi temsil eder."
+    },
+    {
+      "title": "Tüketimden bütünüyle çekildiğini görme (inziva biçimi)",
+      "description": "Dış uyaranlardan ve gündelik tüketim alışkanlıklarından bilinçli geri çekilme, içe dönük disiplin ve zihinsel sadeleşme arayışı."
+    }
+  ],
+  "psychology": "Deneysel çalışmalar, gün içindeki besin kısıtlamaları veya uzun açlık aralıklarının rüya canlılığını artırabildiğini gösterir; bu nedenle 'oruç' teması bazen salt ritüel anlamından ziyade fiziksel yoksunluğun uyku içeriğine yansıması olabilir. Dolayısıyla rüya yorumu yaparken hem somatik tetikleyiciler hem de kişisel inanç/uygulama bağlamı göz önünde bulundurulmalıdır.",
+  "jungian": "Analitik psikoloji açısından oruç, dış dünyadan bilinçli geri çekilme, içe dönük odaklanma ve bireyleşme sürecine hizmet eden bir imge olarak değerlendirilebilir. Ancak Jung’un ana metinlerinde 'oruç' için ayrı bir madde yer almadığından, bu tür okumalar yorumlayıcıdır ve bağlama bağlı olarak ele alınmalıdır.",
+  "islamicTradition": "İslami kaynaklar ve modern derlemeler, rüyada oruç tutmayı genellikle ibadet, nefs terbiyesi, sabır ve tövbe ile ilişkilendirir; orucu açmak/iftar ise sıkıntıdan sonra gelen ferahlık ve rızık işareti olarak aktarılmaktadır. Ancak klasik metinlere doğrudan lafzen atıf yapılmadığında dikkatli, gelenek-temelli bir sentez tercih edilmelidir.",
+  "christianTraditions": "Hristiyan teolojisinde oruç motifleri alçakgönüllülük, dua, tövbe ve Tanrı’ya yöneliş ekseninde değerlendirilir; rüyada oruç, bu tür manevi dönüşümü arama veya dünyevi bağlardan kopma arzusu şeklinde yorumlanabilir.",
+  "jewishTraditions": "Rabbanî gelenekte rüyadan sonra tutulan taanit ḥalom (Türkçede 'rüya orucu' olarak anılan) uygulaması ön plana çıkar; burada oruç rüyanın kendisinden çok rüyanın yol açtığı manevi-ahlaki tepki ve iç muhasebe aracı olarak ele alınır.",
+  "buddhistEasternApproaches": "Modern yorumlarda Budist çerçeve, orucu arzu bağlarından gevşeme, zihinsel sadeleşme ve disiplin uygulaması bağlamında değerlendirir; bu tür bağlantılar çoğunlukla çağdaş yorumlara dayanır ve doğrudan kanonik rüya metinleriyle desteklenmeyebilir.",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda oruç, geçici yoksunluk aracılığıyla dönüşüm ve arınma sürecinin bir evresi olarak görülür; niyet, adak veya ruhsal koruma motifleriyle birlikte yorumlanır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Gıda kısıtlaması ve açlık gibi bedensel durumların rüya canlılığını artırması; oruç temalarının bazen somatik kaynaklı olması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Açlık, susuzluk ve oral arzuların rüyada doyum ya da yoksunluk sahneleriyle temsil edilmesi olasılığı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Bilinçten geri çekilme, içe yönelim ve bireyleşme sürecine alan açma temaları; yorumlayıcı ve bağlama bağlı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami ve Teolojik Gelenek",
+      "interpretation": "Nefs terbiyesi, takva, tövbe ve sıkıntı sonrası ferahlık gibi geleneksel anlam kümeleri.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rabbanî Geleneği",
+      "interpretation": "Kötü rüya sonrası tutulan taanit ḥalom pratiği bağlamında rüyanın yaratabileceği manevi tepkiyi simgeleme.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Spiritüel Yaklaşım",
+      "interpretation": "Geçici yoksunluk yoluyla arınma, dönüşüm ve içsel sadeleşme motifleri.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu gelenek ve yaklaşımda oruç teması, bir şeylerden vazgeçme, beden-zihin disiplinine vurgu ve değişim/odaklanma potansiyeli etrafında birleşir; bununla birlikte hangi düzeyde (bedensel, ritüel veya sembolik) işlendiği bağlama göre değişir.",
+  "differences": "Psikolojik okumalarda oruç sıklıkla somatik yoksunluğun yansıması olarak ele alınırken, dinsel ve geleneksel perspektifler orucu bilinçli ibadet, tövbe veya manevi eğitim uygulaması olarak yorumlar; bu iki eksen bazen örtüşebilir ama farklı yorumlar sunar.",
+  "inusAssessment": "Oruç rüyasında asıl ayrım, kişinin isteyerek mi yoksa zorlanarak mı aç kaldığı, orucu tamamlayıp tamamlamadığı ve bu sırada huzur, güçlük ya da suçluluk hissedip hissetmediğidir. Bu ayrıntılar, sembolün özdenetim ve manevi yöneliş mi yoksa baskı, yoksunluk ve aşırı fedakârlık mı ekseninde okunacağını belirler.",
+  "faq": [
+    {
+      "question": "Rüyada oruç tutmak her zaman dinsel bir anlam mı taşır?",
+      "answer": "Hayır. Bu tür bir rüya hem uykuda hissedilen gerçek açlığın yansıması hem de manevi bir arınma/ibadet ifadesi olabilir; ayrıntılar için Psikoloji ve İslami gelenek bölümlerine bakınız."
+    },
+    {
+      "question": "Oruç bozulduğunu veya iftar vaktini kaçırdığını görmek ne anlama gelir?",
+      "answer": "Genellikle kontrol kaybı, zamanlama baskısı veya bir süreç sonunda beklenen rahatlamanın gecikmesiyle ilişkilendirilebilir; rüyanın duygusal tonu ve rüya sahibinin gerçek yaşam koşulları yorumda belirleyicidir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dreams of the Rarebit Fiend: food and diet as instigators of bizarre ...",
+      "relevance": "Gün içindeki besin kısıtlaması ve uzun açlık aralıklarının rüya canlılığı üzerindeki etkilerini inceleyen ampirik çalışma; oruç benzeri yoksunlukların rüya içeriğine katkısını anlamaya yardımcı olur.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4330685/"
+    },
+    {
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Rüyaların istek doyumu ve bedensel uyaranlarla ilişkilendirildiği klasik psikanalitik çerçeve; açlık ve susuzluğun rüyaya nasıl girebileceğine dair temel kaynak.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Açlık ve susuzluk örnekleri üzerinden beden durumlarının rüya içeriğini nasıl etkileyebileceğini gösteren temel metin.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 3 - Classics in the History of Psychology",
+      "relevance": "Susuzluk örneği üzerinden beden ihtiyacının rüyada doyurucu sahneyle temsil edilmesini gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams3.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams (Freud)/Chapter 5",
+      "relevance": "Oruç ve açlık temalarının rüyada yemek-içmek imgeleriyle nasıl bağlandığını gösterir.",
+      "url": "https://en.wikisource.org/wiki/The_Interpretation_of_Dreams_(Freud)/Chapter_5"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyanın istek doyumu olarak kuramsallaştırılmasına ilişkin tam metin erişimi.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Fasting in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Oruç temalarını Jungçu sembolizm ve modern yorumlar bağlamında ele alan birinci el olmayan çağdaş değerlendirme; Jung'a doğrudan atıf yerine yorumlayıcı çerçeve sunar.",
+      "url": "https://rosmertapublishing.com/dream-symbols/fasting/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritik geleneğin rüyaları sınıflandırma ve beden durumlarının rüya üretimini etkileme yaklaşımını sunar; oruç temasını genel beden-yoksunluğu çerçevesinde konumlandırmak için tarihsel bağlam sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Oneirocritica",
+      "relevance": "Greko-Romen rüya yorum geleneğinin ana metni; rüya sembollerinin kişiye ve bağlama göre değişen anlamını gösteren klasik oneirokritik çerçeve.",
+      "url": "https://books.google.com/books/about/An_Ancient_Dream_Manual.html?id=QZjFDwAAQBAJ"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus'un rüyaları sınıflandırma biçimi ve yorumun rüyayı görenin durumuna bağlılığı hakkında tarihsel bağlam sağlar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Rüyada Oruç Görmek Ne Anlama Gelir?",
+      "relevance": "Rüyada oruç tutma ve oruç açma için modern Türkçe derleme yorumlar sunan çevrimiçi sayfa; sembolün güncel popüler yorum kullanımını gösterir.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-oruc-gormek-ne-anlama-gelir-6372518"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri O Harfi - Muhammed.net",
+      "relevance": "Modern Türkçe aktarım üzerinden İslami gelenekte oruçla ilişkilendirilen temaların (adak, ferahlık, mertebe vb.) nasıl aktarıldığına dair örnek sunar; doğrudan klasik lafzen atıf yerine gelenek-temelli bir perspektif sağlar.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-o1-harfi.html"
+    },
+    {
+      "title": "Dream Interpretation of Fasting",
+      "relevance": "Kutsal Kitap bağlamında oruç temasını; alçakgönüllülük, dua, tövbe ve ruhsal arınma ile ilişkilendiren çevrimiçi açıklama.",
+      "url": "https://www.dreambible.com/search.php?q=Fasting"
+    },
+    {
+      "title": "Talmudology on the Parsha, Miketz: Why Do We Dream?",
+      "relevance": "Rabbanî geleneğin kötü rüya sonrası uygulamaları ve taanit ḥalom (rüya orucu) çerçevesi hakkında bilgilendirici bir özet sunar.",
+      "url": "https://www.talmudology.com/jeremybrownmdgmailcom/2016/1/21/gittin-52a-do-dreams-mean-anything-4h8dw-4b8mk"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Yahudi hukukunda kötü rüyadan sonra oruç, tövbe ve sadaka ile birlikte ele alınan taanit ḥalom çerçevesini özetler.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "Fasting Dream Meaning - Interpret Your Dream!",
+      "relevance": "Oruç rüyasını Budist bağlamda özdenetim, arzuların azaltılması ve sadeleşme üzerinden yorumlayan modern bir çevrimiçi metin.",
+      "url": "https://mirrorwithin.com/dream-dictionary/fasting/"
+    },
+    {
+      "title": "Spiritual Meaning Of Fasting In A Dream: Self-discipline!",
+      "relevance": "Budizm’de orucu beden ve zihni sınırlayan bir özdisiplin pratiği olarak tanımlayan kısa bir çevrimiçi açıklama.",
+      "url": "https://spiritualask.com/spiritual-meaning-of-fasting-in-a-dream/"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist rüya sembollerinde arınma, eşik aşma ve dönüşüm imgelerini aktaran bir kaynak; oruç sembolünü çevreleyen daha geniş sembolik alanı gösterir.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "What Buddhism Says Dreams Mean, Explained - Gassho (合掌)",
+      "relevance": "Oruç ile zihinsel berraklık, bağlılıktan çekilme ve sadeleşme arasında Budist çerçevede ilişki kuran yorumlayıcı bir çevrimiçi metin.",
+      "url": "https://gassho.info/blog-page/does-buddhism-say-dreams-have-meaning/"
+    },
+    {
+      "title": "Fasting in Dreams — Islamic Interpretation & Meaning | Dream ...",
+      "relevance": "Oruç sembolünü rüya bağlamında özdenetim, ruhsal korunma, adak/niyet ve tövbe temalarıyla ilişkilendiriyor.",
+      "url": "https://www.dream-wisdom.com/en/dreams/fasting/"
+    },
+    {
+      "title": "Dreams of Fasting: Ramadan, Oraza, Suhoor & Eid Meaning",
+      "relevance": "Oruç'u rüyada manevi koruma ve özdenetim ekseninde ele alıyor; Ramazan bağlamına da değiniyor.",
+      "url": "https://www.dream-wisdom.com/en/blog/dreams-of-fasting-in-ramadan-oraza-suhoor-eid-al-fitr/"
+    },
+    {
+      "title": "Fasting and alchemy - Holonity-blog",
+      "relevance": "Oruç ile simya arasında üç evreli dönüşüm benzetmesi kuruyor; ezoterik sembolizm açısından yararlı bir çağrışım veriyor.",
+      "url": "https://holonity.com/fasting-and-alchemy/"
+    },
+    {
+      "title": "Fasting Dreams: Meaning & Interpretation | Somniscient",
+      "relevance": "Oruç'u rüyada özdenetim, arınma ve içsel odaklanma temalarıyla yorumluyor; Jungçu ve psikolojik çağrışımlar da sunuyor.",
+      "url": "https://somniscient.com/en/symbols/fasting"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "christian",
+    "buddhist-eastern"
+  ]
+}

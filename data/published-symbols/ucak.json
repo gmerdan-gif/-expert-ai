@@ -1,113 +1,163 @@
 {
   "slug": "ucak",
   "title": "uçak",
-  "shortDescription": "Rüyada uçak görmek, hayattaki bir geçişi, hedeflere hızla ilerleme isteğini veya daha geniş bir bakış açısı arayışını simgeleyebilir. Uçağın kalkması veya inişi başlangıç ve geçişleri, kontrolden çıkması kontrol kaybını, yolcu olmak ise yönü başkasına bırakma hissini öne çıkarabilir.",
+  "shortDescription": "Uçak sembolü, rüyada modern yaşamın hızını, perspektifin genişlemesini, hareketliliği ve yeni bir bilinç düzeyine ya da yaşam eşiğine geçişi temsil eden çok katmanlı bir imgedir.",
   "positiveAssociations": [
-    "Ufuk açıcı yeni bakış açıları",
-    "Hedeflere doğru hızlı ilerleme",
-    "Yaşamda önemli bir geçiş ve yükseliş hissi",
-    "Modern imkanların getirdiği özgürlük algısı"
+    "Perspektif genişlemesi",
+    "Ruhsal ilerleme",
+    "Güvenli seyahat ve somut ilerleme",
+    "Yeni yönelimler ve hedef belirleme",
+    "Geçiş ve hareketlilik"
   ],
   "challengingAssociations": [
-    "Kontrol kaybı ve durumun başkalarının eline geçmesi",
-    "Modern hayatın getirdiği yoğun tempo ve hedeflere ulaşma baskısı",
-    "İnsan denetimini aşan beklenmedik yön değişiklikleri"
+    "Yön kaybı veya dağılmış enerji",
+    "Kontrolsüz hız veya düşüş endişesi",
+    "Uçuş esnasında yaşanan teknik arızalar",
+    "Gündelik gerçeklikten kopuş hissi"
   ],
   "contextDependentAssociations": [
-    "Uçağın seyir halinde, inişte veya kalkışta olması rüyanın yönelimini değiştirir",
-    "Yolcu olarak bulunmak, kontrolün kısmen devredilmesini simgeler; bireyin konumu ise teknoloji ve modern yaşamla ilişkisini yansıtır."
+    "Uçağın iniş veya kalkış anında olması",
+    "Rüya sahibinin uçaktaki konumu ve rolü",
+    "Uçuş sırasında hissedilen duygu durumu",
+    "Hava koşullarının açık veya kapalı olması"
   ],
   "commonVariations": [
     {
-      "title": "Gökyüzünde Uçak İzlemek",
-      "description": "Yerden gökyüzündeki bir uçağı izlemek, uzaktaki hedefleri, modern dünyanın hızını ve bireyin bu hız karşısındaki dışsal gözlemci konumunu simgeler."
+      "title": "Güvenli ve sorunsuz bir uçuş",
+      "description": "Rüya sahibinin açık havada, rahat ve kontrollü bir şekilde uçak yolculuğu yapması, uyanık yaşamda hedeflere doğru uyumlu bir ilerleme kaydedildiğini gösterir."
     },
     {
-      "title": "Uçakta Yolculuk Etmek",
-      "description": "Uçağın içinde seyahat etmek, yaşamın belirli bir evresinden diğerine geçişi, kontrolün kısmen pilota veya sisteme devredildiği uzun vadeli bir süreci temsil eder."
+      "title": "Uçağın kalkış yapması veya yükselmesi",
+      "description": "Pistten kalkan veya gökyüzüne doğru süzülen bir uçak görmek, yeni bir hayata geçiş, projelerin devreye girmesi veya bakış açısının genişlemesiyle ilişkilendirilir."
     },
     {
-      "title": "Kontrolü Kaybeden Uçak",
-      "description": "Uçağın düşüşü veya yönünü kaybetmesi, günlük hayatın getirdiği yoğun tempo, hedeflere ulaşma baskısı veya insan iradesinin sınırlarını aşan durumlar karşısındaki endişeleri yansıtabilir."
+      "title": "Uçuş sırasında yön kaybı veya arıza",
+      "description": "Uçağın rotasını kaybetmesi, sallanması veya teknik bir sorun yaşaması, rüya sahibinin yaşamında enerjisinin dağılmasına, kararsızlıklara veya yön düzeltme ihtiyacına işaret eder."
     },
     {
-      "title": "Kalkışa Hazırlanan Uçak",
-      "description": "Pistte kalkış bekleyen bir uçak, yeni bir girişim, akademik veya kariyer odaklı bir atılım ve geleceğe dönük beklentilerin başlangıç aşamasını ifade eder."
+      "title": "İniş yapan uçak ve varış noktası",
+      "description": "Bir uçağın piste güvenle iniş yapması, uzun süredir devam eden bir çabanın veya seyahatin başarıyla tamamlandığını ve kararlı bir sonuca ulaşıldığını gösterir."
     }
   ],
-  "psychology": "Psikolojik açıdan uçak, modern teknolojinin birey üzerindeki etkilerini ve insanın doğa ile mekan üzerindeki hakimiyetini inceleyen kültürel bağlamlarla ele alınır. Psikanalitik yaklaşımlarda ise arzular, özgürlük arayışı ve kontrolün devredilmesi gibi temalarla ilişkilendirilen bir imge olarak değerlendirilir.",
-  "jungian": "Jungcu analitik psikolojide uçak, bireyin günlük bilincin dar sınırlarından sıyrılarak daha geniş bir perspektife ulaşmasını simgeleyen bir yükseliş imgesi olarak yorumlanır.",
-  "islamicTradition": "",
+  "psychology": "Ampirik psikoloji araştırmaları, uçuş imgelerinin rüyalarda tek ve sabit bir anlamı olmadığını; vücut konumu, uçuşu başlatan eylem ve uyanık yaşam deneyimleri gibi bağlamsal unsurların belirleyici olduğunu göstermektedir.",
+  "jungian": "Jungcu okumada uçak, yerçekimine bağlı gündelik düzeyin ötesine geçme, yükselme ve perspektif genişlemesi temalarıyla ilişkilendirilebilir. Ancak bu çerçeve modern bir nesneye uygulanan temkinli bir okumadır ve rüya sahibinin bağlamıyla sınanmalıdır.",
+  "islamicTradition": "İslami rüya tabiri literatüründe 'uçak' doğrudan klasik metinlerde bulunmaz; genellikle uçma ve yükselme motifleri üzerinden, yolculuk, makam veya arzu edilen hedefe erişme ekseninde yorumlanır.",
   "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Theravada geleneğinde, uçak gibi modern nesneler duyusal algı ve bilişsel farkındalık açısından gözlemlenen dışsal öğeler olarak incelenir.",
-  "spiritualApproaches": "",
+  "jewishTraditions": "Yahudi rüya geleneğinde (ör. Berakhot) rüyaların anlamı yorumla şekillenir; modern nesneler, sabit bir hüküm yerine bağlama göre seyahat, yön ve yükselme temaları üzerinden değerlendirilir.",
+  "buddhistEasternApproaches": "Klasik Doğu metinlerinde doğrudan \"uçak\" girişi yoktur; modern Doğu ve spiritüel yorumlarda uçak, hızlı geçiş ve deneyim eşiğini aşma metaforu olarak ele alınabilir.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel okumalarda uçak; yaşam yolculuğu, bilinçte yükselme, hızlı dönüşüm ve yeni yönelimlere geçiş temalarıyla ilişkilendirilir.",
   "comparisonTable": [
     {
-      "approach": "Psikanaliz",
-      "interpretation": "Arzular, özgürlük arayışı ve denetimin başkasına devredilmesi bağlamında teorik bir imge.",
+      "approach": "Psikoloji ve Ampirik Araştırma",
+      "interpretation": "Uçuş ve hareket imgelerinin sabit bir anlamı yoktur; rüya içeriği bireyin uyanık yaşam deneyimleri ve bağlamsal unsurlarla şekillenir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Uçuş ve taşıt imgeleri, hareket, yükselme ve biçimsel çağrışımlar üzerinden değerlendirilir; rüya sahibinin kişisel çağrışımları esastır.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Analitik Psikoloji",
-      "interpretation": "Yükseliş, genişleme, aşkın işlev ve karşıtlıkların bütünleşmesi.",
+      "approach": "Analitik Psikoloji (Jungcu)",
+      "interpretation": "Yerleşik gündelik düzeyin ötesine geçme, bilinç alanının genişlemesi ve perspektif değişimi olarak okunur (kontrollü, bağlama bağlı yorum).",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Doğu Gelenekleri (Theravada)",
-      "interpretation": "Sembolik bir rüya anlamından ziyade, duyusal algı ve bilişsel farkındalık açısından ele alınan bir nesne olarak görülür.",
+      "approach": "Geleneksel Yaklaşımlar",
+      "interpretation": "Gündelik düzeyin ötesine geçme, bilinç alanının genişlemesi ve perspektif değişimi olarak okunur (temkinli ve bağlama bağlı bir yorumdur).",
       "evidenceLevel": "traditional"
-    }
-  ],
-  "commonGround": "Farklı yorumlayıcı çerçevelerde uçak, temelde insanın fiziksel ve zihinsel sınırlarını aşma aracı, hız ve modern döneme ait bir geçiş motifi olarak ele alınır.",
-  "differences": "Psikanalitik yaklaşımlar daha çok kişisel kontrol ve arzulara odaklanırken, Jungcu gelenek daha geniş bir perspektif kazanma ve zihinsel bütünleşme üzerine odaklanır; doğu yaklaşımlarında ise nesne doğrudan algısal bir olgu olarak incelenir.",
-  "inusAssessment": "Uçak sembolü, modern çağın hızını, teknolojik gücünü ve bireysel kontrolün sınırlarını aynı anda barındıran çok katmanlı bir imgedir. Rüyalarda bu sembolle karşılaşılması, doğrudan geleceğe dair kehanetlerden ziyade, bireyin hayatındaki geçişleri, yönelimleri ve kontrol algısını hangi perspektiften ele aldığını anlamaya yönelik analitik bir zemin sunar.",
-  "faq": [
-    {
-      "question": "Rüyada uçak görmek her zaman seyahat anlamına mı gelir?",
-      "answer": "Hayır. Uçak sembolü modern kültürde hız, teknoloji, yaşam geçişleri ve kontrolün sınırları gibi soyut temalarla da ilişkilendirilir."
     },
     {
-      "question": "Jungcu psikolojide uçak rüyaları nasıl ele alınır?",
-      "answer": "Jungcu perspektifte uçak, bilincin yükselmesi, daha geniş bir bakış açısı kazanılması ve içsel dönüşüm süreçleriyle bağlantılı bir yükseliş imgesi olarak yorumlanır."
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Manevi yükseliş, bilinçte hızlı sıçrama, yaşam geçişleri ve yeni yönelimlerin sembolü olarak ele alınır.",
+      "evidenceLevel": "spiritual"
     }
   ],
+  "commonGround": "Çoğu yaklaşımda uçak ve uçuş imgeleri hareket, konum değişikliği ve mevcut durumun ötesine geçme potansiyeli taşıyan motifler olarak görülür.",
+  "differences": "Ampirik çalışmalar bağlam bağımlılığını ve çeşitliliği vurgularken, analitik ve spiritüel okumalar bu imgeleri daha çok bilinç veya ruhsal ilerleme metaforu olarak yapılandırır. Geleneksel yorumlar ise genellikle seyahat ve hedefe ulaşma eksenine ağırlık verir.",
+  "inusAssessment": "Rüyada uçak görmek, modern bir nesne olması nedeniyle tek ve sabit bir anlama indirgenemez. Yorumda uçağın durumu (kalkış, seyir, iniş), rüya sahibinin uçaktaki rolü ve rüyadaki duygusal ton belirleyicidir. İmge, yükselme, geçiş veya yönelimle ilişkili olabilir, ancak bağlama göre değişir.",
+  "faq": [],
   "sources": [
     {
-      "title": "Meaning of Airplane Dreams - Oneiro - Dream Oracle",
-      "relevance": "Uçak rüyalarını ambisyon, kontrol ve hedefe yönelim bağlamında yorumlayan çevrim içi bir metin.",
-      "url": "https://oneiro.click/en/articles/airplane-dream/"
+      "title": "Frequency and nature of flying dreams in a long dream series",
+      "relevance": "Uzun rüya serisinde uçuş imgelerinin sıklığı, çeşitliliği ve uyanık yaşamla ilişkisini inceleyen ampirik çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/9077"
     },
     {
-      "title": "Power of Dreams - Airplane Dreams & Their Meaning",
-      "relevance": "Uçak imgesini Jungcu sembolizm içinde yükseliş ve geniş perspektif temalarıyla ilişkilendiren çevrim içi yorumlayıcı kaynak.",
-      "url": "https://powerofdreams.net/ddairplane.html"
+      "title": "A Systematic Change in Dreams after 9/11/01 - PMC",
+      "relevance": "Büyük toplumsal olay sonrası rüya içeriğinde uçak imgelerinin değişip değişmediğini ele alan ampirik analiz.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2225570/"
     },
     {
-      "title": "Dreaming of Airplane: Meaning, Symbolism & Interpretation",
-      "relevance": "Uçağı geçiş, denetim ve Jungcu (aşkın işlev) okumalarıyla ele alan çevrim içi yorumlayıcı kaynak.",
-      "url": "https://dreamz-journal.com/blog/dream-symbol/airplane/"
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud'un uçuş ve uçan makineler imgeleri üzerinden verdiği psikanalitik yorumların yer aldığı temel metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
     },
     {
-      "title": "ОБРАЗ ЛЕТАТЕЛЬНЫХ АППАРАТОВ В КУЛЬТУРЕ",
-      "relevance": "Hava taşıtları imgesinin kültürdeki evrimini ve temsil dönüşümünü inceleyen akademik makale.",
-      "url": "https://elib.bsu.by/bitstream/123456789/328508/1/435-438.pdf"
+      "title": "Airplane Dreams: Meaning & Psychological Interpretation",
+      "relevance": "Jungcu çerçevede uçak ve uçuş imgesini yükselme ve perspektif değişimiyle ilişkilendiren kaynak.",
+      "url": "https://somniscient.com/en/symbols/airplane"
     },
     {
-      "title": "[PDF] Dictatorship of the Air - Assets - Cambridge University Press",
-      "relevance": "Uçağın modernlik, teknolojik güç ve insan hâkimiyeti imgeleriyle ilişkisini tartışan akademik kitap bölümü özeti.",
-      "url": "http://assets.cambridge.org/97805218/59578/excerpt/9780521859578_excerpt.pdf"
+      "title": "Artemidorus on Dreams - translation - Attalus.org",
+      "relevance": "Artemidorus’un rüya sınıflandırması ve alegorik yorum yaklaşımını gösteren çeviri metin.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "Modernity's Object: The Airplane, Masculinity, and Empire",
-      "relevance": "Uçağın modernlik, erkeklik ve imparatorlukla bağlantılı kültürel nesne olarak incelendiği akademik çalışma.",
-      "url": "https://edisciplinas.usp.br/pluginfile.php/5751704/mod_folder/content/0/Modernity%20s%20Object%20-%20The%20Airplane%20Masculinity%20and%20Empire%20-%20Robert%20Hemings.pdf?forcedownload=1"
+      "title": "Artemidorus, Dream Exegesis, and the Case of the Interpolating ...",
+      "relevance": "Artemidorus’un şemasında uçuş ve seyahat imgelerinin birlikte ele alınışını tartışan akademik çalışma.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
     },
     {
-      "title": "Significance of Aircraft",
-      "relevance": "Theravada bağlamında uçak kavramının algısal bir nesne olarak ele alınışını gösterir.",
-      "url": "https://www.wisdomlib.org/concept/aircraft"
+      "title": "تفسير حلم الطيران في المنام - مجلة سيدتي",
+      "relevance": "Uçuş rüyalarının yükseğe çıkma, yolculuk ve arzu edilen hedefe erişme ekseninde yorumlandığını özetleyen modern Arapça derleme.",
+      "url": "https://www.sayidaty.net/%D8%A8%D9%84%D8%B3/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A3%D8%AD%D9%84%D8%A7%D9%85/1814329-%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%AD%D9%84%D9%85-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Talmudik çerçevede rüyaların yorumla nasıl şekillendiğini gösteren temel açıklama.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "“All Dreams Follow the Interpretation” – Even for the Rabbis!",
+      "relevance": "Berakhot bağlamında rüya yorumunun rüya anlamını belirlemedeki rolünü ele alan inceleme.",
+      "url": "https://thegemara.com/article/all-dreams-follow-the-interpretation-even-for-the-rabbis/"
+    },
+    {
+      "title": "Dreams in Jewish Tradition | This Is Bar Mitzvah",
+      "relevance": "Yahudi geleneğinde rüyaların yorum ve gündelik düşüncelerle ilişkisini özetleyen popüler açıklama.",
+      "url": "https://thisisbarmitzvah.com/religion/jewish-dreams/"
+    },
+    {
+      "title": "Dream About Airplane - Meaning & Interpretation",
+      "relevance": "Uçağı modern bir ruhsal yükseliş ve hızlı geçiş sembolü olarak yorumlayan çağdaş metin.",
+      "url": "https://satyori.com/dreams/airplane/"
+    },
+    {
+      "title": "Airplane Dreams",
+      "relevance": "Uçak rüyasını modern spiritüel dilde ilerleme, dönüşüm ve yeni yönelimlerle ilişkilendiren kaynak.",
+      "url": "https://www.dreamdictionary.org/dream-dictionary/airplane-dreams/"
+    },
+    {
+      "title": "Airplane in dreams — meaning and symbolism",
+      "relevance": "Uçağı bilinçte yükselme ve bakış açısının genişlemesi ile ilişkilendiren çağdaş yorum.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/airplane"
+    },
+    {
+      "title": "Aircraft Dream Meaning & Interpretation - Mirror",
+      "relevance": "Uçak sembolünü yaşam yolculuğu, hırs ve geniş ufuklara yönelme ekseninde ele alan metin.",
+      "url": "https://mirrorwithin.org/dream-dictionary/aircraft/"
+    },
+    {
+      "title": "Plane Dream Meaning & Interpretation - Mirror",
+      "relevance": "Uçak imgelerini spiritüel yükseliş ve dönüşüm bağlamında yorumlayan kaynak.",
+      "url": "https://mirrorwithin.org/dream-dictionary/plane/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "islamic",
+    "buddhist-eastern"
+  ]
 }

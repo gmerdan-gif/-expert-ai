@@ -1,0 +1,249 @@
+{
+  "slug": "gulmek",
+  "title": "gülmek",
+  "shortDescription": "Rüyada gülmek, gülmenin tonuna göre ferahlık ve sevindirici bir haberin ya da bastırılmış keder, alay ve denge kaybının işareti olabilir. Sessiz bir tebessüm daha olumlu yorumlanırken, taşkın kahkahada rüyanın atmosferi ve kime güldüğünüz önem taşır.",
+  "positiveAssociations": [
+    "İçsel ferahlık ve duygusal hafifleme",
+    "Beklenmedik bir müjde veya sevinç",
+    "Gerilimlerin ve katı tutumların çözülmesi",
+    "Sosyal bağların güçlenmesi ve dostane sevinç"
+  ],
+  "challengingAssociations": [
+    "Taşkınlık ve denge kaybı",
+    "Derin hüzün ve kederin açığa çıkışı",
+    "Alay, küçümseme veya inançsızlık",
+    "Bilinçdışı savunmaların ve gizli eleştirilerin dışa vurumu"
+  ],
+  "contextDependentAssociations": [
+    "Gülmenin sesli bir kahkaha mı yoksa hafif bir tebessüm mü olduğu",
+    "Rüyayı gören kişinin kime ve neye güldüğü",
+    "Rüya sırasındaki genel atmosfer ve sonrasındaki duygusal ton"
+  ],
+  "commonVariations": [
+    {
+      "title": "Hafif tebessüm etmek",
+      "description": "Rüyada sessizce, yalnızca yüz hatlarının yumuşamasıyla gülümsemek; uyanık yaşamda bir ferahlama, içsel bir rahatlama veya sevindirici bir haberin belirtisi olarak okunabilir."
+    },
+    {
+      "title": "Taşkın ve kontrolsüz kahkaha atmak",
+      "description": "Gürültülü, durdurulamayan ve aşırı bir kahkaha krizini yaşamak, geleneksel anlatımlarda ve psikodinamik çerçevelerde aşırılık, denge kaybı veya bastırılmış kederin dışavurumu şeklinde yorumlanabilir."
+    },
+    {
+      "title": "Birine veya bir şeye alaycı biçimde gülmek",
+      "description": "Rüyada başkalarının talihsizliğine ya da durumuna küçümseyerek güldüğünü görmek, ego savunmaları, gizli eleştiri eğilimleri veya ilişkilerde gölge yönlerin açığa çıkmasıyla ilişkili olabilir."
+    },
+    {
+      "title": "Sebepsiz yere garip bir duruma gülmek",
+      "description": "Ortada komik bir şey yokken garip bir duruma gülmek, bilinçdışının ani patlaması, gündelik hayatın katı ciddiyetinden sıyrılma veya rüyanın kendine özgü komik dinamikleriyle bağlantılı olabilir."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar, komik rüyalar gören kişilerin uyanık yaşamda mizah eğilimleriyle korelasyon gösterebildiğini, ancak rüyalarda gülmenin her zaman uyanık hayattaki neşeyle birebir örtüşmediğini, bazen garip ve anlamsız içeriklerle tetiklenebildiğini göstermektedir.",
+  "jungian": "Analitik psikoloji perspektifinde rüyada gülme, Trickster (Hileci) arketipi ve gölge unsurlarının oynak biçimde ortaya çıkışıyla ilişkilendirilir. Kahkaha, bilinçdışından gelen karşıt içeriklerin serbest kalmasına ve psişenin (ruhsal yapının) bütünleşme sürecinde esneklik kazanmasına işaret edebilen dinamik bir tepki olarak ele alınır; yine de bu, tekil ve deterministik bir anlam atfetmeyi gerektirmez.",
+  "islamicTradition": "Geleneksel İslami rüya tabiri aktarımlarında, gülmenin tonu belirleyici bir ayrım çizgisidir. Tebessüm genellikle ferahlık ve hayırla, sesli ve taşkın kahkaha ise kimi kaynaklarda hüzün, sıkıntı veya ağlamaya dönüşme ihtimaliyle ilişkilendirilmiştir.",
+  "christianTraditions": "Hristiyan sembolizminde gülme hem sevinç ve kurtuluşun ifadesi hem de alay, küçümseme ve inkârla bağlantılı olabilen çift anlamlı bir motiftir. Kutsal metinlerdeki bağlamlar ve metinsel göndergeler, sıcak ve sevinçli bir gülmenin teselliyle, küçümseyici kahkahanın ise kibir veya hor görme ile ilişkilendirilebileceğini göstermektedir.",
+  "jewishTraditions": "Yahudi metinlerinde gülme, topluluk bağlarını güçlendirici bir sevinç göstergesi olabildiği gibi ibadet ciddiyetiyle gerilim içinde değerlendirilen bir davranış da olabilir. Rabbanî literatürde gülme ve kahkaha bağlamına göre farklı ahlaki ve ritüel değerlendirmelere tabi tutulur, rüyada gülme yorumunda da ton ve bağlamın önemi vurgulanır.",
+  "buddhistEasternApproaches": "Budist ve Doğu Asya okumalarında gülme türleri ayrıştırılır, ölçülü ve denetimli tebessüm olumlu bir uyum veya içgörü belirtisi sayılabilirken taşkın veya alaycı gülme farklı etik değerlendirmelere tabi tutulur. Zen bağlamında gülme bazen benliğe aşırı ciddiyetin çözülmesi ve ani fark edişle ilişkilendirilir.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel yorumlarda rüyada gülme, gerilimin boşalması, bakış açısının genişlemesi ve egonun ciddiyetinin çözülmesiyle ilişkilendirilebilir. Bu okumalar bağlama ve gülmenin tonuna göre değişken sonuçlar önerir ve deterministik anlamlar atamaz.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Uyku Araştırmaları",
+      "interpretation": "Gülmeyi REM uykusu, hipnogeli ve rüya etkinliğiyle ilişkilendirir; bazı çalışmalar mizah eğilimiyle bağlantı göstermiştir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Kahkahayı bastırılmış enerjinin boşalması, sansür mekanizmalarını atlama ve dolaylı arzuların ifadesi bağlamında değerlendirir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Gülmeyi Trickster, gölge ve bilinçdışının oynak tezahürü olarak; benlik bütünleşmesi sürecinde bir esneklik aracı şeklinde okur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel İslami Aktarımlar",
+      "interpretation": "Tebessümü ferahlık ve hayırla, taşkın kahkahayı ise bazen hüzün veya sıkıntıyla ilişkilendirir (modern derlemeler çerçevesinde aktarılmıştır).",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Kutsal Metin ve Teolojik Yaklaşımlar",
+      "interpretation": "Gülmeyi sevinç/kurtuluş ile alaycılık/inkâr ekseninde çift yönlü bir sembol olarak ele alır; bağlama göre olumlu ya da olumsuz yorumlar yapılır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Okumalar",
+      "interpretation": "Gülmeyi ruhsal hafifleme, ego çözümlenmesi ve perspektif değişimiyle ilişkilendirir; yorumlar bağlama göre değişkendir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, gülmenin tek boyutlu bir neşe göstergesi olmadığını; aksine, insan psişesinin derinlerindeki gerilimleri, ani duygusal değişimleri ve bastırılmış tepkileri bedensel bir dışavurumla açığa çıkaran önemli bir gösterge olduğu konusunda birleşmektedir.",
+  "differences": "Bilimsel psikoloji gülmeyi REM uykusu ve nörofizyolojik süreçlerle ilişkilendirirken, psikanalitik yaklaşımlar sansür, yoğunlaştırma ve enerji boşalması üzerinden anlamlandırır. Dini ve kültürel gelenekler ise gülmenin tonuna (tebessüm ile kahkaha), kime ve niçin güldüğüne göre olumlu ya da olumsuz sembolik sonuçlar çıkarır.",
+  "inusAssessment": "Rüyada gülmenin hafif bir gülümseme mi yoksa taşkın bir kahkaha mı olduğunu, bunun psikolojik bir rahatlamaya mı yoksa geleneksel yorumlarda olduğu gibi gizli bir keder ya da dengesizliğin habercisi mi olduğunu ayırt etmek en kritik noktadır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Sleep-laughing--hypnogely",
+      "relevance": "Uyku sırasında gülme olgusunun REM uykusu ve rüya görme bağlamındaki klinik özelliklerini ve bazı vakalardaki parasomni ilişkilerini açıklar; rüyada gülmenin nörobiyolojik zeminine dair ampirik temel sunar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23786736/"
+    },
+    {
+      "title": "The associations among funny dreams, various aspects of humor ...",
+      "relevance": "Komik rüyalarla uyanık yaşamdaki mizah eğilimleri arasındaki bağlantıyı inceleyen ampirik çalışma; rüyalarda gülmenin kişisel mizah eğilimleriyle korelasyon gösterebileceğini bildirir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/114972"
+    },
+    {
+      "title": "[PDF] JOKES AND THEIR RELATION TO THE UNCONSCIOUS",
+      "relevance": "Freud’un şaka, kahkaha ve bilinçdışı arasındaki ilişkiyi kurduğu temel eser; rüyadaki gülme temasını psikanalitik olarak çerçeveler.",
+      "url": "https://www.lutecium.org/ftp/Freud/pdf/1905_jokes_and_their_relation_to_the_unconscious.pdf"
+    },
+    {
+      "title": "CHAPTER 6 (part 4) THE DREAM-WORK",
+      "relevance": "Freudcu rüya-işi çerçevesinde düşlerde görülen komik öğeler, yoğunlaştırma ve yer değiştirme mekanizmalarının işleyişine dair özetleyici bir kaynaktır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6d.htm"
+    },
+    {
+      "title": "Cambridge University Press",
+      "relevance": "Freud’un rüya ve espri arasındaki ortak mekanizmalarını özetleyen ikincil psikanalitik çalışma.",
+      "url": "https://assets.cambridge.org/97811070/86173/excerpt/9781107086173_excerpt.pdf"
+    },
+    {
+      "title": "A joke in a dream. A note on the complex aesthetics ...",
+      "relevance": "Freud’un düşlerdeki komik öğeleri gerçek espriden ayıran yaklaşımını tartışan akademik makale; rüyadaki gülme temasına doğrudan yakın.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12723144/"
+    },
+    {
+      "title": "COPYRIGHTED MATERIAL NOT FOR DISTRIBUTION",
+      "relevance": "Freud’un rüya ve espriyi arzunun gizlenmiş doyumu ve haz üretimi bağlamında karşılaştıran açıklama.",
+      "url": "https://www.upcolorado.com/media/acfupload/9781607324928_sample.pdf"
+    },
+    {
+      "title": "The Art of Laughter",
+      "relevance": "Freud’da kahkaha, şaka ve rüya arasındaki benzerlikleri ve enerji boşalması fikrini anlatan makale.",
+      "url": "https://www.cabinetmagazine.org/issues/17/holt.php/1000"
+    },
+    {
+      "title": "1",
+      "relevance": "Freud’un rüya ile şaka arasındaki işlevsel yakınlığı ve amaç farkını özetleyen akademik tartışma.",
+      "url": "https://eprints.bournemouth.ac.uk/21177/1/Humour%20as%20social%20dreaming%20draft.pdf"
+    },
+    {
+      "title": "Bergson's and Freud's theories of laughter: a comparison and a suggestion",
+      "relevance": "Freud ve Bergson’un kahkaha teorilerini karşılaştırırken rüyalardaki yoğunlaştırma ve yer değiştirme ile Freudcu bağlantı kuran çalışma.",
+      "url": "https://journals.co.za/doi/pdf/10.10520/AJA00382353_10150"
+    },
+    {
+      "title": "Laugh Dreams: Meaning & Interpretation | Somniscient",
+      "relevance": "Rüyada gülme temasını Jungcu Trickster çağrışımıyla birlikte ele alır.",
+      "url": "https://somniscient.com/en/symbols/laugh"
+    },
+    {
+      "title": "Laughter Dream Meaning & Interpretation",
+      "relevance": "Rüyada gülmenin Jungcu perspektifte Trickster, karşıtlıklar ve bütünleşme ile ilişkisini açıklar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/laughter/"
+    },
+    {
+      "title": "The Social Character of the Unconscious. A Cross Reading between G. H. Mead and C. G. Jung",
+      "relevance": "Bilinçdışının kişisel ve kolektif katmanlarını tanımlayan Jungcu çerçeveyi sağlar.",
+      "url": "https://cris.unibo.it/retrieve/f989aa9b-8dec-469f-b77d-d976ed44e862/J%20Theory%20Soc%20Behav%20-%202024%20-%20Bruni%20-%20The%20Social%20Character%20of%20the%20Unconscious%20%20A%20Cross%20Reading%20between%20G%20%20H%20%20Mead%20and%20C%20%20G%20.pdf"
+    },
+    {
+      "title": "Comedy in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Rüyadaki kahkahayı serbest bırakılan şeyin ne olduğu sorusu üzerinden Jungcu biçimde okur.",
+      "url": "https://rosmertapublishing.com/dream-symbols/comedy/"
+    },
+    {
+      "title": "Laughing Dreams: Meaning & Interpretation",
+      "relevance": "Gülmeyi Trickster ve Bilge Yaşlı Adam arketipleri bağlamında yorumlar.",
+      "url": "https://somniscient.com/en/symbols/laughing"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Greko-Romen oneirokritik geleneğinin önemli bir kaynağı olarak Artemidorus'un eseri, tarihsel bağlamda rüya yorumlama yöntemine başvuru sağlar; doğrudan 'gülmek' maddesi bulunmasa da tarihsel çerçeve sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' Interpretation of ...",
+      "relevance": "Artemidorus’un eserini antik dünyanın günümüze ulaşan tek/başlıca kapsamlı rüya el kitabı olarak tarihsel bağlama yerleştirir.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/1751696X.2022.2122355"
+    },
+    {
+      "title": "تفسير رؤية الضحك في المنام لابن سيرين والنابلسي ومعانيه",
+      "relevance": "İbn Sîrîn ve Nablusî’ye atfedilen modern derlemeler, tebessüm ile taşkın kahkaha arasında yapılan ayrımı ve bu ayrımın rüya yorumundaki etkisini aktarmaktadır .",
+      "url": "https://mana.ms/blog/ar/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%B6%D8%AD%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D9%84%D8%A7%D8%A8%D9%86-%D8%B3%D9%8A%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A"
+    },
+    {
+      "title": "الضحك في المنام: تفسير ابن سيرين والنابلسي ومعانيه",
+      "relevance": "İbn Sîrîn ve Nablusî çizgisinde, tebessümün olumlu; kahkahanın ise ağlama ve hüzünle ilişkilendirildiğini aktaran modern Arapça derleme.",
+      "url": "https://mana.ms/blog/ar/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D8%B6%D8%AD%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D8%B9%D9%86%D8%AF-%D8%A7%D8%A8%D9%86-%D8%B3%D9%8A%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A"
+    },
+    {
+      "title": "دلالات الضحك في المنام: تأويلات ابن سيرين | الموسوعة",
+      "relevance": "İbn Sîrîn’e atfedilen yorumlarda şiddetli gülmenin hüzün ve kedere, kısık/sessiz gülmenin ise ferahlığa ve içsel açıklığa işaret edebildiğini özetleyen modern derleme.",
+      "url": "https://almawso3a.com/%D8%AF%D9%84%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B6%D8%AD%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D8%AA%D8%A3%D9%88%D9%8A%D9%84%D8%A7%D8%AA-%D8%A7%D8%A8%D9%86-%D8%B3%D9%8A%D8%B1%D9%8A%D9%86"
+    },
+    {
+      "title": "Laughing Islamic Interpretations & Meanings",
+      "relevance": "Gülmenin rüyada sevinç, haber, alay, sahtekârlık, günah, keder veya sessiz tebessüm gibi bağlama bağlı anlamlar taşıyabildiğini özetleyen geniş bir derleme.",
+      "url": "https://www.myislamicdream.com/laughing.html"
+    },
+    {
+      "title": "Laughter - Encyclopedia of The Bible",
+      "relevance": "Kutsal metinler ve Hristiyan sembolizminde gülmenin sevinç, kurtuluş ve aynı zamanda alay/küçümseme ile ilişkisini özetleyen teolojik bir referanstır.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Laughter"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 31",
+      "relevance": "Yahudi rabbanî literatürde gülme ve kahkahanın ibadet ciddiyeti ve ölçülülük bağlamında nasıl ele alındığını gösteren bir metindir; rüyada gülme yorumlarında bağlama duyarlılığına işaret eder.",
+      "url": "https://halakhah.com/berakoth/berakoth_31.html"
+    },
+    {
+      "title": "Laughter | Texts from the Sefaria Library",
+      "relevance": "Yahudi metinlerinde gülmenin teolojik ve sembolik kullanımını bir araya getiren konu sayfası.",
+      "url": "https://www.sefaria.org/topics/laughter"
+    },
+    {
+      "title": "The Gravity of Laughter",
+      "relevance": "Gülmenin topluluk, bağ kurma ve sevinç üretme işlevini Yahudi düşüncesi içinde tartışan yazı.",
+      "url": "https://www.jtsa.edu/torah/the-gravity-of-laughter/"
+    },
+    {
+      "title": "On Laughter | Sefaria",
+      "relevance": "Bereşit’te Sarah’nın gülmesi üzerinden gülmenin iman, şaşkınlık ve beklenmedik gerçekleşme ile ilişkisini gösteren metin derlemesi.",
+      "url": "https://www.sefaria.org/sheets/424834"
+    },
+    {
+      "title": "Buddhas and Body Language: The Literary Trope of the Buddha's Smile",
+      "relevance": "Budist bağlamda gülme ve tebessümün farklı yoğunluklara göre sınıflandırılması ve sembolik işlevlerine dair tartışma sağlar; rüyadaki gülmenin tonuna dayalı yorumlamayı destekler.",
+      "url": "https://digitalcommons.linfield.edu/cgi/viewcontent.cgi?article=1005&context=relsfac_pubs"
+    },
+    {
+      "title": "Laughter and Transmission of the Dharma",
+      "relevance": "Budist gelenekte kahkaha ve gülmenin öğreti aktarımı, mizah ve ruhsal tutumlarla ilişkisini tartışır; rüyadaki gülmenin tonuna göre sembolik okuma yapmaya imkân veren bir çerçeve sağlar.",
+      "url": "https://blogs.dickinson.edu/buddhistethics/2018/01/09/laughter-and-transmission-of-the-dharma/"
+    },
+    {
+      "title": "Can Buddha Laugh? - Devdutt Pattanaik",
+      "relevance": "Zen ve Budist anlatı içinde kahkahanın aydınlanma, benlik ciddiyetinin çözülmesi ve içgörüyle ilişkilendirilebildiğini ele alır; gülme sembolünün yorumlayıcı çerçevesini destekler.",
+      "url": "https://devdutt.com/can-buddha-laugh/"
+    },
+    {
+      "title": "laugh, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Rüyada gülmenin ruhsal düzeyde ‘kendine dair önemli bir fark ediş’ olarak yorumlandığını söyleyen çevrim içi ezoterik bir rüya sözlüğü maddesi.",
+      "url": "http://www.dreamtation.com/docs/4338.htm"
+    },
+    {
+      "title": "Dream About Laughing - Meaning & Interpretation | Satyori",
+      "relevance": "Gülmenin rüyada sevinç, gerilim boşalması, absürd olanı fark etme ve spiritüel hafiflik olarak okunabileceğini söyleyen modern spiritüel yorum sayfası.",
+      "url": "https://satyori.com/dreams/laughing/"
+    },
+    {
+      "title": "Laughter - Dream Symbol Meaning and Interpretation",
+      "relevance": "Gülmenin rüyada duygusal boşalma, sosyal bağ ve spiritüel hafiflik gibi anlamlarla ele alındığı modern spiritüel yorum sayfası.",
+      "url": "https://dreams.guide/dream-symbols/laughter"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

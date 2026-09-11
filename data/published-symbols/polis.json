@@ -1,115 +1,184 @@
 {
   "slug": "polis",
   "title": "polis",
-  "shortDescription": "Rüyada polis görmek; otorite, kurallar, vicdan, sınır koyma ve korunma ihtiyacıyla ilişkilendirilebilir. Yardım eden polis destek ve güven arayışını, sizi durduran ya da takip eden polis ise sorumluluklar veya suçluluk duygularıyla yüzleşmeyi çağrıştırabilir.",
+  "shortDescription": "Rüyada polis figürü görmek, otorite, iç denetim, sınır koyma ve ahlaki sorumluluk temalarıyla ilişkilidir; rüyanın bağlamına göre koruyucu ya da baskıcı bir yön taşıyabilir.",
   "positiveAssociations": [
-    "Güvende olma hissi",
-    "Adalet ve düzenin sağlanması",
-    "İçsel denetim ve öz disiplin",
-    "Sınırların ve kuralların koruyucu yönü"
+    "Korunma ve güvenlik hissi",
+    "Düzen ve istikrar arayışı",
+    "Adalet ve hakkaniyet duygusu",
+    "İçsel rehberlik ve vicdani denge"
   ],
   "challengingAssociations": [
-    "Aşırı baskı ve kontrol edilme korkusu",
-    "Otorite figürleriyle yaşanan çatışmalar",
-    "İç eleştirmen ve suçluluk duygularının baskısı",
-    "Kısıtlanmışlık ve hareket alanının daralması"
+    "Suçluluk ve cezalandırılma korkusu",
+    "Baskı altında hissetme",
+    "Dışsal veya içsel otoritelerden çekinme",
+    "Haksızlığa uğrama endişesi"
   ],
   "contextDependentAssociations": [
-    "Polis tarafından durdurulmak veya sorgulanmak, kişinin kendi vicdanı veya toplumsal beklentiler karşısında kendini sorgulamasına işaret edebilir.",
-    "Polisten kaçmak, sorumluluklardan veya bastırılmış bazı gerçeklerle yüzleşmekten kaçınma çabanızı yansıtabilir.",
-    "Polis olmak veya üniforma giymek, hayat üzerinde kontrol kurma arzusunu ya da kendi kurallarını koyma ihtiyacını simgeleyebilir."
+    "Polisin yardımcı mı yoksa müdahaleci mi olduğu",
+    "Rüya sahibinin kolluk kuvvetleriyle ilişkisindeki kişisel deneyimler",
+    "Rüyadaki genel duygusal ton (korku, rahatlama veya tarafsızlık)"
   ],
   "commonVariations": [
     {
       "title": "Polis Tarafından Durdurulmak",
-      "description": "Rüyada polisin sizi durdurması, günlük hayatta aldığınız kararların veya yöneldiğiniz yolların içsel vicdanınız tarafından gözden geçirildiğine işaret edebilir."
+      "description": "Rüya sahibinin günlük hayatında attığı adımları veya aldığı kararları gözden geçirmesi, kendi iç eleştirmeniyle yüzleşmesi için bir duraksama anını simgeleyebilir."
+    },
+    {
+      "title": "Polis Tarafından Korunmak",
+      "description": "Kişinin yaşamındaki belirsizlikler veya dışsal tehditler karşısında güvende hissetme arzusunu ve destek bulma ihtiyacını yansıtabilir."
+    },
+    {
+      "title": "Kendini Polis Olarak Görmek",
+      "description": "Rüya sahibinin çevresindeki olaylar üzerinde aşırı kontrol kurma çabasını, kendi sınırlarını koruma ihtiyacını ya da katı bir içsel denetim mekanizmasını temsil edebilir."
     },
     {
       "title": "Polisten Kaçmak",
-      "description": "Polisten kaçtığınızı görmek, yüzleşmekten çekindiğiniz bazı toplumsal sorumlulukları, kuralları veya kişisel hataları bastırma çabanızı yansıtabilir."
-    },
-    {
-      "title": "Polis Karakolunda Bulunmak",
-      "description": "Polis merkezinde veya karakolunda olmak, hayatınızda hesap verme, karar alma veya belirli sınırların netleşmesi gereken bir döneme girdiğinizi gösterir."
-    },
-    {
-      "title": "Polis Yardımı Almak",
-      "description": "Zor bir durumda polisten yardım istediğinizi veya polis tarafından korunduğunuzu görmek, dış dünyadan destek arama ve güvende hissetme ihtiyacınızı simgeler."
+      "description": "Kişinin sorumluluklardan, yüzleşmek istemediği bir durumdan ya da kendi vicdani muhakemesinden kaçma eğiliminde olduğuna işaret edebilir."
     }
   ],
-  "psychology": "Psikanalitik ve teorik çerçevede polis imgesi, bireyin zihnindeki süperego, iç eleştirmen ve vicdan işlevleriyle doğrudan ilişkilendirilir. Freudyen ve psikodinamik yaklaşımlar, bu figürü kişinin dürtülerini sınırlayan, yasakları hatırlatan ve toplumsal kısıtlamaları içselleştiren bir mekanizma olarak ele alır. Aynı zamanda bireyin baskılanmış davranışları ile toplumsal normlar arasındaki dinamikleri görünür kılar.",
-  "jungian": "Jungcu analitik psikolojide polis figürü, toplumsal ve içsel düzeni kuran bir otorite arketipi ile eşik bekçisi işlevi görür. Bu bağlamda polis, bilincin sınırlarını koruyan, bireyin davranışlarına yön veren ve benlik içerisindeki 'iç yasa'yı temsil eden bir simgedir. Aynı zamanda geleneksel ahlakın bekçisi olarak, rüya sahibinin gölge yönleriyle karşılaşmasını tetikleyen psikolojik bir katalizör rolü üstlenebilir.",
+  "psychology": "Psikanalitik kuramda polis ve benzeri otorite figürleri genellikle süperego, suçluluk duygusu ve cezalandırılma beklentisiyle bağlantılı olarak ele alınır. Freudyen perspektifte bu figür, bireyin içselleştirilmiş yasaklarını ve denetim mekanizmalarını temsil edebilir.",
+  "jungian": "Jungcu analitik psikolojide polis figürü, konvansiyonel ahlak kuralları, toplumsal normlar ve içsel düzen ile ilişkili bir imge olarak değerlendirilir. Aynı zamanda bu figür, bilinç ile bilinçdışı arasındaki sınırda duran bir bekçi rolü üstlenebilir veya gölge arketipiyle etkileşime giren bir düzenleyici işlevi yerine getirebilir.",
   "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
+  "christianTraditions": "Hristiyan sembolik geleneğinde yetki, yasa ve toplumsal düzeni temsil eden bir otorite figürü olarak okunabilen polis, rüyada görüldüğünde bağlama göre vicdan, hesap verebilirlik veya koruma gibi temalara işaret edebilir.",
+  "jewishTraditions": "Yahudi metinlerinde ve geleneksel kökenlerde yer alan kolluk ve düzen kavramları, rüyada denetim, ahlaki gözetim ve toplumsal yaptırım fikirleriyle bağlantı kurmak için analitik bir zemin sunar.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda polis, kişinin iç otoritesi, vicdanı ve ahlaki sınırları ile bağdaştırılır. Aynı zamanda yaşamda yeni bir düzen kurma çağrısı veya üst ilkelere uyum arayışı şeklinde yorumlanabilir.",
   "comparisonTable": [
     {
-      "approach": "Psikanalitik Teori",
-      "interpretation": "süperego, iç eleştirmen, vicdan ve toplumsal kısıtlamaların içselleştirilmiş bir temsili.",
+      "approach": "Psikanaliz",
+      "interpretation": "Süperego, suçluluk beklentisi ve içsel denetim mekanizmalarının dışavurumu.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Analitik Psikoloji",
-      "interpretation": "Otorite arketipi, eşik bekçisi, iç yasa ve geleneksel ahlakın korunması.",
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Konvansiyonel normlar, ahlaki düzen ve bilinç ile bilinçdışı arasındaki sınırın bekçiliği.",
       "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Yasalılık, yetki, hesap verebilirlik ve vicdanın fark edilmesi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "İç otorite, koruyucu sınır koyma ve ahlaki değerlerle yeniden hizalanma.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı psikolojik ve kültürel yaklaşımlar, polis figürünün temelinde otorite, sınır koyma, kural ve denetim unsurlarının bulunduğu konusunda hemfikirdir.",
-  "differences": "Psikanalitik yaklaşımlar, sembolü daha çok içsel vicdan ve dürtü kontrolü (süperego) bağlamında ele alır. Jungcu yaklaşım ise onu daha geniş bir arketipsel çerçevede, eşik bekçisi ve kolektif düzenin koruyucusu olarak konumlandırır.",
-  "inusAssessment": "Polis sembolü, modern çağın kurumsal bir yapısı olmasına rağmen rüyalarda evrensel insanî temalar olan sınır, otorite ve vicdan ekseninde tezahür eder. INUS yaklaşımına göre bu sembolü yorumlarken tek bir sabit anlam yerine, rüya sahibinin otoriteyle kurduğu bireysel ilişkiler, öz denetim mekanizmaları ve yaşamındaki kısıtlanma ya da güvende olma hissi bağlamında ele almak gerekir.",
+  "commonGround": "Farklı yaklaşımlar, polis sembolünün temelinde yasa, sınır, denetim ve otorite kavramlarının yattığı konusunda birleşir.",
+  "differences": "Psikanalitik ve teorik okumalar figürü içsel suçluluk ve süperego ekseninde ele alırken, spiritüel ve modern yaklaşımlar daha çok içsel koruma, vicdan ve düzen ihtiyacına odaklanır.",
+  "inusAssessment": "Rüyada polis figürünün görülmesi sabit bir kehanet anlamı taşımaz; daha çok rüya sahibinin iç otorisi, kuralları ve sınırlarıyla kurduğu ilişkinin bir yansımasıdır. Polisin koruyucu mu yoksa baskıcı mı algılandığı, rüyanın duygusal tonu ve kişinin yaşamındaki denetim unsurlarıyla yaşadığı gerilim, bu sembolün yorumlanmasında belirleyicidir.",
   "faq": [
     {
-      "question": "Rüyada polisle sorun yaşamak ne anlama gelir?",
-      "answer": "Polisle tartışmak veya sorun yaşamak genellikle kişinin kendi içsel kuralları, vicdanı veya dış otorite figürleriyle yaşadığı çatışmaları, dirençleri ve uzlaşma çabalarını temsil eder."
+      "question": "Rüyada polisle konuşmak ne anlama gelir?",
+      "answer": "Polisle konuşmak, rüya sahibinin hayatındaki otorite figürleriyle iletişimini, kurallarla olan bağını veya vicdani bir konuyu netleştirme çabasını simgeleyebilir."
     },
     {
-      "question": "Rüyada polisin arkasından geldiğini görmek neyi ifade eder?",
-      "answer": "Polisin sizi takip ettiğini veya arkanızda olduğunu görmek, halledilmemiş sorumluluklar, suçluluk duyguları veya çözülmesi gereken sosyal yükümlülüklerle yüzleşme vaktinin geldiğine işaret edebilir."
+      "question": "Rüyada polisten korkmak neye işaret eder?",
+      "answer": "Polisten korkmak, genellikle bastırılmış suçluluk duygularını, cezalandırılma endişesini ya da günlük hayatta karşılaşılan baskı ve denetim mekanizmalarına karşı duyulan kaygıyı yansıtır."
     }
   ],
   "sources": [
     {
-      "title": "Police – Dream Symbol",
-      "relevance": "Polis sembolünün rüya bağlamında otorite, sınır, koruma ve düzenle ilişkilendirildiğini tartışan modern yorumlayıcı kaynak.",
-      "url": "https://dreampaths.com/symbol/police"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyada bir polis memurunun yer aldığı örnek bir pasaj içerir; polis figürünün rüya anlatısında otorite ve yetkiyle ilişkili bir görünüm sergilediğini gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "Police in Dreams: Authority, Boundaries, and the Call to Self ...",
-      "relevance": "Polis imgelerinin rüyalarda otorite, sınır koyma, korunma ve içsel kural koyucu ile bağlantısını açıklayan Jungcu odaklı modern yorum.",
-      "url": "https://www.dreamspoken.com/en/dream-meaning/police"
-    },
-    {
-      "title": "Police Dreams: Meaning & Psychological Interpretation",
-      "relevance": "Polis sembolünün otorite, süperego, sosyal normlar ve Jungcu eşik bekçisi temalarıyla ilişkisini özetleyen modern yorumlayıcı kaynak.",
-      "url": "https://somniscient.com/en/symbols/police"
+      "title": "Sigmund Freud [1900] The Interpretation of Dreams ( ...",
+      "relevance": "Freud’un, rüyaların gizlenmiş dileklerin gerçekleşmesi olduğu yönündeki temel kuramını sunar; bu çerçeve polis figürünün yorumlanmasına zemin hazırlar.",
+      "url": "https://ia802907.us.archive.org/17/items/SigmundFreud/Sigmund%20Freud%20%5B1900%5D%20The%20Interpretation%20of%20Dreams%20(James%20Strachey%20translation,%201955).pdf"
     },
     {
       "title": "Carl Jung Dream Analysis Seminar Lecture II",
-      "relevance": "Jung seminer bağlamında polislerin geleneksel ahlakı temsil eden figürler olarak anıldığı metin.",
+      "relevance": "Polis figürünü konvansiyonel ahlak ve içsel düzen bağlamında tartışan Jung pasajı.",
       "url": "https://carljungdepthpsychologysite.blog/2020/08/10/dream-32/"
     },
     {
-      "title": "Rêver de police en islam : signification selon Ibn Sirin",
-      "relevance": "İslami rüya tabiri gelenekleri bağlamında \"polis\" rüyasının çeşitli modern çevrimiçi yorumlarını içerir.",
-      "url": "https://significations-reves.fr/rever-police-islam/"
+      "title": "Thomas R. Martin, An Overview of Classical Greek History from Mycenae to Alexander, The Archaic Age, The Characteristics of the City-state (Polis)",
+      "relevance": "Antik Yunan polisinin kent-devlet, yurttaşlık ve topluluk düzeni olarak neyi ifade ettiğini açıklar; polis sembolünün tarihsel-kültürel arka planını kurar.",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0009:chapter=5:section=1"
     },
     {
-      "title": "Police Dream Islam - Islamic Dream Interpretation",
-      "relevance": "İslami rüya yorumu perspektifinden \"polis\" rüyasının modern çevrimiçi yorumlarını derleyen bir kaynaktır.",
-      "url": "https://islamdreammeaning.com/police-dream-islam/"
+      "title": "Rüyada Polis Olmak Ne Anlama Gelir? - Diyadinnet Rüya Tabirleri",
+      "relevance": "Polis sembolüne koruma, gözetme, güven, uyarı ve bazı olumsuz çağrışımlar atfeden çağdaş bir rüya tabiri metni sunar.",
+      "url": "https://www.diyadinnet.com/ruyada-495-polis-olmak-gormek"
     },
     {
-      "title": "Interpretation of seeing the police in a dream by Ibn Sirin",
-      "relevance": "İbn Sîrîn’e atfedilen yorumları içeren modern çevrimiçi metinler arasında \"polis\" rüyasıyla ilgili bir derleme sunar.",
-      "url": "https://www.gptafser.com/en/post/Interpretation-of-seeing-the-police-in-a-dream-by-Ibn-Sirin?page=1872"
+      "title": "Dreaming of police | Biblical Dream Meanings | BibleStep",
+      "relevance": "Polisi rüya bağlamında otorite, koruma, hesap verebilirlik ve adalet temalarıyla ilişkilendiriyor.",
+      "url": "https://biblestep.com/dreams/dreaming-of-police"
     },
     {
-      "title": "What is the interpretation of the police in a dream by Ibn Sirin? - Interpretation of dreams online",
-      "relevance": "İslami rüya yorumu bağlamında polis rüyasının çeşitli modern çevrimiçi yorumlarını aktarır.",
-      "url": "https://en.interpret-dreams-online.com/Police-in-a-dream/"
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Berakhot 55a–57b’deki rüya tartışmalarına giden ana Talmud sayfası; Yahudi rüya yorumunun klasik zemini.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’deki rüya tartışmasının genel bağlamını ve rüyalar bölümünün kapsamını özetler.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "T’RUAH: THE RABBINIC CALL FOR HUMAN RIGHTS www.truah.org Jewish Resources",
+      "relevance": "Deuteronomy 16:18’deki 'şoftim' ve 'shotrim' terimlerini açıklar; 'shotrim'in modern İbranicedeki polis anlamıyla ilişkisini gösterir.",
+      "url": "https://www.truah.org/wp-content/uploads/MIH/MIH-100-101-police-jewish-law.pdf"
+    },
+    {
+      "title": "Judaism and Policing",
+      "relevance": "Yahudi geleneğinde 'şoftim' ve 'shotrim' ile hukuk-düzen kavrayışını, modern polis kavramıyla bağlantılı biçimde sunar.",
+      "url": "https://www.myjewishlearning.com/article/judaism-and-policing/"
+    },
+    {
+      "title": "Berakhot 56",
+      "relevance": "Berakhot 56’daki rüya anlatılarının ve sembol yorumunun genel yapısını özetler.",
+      "url": "https://www.myjewishlearning.com/article/berakhot-56/"
+    },
+    {
+      "title": "Police - Dream Symbol Meaning and Interpretation",
+      "relevance": "Polisin rüya sembolü olarak vicdan, iç otorite ve kozmik/sosyal düzeni temsil edebileceğini söyleyen modern spiritüel yorum.",
+      "url": "https://dreams.guide/dream-symbols/police"
+    },
+    {
+      "title": "Dreaming of Police: Meaning, Symbolism & Interpretation",
+      "relevance": "Polisin rüyada sınır, koruma, içsel düzenleyici güçler ve ruhsal hizalanma çağrısı olarak yorumlandığı modern spiritüel metin.",
+      "url": "https://dreamz-journal.com/blog/dream-symbol/police/"
+    },
+    {
+      "title": "Police in Dreams: Authority, Boundaries, and the Call to Self ...",
+      "relevance": "Polisin rüyada otorite, sınır ve koruyucu düzenle ilişkilendirildiği; ayrıca spiritüel bağlamda koruyuculuk, vicdan ve kozmik düzen fikirlerinin geçtiği modern sembolik yorum.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/police"
+    },
+    {
+      "title": "Police – Dream Symbol",
+      "relevance": "Polisin rüya sembolü olarak kurallar, kontrol, koruma ve bazen cezalandırıcı otoriteyle ilişkilendirildiği modern yorum.",
+      "url": "https://dreampaths.com/symbol/police"
+    },
+    {
+      "title": "Police Dream Meaning: Authority, Guilt & Control",
+      "relevance": "Polisin rüyada otorite, suçluluk, korku ve sınırlarla ilişkilendirildiği modern spiritüel/yorumlayıcı metin.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/police/"
+    },
+    {
+      "title": "Police Dream Spiritual Meaning And Symbolism — Guide",
+      "relevance": "Polis sembolünü rüyada güvenlik, koruma ve ruhsal mesaj ile ilişkilendiren modern spiritüel rehber.",
+      "url": "https://www.astroved.com/blogs/police-dream-spiritual-meaning-and-symbolism"
+    },
+    {
+      "title": "What Is the Spiritual Meaning of Police in Dreams? Guidance ...",
+      "relevance": "Polisin rüyada iç otorite, ahlaki sınırlar ve düzen ihtiyacını temsil edebileceğini söyleyen modern spiritüel yorum.",
+      "url": "https://nightomen.com/what-is-the-spiritual-meaning-of-police-in-dreams/"
+    },
+    {
+      "title": "Voice of Faith: In dreams police are protectors",
+      "relevance": "Polisin rüyada koruma, sınır ve iç düzenle ilişkisini modern dini-yorumsal dille anlatan metin.",
+      "url": "https://www.timesfreepress.com/news/2016/jul/30/dreamspolice-areprotectors/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
+  ]
 }

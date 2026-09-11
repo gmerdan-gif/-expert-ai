@@ -1,0 +1,228 @@
+{
+  "slug": "gunes-tutulmasi",
+  "title": "Güneş Tutulması",
+  "shortDescription": "Rüyada güneş tutulması, hayatınızdaki önemli bir kararın, yönün ya da otorite figürünün etkisinin geçici olarak gölgelenmesiyle ilişkilendirilir. Rüyadaki korku belirsizlik ve ani değişim kaygısını; karanlığın ardından gelen aydınlık ise zorlu bir dönemin ardından yenilenmeyi öne çıkarır.",
+  "positiveAssociations": [
+    "İçsel dönüşüm ve yenilenme potansiyeli",
+    "Gölge yönlerle yüzleşerek olgunlaşma",
+    "Geçici duraksama anlarının getirdiği derin içgörü"
+  ],
+  "challengingAssociations": [
+    "Merkezi bir otorite veya güç figürünün sarsılması",
+    "Yakın çevrede yaşanabilecek kayıp, sıkıntı veya keder",
+    "Bilinçli yönelimlerin kısa süreliğine bulanıklaşması ve belirsizlik"
+  ],
+  "contextDependentAssociations": [
+    "Rüya sahibinin ruhsal durumu ve o dönemki yaşam bağlamı",
+    "Tutulma anındaki duygusal tonun korku veya merhamet ağırlıklı olması.",
+    "Olayın haneyi, yakın çevreyi veya kamusal alanı etkileme biçimi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Güneşin Ay Tarafından Tamamen Kapatılması",
+      "description": "Gökyüzünde güneşin tamamen örtüldüğü ve ortalığın aniden karanlığa büründüğü bu senaryo, yaşamdaki büyük bir geçiş evresini veya merkezi bir gücün kısa süreliğine etkisini yitirmesini simgeler."
+    },
+    {
+      "title": "Güneş Tutulmasını Korkuyla İzlemek",
+      "description": "Tutulma anını endişe veya dehşet içinde izlediğini görmek, bilinmeyen karşısında duyulan içsel direnci ve ani değişimlerin yarattığı kaygı halini yansıtır."
+    },
+    {
+      "title": "Tutulma Sırasında Ortamın Aydınlanmaya Başlaması",
+      "description": "Karanlığın ardından güneşin yeniden görünür hale gelmesi, zorlu bir dönemin geride kaldığını, ruhsal bir arınmanın ve içsel aydınlanmanın yaşandığını gösterir."
+    },
+    {
+      "title": "Açık Havada Beklenmedik Bir Anda Tutulma Olması",
+      "description": "Günlük rutinler sürerken bir güneş tutulmasıyla karşılaşmak, beklenmedik sarsıcı haberlere, çevresel değişimlere ve hayatın akışındaki ani kesintilere işaret eder."
+    }
+  ],
+  "psychology": "Genel rüya ve uyku psikolojisi literatüründe rüya içeriği, kişinin günlük yaşantısı ve duygulanımlarıyla ilişkilendirilir; bu bağlamda güneş tutulması doğrudan sabit bir anlama sahip olmamakla birlikte, kişinin o dönem yaşadığı ani duygu dalgalanmalarını veya zihinsel duraksamaları yansıtabilir.",
+  "jungian": "Jungcu çerçevede güneş tutulması, bilincin aydınlığını geçici olarak örten bir kararma ve bilinç ile bilinçdışının karşılaşması olarak ele alınır.",
+  "islamicTradition": "Klasik ve modern İslami tabir geleneğinde güneş tutulması, yakın çevrede yaşanabilecek bir kayıp, hastalık, keder, sıkıntı veya bir otorite figürünün yaşayacağı değişim ve sarsıntı şeklinde yorumlanmaktadır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde gök cisimlerinin durumu ilahi kudretin ve egemenliğin işaretleridir. Güneş tutulması, ışığın örtülmesi, ilahi uyarı, tövbe, ruhsal belirsizlik, merhamet ve gizlenen yücelik temalarıyla ilişkilendirilir.",
+  "jewishTraditions": "Yahudi kaynaklarında ve Talmudik çerçevede tutulmalar dünya için kötü alamet, örtülme, ilahi düzenin gizlenmesi ve toplumsal ahlâk ekseninde kamusal bir uyarı ve iç muhasebe vesilesi olarak ele alınır.",
+  "buddhistEasternApproaches": "Budist kozmoloji ve metinlerde güneş tutulması, ışığın geçici olarak örtülmesi, karmik örtüler, geçicilik ve farkındalığın bulanması gibi temalarla ilişkilendirilerek okunur.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel okumalarda güneş tutulması, içe dönüş, gölgeyle karşılaşma, eski bir döngünün kapanıp yeni bir dönemin başlaması ve simyasal bağlamda karşıt unsurların uzlaşması olarak değerlendirilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Merkezi bir otoritenin veya yaşam enerjisinin geçici olarak gölgelenmesi, bastırılmış arzuların örtülme teması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilincin ışığının kısmen örtülmesi, zıtların buluşması ve bilinçdışıyla eşik niteliğinde bir karşılaşma.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Yakın çevrede kayıp, sıkıntı, endişe veya otorite konumundaki bir kişinin yaşayacağı değişim.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "İlahi uyarı, ruhsal örtülme, yargı ve merhamet çağrısı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Kaynakları",
+      "interpretation": "Toplumsal muhasebe, ilahi düzenin gizlenmesi ve kolektif uyarı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Karmik örtüler, geçicilik ve farkındalığın gölgelenmesi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Okuma",
+      "interpretation": "Gölgeyle yüzleşme, içe dönüş, simyasal dönüşüm ve yeni bir evreye geçiş eşiği.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenek ve disiplinlerin çoğunda güneş tutulması, normal akışın kesintiye uğraması, ışığın ve görünürlüğün geçici olarak kaybolması ve bunun beraberinde getirdiği belirsizlik ya da dönüşüm teması etrafında birleşir.",
+  "differences": "Geleneksel ve dini yaklaşımlar tutulmayı çoğunlukla dışsal bir uyarı, kayıp veya toplumsal/otoriter bir değişim olarak ele alırken, psikolojik ve spiritüel yaklaşımlar olayı içsel bir eşik, bilinç-bilinçdışı teması ve kişisel dönüşüm süreci olarak yorumlar.",
+  "inusAssessment": "Rüyada güneş tutulması görülmesi, rüya sahibinin hayatındaki merkezi bir gücün, kararın veya yönelimin kısa süreliğine gölgelendiği bir döneme işaret eder. Sembolün en belirgin özelliği, ışığın tamamen yok olması yerine geçici bir örtülme yaşanması; yani aydınlık ile karanlığın aynı anda var olduğu sınırda bir gerilimdir. Bu bağlamda rüyadaki tutulmanın korku mu yoksa sessiz bir iç gözlem mi yarattığı, rüya sahibinin uyanık yaşamındaki otoritelerle ve kendi içsel gölgeleriyle kurduğu ilişkiyi anlamada anahtar rol oynamaktadır.",
+  "faq": [
+    {
+      "question": "Rüyada güneş tutulması görmek kesinlikle kötü bir olaya mı işaret eder?",
+      "answer": "Hayır, güneş tutulması sabit ve tek anlamlı bir rüya karşılığına sahip değildir. Bazı geleneklerde sıkıntı veya kayıp olarak yorumlanırken, psikolojik ve spiritüel okumalarda içsel dönüşüm ve yenilenme eşiği olarak ele alınır."
+    },
+    {
+      "question": "Güneş tutulması rüyası otorite figürleriyle nasıl ilişkilendirilir?",
+      "answer": "Psikanalitik ve geleneksel okumalarda güneş imgesi baba, yönetici veya güçlü, belirleyici bir figürle bağdaştırılır. Bu nedenle tutulma, bu figürlerin etkisinin geçici olarak azalması veya sarsılması şeklinde yorumlanabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Rüyayı bastırılmış isteğin gizlenmiş doyumu olarak ele alan temel Freudcu metin.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Ernest Jones -The Theory of Symbolism.pdf",
+      "relevance": "Güneş imgesinin göz, baba ve fallus gibi anlamlarla ilişkilendirildiği klasik psikanalitik sembolizm çalışması.",
+      "url": "https://www.scribd.com/document/352189565/Ernest-Jones-The-Theory-of-Symbolism-pdf"
+    },
+    {
+      "title": "Dream About the Sun — Meaning and Interpretation - Dremyo",
+      "relevance": "Güneş ve güneş tutulması imgelerinin psikanalitik çerçevede baba, otorite ve görünürlükle ilişkilendirilmesine dair modern bir ikincil derleme.",
+      "url": "https://www.dremyo.com/en/symbols/sun/"
+    },
+    {
+      "title": "collected-Works-14-Mysterium-Coniunctionis-by-C-G-Jung. ...",
+      "relevance": "Güneş tutulmasının alkimyasal simge dili içinde, güneşin geçici olarak örtülmesi ve dönüşüm evresiyle ilişkilendirilen imgeleri içerir.",
+      "url": "https://ronliskey.com/docs/collected-Works-14-Mysterium-Coniunctionis-by-C-G-Jung.pdf"
+    },
+    {
+      "title": "Collected Works of C.G. Jung. Volume 12 Collected Works of C. G. Jung, Volume 12: Psychology and Alchemy [Course Book ed.] 9781400850877 - DOKUMEN.PUB",
+      "relevance": "Güneş ve ayın karşılaşması ile zıtlıkların birleşmesi temasını Jungcu sembolizm açısından destekler.",
+      "url": "https://dokumen.pub/collected-works-of-cg-jung-volume-12-collected-works-of-c-g-jung-volume-12-psychology-and-alchemy-course-booknbsped-9781400850877.html"
+    },
+    {
+      "title": "THE SYMBOLIC LIFE",
+      "relevance": "Tutulma için doğrudan bir rüya örneği vermese de, Jungcu sembollerin bilinçdışı süreçlerle ilişkili okunmasına dayanak sağlar.",
+      "url": "https://api.pageplace.de/preview/DT0400.9781317533474_A30905440/preview-9781317533474_A30905440.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorumculuğunun ana metinlerinden biri; göksel cisimlerin ve olağandışı gök olaylarının rüya bağlamındaki yorumunu anlamaya yardımcı olur.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "MİTOLOJİLERDE TUTULMALAR (GÜNEŞ TUTULMASI, ...",
+      "relevance": "Güneş tutulmasının farklı kültürlerde, özellikle Grek dünyasında, uğursuzluk ve tanrısal öfke ile ilişkilendirilmesini gösteren kültürel tarih anlatımı.",
+      "url": "https://www.dinvemitoloji.com/2022/03/mitolojilerde-tutulmalar-gunes.html"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Güneş tutulması için derlenmiş rüya tabiri ifadesini içerir; yakın çevrede ölüm, hastalık, endişe ve kederle ilişkilendirir.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "sun eclipse",
+      "relevance": "Güneş tutulmasını rüyada devlet başkanı, eş, anne veya otorite alanındaki kayıplarla ilişkilendiren aktarım içerir.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=sun+eclipse"
+    },
+    {
+      "title": "solar",
+      "relevance": "Güneş tutulması için otorite, aile bireyleri ve çevresel durumlarda değişim temalarını veren aktarım içerir.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=solar"
+    },
+    {
+      "title": "Eclipse Islamic Interpretations & Meanings",
+      "relevance": "Güneş tutulmasına dair daha uzun bir çevrimiçi aktarım sunar; otorite, eş veya anneyle ilgili kayıp yorumları içerir.",
+      "url": "https://www.myislamicdream.com/eclipse.html"
+    },
+    {
+      "title": "What Does The Bible Say About Eclipses (31 Verses Explained) - Christianity Path",
+      "relevance": "Kutsal Kitap’ta tutulmaların ve gök olaylarının Tanrı’nın egemenliği, işaretler ve değişim temalarıyla ilişkilendirildiğini derleyen modern bir Hristiyan açıklaması.",
+      "url": "https://christianitypath.com/what-does-the-bible-say-about-eclipses/"
+    },
+    {
+      "title": "Topical Bible: Eclipse: Figurative",
+      "relevance": "Kutsal Kitap’ta göklerin kararması ve ışığın örtülmesinin ilahi hüküm, ruhsal belirsizlik ve Tanrı’nın yüzünün gizlenmesiyle nasıl ilişkilendirildiğini özetleyen bir toplu başvuru sayfası.",
+      "url": "https://biblehub.com/topical/naves/e/eclipse--figurative.htm"
+    },
+    {
+      "title": "Bursting Bubbles: Understanding Solar Eclipses and the Bible (Part ...",
+      "relevance": "Sirah'taki tutulma imgesini, günahın kararması ve bağışlanma çağrısı olarak yorumlayan Katolik teolojik değerlendirme.",
+      "url": "https://www.vaticanobservatory.org/sacred-space-astronomy/bursting-bubbles-understanding-solar-eclipses-bible-part-one/"
+    },
+    {
+      "title": "The solar eclipse: God's glory veiled and revealed",
+      "relevance": "Güneş tutulmasını Tanrı’nın yaratılışındaki düzen, örtülen yücelik, yargı ve merhamet ilişkisi içinde ele alan Hristiyan perspektif yazısı.",
+      "url": "https://www.focusonthefamily.ca/content/the-solar-eclipse-god-s-glory-veiled-and-revealed"
+    },
+    {
+      "title": "Biblical Prophecy: Three Days of Darkness and the Solar ...",
+      "relevance": "Güneş tutulmalarının Kutsal Kitap’taki kozmik kararma imgeleriyle nasıl ilişkilendirildiğini ve bunların uyarı, yargı ve ruhsal hazırlık çağrıları olarak nasıl okunduğunu anlatan bir Hristiyan yorum yazısı.",
+      "url": "https://www.crosswalk.com/faith/spiritual-life/things-to-know-about-biblical-prophecy-and-the-solar-eclipse-of-april-8.html"
+    },
+    {
+      "title": "Eclipse Sources",
+      "relevance": "Güneş tutulmasının Talmudik ve rabbanî Yahudi yorum çerçevesini, dünya için uğursuzluk, örtülme ve toplumsal uyarı temalarıyla birlikte aktarır.",
+      "url": "https://www.sefaria.org/sheets/544407"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Rüyada güneş ya da ay tutulmasının Budist yorumunu doğrudan veren metin; tutulmayı bhūmi düzeyleri ve karmik örtülerle ilişkilendirir.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "༄༅། །་མ་མ།",
+      "relevance": "Güneş tutulmasına ilişkin Budist kozmolojik anlatı; Rāhu’nun güneşi yakalaması temasını sunar.",
+      "url": "https://84000.co/translation/toh41.pdf"
+    },
+    {
+      "title": "The Sutra of the Sun",
+      "relevance": "Budist bir güneş tutulması metni için tanıtıcı çerçeve sağlar ve tutulmanın Budist anlatı içindeki yerini gösterir.",
+      "url": "https://www.rigpawiki.org/index.php?title=The_Sutra_of_the_Sun"
+    },
+    {
+      "title": "Solar Eclipse Spiritual Meaning: Symbolism, Shadow & ...",
+      "relevance": "Güneş tutulmasının modern spiritüel anlamını dönüşüm, gölge çalışması, bitişler ve başlangıçlar çerçevesinde açıklar.",
+      "url": "https://spells8.com/solar-eclipse-spiritual-meaning/"
+    },
+    {
+      "title": "L'éclipse solaire et son symbolisme : interprétation - JePense.org",
+      "relevance": "Güneş tutulmasını spiritüel ve ezoterik düzlemde karşıtlıkların buluşması, içsel dönüşüm ve ölüm-yeniden doğuş temalarıyla ilişkilendirir.",
+      "url": "https://www.jepense.org/eclipse-solaire-symbolisme/"
+    },
+    {
+      "title": "Solar Eclipse: Dream Meaning & Interpretation",
+      "relevance": "Güneş tutulmasının rüya bağlamında geçici olarak bilincin örtülmesi, bilinmeyenle yüzleşme ve içsel projeksiyonlar gibi Jungçu terimlerle yorumlandığını aktarır.",
+      "url": "https://somniscient.com/en/common-dreams/a-solar-eclipse"
+    },
+    {
+      "title": "Solar Eclipse Symbolism & Meaning - Symbolopedia",
+      "relevance": "Güneş tutulmasını spiritüel pratik, meditasyon, yansıma, dönüşüm ve gölge-benlik temalarıyla ilişkilendirir.",
+      "url": "https://symbolopedia.com/solar-eclipse-symbolism-meaning/"
+    },
+    {
+      "title": "Solar Eclipse Dream Spiritual Meaning: A Comprehensive Guide",
+      "relevance": "Güneş tutulmasının rüya yorumunda dönüşüm, gizli olanın açığa çıkması ve yeni başlangıçlar temalarını ele alır.",
+      "url": "https://hiddensignificance.com/solar-eclipse-dream-spiritual-meaning/"
+    }
+  ],
+  "relatedSlugs": []
+}

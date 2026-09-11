@@ -1,134 +1,219 @@
 {
   "slug": "ev",
   "title": "ev",
-  "shortDescription": "Rüyada ev görmek, genellikle kişinin iç dünyasını, kimliğini, aile bağlarını ve yaşam düzenini yansıtır. Evin ferah ya da yıpranmış olması; huzur, refah, sıkıntı veya geçmişten kalan duygusal yüklerle ilişkilendirilebilir.",
+  "shortDescription": "Rüyada ev görmek, kişinin iç dünyası, güvenlik ve aidiyet duygusu ile aile yaşamını yansıtan güçlü bir imge olabilir. Evin sağlam, geniş ve düzenli olması ferahlık ve istikrarı; yıkık, dar veya dağınık olması ise içsel ya da ailevi sıkıntıları ve korunma ihtiyacını öne çıkarabilir.",
   "positiveAssociations": [
-    "İçsel koruma ve sığınak hissi",
-    "Ailevi bağlarda huzur ve denge",
-    "Kişisel kimlikte güçlenme",
-    "Geniş ve ferah yaşam alanlarıyla refah"
+    "İçsel güvenlik ve barınak",
+    "Genişlik, bolluk ve zenginlik",
+    "Sağlam temel ve yapı",
+    "Hane içinde huzur ve barış",
+    "Psişik bütünlük ve düzen"
   ],
   "challengingAssociations": [
-    "Yıpranmış ya da yıkık yapılarla beliren sıkıntılar",
-    "Çocukluk deneyimlerinden kalan çözülmemiş duygusal yükler",
-    "Sınır ihlalleri veya güvensizlik hissi",
-    "Kimlik ve özbakım eksikliği"
+    "Eski, yıkık veya harap evlerle ilişkili sıkıntılar",
+    "İç alanın tıkanması ve sınırların zayıflaması",
+    "Hane düzeninin bozulması",
+    "Zihinsel yapıda çatışma veya gerilim"
   ],
   "contextDependentAssociations": [
-    "Çok katlı evlerde bilincin farklı katmanları",
-    "Evin durumunun değişmesiyle gelen dönüşüm veya geçicilik hissi",
-    "Ailenin ve yakın ilişkilerin rüyadaki konumuna yansıması"
+    "Evin yeni, sağlam veya geniş olması ile eski, kirli veya yıkık olması arasındaki tezat",
+    "Evin hangi odasında bulunulduğu ve katlar arasındaki geçişler",
+    "Ev içindeki eşyaların durumu ve ev halkıyla olan ilişkiler"
   ],
   "commonVariations": [
     {
-      "title": "Çok katlı bir evde dolaşmak",
-      "description": "Üst katların bilinç düzeyini, alt katların ve bodrumun ise daha eski bilinçdışı katmanları ve kökleri temsil ettiği karmaşık bir içsel keşif hali sunar."
+      "title": "Sağlam ve Geniş Bir Evde Bulunmak",
+      "description": "Rüya sahibinin yaşam alanının genişlediğini, içsel olarak bir ferahlık ve bolluk hissettiğini gösteren, sağlam temellere dayanan bir yapıyı ifade eder."
     },
     {
-      "title": "Eski veya yıkık bir evde bulunmak",
-      "description": "Geçmişteki aile ilişkileri, çocukluk anıları veya mevcut yaşam yapısında onarılması gereken temel alanlarla ilgili bir yüzleşmeyi yansıtır."
+      "title": "Eski, Yıkık veya Harap Bir Ev",
+      "description": "Hane içinde yaşanabilecek sıkıntıları, darlık hissini, içsel sınırların zayıflamasını veya koruma ihtiyacının arttığını yansıtan bir senaryodur."
     },
     {
-      "title": "Geniş ve ferah odalara sahip bir eve girmek",
-      "description": "Kişinin zihinsel ve duygusal olarak rahat bir döneme girdiğini, kimlik ve özbakım açısından geniş bir alan bulduğunu gösterir."
+      "title": "Evin İçini Temizlemek",
+      "description": "Zihinsel karmaşa ve yaşam alanındaki düzensizlikten arınma; geçim ve ferahlık temalarıyla bağlantılı olarak ev içi düzeni sağlama çabasını gösterir."
     },
     {
-      "title": "Evin durumunun ani değişimi veya dönüşümü",
-      "description": "Hayattaki geçicilik temasını, alışkanlık kalıplarının kırıldığını ve yeni bir ruhsal evreye geçiş hazırlığını işaret eder."
+      "title": "Demirden Yapılmış Bir Ev",
+      "description": "Eş veya hane halkıyla birlikte uzun ömürlü, dayanıklı ve sarsılmaz bir yaşam sürme arzusunu ya da böyle bir yaşam deneyimini simgeler."
     }
   ],
-  "psychology": "Psikolojik ve psikanalitik yazında rüyalardaki ev imgeleri, aile ilişkileri, çocukluk deneyimleri, özbakım ve kimlik kavramlarıyla doğrudan ilişkilendirilir. Ev, bireyin kendi bedenini ve iç dünyasını yansıtan bir metafor olarak ele alınır.",
-  "jungian": "Jungcu analitik psikolojide ev, psikenin ve benliğin mimari bir modeli olarak yorumlanır. Çok katlı ev rüyaları, bilincin üst katmanlarından daha eski ve ilkel bilinçdışı katmanlarına kadar uzanan insan psikesinin katmanlı yapısını açıklamak için temel bir metafor olarak kullanılır.",
-  "islamicTradition": "Klasik İslami rüya yorum geleneğinde 'ev', rüya nesnesi olarak doğrudan ele alınır. İbn Sîrîn’e atfedilen tabirlerde ev, kişinin eşi, aile ilişkileri, bedeni, maddî durumu ve alışılmış düşünce biçimiyle bağdaştırılır. Evin genişliği, daralığı veya yıpranmışlığı refah, sıkıntı ve ailevi durumların birer göstergesi olarak kabul edilir.",
-  "christianTraditions": "Hristiyan kutsal metin geleneğinde 'ev' kavramı, fiziksel bir yapının ötesinde aile, soy, topluluk ve kutsal aidiyet gibi teolojik ve toplumsal çağrışımlar barındırır.",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Vedaik kökenli Swapna Şastra yorumlarında ev, yaşam yapısı ve aile temeliyle ilişkilendirilirken, bazı modern Doğu kaynaklı yaklaşımlarda ise \"kurulmuş benlik\" ve alışkanlık kalıplarını çağrıştıran, değişen yapısıyla geçicilik öğretisini hatırlatan bir unsur olarak ele alınır.",
-  "spiritualApproaches": "Modern spiritüel ve ezoterik yaklaşımlarda ev, iç benliğin ve ruhsal durumun mekânsal bir izdüşümü olarak kabul edilir. Yapının değişmesi veya dönüşmesi, ruhsal evrim ve geçicilik bilinciyle okunur.",
+  "psychology": "Rüya içeriği analizinde tek bir sembole sabit anlamlar atamak yerine serbest çağrışım, metaforik anlam arama ve tekrarlayan temaların sistematik olarak incelenmesi tercih edilir. Domhoff'un yaklaşımında olduğu gibi anlam, içerik örüntülerinin sistematik değerlendirilmesinden ortaya çıkar.",
+  "jungian": "Jungcu okumada ev, genel olarak psişenin ya da benliğin mimari bir imgesidir. Çok katlı bir ev veya evin odaları, bilinç ile bilinçdışının farklı katmanlarını temsil eden görsel bir model sunar. Bu perspektifte ev rüyaları, psişenin nasıl örgütlendiğini, zihinsel yapının katmanlarını ve içsel benliğin farklı yönlerini anlamak için önemli bir harita işlevi görür.",
+  "islamicTradition": "İslami tabir geleneğinde ev çoğunlukla kişinin dünyası, yaşam alanı, eşi veya aile hayatı ile ilişkilendirilir. Örneğin, demirden yapılmış bir ev uzun ömür ve sağlamlığa işaret edebilirken, evin yeni, geniş ve sağlam olması bolluk ve iyilikle yorumlanır. Buna karşın eski, kirli veya yıkık evler darlık ve sıkıntı alameti olarak değerlendirilir; ev içini temizlemek ise ferahlık ve geçimin artmasıyla ilişkilendirilir.",
+  "christianTraditions": "Hristiyan sembolik okumasında ev, kişinin yaşamı, karakteri veya ruhsal düzeniyle ilişkilendirilen bir metafordur. Sağlam kaya üzerine kurulan ev ile kum üzerine kurulan ev karşıtlığı hayatın temellerini sorgularken; 'Babamın evinde birçok konut var' ifadesi aidiyet ve ilahi barınak temalarını öne çıkarır. İmanlının Tanrı'nın tapınağı olduğu düşüncesi ise ev metaforunu içsel ve ruhsal bir boyuta taşır.",
+  "jewishTraditions": "Yahudi rüya bağlamında Talmudik kaynaklarda (örneğin Berakhot 57b), evin kendisinden ziyade ev içinde karşılaşılan durumlar ve işaretler yorumlanır. Evde barış görülmesi, evde yemek yenmesi veya ölünün evle ilişkili eylemleri hane halkı için iyi ya da kötü alametler olarak sınıflandırılır; ev sembolü bu çerçevede esenlik ve evin genel durumuyla doğrudan bağlantılıdır.",
+  "buddhistEasternApproaches": "Budist ve Doğu yaklaşımlarında ev, benliğin veya zihinsel yapılanmanın bir mecazı olarak ele alınabilir. Evin içinin dolu veya boş olması içsel yaşamın farklı yönlerini gösterirken; evin dış cephesi ile içindeki etkinlikler arasındaki gerilim, ego ve bağlanma temaları üzerinden okunur.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda ev; güvenlik, koruma ve sınırların yanı sıra kişinin dünyasının merkezini temsil eden korunaklı bir alan olarak yorumlanabilir. Katmanlı odalar ve iç mekân düzeni, ruhsal dengeyi ve simyasal dönüşüm sürecinin yaşandığı içsel alanı simgeleyen unsurlar olarak değerlendirilir.",
   "comparisonTable": [
     {
-      "approach": "Psikanalitik ve Psikolojik Yaklaşım",
-      "interpretation": "Aile ilişkileri, kimlik, çocukluk deneyimleri ve beden metaforu üzerinden bir iç dünya okuması sunar.",
+      "approach": "Psikanaliz",
+      "interpretation": "Bedenin, organizmanın veya psişik bütünlüğün temsili; bastırılmış isteklerin mimari yansıması.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Analitik Psikoloji",
-      "interpretation": "Psikenin mimari bir modeli olarak bilincin ve bilinçdışının katmanlarını simgeler.",
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Benliğin, psişenin ve bilinçdışı katmanlarının mimari modeli ve örgütlenme biçimi.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Klasik İslami Rüya Geleneği",
-      "interpretation": "Eş, aile, beden ve maddî durumun yanı sıra yapının fiziksel durumuna göre refah ya da sıkıntı olarak tabir edilir.",
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Kişinin dünya hayatı, eşi, hane halkı ve evin fiziksel durumuna bağlı olarak genişlik ya da darlık.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu ve Spiritüel Yaklaşımlar",
-      "interpretation": "Yaşam temeli, benlik kalıpları ve ruhsal dönüşüm/geçicilik bağlamında ele alınır.",
+      "approach": "Hristiyan Teolojik Okuma",
+      "interpretation": "Yaşamın inşa edildiği temel, ruhsal düzen, ilahi barınak ve aidiyet metaforu.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rüyalar Geleneği",
+      "interpretation": "Hane halkının esenliği, ev içi barış ve evde görülen nesne/işaretlerin iyi ya da kötü alametleri.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımları",
+      "interpretation": "Benlik ve ego için bir mecaz; dış yüz ile içsel çatışmalar arasındaki gerilim alanı.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Ezoterik ve Spiritüel Okuma",
+      "interpretation": "Güvenlik, koruma, iç düzen, sınırlar ve ruhsal denge merkezi.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplinler ve gelenekler, evin temel bir barınak, sınır ve koruma alanı olmasından hareketle, onu bireyin iç dünyasının, aidiyetlerinin ve yaşam yapısının bir aynası olarak görür.",
-  "differences": "Psikolojik yaklaşımlar bireyin kimlik ve çocukluk bağlarına odaklanırken, Jungcu gelenek psikenin katmanlı yapısını mimari bir modelle açıklar; İslami ve geleneksel tabirler ise doğrudan maddî durum, eş ve yaşam koşullarına dair göstergeler arar.",
-  "inusAssessment": "Ev sembolü, hem somut bir mekân oluşu hem de psike, kimlik ve geleneksel tabirler gibi çok katmanlı anlam alanlarını barındırması nedeniyle tek bir indirgemeci yorumla açıklanamaz. Rüyadaki evin konumu, mimari yapısı ve rüya sahibinin yaşamındaki bağlam birlikte ele alınmalıdır.",
+  "commonGround": "Farklı gelenekler ve ekoller arasında ev, bireyin sınırlarını, içinde bulunduğu dünyayı, aidiyet hissini ve korunaklı iç alanını temsil eden ortak bir merkezi metafor olarak öne çıkar.",
+  "differences": "Yaklaşımlar arasındaki temel fark, psikanalizin evi beden ve istek doyumu ile ilişkilendirmesi; Jungcu yaklaşımın psişik katmanlara vurgu yapması ve geleneksel dinî ile kültürel okumaların hane, dünya hayatı veya manevi temelleri ön plana çıkarmasından kaynaklanır.",
+  "inusAssessment": "Rüyalarda görülen ev sembolü, ne tek bir sabit anlam barındırır ne de her rüya sahibi için aynı psişik katmana işaret eder. Evin fiziksel durumu (yeni, yıkık, geniş veya kirli olması), içinde bulunulan oda ya da katlar ile rüya sırasında hissedilen duygusal ton, yorumun yönünü belirleyen en kritik unsurlardır. Bir rüyada evin temellerinin sağlamlığı bireyin zihinsel yapısına ve inançlarına ışık tutarken, evin içinin temizlenmesi ya da yaşam alanının daralması kişinin içsel arınma ve geçim dinamikleriyle ilgili ipuçları sunar. Dolayısıyla ev rüyasını çözerken mimari detayların rüya sahibinin kendi yaşamındaki karşılığıyla birlikte ele alınması gerekir.",
   "faq": [
     {
-      "question": "Rüyada ev görmek her zaman ailemle mi ilgilidir?",
-      "answer": "Psikolojik ve analitik yaklaşımlarda ev genellikle benliği, kimliği ve içsel katmanları temsil eder; aile ilişkileri bu tablonun yalnızca bir parçasını oluşturur."
+      "question": "Rüyada ev görmek kesinlikle ev veya aile hayatıyla mı ilgilidir?",
+      "answer": "Hayır. Geleneksel tabirlerde hane ve aile ilişkileriyle bağdaştırılsa da, psikanalitik ve Jungcu ekollerde ev bireyin kendi bedenini, zihinsel yapısını ve psişik katmanlarını temsil eden bir metafor olarak da ele alınır."
     },
     {
-      "question": "Çok katlı bir ev görmek ne anlama gelir?",
-      "answer": "Jungcu perspektifte çok katlı bir ev, bilincin üst düzeyleri ile daha derin ve eski bilinçdışı katmanlarını barındıran psikenin mimari bir temsili olarak değerlendirilir."
+      "question": "Evin farklı odalarını veya katlarını görmek ne anlama gelir?",
+      "answer": "Jungcu ve ezoterik yaklaşımlarda evin katları ve odaları, bilincin farklı düzeylerini ve içsel benliğin çeşitli yönlerini simgeleyen katmanlı bir yapı olarak yorumlanır."
     },
     {
-      "question": "İslami gelenekte evin yıkık olması nasıl ele alınır?",
-      "answer": "Klasik tabirlerde evin yıpranmış veya yıkık olması, ailevi sıkıntılar, maddî zorluklar veya hastalık gibi durumların birer göstergesi olarak yorumlanmıştır."
+      "question": "Eski veya yıkık bir ev görmek kötü bir geleceğe mi işaret eder?",
+      "answer": "Rüyalar geleceği doğrudan tahmin etmez. Geleneksel ve psikolojik okumalarda eski veya harap evler, içsel sınırların zayıflamasını, hane içi düzenin bozulduğunu ya da koruma ve arınma ihtiyacını yansıtan metaforlar olarak değerlendirilir."
     }
   ],
   "sources": [
     {
-      "title": "The Meaning of Houses in Dreams",
-      "relevance": "Ev rüyalarının aile ilişkileri, çocukluk deneyimleri ve beden metaforlarıyla ilişkilendirildiğini tartışan popüler psikoloji yazısı.",
-      "url": "https://www.psychologytoday.com/us/blog/dreaming-in-the-digital-age/202501/the-meaning-of-houses-in-dreams"
+      "title": "Methods and Measures for the Study of Dream Content",
+      "relevance": "Rüya içeriğini çözümlemek için kullanılan yöntemleri ve tekrar eden temaların nasıl incelendiğini açıklar; 'ev' gibi imgelerin sistematik içerik analizinde nasıl ele alınabileceğine yöntemsel zemin sağlar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2000a.html"
     },
     {
-      "title": "The cryptomnesic origins of Jung's dream of the multi‐storeyed house",
-      "relevance": "Jung’un çok katlı ev rüyasını kolektif bilinçdışı kavramını açıklamak için kullandığını doğrulayan akademik özet; Jungcu teorik materyal için temel kaynak.",
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-5922.2009.01800.x"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyaların istek doyumu olarak işleyişini ve rüya imgelerinin sembolik yer değiştirme biçimlerini tartışır; ev imgesinin beden ve organ temsilleriyle ilişkilendirildiği pasajlar içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "I Dream of Houses",
-      "relevance": "Ev rüyalarının kimlik ve özbakım ile ilişkilendirilebileceğini ele alan psikolojik yorum yazısı.",
-      "url": "https://www.psychologytoday.com/us/blog/all-is-well/202203/i-dream-houses"
+      "title": "Page:Freud - The interpretation of dreams.djvu/89 - Wikisource",
+      "relevance": "Ev imgelerinin organizmanın temsili ve beden parçalarıyla ilişkisi üzerine Freud’dan aktarılan bir pasaj sunar; mimari öğelerle bedensel temsil arasındaki bağlantıyı görünür kılar.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/89"
+    },
+    {
+      "title": "Freud's Method for Interpreting Dreams - London",
+      "relevance": "Freud’un rüya çözümleme yöntemini ve rüyaların bastırılmış çocukluk istekleriyle ilişkisini özetler; ev sembolünü yorumlarken kullanılacak genel psikanalitik çerçeveyi destekler.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/freuds-method-for-interpreting-dreams/"
+    },
+    {
+      "title": "House Dreams: Meaning & Self-Discovery Symbolism | Somniscient",
+      "relevance": "Ev rüyasını Jungcu sembolizm içinde benlik ve psişe imgesi olarak ele alan çevrim içi bir açıklama.",
+      "url": "https://somniscient.com/en/symbols/house"
     },
     {
       "title": "For Jung, architecture was a tool to represent the psyche",
-      "relevance": "Jung’un mimari ev metaforunu psikenin katmanları ve kolektif bilinçdışıyla ilişkilendiren ikincil akademik/yorumlayıcı çalışma.",
+      "relevance": "Jung’un çok katlı ev rüyasını psişenin yapısı ve bilinçdışı katmanlarıyla ilişkilendiren popüler bir yorum yazısı.",
       "url": "https://psyche.co/ideas/for-jung-architecture-was-a-tool-to-represent-the-psyche"
     },
     {
-      "title": "Jung's Dream House and Discovering Your Own ...",
-      "relevance": "Ev sembolünün sınır, sığınak ve psikik taşıyıcı yapı olarak Jungcu yorumunu aktaran ikincil kaynak.",
-      "url": "https://appliedjung.com/blog/jungs-dream-house"
+      "title": "Microsoft Word - wp79.doc",
+      "relevance": "'House dream' motifinin psişenin örgütlenişini görünür kılması üzerine akademik bir tartışma içeren çalışma.",
+      "url": "https://orca.cardiff.ac.uk/id/eprint/78150/1/wrkgpaper-79.pdf"
     },
     {
-      "title": "House Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya tabiri geleneğinde ev sembolünü derleyen çevrim içi kaynak; klasik atıflar ve rüyadaki evin işlevlerine dair örneklemeler içerir.",
-      "url": "https://www.myislamicdream.com/house.html"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorumunda ev, hane ve aile ilişkileriyle bağlantılı sembolik okumalar için temel bir metin sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "The concept of House in Christianity",
-      "relevance": "Hristiyan kutsal metin ve sembolizminde \"house/ev\" kavramının genel teolojik anlamına dair özet; rüya tabiri bağlamı yerine genel sembolizm tartışması sunar.",
-      "url": "https://www.wisdomlib.org/christianity/concept/house"
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual ...",
+      "relevance": "Artemidorus geleneğinin ev ve ev halkı ilişkisini nasıl alegorik yorumladığını gösteren erişilebilir bir metin sunar.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?login=true"
     },
     {
-      "title": "सपने में घर देखना, स्वप्न शास्त्र अर्थ और उपाय | वैदिकबर्थ",
-      "relevance": "Hindu Swapna Şastra üslubunda ev sembolünün aile temeli, yaşam yapısı ve olumlu/olumsuz işaretlerle ilişkilendirilmesine dair çevrim içi yorum örneği.",
-      "url": "https://www.vedicbirth.com/hi/dream/house"
+      "title": "British School at Athens is collaborating with JSTOR to digitize, preserve and extend access to British School at Athens",
+      "relevance": "Antik Yunan ev sembolizmi ile rüya yorumundaki ev/çevre benzetmelerini tarihsel bağlam içinde açıklar.",
+      "url": "https://is.muni.cz/el/phil/jaro2016/DVQ023/um/61686222/LLEWELLYN-JONES_House_and_Veil_in_Ancient_Greece.pdf"
     },
     {
-      "title": "House Dreams: Structure, Self, and the Many Rooms of Meaning",
-      "relevance": "Budist bağlamda ev sembolünün benlik, alışkanlık ve geçicilikle ilişkilendirildiğini söyleyen yorumlayıcı çevrim içi kaynak.",
-      "url": "https://www.dreamspoken.com/en/dream-meaning/house"
+      "title": "İmam Nablusi Rüya Tabirleri E Harfi",
+      "relevance": "Ev sembolünün dünya, eş ve genişlik/ömür temalarıyla ilişkilendirildiği aktarım.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-e-harfi.html"
+    },
+    {
+      "title": "Ibn Seerin's Dictionary of Dreams",
+      "relevance": "Meskenlerin rüyada kişinin barınağı veya dünyası olarak açıklandığı metin.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "I just Dreamt of my Home. What do Houses mean in Dreams?",
+      "relevance": "Hristiyan rüya dilinde evin yaşam ve içsel düzenle ilişkilendirilmesine dair çevrim içi örnekler sunar.",
+      "url": "https://www.godconversations.com/blog/houses-dreams/"
+    },
+    {
+      "title": "Biblical Meaning of a House in Dreams: What Scripture Says ...",
+      "relevance": "İncil’de ev metaforunu temel, aidiyet ve ilahi barınak temalarıyla ilişkilendiren ayetleri bir araya getirir.",
+      "url": "https://thedreamguidebook.com/biblical-meaning-of-house-in-dreams/"
+    },
+    {
+      "title": "Babylonian Talmud: Tractate Berakoth",
+      "relevance": "Rüyada ev içinde görülen sahnelerin yorumlandığı Talmudik pasaj; evdeki barış, iyi alamet ve kötü alamet ayrımını gösterir.",
+      "url": "https://www.come-and-hear.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Berakhot 57.b",
+      "relevance": "Rüyada ölünün evle ilişkili eylemlerinin alamet sayıldığı metin; ev, ev halkı ve ev içindeki nesneler üzerinden yorum sunar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Dream Dictionary - Buddha, Buddhist - Buildings",
+      "relevance": "Budist bağlama atıf yapan ev ve yapı sembolizmini, evin içi ve dış yüzü üzerinden benlik ve içsel çatışma olarak ele alıyor.",
+      "url": "https://earthessences.org/index.php/11-articles/134-dream-dictionary-buddha-buddhist-buildings"
+    },
+    {
+      "title": "House Dream Meaning & Interpretation - Mirror",
+      "relevance": "Budist düşüncede evi benlik ve ego için bir mecaz olarak yorumluyor; bağlanma, yanılsama ve özgürleşme temalarıyla ilişkilendiriyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/house/"
+    },
+    {
+      "title": "House, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Ev sembolünü rüya bağlamında güvenlik, koruma ve 'dünya merkezi' ile ilişkilendiren ezoterik sözlük kaydı.",
+      "url": "http://www.dreamtation.com/docs/3749.htm"
+    },
+    {
+      "title": "[PDF] A DICTIONARY OF SYMBOLS - Esoteric Library",
+      "relevance": "Ev sembolünü katmanlı ruhsal yapı, beden/benlik benzetmeleri ve simyasal dönüşüm bağlamında tartışan semboller sözlüğü kaydı.",
+      "url": "https://esotericlibrary.weebly.com/uploads/5/0/7/7/5077636/a_dictionary_of_symbols__cirlot_.pdf"
+    },
+    {
+      "title": "Dream Meaning: Houses & Rooms",
+      "relevance": "Ev ve odaları, içsel benlik düzeni ve esoterik/spiritüel okuma çerçevesinde ele alan modern sembol sayfası.",
+      "url": "https://ethyria.at/en/symbols/haus-raeume/"
+    },
+    {
+      "title": "House in dreams — meaning and symbolism",
+      "relevance": "Ev, iç dünya, sınırlar ve arınma temaları üzerinden modern spiritüel yorum sunan sayfa.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/house"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian",
+    "buddhist-eastern"
+  ]
 }

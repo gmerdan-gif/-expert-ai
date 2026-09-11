@@ -1,0 +1,233 @@
+{
+  "slug": "cenaze",
+  "title": "cenaze",
+  "shortDescription": "Rüyada cenaze görmek genellikle yas, kayıp ya da hayatınızdaki bir dönemin sona ermesiyle ilişkilidir. Huzurlu bir vedalaşma kabul ve rahatlamayı, korku veya yoğun sıkıntı ise ayrılık, suçluluk ya da kaygıyı yansıtabilir.",
+  "positiveAssociations": [
+    "Dönem tamamlama ve evre kapatma",
+    "İçsel arınma ve hafifleme",
+    "Bireyleşme ve eski benlikten özgürleşme",
+    "Sağlık ve uzun ömür vurgusu (geleneksel okumalarda)"
+  ],
+  "challengingAssociations": [
+    "Yas, kayıp ve ayrılık acısı",
+    "Suçluluk, pişmanlık ve öz-kınama",
+    "Rahatsız edici anksiyete ve depresif belirtiler",
+    "Bilinçdışına zorlu inişler ve travmatik anılar"
+  ],
+  "contextDependentAssociations": [
+    "Ölen kişinin kimliği ve rüya sahibine yakınlık derecesi",
+    "Rüya sırasında hissedilen duygusal ton (huzur, korku, kabullenme)",
+    "Cenazenin işleyiş biçimi (havada gitme, tabut üzerinde yürüme vb.)",
+    "Yas sürecinin hangi evresinde olunduğu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık Birinin Cenazesine Katılmak",
+      "description": "Hayatta olan veya vefat etmiş bir tanıdığın cenazesinde bulunduğunu görmek; o kişiyle olan ilişkideki ambivalansı, kapanmamış meseleleri ya da ortak bir dönemin sonunu simgeleyebilir."
+    },
+    {
+      "title": "Kendi Cenazesini Görmek",
+      "description": "Rüya sahibinin kendi cenazesine tanık olması; eski bir kimliğin, alışkanlığın veya sosyal maskenin çözülmesi ve köklü bir psikolojik dönüşüm sürecinin işaretidir."
+    },
+    {
+      "title": "Bilinmeyen Bir Cenaze Alayı",
+      "description": "Tanınmayan kişilerin oluşturduğu bir cenaze törenini izlemek; genel bir toplumsal değişim hissine, hayat düzenindeki bir dönemin sonuna veya soyut bir bitiş duygusuna işaret eder."
+    },
+    {
+      "title": "Cenaze Töreninde Vedalaşmak",
+      "description": "Cenaze sırasında huzurlu bir şekilde vedalaşma imkanı bulmak; yas sürecindeki kabul aşamasını, bırakma eylemini ve psikolojik rahatlamayı destekler."
+    }
+  ],
+  "psychology": "Ampirik psikoloji çalışmalarında, kayıp ve yas dönemlerinde görülen rüyaların anksiyete ve depresif belirtilerle ilişkili olabildiği bildirilmiştir. Buna karşın, rüyaların kabul, teselli, travmatik ayrıntıları işleme ve ölenle bağın sürdürülmesi veya kesilmesi gibi işlevler taşıdığı da bildirilmiştir.",
+  "jungian": "Jungcu analitik psikolojide cenaze, bir psikolojik dönemin kapanışını ve eski benlik biçiminin sembolik olarak toprağa verilmesini temsil eden ölüm-yeniden doğuş sembolizmidir. Bu imge, bireyleşme sürecinde bilinçdışına inmeyi, personaların çözülmesini ve yeni bir evreye geçiş için gerekli figüratif ölümü yansıtır.",
+  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında cenaze görmek genellikle sağlık ve uzun ömürle ilişkilendirilir. Bununla birlikte, cenazenin havada gitmesi veya tabutun durumuna göre âlimlerce yapılan farklı toplumsal ve durumsal yorumlar da bulunmaktadır.",
+  "christianTraditions": "",
+  "jewishTraditions": "Talmudik metinlerde evde ceset veya ölü temalı rüyalar, bağlama göre evde barış veya çeşitli işaretler olarak ele alınır. Rahatsız edici rüyalara karşı merhamet dileme ve dua etme çerçevesi, bu tür rüyaların yıkıcı birer hükümden ziyade üzerinde durulup arınılması gereken zihinsel içerikler olduğunu vurgular.",
+  "buddhistEasternApproaches": "Doğu kökenli bazı modern rüya sınıflandırmalarında (Swapna Shastra gibi aktarımlarda) cenaze, gerçek bir ölümden ziyade bir evrenin kapanışı, bir aşamanın tamamlanması ve onurlu bir bırakış olarak yorumlanır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda cenaze; biten bir döngünün ritüel biçimde kapatılması, artık işe yaramayan yüklerin teslim edilmesi ve yeni bir başlangıç için alan açılması anlamına gelen bir eşik imgesidir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Yas sürecinin evrelerini, kayıp sonrası anksiyeteyi ve rüyaların travmayı işleme ve kabul etme işlevini inceler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Kayıp nesneye duyulan ambivalans, suçluluk ve bastırılmış dileklerin yas çalışması içindeki yansıması olarak ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Eski kimliğin gömülmesi, bilinçdışına iniş ve bireyleşme yolundaki ölüm-yeniden doğuş döngüsü olarak yorumlar.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel İslam Yaklaşımı",
+      "interpretation": "Sağlık, uzun ömür ve rüyadaki detaylara bağlı olarak durumsal değişimler ve haber alma bağlamında değerlendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rüya Literatürü",
+      "interpretation": "Ev içi durumlar ve uğur alametleri bağlamında ele alarak rahatsız edici rüyalar için dua ve arınma çerçevesi sunar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Bir dönemin ritüel kapanışı, yüklerin bırakılması ve yeni bir başlangıç eşiği olarak sembolize eder.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler cenaze sembolünü nadiren doğrudan gerçek bir ölüm kehaneti olarak görür; aksine sembolü bir bitiş, kapanış, durum değişimi ve dönüşüm ekseninde buluşturur.",
+  "differences": "Ampirik psikoloji rüyaları yas evreleri ve duygusal uyumlanma bağlamında incelerken, psikanaliz ise suçluluk ve ambivalansa odaklanır. Jungcu yaklaşım bireyleşme ve içsel dönüşümü öne çıkarırken, geleneksel ve spiritüel okumalar daha çok dışsal işaretler, ritüel kapanışlar ve yaşam evreleri üzerinden anlam üretir.",
+  "inusAssessment": "Cenaze rüyası tek bir düzleme indirgenemeyen, yas, kayıp ve psikolojik dönüşüm temalarının en yoğun biçimde ortaya çıktığı eşik imgelerindendir. Rüyayı yorumlarken rüya sahibinin kaybettiği bir kişiyle mi karşılaştığı yoksa kendi kimliğinin bir parçasını mı toprağa verdiği ayrımı belirleyicidir. Rüyanın duygusal tonu (huzur mu yoksa anksiyete mi olduğu) ise, bunun cezalandırıcı bir suçluluk tepkisi mi yoksa eski bir döngünün onurlu bir bırakışı mı olduğunu anlamada önemli bir gösterge olur.",
+  "faq": [
+    {
+      "question": "Rüyada cenaze görmek gerçek hayatta birinin öleceği anlamına mı gelir?",
+      "answer": "Araştırmalar ve geleneksel yorumlar cenaze rüyalarının gerçek bir ölüm kehaneti olmadığını, daha çok yas, kayıp, kapanış veya psikolojik dönüşüm süreçleriyle ilişkili olduğunu gösterir."
+    },
+    {
+      "question": "Yas döneminde cenaze veya ölen yakınları rüyada görmek normal midir?",
+      "answer": "Evet. Yas çalışmalarına göre ölen kişileri veya cenaze temalarını rüyada görmek yas sürecinin son derece yaygın bir parçasıdır ve zihnin kaybı işlemesine yardımcı olabilir."
+    },
+    {
+      "question": "Kendi cenazesini görmek psikolojik olarak neye işaret eder?",
+      "answer": "Jungcu ve spiritüel yaklaşımlarda kendi cenazenizi görmek, eski bir kimliğin, alışkanlığın veya hayat düzeninin sona erdiğini ve yeni bir evreye geçildiğini simgeler."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream Content in Complicated Grief: A Window into Loss ...",
+      "relevance": "Karmaşık yas yaşayan kişilerde rüya içeriğinin duygusal tonunu ve sosyal karakter dağılımını gösterir; cenaze gibi kayıp temalı sembollerin bağlamla nasıl farklılaşabileceğini anlamaya yardım eder.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3929213/"
+    },
+    {
+      "title": "The impact of dreams of the deceased on bereavement",
+      "relevance": "Yas yaşayan kişilerde ölen kişiyle ilgili rüyaların sıklığını, temalarını ve bu rüyaların yas sürecindeki algılanan etkilerini rapor eder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23449603/"
+    },
+    {
+      "title": "Dreams in bereavement: Case study",
+      "relevance": "Bir yas vakasında rüya içeriğinin zamanla nasıl değiştiğini ve kayıp sonrası uyum süreciyle nasıl ilişkilenebildiğini gösterir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/74179"
+    },
+    {
+      "title": "[Are oppressive dreams indicators in bereavement?] - PubMed",
+      "relevance": "Yasın ilk yılında rahatsız edici rüyaların artışı ve bunların anksiyete ile depresif belirtilerle ilişkisini bildirir.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23074846/"
+    },
+    {
+      "title": "Through a Glass Darkly: Images of the Dead in Dreams - Deirdre Barrett, 1992",
+      "relevance": "Ölülerin rüyalarda görünmesine ilişkin temaları ve vedalaşma, mesaj verme gibi işlevleri ele alır.",
+      "url": "https://journals.sagepub.com/doi/10.2190/H9G7-7AK5-15TF-2AWA"
+    },
+    {
+      "title": "The functions of the dreams of the deceased: A qualitative study of women bereaved by partner's suicide - PubMed",
+      "relevance": "Yas bağlamında ölen kişinin rüyalarının işlevlerini; yardım etme, travmayı yansıtma ve bağı sürdürme veya kesme eksenlerinde inceler.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38117247/"
+    },
+    {
+      "title": "Sigmund Freud [1900] The Interpretation of Dreams ( ...",
+      "relevance": "Rüyada ölüm ve yas imgelerinin Freudcu yorumunu kuran temel bölüm; cenaze sembolünün psikanalitik çerçevesini anlamak için doğrudan kaynak sağlar.",
+      "url": "https://ia802907.us.archive.org/17/items/SigmundFreud/Sigmund%20Freud%20%5B1900%5D%20The%20Interpretation%20of%20Dreams%20(James%20Strachey%20translation,%201955).pdf"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/228",
+      "relevance": "Yakın birinin ölümünü içeren rüyaların dilek gerçekleştirme ve ambivalans ile ilişkisini açıklar; cenaze ile komşu ölüm teması için temel metindir.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/228"
+    },
+    {
+      "title": "Sigmund Freud: Conflict & Culture Exploded Manuscript: Freud's Letter to Fliess",
+      "relevance": "Freud'un babasının cenazesi sonrası gördüğü rüya, cenaze bağlamının suçluluk ve öz-kınama ile bağlantısını örnekler.",
+      "url": "https://www.loc.gov/exhibits/freud/ex/27.html"
+    },
+    {
+      "title": "The dream of death: The Interpretation of Dreams (Chapter 3)",
+      "relevance": "Yas ve rüya işleyişini Freudcu çizgide tartışır; kayıp ve ölü kişinin rüyalarda geri dönüşü cenaze sembolünün yorum çerçevesini genişletir.",
+      "url": "https://www.cambridge.org/core/books/freud-psychoanalysis-and-death/dream-of-death-the-interpretation-of-dreams/744B5B6319FFC095C12692B2857FE718"
+    },
+    {
+      "title": "夢に現れる死と再生の象徴｜ユング心理学が読み解く変容のこころのメッセージ | ユングで学ぶ心理学入門",
+      "relevance": "Cenaze ve defin imgelerini Jung psikolojisinde ölüm-yeniden doğuş ve bireyleşme süreciyle ilişkilendiren bir Jungcu okuma sunar.",
+      "url": "https://www.kokoro-jung.com/dream-death-rebirth-symbols/"
+    },
+    {
+      "title": "Carl Jung on “Recurring Dreams” and “Retrogressive Birth.",
+      "relevance": "Dönüşüm sürecinde bilinçdışına geri çekilmeyi figüratif ölüm ve yeniden doğuşla ilişkilendiren Jungçu alıntılar içerir.",
+      "url": "https://carljungdepthpsychologysite.blog/2024/07/20/dreams-14/"
+    },
+    {
+      "title": "Jungian Insights on Dreams and Death | PDF | Carl Jung - Scribd",
+      "relevance": "Ölüm ve yas rüyalarında geçiş, yolculuk ve yeniden biçimlenme imgelerini ele alarak Jungcu ölüm sembolizmine bağ kurar.",
+      "url": "https://www.scribd.com/document/900330711/On-Dreams-and-Death-a-Jungian-Interpretation-Traum-Und-Tod-Marie-Louise-Von-Franz-Translated-by-Emmanuel-Xipolitas-Boston-Massachusetts"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorumlarının çeviri metni; cenaze ve ölüm imgelerinin bağlama göre okunabildiği Greko-Romen oneirokritik çerçeveyi gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Le rêve et la mort dans les Oneirokritika d'Artémidore",
+      "relevance": "Artémidore’un Oneirokritika’sında ölüm temasını ve defin/toprak dönüşümü mantığını tartışan çalışma; cenaze sembolünün ölüm yorumu içindeki tarihsel arka planını sağlar.",
+      "url": "https://books.openedition.org/pupo/3259?lang=fr"
+    },
+    {
+      "title": "Artemidorian Oneirocrisia - E. Papamichael, S.G. Marketos, 1995",
+      "relevance": "Artemidorian rüya sözlüğü içindeki bazı karşılıkların 'funeral' ve 'death' ekseninde düzenlendiğini bildiren akademik makale; cenaze sembolünün antik yorum dilindeki konumuna işaret eder.",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0957154X9500602201"
+    },
+    {
+      "title": "Cenaze Rüyada Görmek İmam Nablusi",
+      "relevance": "İmam Nablusi adına aktarılan cenaze rüyası yorumu; cenazenin sağlık ve uzun ömürle ilişkilendirildiği bir anlatım sunar.",
+      "url": "https://www.islamda.org/2015/05/cenaze-ruyada-gormek-imam-nablusi.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri C Harfi",
+      "relevance": "Cenazenin havada gitmesi ve tabut üzerinde yürüme gibi sahneleri klasik Nablusî’ye atıfla aktaran bir derleme metindir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-c1-harfi.html"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Rüyada ceset, ev, eşya alma ve verme ve mezar çağrışımlarıyla ilgili rabbanî rüya işaretlerini içerir.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Berakhot 10.a",
+      "relevance": "Rüyaların güvenilirliği, kötü rüyalara karşı dua ve Talmud’un rüya yaklaşımı için çerçeve sunar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/10.a"
+    },
+    {
+      "title": "Berakhot 57.b",
+      "relevance": "Cesetle ilgili rüya yorumlarını düzenli ve okunabilir biçimde sunar; cenaze sembolüne en yakın klasik malzemeyi sağlar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Dream of Funeral Meaning — Vedic Interpretation (Swapna Shastra)",
+      "relevance": "Swapna Shastra bağlamında rüyada cenazenin dönem kapanışı ve bırakış olarak okunmasına değinen çevrimiçi sayfa.",
+      "url": "https://www.vedicbirth.com/dream/funeral"
+    },
+    {
+      "title": "Funeral in dreams — meaning and symbolism",
+      "relevance": "Cenaze rüyasını ezoterik çerçevede ritüel kapanış, teslimiyet ve enerjik dönüşüm olarak yorumlayan modern bir sembol açıklaması.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/funeral"
+    },
+    {
+      "title": "Dream About Funeral - Meaning & Interpretation | Satyori",
+      "relevance": "Cenaze ve ölüm temasını rüyada bitiş, arınma ve yeniden yapılanma ekseninde ele alan modern spiritüel sembol açıklaması.",
+      "url": "https://satyori.com/dreams/funeral/"
+    },
+    {
+      "title": "Dream About Funeral — Meaning & Interpretation",
+      "relevance": "Cenaze rüyasını genel olarak kapanış, yas ve yeni başlangıçlarla ilişkilendiren modern spiritüel yorum; dönüşüm ve bırakma temasını öne çıkarır.",
+      "url": "https://thedreamindex.com/dream-about-funeral/"
+    },
+    {
+      "title": "Funeral In Dreams: Meaning &...",
+      "relevance": "Cenaze temasını bir yaşam döneminin son töreni ve sembolik vedalaşma olarak okuyan modern sembolik yorum.",
+      "url": "https://mymythos.org/archetype/funeral/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

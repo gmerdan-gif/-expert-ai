@@ -1,134 +1,255 @@
 {
   "slug": "gece",
   "title": "gece",
-  "shortDescription": "Rüyada gece görmek, belirsizlikler ve içe dönüşün yanı sıra dinginlik ve tefekkür arayışını simgeleyebilir. Issız, karanlık bir gece kaygı ve yönünü bulmakta zorlanmayı; ay ışığı ya da sabaha geçiş ise rehberliği ve belirsizliklerin dağılmasını çağrıştırır.",
+  "shortDescription": "Rüya bağlamında gece sabit ve tek bir anlama indirgenemez. Uyku sürecinin koruyucu dönemi, bilinçdışı içeriklerin görünür olduğu zemin ve gece boyunca değişen duygulanımlar ile kendine özgü süreçleri barındıran bir bağlamdır.",
   "positiveAssociations": [
-    "İçe dönüş ve manevi uyanıklık",
-    "Estetik yoğunluk ve duygusal derinlik",
-    "Özdenetim ve tefekkür",
-    "Süreklilik gösteren farkındalık"
+    "Aydınlık ve mehtaplı geceler genellikle ferahlık, sevinç ve kolay geçimle ilişkilendirilir.",
+    "İşlerin gizlenmesi, güvenlik hissi veya tehditten korunma algısı.",
+    "Manevi tefekkür, içe dönüş ve derin düşünce zamanı.",
+    "Tanrı'nın karanlıkta da etkin olabileceği inancı ve ilahi rehberlik arayışı."
   ],
   "challengingAssociations": [
-    "Karanlık ve bilgisizlik",
-    "Tehlike ve ruhsal uzaklık",
-    "Korku, sıkıntı ve ilahi yargı",
-    "Kaosa dönüş ve belirsizlik"
+    "Gecenin tüm zamanları hâkimse, bunun geçim darlığı ve sıkıntıyla ilişkilendirilebileceği görülür.",
+    "Karanlık gece imgesiyle bağlantılı üzüntü.",
+    "Yahudi sembolizminde korku, tehlike, ölüm ve kaosa dönüş çağrışımları.",
+    "Budist ve bazı geleneksel okumalarda uzun gece, sıkıntılı samsarik döngüyü simgeler."
   ],
   "contextDependentAssociations": [
-    "Gece ve gündüz arasındaki sembolik karşıtlık",
-    "Yeni ay ve dolunay gibi özel gecelere bağlı ritüel ve takvimsel anlamlar",
-    "Gecenin yorumu kültürel, dinsel ve kişisel bağlama göre değişir"
+    "Geceye özgü, içe dönük bir bekleyiş ve belirsizlik hali.",
+    "Gecenin ilerleyen saatlerinde değişen duygusal yoğunluk ve duygulanım dağılımı.",
+    "Simyasal ve ezoterik okumalarda dönüşümün karanlık, içsel işlem evresi."
   ],
   "commonVariations": [
     {
-      "title": "Yıldızlı Gökyüzü Altında Yürümek",
-      "description": "Estetik ve duygusal bir yoğunluk barındıran bu senaryo, kişinin içsel dünyasıyla baş başa kalmasını ve evrensel bir dinginlik arayışını yansıtır."
+      "title": "Aydınlık ve Yıldızlı Gece Görmek",
+      "description": "Gökyüzünde ayın ve yıldızların parladığı, ferahlatıcı bir gece manzarası; rüya bağlamında genellikle ferahlık, kolaylık veya umut hissiyle ilişkilendirilebilir."
     },
     {
-      "title": "Karanlık ve Issız Bir Sokakta Kalmak",
-      "description": "Bilinmeyene duyulan kaygıyı, dış dünyadan yalıtılmışlık hissini ve yönünü bulmakta zorlanmayı simgeler."
+      "title": "Ay ve Yıldız Işığı Olmayan Zifiri Karanlık Gece",
+      "description": "Çevrenin tamamen karanlığa gömüldüğü, gökyüzünde ışığın olmadığı bir gece görünümü; rüyada bu tür zifiri karanlık genellikle endişe, hüzün veya belirsizlik hissine işaret edebilir."
     },
     {
-      "title": "Ay Işığının Aydınlattığı Gece",
-      "description": "Tamamen karanlık olmayan, rehberlik ve sezgisel aydınlanma barındıran bir geçiş evresini ifade eder."
+      "title": "Gecenin İlerleyen Saatlerinde Artan Duygu Yoğunluğu",
+      "description": "Rüya içinde gece vaktinin ilerlemesiyle birlikte duygusal tonun ve içsel hareketliliğin belirgin şekilde yoğunlaşması; ampirik çalışmalarda gece ilerledikçe duygulanımın değiştiğine dair bulgularla uyumludur."
     },
     {
-      "title": "Geceden Gündüze Geçiş Anı",
-      "description": "Belirsizliklerin sona ermesi, bir dönemin kapanıp yeni bir farkındalık penceresinin aralanması sürecidir."
+      "title": "Dış Uyaranlardan Uzak, İçe Dönük Bir Gece Bekleyişi",
+      "description": "Dış dünyanın sustuğu, rüya sahibinin içe çekildiği bir gece sahnesi; bu durum içsel muhasebe, tefekkür veya bilinçdışının içeriğinin görünür hale gelmesi temasını çağrıştırabilir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "Hristiyan kutsal metin geleneğinde gece, çoğu kez ruhsal karanlık, bilgisizlik ve Tanrı'nın ışığından uzaklıkla ilişkilendirilir; ışık ise ilahî hakikat ve kurtuluşu simgeler.",
-  "jewishTraditions": "Yahudi metinsel ve aggadah geleneğinde gece, korku ve tehlike zamanı, ölümün ve kaosa dönüşün simgesi olarak tasvir edilir; bazı anlatımlarda gece, şeytani varlıklarla ilişkilendirilen bir zaman dilimidir.",
-  "buddhistEasternApproaches": "Budist bağlamda gece, uyanıklık, dikkat ve meditasyonla ilişkilendirilir; süreklilik gösteren içsel farkındalık ve manevi tetikte olma temalarına bağlanır.",
-  "spiritualApproaches": "Hindu bağlamında gece, içe dönüş, dinlenme ve ritüel etkinliklerle bağlantılıdır; aynı zamanda karanlık, arzular ve duygusal dönüşümle ilişkilendirilir. Yeni ay ve dolunay gecelerinin ritüel düzeni ise geceyi disiplin, arınma ve gözlemle ilişkilendirir.",
+  "psychology": "Bilgisayar destekli rüya içerik analizi ve laboratuvar çalışmaları, gece boyunca rüyanın duygulanımının sabit kalmadığını; REM uykusu ve uyku evrelerine bağlı olarak duygusal yoğunluğun gece ilerledikçe değişebildiğini göstermektedir.",
+  "jungian": "Analitik psikolojide gece imgesi, kişisel karanlık, gölge deneyimi, bilinçdışı alan ve bilinmeyenle karşılaşma bağlamında okunur. Bireyleşme sürecinde gece, bilinçli tutumun sınırlarına inilmesini ve gölge ile temas yoluyla dönüşüm ve psişik yenilenme potansiyelini işaret edebilir, ancak yorumda bağlam ve rüyanın duygusal tonu belirleyicidir.",
+  "islamicTradition": "İslami rüya tabiri geleneğinde gecenin niteliği önem taşır: karanlık, aydınlıksız geceler genellikle geçim darlığı ve üzüntüyle, mehtaplı, yıldızlı geceler ise ferahlık, sevinç ve kolay geçimle ilişkilendirilir. Ayrıca bazı aktarımlarda gece, gizlenme, güvende olma veya ölüm gibi temalarla bağlantılı olarak ele alınır; klasik geleneğin bağlam ve kaynak farklılıkları nedeniyle bu tür yorumlar bağlama göre değerlendirilmelidir.",
+  "christianTraditions": "Hristiyan teolojik ve sembolik okumalarda gece yalnızca karanlık değil, aynı zamanda bekleyiş, tefekkür ve ilahi eylemin gizli çalışmasının zemini olarak da okunabilir. Rüyada gece, dinsel dikkati, dua ve karanlıkta umut arayışını çağrıştırabilir.",
+  "jewishTraditions": "Yahudi sembolizminde gece sıklıkla korku, tehlike ve kaos çağrışımları taşır; bununla birlikte gece aynı zamanda gizlenmişlik ve düzenin geri çekildiği bir zaman olarak da okunur. Rüyada gece görünümü, belirsizlik, yön bulma zorluğu veya sınanma hissiyle ilişkilendirilebilir; klasik rabbinik literatürde \"gece\" için evrensel, tek bir maddi tabir bulunmaz; bu nedenle yorum kültürel ve bağlamsal şartlara göre yapılmalıdır.",
+  "buddhistEasternApproaches": "Budist bağlamda uyku ve rüya, zihni örten ve farkındalığı azaltan durumlar olarak ele alınır; gece, uyanıklıkla zıtlık içinde düşünülür. Bazı metinlerde gece uygulama ve sürekli tefekkür zamanı olarak olumlu okunurken, uzun gece metaforu ise süregelen sıkıntı ve samsarik döngü temasına işaret edebilir.",
+  "spiritualApproaches": "Ezoterik ve simyasal geleneklerde gece, görünmeyen ve henüz şekillenmemiş olanla, sessizlikle ve geceye özgü içe dönük bir bekleyişle ilişkilendirilen eşik sembolüdür. Simyasal anlatımlarda gece, dönüşüm sürecinin dışsal hareketin azaldığı ama içsel işlemenin sürdüğü karanlık evresi olarak okunur.",
   "comparisonTable": [
     {
-      "approach": "Kutsal Metin ve Geleneksel Yaklaşım",
-      "interpretation": "Geceyi ruhsal karanlık, korku veya sınanma zamanı olarak ele alır; aynı zamanda tefekkür ve ilahi karşılaşma için ayrılmış anlar da olabilir.",
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Rüyanın gece boyunca değişen duygulanımı, duygusal yoğunluk dinamikleri ve ölçülebilir içerik örüntüleri.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Gecenin bilinçdışı alanla karşılaşma, gölge ve içe dönüş temasları yoluyla bireysel dönüşümün zemini olarak okunması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Gecenin aydınlık/karanlık niteliğine göre değişen hüzün, ferahlık, gizlenme ve geçim temaları.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu ve Spiritüel Yaklaşımlar",
-      "interpretation": "Geceyi meditasyon, içe dönüş, arınma ve manevi tetikte olma pratiğiyle birleştirir; ritüel takvimleri içinde özel anlamlar taşır.",
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Geceyi eşik, içsel işlem ve simyasal dönüşümün karanlık evresi olarak değerlendirme.",
       "evidenceLevel": "spiritual"
-    },
-    {
-      "approach": "Uyku Araştırmaları",
-      "interpretation": "Bilimsel çalışmalar, gecenin ilerleyen saatlerinde rüya içeriğinin duygusal ve kişisel öğeler bakımından değişebildiğini göstermektedir.",
-      "evidenceLevel": "research"
     }
   ],
-  "commonGround": "Farklı disiplin ve geleneklerde gece, gündüzün koşturmacasından uzaklaşma, bir sınır noktasına gelme ve insanın kendi iç dünyasıyla yüzleşmesi bağlamında ortak bir odak noktasıdır.",
-  "differences": "Kutsal metinlerde gece genellikle karanlık, tehlike veya ilahi imtihan ekseninde yer alırken, Doğu gelenekleri ve bazı spiritüel pratikler geceyi bilinçli bir içe dönüş, arınma ve meditasyon alanı olarak değerlendirir.",
-  "inusAssessment": "Gece sembolü, tek tip bir rüya yorumu vermekten çok kültürel, ritüel ve kişisel bağlamların etkilediği bir eşik alanıdır. Rüyalarda gece teması, yaşamdaki belirsizlikler, içsel karanlıklarla yüzleşme ihtiyacı veya dinginlik arayışı gibi çeşitli gerilimleri barındırabilir; bu yüzden yorumu kişinin yaşam bağlamı ve geleneksel referansları dikkate alarak yapılmalıdır.",
-  "faq": [
-    {
-      "question": "Rüyada gece görmek her zaman korku veya tehlikeye mi işaret eder?",
-      "answer": "Hayır. Geleneksel bağlamlarda gece bazen tehlikeyle ilişkilendirilse de, aynı zamanda içe dönüş, tefekkür ve manevi uyanış için bir fırsat olarak da görülür."
-    },
-    {
-      "question": "Gece sembolü psikolojik araştırmalarda nasıl ele alınır?",
-      "answer": "Ampirik uyku ve rüya araştırmalarında gece, mistik bir kehanet olarak değil, uyku döngüleri ve gece boyunca rüya içeriğinin değişmesi bağlamında incelenir."
-    }
-  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, gecenin tekil ve sabit bir anlam taşımadığını; bunun yerine rüyanın duygusal tonu, gecenin niteliği (aydınlık mı karanlık mı olduğu) ve bağlama göre değişen içe dönük süreçleri vurguladığı konusunda birleşir.",
+  "differences": "Ampirik psikoloji rüyayı deneysel verilerle rüyanın duygulanımındaki dalgalanmalar üzerinden incelerken, İslami ve kültürel gelenekler gecenin aydınlık/karanlık ayrımına dayalı somut yaşam durumlarına vurgu yapar. Jungcu ve ezoterik yaklaşımlar ise geceyi bireysel dönüşüm, gölgeyle yüzleşme ve ruhsal eşikler bağlamında ele alır.",
+  "inusAssessment": "Gece sembolü, rüyada yalnızca zaman zarfı olmanın ötesinde, bilinç durumunu ve içsel karanlıkla ilişkiyi çevreleyen bağlamsal bir işlev görür. Gece görüntüsünün aydınlık mı yoksa zifiri karanlık mı olması, rüyanın duygusal yönünü ve potansiyel yorum alanlarını güçlü biçimde etkiler; buna karşın tek başına kesin ve evrensel bir anlam çıkarılamaz, rüya sahibinin uyanık yaşamındaki psikolojik ve duygusal tonla ilişkili olarak değerlendirilmelidir.",
+  "faq": [],
   "sources": [
     {
-      "title": "[PDF] An early modern revolution - Assets - Cambridge University Press",
-      "relevance": "Erken modern şiir ve dinsel dilde gece imgesinin karşıtlık, özdenetim ve ilahî olanın dile gelmezliği bağlamında nasıl kullanıldığını gösterir.",
-      "url": "https://assets.cambridge.org/97805217/21066/excerpt/9780521721066_excerpt.pdf"
+      "title": "A Novel Approach to Dream Content Analysis Reveals Links ...",
+      "relevance": "Rüya içeriklerini nicel yöntemlerle inceleyerek gecenin rüya içeriği ve anlamsal örüntüler üzerindeki rolüne dair ampirik çerçeve sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6088287/"
     },
     {
-      "title": "History of Night",
-      "relevance": "Erken modern dönemde gecenin toplumsal ve sembolik kullanım alanlarının genişlemesini tartışır.",
-      "url": "https://theopolisinstitute.com/leithart_post/history-of-night/"
+      "title": "Role of REM sleep and dream affect in overnight ... - PubMed",
+      "relevance": "REM uykusu sırasında rüyanın duygulanımının gece içinde değiştiğine dair laboratuvar bulgularını sunar; gecenin zaman içi dinamiklerini anlamaya katkı verir.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9829645/"
     },
     {
-      "title": "Du jour à la nuit. La transition symbolique des imaginaires culturels ...",
-      "relevance": "Romantizm döneminde gece ve yıldızlı gökyüzünün kültürel imgelemdeki estetik önemini ele alır.",
-      "url": "https://books.openedition.org/ugaeditions/32818?lang=fr"
+      "title": "Nightly dynamics of emotional content in dreams - PubMed",
+      "relevance": "Gece ilerledikçe rüyalardaki duygusal yoğunluğun değiştiğini rapor eden çalışma; gece saatlerinin rüyanın duygulanımını etkilediğine dair ampirik kanıt sağlar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40803415/"
     },
     {
-      "title": "How Do Dreams Change Throughout a Night of Sleep?",
-      "relevance": "Uyku boyunca rüya içeriğinin değiştiğini ve gecenin ilerleyen saatlerinde duygusal ve kişisel öğelerin öne çıkabildiğini tartışır.",
-      "url": "https://www.psychologytoday.com/us/blog/dream-factory/202102/how-do-dreams-change-throughout-night-sleep"
+      "title": "Negative dream affect is associated with next-day affect level ... - PMC",
+      "relevance": "Rüyalardaki negatif duygulanımın ertesi gün duygulanımıyla ilişkisini gösterir; gece rüyalarının gündelik ruh hâliyle ilişkisini inceleyen önemli bir kaynak.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9626956/"
     },
     {
-      "title": "Night - Search results provided by BiblicalTraining",
-      "relevance": "Kutsal metinlerde gecenin ruhsal karanlık, bilgisizlik ve Tanrı'nın ışığından uzaklıkla ilişkilendirilme örneklerini özetler.",
-      "url": "https://www.biblicaltraining.org/library/night"
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Freudcu kuramda rüyanın istek doyumu ve gece ile bastırılmış içeriğin ilişkisine dair temel kuramsal metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
     },
     {
-      "title": "Night - McClintock and Strong Biblical Cyclopedia",
-      "relevance": "İbrani-Kutsal Kitap bağlamında gecenin sembolik kullanımlarına ilişkin bilgileri toplar.",
-      "url": "https://www.biblicalcyclopedia.com/N/night.html"
+      "title": "Freud (1900) Chapter 7, part b",
+      "relevance": "Rüya çalışmasının gecenin içinde sürmesi ve bastırılmış malzemenin gece boyunca bilince sızması; geceyi rüya oluşumunun zamanı olarak konumlandırır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7b.htm"
     },
     {
-      "title": "Night",
-      "relevance": "Yahudi metin ve aggadah geleneğinde gecenin korku, tehlike ve kaosa dönüşle bağlantılarını ele alır.",
-      "url": "https://www.sefaria.org/sheets/569755"
+      "title": "Freud (1900) Chapter 4 - Classics in the History of Psychology",
+      "relevance": "Rüyanın bastırılmış bir dileğin örtük doyumu olduğu formülasyonu; gece imgesinin sabit anlamı yerine rüya dinamiğini gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams4.htm"
     },
     {
-      "title": "Rüyada Gece görmek - İhya Rüya Tabirleri",
-      "relevance": "Modern Türkçe rüya tabirleri içeriğinde geceyi rüyada görmeye dair yorum örnekleri sunar.",
-      "url": "https://ruya.ihya.org/ruyada-gece-gormek.html"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyaların gece uykusu bağlamında işlevi ve bastırılmış malzemenin işlenişi hakkında klasik psikanalitik çerçeve sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud's Method for Interpreting Dreams - London",
+      "relevance": "Freud’un rüya yorum yöntemini ve rüyaların bastırılmış çocukluk isteklerinin gizlenmiş doyumu olarak ele alınışını özetleyen kurumsal bir kaynak.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/freuds-method-for-interpreting-dreams/"
+    },
+    {
+      "title": "Freud's Dream Interpretation: A Different Perspective Based on the ...",
+      "relevance": "Freud’un rüyayı bastırılmış istekler, gündüz artıkları ve bilinçdışı süreçlerle ilişkilendiren kuramını özetleyen akademik tartışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6115518/"
+    },
+    {
+      "title": "Dream - Unconscious, Interpretation, Symbolism - Britannica",
+      "relevance": "Freudcu rüya kuramının özetlenmesi; rüyanın bastırılmış isteklerin gizlenmiş doyumu oluşu ve uyku ile ilişkisi.",
+      "url": "https://www.britannica.com/topic/dream-sleep-experience/Psychoanalytic-interpretations"
+    },
+    {
+      "title": "untitled",
+      "relevance": "Jungcu kaynaklar çerçevesinde karanlık/gece motifinin gölge, bilinçdışı ve dönüşüm temalarıyla nasıl ilişkilendirildiğini tartışan akademik bir çeviri/inceleme.",
+      "url": "https://atpweb.org/jtparchive/trps-47-15-01-64.pdf"
+    },
+    {
+      "title": "dark | Carl Jung on the “Dark” in The Red Book – Anthology",
+      "relevance": "Jung'un karanlık, geceye özgü ve bilinçdışıyla bağlantılı nitelikler hakkındaki pasajını aktaran metin.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/05/27/dark/"
+    },
+    {
+      "title": "Full text of \"Von Franz Luise Marie Jung Gustav Carl Man And His Symbols 1988\"",
+      "relevance": "Rüyaların psşik dengeyi yeniden kurma işlevine dair von Franz pasajı; gece imgesini genel Jungcu rüya işlevi içinde konumlandırmaya yarar.",
+      "url": "https://archive.org/stream/VonFranzLuiseMarieJungGustavCarlManAndHisSymbols1988/Von_Franz_Luise_Marie_Jung_Gustav_Carl_Man_and_His_Symbols_1988_djvu.txt"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Greko-Romen oneirokritik geleneğin temel metni; rüya zamanlamasının (gece içindeki anların) yorum değerini tartışmak için tarihsel bağlam sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’un rüya türleri ayrımı ve geleceğe dönük anlamlı rüya anlayışı üzerine akademik bir açıklama getirir; gece zamanlamasının yorumdaki rolünü tarihsel-yorumlayıcı bir çerçeve içinde ele alır.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Artemidorus, Dream Interpretation 1.81 - aleator classicus",
+      "relevance": "Uyumak ya da uyumak üzere olmakla ilgili düşlerin tarihsel yorumunu veren doğrudan pasaj; uyku/gece ekseninde örnek sağlar.",
+      "url": "https://aleatorclassicus.wordpress.com/2011/10/22/artemidorus-dream-interpretation-1-81/"
+    },
+    {
+      "title": "Greek dream interpretation from Homer to Artemidorus",
+      "relevance": "Artemidorus geleneğinde gecenin sonlarına doğru görülen düşlerin anlamlı sayılması ve rüya zamanlamasının yorumdaki rolü üzerine tarihsel-yorumlayıcı çerçeve sunar.",
+      "url": "https://liminaut-labs.org/blog/greek-dream-interpretation-artemidorus/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri G Harfi - Muhammed.net",
+      "relevance": "İslami tabir geleneğinde gece motifinin karanlık/aydınlık ayrımına göre değişen yorumlarını örnekleyen derleme.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-g-harfi.html"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Gece maddesinin derlenmiş biçimi; karanlık ve aydınlık gece ayrımı ile gizlenme/ölüm çağrışımlarını topluca verir.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "SAHIH BUKHARI, BOOK 87: Interpretation of Dreams",
+      "relevance": "Klasik hadis çerçevesi içinde rüyaların kaynağı ayrımına dair metin; gece sembolünün yorumunda bağlamsal ayırma ilkesini destekler.",
+      "url": "https://www.iium.edu.my/deed/hadith/bukhari/087_sbt.html"
+    },
+    {
+      "title": "Medieval Islamic scholarship and writings on sleep and dreams - PMC",
+      "relevance": "Ortaçağ İslam dünyasında uyku ve rüya yazıları üzerine akademik çerçeve; tabir geleneğinin tarihsel bağlamını açıklar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5892091/"
+    },
+    {
+      "title": "[PDF] The Inspirational Night Dream in Islam",
+      "relevance": "İslam’da rüyanın üçlü tasnifini ve klasik rüya yorum geleneğinin işleyişini tartışan akademik çalışma.",
+      "url": "https://durham-repository.worktribe.com/file/1600217/1/Published%20Journal%20Article"
+    },
+    {
+      "title": "Night, Hope, and Sleep: An Advent Reflection",
+      "relevance": "Gecenin Hristiyan yorumunda ışık, bekleyiş ve karanlıkta ilahi eylem temalarıyla nasıl okunabildiğine dair teolojik-sembolik bir çerçeve verir.",
+      "url": "https://churchlifejournal.nd.edu/articles/night-hope-and-sleep-an-advent-reflection/"
+    },
+    {
+      "title": "The concept of Night in Christianity",
+      "relevance": "Hristiyanlık bağlamında geceyi zorlanma, yön arayışı ve manevi dikkatle ilişkilendiren kavramsal bir çerçeve sunar.",
+      "url": "https://www.wisdomlib.org/christianity/concept/night"
+    },
+    {
+      "title": "Day and Night",
+      "relevance": "Yahudi düşüncesinde gecenin korku, tehlike, ölüm ve kaosa dönüş çağrışımları taşıdığını özetler.",
+      "url": "https://jewishvirtuallibrary.org/day-and-night"
+    },
+    {
+      "title": "Berakhot 18.a - Steinsaltz Center",
+      "relevance": "Berakhot 18a bağlamında gece içinde geçen bir rüya anlatısını gösterir ve gecenin rabbanî rüya literatüründeki yerini işaret eder.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/18.a"
+    },
+    {
+      "title": "Sleeping and dream: Significance and symbolism",
+      "relevance": "Budist düşüncede uyku ve rüya ile zihinsel bulanıklık arasındaki ilişkiyi ele alır; geceyi farkındalık azalmasıyla bağlantılı okumaya zemin sağlar.",
+      "url": "https://www.wisdomlib.org/concept/sleeping-and-dream"
     },
     {
       "title": "Night: Significance and symbolism",
-      "relevance": "Budizm ve Hinduizm'de gece sembolizmini özetleyen kavramsal bir kaynak; Budist bağlamda gece ile uyanıklık ve meditasyon arasındaki ilişkiyi tartışır.",
+      "relevance": "Geceyi karanlık, dinlenme ve zamanın akışıyla ilişkilendiren Budist sembolik anlatımlar sunar.",
       "url": "https://www.wisdomlib.org/concept/night"
     },
     {
-      "title": "Day and night: Significance and symbolism",
-      "relevance": "Budist gelenekte gece-gündüz karşıtlığının farkındalık ve meditasyon uygulamalarıyla nasıl ilişkilendirildiğini açıklar.",
-      "url": "https://www.wisdomlib.org/concept/day-and-night"
+      "title": "༄༅། །མཚན་་བཟང་། Auspicious Night",
+      "relevance": "Auspicious Night adlı Budist metin, geceyi süreğen tefekkür ve zihinsel süreklilik bağlamında ele alır.",
+      "url": "https://84000.co/translation/toh313.pdf"
     },
     {
-      "title": "Upavasatha in Vedic Rituals and Uposatha in Buddhism",
-      "relevance": "Vedik ve Budist ritüellerde yeni ay ve dolunay gecelerinin ritüel düzen içindeki yerini ve geceyle bağlantılı uygulamaları tartışır.",
-      "url": "https://www.jstage.jst.go.jp/article/ibk/66/2/66_974/_article/-char/en"
+      "title": "Long night: Significance and symbolism",
+      "relevance": "Uzun geceyi sıkıntı, arayış ve samsara döngüsüyle ilişkilendiren Budist sembolik açıklama sunar.",
+      "url": "https://www.wisdomlib.org/concept/long-night"
+    },
+    {
+      "title": "Night in dreams — meaning and symbolism",
+      "relevance": "Geceyi rüya bağlamında gizli olan, sessizlik, sınır eşiği ve içe dönüş temalarıyla ilişkilendiren bir modern ezoterik okuma sunuyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/night"
+    },
+    {
+      "title": "Night, Daughter of Ocean",
+      "relevance": "Geceyi alkimik çalışmanın zamanı ve 'alchemical day' ile gece arasındaki karşıtlık üzerinden ele alıyor; geceyi dönüşüm sürecinin karanlık evresiyle ilişkilendiren bir çerçeve sağlıyor.",
+      "url": "https://labyrinthdesigners.org/night-daughter-of-ocean/"
+    },
+    {
+      "title": "Night - Dream Symbol Meaning and Interpretation",
+      "relevance": "Geceyi rüyada bilinmeyen, içe dönüş ve spiritüel eşik olarak yorumlayan modern bir ezoterik derleme sunuyor; ayrıca geceyi dönüşüm ve görünmeyen rehberlik temalarıyla bağlıyor.",
+      "url": "https://dreams.guide/dream-symbols/night"
+    },
+    {
+      "title": "Night (alchemy) Symbol",
+      "relevance": "Alkimik ve ezoterik literatürde gece motifinin dönüşümün karanlık evresi olarak kullanılmasına ilişkin referans.",
+      "url": "https://www.symbols.com/symbol/night-(alchemy)"
+    },
+    {
+      "title": "Dreams, Symbols & Thresholds | TheCode.Wiki Esoteric ...",
+      "relevance": "Geceyi sembolik eşiklerin ve geçiş imgelerinin yer aldığı ezoterik bir sözlük bağlamında konumlandırıyor; geceyi 'midnight' ve benzeri sınır zamanlarla birlikte düşünmeye yarıyor.",
+      "url": "https://thecode.wiki/wiki/dreams-symbols-thresholds/"
     }
   ],
   "relatedSlugs": []

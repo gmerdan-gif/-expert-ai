@@ -1,0 +1,225 @@
+{
+  "slug": "kesik",
+  "title": "kesik",
+  "shortDescription": "Rüyada kesik görmek, incinme, sınırlarının aşılması ya da stresin yarattığı kırılganlık hissini yansıtabilir. Bir şeyi bilerek kesmek ise yorucu bağlardan veya alışkanlıklardan uzaklaşıp hayatını düzenleme isteğine işaret edebilir.",
+  "positiveAssociations": [
+    "Eski ve işlevini yitirmiş bağlardan özgürleşme",
+    "Bilinç ile bilinçdışı arasında sağlıklı bir ayrışma ve farklılaşma",
+    "Emekten ve zahmetli yüklerden kurtularak rahat bir döneme geçiş",
+    "Ruhsal arınma ve hayatı yeniden budayarak özünü merkeze alma."
+  ],
+  "challengingAssociations": [
+    "Bedensel zarar, incinme ve fiziksel acı korkusu",
+    "Yaşam enerjisinde veya işlevsellikte hissedilen azalma",
+    "Sınırların ihlal edilmesiyle ortaya çıkan kırılganlık hissi",
+    "Bastırılmış saldırganlık veya suçluluk duygusunun yarattığı içsel gerilim"
+  ],
+  "contextDependentAssociations": [
+    "Vücudun hangi bölgesinde kesik olduğu",
+    "Kesinin kazara mı yoksa bilinçli bir eylemle mi gerçekleştiği",
+    "Rüya sırasında hissedilen duygusal ton ve korku düzeyi",
+    "Uyanık yaşamda yaşanan stres, yorgunluk veya ayrılık süreçleri"
+  ],
+  "commonVariations": [
+    {
+      "title": "Elde veya parmaklarda yüzeysel kesik",
+      "description": "Günlük işlerde, emek verilen konularda veya becerilerde yaşanan küçük bir aksama, hassasiyet veya geçici yorgunluk halini yansıtır."
+    },
+    {
+      "title": "Bilinçli olarak bir ipi veya bağı kesmek",
+      "description": "Artık işlevini yitirmiş eski bir alışkanlıktan, yorucu bir ilişkiden veya taahhütten özgürleşme iradesini simgeler."
+    },
+    {
+      "title": "Beden üzerinde beklenmedik derin kesik",
+      "description": "Ani bir yaşam olayının yarattığı şok hissi, sınır ihlali algısı veya psişik bir yaralanma karşısındaki savunmasızlığı temsil eder."
+    },
+    {
+      "title": "Alet yardımıyla bir nesneyi parçalara ayırmak",
+      "description": "Karmaşık bir problemi çözmek, zihinsel olarak durumu parçalara ayırıp analiz etmek veya hayatı yeniden düzenleme çabasını gösterir."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmaları, rüyalarda korku, çaresizlik ve negatif duygulanımın sık görüldüğünü; yaralanma, tehdit ve stres içeriklerinin de bu kategoriye dahil olduğunu gösterir. Psikanalitik düzlemde ise bedensel acı ve zarar imgeleri, bastırılmış gerilimlerin, saldırganlığın veya suçluluk duygusunun bedensel imge üzerinden sahnelenmesi olarak okunabilir.",
+  "jungian": "Jungcu analizde kesilme teması, bireyleşme sürecinde egonun bilinçdışı içeriklerden ayrışması ve daha bilinçli bir psikolojik yönelime geçmesiyle ilişkilendirilir. Makas veya kesici aletler, psikenin bilinç ile bilinçdışı arasındaki ayrımı yapma ve persona ya da gölgeye ait eski kalıpları budama kapasitesini temsil eder.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolizminde kesme ve yaralanma teması disiplin, arınma, ayrılma ve ruhsal iyileşme ihtiyacıyla ilişkilendirilebilir. Ayrıca İncil’deki antlaşma, sadakat ve budama metaforları bağlamında ruhsal olarak verimsiz alanların kesilip atılması şeklinde yorumlanabilir.",
+  "jewishTraditions": "Talmudik gelenekte rüyalar bağlama göre çözümlenir ve her imge doğrudan felaket olarak okunmaz; örneğin bedensel parçalanma veya ellerin kesilmesi gibi imgeler bazen el emeğine bağımlı kalmadan geçinme veya statü değişimleri gibi beklenmedik maddi ve toplumsal dönüşümlere işaret edebilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda kesik imgesi, enerjik sınırların ihlal edilmesi, korunma ihtiyacı veya kişinin alanına yapılan sert müdahalelerle ilişkilendirilir. Aynı zamanda eski enerjik bağların kesilmesi ve yeni bir düzene uyum sağlama sürecini simgeler.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Yoğun duygusal stresin, günlük tehdit algılarının veya bedensel hassasiyetlerin rüyadaki yansıması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Kuram",
+      "interpretation": "Bastırılmış gerilimlerin, suçluluk duygusunun veya saldırganlık dürtülerinin beden diliyle ifade bulması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Ego ile bilinçdışının ayrışması, eski benlik katmanlarının bırakılması ve psikolojik dönüşüm.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Yahudi Geleneği (Talmudik)",
+      "interpretation": "Rüyanın bütünsel bağlamına göre zahmetten kurtulma, emek dinamiklerinin değişmesi veya içsel değerlendirme.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Enerjik sınırların ihlali, korunma ihtiyacı ve gereksiz bağların kesilerek arınma süreci.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, kesik imgesinin yalnızca yıkıcı bir kayıp olmadığını; aynı zamanda ayrışma, sınır koyma, eskiyi geride bırakma ve dönüşümle ilgili olduğunu kabul eder.",
+  "differences": "Ampirik psikoloji rüyayı duygusal bellek işlemesi ve stres bağlamında incelerken, psikanalitik ve Jungcu ekoller içsel psişik çatışmalara ve bireyleşmeye odaklanır.",
+  "inusAssessment": "Rüyada kesik görmek, standart bir rüya sözlüğü kalıbıyla ele alınamayacak kadar çok katmanlıdır. Bu imgenin anlamını çözerken rüyanın nerede, hangi duygu eşliğinde ve hangi bedensel bölgede gerçekleştiği belirleyicidir; bir bağlamda derin bir incinme ve sınır ihlali korkusuna işaret ederken, başka bir bağlamda eski kalıplardan ve zahmetli yüklerden özgürleşmenin bir metaforu olabilir.",
+  "faq": [
+    {
+      "question": "Rüyada kesik görmek her zaman fiziksel bir tehlikeye mi işaret eder?",
+      "answer": "Hayır. Araştırmalar ve psikolojik yaklaşımlar, bu tür rüyaların genellikle günlük streslerin, duygusal hassasiyetlerin veya içsel gerilimlerin birer yansıması olduğunu göstermektedir."
+    },
+    {
+      "question": "Kesilen yerin elim veya kolum olması rüyayı nasıl etkiler?",
+      "answer": "El ve kol gibi organlar emek, üretim ve günlük işlevsellikle ilişkili olduğundan, bu bölgelerdeki kesikler genellikle çalışma hayatı, beceriler veya çaba gerektiren alanlardaki yorgunluk ve değişimlerle okunur."
+    }
+  ],
+  "sources": [
+    {
+      "title": "International Journal of Dream Research Volume 10, No. 1 (2017)",
+      "relevance": "Rüyalardaki duyguları ölçmek için kullanılan yöntemleri ve içerik kodlamasını ele alan akademik yayın.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/34565/pdf/119430"
+    },
+    {
+      "title": "Sleep, dreams and emotion regulation in higher education ...",
+      "relevance": "Rüya içerik analizinde Hall ve Van de Castle ölçeğini ve rüyalarda görülen duyguları özetleyen akademik çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/112003/109142/288739"
+    },
+    {
+      "title": "The Functional Role of Dreaming in Emotional Processes - PMC",
+      "relevance": "Rüya görmenin duygusal süreçlerdeki işlevini ele alan derleme; REM uykusunda duygusal içeriklerin daha belirgin olabildiğini aktarır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6428732/"
+    },
+    {
+      "title": "Sigmund Freud: Die Traumdeutung",
+      "relevance": "Rüyada bedensel acı, saldırı ve bedenin zarar görmesi imgeleriyle ilgili temel Freud pasajı.",
+      "url": "https://projekt-gutenberg.org/authors/sigmund-freud/books/sigmund-freud-die-traumdeutung/"
+    },
+    {
+      "title": "S I G M .",
+      "relevance": "Beden yaralanması ve rüyada fiziksel zarar imgelerine dair Freud pasajlarını içeren metin erişimi.",
+      "url": "https://freud-online.de/Texte/PDF/freud_werke_bd2_3.pdf"
+    },
+    {
+      "title": "Sigmund Freud: Die Traumdeutung - Projekt Gutenberg",
+      "relevance": "Beden içeriği, beden yaralanması ve cinsellik çağrışımlarıyla ilişkilendirilen Freud metin parçalarına erişim.",
+      "url": "https://projekt-gutenberg.org/authors/sigmund-freud/books/sigmund-freud-die-traumdeutung/chapter/6/"
+    },
+    {
+      "title": "Cutting Dream Meaning & Interpretation - Mirror",
+      "relevance": "Kesme eylemini bireyleşme ve bilinç ile bilinçdışı arasındaki ayrışma üzerinden yorumlayan Jungcu rüya yorumu sayfası.",
+      "url": "https://mirrorwithin.org/dream-dictionary/cutting/"
+    },
+    {
+      "title": "Getting Cut Dream Meaning & Interpretation - Mirror",
+      "relevance": "Kesilme temasını benliğin eski bir yönünden ayrılma, kırılganlık ve dönüşüm bağlamında ele alan Jungcu rüya yorumu sayfası.",
+      "url": "https://mirrorwithin.org/dream-dictionary/getting-cut/"
+    },
+    {
+      "title": "Scissors Dream Meaning & Interpretation - Mirror",
+      "relevance": "Makas ve kesme imgelerini farklılaştırma, ayıklama ve persona veya gölgeyle ilişkilendiren Jungcu rüya yorumu sayfası.",
+      "url": "https://mirrorwithin.org/dream-dictionary/scissors/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Greko-Romen rüya yorumunun temel metni; beden imgelerinin ve kesilme benzeri sahnelerin bağlama göre nasıl okunabildiğini gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "9789004473461.pdf",
+      "relevance": "Başın kesilmesi ve beden bütünlüğünün bozulması gibi imgeler üzerinden tarihsel rüya yorumunu gösteren pasajlar sağlar.",
+      "url": "https://library.oapen.org/bitstream/id/be0d003a-dffa-4f0d-957d-ee9e2354433a/9789004473461.pdf"
+    },
+    {
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual",
+      "relevance": "Artemidorus’un eseri ve önceki oneirokritik gelenek içindeki yeri hakkında akademik çerçeve sunar; sembollerin bağlama göre yorumlanmasını açıklar.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?guestAccessKey="
+    },
+    {
+      "title": "Ancient Science and Dreams. Oneirology in Greco-Roman ...",
+      "relevance": "Greko-Romen rüya bilimi ve Artemidorus’un yorum yöntemini tarihsel-kültürel bağlamda konumlandırır.",
+      "url": "https://bmcr.brynmawr.edu/2003/2003.02.01/"
+    },
+    {
+      "title": "Oneirocritica - Wikipedia",
+      "relevance": "Antik rüya kitabının genel tanıtımı; eserin tarihsel önemini ve korunmuş en kapsamlı Greko-Romen rüya yorumu olduğunu belirtir.",
+      "url": "https://en.wikipedia.org/wiki/Oneirocritica"
+    },
+    {
+      "title": "islâmî rüya tabirleri ansiklopedisi",
+      "relevance": "Elin kesilmesi üzerinden ibadeti terk etme anlamını aktaran derleme metin.",
+      "url": "https://can-ada.net/wp-content/uploads/2018/01/ruya-tabirleri-ansiklopedisi-2.pdf"
+    },
+    {
+      "title": "Topical Bible: Cut",
+      "relevance": "İncil’de \"cut\" kavramının ayrılma, bölünme ve yargı gibi anlam alanlarını topluca gösterir.",
+      "url": "https://biblehub.com/topical/c/cut.htm"
+    },
+    {
+      "title": "Cut; Cutting - Meaning & Verses | Bible Encyclopedia",
+      "relevance": "Yeni Ahit’te kesme, kısaltma ve ayırma fiillerinin metinsel kullanımlarını ve bunların teolojik çağrışımlarını derler.",
+      "url": "https://www.biblestudytools.com/encyclopedias/isbe/cut-cutting.html"
+    },
+    {
+      "title": "About CUTTING in the Bible - ChristianAnswers.Net",
+      "relevance": "Kesme ve bedenin yaralanmasıyla ilgili İncil bağlamlarını, yas, keder ve putperest uygulamalarla ilişkili biçimde toplar.",
+      "url": "https://christiananswers.net/dictionary/cutting.html"
+    },
+    {
+      "title": "Why is circumcision chosen as the sign of the covenant in ...",
+      "relevance": "Antlaşma yapma dilinde \"kesme\" fiilinin ve \"cut off\" temasının antlaşma, sadakat ve ihlal çağrışımlarını açıklar.",
+      "url": "https://biblehub.com/q/Why_is_circumcision_the_covenant_sign.htm"
+    },
+    {
+      "title": "Topical Bible: Cutting Hair",
+      "relevance": "Saç kesimi ve budama imgelerini yas, tövbe, disiplin ve yargı temalarıyla ilişkilendirir.",
+      "url": "https://biblehub.com/topical/c/cutting_hair.htm"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyaların anlamı, yorumlanması ve insanı tövbeye yöneltebilmesi ele alınır; 'kesik' imgesini bu yorum çerçevesine yerleştirmek için temel sağlar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 56b | The Sefaria Library",
+      "relevance": "Berakhot malzemesini sunar; \"kesik\" imgesi için doğrudan bir örnektir.",
+      "url": "https://www.sefaria.org/Berakhot.56b"
+    },
+    {
+      "title": "Dreams in the Talmud | Sefaria",
+      "relevance": "Rüyada iki elin kesilmesinin el emeğine ihtiyaç duymadan geçinme şeklinde yorumlandığı Berakhot malzemesini sunar; 'kesik' imgesi için doğrudan yakın örnektir.",
+      "url": "https://prod.sefaria.org.il/sheets/233896"
+    },
+    {
+      "title": "Chapter XXIX - Auspicious and inauspicious dreams",
+      "relevance": "Hastalık bağlamında ‘cut’ sözcüğünün iyi alamet sayıldığı omen pasajını içerir; ‘kesme’ ifadesinin klasik Hint tıp-omen düşüncesindeki kullanımını gösterir.",
+      "url": "https://www.wisdomlib.org/hinduism/book/sushruta-samhita-volume-1-sutrasthana/d/doc122928.html"
+    },
+    {
+      "title": "Cut in dreams — meaning and symbolism",
+      "relevance": "Rüyada kesik imgesini kırılganlık, sınır aşımı ve enerjik koruma ihtiyacıyla ilişkilendiren modern ezoterik yorum sunuyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/cut"
+    },
+    {
+      "title": "Cut In Dreams - Dream Interpretation and Meaning of Cut in Dreams",
+      "relevance": "Kesme eylemini bağlardan kurtulma ve bırakma isteğiyle ilişkilendiren modern spiritüel yorum içeriyor.",
+      "url": "https://www.cafeausoul.com/oracles/dream-dictionary/cut/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "islamic"
+  ]
+}

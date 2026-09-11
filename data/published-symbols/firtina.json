@@ -1,77 +1,234 @@
 {
   "slug": "firtina",
   "title": "fırtına",
-  "shortDescription": "Rüyada fırtına görmek; yoğun baskı, ani değişim ve kontrol kaybı hissiyle ilişkilendirilebilir. Fırtınanın dinmesi veya ardından havanın açılması ise yaşanan karmaşanın ardından gelen rahatlama ya da netleşme duygusunu öne çıkarabilir.",
+  "shortDescription": "Fırtına, rüyalarda yoğun duygulanımın, içsel gerilimin ve ani dönüşümün eşiğini temsil eden güçlü bir doğa imgesidir.",
   "positiveAssociations": [
-    "Birikmiş duygusal gerilimin ani boşalması ve ardından gelen rahatlama hissi",
-    "Yağmur ve rüzgâr sonrası görülen zihinsel/duygusal netleşme",
-    "Fırtınayı atlatma deneyimiyle güçlenme veya sınır koyma yetisinin artması (güvenli bir yerden izleme bağlamında)"
+    "Dönüşüm ve arınma",
+    "Eski kalıpların dağılması",
+    "İçsel enerji akışı",
+    "Yeniden yapılanma ve tazelenme"
   ],
   "challengingAssociations": [
-    "Beklenmedik, yıkıcı değişim hissi veya dışsal kontrolün kaybolduğu duygusu",
-    "Yoğun kaygı, çaresizlik veya tehdit algısı",
-    "Fırtınanın yol açtığı somut zararlar (taşkın, çatı/altyapı hasarı gibi) ile ilgili kaygılar"
+    "Ani kargaşa ve kaos",
+    "Kontrol kaybı korkusu",
+    "Zorlayıcı geçiş dönemleri",
+    "Belâ ve sıkıntı olasılığı"
   ],
   "contextDependentAssociations": [
-    "Fırtınayı merkeze alıp içinde olmak (aktivite ve saldırganlık hissi) ile uzaktan sadece sesini duymak (uyarı/öngörü hissi) arasındaki fark",
-    "Fırtınanın şiddeti ve süresi — kısa, şiddetli fırtına ile uzun süreli fırtına farklı duygusal süreçlere işaret edebilir",
-    "Fırtınanın fiziksel sonuçları (sel, hasar) rüyanın tehdit algısını ve aciliyetini artırır"
+    "Sarsıntı ve güven arayışı arasındaki denge",
+    "İçsel gerilimin dışsal bir olay olarak yansıması",
+    "İman ve sükûnet sınavı"
   ],
   "commonVariations": [
     {
-      "title": "Ufukta Kara Bulutlar ve Uzakta Gök Gürültüsü",
-      "description": "Rüyada ufukta toplanan karanlık bulutları görmek ve uzaktan gelen gök gürültüsünü duymak, yaklaşan bir değişimi sezmeye veya endişeyi uzaktan gözlemleme durumuna işaret edebilir."
+      "title": "Denizde Yakalanılan Şiddetli Fırtına",
+      "description": "Açık denizde veya dalgalar arasında büyük bir fırtınaya yakalandığını görmek, hayatın akışındaki kontrol edilemeyen dalgalanmalara ve duygusal türbülanslara işaret eder."
     },
     {
-      "title": "Fırtınanın Merkezinde Savrulmak",
-      "description": "Şiddetli rüzgâr ve yağmur içinde yönünü kaybetmiş ya da mücadele halinde olmak, kişinin yaşamında yoğun bir baskı ya da kontrol kaybı hissinin simgesi olabilir."
+      "title": "Evde veya Güvenli Bir Sığınakta Fırtınayı İzlemek",
+      "description": "Fırtınayı dışarıda tutup içeriden izlemek, dış dünyadaki veya zihindeki kaosa rağmen içsel bir sükûnet ve korunma arayışını simgeler."
     },
     {
-      "title": "Fırtına Sonrası Açılan Güneş",
-      "description": "Fırtınanın dinmesiyle açan güneş ve sakinleşen hava, bir kriz sonrası gelen rahatlama, yeniden yapılanma veya zihinsel berraklık temasını çağrıştırır."
+      "title": "Fırtına Sonrası Açılan Güneş ve Aydınlık",
+      "description": "Karanlık ve sert bir fırtınanın ardından havanın durulması, zorlayıcı bir dönemin geride kalacağına ve zihinsel bir arınma yaşanacağına delalet eder."
     },
     {
-      "title": "Güvenli Bir İç Mekandan Fırtınayı İzlemek",
-      "description": "Evden veya barınaktan güvenli bir noktadan dışarıdaki şiddetli hava olaylarını izlemek, dışsal kaosa karşı kişisel sınırlar koyma ve güvenlik arayışıyla ilgili olabilir."
+      "title": "Ani Başlayan Gök Gürültülü ve Şimşekli Bora",
+      "description": "Beklenmedik bir anda patlak veren şimşekli ve gök gürültülü fırtına, ani bir uyarıya, sarsıcı bir farkındalığa veya ruhsal bir uyanış eşiğine işaret eder."
     }
   ],
-  "psychology": "",
+  "psychology": "Rüya raporlarının otomatik içerik analizine ilişkin araştırmalar, rüya metinlerinde tema ve duygu kategorilerinin yöntemsel olarak çıkarılabildiğini göstermektedir; ancak fırtına sembolüne doğrudan atfedilmiş ampirik bir bulgu yoktur.",
   "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist ve Hint düşünce geleneğinde şimşek, gök gürültüsü ve fırtına imgeleri genellikle güçlü doğal kuvvetler ve dönüştürücü enerji bağlamında ele alınır. Vajrayana'da Vajrapani gibi öfkeli koruyucu figürlerle şimşeğe atıfta bulunan mitolojik kullanımlar örneklenir; bunlar doğrudan rüya yorumu değil, dinsel ve mitolojik imgelerin parçası olarak değerlendirilmelidir.",
-  "spiritualApproaches": "",
+  "islamicTradition": "Klasik rüya tabirlerinde fırtına veya bora görmek genellikle uyarı niteliğindedir; çoğunlukla belâ ve sıkıntı, mal kaybı veya bazı kaynaklara göre ciddi bir hataya işaret edebileceği belirtilir.",
+  "christianTraditions": "Kutsal Kitap merkezli teolojik okumalarda fırtına, Tanrı'nın kudreti, ilahî hüküm, vahiy ve İsa'nın fırtınayı yatıştırması hikâyesi üzerinden bir iman sınaması, deneme dönemi veya güvene çağrı temasıyla ilişkilendirilir.",
+  "jewishTraditions": "Yahudi düşüncesinde fırtına imgeleri, ilahî yargı ile merhamet arasındaki gerilimi ve yoğun ruhsal tecrübeleri anlatan metaforlar arasında yer alır; rüya bağlamında bu durum zihinsel sarsıntı ve yoğun enerji hareketi olarak okunabilir.",
+  "buddhistEasternApproaches": "Budist ve Vedik geleneklerde fırtına, doğanın yıkıcı ve arındırıcı kudretini temsil eden atmosferik bir güç olarak görülür; zihnin değişken hareketlerini, sarsılma anlarını ve ardından gelen dinginlik arayışını simgeler.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yorumlarda fırtına, içsel sükûnetin sınandığı bir kaos anından ziyade katılaşmış kalıpları dağıtan, kişiyi yeniden yapılanmaya ve ruhsal uyanışa iten dinamik bir dönüşüm süreci olarak kabul edilir.",
   "comparisonTable": [
     {
-      "approach": "Doğu/Budist bağlam (kültürel-mitolojik)",
-      "interpretation": "Fırtına öğelerini, öğretinin etkileyici gücü ve koruyucu mitolojik figürlerle ilişkilendirir; vurgu mitolojik ve ritüel bağlamdadır.",
-      "evidenceLevel": "traditional"
-    }
-  ],
-  "commonGround": "Çoğu yaklaşım fırtınayı sıradan bir hava olayı olmaktan ziyade sarsıcı, dönüşüme açık ve duygusal yoğunluk taşıyan bir imge olarak değerlendirir.",
-  "differences": "Kimi geleneklerde (ör. bazı Doğu öğretileri) fırtına imgeleri mitolojik veya koruyucu güçlerle ilişkilendirilirken, modern spiritüel yorumlar daha çok kişisel arınma ve kriz sonrasındaki toparlanma temalarına odaklanır. Farklı kaynaklar bu iki kullanımın çakışmadığını göstermektedir.",
-  "inusAssessment": "Fırtına sembolü yoğun doğal güç, ani değişim ve gürültülü kaos unsurlarını bir arada taşıdığı için tekdüzeliğe indirgenemez. Rüyadaki anlam, fırtınanın şiddeti, rüyalayanın konumlanışı ve fırtınanın sonrasındaki durum gibi bağlamsal öğelerle birlikte değerlendirildiğinde daha açıklayıcı olur.",
-  "faq": [
-    {
-      "question": "Rüyada fırtına görmek kesin bir felaketin habercisi midir?",
-      "answer": "Hayır. Fırtına imgesi genellikle geleceği kestiren bir kehanet değil; yoğun duygusal çalkantı, uyarı veya ardından gelebilecek bir netleşme olasılığına işaret eden sembolik bir görüntü olarak değerlendirilir."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "İçsel gerilimin, baskılanmış içeriğin veya zihinsel taşmanın rüya dilindeki dolaylı yansıması.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Budist gelenekte fırtına ve şimşek nasıl bir anlam taşır?",
-      "answer": "Budist ve Hint bağlamlarında şimşek ve gök gürültüsü genellikle dönüştürücü enerji ve mitolojik koruyucu figürlerle ilişkilendirilir; bu ilişki rüya bağlamında doğrudan bir yoruma dönüşmez ve daha çok dinsel ve simgesel kullanımlarını açıklar."
+      "approach": "Geleneksel İslam Yaklaşımı",
+      "interpretation": "Zorluklar, belâ, mal kaybı ihtimali veya uyarı niteliğindeki ani değişimler.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojik Sentezi",
+      "interpretation": "İman sınaması, deneme dönemi, teslimiyet ve fırtına sonrası ilahî sükûnet çağrısı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Eski yapıların sarsılması, arınma, enerji dalgalanması ve ruhsal uyanış süreci.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenek ve yaklaşımlar fırtınayı ortak paydada ani sarsıntı, zorlayıcı geçiş ve düzenin sarsılması olarak ele alır.",
+  "differences": "Geleneksel okumalar fırtınayı çoğunlukla dışsal bir tehlike, kayıp veya ilahî sınav olarak konumlandırırken, psikodinamik ve spiritüel yaklaşımlar onu içsel dönüşüm, arınma ve zihinsel hareketliliğin bir aracı olarak değerlendirir.",
+  "inusAssessment": "Rüyadaki en belirleyici ayrıntı fırtınanın şiddeti değil; rüya sahibinin sığınağa ulaşıp ulaşamadığı ve fırtına sonrasındaki ortamın nasıl olduğudur. Bu unsurlar, yorumun korkudan dönüşüme kaymasına yol açabilir.",
+  "faq": [
+    {
+      "question": "Rüyada fırtına görmek her zaman kötü bir olaya mı işaret eder?",
+      "answer": "Hayır. Geleneksel tabirlerde zorluk veya uyarı olarak ele alınsa da, modern spiritüel ve psikolojik yaklaşımlar fırtınayı içsel bir arınma, eski kalıpların dağılması ve büyüme fırsatı olarak da değerlendirir."
+    },
+    {
+      "question": "Fırtına rüyasında bağlam neden bu kadar önemlidir?",
+      "answer": "Fırtınanın denizde, karada, açık havada veya bir binanın içinde yaşanması, rüya sahibinin o anki duygusal kontrolünü ve hayatındaki sarsıntıların kaynağını farklı biçimlerde yansıtır."
     }
   ],
   "sources": [
     {
-      "title": "Storms: Deification in the Vedas",
-      "relevance": "Vedik metinlerde fırtına tanrılarıyla ilgili tartışmaları ve Vajrayana bağlamında fırtına/şimşek imgelerinin mitolojik bağlantılarını ele alır.",
+      "title": "Our dreams, our selves: automatic analysis of dream reports - PMC",
+      "relevance": "Rüya raporlarının otomatik içerik analizinde tema ve duygu bileşenlerinin nasıl sınıflandırılabildiğini gösteren akademik çalışma; fırtına sembolüne doğrudan anlam atfetmez.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7481704/"
+    },
+    {
+      "title": "Sigmund Freud [1900] The Interpretation of Dreams ( ...",
+      "relevance": "Rüyanın bastırılmış istekle ilişkisini kuran temel Freud metni; fırtına imgesinin psikanalitik bir çerçevede yoğun duygu ve taşma olarak düşünülmesine arka plan sağlar.",
+      "url": "https://ia802907.us.archive.org/17/items/SigmundFreud/Sigmund%20Freud%20%5B1900%5D%20The%20Interpretation%20of%20Dreams%20(James%20Strachey%20translation,%201955).pdf"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/341 - Wikisource, the free online library",
+      "relevance": "Freud’un 'terrible storm outside' ifadesini içeren rüya örneği; fırtına, su ve taşma çağrışımlarının rüya dilindeki yerini gösterir.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/341"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/38 - Wikisource, the free online library",
+      "relevance": "Freud’un denizde fırtına içeren rüya örneği; doğal şiddet imgesinin rüyada anı ve duyusal çağrışım olarak belirebildiğini gösterir.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/38"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual: Artemidorus' The ...",
+      "relevance": "Artemidorus’un rüya kitabının akademik yayında yer alan kısmı, doğal olaylar ve mevsimsel işaretlerin rüya yorumunda nasıl işlendiğini gösterir; fırtına gibi hava olaylarını tarihsel yorum geleneği içinde konumlandırmak için temel bir metindir.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Oneirocritica’nın antik dünyada rüya yorumu için kapsamlı bir el kitabı olduğunu ve sınıflandırma/yorum yöntemleri sunduğunu özetler; fırtına sembolünün antik rüya düşüncesindeki yerini tarihsel çerçeveye oturtur.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Fırtına maddesini açıkça veren, rüyada fırtına ve boranın neye delâlet ettiğini aktaran derleme kaynak.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Biblical Meaning of a Storm in a Dream (KJV) | Bible Sundays",
+      "relevance": "Fırtına rüyasını deneme, güven ve Mesih’in otoritesi bağlamında ele alan Hristiyan yorum metni.",
+      "url": "https://www.biblesundays.com/dream-meanings/storm"
+    },
+    {
+      "title": "Topical Bible: The Storm",
+      "relevance": "Kutsal Kitap’ta fırtınaların Tanrı’nın kudreti, yargısı, vahyi ve İsa’nın fırtınayı dindirmesi üzerinden okunmasına dair toplu teolojik kaynak.",
+      "url": "https://biblehub.com/topical/t/the_storm.htm"
+    },
+    {
+      "title": "Berakhot 57b | The Sefaria Library",
+      "relevance": "Berakhot 57b’nin rüyaların anlamlılığına dair rabbanî çerçevesi; Yahudi rüya yorumunun temel metinsel zemini.",
+      "url": "https://www.sefaria.org/Berakhot.57b?lang=en"
+    },
+    {
+      "title": "Hurricanes of Love",
+      "relevance": "Fırtınayı ilahî enerji, sevgi ve ruhsal yoğunluk metaforu olarak kullanan Yahudi düşüncesi örneği.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/322205/jewish/Hurricanes-of-Love.htm"
+    },
+    {
+      "title": "The divine explanation for tornadoes",
+      "relevance": "Fırtına ve rüzgâr imgelerini Zohar geleneğinde ilahî yargı ve merhametle ilişkilendiren tartışma.",
+      "url": "https://www.jpost.com/judaism/article-803745"
+    },
+    {
+      "title": "Storm: Significance and symbolism",
+      "relevance": "Budist bağlamda fırtına ve zorlayıcı dönemler arasındaki sembolik ilişkiyi derleyen bir kaynak.",
+      "url": "https://www.wisdomlib.org/concept/storm"
+    },
+    {
+      "title": "Symbolism of Storm in Hinduism",
+      "relevance": "Hindu bağlamda fırtınanın arındırıcı ve yenileyici doğa gücü olarak ele alındığı bir sembol açıklaması.",
+      "url": "https://www.hinduwebsite.com/symbolism/symbols/storm.asp"
+    },
+    {
+      "title": "『대승기신론』의 물과 바람과 파도의 비유 연구 - 불교학연구회",
+      "relevance": "Budist metinlerde su, rüzgâr ve dalga benzetmelerinin zihnin değişkenliğiyle ilişkisini tartışan akademik çalışma.",
+      "url": "https://journal.kabs.re.kr/articles/article/azkG/"
+    },
+    {
+      "title": "Storms: Deification in the Vedas - RSIS International",
+      "relevance": "Vedalarda fırtınanın Rudra, İndra, Parjanya, Vāyu ve Marutlar gibi güçlerle bağlantısını ele alan çalışma.",
       "url": "https://rsisinternational.org/journals/ijrsi/articles/storms-deification-in-the-vedas/"
     },
     {
+      "title": "AN 5.197 Vassa Sutta: Rain - The Open Buddhist University",
+      "relevance": "Budist metinlerde yağmurun ve atmosferik olayların doğa ve koşul ilişkisi içinde yorumlandığı bir metin.",
+      "url": "https://buddhistuniversity.net/content/canon/an5.197"
+    },
+    {
+      "title": "Significance of Great storm",
+      "relevance": "Budist derlemelerde şiddetli fırtınanın kaos, korku ve ani dönüşümle ilişkilendirilişini gösteren bir kavram sayfası.",
+      "url": "https://www.wisdomlib.org/concept/great-storm"
+    },
+    {
       "title": "Thunder and lightning: Significance and symbolism",
-      "relevance": "Budist ve Hindu bağlamlarda şimşeğin ve gök gürültüsünün sembolik anlamlarına dair derleme niteliğinde bilgi sunar; fırtina temasının dönüştürücü ve öğretisel yönlerini özetler.",
+      "relevance": "Budist gelenekte gök gürültüsü ve şimşeğin Buda’nın sesi ve olağanüstü güçlerle bağlantısını gösteren derleme.",
       "url": "https://www.wisdomlib.org/concept/thunder-and-lightning"
+    },
+    {
+      "title": "The First Dream of King Pasenadi",
+      "relevance": "Rüyada bulut, gök gürültüsü, şimşek ve yağmur beklentisi içeren klasik bir Budist anlatı aktarımı.",
+      "url": "https://discourse.suttacentral.net/t/the-first-dream-of-king-pasenadi/36389"
+    },
+    {
+      "title": "Storms: Deification in the Vedas",
+      "relevance": "Vedik fırtına tasvirini ilahî güçler ve atmosferik hareketlerle ilişkilendiren ikinci bir çalışma.",
+      "url": "https://rsisinternational.org/journals/ijrsi/digital-library/volume-12-issue-7/2083-2088.pdf"
+    },
+    {
+      "title": "Significance of Storm and",
+      "relevance": "Purāṇik bağlamda fırtınayı saldırganlık ve ilahî meydan okuma ile ilişkilendiren açıklama.",
+      "url": "https://www.wisdomlib.org/concept/storm-and"
+    },
+    {
+      "title": "༄༅། །ན་ན་།",
+      "relevance": "Tibetçe Budist metinde yağış getiren rüzgâr düzeni ve kuraklıkta yağmur indiren dhāraṇī anlatısı.",
+      "url": "https://84000.co/translation/toh1063.pdf"
+    },
+    {
+      "title": "Dharma Rain",
+      "relevance": "Budist şiir ve öğreti geleneğinde yağmurun besleyici ve arındırıcı metafor olarak kullanımı.",
+      "url": "https://www.buddhistinquiry.org/article/dharma-rain/"
+    },
+    {
+      "title": "Significance of Dreadful storm",
+      "relevance": "Purāṇik bağlamda korkunç fırtınayı İndra ile ilişkili yıkıcı gök olayı olarak açıklayan kayıt.",
+      "url": "https://www.wisdomlib.org/concept/dreadful-storm"
+    },
+    {
+      "title": "Rüyada Fırtınada Sükunet: İçsel Güç ve Kaosun Huzuru",
+      "relevance": "Rüyada fırtına için modern bir spiritüel okuma sunuyor; fırtınayı arınma, yeniden yapılanma, manevi uyanış ve statükonun sarsılmasıyla ilişkilendiriyor.",
+      "url": "https://www.dreamandstars.com/blog/ruyada-firtina-ortasinda-sukuntle-durmak"
+    },
+    {
+      "title": "Storm in dreams — meaning and symbolism",
+      "relevance": "Rüyadaki fırtınayı ezoterik açıdan içsel alanı temizleyen, sertleşmiş yapıları kıran ve dönüşüm yaratan yoğun enerji hareketi olarak açıklıyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/storm"
+    },
+    {
+      "title": "12 Storm Symbolic Meanings in Dreams, the Bible & Myth",
+      "relevance": "Fırtınayı yaratım, yıkım ve yenilenme döngüsü içinde ele alıyor; rüya bağlamında çatışma ve yaratıcılıkla da ilişkilendiriyor.",
+      "url": "https://atlasmythica.com/storm-symbolism-meaning-bible-dreams/"
+    },
+    {
+      "title": "Storm Dream Meaning: Spiritual & Symbolic Interpretation",
+      "relevance": "Fırtına rüyasını ruhsal anlamda değişim, yenilenme ve içsel/enerjik hareketlenme ile ilişkilendiriyor; ezoterik yorum dili içeriyor.",
+      "url": "https://palomora.com/dreaming-of-storm-meaning/"
+    },
+    {
+      "title": "Spiritual Meaning of Dreaming About Storm",
+      "relevance": "Fırtına rüyasını sembolik ve ruhsal düzlemde duygusal ya da enerjik çalkalanma, büyüme ve dönüşümle ilişkilendiriyor.",
+      "url": "https://dreamingssign.com/spiritual-meaning-of-dreaming-about-storm/"
     }
   ],
   "relatedSlugs": []

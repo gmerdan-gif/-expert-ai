@@ -1,0 +1,208 @@
+{
+  "slug": "yara",
+  "title": "yara",
+  "shortDescription": "Rüyada yara görmek, acı, kırılganlık ve duygusal incinmelerle ilişkilendirilebilir. Taze ve kanayan yara yakın zamanda yaşanan bir sarsıntıyı ya da kaygıyı, iyileşen yara ise geçmişteki acıların geride kalmaya başladığını düşündürebilir.",
+  "positiveAssociations": [
+    "Şifa",
+    "Tövbe",
+    "Onarım",
+    "Arınma",
+    "Güç kazanma"
+  ],
+  "challengingAssociations": [
+    "Bedensel hasar",
+    "Ağrı ve travma",
+    "Duygusal tükenme",
+    "Maddi zarar",
+    "Rahatsız edici sözler"
+  ],
+  "contextDependentAssociations": [
+    "Yaranın kanayıp kanamaması",
+    "Yaranın bedendeki konumu",
+    "Eşlik eden duygusal ton",
+    "Rüya içindeki olayın zamansal konumu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kanayan Taze Yara",
+      "description": "Rüyada taze ve kanayan bir yara görmek, gündelik yaşamda süregelen bir acıya, yakın zamanda yaşanmış sarsıcı bir söze veya maddi kayıp endişelerine işaret edebilir."
+    },
+    {
+      "title": "Kan Akmayan Yara",
+      "description": "Vücutta oluşan ancak kanamayan yara, zorluklar karşısında direnç göstermeye, bir haksızlığa karşı üstünlük sağlamaya veya gizli bir gerilimin dışa vurumuna delalet edebilir."
+    },
+    {
+      "title": "Göğüs veya Kalpteki Yara",
+      "description": "Göğüs bölgesinde hissedilen ya da görülen yara, duygusal ilişkilerde alınan derin yaraları, kırılganlığı ve ruhsal hassasiyetin artmasını temsil eder."
+    },
+    {
+      "title": "İyileşmekte Olan Yara İzi",
+      "description": "Eski bir yaranın kabuk bağladığını veya iyileştiğini görmek, geçmişteki travma ve acıların geride bırakılmaya başlandığına, onarım ve içsel dönüşüm sürecine işaret eder."
+    }
+  ],
+  "psychology": "Ampirik psikoloji çalışmalarında yara imgesi, rüya raporlarındaki ağrı, kronik beden duyumları ve olumsuz duygulanım öğeleriyle doğrudan ilişkilendirilmektedir. Travma sonrası rüyalarda görülen yaralanma temaları, genellikle olayın birebir kopyasından ziyade uykuda baskın çıkan acı, tehdit ve kırılganlık duygularını sahneye koyar.",
+  "jungian": "",
+  "islamicTradition": "Geleneksel tabir kaynaklarında ve modern aktarımlarda yaranın durumu, yapılan yorumu doğrudan etkiler. Rüyada yaralandığını fakat kan akmadığını görmek, vuran kişiye karşı üstünlük sağlamaya ve menfaat elde etmeye yorumlanır; taze ve kanayan yara ise genellikle mal kaybı veya kırıcı sözlerle ilişkilendirilir.",
+  "christianTraditions": "Hristiyan sembolizminde yara, Mesih'in yaraları bağlamında acı ile ilahi şifa arasındaki bağı temsil eder. Bu çerçevede yara, insan kırılganlığını, günahın sonuçlarını ve ruhsal onarım ihtiyacını yansıtan teolojik bir işaret olarak okunur.",
+  "jewishTraditions": "Yahudi yorum geleneğinde yara imgesi doğrudan standart bir rüya girdisi olarak yer almasa da, bedensel zarar ve kanama öğeleri genel hesaplaşma ve arınma temaları çerçevesinde temkinli bir biçimde ele alınır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel yaklaşımlarda yara, henüz kapanmamış duygusal alanları, içsel hassasiyeti ve derin bir iyileşme ihtiyacını simgeler. Aynı zamanda ruhsal sınırların zayıfladığı bir döneme ve dönüşüm sürecine dikkat çeker.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Ağrı, beden duyumları ve travmatik duyguların rüyadaki yansımalarını inceler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Bedensel hasar imgesini bastırılmış çatışmaların ve ruhsal gerilimlerin dolaylı bir temsili olarak ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Yaranın kanayıp kanamamasına ve konumuna bağlı olarak maddi kazanç, zarar veya üstünlük bağlamında yorumlar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Yarayı acı, kırılganlık ve ilahi şifa arasındaki bağ çerçevesinde manevi bir onarım işareti olarak görür.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Spiritüel yaklaşımlar yara imgesini duygusal hassasiyetin, içsel dönüşüm çağrısının ve açığa çıkan duyguların bir simgesi olarak görür.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler yara imgesini doğrudan fiziksel bir zarardan öte, insanın yaşadığı acı, kırılganlık ve sarsıntı deneyimlerinin bir yansıması olarak ele alır.",
+  "differences": "Ampirik psikoloji rüyadaki beden duyumlarına ve duygusal tonlara odaklanırken, İslami ve geleneksel tabirler yaranın kanlı olup olmaması gibi somut görsel ayrıntılara göre net yönelimler sunar. Spiritüel okumalar ise süreci onarım ve şifa potansiyeli üzerinden değerlendirir.",
+  "inusAssessment": "Rüyada yara görmek, tek bir sabit anlama indirgenemeyecek kadar katmanlı bir semboldür. Yaranın vücuttaki yeri, taze mi yoksa kabuk bağlamış mı olduğu ve kanayıp kanamadığı rüyanın ruhsal karşılığını kökten değiştirir. Bu sembolü yorumlarken yalnızca acı veya zarar fikrine odaklanmak yerine, rüya sahibinin uykuda hissettiği baskın duyguyu ve yaranın eşlik ettiği sahne düzenini bir bütün olarak ele almak gerekir.",
+  "faq": [
+    {
+      "question": "Rüyada yara görmek her zaman fiziksel bir hastalığa mı işaret eder?",
+      "answer": "Hayır. Ampirik çalışmalar ve psikanalitik yaklaşımlar, rüyadaki yara imgesinin fiziksel bir rahatsızlıktan ziyade ruhsal gerilim, duygusal travma veya baskın bir acı hissinin dolaylı bir temsilcisi olabileceğini gösterir."
+    },
+    {
+      "question": "Yaranın kanayıp kanamaması rüya yorumunu nasıl etkiler?",
+      "answer": "Geleneksel tabirlerde kanayan yara maddi kayıp ya da sözlü incinmelerle ilişkilendirilirken, kan akmayan yara zorluklar karşısında direnç gösterme ve üstünlük elde etme temalarıyla bağdaştırılır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Physical pain, mental pain and malaise in dreams",
+      "relevance": "Rüya raporlarında ağrı ve fiziksel rahatsızlık öğelerinin varlığını gösteren çalışma; yara imgesinin bedensel acı ve zarar temasıyla ilişkisini araştırmak için kullanışlıdır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/9074"
+    },
+    {
+      "title": "Does chronic pain influence our dreams? A dream content analytical approach",
+      "relevance": "Kronik ağrı yaşayan kişilerde rüya içeriğinin nasıl kodlandığını ve olumsuz duygu ile beden duyumlarının nasıl ele alındığını inceleyen içerik analizi.",
+      "url": "https://link.springer.com/article/10.1007/s11818-023-00411-w"
+    },
+    {
+      "title": "Nightmare after trauma as paradigm for all dreams - PubMed",
+      "relevance": "Travma sonrası rüyalarda baskın duygunun öne çıkabildiğini ve rüyaların çoğu zaman olayı birebir duyusal olarak yansıtmak yerine duygusal olarak temsil ettiğini tartışan çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9823032/"
+    },
+    {
+      "title": "International Journal of Dream Research Volume 4, No. 1 (2011)",
+      "relevance": "Rüya içerik analizinde duyguların ayrı kategoriler halinde puanlandığını gösteren yöntemsel çalışma; yara imgelerinin duygu tonuyla birlikte değerlendirilmesi için önemlidir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/9074/2922"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Rüyalarda bedensel duyumların nasıl işlendiğini ve yara benzeri bedensel imgelerin rüya işleme süreci içinde nasıl yer alabileceğini gösteren temel Freud metni.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 5, part a",
+      "relevance": "Yara olarak hatırlanan bir beden imgesinin çocuklukta görülen genital sahneyle ilişkilendirildiği Freud örneği.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5a.htm"
+    },
+    {
+      "title": "SIGMUND FREUD [1920] Beyond The Pleasure Principle ( ...",
+      "relevance": "Travma, sarsıntı ve yaralanma ifadeleri üzerinden yara imgesinin psikanalitik travma düşüncesiyle ilişkisini kuran Freud metni.",
+      "url": "https://ia902907.us.archive.org/17/items/SigmundFreud/Sigmund%20Freud%20%5B1920%5D%20Beyond%20The%20Pleasure%20Principle%20(James%20Strachey%20Translation%201961).pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Oneirocritica'nın çevrimiçi çevirisi; Greko-Romen rüya yorum geleneğinde bedensel imgelerin nasıl işlendiğini gösteren temel metin.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual",
+      "relevance": "Artemidorus'un Oneirocritica'sında yaralar ve yara izlerinin hastalıklar, korku ve diğer bedensel durumlarla birlikte ele alındığını belirten akademik kaynak.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?guestAccessKey="
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Oneirocritica'yı beş kitaplık bir rüya yorumu el kitabı olarak tanıtan ve klasik rüya yorum yöntemini özetleyen kaynak.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Rüyada Yara, Yaralamak Görmek Ne Anlama Gelir?",
+      "relevance": "Rüyada yara ve yaralanma için modern bir İbn Sîrîn atfı sunar; kan çıkmaması durumunda güç ve menfaat yorumuna işaret eder.",
+      "url": "https://www.yenisafak.com/ruya-tabirleri/ruyada-yara-yaralamak-gormek-ne-anlama-gelir"
+    },
+    {
+      "title": "[PDF] İbni Sîrîn'den Tercüme Edilen Bir Rüya Tabîr-Nâmesi - SADAB",
+      "relevance": "İbn Sîrîn adına nispet edilen bir tabir metninin dijital nüshasına işaret eder; yara için doğrudan doğrulanmış ayrıntı sağlamaz.",
+      "url": "https://makale.isam.org.tr/server/api/core/bitstreams/c513adc0-7e40-4fcb-930b-660b5bc70fa0/content"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri Y Harfi",
+      "relevance": "Nablusî adıyla aktarılan rüya yorumlarında yara, kanayan yara ve kan akmayan yara için farklı anlamlar verilir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-y-harfi.html?m=1"
+    },
+    {
+      "title": "Happy Father's Day, Apostle David E. Taylor!",
+      "relevance": "Yara için modern Hristiyan rüya yorumunda Mesih’in yaraları, şifa ve tövbe dili etrafında örülen bir yorum çizgisi sunuyor.",
+      "url": "https://joshuamediaministries.org/dreams/wound/"
+    },
+    {
+      "title": "Biblical Meaning of a Wound in Dreams: What Scripture Says About Injury and Healing | The Dream Guidebook",
+      "relevance": "Yara, Hristiyan çerçevede acı ile şifa arasındaki sembolik ilişki üzerinden okunuyor ve yara imgesini teolojik anlamda yorumluyor.",
+      "url": "https://thedreamguidebook.com/biblical-meaning-of-wound-in-dreams/"
+    },
+    {
+      "title": "Topical Bible: The Wound",
+      "relevance": "Wound başlığı altında yara, günah, acı ve ilahi şifa temalarıyla bağlantılı bir İncilî sembol olarak sunuluyor.",
+      "url": "https://biblehub.com/topical/t/the_wound.htm"
+    },
+    {
+      "title": "Topical Bible: Sores/Wounds",
+      "relevance": "Yara ve benzeri bedensel acı imgeleri, kutsal metinlerde insan acısı, günahın sonuçları ve şifa ihtiyacıyla birlikte ele alınıyor.",
+      "url": "https://biblehub.com/topical/s/sores_wounds.htm"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot’un rüyalarla ilgili bölümlerine dair açıklama; Talmudik rüya çerçevesinin hangi bölümde işlendiğini gösterir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Wound Dreams: Meaning & Interpretation | Somniscient",
+      "relevance": "Rüyadaki yara imgesini açık bir biçimde duygusal acı, kırılganlık ve iyileşme ihtiyacıyla ilişkilendiriyor; modern spiritüel yorum çizgisi için doğrudan sembol materyali sağlıyor.",
+      "url": "https://somniscient.com/en/symbols/wound"
+    },
+    {
+      "title": "Wound in Dreams: Pain, Healing, and What Your Mind Might ...",
+      "relevance": "Yarayı rüya bağlamında görünür yaralanma, bakım ve içsel hassasiyet göstergesi olarak ele alıyor; çağdaş spiritüel okuma için ilgili ifade kümelerini topluyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/wound"
+    },
+    {
+      "title": "Spiritual Meaning of Wound in a Dream: Uncovering Emotional ...",
+      "relevance": "Yara rüyasını ruhsal zarar, duygusal travma ve iyileşme çağrısı ekseninde yorumluyor; modern spiritüel sembolizasyon için kullanılan bir okuma sunuyor.",
+      "url": "https://theindiespiritualist.com/spiritual-meaning-of-wound-in-a-dream/"
+    },
+    {
+      "title": "Dreaming About Wounds — Meaning & Symbolism",
+      "relevance": "Yarayı rüya sembolü olarak içsel acı, savunmasızlık ve onarım gereksinimiyle bağlıyor; spiritüel yorumlarda yinelenen ana temaları örnekliyor.",
+      "url": "https://lucid-oracle.com/dream-meaning/wounds/"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Yara rüyasını bitmeyen içsel mücadele, iyileşmeyen hasar ve dönüşüm süreciyle ilişkilendiriyor; spiritüel sembolizm içinde süreğen yaralanma temasını temsil ediyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/wounds-not-healing/"
+    }
+  ],
+  "relatedSlugs": []
+}

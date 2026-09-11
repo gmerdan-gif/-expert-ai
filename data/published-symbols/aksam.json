@@ -1,0 +1,272 @@
+{
+  "slug": "aksam",
+  "title": "akşam",
+  "shortDescription": "Rüyada akşam görmek, günün ya da bir dönemin kapanıp dinlenme ve değerlendirme zamanına geçildiğini simgeler. Alacakaranlık varsa, belirsizlik veya ertelenen bir kararla ilgili kaygılar öne çıkabilir.",
+  "positiveAssociations": [
+    "Eşik/geçiş anı (gündüzden içe dönüşe kayma)",
+    "Günün somut kapanışı (günlük rollerin sonlanması, yapılacakların tamamlanması)",
+    "Uykuya ve dinlenmeye hazırlanma, fiziksel gevşeme",
+    "Ritüel tefekküre, akşam duasına veya meşgalesine yönelme",
+    "Gün sonu muhasebesi: hesaplaşma, değerlendirme ve düzenleme"
+  ],
+  "challengingAssociations": [
+    "Alacakaranlık görsel belirsizliği: ayrıntıların kaybolması ve karar erteleme",
+    "Işığın azalmasıyla artan kaygı veya teyakkuz hissi",
+    "Karanlığın yayılması imgeleriyle bağlantılı belirsizlik veya kontrol kaybı duygusu",
+    "Psikolojik araştırmalar, akşama yakın sahnelerin daha olumsuz duygulanımlarla ilişkilendirilebildiğini göstermektedir."
+  ],
+  "contextDependentAssociations": [
+    "Çocukluk dönemiyle çağrışım kuran zaman işaretleri (Freudcu bağlamda biyografik/çağrışımsal işlev)",
+    "Gün içi bastırılmış duygu veya olayların akşam sahnelerine taşınması",
+    "Uyku öncesi zihinsel hazırlık, rüya farkındalığına hazırlayıcı rutinin yansıması",
+    "Toplumsal ve ritüel akşam uygulamalarının (dua, ibadet, toplu okumalar) rüya içindeki yankısı"
+  ],
+  "commonVariations": [
+    {
+      "title": "Komşuların ışıkları sönerken evin sessizleşmesi",
+      "description": "Evin veya mahallenin akşamla birlikte sessizleştiğini görmek, dış dünyanın işleyişinin geri plana çekildiğini ve rüya görenin içe dönük hesaplaşma veya yalnız düşünce zamanına girdiğini vurgular; akşamın toplumsal rutinlerinin sona ermesiyle bireysel değerlendirme öne çıkar."
+    },
+    {
+      "title": "Gün batımında yol ayrımında durmak",
+      "description": "Gün batarken bir kavşakta karar verememek, akşamın eşik niteliğini somutlaştırır: kararların ertelendiği, hangi yöne gidileceğinin belirsiz olduğu bir geçiş evresi olarak okunur."
+    },
+    {
+      "title": "Ezan, akşam duası veya toplu okuma anı",
+      "description": "Toplumsal ibadet veya adanma zamanının rüyada belirmesi, akşamın ritüel ve korunma işlevini temsil eder; bu, güven arayışı, teslimiyet veya manevi muhasebe temalarıyla ilişkilendirilebilir."
+    },
+    {
+      "title": "Gün batımında pencereden yavaşça sönen güneşi izlemek",
+      "description": "Pencere kenarında gün batımını izlemek, bir dönemin kapanışını ve aynı zamanda döngüsel yenilenme olasılığını vurgular; azalan ışık, rüya içinde hem kayıp hem de toparlanma umudunu bir arada çağrıştırır."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar, rüyalarda sahnenin günün hangi saatinde geçtiğinin duygusal tonu etkileyebileceğini ve özellikle geceye yakın sahnelerin daha olumsuz duygulanımlarla ilişkilendirildiğini göstermektedir.",
+  "jungian": "Jungcu çerçevede alacakaranlık/akşam, karşıtların sınırlandığı ve birleştirildiği ara hâl olarak okunur: bilinçten bilinçdışına geçişin simgesel zemini, enerji düşüşü ve potansiyel dönüşüm imgesiyle ilişkilendirilir. Akşam imgeleri, rüyanın bağlamına göre bilinçdışının iniş ve yeniden canlanma döngüsünü temsil edebilir.",
+  "islamicTradition": "Klasik İslami rüya tabiri metinlerinde akşam, sabahın zıddı ve karanlığın yayılmasıyla ilişkilendirilir; bu geleneğe göre akşamın rüyalarda görünmesi bağlamla birlikte değerlendirilmelidir; akşam rüyalarda görüldüğünde tek ve mutlak olarak olumlu ya da olumsuz bir anlama indirgenemez.",
+  "christianTraditions": "Hristiyan sembolik dilinde akşam, günün sonu, dinlenme ve dua vaktini çağrıştırır; rüyalarda akşam, bir dönemin kapanışı, teslimiyet veya ilahi korumaya ihtiyaç duygusuyla ilişkili bir eşik imgesi olarak yorumlanabilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde (Berakhot çerçevesi) rüyaların yorumla şekillendiği vurgulanır. Akşam, rabbanî yazılarda gündüzden geceye geçiş, belirsizlik ve içe dönüş temalarıyla bağdaştırılabilir; rüya yorumu bağlama göre yürütülmelidir.",
+  "buddhistEasternApproaches": "Budist uygulamalarda akşam, toplu okuma, adanma ve geceye hazırlık zamanıdır; bazı Tibet Budist rüya-yoga uygulamalarında akşam pratiği, uyku öncesi farkındalık ve rüya durumuna hazırlıkla bağlantılıdır.",
+  "spiritualApproaches": "Ezoterik/modern spiritüel okumalarda akşam, aktif ışığın azalmasıyla içe dönük farkındalığın arttığı, sessiz bir geçiş ve toparlanma zamanıdır; bu çerçevede akşam imgeleri, içsel çalışmaya veya döngüsel yenilenmeye işaret edebilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Günün saati rüyanın duygusal tonunu etkileyebilir; akşama yakın sahneler daha olumsuz duygularla ilişkilendirilebilir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Zaman göstergelerinin biyografik veya çağrışımsal işlev taşıması; akşam görüntülerinin çocukluk dönemi çağrışımları veya bastırılmış içeriklerle bağlantı kurabilmesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Alacakaranlık/ara-hal olarak akşam; bilinç ile bilinçdışı arasındaki sınır ve dönüşüm imgesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Akşamın sabahın zıddı olarak karanlıkla ilişkilendirilmesi; bağlama göre yorumlanan geleneksel aktarımlar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Akşamın ibadet, dinlenme ve teslimiyet temaları üzerinden dindar okuması.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Berakhot çerçevesi içinde rüyaların yorumla şekillendiği ve akşamın eşik/ara hâl olarak okunabileceği düşüncesi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşımı",
+      "interpretation": "Akşamın farkındalık, toplama ve rüya-yoga uygulamalarında uyku öncesi hazırlıkla ilişkilendirilmesi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik / Spiritüel",
+      "interpretation": "Işıktan gölgeye geçiş, içe dönüş ve yenilenme hazırlığı temaları.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşımda akşam, gündüz etkinliğinin sonlanması ve dıştan içe dönük bir faza girilmesiyle bağlantılı bir eşik motifi olarak ortaklaşır; bu, kapanış, değerlendirme ve uykuya/ibadete hazırlık temalarını içerir.",
+  "differences": "Yaklaşımlar arasındaki fark, ampirik psikolojinin akşamın rüya duygulanımını nicel bağlamda incelemesi; psikanaliz ve Jungcu teorinin akşamı çağrışımsal ve arketipsel süreçlerle ilişkilendirmesi; dini geleneklerin ise akşamı ritüel, teslimiyet veya korunma bağlamında yorumlamasında görülür.",
+  "inusAssessment": "Rüyada akşamın görülmesi, tek bir sabit anlamdan ziyade kapanış ve ara hâl işlevi bağlamında değerlendirilmelidir. Duygusal ton ve rüyanın kişisel bağlamı birlikte ele alındığında anlam kazanır.",
+  "faq": [
+    {
+      "question": "Rüyada akşam görmek her zaman olumsuz bir duruma mı işaret eder?",
+      "answer": "Hayır. Akşam rüyaları dinlenme, içe dönüş, manevi tefekkür veya bir dönemin sonlanması gibi olumlu temalar taşıyabilir; aynı zamanda ışığın azalmasıyla beliren belirsizlik veya kaygı duygularını da yansıtabilir. Bağlam ve duygusal ton belirleyicidir."
+    },
+    {
+      "question": "Rüyada akşam vakti ile gece arasında bir fark var mıdır?",
+      "answer": "Evet. Akşam genellikle gündüzden geceye geçişi, alacakaranlık eşik hâlini vurgular. Gece rüyaları ise daha derin bilinçdışı katmanlar, karanlık ve daha yoğun duygusal tonlarla ilişkilendirilebilir. Bu ayrım bağlam içinde değerlendirilmelidir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nighttime in dreams - PubMed",
+      "relevance": "Rüyalarda sahnenin günün hangi saatinde geçtiğinin duygusal tonu etkilediğini ve geceye veya akşama yakın sahnelerin daha olumsuz duygulanımlarla ilişkilendirilebildiğini gösterir.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22755450/"
+    },
+    {
+      "title": "[PDF] Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizi yöntemleri ve zaman göstergelerinin (ör. akşam) içerik içinde sistematik şekilde ele alınması gerektiğine dair yöntemsel çerçeve sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "A Novel Approach to Dream Content Analysis Reveals Links ...",
+      "relevance": "Rüya imgelerinin uyanık yaşantılarla semantik bağlarını ölçmenin mümkün olduğunu gösterir; akşam imgelerinin bağlamsal incelenmesini destekler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6088287/"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Rüyada geçen saat ve zaman göstergelerinin bazen çocukluktaki dönemlere çağrışım yapabildiğine dair klasik psikanalitik gözlemi içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyalarda bastırılmış içeriklerin simgesel olarak ortaya çıkması ve zaman öğelerinin çağrışımsal işlevi hakkında temel psikanalitik çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Jung Lexicon",
+      "relevance": "Akşam/alacakaranlık imgelerinin bilinç-bilinçdışı sınırı ve dönüşüm motifleriyle ilişkilendirilmesine dair Jungcu temsili örnekler sunar.",
+      "url": "https://jungpage.org/learn/jung-lexicon"
+    },
+    {
+      "title": "4. The Place of Time",
+      "relevance": "Günlük zaman bölünmeleri bağlamında alacakaranlığı, karşıtları hem ayıran hem de birleştiren bir eşik olarak açıklar; akşamın sınır/ara-hâl niteliğini destekler.",
+      "url": "http://www.symbolism.org/writing/books/sp/4/page3.html"
+    },
+    {
+      "title": "Carl Jung's Original Dream Interpretation Method - Rafael Krüger",
+      "relevance": "Rüya imgelerinin sembolik okunması ve rüyanın bilinçdışının durumunu sembolik biçimde sergilemesi fikrini verir; akşam imgeli rüyanın doğrudan değil, bağlama bağlı yorumlanması gerektiğini destekler.",
+      "url": "https://www.rafaelkruger.com/the-art-of-dream-interpretation/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation - Attalus.org",
+      "relevance": "Tarihsel oneirokritik çerçevede rüyaların bağlam içinde yorumlanması gerektiğini gösterir; 'akşam' için doğrudan sabit bir madde sunulmadığını destekleyen bir perspektif sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Oneirocritica'nın tarihsel konumunu, kapsamını ve rüya yorum geleneği içindeki yerini özetler.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of the Interpolating ...",
+      "relevance": "Artemidorus'un rüyaları 'enhypnia' ve 'oneiroi' ayrımı bağlamında tartıştığını belirtir; metinde geçen Yunanca terimlerin parantez içinde kısa Türkçe karşılıklarıyla verilmesinin okuyucu için yararlı olacağına işaret eder.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus'un rüya dili ve terminolojisi üzerine sözlükbilimsel bir inceleme sunduğunu; metinde geçen 'oneiros' ve 'enhypnion' gibi yabancı terimlerin kısa Türkçe açıklamalarının eklenmesinin faydalı olacağını önerir.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Klasik İslami rüya tabirlerinde akşamın sabahın zıddı ve karanlığın yayılmasıyla ilişkilendirildiğine dair örnek aktarımlar içerir.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "What is the significance of evening and morning? - BibleAsk",
+      "relevance": "Yaratılış bağlamında akşam ve sabahın teolojik döngüsü; akşamın geçiş ve yenilenme sembolizmi.",
+      "url": "https://bibleask.org/what-is-the-significance-of-evening-and-morning/"
+    },
+    {
+      "title": "Topical Bible: Evenings",
+      "relevance": "Kutsal metinlerde akşamın ibadet, dinlenme ve geçiş zamanını gösteren genel biblical tema özeti.",
+      "url": "https://biblehub.com/topical/e/evenings.htm"
+    },
+    {
+      "title": "Topical Bible: Evening, after sunset",
+      "relevance": "Akşamın dua ve adanmışlık diliyle ilişkilendirilmesi; akşam kurbanı ve akşam duası teması.",
+      "url": "https://biblehub.com/topical/e/evening,_after_sunset.htm"
+    },
+    {
+      "title": "Topical Bible: Symbolism of Evening",
+      "relevance": "Akşamın gün ışığından karanlığa geçiş olarak eşik, hazırlık ve teyakkuz sembolizmi.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_evening.htm"
+    },
+    {
+      "title": "Topical Bible: The Evening: Paschal Lamb Killed In",
+      "relevance": "Akşam saatinin kutsal ibadet ve kurban bağlamı; akşamın adanmışlık vakti olarak okunması.",
+      "url": "https://biblehub.com/topical/ttt/t/the_evening--paschal_lamb_killed_in.htm"
+    },
+    {
+      "title": "Bible Encyclopedia on Evening - SermonIndex",
+      "relevance": "Akşamın yaşamın son evresi, gölgelerin düşmesi ve ilahi korumaya ihtiyaç olarak yorumlanması.",
+      "url": "https://www.sermonindex.net/encyclopedia/e/evening/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Yahudi geleneğinde rüyaların yorumlanmasının bağlama ve yorum sürecine bağlı olduğunu vurgulayan rabbanî çerçeveyi sunar; akşamın eşik niteliği ile ilişkilendirilebileceğine dair tematik bağlantı sağlar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Yahudi geleneğinde rüyaların yorumlanması ve bazı rüya imgelerinin nasıl ele alındığına dair genel çerçeve sunar.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "At Tara in this Fateful Hour (Berakhot 2a-5b)",
+      "relevance": "Berakhot başlangıç sayfalarındaki gece, uyku ve korunma temaları üzerinden rüya bağlamına yakın bir rabbanî çerçeve sunar.",
+      "url": "https://hadran.org.il/beyond-the-daf/berakhot-2a-5b/"
+    },
+    {
+      "title": "Shiur 3 - Berachot 3 a - The Divisions of Night and the Presence of ...",
+      "relevance": "Akşamın rabbanî kaynaklarda eşik ve geçiş zamanı olarak ele alınışını, özellikle gece bölünmeleri ve akşam kavramı bağlamında gösterir.",
+      "url": "https://ravmayer.org/lessons/shiur-3-berachot-3-a-the-divisions-of-night-and-the-presence-of-the-shekhinah/"
+    },
+    {
+      "title": "Evening . . . Mixtures and Beauty - Jewish Theological Seminary",
+      "relevance": "Akşamın Yahudi teolojik dilinde geçiş ve dönüşüm zamanı olarak anlaşılmasına dair sembolik bir okuma sunar.",
+      "url": "https://www.jtsa.edu/torah/evening-mixtures-and-beauty/"
+    },
+    {
+      "title": "Day and Night",
+      "relevance": "Gece ve karanlığın Yahudi sembolizminde korku, tehlike ve düzensizlikle ilişkilendirilmesini gösterir.",
+      "url": "https://jewishvirtuallibrary.org/day-and-night"
+    },
+    {
+      "title": "The Daily Zen Sutras",
+      "relevance": "Budist uygulamalarda akşamın toplu okuma, adanma ve geceye hazırlık zamanı olarak kullanıldığını gösterir; akşamın ruhsal hazırlık işlevine delil sunar.",
+      "url": "https://www.hinduwebsite.com/sacredscripts/dailyzen.asp"
+    },
+    {
+      "title": "Evening: Significance and symbolism",
+      "relevance": "Budizm içinde akşamın geçiş, tefekkür ve ruhsal yöneliş zamanı olarak ele alındığını gösteren kavramsal sayfa.",
+      "url": "https://www.wisdomlib.org/concept/evening"
+    },
+    {
+      "title": "Night: Significance and symbolism",
+      "relevance": "Budist metinlerde geceyle bağlantılı dikkat, öğrenme ve ruhsal uyanıklık temalarını derleyen kavramsal sayfa.",
+      "url": "https://www.wisdomlib.org/concept/night"
+    },
+    {
+      "title": "Post navigation",
+      "relevance": "Tibet Budist rüya-yoga pratiğinde akşamın uyku öncesi hazırlık ve rüya durumunu tanıma bağlamı.",
+      "url": "https://www.sangye.it/altro/?p=1359"
+    },
+    {
+      "title": "What is the meaning of dreaming about the evening?",
+      "relevance": "Rüyada akşamın genellikle geçiş, kapanış, içe dönüş ve dinlenme temalarıyla yorumlandığını belirten modern bir rüya sayfası.",
+      "url": "https://greatdictionarydreams.com/places/evening/"
+    },
+    {
+      "title": "Evening in Dreams: Thresholds, Endings, and the Quiet Work of ...",
+      "relevance": "Rüyada akşamı eşik, kapanış ve sessiz iç gözlem zamanı olarak ele alan modern yorum yazısı.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/evening"
+    },
+    {
+      "title": "Evening in dreams — meaning and symbolism",
+      "relevance": "Akşamı ezoterik düşüncede aktif ışık ile sezgisel gölge arasında bir kapı olarak tanımlayan sembolik yorum sayfası.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/evening"
+    },
+    {
+      "title": "Evening Dream Meaning: Transitions and Reflection Symbolism",
+      "relevance": "Rüyada akşamı kapanan bir bölüm, zihinsel-duygusal geçiş ve dinlenmeye hazırlık olarak okuyan modern spiritüel metin.",
+      "url": "https://dreamatlas.ai/en-US/symbols/e/evening"
+    }
+  ],
+  "relatedSlugs": []
+}

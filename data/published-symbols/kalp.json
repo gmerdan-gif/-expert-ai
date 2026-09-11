@@ -1,130 +1,269 @@
 {
   "slug": "kalp",
   "title": "kalp",
-  "shortDescription": "Rüyada kalp görmek, iç dünyanızın, derin duygularınızın ve niyetlerinizin öne çıktığını gösterebilir. Güçlü ve huzurlu bir kalp içsel denge ve netlik arayışını; yaralı ya da sıkışmış bir kalp ise duygusal sarsıntı, baskı veya çözülmemiş bir çatışmayı yansıtabilir.",
+  "shortDescription": "Kalp sembolü rüyalarda sabit ve tek bir anlama indirgenemeyen, psikanalitik temsillerden kültürel ve içsel yönelimlere kadar geniş bir anlam yelpazesine sahip çok katmanlı bir imgedir.",
   "positiveAssociations": [
-    "Duygusal bütünleşme",
-    "İçsel samimiyet ve dürüstlük",
-    "Ruhsal farkındalık ve niyet",
-    "Şefkat ve bağ kurma kapasitesi"
+    "İçsel bütünlük ve merkez",
+    "Sevgi ve şefkat kapasitesi",
+    "Güçlü niyet ve vicdani yönelim",
+    "Ahlaki ve ruhsal safiyet",
+    "Cesaret ve iç denge arayışı"
   ],
   "challengingAssociations": [
-    "İçsel çatışma ve vicdani yük",
-    "Ahlaki veya niyetsel bozulma korkusu",
-    "Duygusal tıkanıklıklar",
-    "Karar verme sürecindeki belirsizlikler"
+    "İçsel karmaşa ve dinî veya ahlaki problemler",
+    "Duygusal alanın tıkanması veya dengesizliği",
+    "Korkutucu bedensel sonlanma veya ölüm imgeleri ve sıkışma hissi",
+    "Aşırı yüklenme ve sorumluluk baskısı"
   ],
   "contextDependentAssociations": [
-    "Kalbin fiziksel durumu veya sağlığı",
-    "Rüyadaki diğer sembollerle kurulan ilişki",
-    "Uyanık yaşamdaki duygusal kararların yansıması"
+    "Rüyanın duygusal tonu ve bağlamı",
+    "Uyanıkken zihni meşgul eden düşünceler",
+    "Kalbin rüyadaki fiziksel durumu ve hareketleri"
   ],
   "commonVariations": [
     {
-      "title": "Çarpıntı Hissetmek",
-      "description": "Rüyanda kalbinin aşırı hızlı çarptığını veya sıkıştığını görmek, uyanık yaşamda baskı altında hissedilen duygusal kararlarla veya içsel yoğunlukla ilişkilendirilebilir."
+      "title": "Kalbin şiddetli çarpması",
+      "description": "Rüya sırasında kalbin göğüsten fırlayacak gibi atması ya da şiddetle çarpması, uyanık yaşamdaki yoğun duygusal yönelimler, aşk temaları veya içsel sıkışma halleriyle ilişkilendirilir."
     },
     {
-      "title": "Sağlıklı ve Güçlü Bir Kalp",
-      "description": "Rüyanda huzurlu atan ya da belirgin görünen bir kalp hissetmek, niyetlerin netliği ve içsel denge arayışına işaret edebilir."
+      "title": "Kalbin bedenden çıkması",
+      "description": "Kalbin göğüsten ayrıldığını veya dışarıda görüldüğünü deneyimlemek, kişinin iç dünyasından uzaklaşması, kontrol kaybı veya kontrol yeteneğinde köklü değişiklikler işaret edebilir."
     },
     {
-      "title": "Yaralı veya Hasarlı Kalp",
-      "description": "Kalpte bir yara veya kırıklık hissi, yakın zamanda yaşanan duygusal bir sarsıntının veya çözülmemiş bir içsel çatışmanın zihinsel izdüşümüdür."
+      "title": "Kalbin kararması veya yaralanması",
+      "description": "Kalpte kararma, lekeler veya yaralar fark edilmesi, ahlaki ya da içsel sorunları, tövbe ihtiyacını veya vicdani bir yükün yol açtığı huzursuzluğu yansıtabilir."
     },
     {
-      "title": "Kalp Merkezinde Isı veya Aydınlık",
-      "description": "Göğüs kafesinin ortasında, kalp bölgesinde yoğunlaşan bir sıcaklık veya ışık algısı, içsel dönüşüm ve farkındalık süreçlerinin sembolik bir ifadesidir."
+      "title": "Sakin ve dengeli kalp merkezi",
+      "description": "Rüyada kalbin merkezinde bir huzur, ışık veya denge hissetmek, kişinin içsel bütünlüğe yaklaşması, niyetinin samimiyeti ve duygusal berraklık arayışıyla okunur."
     }
   ],
-  "psychology": "",
-  "jungian": "Jungcu okumada kalp, benlik merkezini, duygulanımın ve anlamın birleştiği yeri temsil eden bir sembol olarak yorumlanabilir. Bu çerçevede kalp simgesi, duygu ile anlamın ve içsel bütünleşmenin kesişim noktası olarak ele alınır.",
-  "islamicTradition": "İslami rüya geleneğinde kalp, kişinin imanını, niyetini ve iç durumunu temsil eden merkezî bir sembol olarak yorumlanır; kalbin sağlıklı, kararmış ya da bozulmuş görünmesi ruhsal ve ahlaki hâle işaret eden bir rüya motifi olarak ele alınır.",
-  "christianTraditions": "Hristiyan ve Kutsal Kitap bağlamında kalp, kişinin iç dünyasını, niyetini, düşünce ve iradesini temsil eden merkezî bir sembol olarak ele alınır; bu kullanım rüya yorumu değil, genel kutsal metin sembolizmidir.",
-  "jewishTraditions": "Yahudi geleneksel sembolizminde kalp, İbranice lev kavramıyla kişinin içsel yönelimini, merkezi benliğini ve ruhsal/ahlaki merkezini ifade eder; bu kullanım doğrudan rüya tabirinden ziyade genel dinsel sembolizmdir.",
-  "buddhistEasternApproaches": "Budist ve Doğu geleneklerinde kalp merkezi, Anāhata (kalp çakrası) olarak dördüncü merkezde yer alır. Tibet Budizmi bağlamında kalp merkezi, bilinçle, aydınlanma uygulamalarıyla ve Dharmakāya ile ilişkilendirilen önemli bir iç merkez olarak ele alınır.",
-  "spiritualApproaches": "",
+  "psychology": "Psikanalitik ve teorik çerçevede kalp, rüyanın açık içeriğinde görünen nesnelerin altında yatan bedensel dürtülerin ve organ temsillerinin dolaylı bir dışavurumu olarak ele alınabilir. Freud, rüyada organların ve bedensel uyarımların farklı nesneler aracılığıyla temsil edilebileceğini belirtir. Bununla birlikte, modern ampirik psikolojide doğrudan \"kalp rüyası\" için genelgeçer bir kural yoktur; bu imge daha çok kişinin uyanık yaşamdaki kaygılarının ve beden farkındalığının zihinsel bir yansımasıdır.",
+  "jungian": "Jungcu analizde kalp, merkeze, iç yaşama ve psişik bütünlüğe yakın bir sembol olarak değerlendirilir. Mandala ve merkez sembolizmiyle birlikte ele alındığında, kalp bireyleşme sürecinin, içsel şifanın ve dönüşüm ekseninin bir parçası haline gelir. Duygulanımın ve kişisel yönelimin odağı olan kalp, sabit bir anlam taşımaktan ziyade rüyanın bütünündeki dönüşüm temasına ve duygusal tona göre anlam kazanır.",
+  "islamicTradition": "İslami rüya yorum geleneğinde kalp, insanın iç hali, niyeti, dini durumu, aklı ve irade gücüyle ilişkilendirilir. Kalbin rüyadaki sağlıklı, ışıklı ya da düzgün olması olumlu bir iç duruma işaret ederken, kararması, yaralanması veya göğüsten çıkması gibi durumlar içsel ve ahlaki problemlere, tövbe ihtiyacına ya da sorumluluklara dair farklı sembolik okumalara zemin sunar.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde kalp, kişinin Tanrı önündeki iç dünyasını, niyetini, sevgisini ve karakter bütünlüğünü simgeleyen merkezi bir imgedir. Rüyada kalp görülmesi doğrudan bir rüya doktrini olmaktan ziyade, içsel durumun, merhametin, sadakatin veya ahlaki-ruhsal safiyetin (kalbin arınması) görünür hâle gelmesi şeklinde okunur.",
+  "jewishTraditions": "Yahudi düşüncesinde kalp, düşünce, niyet ve iç yönelimin merkezi olarak işlev görür. Talmudik metinlerde (örneğin Berakhot 55b) rüyaların kişinin uyanıkken zihninde ve 'kalbinde taşıdığı düşünceler' ile sınırlı olduğu vurgulanır; bu bağlamda rüyadaki kalp motifi, gündüz zihnini meşgul eden arzular ve vicdani yönelimlerle doğrudan bağlantılıdır.",
+  "buddhistEasternApproaches": "Budist gelenekte Heart Sūtra (Kalp Sūtra, Hṛdaya) bağlamında değerlendirilen 'kalp' kavramı, fiziksel bir organdan ziyade metnin özünü, çekirdeğini ve boşluk öğretisini simgeler. Rüyaya yansıyan kalp imgesi bu yaklaşımda sabit bir nesne anlamından uzaklaşarak içsel farkındalık, zihinsel yönelim ve anlam merkezi temalarıyla ilişkilendirilebilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda kalp, rüyada çoğunlukla duygusal merkez, içsel hakikat ve yaşam ilkesi olarak ele alınır. Kalbin rüyada belirmesi; sevgi ve şefkat kapasitesinin durumunu, iç denge arayışını, arınma süreçlerini ya da kişinin kendi ruhsal merkezine yaklaşma çabasını simgeleyen bir odak noktasıdır.",
   "comparisonTable": [
     {
-      "approach": "Jungcu Analitik Psikoloji",
-      "interpretation": "Kalbi benlik merkezinin, duygulanım ile anlamın bütünleştiği noktanın bir sembolü olarak görür.",
+      "approach": "Psikanaliz",
+      "interpretation": "Bedensel organ temsillerinin ve gizli dürtülerin dolaylı dışavurumu.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami Rüya Geleneği",
-      "interpretation": "Kalbi iman, niyet, basiret ve kişinin iç durumunun ahlaki göstergesi olarak kabul eder.",
+      "approach": "Jungcu analiz",
+      "interpretation": "Merkez, iç yaşam, psişik bütünlük ve dönüşüm sembolü.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "İç niyet, dini durum, akıl, ahlaki yönelim ve idare gücü.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Kutsal Metin Sembolizmi (Hristiyanlık ve Yahudilik)",
-      "interpretation": "Kalbi iradenin, düşüncenin ve içsel yönelimin merkezi olarak tanımlar.",
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "İç insan, niyet, merhamet ve ruhsal safiyet.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu ve Tantrik Gelenekler",
-      "interpretation": "Kalp merkezini (Anāhata) bilinç, dönüşüm ve içsel enerji akışının odak noktası sayar.",
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Gündüz zihninin ve kalbin düşüncelerinin rüyaya yansıması.",
       "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Zihinsel yönelim, öz ve boşluk öğretisi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik / Spiritüel",
+      "interpretation": "Duygusal merkez, yaşam ilkesi ve içsel arınma odağı.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenek ve yaklaşımların çoğunda kalp, basit biyolojik bir organdan öte; insanın iç dünyasının, niyetlerinin, derin duygularının ve özünün merkezi olarak konumlandırılır.",
-  "differences": "Psikolojik yaklaşımlar kalbi bireyleşme ve içsel bütünleşme bağlamında ele alırken, dini ve geleneksel yaklaşımlar onu iman, ahlaki değerler, niyet ve manevi yönelim ekseninde değerlendirir.",
-  "inusAssessment": "Kalp sembolü, hem tarihi-kültürel evrimi hem de farklı geleneklerdeki çok katmanlı yapısı nedeniyle tek boyutlu indirgemelere karşı dirençlidir. Rüyada görülen kalbin ne anlama geldiği, rüya görenin içsel yönelimlerine, bağlama ve simgenin rüyadaki durumuna göre esneklik gösterir; bu nedenle dogmatik bir hükümden ziyade bireyin içsel sorgulamasını destekleyen bir araç olarak ele alınmalıdır.",
+  "commonGround": "Farklı gelenekler ve teorik yaklaşımlar arasında kalp, sabit bir organ olmaktan öte, insanın iç dünyasının, niyetlerinin ve merkezi yönelimlerinin bir aynası olarak ortaklaşa kabul edilir.",
+  "differences": "Psikanaliz kalbi bedensel uyarımlar ve dürtüsel temsil ekseninde ele alırken, İslami ve Hristiyan gelenekleri ahlaki-ruhsal duruma odaklanır. Jungcu ve ezoterik yaklaşımlar ise imgeyi bütünleşme, merkezlenme ve duygusal denge bağlamında yorumlar.",
+  "inusAssessment": "Kalp sembolü rüyada belirdiğinde onu sıradan bir nesne ya da tek anlamlı bir kehanet olarak ele almak yerine, rüyanın genel duygusal tonuna ve fiziksel detaylarına bakmak gerekir. Kalbin şiddetli çarpması, kararması veya sakin bir merkezde hissedilmesi gibi ayrıntılar, kişinin uyanık yaşamındaki vicdani yükleri, duygusal tıkanıklıkları ya da içsel bütünleşme arayışının hangi yönde deneyimlendiğini belirleyen en kritik unsurlardır.",
   "faq": [
     {
-      "question": "Rüyadaki kalp sembolü her zaman aşkla mı ilgilidir?",
-      "answer": "Hayır. Tarihsel ve kültürel bağlamda kalp sembolü her ne kadar aşkla ilişkilendirilse de rüyalarda niyet, içsel durum, ahlaki yönelim ve bilinç merkezi olarak da karşımıza çıkar."
+      "question": "Rüyada kalp görmek kesinlikle aşk veya ilişki anlamına mı gelir?",
+      "answer": "Hayır. Kalp imgesi popüler kültürde sıklıkla romantik ilişkilere indirgense de, rüya bağlamında iç niyet, ahlaki durum, vicdani yönelimler veya bedensel farkındalık gibi çok daha geniş bir anlam alanını kapsar."
     },
     {
-      "question": "Kalp sembolü dini geleneklerde nasıl ele alınır?",
-      "answer": "İslami, Hristiyan ve Yahudi geleneklerinde kalp genellikle kişinin niyetini, iç dünyasını, iradesini ve manevi duruşunu temsil eden sembolik bir merkez olarak kabul edilir."
+      "question": "Kalbin sıkışması veya ağrıması rüyada neyi ifade eder?",
+      "answer": "Rüyadaki bu tür fiziksel baskı veya sıkışma halleri, uyanık yaşamda taşınan duygusal yüklerin, sorumluluk baskısının ya da içsel çatışmaların zihinsel ve bedensel bir yansıması olarak okunabilir."
     }
   ],
   "sources": [
     {
-      "title": "Psychology of the Heart",
-      "relevance": "Kalbin duygu, irade, düşünme ve benlik merkezi olarak ele alınmasına dair derleme ve kuramsal arka plan sunar; kalp sembolünün psikolojik ve kültürel anlam katmanlarını anlamak için yararlıdır.",
-      "url": "https://muse.jhu.edu/pub/174/monograph/book/125342"
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Rüyada kalbin boş kutular veya sepetler gibi nesnelerle temsil edildiğine dair doğrudan psikanalitik örnekler içerir.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
     },
     {
-      "title": "Heart in anatomy history, radiology, anthropology and art",
-      "relevance": "Kalp imgesinin sanat, antropoloji ve tarih içindeki görsel gelişimini ve kalbin kültürel-sembolik konumunu özetler; kalp biçiminin tarihsel anlam evrimi için uygundur.",
-      "url": "https://journals.viamedica.pl/folia_morphologica/article/view/FM.2014.0018/34199"
+      "title": "[PDF] THE INTERPRETATION OF DREAMS - Lutecium Network",
+      "relevance": "Kalp hastalığı olan kişilerin rüyalarında kalp temalı korkutucu sonlanmaların görülebileceğini ve kalbin sembolik temsilini belirtir.",
+      "url": "https://www.lutecium.org/ftp/Freud/pdf/1900_the_interpretations_of_dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 5, part b",
+      "relevance": "Freud'un, kalbin boş kutular ve sepetlerle temsil edildiğine ilişkin pasajı aktarır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5b.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüya sembolizmine ilişkin uzun metnini ve kalbin rüyada temsiline dair pasajı içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Symbolism, the Primary Process, and Dreams: Freud's Contribution",
+      "relevance": "Freud'un rüya sembolizmi ve dolaylı temsil kavramını tartışan akademik bölüm; kalp imgesinin yorumlanabileceği teorik çerçeveyi destekler.",
+      "url": "https://academic.oup.com/edited-volume/28270/chapter/213427944"
+    },
+    {
+      "title": "Mandala Symbolism: (From Vol. 9i Collected Works) 9781400886043 - DOKUMEN.PUB",
+      "relevance": "Jung’un merkez ve mandala sembolizmi içinde kalbin merkezde yer alabilen bir öğe olarak anılması, kalp imgesini bütünlük ve merkez temalarıyla ilişkilendirmek için temel sağlar.",
+      "url": "https://dokumen.pub/mandala-symbolism-from-vol-9i-collected-works-9781400886043.html"
+    },
+    {
+      "title": "[PDF] vol-18-The-Symbolic-Life-by-C-G-Jung.pdf",
+      "relevance": "Jung’un sembol ve rüya yorumuna ilişkin genel çerçevesi, kalp imgesinin tek sabit anlamla değil bağlamla okunması gerektiğini destekler.",
+      "url": "https://jungiancenter.org/wp-content/uploads/2023/09/vol-18-The-Symbolic-Life-by-C-G-Jung.pdf"
     },
     {
       "title": "The Alchemical Heart: A Jungian Approach to the Heart Center in the Upanisads and in Eastern Christian Prayer",
-      "relevance": "Jungcu analitik psikoloji bağlamında kalp imgesinin benlik, bütünleşme ve duygusal merkezle ilişkisini tartışan, yorumlayıcı nitelikte materyal sunar.",
+      "relevance": "Kalp merkezini Jungcu-alşimik okuma içinde dönüşüm, bütünleşme ve iyileşme sembolü olarak ele alan çalışma.",
       "url": "https://digitalcommons.ciis.edu/ijts-transpersonalstudies/vol33/iss1/5/"
     },
     {
-      "title": "Kalp - Rüya Tabiri - Deniz Ticaret Gazetesi www.denizticaretgazetesi.org › ruya-tabirleri › kalp-2737",
-      "relevance": "Kalbin İslami rüya geleneğinde iman, niyet ve iç durumla ilişkilendirilmesine dair çevrimiçi bir derleme sunar.",
-      "url": "https://www.denizticaretgazetesi.org/ruya-tabirleri/kalp-2737"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorum kitabının genel çerçevesini ve antik oneirokritik geleneğini gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "Symboliques chrétiennes du mot « Cœur »",
-      "relevance": "Kutsal Kitap dilinde kalbin sembolik kullanımını, kişinin iç merkezi ve ahlâkî/ruhsal yönü olarak açıklar.",
-      "url": "https://www.dehonianadocs.org/pdf/DEH1989-01-FR.pdf"
+      "title": "An Ancient Dream Manual: Artemidorus' The Interpretation of ...",
+      "relevance": "Artemidorus’un Oneirocritica’sını Greko-Romen antikitenin günümüze ulaşan tek rüya kitabı olarak tanımlar ve tarihsel rüya yorumu araştırması için ana bibliyografik dayanak sağlar.",
+      "url": "https://academic.oup.com/book/40085"
     },
     {
-      "title": "The Jewish Heart - The Secret of Elul - Chabad.org",
-      "relevance": "İbranice lev sözcüğü üzerinden kalbin Yahudi geleneğindeki sembolik ve ruhsal merkez anlamını aktarır.",
-      "url": "https://www.chabad.org/theJewishWoman/article_cdo/aid/424441/jewish/The-Jewish-Heart.htm"
+      "title": "Rüyada Kalp Görmek Ne Anlama Gelir?",
+      "relevance": "Rüyada kalp için cesaret, cömertlik, ahlâk ve duygusal yönelim gibi anlamlar aktaran modern Türkçe derleme.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-kalp-gormek-ne-anlama-gelir-27120"
     },
     {
-      "title": "Anahata",
-      "relevance": "Anāhata'nın kalp çakrası olarak temel tanımını ve Budist tantrik geleneklerle ilişkisini açıklar.",
-      "url": "https://en.wikipedia.org/wiki/Anahata"
+      "title": "قاموس تفسير كلمات الأحلام | رؤيا القلب",
+      "relevance": "Arapça sözlük kaydı; kalbin rüyadaki sembolik anlamlarını, göğüsten çıkması ve kararması gibi durumlarla birlikte ayrıntılandırıyor.",
+      "url": "https://mktbtk.com/dir/nab/21/d-0095.htm"
     },
     {
-      "title": "Anahata: The Heart Chakra - Symbols.com",
-      "relevance": "Tibet Budizmi bağlamında kalp merkezinin içsel bilinç ve uygulama açısından önemini ele alır.",
-      "url": "https://www.symbols.com/symbol/anahata:-the-heart-chakra"
+      "title": "heart",
+      "relevance": "Kalbi akıl, farkındalık, bedenin yöneticisi ve dinî durumla ilişkilendiren çevrimiçi İslami rüya sözlüğü kaydı.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=heart"
     },
     {
-      "title": "Chakra - Wikipedia",
-      "relevance": "Budist tantrik çakra düzeninde kalp merkezinin konumunu ve Dharmakāya ile ilişkisini açıklar.",
-      "url": "https://en.wikipedia.org/wiki/Chakra"
+      "title": "İslami rüya tabirleri -K- harfi",
+      "relevance": "Türkçe rüya tabirleri derlemesi; kalbi cesaret, zihin, akıl, din ve hükümle ilişkilendiriyor.",
+      "url": "https://ehlisunnetmedya.com/2015/03/27/islami-ruya-tabirleri-k-harfi/"
+    },
+    {
+      "title": "تفسير رؤية القلب في المنام",
+      "relevance": "Kalbi iman, akıl, niyet ve iç dünya ile ilişkilendiren modern İslami içerik sayfası.",
+      "url": "https://lifebyislam.com/dreams/seeing-heart-in-dream"
+    },
+    {
+      "title": "Symbolism of the Heart - Topical Bible",
+      "relevance": "Kutsal Kitap bağlamında kalbin sembolik anlamını; insanın iç merkezi ve ahlaki/ruhsal yaşamla ilişkisini toplar.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_the_heart.htm"
+    },
+    {
+      "title": "What Does the Bible Mean by “the Heart”?",
+      "relevance": "Kalbi, Kutsal Kitap dilinde insanın içsel birliği ve yönelim merkezi olarak ele alır.",
+      "url": "https://learn.ligonier.org/articles/what-does-bible-mean-by-heart"
+    },
+    {
+      "title": "The Biblical Conception of the “Heart”",
+      "relevance": "Kalbin düşünce, sevgi ve irade ile bağlantılı İncil kavrayışını özetler; temiz kalp temasını destekler.",
+      "url": "https://www3.dbu.edu/naugle/pdf/institute_handouts/general/biblical_heart.pdf"
+    },
+    {
+      "title": "Heart in the New Testament",
+      "relevance": "Yeni Ahit’te kalbin sevgi, niyet ve iç yönelimle ilişkisini derler.",
+      "url": "https://thomastheologyhub.org/wp-content/uploads/2024/05/heart.pdf"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Rüyanın uyanıkken taşınan 'kalbin düşünceleri' ile bağlantısını açıkça ifade eden ana Talmud pasajı.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55b’deki rüya pasajının okunabilir sunumu; kalp-düşünce ilişkisini doğrulayan modern erişim kaynağı.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Berakhot 57a kaydı; aynı traktat içinde rüya temalarının sürdüğünü gösteren tamamlayıcı metin erişimi.",
+      "url": "https://www.sefaria.org/Berakhot.57a?lang=en"
+    },
+    {
+      "title": "The Heart Sutra Revisited",
+      "relevance": "*Heart Sūtra*’nın Budist gelenekteki konumunu ve ‘heart’ teriminin metin başlığındaki işlevini tartışır.",
+      "url": "https://journal.equinoxpub.com/BSR/article/view/25433"
+    },
+    {
+      "title": "The Heart Sutra: Revisiting Its Texts, History, and Meaning, ...",
+      "relevance": "*Heart Sūtra*’nın Mahayana Budizmi içindeki önemini ve yaygın kullanımını tanıtan yayınevi kaydı.",
+      "url": "https://press.uchicago.edu/ucp/books/book/distributed/H/bo266707428.html"
+    },
+    {
+      "title": "Buddhist Metaphors in the Diamond Sutra and the Heart Sutra",
+      "relevance": "*Heart Sūtra*’daki metaforik dilin ve ‘heart’/‘kalp’ kavramının Budist kavramsallaştırmadaki yerini ele alır.",
+      "url": "https://academic.oup.com/book/12438/chapter-abstract/173063911?redirectedFrom=fulltext"
+    },
+    {
+      "title": "The Heart Sūtra in the Tibetan tradition and its Ukrainian translation",
+      "relevance": "Tibet Budist geleneğinde *Heart Sūtra*’nın kanonik ve ritüel kullanımını açıklar.",
+      "url": "https://www.academia.edu/82190536/The_Heart_S%C5%ABtra_in_the_Tibetan_tradition_and_its_Ukrainian_translation"
+    },
+    {
+      "title": "[PDF] Indian Commentaries on the Heart Sūtra: The Politics of Interpretation",
+      "relevance": "*Heart Sūtra* yorum geleneğini ve metindeki \"biçim/boşluk\" eksenli tartışmaları ele alır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/download/8719/2626/8527"
+    },
+    {
+      "title": "Heart Sutra Ancient Buddhist Wisdom in the Light of Quantum ...",
+      "relevance": "*hṛdaya* kelimesinin başlıktaki anlamını ‘çekirdek/öz’ olarak açıklayan metin değerlendirmesi içerir.",
+      "url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-MISC/misc39543.pdf"
+    },
+    {
+      "title": "Heart in dreams — meaning and symbolism",
+      "relevance": "Rüyada kalp sembolünü doğrudan ele alan modern ezoterik yorum; kalbi duygusal merkez, içsel hakikat ve sezgisel dengeyle ilişkilendiriyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/heart"
+    },
+    {
+      "title": "Heart Dream Meaning & Symbolism",
+      "relevance": "Rüyada kalp sembolünü, batı ezoterik geleneklerde ruhun merkezi ve sevgi/şefkat odağı olarak okuyan modern bir derleme.",
+      "url": "https://dreamwiki.net/en/dream-meaning/heart-dream-meaning-symbolism"
+    },
+    {
+      "title": "Heart symbol. The meaning of the dream, the Smorfia numbers",
+      "relevance": "Kalp sembolünü rüya sözlüğü içinde doğrudan eşleyen ve ezoterik anlamı da veren kısa bir kaynak; sembolün koruma ve niyetin başarıya yönelmesi gibi okumalarını içeriyor.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=heart+symbol"
+    },
+    {
+      "title": "Heart Dream Meaning & Interpretation - Mirror",
+      "relevance": "Rüyada kalbi spiritüel arınma, inanç derinleşmesi ve içsel durumun açığa çıkmasıyla ilişkilendiren modern ezoterik okuma.",
+      "url": "https://mirrorwithin.org/dream-dictionary/heart/"
+    },
+    {
+      "title": "Heart - dreamtation.com",
+      "relevance": "Kalbin simgesel olarak sevgi, canlılık ve duyguların merkezi sayıldığını; spiritüel yorumda yaşam ilkesiyle bağlantı kurulduğunu belirtiyor.",
+      "url": "http://www.dreamtation.com/docs/3887.htm"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
 }

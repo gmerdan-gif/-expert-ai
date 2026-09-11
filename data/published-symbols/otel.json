@@ -1,79 +1,192 @@
 {
   "slug": "otel",
   "title": "otel",
-  "shortDescription": "Rüyada otel görmek, genellikle geçici bir dönem, hareketlilik ya da alışılmış düzenin dışına çıkmayla ilişkilendirilir. Otelin atmosferi, bu sürecin size bir sığınak mı yoksa yabancılık ve aidiyetsizlik hissi mi verdiğini gösterebilir.",
+  "shortDescription": "Rüyada otel görmek, geçicilik, aidiyetsizlik ve kimliğin askıda kalması gibi yaşamın dönüm noktlarında hissedilen ara durak hallerini çağrıştıran eşiksel bir semboldür.",
   "positiveAssociations": [
     "Geçici sığınak",
-    "Yeni deneyimlere açıklık",
-    "Yolculuk esnekliği"
+    "Yolculukta dinlenme ve yenilenme",
+    "Yeni bir evreye hazırlık",
+    "İçsel toparlanma ve kısa süreli geri çekilme",
+    "Değişim ve esneklik"
   ],
   "challengingAssociations": [
-    "Anonimlik",
-    "Kök salmakta zorlanma",
-    "Yabancılaşma hissi",
-    "Süreksizlik"
+    "Aidiyetsizlik ve yabancılık hissi",
+    "Güvenlik eksikliği",
+    "Geçici hazlara aşırı bağlanma",
+    "Kimliğin sabitlenememesi ve belirsizlik",
+    "Mahremiyetin sınırlanması"
   ],
   "contextDependentAssociations": [
-    "Kısa süreli duraklar",
-    "Hayatın geçici doğası",
-    "Bağlanmama ihtiyacı"
+    "Bilinmeyen bir otelde kalmak, dünya hayatının geçiciliğine işaret edebilir.",
+    "Lüks bir otel, dışsal konforlara ve geçici tatminlere yönelmeyi temsil edebilir.",
+    "Otel odasında mahsur kalmak, geçiş döneminde sıkışmışlık hissini yansıtabilir."
   ],
   "commonVariations": [
     {
-      "title": "Tanıdık Olmayan Bir Otel Odasında Uyanmak",
-      "description": "Rüya sahibinin günlük rutinlerinden uzaklaştığını ve bilinmeyen bir geçiş sürecinde olduğunu hissettiği bir durumu gösterir."
+      "title": "Bilinmeyen Bir Otelde Oda Aramak",
+      "description": "Rüya görenin hayatındaki geçiş döneminde yönünü bulmaya çalışmasını ve aidiyet hissi arayışını simgeler."
     },
     {
-      "title": "Lüks ve Kalabalık Bir Otel Lobisinde Dolaşmak",
-      "description": "Toplumsal anonimlik, kalabalıklar içinde yalnız hissetme veya dışsal etkenlerle çevrili olma durumunu yansıtır."
-    },
-    {
-      "title": "Otelden Ayrılmak",
-      "description": "Geçici bir dönemin, seyahatin veya kararsızlık halinin sona erdiğine ve yeni bir yere doğru yola çıkıldığına işaret edebilir."
+      "title": "Lüks Bir Otelde Konaklamak",
+      "description": "Geçici konforlara, dışsal başarılara veya kalıcı olmayan hazlara olan yönelimi ve bu durumun getirdiği sorgulamaları ifade eder."
     },
     {
       "title": "Eski ve Tenha Bir Otelde Kalmak",
-      "description": "Geçmişteki geçici deneyimler, unutulmuş anılar veya geride bırakılmış mekânların zihinsel arka planlarını çağrıştırır."
+      "description": "Kişinin hayatında kapattığı bir dönemin ardından henüz yeni bir yere tam olarak yerleşememiş olmasından kaynaklanan belirsizlik hissini gösterir."
+    },
+    {
+      "title": "Otel Lobisinde Beklemek",
+      "description": "Hayat akışında önemli bir kararın veya yeni bir aşamanın eşiğinde olma durumunu, yani askıda kalmışlığı temsil eder."
     }
   ],
-  "psychology": "",
+  "psychology": "Psikolojik açıdan otel imgesi, bireyin yaşamındaki geçiş aşamalarını ve kimliğin henüz sabitlenmemiş yönlerini ele alır. Doğrudan ampirik rüya laboratuvarı verileri bulunmamakla birlikte, modern yorumlayıcı yaklaşımlar bu mekânı bireyin aidiyet, sınırlar ve duygusal uyum arayışıyla ilişkilendirir.",
   "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist yaklaşımda otel benzeri geçici konaklama alanları, sabit ve kalıcı bir öz yerine değişimi ve süreksizliği hatırlatan imgeler olarak okunabilir. Bu bağlamda rüyadaki otel, kalıcı bir yurt değil, geçici bir durak olarak anlam bulur.",
-  "spiritualApproaches": "",
+  "islamicTradition": "Bazı ikincil İslami yorum kaynaklarında otel sembolü, kişinin evi, bedeni, malı ve itibarıyla ilişkilendirilir. Bilinmeyen bir otelde gecelemek, dünya hayatının ahiret yolculuğundaki geçici konaklama yeri ve bir yolculuk durağı olarak ele alınır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde otel veya han, geçici bir yerleşim, taşınma dönemi ya da topluluk buluşma alanı olarak okunur. Ayrıca Beytüllahim'deki han örneği üzerinden beklenmedik yerlerde ortaya çıkan sığınak ve misafirperverlik temalarını barındırır.",
+  "jewishTraditions": "Yahudi rüya geleneğinin temelini oluşturan Talmudik metinlerde Berakhot 55a–57b bölümleri rüyaların anlamlı ve yorumlanabilir olduğunu vurgular; rüya unsurlarının katı birer sabit anlam yerine bağlama duyarlı olarak ele alınması gerektiği aktarılır.",
+  "buddhistEasternApproaches": "Budist perspektifte lüks bir otel imgesi, dışsal konfora ve geçici hazlara duyulan bağımlılığı hatırlatır. Bu yaklaşım, anicca (geçicilik) ve dukkha (acı/ızdırap) kavramlarına vurgu yaparak kalıcı tatmin arayışının sorgulanmasına işaret eder.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda otel, ne eski yere ait olunan ne de yeni yere tam yerleşilen bir ara mekân olarak düşünülebilir. Kısa süreli sığınak, içsel toparlanma ve ruhsal inziva işlevi görebilir.",
   "comparisonTable": [
     {
-      "approach": "Budist ve Doğu Yaklaşımı",
-      "interpretation": "Otel imgesini sabit bir özün yokluğu, geçicilik ve süreksizlik kavramları çerçevesinde ele alır.",
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Evin mahrem düzeninden uzak, geçici ve saklı isteklerin denenebileceği yabancı bir çevre.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Yorum Geleneği",
+      "interpretation": "Dünya hayatının geçiciliği, beden, mal ve ahiret yolculuğundaki geçici durak.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolik Yaklaşımı",
+      "interpretation": "Geçici sığınak, taşınma dönemi veya beklenmedik yerlerde bulunan misafirperverlik.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımları",
+      "interpretation": "Geçici hazlara bağlanma, kalıcı tatmin arayışının sorgulanması ve güvenlik hissinin eksikliği.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Eşik hali, aradalık, kısa süreli korunma ve yaşam yolculuğunda içsel toparlanma molası.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplinlerde otel sembolü genellikle kalıcılığın zıttı olan geçicilik ve ara durum kavramlarıyla ilişkilendirilir.",
-  "differences": "Tarihsel ve kültürel incelemeler oteli modern hareketlilik bağlamında ele alırken, Budist yaklaşım onu varoluşsal bir geçicilik metaforu olarak değerlendirir.",
-  "inusAssessment": "Otel sembolü, ne saf bir psikolojik bilim verisine ne de köklü klasik geleneklere dayanır; daha çok modern tarihsel bağlamlar ve geçicilik metaforları üzerinden şekillenir. Bu nedenle rüyadaki otel figürünü ele alırken kalıp yargılardan kaçınmak ve rüya sahibinin kişisel hareketlilik, geçici duraklar veya aidiyet bağlamındaki güncel yaşam koşullarını dikkate almak gerekir.",
+  "commonGround": "Farklı gelenekler ve yaklaşımlar, otel sembolünün merkezinde \"geçicilik\", \"yolculuk\" ve \"yerleşik olmama\" unsurlarının bulunduğu konusunda birleşir.",
+  "differences": "Psikanaliz oteli bastırılmış arzuların ve yabancı benliğin yansıması olarak ele alırken, dini gelenekler onu dünya hayatının geçiciliğiyle bağlar; Budist yaklaşım geçici hazlara bağlanmayı sorgularken spiritüel okumalar onu içsel bir arınma eşiği olarak görür.",
+  "inusAssessment": "Rüyada otel görmek, diğer mekân sembollerinden farklı olarak kalıcılığı değil, bilinçli veya zorunlu bir 'askıda kalma' halini merkeze alır. Bu sembolü değerlendirirken rüya görenin otelde ne kadar süre kaldığı, otelin konfor düzeyi ve kişinin buradaki duygusal tonu (huzur mu yoksa aidiyetsizlik kaygısı mı duyduğu) yorumun yönünü belirleyen en kritik unsurlardır.",
   "faq": [
     {
-      "question": "Rüyada otel görmek genel olarak ne anlama gelir?",
-      "answer": "Otel, rüyalarda genellikle kalıcı bir yerleşim yerinden ziyade geçici bir konaklama, hareketlilik ve süreksizlik durumuna işaret eder."
+      "question": "Rüyada otel odasında kaybolmak ne anlama gelir?",
+      "answer": "Kişinin hayatındaki geçiş döneminde yönünü kaybetmiş, belirsizlik içinde ve aidiyet arayışında olduğunu yansıtabilir."
     },
     {
-      "question": "Otel rüyaları psikolojik olarak bilimsel temele dayanır mı?",
-      "answer": "Otel sembolü üzerine doğrudan yapılmış güçlü ve güvenilir bir ampirik psikoloji araştırması bulunmamaktadır; daha ziyade kültürel ve tarihsel bir çerçeveye sahiptir."
+      "question": "Otelden ayrılmak veya çıkış yapmak rüyada nasıl yorumlanır?",
+      "answer": "Geçici bir dönemin, belirsizliğin veya bir ara aşamanın sona erdiğini ve yeni bir yaşam evresine adım atılmaya hazırlandığını gösterir."
     }
   ],
   "sources": [
     {
-      "title": "A. K. Sandoval-Strausz. Hotel: An American History. New Haven",
-      "relevance": "Oteli modern toplumsal hareketlilik, yerinden kopuş ve misafirperverliğin dönüşümü bağlamında tartışan akademik bir tarih incelemesidir.",
-      "url": "https://academic.oup.com/ahr/article-abstract/113/5/1517/42088"
+      "title": "Hotel Dreams: Transitions, Temporary Selves, and The Spaces ...",
+      "relevance": "Otel rüyalarını geçiş, geçici kimlik, anonimlik, sınırlar ve duygusal bağlam üzerinden yorumlayan bir açıklama sunar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/hotel"
     },
     {
-      "title": "A Buddhist Approach to Dreams - Urban Dharma",
-      "relevance": "Budist rüya anlayışında düş imgelerinin geçicilik ve boşlukla ilişkilendirilebildiğini anlatır; otel gibi geçici konaklama imgesini Budist bağlamda düşünmek için kullanışlıdır.",
-      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+      "title": "Hotel dreams: identity, transition, and meaning | EchoDream",
+      "relevance": "Otel rüyasını geçiş, aradalık ve geçici benlik temalarıyla ilişkilendiren yorumlayıcı bir sayfa; ayrıca duygu tonu ve rüya bağlamına dikkat edilmesi gerektiğini vurguluyor.",
+      "url": "https://www.echodream.io/interpret/hotel-dreams"
+    },
+    {
+      "title": "Hotel: Dream Meaning & Interpretation - Somniscient",
+      "relevance": "Otel rüyasını geçiş dönemi, belirsiz rol ve aidiyet arayışıyla ilişkilendiren yorumlayıcı bir sayfa.",
+      "url": "https://somniscient.com/en/common-dreams/a-hotel"
+    },
+    {
+      "title": "Sigmund Freud [1900] The Interpretation of Dreams ( ...",
+      "relevance": "Rüyanın bastırılmış isteğin kılık değiştirmiş doyumu olduğu temel kuramı; otel gibi geçici mekân imgeleri için Freudcu çerçevede yorum zemini sağlar.",
+      "url": "https://ia802907.us.archive.org/17/items/SigmundFreud/Sigmund%20Freud%20%5B1900%5D%20The%20Interpretation%20of%20Dreams%20(James%20Strachey%20translation,%201955).pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part a",
+      "relevance": "Rüyaların benlik-merkezli oluşu ve rüya içeriğinde öznenin gizlenmesi fikri; mekân ve kimlik ilişkisini psikanalitik okumada destekler.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüya çalışmasının psikik enerjiyi bastırma ve engelleme üzerinden işlemesi; geçici konaklama ve mahremiyet temalarının psikanalitik bağlamını güçlendirir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Oneirocritica | work by Artemidorus | Britannica",
+      "relevance": "Antik rüya yorum geleneğinin temel metnidir; konaklama mekânlarına dair doğrudan bir 'otel' girdisi doğrulanamadı.",
+      "url": "https://www.britannica.com/topic/Oneirocritica"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorumunun yapısı ve rüyaların bağlama göre ele alınışı hakkında metne dayalı erişim sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Oneirocritica",
+      "relevance": "Roma yol ağı ve yol üstü konaklama mekânlarının tarihsel işlevine dair genel kültürel arka plan sunar; rüyadaki geçici konaklama sembolizmi için bağlam sağlar.",
+      "url": "https://en.wikipedia.org/wiki/Oneirocritica"
+    },
+    {
+      "title": "Hotel Islamic Interpretations & Meanings",
+      "relevance": "Oteli kişinin evi, bedeni, adı, malı ve itibarıyla ilişkilendiren İslami yorum metni; bilinmeyen otelde kalmayı yolculuk ve dünyanın geçiciliğiyle bağlantılı ele alıyor.",
+      "url": "https://www.myislamicdream.com/hotel.html"
+    },
+    {
+      "title": "Interpret Your Dreams with David E. Taylor - Hotel",
+      "relevance": "Hristiyan çevrimiçi yorumda otelin geçici konaklama, taşınma dönemi ve topluluk için buluşma alanı olarak sembolik anlamı.",
+      "url": "https://joshuamediaministries.org/hotel/"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Beytüllahim'de yer bulunamaması ve han/konaklama yerinin temaları üzerinden geçici sığınak, misafirperverlik ve beklenmedik kutsal barınma fikrini açıklar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/hotel/"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Babil Talmudu'nun Berakhot 55a–57b çevresindeki rüya pasajlarını Yahudi rüya geleneğinin merkezî metni olarak ele alır.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Talmudik rüya anlayışını, yorumun ve düzeltici uygulamaların rüya anlamı üzerindeki rolüyle açıklar.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Berakhot 55–58’i Yahudi rüya yorumlarının yoğunlaştığı klasik rabbanî bölüm olarak tanımlar.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Luxury Hotel Dream Meaning & Interpretation",
+      "relevance": "Lüks otel imgesini Budist anicca ve dukkha kavramlarıyla ilişkilendirerek geçici haz ve bağlanma teması kurar.",
+      "url": "https://mirrorwithin.com/dream-dictionary/luxury-hotel/"
+    },
+    {
+      "title": "Dream Dictionary - Buddha, Buddhist - Buildings",
+      "relevance": "Oteli rüyada güvenlik eksikliği ve geçici barınma duygusuyla ilişkilendiren, Budist bağlamda okuma yapan bir derleme metni sunar.",
+      "url": "https://earthessences.org/index.php/11-articles/134-dream-dictionary-buddha-buddhist-buildings"
+    },
+    {
+      "title": "Hotel in dreams — meaning and symbolism",
+      "relevance": "Otelin ezoterik sembolizmde geçiş halinde, eski eve ait olmadan yeni yere de yerleşmemiş bir ara mekân olarak okunmasını anlatır.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/hotel"
+    },
+    {
+      "title": "Hotel - Dream Symbol - Dreampaths",
+      "relevance": "Otel sembolünü geçicilik, dönüşüm ve bir yaşam aşamasından diğerine geçiş çerçevesinde ele alır; ayrıca spiritüel düzeyde korunaklı bir alan fikrine yaklaşır.",
+      "url": "https://dreampaths.com/symbol/hotel"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian",
+    "buddhist-eastern"
+  ]
 }

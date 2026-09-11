@@ -1,112 +1,193 @@
 {
   "slug": "okul",
   "title": "okul",
-  "shortDescription": "Rüyada okul görmek; öğrenme, gelişim, disiplin ve hayatın getirdiği sorumluluklarla ilişkilendirilir. Okuldan çıkmak ya da zil sesi duymak ise baskı ve yüklerden rahatlama isteğini yansıtabilir.",
+  "shortDescription": "Rüyalarda okul sembolü, öğrenme, değerlendirilme, sosyal karşılaştırma ve performans baskısı gibi temalar etrafında şekillenen, bağlama duyarlı bir içerik kategorisidir.",
   "positiveAssociations": [
-    "Öğrenme ve bilgi aktarımı",
-    "Karakter gelişimi ve ilerleme",
-    "Manevî olgunlaşma ve içsel bilgelik",
-    "Çocukluk masumiyetine ve nostaljiye dönüş"
+    "Yeni bilgi ve beceriler edinme",
+    "Ruhsal olgunlaşma ve gelişim süreci",
+    "Toplumsal takdir ve başarı",
+    "Rehberlik ve içsel terbiye"
   ],
   "challengingAssociations": [
-    "Hayatın baskı ve sınavları",
-    "Yükler ve sorumluluklar altında ezilme hissi",
-    "Yapı ve disiplin ihtiyacı nedeniyle hissedilen kısıtlanmışlık"
+    "Sınanma ve performans kaygısı",
+    "Kurumsal otorite baskısı",
+    "Geri kalma veya yetersizlik korkusu",
+    "Geçmişteki sorumlulukların yarattığı gerilim"
   ],
   "contextDependentAssociations": [
-    "Okulda bulunduğunuz dönem veya rüyadaki fiziksel koşullara göre değişen kişisel anlamlar",
-    "Okuldan çıkış veya zilin çalması gibi detaylarla gelen rahatlama ve yükten kurtulma hissi"
+    "Sınıf içindeki rüyalar, değerlendirilme ve sosyal rollerle ilişkilidir.",
+    "Koridorlarda kaybolma hissi, yönelim ve belirsizlik temalarını yansıtır.",
+    "Yetişkinken okula dönmek, geçmişte çözülmemiş meseleleri çağrıştırır."
   ],
   "commonVariations": [
     {
-      "title": "Okuldan çıkış ve zil sesi",
-      "description": "Rüyada okulun bittiğini, zilin çaldığını veya okuldan çıktığını görmek, günlük yaşamdaki baskı ve sorumluluklardan duyulan rahatlama ihtiyacını simgeler."
+      "title": "Sınava Hazırlıksız Yakalanmak",
+      "description": "Rüya görenin kendini okulda ve gireceği bir sınava hiç çalışmamış halde bulması, uyanık yaşamdaki yetersizlik korkusu ve performans baskısıyla ilgilidir."
     },
     {
-      "title": "Sınav veya ders ortamında bulunmak",
-      "description": "Okulda bir derse girdiğini veya hazırlıksız bir sınavla karşılaştığını görmek, uyanık yaşamda karşılaşılan testler, performans kaygıları ve hayatın getirdiği denemelerle ilişkilendirilir."
+      "title": "Eski Okul Koridorlarında Dolaşmak",
+      "description": "Geçmişte okuduğu okula geri dönmek, eski yaşam evrelerine, o dönemki kimlik kalıplarına ve çözülmemiş psikolojik meselelere atıfta bulunur."
     },
     {
-      "title": "Eski sınıf arkadaşları ve öğretmenlerle karşılaşmak",
-      "description": "Geçmişteki öğretmenler ve öğrencilerle aynı ortamda olmak, öğrenme geleneği, bilgi aktarımı ve rüya sahibinin geçmişteki tecrübelerinden bugüne taşıdığı dersleri temsil eder."
+      "title": "Derste Olduğunu Fark Etmek",
+      "description": "Bir sınıf ortamında oturup ders dinlemek, hayatta yeni bir şeyler öğrenme, bir doktrini benimseme veya dışarıdan gelen bir rehberliği kabul etme süreciyle bağlantılıdır."
     },
     {
-      "title": "Boş veya kapalı bir okul binası görmek",
-      "description": "Faal olmayan ya da terk edilmiş bir okul binasıyla karşılaşmak, bilgi edinme süreçlerinde yaşanan duraklamaları veya hayatın yeni bir öğrenme evresine geçiş aşamasını yansıtabilir."
+      "title": "Okulda Kaybolmak veya Sınıfı Bulamamak",
+      "description": "Karmaşık koridorlarda doğru dersliği aramak, bireyin yaşamındaki yönelim bozukluğunu, hedeflerini kaybetme endişesini ve belirsizlikleri simgeler."
     }
   ],
-  "psychology": "",
+  "psychology": "Rüya içerik analizleri, okul gibi imgelerin sabit birer sözlük anlamı taşımadığını, aksine kişinin yaşamındaki temalar, kişilerarası ilişkiler ve duygusal tonlar üzerinden incelenmesi gerektiğini gösterir. Bu yaklaşım, rüyadaki okul sahnelerini bireyin zihinsel sınıflandırma ve deneyimleme süreçlerinin bir yansıması olarak ele alır.",
   "jungian": "",
-  "islamicTradition": "Bazı modern İslami rüya tabiri derlemelerinde ve kaynaklarında okul; ilim, hikmet, öğretim halkaları, âlimler ve dinî/ahlakî gelişimle ilişkilendirilir. Rüyada okul görmek, öğrenme ve manevî olgunlaşma temalarıyla açıklanırken, bazı yorumlarda hayatın sınavlarıyla ve öğrenme süreciyle de bağdaştırılır. Okuldan çıkış veya zil sesi gibi ayrıntılar ise yük ve sorumluluktan rahatlama temasıyla ele alınır.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "Spiritüel ve ezoterik yaklaşımlarda okul, ruhun aydınlanma ve kendini keşfetme yolculuğunu simgeleyen bir öğrenme ve disiplin alanı olarak yorumlanır. Bu bağlamda okul, ruhun olgunlaşma sürecini, dersler ve deneyimler yoluyla ilerlemeyi ve ruhsal büyümede gereken yapı ile rehberlik ihtiyacını temsil eder.",
+  "islamicTradition": "Bazı modern aktarımlarda ve ikincil kaynaklarda okul sembolü ilim, öğrenme, öğretmenlik, rehberlik ve terbiye alanına bağlanır; sınıf veya hoca gibi unsurlarla görüldüğünde bilgi edinme ve yol gösterici figürlerle ilişkilendirilebilir.",
+  "christianTraditions": "Hristiyan rüya yorumlama notlarında sınıf ve okul imgeleri, kilisenin bir öğrenme topluluğu olması, doktrin öğrenimi ve ruhsal şekillenme süreçleriyle ilişkilendirilir.",
+  "jewishTraditions": "Talmudik rüya hermenötiğinde rüya anlamının büyük ölçüde yoruma bağlı olduğu ilkesinden hareketle, okul ortamı bilgelik, talim ve yönelim alanı olarak değerlendirilebilir.",
+  "buddhistEasternApproaches": "Budist rüya yaklaşımlarında zihnin öğrenme, hatırlama ve koşullanma süreçleriyle ilişkilendirilen okul imgesi, kurumsal öğreti aktarımı ve zihinsel pratikler bağlamında okunabilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda okul, kişinin yaşamında öğrenmesi gereken dersleri, içsel disiplin süreçlerini ve bilinçli gelişimi temsil eden bir içsel dönüşüm mekânı olarak ele alınır.",
   "comparisonTable": [
     {
-      "approach": "İslami Gelenek / Tabirler",
-      "interpretation": "İlim, hikmet, öğretim halkaları, manevî olgunlaşma, hayatın sınavları ve sorumluluklardan kurtulma (zil/çıkış anı) çerçevesinde yorumlanır.",
+      "approach": "Ampirik İçerik Analizi",
+      "interpretation": "Sabit bir sembol olmaktan ziyade değerlendirme, performans ve görev baskısı içeren bir içerik kategorisidir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Yetişkinin kendini yeniden okulda ve sınavda görmesi, performans kaygısı ve sınav rüyaları örüntüsüyle açıklanır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Yaklaşım",
+      "interpretation": "İlim, bilgi edinme, öğretmen figürleri ve talim mekânı olarak ele alınır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Gelenek",
+      "interpretation": "Ruhsal eğitim, öğrencilik ve doktrinsel formasyon alanı olarak yorumlanır.",
       "evidenceLevel": "traditional"
     },
     {
       "approach": "Spiritüel Yaklaşım",
-      "interpretation": "Ruhun aydınlanma, kendini keşfetme ve olgunlaşma yolculuğu; dersler, disiplin ve deneyimler yoluyla ilerleme alanı olarak ele alınır.",
+      "interpretation": "İçsel gelişim, bilinçli öğrenme ve yaşam derslerinden geçme süreci olarak değerlendirilir.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenek ve yaklaşımlarda okul sembolü, ortak bir payda olarak 'öğrenme', 'süreç' ve 'gelişim' kavramları etrafında şekillenir; ister manevî ister yaşamın sınavları bağlamında olsun, bireyin bir aşamadan diğerine geçişini simgeler.",
-  "differences": "İslami yorumlar modern derlemelerde ilim, hikmet ve hayatın sınavları üzerine odaklanırken, spiritüel yaklaşımlar sembolü daha çok ruhun aydınlanma yolculuğu ve içsel disiplin bağlamında ele alır.",
-  "inusAssessment": "Okul sembolü, bünyesinde hem yapılandırılmış disiplin ve sorumluluk baskısını hem de aydınlanma ve ilim gibi yapıcı temaları barındıran ikili bir gerilime sahiptir. Bu nedenle rüyadaki okulun anlamı, rüya sahibinin o anki yaşam koşullarında bir yük mü yoksa bir gelişim fırsatı mı deneyimlediğine bağlı olarak esneklik gösterir.",
+  "commonGround": "Farklı disiplin ve gelenekler, okul imgesinin temelde bir öğrenme, sınanma, şekillenme ve bilgi aktarımı alanı olduğu noktasında birleşir.",
+  "differences": "Psikolojik yaklaşımlar performans kaygısına ve içerik bağlamına odaklanırken, teolojik ve spiritüel gelenekler imgeyi ruhsal terbiye, doktrin edinme ve içsel olgunlaşma ekseninde yorumlar.",
+  "inusAssessment": "Rüyada okul görmek, bireyin uyanık yaşamındaki değerlendirilme korkularını, sorumluluk baskısını veya yeni bir şeyler öğrenme ihtiyacını merkeze alan çok katmanlı bir deneyimdir. Sınıfta olmak, sınava girmek ya da eski bir okula dönmek gibi detaylar, rüya görenin performans kaygısı ile içsel gelişim süreci arasındaki dengeyi etkiler; bu nedenle rüyanın taşıdığı anlam, hangi alt öğelerin öne çıktığına bağlı olarak farklılık gösterir.",
   "faq": [
     {
-      "question": "Rüyada okul görmek genel olarak ne anlama gelir?",
-      "answer": "Rüyada okul görmek; öğrenme, bilgi edinme, disiplin, karakter gelişimi ve hayatın sunduğu sınavlar veya tecrübelerle ilişkilendirilir."
+      "question": "Rüyada neden sürekli olarak kendimizi tekrar sınavda veya okulda görürüz?",
+      "answer": "Psikanalitik yaklaşımlar bu durumu performans kaygısı, sorumluluk baskısı ve yaklaşan görevlerle ilgili gerilimleri yansıtan tipik sınav rüyaları örüntüsüyle ilişkilendirir."
     },
     {
-      "question": "İslami açıdan rüyada okul görmek nasıl yorumlanır?",
-      "answer": "Modern İslami rüya tabiri kaynaklarında okul; ilim, hikmet, manevî olgunlaşma ve öğretmenler ile öğrenciler arasındaki öğretim geleneğiyle bağlantılı şekilde ele alınır."
-    },
-    {
-      "question": "Rüyada okuldan çıktığını veya zilin çaldığını görmek neyi ifade eder?",
-      "answer": "Bazı İslami yorumlarda okuldan çıkış veya zil sesi, günlük hayatın getirdiği yük ve sorumluluklardan rahatlama, bir baskı döneminin geride kalması temalarıyla açıklanır."
+      "question": "Okul rüyası her zaman geçmişe duyulan bir özlemi mi gösterir?",
+      "answer": "Hayır; okul imgesi yalnızca geçmişi değil, aynı zamanda şimdiki yaşamda karşılaşılan yeni öğrenme süreçlerini, sınavları ve içsel disiplin gerektiren durumları da simgeleyebilir."
     }
   ],
   "sources": [
     {
-      "title": "Rüyada Okul Görmek Ne Anlama Gelir? - Rüya Tabirleri",
-      "relevance": "Okulu İslami rüya tabiri bağlamında ilim ve hikmetle ilişkilendiren modern çevrimiçi yorum.",
-      "url": "https://ruyaokuma.com/ruya-tabirleri/ruyada-okul-gormek"
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içerik analizinin nasıl çalıştığını ve rüya raporlarının sistematik olarak kodlanabileceğini açıklar; 'okul' gibi temaların ampirik incelenmesi için metodolojik arka plan sağlar.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
     },
     {
-      "title": "Dreaming of School Dismissing: Nostalgia, Relief from Burdens, and Reconnecting with Innocence - Islamic Dream Blog | Islamic Dream & Dua",
-      "relevance": "Okulu hayatın sınavları, baskı ve çocukluk/masumiyet temalarıyla ilişkilendiren modern İslami rüya yorumu.",
-      "url": "https://islamicdreamdua.com/blog/dreaming-of-school-dismissing-nostalgia-relief-from-burdens-and-reconnecting-with-innocence"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyaların yorumlanmasında sınav rüyaları ve okula geri dönme motifi için temel Freudcu çerçeveyi sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "The 50 most important interpretations of a dream about Ibn ...",
-      "relevance": "Okulu öğretim, âlimler ve bilgi edinme çevresiyle ilişkilendiren çevrimiçi İslami tabir derlemesi.",
-      "url": "https://www.gptafser.com/en/post/The-50-most-important-interpretations-of-a-dream-about-Ibn-Sirin%E2%80%99s-school?page=2604"
+      "title": "School - Dreampaths",
+      "relevance": "“School” başlığı altında Jungcu bir yorum sunar; çevrimiçi rüya sözlüğü formatında popüler bir değerlendirme içerir.",
+      "url": "https://dreampaths.com/symbol/school"
     },
     {
-      "title": "School Dream Islam - Islamic Dream Interpretation",
-      "relevance": "Okulu öğrenme, ilerleme ve eğitim bağlamındaki gelişimle ilişkilendiren modern İslami rüya yorumu.",
-      "url": "https://islamdreammeaning.com/school-dream-islam/"
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus'un rüya yorumu geleneğinin kapsamını ve antik oneirokritik çerçeveyi gösterir.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
     },
     {
-      "title": "School in Dreams — Islamic Interpretation & Meaning | Dream Wisdom",
-      "relevance": "Okulu öğretmenler, öğrenciler ve öğretim geleneğiyle ilişkilendiren çevrimiçi İslami rüya sözlüğü.",
-      "url": "https://www.dream-wisdom.com/en/dreams/school/"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Oneirocritica'nın rüya yorumunda kullanılan antik çeviri metnine erişim sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "School Symbolism & Meaning - Symbolopedia",
-      "relevance": "Okulu ruhsal gelişim, disiplin ve öğrenme yolculuğuyla ilişkilendiren genel spiritüel sembolizm sunar.",
-      "url": "https://symbolopedia.com/school-symbolism-meaning/"
+      "title": "Analyzing the Evolution of School Emblems and Their ...",
+      "relevance": "Okul sembollerinin tarihsel olarak kimlik, meşruiyet ve eğitimsel aidiyet ifade etmesini ele alan kültürel tarih metni.",
+      "url": "https://www.punjabnewsexpress.com/news/news/analyzing-the-evolution-of-school-emblems-and-their-meanings-255844"
     },
     {
-      "title": "Practices, Rituals, and Symbols",
-      "relevance": "Budist eğitim bağlamında öğrenme, saygı ve sembolik uygulamalarla ilgili genel çerçeve verir; okul sembolüne özgü doğrudan rüya tabiri sağlamaz.",
-      "url": "https://www.edu.gov.mb.ca/k12/docs/support/world_religions/buddhism/practices.pdf"
+      "title": "School Islamic Interpretations & Meanings",
+      "relevance": "Okulu öğrenme, öğretmenler, âlimler ve bir bilgi çevresiyle ilişkilendiren İslami rüya tabiri özeti.",
+      "url": "https://www.myislamicdream.com/school.html"
+    },
+    {
+      "title": "Rüyada Okul Görmek Neye İşarettir - Secdem / Bir Dünya İçerik",
+      "relevance": "Okul sembolünü, bilgi edinme ve yeni mesleki başlangıçlar için gereken öğrenme süreciyle ilişkilendiren Türkçe rüya tabiri sayfası.",
+      "url": "https://www.secdem.net/ruya-tabirleri/ruyada-okul-gormek-neye-isarettir.html"
+    },
+    {
+      "title": "Classroom dream meaning | Biblical Dream Meanings | BibleStep",
+      "relevance": "Sınıf ve okul imgelerini doktrin öğrenimi, öğrencilik ve kilisenin bir öğrenme topluluğu olarak işlevi bağlamında açıklayan modern Hristiyan yorumu.",
+      "url": "https://biblestep.com/dreams/classroom-dream-meaning"
+    },
+    {
+      "title": "Helpful Clues to Dream & Vision Interpretation",
+      "relevance": "Okul ve sınıf imgelerini kilise, öğretim, öğrencilik ve ruhsal eğitimle eşleştiren Hristiyan rüya yorum notları.",
+      "url": "https://davewilliams.com/wp-content/uploads/2018/09/Helpful-Clues-to-Dream-and-Vision-Interpretation.pdf"
+    },
+    {
+      "title": "patristic views of the nature of dreams and their relation ... - ERA",
+      "relevance": "Patristik rüya anlayışında rüyaların ruhsal durum, ilahi mesaj ve iman güçlenmesiyle ilişkisine dair akademik bağlam sunan çalışma.",
+      "url": "https://era.ed.ac.uk/handle/1842/5462"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’deki rüya tartışmasının genel Talmudik çerçevesini ve rüyaların yorumla anlam kazanmasını gösterir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams and Dream Interpretation - Berachot 9 - ספריא",
+      "relevance": "Berakhot 55–57 geleneğinde rüya yorumunun merkezî rolünü gösteren bir derleme sağlar.",
+      "url": "https://www.sefaria.org/sheets/226246"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Talmud’un rüyaları nasıl sınıflandırdığı ve yorumladığına dair Yahudi eğitim kurumundan özet sunar.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Berakhot 55–58’in Yahudi rüya yorum geleneğindeki yerini tarihsel olarak konumlandırır.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Babil Talmudu’nun rüya literatüründeki ağırlığını ve anlamın yorumda belirdiğini tartışır.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist rüya anlayışlarında rüyaların boşluk, işaret ve öğretici görünüm olarak ele alınışını anlatır; okul imgesinin sembolik olarak öğrenme ve öğretiyle ilişkilendirilmesine zemin sağlar.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "An Analytical Study on Buddhist Eschatology – Prophecy of ...",
+      "relevance": "Budist rüyalar ve eskatoloji ilişkisini, özellikle Ananda’nın yedi rüyası üzerinden öğreti, yanlış görüş ve Dharma’nın toplumsal koşulları bağlamında tartışan bir çalışma sunar.",
+      "url": "https://kinhsach.chuakhainguyen.com/Books/T14n0494/An%20Analytical%20Study%20on%20Buddhist%20Eschatology%20-%20Prophecy%20of%20Decline%20of%20Dharma%20Based%20on%20the%20Sutra%20on%20the%20Seven%20Dreams%20of%20Ananda%20(Zhi).pdf"
+    },
+    {
+      "title": "太虚法师：谈梦的意义",
+      "relevance": "Rüyayı uyku sırasındaki zihin faaliyetleri olarak açıklayan Budist yaklaşım, okul imgesini öğrenme ve zihinsel koşullanma süreçleriyle birlikte okumaya imkân verir.",
+      "url": "http://fo.sina.com.cn/intro/lecture/2013-10-15/103013466.shtml?from=wap"
+    },
+    {
+      "title": "School in Dreams: Lessons, Tests, and the Classroom of the ...",
+      "relevance": "Okul rüyasını dersler, test edilme, dikkat çağrısı ve ruhsal oluşum temalarıyla ilişkilendiren modern spiritüel bir yorum çerçevesi verir.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/school"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
 }

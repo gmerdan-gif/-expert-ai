@@ -1,94 +1,184 @@
 {
   "slug": "yuzmek",
   "title": "yüzmek",
-  "shortDescription": "Rüyada yüzmek, çaba göstererek ilerlemeyi simgeler. Rahat yüzmek başarıyla, zorlanmak veya korkmak ise sıkıntı ve engellerle ilişkilendirilir; suyun türü ve rüyadaki hisler yorumu etkiler.",
+  "shortDescription": "Rüyada yüzmek, suyun niteliğine, yüzmenin zorluğuna ve rüya sahibinin durumuna göre farklı anlamlar taşır; aynı zamanda aktif çaba, yön belirleme ve dönüşüm odaklı bir semboldür.",
   "positiveAssociations": [
-    "Çaba göstererek hedefe ulaşma veya yürütülen bir işte ilerleme",
-    "İlahi akışa katılma ve manevi neşe",
-    "Bir işi veya çabayı dengeli ve etkin biçimde yürütme"
+    "Kişisel sorumluluk alarak ilerleme ve hedefe doğru bilinçli çaba gösterme",
+    "Duygusal/psişik kaynaklarla ilişkilenme ve uyum kurma yetisi",
+    "Kriz ya da zorluk dönemlerinden çıkış yönünde adım atma",
+    "Bağlama göre içsel yenilenme veya sembolik bir yeniden doğuş olasılığı"
   ],
   "challengingAssociations": [
-    "Korkuyla yüzmenin işaret ettiği sıkıntı, güçlük veya engeller",
-    "Denizde yüzüp kıyıya dönmenin işaret ettiği arayışın yarıda kalması",
-    "Tarihsel ve kültürel bağlamlarda tehlike, tabu veya cinsellikle ilişkilendirilebilmesi"
+    "Yüzme sırasında tükenme, nefes alma güçlüğü veya kontrol kaybı hissi",
+    "Belirsiz, bulanık veya tehlikeli su koşullarının yarattığı kaygı",
+    "Bilinçdışı baskılarla mücadele etme veya geçmişe ait beden anılarıyla (ör. çocukluk anıları) yüzleşme",
+    "Dışsal akıntılarla mücadele etmek zorunda kalmak; ilerlemenin çaba gerektirmesi"
   ],
   "contextDependentAssociations": [
-    "Açık denizde yüzmek veya dalgalarla mücadele etmek",
-    "Sığ sularda veya sahilde yüzmek",
-    "Akarsu veya nehir içinde yüzerek karşı kıyıya geçmeye çalışmak"
+    "Suyun temizliği, dalgalılığı veya derinliği yorumun yönünü değiştirir",
+    "Yüzmenin kolay gerçekleşmesi veya akıntıya karşı yapılması",
+    "Yüzmenin sonunda kıyıya, hedefe veya güvenli bir alana ulaşılıp ulaşılmaması",
+    "Rüyanın duygusal tonu ve rüyayı görenin yaşam koşulları (sağlık, yaşantı, inanç) değerlendirmede belirleyicidir"
   ],
   "commonVariations": [
     {
-      "title": "Denizde Kolayca Yüzmek",
-      "description": "Açık denizde güçlük çekmeden yüzdüğünü görmek, İslami kaynaklarda yürütülen işte veya hedefte akıcı ilerleme ve başarıya işaret eder."
+      "title": "Berrak ve sakin denizde rahatça yüzmek",
+      "description": "Geniş, durgun bir su yüzeyinde zorlanmadan ilerlediğini görmek, genelde duygusal denge, psişik uyum ve sorumluluk alarak sürdürülen bir ilerleme hissini yansıtabilir."
     },
     {
-      "title": "Korku ve Endişeyle Yüzmek",
-      "description": "Su içinde sürekli korku hissederek yüzmeye çalışmak, geleneksel yorumlarda uyanık yaşamda karşılaşılan engellerin yarattığı baskının veya sağlık sorunlarının belirtisiyle ilişkilendirilebilir."
+      "title": "Bulanık veya dalgalı suda akıntıya karşı yüzmek",
+      "description": "Nereye gittiğini tam bilmeden dalgalarla mücadele etmek; uyanık yaşamda engellerle, belirsizliklerle ve enerji kaybıyla baş etmeye çalışmayı sembolize edebilir."
     },
     {
-      "title": "Yüzüp Kıyıya Geri Dönmek",
-      "description": "Denizde yüzüp sonra kıyıya dönmek, bazı İslami kaynaklarda bir bilgi arayışına başlayıp onu bırakmak veya girişilen bir işin yarıda kalması şeklinde yorumlanır."
+      "title": "Nehirde yüzüp kıyıya ulaşmak",
+      "description": "Akarsu ya da nehirde gayretle yüzüp güvenli karaya çıkmak; sıkıntılı bir dönemin bitişi ve belirlenmiş bir hedefe erişme motifini çağrıştırır."
     },
     {
-      "title": "Akarsuyu veya Nehri Aşmak",
-      "description": "Bir nehir ya da akarsu içinde yüzerek karşı kıyıya geçmeye çalışmak, Budist ve Hindu çerçevelerde ruhsal ilerleme veya bir geçiş çabası metaforu olarak okunabilir."
+      "title": "Derin okyanusun ortasında tek başına yüzmek",
+      "description": "Çevresi görünmeyen derin sularda kalmak ve yüzmeyi sürdürebilmek; bilinçdışının derin ve geniş katmanlarıyla ilişki kurma, içsel keşif ve yalnız çaba temalarını içerir."
     }
   ],
-  "psychology": "",
+  "psychology": "Psikanalitik literatürde (Freud) yüzme ve su rüyaları zaman zaman çocukluk hareket oyunları, enürezis anıları ve anne rahminde kalma/doğum fantezileri bağlamında ele alınmıştır. Bu tek ve zorunlu bir yorum değildir; tarihsel bir çerçeve olarak dikkate alınmalıdır.",
   "jungian": "",
-  "islamicTradition": "İslami rüya geleneğinde yüzmek, kişinin bir işi veya çabayı nasıl yürüttüğüyle bağlantılı görülür: kolay ve güvenli yüzme başarıya işaret edebilir; zorlanma veya korkuyla yüzmek sıkıntı veya güçlüğe yorumlanır. Denizde yüzüp kıyıya dönmek ise bazı aktarılarda bilgi arayışının yarıda kalmasıyla bağdaştırılır.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Doğu kaynaklarında suyu geçme, nehir aşma veya tekne imgeleri ruhsal ilerleme ve uygulama yoluyla geçiş temalarıyla ilişkilendirilir. Yüzme eylemi, suyla etkileşim üzerinden bu daha geniş su sembolizmi içinde değerlendirilebilir.",
-  "spiritualApproaches": "Spiritüel kaynaklarda yüzme, ilahi akışa katılma, suyla ilişkili arınma ve dönüşüm temalarıyla okunur; bazı Hindu/Vaishnava anlatımlarda yüzme manevi neşe ve ilahi akışa eşlik etme bağlamında ele alınır.",
+  "islamicTradition": "Modern çevrimiçi aktarımlarda ve bazı geleneksel tabir derlemelerinde suda yüzmek, düşmana karşı galip gelme, dinin sağlamlığı veya mesleki/dünyasal ilerleme gibi olumlu çağrışımlarla aktarılmaktadır.",
+  "christianTraditions": "Bazı modern Hristiyan pastoral ve devosyonel kaynaklarda yüzme, Kutsal Ruh'un yönlendirmesiyle ilerleme, ruhsal yenilenme, vaftizsel geçiş ve Tanrı'ya uyum temalarıyla ilişkilendirilmektedir; bunlar çağdaş yorumlardır ve klasik kilise doktriniyle karıştırılmamalıdır.",
+  "jewishTraditions": "Yahudi rüya yorumu geleneğinde Talmudik metinler su ve nehir imgelerini belirgin biçimde işler; bununla birlikte doğrudan 'yüzmek' girişi nadiren tek başına bulunur. Bu yüzden Yahudi çerçevesinde yüzme teması, su/nehir motifleri bağlamında temkinli bir şekilde sentezlenebilir.",
+  "buddhistEasternApproaches": "Bazı Budist metinlerde (özellikle Tibet geleneğinde) okyanus ve su imgeleri bodhisattva yolları veya manevi aşamalarla ilişkilendirilir; bu bağlamda su içindeki hareketler ilerleme, arınma veya manevi olgunlaşma olarak okunabilir.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda yüzmek, bilinçdışı alanlarda aktif ilerleme, dönüşüm ve içsel keşif hareketi olarak yorumlanır; simyasal perspektiflerde su çözülme ve yeniden biçimlenme sürecini, yüzme ise bu süreçte bilinçli yönelimi simgeleyebilir.",
   "comparisonTable": [
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Yüzmek kişinin çabasını ve bir işi yürütme tarzını simgeler; kolay yüzmek başarıya, korkuyla yüzmek sıkıntıya işaret edebilir.",
+      "approach": "Psikanaliz (Freud)",
+      "interpretation": "Çocukluk hareket oyunları, enürezis anıları ve anne rahminde kalma/doğum fantezileri çerçevesinde değerlendirilebilen bir motif olarak okunur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami aktarımlar (modern derlemeler)",
+      "interpretation": "Bazı modern tabir kaynaklarında suda yüzme, düşmana galip gelme veya inanç/ilmin sağlamlığıyla ilişkilendirilmiştir; bu yorumlar çağdaş derlemelere dayanır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu ve Budist Yaklaşımlar",
-      "interpretation": "Suyu aşma ve akarsuları geçme imgeleri ruhsal ilerleme, uygulama ve geçiş temalarıyla ilişkilendirilir.",
+      "approach": "Hristiyan pastoral okumalar (çağdaş)",
+      "interpretation": "Yüzme rüyaları Kutsal Ruh ile uyum, ruhsal yenilenme veya vaftizsel geçiş temalarıyla bağdaştırılmaktadır; bunlar çağdaş yorumlardır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel/ezoterik",
+      "interpretation": "Yüzme, bilinçdışıyla aktif ilişki, dönüşüm ve ruhsal arınma hareketi olarak görülür; simyasal çerçevelerde yeniden biçimlenme sürecinin parçası sayılabilir.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Çeşitli geleneklerde yüzme imgesi, suyla etkileşim üzerinden ilerleme, çaba ve geçiş temalarını ortak bir zeminde toplar; suyun niteliği ve yüzmenin zorluğu yorumda belirleyici olur.",
-  "differences": "İslami yorumlar yüzmeyi daha çok dünyevi çabalar ve bunların sonuçlarıyla ilişkilendirirken; Doğu gelenekleri suyu aşma imgelerini daha belirgin biçimde ruhsal ilerleme ve uygulama bağlamında değerlendirir.",
-  "inusAssessment": "Rüyada yüzmenin anlamını belirleyen temel unsurlar suyun türü, yüzmenin zorluğu ve rüyadaki duygudur. INUS yaklaşımı, bu sembolde tek bir nedensel açıklamanın yetersiz kaldığını; rahatlık/kolaylık, korku/zorlanma ve su bağlamının birlikte değerlendirilmesinin daha açıklayıcı olduğunu vurgular.",
-  "faq": [],
-  "sources": [
+  "commonGround": "Farklı kaynaklar ve yaklaşımlar, yüzme motifinde ortak olarak su gibi derin bir ortamda irade göstermek, yön belirlemek ve bir durumdan diğerine geçmeye çalışmak temalarını vurgular; yorumlarda suyun niteliği ve yüzme deneyimi belirleyicidir.",
+  "differences": "Psikanalitik okumalar geçmiş beden-anıları ve doğum/regresyon eksenine ağırlık verirken, dini ve spiritüel yorumlar genelde ruhsal güçlenme, arınma veya ilahi uyum ekseninde anlamlandırır. Tarihsel oneirocritik kaynaklar ise bağlam esasına göre değişen, tekil olmayan yorum modelleri sunar.",
+  "inusAssessment": "Yüzmek rüyası, edilgen bir batış yerine bilinçli çaba, denge ve yön belirleme unsurlarını içeren dinamik bir semboldür. Bu sembolün anlamı, suyun niteliği, yüzmenin zorluğu, rüyanın duygusal tonu ve rüyayı görenin yaşam öyküsünün birlikte değerlendirilmesiyle ortaya çıkar; tek başına kesin bir anlamı yoktur.",
+  "faq": [
     {
-      "title": "Aqua vitae, aqua permanens: dreaming, drowning, ...",
-      "relevance": "Yüzme, boğulma ve dalga imgelerini içeren akademik çalışma; yüzme bağlamında su imgesinin incelenmesine odaklanır.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/29750341/"
+      "question": "Rüyada zorlanarak yüzmek ne anlama gelebilir?",
+      "answer": "Zorlanarak yüzmek genelde uyanık yaşamda enerji harcayarak ilerlemeye çalışmayı, bir akıntıya karşı direnmeyi veya tükenme hissini işaret eder. Psikanalitik çerçevede bu tür rüyalar bazen çocukluk beden-anılarıyla (ör. enürezis, hareket oyunları) ilişkilendirilebilir; ancak bu ilişki bağlama göre değişir ve kesin bir belirleme değildir."
     },
     {
-      "title": "Making a splash - The Past",
-      "relevance": "Yüzmenin tarihsel olarak tabu, tehlike, büyü ve cinsellik çağrışımlarıyla ilişkilendirildiğini anlatan kültürel tarih yazısı.",
-      "url": "https://the-past.com/feature/making-a-splash/"
-    },
-    {
-      "title": "Swimming Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya geleneğinde yüzme sembolüne dair çevrimiçi aktarım; denizde yüzmek, kıyıya dönmek ve korkuyla yüzmek gibi varyantların geleneksel yorumlarını sunar.",
-      "url": "https://www.myislamicdream.com/swimming.html"
-    },
-    {
-      "title": "Swimming: Significance and symbolism",
-      "relevance": "Hindu bağlamında yüzmenin ilahi akışa katılma ve manevi neşe ile ilişkilendirildiğini özetleyen kavramsal bir incelemedir.",
-      "url": "https://www.wisdomlib.org/concept/swimming"
-    },
-    {
-      "title": "Bathing in the ocean: Significance and symbolism",
-      "relevance": "Hinduizmde suyun arınma ve dönüşüm sembolizmini özetleyen derleme; yüzme imgeleri bu çerçevede ele alınır.",
-      "url": "https://www.wisdomlib.org/concept/bathing-in-the-ocean"
-    },
-    {
-      "title": "A Buddhist Approach to Dreams - Urban Dharma",
-      "relevance": "Budist rüya anlatımında suyu geçme, nehir aşma ve tekne imgelerinin ruhsal geçiş bağlamında işlendiğini aktaran metin.",
-      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+      "question": "Yüzmek rüyası her zaman olumlu mu yorumlanır?",
+      "answer": "Hayır. Yüzmenin olumlu ya da olumsuz algılanması suyun durumu, yüzmenin kolaylığı ve rüyanın duygusal tonu ile yakından ilgilidir; bu nedenle bağlam ve kişisel durum belirleyicidir."
     }
   ],
-  "relatedSlugs": []
+  "sources": [
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud'un rüya analizinde su ve yüzme imgelerini çocukluk hareket oyunları, enürezis anıları ve beden-öncesi fanteziler bağlamında ele alışını gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Freud –The Interpretation of Dreams –Chapter 6 - Psych Web",
+      "relevance": "Suda kalma ve suya girme rüyalarını anne rahminde kalma ve doğum fantezileriyle ilişkilendiren psikanalitik metinsel çerçeveyi sağlar.",
+      "url": "https://www.psywww.com/books/interp/chap06.html"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus geleneğinin rüya yorumunda bağlamın ve rüyayı görenin durumunun yorum üzerinde belirleyici olduğunu gösteren akademik bir çalışmadır.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Denique Onirocrites, sic erit Hippocrates",
+      "relevance": "Antik tıbbi-oneiromantik geleneğe dair aktarım; nehirlerde yüzme rüyasının bedenle ilgili nem fazlalığı gibi tıbbi bir belirti olarak yorumlandığını örnekler.",
+      "url": "https://www.athensjournals.gr/health/2021-8-2-1-Oberhelman.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un Oneirocritica adlı eserinin rüya yorumunda sınıflandırma ve yorum araçları kullanan bir antik el kitabı olduğunu özetler; yüzme gibi su-eylem imgelerinin bu gelenek içinde düşünülmesini bağlamlandırır.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri | Bilmesek olmaz - Nedir? Nasıl ...",
+      "relevance": "Çevrimiçi derlemelerde suda yüzme ve deniz/nehirde yüzme motiflerinin düşmana galip gelme ve inancın sağlamlığıyla ilişkilendiğine dair modern aktarımları sunar.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/imam-nablusi-ruya-tabirleri/"
+    },
+    {
+      "title": "Apostle David E. Taylor [Official Site] - Joshua Media Ministries",
+      "relevance": "Yüzme rüyasının Kutsal Ruh’la ilişkili bir ruhsal etkinlik, ibadet ve hizmet bağlamında yorumlandığını gösterir.",
+      "url": "https://joshuamediaministries.org/dreams/swimming/"
+    },
+    {
+      "title": "Swimming pool",
+      "relevance": "Havuz sembolü üzerinden Kutsal Ruh, bereket, kilise, ev ve aile çağrışımlarını veren Hristiyan yorum.",
+      "url": "https://joshuamediaministries.org/dreams/swimming-pool/"
+    },
+    {
+      "title": "Dream About Swimming: Understanding Your Swimming in Ocean ...",
+      "relevance": "Su içinden geçişi vaftiz, dönüşüm ve yeni başlangıç çerçevesinde yorumlayan Hristiyan mistik yaklaşım.",
+      "url": "https://m-p-a.org/en/dreams/swimming/"
+    },
+    {
+      "title": "Biblical & Spiritual Meaning of Swimming In Dreams",
+      "relevance": "Yüzme rüyasını Kutsal Ruh, arınma ve yenilenme ile ilişkilendiren çağdaş Hristiyan anlatı.",
+      "url": "https://www.youtube.com/watch?v=euCAAuLhAuA"
+    },
+    {
+      "title": "Swimming Dreams/Swimming in a Dream/Biblical Dream ...",
+      "relevance": "Yüzme rüyasını Tanrı ile uyum, daha derin yakınlık ve ruhsal güçlenme şeklinde yorumlayan çağdaş Hristiyan anlatı.",
+      "url": "https://www.youtube.com/watch?v=H066GMIaaCI&vl=en-US"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Talmudik metinlerde rüyaların yorumlanabilirliğine dair çerçeveyi özetler; su ve nehir imgelerinin rüya bağlamında ele alınmasına ilişkin temel bir kaynak sağlar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 112 - Talmud Bavli Study",
+      "relevance": "Berakhot içindeki nehir rüyası pasajını verir; su/nehir imgesinin rüya bağlamında yorumlanmasına doğrudan örnek sağlar.",
+      "url": "https://talmudbavli.app/en/texts/Berakhot.112.1"
+    },
+    {
+      "title": "Dream Accounts in the Hebrew Bible and Ancient Jewish Literature",
+      "relevance": "Eski İbranî ve Yahudi edebiyatında rüya anlatılarının tarihsel incelemesini sunar; Yahudi rüya çalışmaları için akademik bağlam sağlar.",
+      "url": "https://www.theology.ox.ac.uk/publication/1059867/manual"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Tibet Budist metinlerinde okyanus/su imgelerinin bodhisattva basamakları ve manevi ilerlemeyle ilişkilendirilebileceğine dair bir örnek sunar.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "Spiritual Meaning of Swimming in a Dream: Jungian ...",
+      "relevance": "Yüzme rüyasını duygusal ve ruhsal akış, bilinçdışıyla ilerleme ve içsel yolculuk olarak yorumlayan modern spiritüel bir çerçeve sunuyor.",
+      "url": "https://www.selfgazer.com/blog/swimming-dream-spiritual-meaning"
+    },
+    {
+      "title": "Dreaming About Swimming: Meaning, Psychology & Symbolism",
+      "relevance": "Yüzmeyi suyla bağlantılı dönüşüm, arınma ve ruhsal geçiş temaları içinde ele alıyor; yüzme sembolünü daha geniş spiritüel yorumlarla ilişkilendiriyor.",
+      "url": "https://dreammeaning.today/meaning/swimming"
+    },
+    {
+      "title": "Swimming Dream Meaning & Interpretation - Mirror",
+      "relevance": "Yüzme ve suyu birlikte ele alarak yüzmeyi bilinçdışıyla aktif ilişki, içsel keşif ve ruhsal yenilenme bağlamında yorumluyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/swimming/"
+    },
+    {
+      "title": "Alchemical Symbolism in Dreams: Nigredo to Rubedo",
+      "relevance": "Simyasal yorumlarda su imgelerinin çözülme ve yeniden biçimlenme süreçleriyle ilişkisini ve yüzmenin bu süreç içindeki yönlendirici rolünü tartışır.",
+      "url": "https://www.liminaut-labs.org/blog/alchemical-symbolism-dreams-nigredo-rubedo/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
 }

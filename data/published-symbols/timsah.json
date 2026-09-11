@@ -1,176 +1,218 @@
 {
   "slug": "timsah",
   "title": "timsah",
-  "shortDescription": "Rüyada timsah görmek, bastırılmış duygulara, güçlü dürtülere ya da fark edilmeyen bir tehdide işaret edebilir. Aynı zamanda güç, korunma ve dönüşüm temalarını da çağrıştırır.",
+  "shortDescription": "Rüyalarda timsah, su ile kara arasındaki eşiği bekleyen soğukkanlı, pusuya yatmış bir yırtıcı imgesidir. Gizli düşmanlık, bastırılmış ilkel içgüdüler ve geçiş ya da dönüşüm dönemlerinde sınır bekçiliği ile stratejik sabırla ilişkilendirilebilir.",
   "positiveAssociations": [
-    "Güç",
-    "Koruma",
-    "Bereket",
-    "Yaşamsal dönüşüm"
+    "Suda hareketsiz durarak sergilediği stratejik sabır ve hesaplı bekleyiş.",
+    "Su ile kara eşiğinde koruyucu ve denetleyici bir sınır bekçiliği (geçiş dönemlerinde içsel dayanıklılık).",
+    "İlkel sezgi ve kriz anında hızlı, soğukkanlı tepki verebilme potansiyeli.",
+    "Gizli kalan savunma kaynakları, görünmez güçler veya direnç."
   ],
   "challengingAssociations": [
-    "Tehlike",
-    "Saldırganlık",
-    "Bilinçdışının yutucu gücü",
-    "Dizginsiz zihinsel dürtüler ve kaba arzular"
+    "Pusuya dayalı ani saldırı riski; beklenmedik zarar veya ihanete maruz kalma korkusu.",
+    "Güçlü çene ve yutucu bir tehdit hissi; boğulma veya yaralanma imgeleriyle bağlantı.",
+    "Suda saklanan düşmanlık, hilekârlık veya sinsi sömürü motifleri (kültürel aktarılarda sık rastlanır).",
+    "Bastırılmış dürtülerin birdenbire yüzeye çıkması ve kontrol kaybı hissi."
   ],
   "contextDependentAssociations": [
-    "Toprak ve su dengesi",
-    "Otorite figürleriyle ilişkiler",
-    "Ruhsal engellerle mücadele"
+    "Timsahın su içindeki konumu (yüzeyde bekleyen, hemen altında gizlenen) bilinçdışı süreçler ve gizli planlarla ilişkilendirilebilir; karada görünmesi ise tehdidin görünürleşmesiyle ilişkilendirilebilir.",
+    "Timsahın size dönük davranışı —pasif bekleyiş mi yoksa saldırı mı— rüyanın yorumunda kritik ayrım oluşturur.",
+    "Kültürel bağlam (Mısır ve Nil imgeleri, yerel tabir geleneği), timsahın dışsal düşman, ahlaki kirlenme veya kadim koruyucu şeklinde farklı okunmasına yol açabilir."
   ],
   "commonVariations": [
     {
-      "title": "Sakin suda duran timsah",
-      "description": "Suyun yüzeyinde veya kıyısında sessizce bekleyen bir timsah görmek, henüz açığa çıkmamış potansiyel bir gerilimi veya bastırılmış bir duygusal içeriği simgeleyebilir."
+      "title": "Suda Hareket Etmeyen Timsah",
+      "description": "Timsahın su yüzeyinde hareketsiz durması, görünürde sessiz ama altında faal olan bir tehdidin, bastırılmış duyguların ya da henüz harekete geçmemiş stratejik bir planın varlığına işaret edebilir."
     },
     {
-      "title": "Timsahın saldırısından kaçmak",
-      "description": "Rüyada bir timsahın kovaladığını veya saldırısına uğradığını görmek, kişinin hayatındaki baskın bir tehdit algısıyla veya yüzleşmekten kaçındığı içgüdüsel dürtülerle ilişkilendirilebilir."
+      "title": "Timsahın Sizi Sudan Çekmesi",
+      "description": "Rüyada timsahın sizi suya çekmesi, boğulma, yutulma veya kontrol kaybı imgeleri üzerinden bilinçdışının baskın duygusal dalgaları veya sizi ele geçirme potansiyeli taşıyan dürtülerle ilişkilendirilebilir."
     },
     {
-      "title": "Timsah derisi veya figürüyle karşılaşmak",
-      "description": "Canlı olmayan timsah öğeleri (ör. timsah derisi, heykel veya figürler) görmek, geçmişin arkaik katmanları, koruma mekanizmaları ve köklü savunma biçimleri üzerine düşündürebilir."
+      "title": "Timsahı Sudan Karaya Çıkarmak",
+      "description": "Timsahı sudan karaya çektiğinizi görmek, gizli bir düşmanlığı ortaya çıkarma, saklı bir tehdidi etkisizleştirme ya da bilinçdışındaki bir içeriği bilince çıkarıp kontrol etme çabası olarak okunabilir."
     },
     {
-      "title": "Bulanık suda timsah görmek",
-      "description": "Bulanık veya derin sularda gizlenen bir timsah, zihnin karanlıkta kalan yönlerini, fark edilmeyen engelleri ve belirsizlik ortamındaki gizli tehlikeleri temsil edebilir."
+      "title": "Karasal Alanda Karşılaşılan Soğukkanlı Timsah",
+      "description": "Karada doğrudan karşınıza çıkan bir timsah, psişenizdeki ilkel katmanların belirmesine, bastırılmış dürtülerin artık gizlenememesine ya da dış dünyadan gelen açık bir tehdidin sembolü olmasına işaret edebilir."
     }
   ],
-  "psychology": "Ampirik psikoloji araştırmaları, timsahlara veya tehlikeli hayvanlara verilen bilişsel tepkiler ve tehdit algısı üzerine odaklanır; ancak bu hayvanların rüyalardaki sembolik anlamlarına dair kesin bir genelleme sunmaz. Psikanalitik kuramda ise timsah imgesi, fallik sembolizm, bastırılmış arzular, saldırganlık ve yüzeye çıkan korkutucu anılarla ilişkilendirilir.",
-  "jungian": "Jungcu ve analitik psikoloji çerçevesinde timsah, tarih öncesi ve arkaik bir sürüngen olarak ele alınır. Bilinçdışının yutucu gücünü, yıkıcı yönlerini, kişinin entegre etmesi gereken ilkel ruhsal içerikleri ve yaşamsal dönüşüm potansiyelini temsil eder.",
-  "islamicTradition": "",
-  "christianTraditions": "Hristiyan sembolizminde timsah, genellikle Leviathan ile bağdaştırılarak kaos, tehlike ve dizginlenmemiş doğa güçlerinin bir alegorisi olarak ele alınır. Orta Çağ monastik yazınında ise şeytan ve cehennem gibi kavramlarla ilişkilendirilen edebi bir figürdür.",
-  "jewishTraditions": "Kabalistik gelenekte Büyük Nil Timsahı, Firavun'un ve Mısır'ın baskıcı gücüyle ilişkilendirilen mistik bir sembolik çerçeve sunar.",
-  "buddhistEasternApproaches": "Budist ve Vajrayana bağlamında timsah, samsara döngüsündeki gizli tehlikeleri, ruhsal ilerlemeyi engelleyen unsurları, dizginlenmesi gereken kaba arzuları ve zihinsel dağınıklığı simgeleyen bir metafordur.",
-  "spiritualApproaches": "Hindu geleneklerinde makara figürüyle bağlantılı timsah, Ganga ve Varuna gibi tanrısal varlıklarla ilişkilendirilir. Su, derinlik, eşik koruyuculuğu ve Gajendra anlatısında görülen ruhsal mücadele, engel ve dayanıklılık temalarını barındırır.",
+  "psychology": "Ampirik rüya araştırmaları, hayvan imgelerinin rüyalarda sıklıkla tehdit, saldırı ve agresyon bağlamında yer aldığını ve bunun timsah rüyalarında da görülebileceğini gösterir. Bununla birlikte bulgular, tek bir hayvan sembolünden evrensel bir anlam çıkarmayı desteklemez; timsah için yorum yaparken rüyanın duygusal tonu, sahnedeki ilişkiler ve su ile kara konumu göz önünde tutulmalıdır.",
+  "jungian": "Jungcu aktarım ve yorumlarda timsah, psikede çok eski, arkaik bir katmana işaret eden soğukkanlı bir sürüngen olarak görülür. Bu çerçevede timsah bilinçdışından gelen 'yutucu' veya aşağı çekici niteliği temsil edebilir; aynı zamanda antik (ör. Mısır) bağlamlara atıfla numinöz, kadim bir içeriğin taşıyıcısı olarak da okunabilir — bunlar tekil, belirleyici sonuçlar değil, olası yorumlardır.",
+  "islamicTradition": "Modern İslami rüya tabirlerinde timsah sıkça düşman, hilekâr kişi, hırsız veya zalim otorite figürüyle ilişkilendirilir; rüyanın ayrıntılarına göre (ör. sudan çıkarma, boğma) zafer, zarar veya helâk gibi farklı okumalar yapılır. Klasik kaynaklar bakımından doğrudan ve tekil hüküm sınırlı olduğundan bu aktarımlar kontrollü bir biçimde sunulmalıdır.",
+  "christianTraditions": "Hristiyan sembolik çerçevede timsah doğrudan merkezi bir rüya sembolü değildir; daha ziyade Leviathan ve kaos temasıyla Mısır bağlamı üzerinden tehlike, düzensizlik ve denetlenemeyen güç çağrışımları verir. Bu bağlamlar rüyada timsah görüldüğünde dikkat edilmesi gereken kültürel yorum ipuçları sağlar.",
+  "jewishTraditions": "Yahudi metinlerinde doğrudan bir 'timsah' rüya girdisi sınırlı olup, sembolik olarak timsah (tannin) gibi büyük su yaratıklarıyla ilişkilendirme yapılabilir. Bu nedenle yorum, Tora ve rabbanî gelenekteki büyük deniz-canavarı imgeleriyle kontrollü bir sentez şeklinde ele alınmalıdır.",
+  "buddhistEasternApproaches": "Budist anlatılarda (Jātaka örnekleri ve Vajrayana bağlantıları) timsah genellikle doyumsuz arzu, tuzak ve kontrol edilmesi gereken ham güçlerin metaforu olarak kullanılır. Bu kullanım rüya bağlamında doğrudan tekil bir anlam vermez; daha ziyade ahlaki ve ruhsal engelleri işaret eder.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel okumalarda timsah, hem gizli tehlike/ıstırap potansiyelini hem de eşik bekçisi niteliğini taşıyabilir; suyla ilişkisi duygusal derinlik ve sezgisel bilgeliği çağrıştırırken, timsahın pusuya yatma niteliği dikkatle değerlendirildiğinde kişiye uyarı veya içsel güç kaynağı olarak yorumlanabilir.",
   "comparisonTable": [
     {
-      "approach": "Psikanaliz",
-      "interpretation": "Bastırılmış dürtüler, saldırganlık ve cinsel gerilimlerin imgelenmesi.",
-      "evidenceLevel": "theoretical"
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Hayvan imgelerinin genel olarak tehdit ve agresyon bağlamında görülme eğilimini ve sembolün tek bir anlamla sınırlanamayacağını vurgular.",
+      "evidenceLevel": "research"
     },
     {
       "approach": "Jungcu Analiz",
-      "interpretation": "Arkaik içgüdüler, bilinçdışının yutucu gücü ve yaşamsal dönüşüm.",
+      "interpretation": "Timsahı ilkel, arkaik ve bilinçdışının aşağıdan yükselen energileriyle ilişkilendirir; tarihsel/numinöz bağlamlara atıf yapar.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Hristiyan Sembolizmi",
-      "interpretation": "Leviathan ekseninde kaos, tehlike ve cezbedici karanlık güçler.",
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Modern tabir aktarımlarında timsahı düşman, hilekâr kişi veya zalim otoriteyle ilişkilendirir; rüya ayrıntılarına göre zafer/zarar ayrımı yapılır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hindu/Doğu Gelenekleri",
-      "interpretation": "Makara figürü, eşik bekçiliği, su derinlikleri ve ruhsal mücadele.",
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Timsahı eşik bekçisi, içgüdüsel bilgelik veya gizli tehlike olarak yorumlar; su ile olan bağlantısını sezgi ve duygusal derinlikle ilişkilendirir.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı geleneklerde ve teorik ekollerde timsah, genellikle derin sular, gizli tehditler, ezici güç ve kontrol edilmesi gereken ilkel kuvvetler etrafında şekillenir.",
-  "differences": "Psikanalitik ve Jungcu yaklaşımlar sembolü bireyin içsel dürtüleri ve bilinçdışı yapısıyla açıklarken, Hristiyanlık ve Doğu gelenekleri onu daha çok kozmik kaos, dışsal engeller veya ruhsal dönüşüm yolları üzerinden ele alır.",
-  "inusAssessment": "Timsah rüyası, sabit bir kehanet veya tekil bir anlam taşımaz. İmgenin su, tehlike ve ilkel güç unsurları barındırması, rüya görenin bireysel psikolojik bağlamı, uyanık yaşamındaki tehdit algıları ve içsel çatışmaları ışığında çok katmanlı bir şekilde ele alınmalıdır.",
-  "faq": [],
-  "sources": [
+  "commonGround": "Araştırma ve geleneklerin çoğu timsahı kontrol edilmesi güç, bekleyici ve su ile kara eşiğinde konumlanmış bir tehdit ya da enerji olarak ele alır; birçok kültürde timsah imgeleri gizli tehlike, ilkel dürtü veya sınır bekçiliği temalarını çağrıştırır.",
+  "differences": "Kimi yaklaşımlar timsahı dışsal bir düşman veya ahlaki kirlenme olarak okurken (geleneksel tabirler, bazı kültürel bağlamlar), psikoloji ve spiritüel okumalar onu bilinçdışının ilkel katmanları, sezgi veya dönüşüm eşiğinde bir figür olarak değerlendirir; ayrıca yorumlar timsahın su ya da karadaki konumuna göre değişir.",
+  "inusAssessment": "Timsah sembolünü diğer hayvan rüyalarından ayıran temel unsur, su ile karanın kesiştiği aralıkta yer almasıdır. Timsahın pasif bekleyişi mi yoksa ani saldırısı mı olduğu, çenenin yutucu niteliği ve rüyanın su ya da karadaki sahnelemesi, tehdidin dışsal bir düşmandan mı yoksa psişenin derinliklerinden yükselen ham içgüdülerden mi kaynaklandığını ayırt etmede belirleyicidir.",
+  "faq": [
     {
-      "title": "Thinking with Crocodiles: An Iconic Animal at the Intersection of Early-Modern Religion and Natural Philosophy - PubMed",
-      "relevance": "Erken modern dönemde timsahın din ve doğal felsefe kesişimindeki kültürel anlamlarını ele alır.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/26411067/"
+      "question": "Rüyada timsah görmek kesinlikle gerçek hayatta bir düşmanım olduğu anlamına mı gelir?",
+      "answer": "Hayır. Araştırmalar tek bir sembole dayanarak böyle kesin ve değişmez sonuçlar çıkarmayı desteklemez; timsah dışsal bir düşmanı, içsel bir tehdidi veya sınırda bekleyen bir durumu simgeleyebilir. Rüyanın duygusal tonu ve ayrıntıları belirleyicidir."
     },
     {
-      "title": "[PDF] The Esthetic Values of depicting the Crocodile in Pre- Dynasty and ...",
-      "relevance": "Eski Mısır’da Sobek ve timsahın dinsel, koruyucu ve tehlikeli boyutlarını örnekler.",
-      "url": "https://aaciaegypt.com/wp-content/uploads/2021/10/The-Esthetic-Values-of-depicting-the-Crocodile-in-Pre-Dynasty-and-Old-Kingdom.pdf"
+      "question": "Timsah sudaysa ne, karadaysa ne anlama gelebilir?",
+      "answer": "Genel bir eğilim olarak timsahın suda olması bilinçdışı süreçler, bastırılmış duygular veya duygusal derinliklerle ilişkilendirilebilir; karada görünmesi ise tehdidin görünürleşmesi, bilinç düzeyinde ele alınması gereken bir durum veya dışsal bir tehlikeyle ilişkilendirilebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dreams with animals in psychotherapeutic pro- cess",
+      "relevance": "Hayvan imgelerinin rüyalarda sıkça tehdit ve agresyon bağlamında ortaya çıktığına dair ampirik arka plan sağlar; timsah rüyalarının tehdit-vurgu olasılığını destekleyen bir kaynaktır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/83826/82597/234814"
+    },
+    {
+      "title": "Are Dreams Social Simulations? (Domhoff, 2018)",
+      "relevance": "Rüya içerik analizleri ve tehdit simülasyonu çerçevesi üzerinden hayvan içeren rüyaların yorumlanmasında dikkat edilmesi gereken sınırlamaları ve eğilimleri belirtir.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2018.html"
+    },
+    {
+      "title": "[PDF] This electronic thesis or dissertation has been downloaded from the ...",
+      "relevance": "Freud’un suyu rüyalarda doğum ve anne karnı fantazileriyle ilişkilendirmesini tartışır; timsahın suyla bağlantılı sahnelerinde kullanılabilecek Freudcu çerçeveyi gösterir.",
+      "url": "https://kclpure.kcl.ac.uk/ws/portalfiles/portal/75140223/2017_Bryan_Alice_Haylett_0736690_ethesis.pdf"
+    },
+    {
+      "title": "Freud, Psychoanalysis, and Symbolism",
+      "relevance": "Freud’un bir mektuplaşmasında ve yorum geleneğinde, sudan çıkma ya da suya girmenin doğumla eşleştirilmesini örnekler; timsahın suyla birlikte görülmesi halinde yakın sembolik bağlam sağlar.",
+      "url": "https://www.ndl.ethernet.edu.et/bitstream/123456789/45242/1/268.pdf"
+    },
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Freud’un su imgelerini doğum ve rahim içi yaşam bağlamında ele alışını gösterir; timsahın suyla kurduğu sahnelerde kullanılabilecek Freudcu bir çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/262 - Wikisource, the free online library",
+      "relevance": "Rüyalarda su imgesinin doğumla bağlantısını klasik metin üzerinden doğrulayan pasajı içerir; timsahın sucul sahnesi için doğrudan değil, bağlamsal okuma sağlar.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/262"
     },
     {
       "title": "Carl Jung Dream Analysis Seminar",
-      "relevance": "Jung’un timsahı arkaik içgüdüsellik ve bilinçdışıyla ilişkilendiren yorumunu içerir.",
+      "relevance": "Jungçu aktarım kaynaklarında timsahın ilkel, arkaik ve numinöz yönlerle ilişkilendirildiğine dair örnekler sunar.",
       "url": "https://carljungdepthpsychologysite.blog/2020/08/18/dream-20/"
     },
     {
-      "title": "CROCODILES AND THE ANCIENT MAYA:",
-      "relevance": "Maya ikonografisinde timsahın toprak, su ve bereketle ilişkili kullanımını gösterir.",
-      "url": "https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/MR68216.PDF?is_thesis=1&oclc_number=812063469"
+      "title": "dream | The Child Who Dreamed of a Tortoise",
+      "relevance": "Jung’un timsahı bilinçdışının yutucu yönü, soğukkanlı sürüngen psikolojisi ve aşağıdan yükselen yaşamsal dürtülerle ilişkilendirdiği aktarılan pasajları içerir.",
+      "url": "https://carljungdepthpsychologysite.blog/2021/03/26/dream-25/"
     },
     {
-      "title": "integrating cultural values in Philippine crocodile ...",
-      "relevance": "Filipinler’de timsahın ata, bereket, mistik güç ve toplumsal anlamlarla ilişkilendirilmesini anlatır.",
-      "url": "https://scholarlypublications.universiteitleiden.nl/access/item:2940474/view"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritik gelenekte timsahın genellikle uğursuz/tehditkâr hayvanlar arasında görüldüğünü ve düşmanlık temasına bağlandığını gösteren tarihsel bir referanstır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "A Cultural Herpetology of Nile Crocodiles in Africa : Conservation and Society",
-      "relevance": "Nil timsahlarının Afrika’da sosyal ve siyasal otoriteyle bağlandığı kültürel kullanımları özetler.",
-      "url": "https://journals.lww.com/coas/fulltext/2016/14040/a_cultural_herpetology_of_nile_crocodiles_in.9.aspx"
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual",
+      "relevance": "Artemidorus’un Oneirocritica’sındaki hayvan bölümlerinin bağlamını veren akademik çalışma; timsahların uğursuz hayvanlar arasında yer aldığını gösterir.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?guestAccessKey="
     },
     {
-      "title": "The Poetics of the Crocodile: Changing Cultural Perspectives in Ambonwari",
-      "relevance": "Timsahla bağlantılı performatif anlatıların yeni doğuş ve dönüşüm temalarıyla ilişkisini gösterir.",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1002/j.1834-4461.2008.tb00038.x"
+      "title": "İmam Nablusi Rüya Tabirleri T Harfi",
+      "relevance": "Modern İslami rüya tabirlerinde timsahın düşman, hilekâr veya zalim otorite figürü olarak yorumlandığına dair aktarımları derler.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-t-harfi.html"
     },
     {
-      "title": "Signification : Crocodile - Psychologies.com",
-      "relevance": "Timsahın psikanalitik çağrışımlarını ve korku-dürtü eksenini özetler.",
-      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Crocodile"
+      "title": "Timsah Rüyada Görmek İmam Nablusi",
+      "relevance": "Timsahın polis, hain hırsız ve zalim tüccar olarak yorumlandığını; boğulma ve karaya çıkarma ayrıntılarının da anlamı değiştirdiğini aktaran modern bir derleme.",
+      "url": "https://www.islamda.org/2015/06/timsah-ruyada-gormek-imam-nablusi.html"
     },
     {
-      "title": "The Archetype of the Crocodile - This Jungian Life",
-      "relevance": "Jungcu yorumda timsahın bilinçdışıyla, yıkıcı güç ve dönüşümle olan bağını örnekler.",
-      "url": "https://thisjungianlife.com/episode-192-the-archetype-of-the-crocodile/"
+      "title": "Rüyada Timsah Görmek Ne Anlama Gelir? ...",
+      "relevance": "Timsahın düşman, hilekâr kişi ve tüccar ile ilişkilendirildiği kısa bir İslami rüya tabiri aktarımı.",
+      "url": "https://www.cnnturk.com/astroloji/ruya-tabirleri/ruyada-timsah-gormek-ne-anlama-gelir-ruyada-timsahtan-kacmak-neye-isarettir-1682075"
+    },
+    {
+      "title": "Crocodile - Encyclopedia of The Bible",
+      "relevance": "Timsahın İncil bağlamındaki hayvan-simgesi olarak Mısır, kirlenme ve tehlike çağrışımlarını verir.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Crocodile"
+    },
+    {
+      "title": "25 Animals in the Bible and What They Symbolize - UniGuide",
+      "relevance": "Timsahın İncil’de tehlike, yıkım ve kötülükle ilişkilendirildiğini ileri süren çevrim içi derleme.",
+      "url": "https://www.uniguide.com/animals-bible"
     },
     {
       "title": "Bible Study: Are Crocodiles Significant in the Bible?",
-      "relevance": "Hristiyan sembolizminde timsahın Leviathan ve kaos/tehlike çağrışımlarıyla ilişkilendirilmesini açıklar.",
+      "relevance": "Timsahın Leviathan, kaos ve tehlike çağrışımlarıyla birlikte yorumlandığı çevrim içi Hristiyan içerik örneklerini sunar.",
       "url": "https://christianpure.com/learn/crocodiles-bible/"
     },
     {
-      "title": "The Desert Fathers' Beasts: Crocodiles in Medieval German Monastic Literature",
-      "relevance": "Ortaçağ Hristiyan monastik bağlamında timsahın şeytan ve cehennemle ilişkilendirilen alegorik kullanımını gösterir.",
-      "url": "https://riviste.unimi.it/interfaces/article/download/9625/pdf/33468"
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Babil Talmudu Berakhot’un çevrimiçi metin erişimi, rüya bahislerine giden kapı niteliğindedir; fakat timsah için doğrudan bir rüya girdisi göstermiyor.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
     },
     {
       "title": "Great Crocodile of the Nile - Pharaoh represented ...",
-      "relevance": "Kabalistik bağlamda Büyük Nil timsahı, Firavun ve Mısır'ın baskıcı gücüyle ilişkilendirilen bir sembolik çerçeve sunar.",
+      "relevance": "Mısır ve Yahudi mistik bağlamında \"Büyük Nil Timsahı\" imgesi, timsahın kirlenme ve kaos ile Firavun’un gücü bağlamında sembolik kullanımını gösterir.",
       "url": "https://www.chabad.org/kabbalah/article_cdo/aid/379818/jewish/Great-Crocodile-of-the-Nile.htm"
     },
     {
+      "title": "Tannin",
+      "relevance": "'Tannin' kelimesinin modern İbranice'deki timsah/alligator karşılığını ve Yahudi metinlerde büyük su yaratığı, yılan, ejderha gibi anlam alanlarını inceler; böylece timsahı Yahudi sembolizminde konumlandırmak için dilsel arka plan sağlar.",
+      "url": "https://brickthology.com/2020/01/08/tannin/"
+    },
+    {
+      "title": "Crocodile: Significance and symbolism",
+      "relevance": "Budist ve Doğu anlatılarında timsahın arzular, tuzaklar ve aşılması gereken engeller metaforu olarak nasıl kullanıldığını özetler.",
+      "url": "https://www.wisdomlib.org/concept/crocodile"
+    },
+    {
       "title": "CROCODILE - Re-Heritage - Ministry of Home Affairs",
-      "relevance": "Butan Vajrayana Budizmi bağlamında timsahın samsara içindeki gizli tehlikeler ve ruhsal ilerlemeyi engelleyen unsurlar için metaforik kullanımını ele alır.",
+      "relevance": "Bhutan/Vajrayana kültüründe timsahın gizli tehlikeler ve zihinsel engeller için metafor olarak nasıl kullanıldığını açıklar.",
       "url": "https://dcdd.moha.gov.bt/collection/crocodile/"
     },
     {
+      "title": "Ja 224 The Birth Story about the Crocodile (2s)",
+      "relevance": "Crocodile Jātaka anlatısının metni, timsahın Budist öğretici öykü içindeki rolünü gösterir.",
+      "url": "https://ancient-buddhist-texts.net/English-Texts/Jataka/224.htm"
+    },
+    {
       "title": "0002 | Conch-Crocodile",
-      "relevance": "Budist bağlamda timsahın dizginsiz zihin, gizli tehlike ve kaba dürtülerle ilişkilendirilen sembolik anlatımını inceler.",
+      "relevance": "Timsahı Vajrayana sembolizminde ham güç, tehlike ve denetlenmesi gereken iç eğilimlerle ilişkilendirir.",
       "url": "https://dcdd.moha.gov.bt/collection/conch-crocodile/"
     },
     {
-      "title": "Crocodiles in Hindu Mythology",
-      "relevance": "Hindu gelenekte makaranın timsah ya da deniz canavarı biçimini, Ganga ve Varuna ile ilişkisini, eşik koruyuculuğunu ve Gajendra anlatısında görülen ruhsal mücadele temalarını ele alır.",
-      "url": "https://jeevoka.com/crocodiles-in-hindu-mythology/s"
+      "title": "Ja 342 The Birth Story about the (Clever) Monkey (4s)",
+      "relevance": "Timsahın arzu, tuzak ve aldatıcı tehlike temasını taşıdığı Jātaka anlatısını sunar.",
+      "url": "https://ancient-buddhist-texts.net/English-Texts/Jataka/342.htm"
     },
     {
-      "title": "Makara",
-      "relevance": "Hindu ve Budist sanatında makaranın, timsah öğesiyle bağlantılı çok biçimli su varlığı olarak temsiline ve eşik/koruma sembolizmine odaklanır.",
-      "url": "https://iwell-guard.com/en/makara/"
+      "title": "Spiritual Meaning of a Crocodile in a Dream: Jungian ...",
+      "relevance": "Modern spiritüel/yorumlayıcı kaynaklarda timsahın içgüdü, gölge ve kadim güç temalarıyla nasıl ilişkilendirildiğine dair örnekler sunar.",
+      "url": "https://www.selfgazer.com/blog/crocodile-dream-spiritual-meaning"
     },
     {
-      "title": "Makara: Mythical Creatures",
-      "relevance": "Hindu bağlamında timsah unsurunun makara içindeki yerini ve su, derinlik ile sınır-eşiği temalarıyla ilişkisini açıklar.",
-      "url": "https://mythicalencyclopedia.com/makara/"
-    },
-    {
-      "title": "Makara in Hindu Scriptures: Powerful Seven-Animal Symbol of ...",
-      "relevance": "Hindu sembolizminde makaranın timsah unsurunun su, güç, koruma ve eşik bekçiliği temalarıyla ilişkisini açıklar.",
-      "url": "https://blog.dharma-renaissance.org/scriptures/makara-in-hindu-scriptures-powerful-seven-animal-symbol-of-water-and-wisdom/"
-    },
-    {
-      "title": "Makara: Significance and symbolism",
-      "relevance": "Hinduizmde makaranın timsah/deniz-canavarı olarak görülen biçimi ve devalarla ilişkili simgesel kullanımını özetleyen giriş.",
-      "url": "https://www.wisdomlib.org/concept/makara"
-    },
-    {
-      "title": "Powerful crocodile: Significance and symbolism",
-      "relevance": "Vaisnavizmde güçlü timsah, Gajendra anlatısıyla ilişkilendirilen engel ve ruhsal mücadele metaforunu ele alır.",
-      "url": "https://www.wisdomlib.org/concept/powerful-crocodile"
+      "title": "What Do Dreams of Crocodiles Mean? | Sleep Matters",
+      "relevance": "Rüyada timsahı ruhsal açıdan güç, korku ve sınanma ile ilişkilendiren modern bir yorum sayfasıdır; aynı zamanda temkin ve aldatma temasını da vurgular.",
+      "url": "https://www.dreams.co.uk/sleep-matters-club/what-do-dreams-about-crocodiles-mean"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
 }

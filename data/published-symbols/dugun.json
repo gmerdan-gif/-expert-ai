@@ -1,133 +1,189 @@
 {
   "slug": "dugun",
-  "title": "düğün",
-  "shortDescription": "Rüyada düğün görmek; birlik, yeni başlangıçlar ve tamamlanma arayışıyla ilişkilendirilir. Sade ve huzurlu bir tören uyum ve hayırlı bağlara, gürültülü ya da karmaşık bir düğün ise geleneksel yorumlarda karmaşa ve dönemsel zorluklara işaret edebilir.",
+  "title": "Düğün",
+  "shortDescription": "Rüyada düğün görülmesi, evlilik, taahhüt, statü değişimleri, karşıt unsurların birleşimi ve psişik bütünleşme gibi pek çok katmanlı temayı barındıran zengin bir semboldür.",
   "positiveAssociations": [
-    "Birlik ve tamamlanma",
-    "Yeni başlangıçlar ve hayırlı bağlar",
-    "Toplumsal uyum ve neşeli törensel paylaşım",
-    "İçsel bütünleşme"
+    "Üzüntü ve kederin ortadan kalkması",
+    "İçsel uyum ve bütünleşme",
+    "Yüksek rütbe ve toplumsal kabul",
+    "Ruhsal olgunlaşma"
   ],
   "challengingAssociations": [
-    "Gürültülü veya çalgılı törenlerin getirdiği olumsuzluk çağrışımı",
-    "Musibet veya cenaze çağrışımıyla ilişkilendirilebilen olumsuz geleneksel yorumlar",
-    "Geçiş süreçlerinin yarattığı kamusal baskı"
+    "Özgürlük kaybı korkusu",
+    "Bağlanma ve kısıtlanma gerilimi",
+    "Gürültü, karmaşa ve musibet",
+    "Belirsiz statü geçişleri"
   ],
   "contextDependentAssociations": [
-    "Sade ve düzenli törenlerin uyum ve hayra yorulması",
-    "Gösterişli veya gürültülü düğünlerin bağlama göre farklı ve temkinli biçimde yorumlanması",
-    "Törenin akışına ve rüya sahibinin hissettiği duygulara göre şekillenen anlamlar"
+    "Bekâr kişiler için yeni bir yaşam evresi veya statü değişimi.",
+    "Hasta kişiler için geleneksel tabirlere göre düğün imgesi, yaşamın eşikleriyle veya ölümle ilişkilendirilebilecek geçiş hallerine işaret edebilir.",
+    "Rüya sahibinin düğünün sahibi mi yoksa davetli mi olduğu, rüyadaki ferahlık ya da yük hissini değiştirebilir."
   ],
   "commonVariations": [
     {
-      "title": "Sade ve Sakin Bir Nikâh Törenine Katılmak",
-      "description": "Gürültüden uzak, sakin bir atmosferde gerçekleştirilen bu tören, yaşamda huzurlu bir uyumun ve dengeli geçişlerin habercisi olarak okunur."
+      "title": "Kendi Düğününde Bulunmak",
+      "description": "Rüya sahibinin kendi düğün töreninde yer alması, hayatında büyük bir taahhüt, sorumluluk veya içsel bir kararla yüzleştiğini gösterir."
     },
     {
-      "title": "Kalabalık ve Gürültülü Bir Düğünde Bulunmak",
-      "description": "Yoğun kalabalık ve çalgı seslerinin önde olduğu düğün sahneleri, geleneksel tabirlerde karmaşa veya dönemsel zorluklarla ilişkilendirilir."
+      "title": "Kalabalık Bir Düğüne Davetli Olmak",
+      "description": "Tanıdık veya yabancı yüzlerle dolu bir düğün ziyafetine katılmak, toplumsal aidiyet, çevreyle ilişkiler ve sevinç ya da karmaşa temalarını yansıtır."
     },
     {
-      "title": "Kendi Düğününün Gerçekleştiğini Görmek",
-      "description": "Rüya sahibinin kendi düğün sahnelerine tanıklık etmesi, bilinçli ve bilinçdışı yönlerin bir araya gelmesi ve kişisel bir bütünleşme sürecine işaret eder."
+      "title": "Düğünde Gürültü ve Karmaşa Yaşanması",
+      "description": "Tören sırasında çıkan kargaşa ve gürültü, rüya sahibinin iç dünyasındaki uyumsuzlukları, baskı altında hissedilen kaygıları veya yaklaşan zorlukları işaret eder."
     },
     {
-      "title": "Gelinlik veya Duvak Gibi Tören Unsurlarını Fark Etmek",
-      "description": "Duvak ve benzeri geleneksel detaylar: alçakgönüllülük, koruma, adanmışlık ve toplumsal hafızayla kurulan bağları temsil eder."
+      "title": "Beklenmedik Bir Düğüne Şahit Olmak",
+      "description": "Planlanmamış bir evlilik törenini izlemek, ani bir yaşam geçişine, beklenmedik bir statü değişimine veya ani kararlara delalet edebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "Jungcu analitik psikoloji çerçevesinde düğün imgeleri, coniunctio (karşıtların birleşmesi) kavramı bağlamında ve bireyleşme sürecinde bilinçli ile bilinçdışı yönlerin bir araya gelmesi temasıyla yorumlanır; bu durum psişedeki tamamlanma yönelimini simgeler.",
-  "islamicTradition": "İslami çevrimiçi rüya tabiri geleneğinde düğün bağlama göre farklılık gösterir; sade ve gösterişsiz düğünler hayra yorulurken, çalgılı ve gürültülü organizasyonlar olumsuz kabul edilebilir ve bazı kaynaklarda musibet veya cenaze çağrışımlarıyla ilişkilendirilebilir.",
-  "christianTraditions": "Hristiyan sembolizminde evlilik ve düğün, Kilise ile Mesih arasındaki birlik fikrini taşıyarak teolojik bir anlam kazanır; Kana Düğünü anlatısı da evliliğin sakramental ve mesiyanik boyutlarını öne çıkarır.",
-  "jewishTraditions": "Yahudi geleneksel ve Talmudik kaynaklarda düğün, gelin ve damadın sevincinin Tora'yı almakla benzeştirilmesi, ilahî ilişki, onarım, adanmışlık ve duvak gibi unsurlar aracılığıyla alçakgönüllülük ve topluluk hafızasıyla bağlantılı derin simgesel katmanlar içerir.",
+  "psychology": "Psikolojik açıdan düğün imgesi, ampirik bir rüya kategorisi olarak sabitlenmiş değildir; ancak psikanalitik kuramda bastırılmış arzular, yer değiştirmeler ve özellikle bağlanma ile özgürlük kaybı arasındaki gerilimin bir sahnesi olarak ele alınır.",
+  "jungian": "Analitik psikolojide düğün, karşıtların birleşimi (coniunctio — birleşme) ve içsel bütünleşme sürecinin en güçlü arketiplerinden biridir. Bilinç ile bilinçdışının uzlaştırılması, anima ve animus figürlerinin entegrasyonu ve rüya sahibinin ruhsal olarak daha bütün bir benliğe ulaşma çabası 'iç evlilik' metaforuyla ifade edilir.",
+  "islamicTradition": "Klasik tabir kaynaklarında rüyada düğün görmek, genellikle üzüntü ve kederin ortadan kalkmasına, ferahlığa ve yüksek makamlara işaret eden bir durum olarak ele alınır. Bununla birlikte, rüya sahibinin düğünün ev sahibi olması ile sıradan bir davetli olması arasında yorum farkı bulunur; düğün sahibine bazı zorluklar veya musibet atfedilirken, davetliler için ikramlar varsa sevinç ve ferahlık söz konusu olabileceği belirtilir.",
+  "christianTraditions": "Hristiyan sembolizminde evlilik ve düğün dili, ilahî antlaşma, sadakat ve ruhsal hazırlık temalarıyla örülüdür. Gelin ve güvey arasındaki bağ, Mesih ile kilise arasındaki kutsal birliği temsil eder; dolayısıyla bu bağlamdaki imgeler topluluğa ait olma ve manevi bir ziyafete hazırlık ekseninde okunur.",
+  "jewishTraditions": "",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "Vedik Swapna Shastra yaklaşımında düğün rüyası, gelecekteki bir evlilikten ziyade uyum, bereket, yaşam döngüsünde tamamlanma ve yeni ortaklıklarla ilişkilendirilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda düğün, simyasal evlilik veya kutsal birlik olarak kabul edilir. Ayrı duran parçaların, zıt kutupların ve içsel enerjilerin uyum içinde tek bir bütün oluşturması, ruhsal evrimin ve dengelenmenin göstergesi sayılır.",
   "comparisonTable": [
     {
-      "approach": "Analitik Psikoloji",
-      "interpretation": "Karşıtların birleşmesi, coniunctio ve bireyleşme sürecinde içsel bütünleşme.",
+      "approach": "Psikanaliz",
+      "interpretation": "Bastırılmış arzular, bağlanma kaygısı ve özgürlük kaybı arasındaki gerilimin bir sahnesi.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Geleneksel İslami Tabir",
-      "interpretation": "Törenin niteliğine göre (sade veya gürültülü) hayra ya da musibete yorumlanır.",
+      "approach": "Jungcu Analiz",
+      "interpretation": "Karşıtların birleşimi (coniunctio), iç evlilik ve psişik bütünleşme.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Üzüntünün ortadan kalkması, rütbe, sevinç ya da bağlama göre musibet olasılığı.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan ve Yahudi Teolojisi",
-      "interpretation": "Kilise-Mesih birliği, ilahî onarım, sakramental adanmışlık ve toplumsal hafıza.",
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Mesih ile kilise arasındaki kutsal antlaşma, sadakat ve ruhsal hazırlık.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Vedik / Spiritüel Yaklaşım",
-      "interpretation": "Yaşam döngüsünde uyum, yeni ortaklıklar ve tamamlanma işareti.",
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Simyasal birleşme, içsel uyum ve ruhsal dengeye geçiş.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplinler ve gelenekler, düğün sembolünü ortak bir paydada buluşturarak onu yalnızca romantik bir olay olarak değil, birleşme, geçiş, toplumsal bağ ve yapısal bir tamamlanma ritüeli olarak ele alır.",
-  "differences": "Analitik psikoloji sembolü içsel bireyleşme ve bilinçdışı entegrasyonu olarak açıklarken, dinî gelenekler sakramental adanmışlık, ilahî onarım veya törenin sade veya gürültülü oluşuna bağlı geleneksel uyarılar ekseninde yorumlar.",
-  "inusAssessment": "Düğün sembolü, rüyanın harfi harfine bir evlilik haberi olmaktan öte, bireyin içsel dünyasındaki karşıt unsurların birleşmesini, kamusal ve ruhsal geçiş ritüellerini yansıtan çok katmanlı bir yapıdır. INUS yaklaşımı, bu rüyayı yorumlarken tekdüze ve deterministik kehanetlerden kaçınarak rüyanın atmosferine, törenin sadeliğine ya da gürültüsüne ve rüya sahibinin zihinsel bağlamına odaklanılmasını önerir.",
-  "faq": [
-    {
-      "question": "Rüyada düğün görmek kesinlikle evleneceğim anlamına mı gelir?",
-      "answer": "Hayır. Düğün sembolü genellikle harfi harfine bir evlilikten ziyade birleşme, geçiş, uyum ve içsel tamamlanma temalarına işaret eder."
-    },
-    {
-      "question": "Gürültülü ve kalabalık bir düğün görmek neden olumsuz yorumlanabilir?",
-      "answer": "Bazı geleneksel tabirlerde çalgılı ve gürültülü düğün sahneleri, hayattaki karmaşaları, dönemsel zorlukları veya musibet çağrışımlarını yansıtan bağlamsal göstergeler olarak ele alınır."
-    },
-    {
-      "question": "Jungcu psikolojide düğün rüyası nasıl ele alınır?",
-      "answer": "Jungcu yaklaşımda bu rüya, coniunctio (karşıtların birleşmesi) olarak değerlendirilir ve bireyleşme sürecinde bilinçli ile bilinçdışı yönlerin uyum sağlamasını simgeler."
-    }
-  ],
+  "commonGround": "Farklı gelenekler ve teorik yaklaşımlar, düğün imgesini yüzeysel bir olaydan öte, kişinin hayatındaki ciddi bir taahhüt, bağlanma biçimi ve içsel bir geçiş süreci olarak ele alma eğilimindedir.",
+  "differences": "Psikanalitik ve psikolojik yaklaşımlar konuyu bireysel kaygılar, özgürlük korkusu ve psişik entegrasyon üzerinden incelerken; dini ve geleneksel okumalar toplumsal statü, ilahî antlaşma, ferahlık ya da dönemsel musibetler gibi dışsal ve teolojik göstergelere odaklanır.",
+  "inusAssessment": "Bu rüyanın ne anlama geldiği rüya sahibinin gerçek hayattaki statüsüne, törendeki konumuna (düğünün sahibi veya davetli) ve duygusal durumuna göre değişir.",
+  "faq": [],
   "sources": [
     {
+      "title": "Rêver de mariage : qu'est-ce que ça signifie - Psychologies.com",
+      "relevance": "Freud’a atfedilen özet aracılığıyla, rüyalarda evlilik sahnesinin bazen başka bir içeriğin altına gizlenebilen bir biçimde ortaya çıkabildiğini öne sürer.",
+      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Mariage"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/414 - Wikisource",
+      "relevance": "Freud’un Die Traumdeutung içindeki pasajlara dayanarak, evlilik imgelerinin özgürlüğün kaybı korkusuyla ilişkilendirilebileceğine dair bir kaynak sunar.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/414"
+    },
+    {
       "title": "Wedding Dreams: Symbols of Sacred Union and Inner ...",
-      "relevance": "Düğün imgelerinin Jungcu yorumunu ve kültürel tarih içindeki evlilik ritüeli bağlamını birlikte ele alan çevrimiçi akademik/yorumlayıcı kaynak.",
+      "relevance": "Jungcu yorum çerçevesinde düğün düşlerini kutsal birlik, iç dönüşüm ve psişik bütünleşme temalarıyla ilişkilendirir.",
       "url": "https://thisjungianlife.com/wedding-dreams/"
     },
     {
-      "title": "Wedding Traditions: A Cultural History",
-      "relevance": "Düğünün tarihsel bağlamda evlilik ittifakı ve toplumsal ritüel olarak kullanımını örnekleyen kültürel tarih sayfası.",
-      "url": "http://www2.hsp.org/exhibits/Balch%20exhibits/wedding/traditions.html"
+      "title": "What Does Your Wedding Dream Mean?",
+      "relevance": "Düğün rüyasını anima/animus projeksiyonları, coniunctio ve içsel bütünleşme bağlamında ele alan Jungcu yorumlar içerir.",
+      "url": "https://thisjungianlife.com/what-does-your-wedding-dream-mean/"
     },
     {
-      "title": "Wedding Bringing Joy to the Bride and Groom - Steinsaltz Center",
-      "relevance": "Düğün ve gelin-damat sevinci üzerine Talmudik sembolik açıklama sunar; düğünü ilahî ilişki, şükran ve onarım temalarıyla ilişkilendirir.",
-      "url": "https://steinsaltz-center.org/portal/library/Concise_Guide/Makshava/Life%20Cycle/title/71/301"
+      "title": "Wedding Dreams: Symbols of Sacred Union and Inner Transformation by This Jungian Life Podcast",
+      "relevance": "Jungcu arketipler ve düğün imgelerinin psişik bütünleşme ile ilişkisi üzerine konuşma kaydı sağlar.",
+      "url": "https://creators.spotify.com/pod/profile/thisjungianlifepodcast/episodes/Wedding-Dreams-Symbols-of-Sacred-Union-and-Inner-Transformation-e2qv892"
     },
     {
-      "title": "The Eternal Jewish Bride: A Survey of Jewish Marriage ...",
-      "relevance": "Yahudi evliliği ve düğün bağlamında Talmudik anlam katmanlarını, ilahî eşleşme ve aile birliği temalarıyla açıklar.",
-      "url": "https://torah.org/learning/women-class9/"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un evlilik rüyalarını rüya sahibinin durumuna göre yorumladığını ve bekâr/hasta ayrımının evlilik ile ölüm arasında bir ilişki kurulmasına yol açabildiğini gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "The Symbolism of Marriage in Early Christianity and the Latin ...",
-      "relevance": "Erken Hristiyanlık ve Latin gelenekte evlilik sembolizmini ele alır; düğünün teolojik anlamını ve sakramental çerçevesini aydınlatır.",
-      "url": "https://assets.ctfassets.net/4wrp2um278k7/3hKS3CVo3T5wfHGnmKmdNT/f91f196529e575d47a1716466543dcbe/9789048537150_ToC_Intro.pdf"
+      "title": "İmam Nablusi Rüya Tabirleri D Harfi",
+      "relevance": "İmam Nablusî’ye atfedilen derleme, düğün sahibine musibet, davetliler için ise ikramlar varsa sevinç ve ferahlık olabileceği gibi geleneksel tabirleri aktarır.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-d-harfi.html"
     },
     {
-      "title": "Marriage in Judaism",
-      "relevance": "Yahudi evlilik ritüelinin sembollerini, kutsallaştırma, adanmışlık ve duvak gibi motifler üzerinden açıklar.",
-      "url": "https://jewishvirtuallibrary.org/marriage-in-judaism"
+      "title": "Wedding dream meaning biblical - BibleStep",
+      "relevance": "Hristiyan bağlamında düğün rüyalarını antlaşma, hazırlık ve kutsal ziyafet temalarıyla ilişkilendirir; İncil pasajları üzerinden sembolik bir çerçeve sunar.",
+      "url": "https://biblestep.com/dreams/wedding-dream-meaning-biblical"
     },
     {
-      "title": "Rüyada Düğün görmek - İhya Rüya Tabirleri",
-      "relevance": "İslami rüya tabiri geleneğinde düğünün, sessiz/gürültülü oluşuna göre farklı anlamlar taşıdığı aktarılır; doğrudan rüya yorumu örnekleri içerir.",
-      "url": "https://ruya.ihya.org/ruyada-dugun-gormek.html"
+      "title": "Topical Bible: Bride and Bridegroom",
+      "relevance": "Gelin ve güvey imgelerinin Mesih ile kilise arasındaki sembolik ilişkiye dair Kutsal Yazı bağlantılarını derler.",
+      "url": "https://biblehub.com/topical/b/bride_and_bridegroom.htm"
     },
     {
-      "title": "Dream of Dreaming of a Marriage/Wedding: Vedic Meaning",
-      "relevance": "Vedik Swapna Shastra içinde evlilik/düğün rüyasının birleşme, tamamlanma ve bereketle ilişkilendirildiğini açıklar.",
-      "url": "https://www.vedicbirth.com/dream/marriage"
+      "title": "Spiritual Meaning of Bride, Bridegroom",
+      "relevance": "Hristiyan sembolik dilde gelin ve güvey motiflerinin ruhsal birlik ve sadakat temasını nasıl taşıdığını açıklar.",
+      "url": "http://www.biblemeanings.info/Words/Family/Bride.htm"
     },
     {
-      "title": "Dreaming of Wedding — Vedic Dream Meaning | VedKosh",
-      "relevance": "Düğün sahnesini hayırlı başlangıçlar ve toplumsal uyumla ilişkilendiren Vedik rüya yorumu sunar.",
-      "url": "https://www.vedkosh.com/swapna-shastra/wedding-dream"
+      "title": "When the Heavens Open: The Hidden Power and Meaning of Rain",
+      "relevance": "Yağmurun dini ve rabbanî bağlamda bereket, ilahî lütuf ve şükürle ilişkilendirildiğini gösteren bir çalışmayı özetler.",
+      "url": "https://www.hidabroot.com/article/114"
+    },
+    {
+      "title": "Rain, a River, Fire and Ice",
+      "relevance": "Yağmurun ilahî akış ve insan–Tanrı ilişkisinin görünür işareti olarak okunabildiğine dair Chabad açıklaması sunar.",
+      "url": "https://www.chabad.org/parshah/article_cdo/aid/2753/jewish/Rain-a-River-Fire-and-Ice.htm"
+    },
+    {
+      "title": "Crying out for rain: The human, the holy, and the earth in the ritual fasts of rabbinic literature",
+      "relevance": "Rabbanî literatürde yağmurun Tanrı–İsrail ilişkisini gösteren sembolik işlevine dair akademik bir inceleme sağlar.",
+      "url": "https://bearworks.missouristate.edu/articles-chpa/684/"
+    },
+    {
+      "title": "Rain Insertions Part 2: Theology and a Talmudic Reading",
+      "relevance": "Talmudik okumada yağmurun ödül-ceza, bereket ve ilahî kontrol temalarıyla ilişkilendirildiğini aktarır; bu da düğün yerine yağmur bağlamlı bir sembolik arka plan sunar.",
+      "url": "https://www.exploringjudaism.org/every-day/rain-insertions-part-2-theology-and-a-talmudic-reading/"
+    },
+    {
+      "title": "Shemini Atzeret: Praying for Rain - Chabad.org",
+      "relevance": "Yağmurun ilahî adalet, layıklık ve toplumsal dualarla ilişkilendirildiğini gösteren topluluk odaklı bir açıklama sunar.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/3463470/jewish/Shemini-Atzeret-Praying-for-Rain.htm"
+    },
+    {
+      "title": "Rain",
+      "relevance": "Jewish Virtual Library kaynağı, yağmurun Talmud ve midraş literatüründeki yerini ve rabbanî işaret okumalarını özetler.",
+      "url": "https://jewishvirtuallibrary.org/rain"
+    },
+    {
+      "title": "RAIN - JewishEncyclopedia.com",
+      "relevance": "Talmudik yağmur tartışmaları ve rabbanî doğa-gözlem geleneğine dair ansiklopedik bir özet sağlar.",
+      "url": "https://www.jewishencyclopedia.com/articles/12541-rain.html"
+    },
+    {
+      "title": "Wedding in dreams — meaning and symbolism",
+      "relevance": "Ezoterik kaynaklarda düğünün 'karşıtların birleşimi' ve simyasal bütünleşme bağlamında yorumlandığını gösterir.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/wedding"
+    },
+    {
+      "title": "Dream About Wedding — Meaning, Interpretation & Symbolism ...",
+      "relevance": "Modern spiritüel yorumlarda düğün imgelerinin kutsal birlik ve içsel dengeyle ilişkilendirildiğine dair örnekler sunar.",
+      "url": "https://www.astroformer.com/blog/dream-meaning/wedding"
+    },
+    {
+      "title": "What Does it Mean When You Dream About a Wedding?",
+      "relevance": "Spiritüel okumalarda düğün rüyalarının ruhsal uyum, bağlanma ve yaşam yönelimiyle bağlantılı olarak ele alındığını özetler.",
+      "url": "https://www.centreofexcellence.com/dreaming-about-a-wedding/"
+    },
+    {
+      "title": "Dreaming of a Wedding: Omens, Folklore & Meaning",
+      "relevance": "Ezoterik ve folklorik geleneklerde düğün sembolizminin nasıl farklı anlam katmanları taşıdığını gösterir.",
+      "url": "https://dreamlore.net/dreams/wedding/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian"
+  ]
 }

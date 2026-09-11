@@ -1,0 +1,249 @@
+{
+  "slug": "yuz",
+  "title": "yüz",
+  "shortDescription": "Rüyada yüz görmek, kişinin dış dünyaya sunduğu kimliği, itibarı ve iç dünyasını yansıtabilir. Aydınlık veya gülen bir yüz huzur ve olumlu gelişmelere; solgun, bozulmuş ya da örtülü bir yüz ise kaygı, özsaygı sorunları veya saklanan yönlere işaret edebilir.",
+  "positiveAssociations": [
+    "İyi hâl",
+    "İtibar ve saygınlık",
+    "Mutluluk ve neşe",
+    "İlahi lütuf ve onay",
+    "Açıklık ve samimiyet"
+  ],
+  "challengingAssociations": [
+    "Utanç ve sıkıntı",
+    "Haya eksikliği",
+    "İkiyüzlülük",
+    "Kimlik kaybı",
+    "Gizlenen gölge taraflar"
+  ],
+  "contextDependentAssociations": [
+    "Yüzün ayrıntılı ya da belirsiz algılanması",
+    "Yüz rengindeki değişimler",
+    "Yüzde ortaya çıkan bozulma veya kusurlar",
+    "Yüzün gülen ya da asık olması",
+    "Yüzün örtülmesi ya da açıkta kalması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Aydınlık ve Güleryüzlü Çehre",
+      "description": "Rüyadaki yüzün neşeli, parlak ve güzel görünmesi; kişinin iç huzuruna, yaşamındaki olumlu gelişmelere ve toplumsal ilişkilerindeki saygınlığa işaret eder."
+    },
+    {
+      "title": "Solmuş veya Sararmış Yüz",
+      "description": "Yüzün sararmış veya solgun görünmesi; geçici sıkıntılara, yorgunluğa, içsel kaygılara ya da kişinin yanlış yapma korkusuna işaret edebilir."
+    },
+    {
+      "title": "Yüzde Bozulma veya Eksiklik",
+      "description": "Yüzün bir kısmının eksik olması, çatlaması veya bozulması; kişinin dış dünyadaki itibarını kaybetme endişesini, kimlik bunalımını veya özsaygı sorunlarını temsil edebilir."
+    },
+    {
+      "title": "Örtülü veya Gizlenmiş Yüz",
+      "description": "Yüzün kapanması veya görünmemesi; mahremiyet ihtiyacına, bir şeylerin saklandığına ya da toplumsal maskeler ardına gizlenen gerçek kimliğe dikkat çeker."
+    }
+  ],
+  "psychology": "Deneysel rüya araştırmaları, rüyalardaki kişilerin yüz özelliklerinin her zaman tam ve net bir ayrıntıyla algılanmadığını, bu durumun rüya kurgusuna göre değişkenlik gösterdiğini ortaya koymaktadır. Psikanalitik kuramda ise yüz, doğrudan sabit bir sözlük anlamından ziyade, rüya çalışmasındaki yer değiştirme, gizleme ve bedensel simgeleme mekanizmaları içinde ele alınır.",
+  "jungian": "Analitik psikoloji çerçevesinde yüz, bireyin dış dünyaya sunduğu persona yani toplumsal maske ile doğrudan ilişkilendirilir. Rüyadaki yüz imgesi, kişinin dışarıya gösterdiği bu imaj ile kendi içsel gerçekliği arasındaki dengeyi ve olası gerilimleri gözler önüne serer.",
+  "islamicTradition": "İslami rüya tabiri geleneğinde yüz, genellikle kişinin hâlini, dinî ve manevî durumunu ve dışa yansıyan itibarını simgeler. Aydınlık ve sevinçli yüz müjde ve hayra yorulurken; kararmış, kirli veya sararmış yüz sıkıntı, utanç ya da kusur gibi olumsuz durumlarla ilişkilendirilir.",
+  "christianTraditions": "Hristiyan sembolizminde yüz, kimliği, içsel durumu, ilişkilerde açıklığı ve gizli olanın açığa çıkmasını temsil eder. Kutsal metin dilinde yüz, aynı zamanda ilahi varlığın, dikkatin, lütfun veya onayın bir göstergesi olarak ele alınır.",
+  "jewishTraditions": "İbranice'de 'panim' kavramı 'yüz' anlamına gelir ve aynı zamanda ilahî huzur ile 'yüz yüze' yakınlık çağrışımları taşır. Bu bağlamda rüyadaki yüz, sadece fiziksel bir görünüm değil, ilişkisel yakınlık ve ilahi tecelli arayışının bir işareti olarak okunabilir.",
+  "buddhistEasternApproaches": "Budist yaklaşımda yüz, sabit bir özden ziyade duygusal ifadelerin ve duyusal algının bedensel dışavurumu olarak değerlendirilir. Zen geleneğindeki 'Orijinal Yüz' ifadesi ise benlikten önceki veya benlik-ötesi yönü işaret eden simgesel bir çerçeve sunar.",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda yüz, görünür benlik ile örtülen içsel katmanlar arasındaki sınır çizgisi olarak kabul edilir. Yüzün aldığı farklı haller, kişinin ruhsal dönüşüm sürecinde kimliğini yeniden biçimlendirmesini simgeler.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Yüz, bilinçdışı arzuların ve bedensel kimliğin yer değiştirme yoluyla temsil edildiği bir cephe olarak ele alınır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Yüz, bireyin topluma sunduğu persona ve içsel benlik arasındaki dengeyi yansıtır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Klasik İslami Gelenek",
+      "interpretation": "Yüz, kişinin ahlaki, manevî hâlini ve dış dünyadaki itibarını gösteren bir aynadır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Teolojik ve Dinî Yaklaşım",
+      "interpretation": "Yüz, ilahi lütuf, varlık ve ilişkisel açıklığın bir göstergesi olarak kabul edilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Simyasal Gelenek",
+      "interpretation": "Yüz, görünür kimlik ile gizlenen öz arasındaki dönüşüm sınırını temsil eder.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenek ve ekollerin ortak noktasında, yüzün yalnızca fiziksel bir organ olmadığı, kişinin dış dünyaya açılan kapısı, kimliğinin ve iç dünyasının bir dışavurumu olduğu fikri yer alır.",
+  "differences": "Psikanalitik ve analitik yaklaşımlar yüzü bireyin içsel çatışmaları ve maskeleri bağlamında ele alırken, İslami ve teolojik gelenekler onu daha çok ahlaki hâl, itibar ve ilahi ilişki ekseninde yorumlar.",
+  "inusAssessment": "Rüyada yüz sembolüyle karşılaşmak, rüya sahibinin kimliğini dış dünyaya nasıl yansıttığı ve içsel dünyasıyla hangi bağları kurduğu üzerine düşünmesini gerektirir. Yüzün netliği, rengi ve ifadesindeki en küçük değişimler bile, rüya sahibinin özsaygısı, toplumsal imajı ve sakladığı yönleri arasındaki hassas dengeyi ele verir.",
+  "faq": [
+    {
+      "question": "Rüyada kendi yüzünü farklı görmek ne anlama gelir?",
+      "answer": "Kişinin kendi yüzünde fark ettiği değişimler, kimlik algısında yaşadığı dönüşümleri, toplumsal maskeleriyle olan ilişkisini veya içsel dünyasındaki arayışları temsil edebilir."
+    },
+    {
+      "question": "Rüyada yüzün net olarak seçilememesi neye işaret eder?",
+      "answer": "Yüz hatlarının belirsiz olması, rüya sahibinin kendi kimliğini ya da rüyadaki kişinin niyetini anlamakta zorlandığına ve ilişkilerinde netlik eksikliği yaşadığına işaret edebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Perceiving facial features on dream personages",
+      "relevance": "Rüyalardaki kişilerin yüz özelliklerinin algılanması ve bu özelliklerin her zaman aynı ayrıntıda görünmediğine dair doğrudan bulgular sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/108748/109144/288741"
+    },
+    {
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içeriğinin sistematik biçimde kodlanmasına ilişkin yöntemsel çerçeve sunar; yüz gibi öğelerin içerik analiziyle incelenmesine bağlam sağlar.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüya kuramının temel ilkelerini ve yüz imgesini yorumlarken kullanılacak genel psikanalitik çerçeveyi sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 4 - Classics in the History of Psychology",
+      "relevance": "Açık içerik ile gizli içerik arasındaki dönüşüm ve rüya çalışması kavramları için yararlıdır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams4.htm"
+    },
+    {
+      "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
+      "relevance": "Düşüncenin rüyada bir tür cephe ya da yüzey kazanması fikri için yararlıdır.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Yüzün, yer değiştirme bağlamında bedensel bir ikame olarak ele alınabildiği pasajı içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Yüz, ağız ve göğüsün üst-bedensel karşılıklar içinde anıldığı kısım için yararlıdır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Jung on the Nature and Interpretation of Dreams - PMC",
+      "relevance": "Jung’un rüya kuramını, rüyanın bilinçdışı durumu simgesel biçimde gösteren bir ifade olarak ele almasını ve yüzün persona ile bağlantılı Jungcu okumaya dayanak oluşturan genel çerçeveyi verir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4217604/"
+    },
+    {
+      "title": "Artemidorus : On the Interpretation of Dreams (Oneirocritica)",
+      "relevance": "Yüzdeki eksikliğin itibarı bozduğunu ve yüzün kişinin saygınlığının bir göstergesi olduğunu söyleyen doğrudan rüya yorumu metnidir.",
+      "url": "http://attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual",
+      "relevance": "Artemidoros’un Oneirocritica’sının antik rüya yorumu geleneğindeki yerini gösteren akademik bağlam.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?guestAccessKey="
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidoros’un rüya yorumunda kişisel deneyim, sözlü gelenek ve derleme bilgisini birleştirdiğini açıklayan akademik inceleme.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "Ibn Seerin's Dictionary of Dreams",
+      "relevance": "Yüzün rüyadaki hâl, güzellik, sarılık ve genel görünüm üzerinden yorumlandığı klasik derleme.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri Y Harfi",
+      "relevance": "Nablusî’ye atfedilen yüz tabirleri ve yüzün güzel görülmesinin hayır, müjde ve sevinçle ilişkisi.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-y-harfi.html?m=1"
+    },
+    {
+      "title": "Covered Face Islamic Interpretations & Meanings",
+      "relevance": "Yüzün kararma, kirlenme, çatlama ve benzeri görünüşlerinin olumsuz anlamlarla eşleştirildiği yüz maddesi.",
+      "url": "https://www.myislamicdream.com/covered_face.html"
+    },
+    {
+      "title": "Surat(yüz) - Rüya Tabiri - Yeni Arayış",
+      "relevance": "Surat/yüz için renk, kırışıklık, güzellik ve çirkinlik üzerinden yapılan çoklu yorumlar.",
+      "url": "https://www.yeniarayis.com/ruya-tabirleri/suratyuz-5174"
+    },
+    {
+      "title": "Smiling Face Islamic Interpretations & Meanings",
+      "relevance": "Yüzün gülmesi, kararması, çirkinleşmesi ve ikiyüzlülük gibi motiflerle ilişkilendirildiği geniş bir yüz maddesidir.",
+      "url": "https://www.myislamicdream.com/smiling_face.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri A Harfi - Muhammed.net",
+      "relevance": "Alın ve yüzün secde mahalli ve yüksek mertebe ile ilişkilendirildiği Nablusî’ye atfedilen aktarım.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-a-harfi.html"
+    },
+    {
+      "title": "It is Finished! - Apostle David E. Taylor [Official Site]",
+      "relevance": "Rüyada yüz görmeyi kimlik, içtenlik, kalp ve gizli olanın açığa çıkması temalarıyla ilişkilendiren modern Hristiyan rüya yorum metni.",
+      "url": "https://joshuamediaministries.org/dreams/face/"
+    },
+    {
+      "title": "Dream symbols: Parts of the body and what they mean",
+      "relevance": "Yüzün rüyada kişinin karakterini, iç durumunu, mahremiyeti ve ilişkisel açıklığı yansıtabileceğini anlatan Hristiyan yorum metni.",
+      "url": "https://heavensdreammessages.com/dream-symbols-parts-of-the-body/"
+    },
+    {
+      "title": "Face",
+      "relevance": "İncil dilinde yüzün varlık, dikkat, lütuf, onay ve geri çekilişle ilişkisini özetleyen teolojik açıklama.",
+      "url": "https://kingdombiblestudy.com/biblepedia/face/"
+    },
+    {
+      "title": "Face - Encyclopedia of The Bible",
+      "relevance": "Yüzün kutsal metinlerde insan, Tanrı ve Mesih bağlamlarında kullanılışını ve görünürlük/vahiy çağrışımlarını derleyen ansiklopedi maddesi.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Face"
+    },
+    {
+      "title": "5150 face - Dictionary of Bible Themes",
+      "relevance": "Yüzün kişiyi tanınır kılan ana görsel özellik olduğunu ve yönelişin onay veya tersine dönme anlamı taşıyabildiğini anlatan tematik sözlük maddesi.",
+      "url": "https://www.biblegateway.com/resources/dictionary-of-bible-themes/5150-face"
+    },
+    {
+      "title": "Berakhot 57b | The Sefaria Library",
+      "relevance": "Talmud'da rüyaların genel ele alındığı bölüm; Yahudi rüya yorum geleneğinin bağlamını verir.",
+      "url": "https://www.sefaria.org/Berakhot.57b?lang=en"
+    },
+    {
+      "title": "RTL Words: PANIM (פנים) - Bible & Archaeology",
+      "relevance": "İbranice פנים sözcüğünün 'yüz' anlamı ile ilahî varlık ve 'yüz yüze' yakınlık çağrışımlarını açıklar.",
+      "url": "https://bam.sites.uiowa.edu/RTL/panim"
+    },
+    {
+      "title": "Tikkunei Zohar: Seventy Faces of Torah",
+      "relevance": "'Yüzler' ve panim üzerinden ilahî yüz, yakınlık, ifşa ve ilişkisel sembolizm üzerine açıklamalar içerir.",
+      "url": "https://www.thetorah.com/article/tikkunei-zohar-seventy-faces-of-torah"
+    },
+    {
+      "title": "Face: Significance and symbolism",
+      "relevance": "Budist bağlamda yüzün beden, duyusal görünüm ve ifade ile ilişkisini gösteren kavramsal kayıt.",
+      "url": "https://www.wisdomlib.org/concept/face"
+    },
+    {
+      "title": "The Teaching on Dreams",
+      "relevance": "Budist gelenekte rüyaların öğreti ve zihin deneyimi olarak ele alındığını gösteren çeviri kaydı.",
+      "url": "https://84000.co/translation/toh48"
+    },
+    {
+      "title": "Green Koans Case 12: The Original Face - Tricycle",
+      "relevance": "Zen’de 'Orijinal Yüz' ifadesinin, benlik-ötesi veya doğum öncesi yönleriyle ilişkilendirildiğini gösteren koan sunumu.",
+      "url": "https://tricycle.org/article/green-koans-case-12-the-original-face/"
+    },
+    {
+      "title": "Collected Works of C.G. Jung, Volume 12: Psychology and Alchemy",
+      "relevance": "Simyasal sembollerin rüya imgeleriyle nasıl ilişkilendirilebildiğini gösteren temel Jungcu çerçeve; yüz için doğrudan bir yorum vermez, fakat ezoterik/analitik okuma bağlamı sağlar.",
+      "url": "https://jungiancenter.org/wp-content/uploads/2023/09/vol-12-psychology-and-alchemy.pdf"
+    },
+    {
+      "title": "01. Hidden Symbolism of Alchemy and the Occult Arts Author Dr. Herbert Silberer",
+      "relevance": "Alışılmadık ya da örtük içerik ile açık içerik arasındaki ayrımı tartışır; yüzün görünürlük, örtülülük ve sembolik katmanlar açısından okunmasına zemin verir.",
+      "url": "https://www.scribd.com/document/627965687/01-Hidden-Symbolism-of-Alchemy-and-the-Occult-Arts-Author-Dr-Herbert-Silberer"
+    },
+    {
+      "title": "Alchemy (Esotericism)",
+      "relevance": "Simya ve ezoterizm bağlamında rüya imgelerinin ölüm-dönüşüm ve dönüşüm süreçleriyle ilişkilendirildiğini belirtir; yüzü doğrudan ele almaz ama sembolik rüya okuması için arka plan sunar.",
+      "url": "https://encyclopedia.uia.org/human-development/alchemy-esotericism"
+    }
+  ],
+  "relatedSlugs": []
+}

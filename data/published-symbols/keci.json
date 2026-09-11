@@ -1,138 +1,203 @@
 {
   "slug": "keci",
   "title": "keçi",
-  "shortDescription": "Rüyada keçi görmek, bağımsızlık arayışı, güçlü içgüdüler ve bastırılmış arzularla ilişkilendirilebilir. Tırmanan bir keçi engelleri aşma çabasını, saldırgan bir keçi ise çözülmemiş çatışmaların veya dürtülerin yarattığı baskıyı yansıtabilir.",
+  "shortDescription": "Rüyada keçi görmek, bağımsızlık, dayanıklılık, sınırları aşma ve zorluklarla mücadele temalarıyla ilişkilendirilebilir. Keçinin yalnız veya sürü halinde olması, sakin ya da saldırgan davranması ve bulunduğu yer, rüyanın bereket ve ilerleme mi yoksa çatışma ve yüzleşme mi etrafında şekillendiğini değiştirebilir.",
   "positiveAssociations": [
-    "Bereket ve bolluk",
-    "Bağımsızlık ve özgürlük",
-    "İçgüdüsel canlılık"
+    "Bereketli bir yıl veya yıllar",
+    "Tedbirli ve güçlü duruş",
+    "Maddi bolluk ve zenginlik",
+    "Özgürlük ve içgüdüsel direnç"
   ],
   "challengingAssociations": [
-    "Saldırganlık ve dürtüsellik",
-    "Ahlaki sapma veya içsel ikilik",
-    "Gölge yönlerle yüzleşme"
+    "Uğursuzluk ve ilişkilerde sınır sorunları",
+    "İtaatsizlik ve ruhsal ayrışma",
+    "Yoksulluk veya borçlanma ihtimali",
+    "Düşük statülü veya tabu sayılan alanlar"
   ],
   "contextDependentAssociations": [
-    "Tarihsel ve sanatsal bağlamlarda devinim ve değişkenlik",
-    "Ezoterik okumalarda gizli güçler veya ikilik",
-    "Anlatısal mekanlarda sığınak ve durak noktaları"
+    "Tek bir keçi ile birden fazla keçi arasındaki nicelik farkı",
+    "Keçinin cinsiyeti, rengi ve fiziksel durumu",
+    "Evin içinde mi yoksa dışında mı görüldüğü"
   ],
   "commonVariations": [
     {
-      "title": "Sakin bir alanda duran keçi",
-      "description": "Ağaç gölgesinde veya doğada sükunet içinde duran bir keçi görmek, kişinin kendi içgüdüsel yönleriyle kurduğu dingin ilişkiyi ve duraklama ihtiyacını yansıtır."
+      "title": "Dağda Yalnız Bir Keçi Görmek",
+      "description": "Sarp arazide tek başına duran keçi, bağımsızlık arayışı, zorluklarla başa çıkma ve kişisel sınırların denenmesi temalarına işaret edebilir; yükseliş veya zirveye tırmanma metaforlarıyla ilişkilendirilebilir."
     },
     {
-      "title": "Dağlık arazide tırmanan keçi",
-      "description": "Sarp kayalıklarda ilerleyen bir keçi, zorluklar karşısında gösterilen bağımsız hareket etme kapasitesini ve engelleri aşma çabasını simgeler."
+      "title": "Ev İçinde Semiz Bir Keçi Bulmak",
+      "description": "Evin içinde görülen sağlıklı, iri bir keçi görüntüsü farklı biçimlerde yorumlanır: bazı modern aktarımlar bunu haneye giren beklenmedik bir kaynak veya tedbirli bir kişi olarak okurken, bazı çevrimiçi kaynaklar ise eve keçi sokmanın yoksulluğu davet ettiğini öne sürer. Bu nedenle bu tür sahnelerde rüyanın diğer ayrıntıları ve yorum yapılan kültürel bağlam önem kazanır."
     },
     {
-      "title": "Saldırgan veya huysuz keçi",
-      "description": "Üzerine saldıran ya da huzursuzluk çıkaran bir keçi figürü, bastırılmış dürtülerin veya çözülmemiş çatışmaların bilinç düzeyinde zorlayıcı bir baskı yarattığına işaret edebilir."
+      "title": "Keçi Sürüsüyle Karşılaşmak",
+      "description": "Birden çok keçiden oluşan sürü, daha geniş veya uzun süreli bereket, toplumsal sorumluluklar, koruma ve çevre bağları gibi temalara dikkat çeker; Talmudik rivayete göre tek-çoğul ayrımı farklı dönemlere işaret edebilir."
     },
     {
-      "title": "Sürüden ayrı hareket eden keçi",
-      "description": "Diğerlerinden bağımsızlaşan bir keçi, bireyin toplumsal normlar ile kendi özgür iradesi arasında yaşadığı ayrışma veya özerklik arayışını ele alır."
+      "title": "Keçi Tarafından Kovalanmak",
+      "description": "Boynuzlu veya saldırgan bir keçi tarafından kovalanmak, bastırılmış dürtüler, çözülmemiş çatışmalar veya rüya sahibinin kaçındığı yüzleşmeleri simgeleyebilir; etkileşim ve duygu tonu yorumda belirleyicidir."
     }
   ],
-  "psychology": "Psikanalitik ve deneysel arka planlarda, keçi figürü doğrudan ampirik bir olgudan ziyade zihinsel bir tasvir olarak ele alınır. Psikanalitik yaklaşım, keçiyi bastırılmış arzuların ve temel dürtülerin simgesel taşıyıcısı olarak yorumlar.",
-  "jungian": "Jungcu analizde keçi, bilinçdışının gölge yönleriyle, yani bireyin dışta bıraktığı içgüdüsel ve ham taraflarıyla ilişkilendirilir. Bu bağlamda rüyadaki keçi, kişinin henüz bütünleştiremediği enerjileri ve arketipsel dinamikleri temsil edebilir.",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist anlatı bağlamlarında keçilerin belirli mekanlarda gölgeye sığınması gibi tasvirler yer alır; bu durum, metinsel gelenekte keçinin coğrafi veya anlatısal bir figür olarak konumlandığını gösterir.",
-  "spiritualApproaches": "Batı ezoterik ve spiritüel geleneklerinde keçi, Baphomet gibi simgeler aracılığıyla çift kutupluluğu, gizemli güçleri ve manevi ikilikleri temsil eden bir imge olarak ele alınır.",
+  "psychology": "Genel rüya psikolojisi tek bir hayvan sembolüne sabit, evrensel bir anlam atamayı desteklemez; rüya içindeki duygusal ton, sahne ve rüya sahibinin yaşam bağlamı belirleyicidir.",
+  "jungian": "Jungcu yaklaşıma göre keçi (Oğlak/keçi-balık) imgesi yükseliş, sınır aşma ve döngüsel dönüşüm motifleriyle ilişkilendirilir; bu bağlantı keçiyi arketipsel dönüşüm bağlamında okumaya izin verir, ancak tek bir anlam üretmez.",
+  "islamicTradition": "Nablusî aktarımına göre keçi sahibi olmak tedbirli ve nüfuzlu bir kimseye işaret edebilir. Bu aktarımın klasik kaynaklarda geniş bir doğrulaması olmadığı göz önünde bulundurulmalıdır; İslami okumalar kaynaklarını açıkça belirtmelidir.",
+  "christianTraditions": "Hristiyan sembolizminde (ör. Matta 25:31-46) koyun–keçi ayrımı nedeniyle keçi, bağlama göre itaatsizlik, ruhsal ayrışma ve yargı/kefaret temalarını çağrıştırabilir; Levililer’deki günah keçisi motifi de sembolik yük sağlar.",
+  "jewishTraditions": "Babil Talmudu Berakhot 57b’de geçen bir rivayete göre rüyada tek keçi görmek bereketli bir yıla, birden fazla keçi ise bereketli yıllara işaret eder; bu pasaj keçi için doğrudan Talmudik rüya yorumu örneği sunar.",
+  "buddhistEasternApproaches": "Jātaka anlatılarındaki keçi sürüsü kıssaları, sorumluluk, koruma ve yaşayanlara özen temaları üzerinden sembolik çağrışımlar sunar; bunlar doğrudan rüya el kitabı kayıtları değil, gelenek içi anlatısal örneklerdir.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel okumalarda keçi sıklıkla özgürlük, içgüdüsel enerji, direnç ve karşıtların birleşimi gibi temalarla ilişkilendirilir; Baphomet ve keçi-başı çağrışımları gibi okült imgeler bazı modern yorumlarda yer alır, fakat bunlar geleneksel rüya el kitaplarından ziyade çağdaş ezoterik literatür ürünüdür.",
   "comparisonTable": [
     {
-      "approach": "Psikanaliz",
-      "interpretation": "Bastırılmış dürtülerin, arzuların ve temel hayvansal enerjilerin simgesel dışavurumu.",
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Hayvan imgeleri Freudçu yaklaşımlarda bastırılmış dürtüler, çocukluk çağrışımları ve libidoyla ilişkili projeksiyonlarla bağlantılı görülebilir; keçi imgeleri doğrudan değil, hayvana ilişkin çağrışımlar olarak değerlendirilebilir.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu analiz",
-      "interpretation": "Kişiliğin kabullenilmemiş gölge yönleri ve içgüdüsel potansiyeli.",
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Keçi/Capricorn imgesi yükselme, dönüşüm ve sınırları aşma çağrışımlarıyla okunur; Jung’un genel sembol dili bağlamında kontrollü, bağlama duyarlı bir okuma gerektirir.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Ezoterizm",
-      "interpretation": "Çift kutupluluk, gizli güçler ve Baphomet gibi formlarla temsil edilen okült sembolizm.",
+      "approach": "Rabbanî Gelenek (Talmud)",
+      "interpretation": "Berakhot 57b’ye göre tek keçi bir yıl için bereket, çoğul keçiler ise yıllar boyunca bereket anlamına gelir; bu doğrudan bir geleneksel rüya yorumu örneğidir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojik Sembolizm",
+      "interpretation": "Kutsal Yazılar bağlamında (Matta 25; Levililer 16) keçi yargı, ayrışma ve kefaret temalarıyla ilişkilendirilebilir; bu yorum teolojik-simbolik bağlamdadır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Spiritüel Yaklaşım",
+      "interpretation": "Çağdaş spiritüel literatürde keçi bağımsızlık, içgüdüsel güç ve sınır tanımama gibi temalara açılır; bu yorumlar modern ezoterik kaynaklara dayanır.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı teorik ve kültürel yaklaşımlar, keçiyi çoğunlukla standart dışı, bağımsız, içgüdüsel ve rasyonel kontrolün ötesinde kalan enerjilerin bir temsilcisi olarak ele alır.",
-  "differences": "Psikanalitik ve Jungcu ekoller bu figürü bireyin içsel dinamikleri ve gölgesi üzerinden okurken, ezoterik gelenekler sembolü daha geniş kozmik ve gizemli kutupluluklar çerçevesine yerleştirir.",
-  "inusAssessment": "Keçi sembolü, tarihsel ve kültürel katmanları nedeniyle tekdüze bir rüya tabirine indirgenemez. INUS yaklaşımı gereği, bu sembolün anlamı bireyin kendi içgüdüsel dürtüleri, bağımsızlık arayışı ve gölge unsurlarla kurduğu özgül bağlama göre şekillenir.",
+  "commonGround": "Araştırmada görülen görüş farklılıklarına rağmen, bazı modern spiritüel/ezoterik okumalar ile Jungcu çağrışımlar, keçideki enerji, sınır tanıma ve dönüşüm temalarını vurgular; buna karşın Artemidorus benzeri eski rüya gelenekleri veya bazı teolojik okumalar daha olumsuz veya uyarıcı tonlar taşıyabilir. Bu nedenle ortak zemin sınırlı ve yaklaşıma göre değişkendir.",
+  "differences": "Gelenekler arasında belirgin ayrışmalar vardır: Talmudik rivayetler bereketi vurgularken, Artemidorus geleneği keçiyi kimi ilişkilere dair uyarıcı bir işaret olarak okur; modern İslami aktarım ve çevrimiçi sözlükler ise rengin, cinsiyetin ve bağlamın önemine değinerek farklı sonuçlar verir.",
+  "inusAssessment": "Keçi rüya sembolü için kesin, tekil bir nedensel açıklama mevcut değildir. Sembolik etkilerin bir araya gelerek belirli anlamları oluşturması muhtemeldir: örneğin tekil bir keçi ile sürü arasındaki nicelik farkı (Talmud çerçevesi), sahnenin mekânı (evde ya da dışarıda) ve keçinin davranışı (saldırgan ya da uyumlu) farklı anlam katmanlarını aktif hale getirir. Bu yüzden yorum, bağlama duyarlı, kaynakları ve rüya sahibinin yaşam koşullarını hesaba katan bir yaklaşım gerektirir.",
   "faq": [
     {
-      "question": "Keçi sembolü rüyalarda her zaman olumsuz bir anlam mı taşır?",
-      "answer": "Hayır. Tarihsel ve psikolojik bağlamlarda keçi hem bereket ve bağımsızlık gibi yapıcı temalarla hem de saldırganlık veya gölge unsurlar gibi zorlayıcı dinamiklerle ilişkilendirilebilir."
+      "question": "Rüyada tek keçi görmek ile sürü görmek arasında nasıl bir fark vardır?",
+      "answer": "Gelenek ve metne göre tek keçi genelde tek bir yıl için bereket işareti olarak, birden fazla keçi veya sürü ise daha uzun süreli veya tekrar eden bereket dönemleri olarak yorumlanır; ancak bağlam yine belirleyicidir."
     },
     {
-      "question": "Jungcu perspektifte keçi neyi temsil eder?",
-      "answer": "Jungcu çerçevede keçi, bireyin bastırdığı içgüdüsel yönlerini ve bütünleşmeyi bekleyen gölge unsurlarını simgeleyebilir."
+      "question": "Keçi sembolü rüyada her zaman olumlu mu anlamına gelir?",
+      "answer": "Hayır; bazı kaynaklar bolluk ve güç çağrıştırırken, Artemidorus benzeri gelenekler veya belirli sahneler ilişkilerle ilgili uyarı veya olumsuzluk işareti verebilir. Hangi geleneğe göre okunduğu önemlidir."
     }
   ],
   "sources": [
     {
-      "title": "Goat",
-      "relevance": "Keçinin Avrupa kültür tarihindeki temsillerini ve hayvansal/cinsel çağrışımlarını özetler.",
-      "url": "https://encyclopedia.odeuropa.eu/items/show/15"
+      "title": "The Menagerie of Berggasse 19: An Animal Studies Re-Reading of Freud’s Classic Case Studies",
+      "relevance": "Freud’un vaka okumalarında hayvan imgelerinin masal bağlamında çağrışım zincirine nasıl girdiğini ve keçi imgesinin dolaylı olarak bu malzemede yer aldığını tartışır.",
+      "url": "https://jdc.jefferson.edu/cgi/viewcontent.cgi?article=1027&context=jchsfp"
     },
     {
-      "title": "Symbolism of the Goat and Its Presence in Picasso's Work",
-      "relevance": "Keçinin tarihsel sanat ve kültürel sembolizmde bereket, cinsellik ve devinim gibi anlamlarla ilişkisini tartışır.",
-      "url": "https://pdfs.semanticscholar.org/42f6/4c46622ba476912d28a6dae779ea68aa3fbb.pdf"
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Freud’un rüya kuramı bağlamında hayvan imgelerinin bastırılmış dürtüler ve libido ile ilişkilendirilebileceğine dair kuramsal zemin sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Freud's bestiary: how does psychoanalysis treat animals? - PubMed",
+      "relevance": "Freudçu psikanalizde hayvanların sembolik işlevini tartışarak keçi gibi hayvan imgelerinin yorumlanmasına ilişkin çerçeve sağlar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7512270/"
+    },
+    {
+      "title": "A quote from Collected Works of C. G. Jung, Volume 5",
+      "relevance": "Jung’un Oğlak (keçi-balık) imgesi üzerinden yükselme ve dönüşüm çağrışımlarına işaret eden genel sembolik notlarına örnek teşkil eder.",
+      "url": "https://www.goodreads.com/quotes/11080860-the-symbol-for-that-portion-of-the-zodiac-in-which"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual - Oxford Academic",
+      "relevance": "Artemidorus geleneğinde keçinin çoğunlukla olumsuz bir hayvan sembolü olarak ele alındığını ve rüya yorumunda istisnai biçimde uyarıcı konumda olduğunu gösterir.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
     },
     {
       "title": "Goats in the Ancient Near East and Their Relationship with ...",
-      "relevance": "Antik Yakın Doğu bağlamında keçinin bereket, bolluk ve saldırganlıkla ilişkisini ele alır.",
+      "relevance": "Antik Yakın Doğu kültürlerinde keçinin bereket, saldırganlık ve üreme bağlamlarındaki tarihsel sembolik rollerini açıklar.",
       "url": "https://www.intechopen.com/chapters/64839"
     },
     {
+      "title": "p49 Chapter V The Sacred Goat in Greece",
+      "relevance": "Yunan kültüründe keçinin Pan ve doğa güçleriyle bağlantılı olarak şehvet ve üretkenlik çağrışımları taşıdığını tartışır.",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/FRALUP/5*.html"
+    },
+    {
+      "title": "Sheep and Goats",
+      "relevance": "Dinler tarihi bağlamında keçinin kurban, verimlilik ve bazen profan/düşkün çağrışımlarıyla yer aldığını özetler.",
+      "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/sheep-and-goats"
+    },
+    {
+      "title": "The Cultural Value of the Goat in Greek Religion",
+      "relevance": "Yunan dininde keçinin tanrılar, özellikle doğa ve ritüel bağlamlarıyla ilişkili kültürel değerini tartışır; sembolün tarihsel kullanımını destekler.",
+      "url": "https://www.academia.edu/30975229/Constructing_Humans_Symbolising_the_Gods_The_Cultural_Value_of_the_Goat_in_Greek_Religion"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri K Harfi",
+      "relevance": "Modern Nablusî aktarım örneği üzerinden rüyada keçi sahibi olma/keçi bulmanın tedbir sahibi bir kimseyle ilişkilendirildiğini aktaran bir kaynak niteliğindedir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
+    },
+    {
+      "title": "goat",
+      "relevance": "Keçinin rüyada bolluk, zenginlik, hizmet ve bazı sosyal ilişkilerle bağlantılı olarak ele alındığını gösteren çevrimiçi bir giriş.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=goat"
+    },
+    {
+      "title": "dream interpretation of goat , by tabeer ur roya imam ibn e ...",
+      "relevance": "Çevrimiçi aktarımda keçinin İbn Sîrîn’e nispetle bazı kadın figürleriyle ilişkilendirilebileceği şeklindeki modern aktarımlara örnektir.",
+      "url": "https://tabeerurroya.org/en/dream-interpretation-of-goat"
+    },
+    {
+      "title": "Meaning: Seeing a goat in a dream in Islam",
+      "relevance": "Keçinin renk ve cinsiyetine göre zenginlik, güç, bereket ve sosyal ilişki temalarıyla ele alındığını özetleyen modern bir derlemedir.",
+      "url": "https://lifeinsaudiarabia.net/meaning-seeing-goat-dream-islam/"
+    },
+    {
+      "title": "Matthew 25:33 He will place the sheep on His right and ...",
+      "relevance": "Matta 25:31-46 metni üzerinden koyun–keçi ayrımı ve bunun Hristiyan sembolik yorumdaki yargı/ayrışma temasına katkısını gösterir.",
+      "url": "https://biblehub.com/matthew/25-33.htm"
+    },
+    {
+      "title": "Babylonian Talmud: Tractate Berakoth",
+      "relevance": "Berakhot 57b’deki keçi rüyası rivayetiyle tekil/çoğul keçinin bereketli yıl/yıllar anlamına geldiğini aktaran doğrudan geleneksel metin örneğidir.",
+      "url": "https://www.halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Dreams in the Talmud | Sefaria",
+      "relevance": "Berakhot’taki keçi rüyası rivayetinin metin aktarımı ve kısa özetini sunan kaynak.",
+      "url": "https://prod.sefaria.org.il/sheets/233896"
+    },
+    {
+      "title": "BL144: Jataka Tales of the Buddha: Part IV (plain text)",
+      "relevance": "Jātaka anlatılarındaki keçi sürüsü kıssaları üzerinden Budist anlatı çerçevesinde sorumluluk ve koruma temalarının nasıl işlenebildiğini gösterir.",
+      "url": "https://www.bps.lk/olib/bl/bl144_Kawasaki_Jataka-Tales-of-the-Buddha_Part-.pdf"
+    },
+    {
       "title": "Goat in a Dream: What It Means and Why It Appeared (2026)",
-      "relevance": "Jungcu okumada keçiyi gölge, bastırılmış içgüdü ve kişilik bütünlüğü çerçevesinde açıklar.",
+      "relevance": "Modern ezoterik/spiritüel derlemelerden biri olarak çağdaş yorumlarda keçinin özgürlük, içgüdüsel enerji ve gölge çağrışımlarıyla ele alındığını örnekler.",
       "url": "https://www.richardalois.com/symbolism/goat-in-dream"
     },
     {
-      "title": "Goat - Dream Symbol - Dreampaths",
-      "relevance": "Keçi sembolünü psikanalitik bir dille, bastırma, arzu ve dışavurum ekseninde yorumlar.",
-      "url": "https://dreampaths.com/symbol/goat"
+      "title": "Goat Dream Interpretation - Goat Dream Meaning",
+      "relevance": "Keçinin rüya sembolü olarak farkındalık, dinleme, cinsellik, zenginlik ve ezoterik anlam katmanlarıyla yorumlandığını gösterir.",
+      "url": "https://www.dreamsmain.com/goat"
     },
     {
-      "title": "Goat Islamic Interpretations & Meanings",
-      "relevance": "Modern İslami rüya tabirlerine ilişkin çeşitli iddialar içerir.",
-      "url": "https://www.myislamicdream.com/goat.html"
+      "title": "What Does it Mean When You Dream About Goats?",
+      "relevance": "Keçinin modern spiritüel yorumlarda bağımsızlık, keşif, direnç ve dengeyle ilişkilendirildiğini aktarır.",
+      "url": "https://www.centreofexcellence.com/dreaming-about-goats/"
     },
     {
-      "title": "Seeing Goat in Islamic Dream: Meaning & Interpretation",
-      "relevance": "Çevrimiçi İslami rüya yorumları sunar; çeşitli durumlara göre olası anlamları listeler.",
-      "url": "https://best-istikhara.com/en/dream-interpretation-goat-islam/"
+      "title": "Goat Head Dream Meaning & Interpretation - Mirror",
+      "relevance": "Keçi başı imgesinin modern Batı ezoterizminde Baphomet ve yasak bilgi gibi temalarla ilişkilendirildiğini belirtir; bu, keçi sembolünün okült çağrışımları için yararlıdır.",
+      "url": "https://mirrorwithin.org/dream-dictionary/goat-head/"
     },
     {
-      "title": "Dream of Seeing Goat - Islamic Dream Interpretation",
-      "relevance": "Keçinin rüyada bereket, kurban ve geçim gibi anlamlarla ilişkilendirildiğini söyleyen çevrimiçi bir sembol sayfası.",
-      "url": "https://muslimdreammeaning.com/symbols.php?symbol=goat"
-    },
-    {
-      "title": "The Buddha And The Goats",
-      "relevance": "Buda ve keçiler arasındaki anlatı bağını, Ajapala Nigrodha ve keçilerin gölgeye sığınması üzerinden açıklar.",
-      "url": "http://sdhammika.blogspot.com/2013/01/the-buddha-and-goats.html"
-    },
-    {
-      "title": "Goat in Hindu Scriptures as a Vahana or Vehicle of Gods",
-      "relevance": "Hindu gelenekte keçinin Agni ile ilişkisini, ritüel kurban bağlamını ve Daksha’nın keçi başı motifini özetler.",
-      "url": "https://www.hindu-blog.com/2008/01/goat-in-hindu-mythology.html"
-    },
-    {
-      "title": "Goat: Significance and symbolism",
-      "relevance": "Keçinin Hindu gelenekte vahana, kurban ve kozmik niteliklerle ilişkilendirilişine dair kısa derleme bilgi verir.",
-      "url": "https://www.wisdomlib.org/concept/goat"
-    },
-    {
-      "title": "The Goat in Mythology: From Cave Art to the Devil's Horns",
-      "relevance": "Baphomet ve Sabbatik Keçi (Sabbatic Goat) imgesini Batı ezoterik geleneği içinde açıklar.",
-      "url": "https://haeretico.com/goat-mythology-history-egypt-devil-occult/"
+      "title": "Goat Dream Meaning by Colors",
+      "relevance": "Keçinin rüya sembolü olarak bağımsızlık, hırs, içgüdüler ve yükselme temalarıyla okunabileceğini söyler.",
+      "url": "https://mirrorwithin.org/dream-dictionary/goat/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
 }

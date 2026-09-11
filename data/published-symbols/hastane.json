@@ -1,85 +1,199 @@
 {
   "slug": "hastane",
   "title": "hastane",
-  "shortDescription": "Rüyada hastane görmek, şifa arayışını, kırılganlığı ve bakım ihtiyacını yansıtabilir. Zorlu bir dönemde destek alma ve yeniden denge kurma isteğini de çağrıştırır.",
+  "shortDescription": "Rüyada hastane görmek, bedensel kırılganlık, bakım alma ihtiyacı, içsel onarım süreçleri ve kriz ile dönüşüm arasındaki eşik mekânı olarak okunur.",
   "positiveAssociations": [
-    "Şifa ve iyileşme",
-    "Merhamet ve şefkat",
-    "İçsel toparlanma",
-    "Uzman desteği alma"
+    "Şifa",
+    "Onarım",
+    "Arınma",
+    "Yeniden dengelenme"
   ],
   "challengingAssociations": [
-    "Acı ve ıstırap hissi",
-    "Kırılganlık",
-    "Kriz ve eşik anları",
-    "Destek gerektiren zorluklar"
+    "Bedensel kırılganlık",
+    "Pasifleşme",
+    "Yoğun duygusal gerilim",
+    "İhmal edilmiş içsel yaralar"
   ],
   "contextDependentAssociations": [
-    "Zihinsel veya bedensel yorgunluk",
-    "Hayatta yeni bir denge arayışı",
-    "Yardımı kabul etme yeteneği"
+    "Hastane binasının temiz ve düzenli ya da karanlık ve perişan olması",
+    "Rüya görenin hastane yatağında hasta olarak bulunması veya ziyaretçi konumunda olması",
+    "Yoğun bakım gibi kritik alanlarda bulunmak"
   ],
   "commonVariations": [
     {
-      "title": "Hastanede doktor veya uzman bakımı görmek",
-      "description": "Rüyada bir sağlık çalışanından destek aldığını fark etmek, kişinin yaşamındaki bir sorunu çözmek için dışarıdan rehberlik arayışına işaret edebilir."
+      "title": "Temiz ve Aydınlık Bir Hastane Odasında Bulunmak",
+      "description": "Düzenli, ferah bir hastane ortamı genellikle psikolojik veya ruhsal iyileşme, bakım görme ve içsel dengenin yeniden kurulması yönünde olumlu sürece işaret eder."
     },
     {
-      "title": "Hastane koridorlarında yönünü kaybetmek",
-      "description": "Karmaşık bir iyileşme sürecinde veya belirsizlik barındıran bir yaşam evresinde nereye yönleneceğini bilememe hissini yansıtır."
+      "title": "Kaotik ve Perişan Bir Hastanede Dolaşmak",
+      "description": "Karanlık veya bakımsız bir hastane görmek, ihmal edilmiş içsel yaralara, çözülmemiş gerilimlere ve ahlaki ya da toplumsal düzende bozulma kaygılarına işaret edebilir."
     },
     {
-      "title": "Hastaneden taburcu olup çıkmak",
-      "description": "Zorlu bir dönemin geride kalmaya başladığını, yüklerin hafiflediğini ve içsel bir toparlanma evresine girildiğini simgeler."
+      "title": "Hastane Yatağında Yattığını Görmek",
+      "description": "Yatakta pasif biçimde bulunmak, bedensel kırılganlığı kabul etme ve yardım alma ihtiyacını yansıtabilir; psikanalitik açıdan uykuyu koruma işleviyle ilişkili bir mekanizma ile bağlantılı görülebilir."
     },
     {
-      "title": "Ziyaretçi olarak hastanede bulunmak",
-      "description": "Duygusal dengesini koruyarak başkalarının acılarına ve hassas durumlarına şefkatle yaklaşma eğilimini gösterir."
+      "title": "Hastaneden Sağlıkla Çıkıp Ayrılmak",
+      "description": "Hastaneden taburcu olup ayrılmak, zorlu bir kriz döneminin geride bırakılması ve sıkıntılardan kurtulma ile ferahlama anlamına gelebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist ve Doğu geleneklerine yakın çağdaş yorumlarda hastane, yaşamın kaçınılmaz zorlukları ve ıstırapları (dukkha) karşısında merhametli bakımın ve şifanın merkezidir. Bu bağlamda hastane, yalnızca bedensel bir iyileşme alanı değil, aynı zamanda şefkatin ve içsel dönüşümün deneyimlendiği bir geçiş mekânıdır.",
-  "spiritualApproaches": "Spiritüel perspektiflerde hastane, kişinin ruhsal veya bedensel olarak kırılganlık yaşadığı, derin bir kabulleniş ve teslimiyet eşiğidir. İçsel yaraların ele alınması, bakım alma ihtiyacı ve onarım süreçleri bu mekân üzerinden anlam bulur.",
+  "psychology": "Yoğun bakım ve klinik yatışlarla ilgili araştırmalar, hastane ortamında görülen rüyaların sık ve genellikle yoğun duygusal içerikli olduğunu gösteriyor. Bu da hastane sahnesinin rüyalarda duygusal yoğunluk ve klinik koşullarla ilişkilendirilen bir bağlam olduğunu işaret eder.",
+  "jungian": "Analitik psikoloji perspektifinde hastane, sabit bir sözlük anlamından ziyade iyileşme ve dönüşümün geçtiği bir geçiş mekânı olarak ele alınır. Psikenin hasar görmüş yönlerinin bakım ve onarım gerektirdiğini gösteren kapsayıcı bir işlevi olabilir; gölgeyle yüzleşme ve bireyleşme süreçleri bağlamında dikkatle değerlendirilmeli ve kesin, evrensel hükümlere dönüştürülmemelidir.",
+  "islamicTradition": "Geleneksel tabir aktarımlarında hastane benzeri mekânların mamur ve düzenli görülmesi işlerin yolunda gitmesine ve şifaya işaret eder. Perişan veya kötü durumda olması ise toplumsal düzen ya da ahlâkla ilgili olumsuz çağrışımlar uyandırabilir. Modern aktarım ve yorumlarda ise hastane görmek genellikle şifa, tövbe ve sıkıntıdan kurtuluş çerçevesinde ele alınır.",
+  "christianTraditions": "Hristiyan folklorik ve modern yorumlarında hastane rüyası genellikle şifa, merhamet ve ruhsal onarım temalarıyla ilişkilendirilir; bazı modern kaynaklar bunu 'yaralı kilise' veya Tanrı’nın bakımına sığınma imgesiyle okur.",
+  "jewishTraditions": "Talmudik kaynaklarda doğrudan bir 'hastane' tabiri tespit edilmemiştir; Berakhot ve benzeri metinler rüyaların manevi işlevine ve rüyanın nasıl ele alınması gerektiğine vurgu yapar. Dolayısıyla Yahudi gelenekleri bağlamında hastane imgesi, rüyaların manevi çağrısı ve topluluk desteği temaları doğrultusunda temkinli bir şekilde yorumlanabilir.",
+  "buddhistEasternApproaches": "Tibet Budizmi ve rüya yogası bağlamında, klinik bakım ve hastane sahneleri bedenin koşullu doğasını fark etme olanağı sunar; bu çerçevede hastane, harfi harfine bir kehanet olmaktan çok bedensel geçiciliğin ve acının fark edilmesi temasına bağlanır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda hastane, yüklerden geri çekilme, kırılganlığı kabul etme, enerjisel arınma ve eski kalıpların bırakıldığı bir eşik mekânı olarak ele alınır; bu yorumlar geleneksel/metinsel kanıtlardan ziyade modern spiritüel kaynaklara dayanmaktadır.",
   "comparisonTable": [
     {
-      "approach": "Budist ve Doğu Yaklaşımı",
-      "interpretation": "Hastane, yaşamın ıstırabı (dukkha) karşısında şefkat, merhamet ve şifaya açılan bir geçiş alanı olarak ele alınır.",
-      "evidenceLevel": "spiritual"
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Yoğun bakım ve klinik yatış süreçlerinde sık görülen, genellikle yoğun duygulanım ve stres eşlik edebilen rüya deneyimleri olarak ele alınır.",
+      "evidenceLevel": "research"
     },
     {
-      "approach": "Spiritüel Yaklaşım",
-      "interpretation": "Kırılganlık, uzman desteği gereksinimi ve içsel yaraların onarılması için bir teslimiyet eşiği şeklinde yorumlanır.",
+      "approach": "Psikanalitik / Jungçu Teori",
+      "interpretation": "Psikanalitik bakışta hastane sahneleri uykuyu koruma işlevi ve pasiflik temasıyla ilişkilendirilirken; Jungçu okumalar hastaneyi içsel onarım, dönüşüm ve bireyleşme sürecinin geçtiği bir bakım mekânı olarak değerlendirir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Geleneksel Aktarımlar",
+      "interpretation": "Hastane imgesi çoğunlukla şifa ve sıkıntıdan kurtuluş çağrışımı verir; mekânın durumu ise ahlaki ve toplumsal düzen okumalarını etkileyebilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Gelenekleri",
+      "interpretation": "Doğrudan hastane tabiri olmamakla birlikte, rüyaların genel manevi işlevi, iyileşme ve topluluk desteği bağlamında ele alınır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik / Spiritüel Yaklaşım",
+      "interpretation": "Hastane sembolü, enerjisel arınma, içsel bakım ve kriz ile dönüşüm arasındaki eşiğin temsili olarak okunur.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı yaklaşımlar hastaneyi ortak bir paydada, zorluklarla baş etme, şifa arayışı ve bakım alma ihtiyacının somutlaştığı bir alan olarak ele alır.",
-  "differences": "Budist yaklaşımlar temayı yaşamın kaçınılmaz ıstırabı ve şefkat ekseninde değerlendirirken, genel spiritüel yaklaşımlar daha çok kişisel kırılganlık ve eşik dönemlere odaklanır.",
-  "inusAssessment": "Hastane sembolü, doğrudan doğrulanmış ampirik veya klasik psikanalitik veri setlerinden yoksun olmakla birlikte, Doğu felsefesi ve spiritüel yaklaşımlarda belirgin bir anlam kümesine sahiptir. Bu sembolü ele alırken kesin öngörülerde bulunmaktan kaçınmak, rüya görenin şifa, bakım ve kırılganlık temalarını kendi yaşam bağlamında değerlendirmesi en temkinli yaklaşımdır.",
+  "commonGround": "Farklı disiplinler ve gelenekler, hastane imgesini genellikle kırılganlık, bakım/şifa arayışı ve krizin ardından gelebilecek onarım bağlamında ele alır; farklılıklar ise bu temaların nasıl vurgulandığı ve hangi metaforlarla ilişkilendirildiğinde ortaya çıkar.",
+  "differences": "Ampirik psikoloji hastane rüyalarını klinik yatış koşulları ve duygusal yoğunlukla temellendirirken; psikanalitik okumalar uykuyu koruma ve pasiflik temalarına vurgu yapar. Jungçu yaklaşımlar iyileşme ve dönüşüm süreçlerine atıf yapar; dini gelenekler ise şifa, tövbe veya toplumsal düzen okumaları üzerinden yorumlar üretir.",
+  "inusAssessment": "Hastane sembolü, rüyada rastgele bir yapıdan ziyade, psikenin kriz anındaki kırılganlığını, bakım gereksinimini ve onarım talebini işaret eden bir eşik sahnesi olarak değerlendirilebilir. Anlamın yönü hastanenin fiziksel durumu, rüya görenin oradaki rolü ve rüyanın duygusal tonu gibi bağlamsal değişkenlere güçlü biçimde bağlıdır.",
   "faq": [
     {
-      "question": "Rüyada hastane görmek her zaman bir hastalığa mı işaret eder?",
-      "answer": "Hayır. Rüya sembolleri düz birer kehanet değildir; hastane teması genellikle fiziksel bir rahatsızlıktan ziyade yaşamdaki zorluklar, şifa arayışı veya içsel toparlanma süreçleriyle ilişkilendirilir."
+      "question": "Rüyada hastanede yattığını görmek gerçekte hasta olacağın anlamına mı gelir?",
+      "answer": "Hayır. Ampirik çalışmalar ve analitik yaklaşımlar bu imgenin genellikle psikolojik kırılganlık, bakım alma ihtiyacı veya uykuyu koruma gibi süreçlerle ilişkili olduğunu gösterir; deterministik bir kehanet olarak yorumlanmamalıdır."
     },
     {
-      "question": "Budist perspektifte hastane rüyaları nasıl ele alınır?",
-      "answer": "Budist bağlamda hastane, yaşamın içindeki kaçınılmaz zorluklar (dukkha) ve bu zorluklar karşısında gösterilen merhametli bakım, şifa ve şefkat pratikleriyle bağdaştırılır."
+      "question": "Hastane rüyaları neden genellikle yoğun duygularla hatırlanır?",
+      "answer": "Klinik ve psikolojik bağlamda hastane ortamı, zihnin kriz, yabancılaşma veya yoğun bakım benzeri stresli durumları işleme biçimiyle doğrudan bağlantılı olduğundan bu rüyalar daha duygusal ve akılda kalıcı olabilmektedir."
     }
   ],
   "sources": [
     {
-      "title": "Hospital Dream Meaning & Interpretation - Mirror",
-      "relevance": "Budist perspektifiyle hastaneyi dukkha, şefkat ve şifa bağlamında yorumlayan modern bir açıklama sunar.",
-      "url": "https://mirrorwithin.org/dream-dictionary/hospital/"
+      "title": "Dream Experiences During Intensive Care Unit Stay - NIH",
+      "relevance": "Yoğun bakım sürecinde görülen rüya deneyimlerinin yaygınlığı ve duygusal etkilerini inceleyerek, hastane bağlamlı rüyaların güçlü duygusal içerik taşıyabileceğini gösterir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12222043/"
     },
     {
-      "title": "Dream About Hospital - Meaning & Interpretation | Satyori",
-      "relevance": "Doğu geleneklerinde hastaneyi şifa, kriz ve ruhsal bakım alanı olarak ele alan modern bir yorum sunar.",
-      "url": "https://satyori.com/dreams/hospital/"
+      "title": "Patients' dreams in ICU: recall at two years post discharge and comparison to delirium status during ICU admission. A multicentre cohort study - PubMed",
+      "relevance": "Yoğun bakım hastalarında rüya hatırlama oranları ile yatış süresi arasındaki ilişkiyi bildirir; klinik koşulların rüya deneyimini etkileyebileceğine dair kanıt sağlar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16549347/"
+    },
+    {
+      "title": "Freud (1900) Chapter 3 - Classics in the History of Psychology",
+      "relevance": "Freud’un rüya çözümlemelerinde hastane odası ve hastane yatağı içeren örnekleri sunarak psikanalitik bağlamda hastane sahnesinin nasıl kullanıldığını gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams3.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüyalar üzerine eserinin tam metnini içerir ve hastane sahnesine ilişkin örnekleri doğrular.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud’un erken rüya örneklerinden birinde hastane yatağı ve isim kartı geçen sahneyi gösterir.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 5, part b",
+      "relevance": "Freud’un hastane yatağı örneği üzerinden rüyanın \"uykuyu koruma\" işlevine dair yorumunu içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5b.htm"
+    },
+    {
+      "title": "Convenience, Dream of | Encyclopedia.com",
+      "relevance": "Freud’un hastane yatağı örneğini ve bunun uykuyu sürdürme işlevine ilişkin özet yorumunu sunar.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/convenience-dream"
+    },
+    {
+      "title": "Dream About a Hospital — Meaning and Interpretation - Dremyo",
+      "relevance": "Jungçu literatür bağlamında hastane imgesini iyileşme ve içsel bakım temalarıyla ilişkilendiren çevrimiçi bir yorum metnidir.",
+      "url": "https://www.dremyo.com/en/symbols/hospital/"
+    },
+    {
+      "title": "Hospital Dreams — Meaning & Interpretation | PsySymbol",
+      "relevance": "Hastane sembolünü yaralı-şifacı arketipi, bakım-gerilimi ve bireyleşme bağlamında ele alan çevrimiçi bir kaynaktır.",
+      "url": "https://psysymbol.com/dream/hospital.html"
+    },
+    {
+      "title": "Hospital - Dream Symbol - Dreampaths",
+      "relevance": "Hastane sembolünü Jungcu analitik psikoloji bağlamında dönüşüm, gölgeyle yüzleşme ve bireyleşme süreçleriyle ilişkilendirir.",
+      "url": "https://dreampaths.com/symbol/hospital"
+    },
+    {
+      "title": "A Late Confirmation? Review of C. G. Jung's Understanding of ...",
+      "relevance": "Jung’un rüya teorisi ve kompleks temsilleri üzerine yapılan akademik bir inceleme olup, hastane imgelerinin psikolojik durumları temsil edebileceği fikrine akademik bir bağlam sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13381552/"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Antik oneirokritik geleneğin kapsamını açıklayarak modern \"hastane\" kurumunun antik rüya literatüründe doğrudan bir karşılığı olmadığını gösteren tarihsel bağlam sunar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri H Harfi",
+      "relevance": "Geleneksel İslami tabirlerin modern aktarımı olarak, hastane benzeri mekânların düzenli görülmesinin şifa; perişan görülmesinin ise olumsuz toplumsal çağrışımlar taşıdığına dair örnek sunar.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-h-harfi.html"
+    },
+    {
+      "title": "Rüyada Hastane Görmenin Psikolojik Yorumu ve Anlamı",
+      "relevance": "Hastane görmeyi tövbe, arınma, şifa ve sıkıntıdan kurtuluş ekseninde yorumlayan modern İslami aktarım sayfalarından biridir.",
+      "url": "https://www.mentalgundem.com/ruyalar/ruyada-hastane-gormenin-psikolojik-yorumu-ve-anlami/396"
+    },
+    {
+      "title": "hospital",
+      "relevance": "Hastane rüyasını doğrudan ele alan modern bir Hristiyan yorum olup, hastaneyi şifa, merhamet ve ruhsal onarım temalarıyla ilişkilendirir.",
+      "url": "https://joshuamediaministries.org/dreams/hospital/"
+    },
+    {
+      "title": "Dream of Hospital Spiritual Meaning: Bib… - Faith & Forward",
+      "relevance": "Hastane rüyasını iyileşme, onarım, teşhis ve yoğun bakım gibi Hristiyan temalar çerçevesinde açıklayan modern bir yorumdur.",
+      "url": "https://faithandforward.com/articles/dream-of-hospital-spiritual-meaning"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Talmudik rüyalarla ilgili bölümler üzerinden Yahudi geleneğinin rüyaların manevi işlevine vurgu yaptığını ve doğrudan \"hastane\" tabirinin bulunmadığını belirtir.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Being In A Hospital Dream Meaning & Interpretation",
+      "relevance": "Budist perspektiften hastane rüyalarını dukkha, anicca ve anatta öğretileri bağlamında yorumlayan çevrimiçi bir kaynaktır.",
+      "url": "https://mirrorwithin.com/dream-dictionary/being-in-a-hospital/"
+    },
+    {
+      "title": "Hospital, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Hastane rüyasını ruhsal düzeyde \"iyileştirici bir çevre\" ve dengenin yeniden kurulması temalarıyla ilişkilendiren bir yorum metnidir.",
+      "url": "http://www.dreamtation.com/docs/2908.htm"
+    },
+    {
+      "title": "Hospital in dreams — meaning and symbolism",
+      "relevance": "Ezoterik bir bakışla hastane rüyasını enerjik arınma, sessizlik, yüklerden arınma ve ince beden dengesi temaları üzerinden yorumlayan bir kaynaktır.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/hospital"
+    },
+    {
+      "title": "Hospital in Dreams: Care, Crisis, and the Will to Heal | Dreamspoken",
+      "relevance": "Ezoterik ve spiritüel düzlemde hastane sembolünü içsel bakım ve iyileşme eşiği olarak ele alan modern yorumları içerir.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/hospital"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian",
+    "buddhist-eastern"
+  ]
 }

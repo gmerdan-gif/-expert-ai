@@ -1,0 +1,201 @@
+{
+  "slug": "diploma",
+  "title": "diploma",
+  "shortDescription": "Rüyada diploma görmek, emek verilen bir sürecin tamamlanması, başarı ve takdir görmeyle ilişkilendirilir. Diplomanın gururla alınması yeterlilik hissini; kaybolması ya da hatalı olması ise yetersizlik ve beklentileri karşılayamama kaygısını yansıtabilir.",
+  "positiveAssociations": [
+    "Başarı ve emeklerin karşılığını alma",
+    "Toplumsal statü ve resmî tanınma",
+    "Yeni bir yaşam evresine veya sorumluluğa geçiş",
+    "Görevde yükselme ve takdir edilme",
+    "İçsel yeterlilik ve rahatlama hissi"
+  ],
+  "challengingAssociations": [
+    "Yetersizlik hissi veya impostör sendromu (kendini sahtekar hissetme)",
+    "Yetersizlik hissi veya (impostör sendromu olarak da bilinen) kendini sahtekar hissetme",
+    "Beklentileri karşılayamama baskısı",
+    "Gelecekteki sorumlulukların getirdiği kaygı"
+  ],
+  "contextDependentAssociations": [
+    "Rüya sahibinin gerçek hayattaki statüsü (öğrenci, çalışan, tüccar vb.)",
+    "Diplomanın alındığı sıradaki duygusal ton (gurur mu, kaygı mı?)",
+    "Belgenin fiziksel durumu (yırtık, kayıp veya eksiksiz olması)"
+  ],
+  "commonVariations": [
+    {
+      "title": "Eksiksiz ve gururla alınan diploma",
+      "description": "Rüya sahibinin uzun süredir emek verdiği bir sürecin tamamlandığını hissederek hak edilmiş bir belgeyi gururla elinde tutması."
+    },
+    {
+      "title": "Kaybedilen veya bulunamayan diploma",
+      "description": "Mezuniyet anında veya önemli bir başvuru sırasında diplomanın yerinde olmadığını ya da kaybolduğunu fark ederek yaşanan panik hissi."
+    },
+    {
+      "title": "Hatalı veya sahte basılmış diploma",
+      "description": "Üzerinde yanlış isim yazan ya da geçersiz olduğu anlaşılan bir belgeyle karşılaşarak yetersizlik veya dolandırıcılık korkusu duymak."
+    },
+    {
+      "title": "Kalabalık törenle sunulan diploma",
+      "description": "Tanıdık kişilerin veya otorite figürlerinin önünde sahneye çağrılarak toplumsal onay ve takdir eşliğinde belgeyi almak."
+    }
+  ],
+  "psychology": "Psikolojik açıdan diploma imgesi, bireyin kendi yetkinliğini tescilleme ihtiyacı ve dış dünyadan beklediği onay ile yakından ilgilidir. Doğrudan bu spesifik nesneyi inceleyen ampirik psikolojik çalışma bulunmamakla birlikte, psikodinamik çerçevede eğitim ve sınav rüyalarıyla bağlantılı olarak ele alınır.",
+  "jungian": "Analitik psikoloji çerçevesinde rüya imgeleri harfi harfine işaretler değildir; daha ziyade sembolik değer taşır. Bu bağlamda diploma, bireyleşme yolculuğunda önemli bir eşiğin geçildiğini, bilinçdışındaki hazırlıkların biçimlendiğini ve psikolojik gelişimin toplumsal veya içsel bir tanınmaya ulaştığını gösteren çok katmanlı bir geçiş sembolü olarak düşünülebilir.",
+  "islamicTradition": "Geleneksel aktarımlarda rüyada diploma görmek genellikle sevinç, ferahlık ve kişinin görevinde yükselme olarak yorumlanır. Rüyayı gören kişinin statüsüne göre farklı tonlar kazanabilir; örneğin bir öğrencinin hocasından takdir görmesi, memurun amirinden onay alması veya bir tüccarın kazançlı bir anlaşmaya varması gibi olumlu yönelimlerle ilişkilendirilir.",
+  "christianTraditions": "Hristiyan teolojisinin patristik ve Kutsal Kitap'a dayalı sembolik okuma geleneğinde, gündelik nesneler ve yazılı belgeler doğrudan kehanet aracı olmaktan ziyade ruhsal bir çağrı, rehberlik veya ilahi bir onay işareti olarak ele alınabilir. Bu eksende diploma, kişinin hayatındaki olgunlaşma, hazırlık ve yeni bir göreve atanma temasını yansıtan analojik bir imge olarak düşünülebilir.",
+  "jewishTraditions": "Talmudik rüya yorumu geleneğinde Berakhot metinlerinde her nesne için sabit bir karşılık bulunmaz ve rüyalar ağırlıklı olarak bağlam ve yoruma bağlı olarak değerlendirilir. Bu çerçevede \"diploma\" gibi modern belgeler için yapılabilecek en temkinli yaklaşım, öğrenim, toplumsal onay ve başarı gibi genel sembolik çağrışımlarla sınırlı tutulmasıdır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve spiritüel yorumlarda diploma, harcanan emeğin ardından gelen ruhsal bir eşik atlama, dış dünyadan alınan 'tamamlandı' onayı ve yeni bir evreye hazırlık işareti olarak kabul edilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Sorumluluk korkusu, yeterlilik sınavı ve toplumsal onay arzusunun simgesel dışavurumu.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bireyleşme sürecinde bir aşamanın tamamlanması ve içsel gelişimin sembolik tescili.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Aktarım",
+      "interpretation": "Sevinç, ferahlık, görevde yükselme ve çeşitli yaşam alanlarında takdir görme alameti.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Bir dönemin kapanışı, ruhsal eşik atlama ve dış dünyadan gelen onay belgesi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve psikolojik yaklaşımlar arasında diploma sembolünün ortak paydası, onun çaba gerektiren bir sürecin sonundaki 'geçiş', 'kabul' ve 'tanınma' anını temsil etmesidir.",
+  "differences": "Yaklaşımlar arasındaki temel fark, psikanalitik ve teorik ekollerin rüyayı içsel kaygılar ve onay arayışıyla (sınav korkusu vb.) ilişkilendirmesi, geleneksel ve spiritüel aktarımların ise rüyayı dışsal bir ödül, ferahlık veya ruhsal bir eşik atlamanın işareti olarak okumasıdır.",
+  "inusAssessment": "Rüyada diploma görülmesi, belgenin fiziksel varlığından çok rüya sahibinin taşıdığı duygusal tona ve gerçek hayattaki statüsüne göre şekillenir. Belgenin gurur ve rahatlamayla mı yoksa eksiklik ve kayıp hissiyle mi deneyimlendiği, rüyanın bir başarı kutlaması mı yoksa yetersizlik kaygısının bir yansıması mı olduğunu belirleyen en kritik ayrım noktasıdır.",
+  "faq": [
+    {
+      "question": "Rüyada diploma almak ne anlama gelir?",
+      "answer": "Genellikle emek verilen bir sürecin tamamlandığına, başarıya ve dış dünyadan gelecek takdir veya onay beklentisine işaret eder."
+    },
+    {
+      "question": "Rüyada diplomanın kaybolması veya yırtılması neyi gösterir?",
+      "answer": "Kişinin kendi yeterliliğine dair duyduğu kuşkuları, otoriteler karşısında hata yapma korkusunu veya hayatındaki bir geçiş döneminde yaşadığı güvensizliği yansıtabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "What Achievement, Identity, and Recognition Mean in Your ...",
+      "relevance": "Diploma rüyasının başarı, tanınma, geçiş ve duygusal tonla ilişkili biçimde ele alındığı modern bir yorum metni.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/diploma"
+    },
+    {
+      "title": "Diploma Dream Meaning & Interpretation - Mirror",
+      "relevance": "Diploma imgesini kişisel başarı, onaylanma ve yeni yaşam evrelerine hazırlık bağlamında ele alan modern bir yorum sayfası.",
+      "url": "https://mirrorwithin.org/dream-dictionary/diploma/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Sınav rüyaları, sorumluluk korkusu ve utanç beklentisiyle bağlantılı bölüm; diploma imgesini yeterlilik ve resmî değerlendirilme ekseninde düşünmek için temel sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
+      "relevance": "Rüyaların bastırılmış dileklerin gizlenmiş doyumu olduğu yönündeki Freudcu çerçeve; diploma imgesini başarı ve onay isteğiyle ilişkili okumaya izin verir.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
+    },
+    {
+      "title": "Symbol – International Association of Analytical Psychology",
+      "relevance": "Jung’un sembol tanımını ve rüyaların sembolik doğasını açıklıyor; diploma gibi bir imgenin sabit değil, sembolik ve çok katmanlı okunması gerektiği çerçevesini sağlıyor.",
+      "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/symbol-2/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Greko-Romen rüya yorumunun temel metni; rüya türleri ve yorum ilkeleri üzerinden belge ve işaret sembolizmini anlamak için merkezî bir kaynak.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’un Oneirocritica’sındaki rüya dilini ve kavramsal ayrımları inceleyen çalışma; antik rüya terminolojisinin nasıl işlediğini gösterir.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "The Interpretation of Dreams from Ancient Greece to Modern ...",
+      "relevance": "Antik Yunan’dan modern döneme rüya yorumunun tarihini ele alan akademik çalışma; rüya sembollerinin kültürel ve tarihsel dönüşümünü çerçeveler.",
+      "url": "https://www.history.ox.ac.uk/publication/671630/manual"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Diploma sembolüne ilişkin aktarılan İslami rüya tabiri; sevinç, ferahlık, takdir ve görevde yükselme temalarını içerir.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Doctrinalising dreams: patristic views of the nature of dreams and their relation to early Christian doctrines",
+      "relevance": "Patristik dönemde rüyaların ilahi mesaj, ahlaki yansıma ve iman güçlendirmesi olarak anlaşılmasına dair akademik bir çerçeve sunuyor.",
+      "url": "https://era.ed.ac.uk/handle/1842/5462"
+    },
+    {
+      "title": "Symbolism in scripture | Catholic Identity",
+      "relevance": "Kutsal Kitap’taki sembolik okumanın bazı gündelik imgeleri ruhsal anlamlarla ilişkilendirdiğini gösteren genel bir Hristiyan sembolizm çerçevesi sunuyor.",
+      "url": "https://www.catholicidentity.bne.catholic.edu.au/religion-curriculum/scripture/symbolism-in-scripture"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-57b içindeki rüya ilkeleri ve sembol örneklerini derleyen Talmud sayfası.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Berakhot 55b’nin çevrimiçi Talmud sunumu; rüya yorumunda bazı sembollerin nasıl eşleştirildiğini gösterir.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "The Diploma Archetype Meaning & Symbolism - MyMythos | Personal Mythology",
+      "relevance": "Rüyada diploma sembolünü doğrudan ele alan modern kişisel-mitoloji yorumu; diplomanın doğrulama, eşik ve tamamlanma temalarını vurguluyor.",
+      "url": "https://mymythos.org/archetype/the-diploma-archetype-meaning-symbolism/"
+    },
+    {
+      "title": "К чему снится диплом - толкование сна | Mystara",
+      "relevance": "Rüyada diploma sembolünü doğrudan ele alan modern rüya yorumu; başarı, tanınma ve önemli bir yaşam evresinin kapanması temasını veriyor.",
+      "url": "https://mystara.ru/son/diplom"
+    },
+    {
+      "title": "What Does Dreaming Of Graduating Mean? - Rüya Tabirleri",
+      "relevance": "Rüyada diploma sembolünü doğrudan ele alan modern rüya yorumu; emek, onay ve yeni sorumluluklara geçiş temasını içeriyor.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-graduating"
+    },
+    {
+      "title": "Сонник - Уютный уголок",
+      "relevance": "Rüyada diplomayı doğrudan konu alan modern rüya sözlüğü; ödül, başarı ve bir evrenin kapanması temasını vurguluyor.",
+      "url": "https://russstories.ru/sonnik/diplom/"
+    },
+    {
+      "title": "К чему снится Диплом: Значение сна в соннике",
+      "relevance": "Rüyada diplomayı doğrudan konu alan modern rüya yorumu; başarı, yeni fırsatlar ve olumlu değişim temasını veriyor.",
+      "url": "https://astrohelper.ru/tolkovanie-snov/diplom/"
+    },
+    {
+      "title": "Диплом во сне, к чему снится по соннику",
+      "relevance": "Rüyada diploma sembolünü doğrudan ele alan modern rüya sözlüğü; başarı, kapanış ve yeni sorumluluklar temasını işliyor.",
+      "url": "https://sonniksny.ru/d/diplom/"
+    },
+    {
+      "title": "Dream About Diploma: What It Means",
+      "relevance": "Rüyada diploma ve mezuniyet imgelerini doğrudan ele alan modern spiritüel yorum; kişisel gelişim evreleri ile başarı ve baskı arasındaki denge temasını işliyor.",
+      "url": "https://www.tarotread.ai/articles/dream-about-diploma"
+    },
+    {
+      "title": "К чему снится Диплом об образовании по соннику? Видеть во сне Диплом – толкование снов.",
+      "relevance": "Rüyada diplomayı doğrudan konu alan modern rüya sözlüğü; hayal kırıklığı, takdir görmeme ve yeni teklif temalarını birlikte veriyor.",
+      "url": "https://www.astromeridian.ru/sonnik/2280.html"
+    },
+    {
+      "title": "Dreams About Receiving Diploma: Uncover Their Significance",
+      "relevance": "Rüyada diploma sembolünü doğrudan ele alan modern rüya yorumu; bilgi, beceri ve uzmanlık edinimi temasını veriyor.",
+      "url": "https://dict.dreamdecoder.me/symbol/dreams-about-receiving-diploma"
+    },
+    {
+      "title": "К чему снится диплом: толкование снов по соннику",
+      "relevance": "Rüyada diplomayı doğrudan ele alan modern rüya yorumu; başarı, tanınma ve iş/okul alanındaki ilerleme temasını içeriyor.",
+      "url": "https://mirkosmosa.ru/sonnik/dream/diplom"
+    }
+  ],
+  "relatedSlugs": []
+}

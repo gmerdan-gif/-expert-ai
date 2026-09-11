@@ -1,0 +1,304 @@
+{
+  "slug": "es",
+  "title": "eş",
+  "shortDescription": "Rüyada eş görmek, ilişkinizdeki güveni, yakınlığı ve ortak yaşamın dengesini yansıtabilir. Eşin neşeli ve yakın olması destekleyici bir bağı; uzak, öfkeli ya da hasta görünmesi ise ihmal edilen paylaşımları veya gerilimleri işaret edebilir.",
+  "positiveAssociations": [
+    "Güvenli bağlanma ve destekleyici ortaklık",
+    "Ev içi huzur, düzen ve karşılıklı özen",
+    "İçsel karşıtların dengelenmesi ve bütünleşme",
+    "Duygusal yakınlık ve ortak etkinlikler"
+  ],
+  "challengingAssociations": [
+    "Kıskançlık, güven sorunları ve gizli çatışmalar",
+    "İhmal edilen haklar ve ev içi gerilimler",
+    "Ayrılık dönemi vurguları ve mesafeler",
+    "Sadakatsizlik endişeleri ve ilişkisel kaygılar"
+  ],
+  "contextDependentAssociations": [
+    "Eşin rüyadaki görünüşü, öfkesi veya hastalığına göre değişen anlamlar",
+    "Gerçek ilişki dinamikleri ile içsel psikolojik figür arasındaki ayrım",
+    "İlişki dönemleri veya ayrı kalınan zaman dilimlerinin rüya içeriğine etkisi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Birlikte Sakin Bir Etkinlik Yürütmek",
+      "description": "Rüyada eşle birlikte günlük ve olağan bir eylemde bulunmak, uyanık yaşamdaki ilişki kalitesinin ve güvenli bağlanma örüntülerinin yansıması olarak görülür."
+    },
+    {
+      "title": "Eşin Uzak veya Hasta Görünmesi",
+      "description": "Eşin rüyada ulaşılamaz, hasta ya da üzgün olması, ev içi gerilimlere, ihmal edilmiş paylaşımlara veya ilişkide dikkat gerektiren noktalara işaret eder."
+    },
+    {
+      "title": "İlişkide Kıskançlık veya Çatışma Yaşamak",
+      "description": "Partnerle ilgili rüyalarda ortaya çıkan gerginlik ve güvensizlik unsurları, sonraki günlerde ilişkinin yakınlığında azalma ya da iletişim çatışmalarıyla bağlantılı olabilir."
+    },
+    {
+      "title": "İçsel Bütünleşme ve Eşleşme İmgeleri",
+      "description": "Eş figürünün psikolojik olarak psişenin karşıt yönlerini birleştiren bir anima/animus ya da içsel denge unsuru olarak belirir."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar, partner rüyalarının büyük bir kısmının birlikte yapılan günlük etkinlikleri içerdiğini ve bu içeriklerin bireyin bağlanma stilleri ile doğrudan bağlantılı olduğunu göstermektedir. Kıskançlık veya çatışma barındıran rüyalar, ertesi gün ilişkideki yakınlık düzeyini ve olası gerilimleri etkileyebilir. Psikanalitik çerçevede ise eş imgesi, sabit bir sözlük anlamından ziyade rüya görenin bastırılmış arzuları, bedensel çağrışımları ve ilişki geçmişi etrafında şekillenen bir çağrışım ağı sunar.",
+  "jungian": "Analitik psikolojide eş benzeri figürler, yalnızca dış dünyadaki partneri temsil etmekle kalmaz; aynı zamanda bireyin içsel dünyasındaki karşıt unsurların (örneğin anima veya animus) birleşmesini ve psişik bütünleşme ihtiyacını simgeler. Bu figür, ilişkiselliği ve rüya görenin kendi içsel yönleriyle kurduğu bağı yansıtan bir personifikasyon olarak ele alınır.",
+  "islamicTradition": "Klasik ve modern aktarımlarda zevce/eş figürü, aile düzeni, karşılıklı haklar, güven, rahatlık ve dünya menfaati gibi kavramlarla ilişkilendirilir. Eşin rüyadaki neşeli, sağlıklı veya güzel görünmesi ev hayatında hayra ve berekete yorulurken, öfke, hastalık ya da uzaklık hali ev içi gerilimlere veya ihmal edilen sorumluluklara işaret edebilir.",
+  "christianTraditions": "Hristiyan sembolizminde evlilik ve eş imgesi, Tanrı ile halkı arasındaki antlaşmayı, Mesih ile Kilise arasındaki bağı temsil eder.",
+  "jewishTraditions": "Rabbinî rüya geleneğinde rüyaların yorumlanma dili ve bağlamı büyük önem taşır. Doğrudan eş sembolü üzerine sabit bir kategori bulunmamakla birlikte, evlilik ve aile temaları bereket, bağlar ve rüya sahibinin genel manevi durumu üzerinden değerlendirilir.",
+  "buddhistEasternApproaches": "Budist etik anlayışında eşler arası ilişkiler karşılıklı sorumluluklar, saygı, sadakat ve ev içi özen çerçevesinde ele alınır; bu bağlamda partner imgeleri ilişkisel dengenin birer yansımasıdır.",
+  "spiritualApproaches": "Ezoterik ve mistik okumalarda eş/partner figürü, iki ayrı unsurun birleşerek daha bütün bir hâl almasını simgeleyen simyasal bir birleşme (coniunctio) ve içsel uyum arayışı olarak yorumlanır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Partner rüyalarını bağlanma stilleri, günlük ilişki kalitesi ve ertesi günün iletişim dinamikleriyle bağdaştırır.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Eş imgesini bastırılmış arzular, içsel çatışmalar ve kişisel çağrışım ağları üzerinden inceler.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Eş figürünü hem dış ilişki bağı hem de içsel karşıtların dengelenmesi ve bütünleşme ihtiyacı olarak ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Eş figürünü aile düzeni, haklar, huzur veya ev içi gerilimlerin bir göstergesi olarak değerlendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Evlilik ve eş sembolizmini kutsal antlaşma, sadakat ve ruhsal birlik metaforuyla bağdaştırır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Partner figürünü karşıtların uyumu, içsel bütünleşme ve simyasal bir birleşme eşiği olarak yorumlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, eş sembolünün yalnızca dışsal bir kişiyi temsil etmediğini, bireyin iç dünyasındaki dengeyi, ilişkisel bağların niteliğini ve sorumlulukları yansıttığı noktasında birleşir.",
+  "differences": "Yaklaşımlar arasındaki temel fark, ampirik psikolojinin ilişki davranışlarına ve bağlanma örüntülerine odaklanması ile psikanalitik, Jungcu ve geleneksel okumaların eş sembolünü sırasıyla arzular, içsel anima/animus arketipleri veya ahlaki ve manevi göstergeler üzerinden değerlendirmesidir.",
+  "inusAssessment": "Eş sembolünü diğer yakın ilişki figürlerinden ayıran temel nokta, evlilik veya uzun süreli ortaklık içinde paylaşılan hane, sorumluluk, bağlılık ve karşılıklılık düzenidir. Rüyada eşin yakınlaşması, uzaklaşması, destek vermesi, çatışması ya da ayrılık bağlamında görünmesi; ortak yaşamın güven, yük paylaşımı ve bağlılık boyutlarını farklılaştırır. Özellikle gerçek yaşamda ayrılık, ilişki gerilimi veya ortak geleceğe ilişkin kararların bulunduğu dönemlerde eş figürünün rüyadaki davranışı yorum için sembole özgü güçlü bir ayrım sağlar.",
+  "faq": [
+    {
+      "question": "Rüyada eşimi görmek gerçek ilişkimde bir sorun olduğunu mu gösterir?",
+      "answer": "Ampirik çalışmalar, partner rüyalarının çoğunlukla günlük olumlu etkinlikleri yansıttığını, ancak kıskançlık veya çatışma içeren rüyaların bazen ertesi günkü ilişki kalitesini etkileyebileceğini göstermektedir."
+    },
+    {
+      "question": "Eşimi rüyada hasta veya öfkeli görmek ne anlama gelir?",
+      "answer": "Geleneksel ve psikolojik okumalarda bu tür detaylar ev içi gerilimlere, ihmal edilmiş paylaşımlara veya ilişkide dikkat edilmesi gereken hassas noktalara işaret edebilir."
+    },
+    {
+      "question": "Rüyadaki eş figürü her zaman gerçek partnerimi mi temsil eder?",
+      "answer": "Jungcu ve psikodinamik yaklaşımlara göre eş figürü, dışsal partnerin yanı sıra rüya görenin içsel dünyasındaki karşıt yönleri veya bütünleşme ihtiyacını da temsil eden bir iç figür olabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dreaming of You - Dylan F. Selterman, Adela I. Apetroaia, Suzanne Riela, Arthur Aron, 2014",
+      "relevance": "Partner rüyalarındaki kıskançlık ve sadakatsizlik gibi içeriklerin sonraki gün ilişki yakınlığı ve çatışmasıyla bağlantısını ele alır.",
+      "url": "https://journals.sagepub.com/doi/10.1177/1948550613486678"
+    },
+    {
+      "title": "Partners and Ex-Partners in Dreams: A Diary Study - PMC",
+      "relevance": "Partner ve eski partner figürlerinin rüya içeriğinde nasıl göründüğünü ve hangi etkileşim temalarının baskın olduğunu gösterir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8161826/"
+    },
+    {
+      "title": "[PDF] Comparing relationship periods with periods of being separated",
+      "relevance": "İlişki dönemi ile ayrı kalınan dönemlerde partner içeren rüya temalarının nasıl değiştiğini karşılaştırır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/9150/pdf/9429"
+    },
+    {
+      "title": "\"Relationship Patterns and Dream Content: Attachment ...",
+      "relevance": "Bağlanma örüntüleri ile rüya içeriği arasındaki ilişkiyi inceleyerek yakın ilişki figürlerinin rüyalardaki işlenişine ışık tutar.",
+      "url": "https://commons.library.stonybrook.edu/stony-brook-theses-and-dissertations-collection/893/"
+    },
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinde karakter, etkileşim ve duygusal tonun nasıl kodlanacağını açıklayan yöntem yazısıdır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Freud (1900) Chapter 4 - Classics in the History of Psychology",
+      "relevance": "Freud’un rüya kuramının temel metni; rüyaların bastırılmış isteğin kılık değiştirmiş doyumu olduğu ve rüya yorumunun çağrışım üzerinden ilerlediği çerçeveyi verir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams4.htm"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud’un rüya sembolizmi ve Oidipus bağlamındaki örnekleri; yatak odası, evlilik ve bir kadını eş olarak kazanma isteği gibi bağlantıları gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Persistent link: http://hdl.handle.net/2345/393",
+      "relevance": "Freud’un kendi rüyalarında eşi Martha’ya bağlanan çağrışımların, beden ve hamilelik temalarıyla nasıl örüldüğünü tartışır.",
+      "url": "https://dlib.bc.edu/islandora/object/bc-ir:102209/datastream/PDF/view"
+    },
+    {
+      "title": "Freud –The Interpretation of Dreams –Chapter 6 - Psych Web",
+      "relevance": "Oidipus örneğinde bir kadını eş olarak kazanma arzusunun rüya çözümlemesinde nasıl yer aldığını gösteren klasik pasajı sunar.",
+      "url": "https://www.psywww.com/books/interp/chap06.html"
+    },
+    {
+      "title": "[PDF] PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO PUC-SP",
+      "relevance": "Eşin rüyada bir çiftin ortak korku ve güvensizliğinin simgesel personifikasyonu olarak görülebileceği bağlamı verir.",
+      "url": "https://repositorio.pucsp.br/bitstream/handle/15011/1/Maria%20Silvia%20Costa%20Pessoa.pdf"
+    },
+    {
+      "title": "Carl Jung - Analysis of Dream Symbols (3)",
+      "relevance": "Bräutigam/gelin eşleşmesi üzerinden eş/partner sembolünün birlik, karşıtların uyumu ve içsel birleşme temalarıyla bağını gösterir.",
+      "url": "https://www.carl-jung.net/dream_symbols3.html"
+    },
+    {
+      "title": "Partner in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Jungcu partner ve eş figürünün içsel duygu, sezgi ve ilişkisellik yönlerini temsil edebilmesine dair bir formülasyon sunar.",
+      "url": "https://rosmertapublishing.com/dream-symbols/partner/"
+    },
+    {
+      "title": "Dreams about your partner.",
+      "relevance": "Rüyada eşin ‘iç eş’ ya da anima/animus figürü olarak belirebileceği ve bunun içsel ilişki süreçleriyle bağlantısı anlatılır.",
+      "url": "https://www.reddit.com/r/Jung/comments/b9a3ia/dreams_about_your_partner/"
+    },
+    {
+      "title": "Dreaming about a partner — meaning in three traditions",
+      "relevance": "Eş benzeri partner figürünün gerçek ilişki ile içsel karşıtları birleştirme ihtiyacını aynı anda taşıyabileceğini açıklar.",
+      "url": "https://www.nocturnary.com/symbols/partner"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Kişinin kendi eşiyle rüyada cinsel birleşmesini ve eşin gönüllü ya da isteksiz oluşuna göre yorum farkını veren temel oneirokritik pasaj.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’un rüya tiplerini sınıflandıran çerçevesini açıklayan akademik çalışma; eş gibi figürlerin bağlama göre yorumlanmasının arka planını verir.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Microsoft Word - JGRChJ 16 Hubbard 117-128.doc",
+      "relevance": "Artemidorus’taki cinsellik ve hiyerarşi mantığını, eşin bazen kişinin işi ve denetimiyle ilişkili okunabileceğini anlatan akademik inceleme.",
+      "url": "http://jgrchj.net/volume16/JGRChJ16-6_Hubbard.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un yorumunda rüya ayrıntıları ve rüya görenin durumu gibi bağlamsal unsurların önemini özetleyen tanıtıcı akademik içerik.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "What does it mean to see a wife in a dream?",
+      "relevance": "Rüyada eşin nasıl göründüğüne göre aile bağı, haklar, güven ve ilişki hâli üzerine modern İslami aktarım.",
+      "url": "https://www.molla.az/en/dream-interpretation/what-does-it-mean-to-see-a-wife-in-a-dream"
+    },
+    {
+      "title": "Dream of Wife — Islamic Dream Meaning | Naeem Foundation",
+      "relevance": "Eşin rüyada rahatlık, ortaklık, ev düzeni, bereket ve ilişkisel durumla bağlantısını anlatan modern İslami derleme.",
+      "url": "https://www.naeemfoundation.com/dreams/wife"
+    },
+    {
+      "title": "Wife Islamic Interpretations & Meanings",
+      "relevance": "Eş sembolünün partnerlik, dünya hayatı, menfaat, rahatlık ve karşıtlık gibi çok yönlü anlamlarla ele alındığı çevrimiçi İslami derleme.",
+      "url": "https://www.myislamicdream.com/wife.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri Z Harfi",
+      "relevance": "Zevce için müjde, baht açıklığı ve menfaat bağlantısı aktaran çevrimiçi Nablusî derlemesi.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-z-harfi.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri T Harfi",
+      "relevance": "Zevceyi boşama rüyasını izzet, şeref ve mal kaybı bağlamında aktaran çevrimiçi Nablusî derlemesi.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-t-harfi.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri H Harfi - Muhammed.net",
+      "relevance": "Zevcenin hasta görülmesini beden sağlığı ve dinî durumla ilişkilendiren çevrimiçi Nablusî derlemesi.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-h-harfi.html"
+    },
+    {
+      "title": "Ask and You Shall Receive - Apostle David E. Taylor ...",
+      "relevance": "Rüyada eşin görülmesini ilahi onay veya evlilikle ilgili anlamlar içinde yorumlayan çağdaş Hristiyan içerik.",
+      "url": "https://joshuamediaministries.org/dreams-and-marriage/"
+    },
+    {
+      "title": "A The symbolism of marriage.",
+      "relevance": "Evliliği Tanrı ile ilişki ve Mesih-Kilise bağı çerçevesinde sembolleştiren Hristiyan sunumu.",
+      "url": "https://www.fustero.es/outline_2025t203.pdf"
+    },
+    {
+      "title": "Presentación de PowerPoint",
+      "relevance": "Evliliğin yaratılış ve Mesih-Kilise sembolizmi içindeki yerini anlatan sunum dosyası.",
+      "url": "https://www.fustero.es/en_2025t203.pdf"
+    },
+    {
+      "title": "Sacred Union: What does Marriage Symbolize? - Christian Pure",
+      "relevance": "Evliliğin kutsal antlaşma ve birlik olarak Hristiyan anlamını özetleyen güncel teolojik kaynak.",
+      "url": "https://christianpure.com/learn/marriage-symbolism/"
+    },
+    {
+      "title": "Marriage: Its Purpose & Symbolism – Selected Scriptures",
+      "relevance": "Evliliğin Eski ve Yeni Ahit’te Tanrı’nın halkıyla ilişkiyi anlatan bir sembol olduğunu açıklayan metin.",
+      "url": "https://www.gracebibleny.org/marriage-its-purpose-symbolism-selected-scriptures"
+    },
+    {
+      "title": "Topical Bible: Symbolism of Marriage",
+      "relevance": "Evliliğin Tanrı ile halkı arasındaki antlaşma ilişkisine dair Hristiyan tematik özet.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_marriage.htm"
+    },
+    {
+      "title": "Topical Bible: The Metaphor of Marriage",
+      "relevance": "Evliliği Tanrı’nın halkıyla ilişkisini anlatan tekrar eden bir metafor olarak tanımlayan başvuru metni.",
+      "url": "https://biblehub.com/topical/t/the_metaphor_of_marriage.htm"
+    },
+    {
+      "title": "Topical Bible: Understanding the Marriage Metaphor",
+      "relevance": "Evlilik metaforunu antlaşma, sevgi, sadakat ve yakınlık temaları üzerinden açıklayan başvuru metni.",
+      "url": "https://biblehub.com/topical/u/understanding_the_marriage_metaphor.htm"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Rüyaların yorumlanmasına dair rabbanî çerçeve ve yorum dilinin etkisi.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Berakhot 112 - Talmud Bavli Study",
+      "relevance": "Berakhot 57a’daki evli kadın temalı rüya pasajının çevrimiçi metni.",
+      "url": "https://talmudbavli.app/en/texts/Berakhot.112.1"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200 ...",
+      "relevance": "Berakhot 57a’daki rüya örneklerinin akademik özeti ve yorum bağlamı.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Klasik Yahudi rüya yorum geleneğinde asma, üzüm ve aile/çocuk/eş temaları arasındaki bağlantılar.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "What Is the Sigalovada Sutta? Buddhism's Manual for ...",
+      "relevance": "Sigalovada Sutta’nın evlilik ve eşler arası görevleri anlattığını özetleyen bir Budist açıklama; eş temasını Batı yönü, karşılıklı sorumluluk ve aile içi düzen bağlamında ele alır.",
+      "url": "https://just-buddha.org/en/articles/sigalovada-sutta-buddhism-manual-for-relationships"
+    },
+    {
+      "title": "Wedding Dreams: Symbols of Sacred Union and Inner ...",
+      "relevance": "Evlilik ve düğün imgelerini kutsal birlik, karşıtların birleşmesi ve simyasal hierosgamos bağlamında ele alır; eş/partner sembolü için ezoterik bir birleşme okuması sağlar.",
+      "url": "https://thisjungianlife.com/wedding-dreams/"
+    },
+    {
+      "title": "Dreaming of Marriage: Meanings Across Traditions | Dream Tabeer",
+      "relevance": "Evliliği bağlantı, entegrasyon ve simyasal karşıtların birleşmesi olarak yorumlar; eş sembolüne yönelik modern spiritüel okuma için kullanılabilir.",
+      "url": "https://dreamtabeer.com/dream-meaning/marriage"
+    },
+    {
+      "title": "Marriage Dream Meaning: Inner Union and Self-Integration",
+      "relevance": "Evlilik rüyasını içsel birlik, karşıtların sentezi ve alchemical wedding çerçevesinde açıklar; eş sembolünün spiritüel-simyesel çözümlemesiyle ilişkilidir.",
+      "url": "https://dreamalchemy.me/learn/symbols/marriage"
+    },
+    {
+      "title": "Dream of Wedding — Symbolic Meaning & Psychological Reading",
+      "relevance": "Düğün imgelerini Sufi şiirinde ruhun ilahi olana birleşmesiyle ilişkilendirir; eş sembolü için mistik birlik çağrışımı sağlar.",
+      "url": "https://wereallunique.com/dreams/wedding"
+    }
+  ],
+  "relatedSlugs": []
+}

@@ -1,109 +1,233 @@
 {
   "slug": "balik",
   "title": "balık",
-  "shortDescription": "Rüyada balık görmek, geleneksel yorumlarda rızık, bereket ve kazançla; Jungcu yaklaşımda ise bilinçdışından gelen yaratıcı potansiyeller ve dönüşümle ilişkilendirilir. Büyük balık geniş geçim imkânlarını, bozuk balık ise hatalı kazancı veya kaçırılmış fırsatları çağrıştırabilir.",
+  "shortDescription": "Rüyada balık görmek, suyun derinlikleriyle ilişkilendirilen bilinçdışı imgelerden rızık ve bereket temalarına kadar uzanan çok yönlü bir semboldür. Anlamı rüyanın bağlamına göre değişir.",
   "positiveAssociations": [
-    "Bilinçdışından gelen zengin psişik içerikler",
-    "Maddi ve manevi rızık, bereket ve kazanç",
-    "Yaşam enerjisi ve akışkanlık",
-    "İçsel dönüşüm ve yenilenme potansiyeli"
+    "Bereket, rızık ve kazanç",
+    "İçsel dönüşüm ve yenilenme",
+    "Bilinçdışı derinliklerden gelen zenginlikler",
+    "Uğur, bolluk ve korkusuzluk"
   ],
   "challengingAssociations": [
-    "Kavranılması zor, belirsiz psişik durumlar",
-    "Küçük balık imgesiyle ilişkilendirilen geçici sıkıntılar",
-    "Bozuk veya çürük balıkla temsil edilen hatalı kazançlar"
+    "Umutların elden kayıp gitmesi",
+    "Yetersiz sonuçlar veya kayıp",
+    "Derinlerdeki belirsizliklerin yarattığı endişe",
+    "Pullu olmayan veya ölü balığın getirdiği hayal kırıklığı"
   ],
   "contextDependentAssociations": [
-    "Balığın büyüklüğü ve pişirilme biçimine göre değişen anlam katmanları",
-    "Denizden çıkarılan özel balık imgesinin getirdiği bilgi veya hidayet çağrışımı",
-    "Farklı kültürel ve geleneksel çerçevelerdeki sembolik konumlanış"
+    "Suyun berraklığı veya bulanıklığı",
+    "Balığın canlı, taze veya ölü/bozulmuş olması",
+    "Balıkların sayısı ve türü",
+    "Balığı yakalamanın kolaylığı veya zorluğu"
   ],
   "commonVariations": [
     {
-      "title": "Büyük Balık Yakalamak",
-      "description": "Rüyada büyük bir balık yakalamak veya elde etmek, kişinin hayatına girecek önemli bir maddi kazanca veya geniş bir geçim imkanına işaret edebilir."
+      "title": "Berrak Suda Canlı Balık Yakalamak",
+      "description": "Berrak suda kolayca taze balık yakalamak, kişinin girişimlerinin olumlu sonuçlanacağına, rızık ve kazancın artacağına işaret eder."
     },
     {
-      "title": "Izgara veya Kızarmış Balık Yemek",
-      "description": "Rüyada pişmiş balık tüketmek, klasik geleneklerde ilim arayışı, yolculuk hazırlığı veya duaların kabulü gibi temalarla bağdaştırılır."
+      "title": "Bulanık Suda Çok Sayıda Balık Görmek",
+      "description": "Bulanık veya çamurlu suda sayısı kestirilemeyen çok sayıda balık görmek, elde edilecek imkânların belirsizlik, karmaşa veya endişe taşıyabileceğini gösterir."
     },
     {
-      "title": "Bozuk veya Çürük Balık Görmek",
-      "description": "Rüyadaki balığın bozulmuş veya yenmeyecek durumda olması, yanlış yollardan elde edilen kazançları veya kaçırılan fırsatları düşündürür."
+      "title": "Ölü veya pulları dökülmüş balıkla karşılaşmak",
+      "description": "Sudan çıkan veya rüyada görülen balığın ölü ya da pulları dökülmüş olması, geçmişteki umutların zayıflamasına, planlanan işlerde kayıplara ve hayal kırıklıklarına işaret eder."
     },
     {
-      "title": "Suda Özgürce Yüzen Balıklar",
-      "description": "Berrak su içerisinde serbestçe hareket eden balıklar, kişinin zihinsel akışını, korkusuzluğunu ve yaşam enerjisini dengeli şekilde deneyimlediğini gösterir."
+      "title": "Suyun derinliklerinde bir balıkla yüzmek",
+      "description": "Suyun derinliklerinde yüzerek bir balığı gözlemlemek, kişinin kendi iç dünyasındaki bilinçdışı katmanlarla temas kurduğuna, sezgisel bir dönüşüm sürecinden geçtiğine işaret eder."
     }
   ],
   "psychology": "",
-  "jungian": "Analitik psikolojide balık, bilinçdışının derinliklerinden gelen ve kolayca kavranamayan psişik içeriği simgeleyen güçlü bir arketiptir. Su, bilinçdışı âlemi temsil ederken, bu suyun içinde yaşayan balık ise henüz bilinçli ego tarafından entegre edilmemiş gizli potansiyelleri, yaratıcı dürtüleri ve dönüşüm imkanlarını temsil eder.",
-  "islamicTradition": "Klasik İslami rüya tabiri geleneğinde balık genellikle rızık, menfaat ve geçim kaynağı olarak ele alınır. Büyük balık zenginlik ve genişliği, küçük balık ise ufak tefek zorlukları simgeler. Ayrıca kızarmış balık duaya, ızgara balık ilim veya yolculuğa, balık satın almak ise evliliğe yorulur.",
-  "christianTraditions": "Hristiyan gelenekte balık, erken dönem İchthys sembolü üzerinden İsa Mesih’e duyulan iman, kurtuluş ve cemaat aidiyetiyle özdeşleşmiştir. Bununla birlikte, bu kullanım doğrudan bir rüya tabiri geleneğinden ziyade erken kilise ikonografisinin bir parçasıdır.",
-  "jewishTraditions": "Yahudi kültür ve sembolizminde balık, sahip olduğu yüksek üreme kapasitesi nedeniyle bereket ve doğurganlığın simgesidir. Aynı zamanda nazara karşı koruyucu bir nitelik taşıdığına inanılır ve bazı takvimsel dönemlerle ilişkilendirilir.",
-  "buddhistEasternApproaches": "Budist gelenekte yer alan iki altın balık motifi, korkusuzluğu ve samsara okyanusunda boğulmadan özgürce hareket edebilmeyi temsil eder. Balık, engellenmeyen akışkanlığı ve mutluluğu simgeler.",
-  "spiritualApproaches": "",
+  "jungian": "Jungcu analitik psikolojide balık, bilinçdışının engin ve karanlık sularından yüzeye yükselen içeriklerin, psişik bütünlenme sürecinin ve dönüşümün arketipsel bir imgesidir. Aion ve simyasal incelemelerde su ve balık motifi, bilincin henüz aydınlatmadığı derin katmanlarla kurulan bağı simgeler.",
+  "islamicTradition": "Geleneksel İslam rüya tabiri kaynaklarında balık çoğunlukla rızık, mal, kazanç ve dünyevî faydalarla ilişkilendirilir. Aktarımlara göre görülen balığın sayısı, suyun durumu ve rüya sahibinin hâli yorumun yönünü değiştirir; örneğin, sayısı bilinen balıklar kadınlara işaret eder; sayısı kestirilemeyen çok sayıda balık ise ganimetten elde edilecek mala işaret edebilir.",
+  "christianTraditions": "Hristiyan sembolizminde balık, İsa'nın havarilerine yönelik 'insan avcısı' çağrısı, müjdeleme, ruhsal hasat ve ilahi sağlanım ile yakından bağlantılıdır. Erken dönem metinlerinde vaftiz, dönüşüm ve Hristiyan kimliğiyle bütünleşme motifleri üzerinden ele alınmıştır.",
+  "jewishTraditions": "Yahudi kültür ve geleneklerinde balık, genel olarak bereket, çoğalma ve koruma ile bağdaştırılan olumlu bir simge alanı sunar; rüya bağlamında da gündelik hayatın bereketi ve koruyucu lütuf temalarıyla yan yana düşünülür.",
+  "buddhistEasternApproaches": "Güney Asya ve Budist sembolizminde balık, sekiz uğurlu sembol (Ashtamangala) arasında yer alarak mutluluk, bereket ve korkusuzlukla ilişkilendirilir. Ayrıca kırılgan yaşamı koruma ve merhamet temalarını da çağrıştırır.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda balık; bolluk, doğurganlık, sezgisel derinlik, ruhsal uyanış ve içsel hareketlilikle sembolize edilir. Görünür yüzeyin altındaki gizli dinamiklerle temas kurma çabasını yansıtır.",
   "comparisonTable": [
     {
-      "approach": "Analitik Psikoloji (Jung)",
-      "interpretation": "Bilinçdışından yükselen gizli psişik içerikler ve dönüşüm potansiyeli.",
+      "approach": "Psikanaliz ve Teorik Yaklaşım",
+      "interpretation": "Su imgesinin doğum, rahim ve bilinçdışıyla kurduğu ilişkiyi temel alarak, dolaylı bir beden ve köken yorumu sunar.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Klasik İslami Gelenek",
-      "interpretation": "Rızık, maddi kazanç, geçim, ilim ve evlilik alameti.",
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Bilinçdışının derinliklerinden süzülüp gelen içerikleri, arketipsel dönüşümü ve bütünlenme çabasını ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel ve Kültürel Aktarımlar",
+      "interpretation": "Balığı rızık, mal, ganimet, bereket ve türüne göre değişen somut yaşam olayları ekseninde değerlendirir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Yahudi Sembolizmi",
-      "interpretation": "Bereket, doğurganlık ve nazardan korunma.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Budist Yaklaşım",
-      "interpretation": "Korkusuzluk, mutluluk ve akışkan hareket özgürlüğü.",
-      "evidenceLevel": "traditional"
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Ruhsal uyanış, sezgi, bolluk, doğurganlık ve içsel rehberlik temalarıyla bağdaştırır.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplin ve geleneklerin tamamında balık, suyun ve derinliğin içinde var olan, canlılık, bereket veya içsel zenginlik barındıran temel bir hayat figürü olarak ele alınır.",
-  "differences": "Jungcu yaklaşım balığı içsel bir psişik entegrasyon aracı olarak görürken, geleneksel dini ve kültürel yaklaşımlar onu daha çok dışsal rızık, bereket, iman veya koruma motifleriyle temellendirir.",
-  "inusAssessment": "Balık sembolü, ampirik veriden yoksun olması sebebiyle kesin bir gelecek kehaneti olarak ele alınamaz. Rüyayı yorumlarken sembolün rüyasındaki suyun durumu, balığın boyutu ve kişinin kendi yaşam bağlamı bir arada değerlendirilmeli, indirgemeci tabirlerden kaçınılmalıdır.",
+  "commonGround": "Farklı gelenek ve disiplinler, balığın tek ve donuk bir anlam taşımadığı konusunda birleşir. Balık sembolü; içinde bulunduğu suyun niteliği, rüya sahibinin o anki durumu ve sembolün sunduğu duygusal ton ile birlikte ele alındığında anlam kazanır.",
+  "differences": "Geleneksel okumalar balığı somut rızık, bereket ve mal kazanımı gibi dışsal sonuçlarla bağlarken; Jungcu ve spiritüel yaklaşımlar onu bilinçdışı sezgiler, içsel dönüşüm ve ruhsal derinlik gibi içsel süreçlerin birer aynası olarak konumlandırır.",
+  "inusAssessment": "Rüyada balık görmek, sabit bir tabirden ziyade suyun berraklığı, balığın tazeliği ve avlanma koşulları gibi kritik detaylarla şekillenen dinamik bir semboldür. Onu diğer su sembollerinden ayıran temel özellik, yaşamın daha derin katmanlarından bilince doğru hareket eden canlı bir iradeyi veya rızık unsurunu temsil etmesidir. Bu nedenle balık içeren bir rüyayı yorumlarken rüyadaki balığın canlı ve berrak bir suda mı yoksa bulanık ve ölü bir formda mı belirdiği, rüyanın hangi içsel veya dışsal kaynağa işaret ettiğini anlamı kavramada önemli bir ipucu sunar.",
   "faq": [
     {
-      "question": "Rüyada balık görmek kesinlikle para kazanılacağı anlamına mı gelir?",
-      "answer": "Hayır. Bilimsel psikolojide ve modern rüya çözümlemesinde bu tür deterministik karşılıklar bulunmaz. Klasik geleneklerde rızıkla ilişkilendirilse de, her rüya bireyin kendi bağlamına göre ele alınmalıdır."
+      "question": "Rüyada balık görmek kesinlikle maddi kazanç anlamına mı gelir?",
+      "answer": "Hayır. Geleneksel aktarımlarda mal ve rızıkla ilişkilendirilse de modern ve psikolojik okumalar balığı, bilinçdışı içerikler, sezgi ve içsel dönüşüm gibi maddi olmayan temaları da temsil edebilir."
     },
     {
-      "question": "Balık rüyası Jungcu perspektifte neyi ifade eder?",
-      "answer": "Jungcu çerçevede balık, bilinçdışının derinliklerinden gelen henüz keşfedilmemiş psişik içerikleri ve bireyselleşme sürecindeki dönüşüm dinamiklerini simgeler."
+      "question": "Balığın canlı veya ölü olması rüyanın anlamını nasıl etkiler?",
+      "answer": "Canlı ve taze balık genellikle olumlu girişimlere, berekete ve taze umutlara işaret ederken, ölü veya pullu olmayan balıklar umutların azalmasına, kayıplara ve hayal kırıklıklarına işaret eder."
+    },
+    {
+      "question": "Bulanık suda balık görmek neye işaret eder?",
+      "answer": "Bulanık su, rüyadaki sembolün etrafındaki belirsizlikleri ve karmaşaları artırır; bu durum, elde edilecek kazançların veya fırsatların bazı endişe ve engellerle gölgelenebileceğini düşündürür."
     }
   ],
   "sources": [
     {
-      "title": "A Jungian Analysis of the Archetypal Image of the Fish From a Chinese Cultural Perspective",
-      "relevance": "Balık imgesini Jungcu analitik psikoloji bağlamında, bilinçdışı, yaşam gücü ve psişik içerik ile ilişkilendirir.",
-      "url": "https://www.sci-hub.se/downloads/2019-07-25/85/10.1177@0022167819850947.pdf"
+      "title": "Fish in Dreams: Depth, Change, and the Waters You Swim",
+      "relevance": "Balık rüyalarında suyun niteliği, balığın durumu ve rüyadaki etkileşim üzerinden yorum yapmayı öneren bir çerçeve sunar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/fish"
     },
     {
-      "title": "Fish dream meanings",
-      "relevance": "Balıkla ilgili klasik İslami rüya tabirleri; rızık, para, ilim, evlilik, dua ve kazanç türleri üzerine geleneksel yorumlar.",
-      "url": "https://www.myislamicdream.com/fish.html"
+      "title": "Page:Freud - The interpretation of dreams.djvu/261 - ...",
+      "relevance": "Rüyada suya girme ve sudan çıkma imgelerini doğum, rahim ve intrauterin yaşam bağlamında ele alır.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
     },
     {
-      "title": "RHJP24",
-      "relevance": "Yahudi sembolizminde balığın bereket, doğurganlık, nazara karşı koruma ve Adar ayı ile ilişkisi.",
-      "url": "http://halachicadventures.com/wp-content/uploads/2009/09/shibuta1-JerPost.pdf"
+      "title": "Page:Freud - The interpretation of dreams.djvu/262 - Wikisource, the free online library",
+      "relevance": "Rüya içeriğinde sudan çıkma ya da suya girme dönüşümünü doğum düşüncesiyle ilişkilendirir; suyu doğum sembolü olarak yorumlar.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/262"
     },
     {
-      "title": "Fish in the Bible — Symbolism, Meaning & Verses",
-      "relevance": "Hristiyan gelenekte balığın İchthys simgesi, iman ve kurtuluşla bağlantısı; ayrıca İncil’deki balık imgesi.",
-      "url": "https://www.biblexika.com/bible-symbols/fish"
+      "title": "SE 15.pdf",
+      "relevance": "Rüyalardaki suyla ilişkili doğum imgelerine örnek verir. Doğrudan balık sembolünü değil, balığın bulunduğu su ortamının psikanalitik çerçevesini destekler.",
+      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149-169.pdf"
     },
     {
-      "title": "Ashtamangala",
-      "relevance": "Budist gelenekte iki altın balığın anlamını ve balığın mutluluk/korkusuzluk ile ilişkilendirilmesini açıklar.",
-      "url": "https://en.wikipedia.org/wiki/Ashtamangala"
+      "title": "Symbols of Transformation, Collected Works Vol. 5 - About Psyche",
+      "relevance": "Balığın rüyalar ve dönüşüm bağlamındaki Jungcu sembolik anlamına dair pasajlar içeren temel Jung metni.",
+      "url": "https://www.aboutpsyche.com/collected_works/cw5"
+    },
+    {
+      "title": "The Collected Works of C.G. Jung: Volume 13: Alchemical Studies",
+      "relevance": "Balığın bilinçdışı ve simyasal sembolizmle ilişkilendiği Jung malzemesine erişim sağlayan cilt.",
+      "url": "https://www.jungiananalysts.org.uk/wp-content/uploads/2018/07/C.-G.-Jung-Collected-Works-Volume-13_-Alchemical-Studies.pdf"
+    },
+    {
+      "title": "Volume 9.2: AION: Researches into the Phenomenology of the Self",
+      "relevance": "Balık işaretinin Jung’un sembol ve dönem düşüncesindeki yerini gösteren Aion bibliyografik kaydı.",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-2-aion-researches-phenomenology-self/"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual - Oxford Academic",
+      "relevance": "Artemidorus’un balık rüyalarını nasıl sınıflandırdığını ve balık türü, yakalanma biçimi, tazelik gibi ayrıntıların yorumu nasıl değiştirdiğini gösteren bölüm.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un rüya kitabında balıkların kapsamlı bir kategori olarak ele alındığını ve deniz canlıları bölümünün kapsamını özetleyen açıklama.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Oneirocritica’nın antik dönemde korunmuş en kapsamlı rüya yorum metni olduğunu belirten çeviri kaynağı.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Nablusî’ye atfedilen balık tabirini içeren derlenmiş rüya ansiklopedisi; sayısı bilinen balığın kadınlara, sayısı bilinmeyen çok balığın ise mala/ganimete işaret ettiği aktarılır.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Prayers To Confront The Dream Of Fish",
+      "relevance": "Balık ile 'insan avcısı' çağrısı ve müjdeleme arasındaki Hristiyan bağlantıyı açıkça kuran bir kaynak.",
+      "url": "https://evangelistjoshua.com/prayers-confront-dream-fish/"
+    },
+    {
+      "title": "Ask and You Shall Receive - Apostle David E. Taylor [Official Site]",
+      "relevance": "Balığı Hristiyan bağlamında bereket, çoğalma, yaşam ve ruhsal/dünyevi içeriklerle ilişkilendiren bir sayfa.",
+      "url": "https://joshuamediaministries.org/dreams/fish/"
+    },
+    {
+      "title": "Biblical Meaning of Fish in a Dream (KJV) | Bible Sundays",
+      "relevance": "Balığın İncil bağlamında ruhlar, müjde hasadı ve ilahi sağlanım ile ilişkisini özetleyen bir yorum sayfası.",
+      "url": "https://www.biblesundays.com/dream-meanings/fish"
+    },
+    {
+      "title": "Dream about Fish Meaning - Biblical meaning of fish dream",
+      "relevance": "Balığın erken Hristiyan sembolizmi ve Hristiyan kimliği ile bağlantısını anlatan video kaydı.",
+      "url": "https://www.youtube.com/watch?v=_gI-Tzc5XtU"
+    },
+    {
+      "title": "The Fish Symbolism In Early Christian Literature: Orpheus The Fisher By Robert Eisler 11/39",
+      "relevance": "Erken Hristiyan literatüründe balık sembolünün dönüşüm ve mistik kimlik temalarıyla ilişkilendirildiğini işleyen video kaydı.",
+      "url": "https://www.youtube.com/watch?v=UG_1RwjDLG4"
+    },
+    {
+      "title": "Biblical Meaning of Fish in Dream",
+      "relevance": "Balığı Hristiyan sembolizminde ilahi sağlanım, görev ve ruhsal beslenme ile ilişkilendiren bir yorum sayfası.",
+      "url": "https://spiritualroutine.com/biblical-meaning-of-fish-in-dream/"
+    },
+    {
+      "title": "Berakhot 57b | The Sefaria Library",
+      "relevance": "Rüyaların rabbanî yorum ve değerlendirme çerçevesini gösterir; balık için doğrudan bir rüya maddesi ararken temel Talmud bağlamı sağlar.",
+      "url": "https://www.sefaria.org/Berakhot.57b?lang=en"
+    },
+    {
+      "title": "Berakhot 56",
+      "relevance": "Talmud’da rüya yorumunun işleyişini ve Bar Haddaya anlatısını özetler; Yahudi rüya geleneğinin metodunu anlamak için kullanışlıdır.",
+      "url": "https://www.myjewishlearning.com/article/berakhot-56/"
+    },
+    {
+      "title": "Dreams About Fish - Hidabroot",
+      "relevance": "Balığın Yahudi bağlamında bereket ve iyi alametlerle ilişkilendirildiğini açıkça ifade eder.",
+      "url": "https://www.hidabroot.com/question/646"
+    },
+    {
+      "title": "The Fish in Brahmanism and Buddhism (Illustrated).",
+      "relevance": "Güney Asya’da balık imgelerinin Brahmanizm ve Budizm içindeki tarihsel dolaşımını gösteren akademik çalışma; balık sembolünün Budist bağlamlarda nasıl anlam kazanabildiğine dair arka plan sağlar.",
+      "url": "https://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?httpsredir=1&article=2540&context=ocj"
+    },
+    {
+      "title": "Fish symbolism and Fish Remains in Ancient South Asia",
+      "relevance": "Balığın Budist Ashtamangala içindeki uğurlu anlamlarını, özellikle mutluluk, bereket ve korkusuzluk çağrışımlarını özetleyen akademik çalışma.",
+      "url": "https://dspace.lib.hawaii.edu/server/api/core/bitstreams/30745baa-3d13-4dc8-bcf8-50659ae4d2bd/content"
+    },
+    {
+      "title": "'phags pa gser 'od dam pa mdo sde'i dbang po'i rgyal po zhes bya ba theg pa chen po'i mdo",
+      "relevance": "Buddhist anlatıda balıkların kuruyan gölette kurtarılması ve merhamet temasıyla ilişkilendirilmesini gösteren sutra metni.",
+      "url": "https://bodhicitta.tsadra.org/index.php/Texts/Suvar%E1%B9%87aprabh%C4%81sottamas%C5%ABtrendrar%C4%81jas%C5%ABtra"
+    },
+    {
+      "title": "Dreaming of Fish",
+      "relevance": "Rüyada balık için modern spiritüel yorumlar sunan bir çevrimiçi kaynak; bolluk, yeniden doğuş, yüksek benlik ve yaratıcılık gibi temaları balık sembolüne bağlar.",
+      "url": "https://www.dreamdictionary.org/dream-dictionary/dreaming-of-fish/"
+    },
+    {
+      "title": "Fish, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Balığın ezoterik yorumunda geçici ruhsal güç, su, yaşam ve bereket temalarını açıkça ilişkilendiren bir çevrimiçi kaynak.",
+      "url": "http://www.dreamtation.com/docs/1716.htm"
+    },
+    {
+      "title": "Dream About Fish — Meaning, Interpretation & Symbolism ...",
+      "relevance": "Balık rüyalarını bilinçdışı, sezgi, bolluk ve ruhsal beslenme temalarıyla yorumlayan modern spiritüel/ezoterik derleme.",
+      "url": "https://www.astroformer.com/blog/dream-meaning/fish"
+    },
+    {
+      "title": "The Spiritual Meaning of Fish...",
+      "relevance": "Balığı rüya bağlamında bolluk, doğurganlık, dönüşüm ve ruhsal içgörü ile ilişkilendiren modern spiritüel açıklama.",
+      "url": "https://www.centreofexcellence.com/dreaming-of-fish/"
+    },
+    {
+      "title": "What Does It Mean To Dream About Fish? 7 Meanings, From Experts www.mindbodygreen.com › articles › fish-dream-meaning",
+      "relevance": "Balık rüyalarını ruhsal uyanış, bolluk ve duygusal derinlik temalarıyla ele alan bir modern spiritüel yorum.",
+      "url": "https://www.mindbodygreen.com/articles/fish-dream-meaning"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
 }

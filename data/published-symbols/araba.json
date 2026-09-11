@@ -1,140 +1,208 @@
 {
   "slug": "araba",
   "title": "araba",
-  "shortDescription": "Rüyada araba görmek, kişinin yaşamındaki kontrol, yönelim, eylem gücü ve ilerleyiş biçiminin güçlü bir metaforudur.",
+  "shortDescription": "Rüyalarda araba ve motorlu taşıtlar genellikle hareket, kişisel yönelim, yaşam yolunda ilerleme ve kontrol temalarıyla ilişkilendirilen çağdaş sembollerdir.",
   "positiveAssociations": [
-    "Yaşam yolunda bilinçli ilerleme",
-    "Kendi kararlarını alabilme ve yön tayin etme",
-    "Kişisel özgürlük ve hareket alanı",
-    "Hedeflere ulaşma kapasitesi"
+    "Yaşam yolunda güvenle ilerleme",
+    "Kişisel hedeflere ulaşma ve karar alma",
+    "Geçim sağlama ve yeni başlangıçlar yapabilme yeteneği",
+    "İrade gücü ve içsel enerji akışı"
   ],
   "challengingAssociations": [
-    "Kontrol kaybı veya yönünü bilememe",
-    "İçsel yönlendiriciler ile ego arasında çatışma",
-    "Yaşamın akışı üzerinde yetersizlik hissi",
-    "Beklenmeyen engeller veya yön değişiklikleri"
+    "Hayatın kontrolünü kaybetme veya yönünü belirleyememe",
+    "Araç arızası veya kazalar nedeniyle ilerlemenin engellenmesi",
+    "Zorlu koşullar altında yük taşıma ve sorumluluk baskısı",
+    "Bilinçdışı dürtülerin kontrolden çıkmasıyla ortaya çıkan savrulma hissi"
   ],
   "contextDependentAssociations": [
-    "Sürücü koltuğunda kimin oturduğuna bağlı olarak sorumluluk hissi",
-    "Aracın hareket halinde mi yoksa kaza geçirmiş ya da hasarlı mı olduğuna göre değişen psikolojik gerilim",
-    "Modern kültürdeki statü veya prestij bağlamlarının kişisel değer algısıyla ilişkisi"
+    "Aracı kimin sürdüğü (rüya sahibi mi, başkası mı)",
+    "Arabanın genel durumu, hızı ve yolun yapısı",
+    "Sürüş esnasındaki duygusal durum ve çevresel koşullar"
   ],
   "commonVariations": [
     {
-      "title": "Aracı Kontrol Edememek",
-      "description": "Frenlerin tutmaması ya da direksiyonun tepki vermemesi, günlük yaşamda üstlenilen sorumluluklar karşısında hissedilen çaresizliği veya kontrol kaybını yansıtır."
+      "title": "Frenleri tutmayan, kontrolü kaybolmuş araba",
+      "description": "Rüya sahibinin hayatındaki olaylar karşısında direksiyondaki hâkimiyetini yitirdiği, gidişatı durdurmakta veya yönlendirmekte zorlandığı kaygı verici bir durumu simgeler."
     },
     {
-      "title": "Araba Sürerken Yolu Kaybetmek",
-      "description": "Bilinmeyen yollara girmek veya nereye gittiğini bilmeden sürmek, kişinin hayatındaki mevcut yönelimini ve hedeflerini sorguladığı bir döneme işaret edebilir."
+      "title": "Sürücüsüz araba",
+      "description": "Bilinçli egonun kontrolü bıraktığı ve kararların ya da yaşam yönünün daha otomatik, bilinçdışı ya da dışsal etkenlerle belirlendiği durumları yansıtır."
     },
     {
-      "title": "Başkasının Sürücü Koltuğunda Olması",
-      "description": "Aracı başka birinin kullanması, kararların veya yaşam yönünün başkalarının kontrolüne bırakıldığına dair içsel bir farkındalığı simgeler."
+      "title": "Yeni ve Temiz Bir Arabaya Binmek",
+      "description": "Hayatta yeni bir sayfa açma, kişisel kimlikte yenilenme, yeni bir hizmet dönemine adım atma veya geçim alanında olumlu bir gelişme beklentisini gösterir."
     },
     {
-      "title": "Kaza Yapmak veya Çarpışmak",
-      "description": "Farklı psikolojik yönelimlerin, arzuların ya da içsel komplekslerin birbiriyle çatışma halinde olduğunu gösteren bir gerilim veya çatışma anını simgeler."
+      "title": "Yolda Kalan veya Bozulmuş Araba",
+      "description": "Kişisel çabalarda veya hedeflerde geçici bir duraksama, enerji tükenmesi, yön bulamama ya da günlük hayatta karşılaşılan engelleri temsil eder."
     }
   ],
   "psychology": "",
-  "jungian": "Jungcu perspektifte araba, egonun yaşam yolculuğundaki taşıtını temsil eder; sürücü koltuğunda kimin oturduğu, bilinçli benliğin mi yoksa bilinçdışı komplekslerin mi dümeni tuttuğunu gösteren analitik bir göstergedir.",
-  "islamicTradition": "Modern İslami çevrimiçi yorumlarda araba, geleneksel binek hayvanlarının güncel karşılığı olarak ele alınmakta ve kişinin yaşamının akışı, geçim yolları ve yaptığı yolculuklarla ilişkilendirilmektedir.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "Modern spiritüel ve ezoterik yaklaşımlarda araba, fiziksel bedeni ve yaşam yolunu taşıyan bir araç olarak görülür; motor, yakıt ve yön gibi unsurlar kişisel enerji, özgürlük ve içsel gelişim temalarıyla okunur.",
+  "jungian": "Analitik psikoloji perspektifinde araba ve taşıt imgeleri, egonun yaşam yolundaki ilerleme biçimini ve karar alma tarzını temsil eden birer metafor olarak ele alınır. Aracı kimin kullandığı sorusu, bilinçli benliğin mi yoksa daha otomatik ve bilinçdışı eğilimlerin mi hayata yön verdiği meselesini öne çıkarır. Bu yaklaşımda araba rüyaları, hareket etme, değişme ve bireyin kendi içsel merkezine doğru yolculuk yapma isteğiyle bağlantılı olarak yorumlanır.",
+  "islamicTradition": "Modern aktarımlara dayanan bazı İslami rüya yorumu derlemelerinde araba, geçim hususunda alınan tedbirler, makam, itibar veya yük taşıma fikriyle ilişkilendirilmektedir. Bu bağlamda arabaya binmek hayat standartlarında veya mevkide yükselişe işaret edebilirken, rüyanın ayrıntıları ve taşıtın hâli yorumun yönünü değiştirebilmektedir.",
+  "christianTraditions": "Hristiyan rüya yorumlama geleneğinde araba, kişinin yaşam yönü, kimliği, ilahi çağrısı ve kişisel hizmet yolculuğu ile ilişkilendirilir. Yeni bir araba genellikle yeni bir yaşam biçimini veya hizmet başlangıcını simgelerken, aracın bozulması, üstü açık bir araç olması veya kaza yapması gibi detaylar gizlilik, kırılganlık, güçlükler ya da insan iradesi ile ilahi rehberlik arasındaki uyum arayışına işaret eder.",
+  "jewishTraditions": "Yahudi rüya geleneğinde doğrudan modern 'araba' maddesi bulunmamakla birlikte, Kutsal Kitap kökenli 'chariot' (savaş arabası/merkavah) kavramı üzerinden güç, egemenlik, ilahi tecelli ve hareket temalarıyla ihtiyatlı bir bağ kurulabilir. Talmudik çerçevede ise rüyaların yorumlanma ilkesi ön plandadır; bu nedenle rüyadaki taşıt imgesi hareket ve yönlendirilme bağlamında simgesel olarak ele alınabilir.",
+  "buddhistEasternApproaches": "Budist terminolojide ve metinlerde 'araç' kavramı, fiziksel ulaşım araçlarını ve taşıtları kapsayan bir hareketlilik bağlamına sahiptir. Doğrudan standart bir rüya tabiri sunmasa da, bu sembolik dil içinde taşıtlar yolculuk ve yönlenme ile ilişkilendirilir; daha geniş bağlamda ise kurtuluş veya öğreti yolu metaforuna açılabilir.",
+  "spiritualApproaches": "Manevi ve ezoterik okumalarda araba, kişinin hayat yönünü belirleme iradesini, ilerleme arzusunu ve enerjisini yansıtan bir vasıta olarak kabul edilir. Bedenin veya ruhun taşıyıcısı şeklinde de okunabilen bu sembol, yaşam yolculuğundaki amaçların ve ilahi ya da içsel motivasyonların hangi araçlarla taçlandırıldığını gösteren bir metafor işlevi görür.",
   "comparisonTable": [
     {
-      "approach": "Jungcu Analiz",
-      "interpretation": "Egonun yaşam yolundaki aracı ve sürücü-otorite ilişkisinin bir yansımasıdır.",
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Egonun yaşam yolunda ilerleme biçimi, karar alma tarzı ve aracı kimin sürdüğü üzerinden bilinçli-bilinçdışı dengesini yansıtır.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Modern Spiritüel Yaklaşım",
-      "interpretation": "Kişisel yaşam yönü, kontrol duygusu, hareket ve enerji akışının sembolüdür.",
-      "evidenceLevel": "spiritual"
+      "approach": "Geleneksel / İslami Aktarımlar",
+      "interpretation": "Geçim, rızık, makam, itibar ve hayatın yükünü taşıma kapasitesiyle ilişkilendirilir.",
+      "evidenceLevel": "traditional"
     },
     {
-      "approach": "Modern İslami çevrimiçi yorum",
-      "interpretation": "Güncel binek ve vasıta bağlamında hayatın akışı ile yolculuğu temsil eder.",
+      "approach": "Hristiyan Teolojik Okuma",
+      "interpretation": "Kişinin yaşam yönü, ilahi rehberlik, hizmet çağrısı ve iradenin konumu etrafında okunur.",
       "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Manevi ve Ezoterik Yaklaşım",
+      "interpretation": "Ruhun veya bedenin taşıyıcısı, yaşam enerjisinin akışı ve hedeflere doğru ilerleme iradesi olarak değerlendirilir.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplin ve yaklaşımların neredeyse tamamında araba sembolü, bireyin hareket halinde olması, bir yöne doğru ilerlemesi ve yaşamındaki hareket kontrolü kavramlarıyla ortak bir paydada buluşur.",
-  "differences": "Jungcu yaklaşım aracı bilinçdışı kompleksler ve ego denetimi bağlamında ele alırken, modern spiritüel okumalar kişisel enerji ve özgürlük temalarına odaklanır; güncel İslami çevrimiçi yorumlar ise binek ve geçim eksenli geleneksel köprüler kurar.",
-  "inusAssessment": "Araba sembolü, modern yaşamın en baskın nesnelerinden biri olması nedeniyle rüyalarda sıklıkla kontrol, yön ve sorumluluk temalarıyla yoğrulur. INUS yaklaşımı, bu sembolü ele alırken ne salt mekanik bir rüya sözlüğü indirgemesine gitmeyi ne de geleceğe dair kesin kehanetler üretmeyi önerir; bunun yerine rüya görenin uyanık yaşamındaki eylem gücü ve yönelim sorgulamalarını anlamlı birer iç gözlem fırsatı olarak değerlendirir.",
+  "commonGround": "Farklı gelenekler ve psikolojik yaklaşımlar arasında araba sembolü, hareket, yönelim, ilerleme ve hayatın gidişatını kontrol etme kapasitesi gibi temalar etrafında ortak bir paydada buluşur.",
+  "differences": "Jungcu ve psikolojik yaklaşımlar sembolü egonun kontrolü ve bireyin yönelimi bağlamında açıklar; geleneksel ve teolojik yaklaşımlar ise geçim, ilahi rehberlik, makam ve yaşamın dışsal koşullarını ön plana çıkarır.",
+  "inusAssessment": "Araba sembolü, modern insanın yaşamındaki hareketliliği ve yön bulma çabasını en doğrudan yansıtan figürlerden biridir. Onu rüyada ele alırken direksiyonda kimin oturduğu ve aracın hangi koşullarda ilerlediği, kontrolün nerede tutulduğuna dair kritik ipuçları verir. Yorum yapılırken tek bir sabit manaya varmak yerine, rüya sahibinin günlük hayattaki karar alma süreçleri ile aracın durumu arasındaki dinamik ilişki dikkatle göz önünde bulundurulmalıdır.",
   "faq": [
     {
-      "question": "Rüyada araba kullanmak ne anlama gelir?",
-      "answer": "Genellikle kişinin hayatının direksiyonunda kimin olduğu, kendi kararlarını ne ölçüde alabildiği ve yaşam yolunda hangi yöne ilerlediğiyle ilgili içsel bir değerlendirmeyi yansıtır."
+      "question": "Rüyada arabayı başkasının kullandığını görmek ne anlama gelir?",
+      "answer": "Bu durum genellikle hayatınızdaki kararların veya yönelimin tamamen sizin kontrolünüzde olmadığını, başka bir kişinin ya da dışsal etkenlerin gidişatı belirlediğini düşündürebilir."
     },
     {
-      "question": "Rüyada arabanın freninin tutmaması neyi ifade eder?",
-      "answer": "Kontrol kaybı temasıyla bağlantılı olan bu durum, kişinin uyanık yaşamında üzerine aldığı sorumluluklar karşısında kendini yetersiz veya olayların akışına kapılmış hissettiği stresli dönemlere işaret edebilir."
+      "question": "Rüyada araba kazası yapmak veya kontrolü kaybetmek neyi ifade eder?",
+      "answer": "Kontrol kaybı veya kaza teması, uyanık yaşamda baskı altında hissedilen durumları, ani engelleri ya da alınan kararların doğurabileceği kaygıları simgeleyen bir uyarı ve gerilim işareti olarak okunabilir."
     }
   ],
   "sources": [
     {
-      "title": "Out-of-Control Car Dreams Are Surprisingly Common",
-      "relevance": "Araba ve sürüş temalarının rüyalarda ne kadar yaygın görüldüğünü ve kontrol kaybı ile stres duygularıyla ilişkisini ele alır.",
-      "url": "https://www.psychologytoday.com/us/blog/dream-factory/202006/out-control-car-dreams-are-surprisingly-common"
+      "title": "Signification : Rêver d'une voiture - Psychologies.com",
+      "relevance": "Araba rüyasına dair modern popüler bir yorum sunuyor; Freud’a atıf yapılıyor.",
+      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Automobile-Voiture"
     },
     {
-      "title": "What Does Dreaming About Cars Mean?",
-      "relevance": "Araba rüyalarının gündüz kalıntısı, kontrol ve yaşam yönüyle ilişkisini modern yorumlar içinde tartışır.",
-      "url": "https://www.bettersleep.com/blog/dream-dive-cars"
+      "title": "Rêver de voiture – Signification de voiture en rêve - Doctissimo",
+      "relevance": "Rüyada araba için Freudcu yorumlar aktarıyor.",
+      "url": "https://www.doctissimo.fr/psychologie/dictionnaire-des-reves/reve-voiture"
     },
     {
-      "title": "Car Dreams: Who's Driving Your Life? A Jungian Interpretation",
-      "relevance": "Araba sembolünü Jungcu bakışla egonun yaşam yolculuğundaki aracı ve sürücü-otorite ilişkisi üzerinden açıklar.",
-      "url": "https://individuate.me/articles/dream-about-cars"
+      "title": "Jungian Terminology Series, Part 2: Ego as Vehicle",
+      "relevance": "Araç/taşıt imgesini Jungcu bağlamda ego ve karar verme tarzıyla ilişkilendiren bir metin sunuyor.",
+      "url": "https://dreamtherapyminneapolis.com/terminology-series-part-2-vehicle/"
     },
     {
-      "title": "Keywords:",
-      "relevance": "Arabanın modern kültürde statü, prestij ve gösteriş kodu olarak nasıl işlendiğini gösteren kültürel tarih malzemesi sunar.",
-      "url": "https://www.aodr.org/_PR/view/?aidx=1823&bidx=155"
+      "title": "Life Journey: Vehicles in Dreams - There Is No Spoon",
+      "relevance": "Jungcu psikoloji içinde araçların ego ve yaşam yolu ile bağlantısını tartışıyor.",
+      "url": "https://smirik.substack.com/p/life-journey-vehicles-in-dreams"
     },
     {
-      "title": "Rüyada Araba Görmek Ne Anlama Gelir? | İslami & Psikolojik Yorum",
-      "relevance": "Türkçe modern İslami yorum; arabayı binek ve yolculuk sembolizmiyle ilişkilendiriyor.",
-      "url": "https://ruyaokuma.com/ruya-tabirleri/ruyada-araba-gormek"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Greko-Romen rüya yorum geleneğinde araçlar, taşıma ve arabaya binme sahnelerinin nasıl değerlendirildiğini anlamak için temel metin.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "Significance of Car",
-      "relevance": "Hinduizm bağlamında araba/taşıt sembolü için beden ve içsel öz ilişkisini anlatan kavramsal özet.",
-      "url": "https://www.wisdomlib.org/concept/car"
+      "title": "İmam Nablusi Rüya Tabirleri A Harfi - Muhammed.net",
+      "relevance": "Araba için geçim, mevki, evlat ve devlet ileri gelenlerinden kaynaklanan saygınlık (izzet) gibi temaları aktaran modern bir derleme sayfası.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-a-harfi.html"
+    },
+    {
+      "title": "Christian Meanings Cars & Transportation Dreams Directory A-Z",
+      "relevance": "Araba ve ulaşım sembollerini Hristiyan rüya yorumunda yaşam yönü, kimlik, amaç ve ilahi koruma ile ilişkilendiren modern Hristiyan içerik.",
+      "url": "https://www.apostlehumphrey.com/cars-and-transport"
+    },
+    {
+      "title": "Apostle David E. Taylor [Official Site] - Joshua Media Ministries",
+      "relevance": "Araba rüyasını hayat ya da hizmet alanıyla ilişkilendiren, yeni araba, bozulma ve kaza gibi ayrıntılar için yorumlar veren modern Hristiyan rüya metni.",
+      "url": "https://joshuamediaministries.org/dreams/automobile/"
+    },
+    {
+      "title": "Vehicles - Dream Symbols Dictionary - Joshua Media Ministries",
+      "relevance": "Araç sembollerini, özellikle otomobili, yaşam veya hizmet tipiyle ilişkilendiren modern Hristiyan rüya sözlüğü sayfası.",
+      "url": "https://joshuamediaministries.org/dream-interpretation/dream-symbols-dictionary/vehicles/"
+    },
+    {
+      "title": "Biblical meaning of driving a car in a dream - biblestep.com",
+      "relevance": "Araç ve hareketi irade, yön ve ilahi rehberlik bağlamında tartışan, rüyada araba sürmeyi teolojik açıdan okuyan Hristiyan içerik.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-driving-a-car-in-a-dream"
+    },
+    {
+      "title": "Chariot - Encyclopedia of The Bible",
+      "relevance": "Kutsal Kitap ansiklopedisinde savaş arabalarının kraliyet otoritesi, güç ve tarihsel taşıt işleviyle ilişkisini veren madde.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Chariot"
+    },
+    {
+      "title": "Chariots of the Lord - Westminster Media",
+      "relevance": "Savaş arabalarını Tanrı’nın yargı ve savaş eylemiyle ilişkilendiren akademik/teolojik değerlendirme.",
+      "url": "https://wm.wts.edu/read/chariots-of-the-lord"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Rüyaların nasıl yorumlandığını gösteren Talmudik temel pasaj; 'araba' için doğrudan giriş olmasa da Yahudi rüya okuma çerçevesini sağlar.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "CHARIOT - JewishEncyclopedia.com",
+      "relevance": "İbrani/Kutsal Kitap bağlamında chariot’un krallık, savaş ve ilahî kudret çağrışımlarını açıklar.",
+      "url": "https://www.jewishencyclopedia.com/articles/4247-chariot"
+    },
+    {
+      "title": "[PDF] The King's Horse and Chariot - Eretz Hemdah",
+      "relevance": "Chariot imgesini Tanrısal binme, yönlendirme ve hükümranlık diliyle ilişkilendirir.",
+      "url": "https://www.eretzhemdah.org/Data/UploadedFiles/Mails_Files/9411-sFile.pdf"
+    },
+    {
+      "title": "Earthly and Heavenly Chariots - Part 2",
+      "relevance": "Merkabah/chariot sembolünü Ezekiel vizyonu üzerinden ilahî tecelli ve ruhsal güçlerin taşıyıcısı olarak ele alır.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/1750449/jewish/Earthly-and-Heavenly-Chariots.htm"
     },
     {
       "title": "Vehicle: Significance and symbolism www.wisdomlib.org › concept › vehicle",
-      "relevance": "Budizm’de taşıt kavramının farklı kullanım alanlarını ve taşıtın genel anlam katmanlarını gösteren kavramsal bir özet sunar.",
+      "relevance": "Budist kavram sözlüğünde 'araç' teriminin fiziksel taşıtlar ve arabalarla ilişkili kullanımını gösterir.",
       "url": "https://www.wisdomlib.org/concept/vehicle"
     },
     {
-      "title": "White car: Significance and symbolism",
-      "relevance": "Hindu ve ilgili Doğu bağlamlarında ‘white car’ başlığı altında taşıtın krallık, saflık ve ilahî yolculukla ilişkilendirildiğini gösteren kavramsal özet.",
-      "url": "https://www.wisdomlib.org/concept/white-car"
+      "title": "Significance of A vehicle",
+      "relevance": "Theravada bağlamında 'araç' teriminin çeşitli taşıtları (ör. araba, fayton, vagon, savaş arabası) kapsadığını gösterir.",
+      "url": "https://www.wisdomlib.org/concept/a-vehicle"
     },
     {
-      "title": "Significance of Golden car",
-      "relevance": "Hindu ve ilgili geleneklerde ‘golden car’ başlığı altında araçların ihtişam, statü ve ilahî ulaşım temalarıyla ilişkilendirildiğini gösteren kavramsal özet.",
-      "url": "https://www.wisdomlib.org/concept/golden-car"
+      "title": "Chapter 14: Feeling the Dream",
+      "relevance": "Çin Budist kanonunda geçen bir rüya anlatısında dört atlı savaş arabası sahnesini aktarır.",
+      "url": "https://www.wisdomlib.org/buddhism/book/taisho-chinese-buddhist-canon/d/doc1856495.html"
     },
     {
-      "title": "Car Spiritual Meaning: Taking Control of Your Life’s Direction",
-      "relevance": "Modern spiritüel anlatılarda arabanın kişisel yaşam yolu, yön, kontrol ve hareketle ilişkilendirildiğini gösteren çevrimiçi yorum.",
-      "url": "https://spiritualelegance.org/car-spiritual-meaning/"
+      "title": "“The Buddha Preaches the One Great Vehicle” “Śāriputra, ...",
+      "relevance": "Lotus Sutra’daki 'One Great Vehicle' ifadesi (Türkçede genellikle 'Büyük Araç' olarak çevrilir), taşıt metaforunun Budist öğreti içindeki geniş sembolik kullanımını gösterir.",
+      "url": "https://afe.easia.columbia.edu/ps/cup/lotus_sutra_great_vehicle.pdf"
     },
     {
-      "title": "Spiritual Meaning of Cars: Journey, Freedom, and ...",
-      "relevance": "Modern spiritüel anlatılarda araba sembolünün özgürlük, enerji ve ilerleme temalarıyla yorumlandığını gösteren çevrimiçi içerik.",
-      "url": "https://symbolicsecrets.com/spiritual-meaning-of-cars"
+      "title": "Car in dreams — meaning and symbolism",
+      "relevance": "Arabanın rüyada kontrol, yön ve kişisel yolculukla ilişkilendirildiğini söyleyen güncel bir sembolik okuma sunar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/car"
     },
     {
-      "title": "Car Spiritual Meaning: The Ultimate Guide To Your Life's Vehicle",
-      "relevance": "Modern spiritüel anlatılarda araba beden, yaşam yolu ve içsel enerjiyle ilişkilendirilir; ezoterik yorum örneği sunar.",
-      "url": "https://spiritualyou.org/spiritual-meaning-and-symbolism-of-car/"
+      "title": "Araba Sembolizmi ve Anlamı - Sembolopedia",
+      "relevance": "Araba sembolünü ruhsal bağlamda bedenin ya da ruhun aracı, hareket hâlindeki enerji ve yaşam yolculuğu olarak ele alır.",
+      "url": "https://symbolopedia.com/tr/car-symbolism-meaning/"
+    },
+    {
+      "title": "Araba | Rüya Sözlüğü | Stellaxa",
+      "relevance": "Araba rüyasını yön, kontrol, hırs ve yolculuk temaları üzerinden açıklayan modern rüya sözlüğü girdisi sağlar.",
+      "url": "https://www.stellaxa.com/tr/dream-dictionary/car"
+    },
+    {
+      "title": "Vehicles in Dreams: Spiritual Meaning",
+      "relevance": "Taşıtların rüyalarda ilahî amaçların gerçekleşme aracı olarak okunabildiğini belirten modern manevi yorum metni sunar.",
+      "url": "https://www.magnificatministries.ca/dream-symbols-vehicles-in-dreams"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian"
+  ]
 }

@@ -1,100 +1,207 @@
 {
   "slug": "kan",
   "title": "kan",
-  "shortDescription": "Rüyada kan görmek; yaşam gücü, yaralanma, kayıp veya dönüşüm temalarını çağrıştırabilir. Yara kaynaklı kanama tükenmişlik ya da iyileşme hassasiyetini; kan bağı veya ritüel bağlamı ise aidiyet, sorumluluk ve fedakârlığı yansıtabilir.",
+  "shortDescription": "Rüyada kan görülmesi, genel anlamda yaşamsal enerji, tükenme, bedensel kırılganlık, kayıp ve yoğun duygusal yük ile ilişkilendirilen çok katmanlı bir semboldür.",
   "positiveAssociations": [
-    "Yaşam enerjisi ve canlılık",
-    "Kutsal bağlar ve aidiyet",
-    "Derin dönüşüm ve yenilenme",
-    "Fedakârlık ve adanmışlık"
+    "Yaşamsal enerji ve içgüdüsel canlılık",
+    "Dönüşümün bedeli ve ruhsal yenilenme",
+    "Günahların bağışlanması veya arınma",
+    "Derin adanmışlık ve fedakârlık"
   ],
   "challengingAssociations": [
-    "Fiziksel veya duygusal yaralanma",
-    "Yaşam enerjisi kaybı",
-    "Suçluluk veya pişmanlık",
-    "Ölüm ve sonlanma korkusu"
+    "Bedensel zarar veya yaralanma tehdidi",
+    "Duygusal tükenme ve enerji kaybı",
+    "Maddi kayıp veya harcama",
+    "Haram mal, günah veya zarar ile karşılaşma"
   ],
   "contextDependentAssociations": [
-    "Soy, akrabalık ve ailevi sorumluluklar",
-    "Kefaret, arınma ve antlaşma temaları",
-    "Ritüel ve ruhsal adanma halleri"
+    "Kanın miktarı, rengi ve akış biçimi",
+    "Kanın bedenden çıkış yeri ve rüya içindeki temas biçimi",
+    "Rüya sahibinin kişisel ve duygusal durumu"
   ],
   "commonVariations": [
     {
-      "title": "Beden üzerinde görülen yara ve kan",
-      "description": "Rüyada bedenin herhangi bir yerinde yara kaynaklı bir kanama fark etmek, günlük yaşamda hissedilen fiziksel veya duygusal bir tükenmişliğe ya da iyileşme sürecindeki hassasiyetlere işaret edebilir."
+      "title": "Bedenden kan akması",
+      "description": "Fiziksel bir yaralanma olmaksızın veya hafif bir kesikten kanın akması, yaşamsal enerjinin azalması, tükenme hissi ya da maddi konularda daha dikkatli olunması gereken bir dönemne işaret edebilir."
     },
     {
-      "title": "Ritüel veya sembolik bağlamda kan",
-      "description": "Kanın sıradan bir yaralanma dışında, belirli bir adanmışlık, antlaşma veya bir ritüel bağlamı içinde yer alması, kişinin yaşamındaki temel değerler ve sorumluluklarla kurduğu bağları yansıtabilir."
+      "title": "Elbiseye kan bulaşması",
+      "description": "Giysilerin kana bulanması veya üzerine kan sıçraması, geçmişte yapılan bir eylemin duygusal yükü, suçluluk hissi veya ilişkilerdeki sınır ihlalleriyle bağdaştırılabilir."
     },
     {
-      "title": "Akrabalık ve soy ilişkileriyle anılan kan",
-      "description": "Kan bağı temasının rüyada öne çıkması, ailevi bağlar, aidiyet duygusu ve soy yoluyla aktarılan kalıtsal veya geleneksel sorumlulukların sorgulandığı bir döneme denk gelebilir."
+      "title": "Kan aldırma veya damar açılması",
+      "description": "Tıbbi veya geleneksel bir işlemle kontrollü biçimde kan alındığının görülmesi, bir yükten arınma, günahların veya sınır ihlallerinin geride bırakılması ve içsel bir dengeleme çabası olarak değerlendirilebilir."
     },
     {
-      "title": "Bilinmeyen bir kaynaktan sızan kan",
-      "description": "Kaynağı net olarak belli olmayan veya çevrede yayılan kan imgesi, kişinin kontrol etmekte zorlandığı duygusal sızıntıları, bastırılmış suçluluk duygularını ya da fark edilmeyen enerji kayıplarını temsil edebilir."
+      "title": "Kanla yazı yazma veya simgesel temas",
+      "description": "Kanın mürekkep gibi kullanılarak bir metin yazılması veya kanın simgesel olarak bir eyleme eşlik etmesi, inançlara, öğretiye ya da fedakârlık gerektiren bir sürece bağlılığı temsil eder."
     }
   ],
-  "psychology": "",
-  "jungian": "",
+  "psychology": "Psikolojik açıdan kan sembolü, doğrudan ampirik laboratuvar verilerinden ziyade bedensel sınırlar, iğrenme, korku ve derin dürtüsel eğilimler çevresinde şekillenir. Psikanalitik okumalarda kan, korku ve tekinsizlik deneyimiyle birleşen bir beden imgesi olarak ele alınır; bu bedensel imgeler suçluluk, açıklanamayan kaygılar veya tiksinti gibi nörotik belirtilerle iç içe geçebilir. Jungcu perspektifte ise kan, yaşam gücü ve içgüdüsel canlılığın somutlaşmış hali olarak okunur. Aynı zamanda yaralanma, kayıp ve dönüşüm maliyetini simgeleyen bir eşik imgesidir.",
+  "jungian": "Jungcu analizde kan, yaşam enerjisinin ve içgüdüsel yaşamın görünür hale gelmesini sağlar. Kanlı imgeler yalnızca bir tehlike habercisi değil, ruhsal dönüşümün ve bireyleşme sürecinin ödediği bedeli simgeler. Kanın rengi, akış hızı ve rüyadaki duygulanım, bireyin içsel enerjisinin durumu hakkında ipuçları verir.",
   "islamicTradition": "",
-  "christianTraditions": "İncil temelli modern yorumlarda kan antlaşma, kefaret, arınma ve fedakârlık sembolü olarak ele alınır. Bununla birlikte, bu kaynaklar rüyalarda kan için İncil'de doğrudan bir örnek bulunmadığını da belirtir.",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Tibet ve Budist tantrik bağlamlarda kan, yaşam gücü ve dönüşümle ilişkilendirilen kırmızı bir öz olarak ele alınır. Özellikle ritüel kaplarda ve sunularda bilgelik ve dönüşüm temalarını taşıyan bir sembol dili içinde yer alır. Bedensel bir sıvı olarak besleyici ve işlevsel bir unsur olmasının yanı sıra, bazı metinlerde kurban, fedakârlık veya arınma çağrışımları taşıyan bir öğe olarak da geçer.",
-  "spiritualApproaches": "",
+  "christianTraditions": "Hristiyan sembolik geleneğinde kan; yaşam, kefaret, arınma, antlaşma ve kurban kavramlarıyla doğrudan bağlantılıdır. İncil temelli okumalarda kan, ruhsal korunma, fedakârlık ve günahların bağışlanması gibi teolojik temaları rüya zeminine taşıyabilir.",
+  "jewishTraditions": "Yahudi rüya yorum geleneğinde, özellikle Talmudik metinlerde, rüyada kan alma işlemi görmek günahların bağışlanması ve arınma temasıyla ilişkilendirilir. Bu yaklaşım, kanın kırmızı rengi üzerinden bir arınma ve yenilenme dili kurar.",
+  "buddhistEasternApproaches": "Budist ve Doğu yaklaşımlarında kan, bedensel yaşamı sürdüren temel sıvılardan biri olarak ele alınır ve bedensel kırılganlığı simgeler. Mahayana geleneğinde kanla metin yazma motifleri, öğretiye duyulan derin adanmışlığı ve zorlu fedakârlıkları temsil eder. Ayrıca kozmolojik algı tartışmalarında aynı olgunun, gören kişinin varlık düzeyine göre farklı görünebileceği vurgulanır.",
+  "spiritualApproaches": "Ezoterik ve simyasal geleneklerde kan, yaşamın maddede görünür hâle gelmesi, kırmızılaşma ve dönüşüm aşamalarıyla bağlantılıdır. Modern spiritüel yaklaşımlarda ise kan, yaşam gücü, enerji akışı, tükenme veya aile ve soy bağlarının bir yansıması olarak ele alınır.",
   "comparisonTable": [
     {
-      "approach": "Hristiyan Gelenekleri",
-      "interpretation": "Antlaşma, kefaret, arınma ve fedakârlık temaları üzerinden şekillenir.",
+      "approach": "Psikanaliz",
+      "interpretation": "Beden sınırları, iğrenme, korku ve bastırılmış duygusal içeriklerin göstergesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Yaşam gücü, içgüdüsel canlılık ve ruhsal dönüşümün bedeli.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Yaşam, kefaret, arınma ve ruhsal antlaşma temaları.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu ve Tibet Gelenekleri",
-      "interpretation": "Yaşam gücü, kırmızı öz, ritüel sunu ve dönüşüm aracı olarak ele alınır.",
+      "approach": "Talmudik Gelenek",
+      "interpretation": "Kan alma bağlamında günahların bağışlanması ve arınma.",
       "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Bedensel kırılganlık, yaşamın sürdürülmesi ve adanmışlık.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Ezoterik ve Simyasal Gelenek",
+      "interpretation": "Maddede görünen yaşam özü, kırmızılaşma ve dönüşüm işareti.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı geleneksel ve kültürel yaklaşımlarda kan; yaşamın sürdürülmesi, sınırların korunması, fedakârlık ve derin dönüşüm süreçleriyle ortak bir paydada buluşur.",
-  "differences": "Hristiyan sembolizminde daha çok kefaret, antlaşma ve arınma kavramlarına odaklanılırken; Tibet ve Budist tantrik bağlamlarda kan, yaşam enerjisinin dönüşümü ve ritüel sunu dili çerçevesinde ele alınmaktadır.",
-  "inusAssessment": "Kan sembolü, biyolojik ve evrensel bir gerçeklik olarak insan zihninde hem yaşamın hem de ölümün en keskin sınırını temsil eder. INUS yaklaşımı, bu imgenin rüyalarda tek ve katı bir kehanet olarak ele alınamayacağını, aksine kişinin uyanık yaşamındaki enerji, aidiyet, kayıp veya fedakârlık dengelerini gösteren bağlamsal bir uyarıcı olduğunu vurgular.",
+  "commonGround": "Farklı gelenekler ve psikolojik ekoller kanı tek tip bir felaket ya da müjde olarak görmez; ortak payda genellikle yaşam, bedensel sınırlar, kayıp ve dönüşüm temalarıdır.",
+  "differences": "Yorumlar arasındaki temel ayrım, kanın kaynağına ve bağlamına göre şekillenir. Psikanalitik yaklaşım kanı korku ve içsel çatışmalarla ilişkilendirirken, Talmudik gelenek kontrollü kan almayı arınma olarak ele alır; simyasal ve spiritüel okumalar ise onu ruhsal dönüşümün bir bedeli ve yaşam enerjisi olarak konumlandırır.",
+  "inusAssessment": "Rüyada kan sembolü, yalnızca basit bir tehlike işareti veya soyut bir enerji tanımı değildir; bedenin kırılganlığı ile ruhsal dönüşümün maliyeti arasındaki hassas bir eşik olarak okunmalıdır. Kanın miktarı, rengi ve akış biçimi ile kıyafete bulaşıp bulaşmadığı veya kontrollü bir işlemle mi görüldüğü gibi ayrıntılar rüyanın anlamını kökten değiştirebilir. Bu yüzden kan görüntüsü, rüya sahibinin yaşam enerjisindeki bir tükenmeyi mi yoksa derin bir arınma ve fedakârlık sürecini mi yaşadığını anlamak için duygusal ton ve bağlamla birlikte değerlendirilmelidir.",
   "faq": [
     {
       "question": "Rüyada kan görmek her zaman kötü bir olaya mı işaret eder?",
-      "answer": "Hayır. Kan sembolü her zaman olumsuz bir duruma işaret etmez; bağlama göre yaşam enerjisi, derin bir dönüşüm, aidiyet veya fedakârlık gibi temaları da barındırabilir."
+      "answer": "Hayır. Geleneksel ve psikolojik okumalarda kan; yaşam gücü, dönüşüm, fedakârlık veya arınma gibi olumlu ya da nötr temalarla da ilişkilendirilebilir. Anlam, kanın rüyadaki akış biçimine ve duygusal tona göre değişir."
     },
     {
-      "question": "Kan sembolünün bilimsel psikolojideki yeri nedir?",
-      "answer": "Ampirik psikoloji araştırmalarında kan sembolünün rüyalardaki anlamına dair doğrulanmış standart bir veri seti bulunmamaktadır; ancak tarihsel ve kültürel bağlamlarda insanlığın ortak deneyim alanlarına karşılık gelir."
+      "question": "Kan alma veya damar açılması rüyası nasıl yorumlanır?",
+      "answer": "Talmudik gelenek gibi bazı özel bağlamlarda kontrollü kan alma rüyaları, günahların bağışlanması, yüklerden kurtulma ve arınma çabasıyla bağdaştırılır."
+    },
+    {
+      "question": "Elbiseye kan bulaşması ne anlama gelebilir?",
+      "answer": "Giysilerde kan görülmesi, genellikle geçmişteki bir olayın bıraktığı duygusal izler, suçluluk hissi veya kişisel sınırların ihlal edilmesiyle ilgili içsel bir uyarı olarak değerlendirilir."
     }
   ],
   "sources": [
     {
-      "title": "The symbolism of blood through history",
-      "relevance": "Kan sembolünün tarih boyunca yaşam gücü, acı, ölüm, soy ve kutsal bağlarla ilişkilendirildiğini özetleyen akademik kayıt.",
-      "url": "https://digital.csic.es/handle/10261/289082"
+      "title": "Blood Dreams: Meaning & Psychological Interpretation",
+      "relevance": "Rüyada kan görüntüsünü doğrudan ele alan ve onu yaşam gücü, kayıp, yaralanma ve duygusal bağlamlarla ilişkilendiren bir yorum sayfası.",
+      "url": "https://somniscient.com/en/symbols/blood"
     },
     {
-      "title": "Dreaming About Blood: Biblical Dream Interpretation | Christian Pure",
-      "relevance": "Kanın Hristiyan sembolizmini, özellikle yaşam, kurban, kefaret ve antlaşma temalarını özetleyen ve rüyada kan için doğrudan İncil örneği bulunmadığını belirten metin.",
-      "url": "https://christianpure.com/learn/biblical-examples-dreams-blood/"
+      "title": "The Psychoanalysis of Blood",
+      "relevance": "Kan, korku ve tekinsizlik ekseninde psikanalitik bir tartışma sunar; Freud’a atfedilen kan-ürperti bağlantısını ve beden imgesinin duygulanımsal etkisini ele alır.",
+      "url": "https://www.therapyroute.com/article/the-psychoanalysis-of-blood-by-m-mcardle-longford"
     },
     {
-      "title": "“EVERYTHING IS KARMA AND ALL I CAN DO IS REPENT” CONFESSION TO THE BUDDHAS WRITTEN IN BLOOD: The 17th Gyalwang Karmapa copied the Thirty-five Confession Buddhas with his own blood",
-      "relevance": "Tibet/Budist tantrik bağlamda kanın yaşam gücü, dönüşüm ve ritüel sunu dili içindeki yerini gösteren metin.",
-      "url": "https://dakinitranslations.com/2025/05/03/confession-to-the-buddhas-written-in-blood-his-holiness-the-karmapa-copied-the-thirty-five-confession-buddhas-with-his-own-blood/"
+      "title": "Freud's Irma Dream, the Origin of Psychoanalysis, and a ...",
+      "relevance": "Freud’un Irma rüyası çevresindeki psikanalitik tartışmayı ve bedensel-hastalık imgelerinin rüya çözümlemesindeki yerini anlatır; kan benzeri bedensel akış imgeleri için bağlam sağlar.",
+      "url": "https://mindconsiliums.org/pub/2014/09/2014-09-Schwartz-Jack-freuds-irma-dream-origin-of-psychoanalysis-and-a-bloody-nose.pdf"
     },
     {
-      "title": "Blood: Significance and symbolism",
-      "relevance": "Budist ve Hindu bağlamlarda kanın bedensel sıvı, yaşamı besleyen unsur ve fedakârlık çağrışımlarıyla ele alınışını özetleyen madde.",
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Nörotik çocuklarda kan ve çiğ etten tiksinmenin cinsel anlam taşıyabileceğini söyleyen Freud pasajını içerir; kan imgesinin bedensel tiksinti ve cinsellik ile ilişkisini gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Children's Dreams: Notes from the Seminar Given in 1936-1940 [Course Book ed.] 9781400843084 - DOKUMEN.PUB",
+      "relevance": "Kanı yaşam gücü, içgüdüsel canlılık ve bedensel gerçeklik bağlamında ele alan Jungcu pasajlara ulaşmak için temel bir Jung metni.",
+      "url": "https://dokumen.pub/childrens-dreams-notes-from-the-seminar-given-in-1936-1940-course-booknbsped-9781400843084.html"
+    },
+    {
+      "title": "Carl Jung BLOOD in The Red Book Quotations",
+      "relevance": "Kanı beden, üretkenlik ve simgesel güç çevresinde konumlandıran Jung atıflarına erişim sağlayan çevrim içi derleme.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/08/04/carl-jung-blood/"
+    },
+    {
+      "title": "2021758623.pdf",
+      "relevance": "Artemidoros ve Bizans oneirokritik geleneğinde kanın para kaybı, zararlı harcama ve bedensel akış üzerinden nasıl yorumlandığını tartışan akademik çalışma.",
+      "url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/86/23/2021758623/2021758623.pdf"
+    },
+    {
+      "title": "[PDF] iatrosophia and an eighteenth - century oneirokritēs in the national ...",
+      "relevance": "Bizans rüya kitabı (oneirokritik) geleneğinde kanın durgunluk, hastalık ve bedensel durumlarla ilişkilendirilmesini ele alan akademik makale.",
+      "url": "https://rosa.uniroma1.it/rosa01/medicina_nei_secoli/article/download/324/307/618"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidoros’un çevrimiçi çevirisinde kan, akrabalık ve beden bütünlüğüyle ilişkili ifadeler yer alır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Apostle David E. Taylor [Official Site] - Joshua Media Ministries Int'l.joshuamediaministries.org › dreams › blood",
+      "relevance": "Kanı rüya bağlamında yaşam, kefaret, arınma, koruma ve ruhsal uyarı temalarıyla ilişkilendiren modern Hristiyan yorum metni.",
+      "url": "https://joshuamediaministries.org/dreams/blood/"
+    },
+    {
+      "title": "Biblical Meaning of Blood in a Dream (KJV) - Bible Sundays",
+      "relevance": "Kanı İncil’de yaşam ve kefaretle ilişkilendiren, rüya yorumunda da antlaşma, arınma ve günah uyarısı temaları çıkaran modern Hristiyan açıklaması.",
+      "url": "https://www.biblesundays.com/dream-meanings/blood"
+    },
+    {
+      "title": "Berakhot 57a-b: Seeing Bloodletting in a Dream - Steinsaltz.org",
+      "relevance": "Berakhot 57a-b’deki rüya pasajının açıklaması; kan aldırma rüyasını günahların bağışlanmasıyla ilişkilendirir ve tıbbi uygulamanın tarihsel arka planını verir.",
+      "url": "https://steinsaltz.org/daf/berakhot57/"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Babylonian Talmud Berakhot 57a metni; rüyada kan aldırmayı transgresyonların affı ve Yeşaya 1:18 ile bağlantı içinde sunar.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Significance of Blood",
+      "relevance": "Budist bağlamda kanın bedensel yaşam ve işlevle ilişkisini veren kavramsal bir kaynak.",
       "url": "https://www.wisdomlib.org/concept/blood"
     },
     {
-      "title": "Sangre: Simbolismo y significado",
-      "relevance": "Tibet Budizmi ve daha geniş Budist çerçevede kanın bedensel saflık, yaşam ve dönüşümle ilişkisini gösteren madde.",
-      "url": "https://www.wisdomlib.org/es/concept/sangre"
+      "title": "Blood as ink: Significance and symbolism",
+      "relevance": "Mahayana bağlamında kanla yazı yazma ve adanmışlık temasını işleyen kavramsal bir kaynak.",
+      "url": "https://www.wisdomlib.org/concept/blood-as-ink"
+    },
+    {
+      "title": "Blood writing - early Tibet",
+      "relevance": "Tibet ve Çin Budist pratiklerinde kanla metin kopyalama ve fedakârlık temasını anlatan tarihsel çalışma.",
+      "url": "https://earlytibet.com/2012/05/03/blood-writing/"
+    },
+    {
+      "title": "Nectar, water, or blood? A Buddhist history of perceptual ...",
+      "relevance": "Budist kozmoloji ve algı tartışmalarında aynı unsurun kan olarak görünmesi örneğini veren akademik çalışma.",
+      "url": "https://ora.ox.ac.uk/objects/uuid:7ddaf73f-675d-41e8-817a-8bce20592c59"
+    },
+    {
+      "title": "Use of Blood in Alchemy",
+      "relevance": "Simyasal gelenekte kanın yaşam özü, kırmızılaşma ve dönüşümle ilişkilendirildiğini gösterir.",
+      "url": "https://www.alchemywebsite.com/blood.html"
+    },
+    {
+      "title": "BOMB Magazine | Meditations on the Red Mass",
+      "relevance": "Simyasal bağlamda kanın eliksir vitae, aqua permanens ve kırmızı dönüşüm imgeleriyle bağlantısını ele alır.",
+      "url": "https://bombmagazine.org/articles/1986/01/01/meditations-on-the-red-mass/"
+    },
+    {
+      "title": "Red Tincture — Seba Concordance",
+      "relevance": "Rubedo, kırmızı tılsım ve kanın simyasal dönüşüm içindeki sembolik işlevini bir arada açıklar.",
+      "url": "https://www.seba.health/concordance/red-tincture/"
+    },
+    {
+      "title": "Dreaming about blood — meaning in three traditions",
+      "relevance": "Rüyada kanı yaşam gücü, bedel ve enerji akışı olarak okuyan modern sembolik bir çerçeve sunar.",
+      "url": "https://www.nocturnary.com/symbols/blood"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
 }

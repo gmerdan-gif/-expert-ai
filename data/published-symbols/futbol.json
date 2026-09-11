@@ -1,0 +1,200 @@
+{
+  "slug": "futbol",
+  "title": "futbol",
+  "shortDescription": "Rüyada futbol görmek, hedeflere ulaşma isteğiyle takım içindeki uyum, rekabet ve performans baskısını birlikte yansıtabilir. Gol atmak başarı ve sorumluluk alma hissini; topu kaybetmek ya da kenardan izlemek ise kontrolü veya oyuna katılımı kaybetme duygusunu öne çıkarabilir.",
+  "positiveAssociations": [
+    "Takım içinde paslaşma ve ortak hedefe yönelme",
+    "Saha içinde rolünü ve konumunu bulma",
+    "Rekabet baskısı altında işbirliği kurma",
+    "Gol veya başarılı oyun üzerinden yeterlilik hissi"
+  ],
+  "challengingAssociations": [
+    "Maçın kontrolünü kaybetme veya oyunun dışında kalma",
+    "Takım içi çatışma ve uyumsuzluk",
+    "Rakip karşısında performans baskısı",
+    "Gol kaçırma, top kaybı veya yenilgiyle ilişkili başarısızlık hissi"
+  ],
+  "contextDependentAssociations": [
+    "Maçın kazanılması, berabere bitmesi veya kaybedilmesi",
+    "Rüya sahibinin sahada aktif oyuncu, teknik direktör, hakem veya seyirci olması",
+    "Hakem kararları, penaltılar, uzatma ve maçın kritik anları",
+    "Tribün tepkisi, takım arkadaşlarının tutumu ve oyunun sertliğiyle oluşan duygu tonu."
+  ],
+  "commonVariations": [
+    {
+      "title": "Kritik Bir Golü Atmak",
+      "description": "Baskı anında sorumluluk alıp başarıya ulaşma, yaşamda dönüm noktası olarak hissedilen bir başarının simgesi olabilir."
+    },
+    {
+      "title": "Maç Sırasında Takımla Çatışmak",
+      "description": "İş veya yakın ilişkilerde rol çatışmaları, grup içinde uyum sorunları ve rekabetten doğan gerilimleri yansıtabilir."
+    },
+    {
+      "title": "Saha Kenarından Maçı İzlemek",
+      "description": "Olayların dışında kalma, karar alma süreçlerinde pasif rol veya rekabete dahil olamama hissinin bir göstergesi olabilir."
+    },
+    {
+      "title": "Topun Kontrolünü Kaybetmek",
+      "description": "Planların, sorumlulukların veya hedeflerin akışının elden çıkması ve bunun sonucunda kontrolü yeniden kazanma ihtiyacı doğması şeklinde yorumlanabilir."
+    }
+  ],
+  "psychology": "Rüya içerik analizleri, spor temalı rüyalarda başarı/başarısızlık, duygular ve sosyal etkileşim öğelerinin sistematik olarak kodlanabileceğini gösterir. Süreklilik ilkesine göre, günlük yaşamda futbolla ilgili deneyimler (oynama, izleme, performans kaygısı) rüya içeriğini şekillendirebilir; ancak bu, futbol görüntüsünün tek bir yoruma indirgenemeyeceğini gösterir.",
+  "jungian": "Jungcu yaklaşıma göre futbol sahası, sınırları belli bir psişik alan olarak okunur. Takım, farklı yönlerin veya kolektif dinamiklerin temsilcisi sayılabilir; top ise enerjinin odak noktası ve bütünleşme arzusunun simgesidir. Bu çerçeve sabit bir yorum sunmaz; futbol unsurları analitik süreçte kişisel ve kolektif temalar bağlamında değerlendirilir.",
+  "islamicTradition": "Modern İslami yorumlarda top ve futbol imgesi sıklıkla dünyanın geçici meşgalesi, çekişme ve taraflar arası gidip gelme konuları ekseninde yorumlanır. Geleneksel klasik metinlerde doğrudan \"futbol\"a dair bir kayıt olmadığından, bu motifler modern yorum düzeyinde ve bağlama göre farklı anlamlar taşır.",
+  "christianTraditions": "Hristiyan teolojik okumalarda spor metaforları bedensel pratik, cemaat ve ahlaki sınav bağlamında ele alınır; futbol rüyası cemaat bağı, hizmet veya kamusal sorumluluk ile rekabet temasını aynı anda taşıyabilir ve etik açıdan yorumlanabilir.",
+  "jewishTraditions": "Talmudik çerçeve rüyaların yoruma açık olduğunu ve yorumun rüyanın etkisini biçimlendirebileceğini vurgular. Futbol için doğrudan klasik bir kayıt yoktur; yine de rekabet, düzen ve topluluk unsurları bu geleneğin yorum zemini içinde değerlendirilebilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Çağdaş spiritüel ve ezoterik okumalar futbolu genellikle 'hayat oyunu', disiplinli çaba, hedefe yöneliş ve bireysel hırs ile kolektif uyum arasındaki gerilim bağlamında görür. Saha geometrisi ile gol simgeleri düzen, odaklanma ve amaç temalarını çağrıştırır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Gündelik futbolla ilişkili deneyimlerin (oyun, izleme, performans kaygısı) rüyalarda yansıması; başarı/başarısızlık ve sosyal rollerin kodlanması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Saha, takım ve top imgelerinin psişik bütünleşme, kolektif dinamikler ve arketipsel enerji yönelimleri açısından sembolik okunması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Yaklaşım",
+      "interpretation": "Top ve oyun motiflerinin dünyanın geçici meşgalesi, çekişme ve sosyal rekabet bağlamında değerlendirilmesi (modern yorumlar düzeyinde).",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Okuma",
+      "interpretation": "Futbolu hayat oyunu, hedeflere yönelme ve kolektif uyum ile bireysel hırs arasındaki gerilim olarak okunması.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşım futbola, kurallı bir mücadele alanı, stratejik çaba ve sosyal etkileşim sahnesi gözüyle bakar; saha, top ve gol imgeleri başarı, rol ve toplumsal görünürlük temalarını tetikler.",
+  "differences": "Bilimsel psikoloji gündelik deneyimlerin sürekliliği bağlamında rüyayı incelerken, Jungcu yaklaşım imgelerin arketipsel ve bütünleşme potansiyeline odaklanır; dini ve spiritüel okumalar ise oyunu ahlaki, dünyevi veya tinsel hayat metaforu ekseninde farklı vurgularla değerlendirir.",
+  "inusAssessment": "Futbol sembolü rüya içinde genellikle tek başına belirli bir anlam vermez; maçın seyri, rüya sahibinin rolü, hakem kararları, tribün tepkisi ve hissedilen duygu gibi koşullarla birlikte yorumlanmalıdır. Sahanın rekabet mi yoksa prova mı olduğu, topun kontrolü ve maçın duygusal tonu en belirleyici etkenlerdir.",
+  "faq": [
+    {
+      "question": "Rüyada futbol oynamak psikolojik olarak ne anlama gelebilir?",
+      "answer": "Yorumda maçın sonucu kadar rüya sahibinin sahadaki rolü önemlidir; pas vermek, gol aramak, yedek kalmak veya oyundan çıkmak, işbirliği, görünürlük ve performans baskısının farklı yönlerini öne çıkarabilir."
+    },
+    {
+      "question": "Futbol rüyalarında topun ve kalenin anlamı nedir?",
+      "answer": "Top genellikle psikolojik enerjinin odağı veya hedeflerin taşıyıcısı olarak görülür; kale ise korunması gereken değerleri, ulaşılmak istenen hedefi ya da kamusal başarı ölçütlerini sembolize edebilir — ancak yorum her zaman bağlama bağlıdır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin başarı/başarısızlık, duygu ve sosyal etkileşimleri nasıl kodladığını açıklayarak futbol içeren rüyaların bağlamsal incelenmesine yöntemsel zemin sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "[PDF] Frequency of sport dreams in athletes - Heidelberger OJS-Journals",
+      "relevance": "Atletlerde sporla ilgili rüyaların sıklığının uyanık yaşamda spor pratikleriyle ilişkili olduğunu göstererek futbol imgelerinin gündelik ilgi ve deneyimle bağlantısını destekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/584/pdf/0"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyanın psikanalitik kuramda bastırılmış istekler ve yer değiştirme yollarıyla okunabileceğini gösterir; futbol imgeleri bu çerçevede istek, çatışma ve dolaylı ifade ekseninde değerlendirilebilir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Exploring the psychoanalytic dimensions of sport",
+      "relevance": "Sporun psikanalitik boyutlarını tartışarak futbol gibi etkinliklerin dürtülerin sosyal ve sembolik boşalımıyla ilişkilendirilebileceğini sunar.",
+      "url": "https://shura.shu.ac.uk/35298/8/Black-ExploringThePsychoanalytic(VoR).pdf"
+    },
+    {
+      "title": "The Psychoanalysis of Soccer | Issue 68",
+      "relevance": "Futbolu psikanalitik bir dille, kalabalık davranış, yer değiştirme ve oyun dinamikleri üzerinden ele alan yorumlayıcı bir yazı.",
+      "url": "https://philosophynow.org/issues/68/The_Psychoanalysis_of_Soccer"
+    },
+    {
+      "title": "Vlado Solc | Ball Games from a Depth-Psychological ...",
+      "relevance": "Top oyunlarını derin psikoloji perspektifinden ele alarak saha ve top imgelerinin Jungcu analitik çerçevede nasıl okunabileceğine dair teorik zemin sağlar.",
+      "url": "https://jungchicago.org/vlado-solc-ball-games-from-a-depth-psychological-viewpoint/"
+    },
+    {
+      "title": "[DOC] Introduction - Jungian Analytic Praxis",
+      "relevance": "Topun ve oyun alanının Ben (Self), merkez ve kolektif dinamiklerle ilişkilendirildiği Jungcu yorumları bir araya getirir; futbol benzeri takım oyunlarının sembolik okuması için teorik zemin sağlar.",
+      "url": "http://www.jungiananalyticpraxis.com/uploads/2/1/2/4/21249684/lecture_-_the_golden_ball.doc"
+    },
+    {
+      "title": "C. G. JUNG - ronliskey.com",
+      "relevance": "Jung’un kolektif bilinçdışı, çocuk motifi ve top oyunu etrafındaki sembolik ifadelerini alıntılayan bir derleme olarak, oyun ve toplu psişik alan temasını görünür kılar.",
+      "url": "https://www.ronliskey.com/docs/collected-Works-09-I-Archetypes-and-the-Collective-Unconscious-by-C-G-Jung.pdf"
+    },
+    {
+      "title": "Archetypes and the Collective Unconscious – Quotations",
+      "relevance": "Jung’un kolektif bilinçdışı, çocuk motifi ve top oyunu etrafındaki sembolik ifadelerini alıntılayan bir derleme olarak, oyun ve toplu psikik alan temasını görünür kılar.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/10/14/archetypes-4/"
+    },
+    {
+      "title": "An Ancient Dream Manual - Peter Thonemann",
+      "relevance": "Artemidorus örneği üzerinden oyun ve atletik yarışmaların tarihsel rüya sembolizmine nasıl yerleştirildiğini gösterir; futbola özgü olmamakla birlikte oyun temasının tarihsel bir arka planını sunar.",
+      "url": "https://global.oup.com/academic/product/an-ancient-dream-manual-9780198843825"
+    },
+    {
+      "title": "تفسير حلم لعب كرة القدم في المنام: دلالات الفوز، الخسارة، والأهداف",
+      "relevance": "Rüyada top ve oyun sembolünü dünya meşgalesi, çekişme ve hareketlilik ekseninde yorumlayan modern İslami metin.",
+      "url": "https://mo2abir.com/dream/football"
+    },
+    {
+      "title": "تعرّف على أهم تفسيرات رؤية ولعب كرة القدم في المنام لكبار المفسرين - موقع مصري",
+      "relevance": "Rüyada futbol görme ve oynama temasını dargınlık, rekabet ve durum değişimiyle ilişkilendiren modern Arapça rüya tabiri yazısı.",
+      "url": "https://msry.org/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85.html"
+    },
+    {
+      "title": "[PDF] SPORT AND CHRISTIAN ETHICS - ERA - The University of Edinburgh",
+      "relevance": "Sporun Hristiyan etik ve beden anlayışı içindeki yerini tartışır; futbol imgesinin teolojik yorumuna zemin sağlar.",
+      "url": "https://era.ed.ac.uk/bitstream/handle/1842/5992/White2011.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "title": "The Athletae Dei: Missing The Meaning of Sport",
+      "relevance": "Sporun teolojik alanda güçlü sembolik değer taşıyabildiğini gösterir; atletik yarış diliyle Hristiyan anlamlandırmaya bağ kurar.",
+      "url": "https://digital.la84.org/digital/api/collection/p17103coll10/id/9355/download"
+    },
+    {
+      "title": "Why God Still Loves Football - James Calvin Davis",
+      "relevance": "Futbolun Hristiyan kültüründe aile, cemaat ve insan bağlantısı simgesi olarak nasıl konuşulduğunu gösterir.",
+      "url": "https://jamescalvindavis.com/2024/02/11/why-god-still-loves-football/"
+    },
+    {
+      "title": "Babylonian Talmud: Tractate Berakoth",
+      "relevance": "Berakhot 55a–57b’de rüyaların yorumla ilişkisi ve rüya sembollerinin nasıl okunabileceğine dair Talmudik çerçeve yer alır.",
+      "url": "https://www.come-and-hear.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Berakhot 55B – Hebrew & English Talmud | Bekiut",
+      "relevance": "Berakhot 55b’de rüyaların yorumlanmasının sonucu etkileyebildiğini gösteren Talmudik pasajlar ve rüya yorum geleneği yer alır.",
+      "url": "https://bekiut.com/talmud/Berakhot/55b"
+    },
+    {
+      "title": "Berakhot 57.b",
+      "relevance": "Berakhot 57b’de bazı rüya imgelerinin uğurlu sayıldığı bir Talmudik sembol listesi bulunur.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Football in Dreams: Competition, Teamwork, Pressure, and Play",
+      "relevance": "Çağdaş spiritüel yorumlarda futbol rüyasının rekabet, takım çalışması ve baskı temalarıyla nasıl ilişkilendirildiğini örnekler.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/football"
+    },
+    {
+      "title": "Football in Dreams: What Your Subconscious Is Really Telling You | Chitta",
+      "relevance": "Futbolu ‘hayat oyunu’ çerçevesinde okuyan çağdaş spiritüel yorum; saha, hedef ve strateji vurgusu yapıyor.",
+      "url": "https://usechitta.com/articles/football-in-dreams-meaning"
+    },
+    {
+      "title": "10 Spiritual Meaning of Playing Football in Dream",
+      "relevance": "Futbol rüyasını takım çalışması, rekabetçilik ve kişisel gelişim bağlamında ele alan modern spiritüel yorum.",
+      "url": "https://dreamtuality.com/spiritual-meaning-of-playing-football-in-dream/"
+    },
+    {
+      "title": "La magia del fútbol",
+      "relevance": "Futbolun ezoterik sembolizmini saha geometrisi, başlangıç noktası ve merkez sembolleri üzerinden tartışan kültürel yorum.",
+      "url": "https://www.vanguardia.com/opinion/columnistas/jairo-martinez/2010/07/10/la-magia-del-futbol/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "historical-cultural",
+    "islamic"
+  ]
+}

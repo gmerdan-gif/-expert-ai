@@ -1,0 +1,286 @@
+{
+  "slug": "cehennem",
+  "title": "cehennem",
+  "shortDescription": "Rüyada cehennem görmek; yoğun suçluluk, korku, vicdan azabı veya içsel bir çatışmayla yüzleşme hissini yansıtabilir. Cehennemden zarar görmeden çıkmak ise zor bir dönemin ardından tövbe, arınma ve ferahlama umuduyla ilişkilendirilir.",
+  "positiveAssociations": [
+    "Geçici darlıkların ardından gelen ferahlama.",
+    "Tövbe etme, arınma ve yeni bir başlangıç yapma imkânı.",
+    "Ruhsal dönüşüm, bütünlenme ve bireyleşme yolunda zorlayıcı bir eşiği aşma."
+  ],
+  "challengingAssociations": [
+    "Ağır suçluluk duygusu ve cezalandırılma korkusu.",
+    "Bastırılmış dürtülerin, korkuların ve içsel karanlığın baskısı.",
+    "Ahlâkî uyarı, vicdan azabı ve kaçınılmaz hakikatle yüzleşme."
+  ],
+  "contextDependentAssociations": [
+    "Cehenneme girip zarar görmeden çıkmanın hayatın geçici sıkıntılarından kurtulmaya işaret etmesi.",
+    "Cehenneme yaklaşmanın itibar kaybı veya borç gibi dünyevî meşakkatlerle ilişkilendirilmesi.",
+    "Rüya sırasında yaşanan duygu tonunun uyanık yaşamdaki duygu durumunu ve duygu düzenleme becerisini etkilemesi."
+  ],
+  "commonVariations": [
+    {
+      "title": "Ateşler İçinde Bir Yerde Olduğunu Hissetmek",
+      "description": "Rüyada kendisini alevler içinde bir cehennem atmosferinde bulan kişi, uyanık yaşamında derin bir suçluluk, içsel ceza beklentisi veya çözülmemiş ahlâkî çatışmalar yaşayabilir."
+    },
+    {
+      "title": "Cehennemden Zarar Görmeden Çıkmak",
+      "description": "Ateşin veya azabın ortasında kalıp oradan yara almadan çıkmayı başarmak, kişinin yaşadığı ağır bir sıkıntı veya kriz dönemini tövbe, farkındalık veya içsel direnç sayesinde geride bırakacağına işaret eder."
+    },
+    {
+      "title": "Cehenneme Yaklaşmak ve Korku Duymak",
+      "description": "Cehennem sınırına kadar gelip oradaki karanlığı ve ateşi uzaktan izlemek, yaklaşmakta olan zorlu bir karar, borç, itibar kaybı veya kaçınılmaz bir hakikatle yüzleşme korkusunu simgeler."
+    },
+    {
+      "title": "Yeraltındaki Karanlık ve Azap Alanında Kaybolmak",
+      "description": "Yeraltının en derin ve karanlık katmanlarında kapana kısıldığını görmek, bilinçdışının baskın gölge unsurlarıyla karşılaşmayı, bastırılmış dürtülerin taşkınlığını ve ruhsal bir sınav dönemini yansıtır."
+    }
+  ],
+  "psychology": "Psikolojik araştırmalar, rüya duygulanımı ile uyanık yaşamdaki duygu durumu arasında ölçülebilir bağlantılar olduğunu ve negatif rüya duygulanımının ertesi sabahki duygu durumunu etkileyebildiğini göstermektedir. İçerik ve duygu yapısının bağlamsal değişkenlere duyarlı olduğu bilinmektedir.",
+  "jungian": "Analitik psikolojide cehennem, bilinçdışına iniş (katabasis), gölgeyle karşılaşma ve karşıtların birleştirilmesi bağlamında ele alınır. Jungcu çerçevede cehennem, yıkıcı bir son olmaktan ziyade, bireyleşme sürecinde bütünlüğe ulaşmak için aşılması gereken zorlayıcı bir psişik eşiktir.",
+  "islamicTradition": "İslami rüya tabiri geleneklerinde cehennem; büyük günahlar, korku, sıkıntı, zindan ve yoksulluk gibi unsurlarla ilişkilendirilirken, cehenneme girip zarar görmeden çıkmak tövbe etme ve ardından gelen ferahlama ile tabir edilir.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde cehennem; ilahî yargı, günahın sonucu, Tanrı'dan ayrılık ve sönmeyen ateş temalarıyla birlikte düşünülerek ciddi bir ahlâkî ve ruhsal uyarı olarak yorumlanır.",
+  "jewishTraditions": "Yahudi geleneğindeki Gehenna kavramı, ilahi yargı ve ceza ile ilişkilendirilen bir semboldür. Berakhot metinlerindeki rabbanî çerçeve, rüyaların derin teolojik ve sembolik bir yoğunluk taşıdığını vurgular.",
+  "buddhistEasternApproaches": "Budist kozmolojide cehennem (naraka), altı varoluş âlemi içinde en aşağıda yer alan ve karmanın sonuçlarının yaşandığı bir ahlaki ıstırap alanıdır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda cehennem; bastırılmış korkuların, suçluluk duygularının ve içsel karanlığın birer yansıması olarak görülürken, aynı zamanda kaçınılmaz bir hakikatle yüzleşme ve arınma alanı olarak da kabul edilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Rüya duygusunun yoğunluğu ile uyanık yaşamdaki duygu durumu ve duygu düzenleme süreçleri arasındaki bağlar.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz ve Jungcu Analiz",
+      "interpretation": "Bastırılmış arzular, suçluluk, gölgeyle karşılaşma ve bireyleşme sürecindeki katabasis motifi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami, Hristiyan ve Yahudi Gelenekleri",
+      "interpretation": "İlahî yargı, günah, vicdan muhasebesi, ahlâkî uyarı ve tövbe imkânı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşımlar",
+      "interpretation": "İçsel karanlık, ruhsal sınav, kaçınılmaz yüzleşme ve arınma süreci.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler cehennem sembolünü doğrudan sabit bir kehanet olarak değil, kişinin içsel gerilimi, korkuları, ahlâkî hesaplaşması ve aşması gereken zorlu bir ruhsal eşik bağlamında ele alır.",
+  "differences": "Ampirik psikoloji, rüyanın duygusal tonunun ertesi günkü duygusal yankılarına odaklanırken, psikanaliz bunu bastırılmış çatışmalarla ilişkilendirir; dinî gelenekler ilahî yargı ve günah eksenli uyarılar sunarken, Jungcu yaklaşım bu imgeyi bireyleşme ve gölge entegrasyonunun bir parçası olarak konumlandırır.",
+  "inusAssessment": "Rüyadaki ateşin niteliği, kişinin oradaki konumu ve rüya sonrasındaki duygusal iz, bu imgenin yıkıcı bir azaptan ziyade ruhsal bir uyarı veya arınma eşiği olarak mı belirdiğini anlamada belirleyicidir.",
+  "faq": [
+    {
+      "question": "Rüyada cehennemde olmak kesinlikle kötü bir şeyin haberi midir?",
+      "answer": "Hayır. Geleneksel ve psikolojik perspektifler bu imgeyi sabit bir kehanet olarak görmez; aksine içsel gerilimlerin, vicdan muhasebesinin veya tövbe ve arınma ihtiyacının birer simgesi olarak değerlendirir."
+    },
+    {
+      "question": "Cehennem rüyaları uyanık yaşamdaki ruh halini etkiler mi?",
+      "answer": "Psikolojik araştırmalar, yoğun negatif duygu tonuna sahip rüyaların ertesi sabahki duygu durumuyla bağlantılı olabileceğini, ancak bunun bireyin duygu düzenleme kapasitesine göre değişiklik gösterdiğini ortaya koymaktadır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Perceived Change in the Affect Associated With Dreams",
+      "relevance": "Rüya duygusunun hatırlama sırasında nasıl değişebildiğini inceler; rüya duygusunun sabit değil, dönüşebilen bir deneyim olduğunu gösterir.",
+      "url": "https://www.niu.edu/jskowronski/publications/RitchieSkowronski2008.pdf"
+    },
+    {
+      "title": "Negative dream affect is associated with next-day ... - PMC - NIH",
+      "relevance": "Negatif rüya duygusunun ertesi günkü duygu durumuyla ilişkisini inceleyen çalışma; tehdit içerikli rüya deneyimlerinin duygusal yankısını anlamaya yardımcı olur.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9626956/"
+    },
+    {
+      "title": "Our dreams, our selves: automatic analysis of dream reports - PMC",
+      "relevance": "Rüya raporlarında duygu kodlaması ve Hall–Van de Castle yaklaşımı; olumsuz duyguların sistematik olarak sınıflandırılabileceğini gösterir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7481704/"
+    },
+    {
+      "title": "Predicting the affective tone of everyday dreams - PubMed Central",
+      "relevance": "Günlük rüya raporlarının duygusal tonunu öngören değişkenleri inceleyen çalışma; rüya duygusunun bireysel farklılıklara duyarlı olduğunu gösterir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6791936/"
+    },
+    {
+      "title": "Freud (1900) Chapter 4 - Classics in the History of Psychology",
+      "relevance": "Rüyaların bastırılmış isteklerin örtük doyumu olarak ele alınmasını ve rahatsız edici rüyaların yorumlanma çerçevesini verir; cehennem imgesi bu kuramsal bağlamda okunabilir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams4.htm"
+    },
+    {
+      "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
+      "relevance": "Freud'un rüya kuramının klasik İngilizce edisyonunda rüyaların örtük istek doyumu olarak formülasyonu yer alır; metin, cehennem imgesinin psikanalitik bağlamda nasıl ele alınabileceğine ilişkin örnekler sunar.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
+    },
+    {
+      "title": "The Dreams Freud Dreamed",
+      "relevance": "Freud'un rüyalarında 'inferno' ve cehennem dilinin geçtiği örneği aktarır; cehennem imgesinin Freud'un kendi rüya malzemesinde nasıl belirdiğini gösterir.",
+      "url": "https://varchive.org/tpp/dreams.htm"
+    },
+    {
+      "title": "Raising Hell | 13 | Freud's Katabatic Metaphors in The Interpretation",
+      "relevance": "Freud'un The Interpretation of Dreams kitabındaki 'Acheronta movebo' epigrafını ve yeraltı/cehennem çağrışımlarını Freud'un rüya kuramı bağlamında tartışır.",
+      "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003054139-13/raising-hell-jonathan-shann"
+    },
+    {
+      "title": "Dream Symbols Of The Individuation Process: Notes Of C.G. Jung’s Seminars On Wolfgang Pauli’s Dreams 0691183619, 9780691183619 - DOKUMEN.PUB",
+      "relevance": "Jung’un seminer notlarında cehennemin gölge, karşıt kutup ve karşıtların birleştirilmesi bağlamında nasıl düşünüldüğünü gösteren pasajlar içerir.",
+      "url": "https://dokumen.pub/dream-symbols-of-the-individuation-process-notes-of-cg-jungs-seminars-on-wolfgang-paulis-dreams-0691183619-9780691183619.html"
+    },
+    {
+      "title": "C. G. Jung’s katabasis: from ancient myths to modern ...",
+      "relevance": "Jung’un katabasis motifi, cehenneme inişin bilinçdışıyla yüzleşme ve bilincin genişlemesiyle bağlantısını tartışır.",
+      "url": "https://pepsic.bvsalud.org/pdf/jung/v38n1/en_04.pdf"
+    },
+    {
+      "title": "Children's Dreams: Notes from the Seminar Given in 1936-1940 [Course Book ed.] 9781400843084 - DOKUMEN.PUB",
+      "relevance": "Seminer notlarında cehennem, içgüdüsel taşkınlık ve duygulanımın yıkıcı biçimiyle ilişkilendirilir.",
+      "url": "https://dokumen.pub/childrens-dreams-notes-from-the-seminar-given-in-1936-1940-course-booknbsped-9781400843084.html"
+    },
+    {
+      "title": "Dream Symbols of the Individuation Process: Notes of C. G. Jung's Seminars on Wolfgang Pauli's Dreams 9780691191942 - DOKUMEN.PUB",
+      "relevance": "Pauli seminerlerinde cehennemin, bireyleşme sürecinde karşıtların bir araya getirilmesi temasına bağlandığı pasajlar yer alır.",
+      "url": "https://dokumen.pub/dream-symbols-of-the-individuation-process-notes-of-c-g-jungs-seminars-on-wolfgang-paulis-dreams-9780691191942.html"
+    },
+    {
+      "title": "Carl Jung on “Hell,” “Lucifer,” “Satan,” and the “Devil”",
+      "relevance": "Jung’a atfedilen ‘Hell is when the depths come to you...’ ifadesi, cehennemi aşağıdan gelen derin psikik içeriklerin deneyimi olarak konumlandırır.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/02/02/lucifer-2/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Rüyaların geleceğe dair anlam taşıdığına dair klasik oneirokritik çerçeveyi ve düşsel işaretlerin nasıl sınıflandırıldığını gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus | Dream Interpreter, Oracle & Seer",
+      "relevance": "Artemidorus’un Oneirocritica adlı eserinin antik rüya yorumculuğu içindeki konumunu ve kapsamını özetler.",
+      "url": "https://www.britannica.com/biography/Artemidorus-Ephesian-soothsayer"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’ta rüyaların anlamlı/önceden bildirici yönünü ve düş türleri arasındaki ayrımı tartışır.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "Eileen Gardiner, editor",
+      "relevance": "Ortaçağ edebiyatında rüyalar, vizyonlar ve cehennem tasavvurlarının tarihsel gelişimini konu edinir.",
+      "url": "http://www.hell-on-line.org/BibJC.html"
+    },
+    {
+      "title": "From the Middle Ages to modern times",
+      "relevance": "Ortaçağ görsel ve dinsel kültüründe cehennem, şeytan ve ceza imgelerinin tarihsel bağlamını gösterir.",
+      "url": "https://www.fondationetrillard.ch/upload/exploration/10/Entre-Moyen-Age-et-epoque-contemporaine-EN.pdf"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Cehennem maddesini büyük günahlar ve rüyadaki cehennem deneyiminin sonuçlarıyla birlikte veren derleme PDF kaydı.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Fire Burning Burning Town Islamic Interpretations & Meanings",
+      "relevance": "Cehenneme girme ve cehennemin yaklaşması için günah, kötü şöhret, darlık ve ceza ekseninde ayrıntılı yorumlar sunan çevrim içi derleme.",
+      "url": "https://www.myislamicdream.com/fire_burning_burning_town.html"
+    },
+    {
+      "title": "Seeing Entering hell-fire in a dream",
+      "relevance": "Cehenneme giriş temasını ateş, yoksulluk, hapishane ve büyük günahlarla ilişkilendiren kısa yorum sayfası.",
+      "url": "https://www.shiacircle.com/dream-interpretation/entering-hell-fire"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri E Harfi",
+      "relevance": "Cehenneme girip çıkmanın tövbe ve dünyevî sıkıntılarla bağlantısını veren İmam Nablusî başlıklı derleme sayfası.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-e-harfi.html"
+    },
+    {
+      "title": "Jahannam Islamic Interpretations & Meanings",
+      "relevance": "Jahannam başlığında cehennemin rüyada günah ve elem uyarısı olarak nasıl çerçevelendiğini özetleyen derleme kayıt.",
+      "url": "https://www.myislamicdream.com/jahannam.html"
+    },
+    {
+      "title": "Fire Islamic Interpretations & Meanings - myIslamicDream",
+      "relevance": "Cehennem ateşini geniş bir ahlaki ve teolojik sembolizm içinde açıklayan derleme yorum sayfası.",
+      "url": "https://www.myislamicdream.com/fire.html"
+    },
+    {
+      "title": "Hell - Encyclopedia of The Bible",
+      "relevance": "Cehennemin Hristiyan teolojisinde yargı, adalet ve günahın sonucu olarak nasıl konumlandığını özetler.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Hell"
+    },
+    {
+      "title": "Questions about Hell: Is It a Literal Fire? Or Worse?",
+      "relevance": "Cehennem adlarının ve imgelerinin Hristiyan metin geleneğinde ateş, ayrılık ve cezayla ilişkisini açıklar.",
+      "url": "https://www.biblestudytools.com/bible-study/explore-the-bible/questions-about-hell-is-it-a-literal-fire-or-worse.html"
+    },
+    {
+      "title": "Topical Bible: The Nature of Hell",
+      "relevance": "Cehennemin Hristiyan kutsal metinlerindeki ateş, yargı ve nihai sonuç diliyle bağlantısını derler.",
+      "url": "https://biblehub.com/topical/t/the_nature_of_hell.htm"
+    },
+    {
+      "title": "Bible Mysteries: What Is Hell? Description Of Hell In The Bible | Christian Pure",
+      "relevance": "Cehennem tasvirini Hristiyan inancında Tanrı’dan kopuş ve son yargı bağlamında sunar.",
+      "url": "https://christianpure.com/learn/what-is-hell/"
+    },
+    {
+      "title": "GEHENNA - JewishEncyclopedia.com",
+      "relevance": "Gehenna’nın Yahudi düşüncesinde ceza ve ‘hell’ anlamıyla tarihsel gelişimini ve Talmudik bağlamını açıklar.",
+      "url": "https://www.jewishencyclopedia.com/articles/6558-gehenna"
+    },
+    {
+      "title": "\"Into God's Hands I Trust My Soul\":Soul Accounting and The Daily Deathbed | Sefaria",
+      "relevance": "Berakhot’taki rüya ve Gehenna ateşi oranını içeren klasik rabbanî pasajı sunar.",
+      "url": "https://www.sefaria.org/sheets/151347"
+    },
+    {
+      "title": "1/60th of Death The Mystical Power of Sleep and Dreams | Sefaria",
+      "relevance": "Berakhot 57b’de rüyanın peygamberliğin altmışta biri oluşuna ilişkin klasik pasajı derler.",
+      "url": "https://www.sefaria.org/sheets/300630"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyalar ve onların anlamı üzerine Talmudik tartışmanın çerçevesini verir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Gehenna | Texts from the Sefaria Library",
+      "relevance": "Gehenna’ya dair Yahudi metinlerini bir araya getirir; kavramın ceza ve yargı bağlamını gösterir.",
+      "url": "https://www.sefaria.org/topics/gehinnom"
+    },
+    {
+      "title": "Berakhot 57",
+      "relevance": "Berakhot 57’deki rüya ve Gehenna oranını popüler-özet biçimde aktarır; metinsel çerçeveyi görmeye yardımcı olur.",
+      "url": "https://www.myjewishlearning.com/article/berakhot-57/"
+    },
+    {
+      "title": "Kamma and the Buddhist Hell - Wisdom Library",
+      "relevance": "Budist cehennem anlayışının katmanlarını, isimlendirilmiş cehennemleri ve karmayla ilişkili ıstırap tasvirlerini anlatır.",
+      "url": "https://www.wisdomlib.org/uploads/journals/mdpi-relig/2025-volume-16-issue-4--2077-1444-16-4-446-.pdf"
+    },
+    {
+      "title": "Naraka",
+      "relevance": "Naraka’nın Budist kozmolojide altı âlemin en aşağısı olduğunu açıklar.",
+      "url": "https://encyclopediaofbuddhism.org/wiki/Naraka"
+    },
+    {
+      "title": "Asian and Buddhist Hell Texts",
+      "relevance": "Budist cehennem metinleri geleneğinde cehennemin yeraltı âlemi, acı çekme ve ahlaki sonuçlarla ilişkisini derler.",
+      "url": "http://www.hell-on-line.org/TextsAB.html"
+    },
+    {
+      "title": "Buddhist Hells: Two Interpretations - CEJSH",
+      "relevance": "Budist cehennem tasvirlerinin yorum katmanlarını ve farklı açıklama biçimlerini ele alan akademik bir tartışma sunar.",
+      "url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-doi-10_4467_24506249PJ_24_017_20961/c/articles-62689794.pdf.pdf"
+    },
+    {
+      "title": "Hell Dream Interpretation - Hell Dream Meaning",
+      "relevance": "Cehennem sembolünü rüya bağlamında içsel karanlık, bastırılmış dürtüler, korku, suçluluk ve arınma temalarıyla ilişkilendiren modern ezoterik yorum.",
+      "url": "https://www.dreamsmain.com/hell"
+    },
+    {
+      "title": "Hell Archetype Meaning & Symbolism",
+      "relevance": "Cehennem arketipini sınav, sonuç, dönüşüm ve kaçınılmaz hakikatle yüzleşme ekseninde ele alan modern sembolik okuma; rüya yorumuna da aynı çerçevede değiniyor.",
+      "url": "https://mymythos.org/archetype/hell/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

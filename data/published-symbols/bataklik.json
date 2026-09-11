@@ -1,0 +1,156 @@
+{
+  "slug": "bataklik",
+  "title": "bataklık",
+  "shortDescription": "Rüyada bataklık görmek, sıkışmışlık, belirsizlik ve ilerlemeyi zorlaştıran bir durumla ilişkilendirilir. Bataklıkta batmak veya çırpınmak kontrol kaybı ve karmaşayı; bataklıktan çıkmak ise zorlu bir süreci kararlılıkla aşmayı anlatır.",
+  "positiveAssociations": [
+    "Bataklıktan başarıyla çıkmak.",
+    "Zorlu bir süreçten sonra gelen kişisel dönüşüm",
+    "Bilinçdışının derinliklerindeki yaratıcı potansiyelle yüzleşme",
+    "Mütevazı ama kararlı bir ilerleme kaydetme"
+  ],
+  "challengingAssociations": [
+    "Hayatın belirli bir alanında tıkanıp kalma ve sıkışmışlık hissi",
+    "Sağlam zemin kaybedildiği inancıyla yavaş yavaş tükenme",
+    "Verimsizlik, ruhsal kuraklık ve çoraklık",
+    "Oneirokritikler (antik rüya yorumcuları) tarafından kaydedildiği şekilde: işsizlik, yolculukta engel ve geçiş güçlükleri."
+  ],
+  "contextDependentAssociations": [
+    "Bataklıkta çırpınmak ile bataklığı geride bırakıp çıkmak arasındaki eylemsel farklar",
+    "Rüya görenin mesleği, yolculuk durumu veya yaşam bağlamı",
+    "Rüya sırasındaki duygu tonunun endişe mi yoksa keşif mi olduğu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Bataklıkta Yavaş Yavaş Batmak",
+      "description": "Kişinin günlük yaşamında sağlam zemin üzerinde ilerlediğini düşünürken karşılaştığı beklenmedik bir kriz karşısında yavaşça kontrolü kaybetme hissini yansıtır."
+    },
+    {
+      "title": "Bataklıktan Güçlükle Çıkmak",
+      "description": "Uzun süredir devam eden zorlu, verimsiz veya tıkalı bir süreçten mütevazı ama kararlı adımlarla sıyrılma çabasını simgeler."
+    },
+    {
+      "title": "Bataklıkta Çırpınmak",
+      "description": "Çözüm aranırken atılan adımlar durumun daha da karmaşıklaşmasına yol açar; bu, hareketli ve sıkışmış bir durumu ifade eder."
+    },
+    {
+      "title": "Engelleri Tanıyıp Kaçınma (Bataklık Kenarı)",
+      "description": "Rüya görenin tehlikeli, verimsiz veya belirsiz bir durumu fark ederek ondan kaçınması; riskleri görüp güvenli bir yöne yönelmesi hâlini ifade eder."
+    }
+  ],
+  "psychology": "Rüya içerik analizinde bataklık gibi tekil imgeler sabit ve evrensel bir anlama indirgenemez; rüya raporunun tamamı, anlatı örüntüsü ve duygu tonu sistematik biçimde değerlendirilmelidir. Psikanalitik çerçevede su, nem ve çamur imgeleri bedensel süreçler, organik işlevler, akışın kesilmesi veya içeriğin örtülmesi gibi temalarla dolaylı olarak ilişkilendirilebilir; bataklık ise suyun tıkalı ve bulanık hâli olarak bu genel su çağrışımları içinde temkinli biçimde ele alınmalıdır.",
+  "jungian": "",
+  "islamicTradition": "Bazı geleneksel derlemelerde ve Nablusî aktarımlarında bataklık rüyası engel, güçlük ve betbahtlık alameti olarak aktarılır. Bataklık içinde çırpınmak veya saplanmak, çalışmamakta ısrar edilmesi durumunda yoksullaşma veya sıkıntı şeklinde yorumlanır; bataklıktan çıkmak ise mütevazı ilerleme ve güçlüklerin aşılması olarak okunur.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde bataklık, bereketli sulak alanlarla durgun, işlenemeyen veya verimsiz arazi arasındaki tezat bağlamında değerlendirilir. Bu çerçevede bataklık; ruhsal kuraklık, durağanlık ve dönüşüme direnç gösteren zeminleri çağrıştıran bir metafordur.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar yorumla anlam kazanır; tek bir görüntü üzerinden otomatik hüküm verilmeyeceği, yorumlayıcı söylem ve bağlamın önem taşıdığı vurgulanır. Bataklık doğrudan klasik bir rüya öğesi olarak yaygın biçimde kaydedilmemiş olsa da, su imgelerinin ve rüya yorum geleneğinin önemi nedeniyle bu tür zorlu coğrafi imgeler yorum bağlamında ele alınmalıdır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda bataklık, bilinç ile bilinçdışı arasındaki ara bölge, belirsizlik ve askıda kalma hissini çağrıştırabilir. Bu perspektiflerde bataklık aynı zamanda henüz biçimlenmemiş potansiyellerin bulunduğu, dikkat gerektiren bir sınır alanı olarak yorumlanır.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Su ve çamur sembolizmi üzerinden bedensel süreçler, akışın tıkanması ve bastırılmış içeriklerin örtülmesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Bilinçdışı ile karşılaşma, eşiksel veya ara alan, psişik çözülme ve dönüşüm ihtiyacı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel Yorumlar",
+      "interpretation": "Engel, güçlük, işsizlik, yoksullaşma riski ve çıkış yolu arama çabası.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolik Okuması",
+      "interpretation": "Ruhsal kuraklık, verimsizlik, durağanlık ve dönüşüme direnç gösteren zeminler.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik Yaklaşım",
+      "interpretation": "Belirsizlik, askıda kalma durumu ve beklenmedik tükeniş süreçleri.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli gelenek ve disiplinler bataklığı genellikle ilerlemeyi zorlaştıran, durgunluk yaratan ve kişinin hareket alanını kısıtlayan bir çevre olarak görür; bazı çerçeveler ise onu dönüşüm potansiyeliyle ilişkilendirir.",
+  "differences": "Psikanalitik ve Jungcu yaklaşımlar sembolü bilinçdışı süreçler ve içsel dönüşüm potansiyeli bağlamında ele alırken, geleneksel okumalar daha çok dışsal engeller, sıkıntılar ve pratik yaşam zorlukları üzerinde yoğunlaşır.",
+  "inusAssessment": "Bataklık sembolü çok katmanlıdır; psikolojik derinlik, geleneksel engeller ve spiritüel belirsizlik gibi farklı boyutları barındırır. Rüyanın yorumu, kişinin bataklık içindeki konumuna (örneğin batıyor mu, çıkmaya çalışıyor mu, kenarda mı duruyor) ve rüya anındaki duygusal tona sıkı biçimde bağlıdır; bu unsurlar anlamı tümden değiştirebilecek kritik ayrımlardır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin yöntemlerini özetler; tekil sembolü bağlamdan ve duygu tonundan ayırmadan yorumlamanın sakıncalarını vurgular.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part a",
+      "relevance": "Rüya metninde çamurlu sokaklar üzerinden bedensel çağrışımların nasıl kullanılabileceğini gösteren klasik Freud pasajı.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud",
+      "relevance": "Freud'un rüyalarda su imgesini bedensel işlevler ve organik süreçlerle ilişkilendirdiği bölüm; bataklık okumaları için dolaylı psikanalitik çerçeve sağlar.",
+      "url": "https://media.thuze.com/MediaService/MediaService.svc/constellation/book/AUPSY330.12.2/%7Bpdfs%7Dch_2_the_interpretation_of_dreams_freud"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Antik oneirokritik gelenekte bataklık tasvirlerinin meslek ve yolculuk bağlamına göre farklı yorumlandığını gösterir.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Derleme kaynakta 'BATAKLIK' başlığı altında bataklığın betbahtlık ve güçlükle ilişkilendirildiği aktarılmaktadır.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri B Harfi",
+      "relevance": "Nablusî aktarımlarında bataklık engel ve güçlük olarak yorumlanır. Saplanmak yoksullaşmaya, bataklıktan çıkmak ise ilerlemeye işaret eder.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-b-harfi.html"
+    },
+    {
+      "title": "Topical Bible: Swamps",
+      "relevance": "İncil sembolizmi çerçevesinde bataklıkların verimlilik ile durgunluk/çoraklık arasındaki karşıtlık üzerinden okunabileceğini açıklar.",
+      "url": "https://biblehub.com/topical/s/swamps.htm"
+    },
+    {
+      "title": "Topical Bible: Swamps and Marshes",
+      "relevance": "Bataklık ve sazlık imgelerinin İncil bağlamında yıkım, yargı ve dönüşümle ilişkilendirilebildiğini özetler.",
+      "url": "https://biblehub.com/topical/s/swamps_and_marshes.htm"
+    },
+    {
+      "title": "Marsh - Topical Bible",
+      "relevance": "Marsh (bataklık) imgelerinin İncil'de verimsiz, işlenmesi zor arazi metaforu olarak kullanımını derler.",
+      "url": "https://biblehub.com/topical/m/marsh.htm"
+    },
+    {
+      "title": "The Muddy Swamp | Reuven Chaim Klein - The Blogs",
+      "relevance": "Yahudi rüya yorum geleneğinin genel çerçevesini ve rüyaların yorumla anlam kazanma eğilimini tartışır.",
+      "url": "https://blogs.timesofisrael.com/the-muddy-swamp/"
+    },
+    {
+      "title": "Madness and Prophecy: Dreams, Texts, and the Power of Rabbinic Interpretation",
+      "relevance": "Rabbanî rüya yorumunda Berakhot 55b'ye dayanan yaklaşımı ve rüyaların yorumla biçimlenme dinamiklerini ele alır.",
+      "url": "https://www.academia.edu/247828/Madness_and_Prophecy_Dreams_Texts_and_the_Power_of_Rabbinic_Interpretation"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Klasik Yahudi rüya listelerinde suyla ilişkili olumlu işaretleri ve su imgelerinin rüya yorumundaki önemini açıklar; bataklık için doğrudan madde vermemektedir.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Yahudi kaynak geleneğinde rüyaların anlamı ve yorumlama pratiğinin tarihsel çerçevesini sunar.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Marsh Dream Meaning - Interpret Your Dream!",
+      "relevance": "Modern rüya yorumlarında bataklık temalarının belirsizlik, geçiş, durgunluk ve bilinçdışı derinlik temalarını nasıl bir araya getirdiğini gösterir.",
+      "url": "https://mirrorwithin.com/dream-dictionary/marsh/"
+    },
+    {
+      "title": "rüya sembolizmi",
+      "relevance": "Manly P. Hall’a atfedilen metinde bataklığın beklenmedik durumlara yakalanma ve yavaş yavaş tükenme çağrışımlarıyla ilişkisi aktarılır.",
+      "url": "https://turuz.com/storage/mifoloji/0418-Ruya_Simbolizmi-Manly_P.Hall-2011-113.pdf"
+    }
+  ],
+  "relatedSlugs": []
+}

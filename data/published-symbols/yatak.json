@@ -1,119 +1,244 @@
 {
   "slug": "yatak",
   "title": "yatak",
-  "shortDescription": "Rüyada yatak görmek; dinlenme, güven ve mahremiyetin yanı sıra ilişki, evlilik, aile düzeni veya toplumsal konumla ilgili temaları çağrıştırabilir. Sağlam ve rahat bir yatak korunma ve iç huzuru, kırık yatak ayrılık veya otorite kaybını, hasta yatağı ise kırılganlığı öne çıkarabilir.",
+  "shortDescription": "Rüyalarda yatak, mahremiyet, dinlenme, hane düzeni ve duygusal güvenin merkezî bir simgesi olarak karşımıza çıkar.",
   "positiveAssociations": [
-    "Dinlenme ve güven alanı",
-    "Evlilik ve mahremiyet",
-    "Saygınlık ve otorite kazanma",
-    "Gece tefekkürü ve içsel huzur"
+    "Huzur ve güvende hissetme",
+    "İçsel enerji yenilenmesi ve toparlanma",
+    "Hane içi uyum ve yakın ilişkiler",
+    "Derin iç gözlem ve dinlenme"
   ],
   "challengingAssociations": [
-    "Hastalık ve kırılganlık",
-    "Makam kaybı veya ayrılık",
-    "Bedensel ıstırap",
-    "Ahlaki gevşeklik veya tembellik imgesi"
+    "Mahremiyetin ihlali veya güvensizlik hissi",
+    "İlişkilerde veya hane düzeninde bozulmalar",
+    "Pasiflik ve eylemsizlik döngüsü",
+    "Aşırı içe kapanma eğilimi"
   ],
   "contextDependentAssociations": [
-    "Yolculuk veya statü değişimi",
-    "Yaşam ve ölüm geçişleri",
-    "Çocuk sahibi olma veya ailevi bağlar"
+    "Yatağın temiz, düzenli, kırık veya örtüsüz olması",
+    "Rüya sahibinin yatakta yalnız veya biriyle birlikte bulunması",
+    "Uykuya dalma, uyanma ya da yatakta tefekkür etme anları"
   ],
   "commonVariations": [
     {
-      "title": "Tanımadığı bir yatakta yatmak",
-      "description": "Klasik İslami tabirlerde evlilik, yeni bir hane veya çocuk sahibi olma ihtimaliyle ilişkilendirilen bir durumdur."
+      "title": "Tanıdık Olmayan Bir Odada Düzenli Bir Yatak",
+      "description": "Kişinin hayatında yeni bir uyum ve mahremiyet alanı arayışını, yabancı bir çevreye rağmen içsel güven bulma çabasını yansıtır."
     },
     {
-      "title": "Yatağın kırılması veya zarar görmesi",
-      "description": "Makam kaybı, otoritenin sarsılması veya eşler arasındaki bağlarda yaşanabilecek kopuşların simgesel bir yansımasıdır."
+      "title": "Kırılmış veya Örtüsü Alınmış Yatak",
+      "description": "Evlilik düzeninde, yakın ilişkilerde veya günlük düzende yaşanabilecek sarsıntıları, otorite kaybını ya da güvensizlik hissini işaret eder."
     },
     {
-      "title": "Yatakta dua etmek veya tefekkürde bulunmak",
-      "description": "Kutsal metin geleneklerinde gece vakti huzur arayışı, manevi korunma ve içsel hesaplaşma bağlamında yer alır."
+      "title": "Geniş ve Yumuşak Yatakta Dinlenme",
+      "description": "Zihinsel ve bedensel anlamda derin bir şifa sürecine, huzurlu bir döneme ve hane içindeki ferahlığa delalet eder."
     },
     {
-      "title": "Hasta yatağında bulunmak",
-      "description": "Bedensel kırılganlığı, iyileşme sürecini ya da Theravada metinlerindeki derin ıstırap ve arınma dinamiklerini akla getirir."
+      "title": "Yatakta Uyanık Kalıp Tefekkür Etme",
+      "description": "Fiziksel uykunun ötesinde, kişinin kendi iç dünyasıyla hesaplaşmasını, derin sorgulamalarını ve gece sessizliğindeki farkındalığını temsil eder."
     }
   ],
-  "psychology": "",
+  "psychology": "Ampirik rüya araştırmalarında yatak, rüya raporlarında sıkça karşılaşılan ve bağımsız içerik değişkenleri olarak kodlanan mekânsal unsurlardan biridir. Bu tür çalışmalar, yatağın tek başına evrensel bir anlam taşımaktan ziyade, rüya raporundaki duygusal yoğunluk, valans ve eşlik eden diğer içerik kategorileriyle birlikte anlam kazandığını ortaya koymaktadır.",
   "jungian": "",
-  "islamicTradition": "İslami rüya tabiri geleneğinde yatak çoğunlukla eş, evlilik, otorite, yolculuk veya toplumsal statü ile ilişkilendirilir. Yatağın üzerindeki nesneler çocukları, altındaki unsurlar ise kız çocuklarını simgeleyebilir. Rüyada yatağa oturmak kaybedilen bir nüfuzu geri kazanmaya veya saygınlığa işaret edebilirken, yatağın kırılması makam kaybı ya da eşten ayrılma gibi anlamlar taşıyabilir.",
-  "christianTraditions": "Hristiyan ve Kutsal Kitap bağlamında yatak dinlenme, mahremiyet ve evlilik içi yakınlıkla bağdaştırılır. Bununla birlikte bazı metinlerde dua ve Tanrı'yla gece tefekkürü için bir sığınak olduğu kadar, aylaklık, günah veya bedensel acının da bir imgesi olarak kullanılmaktadır.",
-  "jewishTraditions": "Yahudi ve İncil geleneklerinde yatak, dinlenme ve korunma alanı olarak ele alınır. Mezmurlar gibi kaynaklarda gece tefekkürü ve ilahi olanı anma mekânı olarak geçerken, bazı bağlamlarda ahlaki gevşeklik veya tembellik temalarıyla da ilişkilendirilmiştir.",
-  "buddhistEasternApproaches": "Budist ve Hindu geleneklerinde yatak metinsel düzeyde farklı bağlamlarda görünür. Theravada Budizminde Bodhisatta'nın dördüncü jhāna'ya erişme niyetini veya hasta bir keşişin ıstıraplarını görünür kılan bir sahne olarak yer alır. Vaişnava anlatılarında ise ilahî dinlenme ve ilişkisellik sahnelerine eşlik eden bir mekândır.",
-  "spiritualApproaches": "",
+  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında yatak, eş, evlilik uyumu, hane düzeni, mahrem yaşam ve geçim alanıyla ilişkilendirilir. Yatağın geniş, yumuşak veya temiz olması hane ferahlığına ve eşin uyumuna işaret ederken, yatağın kırılması, örtüsünün kalkması veya satılması gibi durumlar otorite kaybına, düzenin bozulmasına veya ayrılığa yorulur.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde yatak, fiziksel dinlenme ve huzurun yanı sıra ahlaki sınırları, evlilik bağını ve iç gözlem alanını temsil eder. Mezmur geleneklerinde yatağın gece tefekkürü ve Tanrı'yı anma mekânı olarak ele alınması, bu imgenin yalnızca bedensel bir dinlenme değil, ruhsal bir içe dönüklük alanı olduğunu da gösterir.",
+  "jewishTraditions": "Yahudi geleneksel metinlerinde yatak, uyku öncesi dualar, korunma arayışı, mahremiyet ve bazen son istirahat yeri çağrışımlarıyla ele alınır. Rabbanî bağlamlarda yatak, sabah uyanışında kutsal hizmete hazırlık ve hane içi dindarlık ekseninde sembolik bir ağırlık taşır.",
+  "buddhistEasternApproaches": "Budist metinlerde, özellikle büyük ve kozmik ölçekte tasvir edilen yatak imgeleri, zihinsel sükûnet, sarsılmaz bir dinginlik ve uyanış sonrası özgürlükle ilişkilendirilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda yatak, kişinin kendi enerjisini yenilediği, dış dünyadan soyutlanarak öz merkezine döndüğü kutsal bir alan olarak değerlendirilir. Aynı zamanda yaşam döngüsü, kırılganlık ve içsel arınma katmanlarını barındıran simgesel bir sığınaktır.",
   "comparisonTable": [
     {
-      "approach": "İslami Rüya Geleneği",
-      "interpretation": "Eş, evlilik, otorite, yolculuk ve toplumsal statü bağlamında değerlendirilir.",
+      "approach": "Ampirik Rüya Araştırmaları",
+      "interpretation": "Yatağın varlığı ve kullanım bağlamı, rüyanın duygusal tonu ve mekânsal kodlarıyla birlikte incelenir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Beden temsilleri, mahremiyet, pasiflik ve regresyon ekseninde serbest çağrışım zinciriyle ele alınır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Eş, evlilik bağı, hane düzeni, geçim ve yatağın fiziksel durumu üzerinden yorumlanır.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Kutsal Kitap ve Yahudi-Hristiyan Geleneği",
-      "interpretation": "Dinlenme, mahremiyet, gece tefekkürü ile hastalık ve ahlaki durum metaforu olarak ele alınır.",
+      "approach": "Hristiyan Teolojik Sembolizmi",
+      "interpretation": "Dinlenme, huzur, ahlaki sınırlar ve gece tefekkürü veya içsel sınama mekânı olarak okunur.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist ve Doğu Metinleri",
-      "interpretation": "jhāna, arınma, ilahî dinlenme ve bedensel ıstırap bağlamlarında sembolleşir.",
-      "evidenceLevel": "traditional"
+      "approach": "Ezoterik ve Spiritüel Yaklaşım",
+      "interpretation": "Kişisel enerji yenilenmesi, içsel sükûn, mahremiyet ve kutsal sığınak alanı olarak değerlendirilir.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenek ve metinlerde yatak, temel olarak güven, mahremiyet ve dinlenmenin yanı sıra geçişlerin, kırılganlıkların ve insan hayatındaki dönüm noktalarının merkezinde yer alan işlevsel bir sembol olarak öne çıkar.",
-  "differences": "İslami gelenekte yatak daha çok otorite, evlilik ve statü göstergesi olarak yorumlanırken, Kutsal Kitap metinlerinde tefekkür ya da ahlaki durumla ilişkilendirilir; Doğu geleneklerinde ise meditatif derinleşme veya bedensel ıstırap sahnelerinin bir parçasıdır.",
-  "inusAssessment": "Yatak sembolü, popüler rüya sözlüklerinin iddia ettiği gibi tek bir sabit anlam taşımaktan uzaktır. Tarihsel ve kültürel bağlamlar, yatağın bir uyku alanından öte yaşamın, ölümün, mahremiyetin ve otoritenin kesiştiği çok katmanlı bir sahne olduğunu gösterir. Bu nedenle rüyada yatak görülmesi, rüya sahibinin kişisel yaşamındaki dinlenme, kırılganlık, ilişkiler veya sorumluluk alanlarıyla kurduğu çok boyutlu bağlar çerçevesinde ele alınmalıdır.",
+  "commonGround": "Farklı disiplin ve gelenekler, yatağın temel bir dinlenme, mahremiyet ve iç dünyaya çekilme mekânı olduğu konusunda birleşir. Hangi bağlamda ele alınırsa alınsın, yatak dış dünyanın karmaşasından uzaklaşarak bireyin kendi özüyle veya en yakın çevresiyle baş başa kaldığı bir sınır alanı temsil eder.",
+  "differences": "Yaklaşımlar arasındaki temel ayrım, odağın nereye çevrildiğine göre ortaya çıkar; psikolojik araştırmalar içerik kodlamasına ve duygusal valansa odaklanırken, geleneksel ve teolojik okumalar yatağın fiziksel durumunu hane düzeni, evlilik veya ahlaki durumla ilişkilendirir. Psikanalitik gelenek ise sembolü bireyin bastırılmış çağrışım zincirleri üzerinden çözmeyi tercih eder.",
+  "inusAssessment": "Yatak sembolü, diğer nesne rüyalarından en çok mahremiyet ve korunaklı bir alan olma özelliğiyle ayrılır. Rüyada yatağın nasıl göründüğü (düzenli, kırık, temiz ya da boş olması) ve rüya sahibinin o yatakla kurduğu duygusal ilişki, yorumun yönünü belirleyen kritik unsurlardır. Bu nedenle yatak rüyaları, dışsal olaylardan ziyade kişinin içsel güvenliği, yakın ilişkileri ve hane içindeki sükûnet arayışıyla doğrudan bağlantılıdır.",
   "faq": [
     {
-      "question": "Rüyada yatak görmek her zaman uyku ve dinlenmeye mi işaret eder?",
-      "answer": "Hayır. Ampirik ve tarihi veriler yatağın yalnızca uykuyla sınırlı olmadığını, cinsellik, evlilik, otorite, hastalık ve yaşam-ölüm geçişleri gibi çok farklı sembolik katmanlara sahip olduğunu göstermektedir."
+      "question": "Rüyada yatak görmek her zaman evlilik veya ilişki anlamına mı gelir?",
+      "answer": "Hayır. Geleneksel tabirlerde evlilik ve eşle ilişkilendirilse de, psikolojik ve ezoterik açılardan yatak bireyin kendi içsel güvenliği, dinlenme ihtiyacı ve mahremiyet alanını da simgeler."
     },
     {
-      "question": "İslami tabirlerde yatağın kırılması ne anlama gelir?",
-      "answer": "Klasik İslami rüya kaynaklarında yatağın kırılması makam kaybı, otoritenin sarsılması veya eşler arasındaki ilişkilerde yaşanabilecek ayrılık gibi durumlarla ilişkilendirilmiştir."
+      "question": "Yatağın kırık veya bozuk olması rüyada neyi düşündürür?",
+      "answer": "Geleneksel ve kültürel bağlamda bu tür detaylar hane düzeninin sarsılması, otorite kaybı ya da yakın ilişkilerdeki istikrarsızlıklarla ilişkilendirilir."
     }
   ],
   "sources": [
     {
-      "title": "Beds in dreams",
-      "relevance": "Rüyalarda yatağın ne sıklıkla göründüğünü ve göründüğünde hangi bağlamlarda yer aldığını gösteren ampirik çalışma.",
-      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/30894"
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin temel ilkelerini ve kategorilere dayalı kodlama mantığını açıklar; yatak gibi imgelerin sabit anlamdan çok sistematik içerik değişkeni olarak ele alınmasına çerçeve sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
     },
     {
-      "title": "An Honest Bed: The Scene of Life and Death in Late Medieval ...",
-      "relevance": "Geç ortaçağ İngiltere’sinde yatağın yaşam, ölüm, cinsellik, dua ve düş görme ile ilişkili tarihsel ve kültürel anlamlarını tartışan çalışma.",
-      "url": "https://quod.lib.umich.edu/f/frag/9772151.0007.011/--honest-bed-the-scene-of-life-and-death-in-late-medieval?rgn=main;view=fulltext"
+      "title": "Methods and Measures for the Study of Dream Content",
+      "relevance": "Rüya içerik araştırmasında kullanılan yöntemleri ve nicel içerik analizinin neden tercih edildiğini özetler; sembol yorumunu değil, rapor edilen içeriklerin güvenilir biçimde sınıflandırılmasını öne çıkarır.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2000a.html"
     },
     {
-      "title": "[PDF] Word, Object, Image - Emory Theses and Dissertations",
-      "relevance": "Eski Mısır’da yatağın uyku, cinsellik, üreme ve geçiş durumlarıyla bağlantılarını ele alan akademik tez.",
-      "url": "https://etd.library.emory.edu/downloads/h128nf392?locale=fr"
+      "title": "Dream emotions: a comparison of home dream reports with laboratory early and late REM dream reports - PubMed",
+      "relevance": "Ev ve laboratuvar rüyalarında duygusal içerik farklarını inceleyen çalışma; rüya içeriğinin duygulanım yoğunluğu ve valansına göre değişebildiğini gösterir.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28568911/"
+    },
+    {
+      "title": "D IJo R - Heidelberger OJS-Journals",
+      "relevance": "Bir rüya içerik çalışmasında ‘beds’ değişkeninin doğrudan kodlandığını ve yatakla ilişkili alt kategorilere ayrıldığını gösteren örnek metodik uygulama sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/issue/download/3101/pdf_72"
+    },
+    {
+      "title": "Evidence for an emotional adaptive function of dreams - PMC",
+      "relevance": "Rüyaların duygusal düzenleme işlevini inceleyen bir ampirik çalışma; rüya içeriğini psikolojik işlev ve duygusal işlemleme bağlamında değerlendirir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10545663/"
+    },
+    {
+      "title": "Freud (1900) Chapter 3 - Classics in the History of Psychology",
+      "relevance": "Freud'un rüya kuramının temel metni; rüyaların bastırılmış isteklerin dönüşmüş ifadesi ve sembollerin bağlama göre çözümlenmesi için ana kaynak.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams3.htm"
+    },
+    {
+      "title": "PSYCHOANALYSISSLEEP and DREAMS",
+      "relevance": "Rüya sembolizmi, beden temsilleri, doğum ve su imgesi üzerinden Freudcu sembolik okuma için yararlı kavramsal çerçeve sunar.",
+      "url": "https://www.gutenberg.org/files/44085/44085-h/44085-h.htm"
+    },
+    {
+      "title": "Freud's Method for Interpreting Dreams - London",
+      "relevance": "Freud'un serbest çağrışım temelli yöntemini ve rüya öğelerinin sabit sözlükle değil çağrışım zinciriyle çözümlenmesini özetleyen akademik kurum kaynağı.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/freuds-method-for-interpreting-dreams/"
+    },
+    {
+      "title": "Bed Dream Meaning & Interpretation - Mirror",
+      "relevance": "Yatağı Benlik (Self) ve bireyleşme süreciyle ilişkilendiren bir Jungcu yorum veriyor; ancak birincil Jung metni olarak doğrulanmış değil.",
+      "url": "https://mirrorwithin.org/dream-dictionary/bed/"
+    },
+    {
+      "title": "In Bed with Mother: Sexual Dreams in Artemidorus’ Interpretation of Dreams",
+      "relevance": "Yatağı Benlik (Self) ve bireyleşme süreciyle ilişkilendiren bir Jungcu yorum veriyor; ancak birincil Jung metni olarak doğrulanmış değil.",
+      "url": "https://journal.almamater.si/index.php/monitorish/article/view/170"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorumuna yaklaşımını ve rüyaların rüyayı görenin durumuna göre çözümlenmesi gerektiğini gösteren çevrimiçi çeviri.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un *Oneirocritica*’sını antik dönemin kapsamlı rüya yorumu el kitabı olarak tanıtan kısa tarihsel özet.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri Y Harfi - Muhammed.net",
+      "relevance": "İmam Nablusî’ye atfedilen yatak yorumunu aktaran Türkçe çevrimiçi kaynak; yatak sembolünü kadın, eş ve eşin huyu ile ilişkilendiriyor.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-y-harfi.html"
     },
     {
       "title": "Bed in Dreams — Islamic Interpretation & Meaning | Dream Wisdom",
-      "relevance": "İslami rüya tabirinde yatak sembolünün evlilik, eş, otorite, yolculuk ve makamla ilişkili klasik yorumlarını özetler.",
+      "relevance": "İslami rüya yorum geleneğinde yatak için örtü, yolculuk, eş, makam, çocuklar ve yatağın bozulması gibi ayrıntılı sembolik anlamlar veren çevrimiçi sayfa.",
       "url": "https://www.dream-wisdom.com/en/dreams/bed/"
     },
     {
+      "title": "Bed Dream Meaning — Ibn Sirin's Interpretation | Rashifol",
+      "relevance": "Yatak sembolüne İbn Sîrîn atfıyla çeşitli anlamlar veren çevrimiçi metin; eş, geçim, çocuklar, yolculuk ve yatağın kırılmasının sonuçlarını sıralıyor.",
+      "url": "https://rashifol.com/en/dreams/bed"
+    },
+    {
+      "title": "Dream About Bed",
+      "relevance": "Hristiyan rüya dilinde yatak için dinlenme, huzur, güvenlik, sağlık ve evlilik bağı çağrışımlarını bir arada sunan çevrimiçi Hristiyan yorum çerçevesi.",
+      "url": "https://evangelistjoshua.com/dream-about-bed/"
+    },
+    {
+      "title": "Ask and You Shall Receive - Apostle David E. Taylor ...",
+      "relevance": "Yatak sembolünü Hristiyan yorum diliyle dinlenme, kurtuluş, meditasyon, yakınlık, evlilik bağı ve yanlış alışkanlıklar arasında okuyan kaynak.",
+      "url": "https://joshuamediaministries.org/dreams/bed/"
+    },
+    {
       "title": "Topical Bible: The Bed",
-      "relevance": "Kutsal Kitap bağlamında yatağın dinlenme, mahremiyet, evlilik ve kimi metinlerde ahlaki durumla ilişkilenen sembolik kullanımını özetler.",
+      "relevance": "İncil’de yatağın dua, içsel sınama ve gece boyunca Tanrı’yı anma bağlamlarında nasıl işlev gördüğünü gösteren toplu Hristiyan konu sayfası.",
       "url": "https://biblehub.com/topical/t/the_bed.htm"
     },
     {
-      "title": "Topical Bible: Beds used for Sleeping On",
-      "relevance": "Kutsal Kitap’ta yatakların dinlenme, tefekkür, korunma ve bazı ahlaki metaforlar içindeki kullanımını örnekler.",
-      "url": "https://biblehub.com/topical/ttt/b/beds_used_for_sleeping_on.htm"
+      "title": "Topical Bible: Bed/Couch",
+      "relevance": "Mezmur 63:6 üzerinden yatağın Tanrı’yı anma ve gece tefekkürü mekânı olarak okunmasını veren Hristiyan konu sayfası.",
+      "url": "https://biblehub.com/topical/b/bed_couch.htm"
     },
     {
-      "title": "Topical Bible: Beds: A Small Pallet or Mattress Used As",
-      "relevance": "Yatağın kutsal metinlerde dinlenme, güven ve konut içi kullanım bağlamlarını gösteren genel Yahudi/İncil sembolizmini sunar.",
-      "url": "https://biblehub.com/topical/ttt/b/beds--a_small_pallet_or_mattress_used_as.htm"
+      "title": "[PDF] Thalamus Dei | Editorial Sinderesis",
+      "relevance": "14. ve 15. yüzyıl Müjde tasvirlerinde yer alan yatak imgesinin Meryem’in bakire anneliği ve Enkarnasyonla ilişkisini tartışan akademik metin.",
+      "url": "https://editorialsinderesis.com/wp-content/uploads/texto-thalamus-dei.pdf"
     },
     {
-      "title": "Bed: Significance and symbolism",
-      "relevance": "Budist ve Hindu geleneklerde ‘yatak’ sembolünün metin içindeki anlamlarını, özellikle Theravada Budizmi’nde jhāna bağlamını, hastalık/ıstırap sahnelerini ve Vaişnava anlatılardaki konumunu topluca verir.",
-      "url": "https://www.wisdomlib.org/concept/bed"
+      "title": "International Journal of History and Cultural Studies (IJHCS)",
+      "relevance": "Patristik ve teolojik gelenekte yatağın/evlilik odası metaforunun Meryem’in rahmi ve bedenleşme sembolizmiyle ilişkisini ele alan çalışma.",
+      "url": "https://www.arcjournals.org/pdfs/ijhcs/v5-i4/5.pdf"
+    },
+    {
+      "title": "BED - JewishEncyclopedia.com",
+      "relevance": "Patristik ve teolojik gelenekte yatağın ve evlilik odasının metaforunun Meryem’in rahmi ve bedenleşme sembolizmiyle ilişkisini ele alan çalışma.",
+      "url": "https://www.jewishencyclopedia.com/articles/2716-bed"
+    },
+    {
+      "title": "Beds of the Righteous « What's in a Word? « - Ohr Somayach",
+      "relevance": "Yatak ile 'salihlerin yatağı' arasındaki sembolik ayrım ve sabah hazırlığı.",
+      "url": "https://ohr.edu/8492"
+    },
+    {
+      "title": "Furnishing Piety: Beds in High Medieval Jewish Domestic Devotion",
+      "relevance": "Ortaçağ Yahudi ev dindarlığında yatağın statü, karakter ve cinsellik çağrışımları.",
+      "url": "https://beyond-the-elite.huji.ac.il/sites/default/files/beyond-the-elite/files/albert_kohn_religions-10-00471.pdf"
+    },
+    {
+      "title": "Berakhot 56b | The Sefaria Library",
+      "relevance": "Talmud’daki rüya tartışmalarına açılan rabbanî bağlam.",
+      "url": "https://www.sefaria.org/Berakhot.56b"
+    },
+    {
+      "title": "[PDF] SD 63.13 Mahā,supina Sutta - The Minding Centre",
+      "relevance": "Talmud’daki rüya tartışmalarına ilişkin rabbanî bağlamı.",
+      "url": "https://www.themindingcentre.org/dharmafarer/wp-content/uploads/63.13-Maha-Supina-S-a5.196-piya.pdf"
+    },
+    {
+      "title": "Bed, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Yatağı rüya sözlüğü çerçevesinde dinlenme, mahremiyet, cinsellik ve yaşam döngüsüyle ilişkilendiriyor.",
+      "url": "http://www.dreamtation.com/docs/931.htm"
+    },
+    {
+      "title": "Bed in dreams — meaning and symbolism",
+      "relevance": "Yatağı ezoterik okumada kişisel enerji yenilenmesi ve içsel dengeyle ilişkilendiriyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/bed"
+    },
+    {
+      "title": "Bedding in dreams — meaning and symbolism",
+      "relevance": "Yatakla ilişkili ezoterik sembolizmi kişisel alanı saran, tutan ve arındırma çağrışımları taşıyan bir katman olarak genişletiyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/bedding"
+    },
+    {
+      "title": "Lyndy Abraham - A Dictionary of Alchemical Imagery-Cambridge University Press (1998)",
+      "relevance": "Simyasal imgeler içinde yatağın prima materia (ilk madde) ile ilişkilendirildiğini aktarıyor.",
+      "url": "https://www.scribd.com/document/606931931/Lyndy-Abraham-A-Dictionary-of-Alchemical-Imagery-Cambridge-University-Press-1998"
+    },
+    {
+      "title": "Bed | dreamhawk.com",
+      "relevance": "Yatağı spiritüel bir okumada dinlenme, teslimiyet ve içsel güven alanı olarak yorumluyor.",
+      "url": "https://dreamhawk.com/dream-dictionary/bed/"
     }
   ],
   "relatedSlugs": []

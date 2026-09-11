@@ -1,0 +1,203 @@
+{
+  "slug": "ogretmen",
+  "title": "öğretmen",
+  "shortDescription": "Rüyada öğretmen görmek; öğrenme, rehberlik, otorite ve değerlendirilme temalarını yansıtabilir. Destekleyici bir öğretmen yeni bir şey öğrenmeye açıklığı, sert bir öğretmen ise eleştiri ve disiplin baskısını öne çıkarır.",
+  "positiveAssociations": [
+    "Rehberlik ve içsel açılım",
+    "Bilgi aktarımı ve öğrenme",
+    "Yüksek mertebe ve şeref",
+    "Destekleyici yönlendirme"
+  ],
+  "challengingAssociations": [
+    "Sıkıntı ve maddi külfet",
+    "Eleştirel iç ses ve yargılanma baskısı",
+    "Disiplin ve cezalandırılma korkusu",
+    "Çözümlenmemiş ebeveyn ve otorite çatışmaları"
+  ],
+  "contextDependentAssociations": [
+    "Rüya sahibinin kendi mesleğinin öğretmen olması durumunda öğretme sanatına işaret etmesi",
+    "Öğretmenin yumuşak veya sert tavrı, rehberlik ile disiplin arasındaki tonu belirler.",
+    "Toplumsal roller ve kamusal sorumluluklar bağlamındaki yansımaları"
+  ],
+  "commonVariations": [
+    {
+      "title": "Sert ve Yargılayıcı Bir Öğretmenle Karşılaşmak",
+      "description": "Rüya sahibinin denetlendiğini veya bir sınavdan geçemediğini hissederek yoğun bir içsel muhasebe ve otorite baskısı yaşamasını simgeler."
+    },
+    {
+      "title": "Yumuşak ve Açıklayıcı Bir Öğretmenden Ders Almak",
+      "description": "Yeni bir kavrayışı benimsemeye açıklık, ruhsal rehberlik alma ve hayatında bir dönüm noktasına hazırlanma anlamı taşır."
+    },
+    {
+      "title": "Kendisinin Kalabalığa Ders Anlattığını Görmek",
+      "description": "Toplumsal mertebe, bilgi paylaşımı ve kişinin kendi çevresinde üstlendiği yönlendirici rol ile ilişkilendirilir."
+    },
+    {
+      "title": "Geçmişteki Bir Öğretmeni Rüyada Görmek",
+      "description": "Geçmişte kalmış çözümlenmemiş otorite figürleri, ebeveyn temsilleri veya eski yaşam dersleriyle yeniden bağ kurma ihtiyacını yansıtır."
+    }
+  ],
+  "psychology": "Ampirik psikolojiye göre rüya içerik analizleri, 'öğretmen' gibi figürlerin sabit ve evrensel bir anlam taşımadığını, bunların karakterler, sosyal etkileşimler ve duygusal tonlar bağlamında kodlandığını gösterir. Psikanalitik çerçevede öğretmen genellikle süperego, eleştirel iç sesi ve ebeveyn benzeri otorite figürlerini temsil eder. Yer değiştirme ve sansür mekanizmaları nedeniyle gündelik bir kişi rüyalarda yoğun bir yargı unsuru haline gelebilir.",
+  "jungian": "",
+  "islamicTradition": "İslami rüya geleneğinde muallim/öğretmen figürü ilim, irşad, terbiye ve toplumsal yönlendirme ile ilişkilendirilir. Bazı kaynaklarda kudretli bir sultan, emîr veya hâkim gibi otorite sahiplerine işaret ederken, rüyada birine ilim öğrettiğini görmek insanlar arasında şeref ve yüksek mertebe kazanmakla yorumlanır.",
+  "christianTraditions": "Hristiyan teolojik okumasında öğretmen figürü, talimat, doğru öğreti, ahlaki biçimlenme ve Mesih'in Rabbi ve Öğretmen olması ekseninde ele alınır. Rüyadaki öğretmen, yalnızca bilgi veren değil, ruhsal yetişme ve doğru yola yönlendirilme çağrısını simgeler.",
+  "jewishTraditions": "Yahudi rüya düşüncesinde rüyanın anlamı büyük ölçüde yoruma bağlıdır. Babil Talmudu Berakhot metinleri, rüyaların yoruma göre şekillendiğini vurgular; bu bağlamda öğretmen figürü genel olarak rehberlik, bilgi aktarımı ve metinlerin yorumlanması geleneğiyle dolaylı bir bağ kurar.",
+  "buddhistEasternApproaches": "Budist rüya yorumlama (rüya araştırmaları (oneiroloji), yani rüyaların incelenmesi) bağlamında Dharma öğreten keşişlerin rüyada belirmesi karmik engellerin azlığına, ruhsal ilerlemeye ve bodhisattva yolunda ilerlemeye işaret eder. Tibet rüya yogasında öğretmen, öğreti ve rüya benzetmesi aracılığıyla bilincin geçiciliği ve uyanış pratiği bağlamında ele alınır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda öğretmen, bilginin aktarımı, içsel dönüşüm ve bir eşiği geçmeye hazırlık olarak değerlendirilir. Öğretmenin tavrı, bireyin daha derin bir anlayışı almaya hazır olmasını ya da disiplinle karşılaşma ihtiyacını yansıtır.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Otorite, süperego, aktarım ve ebeveyn benzeri içselleştirilmiş yargı figürü.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "İlim, irşad, otorite, terbiye ve toplumsal mertebe sembolü.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Gelenek",
+      "interpretation": "Ahlaki biçimlenme, doktrin uyarısı ve ruhsal rehberlik çağrısı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Dharma aktarımı, ruhsal ilerleme ve bodhisattva yolunda rehberlik.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Bilgi aktarımı, içsel dönüşüm, eşik atlama ve disiplin.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenek ve disiplinler, öğretmen figürünün bilgi, otorite, rehberlik ve yönlendirme ile ilgili olduğunu kabul eder.",
+  "differences": "Psikolojik yaklaşımlar figürü içsel bir süperego ve otorite çatışması olarak ele alırken, dini gelenekler ilim, irşad ve ruhsal eğitim gibi dışsal ve aşkın aktarım kanallarına odaklanır.",
+  "inusAssessment": "Rüyada öğretmen figürünün görülmesi, sabit bir kehanetten ziyade rüya sahibinin otorite, bilgi ve içsel değerlendirme süreçleriyle kurduğu ilişkiyi yansıtır. Öğretmenin yumuşak bir rehber mi yoksa yargılayıcı bir denetçi mi olarak göründüğü, rüyanın eleştirel bir muhasebeye mi yoksa yeni bir kavrayışa mı işaret ettiğini belirleyen en kritik ayrım noktasıdır.",
+  "faq": [
+    {
+      "question": "Rüyada öğretmen görmek her zaman eleştirildiğim anlamına mı gelir?",
+      "answer": "Hayır. Öğretmenin tavrı ve rüya sahibinin hissettiği duygu tonu belirleyicidir; sert bir öğretmen içsel yargıyı ve disiplini çağrıştırırken, destekleyici bir öğretmen rehberlik ve öğrenme isteğine işaret edebilir."
+    },
+    {
+      "question": "Geçmişteki bir öğretmenimi rüyada görmek neye işaret eder?",
+      "answer": "Geçmişte kalan otorite figürleriyle çözümlenmemiş meseleler, ebeveyn temsilleri veya o döneme ait yaşam dersleriyle yeniden bağ kurma ihtiyacı olarak okunabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içerik analizinde karakterler, etkileşimler, duygular ve mekânlar gibi öğelerin nasıl kodlandığını açıklar.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "К чему снится учитель: значение, символика и толкование сна",
+      "relevance": "Öğretmen rüyasını otorite figürü ve ebeveyn temsili üzerinden açıklayan Rusça bir web metni.",
+      "url": "https://www.interpretdreams.io/ru/dream-dictionary/teacher/"
+    },
+    {
+      "title": "Signification : Professeur - Psychologies.com",
+      "relevance": "Professeur figürünü otorite, öğretme, baba yerine geçen kişi ve içselleştirilmiş baba izleri bağlamında ele alan sözlük maddesi.",
+      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Professeur"
+    },
+    {
+      "title": "Freud (1900) Chapter 5, part a",
+      "relevance": "Freud’un rüya çalışmasında yer değiştirme ve sansür kavramlarını açıklayan klasik metin bölümü.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5a.htm"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Yunan rüya yorum geleneğinde mesleki figürlerin nasıl okunduğunu gösteren temel metin; öğretmen gibi mesleklerin rüyadaki anlamına tarihsel zemin sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Allegorical Dreams in Antiquity Their Character and ...",
+      "relevance": "Antik rüya alegorileri içinde öğretmenlerin ve öğrencilerin ilişkilendirilmesine dair tarihsel-kültürel tartışma sunar.",
+      "url": "https://www.austriaca.at/0xc1aa5572%200x00369746.pdf"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri M Harfi",
+      "relevance": "Muallim/öğretici sembolüne atfedilen rüya tabirini ve öğretme eyleminin otorite, ilim ve şeref ile bağlantısını aktarır.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-m-harfi.html"
+    },
+    {
+      "title": "موسوعة تفسير الرؤى والأحلام",
+      "relevance": "Muallim sembolünün toplum reisi, şeref ve yüksek dereceyle ilişkisini aktaran Arapça bir rüya tabiri.",
+      "url": "https://mktbtk.com/dir/ish/68/m-0038.htm"
+    },
+    {
+      "title": "Biblical meaning of teacher in a dream - biblestep.com",
+      "relevance": "Öğretmen figürünü Tanrı’nın öğretmesi, Mesih’in Rabbi ve Öğretmen oluşu, doktrin uyarısı ve ahlaki biçimlenme ile bağlantılı teolojik bir sembol olarak ele alıyor.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-teacher-in-a-dream"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Babil Talmudu’nda rüyaların ve yorumun ilişkisini gösteren ana metin bölümü.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot’taki rüya pasajlarını açıklayan ve yorumun rüya anlamındaki rolünü vurgulayan kaynak.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Babil Talmudu’nun rüya bölümlerini Yahudi rüya literatürünün temel kaynağı olarak ele alan akademik çalışma.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "The World of Dreams - Jewish Workshops",
+      "relevance": "Modern Yahudi düşüncesinde rüya konusunu ele alan program kaydı; çağdaş Yahudi yaklaşımına bağlam sağlar.",
+      "url": "https://jewishworkshops.com/product/the-world-of-dreams/"
+    },
+    {
+      "title": "Toh 48 — The Teaching on Dreams",
+      "relevance": "Mahāyāna rüya sûtrasının çevrim içi metin kaydı; rüyada ilk kez görülen Dharma öğreten keşişe dair doğrudan pasaj içerir.",
+      "url": "https://buddhistcanon.ru/tibetan_canon/kangyur/039-004-toh48-the-teaching-on-dreams.html"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "‘The Teaching on Dreams’ sûtrasının çevirisi; bodhisattva rüyalarında Dharma öğreten keşiş ve öğretme sahnelerini açıkça listeler.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "Full text of \"The Tibetian Yogas Of Dream And Sleep\"",
+      "relevance": "Tibet rüya yogası geleneğinde öğretmen, öğreti ve rüya ilişkisini anlatan metin; rüya pratiği içinde öğretmen figürünün işlevini gösterir.",
+      "url": "https://archive.org/stream/TheTibetianYogasOfDreamAndSleep/TibetanYogasOfDreamAndSleep_djvu.txt"
+    },
+    {
+      "title": "Teaching Dreams: Meanings, Psychology, and Practical ...",
+      "relevance": "Öğretmen rüyasını spiritüel çerçevede, aktarım ve dönüşüm diliyle yorumlayan modern bir çevrimiçi kaynak.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/teaching"
+    },
+    {
+      "title": "Teacher, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Rüyada öğretmenin ruhsal rehberlik ve hazır oluşla ilişkilendirildiğini söyleyen kısa bir yorum sayfası.",
+      "url": "http://www.dreamtation.com/docs/4500.htm"
+    },
+    {
+      "title": "Teacher dreams: learning, judgment, and old authority - EchoDream",
+      "relevance": "Öğretmen figürünü öğrenme, rehberlik, otorite ve içsel bilgelik ekseninde ele alan modern yorumlayıcı sayfa.",
+      "url": "https://www.echodream.io/interpret/teacher-dreams"
+    },
+    {
+      "title": "Teacher Dreams: Wisdom, Authority & Learning",
+      "relevance": "Öğretmeni ezoterik gelenekte bilgelik ve aktarım taşıyıcısı olarak konumlandıran modern yorum sayfası.",
+      "url": "https://somniscient.com/en/symbols/teacher"
+    },
+    {
+      "title": "Teacher in dreams — meaning and symbolism",
+      "relevance": "Öğretmeni ezoterik düzlemde ruh rehberi, iç yolun ustası ve derin anlamın taşıyıcısı olarak yorumlayan sayfa.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/teacher"
+    },
+    {
+      "title": "Teacher - Dream Symbol Meaning and Interpretation",
+      "relevance": "Öğretmen sembolünü rehberlik, vicdan ve aktarım temalarıyla ilişkilendiren modern spiritüel yorum.",
+      "url": "https://dreams.guide/dream-symbols/teacher"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
+}

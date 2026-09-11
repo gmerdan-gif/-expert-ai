@@ -1,134 +1,283 @@
 {
   "slug": "bebek",
   "title": "bebek",
-  "shortDescription": "Rüyada bebek görmek; yeni başlangıçları, gelişen potansiyeli ya da korunmaya ihtiyaç duyan hassas yönleri simgeleyebilir. Bebeği kucakta taşımak ise yeni bir sorumluluk, yük veya ferahlama duygusuyla ilişkilendirilebilir.",
+  "shortDescription": "Rüyada bebek görmek, yeni bir başlangıcı, henüz gelişmekte olan bir potansiyeli, kırılganlığı ve bakım gerektiren bir sorumluluğu simgeleyebilir. Bebeğe nasıl yaklaştığınız ve onun huzurlu, ağlayan veya korunmasız oluşu, bu yeni durumla kurduğunuz duygusal ilişkiyi yansıtabilir.",
   "positiveAssociations": [
-    "Masumiyet ve saflık",
-    "Yeni başlangıçlar ve potansiyel",
-    "Dönüşüm ve psişik yenilenme",
-    "İlahi yakınlık ve kutsanma"
+    "yeni başlangıç",
+    "ruhsal yeniden doğuş",
+    "sevindirici haber",
+    "potansiyel ve yaratıcılık",
+    "masumiyet"
   ],
   "challengingAssociations": [
-    "Ağır sorumluluklar ve yükler",
-    "Kırılganlık ve korunma ihtiyacı",
-    "Bağımlılık ve gelişimsel zorluklar",
-    "Belirsizlik ve sıkıntılı süreçler"
+    "kırılganlık ve korunma ihtiyacı",
+    "kaygı, yük ve kayıp",
+    "aile içi sorumluluklar",
+    "ihmal ve ayrılık temaları",
+    "olgunlaşmamış psişik yönler"
   ],
   "contextDependentAssociations": [
-    "Kucakta taşınan bir çocuğun yük veya ferahlama getirmesi",
-    "Yenidoğan bir varlığın bilinç ve bilişsel kapasite evrelerini simgelemesi.",
-    "Şefkat kapasitesinin ve erken gelişim evresinin yansıması"
+    "gebelik ve annelik temsilleri",
+    "bedensel ve erken yaşam gereksinimleri",
+    "ilahi vaat ve antlaşma bağlamları",
+    "sosyal etkileşim ve duygu tonu"
   ],
   "commonVariations": [
     {
-      "title": "Kucakta Bebek Taşımak",
-      "description": "Rüyada kucakta bir bebek taşımak, kişinin hayatındaki yeni bir sorumluluğu üstlenmesini ya da taşıdığı yüklerle birlikte ferahlama arasındaki dengeyi sembolize edebilir."
+      "title": "Kendi bebeğini kucakta tutmak ve sevmek",
+      "description": "Rüya sahibinin hayatındaki yeni bir sorumluluğu veya sevindirici bir gelişmeyi bakım, yakınlık ve koruma duygularıyla karşıladığını gösterebilir."
     },
     {
-      "title": "Yeni Doğan Bebek Görmek",
-      "description": "Yeni doğmuş bir bebekle karşılaşmak, psikolojik düzeyde taze bir potansiyelin, hayata yeni bir bakış açısının ya da dönüştürücü bir başlangıcın habercisi olarak ele alınabilir."
+      "title": "Ağlayan veya ilgisiz bırakılmış bebek görmek",
+      "description": "Erken dönem kayıplarını, ihmal edilmiş içsel ihtiyaçları ya da günlük yaşamda taşınan yük ve kaygıları simgeleyebilir."
     },
     {
-      "title": "Ağlayan Bebek",
-      "description": "Ağlayan bir bebek figürü, rüya gören kişinin iç dünyasındaki ihmal edilmiş, şefkat arayan veya korunmaya muhtaç hassas yönlere dikkat çekebilir."
+      "title": "Gebelik ve doğum anına tanıklık etmek",
+      "description": "Benliğin veya bedenin yeni bir gelişim aşamasına geçişini, potansiyelin doğuşunu ve taze bir yaşam evresini temsil eder."
     },
     {
-      "title": "Bırakılmış veya Yalnız Bebek",
-      "description": "Bu senaryo, kişinin benliğinde henüz gelişmekte olan, savunmasız kalan veya acıdan uyanışa giden yolda keşfedilmeyi bekleyen masum yönlerini yansıtabilir."
+      "title": "Bilinmeyen veya korumasız bir bebek bulmak",
+      "description": "Kişinin hayatında henüz biçimlenmemiş, hassas ve korunması gereken taze bir niyet ya da ruhsal yenilenme alanına işaret eder."
     }
   ],
-  "psychology": "Psikodinamik ve psikanalitik okumalarda, rüyadaki çocuk ya da bebek imgesi, bağımlı ve hâlâ gelişmekte olan benliğin bir ifadesi olarak ele alınır. Bu yaklaşım, sembolü ampirik bir olgudan ziyade bireyin içsel gelişim süreçlerinin ve erken dönem ilişkisel dinamiklerinin teorik bir yansıması olarak değerlendirir.",
-  "jungian": "Jungcu analitik psikolojide bebek ve çocuk motifi, arketipsel olarak başlangıçları, yeni oluşumları ve psişenin dönüştürücü işlevini temsil eder. Bu figür, bütünlenme yolundaki potansiyeli ve bireyselleşme sürecindeki yeni psişik doğumları simgelemektedir.",
-  "islamicTradition": "İslami rüya tabirleri geleneğinde, İbn Sîrîn'e atfedilen kaynaklarda kucakta taşınan küçük çocuk genellikle sorumluluk ve sıkıntı ile ilişkilendirilirken; bağlama göre bu durum ferahlama, güzel haberler veya üzüntünün dağılması şeklinde de yorumlanabilmektedir.",
-  "christianTraditions": "Hristiyan sembolizminde ve kutsal metin referanslarında, çocuk veya bebek figürü masumiyet, kutsanma ve ilahi yakınlık çağrışımları taşır; bu durum doğrudan bir rüya tabirinden ziyade genel bir kutsal metin motifi olarak yer alır.",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Doğu ve Budist geleneklerinde yeni doğmuş çocuk; masumiyet, potansiyel, yeni başlangıçlar ve doğuştan gelen nitelikler ile öğrenme arasındaki ilişkiyi anlamak için kullanılan bir mecazdır. Mahayana öğretisinde ise şefkat kapasitesinin erken gelişim evresini simgeler.",
-  "spiritualApproaches": "",
+  "psychology": "Rüya içerik analizinde bebek ve çocuk imgeleri, sabit sözlük anlamlarından ziyade rapor edilen içerik öğelerinin sistematik kodlanmasına dayanır. Ampirik çalışmalar, hamilelik ve ebeveynlik dönemlerinde bebek rüyalarının yoğunlaştığını, duygu tonunun ve sosyal bağlamın belirleyici olduğunu göstermektedir.",
+  "jungian": "Jungcu analitik psikolojide çocuk motifi, kolektif bilinçdışından doğan ve geleceğe dönük bir arketip olarak ele alınır. Bebek imgesi henüz gerçekleşmemiş potansiyeli, psikolojik doğumu, yenilenmeyi ve Benliğin ilk gelişim aşamasını simgeler.",
+  "islamicTradition": "Tarihsel derlemelerde küçük bebek görmek ve bebeği sevip okşamak genellikle sevinç, sürur ve sevindirici haberlerle ilişkilendirilir.",
+  "christianTraditions": "Hristiyan teolojik sembolizminde bebek, ruhsal yeniden doğuş, masumiyet, ilahi vaatlerin gerçekleşmesi ve korunması gereken hassas bir görev olarak yorumlanır.",
+  "jewishTraditions": "Yahudi geleneksel çerçevesinde yeni doğan, ahit, aidiyet, cemaatin geleceği, kutsal sorumluluk ve eşik deneyimiyle ilişkilendirilir.",
+  "buddhistEasternApproaches": "Budist ve Doğu geleneklerinde doğum, rahim/embriyo motifleri ve kutsal doğum vizyonları, içsel potansiyel, olgunlaşma ve ruhsal aktarım temalarıyla desteklenir.",
+  "spiritualApproaches": "Spiritüel ve ezoterik okumalarda bebek, içsel dönüşümün başlangıcını, saf bilinç halini, yaratıcı potansiyeli ve zıtlıkların birleşmesinden doğan bütünleşmeyi simgeler.",
   "comparisonTable": [
     {
-      "approach": "Psikanaliz",
-      "interpretation": "Bağımlı benliğin ve gelişimsel süreçlerin teorik ifadesi.",
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Bu yaklaşım, rapor edilen içerikleri, bağlamı ve ebeveynlik/gebelik süreçlerini sistematik olarak analiz eder.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz ve Jungcu Analiz",
+      "interpretation": "İnfantil istekler, erken ilişkiler, travmalar ve arketipsel çocuk motifi üzerinden potansiyel analizi.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Analiz",
-      "interpretation": "Arketipsel başlangıçlar, potansiyel ve dönüşüm süreçleri.",
-      "evidenceLevel": "theoretical"
-    },
-    {
-      "approach": "Klasik İslami Gelenek",
-      "interpretation": "Sorumluluk, yük, sıkıntı veya ferahlama bağlamları.",
+      "approach": "İslami, Hristiyan ve Yahudi Gelenekleri",
+      "interpretation": "Sevinç, ilahi vaat, ahit, yeni başlangıç ve kutsal sorumluluk eksenli okumalar.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist ve Doğu Yaklaşımları",
-      "interpretation": "Masumiyet, potansiyel, yeni başlangıçlar ve şefkat.",
-      "evidenceLevel": "traditional"
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Saf bilinç, ruhsal yenilenme ve içsel dönüşümün simgesi.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenekler ve teorik çerçeveler, bebek sembolünün merkezine çoğunlukla kırılganlık, masumiyet ve yeni bir varoluş halini veya potansiyeli yerleştirmektedir.",
-  "differences": "Psikolojik yaklaşımlar bebeği içsel benliğin gelişimi ve bağımlılık dinamikleri üzerinden ele alırken; dini ve geleneksel metinler sorumluluk, yük, kutsanma veya manevi potansiyel gibi daha dışsal ve doktrinel temalara odaklanır.",
-  "inusAssessment": "Bebek sembolü, tek tip bir anlam içermeyen, rüya görenin kişisel bağlamına, psikolojik durumuna ve kültürel arka planına göre şekillenen son derece esnek bir motiftir. Bu nedenle, sembolü katı bir gelecek kehaneti veya dogmatik bir tabir olarak ele almak yerine, kişinin içsel dünyasındaki gelişim, sorumluluk ve hassasiyet alanlarını anlamaya yönelik editoryal bir kılavuz olarak değerlendirmek gerekir.",
-  "faq": [
-    {
-      "question": "Rüyada bebek görmek kesinlikle yeni bir sorumluluk anlamına mı gelir?",
-      "answer": "Hayır. Geleneksel bağlamlarda sorumluluk veya yük ile ilişkilendirilse de, psikolojik ve analitik çerçevelerde bebek, benliğin gelişmekte olan potansiyelini veya kırılgan yönlerini de temsil edebilir."
-    },
-    {
-      "question": "Jungcu psikolojide bebek sembolü nasıl ele alınır?",
-      "answer": "Jungcu yaklaşımda bebek, psişenin dönüşüm süreçlerini, yeni başlangıçları ve arketipsel potansiyeli simgeleyen bütünleştirici bir figür olarak kabul edilir."
-    }
-  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, bebek sembolünün tek ve katı bir anlama sahip olmadığını; yeni bir dönemin başlangıcını, hassasiyeti ve derin bir gelişimsel süreci barındırdığını vurgular.",
+  "differences": "Ampirik psikoloji bağlamı ve duygu tonunu analiz etmeye odaklanırken, psikanaliz erken dönem arzularını vurgular; Jungcu yaklaşım arketipsel potansiyeli öne çıkarır; dini gelenekler ise ahit, vaat ve sevinç gibi manevi temaları öne çıkarır.",
+  "inusAssessment": "Rüyadaki bebek imgesi ne saf bir sevinç müjdesi ne de salt bir kaygı yükü olarak tek bir kalıba sığdırılabilir. Onu anlamlı kılan temel unsur, rüya sahibinin o anki duygusal tonu, bebeğe yönelik bakım ilişkisinin niteliği ve kişinin hayatındaki taze başlangıçlar ile sorumluluklar arasındaki gerilimdir.",
+  "faq": [],
   "sources": [
     {
+      "title": "Content analysis of 4 to 8 year-old children's dream reports",
+      "relevance": "Çocukların rüya anlatılarında insan figürleri ve sosyal etkileşimlerin nasıl rapor edildiğini göstererek bebek/çocuk imgelerinin içerik analizinde ele alınma biçimini destekler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4415323/"
+    },
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin yöntemsel temelini vererek sembolün sabit bir anlamdan ziyade kodlanmış içerik öğeleri üzerinden okunması gerektiğini vurgular.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Chapter 2: The Hall/Van De Castle System",
+      "relevance": "Hall/Van de Castle içerik analiz sisteminin kategorileri teorik ve ampirik olarak nasıl kurduğunu açıklayan akademik metin.",
+      "url": "https://dreams.ucsc.edu/Library/fmid2.html"
+    },
+    {
+      "title": "Maternal representations in the dreams of pregnant women - PMC",
+      "relevance": "Hamile kadınların rüyalarında bebek ve çocuk imgelerinin yoğunluğunu ve bağlama bağlı özgüllüğünü gösteren ampirik kanıt sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3753535/"
+    },
+    {
+      "title": "Dream-associated Behaviors Affecting Pregnant and Postpartum ...",
+      "relevance": "Anne ve bebek döneminde kadınların bebekle ilgili yoğun rüyalarını ve bu rüyaların içerik açısından nasıl kodlandığını ele alır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1978400/"
+    },
+    {
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Freud'un rüyalarda infantil kaynaklar ve erken dönem istekler üzerine görüşlerini vererek bebek imgelerinin psikanalitik bağlamda nasıl okunabileceğine dair temel referans sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
+    },
+    {
+      "title": "The Infantile Sources of Dreams",
+      "relevance": "Freud'un rüyaların bastırılmış infantil arzularla örüldüğünü vurgulayan kavramsal çerçevesine dair özlü açıklama.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/the-infantile-sources-of-dreams/"
+    },
+    {
       "title": "The Child Dream and the Child Transference",
-      "relevance": "Rüyadaki çocuk/bebek imgelerinin bağımlılık, gelişim ve benliğin kırılgan yönleriyle ilişkisini ele alır.",
+      "relevance": "Freud'un düş örneklerinde çocukların nasıl göründüğünü ve bunların tehlike, ayrılık ve bakım temalarıyla bağlantısını ele alan çalışma.",
       "url": "https://dondefrancisco.com/wp-content/uploads/2021/12/Childdreamandchildtransference.pdf"
     },
     {
-      "title": "Baby - Carl Jung's Interpretation",
-      "relevance": "Bebek sembolünü Jungçu arketipsel başlangıç ve potansiyel temalarıyla ilişkilendirir.",
-      "url": "https://dreampaths.com/symbol/baby"
+      "title": "Dreams and the Maternal Imaginary: From Nostalgic Intersubjectivity to Mourning",
+      "relevance": "Freud'da bebekte bedensel gereksinim, doyum ve rüya oluşumu arasındaki ilişkiyi tartışan akademik çalışma.",
+      "url": "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=3356&context=gc_etds"
     },
     {
-      "title": "[PDF] Origini culturali del simbolismo in Freud e Jung",
-      "relevance": "Jung’da sembolün kültürel kökenleri ve dönüştürücü işlevini tartışır; çocuk/bebek motifinin kuramsal arka planını verir.",
-      "url": "https://www.rivistapsicologianalitica.it/v2/PDF/2-2-1971-Il_simbolo/II_n2_1971_cap4.pdf"
+      "title": "The wise baby as the voice of the true self - PubMed",
+      "relevance": "Ferenczi'nin \"bilge bebek\" figürü üzerinden erken travma ve çocukluk olgunlaşmasını özetleyen çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10618822/"
     },
     {
-      "title": "IBN SEERiN'S",
-      "relevance": "İbn Sîrîn’e atfedilen klasik rüya sözlüğünde çocuk/bebek figürünün sorumluluk, sıkıntı ve bazı bağlamlarda ferahlama ile ilişkilendirilmesi.",
-      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+      "title": "Dreams",
+      "relevance": "Freud'un çocukluk rüyalarında infantil isteğin daha açık göründüğünü belirten klasik değerlendirme yazısı.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00797308.1992.11822664"
     },
     {
-      "title": "Topical Bible: Infants and Babies",
-      "relevance": "İncil’de çocukların İsa tarafından kucaklanıp kutsanması; bebek/çocuk figürünün Hristiyan sembolizminde masumiyet ve ilahi yakınlıkla bağ kurulmasına zemin sağlar.",
-      "url": "https://biblehub.com/topical/i/infants_and_babies.htm"
+      "title": "Birth, Dream of",
+      "relevance": "Doğum rüyasının psikanalitik tanımını veren kısa sözlük maddesi; doğum ve başlangıç imgeleri için yararlı bir yönelim sağlar.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/birth-dream"
     },
     {
-      "title": "New-born child: Significance and symbolism",
-      "relevance": "Tibet Budizmi’nde yeni doğmuş çocuk imgesinin doğuştanlık, öğrenme ve masumiyet temalarıyla ilişkisini anlatır.",
-      "url": "https://www.wisdomlib.org/concept/new-born-child"
+      "title": "Tracking an Archetype: The Child Motif in Dreams and its ...",
+      "relevance": "Jungcu literatürde çocuk arketipini ve rüyalardaki çocuk motifinin arketipsel, geleceğe dönük anlamlarını tartışarak bebek imgelerini Jungcu çerçevede destekler.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/1468-5922.70083"
     },
     {
-      "title": "Significance of Newborn children",
-      "relevance": "Mahayana bağlamında yeni doğmuş çocukların Bodhisattva benzetmesi ve şefkat temasıyla ilişkilendirildiğini açıklar.",
-      "url": "https://www.wisdomlib.org/concept/newborn-children"
+      "title": "Full text of \"Marie Louise Von Franz books\"",
+      "relevance": "Puer Aeternus bağlamında çocukluk, infantil yönler ve çocukluk nostaljisi üzerinden bebek/çocuk imgesinin psikolojik anlam alanını açar.",
+      "url": "https://archive.org/stream/marielouisevonfranzalchemyanintroductiontothesymbolismandthepsychologystudiesinj/Marie-Louise%20Von%20Franz,%20Marie-Luise%20von%20Franz%20-%20The%20Problem%20of%20the%20Puer%20Aeternus%20(2000)_djvu.txt"
     },
     {
-      "title": "Newly born baby: Significance and symbolism",
-      "relevance": "Budizm içinde yeni doğmuş bebeğin masumiyet ve potansiyel çağrışımlarını verir ve Jivaka örneği üzerinden anlatır.",
-      "url": "https://www.wisdomlib.org/concept/newly-born-baby"
+      "title": "Full text of \"Von Franz Luise Marie Jung Gustav Carl Man And His Symbols 1988\"",
+      "relevance": "Çocuk imgelerinin psikede merkezi yapılarla ve çocuğun duygusal dünyasıyla ilişkisini gösteren Jungcu yorum içerir; bebek sembolünün gelişim ve yapı boyutuna temas eder.",
+      "url": "https://archive.org/stream/VonFranzLuiseMarieJungGustavCarlManAndHisSymbols1988/Von_Franz_Luise_Marie_Jung_Gustav_Carl_Man_and_His_Symbols_1988_djvu.txt"
     },
     {
-      "title": "Newborn infant: Significance and symbolism",
-      "relevance": "Yeni doğmuş bebek temasını bellek, biliş ve gelişim aşaması tartışmalarıyla ilişkilendirir; Tibet Budizmi ve Vaishnava bağlamlarına değinir.",
-      "url": "https://www.wisdomlib.org/concept/newborn-infant"
+      "title": "Groupe d'etudes C.G. Jung - L'archétype de l'enfant",
+      "relevance": "Jung’un çocuk arketipi üzerine alıntılarını bir araya getirir; çocuk imgesinin geleceğe dönük potansiyel, başlangıç ve yenilenme boyutunu görünür kılar.",
+      "url": "https://groupe-jung.fr/qui-parle/citations?view=article&id=2036:larchetype-de-lenfant&catid=193"
     },
     {
-      "title": "Child-birth: Significance and symbolism",
-      "relevance": "Buda’nın doğumu ve Bodhisattva'nın dünyaya gelişi üzerinden doğum olayının manevi önemini ele alır.",
-      "url": "https://www.wisdomlib.org/concept/child-birth"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Klasik oneirokritik geleneğin bebek rüyalarını çoğunlukla kaygı, yük ve aile sorumluluğu ekseninde okuduğunu gösteren tarihsel bir kaynaktır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Derlenmiş İslami rüya tabirleri içinde bebek görmenin genelde sevinç ve sürurla ilişkilendirildiğine dair bir aktarım sunar.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Ask and You Shall Receive - Apostle David E. Taylor ...",
+      "relevance": "Çağdaş Hristiyan yorumunda bebek imgesinin ruhsal yeniden doğuş ve yeni dönem başlangıcı ekseninde nasıl değerlendirilebileceğine dair örnek bir kaynak sağlar.",
+      "url": "https://joshuamediaministries.org/dreams/baby/"
+    },
+    {
+      "title": "Biblical Meaning of Babies in a Dream (KJV) | Bible Sundays",
+      "relevance": "Bebek sembolünü Hristiyan bağlamda yeni yaşam, bağımlılık ve korunması gereken hassas bir çağrı olarak ele alan metin.",
+      "url": "https://www.biblesundays.com/dream-meanings/babies"
+    },
+    {
+      "title": "Topical Bible: The Baby",
+      "relevance": "Bebekleri yeni başlangıçlar, masumiyet ve ilahi vaatlerin gerçekleşmesiyle ilişkilendiren Hristiyan tematik kaynak.",
+      "url": "https://biblehub.com/topical/t/the_baby.htm"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Berakhot tartışmaları üzerinden Yahudi rüya yorum pratiğinin bağlama ve yorum sürecine vurgu yaparak bebek sembolünün tek başına anlamlandırılamayacağını destekler.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "A Mystical Look at Life Inside the Womb",
+      "relevance": "Doğum öncesi ruh, fetüs ve yeni doğanla ilgili Yahudi mistik sembolizmi açıklar.",
+      "url": "https://www.torchweb.org/torah_detail.php?id=488"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a–b’de rüyaların dini işlevini ve yorum pratiğini açıklar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Jewish Dream Interpretation: What Judaism and the Talmud Say ...",
+      "relevance": "Yahudi rüya yorum geleneğinin yorum, cemaat ve anlamlandırma boyutunu özetler.",
+      "url": "https://www.usehypnos.com/blog/jewish-dream-interpretation"
+    },
+    {
+      "title": "Ceremony & Customs For Jewish Baby Boy | Aish",
+      "relevance": "Yeni doğan etrafındaki korunma ritüelleri ve bebek saflığına dair Yahudi geleneksel anlatımı sunar.",
+      "url": "https://aish.com/48962216/"
+    },
+    {
+      "title": "Why Firstborns Are Such a Big Deal in the Torah",
+      "relevance": "İlk doğan çocuğun ahit ve kutsal sorumlulukla ilişkisini açıklar.",
+      "url": "https://reformjudaism.org/learning/torah-study/torah-commentary/why-firstborns-are-such-big-deal-torah"
+    },
+    {
+      "title": "RESOURCES RELATED TO THIS PAGE:",
+      "relevance": "Çocuğun doğumunu ahit ve yeni yaşam kabulüyle ilişkilendirir.",
+      "url": "https://www.jewishlearningmatters.com/AC1-Birth-2670.aspx"
+    },
+    {
+      "title": "Circumcision and the Eighth Day - Aish.com",
+      "relevance": "Sünnetin ahdin tamamlanması olarak yorumunu verir.",
+      "url": "https://aish.com/48964686/"
+    },
+    {
+      "title": "Baby Naming and the Covenant | My Jewish Learning",
+      "relevance": "Bebek adlandırma, ahit ve topluluk sorumluluğu ilişkisini açıklar.",
+      "url": "https://www.myjewishlearning.com/article/baby-naming-and-the-covenant/"
+    },
+    {
+      "title": "Seeing a Baby in Dream (सपने में बच्चा देखना)",
+      "relevance": "Hindu rüya yorumunda bebek sembolüne dair modern çevrimiçi derleme; bebek, yeni başlangıçlar ve uğurla ilişkilendiriliyor.",
+      "url": "https://www.sanatangyan.com/post/seeing-a-baby-in-dream-%E0%A4%B8%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AC%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%BE-%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%A8%E0%A4%BE-good-sign-hidden-warning-or-new-beginning"
+    },
+    {
+      "title": "शिशु / बच्चा का स्वप्न — वैदिक स्वप्न अर्थ | वेदकोश | VedKosh",
+      "relevance": "Hindu swapna şastra çerçevesinde bebek/çocuk sembolünün geleneksel anlamlarını özetleyen sayfa; sağlıklı bebek, yeni başlangıç ve bereketle ilişkilendiriliyor.",
+      "url": "https://www.vedkosh.com/swapna-shastra/baby-dream"
+    },
+    {
+      "title": "Buddhist Scriptures: I. The Dream of Queen Māyā | Sacred Texts Archive",
+      "relevance": "Budist gelenekte doğum öncesi mucizevi vizyon örneği vererek bebek/rahim motiflerinin ruhsal ve kurtarıcı bağlamlarda kullanıldığını gösterir.",
+      "url": "https://sacred-texts.com/bud/busc/busc04.htm"
+    },
+    {
+      "title": "412. The Tathagatagarbha Sutra",
+      "relevance": "Tathāgatagarbha geleneğinde 'garbha' sözcüğünün rahim/embriyo anlam alanına işaret eden sayfa; Budist sembolizmde içsel potansiyel temasını aydınlatır.",
+      "url": "https://glasgowzengroup.com/412-the-tathagatagarbha-sutra/"
+    },
+    {
+      "title": "Easy Delivery of a Fortune Child | WND I",
+      "relevance": "Nichiren geleneğinde çocuğun fiziksel ve ruhsal yönleri taşıdığına dair metin; çocuk/bebek figürünün süreklilik ve aktarım temasıyla ilişkisini gösterir.",
+      "url": "https://www.nichirenlibrary.org/en/wnd-1/Content/19"
+    },
+    {
+      "title": "Baby Dream Meaning: AI, Jungian Psychology & Spiritual ...",
+      "relevance": "Modern spiritüel ve Jungcu derlemeler üzerinden bebek sembolünün yeni başlangıç, masumiyet ve içsel potansiyel temalarıyla nasıl okunduğunu özetler.",
+      "url": "https://dreamalchemy.me/en/learn/symbols/baby"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Bebek sembolünü ruhsal dönüşüm, yeni başlangıçlar ve gelişen potansiyel bağlamında yorumlayan modern spiritüel içerik.",
+      "url": "https://mirrorwithin.com/dream-dictionary/healthy-baby/"
+    },
+    {
+      "title": "Sonhar com Bebê: 7 Significados Espirituais e Simbólicos",
+      "relevance": "Bebek sembolünü spiritüel yenilenme, yeni başlangıç, masumiyet ve kırılganlık temalarıyla ele alan modern bir yorum.",
+      "url": "https://almalabs.pro/sonhar-com-bebe"
+    },
+    {
+      "title": "Baby in Dreams | Dream Dictionary | Stellaxa",
+      "relevance": "Bebek rüyasını yeni başlangıç, sorumluluk ve korunma ihtiyacıyla ilişkilendiren modern, spiritüel ve dolaylı bir yorum.",
+      "url": "https://www.stellaxa.com/en/dream-dictionary/baby"
+    },
+    {
+      "title": "Dreams About Pregnancy and Babies: A Jungian Exploration",
+      "relevance": "Bebek sembolünü simyasal ve okült bağlamda 'felsefi çocuk' ile ilişkilendiren tarihsel okuma materyali.",
+      "url": "https://thisjungianlife.com/pregnancy_dreams/"
+    },
+    {
+      "title": "Full text of \"Hidden Symbolism of Alchemy and the Occult Arts\"",
+      "relevance": "Bebek sembolünü alchemical ve occult bağlamda 'philosophical child' ile ilişkilendiren tarihsel okuma materyali.",
+      "url": "https://archive.org/stream/hiddensymbolismo27755gut/27755-pdf_djvu.txt"
     }
   ],
   "relatedSlugs": []

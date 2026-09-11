@@ -1,0 +1,190 @@
+{
+  "slug": "feribot",
+  "title": "feribot",
+  "shortDescription": "Rüyada feribot görmek, genellikle hayatın bir evresinden diğerine geçmeyi ve bu süreçte destek alarak ilerlemeyi simgeler. Sakin su huzurlu bir geçişi, dalgalı su ise belirsizlik ve duygusal çalkantıyı anlatabilir.",
+  "positiveAssociations": [
+    "Tehlikeyi güvenle atlatma",
+    "İki kıyı arasında korunaklı geçiş",
+    "Topluluk halinde huzurlu bir yolculuk",
+    "Yeni bir yaşam evresine adım atma",
+    "Destekli ve rehberli ilerleme"
+  ],
+  "challengingAssociations": [
+    "Karar aşamasında yaşanan belirsizlik",
+    "Kendi iradesinden ziyade bir akışa bağımlı hissetme",
+    "Değişim sürecinin getirdiği içsel sarsıntı",
+    "İki durum arasında arafta kalma hissi"
+  ],
+  "contextDependentAssociations": [
+    "Feribotun hareket ettiği suyun sakin ya da dalgalı olması",
+    "Yolculuk sırasında rüya sahibinin yalnız olması veya kalabalık bir ortamda bulunması",
+    "Feribota biniş ve varış anındaki duygusal ton"
+  ],
+  "commonVariations": [
+    {
+      "title": "Sakin suda feribot yolculuğu",
+      "description": "Berrak ve dalgasız bir suda iki kıyı arasında huzurla ilerleyen bir feribotta olmak, yaşamdaki geçişlerin yumuşak ve kontrollü olacağına işaret edebilir."
+    },
+    {
+      "title": "Kalabalık bir feribotta seyahat",
+      "description": "Pek çok insanla birlikte bir feribotun güvertesinde bulunmak, ortak bir toplumsal süreci veya başkalarıyla paylaşılan hayat evrelerini yansıtabilir."
+    },
+    {
+      "title": "Kalkmak üzere olan feribota yetişmek",
+      "description": "Hareket etmek üzere olan bir feribota son anda binmeye çalışmak, kaçırılmaması gereken bir fırsat ya da zamanında verilmesi gereken kritik bir kararla ilişkilendirilebilir."
+    },
+    {
+      "title": "Dalgalı sularda sallanan feribot",
+      "description": "Fırtınalı veya dalgalı bir denizde ilerlemeye çalışan bir feribot, geçiş aşamasında yaşanan belirsizlikleri ve duygusal çalkantıları simgeleyebilir."
+    }
+  ],
+  "psychology": "Ampirik rüya psikolojisinde feribot gibi belirli bir nesne doğrudan sabit bir anlama bağlanmaz. Rüya sırasındaki duygulanımın türü, uyandıktan sonraki duygulanım düzeyini etkileyebilir; korkutucu veya sarsıntılı rüyalar ertesi gün negatif duygulanımla ilişkili olabilirken, sakin içerikler duygu düzenleme süreçleriyle uyumlu bir seyir izleyebilir. Feribotun iki kıyı arasında düzenli taşıma işlevi, geçiş temasını değerlendirmede kullanılabilecek kavramsal bir benzerlik sunar; ancak tek başına belirleyici değildir.",
+  "jungian": "Jungcu perspektifte su bilinçdışının derinliklerini ve enginliğini simgeler. Feribot ise su üzerinde düzenli bir taşıyıcı olarak, bireyin bilinç ile bilinçdışı arasındaki eşikte gerçekleşen dönüşüme aracılık eden bir imge sunar. Feribot rüyalarında suyun niteliği ve yolculuğun duygusal tonu yorumda belirleyicidir.",
+  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında su taşıtlarıyla yapılan yolculuklar, tehlikelerden korunarak selamete çıkma ve bir halden diğerine geçiş temalarıyla ele alınır. Bazı klasik derlemelerde feribot benzeri su taşıtına binmek, ilahi lütuf ve destekle zorlukların aşılacağı şeklinde aktarılmıştır; bu tür aktarımlar feribotun \"korunarak geçiş\" çağrışımını güçlendirir.",
+  "christianTraditions": "Hristiyanlık bağlamında toplu taşıma araçları ve gemi motifleri, iman yolculuğunda bireysel çabanın ötesinde ortaklığı, kilise topluluğunu ve birlikte geçiş fikrini çağrıştıran bir sembolik zeminde değerlendirilebilir. Feribotun birlikte taşıma vurgusu, bu okumayı destekler.",
+  "jewishTraditions": "Talmudik gelenekte rüyaların yorumlanma biçiminin rüyanın gidişatını etkileyebileceği vurgulanır. Feribot gibi bir geçiş aracı, rüya anlatılarında iki alan arasındaki eşiği ve yorumun yönlendirici gücünü hatırlatan tarihsel izlerle bağlantılı düşünülebilir; doğrudan \"feribot\" başlıklı klasik bir hüküm bulunmamakla birlikte gemi/tekne motifleri bu çerçevede değerlendirilebilir.",
+  "buddhistEasternApproaches": "Budist ve Doğu geleneklerindeki karşı kıyıya geçiş, sal veya tekne metaforları, samsara'dan uyanışa ve kurtuluşa giden yolu simgeler. Feribot, bu bağlamda ortak bir geçiş aracı olarak sabır, disiplinli ilerleme ve bir eşikten diğerine güvenle taşınma fikrini çağrıştırabilir; yolculuğun niteliği (sakinlik/sarsıntı) yorumda önem taşır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda feribot, iki ayrı durum arasında güvenli ve kademeli bir geçişi simgeler. Başkalarıyla birlikte yol alması veya rehberli olması, dışsal destekle ilerleme ve topluluk içinde geçirilen eşik deneyimi temalarını güçlendirir. Feribot imgesi, içsel değişim ve eşiksel alan vurgusuyla ele alınır.",
+  "comparisonTable": [
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Bilinç ile bilinçdışı arasında taşıyıcı bir eşik ve dönüşüm aracı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Rüya Geleneği",
+      "interpretation": "Tehlikelerden korunarak geçiş yapma ve ilahi lütuf.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Doğu ve Budist Yaklaşımlar",
+      "interpretation": "Karşı kıyıya ulaşma, sal/tekne metaforu ile uyanışa geçiş.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Okuma",
+      "interpretation": "İki yaşam evresi arasında güvenli eşik ve rehberli ilerleme.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı geleneklerin ve psikolojik yaklaşımların ortak paydasında, feribot imgesinin temel olarak bir 'geçiş', 'hareket' ve 'iki durum arasında taşınma' aracı olduğu fikri yer alır. Hiçbir yaklaşım feribotun tek başına sabit ve kehanet niteliğinde bir anlam taşıdığını iddia etmez; bağlam, duygulanım ve suyun niteliği yorumu belirler.",
+  "differences": "Psikolojik yaklaşımlar feribotu bireyin içsel duygu durumu ve bilinçdışı süreçleriyle ilişkilendirirken; İslami ve geleneksel okumalar korunma, ilahi rehberlik ve selamet temalarına odaklanır. Spiritüel ve Doğu yaklaşımları daha çok varoluşsal bir eşik aşma ve rehberli yolculuk dilini öne çıkarır. Yorumun doğrultusu rüya içindeki ayrıntılara bağlıdır.",
+  "inusAssessment": "Feribotun ayırt edici unsuru, bireyin tek başına yola çıkmadığını; dışsal bir taşıyıcıyla eşikten geçtiğini vurgulamasıdır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Negative dream affect is associated with next-day affect level ... - PMC",
+      "relevance": "Rüya duygusunun ertesi günkü duygu düzeyiyle ilişkisini inceleyen ampirik bulgular; feribot rüyasının duygusal tonunun uyandıktan sonraki his ile ilişkili olabileceğini gösterir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9626956/"
+    },
+    {
+      "title": "Testing affect regulation theories of dreaming - PubMed",
+      "relevance": "Korkutucu rüyalar ile ertesi sabah duygu durumu arasındaki ilişkiyi ve duygu düzenleme farklarını rapor eder; feribotun yolculuk niteliğinin duygulanımı etkileyebileceğine dair teorik destek sunar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41823699/"
+    },
+    {
+      "title": "SE 15.pdf",
+      "relevance": "Freud'un rüyalarda gemi imgesi ve taşıyıcı yorumları; feribotun psikanalitik bağlamda yakın bir taşıt motifi olarak ele alınmasına yardımcı olur.",
+      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149-169.pdf"
+    },
+    {
+      "title": "Freud The Scientific Literature of Dream-Problem Chapter 6A3",
+      "relevance": "Su ve bedensel çağrışımlar arasındaki ilişkiyi tartışan bölüm; feribotun su ile ilişkili geçiş temalarını değerlendirmede kavramsal arka plan sağlar.",
+      "url": "https://kolbefoundation.org/gbookswebsite/studentlibrary/greatbooks/freud/chap6a3.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freudyen örnekler ve gemi/su imgeleri üzerinden feribotun taşıma ve geçiş işlevi hakkında tarihsel bağlam sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "[PDF] Franz, Marie-Louise von.pdf",
+      "relevance": "Von Franz’ın suyu bilinçdışıyla ilişkilendiren açıklamaları; feribotun su üzerindeki geçiş olarak Jungcu okumasını destekleyen temel bir kaynak.",
+      "url": "http://ndl.ethernet.edu.et/bitstream/123456789/14463/1/Franz,%20Marie-Louise%20von.pdf"
+    },
+    {
+      "title": "C. G. JUNG",
+      "relevance": "Jung’un su ve bilinçdışı üzerine pasajları; feribot rüyasının psikolojik eşik ve dönüşüm aracı olarak okunabileceğini gösterir.",
+      "url": "https://ronliskey.com/docs/collected-Works-07-Analytical-Psychology-by-C-G-Jung.pdf"
+    },
+    {
+      "title": "Jungian Insights on Dreams and Death | PDF | Carl Jung - Scribd",
+      "relevance": "Von Franz’ın suyu kolektif bilinçdışının bir simgesi olarak ele aldığı pasaj, feribotun geçtiği suyun Jungcu anlam alanını destekliyor.",
+      "url": "https://www.scribd.com/document/900330711/On-Dreams-and-Death-a-Jungian-Interpretation-Traum-Und-Tod-Marie-Louise-Von-Franz-Translated-by-Emmanuel-Xipolitas-Boston-Massachusetts"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation - Attalus.org",
+      "relevance": "Antik Yunan rüya yorumlama geleneğinin (oneirokritik) çerçevesi; feribot için doğrudan bir madde olmasa da gemi/deniz ve yolculuk imgeleri tarihsel yorum zemini sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Oneirocritica'nın tarihini, kapsamını ve antik rüya yorum el kitabı olarak yerini özetler.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "[PDF] Ibn Seerin's Dictionary of Dreams - nur.nu",
+      "relevance": "Klasik İslami rüya tabirleri içinde feribot/tekne maddelerine ilişkin aktarım; feribotun 'korunarak geçiş' ve ilahi lütuf çağrışımına ilişkin geleneksel bir yakınlık sunar.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Dreams about ferryboat Islamic Interpretations Explanation",
+      "relevance": "Klasik İslami rüya tabirleri içinde feribot/tekne maddelerine ilişkin aktarım; feribotun \"korunarak geçiş\" ve ilahi lütuf çağrışımına ilişkin geleneksel bir yakınlık sunar.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=ferryboat"
+    },
+    {
+      "title": "Topical Bible: Ferry",
+      "relevance": "Feribotun taşıma ve geçiş işlevini sözlük düzeyinde tanımlayan kaynak; rüyadaki feribot imgesinin ‘bir yerden bir yere geçiş’ fikrine dayalı yorumlanmasına zemin sağlıyor.",
+      "url": "https://biblehub.com/topical/f/ferry.htm"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Talmudik rüya yorumlama geleneğinin metinsel örnekleri; rüyaların yoruma göre şekillendiğini vurgulayarak feribot rüyasının bağlama bağlı okunabileceğini destekler.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Berakhot 56",
+      "relevance": "Rüya anlatısı içinde feribotun geçtiği pasajı ve gemiyle ilişkili olay örgüsünü gösterir.",
+      "url": "https://www.myjewishlearning.com/article/berakhot-56/"
+    },
+    {
+      "title": "THE SUTTA OF THE RAFT: BUDDHISM IN IRELAND",
+      "relevance": "Budist metinlerde sal/tekne metaforu; karşı kıyıya geçiş ve uyanış temalarının feribot imgesine uygulanabilirliğini gösterir.",
+      "url": "https://victorsway.eu/buddhism/budh-sutta/raft.htm"
+    },
+    {
+      "title": "The Ferryman in Siddhartha",
+      "relevance": "Edebi bir örnek olarak feribotçu figürü; feribotun rehberlik ve başkalarını taşıma işleviyle ilişkilendirilebileceğine dair destek sağlar.",
+      "url": "https://www.shmoop.com/study-guides/siddhartha/ferryman-symbol.html"
+    },
+    {
+      "title": "On the Metaphor of the Raft in the Mah¯aparinibb¯anasutta",
+      "relevance": "Budist metinlerde okyanus (arzu) ve köprü/yol benzetmesi üzerinden geçiş metaforunu tartışan akademik çalışma.",
+      "url": "https://ir.lib.hiroshima-u.ac.jp/46455/files/20103"
+    },
+    {
+      "title": "Ferry Dream Meaning: Crossings, Choices, and the Waters Between",
+      "relevance": "Feribot rüyasını geçiş, seçimler ve iki durum arasındaki eşik olarak ele alıyor; ayrıca spiritüel bir eşik ve dönüşüm dili kuruyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/ferry"
+    },
+    {
+      "title": "Ferry Boat Dream Meaning & Interpretation - Mirror",
+      "relevance": "Feribot teknesini geçiş, yönlendirilmiş yolculuk ve yaşam evreleri arasında hareket sembolü olarak açıklıyor; eşiksel alan vurgusu yapıyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/ferry-boat/"
+    },
+    {
+      "title": "Ferry Dream Interpretation - Ferry Dream Meaning",
+      "relevance": "Feribotu değişim, bilinçdışına açılan geçiş ve ruhsal boyuta yönelme sembolü olarak yorumluyor.",
+      "url": "https://www.dreamsmain.com/ferry"
+    },
+    {
+      "title": "Spiritual Meaning of Ferry Crossing in a Dream",
+      "relevance": "Feribot geçişini ruhsal rehberlik, ortak yolculuk ve eşik deneyimi diliyle ilişkilendiriyor.",
+      "url": "https://spiritualnexus.net/spiritual-meaning-of-ferry-crossing-in-a-dream/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

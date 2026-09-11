@@ -1,117 +1,193 @@
 {
   "slug": "agac",
-  "title": "ağaç",
-  "shortDescription": "Rüyada ağaç görmek köklülük, süreklilik, aile bağları ve gelişme temalarını çağrıştırır. Gür ve meyveli bir ağaç bereketi ve faydayı; kesilmiş ya da kurumuş bir ağaç ise kayıp, kopuş veya verimsizliği öne çıkarabilir.",
+  "title": "Ağaç",
+  "shortDescription": "Rüyada ağaç görmek genellikle köklenme, büyüme ve meyve verme gibi ağaç özelliklerine atıf yapar; aynı zamanda rüyanın duygusal bağlamına göre değişen gelişimsel ve ilişki odaklı çağrışımlar taşır.",
   "positiveAssociations": [
-    "Köklülük / kalıcılık",
-    "Bereket ve fayda sağlama",
-    "Uyanış / aydınlanma",
-    "Bilgi ve ruhsal gelişim",
-    "Aile/soy ve nesillilik"
+    "Yaşamın sürekliliği ve köklenme",
+    "Bereket, rızık ve verimlilik (meyve verme niteliğiyle bağlantılı)",
+    "Ruhsal ve kişisel gelişim (içsel olgunlaşma)",
+    "İstikrar ve dayanıklılık (kökler aracılığıyla)",
+    "Aile, soy ve süreklilik temaları"
   ],
   "challengingAssociations": [
-    "Kesilme veya devrilme (kaybı, bağların kopmasını çağrıştırabilir)",
-    "Kuru veya hastalıklı ağaç (yorulma, düşüş, verimsizlik çağrışımları)",
-    "Bilinmeyen türde ağaçlar (belirsizlik, tanımlanamayan durumlar)",
-    "Ağacın zarar görmesiyle ilişkilendirilen toplumsal veya kişisel kayıplar"
+    "Ruhsal kuruluk veya enerji zayıflığı",
+    "Akışın tıkanması, yenilenme eksikliği",
+    "Endişe ve sıkıntılı haller (tanınmayan veya hastalıklı ağaçlarla ilişkilendirilebilir)",
+    "Gecikme veya ilerleme eksikliği (yavaş büyüyen veya kuruyan ağaçlara atfedilebilir)"
   ],
   "contextDependentAssociations": [
-    "Ağacın meyve verip vermemesi ve meyvenin niteliği",
-    "Ağaç türü (ör. hurma, zeytin gibi kültürel atıflar)",
-    "Rüyadaki kişinin ağaçla kurduğu etkileşim (korumak, kesmek, tırmanmak vb.)"
+    "Ağacın türü, meyve verip vermemesi ve yaprak durumu",
+    "Ağaçla yapılan eylemler: dikme, filizlenme, kesilme, altında oturma",
+    "Rüyanın duygu tonu ve rüya görenin uyanık yaşamındaki bağlam"
   ],
   "commonVariations": [
     {
-      "title": "Kısa rüya senaryosu — meyve veren ağaç",
-      "description": "Gür yapraklı, meyve veren bir ağaç: geleneksel bağlamlarda bolluk, yarar ve destek sağlayan bir duruma işaret edebilir."
+      "title": "Meyve Veren Büyük Bir Ağaç Görmek",
+      "description": "Gelişen, meyve vermiş bir ağaç genellikle yaşamın belirli alanlarında verimliliği, aileye veya projelere dönen getiriyi ve uğraşların olumlu sonuçlarını simgeler."
     },
     {
-      "title": "Kısa rüya senaryosu — kesilen ağaç",
-      "description": "Bir ağacın kesildiğini görmek: klasik yorumlarda bağlantıların kopması, ani kayıplar veya toplumsal rollerle ilgili endişelerle ilişkilendirilebilir."
+      "title": "Yapraklarını Döken Ağaç Görmek",
+      "description": "Mevsimsel yaprak dökümüyle görülen ağaç, bağlama göre geçici kayıpları, rutin değişiklikleri veya bir dönemin sonlanmasını, gerektiğinde ise üzüntü ya da arınma sürecini işaret edebilir."
     },
     {
-      "title": "Kısa rüya senaryosu — türü bilinmeyen ağaç",
-      "description": "Türü tanınmayan veya garip bir ağaç belirmesi: hayatın yeni, henüz tanımlanmamış yönleri veya kimlik ve statüyle ilgili belirsizlikleri çağrıştırabilir."
+      "title": "Kurumuş veya Zayıf Bir Ağaç Görmek",
+      "description": "Kuruyan, solgun veya gövdesi zayıf ağaçlar enerji tıkanıklığını, beslenme veya ilgi eksikliğini ya da devam eden süreçlerde duraklamayı simgeleyebilir."
     },
     {
-      "title": "Kısa rüya senaryosu — kutsal/anıtsal ağaç",
-      "description": "Kutsal sayılan, anıtsal bir ağaç veya hac mekânındaki ağaç: bireyin manevi yönelimi, hatırlama veya ritüel bağlamlarını vurgulayabilir."
+      "title": "Bir ağacın ekildiğini veya filizlendiğini görmek",
+      "description": "Yeni bir fidanın ya da filizin ortaya çıkması ya da ağacın ekilmesi, yeni başlangıçları, aile bağlarının güçlenmesini veya uzun vadeli yatırımların (ör. proje ya da ilişki) başlamasını ve yerleşmesini işaret edebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "Klasik İslami rüya geleneğinde ağaç sembolü, kişilere, dinî yönelimlere, servete veya toplumsal konuma işaret edebilecek şekilde okunur. Belirli ağaç türleri (ör. hurma, zeytin) kültürel olarak farklı kimlik ve statülerle eşleştirilebilir; meyve vermesi yarar sağlayan bir duruma, kesilmesi veya düşmesi ise zarar ya da kayıp biçimlerine bağlanabilir. Bu okumalar geleneksel yorum pratiklerine dayanır ve ampirik psikolojik kanıt anlamına gelmez.",
-  "christianTraditions": "Hristiyan kutsal metin geleneklerinde ağaçlar yaşam, bilgelik ve kurtuluş imajlarıyla ilişkilendirilir; bazen çarmıh/haç sembolizmiyle yan yana anılır. Bu, rüya yorumu değil genel dinsel sembolizmdir ve kültürel bağlam içinde değerlendirilmelidir.",
-  "jewishTraditions": "Yahudi kutsal metin ve rabbanî yorumlarda ağaç, insanın meyve vermesi, kök salması ve ahlaki karakterle benzeştirilen bir semboldür. Talmudik benzetmelerde ağaç kesilmesi ölümü çağrıştıran metaforlar içinde yer alır; bunlar rüya yorumu değil kültürel‑etik sembolizmdir.",
-  "buddhistEasternApproaches": "Budist gelenekte, özellikle Bodhi ağacı bağlamında, ağaç uyanış ve aydınlanma imgeleriyle güçlü bir şekilde ilişkilendirilir. Budist metin ve uygulamalarda ağaçlar sağlık, bilgi ve kutsal mekân metaforu olarak yer alır; bu dinsel sembolizmin rüya bağlamına aktarımı dikkatle nitelendirilmelidir.",
-  "spiritualApproaches": "Modern spiritüel yaklaşımlarda ağaç, bağlantı, şifa, süreklilik ve gök-yer eksenini birleştiren bir metafor olarak kullanılır. Bu çağdaş yorumlar kültürel ve dinsel geleneklerden esinlenmiş olup akademik kanıt düzeyinde değerlendirilmemelidir.",
+  "psychology": "Rüya içerik analizleri, rüyalardaki ağaç imgelerinin büyük ölçüde gündüz yaşantısı, yakın olaylar ve duygusal durumla ilişkili olduğunu gösterir; bu nedenle ağaç sembolü bağlama göre farklı kişisel anlamlar taşıyabilir. Psikanalitik yaklaşımlar ağaç gövdesi gibi uzun nesnelerin fallik çağrışımlar taşıyabileceğini öne sürerken, aynı zamanda ağaçların rüyada bireyin niteliklerinin aktarıldığı nesneler olarak işlev gördüğü de vurgulanır.",
+  "jungian": "Jungcu çerçevede ağaç, kolektif bilinçdışında sıkça karşılaşılan arketipsel bir imgedir; kök-gövde-taç yapısı benliğin farklı katmanlarını ve bireyleşme sürecini çağrıştırır. Ağaç, bilinç ile bilinçdışı arasında bağlantı kuran bir eksen olarak okunabilir; yorum ise rüyanın bağlamına göre yapılmalıdır.",
+  "islamicTradition": "Geleneksel İslami rüya tabiri kaynaklarında (ör. İmam Nablusî aktarımları) ağaçlar ayrıntılı biçimde sınıflandırılır. Meyveli, yaprak döken veya dökmeyen, tanınan veya tanınmayan ağaç gibi ayrımlar farklı anlamlar taşır. Bu ifadeler gelenek temelli tabir geleneğine dayandığı için, bağlam ve ayrıntılar yorumda belirleyicidir.",
+  "christianTraditions": "Hristiyan sembolik okumalarında ağaçlar genellikle yaşam, yenilenme, doğruluk ve Tanrı'dan gelen lütufla köklenme temalarıyla ilişkilendirilir; rüyada ağaç, iman hayatının durumu veya ruhsal beslenme ekseninde okunabilir.",
+  "jewishTraditions": "Yahudi rüya geleneği bağlamında (Berakhot hattı ve Yahudi sembolizmi) ağaç imgeleri yaşam, bilgi, soy ve manevi köklenme çağrışımlarıyla ele alınabilir; rüyanın yorumu metinler ve yorumlayıcının yaklaşımına göre farklılık gösterir.",
+  "buddhistEasternApproaches": "Budist sembolizminde ağaç, aydınlanma (ör. Bodhi ağacı), bilgelik meyveleri ve neden-sonuç ilişkileri bağlamında okunur; köklerin zarar görmemesi halinde yeniden filizlenme metaforu süreklilik ve olgunlaşma temalarını öne çıkarır.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel okumalarda ağaç, madde ile ruh arasında bağlantı kuran bir yapı; kökleriyle yerel bağları, dallarıyla ruhsal yönelimleri gösterir. Kurumuş veya enerjisi zayıf görünen ağaçlar akışın tıkanması ve yenilenme gereksinimini ima edebilir.",
   "comparisonTable": [
     {
+      "approach": "Psikanaliz",
+      "interpretation": "Fallik çağrışımlar veya kişisel niteliklerin nesneye aktarımı; bağlam belirleyicidir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Arketipsel benlik, kök-gövde-taç yapısıyla bireyleşme ve bilinç-bilinçdışı bağlantısı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
       "approach": "İslami Gelenek",
-      "interpretation": "Kişi, dinî durum, servet ve toplumsal konumla bağlantılı klasik tabirler.",
+      "interpretation": "Geleneksel tabire göre insan tipleri, rızık, meyve verme niteliği ve toplumsal/dini bağlamla ilişkili okumalar.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan Sembolizmi",
-      "interpretation": "Yaşam, bilgelik ve kurtuluş temaları bağlamında kutsal metin temelli sembolik okumalar.",
+      "approach": "Hristiyan Gelenek",
+      "interpretation": "Yaşam, doğruluk, ruhsal büyüme ve ilahi lütuf bağlamında sembolik okuma.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Yahudi Rabbanî Gelenek",
-      "interpretation": "İnsanın kök salması ve meyve vermesi üzerinden yapılan etik ve karakter benzetmeleri.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Budist ve Doğu Yaklaşımları",
-      "interpretation": "Bodhi ve kutsal ağaç bağlamında uyanış, bilgi ve hac mekânı metaforları.",
-      "evidenceLevel": "spiritual"
-    },
-    {
-      "approach": "Modern Spiritüel Yaklaşım",
-      "interpretation": "Ağaçları şifa, bağlantı ve ruhsal bütünleşme metaforu olarak kullanan çağdaş yorumlar.",
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Köklenme, enerji dengesi ve ruhsal olgunlaşma ekseninde metaforik yorumlar.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Çeşitli geleneklerde ağaç, gövdesi, kökleri ve dalları aracılığıyla yaşam döngüsünü somutlaştırır: kökler köklülüğü, gövde sürekliliği ve dayanıklılığı, dallar ise yayılma, nesillilik ve göğe dönük yönelimi simgeler. Bu fiziksel öğeler, ağaç sembolünü soyut temalardan ayırıp somut imgelerle ilişkilendirir; rüyada hangi parçanın öne çıktığı, yorumda önem taşır.",
-  "differences": "Gelenekler arasındaki farklar sembolün hangi yönüne vurgu yapıldığıyla ilgilidir. İslami yorumlar daha çok bireysel konum ve toplumsal statü okumalarına eğilirken; Hristiyan ve Yahudi metinlerde teolojik ve etik benzetmeler öne çıkar. Budist bağlamlarda ise ağaç daha çok uyanış ve kutsallık ağırlıklı yorumlanır. Bu farklılıklar rüyanın yorumu sırasında açıkça belirtilmelidir.",
-  "inusAssessment": "Ağaç sembolü tek bir anlam taşımaz; rüyanın bağlamı, ağacın fiziksel durumu, türü ve rüya sahibinin kültürel çerçevesi bir arada değerlendirilmelidir. INUS yaklaşımı, sembolün tarihsel ve geleneksel zenginliğini korurken, rüya anlamlarını deterministik hükümlere dönüştürmemeyi önerir.",
-  "faq": [],
+  "commonGround": "Çoğu yaklaşımda ağaç imgeleri büyüme, köklenme, verimlilik ve süreçsel dönüşüm temaları etrafında birleşir; yine de kesin bir tek-anlamdan kaçınılır ve bağlam belirleyicidir.",
+  "differences": "Yaklaşımlar arasındaki fark öncelikle odak noktasındadır: Psikanaliz daha çok dürtüsellik ve kişisel çağrışımlara odaklanır; Jungcu analiz arketipsel bütünleşmeyi vurgular; geleneksel dinî okumalar toplumsal/ahlaki bağlam ve bereket temalarına eğilir; spiritüel yaklaşımlar ise enerji akışı ve iç merkez konusunu öne çıkarır.",
+  "inusAssessment": "Rüyada ağaç görmek tek bir belirleyici nedene indirgenemez; daha çok rüya sahibinin iç dünyasındaki köklenme, gelişme veya duraksama süreçlerinin bir yansımasıdır. Ağacın türü, meyve verip vermemesi, yaprak durumu ve rüyada gerçekleşen eylemler (ör. ekilme/filizlenme, kesilme, altında oturma) yorumun yönünü belirleyen kritik unsurlardır. Her durumda rüyanın duygu tonu ve rüya sahibinin gündelik bağlamı birlikte değerlendirilmelidir.",
+  "faq": [
+    {
+      "question": "Rüyada meyveli bir ağaç görmek ne anlama gelir?",
+      "answer": "Meyveli ağaçlar geleneksel ve psikolojik okumalarda genellikle verimlilik, bereket ve emeklerin olumlu sonuçlanmasıyla ilişkilendirilir; bağlam önemlidir."
+    },
+    {
+      "question": "Kurumuş bir ağaç görmek olumsuz bir duruma mı işaret eder?",
+      "answer": "Kurumuş ağaçlar mutlak olumsuzluktan ziyade enerji eksikliği, yenilenme gereksinimi veya sürecin duraklamasını simgeleyebilir; ayrıntılar bağlamı belirler."
+    },
+    {
+      "question": "Rüyadaki ağacın türü yorumu değiştirir mi?",
+      "answer": "Evet. Geleneksel rüya yorumlama geleneği (oneirokritik olarak da adlandırılır) ve psikolojik yaklaşımlar, ağacın türü, meyve niteliği ve yaprak durumunun yorum üzerinde belirleyici olduğunu vurgular."
+    }
+  ],
   "sources": [
     {
-      "title": "Trees: Bridges Between Past, Present, and Future",
-      "relevance": "Ağacın yaşam ve büyüme çağrışımlarına dair popüler kültürel bir özet; sembolü genel kültürel bağlamda ele alır.",
-      "url": "https://gardens.si.edu/learn/blog/trees-bridges-between-past-present-and-future/"
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Rüya içerik analizinin kategori ve bağlam temelli yaklaşımını açıklayarak ağaç imgelerinin kişisel gündelik yaşantıyla ilişkilendirilmesine zemin sağlar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
     },
     {
-      "title": "Tree Islamic Interpretations & Meanings",
-      "relevance": "Klasik İslami rüya tabirleri bağlamında ağaç sembolünün kişi, din, kadın, servet ve toplumsal statü ile ilişkilendirildiğini gösteren çevrimiçi bir kaynak.",
-      "url": "https://www.myislamicdream.com/tree.html"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un metinleri, rüyalarda uzun nesnelerin fallik çağrışımlar taşıyabileceği ve sembolik çözümlemelerin bağlama bağlı olması gerektiği görüşünü destekler.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "Trees Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya geleneğinde ağaç türleri ve görünüşlerinin farklı çağrışımlar taşıdığına dair örneklemeler sunan çevrimiçi içerik.",
-      "url": "https://www.myislamicdream.com/trees.html"
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Ağaç gövdesi ve benzeri uzun nesnelerin psikanalitik çerçevedeki cinsel çağrışımlarına dair doğrudan bölüm.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
     },
     {
-      "title": "'He passed away because of cutting down a fig tree': The similarity ...",
-      "relevance": "Yahudi geleneklerinde insan‑ağaç benzetmeleri ve Talmudik etik çerçeveler üzerine akademik bir tartışma; rüya yorumu değil kültürel sembolizm için kullanıldı.",
-      "url": "https://hts.org.za/index.php/hts/article/view/5998/15366"
+      "title": "preview-9780429898730_A35081139.pdf",
+      "relevance": "Psikanalitik literatürde ağaç imgelerinin kişisel niteliklerin aktarımı bağlamında ele alınışına dair pasajlar içerir.",
+      "url": "https://api.pageplace.de/preview/DT0400.9780429898730_A35081139/preview-9780429898730_A35081139.pdf"
+    },
+    {
+      "title": "Collected Works of C.G. Jung | The First Complete English Edition of t",
+      "relevance": "Jung'un eserleri, ağaç sembolünün arketipsel konumunu ve benlik-bireyleşme ilişkisini incelemek için temel başvuru metinlerini içerir.",
+      "url": "https://www.taylorfrancis.com/books/edit/10.4324/9781032652047/collected-works-jung-jung-gerhard-adler-michael-fordham-sir-herbert-read"
+    },
+    {
+      "title": "collected_works:cw13 - About Psyche",
+      "relevance": "Jung'un ağaç imgelerini benliğin bütünlüğü ve farklı ruhsal katmanlarla ilişkilendirdiği pasajlara yönlendirir.",
+      "url": "https://www.aboutpsyche.com/collected_works/cw13"
+    },
+    {
+      "title": "Chapter 2 Aristotle on Signs in Sleep: Natural Signification ...",
+      "relevance": "Artemidorus geleneğinde ağaçların niteliğine göre (yavaş büyüme, meyve verme vb.) farklı yorumlandığını gösterir.",
+      "url": "https://brill.com/display/book/9789004506091/BP000012.xml?language=en"
+    },
+    {
+      "title": "9789004473461.pdf",
+      "relevance": "Klasik oneirokritik metinlerde ağaçların yaprak, meyve ve dallarına göre ayrıntılı yorumlandığını gösterir.",
+      "url": "https://library.oapen.org/bitstream/id/be0d003a-dffa-4f0d-957d-ee9e2354433a/9789004473461.pdf"
+    },
+    {
+      "title": "Ağaç Rüyada Görmek İmam Nablusi",
+      "relevance": "Geleneksel İslami rüya tabiri örneği; tanınan/tanınmayan ağaçlar, yaprak dökme durumu ve ağaçla ilişkili eylemlerin farklı anlamlarını aktarır.",
+      "url": "https://www.islamda.org/2015/05/agac-ruyada-gormek-imam-nablusi.html"
     },
     {
       "title": "The Spiritual Significance of Trees | The Banner",
-      "relevance": "Hristiyan metinlerde ağaçların yaşam, kurtuluş ve eskatolojik çağrışımları üzerine genel bir inceleme; doğrudan rüya tabiri değil dinsel sembolizm kaynağı.",
+      "relevance": "Hristiyan sembolik okumalarda ağaçların yaşam, yenilenme ve ilahi lütuf bağlamında nasıl değerlendirildiğine dair özet bilgiler sunar.",
       "url": "https://www.thebanner.org/features/2020/04/the-spiritual-significance-of-trees"
     },
     {
-      "title": "The Tree in Buddhist Symbolism and Art - Buddhistdoor Global",
-      "relevance": "Budist sembolizmde Bodhi ağacının uyanış ve dinsel bellekteki rolünü anlatan kültürel bir kaynak.",
-      "url": "https://www.buddhistdoor.net/features/the-tree-in-buddhist-symbolism-and-art/"
+      "title": "Topical Bible: The Symbolism of the Tree",
+      "relevance": "Kutsal Kitap içindeki ağaç figürlerinin sembolik kullanımlarını derleyerek Hristiyan okumalara kaynak sağlar.",
+      "url": "https://biblehub.com/topical/t/the_symbolism_of_the_tree.htm"
     },
     {
-      "title": "Old lessons for new science: How sacred-tree metaphors can ...",
-      "relevance": "Budist ve Hindu geleneklerinde ağaçların sağlık, bilgi ve kutsallıkla ilişkilendirilmesine dair akademik düzeyde bir inceleme.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333903/"
+      "title": "Topical Bible: Tree: Figurative",
+      "relevance": "Ağacın Kutsal Kitap'ta figüratif ve sembolik kullanımını özetleyen toplu başvuru sayfası.",
+      "url": "https://biblehub.com/topical/naves/t/tree--figurative.htm"
+    },
+    {
+      "title": "Topical Bible: Symbolism of Trees",
+      "relevance": "Ağaçların doğruluk ve ruhsal büyüme ile ilişkilendirildiği Kutsal Kitap temalarını derler.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_trees.htm"
+    },
+    {
+      "title": "Berakhot 56b | The Sefaria Library",
+      "relevance": "Yahudi rüya geleneği bağlamında rüyaların yorumlanmasına dair metin hattı ve rüya yorumunun önemine ilişkin referans.",
+      "url": "https://www.sefaria.org/Berakhot.56b"
+    },
+    {
+      "title": "Tree: Significance and symbolism",
+      "relevance": "Budist sembolizmde ağaç imgelerinin uyanış, bilgelik ve süreklilik temalarıyla ilişkilendirilişini özetler.",
+      "url": "https://www.wisdomlib.org/concept/tree"
+    },
+    {
+      "title": "The Use of Trees as Symbols in the World Religions, by Sally ...",
+      "relevance": "Budist öğretide ağaç imgesinin kök, filizlenme ve meyve verme üzerinden nedensellik ve olgunlaşma düşüncelerini nasıl taşıdığını anlatan erişilebilir metin.",
+      "url": "https://aolladadasibila.wordpress.com/2018/07/14/the-use-of-trees-as-symbols-in-the-world-religions-by-sally-liya/"
+    },
+    {
+      "title": "Tree in dreams — meaning and symbolism",
+      "relevance": "Ağaç rüyasının ezoterik okumada köklenme, enerji dengesi, iç merkez ve maddi ile manevi alanlar arasındaki bağlantı olarak yorumlanmasına dair doğrudan ifadeler içerir.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/tree"
+    },
+    {
+      "title": "The Tree of Life · Salvador Dalí: Alchimie des Philosophes",
+      "relevance": "Simyasal/ezoterik çerçevede ağaç imgesinin dönüşüm, olgunlaşma ve bilinç gelişimiyle ilişkilendirilişine dair örnekler sunar.",
+      "url": "https://library.willamette.edu/hfma/omeka/exhibits/show/salvador-dali--alchimie-des-ph/the-tree-of-life"
+    },
+    {
+      "title": "Tree in Dreams: What It Means and Why You Have Them",
+      "relevance": "Modern spiritüel yorum örneği; ağaç rüyalarının köklenme, kişisel merkez ve ruhsal yönelimle nasıl ilişkilendirildiğini açıklar.",
+      "url": "https://innr.dev/symbols/tree"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
 }

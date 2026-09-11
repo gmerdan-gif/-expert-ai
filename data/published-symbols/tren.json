@@ -1,159 +1,188 @@
 {
   "slug": "tren",
   "title": "tren",
-  "shortDescription": "Rüyada tren görmek, belirli bir yönde ilerlemeyi, hedefe istikrarlı biçimde yaklaşmayı ve başkalarıyla ortak bir yolda hareket etmeyi simgeler. Trenin hızı ve trendeki yeriniz, bu süreçte kendinizi ne kadar kontrol sahibi hissettiğinize ya da zamanlama konusunda kaygı duyup duymadığınıza işaret edebilir.",
+  "shortDescription": "Rüyalarda tren imgesi, raylar üzerinde önceden belirlenmiş bir rotada ilerleme; geçiş, ayrılış ve yolculuk temalarını çağrıştırır.",
   "positiveAssociations": [
-    "Hedefe doğru istikrarlı ilerleme",
-    "Ortak bir amaç için toplulukla birlikte hareket etme",
-    "Planlı ve zamanında gerçekleşen gelişmeler",
-    "Yeni bir yaşam yönüne geçiş"
+    "Hedefe doğru emin adımlarla ilerleme",
+    "Yaşamda yeni bir aşamaya veya rotaya geçiş",
+    "Toplulukla ve ortak bir amaçla uyum içinde hareket etme",
+    "Düzenli, akıcı ve zamanında işleyen süreçler"
   ],
   "challengingAssociations": [
-    "Sabit rayların dışına çıkma korkusu veya raydan çıkma tehlikesi",
-    "Fırsatları veya zamanlamayı kaçırma kaygısı",
-    "Kontrolün dışında bir rotaya bağımlı olma hissi",
-    "Kolektif kalıpların ve toplumsal normların baskısı"
+    "Ayrılık korkusu veya sevdiklerinden kopma kaygısı",
+    "Raydan çıkma, kontrolü kaybetme veya yönünü bulamama",
+    "Tren kaçırma hissinin getirdiği başarısızlık veya geç kalma stresi",
+    "Acelecilik ve dikkatsizlik; çevredeki önemli ayrıntıların gözden kaçırılabileceğine dair uyarı."
   ],
   "contextDependentAssociations": [
-    "Trenin hızı ve hareket yönü",
-    "Rüya sahibinin trende yolcu, makinist ya da dışarıdan gözlemci olması",
-    "Tünel, ray, istasyon gibi yan imgelerin varlığı"
+    "Ev ortamında hatırlanan tren rüyaları, laboratuvar koşullarında kaydedilenlere göre genellikle daha yoğun duygulara ve daha olumsuz bir tona sahiptir.",
+    "Raylar üzerinde sorunsuz ilerleyen bir tren, yaşamdaki düzeni simgeler. Buna karşılık bozulmuş veya kaza yapmış bir tren, geçici engelleri ve tartışmaları işaret edebilir.",
+    "Ayrılış ve seyahat temaları, geçmişte yaşanan olaylar veya hastane ya da sanatoryum gibi yaşam dönüm noktaları tarafından tetiklenebilir."
   ],
   "commonVariations": [
     {
-      "title": "Raydan Çıkan Tren",
-      "description": "Sabit bir rotada ilerleyen sistemin veya ortak bir projenin kontrolden çıkmasını ve beklenmedik bir aksamayla karşılaşılmasını simgeler."
+      "title": "Trenin kaçırılması",
+      "description": "Rüya sahibinin istasyonda kalıp trenin uzaklaşmasını izlemesi, psikanalitik çerçevede ölüm korkusu veya zamanla ilgili kaygılara karşı zihinsel bir teselli ve içsel savunma mekanizması olarak yorumlanır."
     },
     {
-      "title": "Kaçırılan Tren",
-      "description": "Zamanlama, planlar veya önemli yaşam fırsatları karşısında geç kalındığına dair duyulan içsel kaygıyı ve kaçan bir şansı yansıtır."
+      "title": "Raylar üzerinde hızla ilerleyen tren",
+      "description": "Önceden çizilmiş bir rota üzerinde durmaksızın yol alan bir trenin görülmesi; yaşamdaki kolektif akışı, ilahi zamanlamayı veya ruhsal bir yolda hızlanma hissini yansıtır."
     },
     {
-      "title": "Tünele Giren Tren",
-      "description": "Bilinmezlik, karanlık bir geçiş dönemi ve derin değişim süreçleriyle birlikte psikanalitik bağlamda cinsel çağrışımlı, girişken bir imgeyi temsil eder."
+      "title": "Trenin bozulması veya yolda kalması",
+      "description": "İlerleyişin kesintiye uğraması ve trenin raylar üzerinde durması; çağdaş yorumlarda hafif süreli aksaklıkları, işlerin seyrindeki duraksamaları veya günlük tartışmaları işaret edebilir."
     },
     {
-      "title": "Hızlı İlerleyen Tren",
-      "description": "Hayattaki değişimlerin hızlandığını, kontrolün zorlaştığı bir döneme girildiğini veya hedeflere doğru güçlü bir ivme yakalandığını gösterir."
+      "title": "Demiryolu yolculuğu ve ayrılık",
+      "description": "Trenden inme veya trene binme anında yaşanan vedalaşmalar; bireyin hayatındaki önemli bir ayrılış, geçiş süreci veya yeni bir yaşam evresine adım atma tecrübesiyle bağdaştırılır."
     }
   ],
-  "psychology": "Tren, ampirik psikoloji literatüründe doğrudan standart bir test veya ölçüm nesnesi olmaktan ziyade, modern yaşamın ritmi, yönü ve kontrol hissi üzerine kurulan teorik ve psikanalitik tartışmalarda ele alınır. Psikanalitik gelenekte Freud'a atfedilen yorumlarda hareket içeren düşler ve özellikle tünele giren tren imgesi fallik sembolizm ve cinsel çağrışımlarla ilişkilendirilmiştir. Bu yaklaşımlar ampirik veriden ziyade teorik psikanalitik çerçeveye dayanır.",
-  "jungian": "Jungçu analitik psikolojide tren, bireyleşme sürecini ve kolektif bilinç tarafından biçimlenen toplu bir yönelimi simgeler. Sabit raylar, kolektif bilincin ve toplumsal normların bireyin hayatına koyduğu sınırları ve önceden çizilmiş yolları temsil eder. Tren yolculuğu, bireyin kendi içsel merkezi olan Benlik yönüne doğru ilerlerken toplumsal kalıplarla nasıl etkileşime girdiğinin bir aynasıdır.",
-  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında 'tren' doğrudan yer alan bir sembol değildir; ancak modern İslami tabir yazılarında eski yolculuk ve karavan motifleri üzerinden uyarlanır. Tren yolculuğu bir hedefe ilerleme, ortak bir girişimde hareket etme veya hayat yönünde değişim olarak açıklanırken, treni kaçırmak bir fırsatı kaçırma, raydan çıkan tren ise ortak bir projede tehlike veya aksama olarak yorumlanır.",
-  "christianTraditions": "Hristiyan sembolizminde İncil'de adı geçmeyen modern bir nesne olduğu için tren, doğrudan kutsal metin temelli bir simge olmaktan ziyade modern yorum yazılarında yol, dönem, çağrı ve fırsat temaları üzerinden okunur. Treni kaçırma motifi, çağdaş uyarlamalarda bazen bir ilahi çağrıyı veya hizmet fırsatını kaçırma kaygısı olarak ele alınır.",
-  "jewishTraditions": "",
+  "psychology": "Psikolojik araştırmalar, rüya içeriklerinin duygusal yoğunluk ve bağlamla doğrudan ilişkili olduğunu göstermektedir. Özellikle ev ortamında sabah uyanırken kaydedilen rüya raporlarının, laboratuvar ortamına kıyasla daha yüksek duygu yoğunluğu ve sıklıkla olumsuz tonlar (korku, üzüntü, kaygı) barındırdığı saptanmıştır. Ulaşım araçları ve hareket imgeleri, bireyin zihnindeki yönelim, hedefe ilerleme veya engellenme hissinin birer yansıması olarak belirebilir.",
+  "jungian": "",
+  "islamicTradition": "Bazı modern çevrimiçi yorumlarda İmam Nablusî’ye atfedilen görüşlere göre tren kısa yolculuklar ve kazançla ilişkilendirilir. Tren bozulup yolda kaldığında genellikle kısa süreli rahatsızlıklara işaret eder; tren kazası ise tartışma veya şahitlikle ilişkilendirilebilir.",
+  "christianTraditions": "Çağdaş Hristiyan rüya okumalarında tren, Tanrı'nın ilerleyici hareketi, hizmette süreklilik, ruhsal büyüme, kilise birliği ve göksel hedefe yönelme metaforu olarak ele alınır. Olumsuz bağlamlarda ise dikkatsizlik, acelecilik veya ilahi rotadan sapma uyarısı taşıyabilir.",
+  "jewishTraditions": "Talmudik gelenekte rüyalar anlamlı kabul edilmekte ve değerlendirilmektedir. Tren için doğrudan antik dönem kaynaklarında bir tanım bulunmamakla birlikte, modern yorumlayıcı bir çerçevede tren, toplulukla aynı ritimde ilerlemeyi ve belirli bir güzergâha bağlı kalmayı simgeleyebilir.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yaklaşımlarda tren, ruhun yaşam yolculuğu, doğrusal kader, ilahi zamanlama ve seçilen rotanın bilincinde olma temalarıyla bağdaştırılır. Bireysel akıştan ziyade kolektif ve aşamalı bir sürece işaret eder.",
   "comparisonTable": [
     {
-      "approach": "Psikanaliz (Freudyen)",
-      "interpretation": "Tren ve tünel imgelerini hareket, cinsel sembolizm ve psişik enerji ekseninde değerlendirir.",
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Ulaşım ve hareket temalı rüyaları duygu yoğunluğu, uyku evreleri (REM/NREM) ve uyanıklık bağlamı çerçevesinde inceler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Tren kaçırma ve demiryolu yolculuklarını bastırılmış istekler, ayrılık kaygıları ve ölüm korkusuna karşı geliştirilen teselli mekanizmalarıyla ilişkilendirir.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Analitik Psikoloji (Jung)",
-      "interpretation": "Treni bireyleşme yolculuğu, rayları ise toplumsal normlar ve kolektif kalıplar olarak ele alır.",
-      "evidenceLevel": "theoretical"
-    },
-    {
-      "approach": "Modern Dini ve Kültürel Yorumlar",
-      "interpretation": "Trenin hareketini eski yolculuk ve kader motifleriyle bağdaştırarak yön, fırsat ve zamanlama temalarıyla açıklar.",
+      "approach": "İslami Aktarımlar",
+      "interpretation": "Modern aktarımlarda tren, kısa yolculuk ve kazançla ilişkilendirilir; trenin bozulup yolda kalması hafif süreli rahatsızlıklarla, tren kazası ise tartışma veya şahitlikle ilişkilendirilir.",
       "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolik Okumaları",
+      "interpretation": "Treni ruhsal hizmette ilerleme, topluluk birliği, hızlanma ve acelecilik uyarısı olarak düşündürür.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Tren imgesini ruhun yolculuğu, kader çizgisi, ilahi zamanlama ve rotaya uyum sağlama süreci olarak yorumlar.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı yaklaşımlar treni temel olarak bir hareket, yönelim ve belirli bir rota üzerinde ilerleme aracı olarak ele alır.",
-  "differences": "Psikanaliz sembolü bireysel dürtüler ve cinsellik ekseninde okurken, Jungçu yaklaşım kolektif normlar ve bireyleşme çizgisine odaklanır; dini uyarlamalar ise zamanlama, fırsat ve kader bağlamında değerlendirir.",
-  "inusAssessment": "Tren sembolü, modern çağın ürünü olması nedeniyle klasik rüya mirasından ziyade çağdaş psikolojik ve kültürel katmanlar barındırır. Sabit raylar üzerinde hareket etmesi, bireyin kendi iradesi ile toplumsal yapıların veya kaderin çizdiği sınırlar arasındaki gerilimi yansıtır. Bu nedenle tren rüyaları tek bir belirleyici sonuca indirgenemez; rüya sahibinin ray üzerindeki konumuna, trenin hızına ve kontrol duygusuna göre çok katmanlı bir inceleme gerektirir.",
+  "commonGround": "Farklı yaklaşımlar, tren imgesinin hareket, yönelim, geçiş ve önceden belirlenmiş rota fikrini ortak nokta olarak kabul eder.",
+  "differences": "Psikoloji rüyayı duygusal süreçler ve uyku koşulları bağlamında ele alırken, psikanaliz ayrılık ve bastırılmış kaygılara odaklanır. Dini ve spiritüel gelenekler ise sembolü ruhsal yolculuk, ilahi zamanlama veya yaşamın akışındaki pratik uyarılar ekseninde değerlendirir.",
+  "inusAssessment": "Tren sembolü, rüyada belirdiğinde rayların zorunlu rotası ve ilerleme akışını simgeler; ancak tek bir şablona indirgenemez.",
   "faq": [
     {
-      "question": "Rüyada tren görmek gelecekteki bir yolculuğa mı işaret eder?",
-      "answer": "Tren rüyaları genellikle fiziksel bir seyahatten ziyade hayattaki ilerleme, yön değiştirme veya belirli bir planın takibi gibi içsel süreçleri ve yaşam yolculuğunu simgeler."
+      "question": "Rüyada tren kaçırmak ne anlama gelir?",
+      "answer": "Psikanalitik çerçevede tren kaçırma rüyaları, sınav rüyalarına benzer biçimde duygusal bir yapıya sahip olabilir ve ölüm korkusu ya da ayrılık kaygısına karşı zihinsel bir teselli veya savunma biçimi olarak yorumlanabilir."
     },
     {
-      "question": "Rüyamda treni kaçırdığımı görmek ne anlama gelir?",
-      "answer": "Bu imge, genellikle uyanık yaşamda önemli bir zamanlamayı kaçırma, bir fırsatı elden kaçırma endişesini veya yaşam temposuna ayak uyduramama kaygısını yansıtır."
-    },
-    {
-      "question": "Raydan çıkan tren rüyası tehlikeye mi delalet eder?",
-      "answer": "Jungçu ve kültürel bağlamda raylar toplumsal düzeni ve kuralları simgeler; raydan çıkan tren ise planlanan bir düzenin bozulmasını, kontrolsüzlük hissiyatını veya rutinlerin dışına çıkma durumunu ifade eder."
+      "question": "Tren rüyaları sabit bir anlam taşır mı?",
+      "answer": "Hayır, tren rüyaları sabit ve tek bir anlama sahip değildir. Rüyadaki duygu yoğunluğu, trenin hareket durumu, raydan çıkıp çıkmadığı veya kaçırılıp kaçırılmadığı gibi detaylar kişisel bağlama göre farklılık gösterir."
     }
   ],
   "sources": [
     {
-      "title": "Train Dreams - Psychologist World",
-      "relevance": "Tren rüyalarına ilişkin popüler sözlük maddesi; hareket, yolculuk ve taşıdığı kolektif anlamlar üzerine örnek yorumlar içerir.",
-      "url": "https://www.psychologistworld.com/dreams/dictionary/train"
+      "title": "Dream emotions: a comparison of home dream reports with laboratory early and late REM dream reports - PubMed",
+      "relevance": "Ev ve laboratuvar koşullarında toplanan rüya raporlarında duygu yoğunluğu ve olumsuzluk farklarını gösteren çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28568911/"
     },
     {
-      "title": "Dreaming of a Train: meaning, interpretation and symbolism 2026 ...",
-      "relevance": "Tren sembolünü Jungçu çerçeve, kolektif yolculuk ve rayların temsil ettiği sınırlarla birlikte ele alır.",
-      "url": "https://signifika.com/dream/train/"
+      "title": "The Functional Role of Dreaming in Emotional Processes - PMC",
+      "relevance": "REM ve NREM uykuda rüya içeriği ile duygusal süreçlerin ilişkisini özetleyen derleme.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6428732/"
     },
     {
-      "title": "Train Dream Interpretation - Train Dream Meaning",
-      "relevance": "Treni Freudcu cinsellik ve hareket sembolizmiyle ilişkilendiren yorumlar içerir.",
-      "url": "https://www.dreamsmain.com/train"
+      "title": "The Effects of Sleep Quality on Dream and Waking Emotions",
+      "relevance": "Uyku kalitesiyle birlikte rüya ve uyanıklık duygularının raporlanmasını ele alan çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7827529/"
     },
     {
-      "title": "Train Dream Meaning & Interpretation - Mirror",
-      "relevance": "Treni sabit rota, toplumsal beklentiler ve bireyleşme çerçevesinde açıklayan kültürel ve Jungçu yorumlar sunar.",
-      "url": "https://mirrorwithin.org/dream-dictionary/train/"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyaların bastırılmış istek doyumu olduğu kuramını ve tren kaçırma rüyalarının ölüm korkusuyla ilişkili okunabileceği çerçeveyi verir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Demiryolu yolculuğu ve tren kaçırma rüyalarına ilişkin örnekleri, ayrılma ve ölüm korkusu bağlamında gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/357 - Wikisource, the free online library",
+      "relevance": "Rüya içeriğinde yolculuk ve tren benzeri hareket imgelerinin çağrışım zinciri içinde çözülmesine örnek sağlar.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/357"
+    },
+    {
+      "title": "Tren Rüyada Görmek İmam Nablusi",
+      "relevance": "Nablusî'ye atfedilen çevrimiçi bir yorum; tren için yolculuk, kazanç, hastalık ve tartışma gibi anlamlar verir.",
+      "url": "https://www.islamda.org/2015/06/tren-ruyada-gormek-imam-nablusi.html"
+    },
+    {
+      "title": "His Glory Train is Coming - The Quickened Word",
+      "relevance": "Treni Tanrı’nın güçlü ve ilerleyici hareketi olarak yorumlayan çağdaş Hristiyan rüya yorumu.",
+      "url": "https://www.thequickenedword.com/rhema/train.html"
+    },
+    {
+      "title": "Dreaming of a Train | Apostle David E. Taylor",
+      "relevance": "Tren rüyasını hizmette süreklilik, ruhsal bağlantı, ilerleme ve acelecilik gibi temalarla ele alan Hristiyan yorum.",
+      "url": "https://joshuamediaministries.org/dreams/train/"
+    },
+    {
+      "title": "Train - Interpreting Dream Symbols - David E. Taylor",
+      "relevance": "Tren sembolünü ruhsal büyüme, hizmette hızlanma ve dikkatsizlik uyarısı bağlamında yorumlayan sayfa.",
+      "url": "https://joshuamediaministries.org/dreamtrain/"
+    },
+    {
+      "title": "Dream of train | Biblical Dream Meanings | BibleStep",
+      "relevance": "Tren rüyasını yolculuk, topluluk, yön ve ilahi rehberlik temaları üzerinden düşünmeye açan Hristiyan değerlendirme.",
+      "url": "https://biblestep.com/dreams/dream-of-train"
+    },
+    {
+      "title": "Biblical Meaning of Train in Dream - Christian Faith Guide",
+      "relevance": "Trenin İncil’de yer almadığını belirterek, bazı Hristiyan yorumlarda dua, doğru yaşam, kilise birliği ve göksel hedefe ulaşma temalarını aktaran kaynak.",
+      "url": "https://christianfaithguide.com/biblical-meaning-of-train-in-dream/"
+    },
+    {
+      "title": "Sight-Seeing: Trains and the Christian life",
+      "relevance": "Treni Hristiyan yaşamı için güçlü bir metafor olarak ele alan kısa kültürel-dini değerlendirme.",
+      "url": "https://sightmagazine.com.au/sight-seeing/sight-seeing-trains-and-the-christian-life/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyalar bölümünün kapsamını ve Talmudik rüya tartışmasının yerini gösterir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Tren rüyasını doğrudan ele alan modern spiritüel yorum; ilerleme, yapı ve ruhsal yol temalarını açıkça birleştirir.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "What Does it Mean When You Dream About Trains?",
+      "relevance": "Tren rüyasını doğrudan ele alan modern spiritüel bir değerlendirme; ilerleme, yapı ve ruhsal yol temalarını açıkça ele alır.",
+      "url": "https://www.centreofexcellence.com/dreaming-about-trains/"
+    },
+    {
+      "title": "Train in dreams — meaning and symbolism",
+      "relevance": "Treni sembolik olarak ‘doğrusal kader’ ve ‘paylaşılan olay alanı’ ile ilişkilendiren ezoterik yorum.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/train"
+    },
+    {
+      "title": "Dreams About Trains: Meaning, Symbolism, and Spiritual ...",
+      "relevance": "Tren rüyasını ruhsal yolculuk, ilahi zamanlama ve yaşam yönüyle ilişkilendiren modern spiritüel açıklama.",
+      "url": "https://www.authorkennethgray.com/dreams-about-trains/"
     },
     {
       "title": "Train Dreams: Movement, Timing, and the Tracks We Choose",
-      "relevance": "Treni hareket, zamanlama, planlar ve yapısal yönelimle ilişkilendiren yorumlar içerir.",
-      "url": "https://www.dreamspoken.com/en/dream-meaning/train"
-    },
-    {
-      "title": "Train in dreams: meaning, symbolism, and what it reflects · Mira",
-      "relevance": "Treni yaşam yolculuğu, kolektif ivme ve Jungçu bireyleşme temalarıyla ilişkilendirir.",
-      "url": "https://dreamwithmira.com/symbols/train"
-    },
-    {
-      "title": "Dream of Trains (10 Reasons + Interpretations) - Practical Psychology",
-      "relevance": "Treni yaşam yolu, ilerleme ve kontrol duygusuyla ilişkilendiren modern psikoloji dili kullanan bir yorum sayfası.",
-      "url": "https://practicalpie.com/dream-of-trains/"
-    },
-    {
-      "title": "Train Dreams: Meaning & Psychological Interpretation",
-      "relevance": "Treni yön, ivme ve Jungçu bireyleşme çizgisi içinde açıklayan bir yorum kaynağıdır.",
-      "url": "https://somniscient.com/en/symbols/train"
-    },
-    {
-      "title": "What Does Dreaming About A Train Mean? Unlocking The Symbolism » Psychology Roots",
-      "relevance": "Treni yaşam yolu, kontrol ve fırsatları kaçırma gibi temalarla ilişkilendiren bir yorum metnidir.",
-      "url": "https://psychologyroots.com/what-does-dreaming-about-a-train-mean-unlocking-the-symbolism/"
-    },
-    {
-      "title": "Dream About Train: Dream Interpretation Train Guide for Every ...",
-      "relevance": "Treni yön, zamanlama ve kontrol ekseninde ele alan sembolik bir rehberdir; Jungçu atıflar da içerir.",
-      "url": "https://m-p-a.org/en/dreams/train/"
-    },
-    {
-      "title": "Dreaming of Trains - Dream Dictionary",
-      "relevance": "Treni yaşamda değişim, ilerleme ve hedefe yaklaşma temalarıyla ilişkilendiren bir yorum sayfasıdır.",
-      "url": "https://www.dreamdictionary.org/meaning/dreaming-of-trains/"
-    },
-    {
-      "title": "Dream About a Train: Meaning & Interpretation | Revalite",
-      "relevance": "Trene dair Freud ve Jung atıflarıyla birlikte cinsellik ve bireyleşme temalarını bir araya getirir.",
-      "url": "https://my.astrofame.com/dream-interpretation/dream/train/"
-    },
-    {
-      "title": "[PDF] Train as a Semantic Space in Russian Culture of the 19th-20th ...",
-      "relevance": "Trenin Rus kültüründe 19. ve 20. yüzyıllardaki semantik kullanımlarını ve ölüm/tehdit imgeleriyle bağlantılarını inceler.",
-      "url": "https://rupkatha.com/V13/n1/v13n114.pdf"
-    },
-    {
-      "title": "Rêver de train en islam : interprétation selon Ibn Sirin",
-      "relevance": "Modern İslami rüya tabiri yazısında trenin klasik kaynaklarda doğrudan bulunmadığı, buna rağmen yolculuk ve toplu hareket motifiyle ilişkilendirildiği anlatılır.",
-      "url": "https://significations-reves.fr/rever-de/train/islam/"
-    },
-    {
-      "title": "Train Dreams: Movement, Timing, and the Tracks We Choose",
-      "relevance": "Hristiyan sembolizminde trenin İncil’de adı geçmeyen modern bir nesne olarak yol, çağrı ve fırsat temalarıyla okunduğu belirtilir.",
+      "relevance": "Tren sembolünü hareket, zamanlama ve rotanın seçimi bağlamında açıklayan modern rüya yorumu.",
       "url": "https://www.dreamspoken.com/en/dream-meaning/train"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
 }

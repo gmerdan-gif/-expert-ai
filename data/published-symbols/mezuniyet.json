@@ -1,0 +1,218 @@
+{
+  "slug": "mezuniyet",
+  "title": "Mezuniyet",
+  "shortDescription": "Rüyada mezuniyet görmek, bir dönemin kapanışını ve yeni sorumluluklara geçişi simgeleyebilir. Törendeki gurur başarı hissini, eksiklik veya gecikme ise yeterlilik ve değerlendirilme kaygısını öne çıkarabilir.",
+  "positiveAssociations": [
+    "Tamamlanma",
+    "Başarı",
+    "Yeni bir aşamaya geçiş",
+    "Meşakkat sonrası rahatlama",
+    "Olgunlaşma",
+    "Geçiş ritüeli"
+  ],
+  "challengingAssociations": [
+    "Sınav ve yeterlilik kaygısı",
+    "Başarı sonrası sorumluluk baskısı",
+    "Ceza beklentisi ve suçluluk duygusu",
+    "Otorite ve değerlendirilme teması"
+  ],
+  "contextDependentAssociations": [
+    "Eşik sembolü",
+    "Çağrıya hazırlık",
+    "Sorumluluk artışı",
+    "Statü değişimi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Diplomayı alırken heyecan ve gurur hissetmek",
+      "description": "Rüyayı gören kişinin uzun süredir emek verdiği bir süreci başarıyla kapattığını ve çevresinden onay gördüğünü gösterir."
+    },
+    {
+      "title": "Tören sırasında eksik ders veya sınav olduğunu fark etmek",
+      "description": "Gerçek hayatta yeterlilik konusunda duyulan gizli kaygıları ve sorumlulukların altından kalkıp kalkamayacağına dair endişeleri yansıtır."
+    },
+    {
+      "title": "Mezuniyet törenine geç kalmak veya kıyafeti bulamamak",
+      "description": "Önemli bir geçiş aşamasında hazırlıksız yakalanma korkusunu ve toplumsal beklentiler karşısında hissedilen baskıyı sembolize eder."
+    },
+    {
+      "title": "Okuldan ayrılırken arkaya bakıp hüzünlenmek",
+      "description": "Eski bir yaşam evresinin kapanışına eşlik eden nostaljiyi ve bilinmeyene doğru adım atmanın yarattığı geçiş sancısını ifade eder."
+    }
+  ],
+  "psychology": "Ampirik rüya içerik analizleri, öğrencilik ve okul temalı rüyaların sık görüldüğünü göstermektedir. Mezuniyet sonrasında bu rüyaların sıklığı azalmakla birlikte bazı örnekler devam edebilir. Bu bulgu, eğitim ve sınav bağlamlarının bireyin psikolojik gelişiminde kalıcı eşikler oluşturabildiğine işaret eder. Ayrıca rüyalardaki duygu yoğunluğunun ev ortamı ile laboratuvar koşullarında farklılık göstermesi, mezuniyet rüyalarının kişisel kaygı ve başarı hissi arasında değişen bir duygusal yapı taşıdığını buna işaret eder.",
+  "jungian": "",
+  "islamicTradition": "Modern İslami rüya kaynaklarında eğitim sürecinin tamamlanması ve üniversiteden mezun olmak, bir işin başarıyla neticelenmesi, statü artışı, ilimde veya işte prestijli bir konuma yükselme olarak ele alınır. İlim yolculuğunun başarıyla tamamlanması ve manevi olgunlaşma temalarıyla dolaylı bir ilişki kurulabilir.",
+  "christianTraditions": "Hristiyan sembolik okuma geleneğinde mezuniyet, kutsal metinlerde doğrudan adı geçmese de bir dönemin kapanışı olarak değerlendirilir. Aynı zamanda Tanrı'nın amacına uygun bir hazırlık ve yeni bir çağrıya yanıt verme bağlamında yorumlanır. Bilgelik, ruhsal büyüme ve olgunlaşma süreçlerinin bir işareti olarak ele alınır.",
+  "jewishTraditions": "Talmudik rüya geleneğinde rüyalar yorumlandıkları bağlama göre anlam kazanır; Berakhot geleneği rüyayı olumluya çevirme uygulamalarını içerir. Yahudi eğitim ve cemaat bağlamında mezuniyet, bitişten çok yeni bir sorumluluk ve cemaat içinde yeni bir başlangıç yapma fikrini taşıyabilir.",
+  "buddhistEasternApproaches": "Budist ve Doğu geleneklerindeki yetişkinliğe geçiş veya olgunlaşma ritüelleri (upanayana gibi), bireyin bir yaşam evresini geride bırakıp yeni bir manevi ya da sosyal statüye adım atmasını simgeler. Rüyadaki mezuniyet de bu çerçevede bir aşamadan diğerine geçişi temsil eden sembolik bir eşik olarak okunabilir.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yaklaşımlarda mezuniyet, uzun bir hazırlanma döngüsünün tamamlandığını ve daha üst bir farkındalık evresine geçildiğini gösteren bir eşik sembolüdür. Emek verilen bir sürecin görünür bir ritüelle kapanmasını ve yeni bir yaşam amacının başlamasını simgeler.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Öğrencilik ve geçiş temalı rüyaların sıklığını inceler. Mezuniyet sonrasında bu rüyaların azalarak da olsa devam edebildiğini ve duygusal yoğunluk taşıdıklarını belirtir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Sınav ve derece rüyalarını yeterlilik, otorite tarafından değerlendirilme, sorumluluk taşıma ve ceza beklentisi ekseninde ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Yaklaşım",
+      "interpretation": "Eğitim sürecinin tamamlanmasını ilimde ilerleme, statü artışı ve bir işin başarıyla neticelenmesi olarak yorumlar (modern kaynaklar çerçevesinde).",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Bir dönemin kapanışı, bilgelik, olgunlaşma ve yeni bir göreve veya çağrıya hazırlanma süreci olarak değerlendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Rüyayı, yorumlandığı bağlama göre anlam kazanan bir formasyon içinde ele alır; mezuniyeti bitişten çok yeni bir sorumluluk üstlenme eşiği olarak görür.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımları",
+      "interpretation": "Geçiş ritüelleri ve olgunlaşma sembolizmi üzerinden bir yaşam evresinin kapanmasını ve yeni bir manevi aşamaya geçişi vurgular.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Bir döngünün tamamlanması, emek verilen sürecin ödüllendirilmesi ve yeni bir yaşam amacının başlaması şeklinde yorumlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler mezuniyeti ortak bir paydada görür: mevcut bir dönemin kapanışı, arkada bırakılan emeğin karşılığının alınması ve yeni bir statü veya sorumlulukla karşılaşma.",
+  "differences": "Psikanaliz mezuniyet ve sınav temalarını yetersizlik kaygısı ve otorite baskısıyla ilişkilendirirken, spiritüel ve kültürel yaklaşımlar bunu başarı, olgunlaşma ve yeni bir çağrıya hazırlık gibi daha yapıcı ve geçiş odaklı temalarla ele alır.",
+  "inusAssessment": "Mezuniyet sembolü rüyada yalnızca başarıyı anlatmakla kalmaz; aynı zamanda bireyin otorite figürleri tarafından değerlendirilme, yeterlilik sınavından geçme ve yeni sorumluluklar üstlenme kaygısını da içerir. Rüyayı yorumlarken törenin coşkusu ile son dakikada ortaya çıkan eksiklikler veya kaygı belirtilerinin birlikte değerlendirilmesi önemlidir; bu sayede rüyanın bir kutlama mı yoksa yetersizlik korkusu mu taşıdığı daha doğru belirlenir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin temel ilkelerini sunar; sembol ve tema araştırmalarında yöntemsel çerçeve sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "International Journal of Dream Research Volume 10, No. 1 (2017)",
+      "relevance": "Rüya raporlarında duygusal yoğunluğun ölçülmesi ve ev ile laboratuvar rüyaları arasındaki farklılıklara dair bulgular içerir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/34565/pdf/119430"
+    },
+    {
+      "title": "Dream emotions: a comparison of home dream reports with ...",
+      "relevance": "Ev ve laboratuvar rüyalarındaki duygusallık farklarını gösteren karşılaştırmalı çalışma; rüya duygusunun araştırma boyutu olduğunu vurgular.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jsr.12555"
+    },
+    {
+      "title": "Dream content analytic scale for measuring studies-related ...",
+      "relevance": "Öğrencilikle ilişkili rüyaların mezuniyet sonrasında azaldığını ancak tamamen kaybolmadığını bildiren içerik analizi çalışmasıdır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/110481/109146/288743"
+    },
+    {
+      "title": "The cathartic dream: Using a large language model to study a new ...",
+      "relevance": "Büyük ölçekli veriler üzerinden rüyaların duygusal dağılımına dair bulgular sunar; rüyaların tek tip duygu taşımadığını gösterir.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jsr.70001"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un sınav/bitirme rüyalarına dair gözlemleri, mezuniyet temasını yeterlilik ve değerlendirilme ekseninde anlamlandırmak için psikanalitik çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "What Does Dreaming Of Graduating Mean? - Rüya Tabirleri",
+      "relevance": "Mezuniyet hakkında genel çağrışımlar sunan modern bir rüya sitesi; mezuniyet sembolünü doğrudan klasik Jung metinleriyle doğrulamıyor.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-graduating"
+    },
+    {
+      "title": "Graduation Dream Meaning & Interpretation - Mirror",
+      "relevance": "Mezuniyet rüyasını bireysel gelişim ve olgunlaşma bağlamında yorumlayan çevrimiçi bir sayfa; doğrudan Jung'un birincil metinleriyle doğrulanmamıştır.",
+      "url": "https://mirrorwithin.org/dream-dictionary/graduation/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorumculuğunun temel metinlerinden biri; rüya yorumunun genel ilkeleri ve yaşam durumları üzerinden okuma için tarihsel bağlam sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’un yöntemini ve antik oneirokritiği açıklayan akademik çalışma; modern sembolleri tarihsel bağlama yerleştirme olanağı sunar.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Graduate Islamic Interpretations & Meanings",
+      "relevance": "Modern İslami rüya sözlüklerinden biri; mezuniyet temasını ilim yolculuğunun tamamlanması ve başarı bağlamında ele alır.",
+      "url": "https://www.myislamicdream.com/graduate.html"
+    },
+    {
+      "title": "Dream Interpretation",
+      "relevance": "Üniversite ve mezuniyet sembolünü statü yükselişi, ilimde/işte prestij kazanımı ve bir sürecin başarıyla tamamlanmasıyla ilişkilendiren modern bir İslami kaynaktır.",
+      "url": "https://www.dream-muslim.com/en/encyclopedia/University"
+    },
+    {
+      "title": "11 Spiritual Meaning of Dreaming of a Graduation | biblicaldreamz",
+      "relevance": "Mezuniyet rüyasını geçiş, çağrı ve yeni dönem temalarıyla ilişkilendiren modern Hristiyan çevrimiçi içeriğidir.",
+      "url": "https://biblicaldreamz.com/dreaming-of-a-graduation/"
+    },
+    {
+      "title": "Topical Bible: Graduation",
+      "relevance": "Hristiyan bağlamda mezuniyetin kutsal metinlerde doğrudan geçmemesine rağmen bilgelik, büyüme ve olgunlaşma temaları üzerinden yorumlandığını gösterir.",
+      "url": "https://biblehub.com/topical/g/graduation.htm"
+    },
+    {
+      "title": "Graduation and Commencement",
+      "relevance": "Mezuniyet kavramını tamamlanma ve bir sonraki düzeye geçiş diliyle ele alan Hristiyan öğretim metnidir.",
+      "url": "https://chchurches.org/graduation-and-commencement/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot bölümlerindeki rüya tartışmasını özetler; rüyaların yorumlandıkları bağlama göre anlam kazandığını ve rüyaların olumluya çevrilmesi pratiğini açıklar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Berakhot 55b–57b’deki rüya tartışmasının özetini verir; Yahudi rüya geleneğinin yorum ilkeleri hakkında bilgi sunar.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Ask the Expert: Celebrating a Graduation | My Jewish Learning",
+      "relevance": "Yahudi eğitim bağlamında mezuniyetin hem son hem de yeni bir başlangıç olarak görüldüğünü ve topluluk/sorumluluk temasına bağlandığını anlatır.",
+      "url": "https://www.myjewishlearning.com/article/ask-the-expert-celebrating-a-graduation/"
+    },
+    {
+      "title": "Upanayana - Tibetan Buddhist Encyclopedia",
+      "relevance": "Hindu ve Budist bağlamda upanayana/yajñopavītamın olgunlaşma ve geçiş sembolizmini açıklar; mezuniyetin eşik sembolizmiyle ilişkilendirilmesine yardımcı olur.",
+      "url": "https://tibetanbuddhistencyclopedia.com/en/index.php/Upanayana"
+    },
+    {
+      "title": "Coming of age ceremony: Significance and symbolism",
+      "relevance": "Tibet Budizmi’nde yetişkinliğe geçiş töreninin anlamını ve bir eşik sembolü olarak işlevini tartışır.",
+      "url": "https://www.wisdomlib.org/concept/coming-of-age-ceremony"
+    },
+    {
+      "title": "Rites of passage: Significance and symbolism",
+      "relevance": "Budizm’de geçiş ritüellerinin yaşam evreleri ve manevi yol açısından sembolik anlamını özetler.",
+      "url": "https://www.wisdomlib.org/concept/rites-of-passage"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist yaklaşımların rüyaları geçicilik ve işaret olarak ele alış biçimini anlatır; eşik sembollerine yorum zemini sağlar.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Dream About Graduating or Finishing School",
+      "relevance": "Modern spiritüel içerikte mezuniyet rüyasını tamamlanma, yeni başlangıçlar ve yaşam geçişi olarak yorumlayan bir kaynaktır.",
+      "url": "https://spiritsofdreams.com/articles/dream-about-graduating"
+    },
+    {
+      "title": "Dream Dictionary: M",
+      "relevance": "Mezuniyet rüyasını başarı, geçiş ve yeni bir evreye hazırlık olarak ele alan modern rüya tabiri içeriğidir.",
+      "url": "https://dreaminterpreter.ai/dream-dictionary/m"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "buddhist-eastern"
+  ]
+}

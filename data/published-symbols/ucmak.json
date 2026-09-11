@@ -1,102 +1,215 @@
 {
   "slug": "ucmak",
   "title": "uçmak",
-  "shortDescription": "Rüyada uçmak; özgürleşme, sınırları aşma ve olaylara daha geniş açıdan bakma isteğiyle ilişkilendirilebilir. Uçuşun huzurlu ya da kontrolsüz olması, ferahlama ile kaçma veya denge ihtiyacı arasındaki farkı belirleyebilir.",
+  "shortDescription": "Rüyada uçmak, özgürleşme isteği, sınırları aşma, yeni bir bakış açısı kazanma ve hayatınızda bir geçiş yaşama temalarıyla ilişkilendirilebilir. Rahat ve kontrollü uçmak hafifleme ve özgüveni öne çıkarırken, yönünü kaybetmek veya düşmekten korkmak kontrol kaybı, gerçekçi olmayan beklentiler ya da sorumluluklardan uzaklaşma hissini yansıtabilir.",
   "positiveAssociations": [
-    "Özgürlük ve sınırların aşılması",
-    "Perspektif genişlemesi ve rahatlama",
-    "Durum değişikliği ve ferahlama"
+    "Kısıtlayıcı durumlardan veya kaygılardan geçici bir kopuş; rahatlama ve içsel hafiflik hissi",
+    "Yukarıdan bakış sayesinde olaylara mesafe koyma ve yeni bir perspektif kazanma",
+    "Kademeli statü, rol veya konum değişimi — kanatlı veya destekli uçuşlarda dışsal destekle gelen yükseliş",
+    "Spiritüel veya meditasyonel uygulamalarda ilerlemeyi gösterebilecek, berrak ve sakin uçuş deneyimleri."
   ],
   "challengingAssociations": [
-    "Aşırı yükselme veya psikolojik dengesizlik",
-    "Mevcut durumdan kaçma isteği",
-    "Kontrol kaybı hissi"
+    "Yön veya yükseklik üzerinde kontrol kaybı; gerçek hayatta denge, sorumluluk ya da kapasite sınırlarında sorun işareti",
+    "Egonun büyümesi veya gerçekçi olmayan beklentiler, özellikle kontrolsüz ve hızla yükselme hissi varsa bu duruma işaret edebilir.",
+    "Kaçış eğilimi: sorunlardan uzaklaşma isteğinin metaforik ifadesi",
+    "Fiziksel beden duyumlarının rüyaya taşınması sonucu ortaya çıkan çarpık veya ürkütücü uçuş deneyimleri"
   ],
   "contextDependentAssociations": [
-    "Kanatlı veya kanatsız uçma biçimleri",
-    "Belirli yerler arasında veya bir yapıdan diğerine geçiş yapma",
-    "Uçma deneyimine eşlik eden duygusal ton"
+    "Uçuş yöntemi: kanatlı uçuş, araçla uçuş, kendi gücüyle süzülme veya kayma; her biri farklı anlamlar taşır.",
+    "Yerden yüksekliğinin düzeyi ve görülen manzara (örneğin tanıdık bir yerin üzerinden geçmek, yolculuk anlamını güçlendirir).",
+    "Rüyadaki duygusal ton — korku, özgürlük, heyecan veya kaygı",
+    "Rüya görenin kişilik eğilimleri (örn. deneyime açıklık, nevrotiklik düzeyi) ve rüya hatırlama sıklığı"
   ],
   "commonVariations": [
     {
-      "title": "Kanatsız olarak yükseklerde süzülmek",
-      "description": "Herhangi bir araç veya kanat olmaksızın gökyüzünde veya yeryüzünün üzerinde süzüldüğünü fark etmek; klasik tabirlerde mevcut durumdan farklı bir yaşama geçişle ilişkilendirilir."
+      "title": "Kendi Gücüyle Ağırlıksızca Süzülmek",
+      "description": "Hiçbir araç veya kanat kullanmadan, zihinsel bir hafifleme duygusuyla gökyüzünde süzülme; genellikle kısıtlanmışlıktan geçici kurtuluş ve yeni perspektif kazanma hissiyle eşlenir."
     },
     {
-      "title": "Bir binanın çatısından diğerine uçmak",
-      "description": "Evlerin veya yapıların damları arasında kısa mesafeli uçuşlar gerçekleştirmek; rüya sahibinin hayatındaki konum veya statü değişimlerini simgeleyebilir."
+      "title": "Kanatlı veya Uçan Varlıklarla Birlikte Uçmak",
+      "description": "Kendini kanatlı bir varlık ya da kuş olarak görmek veya onlarla birlikte uçmak; tarihsel kaynaklarda çoğunlukla destek, statü veya olumlu dönüşümlerle ilişkilendirilir."
     },
     {
-      "title": "Kontrolü kaybederek hızla yukarı yükselmek",
-      "description": "Uçuşun kontrolünün elde tutulamadığı, hızla ve durdurulamaz biçimde gökyüzüne doğru çekildiğini hissetmek; psikolojik olarak aşırı yükselme veya dengelenme ihtiyacına işaret edebilir."
+      "title": "Kontrolü Kaybederek Yükseklerde Uçmak",
+      "description": "Yön tayin edememe, hızla yükselme veya düşme korkusu içeren uçuşlar; ego şişmesi, gerçekçi olmayan planlar veya sorumluluklardan kaçış eğilimini çağrıştırabilir."
     },
     {
-      "title": "Manzaranın üzerinde özgürce yolculuk yapmak",
-      "description": "Doğal alanların veya şehirlerin üzerinde huzurlu bir şekilde uçarak yeni ufuklar keşfetmek; perspektif genişlemesi ve zihinsel rahatlama arayışını yansıtır."
+      "title": "Alçaktan Sakin Bir Şekilde Bölgeyi Gözlemlemek",
+      "description": "Tanıdık bir yerin üzerinden düşük irtifada süzülme; yaşam yolculuğunu geniş açıdan görme, olayların bağlamını yeniden değerlendirme arzusunu işaret edebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "Analitik psikolojide uçma rüyaları, bireyin bilinçdışı içeriklerle kurduğu ilişki ve individüasyon süreciyle bağlantılıdır. Jungcu yaklaşım, bu rüyaları sıklıkla aşırı yükselme (inflasyon) eğilimi veya daralmış perspektiften kurtulup psikolojik denge sağlama ihtiyacı bağlamında değerlendirir.",
-  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında 'uçmak' sembolü belirli ayrıntılara göre yorumlanır. İbn Sîrîn'e atfedilen rivayetlerde kanatsız uçmak veya bir damdan diğerine geçmek, kişinin yaşamında bir durumdan başka bir duruma geçişi, statü değişimini, yolculuğu veya ferahlamayı temsil edebilir.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
+  "psychology": "Ampirik çalışmalar, uçma rüyalarının belirli kişilik özellikleri (düşük nevrotiklik, yüksek deneyime açıklık), rüya hatırlama sıklığı ve uyanık yaşam duygulanımı ile ilişkili olduğunu göstermektedir. İçerik analizleri ayrıca \"uçmak\" ifadesinin metinlerde \"kayma\" veya \"süzülme\" ile karışabildiğini ve bu ifadelerin ayırt edilmesinin önemli olduğunu ortaya koyar. Freudcu çerçeve ise uçma/süzülme türü tipik rüyaları çocuklukta beden hareketleriyle oynanan oyunların yeniden yaşantılanmasıyla ilişkilendirir; bazı uçma imgelerini erkeklerde kaba cinsel çağrışımla ilişkilendirdiği de aktarılır. Bu nedenle uçma rüyalarının psikolojik yorumu yapılırken beden duyumları, erken dönem anıları, cinsel çağrışımlar ve mevcut yaşam bağlamı göz önünde bulundurulmalıdır. Tek bir sabit anlama indirgenemez.",
+  "jungian": "Jungcu yaklaşımlar uçmayı bilincin sınırlarının ötesine geçme, bakış açısının genişlemesi veya psikolojik yükselme simgesi olarak okur. Aynı zamanda, özellikle kontrolsüz veya abartılı uçuş imgeleri bağlamında, uçma rüyaları egonun şişmesi uyarısı taşıyabilir. Bu nedenle Jungcu yorumlar bağlamı, rüyanın duygusunu ve kişinin yaşam durumunu hesaba katarak dengeli bir biçimde yapılmalıdır.",
+  "islamicTradition": "Çevrimiçi derlemelerde İbn-i Sîrîn’e atfedilen pasajlar bulunur. Bu aktarımlarda kıble yönünde uçup başlangıç noktasına dönmenin yolculuk ve geri dönüşle ilişkili olduğu, kanatlı uçuşun ise daha hayırlı bir duruma işaret edebileceği belirtilir. Ancak bazı kaynaklar modern derlemelere dayandığı için klasik metinlerde doğrulama sınırlıdır; bu yüzden atıf yapılan yorumların kaynağına dikkat edilerek temkinli yorum yapılması önerilir.",
+  "christianTraditions": "Hristiyan sembolik okumada uçmak, Kutsal Kitap’taki kanat ve yükselme imgeleri aracılığıyla ilahi koruma, yenilenme ya da dünyevi sınırlılıkların aşılması fikriyle ilişkilendirilebilir. Bu tür okumalar modern yorumlar olup doğrudan tek bir klasik rüya tabirine indirgenemez; bağlam ve metinsel göndergeler göz önünde bulundurulmalıdır.",
+  "jewishTraditions": "Yahudi geleneğinde rüyalar yorumlanmaya açıktır; Berakhot gibi metinler rüya tartışmalarını içerir. Doğrudan 'uçmak' maddesi sınırlı olmakla birlikte, yükselme veya yer değiştirme imgeleri Talmudik ve çağdaş Yahudi yorumlarında bazen ruhsal yükseliş veya olağanüstü bilinç hallerine işaret edecek şekilde ele alınır. Bu yorumlar klasik metinlerle sıkı doğrulama gerektirir.",
+  "buddhistEasternApproaches": "Bazı Budist metinlerde gökyüzünde uçmak veya Tathāgata’yı uçarken görmek, bodhisattva pratiğinin belirli aşamaları, kavrayışta derinleşme ve kavramsal bağlılıklardan kurtulmayla ilişkilendirilir. Budist bağlamda uçuş genellikle sakin, berrak bir manevi tonla birlikte yorumlanır; tek tip bir rüya tabiri olarak düşünülmemelidir.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel okumalarda uçmak, bilinçte yükselme, gündelik gerilimlerden arınma ve daha incelmiş farkındalık düzeylerine geçiş imgesi olarak görülür. Bu okumalar genelde metaforiktir ve uçuşun niteliği ile rüyanın duygusal tonu çerçevesinde değerlendirilmelidir.",
   "comparisonTable": [
     {
       "approach": "Ampirik Psikoloji",
-      "interpretation": "Uçma deneyimini uyarılma düzeyi, kontrol hissi ve duygusal ton üzerinden inceler.",
+      "interpretation": "Uçma rüyalarının sıklığı ve niteliği kişilik özellikleri, rüya hatırlama ve uyanık yaşam duygulanımıyla ilişkilidir; 'uçmak' ifadeleri kayma/süzülme ile ayrıştırılmalıdır.",
       "evidenceLevel": "research"
     },
     {
-      "approach": "Jungcu Analiz",
-      "interpretation": "Aşırı yükselme, perspektif genişlemesi ve individüasyon bağlamında ele alır.",
+      "approach": "Freudcu Yaklaşım",
+      "interpretation": "Uçma/süzülme rüyaları çocuklukta bedensel hareket oyunlarının yeniden yaşantılanması, belleksel izler ve bazı durumlarda cinsel çağrışımlar bağlamında okunabilir.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Klasik İslami Tabir",
-      "interpretation": "Kanatlı/kanatsız olma durumuna göre yolculuk, statü değişimi ve durum geçişi olarak yorumlar.",
-      "evidenceLevel": "traditional"
-    }
-  ],
-  "commonGround": "Farklı yaklaşımlar, uçma deneyiminin kişinin mevcut sınırlarının ötesine geçme isteği, zihinsel hareketlilik ve sıradan rutinlerden uzaklaşma ihtiyacı ile bağdaştığında birleştiğini göstermektedir.",
-  "differences": "Bilimsel psikoloji uçuşu duygu ve uyarılma verileriyle ele alırken, Jungcu gelenek içsel psişik dengeye ve potansiyele odaklanır; klasik İslami tabir geleneği ise sembolün biçimsel detaylarını (kanat, yön, mekân) göz önüne alarak pratik yaşam geçişlerine bağlar.",
-  "inusAssessment": "Uçmak sembolü, ne tek tip bir psikolojik duruma ne de sabit bir kehanete indirgenebilir. Rüyadaki uçuşun hissettirdiği kontrol düzeyi, mekânsal bağlam ve eşlik eden duygular, rüya görenin bireysel iç dünyasıyla birlikte ele alınmalıdır.",
-  "faq": [
-    {
-      "question": "Uçma rüyaları her zaman özgürlük anlamına mı gelir?",
-      "answer": "Hayır. Her ne kadar yaygın olarak özgürlükle ilişkilendirilse de, rüyadaki kontrol kaybı veya aşırı yükselme hissi psikolojik dengelenme ihtiyacına veya kaçış motivasyonuna da işaret edebilir."
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilinç genişlemesi, psikolojik yükseliş ve aynı zamanda egonun şişmesi riski arasındaki denge üzerinden yorumlanır.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Kanatsız uçmak ile kanatlı uçmak arasında klasik tabirde fark var mıdır?",
-      "answer": "İslami rüya tabiri geleneklerinde uçmanın biçimi, örneğin kanatsız olması veya bir yerden başka bir yere geçilmesi, kişinin yaşamındaki durum değişiklikleri ve yolculuk motifleriyle ilişkilendirilerek farklı şekillerde yorumlanır."
+      "approach": "Tarihsel ve Kültürel (Artemidorus)",
+      "interpretation": "Artemidorus geleneğinde uçuş çoğunlukla yolculuk ve yer değiştirme ile bağdaştırılır; uçuşun biçimi (kanatlı/kanatsız, yükseklik, görülen manzara) yorumda belirleyicidir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Kutsal Kitap imgeleri üzerinden ilahi himaye, yenilenme ve dünyevi sınırlılıkların aşılması çerçevesinde değerlendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Rüyada uçma, bodhisattva pratiği ve kavramsal bağlanışların çözülmesi gibi ruhsal aşamalarla ilişkilendirilebilir; bağlam önemlidir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik Okuma",
+      "interpretation": "Bilinçte hafifleme, ruhsal yükseliş ve sınırların aşılması temaları üzerinden metaforik okumalar yapılır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşım uçma imgesini salt fiziksel hareketten ayırır. Rüyada uçuş genellikle bir geçiş, yükseliş veya durum değişikliği imgesi olarak okunur. Bununla birlikte uçuşun nasıl gerçekleştiği (kanatlı, kanatsız, araçlı), duygusal tonu ve rüya bağlamı sembolün anlamını kökten değiştirebilir.",
+  "differences": "Araştırmalar uçmayı kişilik ve empirik ilişkilere bağlarken; Freudcu okumalar bedensel anılar ve cinsel çağrışımlar üzerinde durur; Artemidorus gibi tarihsel kaynaklar ise uçuş biçimi ve manzara aracılığıyla yolculuk/statü okumalarına eğilir; dini ve ezoterik gelenekler ise genellikle ruhsal yükseliş veya ilahi koruma temalarını vurgular.",
+  "inusAssessment": "Uçmak sembolü, rüya görenin uyanık yaşamında özgürleşme arayışı ile sorumluluk ve denetim sınırları arasındaki gerilimi yansıtma olasılığı yüksek imgelerden biridir. Rüyadaki duygu, uçuşun nasıl başlatıldığı ve görülen çevre gibi unsurlar sembolün psikolojik anlamını etkiler. Bu nedenle yorumlar sıkı biçimde bağlama dayanmalıdır.",
+  "faq": [
+    {
+      "question": "Uçma rüyasının anlamını nasıl ayırt edebilirim?",
+      "answer": "Rüyadaki ayrıntılara bakın: uçuş kanatlı mı, kendi gücünüzle mi, yoksa bir araçla mı gerçekleşiyor; yükseklik, manzara ve rüya anındaki duygu (korku, rahatlama, şaşkınlık) yorumda belirleyicidir. Kişilik eğilimleri ve o dönemdeki yaşam olaylarıyla birlikte değerlendirin."
+    },
+    {
+      "question": "Uçma rüyası cinsel anlam mı taşır?",
+      "answer": "Freudcu gelenekte bazı uçma imgeleri erkeklerde kaba cinsel çağrışımla ilişkilendirilebilse de bu evrensel bir kural değildir. Cinsel anlam olasılığı, rüyanın diğer öğeleri ve rüya görenin yaşam bağlamı gözetilerek dikkatle değerlendirilmeli."
     }
   ],
   "sources": [
     {
-      "title": "Dreams About Flying: Freedom, Escape or Something Else?",
-      "relevance": "Jungcu yorumlarına dayanan popüler bir yazı; uçma rüyalarının Jungcu perspektiften yorumlarını ele alıyor.",
-      "url": "https://mattressmiracle.ca/blogs/mattress-miracle-blog/dreams-about-flying"
+      "title": "Personality Correlates of Flying Dreams - Michael Schredl, 2007",
+      "relevance": "Uçma rüyalarının kişilik özellikleri (nevrotiklik, deneyime açıklık) ve rüya hatırlama sıklığı ile ilişkisini ampirik verilerle inceleyen çalışma.",
+      "url": "https://journals.sagepub.com/doi/10.2190/IC.27.2.d"
     },
     {
-      "title": "What Does it Mean to Fly in Your Dreams? | Sleep Matters ...",
-      "relevance": "Uçma rüyalarının psikoloji, özgürlük ve problem çözme bağlamında popüler bir özetini sunan yazı.",
-      "url": "https://www.dreams.co.uk/sleep-matters-club/flying-dreams"
+      "title": "[PDF] Frequency and nature of flying dreams in a long dream series",
+      "relevance": "Uzun dönem rüya kaydı analizinde uçma rüyalarının özelliklerindeki değişkenliği, beden konumu ve uçuş başlatma biçimlerinin önemini gösteren çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/9077/2924/"
     },
     {
-      "title": "İBN SÎRÎN",
-      "relevance": "Klasik İslami rüya tabiri kapsamında \"uçmak\" sembolüne atıf yapan bir derleme; bibliyografik ayrıntılara erişim sınırlı olabilir.",
-      "url": "https://islamansiklopedisi.org.tr/ibn-sirin"
+      "title": "Studying Dream Content Using Dreambank.Net",
+      "relevance": "Rüya metinlerinde \"uçmak\", \"kayma\" ve \"süzülme\" ifadelerinin ayrıştırılmasının gerekliliğini ve yanlış pozitif riskini açıklayan içerik analizi.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2004d.html"
+    },
+    {
+      "title": "Prevalence of flying dreams",
+      "relevance": "Kısa dönem prevalans verileri sunarak uçma rüyalarının yaygınlık düzeyine dair ampirik bilgi sağlayan çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18065090/"
+    },
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Uçma ve süzülme türü tipik rüyaları çocuklukta hareket oyunlarının yeniden yaşantılanmasıyla ilişkilendirir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/256 ... - Wikisource",
+      "relevance": "Freud’un uçma ve düşme duyumlarının rüyadaki kökenini beden duyumlarından ziyade belleksel izlere dayandırdığı açıklamalara dair pasaj.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/256"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/257 - Wikisource, the free online library",
+      "relevance": "Uçma rüyalarının erkeklerde çoğu zaman kaba cinsel anlam taşıyabildiğini ve ereksiyon çağrışımıyla ilişkilendirilebildiğini aktarır.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/257"
+    },
+    {
+      "title": "The Psychology of Flying Dreams: Freedom, Control, ...",
+      "relevance": "Jungcu uçma yorumunu özgürleşme, daha geniş bilinç ve psikolojik yükseliş temalarıyla ilişkilendiren modern bir aktarım içerir.",
+      "url": "https://sleepfy.ai/dream-meaning-flying/"
+    },
+    {
+      "title": "Flying Dreams: Liberation, Ego Inflation, or Spiritual Ascent?",
+      "relevance": "Uçma rüyalarının Jungcu bağlamda hem yükseliş hem de ego şişmesi uyarısı taşıyabileceğini tartışır.",
+      "url": "https://individuate.me/articles/dream-about-flying"
+    },
+    {
+      "title": "Carl Jung: The Meaning of Dreams",
+      "relevance": "Jung’a atfedilen kısa pasajda, uçma ve düşme rüyalarının büyüklenme ve psikolojik dengeyle ilişkisi verilir.",
+      "url": "https://carljungdepthpsychologysite.blog/2022/12/18/meaning-13/"
+    },
+    {
+      "title": "1. Marie-Louise von Franz: Flying Through The Roof",
+      "relevance": "Von Franz’a atfedilen aktarım, rüya imgelerinin kişinin psikolojik durumunu sembolik biçimde anlattığı fikrini gösterir.",
+      "url": "https://carljungdepthpsychologysite.blog/2023/04/13/franz-4/"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual: Artemidorus' The ...",
+      "relevance": "Artemidorus’un 'uçuş' rüyalarına yönelik yorumlarını, uçuş biçimine göre yolculuk/statü ve uğurlu/uğursuz ayrımlarını ele alan tarihsel kaynak.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' The Interpretation of ...",
+      "relevance": "Artemidorus’un korunan tek Greko-Romen rüya kitabı bağlamında uçuş rüyalarının tarihsel yorumunu özetler.",
+      "url": "https://academic.oup.com/book/40085"
+    },
+    {
+      "title": "Rüyada Uçmak Ne Anlama Gelir?",
+      "relevance": "Rüyada uçmak için İbn-i Sîrîn’e atfedilen yorumları ve yolculuk/geri dönüş bağlantısını aktaran çevrimiçi derleme.",
+      "url": "https://www.diyadinnet.com/ruyada-9618-ucmak-gormek"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri U Harfi",
+      "relevance": "Rüyada uçmak için İbn-i Sîrîn’e atfedilen, kanatsız uçmanın hâl değişimiyle ilişkilendirildiği aktarım.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-u1-harfi.html"
     },
     {
       "title": "Topical Bible: Flying",
-      "relevance": "Hristiyan kutsal metin geleneğinde uçma/kartal/kanat imgelerinin genel sembolizmi; doğrudan rüya tabiri değil.",
+      "relevance": "Uçuşun Kutsal Kitap bağlamında ilahi müdahale, koruma ve ruhsal aşkınlıkla ilişkilendirildiğini özetler.",
       "url": "https://biblehub.com/topical/f/flying.htm"
     },
     {
-      "title": "On An Eagle's Wings - Guest Columnists - Parshah",
-      "relevance": "Yahudi kutsal metninde kartal kanatları ve ilahi taşıma/koruma sembolizmi; rüya tabiri değil, genel dinî sembolizm.",
-      "url": "https://www.chabad.org/parshah/article_cdo/aid/838549/jewish/On-An-Eagles-Wings.htm"
+      "title": "Berakhot 56b | The Sefaria Library",
+      "relevance": "Talmud'un rüya tartışmasının yer aldığı Berakhot bölümüne erişim sağlar; Yahudi rüya yorumunun klasik bağlamını doğrular.",
+      "url": "https://www.sefaria.org/Berakhot.56b"
+    },
+    {
+      "title": "In Our Dreams",
+      "relevance": "Talmudik rüya anlayışı, rüyaların anlam taşıması ve yorumlanabilirliği üzerine genel bir Yahudi çerçevesi sunar.",
+      "url": "https://bzbi.org/in-our-dreams/"
+    },
+    {
+      "title": "Dreams and Circles - Through Joseph we may transcend the world of contradictions.",
+      "relevance": "Çağdaş bir Yahudi/Kabalistik okuma içinde uçma imgesini ruhsal yükseliş ve bakış açısının genişlemesiyle ilişkilendirir.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/379372/jewish/Dreams-and-Circles.htm"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Bazı Budist metinlerde gökyüzünde uçmanın bodhisattva pratiği ve kavrayış aşamalarıyla ilişkilendirildiğini gösteren pasajları içerir.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "Flying Dreams: Meaning Across 4,000 Years",
+      "relevance": "Rüyalarda uçma temasını geniş bir sembolik tarih içinde ele alır; uçmanın yükselme, özgürlük ve ruhsal yönelimle ilişkilendirildiğini açıkça söyler.",
+      "url": "https://dreamlore.net/dreams/flying/"
+    },
+    {
+      "title": "Flying in dreams — meaning and symbolism",
+      "relevance": "Uçma sembolünü ezoterik okumada yükselmiş titreşim, genişlemiş farkındalık ve daha incelmiş bir düzlemle temas olarak tanımlar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/flying"
+    },
+    {
+      "title": "Flying dreams: freedom, ambition, and the urge to rise | EchoDream",
+      "relevance": "Uçma rüyalarını özgürlük, ambisyon, kontrol sınırları ve aşkınlık temalarıyla ilişkilendirir; rüya sembolünü modern spiritüel bir çerçevede açıklar.",
+      "url": "https://www.echodream.io/interpret/flying-dreams"
     }
   ],
   "relatedSlugs": []

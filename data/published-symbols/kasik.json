@@ -1,0 +1,219 @@
+{
+  "slug": "kasik",
+  "title": "kaşık",
+  "shortDescription": "Rüyada kaşık görmek; beslenme, bakım, destek alma-verme ve paylaşım temalarıyla ilişkilendirilebilir. Dolu kaşık rızık ve desteği, boş kaşık ise yoksunluk veya doyumsuzluk hissini öne çıkarabilir.",
+  "positiveAssociations": [
+    "Bol rızık ve bereket",
+    "Duygusal bakım ve şefkat",
+    "Paylaşım ve topluluk desteği",
+    "Beslenme ve bakım yoluyla gelen maddi-manevi kaynaklar"
+  ],
+  "challengingAssociations": [
+    "Bağımlılık ve erken bakım örüntüleri",
+    "Alınan menfaatin sınırlı veya cüzi kalması",
+    "Bencilce tutumlar sebebiyle doyum sağlayamama",
+    "Beslenme, alma veya doyum arayışında hissedilen yoksunluk veya hayal kırıklığı"
+  ],
+  "contextDependentAssociations": [
+    "Kaşığın dolu ya da boş olması",
+    "Rüya sahibinin kaşığı başkasına mı yoksa kendisine mi kullandığı",
+    "Sofradaki toplumsal paylaşım veya yalnızlık atmosferi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Masada dolu bir kaşık tutmak",
+      "description": "Dolu kaşık imgeleri geleneksel aktarımlarda rızık ve bollukla ilişkilendirilir; rüya bağlamında bu, maddi ya da duygusal desteklerin sağlanmakta olduğu veya sağlanacağına dair bir gösterge olabilir."
+    },
+    {
+      "title": "Boş bir kaşıkla yemek yemeye çalışmak",
+      "description": "Boş bir kaşık, elde edilen kazancın cüzi kalması, doyumsuzluk veya duygusal/maddi yoksunluk hissine işaret edebilir; rüyanın duygusal tonu bu yorumu belirginleştirir."
+    },
+    {
+      "title": "Bir başkasına kaşıkla yemek yedirmek",
+      "description": "Kaşık aracılığıyla etraftakilere bakım verme, şefkat aktarma ve beslenme yoluyla alma-verme dengesini kurma ihtiyacını yansıtır."
+    },
+    {
+      "title": "Kullanılamayan dev bir kaşık görmek",
+      "description": "Devasa veya kullanılamayan bir kaşık, paylaşımda güçlük, başkalarından destek alamama ya da verilen desteğin karşılık bulmaması hissini simgeleyebilir."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmalarında kaşık gibi gündelik nesneler Hall/Van de Castle türü içerik kategorileri içinde kodlanır; bu nedenle kaşığın tek başına sabit bir anlamı yoktur. Psikanalitik bağlamda (teorik olarak) kaşık, ağız yoluyla alınan bakım, erken beslenme ilişkileri ve oral temalarla bağlantılı çağrışımlar taşıyabilir; bu tür okumalar bağlama ve rüya sahibinin yaşam öyküsüne göre değerlendirilmelidir.",
+  "jungian": "Analitik psikoloji çerçevesinde kaşık, beslenme, şefkat ve içsel bakım arayışıyla ilişkilendirilebilecek bir imgedir. Von Franz’ın vurguladığı gibi gündelik nesneler sabit sözlük anlamlarına indirgenemez; kaşığın arketipsel çağrışımları ancak rüya sahibinin kişisel bağlamı ve kolektif sembolik alanla ilişkisi içinde değerlendirilmelidir.",
+  "islamicTradition": "Modern İslami aktarımlarda Nablusî’ye atfedilen görüşe göre dolu kaşık rızık ve menfaate işaret eder; boş kaşık ise az menfaate veya yokluğa işaret eder.",
+  "christianTraditions": "",
+  "jewishTraditions": "Talmudik metinler rüyaların yorumuna dair genel çerçeve sunar (ör. Berakhot 55a-b) ancak kaşığa dair doğrudan klasik bir rüya maddesi bulunmamaktadır. Çağdaş Yahudi anlatılarında ise kaşık imgesi paylaşım, topluluk ve verme-alma ilişkileri bağlamında ahlaki bir örnek olarak kullanılabilmektedir.",
+  "buddhistEasternApproaches": "Budist metinsel yaklaşımlarda kaşık bazen ritüel bir sunu veya armağan sunma aracı olarak geçer; başka bir temada ise zihnin yüzeysel temasları ve deneyimin özünü kaçırma metaforu olarak kullanılır. Bu okumalar doğrudan rüya yorumu olmaktan çok sembolik ve geleneksel çağrışımlar içerir.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel yorumlarda en sık vurgulanan eksenler beslenme, bakım, destek alma-verme dengesi ve şefkattir. Bazı modern spiritüel yorumlayıcı sentezlerde kaşık, ruhun yeni izlenimler veya deneyimler istemesiyle ilişkilendirilebilir; ancak bu tür okumalarda bağlam ve kaynakların niteliği açıkça belirtilmelidir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Nesneyi geniş içerik kategorileri içinde kodlar; tekil nesneye sabit anlam atmaz, bağlamı ve frekansı inceler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Teorik çerçevede erken bakım ve oral temalar üzerinden beslenme/bağımlılık çağrışımlarına işaret edebilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Beslenme ve içsel bakım arayışını sembolik düzeyde ele alır; anlam, kişisel ve kolektif bağlama göre belirlenir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Modern aktarılarda dolu/boş ayrımı üzerinden rızık veya az menfaat temaları görülür.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Sofra ve paylaşım simgeleri üzerinden topluluk içi verme-alma ilişkilerine işaret eder; doğrudan klasik kaşık maddesi yoktur.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Kaşığı destek alma-verme, şefkat ve içsel dönüşüm metaforlarıyla ilişkilendirir (modern sentezler).",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çalışmalar ve gelenekler arasında kaşığa ilişkin ortak çekirdek temalar beslenme, bakım, alma/verme ilişkileri ve sofra/paylaşım bağlamıdır; bu temalar bağlama göre farklı tonlar alır.",
+  "differences": "Ana ayrım ampirik psikolojinin bağlamsal analiz ve kategorilendirme yaklaşımı ile geleneksel/spiritüel yorumların daha doğrudan tematik (rızık, bolluk, beslenme/şefkat) okumaları arasında görülür.",
+  "inusAssessment": "Kaşığın durumu (dolu/boş), kaşığı kimin kullandığı, etraftaki paylaşım dinamikleri ve rüya sahibinin duygusal tonu birlikte anlam üretir. Bu nedenle yorum, maddi beklentilerden ziyade kişinin duygusal beslenme deneyimleri ve başkalarıyla kurduğu verme-alma ilişkileri üzerinden yapılmalıdır.",
+  "faq": [
+    {
+      "question": "Kaşık rüyasının rızık dışındaki temel anlamları nelerdir?",
+      "answer": "Araştırma ve geleneksel çağrışımlar kaşığı bakım, şefkat, destek alma-verme ilişkileri ve erken bakım/bağımlılık örüntüleriyle ilişkilendirir. Rüyanın duygusal tonu ve kaşığın kimin için kullanıldığı bu temaların hangi yönde işlediğini göstermede belirleyicidir."
+    },
+    {
+      "question": "Kaşık rüyalarında bağlam neden önemlidir?",
+      "answer": "Kaşığın dolu ya da boş olması, rüya içinde kimin tarafından tutulduğu, sofra ortamının paylaşımcı mı yoksa izole edici mi olduğu ve rüya sahibinin uyanık yaşamındaki bakım ilişkileri yorumun yönünü değiştirir. Ampirik içerik çalışmalarına göre nesneler bağlamdan ayrıldığında sabit bir anlam verilemez."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin ilkeleri; gündelik nesnelerin (ör. kaşık) nasıl bağlamsal olarak kodlandığına dair metodolojik zemin sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Methods and Measures for the Study of Dream Content",
+      "relevance": "Hall/Van de Castle sisteminin açıklaması; kaşığın rüya kodlamasında 'nesne' kategorisi içinde değerlendirilebileceğini gösterir.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2000a.html"
+    },
+    {
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içerik analizinde nesne ve tema sınıflandırmasının nasıl yapıldığını açıklayarak kaşığın bağlamsal yorumunun gerekliliğini destekler.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freudcu rüya kuramı; kaşığın oral/beslenme çağrışımları üzerinden teorik bir okuma olanağı sunduğunu belirtir (doğrudan kaşık maddesi içermez).",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Spoon in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Modern psikanalitik ve popüler yorumlarda kaşığın erken bakım ve beslenme çağrışımlarıyla nasıl ilişkilendirilebileceğine örnek sağlar.",
+      "url": "https://rosmertapublishing.com/dream-symbols/spoon/"
+    },
+    {
+      "title": "Freud (1900) Chapter 4 - Classics in the History of Psychology",
+      "relevance": "Rüyanın bastırılmış isteğin örtük doyumu olarak okunması çerçevesini sunar; kaşık imgelerinde bu tür temalar teorik olarak kullanılabilir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams4.htm"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Jungcu ve modern sembol yorumlarında kaşığın beslenme/şefkat ve içsel bakım çağrışımlarıyla ele alınışına dair örnekler sunar (birincil Jung metni değildir).",
+      "url": "https://mirrorwithin.org/dream-dictionary/spoon/"
+    },
+    {
+      "title": "Marie Louise von Franz - An Example of Dream Analysis",
+      "relevance": "Von Franz materyali; gündelik nesnelerin bireysel ve kolektif bağlamla ilişkilendirilerek yorumlanması gerektiğini vurgular ve kaşık gibi imgeler için bağlamsal yaklaşımı destekler.",
+      "url": "https://www.youtube.com/watch?v=TbxZLrPbL0s"
+    },
+    {
+      "title": "La voie des rêves - Marie Louise von Franz",
+      "relevance": "Von Franz’ın çalışması; rüya imgelerinin bireysel psikoloji ve kolektif sembolik alanla nasıl ilişkilendirileceğine dair çerçeve sunar.",
+      "url": "https://www.cgjung.net/mlvf/oeuvre/la_voie_des_reves.htm"
+    },
+    {
+      "title": "Love spoons: How a spoon became the Welsh symbol for love",
+      "relevance": "Welsh love spoon geleneğinin tarihçesini anlatır; kaşığın tarihsel olarak hediye, sevgi ve ilişki kurma amacı taşıyabileceğini gösterir.",
+      "url": "https://www.bbc.com/news/uk-wales-64555231"
+    },
+    {
+      "title": "History & Tradition :",
+      "relevance": "Welsh love spoon geleneği ve kaşığın oyma armağan olarak ilişki ve sevgi mesajı taşıması hakkında bilgi sağlar.",
+      "url": "https://www.welsh-lovespoons.co.uk/history"
+    },
+    {
+      "title": "History of Spoons: 4,000 Years of Romance, Wealth & Wood - Interestory",
+      "relevance": "Kaşığın tarihsel kullanımına dair geniş bir özet sunarak sembolün kültürel anlam alanını zenginleştirir.",
+      "url": "https://interestory.site/history-of-spoon-carving-facts/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri K Harfi",
+      "relevance": "Modern aktarımlarda Nablusî’ye atfedilen dolu/boş kaşık ayrımını ve bunun rızık/az menfaat okumalarını nasıl etkilediğini gösterir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
+    },
+    {
+      "title": "Rüyada Kaşık Görmek Ne Anlama Gelir?",
+      "relevance": "Kaşık sembolünün modern çevrim içi aktarımlarında rızık ve menfaat ekseninde nasıl yorumlandığına dair örnekler sunar.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-kasik-gormek-ne-anlama-gelir-25529"
+    },
+    {
+      "title": "Nablusi Rüya Tabirleri – Sayfa 2 – Bilmesek olmaz – Nedir? Nasıl yapılır? Ne demektir?",
+      "relevance": "Dolu/boş kaşık temasını rızık ile cüzi menfaat arasındaki zıtlık bağlamında ele alır; modern internet aktarımlarına örnek teşkil eder.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/nablusi-ruya-tabirleri/page/2/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Yahudi rüya hermenötiğinin genel çerçevesini sunar; kaşığa dair doğrudan klasik madde olmamakla birlikte rüya yorumunun yöntemsel zeminini verir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Pick Your Table!",
+      "relevance": "Chabad anlatısında kaşık imgesinin paylaşım, doyum ve topluluk ilişkileri bağlamında nasıl kullanıldığını gösterir.",
+      "url": "https://www.chabad.org/kids/article_cdo/aid/825509/jewish/Pick-Your-Table.htm"
+    },
+    {
+      "title": "Spoon: Significance and symbolism",
+      "relevance": "Budist bağlamda kaşığın sembolik kullanımlarına dair derlemeler; ritüel ve metaforik çağrışımlar içerir.",
+      "url": "https://www.wisdomlib.org/concept/spoon"
+    },
+    {
+      "title": "Significance of Sacrificial spoon",
+      "relevance": "Budist ritüel kaşık kullanımını ve bunun özveri ve kurban verme temalarıyla ilişkisini ele alan bir kaynak örneğidir.",
+      "url": "https://www.wisdomlib.org/concept/sacrificial-spoon"
+    },
+    {
+      "title": "Significance of Nose-spoon",
+      "relevance": "Theravada bağlamında kaşığın tıbbi/pratik araç olarak kullanımını gösterir; kaşığın bakım ve işlevsellik anlamlarına ışık tutar.",
+      "url": "https://www.wisdomlib.org/concept/nose-spoon"
+    },
+    {
+      "title": "Spoon Symbolism & Meaning: What It Represents",
+      "relevance": "Modern spiritüel yorumlarda kaşığın beslenme, bakım, bağımlılık ve destek alma-verme temalarıyla ilişkilendirildiğine dair örnekler verir.",
+      "url": "https://mymythos.org/archetype/spoon/"
+    },
+    {
+      "title": "Spoon (cutlery), dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Ezoterik ve popüler rüya kaynaklarında kaşığın nasıl farklı temalarla yorumlandığına dair örnek bir derleme sunar.",
+      "url": "http://www.dreamtation.com/docs/4659.htm"
+    },
+    {
+      "title": "12 Intriguing Spiritual Meanings Of Seeing A Spoon In Your Dream",
+      "relevance": "Modern spiritüel derlemelerde kaşığın bolluk, destek ve dönüşüm temalarıyla nasıl ilişkilendirildiğine dair örnekler içerir.",
+      "url": "https://spiritualityessence.com/spiritual-meanings-of-seeing-a-spoon-in-your-dream/"
+    },
+    {
+      "title": "Spoon - Dream Symbol Meaning and Interpretation",
+      "relevance": "Popüler rüya yorumlarında kaşığın şefkat, şifa ve alma-verme dinamikleriyle ilişkilendirildiğine dair örnek bir kaynaktır.",
+      "url": "https://dreams.guide/dream-symbols/spoon"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "historical-cultural",
+    "buddhist-eastern"
+  ]
+}

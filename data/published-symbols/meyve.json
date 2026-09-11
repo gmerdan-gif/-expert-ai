@@ -1,0 +1,252 @@
+{
+  "slug": "meyve",
+  "title": "meyve",
+  "shortDescription": "Rüyada meyve görmek; olgunlaşma, emeklerin karşılığını alma, bereket ve rızıkla ilişkilendirilir. Taze ve olgun meyve tatmin ve doğru zamanı, ham ya da çürük meyve ise acele, hazırlıksızlık veya kaçan fırsatları çağrıştırır.",
+  "positiveAssociations": [
+    "Bereket",
+    "Olgunlaşma ve gelişim",
+    "Helal kazanç ve rızık",
+    "Faydalı ilim",
+    "Emeğin karşılığını alma",
+    "Ruhsal üretkenlik"
+  ],
+  "challengingAssociations": [
+    "Gecikme ve fırsat kaybı",
+    "Zamanından önce harekete geçme",
+    "Haram mal veya riskli kazanç",
+    "Hazırlıksızlık",
+    "Yasaklanmış arzular"
+  ],
+  "contextDependentAssociations": [
+    "Meyvenin türü ve tat profili",
+    "Meyvenin olgun ya da çürük olması",
+    "Meyvenin mevsiminde ya da mevsimsiz görülmesi",
+    "Meyveyi toplama veya yeme biçimi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Ağaçtan taze ve olgun meyve koparmak",
+      "description": "Elde edilen emeklerin karşılığını zahmetsizce almaya, kişisel gelişimde ulaşılan tatmin edici bir aşamaya ve hayırlı kazançlara işaret eder."
+    },
+    {
+      "title": "Mevsimsiz veya ham meyve yemek",
+      "description": "Planlanan işlerde acele edildiğine, projelerin henüz olgunlaşma evresine gelmediğine veya beklenmeyen bazı zorlukların yaşanabileceğine delalet eder."
+    },
+    {
+      "title": "Çürümüş veya ezilmiş meyve görmek",
+      "description": "Kaçırılan fırsatları, yanlış zamanlamaları, tükenen enerjiyi veya hazırlıksız yakalanılan durumların getirdiği hayal kırıklığını simgeler."
+    },
+    {
+      "title": "Meyve tabağı veya kasesi hazırlamak",
+      "description": "Geçmişte atılan adımların ve verilen emeklerin bir araya gelerek yeni bir dönemin başlangıcını, içsel bütünleşmeyi ve hasat dönemini temsil eder."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmalarında meyve, tek başına sabit ve otomatikleşmiş bir anlam taşıyan kehanet unsuru olmaktan ziyade, içerik analiz sistemlerinde gıda ve beslenme kategorileri altında sınıflanan bir veri örüntüsüdür. Domhoff’un rüya içerik inceleme yöntemleri ve yapay zekâ tabanlı kodlama yaklaşımları, bu tür imgelerin serbest çağrışımlar, yinelenen temalar ve bağlamsal betimlemeler aracılığıyla çözümlenmesi gerektiğini destekler.",
+  "jungian": "Jungcu analitik psikolojide meyve, uzun soluklu bir büyüme sürecinin, bireyleşme yolculuğunun olgunlaşmış çıktısını ve Benlik'in doğal bütünlüğünü simgeler. Özellikle yuvarlak meyve imgeleri bilinç ile bilinçdışı unsurların entegrasyonunu, psişik olgunlaşmayı ve hedefe ulaşma hissini temsil eder.",
+  "islamicTradition": "Klasik İslami rüya tabiri literatüründe meyve, genel olarak rızık, menfaat, faydalı ilim, helal kazanç, evlat, mal ve aile bağlarıyla ilişkilendirilir. Tatlı meyveler güzel ve helal rızka işaret ederken, mevsimsiz meyveler zamanından önce gelen işlere veya güçlüklerin kolaylaşmasına yorulur.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde meyve motifi, Yeni Ahit'teki ruhsal verimlilik dili üzerinden kişinin yaşamında ürettiği erdemleri ve karakter gelişimini çağrıştırır. Rüyadaki meyve, bu bağlamda doğrudan bir rüya kuralından ziyade manevi üretkenlik ve kalıcı olumlu niteliklerle ilişkilendirilir.",
+  "jewishTraditions": "Talmudik gelenekte, özellikle Berakhot 57b'ye göre genel ilke olarak bütün meyveler rüya için hayırlı işaretler kabul edilir; olgunlaşmamış hurma gibi bazı istisnalar olabilir.",
+  "buddhistEasternApproaches": "Budist ve Doğu yaklaşımlarında meyve, eylemlerin sonuçlarını, karma döngüsünü, içsel bilgiyi, saflığı ve aydınlanma yolundaki gerçekleşmeleri ifade eder. Mahayana metinlerinde meyve ağaçları ve meyve sunumu, ahlaki eylemlerin olumlu hasadını, cömertliği ve şefkati temsil eder.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda meyve, hasadın tamamlanması, emeklerin karşılığını alma, bolluk ve yaşam enerjisiyle özdeşleştirilir. Sağlıklı meyveler içsel tatmini ve başarıyı simgelerken, olumsuz formlar arzu dengesizliklerini ve duyusal çekimleri yansıtabilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Araştırma",
+      "interpretation": "Meyveyi sabit bir kehanet olarak değil, rüya içerik analizlerinde gıda ve nesne kategorisi olarak ele alır.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Meyveyi bedensel hazzın, göğüslerin, arzu dinamiklerinin ve yasaklanmış isteklerin simgesi olarak değerlendirir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Meyveyi bireyleşme sürecinin, ruhsal olgunlaşmanın ve Self bütünlüğünün bir ürünü olarak okur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Meyveyi rızık, helal kazanç, faydalı ilim, verim ve zamanlamaya bağlı kolaylıklar olarak yorumlar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Talmudik Gelenek",
+      "interpretation": "Genel olarak meyveleri hayırlı kabul eder, ancak olgunlaşma durumuna göre istisnalar tanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Meyveyi emeklerin hasadı, içsel üretkenlik, bolluk ve ödül temalarıyla bağdaştırır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler arasında meyve, genel olarak 'ortaya çıkan bir ürün', 'emek sonucu' ve 'olgunlaşma' kavramları etrafında ortak bir payda oluşturur.",
+  "differences": "Psikanalitik yaklaşım meyveyi bedensel haz ve arzu dinamikleriyle açıklarken, İslami ve Talmudik gelenekler maddi-manevi rızık ve hayra yorar. Jungcu ve ezoterik okumalar ise süreci bireysel gelişim, bütünleşme ve içsel hasat ekseninde ele alır.",
+  "inusAssessment": "Rüyada meyve sembolü, diğer nesnel imgelerden farklı olarak neyin elde edildiği ve meyvenin hangi durumda olduğu (olgun, ham, çürük, tatlı) üzerinden anlam kazanan dinamik bir yapıya sahiptir. Onu sabitlemek yerine, rüya sahibinin yaşamındaki hangi projelerin, emeklerin veya kişisel gelişim aşamalarının hasat dönemine yaklaştığını anlamak önemlidir. Meyvenin taze ve mevsiminde olması içsel tatmin ve doğru zamanlamayı; çürük ya da ham olması ise hazırlıksızlık veya erken hamleleri işaret eder.",
+  "faq": [
+    {
+      "question": "Rüyada meyve görmek her zaman bolluk ve zenginlik anlamına mı gelir?",
+      "answer": "Hayır. Geleneksel ve psikolojik okumalarda meyvenin durumu (olgun, çürük veya ham olması) yorumu doğrudan değiştirir. Sadece olgun ve sağlıklı meyveler olumlu sonuçlarla bağdaştırılır."
+    },
+    {
+      "question": "Mevsimsiz meyve görmek neyi ifade eder?",
+      "answer": "Geleneksel İslami kaynaklarda mevsimsiz meyve, beklenmeyen bir zamanda gelen kolaylıklara veya kaçırıldığı sanılan fırsatlara erişmeye işaret edebilir."
+    },
+    {
+      "question": "Psikanalitik açıdan meyve rüyaları cinsellikle mi ilgilidir?",
+      "answer": "Freudcu teorik çerçevede bazı meyve imgeleri bedensel haz, arzu nesnesi ve cinsel sembolizmle ilişkilendirilir; ancak bu okuma rüyanın genel bağlamına göre ele alınmalıdır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Methods and Measures for the Study of Dream Content",
+      "relevance": "Rüya içeriğinin nasıl sınıflandırılabileceğini ve temaların nasıl analiz edilebileceğini anlatan yöntem bölümü; meyve gibi imgelerin içerik çözümlemesinde kategorik olarak ele alınmasına zemin sağlar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2000a.html"
+    },
+    {
+      "title": "Dream content analysis using Artificial Intelli- gence",
+      "relevance": "Yapay zekâ ile rüya içeriği kodlama yaklaşımını kullanan ve gıda öğeleri arasında “Fruit” (meyve) kategorisini içeren çalışma; meyve imgesinin rüya veri setlerinde içerik etiketi olarak sınıflanabildiğini gösterir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/48744/54228"
+    },
+    {
+      "title": "Сонник по Фрейду. Фрукты",
+      "relevance": "Meyveleri kadın bedeni (göğüs ve kalça) ile ilişkilendiriyor ve meyve toplama ile yemenin cinsel birleşmeye göndermede bulunduğunu açıkça belirtiyor.",
+      "url": "https://ignio.com/r/sonnik/freud/word/frukty/"
+    },
+    {
+      "title": "Wish Fulfilment - The Interpretation of Dreams",
+      "relevance": "Freud’un rüya kuramında yasak, arzu ve haz ilişkisini çilek örneği üzerinden gösteriyor; meyve imgesinin yasaklanmış istek bağlamında okunmasına zemin sağlıyor.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/wish-fulfilment/"
+    },
+    {
+      "title": "Rêver de Fruit — Signification et Interprétation | Mes-Rêves.fr",
+      "relevance": "Meyveyi Freudcu çerçevede arzu, haz, beden ve cinsellik ekseninde yorumluyor; meyvenin duyusal özelliklerini bu sembolik alanla ilişkilendiriyor.",
+      "url": "https://mes-reves.fr/rever-de/fruit/"
+    },
+    {
+      "title": "The Project Gutenberg EBook of A General Introduction to Psychoanalysis, by",
+      "relevance": "Meyvenin çocuk değil göğüsler olarak okunabileceğini doğrudan belirtiyor; meyve imgesinin psikanalitik sembolizmini bedensel çağrışımlara bağlıyor.",
+      "url": "https://www.psi.martiporto.com.br/freud%20-%20General%20Introduction%20to%20Psychoanalysis.pdf"
+    },
+    {
+      "title": "Fruit in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Meyveyi Freudcu okumada erişme, sahip olma ve arzu dinamiğiyle ilişkilendiriyor; meyve nesnesinin istek nesnesi olarak ele alınmasına yarıyor.",
+      "url": "https://rosmertapublishing.com/dream-symbols/fruit/"
+    },
+    {
+      "title": "Fruit Dreams",
+      "relevance": "Meyve rüyalarını Jungcu yorumla bağdaştıran, olgunluk ve tamamlanma eksenli bir sembol çerçevesi sunar.",
+      "url": "https://www.psychologistworld.com/dreams/dictionary/fruit"
+    },
+    {
+      "title": "Dreams by Marie-Louise von Franz — Dreams of Jung, Descartes, Socrates, and Historical Figures | Seba.Health",
+      "relevance": "Marie-Louise von Franz'ın okumaları üzerinden yuvarlak meyve imgesini Benlik ve birlik temasıyla ilişkilendirir.",
+      "url": "https://www.seba.health/library/the-psyche/vonfranz-dreams/"
+    },
+    {
+      "title": "Dreams About Food and Eating: A Literature Review",
+      "relevance": "Marie-Louise von Franz'ın yorumları, yuvarlak meyve imgelerini Benlik ve birlik teması çerçevesinde ele alır.",
+      "url": "https://sleepandhypnosis.org/wp-content/uploads/2024/07/c33e8622e0b54b798969ad7bda85a3fd.pdf"
+    },
+    {
+      "title": "Fruit Dream Meaning & Interpretation - Mirror",
+      "relevance": "Jungcu literatür derlemesinde meyve, büyüme sürecinin sonu ve Benlik'in bütünlüğü bağlamında ele alınır.",
+      "url": "https://mirrorwithin.org/dream-dictionary/fruit/"
+    },
+    {
+      "title": "Dream Interpretation In Jung's Theory A Comparative ...",
+      "relevance": "Rüyayı bilinçdışı sürecin ürünü olarak ele alır ve meyve imgesini psişik sürecin çıktısı bağlamına yerleştirir.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/107-dream-interpretation-in-jungs-theory-a-comparative-analysis"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’un rüya yorumunda alegorik işleyiş ve bağlama dayalı okuma üzerine akademik inceleme.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya kitabının İngilizce çevirisinde meyve veren ağaçlar ve meyve imgelerinin uğur ve verimlilikle ilişkisi.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Full text of \"Artemidoros aus Daldis Symbolik der Träume -- Artemidorus ; übersetzt und mit Anmerkungen begleitet von Friedrich S. Krauss\"",
+      "relevance": "Artemidorus geleneğinde olgun tatlı meyve imgesinin sevgi ve hoşnutlukla ilişkilendirildiğine dair tarihsel aktarım.",
+      "url": "https://archive.org/stream/BIUSante_55615/BIUSante_55615_djvu.txt"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri M Harfi",
+      "relevance": "Meyve sembolünü mevsim, tat, toplama biçimi ve kazanım türüne göre rızık, faydalı ilim, helal kazanç ve zahmetsiz elde ediliş gibi eksenlerde yorumlayan aktarım içerir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-m-harfi.html"
+    },
+    {
+      "title": "What Fruit Means in a Dream/Eating Fruit in a Dream/Biblical ...",
+      "relevance": "Budizm'de 'meyve' kavramı, eylemlerin sonuçlarını, besleyiciliği, saflığı, bilgi ve aydınlanmaya ulaşma süreçlerini ifade eder.",
+      "url": "https://www.youtube.com/watch?v=_zN-fvd3PXw&vl=en-US"
+    },
+    {
+      "title": "Berakhot 57b | The Sefaria Library",
+      "relevance": "Berakhot 57b’de rüyada meyvelerin genel olarak hayırlı sayıldığını ve olgunlaşmamış hurmaların istisna olduğunu gösteren Talmud metni.",
+      "url": "https://www.sefaria.org/Berakhot.57b?lang=en"
+    },
+    {
+      "title": "Berakhot 57.b",
+      "relevance": "Berakhot 57b metninin İngilizce sunumu; meyveler için genel olumlu rüya işareti ilkesini açıkça içerir.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Fruit: Significance and symbolism",
+      "relevance": "Mahayana bağlamında meyve, etik eylemlerin sonucu ve olumlu kazanımların simgesi olarak ele alınır.",
+      "url": "https://www.wisdomlib.org/concept/fruit"
+    },
+    {
+      "title": "Significance of Fruit and involving a fruit",
+      "relevance": "Mahayana bağlamında meyvenin etik eylemlerin sonucu ve olumlu kazanım anlamlarını verir.",
+      "url": "https://www.wisdomlib.org/concept/fruit-and-involving-a-fruit"
+    },
+    {
+      "title": "Bulletin of Indonesian Islamic Studies - Kuras Institute",
+      "relevance": "Budist ritüel kullanımında meyvenin karma sonucu, geçicilik ve cömertlik anlamlarını raporlar.",
+      "url": "https://www.journal.kurasinstitute.com/index.php/biis/article/download/1581/1041"
+    },
+    {
+      "title": "Buddhist Tales: Vol. 2 - Chapter 2. (Roaring Bulls With No ...",
+      "relevance": "Budist anlatı geleneğinde rüya içindeki ‘meyve veren ağaçlar’ motifini gösterir.",
+      "url": "https://www.buddhanet.net/e-learning/buddhism/bt_25/"
+    },
+    {
+      "title": "Piece of fruit: Significance and symbolism",
+      "relevance": "Bir parça meyvenin verilmesini şefkat ve destek verme temasıyla ilişkilendirir.",
+      "url": "https://www.wisdomlib.org/concept/piece-of-fruit"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Bodhisattva rüyasında meyve ağacı görme motifini ve bunun bhūmi aşamalarıyla ilişkilendirilişini verir.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "Dreaming of Fruit - Dream Dictionary",
+      "relevance": "Meyve rüyalarını zenginlik, bereket, içsel bolluk ve büyüme ile ilişkilendiren modern bir sembol okuması sunar.",
+      "url": "https://www.dreamdictionary.org/meaning/dreaming-of-fruit/"
+    },
+    {
+      "title": "Dream about Fruits (Spiritual Meanings & Interpretation) - PsychoSick",
+      "relevance": "Meyvenin rüyada bolluk, büyüme, ödül ve bazen arzu/duyusallık ile ilişkilendirildiğini öne süren modern spiritüel bir yorum sunar.",
+      "url": "https://psychosick.com/dream-about-fruits/"
+    },
+    {
+      "title": "Fruit Meanings in Dreams | A Spiritual Guide",
+      "relevance": "Meyve rüyalarını başarı, bereket, yeni başlangıçlar ve yaşam enerjisi üzerinden ele alan modern bir spiritüel yorum kaynağıdır.",
+      "url": "https://www.mysticsense.com/articles/spirituality/spiritual-meaning-fruits-dreams/"
+    },
+    {
+      "title": "Interpretation of dream - Fruit: Almost inevitably fruit suggests creativity and a natural growth process towards the spiritual. Psychologically, when we have worked hard we ought to be able to recognize the fruits of our labour. Dreaming of fruit in this way indicates that we have succeeded in what we set out to do. Below are some symbolisms of various fruits. The apple is a symbol of nourishment and growth to maturity of the intuitive Self. The apricot symbolizes self-fertilization and, therefore, the androgynous. Berries in general signify a good harvest and also peace. Blackberries denote sorrow and arrogance, said to date from when Lucifer fell into a bush when he was sent to Earth from Heaven. Cherries are thought to represent youth and innocence and sometimes even virginity. Cranberries stand for the earth?s abundance, yet tinged with bitterness and responsibility. The orange is a wish for good fortune. The pineapple is known in some societies as 'anana' or ?excellent fruit, and displays wealth. The pomegranate symbolizes fertility; it was the fruit offered to Persephone to tempt her to remain as Queen of the Underworld. Quince is a symbol of love and happiness. Raspberries denote kindness. The strawberry, as the only fruit to carry its seeds on the surface, signifies honesty and love. To dream of fruit, particularly in a bowl, very often indicates the culmination of actions that we have taken in the past. We have been able to 'harvest' the past and to make a new beginning for ourselves. Unripe fruit suggests that a plan or project has not yet reached a point where it can be used. Rotting fruit suggests that we have missed an opportunity. You might also like to consult the entry for Food.",
+      "relevance": "Meyve genelde yaratıcılığı ve ruhsal olgunlaşmayı simgeler. Psikolojik açıdan, yoğun çabaların ardından emeğin karşılığını almakla ilişkilendirilir. Farklı meyveler çeşitli sembolik anlamlar taşır (ör. elma: beslenme ve sezgisel Benlik'in olgunlaşması; kayısı: kendini üretme ve androjini; böğürtlen: iyi bir hasat ve huzur; kiraz: gençlik ve masumiyet; yaban mersini: toprak bolluğu; ananas: bazı toplumlarda zenginlik; nar: verimlilik; ayva: sevgi ve mutluluk; çilek: dürüstlük ve sevgi). Bir kase içindeki meyveler geçmişte atılan adımların meyvesini ve yeni bir başlangıcı gösterir; olgunlaşmamış meyve planın henüz hazır olmadığını, çürümüş meyve ise kaçırılan fırsatları işaret eder.",
+      "url": "https://whatdreamsmeans.com/Common/13509-Fruit"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "psychoanalytic",
+    "christian"
+  ]
+}

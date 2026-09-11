@@ -1,99 +1,251 @@
 {
   "slug": "cikolata",
-  "title": "çikolata",
-  "shortDescription": "Rüyada çikolata görmek haz, ödüllendirilme, sevgi ve yakınlıkla ilişkilendirilebilir. Hediye edilen ya da paylaşılan çikolata takdir ve sosyal bağları, eriyen çikolata ise kontrolün biraz gevşediği hissini çağrıştırabilir.",
+  "title": "Çikolata",
+  "shortDescription": "Rüyada çikolata, genellikle haz, ödül ve duygusal ve oral doyum çağrışımlarıyla görülür; ancak bağlama, duygusal tona ve bireysel çağrışımlara göre olumlu (rahatlama, paylaşım) ya da uyarıcı (aşırılık, bastırılmış istek) biçimlerde okunabilir.",
   "positiveAssociations": [
-    "Haz ve tat alma",
-    "Ödül veya ödüllendirilme duygusu",
-    "Sevgi, yakınlık ve şefkat göstergesi",
-    "Kutlama ve armağan verme bağlamı"
+    "Ferahlık ve neşe",
+    "Ödül ve takdir edilme",
+    "Tatlılık ve hayatın küçük zevkleri",
+    "Sosyal yakınlık ve paylaşım",
+    "Duygusal rahatlama ve şefkatli öz bakım"
   ],
   "challengingAssociations": [
-    "Tarihsel olarak kakao/çikolatanın elit, ritüel ve kurban bağlamlarıyla ilişkili olması; bu, çikolataya ek anlam katmanları getirebilir.",
-    "Klasik rüya sözlüklerinde çikolatanın yerleşik bir sembol olmaması; modern kaynakların sınırlı ve çevrimiçi ağırlıklı olması."
+    "Aşırılık ve anlık hazlara kapılma",
+    "Bastırılmış arzular veya kaçış eğilimi",
+    "Özdenetim eksikliği riski",
+    "Yoğun suçluluk veya tatminsizlik duygusu"
   ],
   "contextDependentAssociations": [
-    "Sevgililer Günü gibi özel dönemlerde çikolatanın sevgi ve romantizm çağrışımı güçlenir.",
-    "Ritüel veya litürjik kullanımlarda (ör. bazı modern Haggadah örnekleri) çikolata belirli anlatı veya sembolik rollere girebilir.",
-    "Bireyin kültürel geçmişi ve kişisel deneyimleri çikolatanın rüyadaki anlamını belirlemede belirleyicidir."
+    "Sıcak çikolata rüyaları anne arketipiyle ilişkilendirilebilir; korunma ve beslenme ihtiyacına işaret edebilir.",
+    "Bitter çikolata görüntüsü, rüyanın genel tonuna bağlı olarak daha ölçülü veya daha ciddi bir duygu bağlamına işaret edebilir. Bu tür ayrımlar modern yorumlarda temkinli olarak yapılır.",
+    "Çikolata ikram etmek veya paylaşmak, sosyal yakınlık, kutlama ve iyi haber temalarıyla bağlantılı olarak yorumlanabilir."
   ],
   "commonVariations": [
     {
-      "title": "Hediye Çikolata Almak",
-      "description": "Rüyada birinden çikolata armağan almak, uyanık yaşamda takdir edilme, şefkat ve sosyal bağlarla ilişkilendirilen kültürel bir yansımadır."
+      "title": "Büyük Çikolata Kalıpları Bulmak",
+      "description": "Freud’un aktardığı örneğe benzer şekilde büyük çikolata kalıpları çocukluk arzularını veya geçmişten gelen doyum beklentilerini çağrıştırabilir; psikanalitik okumalar bu tür imgeleri arzu nesnesi bağlamında değerlendirir."
     },
     {
-      "title": "Bitter Çikolata Yemek",
-      "description": "Yoğun kakaolu ve acımsı çikolata tüketmek, hayattaki tatlı ve acı dengesini veya daha olgun tat tercihlerini simgeleyen bir senaryodur."
+      "title": "Sıcak Çikolata İçmek",
+      "description": "Rüyada sıcak çikolata, koruma, şefkat ve besleyici bir ilişki ihtiyacının simgesi olarak okunabilir; bazı Jungcu yorumlarda anne arketipiyle ilişkilendirilir."
     },
     {
-      "title": "Çikolata Paylaşmak",
-      "description": "Bir grupla veya yakın bir arkadaşla çikolata bölüşmek, sosyal yakınlık, cömertlik ve paylaşılan haz anlarını temsil eder."
+      "title": "Çikolata İkram Etmek veya Paylaşmak",
+      "description": "Başkalarına çikolata vermek veya onlarla paylaşmak, sosyal bağlanma, kutlama veya olumlu haberlerin iletilmesi şeklinde yorumlanabilir."
     },
     {
-      "title": "Eriyen Çikolata Görmek",
-      "description": "Formunu kaybetmiş eriyen çikolata ile karşılaşmak, kontrolün biraz esnemesi veya durumların akışına kapılma hissiyle bağdaştırılır."
+      "title": "Aşırı Miktarda Çikolata Yemek",
+      "description": "Rüyada çok fazla çikolata yemek, haz ve özdenetim arasındaki gerilimi ve hayatın bazı alanlarında ölçüsüz davranma kaygısını sembolize eden tematik bir uyarı olarak okunabilir."
     }
   ],
-  "psychology": "Ampirik psikoloji bulguları (ör. Cornell çalışması), çikolatanın özellikle ABD kültüründe sevgi ve olumlu duygularla ilişkilendirildiğini ve değerlendirmesinin bağlama göre değiştiğini gösterir.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Bu araştırmada Budist geleneklerde çikolataya dair yerleşik veya doğrudan bir sembolik eşleme doğrulanamamıştır.",
-  "spiritualApproaches": "Modern spiritüel çevrimiçi kaynaklar çikolatayı haz, rahatlama, bolluk, sevgi ve topraklanma temalarıyla ilişkilendiriyor; ancak bu yorumlar genellikle çağdaş ve eklektik kaynaklara dayanır.",
+  "psychology": "Ampirik rüya içerik analizleri çikolatayı kodlanabilir bir rüya öğesi olarak gösterse de, doğrudan tek bir yoruma işaret eden güçlü ampirik kanıt bulunmamaktadır. Psikodinamik çerçevede ise çikolata, Freud’un örneklerinde görüldüğü gibi arzu doyurumu, oral haz ve ödül mekanizmaları bağlamında ele alınmaktadır.",
+  "jungian": "Jungcu literatürde çikolataya özgü sabit bir rüya anlamı tespit edilmemiştir. Bununla birlikte analitik psikoloji bağlamında çikolata gibi zevk veren imgeler, örneğin iç çocuğun ihtiyaçlarına, gölge içeriğe, anima/animus dinamiklerine veya psişenin beslenme yönlerine işaret edebilir; bu tür yorumlar bağlam ve kişisel çağrışımlar göz önünde bulundurularak temkinli biçimde kullanılmalıdır.",
+  "islamicTradition": "Elde edilen modern İslami tabirlerde rüyada çikolata görmek genellikle ferahlık, sevinç, alın teriyle kazanılan mala ve müjdeli haberler ekseninde yorumlanmaktadır; ancak bu bulguların çoğu çağdaş tabir sayfalarına dayanmaktadır ve klasik kaynaklarda çikolata için yerleşik bir hüküm tespit edilmemiştir.",
+  "christianTraditions": "Çağdaş Hristiyan çevrimiçi yorumlar çikolatayı hem Tanrı'nın bereketi ve yaşamın tatlılığı bağlamında hem de dünyevî hazlara aşırı yönelme ve ayartı uyarısı bağlamında ele alır; klasik Hristiyan oneiroloji (rüya bilimi) kaynaklarında çikolata için doğrulanmış bir rüya girişi bulunmamıştır.",
+  "jewishTraditions": "Modern Yahudi uygulamalarında ve özellikle bazı çağdaş Haggadah uyarlamalarında çikolata, Pesah ve bayram bağlamlarında mizahi veya yenilikçi bir sembol olarak kullanılmış; bu kullanım çikolatanın ritüel ve topluluk bağlamındaki yerini gösterir fakat klasik rüya geleneğinde doğrudan bir yorum kaydı yoktur.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel yorumlarda çikolata, şefkatli öz bakım, küçük hazların kabulü, paylaşım ve duygusal beslenme temalarıyla sıklıkla ilişkilendirilir; bazı okumalar aşırılık ve bağımlılık riskine dikkat çeker.",
   "comparisonTable": [
     {
-      "approach": "Ampirik Psikoloji",
-      "interpretation": "Çikolatayı bir nesne olarak kültürel ve duygusal çağrışımları (sevgi, ödül, takdir) üzerinden inceler; rüya simgesi olduğu sonucuna doğrudan varmaz.",
-      "evidenceLevel": "research"
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Haz ilkesi, oral doyum ve çocukluk arzuları bağlamında çikolata imgelerinin değerlendirilmesi.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Tarihsel-Kültürel",
-      "interpretation": "Kakao/çikolata, özellikle Mesoamerika bağlamında ritüel, statü ve armağan verme pratikleriyle ilişkilendirilir; bu tarihsel katmanlar çikolatanın çağrışımlarını zenginleştirir.",
+      "approach": "Analitik Psikoloji",
+      "interpretation": "İç çocuk, gölge, anima/animus ve psişik beslenme temaları üzerinden temkinli sembolik okumalar.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Geleneksel Çizgi",
+      "interpretation": "Modern İslami tabirlerde ferahlık, sevinç ve helal kazanç ile ilişkilendirilen çağdaş yorumlar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojik Okumalar",
+      "interpretation": "Çağdaş Hristiyan yorumlarda bereket/şükür ile dünyevî hazların dengesi arasında iki yönlü okuma.",
       "evidenceLevel": "traditional"
     },
     {
       "approach": "Modern Spiritüel Yaklaşım",
-      "interpretation": "Çikolatayı haz, bolluk ve sevgi gibi bireysel ve ortaya çıkan temalar üzerinden yorumlar; kaynaklar çoğunlukla çağdaş çevrimiçi içeriklerdir.",
+      "interpretation": "Öz bakım, şefkat ve hayatın tatlı yönlerini kabul etme vurgusu.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Çeşitli yaklaşımlar çikolatanın haz, ödül ve armağan verme işlevleriyle insan ilişkilerinde yer tuttuğu konusunda benzerlik gösterir; bu yönler rüyalarda da öne çıkabilecek olası çağrışmalardır.",
-  "differences": "Ampirik çalışmalar kültürel bağlam ve deneyimlere vurgu yaparken, tarihsel çalışmalar çikolatanın ritüel ve elit kullanımlarını öne çıkarır; modern spiritüel kaynaklar ise daha bireysel ve sembolik temalar sunar. Bu ayrım, çikolatanın rüyalarda farklı düzeylerde yorumlanmasını açıklar.",
-  "inusAssessment": "Çikolata ne evrensel bir rüya kuralına ne de tek tip bir psiko-sembolik anlama indirgenemez. Rüyada çikolata görmenin yorumlanması, nesnenin kendisinden çok kişinin kültürel geçmişi, bağlamı ve rüyadaki olay örgüsüyle belirlenir.",
-  "faq": [],
+  "commonGround": "Farklı yaklaşımlarda ortak olan nokta: çikolatanın rüyalarda genellikle ödül, haz ve duygusal rahatlama çağrışımları uyandırmasıdır; yorumun yönü ise bağlam, duygu tonu ve bireysel çağrışımlara bağlıdır.",
+  "differences": "Psikanalitik ve Jungcu okumalar içsel haz ve psişik ihtiyaçlara odaklanırken, dini geleneklerin modern yorumları çikolatayı bereket, helal kazanç veya nefis terbiyesi eksenine oturtur; ayrıca modern spiritüel yaklaşımlar daha çok öz bakım ve paylaşım temalarını vurgular.",
+  "inusAssessment": "Çikolata rüyasında sembolün yönünü, çikolatanın miktarı ve niteliği kadar onu yeme, saklama, reddetme veya başkalarıyla paylaşma biçimi belirler. Tatlı ve keyifli bir deneyim ödül ve duygusal doyumu öne çıkarabilirken, aşırı tüketim veya rahatsızlık hissi hazla sınır koyma arasındaki gerilimi görünür kılabilir.",
+  "faq": [
+    {
+      "question": "Rüyada çikolata görmek her zaman olumlu bir anlam mı taşır?",
+      "answer": "Hayır. Çoğu modern yorumda çikolata sevinç, ödül ve rahatlama ile ilişkilendirilse de, rüyanın bağlamı ve duygusal tonu aşırılık, özdenetim sorunu veya bastırılmış arzulara işaret edebilir."
+    },
+    {
+      "question": "Rüyada bitter çikolata ile sütlü çikolata görmek arasında fark var mıdır?",
+      "answer": "Bazı yorumcular farklı türleri farklı duygusal tonlarla ilişkilendirir; ancak bu ayrımlar ampirik olarak sabitlenmemiştir. Bu yüzden türlere dair okuma yapılacaksa rüyanın genel bağlamı ve rüya sahibinin kişisel çağrışımları göz önünde bulundurulmalıdır."
+    }
+  ],
   "sources": [
     {
-      "title": "Chocolates and roses really do spell 'love,' researchers find",
-      "relevance": "Çikolatanın ABD kültüründe sevgi ve olumlu duygularla ilişkilendirilmesine dair ampirik psikoloji bulgusu.",
-      "url": "https://psychology.cornell.edu/news/chocolates-and-roses-really-do-spell-love-researchers-find"
+      "title": "[PDF] Dream content analysis using Artificial Intelli- gence",
+      "relevance": "Yapay zekâ temelli rüya içerik analizi çalışmasında çikolatanın rüya verilerinde kodlanabilir bir öğe olarak izlendiğine dair örnek kayıtlar sunulmaktadır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/48744/54228"
     },
     {
-      "title": "A Culture of Cacao and Chocolate - ReVista | - Harvard University",
-      "relevance": "Kakaonun Mesoamerika'dan itibaren ritüel, kurban ve elit statü bağlamlarındaki rolüne dair tarihsel ve kültürel bir analiz.",
-      "url": "https://revista.drclas.harvard.edu/a-culture-of-cacao-and-chocolate/"
+      "title": "Dreams of the Rarebit Fiend: food and diet as instigators of bizarre ...",
+      "relevance": "Yiyecek ve diyetin rüya içeriğini nasıl etkilediğini tartışırken rüya raporlarında çikolata gibi yiyecek öğelerinin yer alabileceğini örnekleyen çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4330685/"
     },
     {
-      "title": "CHOCOLATE E HOSPITALIDADE: ENTRE O SAGRADO E O PROFANO",
-      "relevance": "Çikolatanın kutsal ile profan arasında işlev gördüğü, armağanlaşma ve şefkat göstergesi olarak kullanıldığı kültürel örneklerin tartışılması.",
-      "url": "https://www.redalyc.org/journal/4735/473563492005/html/"
+      "title": "Freud (1900) Chapter 3 - Classics in the History of Psychology",
+      "relevance": "Freud’un metninde çikolataya ilişkin bir çocuk rüyası örneği yer alır; bu örnek arzu doyurumu ve çocukluk hazları bağlamında kullanılmıştır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams3.htm"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud’un rüya örneğini doğrulayan tam metin kaynağı; çikolata imgesinin psikanalitik bağlamda nasıl ele alındığına ilişkin birincil referans.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Dream About Chocolate — Meaning and Interpretation - Dremyo",
+      "relevance": "Çikolatayı modern özet düzeyinde oral haz, duygusal eksiklik ve arzu temaları üzerinden yorumlayan çağdaş bir rüya sözlüğü örneği.",
+      "url": "https://www.dremyo.com/en/symbols/chocolate/"
+    },
+    {
+      "title": "What Does Dreaming About Chocolate Mean? - Rüya Tabirleri",
+      "relevance": "Çikolata imgelerini Jungcu çağrışımlarla (iç çocuk, sevgi ihtiyacı, gölge) ilişkilendiren çevrimiçi yorum örneği.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-chocolate"
+    },
+    {
+      "title": "Chocolate",
+      "relevance": "Çikolatayı küçük lüksler, rahatlama ve kendine izin verme bağlamında ele alan kısa Jung referanslı yorum metni.",
+      "url": "https://rosmertapublishing.com/dream-symbols/chocolate/"
+    },
+    {
+      "title": "Chocolate Dream Meaning & Interpretation - Mirror",
+      "relevance": "Çikolatayı anima/animus, gölge ve bütünleşme temalarıyla ilişkilendiren modern Jungcu yorum örneği.",
+      "url": "https://mirrorwithin.org/dream-dictionary/chocolate/"
+    },
+    {
+      "title": "What Does Dreaming About Hot Chocolate Mean?",
+      "relevance": "Sıcak çikolatayı anne arketipi ve besleyici duygularla ilişkilendiren çevrim içi yorum kaynağı.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-hot-chocolate"
+    },
+    {
+      "title": "Chocolate : a cultural encyclopedia - Catalog - UW-Madison Libraries",
+      "relevance": "Çikolatanın tarihsel-kültürel kökenlerini ve Mesoamerika’dan itibaren ritüel kullanımını belgeleyen ansiklopedik kaynak.",
+      "url": "https://search.library.wisc.edu/catalog/9913727595102121"
+    },
+    {
+      "title": "A Brief History of Chocolate - Smithsonian Magazine",
+      "relevance": "Mayalar ve Azteklerde kakaonun tören ve ritüel bağlamlarda kullanımı hakkındaki kültür tarihi özeti.",
+      "url": "https://www.smithsonianmag.com/arts-culture/a-brief-history-of-chocolate-21860917/"
+    },
+    {
+      "title": "Europe's colonial craze for chocolate",
+      "relevance": "Kakaonun Azteklerdeki sembolik önemini ve Avrupa’ya geçişiyle birlikte kazandığı lüks/romantik çağrışımları ele alan tarihsel yazı.",
+      "url": "https://www.nationalgeographic.com/history/history-magazine/article/chocolate-in-europe"
+    },
+    {
+      "title": "The evolution of chocolate history: from Mayans to modern luxury",
+      "relevance": "Çikolatanın Mesoamerika kökenlerinden Avrupa’daki lüks-zenginlik bağlamına kadar kültürel evrimini özetleyen kaynak.",
+      "url": "https://www.hotelchocolat.com/uk/blog/chocolateknowledge/the-evolution-of-chocolate-history.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Klasik oneirokritik çerçeveyi ve yiyecek-içecek temalarının antik rüya literatüründeki yerini gösteren referans; doğrudan 'çikolata' girişi içermez.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Rüyada çikolata görmek",
+      "relevance": "Çağdaş İslami rüya tabirleri bağlamında çikolatanın ferahlık, sevinç ve müjde gibi temalarla ilişkilendirildiğini aktaran çevrimiçi örnek.",
+      "url": "https://www.islamiforumlar.net/konu/ruyada-cikolata-gormek.14146/"
+    },
+    {
+      "title": "ما تفسير أكل الشوكولاتة في المنام لابن سيرين؟ - موقع مصري",
+      "relevance": "Arapça çağdaş tabir metni; çikolatanın rüyadaki olası iyiye işaret çağrışımlarını aktaran modern kaynak örneği.",
+      "url": "https://msry.org/%D8%A3%D9%83%D9%84-%D8%A7%D9%84%D8%B4%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D9%84%D9%85.html"
+    },
+    {
+      "title": "Rüyada Çikolata Görmek Ne Anlama Gelir?",
+      "relevance": "Türkçe çağdaş rüya tabirleri bağlamında çikolata ile ilgili popüler yorumları derleyen çevrim içi içerik.",
+      "url": "https://www.diyadinnet.com/ruyada-4034-cikolata-gormek"
+    },
+    {
+      "title": "Rüyada Çikolata Yemek Ne Anlama Gelir? Rüyada Bitter, Fındıklı, Sütlü ...",
+      "relevance": "Çeşitli çikolata türlerinin rüya yorumlarındaki farklı çağrışımlarına değinen modern Türkçe tabir derlemesi.",
+      "url": "https://www.sabah.com.tr/ruya-tabirleri/ruyada-cikolata-yemek-ne-anlama-gelir-ruyada-bitter-sutlu-beyaz-cikolata-yedigini-gormek-anlami-5968909"
+    },
+    {
+      "title": "DREAM ABOUT EATING CHOCOLATE - Biblical Meaning of ...",
+      "relevance": "Çağdaş Hristiyan yorum ve vaaz pratiğinde çikolatanın rüyalarda nasıl okunabildiğine dair örnek video kaynağı.",
+      "url": "https://www.youtube.com/watch?v=NjmHjT6TzOI"
+    },
+    {
+      "title": "SPIRITUAL MEANING OF EATING SWEETS IN DREAM",
+      "relevance": "Hristiyan çevrim içi içerikte çikolatanın sevgi, mutluluk ve bağlantı temalarıyla ilişkilendirildiğine dair örnek metin.",
+      "url": "https://evangelistjoshua.com/eating-sweet-in-dreams/"
+    },
+    {
+      "title": "The Spiritual Significance of Chocolate in Dreams: Exploring the Biblical Meaning - John Baptist Church",
+      "relevance": "Çikolatayı Hristiyan teolojik bağlamda bereket ve dünyevî hazların dengesi ekseninde tartışan çevrim içi metin örneği.",
+      "url": "https://johnbaptistchurch.org/biblical-meaning-experiences/chocolate-in-dream"
+    },
+    {
+      "title": "Unveiling the Biblical Significance of Chocolate: Decoding its Symbolism and Spiritual Connections - John Baptist Church",
+      "relevance": "Çikolatanın hem Tanrı'nın sağladığı iyiliklerle hem de dünyevî hazlara yönelme riskiyle ilişkilendirilebileceğini öne süren çağdaş Hristiyan içerik.",
+      "url": "https://johnbaptistchurch.org/biblical-meaning-objects/chocolate"
     },
     {
       "title": "The Ultra-Chocolaty Haggadah | Sefaria",
-      "relevance": "Modern bir Haggadah örneğinde bitter çikolatanın ritüel anlatı içinde belirli sembolik anlamlar yüklenmesine dair örnek.",
+      "relevance": "Pesah bağlamında çikolata kullanımı ve Haggadah uyarlaması örneği; çikolatanın modern Yahudi ritüel yorumlarındaki yerini gösterir.",
       "url": "https://www.sefaria.org/sheets/395880"
     },
     {
       "title": "Chocolate Seder Haggadah",
-      "relevance": "USCJ tarafından yayımlanan metinde bitter çikolatanın Pesah anlatısı bağlamında nasıl kullanıldığına dair litürjik örnek.",
+      "relevance": "Çikolata Seder Haggadah belgesi; çikolatanın Pesah ritüelinde yeni/yenilikçi bir sembolik kullanım örneği.",
       "url": "https://uscj.org/wp-content/uploads/2024/01/Chocolate-Seder-Haggadah.pdf"
     },
     {
-      "title": "Chocolate spiritual meaning",
-      "relevance": "Çağdaş spiritüel çevrimiçi kaynaklarda çikolatanın haz, bolluk, sevgi ve topraklanma temalarıyla ilişkilendirilmesine dair örnekler.",
-      "url": "https://spiritualmeaningacademy.com/chocolate-spiritual-meaning/"
+      "title": "Preparing for the High Holidays... With Chocolate!",
+      "relevance": "Reform Judaism bağlamında çikolatanın bayram döngüsü ve yenilenme temalarıyla ilişkilendirildiğini aktaran çağdaş yazı.",
+      "url": "https://reformjudaism.org/blog/preparing-high-holidays-chocolate"
+    },
+    {
+      "title": "Chocolate Smooths Transitions into High Holidays - Reform Judaism",
+      "relevance": "Çikolatanın modern Yahudi uygulamalarında geçişler ve döngüsellik temalarıyla nasıl kullanıldığına dair örnek metin.",
+      "url": "https://reformjudaism.org/blog/chocolate-smooths-transitions-high-holidays"
+    },
+    {
+      "title": "The Jewish Love Affair With Chocolate",
+      "relevance": "Çikolatanın Yahudi kültürel pratiklerdeki yerini ve tatlı geleneklerle bağlantılarını özetleyen popüler kültür kaynağı.",
+      "url": "https://jewishjournal.com/culture/valentines-day/230533/jewish-love-affair-chocolate/"
+    },
+    {
+      "title": "Chocolate Dream Meaning: Pleasure, Reward & Desire",
+      "relevance": "Çikolatayı zevk, ödül ve arzu temaları üzerinden yorumlayan çağdaş rüya sözlüğü sayfası.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/chocolate/"
+    },
+    {
+      "title": "Chocolate in dreams — meaning and symbolism",
+      "relevance": "Ezoterik/spiritüel bir perspektiften çikolatanın duygusal rahatlama ve şefkatli öz bakım temalarına işaret edebileceğini öne süren yorum.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/chocolate"
+    },
+    {
+      "title": "Chocolate Dream Meaning | Dreamiary",
+      "relevance": "Çikolata rüyasını bolluk, paylaşım ve yaşamın tatlılığı ekseninde ele alan modern rüya sözlüğü örneği.",
+      "url": "https://www.dreamiary.com/symbols/chocolate"
+    },
+    {
+      "title": "CHOCONEIRIA | The Chocolate Dictionary - WordPress.com",
+      "relevance": "Çikolata rüyasını tarihsel ve sembolik çağrışımlar bağlamında tartışan bir çevrimiçi sözlük/derleme örneği.",
+      "url": "https://thechocolatedictionary.wordpress.com/2013/03/04/choconeiria/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "islamic",
+    "christian"
+  ]
 }

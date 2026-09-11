@@ -1,95 +1,149 @@
 {
   "slug": "telefon",
   "title": "telefon",
-  "shortDescription": "Rüyada telefon görmek, uzaktaki biriyle bağ kurma, haber alma ya da dikkatinizi isteyen bir mesajla ilgilidir. Telefonun çekmemesi veya bozulması, iletişimde engel, yanlış anlaşılma ya da uzaklık hissini yansıtabilir.",
+  "shortDescription": "Rüyalarda telefon görmek, iletişim kurma çabası, uzaktaki kişilerle bağlantı kurma, bir çağrıya yanıt verme veya mesaj alma ve iletme süreçleriyle ilişkilendirilen modern bir semboldür.",
   "positiveAssociations": [
-    "Uzaktaki sevdikleriyle bağ kurma ve iletişim sağlama",
-    "Yeni haberler alma ve gelişmeleri öğrenme",
-    "Destek arayışında çözüm bulma",
-    "Topluluk ve bağlantı hissinin güçlenmesi"
+    "İletişim kurma ve bağları güçlendirme",
+    "Önemli bir mesaj veya haber alma",
+    "İlişki onarımı ve uzlaşma isteği",
+    "Sezgisel uyarıları ve içsel çağrıları alma"
   ],
   "challengingAssociations": [
-    "Beklenmeyen veya sarsıcı haberlerle karşılaşma",
-    "İletişim kopukluğu veya yanlış anlaşılmalar",
-    "Uzaklık ve ayrılık hissinin baskınlaşması",
-    "Aşırı iletişim yükü veya dijital yorgunluk"
+    "Engellenmiş veya kopuk iletişim",
+    "Ulaşamama, hat meşguliyeti veya sinyal kaybı",
+    "Beklenen bir çağrının gelmemesiyle oluşan kaygı",
+    "Zararlı veya rahatsız edici sözlerin getirdiği gerilim"
   ],
   "contextDependentAssociations": [
-    "Telefonun çalması veya çağrıya yanıt verilmesi",
-    "Hattın çekmemesi veya iletişim kurulamaması",
-    "Telefon ekranında dini veya sembolik içerik görünmesi"
+    "Telefonun çalması veya sessizde olması",
+    "Aramanın kimden geldiği veya kime yapıldığı",
+    "Cihazın çalışır durumda olup olmadığı veya hat kopukluğu",
+    "Konuşma sırasındaki duygusal ton"
   ],
   "commonVariations": [
     {
-      "title": "Telefonun Çalması ve Cevap Vermek",
-      "description": "Rüyada telefonun ısrarla çalması, uyanık yaşamda dışarıdan gelen bir çağrıya, dikkatinizi vermeniz gereken bir mesaja veya beklenmedik bir habere işaret edebilir."
+      "title": "Çalınan Ama Cevap Verilemeyen Telefon",
+      "description": "Telefonun ısrarla çaldığı ancak bir türlü açılamadığı veya cihaza erişilemediği rüya senaryosudur; kaçırılan bir fırsatı, içsel bir uyarıyı duymamayı veya iletişimde yaşanan engelleri yansıtabilir."
     },
     {
-      "title": "Telefonda Uzaktaki Biriyle Konuşmak",
-      "description": "Uzaktaki bir kişiyle telefonda konuşmak, coğrafi ya da duygusal mesafeleri aşma isteğini, o kişiye dair haber beklemeyi veya özlemi yansıtabilir."
+      "title": "Bozuk veya Kırık Telefonla Aramaya Çalışmak",
+      "description": "Ekranı kırık ya da ahizesi bozuk bir telefonla birine ulaşmaya çalışırken yaşanan çaresizlik halidir. Bazı psikanalitik tartışmalarda (örneğin Freud'a atfedilen tekil bir örnekte) bozuk telefon imgelerinin bedensel işlevler veya erişimle ilişkilendirildiği belirtilse de, bu tekil örnek tüm telefon rüyalarına genellenmemelidir. Genel olarak bozuk telefon imgeleri iletişim kopukluğunu, akışın kesilmesini veya kurulan bağın zayıflığını çağrıştırabilir."
     },
     {
-      "title": "Telefonun Bozulması veya Çekmemesi",
-      "description": "İletişim kurmaya çalışırken hattın kesilmesi ya da cihazın çalışmaması, ifade edilemeyen duyguları, iletişim çabalarındaki engelleri veya izolasyon hissini temsil edebilir."
+      "title": "Beklenmeyen Bir Telefon Çağrısı Almak",
+      "description": "Hiç beklenmeyen bir kişiden veya kaynaktan gelen telefon çağrısı, bilinçdışından süzülüp gelen ani bir farkındalığı, sezgisel bir kanalı veya hayatın akışında alınması gereken sürpriz bir haberi simgeleyebilir."
     },
     {
-      "title": "Ekranda Dini/Sembolik İçerik Görmek",
-      "description": "Telefon ekranında dini motifler veya semboller görmek, teknolojinin inanç ve topluluk pratikleriyle nasıl iç içe geçtiğine dair çağdaş bir yansıma olabilir."
+      "title": "Kopuk Hatlar ve Meşgul Çalan Telefonlar",
+      "description": "Aranan kişiye bir türlü ulaşılamaması, hattın sürekli meşgul çalması veya sinyallerin kesilmesi durumu, uyanık yaşamdaki bir diyalog eksikliğini, çözülememiş konuları veya dış dünyaya kapalı olma halini gösterebilir."
     }
   ],
-  "psychology": "",
+  "psychology": "Ampirik psikoloji çalışmalarında telefon gibi tekil nesnelerin sabit anlamları yerine rüya içeriğinin yapısal özellikleri incelenir. Hall/Van de Castle içerik analizi sistemi rüya raporlarını etkileşimler ve zaman referansları gibi kategorilerle ele alır; kaygı düzeyi ile rüya içerikleri arasındaki ilişkiler de sembollerin bireysel duygu durumlarıyla bağdaştığını gösterir. Ayrıca modern rüya araştırmalarında veri toplamak için mobil uygulamalar kullanılmaktadır.",
   "jungian": "",
-  "islamicTradition": "Klasik İslami metinlerde telefonun kendisine rastlanmadığı için bu yorumlar modern analoji ve popüler rüya sözlüklerine dayanmaktadır.",
-  "christianTraditions": "Hristiyanlık bağlamında çalışmalar cep telefonunu dini yaşam içinde iletişim ve cemaat ilişkilerini sürdürmeye yarayan modern bir araç olarak ele alır; bu, telefonun rüya tabirinden çok teknoloji ve inanç pratikleri bağlamındaki rolünü vurgular.",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik perspektifinde telefon imgesi, dua yoluyla ilahi olanla iletişim kurma, alınması gereken göksel bir mesaj veya bazen dünyevi ile ilahi irade arasında engellenmiş bir akış temasıyla bağdaştırılabilir. Çağrı almak, manevi bir uyanışa veya ilahi yanıta kulak verme çabası olarak okunabilir.",
+  "jewishTraditions": "Yahudi düşüncesinin iletişim, ilişki onarımı ve sözün etik kullanımı temaları üzerinden, telefon rüyaları haber alma, karşılıklı yanıt verme ve manevi bir geri dönüş (teshuvah) çağrısı şeklinde kontrollü bir okuma gerektirebilir.",
+  "buddhistEasternApproaches": "Budist iletişim ve farkındalık pratikleri bağlamında telefon, doğrudan klasik rüya öğretisinde yer almamakla birlikte konuşma niyetinin şefkatli, dikkatli ve bilinçli yürütülmesi gerektiğine dair modern bir hatırlatıcı nesne olarak düşünülebilir.",
+  "spiritualApproaches": "Telefonun çalışmaması veya hattın kopması, sezgisel kanallarda bir blokaj veya enerji akışının kesilmesi şeklinde yorumlanabilir. Rüyanın duygusal tonu, bunun olumlu bir yönlendirme mi yoksa tamamlanmamış bir temas mı olduğunu belirleyebilir.",
   "comparisonTable": [
     {
-      "approach": "İslami Yaklaşım (modern)",
-      "interpretation": "Haber, bağlantı ve destek arayışı temalarıyla yorumlanır.",
-      "evidenceLevel": "spiritual"
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Sembolü sabit bir anlamla açıklamak yerine, rüya içeriğini yapı, etkileşimler ve bireysel duygu durumu bağlamında inceler.",
+      "evidenceLevel": "research"
     },
     {
-      "approach": "Hristiyanlık ve Teknoloji Sosyolojisi",
-      "interpretation": "Modern iletişim aracının cemaat ve dini pratiklerle ilişkisini gösterir.",
-      "evidenceLevel": "research"
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Telefonu psikanalitik süreçte iletişim ve aktarım imgesi olarak ele alır; belirli psikanalitik örnekler sınırlı, bağlam-bağımlı okumalardır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Telefon çağrısını dua, ilahi mesaj alma ve yanıt verme temalarıyla ilişkilendirir; bu yorum geleneksel öğreti yerine modern analojik okumaya dayanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Uzak mesafeleri aşan bir sezgisel kanal, enerji alışverişi ve içsel bir çağrı aracı olarak değerlendirir.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Çağdaş yaklaşımların çoğunda telefon, uzak ile yakın arasında aracılık yapan, bilgi ve duygu aktarımı olanağı sağlayan bir köprü olarak görülür; farklı disiplinler bu köprünün hem olumlu (bağ kurma, haberleşme) hem de kırılgan (kopma, yanlış anlama) yönlerini vurgular.",
-  "differences": "Bazı modern yorumlar sembolü bireysel haber ve ilişkiler ekseninde ele alırken, sosyolojik çalışmalar telefonu topluluk, inanç pratikleri ve dijital iletişim bağlamında inceler.",
-  "inusAssessment": "Telefon, klasik metinlere dayanmayan modern bir nesne olduğundan rüya analizinde sabit anlamlar taşımaz. Anlam, rüya görenin uyanık yaşamındaki iletişim dinamikleri, beklediği haberler ve teknolojiyle kurduğu ilişkiye bağlıdır.",
+  "commonGround": "Çoğu yaklaşım telefonun temel işlevi olan 'bağlantı kurma', 'mesaj iletme' ve 'çağırma' özellikleri üzerinde birleşir; sembolün yorumu rüyanın bağlamı, duygusal tonu ve iletişimin kesilip kesilmediğine dayanır.",
+  "differences": "Psikoloji rüya içeriğinin yapısını ampirik olarak incelerken, psikanaliz bunu içsel süreçler ve aktarım metaforlarıyla açıklar; teolojik ve spiritüel yaklaşımlar ise sembolü ilahi mesajlar veya sezgisel enerji kanalları ekseninde yorumlar. Her yaklaşımın dayanağı ve genelleme sınırları farklıdır.",
+  "inusAssessment": "Telefon sembolü, diğer nesnelerden farklı olarak 'bağlantı', 'iletişim' ve 'erişim' dinamikleri üzerine yoğunlaşır. Rüyada telefonun çalması, bozuk olması ya da aranan kişiye ulaşılamaması gibi detaylar uyanık yaşamdaki diyalog kopukluklarını, içsel seslere kulak verme çabasını veya bekleyen haber/cevabı işaret edebilir. Tek bir anlam atanmamalıdır.",
   "faq": [
     {
-      "question": "Rüyada telefon görmek her zaman iyi haber anlamına mı gelir?",
-      "answer": "Hayır. Telefon haberleşmeyi simgeler; haberin olumlu mu olumsuz mu olduğunu rüyanın genel tonu ve rüya görenin duygusuna göre değerlendirmek gerekir."
+      "question": "Rüyada telefonun çalması ama açılamaması ne anlama gelir?",
+      "answer": "Bu durum genellikle uyanık yaşamda karşılaşılan bir fırsatı kaçırma kaygısını, içsel bir uyarıya karşı duyulan direnci veya iletişimde yaşanan tıkanıklıkları temsil edebilir."
     },
     {
-      "question": "Telefonun klasik rüya tabirlerinde yeri var mıdır?",
-      "answer": "Kısaca: Hayır. Telefon modern bir araçtır; klasik metinlerde yer almaz; çağdaş yorumlar analojiye dayanır."
+      "question": "Telefon rüyaları doğrudan bir kehanet midir?",
+      "answer": "Hayır; telefon rüyaları geleceği öngören kesin kehanetler değil, kişinin iletişim kurma isteklerini, kaygılarını veya çözülmemiş diyaloglarını yansıtan modern psikolojik ve ruhsal imgelerdir."
     }
   ],
   "sources": [
     {
-      "title": "L. Martínková: GSM Technology and Its Use in Religious Life",
-      "relevance": "Dijital teknolojinin Hristiyanlık ve Yahudi dini pratikleri ve sembollerindeki rolünü; telefonun modern dini kullanımındaki yerini örneklerle inceler.",
-      "url": "https://journals.muni.cz/mujlt/article/download/2472/2036/0"
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya raporlarını sistematik biçimde kodlayan içerik analizi çerçevesi; telefon gibi tekil imgeleri değil, rüya olaylarının yapısını ve etkileşim örüntülerini incelemek için temel yöntem sunar.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
     },
     {
-      "title": "Connectivity and communion: The mobile phone and the Christian religious experience in Nigeria",
-      "relevance": "Cep telefonunun Hristiyan dini deneyimde iletişim, cemaat ilişkileri ve dijital pratiklerle nasıl ilişkili olduğunu sosyolojik bir bakışla ele alır.",
-      "url": "https://www.academia.edu/44488088/Connectivity_and_communion_The_mobile_phone_and_the_Christian_religious_experience_in_Nigeria"
+      "title": "[PDF] Dream content and its relationship to trait anxiety",
+      "relevance": "Kaygı düzeyi ile belirli rüya içeriklerinin ilişkilendirildiğini gösteren ampirik örnek; rüya sembollerinin duygu durum ve bireysel farklarla birlikte değerlendirilmesi gerektiğini destekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/59519/60069/189081"
     },
     {
-      "title": "Телефон по Исламскому соннику: к чему снится и что означает сон?",
-      "relevance": "Modern çevrimiçi İslami rüya sözlüğü örneği olarak telefonu haber alma, bağlantı kurma ve uzak kişilerle ilişki temaları bağlamında yorumlar.",
-      "url": "https://pro-sni.ru/k-chemu-snitsya-telefon-v-islamskom-sonnike/"
+      "title": "Dream content analysis using Artificial Intelli- gence",
+      "relevance": "Rüya verilerinin telefon uygulamalarıyla toplanabildiğini ve zaman içinde izlenebildiğini gösteren yöntemsel çalışma; modern veri toplama bağlamı hakkında bilgi verir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/48744/54228"
     },
     {
-      "title": "Rêver de téléphone interprétation et signification en islam",
-      "relevance": "Çağdaş çevrimiçi İslami yorumlardan bir örnek olarak telefon sembolünü iletişim, destek arayışı ve yeni haberlerin gelişi üzerinden açıklar.",
-      "url": "https://liiqa.com/rever-de-telephone/"
+      "title": "Jefferson Journal of Psychiatry",
+      "relevance": "Freud'un telefon benzetmesini ve Freud'a atfedilen bozuk telefon rüya örneğini aktarırken, telefonun iletişim aracı ve bazı psikanalitik okumalarda erişim/bedensel işlevle ilişkilendirilebileceğine dair tekil bir örnek sunar.",
+      "url": "https://jdc.jefferson.edu/cgi/viewcontent.cgi?article=1219&context=jeffjpsychiatry"
+    },
+    {
+      "title": "An even hover‐reading of Freud: The work of metaphor",
+      "relevance": "Freud'un metafor kullanımını, özellikle telefon metaforunu psikanalitik sürecin anlatımıyla ilişkilendiren akademik makale; telefon imgesinin metaforik işlevine dair tartışma sağlar.",
+      "url": "https://www.tandfonline.com/doi/full/10.1111/1745-8315.12518"
+    },
+    {
+      "title": "Ask and You Shall Receive - Apostle David E. Taylor ...",
+      "relevance": "Telefon rüyasını dua, ilahi mesaj ve engellenmiş iletişim temalarıyla ilişkilendiren modern Hristiyan yorum metni; analojik teolojik okuma örneği sunar.",
+      "url": "https://joshuamediaministries.org/dreams/telephone/"
+    },
+    {
+      "title": "The Phone Call Dream",
+      "relevance": "Telefon çağrısını dua ve göksel mesaj sembolü olarak yorumlayan Hristiyan rüya yazısı; modern dinsel yoruma dair örnek teşkil eder.",
+      "url": "https://www.magnificatministries.ca/dream-interpretation-the-phone-call-dream"
+    },
+    {
+      "title": "Topical Bible: Symbolism of Prayer",
+      "relevance": "Duanın ilahi olanla iletişim işlevini öne çıkaran Hristiyan sembolizmi özeti; telefon imgesi için kontrollü analojik okuma zemini sağlar.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_prayer.htm"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Yahudi düşüncesinde rüyalar hakkındaki genel yaklaşımı ve telefon sembolü için iletişim, bağlantı, teshuvah ve söz etiği ekseninde modern bir Yahudi okumasını açıklar.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "Telephone Meditation, by Thich Nhat Hanh",
+      "relevance": "Telefonla konuşurken farkındalık, yavaşlama ve şefkatli söz kullanma pratiğini anlatır; Budist iletişim sembolizmi için modern bir ilişki kurma metnidir.",
+      "url": "https://buddhismnow.com/2014/05/03/telephone-meditation-by-thich-nhat-hanh/"
+    },
+    {
+      "title": "Phone & Communication Dreams: What It Means to ... - Hypnos",
+      "relevance": "Telefonu rüyada uzaklıkları aşan bir eşik aracı, bağlantı kurma ve sezgisel çağrı sembolü olarak ele alan modern ezoterik yorum örneğidir.",
+      "url": "https://www.usehypnos.com/blog/phone-communication-dream-meaning"
+    },
+    {
+      "title": "Phone in dreams — meaning and symbolism",
+      "relevance": "Telefon sembolünü ezoterik okumada görünmez bağlar, enerji alışverişi ve içsel çağrı ile ilişkilendiren popüler bir yorum kaynağıdır.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/phone"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
 }

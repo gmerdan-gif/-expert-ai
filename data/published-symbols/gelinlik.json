@@ -1,125 +1,239 @@
 {
   "slug": "gelinlik",
   "title": "gelinlik",
-  "shortDescription": "Rüyada gelinlik görmek, yeni bir döneme geçişi, saflığı veya evlilik ve toplumsal rollerle ilgili duyguları yansıtabilir. Temiz bir gelinlik uyum ve kutlama hissini, lekeli bir gelinlik beklenti ve kusursuzluk baskısını, başkasına ait bir gelinlik ise kimlik ve rollerle ilgili kaygıları öne çıkarabilir.",
+  "shortDescription": "Rüyada gelinlik görmek, sabit ve tek bir anlamdan ziyade kimlik, rol değişimi, toplumsal görünürlük ve ilişki kurma biçimleri etrafında şekillenen çok katmanlı bir semboldür.",
   "positiveAssociations": [
-    "Saflık ve arınma",
-    "Yeni bir yaşam evresine geçiş",
-    "İçsel bütünleşme veya birleşme arayışı (teorik çerçevelerde)",
-    "Törensel statüde olumlu bir değişim veya kutlama"
+    "Evlilik ve bağlanma arzusu",
+    "İçsel bütünlük ve karşıtların uzlaşması",
+    "Yeni bir yaşam evresine veya kimliğe geçiş",
+    "Toplumsal onay ve görünürlük",
+    "Ruhsal saflık ve yenilenme"
   ],
   "challengingAssociations": [
-    "Toplumsal beklentiler ve performans baskısı",
-    "Bireysel kimlik ile üstlenilen sosyal rol arasında sıkışma",
-    "Törensel beklentilerin yarattığı kaygı ve kusursuzluk baskısı",
-    "Normlara uyma zorunluluğunun getirdiği kısıtlanma hissi"
+    "Yeni bir role geçişin yarattığı tereddüt veya kaygı",
+    "Toplumsal beklentiler ile bireysel arzu arasındaki gerilim",
+    "Örtme, sergileme ve sansür dinamikleri",
+    "Bağlanma sürecindeki belirsizlikler"
   ],
   "contextDependentAssociations": [
-    "Kültüre göre gelinliğin rengi, biçimi ve süslemesi farklı anlamlar taşır (ör. beyazlık Batı’da saflıkla ilişkilendirilirken, bazı kültürlerde farklı renkler uğur veya bereket simgeler).",
-    "Gelinliğin üzerindeki süslemeler, dantel, duvak gibi öğeler rüyada kişisel kimliğin veya tören performansının nasıl deneyimlendiğine dair ipuçları verebilir."
+    "Gelinliğin renginin beyaz dışında farklı tonlar içermesi",
+    "Giysinin rüya sahibinde dar, bol veya rahatsızlık hissi uyandırması",
+    "Düğün ortamındaki kalabalık, hazırlıksızlık veya törensel detaylar"
   ],
   "commonVariations": [
     {
-      "title": "Üzerinize tam oturan beyaz gelinlik giymek",
-      "description": "Rüyada beyaz, iyi oturan bir gelinlik giymek, kültürel olarak benimsenmiş saflığı, rolü kabullenmeyi veya bir eşik ritüeline uyum hissini yansıtabilir."
+      "title": "Üzerine tam oturan beyaz gelinlik giymek",
+      "description": "Rüya sahibinin yeni bir kimliği veya toplumsal rolü kabullenmeye hazır olduğunu ve içsel bir uyum yakaladığını simgeler."
     },
     {
-      "title": "Kirlenmiş ya da lekelenmiş gelinlik",
-      "description": "Gelinliğin lekeli veya kirli olması, törenle ilgili kaygılar, toplumun beklediği kusursuzluğa uymama korkusu veya bir planın beklendiği gibi gitmemesi endişesine işaret edebilir."
+      "title": "Gelinliği giymekte zorlanmak veya giysinin dar gelmesi",
+      "description": "Üstlenilen yeni rolün veya toplumsal beklentilerin kişinin mevcut kimliği üzerinde yarattığı baskı ve tereddütleri yansıtır."
     },
     {
-      "title": "Geleneksel veya tarihî motifli gelinlik",
-      "description": "Belirgin kültürel motifler taşıyan bir gelinlik, ailenin/geleneğin beklentileri ile bireysel tercih arasındaki gerginliği veya geçmişten miras kalan tören normlarını sorgulamaya işaret edebilir."
+      "title": "Kalabalık bir düğünde gelinlikle beklemek",
+      "description": "Toplumsal görünürlük, başkalarının bakışları altında olma duygusu ve onaylanma arzusunu ön plana çıkarır."
     },
     {
-      "title": "Başkasına ait gelinliği denemek",
-      "description": "Kendinize ait olmayan bir gelinliği giymek, başkalarının rollerini veya kararlarını benimseme, bir ilişkinin yükümlülüklerini üstlenme ya da başkalarının hayatındaki törenleri kendi yaşamınıza yansıtma eğilimini simgeler."
+      "title": "Gelinliği kirli veya lekeli görmek",
+      "description": "Yeni bir başlangıç veya saflık fikriyle ilgili içsel kaygıları, temizlenme ihtiyacını ve olası hayal kırıklıklarını gösterir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
+  "psychology": "Bilişsel rüya araştırmaları, gelinlik gibi imgelerin sabit bir evrensel anlam taşımadığını, rüya anlatısındaki ayrıntıların ve eşlik eden duyguların yorumu belirlediğini vurgular. Psikanalitik çerçevede ise kıyafetler, sansürlenmiş içeriklerin dolaylı dışavurumu olarak ele alınır. Bu bağlamda gelinlik imgesi, bedensel sergilenme, kadınlık, cinsellik ve toplumsal rol sunumu ile bağlanma arzusu arasındaki gerilimi temsil edebilir.",
+  "jungian": "Jungcu analitik psikolojide gelin figürü, karşıtların birleşmesini ve 'coniunctio' temasını çağrıştıran arketipsel bir imgedir. Beyaz gelinlik, bu birleşme ve dönüşüm sahnesini görünür kılan sembolik bir giysi olarak ele alınır. Aynı zamanda giysi, kişinin üstlendiği rolü ve bunun bireyin özüyle ilişkisini sorgulayan 'persona' kavramı üzerinden kimlik değişimine işaret eder.",
   "islamicTradition": "",
-  "christianTraditions": "Hristiyan sembolizminde beyaz gelinlik genellikle gelinin saflığını ve Tanrı’ya olan saygısını simgeler; bazı geleneklerde bu imge Mesih’in gelini olarak kilisenin temiz ve parlak giysilerle betimlenmesi motifine bağlanır.",
-  "jewishTraditions": "Yahudi düğün geleneğinde beyaz gelinlik, saflık, tövbe ve bağışlanmayla ilişkilendirilerek temiz bir başlangıcın simgesi olarak yorumlanır.",
-  "buddhistEasternApproaches": "Budist ve diğer Doğu geleneklerinde gelin kıyafetleri çoğunlukla kültürel-törensel bağlamda anlam taşır; bazı modern açıklamalarda beyazlık saflıkla ilişkilendirilse de bu, evrensel bir Budist rüya yorumu değildir ve kültüre özgü tören pratiğinin bir parçası olarak görülmelidir.",
-  "spiritualApproaches": "Çağdaş spiritüel ve ezoterik yaklaşımlarda gelinlik bazen ruhsal saflık, ilahi birlik veya transandans arayışıyla bağlantılandırılır; bu okumalar geleneksel dinî kaynaklardan çok modern spiritüel yorumlar içinde yer alır.",
+  "christianTraditions": "Hristiyan sembolik okumalarında gelinlik, inananların Mesih ile olan bağı, saflık ve Tanrı önünde doğruluk fikriyle ilişkilendirilir. Beyaz düğün elbisesi, temizlik, yenilenme ve kutsal olana hazırlanmışlık temalarını çağrıştıran görsel bir metafor olarak değerlendirilir.",
+  "jewishTraditions": "Yahudi sembolizminde beyaz gelin giysisi: arınma, günahların bağışlanması, sevinç ve yeni bir ev kurma fikriyle birlikte okunur. Bu bağlamda gelinlik, topluluk önünde yaşanan kutsanmış bir eşik ve hazırlanmışlık temalarını destekler.",
+  "buddhistEasternApproaches": "Theravada kültüründe gelin kıyafetleri, gösterişli törensel giysiler aracılığıyla evlilik, toplumsal statü ve kamusal görünürlükle ilişkilendirilir.",
+  "spiritualApproaches": "Spiritüel ve ezoterik okumalarda gelinlik, eski bir yaşam evresinden veya kimlikten yeni bir role geçişi simgeleyen bir sınır eşiği olarak ele alınır. İçsel birlik, bağlılık ve dönüşüm potansiyelini barındırır.",
   "comparisonTable": [
     {
-      "approach": "Jungcu Analitik Psikoloji",
-      "interpretation": "Gelin imgesini karşıtların birliği ve bireyleşme süreci çerçevesinde değerlendirir.",
+      "approach": "Psikanalitik Kuram",
+      "interpretation": "Arzu, sansür, bedensel sunum ve toplumsal rollerin kıyafet üzerinden dışavurumu.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Yahudi ve Hristiyan Geleneği",
-      "interpretation": "Beyaz gelinlik saflık, bağışlanma ve yeni başlangıç temalarıyla ilişkilendirilir.",
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Karşıtların birleşmesi, bireyleşme eşiği ve persona değişimi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Teolojik Sembolizm",
+      "interpretation": "Mesih ile birlik, ruhsal saflık, doğruluk ve kutsal antlaşmaya hazırlanma.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hindu ve Doğu Gelenekleri",
-      "interpretation": "Gelin kıyafetleri uğur, bereket, tören statüsü ve bazen ilahi bağlılık bağlamında anlam kazanır.",
+      "approach": "Yahudi Geleneksel Sembolizmi",
+      "interpretation": "Arınma, bağışlanma, yeni bir ev kurma ve kutsanmış birliktelik.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Modern Spiritüel Yaklaşımlar",
-      "interpretation": "Manevi saflık ve ilahi birlik arayışı metaforları üzerinden yorumlanır.",
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Eski kimlikten arınma, geçiş eşiği ve içsel birleşme.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Çeşitli disiplinlerde gelinlik, dönüşüm, geçiş ve kimliğin tanınması bağlamında ortak bir sembolik rol oynar; tören nesnesi olarak statü değişimi ve eşik fikri çoğunlukla vurgulanır.",
-  "differences": "Akademik/historik çalışmalar gelinliği toplumsal cinsiyet, performans ve ritüel bağlamında çözümlerken; dini gelenekler daha çok saflık, bağışlanma ve kutsal birlik temalarına odaklanır. Psikolojik/Jungcu okumalar ise bu dışsal tören nesnesini içsel bütünleşme ve bireyleşme metaforuna dönüştürür.",
-  "inusAssessment": "Gelinlik sembolü tekil, belirleyici bir anlama indirgenemez; kültürel tarih, toplumsal roller ve kişisel psikoloji kesişiminde anlam kazanır. Rüyada gelinlik görmek doğrudan bir kehanet yerine, kişinin yaşamındaki rol değişimleri, tören beklentileri veya içsel bütünleşme süreçlerine dair bir işaret olarak değerlendirilmelidir; bağlam ve kişinin öyküsü yorumda belirleyicidir.",
-  "faq": [],
+  "commonGround": "Farklı disiplinler ve gelenekler, gelinlik imgesinin temelinde \"geçiş\", \"eşik\" ve \"yeni bir bağ kurma\" hallerinin bulunduğu konusunda hemfikirdir. Gelinlik, bireyin hayatındaki büyük bir dönüşümü ve yeni bir kimlik kazanma sürecini temsil eder.",
+  "differences": "Yaklaşımlar arasındaki temel fark, odak noktalarında görülür. Psikanalitik yaklaşım arzu ve içsel çatışmalara odaklanırken, Jungcu perspektif içsel bütünleşmeye ve arketipsel birleşmeye odaklanır. Teolojik ve geleneksel okumalar ise giysiyi ruhsal saflık, antlaşma ve toplumsal kabul ekseninde değerlendirir.",
+  "inusAssessment": "Rüyada gelinlik görmek, kimlik, toplumsal roller ve bağlanma dinamikleri arasındaki gerilimi barındıran, tek bir düzeye indirgenemeyen özel bir semboldür. Rüya içinde gelinliğin nasıl taşındığı, rüya sahibinin bu yeni role ne kadar hazır olduğu ve eşlik eden duygusal ton, yorumun yönünü belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada gelinlik görmek her zaman evliliğe mi işaret eder?",
+      "answer": "Hayır. Araştırmalar ve psikolojik okumalar, gelinliğin doğrudan evlilikten ziyade kimlik değişimi, rol geçişleri ve toplumsal görünürlük gibi temalarla da ilişkili olabileceğini göstermektedir."
+    },
+    {
+      "question": "Gelinliğin renginin beyaz olmaması rüyayı nasıl etkiler?",
+      "answer": "Beyaz renk genellikle saflık ve yenilenmeyle bağdaştırılırken, farklı renkler veya kumaş detayları rüya sahibinin kişisel çağrışımlarına ve giysinin üzerindeki duruşuna göre farklı psikolojik ya da kültürel katmanlar kazanabilir."
+    }
+  ],
   "sources": [
     {
+      "title": "Hall: A Cognitive Theory of Dream Symbols",
+      "relevance": "Rüya sembollerinin, özellikle giysi ve ilişki imgelerinin, bağlam ve kişisel çağrışımlar içinde ele alınmasına ilişkin bilişsel çerçeve.",
+      "url": "https://dreams.ucsc.edu/Library/hall_1953a.html"
+    },
+    {
+      "title": "Chapter 9: The Repetition Dimension in Dreams and Waking Cognition",
+      "relevance": "Düğünle ilişkili rüya imgelerinin görülme sıklığı ve tekrarlayıcı niteliği hakkında, benzer semboller bağlamında yararlı bağlamsal bulgu.",
+      "url": "https://dreams.ucsc.edu/Library/fmid9.html"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud'un rüyanın bastırılmış isteğin örtük gerçekleşmesi olduğu yönündeki temel kuramını sunar; gelinlik imgelerinin psikanalitik yorumlanmasına çerçeve sağlar.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Kıyafet ayrıntılarının rüyalarda bedensel ve cinsel çağrışımlarla yorumlandığı somut bir Freud örneği sunar; gelinlik imgelerinin psikanalitik okunmasına dolaylı dayanak sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyanın arzu, bastırma ve kaygı ilişkisini açıklayan Freud metnine erişim sağlar; gelinlik için bağlanma ve toplumsal görünürlük temalarının yorumlanmasında kullanılır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
       "title": "The Bride and the Coniunctio: An Archetypal Image of Love ...",
-      "relevance": "Jungcu çerçevede gelin/gelinlik imgesinin coniunctio (karşıtların birliği) ve bireyleşme temalarıyla nasıl ilişkilendirildiğini ele alır.",
+      "relevance": "Gelin figürünü ve beyaz gelinliği coniunctio, karşıtların birleşmesi ve bireyleşme bağlamında ele alır; Jungcu sembolik okuma için doğrudan açıklama sunar.",
       "url": "https://santacruzpsychologist.com/the-bride-and-the-coniunctio-an-archetypal-image-of-love-and-union/"
     },
     {
-      "title": "The Threads, Trends and Threats of the Wedding Dress:",
-      "relevance": "Beyaz gelinlik geleneğinin tarihsel yaygınlaşmasını, özellikle Viktorya dönemi etkisini tartışarak gelinliğin modern kültürel anlamını bağlamlandırır.",
-      "url": "https://core.ac.uk/download/211518852.pdf"
+      "title": "Wedding dress in a Dream: Meaning and Sources",
+      "relevance": "Giysiyi kişinin üstlendiği rol ve aidiyet sorusu üzerinden yorumlar; gelinlik için persona ve rol değişimi ekseninde Jungcu okuma imkânı verir.",
+      "url": "https://rosmertapublishing.com/dream-symbols/wedding-dress/"
     },
     {
-      "title": "“You just nod and pin and sew and let them do their thing”: An Analysis of the Wedding Dress as an Artifact and Signifier – Ethnologies",
-      "relevance": "Gelinliği çağdaş düğün töreninde sembolik bir nesne olarak inceler; feminenlik, cinsellik ve toplumsal beklentiler bağlamında analiz sunar.",
-      "url": "https://www.erudit.org/en/journals/ethno/2005-v27-n2-ethno1439/014048ar/"
+      "title": "What Does Your Wedding Dream Mean?",
+      "relevance": "Evlilik düşlerini Jung’un \"kutsal evlilik\" / \"simyasal düğün\" kavramlarıyla ilişkilendirir; gelinlik sembolünü içsel birleşme ve karşıtların uzlaşması bağlamına yerleştirir.",
+      "url": "https://thisjungianlife.com/what-does-your-wedding-dream-mean/"
     },
     {
-      "title": "“You just nod and pin and sew and let them do their thing”: An Analysis of the Wedding Dress as an Artifact and Signifier",
-      "relevance": "Gelinliğin maddi özelliklerinin (renk, stil, süsleme) toplumsal mesajlar iletmedeki rolünü ve tören iletişimini vurgular.",
-      "url": "https://www.erudit.org/fr/revues/ethno/2005-v27-n2-ethno1439/014048ar.pdf"
+      "title": "[PDF] jung's two personalities and the making of analytical psychology",
+      "relevance": "Jung’un biyografik rüya malzemesinde elbise giymiş kadın imgesinin bütünlük ve ilişki alanı ile bağlantılı yorumlanmasına dair akademik bağlam sağlar.",
+      "url": "https://repository.essex.ac.uk/26703/1/PhD%20Thesis%20-%20'Two%20souls%20alas...'%20Jung's%20two%20personalities%20and%20the%20making%20of%20analytical%20psychology.pdf"
+    },
+    {
+      "title": "Arts and Design Studies www.iiste.org",
+      "relevance": "Gelin kıyafetinin Batı tarihindeki gelişimi ve beyaz rengin saflık/bekâret çağrışımları.",
+      "url": "https://www.iiste.org/Journals/index.php/ADS/article/viewFile/12785/13105"
+    },
+    {
+      "title": "Adaptation of Traditional Symbols into Bridal Wear",
+      "relevance": "Gelin kıyafetinin Batı geleneğindeki tarihsel dönüşümü ve beyaz gelinliğin sembolik anlamları.",
+      "url": "https://www.iiste.org/Journals/index.php/ADS/article/download/12785/13105"
+    },
+    {
+      "title": "[PDF] meaning in western saudi bridal costumes",
+      "relevance": "Geleneksel gelin kostümünün kültürel anlamları, tören işlevi ve toplumsal değerleri.",
+      "url": "https://dr.lib.iastate.edu/server/api/core/bitstreams/c221d477-85bc-420a-9c3f-c37734074273/content"
+    },
+    {
+      "title": "[PDF] ̱ ʹ͸Ͷ ̱ The Traditional Evolution of Style and Especially of Color ...",
+      "relevance": "Batı gelinliğinde beyaz rengin tarihsel sembolizmi.",
+      "url": "https://pdfs.semanticscholar.org/28ad/2f99bc336e76b2bda740023bca427b4542a4.pdf"
+    },
+    {
+      "title": "The history of the wedding dress - The Style Historianᵀᴹ",
+      "relevance": "Gelin kıyafetinin farklı kültürlerde statü, iyi talih ve yerel sembolizmle ilişkisi.",
+      "url": "https://www.thestylehistorian.com/articles/the-history-of-the-wedding-dress"
+    },
+    {
+      "title": "The History and Symbolism Behind Wedding Dress ...",
+      "relevance": "Modern beyaz gelinlik geleneğinin Batı kültüründe yaygınlaşması ve gelin kıyafetinin daha geniş sembolik anlamları.",
+      "url": "https://lakesidebridal.com/the-history-and-symbolism-behind-wedding-dress-traditions/"
+    },
+    {
+      "title": "Dream symbols: Weddings – and what they mean",
+      "relevance": "Hristiyan bağlamda düğün ve gelinlik sembolizmini, gelinin kilise ve inanan kimliğiyle ilişkisi üzerinden açıklar.",
+      "url": "https://heavensdreammessages.com/dream-symbols-weddings-and-what-they-mean/"
+    },
+    {
+      "title": "What Does Dreaming About a Wedding Dress Mean?",
+      "relevance": "Gelinliğin Hristiyan çerçevede bağlılık, birlik, doğruluk ve kutsal hazırlıkla ilişkilendirilen bir sembol olarak ele alınmasına örnek verir.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/wedding-dress/"
+    },
+    {
+      "title": "Topical Bible: Wedding-Garment",
+      "relevance": "Matta 22’deki düğün giysisi sembolünün doğruluk ve Tanrı’nın krallığına uygun hazırlanmışlıkla ilişkisini sunar.",
+      "url": "https://biblehub.com/topical/w/wedding-garment.htm"
+    },
+    {
+      "title": "What the Bible says about Wedding Garment - Bible Tools",
+      "relevance": "Düğün giysisini Mesih’e bürünme, doğruluk, tövbe ve itaat sembolizmiyle açıklar.",
+      "url": "https://www.bibletools.org/index.cfm/fuseaction/Topical.show/RTD/cgg/ID/8650/Wedding-Garment.htm"
+    },
+    {
+      "title": "The Wedding Garment: A Baptismal Gift",
+      "relevance": "Beyaz giysiyi vaftiz ve ‘düğün giysisi’ sembolizmiyle ilişkilendirir; gelinlik için kilise geleneğindeki ruhsal giysi arka planını gösterir.",
+      "url": "https://word-life-light.com/wedding-garment/"
     },
     {
       "title": "Jewish Wedding Apparel",
-      "relevance": "Yahudi düğün kıyafet geleneğinde beyaz gelinliğin saflık, tövbe ve yeni başlangıç anlamlarını açıklar; gelinlik sembolizmini dinsel tören bağlamında değerlendirir.",
+      "relevance": "Yahudi düğün kıyafetinde beyaz gelinliğin saflık, arınma ve bağışlanma ile ilişkisini açıklar.",
       "url": "https://www.chabad.org/library/article_cdo/aid/480523/jewish/Jewish-Wedding-Apparel.htm"
     },
     {
-      "title": "Christian Wedding Traditions - Documents and Designs www.documentsanddesigns.com › resources › christian-wedding-traditions",
-      "relevance": "Hristiyan düğün geleneğinde beyaz gelinliğin saflık ve Mesih’in kilisesiyle ilişkilenen sembolik anlamını açıklar.",
-      "url": "https://www.documentsanddesigns.com/resources/wedding-traditions-ethnic-customs-symbols-ritual-heritage/christian-wedding-traditions/"
+      "title": "The Huppah (Chuppah): What You Need to Know | My Jewish Learning",
+      "relevance": "Huppahın ilahî varlık ve yeni kurulan ev sembolü oluşunu anlatır; düğün sembolizmi bağlamı sağlar.",
+      "url": "https://www.myjewishlearning.com/article/chuppah/"
     },
     {
-      "title": "Comment s'habiller pour un mariage bouddhiste afin d' ...",
-      "relevance": "Budist bağlamlarda düğün kıyafetleri ve renk sembolizmi üzerine güncel uygulamalara ilişkin açıklamalar içerir; gelinliğin kültürel-törensel işlevini gösterir.",
-      "url": "https://www.abcsalles.com/guide/mariage/tenues-traditionnelles-mariage-bouddhiste"
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Yahudi rüya geleneğinin ana rabbanî metinlerinden biri olarak Berakhot’un rüya pasajlarına erişim sağlar.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
     },
     {
-      "title": "A noiva tradicional indiana hindu: análise dos elementos estéticos e suas simbologias",
-      "relevance": "Hindu gelin giysisindeki estetik öğeler ve bunların uğur, bereket ve törenî anlamlarla nasıl ilişkilendirildiğini analiz eder.",
-      "url": "https://repositorio.ufc.br/handle/riufc/32312"
+      "title": "A SURVEY OF JEWISH MARRIAGE CUSTOMS",
+      "relevance": "Yahudi evlilik gelenekleri ve düğün adetleri üzerine genel bir çalışma; gelinlik ve evlilik törenini Yahudi geleneksel bağlamına yerleştirmek için kültürel arka plan sağlar.",
+      "url": "https://torah.org/learning/women-class9/?print-posts=pdf"
     },
     {
       "title": "Significance of Bridal gown",
-      "relevance": "Theravada ve benzeri bağlamlarda gelin kıyafetinin törensel ve toplumsal statü boyutlarına dair açıklayıcı materyal sunar.",
+      "relevance": "Theravada bağlamında bridal gown/gelinlik sembolünü Visakha’nın düğün kıyafeti, toplumsal statü ve törensel evlilik temalarıyla ilişkilendirir.",
       "url": "https://www.wisdomlib.org/concept/bridal-gown"
     },
     {
-      "title": "Significance of Bridal outfit",
-      "relevance": "Vaişnavizm içinde gelin kıyafetinin ilahi birleşme ve tanrısal bağlılık anlamlarının nasıl yer aldığına dair temsili örnekler verir.",
-      "url": "https://www.wisdomlib.org/concept/bridal-outfit"
+      "title": "Rüyada gelinlik giymek ne anlama gelir? Rüyada gelinlik görmenin Tabiri",
+      "relevance": "Gelinlik rüyasını doğrudan ele alarak evlilik, sevinç ve hayırlı haber gibi geleneksel rüya yorumlarını listeliyor.",
+      "url": "https://www.hurriyet.com.tr/mahmure/ruya-tabirleri/ruyada-gelinlik-giymek-ne-anlama-gelir-ruyada-gelinlik-gormenin-tabiri-41392079"
+    },
+    {
+      "title": "Wedding dress spiritual meaning",
+      "relevance": "Gelinlik sembolünü ruhsal bağlamda saflık, bağlılık ve yeni başlangıçlarla ilişkilendiriyor; doğrudan rüya dili de içeriyor.",
+      "url": "https://spiritualmeaningacademy.com/wedding-dress-spiritual-meaning/"
+    },
+    {
+      "title": "Wedding Dress Dream Meaning & Interpretation - Mirror",
+      "relevance": "Gelinlik rüyasını dönüşüm, yeni kimlik, birleşme ve ezoterik okumalar açısından tartışıyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/wedding-dress/"
+    },
+    {
+      "title": "The Symbol of the Wedding Dress: Letting Go of Singlehood",
+      "relevance": "Gelinlik sembolünün bir sınır eşiği, yeni rol ve kimlik geçişi olarak yorumlanmasına ilişkin kültürel-spiritüel bir çerçeve sunuyor.",
+      "url": "https://conscious-transitions.com/the-symbol-of-the-wedding-dress-letting-go-of-singlehood/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
 }

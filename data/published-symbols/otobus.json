@@ -1,117 +1,206 @@
 {
   "slug": "otobus",
   "title": "otobüs",
-  "shortDescription": "Rüyada otobüs görmek, başkalarıyla paylaşılan hedeflere ve birlikte ilerlenen bir sürece işaret eder. Otobüste yolcu olmak ya da otobüsü başkasının sürmesi, hayatın yönü üzerindeki kontrolün kısmen dış etkenlere veya başkalarının kararlarına bağlı hissedildiğini gösterebilir.",
+  "shortDescription": "Rüyada otobüs görmek, kolektif bir yolculuğu, ortak bir rotayı ve grup dinamiklerine uyum sağlama ya da bu dinamikler içinde yer alma temasını temsil eder.",
   "positiveAssociations": [
-    "Toplulukla birlikte hareket etme",
-    "Ortak yönelim ve paylaşılan hedef",
-    "Ortak yönelim ve paylaşılan hedefler"
+    "Ortak hedefe birlikte ilerleme",
+    "Uyumlu topluluk hareketi",
+    "Hayat yolunda destekleyici rehberlik",
+    "Paylaşılan sorumluluk bilinci"
   ],
   "challengingAssociations": [
-    "Bireysel kontrolün sınırlı olması",
-    "Sosyal statü baskısı",
-    "Tercih dayatması"
+    "Bireysel kontrolün azalması",
+    "Kolektif akışın gerisinde kalma",
+    "Zamanlama ve fırsat kaybı",
+    "Rotanın dışına çıkma endişesi"
   ],
   "contextDependentAssociations": [
-    "Otobüsün başkası tarafından sürülmesi",
-    "Otobüsü kaçırma hissi",
-    "Az seçeneğe sahip olma algısı"
+    "Otobüse binmek veya inmek",
+    "Otobüsü kaçırmak veya beklemek",
+    "Otobüste kalabalık olmak",
+    "Otobüsü sürmek veya yönlendirmek"
   ],
   "commonVariations": [
     {
-      "title": "Kalabalık bir otobüste yolculuk yapmak",
-      "description": "Tanıdık veya yabancı insanlarla dolu bir otobüste seyahat etmek, sosyal çevre ve kolektif yaşam dinamikleriyle uyum sağlama sürecine işaret eder."
-    },
-    {
       "title": "Otobüsü kaçırmak",
-      "description": "Binmek istediğiniz otobüsün hareket ettiğini ve onu kaçırdığınızı görmek, gündelik yaşamda yaşanan bir gecikme, zamanlama sorunu veya kaçırılmış bir fırsat kaygısını yansıtır."
+      "description": "Planlanan bir kolektif akışın veya fırsatın gerisinde kalındığına dair zamanlama kaygısını ve kaçırılmışlık hissini yansıtabilir."
     },
     {
-      "title": "Otobüsü başkasının kullanması",
-      "description": "Sürücü koltuğunda başka birinin oturduğu bir otobüste yolcu konumunda olmak, yaşam yönü üzerindeki bireysel kontrolün dış etkenlere veya başkalarının kararlarına bağlı olduğu hissini gösterir."
+      "title": "Kalabalık bir otobüste seyahat etmek",
+      "description": "Sosyal bir grup içinde var olma, kişisel alanın sınırlanması ve başkalarıyla aynı kaderi paylaşma duygusunu simgeler."
     },
     {
-      "title": "Otobüsle bilinmeyen bir rotaya gitmek",
-      "description": "Rüyada varış noktası belirsiz bir otobüs hattında seyahat etmek, geleceğe yönelik belirsizlikleri, ani yön değişikliklerini ve geçiş dönemlerini temsil eder."
+      "title": "Otobüsü sürmek",
+      "description": "Rüyada otobüsü sürmek (şoför koltuğunda olmak), grup içindeki liderlik ve rota belirleme sorumluluğunu, karar verme baskısını ve grubun temposunu yönetme hissini öne çıkarır."
+    },
+    {
+      "title": "Yanlış otobüse binmek",
+      "description": "Hayatta izlenen rotanın veya verilen kararların sorgulanması, yanlış yönlendirilme hissi veya yön değişikliği ihtiyacına işaret eder."
     }
   ],
-  "psychology": "",
+  "psychology": "Rüya araştırmaları, rüyaların duygusal içerik taşıdığını gösterir; otobüs imgesi bağlamında aidiyet, başkalarıyla etkileşim, kontrol algısı ve grup içindeki konum gibi sosyal-duygusal temaların rüyadaki simgesel dışavurumudur.",
   "jungian": "",
-  "islamicTradition": "Modern rüya tabiri kaynaklarında otobüs, bireysel bir binek yerine toplu bir taşıt olarak ele alınır ve ortak girişimler, birlikte çıkılan yollar ile topluca ulaşılan hedefler bağlamında değerlendirilir.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "Modern spiritüel ve ezoterik yaklaşımlarda otobüs, yaşam yolculuğu, ortak kader, geçiş, dönüşüm ve dharma ile birlikte ilerleme fikriyle ilişkilendirilir. Otobüsün başkası tarafından sürülmesi ise dışsal rehberliğe veya kılavuz figürlere dayanmaya işaret edebilir.",
+  "islamicTradition": "Modern İslami rüya yorumu kaynaklarında otobüs, bir topluluk (ümmet veya cemaat) içinde ortak bir yolda ilerleme, hayatın yönü ve birlikte hareket etme temalarıyla ilişkilendirilir. Araç imgeleri genellikle kişinin yaşam yolculuğunu ve ortak amaçlar etrafındaki toplu çabalarını simgeler.",
+  "christianTraditions": "Hristiyan sembolik düşüncesinde bir rota üzerinde ilerleyen toplu taşıma aracı, iman topluluğunun ortak bir hedefe doğru yürüyüşünü çağrıştırır. Yolcunun bireysel kontrolünden vazgeçip süreci bir şoföre ya da rehbere bırakması, teslime ve yönlendirilmeyi kabul etmeye dair temalarla bağdaştırılabilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar sabit ve katı anlamlar taşımaz; rüyanın tonu ve rüya sonrası olumlu yorumlama pratikleri merkezdedir. Bir araçla seyahat etmek, toplu hareket ve yaşam yolunda ilerleme fikri üzerinden temkinli ve esnek bir okumayla ele alınabilir.",
+  "buddhistEasternApproaches": "Budist esinli çağdaş yaklaşımlarda otobüs, samsara döngüsü içinde birlikte yolculuk eden varlıkları, paylaşılan öğrenme süreçlerini ve toplu yönelimi çağrıştırır. Otobüsü sürmek başkalarına karşı sorumluluk ve şefkat temasıyla okunurken, kazalar veya aksamalar kontrol yanılsaması ve geçicilik farkındalığına işaret edebilir.",
+  "spiritualApproaches": "Spiritüel ve ezoterik okumalarda otobüs, bireysel iradeden ziyade kolektif bir akışa dahil olmayı temsil eder. Kişinin kendi temposunu bırakıp bir grubun rotasına uyması, ilahi zamanlama ve paylaşılan yaşam yönü gibi temalarla yorumlanır.",
   "comparisonTable": [
     {
-      "approach": "Kültürel ve Sosyal Yaklaşım",
-      "interpretation": "Otobüs kullanımını toplumsal statü, kamu taşımacılığı tercihleri ve ortak yolculuk dinamikleri çerçevesinde inceler.",
+      "approach": "Psikolojik Araştırma",
+      "interpretation": "Rüya duygularının ve günlük sosyal bağların, toplu taşıma imgeleri üzerinden duygusal bir yansıması.",
       "evidenceLevel": "research"
     },
     {
-      "approach": "Jungcu Çerçeve",
-      "interpretation": "Otobüsü bireysel kontrolün sınırlandığı ve kolektif bir akışa dahil olunduğu analitik bir imge olarak yorumlar.",
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Örtük düşüncelerin, kontrol dinamiklerinin ve hareket temasının dolaylı bir ifadesi.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Geleneksel / Modern İslami Tabir",
-      "interpretation": "Otobüsü toplu taşıt niteliğiyle ortak girişimler ve birlikte gidilen yaşam yolları olarak ele alır.",
+      "approach": "İslami Yaklaşım",
+      "interpretation": "Topluluk içinde ortak bir rota izleme, hayat yönü ve birlikte ilerleme teması.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Spiritüel ve Ezoterik Yaklaşım",
-      "interpretation": "Yaşam yolculuğu, ortak kader, geçiş dönemleri ve dışsal rehberlik temalarıyla bağdaştırır.",
+      "approach": "Hristiyan Gelenek",
+      "interpretation": "Bir rehber eşliğinde ortak bir hedefe doğru yürüyüş ve teslimiyet sembolizmi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Gelenek",
+      "interpretation": "Rüya anlamının sabit olmayıp olumlu yorumlama ve pratik yönelimlerle dönüştürülebilmesi çerçevesinde yolculuk okuması.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımları",
+      "interpretation": "Kolektif yaşam yolculuğu, geçicilik ve başkalarına karşı sorumluluk bilinci.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Bireysel kontrolün ötesinde kolektif bir akışa uyum sağlama ve paylaşılan yaşam yönü.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplin ve yaklaşımların ortak noktasında otobüs, bireyin tek başına hareket etmediği, bir topluluk veya paylaşılan rota içinde yer aldığı kolektif bir geçiş süreci imgesi olarak öne çıkar.",
-  "differences": "Kültürel çalışmalar otobüsü sosyal statü ve toplumsal tercihler üzerinden incelerken, Jungcu ve spiritüel yaklaşımlar bunu bireysel kontrolün sınırları, kader ve ruhsal geçiş süreçleri gibi içsel veya metafizik temalarla ilişkilendirir.",
-  "inusAssessment": "Otobüs sembolü, rüya görenin taşıttaki konumuna (sürücü veya yolcu), otobüsün hareket durumuna ve yolculuk hissine göre değişkenlik gösterir. Tek tip bir kehanet yerine, bireyin yaşamındaki ortak hareket alanlarını ve kontrol kaybı hislerini nasıl deneyimlediğini gösteren çok katmanlı bir bağlam sunar.",
+  "commonGround": "Hangi çerçeveden ele alınırsa alınsın, otobüs sembolü temel olarak bir yolculuk, yönelme ve başkalarıyla birlikte hareket etme ekseninde buluşur. Otobüs, bireyin tek başına yürüdüğü yoldan ziyade bir grup içinde paylaştığı deneyimleri işaret eder.",
+  "differences": "Yaklaşımlar arasındaki temel fark, odağın nereye yöneldiğidir. Psikolojik ve psikanalitik okumalar bireysel içgörüye, kontrol dinamiklerine ve duygusal tonlara odaklanırken, dini ve spiritüel gelenekler topluluk bilinci, rehberlik, ortak kader ve kolektif akış temalarını öne çıkarır.",
+  "inusAssessment": "Rüyada otobüs görmek, bireysel irade ile kalabalık bir grubun temposu arasındaki dengeyi sorgulayan görüntüler üretir. Otobüsün hareket halinde olması, kaçırılması ya da yön değiştirmesi gibi detaylar, rüya sahibinin sosyal hayatındaki akışa uyum sağlama, sorumluluk üstlenme veya akışın gerisinde kalma kaygılarını işaret edebilir. Otobüsün içindeki konum—şoför koltuğunda mı yoksa yolcular arasında mı olduğu—bireysel sorumluluk ve kolektif bağımlılık arasındaki ayrımı vurgular.",
   "faq": [
     {
-      "question": "Rüyada otobüs görmek ne anlama gelir?",
-      "answer": "Otobüs rüyaları genellikle toplu bir yaşam yolculuğunu, ortak hedefleri ve kolektif hareket etme temalarını yansıtır."
+      "question": "Rüyada otobüsün kaçırılması ne anlama gelir?",
+      "answer": "Otobüsün kaçırılması genellikle yaşamda veya bir grup projesinde zamanlama sorunları yaşandığına, fırsatların kaçırıldığına dair hissedilen kaygıları ve akışın gerisinde kalma korkusunu simgeler."
     },
     {
-      "question": "Rüyada otobüsü kaçırmak hangi anlama gelebilir?",
-      "answer": "Otobüsü kaçırmak, yaşamda bir fırsatın gecikmesi, zamanlama kaygısı veya hedeflere ulaşmada hissedilen ertelenme duygusuyla ilişkilendirilir."
-    },
-    {
-      "question": "Otobüsü başka birinin kullandığını görmek neyi ifade eder?",
-      "answer": "Bu durum, bireyin kendi yaşam yönü üzerindeki kontrolünün sınırlı olduğunu ve kararlarını dışsal rehberliğe veya başkalarına dayandırdığı hissini simgeleyebilir."
+      "question": "Rüyada otobüs sürmek neyi temsil eder?",
+      "answer": "Otobüsün sürücüsü olmak çoğunlukla liderlik sorumluluğu, karar verme baskısı ve bir grubun yönünü belirleme rolüne dair duygu ve beklentileri gösterir; bazı rüyalarda bunun yanında kontrolü elinde tutma isteğiyle uyum sağlamama veya hata yapma korkusu gibi karışık duygular da bulunabilir."
     }
   ],
   "sources": [
     {
-      "title": "Gauging differences in public transport symbolism across national cultures: implications for policy development and transfer",
-      "relevance": "Otobüsün kültürel anlamları ve toplumsal algılarla ilişkisini ele alır; özellikle kamu taşımacılığının statü, tercih ve ortak yolculuk çağrışımlarını gösterir.",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0966692318302023"
+      "title": "Relationships between Dream and Previous Wake Emotions ...",
+      "relevance": "Laboratuvar ve ev rüyalarında duygusal raporların sıklığını ve rüya-duygu ilişkisini inceleyen çalışma; otobüs gibi sosyal imgelerin duygusal tonla ilişkili olarak okunabileceğini destekler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601812/"
     },
     {
-      "title": "What Does Dreaming About A Bus Mean? - Rüya Tabirleri",
-      "relevance": "Otobüsün İslami rüya tabirinde toplu yolculuk, ortak gidiş ve birlikte varılan hedeflerle ilişkilendirildiği modern bir yorum metni.",
-      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-a-bus"
+      "title": "Predicting the affective tone of everyday dreams - PubMed Central",
+      "relevance": "Günlük rüya verilerinde rüyanın duygusal tonunu ölçmeye odaklanan çalışma; otobüs rüyalarında hissedilen duygu ve uyanıklık deneyimleri arasındaki ilişkinin araştırılabileceğine dair çerçeve sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6791936/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüya kuramı, taşıt imgelerinin kontrol, arzu ve örtük düşünceler bağlamında yorumlanabileceğini gösterir; otobüs için doğrudan hüküm vermez, ancak psikanalitik yorumlama çerçevesi sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Signification : Rêver d'un autobus - Psychologies.com",
+      "relevance": "Otobüs rüyasını Freudyen bakış açısıyla ele alan popüler bir açıklama; psikanalitik serbest çağrışım yöntemine dayalı yorum örneği sağlar.",
+      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Autobus"
+    },
+    {
+      "title": "Dream About a Bus — Meaning and Interpretation - Dremyo",
+      "relevance": "Güncel bir kaynak olarak otobüsü kolektif yolculuk ve bireyleşme gerilimi bağlamında yorumlar; Jungcu bir perspektife atıf yapan modern bir popüler yorumdur.",
+      "url": "https://www.dremyo.com/en/symbols/bus/"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’un rüya türleri ve yorum ilkelerini tartışan akademik çalışma; otobüs gibi modern imgeler için tarihsel rüya-yorumlama (oneirokritik) çerçevesi hakkında metodolojik zemin sağlar.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Rêver de bus signification et interprétation en islam",
+      "relevance": "Otobüsü hayat yönü, değişim ve yolculuk ekseninde ele alan modern İslami yorum; topluluk ve ortak rota temalarını vurgular.",
+      "url": "https://reve-islam.com/lettre-b/rever-de-bus/"
+    },
+    {
+      "title": "Rêver de bus en islam : signification (Ibn Sirin)",
+      "relevance": "Otobüsle seyahati ortak rota, proje ve hayat evresi olarak yorumlayan modern bir metin; İslami gelenek içinde tematik benzetmeler sunar.",
+      "url": "https://significations-reves.fr/rever-de/bus/islam/"
+    },
+    {
+      "title": "Rüyada Otobüse Binmenin Psikolojik Yorumu ve Anlamı",
+      "relevance": "Otobüse binmeyi cemaatle hareket, ortak amaç ve aynı kaderi paylaşma temalarıyla ilişkilendirir; popüler psikolojik yorum örneği sağlar.",
+      "url": "https://www.mentalgundem.com/ruyalar/ruyada-otobuse-binmenin-psikolojik-yorumu-ve-anlami/405"
+    },
+    {
+      "title": "What does a bus mean in a dream biblically | Biblical Dream ...",
+      "relevance": "Otobüsün kilise topluluğu, yolculuk ve yönlendirilme sembolizmiyle ilişkilendirilmesine dair modern Hristiyan yorum örneğidir.",
+      "url": "https://biblestep.com/dreams/what-does-a-bus-mean-in-a-dream-biblically"
+    },
+    {
+      "title": "Biblical Meaning of a Bus in Dreams: Journey, Direction, and ...",
+      "relevance": "Otobüsün yolculuk, cemaat ve ortak hedefe ilerleyiş çerçevesinde yorumlandığı popüler Hristiyan içeriklerinden biridir.",
+      "url": "https://thedreamguidebook.com/biblical-meaning-of-bus-in-dreams/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Talmud’daki rüya yaklaşımını özetleyen kaynak; rüyaların sabit anlamlar taşımadığı ve olumlu yorumlama/pratiklerin önemine dair Yahudi çerçevesi sağlar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 56 - My Jewish Learning",
+      "relevance": "Berakhot’taki rüya yorum geleneğinin olumlu yorumlama ve rüyanın etkisini dönüştürme boyutunu açıkladığı popüler bir özet kaynaktır.",
+      "url": "https://www.myjewishlearning.com/article/berakhot-56/"
+    },
+    {
+      "title": "Driving Bus Dream Meaning & Interpretation - Mirror",
+      "relevance": "Otobüs sürmeyi Budist esinli çağdaş bir bakışla rehberlik, sorumluluk ve topluca ilerleme temalarıyla ilişkilendiren modern bir yorumdur.",
+      "url": "https://mirrorwithin.org/dream-dictionary/driving-bus/"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Okul otobüsünü samsara, öğrenme ve şefkat temalarıyla ilişkilendiren Budist-çerçeveli çağdaş bir yorum örneğidir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/school-bus/"
+    },
+    {
+      "title": "Bus Accident Dream Meaning & Interpretation - Mirror",
+      "relevance": "Otobüs kazasını geçicilik, belirsizlik ve kontrol yanılsaması üzerinden okuyan Budist-çerçeveli çağdaş yorum örneğidir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/bus-accident/"
     },
     {
       "title": "Bus Dreams: Personal Direction, Shared Paths, and the ...",
-      "relevance": "Otobüsün Budist çerçevede kolektif yol, sangha ve dikkatli zihinsel eğitimle ilişkilendirildiğini öne süren çevrimiçi yorum metni; sembolün rüya bağlamındaki çağrışımlarını açıklar.",
+      "relevance": "Otobüs rüyasını bireysel yönelim, ortak rota ve topluluk içindeki yer ile ilişkilendiren modern spiritüel yorum metnidir.",
       "url": "https://www.dreamspoken.com/en/dream-meaning/bus"
     },
     {
-      "title": "Spiritual Meaning Of A Bus In A Dream In Hindu Religion",
-      "relevance": "Otobüsün Hindu bağlamında yaşam yolculuğu, topluluk deneyimi, dharma, guru figürü ve karma ile ilişkilendirildiğini anlatan çevrimiçi yorum metni; sembolün modern spiritüel okumasını verir.",
-      "url": "https://www.hindu-blog.com/2024/11/spiritual-meaning-of-bus-in-dream-in.html"
+      "title": "What Does It Mean to Dream About a Bus? Your Subconscious ...",
+      "relevance": "Otobüs sembolünü hayat yolculuğu, topluluk ve ruhsal yönelim çerçevesinde açıklayan popüler spiritüel içeriklerden biridir.",
+      "url": "https://nightomen.com/what-does-it-mean-to-dream-about-a-bus/"
     },
     {
       "title": "Spiritual Meaning of a Bus in a Dream: Understanding Life's ...",
-      "relevance": "Otobüsü ortak yolculuk, geçiş ve ruhsal büyüme sembolü olarak ele alan modern spiritüel yorum metni; Batı dışı ruhani dillerde kullanılan çağrışımları örnekler.",
+      "relevance": "Otobüs rüyasını kolektif yolculuk, ilahi zamanlama ve paylaşılan yön fikriyle ilişkilendiren modern spiritüel yorum örneğidir.",
       "url": "https://wordsspark.com/spiritual-meaning-of-a-bus-in-a-dream/"
     },
     {
-      "title": "Buses and Trains Spiritual Meaning (Voyage Into The Divine) - Spiritual Mojo",
-      "relevance": "Otobüs ve toplu taşıma sembollerini ruhsal yolculuk, yön değişimi ve ortak ilerleyiş temalarıyla ilişkilendiren modern spiritüel yorum metni; Batı dışı ruhani geleneklerdeki çağrışımları örnekler.",
-      "url": "https://spiritualmojo.com/buses-and-trains-spiritual-meaning/"
+      "title": "DREAM OF SEEING BUS - SPIRITUAL MEANING",
+      "relevance": "Otobüs rüyasını grup hareketi, yön ve birlik temalarıyla açıklayan modern popüler içerik.",
+      "url": "https://www.youtube.com/watch?v=mqHfyiRpvKM"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian",
+    "buddhist-eastern"
+  ]
 }

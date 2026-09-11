@@ -1,0 +1,186 @@
+{
+  "slug": "kek",
+  "title": "kek",
+  "shortDescription": "Rüyada kek görmek genellikle kutlama, paylaşım, bolluk ve emeklerin karşılığını alma ile ilişkilendirilir. Pişmiş veya paylaşılan kek tamamlanan bir süreci; yanmış, çökmüş ya da yenmeyen kek ise beklentinin karşılanmamasını ve hazırlıktaki aksaklıkları çağrıştırabilir.",
+  "positiveAssociations": [
+    "Kutlama ve özel bir eşik anı",
+    "Paylaşılan haz ve topluluk duygusu",
+    "Emeklerin meyvesini alma ve tatlılık",
+    "Bereket ve ilahi gıda çağrışımı"
+  ],
+  "challengingAssociations": [
+    "Beklenen bir şeyin kaybı veya hastalık olasılığı",
+    "Dünyevi zevklere aşırı kapılma veya oburluk",
+    "Peynirli veya hatalı hazırlanmış keklerde hile ve pusu çağrışımı",
+    "Mayalı keklerde günahkârlık ve hırs çağrışımı"
+  ],
+  "contextDependentAssociations": [
+    "Kekin kesiliş biçimi ve katmanların açığa çıkarılması",
+    "Rüyayı gören kişinin ekonomik veya sosyal bağlamı",
+    "Kekin yapımında kullanılan malzemeler ve tat profili",
+    "Yeme eyleminin rüyadaki duygusal tonu ve eşlik eden nesneler"
+  ],
+  "commonVariations": [
+    {
+      "title": "Katmanlı Keki Kesmek",
+      "description": "Uzun bir bıçakla keki tabandan dilimleyip katmanları dikkatle ayırmak, psikanalitik açıdan derinleşme ve örtülü içeriklerin açığa çıkarılmasıyla ilişkilendirilir."
+    },
+    {
+      "title": "Kek Yemek",
+      "description": "Rüyada kek yediğini görmek; haz, beslenme, ödül alma ve yaşamın tatlı anlarını içselleştirme fikriyle bağlantılı bir deneyim sunar."
+    },
+    {
+      "title": "Arpa Keki Görmek",
+      "description": "Kutsal metinlere dayanan okumalarda küçük ve mütevazı görünen bir kekin, bir ordugâhı veya engeli devirecek kadar büyük bir dönüşümü işaret edebileceği söylenir."
+    },
+    {
+      "title": "Fakir Bağlamında Kek Yemek",
+      "description": "Klasik aktarımlarda, yoksulluk veya yoksunluk içindeki bir rüya sahibinin tatlı hamur işi tüketmesi, hastalık ya da beklenen bir kazançta kayıp olasılığına işaret edebilir."
+    }
+  ],
+  "psychology": "Ampirik psikoloji çalışmalarında, yiyecek kategorisinde kek, şekerli yiyecekler ve açlık gibi unsurlarla birlikte rüya derleminde kodlanmaktadır. Psikanalitik çerçevede ise Sigmund Freud’un vakalarında kek; sabit bir sözlük anlamından ziyade katmanlı yapısı ve kesme eylemiyle rüya çalışmasında çağrışım zincirlerini birbirine bağlayan bir nesne olarak ele alınır. Yeme eylemi, hamilelik fantezileri ya da bastırılmış arzularla ilişkilendirilebilir.",
+  "jungian": "Jungcu ve analitik psikoloji çerçevesinde kek, çoğunlukla bir geçiş anını veya ritüel eşiği simgeleyen kutlama temalarıyla ilişkilendirilir. Yuvarlak ve bütün formu, benlik bütünlüğü ve mandalayı andıran bir tamlık fikriya benzer bir tamlık fikrini çağrıştırabilir. Ancak bu okumalar sabit bir dogma değildir; rüyanın öznel bağlamına göre değişen yorum çizgileridir.",
+  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında kek ve benzeri hamur işleri için dar ve tek bir anlam bulunmamakla birlikte, bazı kaynaklarda tatlı hamur işlerinin hoş kazançlarla ilişkilendirildiği; diğer durumlarda ise özellikle yoksulluk bağlamında hastalık veya beklenen bir şeyin kaybına işaret ettiği görülür. Anlam, rüya sahibinin hâline ve yiyeceğin niteliğine göre değişir.",
+  "christianTraditions": "Hristiyan teolojik ve sembolik okumalarında şekerli yiyecekler ve kekler ilahi gıda, dua, armağan veya kurban kavramlarıyla ilişkilendirilebilir. Mayalı kekler ise bazen günahkârlık, hırs veya oburluk unsurlarını simgeleyen alegorik bir arka plan sunabilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde ve Talmudik çerçevede kek için doğrudan standart bir sözlük tanımı yer almasa da, gıda motiflerinin önemi bilinmektedir. Özellikle Hakimler 7:13’te geçen arpa keki örneği, küçük ve sıradan görünen bir imgenin büyük tarihsel sonuçlar doğurabileceğine dair sembolik bir emsal teşkil eder.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yaklaşımlarda kek; adanmışlık, zevk alma kapasitesi, bolluk, kutlama ve emeklerin karşılığını alma temalarıyla ele alınır. Yaşamın tatlı yönlerini içselleştirme ve başkalarıyla neşeyi paylaşma arzusunu yansıtabilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Katmanları açma, yeme eylemi ve bastırılmış arzuların çağrışım zinciri.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Geçiş ritüeli, kutlama eşiği ve benlik bütünlüğünün sembolik formu.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel İslam Tabirleri",
+      "interpretation": "Bağlama göre hoş kazançlar veya yoksulluk durumunda kayıp/hastalık ihtimali.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "İlahi gıda, sunu veya oburluk ve mayalanmış günahkârlık alegorisi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Okumalar",
+      "interpretation": "Bolluk, tatlılık, emeklerin meyvesi ve paylaşılan kutlama neşesi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve psikolojik ekoller kekin sadece basit bir besin olmadığını, bireyin iç dünyasındaki hazırlık, beklenti, haz veya dönüşüm süreçleriyle derin bir bağ kurduğunu kabul eder.",
+  "differences": "Psikanaliz, keki katmanları açma ve örtülü içerikleri ortaya çıkarma gibi dinamik süreçler üzerinden değerlendirir; geleneksel ve spiritüel yaklaşımlar ise keki daha çok bereket, kutlama, kayıp riski ya da ilahi armağan gibi dışsal ve teolojik temalarla ilişkilendirir.",
+  "inusAssessment": "Kek rüyasında yorumun yönünü en çok kekin hazırlanma ve paylaşılma biçimi belirler. Kekin pişmesi, kabarması ve başkalarıyla paylaşılması emek verilmiş bir sürecin tamamlanması ve sosyal paylaşım temasını güçlendirirken; yanmış, çökmüş veya yenmeyen bir kek beklentinin karşılanmaması ve hazırlık sürecindeki aksaklıkları öne çıkarır.",
+  "faq": [
+    {
+      "question": "Rüyada kek kesmek ne anlama gelir?",
+      "answer": "Psikanalitik ve katmanlı okumalarda kek kesmek, bir şeyin derinliklerine inme, örtülü katmanları açığa çıkarma veya rüya malzemesini adım adım inceleme süreciyle bağdaştırılır."
+    },
+    {
+      "question": "Kek rüyası kesin bir kazanç veya müjdeye mi işaret eder?",
+      "answer": "Hayır. Geleneksel ve modern kaynaklar incelendiğinde kek, kutlama ve bolluk çağrışımları taşıyabileceği gibi bağlama göre kayıp, hastalık veya ölçülülük gerektiren durumlarla da ilişkilendirilebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream content analysis using Artificial Intelli- gence",
+      "relevance": "Rüya içerik analizinde yiyecek kategorileri içinde kek öğesinin nasıl kodlanabildiğini gösteren çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/48744/54228"
+    },
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Rüyada kekin katmanlı yapısı, kesme ve açığa çıkarma hareketiyle birlikte ele alınan psikanalitik örnek.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "[PDF] Remembering and Forgetting Freud in Early Twentieth-Century ...",
+      "relevance": "Freud’un bir rüyasında yenmiş kek dilimi ile yeme, saklama ve hamilelik çağrışımları arasındaki bağlantıyı tartışan akademik çalışma.",
+      "url": "https://www.hps.cam.ac.uk/files/forrester-remembering-forgetting.pdf"
+    },
+    {
+      "title": "Cake in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Kekin rüyada kutlama ve eşik işareti olarak ele alınmasına dair Jungcu bir yorum sunar.",
+      "url": "https://rosmertapublishing.com/dream-symbols/cake/"
+    },
+    {
+      "title": "Cake Dream Meaning & Interpretation - Mirror",
+      "relevance": "Keki Jungcu perspektifte benlik, bütünlük ve mandala benzerliği üzerinden yorumluyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/cake/"
+    },
+    {
+      "title": "Eating Cake Dream Meaning & Interpretation - Mirror",
+      "relevance": "Kek yeme eylemini beslenme, haz, anima/animus ve karşıtların birleşmesi temalarıyla bağlıyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/eating-cake/"
+    },
+    {
+      "title": "What Does Dreaming About Cake Mean? - Rüya Tabirleri",
+      "relevance": "Keki Jungcu çerçevede tamlık, topluluk duygusu ve paylaşım sembolizmiyle ilişkilendiriyor.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-cake"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual: Artemidorus' The ...",
+      "relevance": "Antik Greko-Romen rüya yorum geleneğinde keklerin nasıl sınıflandırıldığını ve düz kek ile peynirli kek ayrımını gösteren temel metin.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorum kitabının kapsamını ve yiyecekler arasında kekleri ele aldığını doğrulayan katalog ve metin erişim kaynağı.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Ibn Seerin's Dictionary of Dreams",
+      "relevance": "Kekte en yakın klasik ifade olarak \"kek\" ve \"değiştirilmiş ekmek\" için rüya yorumu aktarır; özellikle fakir kişi bağlamında hastalık ya da beklenen şeyde kayıp ihtimaline değinir.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "pastries cake",
+      "relevance": "\"pastries cake\" araması bağlamında, kekin tatlı hamur işi ve \"kek\" olarak aynı bağlamda geçtiğini gösteren rüya metni sunar; hoş kazanç ve yoksul kişi için kayıp/hastalık ayrımını birlikte gösterir.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=pastries+cake"
+    },
+    {
+      "title": "Happy Father's Day, Apostle David E. Taylor!",
+      "relevance": "Kekin teolojik sembolizmde ilahi gıda, sunu, kurban, oburluk ve günahla ilişkilenebileceğini belirten bir Hristiyan yorum metni.",
+      "url": "https://joshuamediaministries.org/dreams/cake/"
+    },
+    {
+      "title": "Spiritual Meaning of Cake",
+      "relevance": "Kek ile ekmek ayrımı üzerinden manevi iyilik türlerini tartışan Hristiyan-mistik kaynak; kekin alegorik sembolizmine zemin sağlar.",
+      "url": "https://www.biblemeanings.info/Words/Artifact/Cake.htm"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Rüyaların anlamı ve yorumlanması için rabbanî çerçeve; 'kek' için doğrudan giriş sunmaz.",
+      "url": "https://www.sefaria.org/Berakhot.57a?lang=en"
+    },
+    {
+      "title": "Dreams - Jewish Virtual Library",
+      "relevance": "Rüyada görülen arpa kekinin sembolik işlevi; küçük bir yiyeceğin büyük bir düşüşü haber vermesi.",
+      "url": "https://jewishvirtuallibrary.org/dreams"
+    },
+    {
+      "title": "[PDF] Sweet Dreams? Interpreting Food in the Dreams of Pharaoh's ...",
+      "relevance": "Yosef anlatısında fırınlanmış gıda motifleri ve rüya yorumu ilişkisini tartışır.",
+      "url": "https://bibleinterp.arizona.edu/sites/bibleinterp.arizona.edu/files/docs/Joseph_0_0.pdf"
+    },
+    {
+      "title": "Cakes, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Kekin rüya yorumunda manevî düzeyde ‘adanmışlık’ ve ‘zevk kapasitesi’ ile ilişkilendirildiğini belirten çevrimiçi bir rüya sözlüğü kaydı.",
+      "url": "http://www.dreamtation.com/docs/2994.htm"
+    },
+    {
+      "title": "Cake - Dream Symbol Meaning and Interpretation",
+      "relevance": "Keki birlikte yeme, armağan, birliktelik ve yaşamın kutlanması gibi sembolik okumalarla ele alan çevrimiçi rüya sözlüğü sayfası.",
+      "url": "https://dreams.guide/dream-symbols/cake"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "islamic",
+    "christian"
+  ]
+}

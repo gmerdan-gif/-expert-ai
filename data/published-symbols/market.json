@@ -1,0 +1,188 @@
+{
+  "slug": "market",
+  "title": "market",
+  "shortDescription": "Rüyada market görmek; ihtiyaçlarınızı, seçenekleri değerlendirme biçiminizi ve gündelik yaşamın maddi ya da sosyal yönlerini çağrıştırabilir. Marketin kalabalık, boş veya ulaşılması zor olması; imkân, yoğunluk ya da engellenmişlik hissinin hangisinin öne çıktığını gösterebilir.",
+  "positiveAssociations": [
+    "Dürüst çalışma ve geçim",
+    "Sosyal etkileşim ve kamusal görünürlük",
+    "Bolluk, bereket ve adil alışveriş",
+    "Kaynakları ve seçenekleri değerlendirme"
+  ],
+  "challengingAssociations": [
+    "Pazara geç kalma ve erişememe",
+    "Reddedilme veya geri çevrilme hissi",
+    "Arzu ve seçim baskısı",
+    "Maddiyatçılık ve para hırsı"
+  ],
+  "contextDependentAssociations": [
+    "Kalabalık, canlı veya boş, sessiz bir pazar atmosferi",
+    "Marketin içindeki konum, markette bulunma biçimi ve hissedilen duygu",
+    "Gıda reyonu, et reyonu gibi farklı bölümlerde yaşanan belirli engellenme veya elde edememe deneyimleri"
+  ],
+  "commonVariations": [
+    {
+      "title": "Pazara Geç Kalma Rüyası",
+      "description": "Rüyada pazara geç kalındığı, kasaptan ya da tezgâhlardan hiçbir şey alınamadığı görülür; bu durum, Freudyen bakış açısından ulaşma ve edinme isteği ile engellenme deneyimi ve reddedilme çağrışımıyla ilişkilendirilir."
+    },
+    {
+      "title": "Kalabalık ve Canlı Pazar Deneyimi",
+      "description": "Marketin insanlarla dolu, hareketli ve canlı olması, İslami ve geleneksel tabirlerde kazanç, ticaret, yaşamın akışı ve kamusal etkileşim alanındaki hareketliliğe işaret eder."
+    },
+    {
+      "title": "Boş ve Sessiz Pazar Alanı",
+      "description": "Marketin bomboş, sessiz veya esnafın uyukladığı hâlde görülmesi; durgunluk, resesyon, geçim alanında yavaşlama veya işsizlik temalarını öne çıkarır."
+    },
+    {
+      "title": "Seçim ve değiş tokuş odaklı pazar sahnesi",
+      "description": "Markette farklı seçenekler arasında kararsız kalındığı, kaynakların tartıldığı rüya; spiritüel ve psikolojik düzlemde değerlerin gözden geçirilmesi ve karar baskısı olarak belirir."
+    }
+  ],
+  "psychology": "Ampirik psikoloji literatüründe rüya içerik analizleri, tekil nesnelere sabit anlamlar yüklemek yerine kategori frekanslarını, çevresel bağlamları, sosyal etkileşimleri ve duygu düzenleme örüntülerini birlikte ele alır. Psikanalitik çerçevede ise Freud'un çalışmalarında pazara geç kalma, bir şey satın alamama ve pazar sepetiyle ilgili detaylar arzu, erişim, engellenme ve reddedilme süreçlerinin birer dışavurumu olarak incelenir.",
+  "jungian": "",
+  "islamicTradition": "İslami rüya tabiri aktarımlarında market veya çarşı, dünya işleri, ticaret, geçim, kazanç ve kayıp alanı olarak ele alınır. Pazarın büyüklüğü nasip olarak değerlendirilir; kalabalık ve canlı oluşu iyi kazançlara, sessiz veya boş oluşu ise durgunluğa ve tembelliğe yorulur. Ayrıca bazı aktarımlarda cami, savaş alanı ve ilim meclisi gibi genişlemelerle de ilişkilendirilir.",
+  "christianTraditions": "Hristiyanlık bağlamında pazar ve alışveriş alanı, meslek ve yönetim çağrısı, tanıklık fırsatları, toplumsal adalet duyarlılığı veya maddiyatçılığa karşı bir uyarı olarak okunabilir. Kutsal metinlerdeki ticaret sahneleri aracılığıyla ibadetin ticarileşmesine karşı eleştirel bir teolojik arka plan sunar.",
+  "jewishTraditions": "Yahudi rüya düşüncesinde rüyaların yorumlandığı klasik rabbanî çerçeve (Talmudik gelenek) genel bir yorum zemin sunar; bu bağlamda kamusal pazar mekânı sosyal alışveriş, geçim, ölçü-tartı etiği ve toplumsal sorumluluk ekseninde değerlendirilir.",
+  "buddhistEasternApproaches": "Budist ve Doğu yaklaşımlarında pazar, doğrudan bir rüya simgesinden ziyade tüketim, arzu, bolluk ve toplumsal düzenin bir yansımasıdır. ‘Orta yol’ ve etik ekonomi kavramları üzerinden market, bireyin arzu yönetimi ile etik yaşam arasındaki dengeyi tartışmak için bir bağlam sunar.",
+  "spiritualApproaches": "Spiritüel ve esoterik yaklaşımlarda market, değiş tokuş, seçim yapma ve değer biçme alanı olarak görülür. Kişinin hayatındaki seçenekleri tarttığı, kaynaklarını ve hangi yönelimlerin kendisine uygun olduğunu değerlendirdiği bir geçiş mekânını simgeler.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Arzu, erişim engeli, reddedilme ve gündüz kalıntılarının işlenmesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel / İslami tabir",
+      "interpretation": "Ticaret, geçim, nasip, toplumsal sınanma ve pazarın canlılık durumuna göre kazanç veya durgunluk.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel / Esoterik",
+      "interpretation": "Seçim baskısı, kaynakların ve kişisel değerlerin değiş tokuş yoluyla yeniden değerlendirilmesi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar market sembolünü çoğunlukla bir 'mübadele', 'seçim' ve 'sosyal görünürlük' alanı olarak ele alır; rüyadaki mekânın durumu (kalabalık, boş, hareketli) kişinin dış dünya ve kendi kaynaklarıyla kurduğu ilişkiyi yansıtır.",
+  "differences": "Psikanaliz rüyayı bastırılmış arzular ve engellenme dinamikleri üzerinden okurken, İslami ve geleneksel tabirler rüya detaylarını geçim, ahlaki sınanma ve rızık ölçüsü gibi pratik alanlara bağlar. Spiritüel yaklaşımlar ise daha çok içsel değer tartımı ve karar mekanizmalarına odaklanır.",
+  "inusAssessment": "Market sembolü, rüyada yaşanan duygu ve mekânsal ayrıntılarla biçimlenir. Marketin kalabalık ve bereketli ya da boş, sessiz ve ulaşılamaz olması; rüya sahibinin seçim baskısını, elde etme arzusunu veya yoksunluk hissini nasıl deneyimlediğine ilişkin farklı çağrışımlar yaratabilir.",
+  "faq": [
+    {
+      "question": "Rüyada markete gidip hiçbir şey alamamak ne anlama gelir?",
+      "answer": "Psikanalitik metinlerde ve teorik yaklaşımlarda bu durum, bir arzuya erişememe, engellenme hissi ve reddedilme/geri çevrilme çağrışımları etrafında ele alınır."
+    },
+    {
+      "question": "Kalabalık ve canlı bir pazar görmek ile boş bir market görmek arasındaki fark nedir?",
+      "answer": "Geleneksel ve kültürel aktarımlarda kalabalık ve canlı pazar kazanç, ticaret ve bolluğa işaret ederken; boş ve sessiz pazar durgunluk, resesyon veya işsizlik temalarını öne çıkarır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "analyzing content and affect regulation in dream reports",
+      "relevance": "Rüya içerik analizinde kategori frekansı, yoğunluk ve duygu düzenleme yaklaşımını açıklayan metodolojik çalışma.",
+      "url": "https://link.springer.com/article/10.1007/s11818-023-00417-4?error=cookies_not_supported&code=33f1b051-fe64-43cd-a0b1-c7257bd47ca6"
+    },
+    {
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içerik analizinde fiziksel çevre, kişiler, sosyal etkileşimler ve duyguların ayrı kodlandığını gösteren metodolojik kaynak.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "Freud (1900) Chapter 5, part a",
+      "relevance": "Pazara geç kalma ve bir şey alamama rüya örneğini içerir; market sahnesi üzerinden arzu, erişim ve reddedilme temalarını görünür kılar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5a.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un aynı pazar örneğini ve 'Korb' çağrışımını gösteren metin sürümüdür; pazar imgesinin reddedilme anlamına açılan yönünü destekler.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "One of the Most Obscure Regions of Psychoanalysis",
+      "relevance": "Freudcu rüya kuramında gündüz kalıntısı ile bilinçdışı isteğin rüya oluşumundaki rolünü açıklar; market imgesinin sabit simge değil, istek ve engel bağlamında okunmasına yardımcı olur.",
+      "url": "http://annakornbluh.com/wp-content/uploads/2019/10/Kornbluh-One-of-the-Most-Obscure-Regions-of-Psychoanalysis.pdf"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' Interpretation of ...",
+      "relevance": "Artemidorus’un antik rüya yorum kitabının genel çerçevesini ve tarihsel önemini verir.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/1751696X.2022.2122355"
+    },
+    {
+      "title": "The mantic market: Oneiromancy and other forms of divination in Artemidorus' Oneirocritica",
+      "relevance": "Artemidorus’un Oneirocritica’sında pazar ve diğer kamusal mekânların yorum bağlamını ele alan akademik çalışma.",
+      "url": "https://research.vu.nl/en/publications/the-mantic-market-oneiromancy-and-other-forms-of-divination-in-ar"
+    },
+    {
+      "title": "Market Islamic Interpretations & Meanings",
+      "relevance": "Market/souk sembolü için rüya tabiri aktarımları; marketin cami, savaş alanı, ilim meclisi, hac dönemi, geçim ve toplumsal sınanma ile ilişkilendirildiği anlam katmanlarını verir.",
+      "url": "https://www.myislamicdream.com/market.html"
+    },
+    {
+      "title": "Biblical meaning of market in the dream - biblestep.com",
+      "relevance": "Market rüyasını iş, yönetim, tanıklık, maddiyatçılık ve sosyal adalet temaları üzerinden okuyan Hristiyan yorum çerçevesi.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-market-in-the-dream"
+    },
+    {
+      "title": "Topical Bible: Market",
+      "relevance": "Pazar ve ticaretin Kutsal Kitap’taki para hırsı, kutsal alanın ticarileşmesi ve ticaret eleştirisiyle ilişkisini gösteren toplu İncil teması.",
+      "url": "https://biblehub.com/topical/m/market.htm"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Babil Talmudu Berakhot 55a–57b’nin Yahudi rüya düşüncesindeki merkezi yerini özetler, bu bağlamda kamusal pazar mekânı sosyal alışveriş, geçim, ölçü-tartı etiği ve toplumsal sorumluluk ekseninde değerlendirilir.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' the Interpretation of Dreams 9780198843825, 0198843828 - DOKUMEN.PUB",
+      "relevance": "Artemidorus’un Oneirocritica’sında pazar mekânının rüya sembolizmi içinde kamusal görünürlük, iş ve toplumsal durumla ilişkilendirildiğini gösteren karşılaştırmalı klasik kaynak özeti.",
+      "url": "https://dokumen.pub/an-ancient-dream-manual-artemidorus-the-interpretation-of-dreams-9780198843825-0198843828.html"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Berakhot traktatının rüya malzemesinin yer aldığı Talmudik folio metnini doğrular; market için özel giriş sağlamaz, fakat ilgili rüya literatürüne erişim noktasıdır.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyalar bölümünün önemini açıklar; market sembolünün yorumlanacağı rabbanî rüya çerçevesini destekler.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Buddhism and the Market",
+      "relevance": "Budist bağlamda pazarın toplumsal ve etik işlevini tartışıyor; market sembolünü Budist yaşam düzeniyle ilişkilendirmek için kullanılabilir.",
+      "url": "https://tricycle.org/magazine/buddhism-the-market/"
+    },
+    {
+      "title": "Rotman, Marketing Morality",
+      "relevance": "Budist anlatılarda ticarî düzen, ahlaki ekonomi ve laik yaşam arasındaki ilişkiyi tartışıyor; market sembolünün Budist kültürel anlam alanını genişletiyor.",
+      "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=7a17b453b9950c7ece18733b7297f160f4562865"
+    },
+    {
+      "title": "The Teaching on Dreams",
+      "relevance": "Budist kanon içinde rüyalar üzerine bir metne yönlendiriyor; markete özgü doğrudan bir madde görünmediği için bağlamsal arka plan sağlar.",
+      "url": "https://84000.co/translation/toh48"
+    },
+    {
+      "title": "Buddhist Economics A Middle Way for the Market Place Contents",
+      "relevance": "Marketi Budist etik ve orta yol çerçevesinde ele alan metin; tüketim ve değerler arasındaki ilişkiyi anlamak için yararlı.",
+      "url": "https://www.urbandharma.org/pdf/Buddhist_Economics.pdf"
+    },
+    {
+      "title": "Market Dreams: Meaning, Context, and How to Work With Them",
+      "relevance": "Pazar/market rüyasını bolluk, seçimler ve ticaret üzerinden yorumlayan modern bir spiritüel rüya sayfası; ayrıca rüyadaki pazarın seçenekler ve karar verme temasıyla ilişkilendirildiğini söylüyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/market"
+    },
+    {
+      "title": "Marketplace spiritual meaning",
+      "relevance": "Pazarın spiritüel anlamını fırsatlar, seçimler ve daha yüksek amaca uygun tercih yapma bağlamında ele alan modern bir yorum sayfası; rüyadaki market sahnelerine de bu çerçeveden değiniyor.",
+      "url": "https://spiritualmeaningacademy.com/marketplace-spiritual-meaning/"
+    },
+    {
+      "title": "Market. Dream interpretation and the numbers for the lottery",
+      "relevance": "Market sembolünü spiritüel yorumda 'değiş tokuş', 'değer biçme' ve 'karşılıklılık' temalarıyla açıklayan modern bir yorum kaynağı.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=market"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

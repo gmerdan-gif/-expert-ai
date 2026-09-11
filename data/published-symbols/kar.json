@@ -1,133 +1,242 @@
 {
   "slug": "kar",
   "title": "kar",
-  "shortDescription": "Rüyada kar görmek saflık, dinginlik ve ferahlama çağrıştırabilir. Mevsiminde hafif yağan kar bereket ve rahatlamaya, aşırı ya da mevsim dışı kar ise engel ve sıkıntılara; eriyen kar da bunların hafiflemesine yorulabilir.",
+  "shortDescription": "Rüyada kar görmek, hem sükûnet ve arınmayı hem de duygusal soğukluk, durgunluk ve engellenmişlik hissini simgeleyebilir. Ölçülü ve huzurlu kar yağışı dinginliği, aşırı veya mevsimsiz kar ise baskı ve tıkanıklığı; eriyen kar da donmuş sorunların çözülmeye başlamasını öne çıkarabilir.",
   "positiveAssociations": [
-    "saflık",
-    "dinginlik",
-    "arındırıcı ve tazelenme hissi",
-    "Mevsiminde yağan hafif karın bereket ve rahmet çağrıştırması"
+    "Saflık",
+    "Arınma",
+    "Bereket ve rahmet",
+    "İçsel yenilenme",
+    "Zihinsel berraklık"
   ],
   "challengingAssociations": [
-    "soğukluk ve duygusal apati",
-    "aşırı veya mevsim dışı kar yağışında engellenme ve sıkıntı",
-    "günlük yaşamı aksatan çevresel baskılar"
+    "Duygusal donukluk",
+    "Soğukluk ve mesafelilik",
+    "Psişik durgunluk",
+    "Sıkıntı ve engeller",
+    "Geçici duraksama"
   ],
   "contextDependentAssociations": [
-    "karın erimesiyle sıkıntıların çözülmesi veya çözülmeye başlaması",
-    "karın miktarı ve yağdığı mevsimin yorumları değiştirmesi",
-    "beyaz örtünün hem temizlik hem de detayları gizleme potansiyeli"
+    "Mevsiminde veya mevsim dışı yağması",
+    "Karın zarar verip vermemesi",
+    "Uygun mekanlarda veya binaların üzerine yığılması",
+    "Karın erime eğiliminde olması"
   ],
   "commonVariations": [
     {
-      "title": "Mevsiminde Yağan Kar",
-      "description": "Kış zamanında ölçülü yağan kar, yaşamda ferahlama, geçimin düzelmesi veya ruhsal bir rahatlama olabileceğine işaret edebilir."
+      "title": "Karlı manzarada sessizce yürümek",
+      "description": "Etrafı kaplayan beyaz örtünün getirdiği sükûnet eşliğinde yalnız başına adım atmak, içe dönme ve dış dünyadan geçici olarak soyutlanma isteğini yansıtır."
     },
     {
-      "title": "Erimeye Başlayan Kar",
-      "description": "Yavaşça eriyen kar, donuklukların çözülmesi, kederin dağılması ve sıkıntıların hafiflemesi yönünde bir sembol olabilir."
+      "title": "Mevsimsiz veya aşırı yoğun kar yağışı",
+      "description": "Beklenmeyen bir zamanda her yeri kapatacak kadar çok yağan kar, hayatın akışında ani engellerle karşılaşma ve baskı hissine işaret edebilir."
     },
     {
-      "title": "Aşırı ve Mevsim Dışı Kar",
-      "description": "Beklenmedik zamanda veya yoğun şekilde yağan kar, engeller, baskılar veya planların aksamasıyla ilişkilendirilebilir."
+      "title": "Güneş altında erimeye başlayan kar",
+      "description": "Donuk kalmış bazı duyguların veya sorunların yavaş yavaş yumuşamaya, çözülmeye ve içsel bir dönüşüm sürecine girmeye başladığını gösterir."
     },
     {
-      "title": "Bembeyaz Örtü Altındaki Manzara",
-      "description": "Her şeyi kaplayan saf beyazlık; zihinsel durulma, saflık arayışı veya gerçeklikteki ayrıntıların gizlenmesi temalarını eşzamanlı olarak barındırabilir."
+      "title": "Ev veya oda gibi iç mekanlarda kar görmek",
+      "description": "Normalde dış dünyaya ait kış unsurlarının yaşam alanına girmesi, kişisel sınırlar içinde hissedilen sıkıntı, soğukluk ve zorluklara işaret eder."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslami rüya geleneğinde karın yorumu bağlama duyarlıdır: sezonuna ve miktarına göre genelde rahmet, şifa ve geçimin kolaylaşması olarak yorumlanır. Aşırı, mevsim dışı veya eziyet verici kar ise engel ve sıkıntı işaretleri olarak kabul edilir. Erime motifi ise sıkıntıların çözülmesine dair yaygın bir semboldür.",
-  "christianTraditions": "Hristiyan sembolizmi karı, beyazlık ve saflık üzerinden günahların bağışlanması ve ruhsal arınma metaforlarıyla ilişkilendirir; bu, kutsal metinlerdeki imgeleme biçimlerinden biridir ve doğrudan rüya tabiri geleneğiyle aynı şey değildir.",
-  "jewishTraditions": "Yahudi mistik yorumlarında kar iki yönlü okunabilir: bir yandan saflık ve temizlenme; diğer yandan soğukluk, ilgisizlik veya ruhsal donukluk çağrışımları bulunur. Bu çift yönlülük sembolün bağlama göre farklı anlamlar alabileceğini gösterir.",
-  "buddhistEasternApproaches": "Budist ve Doğu geleneklerinde kar sıklıkla dinginlik ve saflık metaforlarıyla, özellikle Tibet/Himalaya bağlamlarında kutsal dağlar, meditatif yüksek coğrafyalar ve uygulama alanlarıyla ilişkilendirilir; burada kar hem coğrafi hem de ruhani bir ortamla bağlanır.",
-  "spiritualApproaches": "Genel spiritüel ve mistik söylemlerde kar, ilahî parlaklık, sunuş ve arınma imgeleriyle ikonografide ve tasvirlerde kullanılır. Bu kullanım, karın kutsal varlığın saflığını ve görkemini güçlendiren bir estetik veya ritüel öğe olarak ele alındığı durumları kapsar ve doğrudan rüya tabiri geleneğiyle karıştırılmamalıdır.",
+  "psychology": "Ampirik psikoloji literatüründe rüya sembollerinin sabit ve evrensel karşılıklarından ziyade rüya duygusu, bağlamı ve içeriği üzerine yapılan çalışmalar öne çıkmaktadır. Dış mekan rüyalarında kar ve kış unsurlarının görülme sıklığı ele alınırken, bu imgelerin tek bir psikolojik duruma indirgenemeyeceği vurgulanmaktadır.",
+  "jungian": "Jungcu perspektifte kar, suyun donmuş hâli olarak ele alınır. Akışkan yaşam enerjisinin tersine kış ve kar, psişik durgunluğu, büyümenin askıya alınmasını ve duygusal donmayı temsil edebilir. Aynı zamanda geçmişteki anılara dönüş veya bilinçdışı içeriklerin bilinçten örtülmesiyle ilişkilendirilir.",
+  "islamicTradition": "Bazı aktarım çizgilerinde kar, yağmurla birlikte rahmet, nimet ve şifa olarak yorumlanırken, diğer bazı çizgilerde mevsimsiz yağması, zarar vermesi veya binaları tamamen kapatması durumunda sıkıntı, zulüm veya hastalık alameti sayılır.",
+  "christianTraditions": "Hristiyan sembolizminde ve İncil'deki metaforlarda kar, öncelikle beyazlık, saflık, bağışlanma ve günahlardan arınma ile ilişkilendirilir. Tanrı'nın arındırıcı merhametini simgeleyebildiği gibi, bazı bağlamlarda ilahi yargı ve sertlik temalarını da barındırabilir.",
+  "jewishTraditions": "Yahudi metinsel sembolizminde kar, beyaz rengin saflığı üzerinden günahların arınması ve tevbe (teshuvah) ile bağdaştırılır. Bununla birlikte karşıt bir eksende ruhsal apati, kayıtsızlık ve içsel soğukluk çağrışımlarını da taşıyabilir.",
+  "buddhistEasternApproaches": "Budist ve Doğu yaklaşımlarında kar, zihinsel berraklık, dinginlik ve zihni örten katmanların arınması bağlamında ele alınır. Tibet coğrafyasıyla özdeşleşen 'karlar ülkesi' imgesi ise dağsal kutsallık ve yükseklik sembolizmiyle bağlantılıdır.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel okumalarda kar, saflık ile donukluk arasındaki ince çizgide konumlanır. Dünyayı beyaz bir örtüyle kapatması, gizlenen unsurların açığa çıkması, içsel sessizlik ve simyasal bir çözülme süreci olarak değerlendirilir.",
   "comparisonTable": [
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Mevsim ve miktara göre rahmet/bereket ya da engel/sıkıntı; erime genellikle sıkıntıların çözülmesiyle ilişkilendirilir.",
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Görünür yüzeyin altında kalan içeriklerin bastırma ya da örtme yoluyla dolaylı olarak ifade edilmesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Suyun donmuş hâli; psişik durgunluk, duygusal donma veya içe dönüş.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Dini ve Geleneksel Okumalar",
+      "interpretation": "Bağlama göre rahmet, bereket ve şifa ya da sıkıntı, zulüm ve hastalık.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan Sembolizmi",
-      "interpretation": "Beyazlık üzerinden günahların bağışlanması ve ruhsal arınma temaları.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Yahudi Mistik Geleneği",
-      "interpretation": "Saflık ile birlikte soğukluk ve ruhsal donukluk arasında çift yönlü bir sembol.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Doğu/Himalaya Yaklaşımı",
-      "interpretation": "Kutsal dağlar, meditasyon alanları ve saflık/dinginlik imgeleriyle ilişkili coğrafi-ruhani okuma.",
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Saflık, arınma, sessizlik ve örtü altında kalan potansiyelin dönüşümü.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Çeşitli geleneklerde kar, beyazlık, örtücülük ve dinginlik imgeleri etrafında ortak çağrışımlar üretir; yorum ve bağlama göre olumlu (arınma, rahmet) veya olumsuz (soğukluk, engel) uçlarda şekillenir.",
-  "differences": "İslami yorumlar mevsim ve miktar gibi somut ölçütlere vurgu yaparken; mistik, Doğu ve spiritüel yaklaşımlar karı sıklıkla kutsal coğrafya, ikonografi veya meditasyon bağlamında değerlendirir; Hristiyan ve Yahudi gelenekleri beyazlığın arınma çağrışımını farklı teolojik söylemler içinde konumlandırır.",
-  "inusAssessment": "INUS çerçevesiyle ele alındığında, tek bir özelliğinin (ör. beyazlık) rüyanın anlamını belirlemesi yerine, mevsim, yoğunluk, rüyadaki eylem ve rüya sahibinin durumu gibi koşulların birlikte değerlendirilmesiyle anlam kazanır. Kar bazen arınmanın bir parçası (oluşlu neden), bazen de engelleyici bir koşul (olumsuz bağlam) olarak görülebilir.",
+  "commonGround": "Farklı disiplinler ve gelenekler karın çifte doğasında birleşir: Bir yanda saflık, arınma ve sükûnet gibi olumlu dönüşümler; diğer yanda ise soğukluk, durgunluk ve hareket kısıtlılığı gibi zorlayıcı durumlar yer alır.",
+  "differences": "Yaklaşımlar arasındaki temel fark, karın tetiklediği duygunun kaynağındadır. Teolojik ve spiritüel gelenekler arınma ve ilahi lütfa odaklanırken, psikanalitik ve analitik ekoller soğukluğu ve psişik donukluğu ön plana çıkarır.",
+  "inusAssessment": "Rüyada kar görülmesi, tekil ve evrensel bir hükümle açıklanamayacak kadar ikircikli bir semboldür. Karın rüyadaki işlevini belirleyen temel unsurlar: yağdığı mevsim, çevreye verdiği zarar, kapladığı alanın niteliği ve rüya sahibinin o anki duygusal tonudur. Doğal döngüsü içinde ölçülü yağan kar dinginlik ve arınma hissi uyandırırken, aşırı veya mevsim dışı birikintiler tıkanıklık ve baskı duygusuna işaret edebilir. Bu nedenle rüya yorumunda karın hangi bağlamda ve hangi detayların eşlik ettiğinin titizlikle incelenmesi gerekir.",
   "faq": [
     {
-      "question": "Rüyada kar görmek her zaman bereket anlamına mı gelir?",
-      "answer": "Hayır. Geleneksel okumalara göre karın bereket/saflık çağrışımı için mevsiminde ve ölçülü yağması beklenir; aşırı veya mevsim dışı kar genelde zorlukları işaret edebilir."
+      "question": "Rüyada kar görmek her zaman olumlu bir anlama mı gelir?",
+      "answer": "Hayır. Karın rüyadaki anlamı tamamen bağlama bağlıdır. Mevsiminde yağdığında rahmet ve berraklıkla ilişkilendirilirken, mevsimsiz ya da zarar verecek düzeyde aşırı olması sıkıntı veya engellerin habercisi olarak yorumlanabilir."
     },
     {
-      "question": "Rüyada karın erimesi nasıl yorumlanır?",
-      "answer": "Çoğu gelenekte karın erimesi sıkıntıların çözülmesi, kederin hafiflemesi veya bir dönemin sonlanması şeklinde okunur."
-    },
-    {
-      "question": "Kar sembolü ruhsal açıdan neyi temsil eder?",
-      "answer": "Spiritüel ve mistik bağlamlarda kar, saflık, dinginlik ve ilahî parlaklıkla, bazen de sunuş veya ikonografik arınma imgeleriyle ilişkilendirilir."
+      "question": "Karın erimesi rüyada nasıl yorumlanır?",
+      "answer": "Karın erimesi genellikle uzun süredir donuk kalmış duyguların, katı tutumların veya askıya alınmış süreçlerin yumuşamaya ve çözülmeye başladığı bir dönüşüm dönemini simgeler."
     }
   ],
   "sources": [
     {
-      "title": "Snow Dreams",
-      "relevance": "Çevrimiçi rüya sözlüğü girdisi; karın beyazlık, örtme, soğukluk ve sessizlik çağrışımlarını sembolik olarak açıklar.",
-      "url": "https://www.psychologistworld.com/dreams/dictionary/snow"
+      "title": "Brief Report",
+      "relevance": "Dış mekân rüyalarında kar, buz ve dolu imgelerinin görülme sıklığına dair veri sunan kısa rapor; kar benzeri kış imgelerini rüya içeriği düzeyinde ele alır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/78020/74437"
     },
     {
-      "title": "Snow Islamic Interpretations & Meanings",
-      "relevance": "İslami rüya tabirleri kapsamında karın mevsim, miktar ve erime gibi koşullara göre rahmet veya sıkıntı olarak yorumlanabileceğini aktarır.",
-      "url": "https://www.myislamicdream.com/snow.html"
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud’un rüya kuramını ve rüyanın bastırılmış istekle ilişkisini gösteren temel metin.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
     },
     {
-      "title": "Snow in a dream | The Islamic Dream Book",
-      "relevance": "İslami rüya geleneğinde karın sezonuna göre hayır veya zorluk anlamı taşıması ve erimenin sıkıntının çözülmesiyle ilişkilendirilmesi konusunda çevrimiçi bir derlemeyi yansıtır.",
-      "url": "https://theislamicdreambook.com/snow-in-a-dream/"
+      "title": "Freud (1900) Chapter 1, part a",
+      "relevance": "Karla kaplı bir avlu ve kar içindeki hayvanları içeren örnek rüya pasajı; karın Freud’un rüya anlatısında nasıl geçtiğine dair doğrudan metin örneği.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams1a.htm"
+    },
+    {
+      "title": "Carl Jung - Analysis of Dream Symbols (3)",
+      "relevance": "Kar, kış ve suyun donmuş biçimi arasındaki sembolik ilişkiyi tartışan Jungcu yorum metni.",
+      "url": "https://www.carl-jung.net/dream_symbols3.html"
+    },
+    {
+      "title": "Snow Dream Meaning: A Jungian Archetypal Analysis",
+      "relevance": "Kar, psişik durgunluk, bilinçdışı ve arketipsel yorum çerçevesinde ele alınan Jungcu bir metindir.",
+      "url": "https://slumbervision.com/dictionary/snow"
+    },
+    {
+      "title": "The North Pole - This Jungian Life",
+      "relevance": "Kar ve buz imgelerini duygusal donma ve hissin askıya alınmasıyla ilişkilendiren Jungcu podcast/yazı sayfası.",
+      "url": "https://thisjungianlife.com/the-north-pole/"
+    },
+    {
+      "title": "[PDF] iatrosophia and an eighteenth - century oneirokritēs in the national ...",
+      "relevance": "Bir iatrosophia ve oneirokritik metinde karın hastalık, ateş ve bedensel soğuklukla ilişkilendirildiğini gösteriyor.",
+      "url": "https://rosa.uniroma1.it/rosa01/medicina_nei_secoli/article/download/324/307/618"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation - Attalus.org",
+      "relevance": "Antik rüya yorum geleneğinin ana çerçevesini ve Artemidoros’un eserinin kapsamını sunuyor.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Oneirocritica’nın antik rüya yorum kılavuzu olarak tarihsel konumunu ve beş kitaplık yapısını özetliyor.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "[PDF] İbni Sîrîn'den Tercüme Edilen Bir Rüya Tabîr-Nâmesi - SADAB",
+      "relevance": "Karın nimet ve bereketle ilişkilendirildiği klasik rüya tabiri aktarımı.",
+      "url": "https://makale.isam.org.tr/server/api/core/bitstreams/c513adc0-7e40-4fcb-930b-660b5bc70fa0/content"
+    },
+    {
+      "title": "Rüyada Kar, Kar Yağışı Görmek Ne Anlama Gelir? - Yeni Şafak",
+      "relevance": "İbn Sîrîn adına atfedilen kar rüyası yorumunu sıkıntı ve azap ekseninde aktaran modern kaynak.",
+      "url": "https://www.yenisafak.com/ruya-tabirleri/ruyada-kar-kar-yagisi-gormek-ne-anlama-gelir"
+    },
+    {
+      "title": "Ibn Sirin Snow Islamic Interpretations & Meanings",
+      "relevance": "Karın mevsim, miktar ve erime durumuna göre yorumlandığı İslami rüya açıklaması.",
+      "url": "https://www.myislamicdream.com/ibn_sirin_snow.html"
+    },
+    {
+      "title": "Rüyada Kar Görmek İle İlgili rüya yorumları",
+      "relevance": "Karın uygunsuz mekânda veya yığılma biçiminde görülmesinin azap, bela ve hastalıkla ilişkilendirilmesi.",
+      "url": "https://www.tahavi.com/ruyada-kar-gormek/"
+    },
+    {
+      "title": "Topical Bible: Snow and Rain",
+      "relevance": "İncil’de karın saflık ve temizlikle ilişkilendirilmesine dair genel Hristiyan sembolizm sunar.",
+      "url": "https://biblehub.com/topical/s/snow_and_rain.htm"
+    },
+    {
+      "title": "Snow - Topical Bible",
+      "relevance": "İncil’de karın arınma, beyazlık ve Tanrı’nın temizleyici gücüyle ilişkilendirilmesini derler.",
+      "url": "https://biblehub.com/topical/s/snow.htm"
+    },
+    {
+      "title": "The Beautiful Symbolism of Snow in Scripture - Bible Study Tools",
+      "relevance": "Karın İncil’de bazen yargı ve sertlik çağrışımı taşıyabildiğini özetler.",
+      "url": "https://www.biblestudytools.com/bible-study/topical-studies/the-beautiful-symbolism-of-snow-in-scripture.html"
+    },
+    {
+      "title": "Dream symbols: Snow and ice – and what they mean",
+      "relevance": "Rüyada karı Hristiyan bağlamında saflık, bağışlanma ve ruhsal yenilenme ile ilişkilendiren teolojik bir yorum sunar.",
+      "url": "https://heavensdreammessages.com/dream-symbols-snow-ice/"
     },
     {
       "title": "What Does Judaism Say About Snow?",
-      "relevance": "Yahudi-Hristiyan sembolik geleneğinde kar beyazlığı üzerinden arınma ve günahların aklanması motiflerine işaret eden değerlendirmeler sunar.",
+      "relevance": "Karın Yahudi sembolizmindeki beyazlık, arınma ve günahın temizlenmesiyle ilişkisini ele alır.",
       "url": "https://www.chabad.org/library/article_cdo/aid/7261377/jewish/What-Does-Judaism-Say-About-Snow.htm"
     },
     {
-      "title": "Snow: The Dark Side",
-      "relevance": "Yahudi mistik perspektiflerinde karın saflık ile soğukluk/apati arasında çift yönlü bir sembol olarak ele alınabildiğini tartışır.",
-      "url": "https://aish.com/48968661/"
+      "title": "בס”ד",
+      "relevance": "Karın saflık, kefaret ve aynı zamanda soğukluk/duygusal donukluk çağrışımlarını birlikte sunar.",
+      "url": "https://www.berotbatayin.org/wp-content/uploads/2014/12/TevetSnowedIn.pdf"
     },
     {
-      "title": "Snow: Significance and symbolism",
-      "relevance": "Karın doğa unsuru olarak saflık ve huzurla ilişkilendirildiğine dair genel sembolik çerçeveyi açıklar.",
-      "url": "https://www.wisdomlib.org/concept/snow"
+      "title": "Snow White and the Seven Lessons",
+      "relevance": "Kar motifi üzerinden teshuvah, değişim ve yeniden başlamayı işleyen bir Yahudi vaazı sunar.",
+      "url": "https://www.torchweb.org/torah_detail.php?id=143"
     },
     {
-      "title": "In the blink of an eye: the wind, rain, snow, and thunder in Himalayan",
-      "relevance": "Tibet/Himalaya bağlamında karın kutsal coğrafya, meditasyon ve arınmış beyazlıkla ilişkilendirilmesine dair yorumları içerir.",
-      "url": "https://gandhanra.art/blogs/news/in-the-blink-of-an-eye-the-wind-rain-snow-and-thunder-in-himalayan-imagery"
+      "title": "“The Dharma of Snow” - Tricycle: The Buddhist Review",
+      "relevance": "Karın saflık, dinginlik ve zihnin arınmasıyla ilişkilendirildiği Budist yorum dili.",
+      "url": "https://tricycle.org/dailydharma/the-dharma-of-snow-2/"
     },
     {
-      "title": "Significance of Ice and snow",
-      "relevance": "Vaishnavizm ve benzeri dini tasvirlerde buz ve karın ilahî görünüşü güçlendiren görsel bir öğe olarak kullanıldığını ele alır.",
-      "url": "https://www.wisdomlib.org/concept/ice-and-snow"
+      "title": "Is there any account of snow in Buddhist scriptures?",
+      "relevance": "Buda anlatısında karın kışın soğuğu ve zorlukla birlikte geçtiği bölüm.",
+      "url": "https://www.reddit.com/r/Buddhism/comments/wrkxx0/is_there_any_account_of_snow_in_buddhist/"
     },
     {
-      "title": "Significance of Mass of snow",
-      "relevance": "Hinduizm bağlamında karın Himalaya ve kutsal dağ imgesiyle bağlantısını açıklayan kaynak.",
-      "url": "https://www.wisdomlib.org/concept/mass-of-snow"
+      "title": "Land of snow: Significance and symbolism www.wisdomlib.org › concept › land-of-snow",
+      "relevance": "Tibet'i 'karlar ülkesi' olarak ele alan Budist-coğrafi sembolizm.",
+      "url": "https://www.wisdomlib.org/concept/land-of-snow"
+    },
+    {
+      "title": "Wisdom within Words: Translation with Comments",
+      "relevance": "Karın dağsallık, berraklık ve zihinsel dönüşümle ilişkisini işleyen şiirsel bir yorum sunduğunu belirtir.",
+      "url": "https://academic.oup.com/book/44034/chapter/371899512"
+    },
+    {
+      "title": "Dreaming of Snow",
+      "relevance": "Kar, rüya bağlamında saflık, örtülme, durgunluk ve olası duygusal tıkanma eksenlerinde ele alınan modern bir rüya yorumu sayfasıdır.",
+      "url": "https://www.dreamdictionary.org/meaning/dreaming-of-snow/"
+    },
+    {
+      "title": "What Does it Mean When You Dream About Snow?",
+      "relevance": "Karın ruhsal arınma, ilahi temizlik ve duygusal soğukluk arasında çift anlamlı yorumlandığı modern bir spiritüel/rüya metni.",
+      "url": "https://www.centreofexcellence.com/dreaming-about-snow/"
+    },
+    {
+      "title": "Snow - Dream Symbol Meaning and Interpretation",
+      "relevance": "Kar, temizlenme, yeniden başlangıç ve içe dönüş temalarıyla ilişkilendirilen modern bir sembol yorumu sunar.",
+      "url": "https://dreams.guide/dream-symbols/snow"
+    },
+    {
+      "title": "Snow in dreams — meaning and symbolism",
+      "relevance": "Kar, ezoterik okumada sessizlik, arınma ve daha ince katmanların görünür olmasıyla ilişkilendirilen bir sembol olarak ele alınır.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/snow"
+    },
+    {
+      "title": "Snow / snowy mountain / thaw, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Kar, kristalleşmiş su olarak ele alınır; biçimlenme, duygusal soğuma ve ruhsal arınma temalarıyla ilişkilendirilir.",
+      "url": "http://www.dreamtation.com/docs/8139.htm"
+    },
+    {
+      "title": "Snow in Dreams: Stillness, Cold, Cleansing, and Hidden Life",
+      "relevance": "Kar, ruhsal yorumlarda saflık, temizlenme ve dinginlik temalarıyla ilişkilendirilen modern bir rüya yorumu kaynağı olarak sunulur.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/snow"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "buddhist-eastern"
+  ]
 }

@@ -1,0 +1,193 @@
+{
+  "slug": "park",
+  "title": "park",
+  "shortDescription": "Rüyada park görmek, dinlenme, zihinsel yenilenme ve hayat içinde daha dengeli bir alan açma ihtiyacını çağrıştırır. Açık ve bakımlı bir park ferahlama hissini; kapalı, kilitli ya da bakımsız bir park ise dinlenmeyi zorlaştıran engelleri öne çıkarabilir.",
+  "positiveAssociations": [
+    "Zihinsel dinlenme ve toparlanma",
+    "Doğal ve insan yapımı düzenin uyumu",
+    "Toplumsal buluşma ve güvenli sosyal etkileşim",
+    "Arınma ve ruhsal ferahlama imkânı"
+  ],
+  "challengingAssociations": [
+    "Aşırı sınırlandırma veya yapay kısıtlanma",
+    "Bakımsızlık, erişim engeli veya kapalı alanlar nedeniyle tıkanma",
+    "Gerçeklikten kaçma eğilimi ve fantazi-bağımlılığı riskleri",
+    "İçsel dengenin bozulmasıyla ilişkili gerilim"
+  ],
+  "contextDependentAssociations": [
+    "Açık ve bakımlı bir park yenilenme ve akışa işaret eder; kilitli, kapalı veya bakım görmemiş bir park ise erişim kısıtları ve engellenmiş toparlanma hissini yansıtabilir.",
+    "Eğlence parkı gibi yoğun, kalabalık veya gürültülü park imgeleri sosyal etkileşim, oyun veya dikkat dağıtımı temalarını öne çıkarır.",
+    "Duvarlarla çevrili, ekili bir koruluk, ayrıcalık, korunma veya toplumsal statü ilişkilerini çağrıştırabilir."
+  ],
+  "commonVariations": [
+    {
+      "title": "Bakımlı ve Güneşli Bir Parkta Yürümek",
+      "description": "Açık, düzenli ve erişilebilir bir parkta dolaşmak genellikle dinlenme, zihinsel yenilenme ve yaşam akışında denge hissiyle ilişkilidir."
+    },
+    {
+      "title": "Kilitli veya Ulaşılamayan Park",
+      "description": "Girişi engellenmiş veya bakımsız park imgesi, dinlenme ve toparlanma ihtiyaçlarının engellendiğini veya içsel akışın kesildiğini gösterebilir."
+    },
+    {
+      "title": "Kalabalık veya Gürültülü Park (Eğlence Parkı)",
+      "description": "Topluluk içinde olmak, oyun ve eğlence temalarını öne çıkarır; aynı zamanda dikkat dağınıklığı veya sosyal baskı hissi de taşıyabilir."
+    },
+    {
+      "title": "Duvarlı düzenli koruluk (bahçe)",
+      "description": "Sınırları belirlenmiş, ekili ve korunan yeşil alan; korunma, ayrıcalık veya toplumsal itibar çağrışımlarıyla okunabilir."
+    }
+  ],
+  "psychology": "Psikanalitik bakış açısından park, fantazi alanı ile gerçeklik ilkesi arasındaki ayrım bağlamında, zihnin düzenlenmiş ve ayrılmış bir bölgesini anımsatan bir metafor olabilir. Bu, parkın rüya sahibinin dinlenme veya ara verme ihtiyacını, aynı zamanda psikolojik sınırlar ve toplumsal düzenlemelerle ilgili gerilimleri işaret edebileceğini gösterir. Kesin yorum rüyanın bağlamına bağlıdır.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik okumada park genellikle bahçe/koruluk dilinde ele alınır: huzur, bakım, verimlilik ve ilahi bakım altında yetişme çağrışımları vardır. Kutsal Kitap sözlükleri 'park'ı (pardēs) duvarlı bahçe ya da meyve bahçesi gibi ekili, korunan bir alanla ilişkilendirir; modern Hristiyan rüya yorumlarında ise dinlenme, ibadet ve toplulukla vakit geçirme temaları öne çıkar.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar dikkatle ele alınır; ancak rüya kaynaklarında rüyada \"park\" için doğrudan bir Talmudî kayıt bulunmamıştır. Bu yüzden park imgesi, Yahudi çerçevesinde temkinli bir sentezle, düzenlenmiş, kamusal ve huzurlu bir yeşil mekan olarak istirahat, ferahlama veya toplumsal buluşma çağrışımları üzerinden ele alınmalıdır. (Berakhot 55a–57b, rüyaların yorumuna dair genel bir çerçeve sağlar; 'park' için spesifik bir kayıt vermez.)",
+  "buddhistEasternApproaches": "Budist ve bazı Doğu yaklaşımlarında koruluk veya park benzeri doğal alanlar meditasyon, dinginlik ve aydınlanma bağlamında yorumlanabilir; Lumbini veya Bodhi ağacı gibi örnekler, bu tür mekânların zihinsel sükûnet ve farkındalıkla ilişkilendirilebileceğini gösterir. Doğrudan klasik 'park' girişi bulunmadığı için yorum temkinli ve mecazi tutulmalıdır.",
+  "spiritualApproaches": "Modern spiritüel okumalarda park, geçici bir sığınak, içsel sessizliğe ayrılmış bir ara mekan veya yenilenme alanı olarak görülür. Parkın düzenli ve açık olması akış ve uyumu çağrıştırır; kapalı ya da bakımsız olması ise engellenmiş yenilenme ve içsel gerilim çağrıştırır.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Fantazi ile gerçeklik arasındaki ayrım üzerinden değerlendirilen, düzenlenmiş ve ayrılmış bir zihinsel alan metaforu.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Gelenek ve Sözlükleri",
+      "interpretation": "Bahçe/koruluk dilinde ilahi bakım, huzur, koruma ve ruhsal yetişme temalarıyla ilişkilendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Antik Oneirokritik (Artemidoros)",
+      "interpretation": "Artemidoros geleneğinde bahçe/koruluk benzeri mekânlar 'evcilleştirilmiş' olarak sınıflandırılır; toplumsal konum ve cinsel itibar bağlamında olumlu/olumsuz çağrışımlar taşıyabilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rüya Geleneği",
+      "interpretation": "Berakhot ve ilgili tartışmalar rüyaların anlamını ciddiye alır; 'park' için doğrudan madde olmamakla birlikte düzenlenmiş yeşil alanlar istirahat ve toplumsal bağlamlar üzerinden temkinli biçimde yorumlanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist / Doğu Yaklaşımları",
+      "interpretation": "Koruluk veya park benzeri doğal mekânlar meditasyon, dinginlik ve aydınlanma çağrışımı taşır; klasik anlamda 'park' için doğrudan kaynaklar sınırlıdır.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Modern Spiritüel Okuma",
+      "interpretation": "İçsel sükûnet, yenilenme ve sınır-teması üzerinden parkın ara-mekan işlevine vurgu yapar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşım parkı, dış dünyanın baskılarından nispeten ayrı, düzenlenmiş bir yeşil alan olarak görür; bu ortak anlayış parkta dinlenme, yenilenme, sınır ve koruma temalarının öne çıkmasını sağlar.",
+  "differences": "Psikanalitik çerçeve parkı içsel ayrılmış bir alan veya metafor olarak yorumlarken, Artemidoros geleneği bahçe-benzeri mekânların toplumsal konum ve cinsel itibarla bağlantısını vurgular. Hristiyan okumalar ilahi bakım ve ruhsal yetişmeye odaklanırken, Budist/Doğu yaklaşımları meditasyon ve dinginlikle ilişkilendirir. Yahudi gelenekleri ise rüyanın bağlamını ve yorumun temkinini ön plana alır.",
+  "inusAssessment": "Rüyada park görmek, tek bir belirleyici anlama indirgenemeyen, bağlama, parkın fiziksel niteliğine ve rüya sahibinin deneyimine göre değişen bir semboldür. Açık, erişilebilir ve bakımlı bir park genellikle yenilenme, dinlenme ve akış hissini yansıtırken kapalı, kilitli veya bakımsız bir park erişim kısıtlarını, engellenmiş toparlanmayı ve içsel denge zorluklarını gösterebilir. Bu yüzden rüya yorumunda parkın görsel özellikleri ve rüya sırasındaki duygusal ton belirleyicidir.",
+  "faq": [
+    {
+      "question": "Rüyada bakımlı ve yeşil bir parkta yürümek ne anlama gelir?",
+      "answer": "Genellikle zihinsel veya duygusal yenilenme, rahatlama ve yaşam akışında geçici bir denge bulma ihtiyacının karşılandığına işaret eder."
+    },
+    {
+      "question": "Rüyada kapalı veya kilitli bir park görmek neyi ifade eder?",
+      "answer": "Dinlenme veya toparlanma imkânlarının engellenmesi, içsel akışın kesintiye uğraması veya dışsal kısıtlamalar yüzünden ihtiyaç duyulan sığınağa erişememe hissine işaret edebilir."
+    },
+    {
+      "question": "Park sembolü hangi psikolojik temalara dikkat çeker?",
+      "answer": "Psikanalitik açıdan park, fantazi ile gerçeklik arasındaki sınırları, bireyin dinlenme veya ara verme ihtiyacını ve psikolojik sınırların düzenlenmesini çağrıştırır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "3. Cultural Places",
+      "relevance": "Freud'un fantazi alanı ile gerçeklik ilkesi ayrımı üzerinden park benzeri ayrılmış alanların analojik psikanalitik okunmasına zemin sağlar.",
+      "url": "http://www.symbolism.org/writing/books/sp/3/page3.html"
+    },
+    {
+      "title": "Freud's Dream Interpretation: A Different Perspective Based ...",
+      "relevance": "Freud'un rüya kaynakları anlayışını özetleyerek rüya sembollerinin bağlama göre değerlendirilmesi gerektiğini destekler; park için doğrudan hüküm vermez.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6115518/"
+    },
+    {
+      "title": "Dream About Park — Meaning & Interpretation",
+      "relevance": "Parkı Jungcu açıdan kolektif bilinçdışı ve arketipsel alanla ilişkilendiren çevrimiçi yorum metni; park sembolü için doğrudan Jungcu atıf arayışında karşılaşılan bir ikincil internet kaynağıdır.",
+      "url": "https://thedreamindex.com/dream-about-park/"
+    },
+    {
+      "title": "Park Dream Meaning & Interpretation - Mirror",
+      "relevance": "Parkı Jungcu biçimde kolektif bilinçdışı, kutsal koruluk ve individuasyon temalarıyla açıklayan çevrimiçi yorum metni; sembol için doğrudan birincil Jung metni sunmaz.",
+      "url": "https://mirrorwithin.org/dream-dictionary/park/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidoros'un bahçe-düşleri üzerine yorumları, park sembolünü tarihsel olarak en yakın 'bahçe/koruluk' kategorisine yerleştirmek için kaynak sağlar; toplumsal konum ve cinsel itibar bağlantılarını içerir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual - Oxford Academic",
+      "relevance": "Antik rüya geleneğinde bahçe ve benzeri doğal alanların nasıl sınıflandırıldığını ve 'evcilleştirilmiş/vahşi' ayrımının yorum üzerindeki etkisini açıklar.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "Amusement Park - Interpreting Dream Symbols - David E. ...",
+      "relevance": "Modern Hristiyan rüya yorumunda eğlence parkı imgelerinin dinlenme, aile/topluluk ve yaşam dengesi temalarıyla ilişkilendirildiğini gösterir.",
+      "url": "https://joshuamediaministries.org/dreamamusementpark/"
+    },
+    {
+      "title": "Park - Bible Encyclopedia - Biblexika",
+      "relevance": "Kutsal Kitap sözlükleri bağlamında 'park' kavramını duvarlı bahçe, koruluk ve ekili alan anlamında açıklayarak Hristiyan sembolik okumaya destek verir.",
+      "url": "https://www.biblexika.com/encyclopedia/park"
+    },
+    {
+      "title": "Park - Meaning & Verses | Bible Encyclopedia",
+      "relevance": "Ecclesiastes 2:5 ve Nehemiah 2:8 örnekleri üzerinden 'park' kullanımını ve bahçe/koruluk ilişkilendirmesini aktarır.",
+      "url": "https://www.biblestudytools.com/encyclopedias/isbe/park.html"
+    },
+    {
+      "title": "Meaning of Park in Christianity",
+      "relevance": "Hristiyanlık içinde parkı ilahi bakım ve ruhsal yetişme ile ilişkilendiren kavramsal açıklama.",
+      "url": "https://www.wisdomlib.org/christianity/concept/park"
+    },
+    {
+      "title": "Park Meaning - Bible Definition and References",
+      "relevance": "'Park' maddesinde Ecclesiastes 2:5 ve Nehemiah 2:8 bağlantısını aktarır; parkı bahçe/koruluk anlam alanına yerleştirir.",
+      "url": "https://www.biblestudytools.com/dictionary/park/"
+    },
+    {
+      "title": "Helpful Clues to Dream & Vision Interpretation",
+      "relevance": "Parkı ibadet, Tanrı'dan hoşlanma, oyun, bahçe deneyimi, dinlenme ve sükûnetle ilişkilendiren rüya-yorum notu.",
+      "url": "https://davewilliams.com/wp-content/uploads/2018/09/Helpful-Clues-to-Dream-and-Vision-Interpretation.pdf"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Berakhot'taki rüya tartışmalarına erişim sağlar; Yahudi rüya yorumunun genel çerçevesini izlemek için kullanılabilir, fakat 'park' için doğrudan madde vermez.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Dream Accounts in the Hebrew Bible and Ancient Jewish Literature",
+      "relevance": "İbranice Kitap ve eski Yahudi literatüründeki rüya anlatılarını ele alan akademik çalışma; Yahudi rüya geleneğinin tarihsel bağlamını anlamaya yardım eder.",
+      "url": "https://www.theology.ox.ac.uk/publication/1059867/manual"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Berakhot 57 folyosunun çevrim içi metni; Talmud’daki rüya pasajlarının içeriğini doğrulamak için kullanışlıdır.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Berakhot 55a–57b'yi tartışan akademik çalışma; Yahudi rüya geleneğinin yapısını ve rüya yorumunun önemini açıklayarak park için temkinli bir sentez zemini sunar.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Park - Symbolism, Meaning & Mythology - MyMythos",
+      "relevance": "Park imgesini sosyal yaşam, özel ihtiyaçlar ve kamusal düzen arasındaki gerilim üzerinden okuyan sembolik bir yorum.",
+      "url": "https://mymythos.org/archetype/park/"
+    },
+    {
+      "title": "Park Symbolism & Meaning - Symbolopedia",
+      "relevance": "Modern sembolizm yazıları üzerinden parkın dinlenme, yenilenme ve doğa-bağlantılı temalarla nasıl yorumlandığına ilişkin güncel perspektifler sağlar.",
+      "url": "https://symbolopedia.com/park-symbolism-meaning/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian",
+    "buddhist-eastern"
+  ]
+}

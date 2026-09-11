@@ -1,0 +1,323 @@
+{
+  "slug": "hastalik",
+  "title": "hastalık",
+  "shortDescription": "Rüyada hastalık görmek, bedensel veya ruhsal kırılganlıkların, sağlık kaygılarının ve yaşam ritmindeki dengesizliklerin yansıması olabilir. Hastalıktan sonra iyileşmek ise gerilimin azalması ve iç dengenin yeniden kurulmasıyla ilişkilendirilebilir.",
+  "positiveAssociations": [
+    "İçsel arınma ve yenilenme ihtiyacı",
+    "Farkındalık ve bedensel sinyallere kulak verme",
+    "Dua, teselli ve topluluk desteği arayışı",
+    "Kişisel dönüşüm ve psikolojik yeniden düzenlenme"
+  ],
+  "challengingAssociations": [
+    "Bedensel sağlık kaygıları ve tıbbi ortam korkusu",
+    "Ölüm, kırılganlık ve olumsuz duygusal baskı",
+    "Manevî zayıflık veya içsel bozulma hissi",
+    "Enerji akışında tıkanma ve yaşam ritminde uyum kaybı"
+  ],
+  "contextDependentAssociations": [
+    "Kişinin uyanıklıktaki fiziksel sağlık durumu ve öznel esenliği",
+    "Rüyanın ateşli bir dönemde veya klinik belirtiler eşliğinde görülmesi",
+    "Rüya bağlamının bir telafi, uyarı veya arınma ekseninde şekillenmesi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Hastane ortamında tıbbi tetkikler yaptırmak",
+      "description": "Rüyada hastane koridorlarında dolaşmak veya tıbbi cihazların arasında olmak, bedensel sınırlarla yüzleşme ve sağlıkla ilgili endişelerin rüya içeriğine yansımasını gösterir."
+    },
+    {
+      "title": "Ani bir ateş ve bedensel kırgınlık hissetmek",
+      "description": "Yüksek ateşli veya fiziksel olarak zorlayıcı dönemlerde görülen bu rüyalar, organizmanın uyku sırasında ürettiği yoğun bedensel uyaranların rüya imgelerini tetiklemesiyle ilişkilidir."
+    },
+    {
+      "title": "Kronik bir rahatsızlığın ilerlediğini görmek",
+      "description": "Kişinin uyanıklıktaki sağlık durumu veya öznel yorgunluğunun rüyada daha belirgin yaralanma ve hastalık temalarıyla dışavurumudur."
+    },
+    {
+      "title": "İyileşme sürecine girip şifa bulmak",
+      "description": "Hastalık halinden sonra rahatlama veya toparlanma görülmesi, psikolojik olarak bir gerilimin geride bırakılmasına ve içsel dengenin yeniden kurulmasına işaret edebilir."
+    }
+  ],
+  "psychology": "Modern psikiyatri ve uyku araştırmaları, rüya içeriğinin bedensel sağlık durumundan etkilenebildiğini göstermektedir. Özellikle ciddi organik rahatsızlıkları bulunan kişilerde, onkolojik hastalarda veya öznel sağlık algısı düşük bireylerde hastalık, hastane ortamı, yaralanma ve ölüm temalı rüyaların sıklığı artmaktadır. Ateşli dönemler ise rüyaların daha yoğun, tuhaf ve negatif tonlu olmasına yol açabilir. Psikanalitik çerçevede Freud, rüyanın bastırılmış bir istek doyumu olduğunu vurgularken, bazı bedensel bozuklukların veya hastalık başlangıçlarının ilk olarak rüya içeriğine sızabileceğini belirtmiştir. Akciğer rahatsızlıklarında boğulma veya kalp sorunlarında ölüm temalarının görülmesi, organik uyaranların rüya oluşumundaki rolünü destekler.",
+  "jungian": "Jungcu analizde hastalık, bilinç ile bilinçdışı arasındaki dengenin bozulmasına işaret eden simgesel bir ifade olarak ele alınır. Rüya sembolleri doğrudan sabit etiketler değil, henüz tam olarak biçimlenmemiş sezgisel imgeler olabilir. Terminal hastalık veya kriz dönemlerinde görülen arketipsel rüyalar, kişiliğin teleolojik gelişimini, geçiş süreçlerini ve bilinçdışı unsurların bütünleşmesini görünür kılabilir. Somatik durumlar bazen psişik sorunlarla içsel-sembolik bir bağ kurarak rüyada ifade alanı bulur.",
+  "islamicTradition": "İslami rüya tabiri kaynaklarında hastalık çoğunlukla manevî zayıflık, nifak, dini görevlerde gevşeme veya takvada düşüş olarak çerçevelenir. Kalp hastalığı içsel bozulma ile ilişkilendirilirken, bazı aktarımlarda hastalığın durumu ve rüya sahibinin konumuna göre değişen anlamlar taşıdığı belirtilir; dindar bir kişi için ibadet halinin zayıflaması, günahkâr biri için tövbe ve Allah'a yakınlaşma ihtiyacı, otorite sahibi için ise görevde düşme ihtimali gibi temalar öne çıkar.",
+  "christianTraditions": "Kutsal metinler ve teolojik literatürde hastalık, insanın faniliğini, günahın yıkıcı etkisini ve merhamet ile şifa ihtiyacını görünür kılan bir işaret olarak ele alınır. Bu bağlamda rüyadaki hastalık teması yalnızca bir ceza unsuru değil, aynı zamanda arınma, şefkat, dua ve ilahi yardım arayışına çağrı barındıran bir imge olarak değerlendirilebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde ve Talmudik Berakhot metinlerinde rüyalar doğrudan kesin birer kehanet hükmü taşımaz. Berakhot 10a, kötü bir rüyanın dahi kişinin merhamet duası ve şifa dileğini engellememesi gerektiğini vurgular. Berakhot 57b geleneğinde ise uyku ve rüya, hastalıklı kişi için iyi alâmetler arasında sayılır. Bu doğrultuda hastalık sembolü, kesin bir tehditten ziyade kırılganlık, şifa arayışı ve topluluk içi destek ekseninde okunur.",
+  "buddhistEasternApproaches": "Eski Hint ve Tibet tıbbi sistemlerinde rüyalar, bedensel dengesizliklerin ve yaklaşan sağlık sorunlarının birer ön belirtisi veya gösterge olarak kabul edilir. Sushruta Samhita gibi klasik metinlerde uğursuz rüya imgelerinin sağlıklı ve hasta bireylerde farklı bedensel durumların habercisi olabileceği belirtilir; rüya, bedenin içsel durumunu yansıtan bir gösterge olarak görülür.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel okumalarda hastalık rüyası genellikle bozulmuş bir iç dengeyi, enerji akışındaki tıkanmaları, bastırılmış duygu yüklerini veya yaşam ritmindeki uyum kaybını gösterir. Bu imge, eski örüntülerin bırakılması, arınma ve ruhsal yorgunluğa işaret eden içsel bir bakım çağrısı olarak yorumlanır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Uyku Araştırmaları",
+      "interpretation": "Organik rahatsızlıkların, ateşli dönemlerin ve kötü öznel sağlığın rüyada tıbbi temaları ve olumsuz duygulanımı artırması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Organik ve bedensel uyaranların rüya içeriğine sızması; hastalık başlangıçlarının rüyada sezilebilmesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilinç ve bilinçdışı dengesinin bozulması; hastalık temasının dönüşüm, telafi ve psişik yeniden düzenlenme olarak okunması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Manevî zayıflık, nifak, tövbe ihtiyacı, imtihan ve arınma süreci.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rabbani Gelenek",
+      "interpretation": "Doğrudan kehanet yerine kırılganlık, dua, şifa arayışı ve toplumsal destek bağlamı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Eski Hint ve Tibet Tıbbı",
+      "interpretation": "Rüyaların bedensel dengesizlikleri ve yaklaşan hastalıkları gösteren birer prognoz belirten gösterge olması.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Enerjisel tıkanmalar, bastırılmış duygusal yükler ve içsel arınma çağrısı.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve bilimsel disiplinler, rüyadaki hastalık temasının bedensel durumlar, kırılganlık ve içsel denge kaybıyla yakından ilişkili olduğu konusunda birleşir.",
+  "differences": "Yaklaşımlar arasındaki temel fark, rüyanın kaynağına ve amacına yüklenen anlamda ortaya çıkar. Ampirik psikoloji rüyayı bedensel esenlik ve organik uyaranların bir yansıması olarak incelerken, geleneksel ve dinî okumalar ise manevî durumu, imtihanı veya tövbe ihtiyacını öne çıkarır. Ezoterik ve spiritüel yorumlar ise enerji akışındaki tıkanmalara ve içsel arınma çağrılarına odaklanır.",
+  "inusAssessment": "Rüyada hastalık sembolü ile karşılaşılması, tek başına geleceğe dair kesin bir tıbbi teşhis veya sabit bir kehanet anlamı taşımaz. Bu sembolün yorumlanmasında rüyanın ortaya çıktığı bağlam, kişinin uyanıklıktaki fiziksel sağlık durumu ve rüyanın duygusal tonu belirleyicidir. Ateşli bir dönem, yoğun stres veya organik bir kırılganlık rüyayı tetiklemiş olabilir; bu durumda imgenin psikolojik bir tepki mi, bedensel bir alarm mı yoksa içsel bir dönüşüm arayışı mı olduğunu değerlendirmek önemlidir.",
+  "faq": [
+    {
+      "question": "Rüyada hasta olduğumu görmek gerçekte hasta olacağım anlamına mı gelir?",
+      "answer": "Bilimsel ve klinik araştırmalar, rüyaların bedensel sağlık durumundan ve öznel esenlikten etkilenebildiğini gösterse de, rüya tek başına tıbbi bir tanı koydurmaz; yalnızca bedensel kırılganlıkların veya stresin zihinsel yansıması olabilir."
+    },
+    {
+      "question": "Hastalık rüyaları neden ateşli veya sancılı dönemlerde daha sık görülür?",
+      "answer": "Uyku sırasında artan beden ısısı ve organik uyaranlar, beyindeki rüya üretim mekanizmalarını etkileyerek daha yoğun, tuhaf ve negatif tonlu imgelerin, dolayısıyla sağlık ve yaralanma temalarının rüyalara girmesini tetikleyebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dreaming and illness. - APA PsycNET",
+      "relevance": "Hastalık ve psikiyatrik veya fiziksel rahatsızlıklar bağlamında rüya içeriğinin değişebileceğini gösteren çalışma.",
+      "url": "https://psycnet.apa.org/record/2000-03469-003"
+    },
+    {
+      "title": "The clinical use of dream content in modern psychiatry",
+      "relevance": "Modern psikiyatride rüya içeriğinin klinik anlamı ve bazı hastalıklardaki kullanımını özetleyen derleme.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39748545/"
+    },
+    {
+      "title": "ABC of Sleep Disorders",
+      "relevance": "Uyku bozuklukları ve organik hastalıklarla ilişkili rüya örüntülerini tartışan akademik derleme.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1677442/pdf/bmj00015-0055.pdf"
+    },
+    {
+      "title": "End-of-Life in Oncologic Patients' Dream Content - PMC",
+      "relevance": "Onkolojik hastalarda rüya içeriğinde hastalık, hastane ve ölüm göndermelerini bildiren çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7464967/"
+    },
+    {
+      "title": "Health dreams, health-related worries, and being ill",
+      "relevance": "Sağlık durumu kötüleşen kişilerde rüya içeriğinde tıbbi temaların ve olumsuz duygulanımın artışını aktaran çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/27638/pdf/90301"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyanın bastırılmış istek doyumu olarak ele alındığı temel Freud metni; hastalık imgesinin sabit bir sözlük anlamı yerine rüya çalışması içinde okunması için çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "[PDF] THE INTERPRETATION OF DREAMS - Lutecium Network",
+      "relevance": "Hastalığın başlangıcının rüyada önce sezdirebilmesi fikrini aktaran baskı; bedensel bozuklukların rüya içeriğine girebilmesi açısından doğrudan önem taşır.",
+      "url": "https://www.lutecium.org/ftp/Freud/pdf/1900_the_interpretations_of_dreams.pdf"
+    },
+    {
+      "title": "ADDENDUM 1909",
+      "relevance": "Rüya ile zihinsel bozukluk arasındaki klinik ve yapısal ilişkileri ayıran bölüm; hastalık temasını psikanalitik ilişkilendirme açısından konumlandırır.",
+      "url": "https://kolbefoundation.org/gbookswebsite/studentlibrary/greatbooks/freud/chap1h.htm"
+    },
+    {
+      "title": "Carl Gustav Jung on Dreams. Quotations - The Gold Scales",
+      "relevance": "Rüyanın sağlık ve hastalıkla ilişkisine dair Jung’a atfedilen doğrudan ifade.",
+      "url": "http://oaks.nvg.org/jungdreams.html"
+    },
+    {
+      "title": "The dream in terminal illness : a Jungian case study.",
+      "relevance": "Terminal hastalık bağlamında Jungcu rüya dizilerinin dönüşüm, ölüm yaklaşımı ve bilinçdışı süreçlerle ilişkisini tartışan vaka incelemesi.",
+      "url": "https://open.uct.ac.za/server/api/core/bitstreams/c8a57081-f230-4b25-bff3-2ccd9d0af276/content"
+    },
+    {
+      "title": "The dream in terminal illness: a Jungian formulation",
+      "relevance": "Terminal hastalık ve arketipsel rüyaların geçiş dönemlerindeki rolüne ilişkin Jungcu formülasyon kaydı.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1372305/"
+    },
+    {
+      "title": "Physical Illnesses and Dream Symbolism",
+      "relevance": "Fiziksel hastalık ile psişik durum arasında sembolik bağlantı kurulabileceğini tartışan Jungcu pasaj.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/08/22/dream-44/"
+    },
+    {
+      "title": "Dreams In Jungian Psychology: The use of Dreams as ... - PMC",
+      "relevance": "Jungcu sembol anlayışını, rüya sembollerinin sezgisel ve henüz biçimlenmemiş anlam taşıması üzerinden açıklayan akademik derleme.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3216128/"
+    },
+    {
+      "title": "Illness and its Metaphors in Artemidorus' Oneirocritica. A ...",
+      "relevance": "Artemidorus’ta hastalık ve hastalık metaforlarının rüya yorumundaki yerini ele alır.",
+      "url": "https://www.academia.edu/11907140/Illness_and_its_Metaphors_in_Artemidorus_Oneirocritica_A_Negative_list_in_Steven_Oberhelman_ed_Dreams_Healing_and_Medicine_in_Greece_From_Antiquity_to_the_Present_Ashgate_2013_128_158"
+    },
+    {
+      "title": "Sleep and Dreams in Ancient Medical Diagnosis and Prognosis",
+      "relevance": "Antik tıp geleneğinde rüyaların hastalıkların tanısı ve prognozuyla ilişkisini inceler.",
+      "url": "https://theses.ncl.ac.uk/jspui/bitstream/10443/1577/1/Hulskamp%20M%20A%20A%2008.pdf"
+    },
+    {
+      "title": "Steven M. Oberhelman (ed.), Dreams, Healing, and Medicine in Greece: From Antiquity to the Present",
+      "relevance": "Artemidorus’un rüya yorum geleneği içindeki yeri ve hastalık metaforlarına odaklanan modern akademik değerlendirmeyi sunar.",
+      "url": "https://academic.oup.com/shm/article/28/4/930/2510510"
+    },
+    {
+      "title": "Denique Onirocrites, sic erit Hippocrates",
+      "relevance": "Antik rüya yorumunda bedenin durumu ile rüya imgeleri arasındaki ilişkiyi, hastalık bağlamıyla birlikte açıklar.",
+      "url": "https://www.athensjournals.gr/health/2021-8-2-1-Oberhelman.pdf"
+    },
+    {
+      "title": "Prodromal dreams - PMC - NIH",
+      "relevance": "Artemidorus döneminde tıbbi içerikli rüyaların hastalıkla ilişkili biçimde yorumlandığını özetler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12424588/"
+    },
+    {
+      "title": "Illness in Dreams — Islamic Interpretation & Meaning | Dream ...",
+      "relevance": "İslami çerçevede hastalığı manevî-ahlaki bozulma, ihmal ve takva düşüşüyle ilişkilendiren sayfa.",
+      "url": "https://www.dream-wisdom.com/en/dreams/illness/"
+    },
+    {
+      "title": "Islamic Dream Interpretation – Meaning of Illness in Dreams",
+      "relevance": "Hastalığın bedenin tamamını kaplaması, kalp hastalığı ve farklı toplumsal/dinî durumlara göre değişen yorumları derleyen sayfa.",
+      "url": "https://islamicdreamqa.com/meaning-of-illness-in-dreams/"
+    },
+    {
+      "title": "تفسير رؤية المرض بالمنام لابن سيرين - السوسنة إسلام",
+      "relevance": "Arapça derleme; İbn Sîrîn’e atıfla hastalığın tövbe, yakınlaşma ve bazı bağlamlarda dinî salah ile ilişkilendirildiğini özetliyor.",
+      "url": "https://islam.assawsana.com/article/14993"
+    },
+    {
+      "title": "Rêver d'être malade en islam : signification selon Ibn Sirin",
+      "relevance": "İbn Sîrîn’e atıfla, hastalığı manevî zayıflık, imtihan ve dünya işleriyle ilgili engeller bağlamında ele alan Fransızca sayfa.",
+      "url": "https://significations-reves.fr/rever-malade-islam/"
+    },
+    {
+      "title": "Dream of Being Sick",
+      "relevance": "Rüyada hasta olma temasını ruhsal zayıflık, saldırı ve olumsuzluk çerçevesinde yorumlayan modern dini içerik.",
+      "url": "https://evangelistjoshua.com/dream-of-being-sick/"
+    },
+    {
+      "title": "The Victory Report Week 2! - Apostle David E. Taylor [Official Site]",
+      "relevance": "Hastalık/disease temasını ruhsal hastalık, günah ve ilahi uyarı bağlamında açıklayan modern dini içerik.",
+      "url": "https://joshuamediaministries.org/dreams/disease/"
+    },
+    {
+      "title": "Topical Bible: Disease: Figurative",
+      "relevance": "Kutsal Kitap’ta hastalığın mecazi olarak günah ve ahlaki bozulmayı anlatabildiğini gösteren konu derlemesi.",
+      "url": "https://biblehub.com/topical/naves/d/disease--figurative.htm"
+    },
+    {
+      "title": "Topical Bible: Diseases: Illustrative of Sin",
+      "relevance": "Kutsal Kitap’ta hastalıkların günahı ve ruhsal bozulmayı örnekleyen simgeler olarak kullanıldığını özetleyen konu derlemesi.",
+      "url": "https://biblehub.com/topical/ttt/d/diseases--illustrative_of_sin.htm"
+    },
+    {
+      "title": "Topical Bible: Sickness: Illustrative of Sin",
+      "relevance": "Hastalığın günahı temsil eden bir metafor olarak ele alındığı konu başlığı.",
+      "url": "https://biblehub.com/topical/ttt/s/sickness--illustrative_of_sin.htm"
+    },
+    {
+      "title": "Topical Bible: Diseases: Frequently: Loathsome",
+      "relevance": "Hastalığın insan faniliği, ilahi takdir ve ruhsal anlamlarla ilişkilendirildiği konu derlemesi.",
+      "url": "https://biblehub.com/topical/ttt/d/diseases--frequently--loathsome.htm"
+    },
+    {
+      "title": "DISEASE AND HEALING IN THE BIBLE AND",
+      "relevance": "Kutsal Kitap’ta hastalık ve şifa temasının günah, ilahi müdahale ve eskatolojik anlamlarla ilişkisini tartışan akademik yazı.",
+      "url": "https://www.um.edu.mt/library/oar/bitstream/123456789/24978/1/MELITA%20THEOLOGICA%2015-1%20-%20A3.pdf"
+    },
+    {
+      "title": "Berakhot 10.a",
+      "relevance": "Berakhot 10a’daki rüya pasajı; kötü görünen bir rüyanın bile dua ve merhamet ihtiyacını ortadan kaldırmadığını gösterir.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/10.a"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Berakhot 55b’de hastanın hastalığını ilk gün gizlemesi ve sonrasında açıklayabilmesi anlatılır; hastalık temasının rabbanî bağlamını verir.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Babylonian Talmud: Tractate Berakoth",
+      "relevance": "Berakhot 57b’de uyku ve rüyanın, hastalığı olan kişi için olumlu işaretler arasında sayıldığı bir pasaj bulunur; bu bölüm rüya-hastalık ilişkisine rabbanî bir bakış açısı sunar.",
+      "url": "https://www.come-and-hear.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Chapter XXIX - Auspicious and inauspicious dreams",
+      "relevance": "Rüyalarda hastalık, uğursuz rüyaların sağlık ve ölümle ilişkili yorumlandığı klasik Hindu tıp geleneğini gösterir.",
+      "url": "https://www.wisdomlib.org/hinduism/book/sushruta-samhita-volume-1-sutrasthana/d/doc122928.html"
+    },
+    {
+      "title": "Toh 48 — The Teaching on Dreams",
+      "relevance": "Tibet Budist bağlamında rüya ile hastalık prognostiği arasındaki ilişkiyi açıkça zikreder.",
+      "url": "https://buddhistcanon.ru/tibetan_canon/kangyur/039-004-toh48-the-teaching-on-dreams.html"
+    },
+    {
+      "title": "Omens and Dreams of Impending Death",
+      "relevance": "Tibet tıbbında hastalık rüyası kategorisini ve bunun bedensel durumla bağlantısını açıklar.",
+      "url": "http://www.aruratibetanmedicine.com/Omens.asp"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Eski Hint tıbbi ve Budist bağlamda rüya imgelerinin sağlık ya da hastalık göstergesi olarak okunabileceğini anlatır.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Dreaming in the Lotus 0861711580 - DOKUMEN.PUB",
+      "relevance": "Eski Hint rüya yorumlarında hastalığın rüya yoluyla önceden belirti verebileceği fikrini tartışır.",
+      "url": "https://dokumen.pub/dreaming-in-the-lotus-0861711580.html"
+    },
+    {
+      "title": "Illness in dreams — meaning and symbolism",
+      "relevance": "Eski Hint ve ezoterik kaynaklarda, hastalığın iç ve dış yaşam arasındaki dengesizlikleri, arınma ihtiyacını ve uyum çağrısını gösteren bir imge olarak okunabileceği tartışılır.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/illness"
+    },
+    {
+      "title": "Illness, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Rüyada hastalığın güvensizlik, suçluluk ve ruhsal berraklık eksikliğiyle ilişkilendirilmesini aktarır.",
+      "url": "http://www.dreamtation.com/docs/2915.htm"
+    },
+    {
+      "title": "Dreaming of Sick: Meaning, Symbolism & Interpretation",
+      "relevance": "Hastalık/sickness imgesini ruhsal dengesizlik, görünmeyen dünyadan mesaj ve içsel gölge temalarıyla ilişkilendiren modern spiritüel yorumlar sunar.",
+      "url": "https://dreamz-journal.com/blog/dream-symbol/sick/"
+    },
+    {
+      "title": "Illness Dream Meaning & Interpretation - Mirror",
+      "relevance": "Hastalık imgesini içsel inceleme, şifa ve eski örüntülerin bırakılmasıyla bağlantılı simgesel bir eşik olarak yorumlar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/illness/"
+    },
+    {
+      "title": "What Does It Mean to Dream About Being Sick",
+      "relevance": "Hastalık sembolünü duygusal yük, bastırılmış gerilim ve içsel iyileşme çağrısı olarak ele alan modern spiritüel açıklama sunar.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/being-sick/"
+    },
+    {
+      "title": "Disease in Dreams: Fear, Healing, and the Body's Hidden ...",
+      "relevance": "Hastalık/disease imgesini iç ve dış yaşam arasındaki dengesizlik, temizlik ve hizalanma çağrısı olarak yorumlar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/disease"
+    },
+    {
+      "title": "Dreams of illness: the body speaking what the soul keeps silent",
+      "relevance": "Hastalık rüyasını gündelik yaşamda dikkat edilmesi gereken bir iç uyarı ve dengenin bozulması işareti olarak açıklar.",
+      "url": "https://dreamtherapia.com/dreams/dreams-of-illness/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "slug": "borc",
+  "title": "borc",
+  "shortDescription": "Rüyada borç görmek, çoğu zaman maddi durumdan çok üzerinizdeki sorumlulukları, vicdani yükleri veya zihinsel baskıyı simgeler. Borcu ödemek rahatlama ve zor bir konunun çözülmesine, borç altında ezilmek ya da alacaklılar tarafından sıkıştırılmak ise ihmal edilen sorumluluklarla yüzleşme ihtiyacına işaret edebilir.",
+  "positiveAssociations": [
+    "Yükten kurtulma ve rahatlama",
+    "Ahlaki ve vicdani onarım",
+    "Bağları onarma",
+    "Sıkıntıların çözülmesi ve denge arayışı"
+  ],
+  "challengingAssociations": [
+    "Zillet, hakaret ve baskı altında kalma",
+    "Suçluluk ve tamamlanmamış sorumluluklar",
+    "Gündelik mali veya sosyal kaygıların rüyaya yansıması",
+    "Karmik yük ve acı döngüsüne bağlanma"
+  ],
+  "contextDependentAssociations": [
+    "Bilinmeyen bir borcun ödenmesi durumunda günahlar ve sorumluluk bilinci",
+    "Borçtan kurtulma anında ferahlama veya akrabalık bağlarının güçlenmesi",
+    "Diş düşmesi gibi eşlik eden imgelerle borcun kapanacağına dair işaretler"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanımadığı Bir Borcu Ödemek",
+      "description": "Rüya sahibinin uyanık hayatta bilmediği bir borcu kapattığını görmesi, vicdani sorumluluklar, geçmişten kalan yükler ve telafi edilmesi gereken manevi hesaplaşmalarla ilişkilendirilir."
+    },
+    {
+      "title": "Borç Altında Ezildiğini Hissetmek",
+      "description": "Kişinin üzerinden kalkamayacağı kadar büyük borçlar taşıdığını görmesi, günlük yaşamın getirdiği mali baskıların, sosyal yükümlülüklerin ve zihinsel gerilimin rüya düzlemindeki yansımasıdır."
+    },
+    {
+      "title": "Borcunu Tamamen Ödemek",
+      "description": "Borcun başarıyla ödendiği veya kapatıldığı anlar, uyanık yaşamda uzun süredir taşınan bir yükten kurtulma, rahatlama, zor bir meselenin çözülmesi ve bağların tazelenmesi anlamına gelebilir."
+    },
+    {
+      "title": "Alacaklılar Tarafından Sıkıştırılmak",
+      "description": "Borç yüzünden baskı altında kalmak veya takip edilmek, kişinin vicdani muhasebe yaptığı, ihmal ettiği sorumluluklarla yüzleşmek zorunda kaldığı bir içsel çatışmaya işaret eder."
+    }
+  ],
+  "psychology": "Araştırmalar, bireyin uyanık yaşamda iyi oluş düzeyi düşük olduğunda rüyalarında daha fazla olumsuz duygu, başarısızlık ve talihsizlik teması deneyimleyebildiğini göstermektedir.",
+  "jungian": "",
+  "islamicTradition": "Geleneksel İslami tabir derlemelerinde borçlu olmak zillet ve hakaretle ilişkilendirilirken, borçtan kurtulmak ferahlama olarak okunur. Borcu ödemek yolculuktan dönme, akrabalık bağlarını yenileme veya zor bir meseleyi çözme ile bağdaştırılırken, bilinmeyen borcun ödenmesi günahlar ve sorumluluk bilinciyle açıklanır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde ve Kutsal Kitap metaforlarında borç, günah, hesaplaşma ve bağışlanma ihtiyacı ile ilişkilendirilir. Rabbin Duası'ndaki borç mecazına dayanan bu okuma, vicdan, manevi sorumluluk ve affedilme temalarını öne çıkarır.",
+  "jewishTraditions": "Yahudi kaynaklarında borç kavramı adalet, yükümlülük, ödeme ve yerine getirme ekseninde anlam taşır. Talmudik rüya yorumu ilkeleri bağlamında doğrudan standart bir rüya maddesi olmasa da, rüyadaki borç tamamlanmamış bir sorumluluk çerçevesinde değerlendirilebilir.",
+  "buddhistEasternApproaches": "Budist ve Tibet Budizmi yaklaşımlarında borç metaforu, finansal bir yükümlülükten öte bağlılık, acı döngüsü ve karmik karşılıklılık (Tibetçe 'lenchak') ile ilişkilendirilir. Rüyadaki borç imgesi, taşınan bir yük ve çözülmemiş sorumluluklar bağlamında okunur.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda borç; taşınan yük, vicdani rahatsızlık, karmik denge arayışı, enerji alışverişindeki bozulmalar ve tamamlanmamış bir yaşam dersi olarak ele alınır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Uyanık yaşamdaki stres, olumsuz duygulanım ve mali baskıların rüyalardaki duygulanımla süreklilik göstermesi.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Borç imgesinin ekonomik olmaktan çok, yer değiştirmiş bir içsel çatışma, suçluluk veya yükümlülük duygusuna işaret etmesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel İslami Tabir",
+      "interpretation": "Borçlu olmanın sıkıntı ve zillet getirmesi, borcun ödenmesinin ise ferahlama, tövbe ve sorumluluk bilinciyle okunması.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Karmik Yaklaşım",
+      "interpretation": "Borcun ruhsal denge, karmik karşılıklılık, tamamlanmamış ödevler ve vicdani muhasebe bağlamında değerlendirilmesi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, borç sembolünün maddi bir nesneden ziyade insan zihnindeki yük, gerilim, tamamlanmamış sorumluluk ve vicdani hesaplaşma boyutunda ortaklaşmaktadır.",
+  "differences": "Ampirik psikoloji rüyayı gündüz kaygılarının duygusal sürekliliği olarak ele alırken, psikanaliz bunu yer değiştirmiş içsel çatışmalarla, geleneksel ve dini okumalar ahlaki sorumluluk ve günah/bağışlanma metaforlarıyla, spiritüel yaklaşımlar ise karmik denge arayışıyla açıklamaktadır.",
+  "inusAssessment": "Rüyada borç sembolü, tek bir ekonomik duruma indirgenemeyen, kişinin uyanık yaşamındaki baskılar, vicdani muhasebe ve tamamlanmamış sorumluluklar arasında köprü kuran karmaşık bir imgedir. Rüyayı yorumlarken borcun türü, rüya sahibinin borçlu ya da alacaklı konumda olması ve borcun ödenip ödenmediği gibi ayrıntılar, rüyanın bir baskı göstergesi mi yoksa bir onarım ve rahatlama çağrısı mı olduğunu belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada borçlu olmak her zaman maddi sıkıntı yaşanacağı anlamına mı gelir?",
+      "answer": "Hayır. Araştırmalar ve geleneksel okumalar, borcun rüyalarda çoğunlukla psikolojik yük, gerilim, suçluluk duygusu veya yerine getirilmemiş sorumluluklar gibi maddi olmayan içsel süreçleri temsil ettiğini göstermektedir."
+    },
+    {
+      "question": "Rüyada borcunu ödemek rüya sahibine ne söyler?",
+      "answer": "Borcun ödendiğini görmek; uyanık yaşamda taşınan bir yükten kurtulmaya, vicdani rahatlamaya, zor bir meselenin çözülmesine veya ilişkilerin tazelenmesine işaret eden yaygın bir temadır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "a longitudinal study of the continuity hypothesis",
+      "relevance": "Rüya içeriği ile uyanık yaşam duygulanımı arasındaki sürekliliği ve olumsuz duyguların rüyadaki temalarla ilişkisini ele alan uzunlamasına çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16288448/"
+    },
+    {
+      "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
+      "relevance": "Freud’un rüya kuramında rüyanın isteğe bağlılığını, sansürü ve yer değiştirmeyi anlatır; borç imgesini psikanalitik olarak yorumlamak için kuramsal çerçeve sağlar.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidoros üzerine çevrimiçi çeviri; rüya yorumunun kişinin koşullarına göre değiştiğini ve gündelik kaygıların rüyaya taşınabildiğini gösteren çerçeve sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Interpretation of Dreams: Oneirocritica by Artemidorus - Goodreads",
+      "relevance": "Artemidoros’a atfedilen borçlu örneğini aktaran kaynak; borç temasını rüyada ödeme ve borcun kapanması ile ilişkilendirir.",
+      "url": "https://www.goodreads.com/book/show/604460.Interpretation_of_Dreams"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Borç, borçlu olmak ve borçtan kurtulmak başlıkları altında İslami rüya tabiri aktarımı.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "DREAMS",
+      "relevance": "Borç maddesinde ödeme, günah, akrabalık bağları, yolculuktan dönüş ve dinî meseleler arasında kurulan geleneksel rüya yorumları.",
+      "url": "https://ia903101.us.archive.org/11/items/IbnSirinDictionaryOfDreams/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Topical Bible: Understanding Debts",
+      "relevance": "Kutsal Kitap’ta borcun günah ve bağışlanma diliyle ilişkilendirilmesini gösterir; özellikle Rabbin Duası ve ahlaki borç metaforuna odaklanır.",
+      "url": "https://biblehub.com/topical/u/understanding_debts.htm"
+    },
+    {
+      "title": "Topical Bible: Debt",
+      "relevance": "Borç imgesinin günah, yükümlülük ve ruhsal sorumlulukla bağlantısını özetler; Hristiyan sembolik okuma için temel metaforik çerçeveyi sağlar.",
+      "url": "https://biblehub.com/topical/d/debt.htm"
+    },
+    {
+      "title": "Berakhot.55b.1-56a.19",
+      "relevance": "Rüyaların yorumlanmasına dair Talmudik çerçeve; rüya yorumunda genel ilke ve yaklaşımı gösterir.",
+      "url": "https://www.sefaria.org/Berakhot.55b.1-56a.19?lang=en"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot’taki rüya bölümüne açıklayıcı yaklaşım; Talmudik rüya literatürünün kapsamını anlamaya yardımcı olur.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Interpretation of Dreams | PDF | Cerebral Cortex - Scribd",
+      "relevance": "Borç, ödeme ve yerine getirme temasını Yahudi dini bağlamında ele alan bir pasaj içerir; rüya yorumunda borç sembolü için dolaylı sembolik zemin sağlar.",
+      "url": "https://www.scribd.com/document/822677816/Interpretation-of-Dreams"
+    },
+    {
+      "title": "Significance of Debt",
+      "relevance": "Budizm ve Hinduizm bağlamında borç kavramının anlam alanını, özellikle yükümlülük ve metafor kullanımını özetler.",
+      "url": "https://www.wisdomlib.org/concept/debt"
+    },
+    {
+      "title": "Karmic debt",
+      "relevance": "Tibet Budizmi’nde karmik borç (lenchak) kavramını açıklar; karşılıklılık ve neden-sonuç ilişkisi açısından önemlidir.",
+      "url": "https://www.rigpawiki.org/index.php?title=Karmic_debt"
+    },
+    {
+      "title": "Buddhism and Debt | Tikkun",
+      "relevance": "Budist metinlerde borç ve ekonomi metaforlarının nasıl kullanıldığını tartışır.",
+      "url": "https://read.dukeupress.edu/tikkun/article/30/1/35/30564/Buddhism-and-Debt"
+    },
+    {
+      "title": "Sonhar com Dívida: Significado e Interpretação dos Sonhos",
+      "relevance": "Borç teması için modern spiritüel yorumda yük, suçluluk, tamamlanmamış sorumluluk ve iç denge arayışını bir arada ele alıyor.",
+      "url": "https://www.interpretdreams.io/pt/dream-dictionary/debt/"
+    },
+    {
+      "title": "Debt Dream Meaning & Interpretation - Mirror",
+      "relevance": "Borç sembolünü karma, bağışlanma ve ruhsal denge diliyle ilişkilendiriyor; rüyada borç için manevi bir okuma çerçevesi sunuyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/debt/"
+    },
+    {
+      "title": "Debt Archetype Meaning & Symbolism - MyMythos",
+      "relevance": "Borcu, tamamlanmamış değişim, sorumluluk, özür ve duygusal denge ile ilişkilendiren sembolik bir yaklaşım sunar.",
+      "url": "https://mymythos.org/archetype/debt/"
+    },
+    {
+      "title": "Debt in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Borcu Jungcu bir çerçevede, yaşamda geride kalmış bir görev, söz veya tamamlanmamış yön olarak yorumlayan bir okuma sunuyor.",
+      "url": "https://rosmertapublishing.com/dream-symbols/debt/"
+    },
+    {
+      "title": "Dreaming About Debt: Unpacking Financial and Emotional Burdens",
+      "relevance": "Borcu evrensel spiritüel düzeyde denge, karşılıklılık ve enerji alışverişi bozulması olarak ele alıyor.",
+      "url": "https://cosmicmeaning.com/en/dreams/debt"
+    },
+    {
+      "title": "Debtor in Dreams: Guilt, Obligation, and the Price of Change",
+      "relevance": "Borçlu figürünü ruhsal veya sembolik düzlemde tamamlanmamış değişim, karma ve içsel denge ihtiyacı olarak yorumluyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/debtor"
+    },
+    {
+      "title": "Debt in Dreams: Meanings, Psychology, and Ways to Respond | Dreamspoken",
+      "relevance": "Borç sembolünü manevi borç, affetme ve merhamet bağlamında ele alan Hristiyan bakış açılarını sunar ve rüyadaki borç kavramının spiritüel çağrışımlarını tartışır.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/debt"
+    },
+    {
+      "title": "Do Common Symbols in Dreams Have Spiritual Meaning?",
+      "relevance": "Borç sembolünü manevi borç, affetme ve merhamet dili içinde ele alan bir Hristiyan yorum çerçevesi sunuyor; bu araştırmada genel spiritüel çağrışım için yararlı.",
+      "url": "https://cbn.com/article/holy-spirit/do-common-symbols-dreams-have-spiritual-meaning"
+    },
+    {
+      "title": "The Rally for Justice - Apostle David E. Taylor [Official Site]",
+      "relevance": "Borç ve ödünç alma temasını ruhsal sorumluluk, emanet ve borç ödeme dilinde ilişkilendiriyor.",
+      "url": "https://joshuamediaministries.org/dreams/debt/"
+    },
+    {
+      "title": "Dreaming About Debt: What the Weight You Can't Put Down Is ...",
+      "relevance": "Borç sembolünü spiritüel açıdan yaşamda çözülmemiş bir yük, ödenmemiş bir bedel ve karşılıklılık sorunu olarak çerçeveliyor.",
+      "url": "https://decode-dream.com/en/debt"
+    }
+  ],
+  "relatedSlugs": []
+}

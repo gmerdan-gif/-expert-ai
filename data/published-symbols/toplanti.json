@@ -1,0 +1,256 @@
+{
+  "slug": "toplanti",
+  "title": "toplanti",
+  "shortDescription": "Rüyada toplantı görmek, sosyal ilişkilerde fikir alışverişi, ortak karar alma ve uzlaşma arayışını yansıtabilir. Toplantının havası ve sizin rolünüz, değerlendirilme kaygısını ya da rehberlik ve paylaşım ihtiyacını öne çıkarabilir.",
+  "positiveAssociations": [
+    "Fikir paylaşımı ve ortak hedefler belirleme",
+    "İstişare ve uzlaşma",
+    "Topluluk içinde birlik ve paydaşlık duygusu",
+    "Farklı bakış açılarının sentezlenmesi"
+  ],
+  "challengingAssociations": [
+    "Değerlendirilme veya yargılanma kaygısı",
+    "Otorite karşısında baskı altında hissetme",
+    "Topluluk içinde kalabalığın yarattığı yorgunluk",
+    "Sosyal beklentilerin getirdiği gerilim"
+  ],
+  "contextDependentAssociations": [
+    "Toplantının kiminle yapıldığı",
+    "Katılımcıların tutumu ve atmosferin gergin ya da sakin olması",
+    "Rüya sahibinin toplantıdaki aktif konumu veya pasif izleyici durumu",
+    "Mekânın resmiyeti ve toplantının amacı"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık Olmayan İnsanlarla Kalabalık Bir Toplantı",
+      "description": "Yabancı yüzlerin oluşturduğu büyük bir mecliste bulunmak, sosyal çevreye uyum sağlama çabasını ve bilinmeyen toplumsal dinamikler karşısında hissedilen konumu yansıtır."
+    },
+    {
+      "title": "İş Yerinde Otorite Figürleriyle Toplantı",
+      "description": "Yönetici veya kıdemli kişilerle yapılan resmi bir görüşme, uyanık yaşamdaki performans baskısını, onaylanma ihtiyacını veya sorumluluklarla yüzleşmeyi simgeler."
+    },
+    {
+      "title": "Dağınık ve Karışık Fikirlerin Konuşulduğu Meclis",
+      "description": "Herkesin aynı anda konuştuğu, gürültülü ve düzensiz bir toplantı sahnesi, zihinsel dağınıklığı, içsel seslerin çatışmasını ve karar vermede yaşanan kararsızlığı gösterir."
+    },
+    {
+      "title": "Sessiz ve Öğretici Bir Toplantı",
+      "description": "Sakin bir topluluk içinde bilgilerin paylaşıldığı bir ortam, yeni bakış açıları kazanma, rehberlik arayışı ve içsel dinginlik ihtiyacına işaret eder."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmalarında \"toplantı\" gibi sahneler, Hall ve Van de Castle sisteminde \"sosyal etkileşim\" ve \"karakterler\" kategorileri altında incelenir. Bu çerçeve, rüyadaki buluşmaları sabit bir sözlük anlamından ziyade, rüya görenin kişilerarası ilişkilerini, sosyal gerilimlerini ve grup dinamiklerini yansıtan ampirik veriler olarak ele alır.",
+  "jungian": "Jungcu bakış açısından, rüyadaki toplantı veya kalabalık grup sahneleri egonun bilinçdışı ötekilerle teması ve içsel psikolojik alt kişiliklerin bir araya gelmesi olarak değerlendirilir. Grup atmosferi, bireyin içindeki çatışan yönlerin yarattığı gerilimi ve bu unsurların ortak bir diyalog kurarak bütünleşme çabasını görünür kılar.",
+  "islamicTradition": "Modern tasavvufi ve kültürel yorumlarda toplantı görmek, iletişim kurma, fikir paylaşımı, ortak karar alma ve gönül meşveretiyle ilişkilendirilir. Bazı halk tabiri kaynaklarında ise topluluk içinde bulunma teması üzerinden geçici rahatsızlıklar veya kalabalık ortamların getirdiği durumlarla bağdaştırılmıştır.",
+  "christianTraditions": "Kutsal metinlerdeki toplanma ve cemaat olma motiflerinden hareketle, rüyadaki toplantı imgesi inananların ortak bir amaç, ibadet veya paydaşlık etrafında bir araya gelmesini, eskatolojik bir birlik ve topluluk içinde doğru konumlanma çabasını çağrıştırır.",
+  "jewishTraditions": "Antik Yahudi rüya geleneğinde ve Talmudik tartışmalarda rüya ile yorum arasındaki ilişki merkezi bir yer tutar; bu bağlamda topluluk içi müzakere, ortak akıl ve üç kişilik meclislerin onay süreciyle rüyaların sosyal ve diyalogsal bir paylaşımla anlam kazandığı vurgulanır.",
+  "buddhistEasternApproaches": "Budist metinlerdeki büyük meclis ve öğreti etrafında toplanma sahnelerine benzer şekilde, rüyadaki toplantı imgesi de yüksek bir farkındalık, Dhamma veya öğreti etrafında zihinsel unsurların bir araya gelmesi ve bilincin ortak bir paydada buluşması olarak okunabilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda toplantı, farklı niyetlerin, yaşam çizgilerinin ya da içsel enerjilerin ortak bir eşikte buluştuğu bir kavşak olarak ele alınır. Bu an, karar verme, yön değiştirme ve yüksek benlikle temas kurma çabasını simgeler.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Sosyal Etkileşim Analizi",
+      "interpretation": "Kişilerarası ilişkilerin ve rüya içindeki sosyal rollerin nicel ve nitel incelenmesi.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik ve Jungcu Kuram",
+      "interpretation": "Egonun bilinçdışı içerikleri, otorite figürleri ve içsel alt kişiliklerle müzakeresi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel ve Kültürel Yorumlar",
+      "interpretation": "Topluluk, meşveret, ortak karar alma ve sosyal paydaşlık eksenli yaklaşım.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Farklı niyetlerin ve enerjilerin birleştiği bir eşik, karar ve dönüşüm anı.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Tüm yaklaşımlar, toplantı imgesinin tecrit edilmiş bireysel bir durumdan ziyade ötekiyle karşılaşma, ilişki kurma ve ortak bir zihinsel ya da sosyal alanda bulunma gerçekliğine dayanması bakımından örtüşür.",
+  "differences": "Ampirik yaklaşım sosyal etkileşimleri veri olarak kodlarken, psikodinamik ve Jungcu kuramlar içsel parçaların ve otoritenin dinamiklerine odaklanır; geleneksel ve spiritüel yaklaşımlar ise meşveret, cemaat bilinci veya enerjik birleşme gibi daha aşkın ve toplumsal anlamlar yükler.",
+  "inusAssessment": "Toplantı sembolü, rüya görenin dış dünyadaki sosyal rolleri ile içsel dünyasındaki baskı unsurları arasındaki köprüde yer alır. Bu imgeyi çözerken katılımcıların kimliği, odadaki atmosferin gerginliği ya da uyumu ve rüya sahibinin toplantının pasif bir izleyicisi mi yoksa aktif bir öznesi mi olduğu, rüyanın işaret ettiği yönü belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada kalabalık bir toplantıda konuşmak zorunda kalmak ne anlama gelir?",
+      "answer": "Bu durum genellikle uyanık yaşamda başkaları tarafından değerlendirilme korkusunu, düşünceleri topluluk önünde savunma gerekliliğini ve sosyal performans baskısını yansıtır."
+    },
+    {
+      "question": "Toplantı rüyaları her zaman iş hayatı veya kariyerle mi ilgilidir?",
+      "answer": "Hayır; iş yeri temalı görünse bile toplantı, bireyin kendi içindeki farklı seslerin uzlaşma çabasını ya da sosyal çevresiyle olan ilişki biçimini simgeleyebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Chapter 2: The Hall/Van De Castle System",
+      "relevance": "Rüyalardaki sosyal etkileşimlerin ve kişiler arası sahnelerin nasıl sınıflandırıldığını gösteren temel içerik analizi çerçevesi.",
+      "url": "https://dreams.ucsc.edu/Library/fmid2.html"
+    },
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içeriğini sistematik biçimde incelemek için kullanılan yöntemleri ve analiz basamaklarını özetleyen akademik kaynak.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Freud’un rüya kuramının temel metni; rüya içeriği, rüya düşüncelerinin dönüşümü ve çözümleme yöntemi açısından toplantı sahnesini yorumlamak için kuramsal zemin sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Eserin çevrim içi tam metni; rüya yorumunda serbest çağrışım ve rüya unsurlarının rüya düşüncelerine bağlanması için doğrudan metinsel dayanak sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "When Someone Appears in Your Dream, It Means This | Carl Jung’s Hidden Meaning of Dream Encounters",
+      "relevance": "Ego ile bilinçdışı içerikler arasındaki karşılaşma ve içsel karşıtlıkların bütünleşmesi temaları.",
+      "url": "https://www.youtube.com/watch?v=fAqR8_yQ_n0"
+    },
+    {
+      "title": "Dreams in group analysis - Gasi",
+      "relevance": "Rüyaların grup bağlamında, grup atmosferi ve üyeler arası ilişkiler içinde ele alınması.",
+      "url": "https://groupanalyticsociety.co.uk/dreams-in-group-analysis/"
+    },
+    {
+      "title": "Dreams - the Alchemy of Groups: Jungian Reflections on Group Work - PubMed",
+      "relevance": "Jungcu grup çalışmalarında, grup alanının projeksiyonlar ve karşıtlıklar aracılığıyla gerilim ürettiği ve bu gerilimin grup dinamiklerini biçimlendirdiği tartışılır.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40152755/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorumlarının temel yapısını ve Greko-Romen oneirokritik geleneğini gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Prof. Scott B. Noegel",
+      "relevance": "Antik Yunan rüya yorum geleneğinin Artemidorus’ta toplandığını ve bağlamsal yorum mantığını açıklar.",
+      "url": "https://faculty.washington.edu/snoegel/PDFs/articles/Noegel%2036%20-%20Ideologies%202000.pdf"
+    },
+    {
+      "title": "J. Bilbija & J.J. Flinterman, Dreaming of deities: Athena and Dionysus in the Oneirocritica",
+      "relevance": "Artemidorus’ta yorumcunun rüyanın içsel ve dışsal öğelerini ayırma yöntemini tartışır.",
+      "url": "https://www.academia.edu/123896296/J_Bilbija_and_J_J_Flinterman_Dreaming_of_deities_Athena_and_Dionysus_in_the_Oneirocritica"
+    },
+    {
+      "title": "[PDF] A Psychological Study of Dreams in Hellenistic Poetry",
+      "relevance": "Hellenistik dönemde rüya yorumunun sembolik ve alegorik karakterini açıklar.",
+      "url": "https://chs.harvard.edu/wp-content/uploads/2020/11/fdrafts-karamitsou.pdf"
+    },
+    {
+      "title": "[PDF] ALCMENA'S DREAM IN MOSCHUS' MEGARA - Dialnet",
+      "relevance": "Antik bağlamda rüyaların sembolik mesajlar olarak anlaşılmasına ve oneirokritik okuma kurallarına değinir.",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/633286.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Oneirocritica’nın rüya sınıflandırması, anlamın bağlam içinde çözümlenmesi ve yorum ilkeleri hakkında özet sunar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Rüyada Toplantı Görmek Ne Anlama Gelir? Ne Demek, Neye Yorumlanır?",
+      "relevance": "Rüyada toplantı içinde bulunmayı küçük rahatsızlıkla ilişkilendiren modern tabir sayfası.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-toplanti-gormek-ne-anlama-gelir-28872"
+    },
+    {
+      "title": "Rüyada toplantı görmek; iletişim kurma, fikir paylaşımı, karar alma ...",
+      "relevance": "Toplantı sembolünü iletişim, fikir paylaşımı, karar alma ve meşveret ihtiyacıyla yorumlayan modern tasavvufî metin.",
+      "url": "https://fallarim.com/ruya/ruyada-toplanti-gormek-iletisim-kurma-fikir-paylasimi-karar-alma-sureci"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri T Harfi",
+      "relevance": "Toplantı başlığı altında halkın toplantı yerini görmenin hayra, mevsim ve cemiyetlere ve rızka işaret ettiğini aktaran derleme.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-t-harfi.html"
+    },
+    {
+      "title": "Topical Bible: Gathering Together",
+      "relevance": "İnananların bir araya gelmesini ibadet, paydaşlık ve karşılıklı güçlenme bağlamında özetler; toplanma sembolizmi için kullanıldı.",
+      "url": "https://biblehub.com/topical/g/gathering_together.htm"
+    },
+    {
+      "title": "Topical Bible: Meeting-place",
+      "relevance": "Metinlerde 'meeting-place' ve birlikte toplanmanın topluluk, ibadet ve ilahi yakınlıkla ilişkisini özetler; toplantı sembolüyle bağlantı kurmak için kullanıldı.",
+      "url": "https://biblehub.com/topical/m/meeting-place.htm"
+    },
+    {
+      "title": "The Fellowship of the Faithful: Congregating in the Bible",
+      "relevance": "2 Thessalonians 2:2’deki 'gathering together unto him' ifadesini öne çıkarır; Mesih’e yönelen toplanma temasını göstermek için kullanıldı.",
+      "url": "https://digitalbible.ca/article-page/modern-topics-what-does-the-bible-say-about-congregating"
+    },
+    {
+      "title": "Topical Bible: Gathering",
+      "relevance": "Kutsal metinlerde gathering kavramını birlik, topluluk ve ilahi amaç bağlamında özetler; toplantı sembolünün toplumsal boyutunu destekler.",
+      "url": "https://biblehub.com/topical/g/gathering.htm"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyaların anlamı ve ahlaki işlevi üzerine açıklama; Yahudi rüya yorum çerçevesini verir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Berakhot 55b’nin metninde rüya anlatısının üç kişinin huzurunda söylenmesi ve toplu yorum pratiğiyle bağlantı kurar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "“All Dreams Follow the Interpretation” – Even for the Rabbis!",
+      "relevance": "Berakhot 55b’deki rüya yorumculuğu ve antik Yahudi rüya geleneği üzerine tartışma; yorumun sosyal boyutunu öne çıkarır.",
+      "url": "https://thegemara.com/article/all-dreams-follow-the-interpretation-even-for-the-rabbis/"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Berakhot 55-58’in Yahudi rüya yorum literatüründeki yerini özetler.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Oneirocritics and Midrash. On reading dreams and the Scripture",
+      "relevance": "Rabbanî rüya yorumunda yorumlayıcının rolünü ve Talmud ile midraşlardaki rüya okuma pratiğini inceler.",
+      "url": "https://journal.fi/nj/article/view/69603"
+    },
+    {
+      "title": "Maha-samaya Sutta: The Great Assembly - Access to Insight",
+      "relevance": "Buddha çevresinde oluşan büyük meclis ve Dhamma topluluğu anlatısı; toplantı imgesinin Budist ritüel/toplanma anlam alanını gösterir.",
+      "url": "https://www.accesstoinsight.org/tipitaka/dn/dn.20.0.piya.html"
+    },
+    {
+      "title": "The Teaching on Dreams",
+      "relevance": "Rüya içinde bir mecliste Tathāgata’nın Dhamma öğretmesi sahnesi; toplantı imgesinin Budist rüya bağlamındaki kullanımını gösterir.",
+      "url": "https://84000.co/translation/toh48"
+    },
+    {
+      "title": "20: The Eight Assemblies",
+      "relevance": "Budist gelenekte farklı meclis türlerini sıralayan metin; toplantı kavramının çoklu topluluk ve buluşma biçimleriyle ilişkisini gösterir.",
+      "url": "https://ancient-buddhist-texts.net/English-Texts/Great-Emancipation/20-Assemblies.htm"
+    },
+    {
+      "title": "Meeting Dream Meaning & Interpretation - Mirror",
+      "relevance": "Toplantı rüyasını manevi bir karşılaşma, yön değişimi ve içsel ayrışmaların birleşmesi olarak ele alan modern spiritüel yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/meeting/"
+    },
+    {
+      "title": "Meeting in Dreams: Encounters, Crossroads, and What They Ask ...",
+      "relevance": "Toplantıyı bir temas noktası, anlam üreten bir kavşak ve değişim ritüeli olarak yorumlayan modern spiritüel metin.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/meeting"
+    },
+    {
+      "title": "Meeting 📅",
+      "relevance": "Toplantı sembolünü birlik, işbirliği ve kolektif ilerleme bağlamında ele alan modern yorum.",
+      "url": "https://dreammeaningai.com/en/symbol/meeting"
+    },
+    {
+      "title": "Meeting Dream Interpretation - Meeting Dream Meaning",
+      "relevance": "Toplantıyı bilinç unsurlarının bir araya gelişi, yön tayini ve karar eşiği olarak açıklayan modern sembolik yorum.",
+      "url": "https://www.dreamsmain.com/meeting"
+    },
+    {
+      "title": "Meeting in a Dream, What Does It Mean?",
+      "relevance": "Toplantıyı ruhsal rehberlik, mesaj ve yüksek benlik temalarıyla ilişkilendiren modern spiritüel yorum.",
+      "url": "https://mysleepadvisor.com/meeting/"
+    },
+    {
+      "title": "Meeting Dream Meaning: Unpacking Your Subconscious Encounters",
+      "relevance": "Toplantıyı enerjilerin kesişmesi, kaderin açılması ve içsel parçaların bütünleşmesi çerçevesinde yorumlayan modern spiritüel metin.",
+      "url": "https://www.dream-meaning.org/meeting/"
+    }
+  ],
+  "relatedSlugs": []
+}

@@ -1,0 +1,260 @@
+{
+  "slug": "okuz",
+  "title": "öküz",
+  "shortDescription": "Rüyada öküz görmek; güç, sabırlı emek, dayanıklılık ve ağır sorumluluklarla ilişkilendirilir. Sakin bir öküz istikrar ve bereketi, huzursuz ya da saldırgan bir öküz ise biriken gerilimleri ve zorlayan yükleri çağrıştırabilir.",
+  "positiveAssociations": [
+    "Güç",
+    "Sabırlı emek",
+    "Hizmet",
+    "Adanmışlık",
+    "Tarım ve bereket",
+    "İstikrar"
+  ],
+  "challengingAssociations": [
+    "Bastırılmış gerilim",
+    "Dayanma sınırı",
+    "Saldırganlık potansiyeli",
+    "Ağır sorumluluk yükü"
+  ],
+  "contextDependentAssociations": [
+    "Sakin bir öküzün düzenli emeği temsil etmesi",
+    "Saldırgan bir öküzün içsel çatışmalara işaret etmesi",
+    "Öküzün rengine ve fiziksel durumuna göre değişen yorumlar"
+  ],
+  "commonVariations": [
+    {
+      "title": "Sakin ve Tarlayı Süren Öküz",
+      "description": "Rüyada uysal bir öküzün tarla sürdüğünü görmek, düzenli emeğin, sabırlı çabanın ve hayatın farklı alanlarında sürdürülebilir verimliliğin sağlandığına işaret eder."
+    },
+    {
+      "title": "Saldırgan ve Huzursuz Öküz",
+      "description": "Öküzün boynuzlaması ya da saldırganlaşması, kişinin günlük yaşamda bastırdığı öfke, taşıyamayacağı kadar ağır sorumluluklar veya içsel gerilimlerin dışa vurma sınırına geldiğini gösterir."
+    },
+    {
+      "title": "Semiz ve Güçlü Öküz Sürüsü",
+      "description": "Oldukça güçlü ve bakımlı öküzlerin görülmesi, toplumsal bereket, bolluk dönemi veya rızkın kolaylaşması gibi geleneksel ve ezoterik temalarla ilişkilendirilir."
+    },
+    {
+      "title": "Öküzün Üzerine Binmek",
+      "description": "Yönetim, otoriteyle temas, hayatta bir üst aşamaya geçme veya kontrolü ele alma çabası olarak yorumlanan dinamik bir rüya senaryosudur."
+    }
+  ],
+  "psychology": "Psikolojik ve psikanalitik bağlamda hayvan imgeleri, doğrudan sabit bir sözlük karşılığından ziyade kişinin bilinçdışı dürtüleri ve içgüdüsel enerjileri ile kurduğu ilişkiyi yansıtır. Büyük ve güçlü hayvan figürleri, Freudyen çerçevede bastırılmış dürtülerin veya yönetilmesi gereken saldırganlığın birer taşıyıcısı olarak düşünülebilir. İçerik analizleri, rüya raporlarında duygunun varlığı ve valansının rüya yapısını anlamada kritik rol oynadığını göstermektedir.",
+  "jungian": "Jungcu analitik psikolojide öküz ve boğa hattındaki imgeler, evcilleştirilmiş ve işe koşulmuş hayvani güç, içgüdüsel enerji ve bilinçli denetim arasındaki gerilimle okunur. Öküz, kişiliğin ham ve ilksel güçlerinin disipline edilmesi, topraklanması ve ruhsal bir işlev kazanması sürecinin simgesel bir ifadesidir.",
+  "islamicTradition": "İslami rüya tabirleri geleneğinde öküz çoğunlukla güç, rızık, bereket, yönetim ve fayda ekseninde ele alınır. Bazı klasik aktarımlarda semiz öküz bereketli ve bolluk içinde geçen bir yıla, zayıf öküz ise kıtlık ve zorluklara işaret eder. Beyaz öküz iyilik ve menfaatle, siyah öküz mal sahibi olmakla, sarı öküz ise hastalıkla birlikte anılır; ayrıca öküze binmek memuriyet veya otoriteyle temas anlamına gelebilir.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde öküz; güç, sabırlı emek, hizmet, sadakat ve adanmışlıkla ilişkilendirilir. Kutsal metinlerdeki tarımsal emek bağlamları üzerinden, bu imge disiplinli hizmeti ve Tanrı yolundaki kararlı çabayı çağrıştırır.",
+  "jewishTraditions": "Babil Talmudu Berakhot 56b metninde öküz rüyası için çeşitli yorumlar sıralanır; öküz etini yemek zenginliğe, öküzün boynuzlaması Tora tartışmalarında yarışacak oğullara, ısırması sıkıntıya, tekmelemesi uzun bir yolculuğa, üzerinde yolculuk yapmak ise yükselmeye ve yücelmeye işaret eder. Ayrıca bu tür rüyaların olumlu bir ayetle karşılanması tavsiye edilir.",
+  "buddhistEasternApproaches": "Zen ve Çin Budizmi geleneklerinde öküz, zihnin eğitilmesi, izlenmesi ve disipline edilmesi için kullanılan güçlü bir metafor olarak yer alır. Öküz güden ikonografik resimler, aydınlanma yolundaki çabayı, içsel birliği ve zihnin evcilleştirilme sürecini simgeler.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel okumalarda öküz; sabır, dayanıklılık, ağır sorumlulukları omuzlama kapasitesi ve yerleşik bir güç sembolü olarak kabul edilir. Rüyada sakin bir öküz görmek istikrarlı ilerlemeyi yansıtırken, huzursuz bir öküz aşırı yüklenme ve tükenme sinyali olarak değerlendirilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Bastırılmış dürtüler, libido ve denetim altındaki saldırganlığın simgesel taşıyıcısı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Disipline edilmiş içgüdüsel enerji, topraklanma ve ham gücün bilinçli denetimi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Rızık, bereket ve yönetim: öküzün fiziksel durumuna göre bolluk ya da kıtlık işareti olarak okunur.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rüyasal Geleneği",
+      "interpretation": "Talmudik metinlere göre zenginlik, yükselme, yarışma veya sıkıntı gibi somut yaşam halleri.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Sabır, dayanıklılık, ağır emek, yük taşıma kapasitesi ve sürdürülebilir üretkenlik.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve ekoller arasında ortak nokta şudur: öküz, başıboş bir vahşi güçten ziyade emek, yük taşıma, dayanıklılık ve kontrol altına alınmış büyük bir enerjiyle ilişkilendirilir.",
+  "differences": "Kimi gelenekler öküzü toplumsal yönetim, rızık ve maddi bereket gibi dışsal göstergelerle yorumlarken, psikanalitik ve doğu ezoterik yaklaşımlar onu daha çok içsel zihin disiplini, dürtü kontrolü ve ruhsal eğitim süreçleriyle açıklamaktadır.",
+  "inusAssessment": "Öküz sembolü, rüyada belirdiği anda hem yapıcı bir istikrarı hem de katlanılan ağır yüklerin işaretini aynı anda barındırır. Onu diğer hayvan figürlerinden ayıran temel özellik, vahşi bir saldırgan olmaktan çok işe koşulmuş, emek veren ve yönlendirilen bir güç olmasıdır. Bu nedenle rüyanızda öküzü sakin bir şekilde tarlayı sürerken mi, yoksa huzursuz ve boynuzlu bir halde mi gördüğünüz, hayatınızdaki sorumlulukları taşıma kapasitenizle mi yoksa bastırdığınız gerilimlerle mi yüzleştiğinizi anlamak açısından belirleyicidir.",
+  "faq": [
+    {
+      "question": "Rüyada öküz görmek her zaman bolluk ve bereket anlamına mı gelir?",
+      "answer": "Hayır. Geleneksel ve modern yorumlarda öküzün durumu oldukça önemlidir; semiz ve sakin öküz bereketle bağdaştırılırken, zayıf, hasta veya saldırgan öküz zorluklara ve içsel gerilimlere işaret edebilir."
+    },
+    {
+      "question": "Öküz rüyası psikolojik olarak neyi temsil eder?",
+      "answer": "Psikanalitik ve Jungcu çerçevede öküz, kişinin içgüdüsel enerjilerini, bastırdığı dürtüleri ve bu enerjileri günlük yaşamda ne ölçüde disipline edebildiğini gösteren bir psişik işlev olarak ele alınır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Methods and Measures for the Study of Dream Content",
+      "relevance": "Rüya içeriği çözümlemesinde kullanılan başlıca yöntemleri özetleyen akademik kaynak; sembol yorumundan önce içerik analizi çerçevesini verir.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2000a.html"
+    },
+    {
+      "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
+      "relevance": "Freud’un rüya sembollerinin ne tür şeyleri temsil edebildiğine dair temel çerçevesini verir; öküz için doğrudan hüküm değil, sembolik okuma zemini sağlar.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Rüyada vahşi hayvanların tutkulu dürtüler, korku ve bastırılmış libido ile ilişkisini açıklar; öküzün güçlü hayvan olarak psikanalitik yorumuna yakın bağlam sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Dream Symbolism",
+      "relevance": "Psikanalizde rüya sembolizminin kültüre, rüyayı görene ve simgeleştirme süreçlerine göre değiştiğini özetler; öküz için tek ve katı bir anlam atfetmemeyi savunur.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/dream-symbolism"
+    },
+    {
+      "title": "Ox in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Öküzün Jungcu yorumunda evcilleştirilmiş güç, işe koşulmuş dayanıklılık ve yönlendirilmiş içgüdü temalarını açıkça ele alır.",
+      "url": "https://rosmertapublishing.com/dream-symbols/ox/"
+    },
+    {
+      "title": "Ox Dream Meaning & Interpretation - Mirror",
+      "relevance": "Öküz sembolünü Jungcu perspektifte içsel güç, kolektif bilinçdışı ve topraklanmış dayanıklılık temalarıyla ilişkilendirir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/ox/"
+    },
+    {
+      "title": "1. All this, however, does not entirely explain the fettered bull.",
+      "relevance": "Boğa imgesini Jungcu bir çerçevede ham güç, kontrol ve bilinçli düzenleme gerilimiyle bağlar.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/03/11/bull/"
+    },
+    {
+      "title": "Carl Jung: Dream Analysis Seminar Lecture IV",
+      "relevance": "Jung'un boğa üzerine yorumunu aktaran metin, boğayı bilinçdışı güç, disiplin ve denetim temalarıyla ilişkilendirir.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/07/29/carl-jung-visions-2/"
+    },
+    {
+      "title": "The Psychology of Animals",
+      "relevance": "Jungcu hayvan sembolizmini ve boğa/öküz hattındaki hayvani imgelerin psişik enerji taşıyan semboller olarak okunmasını özetler.",
+      "url": "https://eternalisedofficial.com/2024/08/07/the-psychology-of-animals/"
+    },
+    {
+      "title": "Artemidoros on Dreams - translation",
+      "relevance": "Antik Yunan rüya yorum geleneğinin temel metinlerinden biri olarak, hayvan sembollerinin rüya içindeki tarihsel yorum bağlamını kurar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "[PDF] THE GODDESS AND THE HERDSMAN, FROM SUMER TO ROME",
+      "relevance": "Artemidoros’un Oneirocritica’sını antik rüya tabirinin pratik el kitabı olarak tanıtan kısa tarihsel bağlam sunar.",
+      "url": "https://classics.web.ox.ac.uk/files/classicsnewsletter2019pdf"
+    },
+    {
+      "title": "NEWS & NOTES - Institute for the Study of Ancient Cultures",
+      "relevance": "Eski Yakın Doğu rüya metinlerinde öküz ve sığırla ilgili yorum parçalarına işaret eden kısa metin alıntıları içerir.",
+      "url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/nn180.pdf"
+    },
+    {
+      "title": "Dreams and their Interpretation - Egypt and the Bible",
+      "relevance": "Chester Beatty papirüsü üzerinden eski Mısır rüya yorumunda öküz/sığırla ilişkili örnekleri aktarır.",
+      "url": "http://www.egyptandthebible.com/index.php/2019/02/05/dreams-interpretation/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri Ö Harfi",
+      "relevance": "Öküzün bereket, rızık, yönetim ve topluluk reisliğiyle ilişkilendirildiğini aktarır.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-o2-harfi.html"
+    },
+    {
+      "title": "Seeing Ox in a dream",
+      "relevance": "Öküzün yönetim, memuriyet, çiftçilik ve yıl içi bereket bağlamındaki rüya anlamları.",
+      "url": "https://www.shiacircle.com/dream-interpretation/ox"
+    },
+    {
+      "title": "Rüyada Öküz Ve İnek Görmek Ne Demek? Evin İçinde Öküz Ve İneklerin Gezdiğini Görmek",
+      "relevance": "Öküzün renk ve beden durumuna göre farklılaştırılan tabirleri; beyaz, siyah, sarı ve zayıf öküz ayrımları.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-okuz-ve-inek-gormek-ne-anlama-gelir-28222"
+    },
+    {
+      "title": "The Year of the Ox",
+      "relevance": "İncil’de öküzün sabırlı emek, hizmet ve fedakârlık çağrışımlarıyla anılmasına dair genel Hristiyan sembolizmi sunar.",
+      "url": "https://kingdomwinds.com/the-year-of-the-ox/"
+    },
+    {
+      "title": "Topical Bible: Ox",
+      "relevance": "Öküz için İncil merkezli sembolik çağrışımları derler; güç, hizmet ve kurban temalarına odaklanır.",
+      "url": "https://biblehub.com/topical/o/ox.htm"
+    },
+    {
+      "title": "Ox in the Bible: Symbol of Strength and Service",
+      "relevance": "Öküzü İncil bağlamında emek, dayanıklılık ve sadık hizmet imgesi olarak açıklar; Hristiyan sembolik sentez için yararlı bir çerçeve sağlar.",
+      "url": "https://www.athensbible.org/ox-bible/"
+    },
+    {
+      "title": "Ox, Rochester Bestiary, c.1230 — Kent History & Archaeology",
+      "relevance": "Ortaçağ bestiary geleneği ve Kutsal Kitap ayetleri üzerinden öküzün güç, emek ve hizmetle ilişkilendirilmesini ele alır.",
+      "url": "https://www.kentarchaeology.org.uk/records/rochester-bestiary-ox"
+    },
+    {
+      "title": "The Ass and The Ox in The Nativity Icon",
+      "relevance": "İsa'nın doğumu ikonografisinde öküzün yerini ve geleneksel yorumlarda taşıdığı sembolik anlamı anlatır.",
+      "url": "https://orthodoxartsjournal.org/why-an-ass-and-an-ox-in-the-nativity-icon/"
+    },
+    {
+      "title": "Babylonian Talmud: Tractate Berakoth",
+      "relevance": "Öküzün rüyada görülmesine dair doğrudan talmudik yorumları içerir; etini yemek, boynuzlamak, ısırmak, tekmelemek ve üzerine binmek gibi ayrıntılı rüya anlamları burada verilir.",
+      "url": "https://halakhah.com/berakoth/berakoth_56.html"
+    },
+    {
+      "title": "Berakhot 112 - Talmud Bavli Study",
+      "relevance": "Berakhot 56 metnindeki uygulamaları aktarır; öküz rüyası görüldüğünde okunacak olumlu ayetleri ve olumsuz çağrışmaları bertaraf etme uygulamalarını açıklar.",
+      "url": "https://talmudbavli.app/en/texts/Berakhot.112.1"
+    },
+    {
+      "title": "Berachot: 56b - Talmud",
+      "relevance": "Berakhot 56b’deki öküz rüyası pasajını ve olumlu ayetle karşılama pratiğini açık biçimde sunar.",
+      "url": "https://www.chabad.org/torah-texts/5299914/Talmud/Berachot/Chapter-9/56b"
+    },
+    {
+      "title": "Bava Kamma 45 | My Jewish Learning",
+      "relevance": "Berakhot 56’deki öküz rüyası öğretisini modern Yahudi okuruna özetler; öküzle ilgili beş rüya anlamını listeler.",
+      "url": "https://www.myjewishlearning.com/article/bava-kamma-45/"
+    },
+    {
+      "title": "Berakhot 56 - Hadran",
+      "relevance": "Öküz rüyası için sabah söylenecek olumlu ayeti ve negatif çağrışımı önceleme endişesini aktarır.",
+      "url": "https://hadran.org.il/daf/berakhot-56/"
+    },
+    {
+      "title": "The Ten Ox Herding Pictures",
+      "relevance": "Çan/Budist onluk öküz güden resimlerinde öküzün zihin metaforu olarak kullanımı.",
+      "url": "https://dharmanet.org/coursesM/26/chan9.htm"
+    },
+    {
+      "title": "Oxherding pictures",
+      "relevance": "Budist onluk öküz güden resimlerinin ruhsal ilerleme ve beyaz öküz sembolizmiyle açıklanması.",
+      "url": "https://dharmanet.org/oxherding/"
+    },
+    {
+      "title": "Microsoft Word - Koller Oxherding Pictures Text-5 FINAL.doc",
+      "relevance": "Öküz ve öküz çobanı anlatısının Çin Budizmi içinde aydınlanma ve Buddha-doğasıyla yorumlanması.",
+      "url": "https://urbandharma.org/pdf17/oxherding.pdf"
+    },
+    {
+      "title": "Graphic Representation of the Path",
+      "relevance": "Zen görsel öğretiminde öküzün zihni ve meditasyon yolunu temsil etmesi.",
+      "url": "https://academic.oup.com/edited-volume/62249/chapter/568371908"
+    },
+    {
+      "title": "Ox Dream Meaning: Dreams About Oxen Explained",
+      "relevance": "Öküzü spiritüel bağlamda güç, dayanıklılık ve ağır sorumluluk sembolü olarak işler; rüya yorumunda da taşıma gücü ve çalışma temalarını öne çıkarır.",
+      "url": "https://whatisyourspiritanimal.com/animal-dream-symbols/what-dreaming-of-ox-means/"
+    },
+    {
+      "title": "Ox Dream Spiritual Meaning (Decoding Oxen Persistence)",
+      "relevance": "Öküz rüyasını spiritüel anlam üzerinden ele alır; bereket, bolluk, sabır ve süreklilik çağrışımlarını açık biçimde belirtir.",
+      "url": "https://spiritualmojo.com/ox-dream-spiritual-meaning/"
+    },
+    {
+      "title": "The Symbology Of Dreams By Samael Aun Weor, Translated by",
+      "relevance": "Öküz sembolünün ezoterik/okült rüya yorumu; uygunluk, çalışma, bolluk ve dinginlik gibi anlamları listeler.",
+      "url": "https://graystorms.wordpress.com/2013/10/01/the-symbology-of-dreams-by-samael-aun-weor-translated-by-jose-pastora-graham-storms/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

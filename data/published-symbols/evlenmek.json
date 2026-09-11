@@ -1,120 +1,219 @@
 {
   "slug": "evlenmek",
   "title": "evlenmek",
-  "shortDescription": "Rüyada evlenmek, içsel bir uzlaşma arayışını ya da hayatınızda yeni bir bağ ve sorumluluk üstlenmeyi simgeleyebilir. Rüyanın havasına göre haysiyet, güçlenme veya yeni bir başlangıçla; ya da yükümlülüklerin yarattığı baskıyla ilişkilendirilebilir.",
+  "shortDescription": "Rüyada evlenmek, hayatın yeni bir evresine geçiş, içsel bütünleşme, sorumluluklar veya toplumsal statü değişimi gibi pek çok farklı bağlamda ele alınan katmanlı bir rüya sembolüdür.",
   "positiveAssociations": [
-    "İçsel bütünleşme ve bireyleşme yönelimi",
-    "Yeni bir sorumluluğu veya adımı üstlenme gücü",
-    "Haysiyet, asalet ve toplumsal bağlarda güçlenme",
-    "Karşıt yönlerin psikolojik düzeyde uzlaşması"
+    "Uğurlu birlik ve yeni başlangıçlar",
+    "Zenginlik, bereket ve rızık artışı",
+    "Aile ve toplumsal uyum",
+    "İçsel bütünleşme ve karşıtların uzlaşması",
+    "İlahî yardım, nimet ve salih amellere yönelme"
   ],
   "challengingAssociations": [
-    "Bilinçdışı çatışmaların ve bağlanma/ayrışma gerilimlerinin açığa çıkması",
-    "Yeni yükümlülüklerin getirdiği baskı hissi",
-    "Klasik rüya yorumlarında, bağlama göre evlilik imgeleri bazen ayrılık veya kayıp çağrışımı taşıyabilir.",
-    "Zorunlu bir akit veya taahhüdün getirdiği kısıtlanma algısı"
+    "Ölüm alameti veya ritüel benzerliği (eski rüya yorumlarında)",
+    "Keder, yük ve kısıtlanma",
+    "Hapishane veya borç benzeri ağır sorumluluklar",
+    "Bazı geleneklerde ritüel gerektirebilen rahatsız edici rüya deneyimleri"
   ],
   "contextDependentAssociations": [
-    "Törensel ve neşeli bir düğün ortamı yeni iş veya itibar getirebilirken, rüya sahibinin tanımadığı biriyle evlenmesi farklı bir gidişata işaret edebilir.",
-    "Akrabayla kurulan sıra dışı bağlar, ailevi ilişkilerin ve bağların sorgulanması anlamına gelebilir.",
-    "Şahitler huzurunda yapılan evlilikler, hayata veya bir değere verilen taahhütleri simgeleyebilir."
+    "Rüya sahibinin bekâr ya da evli olması",
+    "Rüyada eşin kimliğinin bilinip bilinmemesi",
+    "Rüyadaki genel duygusal ton ve atmosfer",
+    "Kişinin güncel yaşamındaki sosyal ve sağlık durumu"
   ],
   "commonVariations": [
     {
       "title": "Tanımadık Biriyle Evlenmek",
-      "description": "Rüya sahibinin henüz bilincine varamadığı yeni bir yönüyle veya hayatına girecek beklenmedik bir sorumlulukla ilk kez karşılaşmasını temsil eder."
+      "description": "Rüya sahibinin yüzünü tanımadığı bir kişiyle nikâh masasına oturduğunu görmesi, yaşamında beklenmedik yeni bir sorumluluk alanına gireceğine veya bilinmeyen bir dönemeçle karşılaşacağına işaret edebilir."
     },
     {
-      "title": "Coşkulu ve Kalabalık Bir Düğün",
-      "description": "Sosyal çevre, toplumsal roller ve kişinin dış dünyayla kurduğu yeni statü veya itibar ilişkilerinin sahnede olduğunu gösterir."
+      "title": "Eski Eşle Yeniden Evlenmek",
+      "description": "Mevcut eşiyle ya da geçmişteki bir partnerle yeniden düğün yaptığını görmek, ilişkideki bazı meselelerin yeniden ele alınması, geçmiş bağların sorgulanması ya da ortak bir kararın tazelenmesi anlamına gelebilir."
     },
     {
-      "title": "Mevcut Eşle Yeniden Evlenmek",
-      "description": "İçsel dünyada mevcut bir bağın, ortaklığın veya uzun süreli bir sorumluluğun yeniden tazelenmesi ve uzlaşı arayışını yansıtır."
+      "title": "Düğün Alayında Bulunmak",
+      "description": "Gelin veya damat olarak doğrudan evlenmek yerine büyük bir düğün kalabalığında yer almak, toplumsal uyum, sosyal çevredeki hareketlilik ve yeni ortaklıklar kurma arzusuyla ilişkilendirilir."
     },
     {
-      "title": "Evlilik Töreninde Yalnız Kalmak veya Gecikmek",
-      "description": "Taahhütler, bağlılıklar ve kişinin kendi içindeki kararsızlıkları ya da sorumluluklardan kaçma isteği arasındaki gerilimi ortaya koyar."
+      "title": "İstemeden Evlenmeye Zorlanmak",
+      "description": "Rüyada rızası dışında bir evliliğe mecbur bırakıldığını görmek, uyanık yaşamda kişinin üstlenmek zorunda kaldığı ağır yükleri, baskı altında alınan kararları veya kaçınılmaz görülen sorumlulukları yansıtabilir."
     }
   ],
-  "psychology": "Psikodinamik yaklaşımlarda evlenmek, bastırılmış içsel çatışmaların, ebeveyn imgelerinin ve bağlanma dinamiklerinin rüya sahnesine yansıması olarak ele alınır. Bu alandaki ampirik çalışmalar sınırlıdır; psikanalitik çerçeve ise motifi bireyin içsel dünyasındaki uyum arayışlarıyla ilişkilendirir.",
-  "jungian": "Jungcu analitik psikolojide evlenmek, ‘kutsal birleşme’ (hieros gamos) ve karşıtların psikolojik düzeyde uzlaşması olarak değerlendirilir. Bilinç ile bilinçdışının, anima ve animusun veya rüya sahibinin içindeki zıt kutupların bir araya gelerek bütünleşme ve bireyleşme yönelimi sergilemesini sağlar.",
-  "islamicTradition": "İslami rüya tabiri geleneklerinde evlilik, Allah'ın lütfu ve kullarıyla kurduğu ilişki metaforu üzerinden okunur. İbn Sîrîn gibi klasik yorumculara göre evlenmek, haysiyet, güç, asalet ve yeni bir dünyevi bağ kurma anlamı taşıyabilir. Şahitli nikahlar, bir akit ya da sorumluluk üstlenmeyi simgelerken, bazı özel bağlamlar farklı uyarılar içerebilir.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
+  "psychology": "Rüya içerik analizi yaklaşımında \"evlenmek\" imgesi, Domhoff ve benzeri ampirik araştırmacılar tarafından önceden tanımlanmış kategorilere giren ve \"düğün\", \"evlilik\", \"gelin\" gibi anahtar sözcüklerle taranabilen bir rüya içeriği kategorisidir. Bu yaklaşım, sembolün tek ve sabit bir anlamı olduğunu varsaymaktan ziyade rüya metinlerindeki frekansını ve genel örüntülerini inceler.",
+  "jungian": "Jungcu analitik psikolojide evlenmek rüyası, psişe (kişiliğin zihinsel/ruhsal yapısı) içindeki karşıt kutupların uzlaşması ve coniunctio (kutsal birlik) kavramı çerçevesinde okunur. Bilinç ile bilinçdışının, anima ve animus (içsel dişil ve eril yönler) figürlerinin bir araya gelmesi, bireyleşme sürecinde içsel bütünlüğe ve dengeye yaklaşmaya işaret eden bir dönüşüm imgesidir.",
+  "islamicTradition": "Klasik ve modern İslami rüya yorumu kaynaklarında evlenmek, bazı aktarımlarda zenginlik, bereket, ilahî yardım, nimet ve yeni bir işe girişme olarak değerlendirilirken, bazı bağlamlarda ise keder, borç, kısıtlanma veya hamile bir kadının doğuracağı çocuğun cinsiyeti gibi detaylara göre farklı biçimlerde yorumlanır.",
+  "christianTraditions": "Hristiyan sembolizminde evlilik ve evlenmek, Tanrı ile halkı arasındaki antlaşma ilişkisini ve Mesih ile Kilise arasındaki kutsal birliği temsil eden merkezi bir metafor olarak ele alınır.",
+  "jewishTraditions": "Yahudi rüya geleneğinde, Berakhot metinlerinde vurgulanan 'rüyaların yorumla şekillendiği' ilkesi çerçevesinde, evlenme rüyaları sabit birer kehanet olmaktan ziyade bağlama duyarlı ve yorumun etkisine açık olgular olarak değerlendirilir; bazı geleneksel derlemelerde ise evlenmemiş kişilerin bu rüyayı görmesi yakın bir evlilik beklentisiyle ilişkilendirilmiştir.",
+  "buddhistEasternApproaches": "Vedik ve swapna-şastra kaynaklı çağdaş derlemelerde düğün veya evlenme rüyaları, uğurlu birlikler, yeni başlangıçlar, aile içi uyum ve yaklaşan olumlu haberlerin habercisi olarak ele alınmaktadır.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel okumalarda evlenmek, yaşamın farklı parçalarının bütünleşmesi, ruhsal bağlılık ve bireyin içsel evreler arasında köprü kurmasını simgeleyen bir dönüşüm sembolüdür.",
   "comparisonTable": [
     {
-      "approach": "Psikanaliz",
-      "interpretation": "Bastırılmış çatışmaların, bağlanma ve ayrışma temalarının sahneleşmesi.",
+      "approach": "Ampirik Rüya Araştırmaları",
+      "interpretation": "Evlilik temalı sözcüklerin rüya metinlerindeki sıklığının incelenmesi ve içerik analizi kategorisi olarak ele alınması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Arzunun dolaylı ifadesi, bağlanma isteği veya ilişkisel birleşmenin maskelenmiş bir görünümü.",
       "evidenceLevel": "theoretical"
     },
     {
       "approach": "Jungcu Analitik Psikoloji",
-      "interpretation": "Karşıtların birleşmesi, kutsal birleşme ve içsel bireyleşme süreci.",
+      "interpretation": "Karşıtların birleşimi (coniunctio — kutsal birlik), anima/animus (içsel dişil ve eril yönlerin entegrasyonu) ve bireyleşme sürecinde içsel bütünleşme.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami Rüya Geleneği",
-      "interpretation": "Yeni bir ahit, sorumluluk, lütuf, haysiyet veya dünyevi bağlar.",
+      "approach": "İslami ve Kültürel Aktarımlar",
+      "interpretation": "Rızık artışı, ilahî yardım, yeni iş ortaklıkları ya da bağlama göre keder ve yük gibi ikili anlamlar.",
       "evidenceLevel": "traditional"
-    }
-  ],
-  "commonGround": "Farklı gelenekler ve ekoller, evlenmek sembolünün temelinde bir ‘bağ kurma’, ‘birleşme’ ve ‘sorumluluk üstlenme’ özü bulunduğunda hemfikirdir.",
-  "differences": "Psikolojik yaklaşımlar bu birleşmeyi içsel parçaların (bilinç ve bilinçdışı) entegrasyonu olarak ele alırken, geleneksel İslami yaklaşım bunu daha çok dış dünya ile kurulan akitler, haysiyet, yükümlülükler ve ilahi lütuf ekseninde yorumlar.",
-  "inusAssessment": "Evlenmek sembolü, rüyada görüldüğü an itibarıyla doğrudan geleceğe dair kesin bir kehanet olarak okunamaz; aksine kişinin iç dünyasında ya da sosyal yaşamında hangi sorumlulukları dengelemeye çalıştığının çok katmanlı bir aynasıdır. Jungcu bütünleşme arayışı ile klasik gelenekteki akit ve yükümlülük vurgusu, bu sembolün hem ruhsal derinliğe hem de pratik hayattaki taahhütlere aynı anda işaret ettiğini gösterir.",
-  "faq": [
-    {
-      "question": "Rüyada evlenmek gerçek hayatta evleneceğim anlamına mı gelir?",
-      "answer": "Rüya tabiri gelenekleri ve psikolojik yaklaşımlar, bu sembolün nadiren doğrudan bir olay kehaneti olduğunu belirtir. Genellikle içsel bir uzlaşma, yeni bir sorumluluk veya taahhüt altına girme ihtiyacını simgeler."
     },
     {
-      "question": "Tanımadığım biriyle evlendiğimi görmek neyi ifade eder?",
-      "answer": "Bu durum, rüya sahibinin henüz tam olarak keşfetmediği kişisel yönleriyle yüzleşmesini veya hayatında yeni, bilinmeyen bir dönemeçle karşılaşma hazırlığını temsil edebilir."
+      "approach": "Spiritüel ve Ezoterik Yaklaşımlar",
+      "interpretation": "Kutsal birlik, yaşam evreleri arasında geçiş ve farklı yaşam parçalarının uyum içinde bir araya gelmesi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler arasında evlenme sembolü, dışsal olaylardan ziyade bir birleşme, bağ kurma, yükümlülük üstlenme veya yaşamda yeni bir aşamaya geçiş fikri etrafında ortak bir anlam taşır.",
+  "differences": "Ampirik yaklaşımlar sembolü istatistiksel bir içerik kategorisi olarak incelerken, psikanalitik ve Jungcu teoriler onu içsel dinamiklerle ve ruhsal bütünleşme çerçevesinde okur. Dini ve kültürel gelenekler ise rüya sahibinin statüsüne, görülen ayrıntılara ve dönemsel bağlama bağlı olarak uğur veya uyarı anlamları yükler.",
+  "inusAssessment": "Evlenmek rüyası, rüya sahibinin medeni durumuna, rüyadaki eşin kimliğine ve hissedilen duygusal tona göre tamamen zıt yönlere evrilebilen ikili bir yapı barındırır. Bu rüyayı ele alırken onu ne saf bir müjde ne de kesin bir kısıtlanma olarak okumak gerekir, aksine bireyin hayatındaki hangi sorumluluk alanlarıyla bağ kurduğunu veya hangi içsel zıtlıkları uzlaştırmaya çalıştığını gösteren çok katmanlı bir eşik sembolü olarak değerlendirmek en tutarlı yaklaşım olacaktır.",
+  "faq": [
+    {
+      "question": "Rüyada evlenmek kesinlikle gerçek hayatta evleneceğim anlamına mı gelir?",
+      "answer": "Hayır. Araştırma ve geleneksel birikimler, bu sembolün tek bir sabit anlama indirgenemeyeceğini; çoğunlukla yeni sorumluluklar, içsel birleşmeler ya da yaşam koşullarındaki değişimlerle ilgili olduğunu gösterir."
+    },
+    {
+      "question": "Evli birinin rüyasında tekrar evlendiğini görmesi nasıl yorumlanır?",
+      "answer": "Bu durum genellikle mevcut ilişkideki bağların tazelenmesi, yeni ortaklıklar kurulması ya da bireyin hayatında üstlendiği yeni yükümlülükler ve roller bağlamında ele alınır."
+    },
+    {
+      "question": "Rüyadaki düğünün huzursuz veya kederli geçmesi neye işaret eder?",
+      "answer": "Duygusal tonun olumsuz olması, uyanık yaşamda üstlenilen yeni sorumlulukların veya kararların yarattığı kaygıları, baskı hissini ya da zorlayıcı yaşam geçişlerini yansıtabilir."
     }
   ],
   "sources": [
     {
+      "title": "Copyright American Psychological Association. Not for ...",
+      "relevance": "Rüya içerik analizinde evlilik temalı sözcüklerin frekansını ve karşılaştırmalarını incelemeye uygun bir ampirik çerçeve.",
+      "url": "https://dreams.ucsc.edu/TSSOD/TSSOD.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Rüyalarda isteğin dolaylı ifadesi, sembolik yer değiştirme ve evlilik motifinin başka imgeler içinde görünmesi konusunda temel metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Rêver de mariage : qu'est-ce que ça signifie - Psychologies.com",
+      "relevance": "Freud’un evlilik sahnesinin bir rüyada başka bir fantazinin altında görünebildiği fikrini destekleyen popüler bir özet.",
+      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Mariage"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/414 - Wikisource",
+      "relevance": "Bu metin, 'evlilik' deyimiyle cinsel imgelerin birbirine bağlanmasını ve rüyalarda dolaylı temsil örneklerini tartışır.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/414"
+    },
+    {
       "title": "Wedding Dreams: Symbols of Sacred Union and Inner Transformation",
-      "relevance": "Evlenmek rüyasının Jungcu yorumunda kutsal birleşme, karşıtların birleşmesi ve içsel bütünleşme temalarını açıklar.",
+      "relevance": "Evlilik rüyalarını kutsal birlik ve içsel dönüşüm çerçevesinde ele alan modern Jungcu yorum.",
       "url": "https://thisjungianlife.com/wedding-dreams/"
     },
     {
-      "title": "A cultural history of marriage (in the medieval age) 9781350001824, 9781350001916, 9781350179721, 1350001821 - DOKUMEN.PUB",
-      "relevance": "Ortaçağ bağlamında evlilik sembolünün toplumsal düzen ve hukuk üzerindeki etkisini açıklar.",
-      "url": "https://dokumen.pub/a-cultural-history-of-marriage-in-the-medieval-age-9781350001824-9781350001916-9781350179721-1350001821.html"
+      "title": "What Does Your Wedding Dream Mean? - This Jungian Life",
+      "relevance": "Evlilik rüyasını coniunctio, anima/animus ve karşıtların birleşimi üzerinden açıklayan Jungcu yorum yazısı.",
+      "url": "https://thisjungianlife.com/what-does-your-wedding-dream-mean/"
     },
     {
-      "title": "[PDF] JUNG at HEART | Inner City Books",
-      "relevance": "Jungcu analitik psikolojide rüya sembollerinin karşıtları uzlaştırma ve denge kurma işlevini özetler.",
-      "url": "https://innercitybooks.net/wp-content/uploads/2020/10/42jungatheart.pdf"
+      "title": "The Way of the Dream: Marie-Louise von Franz in Conversation with Fraser Boa (2008) - full transcript",
+      "relevance": "Marie-Louise von Franz söyleşisinde içsel eş ve içsel evlilik fikrini anlatan bölümlere dair döküm.",
+      "url": "https://subslikescript.com/movie/The_Way_of_the_Dream_Marie-Louise_von_Franz_in_Conversation_with_Fraser_Boa-2350070"
     },
     {
-      "title": "Rêver de mariage : quelles sont les significations ? - Passeport Santé",
-      "relevance": "Evlenmek rüyasına psikanalitik/psikodinamik yorumlar getirir; bastırılmış çatışmalar ve aile ilişkileriyle bağlantı kurar.",
-      "url": "https://www.passeportsante.net/sante-mentale/sommeil?doc=rever-mariage-significations"
+      "title": "The Bride and the Coniunctio: An Archetypal Image of Love and Union",
+      "relevance": "Düğün imgesini coniunctio ve bireyleşme süreciyle ilişkilendiren Jungcu açıklama.",
+      "url": "https://santacruzpsychologist.com/the-bride-and-the-coniunctio-an-archetypal-image-of-love-and-union/"
     },
     {
-      "title": "Marriage Islamic Interpretations & Meanings",
-      "relevance": "İslamî rüya geleneğinde evlilik, Allah'ın lütfu ve kullarıyla kurduğu ilişki metaforu üzerinden okunur; bu çevrimiçi kaynak evliliği ilahî ilgi ve rüya yorumu bağlamında ele alır.",
+      "title": "Wedding Dreams: What It Means to Dream About a Wedding",
+      "relevance": "Evlilik rüyasını Jungcu açıdan karşıtların birleşimi ve bütünleşme olarak yorumlayan modern metin.",
+      "url": "https://www.usehypnos.com/blog/wedding-dreams-meaning"
+    },
+    {
+      "title": "The Interpretation of Dreams by Artemidorus",
+      "relevance": "Evlenme ve ölüm arasında kurulan klasik ilişkiyi ve hasta kişi için evlilik rüyasının ölümle bağlantısını aktaran çeviri metin.",
+      "url": "https://cdn.bookey.app/files/pdf/book/en/the-interpretation-of-dreams-by-artemidorus.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation - Attalus.org",
+      "relevance": "Evlilik imgelerinin cinsel ve toplumsal birleşme anlamlarıyla nasıl okunduğunu gösteren çeviri kaynağı.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Rüyada Evlenmek Ne Anlama Gelir? Rüyada Evlendiğini Görmek ...",
+      "relevance": "Rüyada evlenme için bereket, bolluk ve maddî genişleme yönlü modern Türkçe aktarım.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-evlenmek-ne-anlama-gelir-26233"
+    },
+    {
+      "title": "Marriage Islamic Interpretations & Meanings - myIslamicDream",
+      "relevance": "İslami rüya yorumlarında \"nikâh\" temasını bağlama göre açıklayan İngilizce kaynak derlemesi.",
       "url": "https://www.myislamicdream.com/marriage.html"
     },
     {
-      "title": "Interpretation of a dream about marriage by Ibn Sirin and Ibn ...",
-      "relevance": "İbn Sîrîn’e atfedilen rüya yorumunda evlenmenin haysiyet, güç ve asaletle ilişkilendirildiğini aktaran çevrimiçi kaynak.",
-      "url": "https://www.gptafser.com/en/post/Interpretation-of-a-dream-about-marriage-by-Ibn-Sirin-and-Ibn-Shaheen?page=2607"
+      "title": "Marriage in Dreams — Islamic Interpretation & Meaning",
+      "relevance": "\"Evlilik\" sembolünü İslami rüya geleneğinde hem olumlu hem de yük/kısıt anlamlarıyla birlikte ele alan aktarım.",
+      "url": "https://www.dream-wisdom.com/en/dreams/marriage/"
     },
     {
-      "title": "IBN SEERiN'S",
-      "relevance": "İbn Sîrîn’e nispet edilen çalışmada bazı giysi ve örtü imgelerinin evlilikle ilişkilendirildiği aktarılmaktadır.",
-      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+      "title": "Marriage in a Dream — Islamic Interpretation",
+      "relevance": "Evlenme sembolünü İbn Sîrîn ve Nablusî’ye nispet edilen çerçevede yeni iş, ortaklık ve hayat değişimi olarak anlatan kaynak.",
+      "url": "https://tafsiralholm.com/en/dream-interpretation/marriage/"
     },
     {
-      "title": "Islamic Dream Interpretation: getting married in a dream.",
-      "relevance": "Klasik İslami rüya yorumlarını evlilik, ahit, iş, şöhret ve sağlık bağlamlarında aktaran çevrimiçi derleme.",
-      "url": "https://themuslimtimes.info/2021/06/24/islamic-dream-interpretation-getting-married-in-a-dream/"
+      "title": "İmam Nablusi Rüya Tabirleri E Harfi",
+      "relevance": "Nablusî’ye atıfla rüyada evlenmeyi yardım ve nimet olarak veren Türkçe aktarım.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-e-harfi.html"
+    },
+    {
+      "title": "Topical Bible: Symbolism of Marriage",
+      "relevance": "Evliliğin Tanrı ile halkı ve Mesih ile Kilise arasındaki antlaşma ilişkisini simgelediğini açıklayan kaynak.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_marriage.htm"
+    },
+    {
+      "title": "Berakhot 56b | The Sefaria Library",
+      "relevance": "Berakhot’taki rüya pasajının çevrimiçi metin erişimi; Yahudi rüya yorum geleneğinin Talmudik bağlamını gösterir.",
+      "url": "https://www.sefaria.org/Berakhot.56b"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Babil Talmudu Berakhot 57 sayfasının çevrimiçi metnine erişim sağlar; rüya pasajının Talmud içindeki yerini doğrulamak için kullanışlıdır.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Yahudi geleneksel rüya yorumlarının derlenmiş bir örneğini sunar; evlilik temasının gelenekte nasıl yer aldığını gösterir.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Fast days - Getting Married in a Dream - Din - Ask the Rabbi",
+      "relevance": "Rüyada evlenmenin halakhik açıdan rahatsız edici bir rüya olarak ele alınabildiğine dair modern bir rabbanî yansıma.",
+      "url": "https://dinonline.org/2011/01/18/getting-married-in-a-dream/"
+    },
+    {
+      "title": "Dreaming of Wedding — Vedic Dream Meaning | VedKosh",
+      "relevance": "Düğün ve evlilik rüyasını Vedik/swapna-şastra çerçevesinde yorumlayan derleme; yeni başlangıç ve olumlu birlikteliklerle ilişkilendirir.",
+      "url": "https://www.vedkosh.com/swapna-shastra/wedding-dream"
+    },
+    {
+      "title": "Marriage Dream Meaning: Inner Union and Self-Integration",
+      "relevance": "Rüya evliliği için sembolik 'kutsal birlik', karşıtların birleşmesi ve dönüşüm temalarını ele alan ezoterik bir kaynak.",
+      "url": "https://dreamalchemy.me/learn/symbols/marriage"
+    },
+    {
+      "title": "Marriage Dream Meaning & Interpretation",
+      "relevance": "Evlilik rüyasını yeni birleşmeler, bağlılık ve yaşamın farklı yönlerinin bütünleşmesiyle ilişkilendiren modern rüya sembolizmi sayfası.",
+      "url": "https://mirrorwithin.org/dream-dictionary/marriage/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
 }

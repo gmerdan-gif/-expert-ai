@@ -1,89 +1,178 @@
 {
   "slug": "cami",
   "title": "cami",
-  "shortDescription": "Rüyada cami görmek, güven, manevi yönelim ve toplulukla bağ kurma ihtiyacını yansıtabilir. Camiye girmek veya içinde ibadet etmek, geleneksel yorumda hidayet ve manevi yakınlıkla ilişkilendirilir.",
+  "shortDescription": "Rüyalarda cami görmek, kutsal mekân, topluluk, içe dönme ve kurumsal düzenle ilişkili, çok katmanlı sembolik anlamlar taşır.",
   "positiveAssociations": [
-    "Güven ve sığınak duygusu",
-    "Hidayet ve manevi yakınlık",
-    "Toplumsal düzen ve birlik",
-    "Doğrulukla ilim mekânının bağdaşması"
+    "Sığınak ve korunma hissi",
+    "İçsel bütünlük ve merkezlenme",
+    "Topluluk ve aidiyet bilinci",
+    "Manevi toparlanma ve yönelim"
   ],
   "challengingAssociations": [
-    "Otorite baskısı veya kısıtlanmışlık hissi",
-    "Toplumsal beklentiler altında kalma endişesi",
-    "Manevi rehberlik arayışındaki belirsizlikler"
+    "Otorite baskısı ve katı kurallar",
+    "Kurumsal veya toplumsal bozulma kaygısı",
+    "İbadet veya dini yükümlülüklerle ilgili içsel çatışma",
+    "Bastırılmış suçluluk veya denetim ihtiyacı"
   ],
   "contextDependentAssociations": [
-    "Caminin içinde ibadet etmek veya bulunmak",
-    "Büyük bir caminin şehir veya otorite ile ilişkisi",
-    "Cami mimarisindeki kubbe, minare ve geometrik düzenin uyandırdığı hisler"
+    "Caminin dolu, temiz ve işlevsel olması ile yıkık, boş veya bakımsız olması arasındaki fark",
+    "Rüya sahibinin uyanık yaşamındaki dindarlık ve ruhsal yönelim düzeyi",
+    "Mekânın dış dünyanın gürültüsünden uzak bir sığınak mı yoksa katı bir kural alanı mı olarak hissedildiği"
   ],
   "commonVariations": [
     {
-      "title": "Büyük Bir Camiye Girmek",
-      "description": "Rüya sahibinin hayatında güven, hidayet ve manevi bir sığınak arayışına girmesini simgeleyen bir senaryodur."
+      "title": "Bakımlı ve Kalabalık Bir Camiye Girmek",
+      "description": "Rüya sahibinin kalabalık ve düzenli bir camiye girdiğini görmesi, topluluk aidiyeti, güven arayışı ve içsel bir sığınak bulma isteğiyle ilişkilendirilir."
     },
     {
-      "title": "Cami İçinde Yalnız Başına Bulunmak",
-      "description": "Kişinin kendi iç dünyasıyla baş başa kalarak topluluktan bağımsız bir muhasebe ve yönelim süreci yaşamasını ifade eder."
+      "title": "Yıkık veya Harap Olmuş Cami Görmek",
+      "description": "Bakımsız veya yıkılmış bir ibadethane imgesi, kişisel değerlerde bir sarsılma, toplumsal düzenin bozulması veya otorite figürleriyle ilgili kayıpları simgeleyebilir."
     },
     {
-      "title": "Caminin Kubbe ve Minarelerini Uzaktan İzlemek",
-      "description": "Rüya görenin hayatındaki düzen, simetri ve manevi değerlere dışarıdan bir perspektifle bakma ihtiyacını yansıtır."
+      "title": "Sakin Bir Avluda Dinlenmek",
+      "description": "Caminin avlusunda huzurla vakit geçirmek, zihinsel arınma ve dış dünyanın karmaşasından uzaklaşma ihtiyacını yansıtır."
     },
     {
-      "title": "Cami Cemaati Arasında Yer Almak",
-      "description": "Toplumsal aidiyet, birlikte hareket etme bilinci ve paylaşılan değerler etrafında bir araya gelme isteğini gösterir."
+      "title": "Kapalı veya Erişilemeyen Bir Cami Görmek",
+      "description": "Caminin kapısının kapalı olması veya içeri girilememesi, manevi rehberlik eksikliği, aidiyet hissinde zorlanma veya bir sığınak arayışında engellerle karşılaşma hissini gösterir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslamî rüya yorum geleneğinde cami, İbn Sîrîn'e atfedilen kaynaklarda çoğunlukla yöneten otorite, dinî düzen ve topluluğun merkezi olarak ele alınır. Büyük bir cami, bazen şehir yöneticisini ya da cemaatin genel dinî durumunu temsil eder. Camiye girmek, dua etmek veya içinde bulunmak ise güven, hidayet, salih amel ve manevi yakınlık alameti olarak kabul edilir.",
+  "psychology": "Rüyalarda cami görüntüsü, bireyin uyanık yaşamındaki dini tutumlar, toplumsal aidiyet ve otoriteyle kurduğu ilişkiyle bağlantılıdır. Ampirik çalışmalar sembolün tek başına sabit bir anlam taşımadığını, duygusal ton, kültürel bağlam ve rüya sahibinin gündelik yaşamıyla birlikte değerlendirilmesi gerektiğini gösterir. Psikanalitik çerçevede cami, düzen, otorite, toplumsal disiplin ve süperego taleplerinin mimari bir yansıması olarak okunabilir. Bu bağlamda cami imgeleri korunaklılık ihtiyacı, otoriteyle çatışma veya bastırılmış suçluluk gibi temalara işaret edebilir.",
+  "jungian": "Jungcu perspektifte cami gibi merkezî ve simetrik mimari öğeler, mandala türü sembollerle paralellik gösterir. Merkez, çember ve simetriyi vurgulayan yapılar psişik bütünleşme (Öz) ve bireyleşme süreçleriyle ilişkilendirilebilir. Bu okuma, cami imgesini rüyada kişinin iç merkezine yönelişi, düzen arayışı ve bütünleşme çabası bağlamında değerlendirmeye olanak verir; yine de bu yorum kuramsal bir çerçeveyi yansıtır ve kesinlik iddiasında bulunmaz.",
+  "islamicTradition": "İslâmî rüya geleneğinde cami genellikle ibadet, güvenlik, sığınak, adalet ve toplulukla ilişkilendirilir. Bazı aktarılarda cami, düşmandan korunma ve emniyet bulma metaforu olarak görülür; bakımlı bir cami rehber bir şahsiyete veya toplumun doğruluk/iyilik merkezine işaret ederken, yıkılmış bir cami toplumsal veya dinî bozulma ya da önemli bir ilim şahsiyetinin kaybına dair olumsuz çağrışımlarla ilişkilendirilir.",
   "christianTraditions": "",
-  "jewishTraditions": "",
+  "jewishTraditions": "Yahudi rüya literatüründe (örneğin Berakhot) rüyaların doğası ve yorumun rolü üzerine tartışmalar bulunmakla birlikte, doğrudan 'cami' sembolüne yönelik özel bir rüya maddesi tespit edilmemiştir. Bu gelenekte rüyalar yorum bağlamında ele alınır; dolayısıyla cami gibi spesifik bir yapı hakkında yapılacak çıkarımlar genel rüya kuramı çerçevesinde dikkatle değerlendirilmelidir.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
+  "spiritualApproaches": "Modern ezoterik okumalar camiyi içsel merkeze yönelim, ritüel disiplin ve ruhsal toparlanma temalarının sembolü olarak görür. Bu yaklaşımda rüyada camiyle karşılaşmak, bireyin hayatında daha derin bir anlam arayışı, aidiyet ihtiyacı veya huzur/istikrar arayışının göstergesi olarak yorumlanabilir; yine de yorum kişinin kültürel ve kişisel bağlamıyla birlikte ele alınmalıdır.",
   "comparisonTable": [
     {
-      "approach": "İslami Rüya Geleneği",
-      "interpretation": "Cami, topluluk, dinî düzen, otorite ve güvenin merkezi olarak yorumlanır; ibadet ve hidayet ile ilişkilendirilir.",
-      "evidenceLevel": "traditional"
-    }
-  ],
-  "commonGround": "Farklı kültürel ve mimari okumalarda cami, düzen, yönelim, topluluk ve bireyin kendisinden daha büyük bir bütünle kurduğu bağın fiziksel ve sembolik bir ifadesi olarak öne çıkar.",
-  "differences": "İslami rüya geleneklerinde cami sembolü doğrudan manevi yakınlık, otorite ve cemaat ekseninde ele alınır; mimari ve kültürel incelemeler ise formu, geometrik düzeni ve mekânsal kutsallığı bağlamında değerlendirirler.",
-  "inusAssessment": "Cami sembolü, rüya bağlamından bağımsız olarak tek bir düzleme indirgenemez. İslami gelenekteki otorite ve cemaat vurgusu ile mimari formun sunduğu düzen hissiyatı birlikte değerlendirilmeli; rüya sahibinin kendi yaşamındaki toplumsal bağlar ve sığınak arayışı bu analizin merkezine konmalıdır.",
-  "faq": [
-    {
-      "question": "Rüyada cami görmek her zaman dini bir anlam mı taşır?",
-      "answer": "Geleneksel olarak İslamî rüya tabirlerinde ibadet ve cemaatle ilişkilendirilse de, psikolojik ve mimari açıdan toplumsal düzen, sığınak ve güven arayışı gibi temaları da temsil edebilir."
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Dini imgelerin rüyalardaki görünümünü bireyin uyanık yaşamındaki tutumları ve kültürel bağlamıyla ilişkilendirir.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Cami mimarisindeki kubbe ve minare rüyada neyi ifade eder?",
-      "answer": "Mimari incelemelerde kubbe ve minare gibi öğeler düzen, simetri, yönelim ve kutsal mekân algısının yapı taşları olarak rüya zihninde yer bulabilir."
+      "approach": "Psikanaliz",
+      "interpretation": "Kutsal mimariyi süperego, otorite, düzen ve korunaklılık ihtiyacının psişik yansıması olarak ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Merkezli kutsal yapıları mandala ve Öz arketipi bağlamında psişik bütünlük ve bireyleşme sembolü olarak görür.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Cami imgesini ibadet, güvenlik, sığınak, adalet ve toplum düzeniyle doğrudan bağdaştırır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "İçsel arınma, manevi toparlanma ve dış gürültüden uzaklaşarak merkeze yönelme alanı olarak yorumlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler cami sembolünü genellikle sığınak, düzen ve toplulukla ilişkili yapısal bir odak noktası olarak görür.",
+  "differences": "Yaklaşımlar arasındaki ayrım, rüyanın işlevi ve kaynağına ilişkin varsayımlardan kaynaklanır. Ampirik psikoloji kültürel ve kişisel bağlamı vurgular; psikanaliz otorite ve iç denetim temalarını öne çıkar. Jungcu yaklaşım bireyleşme ve bütünleşmeyi, geleneksel/ruhsal okumalar ise ibadet, sığınak ve rehberlik temasını ön plana koyar.",
+  "inusAssessment": "Cami sembolü rüyalarda çok katmanlıdır: bir yandan sığınak, düzen ve topluluk aidiyeti; diğer yandan otorite, kurumsal beklentiler ve dini sorumluluklarla ilgili içsel gerilimleri yansıtabilir. Yapının fiziksel durumu (sağlam/işlevsel vs. yıkık/bakımsız) ve rüya sahibinin uyanık yaşamındaki dini/manevi yönelimi, olası anlamın belirlenmesinde belirleyici unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada cami görmek her zaman dini bir mesaja mı işaret eder?",
+      "answer": "Hayır. Ampirik çalışmalar, rüyalardaki dini imgelerin bireyin uyanık yaşamındaki tutumlarıyla bağlantılı olduğunu ve sembolün tek başına sabit bir anlama indirgenemeyeceğini göstermektedir."
+    },
+    {
+      "question": "Yıkık bir cami görmek ne anlama gelebilir?",
+      "answer": "Geleneksel aktarımlarda ve modern yorumlarda yıkık cami, toplumsal veya kişisel değerlerde bir sarsılmayı, düzen kaybını ya da koruyucu bir figürün eksikliğini simgeleyebilir."
     }
   ],
   "sources": [
     {
-      "title": "Reading Mosques: Meaning and Architecture in Islam",
-      "relevance": "Cami mimarisindeki sembolik öğeleri (kubbe, minare, geometrik düzen) kutsal mekânın okunması bağlamında ele alır.",
-      "url": "https://academic.oup.com/jaac/article/69/1/125/5980125?itm_medium=sidebar&itm_source=trendmd-widget&itm_campaign=The_Journal_of_Aesthetics_and_Art_Criticism&itm_content=The_Journal_of_Aesthetics_and_Art_Criticism_0"
+      "title": "The Religious Content of Dreams: A New Scientific Foundation - Pastoral Psychology",
+      "relevance": "Rüya içeriğinin kişinin uyanık yaşamındaki dinî yönelimlerle ilişkisini ele alır; dini sembollerin rüya bağlamında nasıl ortaya çıkabildiğine dair ampirik çerçeve sağlar.",
+      "url": "https://link.springer.com/article/10.1007/s11089-008-0180-8"
     },
     {
-      "title": "IBN SEERiN'S",
-      "relevance": "İbn Sîrîn’e atfedilen rüya sözlüğünde caminin rüyadaki işlevi, otorite, dinî düzen ve cemaat merkezi olarak açıklanır.",
-      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+      "title": "Spiritual and religious imagery in dreams: A cross cultural analysis",
+      "relevance": "Farklı kültürel örneklemlerde rüyalardaki dini/ruhsal imgelerin sıklığını karşılaştırır; dini sembollerin kültürel bağlama göre değişebileceğini gösterir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/10333"
     },
     {
-      "title": "Mosque Islamic Interpretations & Meanings - myIslamicDream",
-      "relevance": "İslamî çevrimiçi bir kaynakta cami rüyası, güven, hidayet ve manevî yakınlık bağlamında özetlenir; camiye girme ve camide bulunma gibi motifler için yorumlar verilir.",
-      "url": "https://www.myislamicdream.com/mosque.html"
+      "title": "Religious images in dreams - PubMed",
+      "relevance": "Rüyalardaki dini imgelerin geleneksel anlamlarını kişisel bağlama göre değişmiş biçimde ele alır; sembol-yorum ilişkisinde bağlamın önemini vurgular.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24318665/"
     },
     {
-      "title": "A mosque in a dream | The Islamic Dream Book",
-      "relevance": "İslamî rüya yorumunda caminin cemaat, doğruluk ve ilim mekânı olarak görüldüğünü özetleyen derleme bir kaynak.",
-      "url": "https://theislamicdreambook.com/a-mosque-in-a-dream/"
+      "title": "Mosque Dream Meaning & Interpretation - Mirror",
+      "relevance": "Çevrim içi bir yorum kaynağı olarak cami imgesini otorite, kurum ve süperego çağrışımı içinde ele alır; psikanalitik çağrışımlar hakkında fikir verir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/mosque/"
+    },
+    {
+      "title": "The Dream-Work - The Interpretation of Dreams",
+      "relevance": "Freudcu çerçevede rüyanın açık içeriğinden gizli içeriğe geçiş mekanizmalarını açıklayan temel metinlerden biridir; kutsal yapıların psikanalitik çağrışımlarını tartışma olanağı sağlar.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/the-dream-work/"
+    },
+    {
+      "title": "The Collected Works of C.G. Jung: Volume 11: Psychology ...",
+      "relevance": "Jung’un mandala, Öz ve dinî simgelemeyle ilgili kuramsal tartışmalarını içerir. Merkezli kutsal mekânların Jungcu sembolik okuması için kuramsal temel sunar.",
+      "url": "https://www.jungiananalysts.org.uk/wp-content/uploads/2018/07/C.-G.-Jung-Collected-Works-Volume-11_-Psychology-and-Religion_-West-and-East.pdf"
+    },
+    {
+      "title": "Jung, mandala e arquitetura Islâmica",
+      "relevance": "Jungcu perspektiften İslam mimarisi ve mandala kavramı arasındaki paralellikleri tartışan bir çalışma; cami sembolünün Jungcu bağlamda değerlendirilmesine yardımcı olur.",
+      "url": "https://www.scielo.br/j/pusp/a/X37GhYG8rpDpSkNvbjDQJWP/"
+    },
+    {
+      "title": "[PDF] Dreams as a tool of self-representation in Mamluk oneirocritical ...",
+      "relevance": "Memlûk dönemine ait oneirokritik metinlerde cami, kandil ve minber gibi dini unsurlar ve ritüellerle birlikte olumlu sembolik bir çevre içinde yer aldığını gösterir; tarihsel bağlama ilişkin kanıt sağlar.",
+      "url": "https://ojs.unito.it/index.php/kervan/article/download/12456/10653/44224"
+    },
+    {
+      "title": "The Interpretation of DreamsAn Ancient Dream Manual: Artemidorus’ T...",
+      "relevance": "Antik oneirokritik geleneğin yapı ve mekân rüyalarını nasıl ele aldığını gösterir; doğrudan \"cami\" maddesi içermese de tarihsel bağlam için referans sağlar.",
+      "url": "https://journals.openedition.org/kernos/3606?lang=en"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri C Harfi",
+      "relevance": "Bazı aktarılarda camiyi korunma ve emniyete kavuşma duygusuyla ilişkilendiren kısa yorumlar içerir; modern aktarım kaynakları arasında yer alır.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-c1-harfi.html"
+    },
+    {
+      "title": "Rüyada Camii Görmek Ne Anlama Gelir?",
+      "relevance": "Popüler çağdaş kaynaklarda caminin sağlam olmasının rehberlik/iyi niyet figürleriyle, yıkılmasının ise olumsuz toplumsal/dinî çağrışımlarla ilişkilendirildiğine dair örnekler sunar.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-camii-gormek-ne-anlama-gelir-25680"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Talmudik kaynaklarda rüyaların doğası ve yorumun rolü üzerine tartışmalar içerir; doğrudan 'cami' maddesi olmasa da rüya yorumunun geleneksel çerçevesine ilişkin bilgi verir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Berakhot metnine erişim sağlayarak Yahudi rüya tartışmalarının izlenmesine yardımcı olur; 'cami' sembolü için doğrudan bir girdi sunmaz.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Talmud'un rüyalarla ilgili yaklaşımlarını özetler; rüyaların bazı durumlarda anlamsız, bazı durumlarda ise mesaj taşıyıcı kabul edildiğini belirtir.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Paper Template for ISCCC 2009",
+      "relevance": "Modern spiritüel/akademik metinlerde caminin manevi kurtuluş ve kutsal yöneliş temalarıyla ilişkilendirildiğine dair örneklerden biridir.",
+      "url": "https://conference.uis.edu.my/pasak/images/eprosiding/eng/pasak92024-004-_HAZWAN_ARIFF_BIN_HAKIMI-UM.pdf"
+    },
+    {
+      "title": "Mosque: Meaning, Symbolism & Mythology",
+      "relevance": "Modern sembolik yorumlar üzerinden camiyi sığınak, adanmışlık ve dikkat toplama mekânı olarak betimler; popüler sembol analizleri arasında yer alır.",
+      "url": "https://mymythos.org/archetype/mosque/"
+    },
+    {
+      "title": "Dreaming of Mosque: Meaning, Symbolism & Interpretation",
+      "relevance": "Modern spiritüel rüya yorumlarında cami rüyasını ruhsal çağrı, aidiyet ve eşik deneyimi üzerinden ele alan örnek bir popüler kaynaktır.",
+      "url": "https://dreamz-journal.com/blog/dream-symbol/mosque/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "psychoanalytic"
+  ]
 }

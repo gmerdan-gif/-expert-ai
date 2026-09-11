@@ -1,98 +1,187 @@
 {
   "slug": "gozluk",
-  "title": "gozluk",
-  "shortDescription": "Rüyada gözlük görmek, bir durumu daha net değerlendirme, ayrıntılara odaklanma ya da bakış açısını değiştirme ihtiyacını çağrıştırır. Temiz ve uygun gözlük netliği; buğulu, kırık veya yanlış numaralı gözlük ise eksik bilgi ya da yanlış algıyı öne çıkarabilir.",
+  "title": "gözlük",
+  "shortDescription": "Rüyalarda gözlük, doğrudan tek ve sabit bir anlam taşımaktan ziyade algı, bakış açısı, dikkat ve zihinsel odaklanma temalarıyla ilişkilendirilen nadir bir semboldür.",
   "positiveAssociations": [
-    "Detayları ayırt edebilme ve bilgiye odaklanma",
-    "Belirsizliği azaltma; karmaşık durumları netleştirme",
-    "Başkasının perspektifini deneyimleme (örneğin başka birinin gözlüğünü takmak)",
-    "Görsel veya zihinsel görevlerde yetkinlik gösterme ve hızlı tepki verme"
+    "Algının ve farkındalığın netleşmesi",
+    "Bir konunun iç yüzünü kavramak",
+    "Doğru görüş ve bilgelik",
+    "Zihinsel odaklanma"
   ],
   "challengingAssociations": [
-    "Yanlış numara veya uyumsuz gözlük nedeniyle yanlış algılama",
-    "Buğulu, kirli ya da kırık camlar nedeniyle azalan netlik",
-    "Görme aracına aşırı bağımlılık; kendi iç değerlendirmesinin zayıflaması",
-    "Dışarıdan ödünç alınan bakış açıları nedeniyle kimlik veya güvenin sarsılması"
+    "Algıda bulanıklık ve dikkat dağınıklığı",
+    "Mevcut bakış açısının işlevini yitirmesi",
+    "Yanlış yönelim veya yanılgı riski",
+    "Dış dünyadan mesafe koyma veya savunma"
   ],
   "contextDependentAssociations": [
-    "Gözlüğün takılı veya çıkarılmış olması (takılı: odaklanma; çıkarılmış: belirsizlik veya kaçınma)",
-    "Camların temiz, buğulu, çizikli veya kırık olması",
-    "Gözlüğün numarasının uygunluğu veya uygunsuzluğu",
-    "Başkasına ait gözlüğün kullanılması",
-    "Gözlüğün bulunamaması ya da kaybolması"
+    "Gözlüğün sağlam veya kırık olması",
+    "Gözlüğün güneş gözlüğü ya da şeffaf/numaralı camlı olması",
+    "Kişinin uyanık yaşamındaki perspektif değişimleri",
+    "Sembolün kısa rüya dizilerinde seyrek görülmesi"
   ],
   "commonVariations": [
     {
-      "title": "Netleşen Bakış Açısı",
-      "description": "Rüyada bir gözlük takıp aniden küçük yazıları veya uzaktaki nesneleri net görebilmek, zihinsel bir odaklanma veya önceki belirsizliğin çözülmeye başlamasıyla ilgilidir."
+      "title": "Net camlı gözlük takmak",
+      "description": "Rüyada net camlı gözlük taktığınızı görmek, bir durumu veya konuyu daha net değerlendirmeye başladığınızı gösterebilir."
     },
     {
-      "title": "Buğulu veya Kirli Camlar",
-      "description": "Gözlüğün camlarının buğulu, kirli veya çizik olması, rüya sahibinin bir konuyu çeşitli önyargılar, eksik bilgi veya duygusal bulanıklık nedeniyle net değerlendiremediğini işaret eder."
+      "title": "Kırık camlı gözlük bulmak",
+      "description": "Camı kırılmış veya çatlamış bir gözlük görmek, mevcut bakış açınızın ya da planlarınızın işlevini yitirmeye başladığına ve algıda bozulmalar olduğuna işaret edebilir."
     },
     {
-      "title": "Kırık Gözlük",
-      "description": "Gözlüğün çerçevesinin veya camının kırılması, güven duygusunda sarsılma, mevcut algı biçiminde ani bozulma veya çözülme hissini sembolize edebilir."
+      "title": "Güneş gözlüğü takmak",
+      "description": "Güneş gözlüğü takmak, analitik psikoloji çerçevesinde dış dünyadan gelen etkilere karşı filtre oluşturma, benliği koruma ve duygusal mesafe koyma eğilimini gösterir."
     },
     {
-      "title": "Başkasının Gözlüğünü Takmak",
-      "description": "Yabancı birine ait gözlüğü takmak, olayı o kişinin perspektifiyle görme çabasını, empati kurmayı veya kendi bakış açısını bilinçli olarak değiştirmeyi gösterir."
+      "title": "Gözlüğü arayıp bulamamak",
+      "description": "Rüyada gözlüğünü arayıp bulamamak, uyanık yaşamda önemli bir detayı gözden kaçırma korkusuna veya kararsızlık yaşanan bir konuya odaklanma çabasına işaret edebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
+  "psychology": "Ampirik psikoloji araştırmalarında, kısa rüya dizileri içinde 'gözlük' temasının oldukça düşük bir oranda (%0,96) görüldüğü tespit edilmiştir. Bu durum, gözlüğün rüya repertuvarında sıradan veya otomatik bir motif olmadığını, daha çok belirli anlarda ortaya çıkan istisnai bir odak unsuru olduğunu gösterir.",
+  "jungian": "Analitik psikoloji çerçevesinde güneş gözlüğü gibi varyasyonlar, dış dünyanın yoğun uyaranlarından korunma, benliği izole etme ve algısal bir mesafe yaratma savunması olarak değerlendirilebilir. Genel olarak gözlük, bireyin dış dünyaya açılan pencerelerini nasıl filtrelediğini simgeler.",
   "islamicTradition": "",
-  "christianTraditions": "Hristiyan metinlerinde cam ve ayna imgeleri saflık, açıklık ve ilahi vahyin berraklaşması temalarıyla ilişkilendirilir; bu bağlam rüyalarda doğrudan 'gözlük' yorumu sağlamaz, ancak görme ve açıklık metaforlarını destekler.",
-  "jewishTraditions": "Yahudi görsel kültüründe cam nesneler estetik ve ritüel bağlamlarda yer alır; incelenen kaynaklar gözlüğe özgü klasik rüya yorumu sunmamaktadır, dolayısıyla doğrudan bir rüya geleneği tespit edilmedi.",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
+  "christianTraditions": "Hristiyanlık zeminindeki çağdaş yorumlarda, kırık gözlük gibi detaylar dikkat dağınıklığı ve net görme yetisinin zayıflaması şeklinde ele alınarak bir tür farkındalık uyarısı olarak değerlendirilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinin temelini oluşturan Babil Talmudu metinlerinde ve yorumlarında, rüyaların anlamının büyük ölçüde rüya sonrasındaki yorumla şekillendiği vurgulanır. Bu bağlamda gözlük, görme ve okuma edimleri üzerinden temkinli ve bağlamsal bir okumaya konu olabilir.",
+  "buddhistEasternApproaches": "Doğu kaynaklı modern yorumlarda gözlük, doğru görüşe ulaşma ve illüzyonlardan sıyrılma bağlamında zihinsel netliği simgeleyen bir öğe olarak ele alınır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda gözlük, iç ve dış dünyayı daha berrak görme, olaylara farklı bir açıdan yaklaşma ve düşünceyi dengeleme ihtiyacının bir yansıması olarak ele alınır.",
   "comparisonTable": [
     {
-      "approach": "Hristiyan Sembolizmi",
-      "interpretation": "Cam/ayna imgeleri aracılığıyla açıklık, saflık ve ilahi görme temalarını vurgular; gözlüğe dair doğrudan rüya yorumu yerine görme metaforlarını destekler.",
-      "evidenceLevel": "traditional"
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Gözlük rüyalarının çok nadir görüldüğünü ve sabit bir anlam yerine bağlama bağlı olduğunu belirtir.",
+      "evidenceLevel": "research"
     },
     {
-      "approach": "Yahudi görsel kültürü",
-      "interpretation": "Cam nesneler çeşitli motiflerde yer alır ancak kaynaklar gözlüğe özgü rüya tabiri sağlamıyor; dolaylı kültürel bağlantılar mevcuttur.",
-      "evidenceLevel": "traditional"
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Gözlüğü ve özellikle güneş gözlüğünü dış dünyadan korunma, filtreleme ve mesafe aracı olarak inceler.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Gözlüğü içgörü, algının düzelmesi, farklı bakış açısı kazanma ve berraklık sembolü olarak yorumlar.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Birçok gelenekte cam ve görme araçları, algının doğruluğu, netlik ve gerçeği ayırt etme gibi temalarla ilişkilendirilir; bu ortak zemin gözlüğün rüyalarda algı/odak temalarına bağlanmasını kolaylaştırır.",
-  "differences": "Doğrudan klasik rüya tabirleri veya ampirik psikoloji literatüründe 'gözlük' nesnesine ilişkin standartlaşmış tek bir anlam bulunmamaktadır; bazı kutsal metin kaynakları ise cam/ayna metaforları üzerinden dolaylı manevi görme okumaları sunar.",
-  "inusAssessment": "Gözlük rüyada genellikle algı düzeltme, odaklanma veya perspektif değişimi işlevlerini çağrıştırır; kesin yorum için rüyanın bağlamı, gözlüğün durumu ve diğer rüya öğeleri birlikte değerlendirilmelidir.",
-  "faq": [],
+  "commonGround": "Farklı disiplinler ve yaklaşımlar, gözlük sembolünün merkezine doğrudan nesnenin kendisini değil, görme, algılama, dikkat ve perspektif kavramlarını koymaktadır.",
+  "differences": "Ampirik yaklaşım, sembolün görülme sıklığı ve esnekliği üzerinde dururken, spiritüel ve teorik ekoller gözlük sembolünü koruma, savunma veya içgörü gibi daha spesifik psikolojik ve tinsel işlevlerle ilişkilendirir.",
+  "inusAssessment": "Rüyada gözlüğün net bir şekilde takılması genellikle zihinsel berraklık ve odaklanmaya işaret eder. Kırık camlar veya eksiklik hissi ise mevcut perspektifin artık işlev görmediğine dair ipuçlarıdır.",
+  "faq": [
+    {
+      "question": "Rüyada gözlük görmek her zaman net bir anlama mı gelir?",
+      "answer": "Hayır. Araştırmalar gözlüğün rüyalarda çok seyrek görüldüğünü ve sabit tek bir anlamı olmadığını, kişinin o anki zihinsel odak ve algı durumuyla şekillendiğini göstermektedir."
+    },
+    {
+      "question": "Kırık gözlük görmek neyi ifade eder?",
+      "answer": "Çeşitli yorumlarda kırık gözlük, algıda bulanıklık, dikkat dağınıklığı veya hayata bakış açısının gözden geçirilmesi gerektiğine dair bir işaret olarak ele alınır."
+    }
+  ],
   "sources": [
     {
-      "title": "Glas in de Schrift: Wat symboliseert het?",
-      "relevance": "Hristiyanlık bağlamında cam ve ayna benzetmeleri aracılığıyla saflık, açıklık ve ruhsal görme temalarını ele alır; bu, gözlüğe dair doğrudan rüya yorumu olmadan görme metaforlarını destekler.",
-      "url": "https://christianpure.com/nl/learn/glass-symbolism-bible/"
+      "title": "Analyzing a long dream series of a short-sighted person",
+      "relevance": "Kısa bir rüya dizisinde gözlük imgelerinin görülme sıklığını nicel olarak rapor eder; gözlük sembolünün rüya içeriğindeki nadirliğine doğrudan veri sağlar.",
+      "url": "https://www.ub.uni-heidelberg.de/archiv/14133"
     },
     {
-      "title": "Topical Bible: Glass: Symbolical",
-      "relevance": "Kutsal kitapta camın simgesel kullanımını özetleyerek berraklık ve ilahi vahiy temalarını vurgular; gözlüğe özgü bir rüya yorumu sağlamaz, ancak görme ve saflık bağlamını sunar.",
-      "url": "https://biblehub.com/topical/naves/g/glass--symbolical.htm"
+      "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
+      "relevance": "Rüya anlatısı içinde 'bir çift gözlük' benzeri görsel ayrıntının geçtiği örnek, gözlük imgesinin Freud'un rüya malzemesinde nasıl belirebildiğini gösterir.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
     },
     {
-      "title": "Christliche Symbolik/Glas – Wikisource",
-      "relevance": "Camın Hristiyan sembolizmindeki tarihsel kullanımını ve göksel ışıkla ilişkisini açıklar; bu tarihsel sembolizm, gözlük imgesinin görme/aydınlanma çağrışımlarına arka plan sağlar.",
-      "url": "https://de.wikisource.org/wiki/Christliche_Symbolik/Glas"
+      "title": "Dream Psychology",
+      "relevance": "Rüyayı bastırılmış isteklerin kılık değiştirerek gerçekleşmesi olarak tanımlayan çerçeve, gözlük için doğrudan hüküm vermeden psikanalitik yorumun nasıl kurulacağını gösterir.",
+      "url": "https://www.rybn.org/ANTI/ADMXI/documentation/ADMXI/IV.ALGORITHMS/DREAMER/PSYCHOLOGY/pdfs/1920_Sigmund_Freud_Dream_-_Psychology.pdf"
     },
     {
-      "title": "Topical Bible: Glass",
-      "relevance": "Vahiy kitabındaki \"sea of glass\" (\"cam denizi\") gibi imgelerin açıklık, saflık ve kutsallıkla ilişkisini özetler; doğrudan gözlük yorumu vermek yerine görme metaforlarını öne çıkarır.",
-      "url": "https://biblehub.com/topical/g/glass.htm"
+      "title": "Sunglasses - Dream Symbol",
+      "relevance": "Analitik psikoloji çerçevesinde güneş gözlüğü imgesini dış etkilerden korunma, filtreleme ve algısal mesafe temalarıyla ilişkilendiren bir yorum sayfası.",
+      "url": "https://dreampaths.com/symbol/sunglasses"
     },
     {
-      "title": "Glass - Jewish Virtual Library",
-      "relevance": "Yahudi görsel kültüründe cam nesnelerin kullanımına dair bilgiler sunar; gözlüğe özgü rüya yorumları bulunmadığı için sadece kültürel bağlam sağlar.",
-      "url": "https://jewishvirtuallibrary.org/glass"
+      "title": "Spectacular vision: the symbolism of glasses in art",
+      "relevance": "Gözlüğün sanat ve kültürde bilgelik, öğrenme ve kimlik ile ilişkisini anlatır.",
+      "url": "https://artuk.org/discover/stories/spectacular-vision-the-symbolism-of-glasses-in-art"
     },
     {
-      "title": "Glass in the Bible (12 instances)",
-      "relevance": "Yeni Ahit'teki ayna ve cam benzetmelerini aktarır; görme ve algı temalarının kutsal metin düzeyindeki örneklerini gösterir, gözlüğe doğrudan referans vermez.",
-      "url": "https://bible.knowing-jesus.com/words/Glass"
+      "title": "How they have changed over the centuries and their impact on society",
+      "relevance": "Gözlüğün tarihsel olarak nadir ve pahalı bir nesne olarak nasıl algılandığını ve bilgiyle olan bağlantısını açıklar.",
+      "url": "https://feyenally.com/blog/history-of-eyeglasses-how-they-have-changed-over-the-centuries-and-their-impact-on-society"
+    },
+    {
+      "title": "In the Blink of an Eye",
+      "relevance": "Gözlüğün toplumsal hayatı ve kültürel dönüşümü nasıl etkilediğine dair tarihsel çerçeve sunar.",
+      "url": "https://press.uchicago.edu/ucp/books/book/distributed/I/bo130702973.html"
+    },
+    {
+      "title": "The History of Glasses: From Medieval Innovation to ...",
+      "relevance": "Gözlüğün tarih boyunca öğrenme, statü, mesleki kimlik ve kişisel tarzla ilişkisini özetler.",
+      "url": "https://fashion-era.com/accessories/glasses-history"
+    },
+    {
+      "title": "Gözlük",
+      "relevance": "Rüyada gözlük görmek hakkında doğrudan yorumlar içeren modern bir İslami rüya tabiri kaynağıdır.",
+      "url": "https://www.yeniarayis.com/ruya-tabirleri/gozluk-1957"
+    },
+    {
+      "title": "Dreams About Broken Eyeglasses II Biblical Meaning ...",
+      "relevance": "Kırık gözlük için Hristiyan rüya yorumu örneği; net görmenin bozulması, dikkat dağınıklığı ve ruhsal uyarı temalarını içeriyor.",
+      "url": "https://www.youtube.com/watch?v=MI5rVr172BI"
+    },
+    {
+      "title": "Biblical meaning of eyeglasses in a dream | Biblical Dream ...",
+      "relevance": "Gözlükle ilgili rüya değerlendirmesinde dua, Kutsal Kitap, olgun imanlı kişilerce verilen danışmanlık ve zaman içindeki doğrulama adımlarını öneriyor.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-eyeglasses-in-a-dream"
+    },
+    {
+      "title": "What does glass symbolise in the bible? - Christian Faith Guide",
+      "relevance": "Camın saflık, saydamlık, açıklık ve kırılganlık çağrışımlarını Hristiyan sembolik dil içinde tartışıyor.",
+      "url": "https://christianfaithguide.com/what-does-glass-symbolise-in-the-bible/"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Babil Talmudu’ndaki rüya bölümlerinin Yahudi rüya yorumundaki merkezi yerini ve yorumun belirleyiciliğini ele alır.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Significance of Dreams",
+      "relevance": "Yahudi geleneğinde rüyaların genel statüsünü ve yorumun rüya anlamındaki rolünü özetler.",
+      "url": "https://aish.com/significance-of-dreams/"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Berakhot’taki rüya anlayışını ve rüya yorumuna dair temel Yahudi yaklaşımını özetler.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Glasses Dream Meaning & Interpretation - Mirror",
+      "relevance": "Budist çerçeveyle birlikte gözlüğü netlik ve içgörü üzerinden okuyan modern bir yorum metni.",
+      "url": "https://mirrorwithin.org/dream-dictionary/glasses/"
+    },
+    {
+      "title": "Spectacle Dream Meaning: Symbolism & Interpretation",
+      "relevance": "Gözlük rüyalarının sembolik anlamlarını örneklerle ele alan modern bir spiritüel kaynak; netlik ve içgörü temalarına vurgu yapar.",
+      "url": "https://tarotreveal.com/dreams/spectacle/"
+    },
+    {
+      "title": "Glasses, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Gözlüğü rüyada başka bir bakış açısını hatırlatan ve ölçülülük/dengeyle ilişkilendirilen spiritüel bir sembol olarak yorumluyor.",
+      "url": "http://www.dreamtation.com/docs/1368.htm"
+    },
+    {
+      "title": "Spectacles Dream Symbol - Meaning, Interpretation and Symbolism",
+      "relevance": "Gözlüklerle ilgili rüya yorumunu kırık gözlük, netlik, farklı bakış açısı ve algının ayarlanması gibi başlıklarla ele alıyor; sembolün spiritüel okuması için doğrudan örnekler içeriyor.",
+      "url": "https://www.sunsigns.org/spectacles-dream-meaning-interpretation-and-symbolism/"
+    },
+    {
+      "title": "Dreaming of Eye Glasses: 8 Profound Symbolic Meanings",
+      "relevance": "Modern bir spiritüel yorum kaynağı; gözlük rüyasını netlik, farklı bakış açıları ve algının düzenlenmesi temaları üzerinden ele alır (korunma ve odak temalarına vurgu yapar).",
+      "url": "https://atlasmythica.com/eyeglasses-symbolic-dream-meaning/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "islamic",
+    "christian",
+    "buddhist-eastern"
+  ]
 }

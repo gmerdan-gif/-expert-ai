@@ -1,119 +1,201 @@
 {
   "slug": "ada",
   "title": "ada",
-  "shortDescription": "Rüyada ada görmek, günlük hayatın kalabalığından uzaklaşıp huzur bulma ve kendine dönme ihtiyacını yansıtabilir. Issız, kayalık ya da mahsur kalınan bir ada ise yalnızlık ve çevreyle bağların zayıflaması duygusuna işaret edebilir.",
+  "shortDescription": "Rüyada ada görmek, çevresini suların sardığı, dış dünyadan görece ayrılmış bir merkez olarak izolasyon, korunma, bağımsızlık ya da bilinç ile bilinçdışı arasındaki ayrışmayı veya sınırları çağrıştıran çok katmanlı bir semboldür.",
   "positiveAssociations": [
-    "Güvenli bir sığınak ve korunma alanı",
-    "Bireyleşme ve içsel keşif",
-    "Zihinsel huzur ve dinginlik",
-    "Yaratıcı bir ütopya veya yenilenme alanı"
+    "Suyun çevrelediği korunaklı bir alan olarak adanın sunduğu güvenli sığınak (özellikle sakin, küçük ada görüntülerinde).",
+    "Adanın sağladığı içe çekilme ve tefekkür alanı — dış uyaranlardan uzaklaşıp kendi duygusal ve bilişsel kaynaklarıyla temas kurma fırsatı.",
+    "Adada toparlanma ve ego sınırlarını yeniden kurma olanağı; bireyleşme sürecinin başlangıcına işaret edebilecek bir güçlenme.",
+    "Yeşil, verimli bir ada göründüğünde maddi ve duygusal refah, dinlenme ve ihtiyaçların karşılanması duygusu."
   ],
   "challengingAssociations": [
-    "Yalnızlık ve soyutlanma hissi",
-    "Çevreden kopma ve dış dünyaya yabancılaşma",
-    "Ulaşılmazlık ve aidiyet eksikliği",
-    "Bir kompleksin içine çekilme durumu"
+    "Adada mahsur kalma hissi: uzun süreli izolasyon, dış dünyadan kopuş ya da iletişim zorluğu duygusu.",
+    "Uzaklık ve sosyal ayrışma — ada, ilişki veya toplumsal bağlardan uzaklaşmayı sembolize edebilir.",
+    "Psikolojik bir kompleksin etkisi altında hapsolma veya belirli bir duygusal/psikolojik durumda sıkışıp kalma riski.",
+    "Bazı geleneksel derlemelerde adaya çıkma veya adaya alınma eylemleri mal/miras bağlamında yorumlandığı için maddi kaygı veya belirsizlik çağrıştırabilir."
   ],
   "contextDependentAssociations": [
-    "Adanın yeşil ve verimli olması ile çorak veya kayalık olması arasındaki fark",
-    "Adada tek başına olmak ile kalabalık bir grupta bulunmak",
-    "Adadan karayı görmek ile denizin ortasında tamamen mahsur kalmak"
+    "Suyun niteliği ve dalgalı olup olmaması",
+    "Adanın yeşil ve verimli mi yoksa ıssız ve çorak mı olduğu",
+    "Rüya sahibinin adaya kaçma, sığınma veya keşif amaçlı mı gittiği",
+    "Adadan ayrılma, adaya bir şey getirme ya da adada bir şey inşa etme eylemlerinin varlığı"
   ],
   "commonVariations": [
     {
-      "title": "Yeşillikler İçinde Sakin Bir Ada",
-      "description": "Ağaçlarla kaplı, huzurlu ve dalgasız denizin ortasındaki adayı görmek, kişinin günlük hayatın karmaşasından uzaklaşarak kendi iç dünyasında güvenli bir dinlenme alanı aradığını gösterir."
+      "title": "Yeşil ve verimli bir adaya çıkmak",
+      "description": "Etrafı sakin, verimli bitki örtüsüyle kaplı bir adaya ayak basmak, rüya sahibinin içsel huzur, korunma ve dinlenme ihtiyacının karşılanmasına ya da güvenli bir duygusal alana erişme isteğine işaret edebilir."
     },
     {
-      "title": "Denizin Ortasında Yalnız Kalınan Ada",
-      "description": "Küçük ve kayalık bir ada üzerinde tek başına mahsur kaldığını fark etmek, çevreyle bağların zayıfladığına, yalnızlık duygusunun arttığına ve içsel bir kapanmaya işaret edebilir."
+      "title": "Issız bir adada yalnız olmak",
+      "description": "Uçsuz bucaksız denizde tek başına duran çorak bir ada görmek, kuvvetli bir izolasyon, dış dünyadan kopuş ya da çözülmesi gereken bir psikolojik tecrit durumuna dikkat çekebilir."
     },
     {
-      "title": "Bilinmeyen Bir Adaya Doğru Yolculuk",
-      "description": "Ufukta görünen keşfedilmemiş bir adaya doğru tekneyle gittiğini görmek, yeni bir psikolojik dönemin, bilinmeyen bir zihinsel alanın keşfine giriş eşiğinde olduğunu simgeler."
+      "title": "Adadan anakaraya veya bir kayıkla ayrılmak",
+      "description": "Adada geçici süre kaldıktan sonra ayrıldığını görmek, içe dönük bir dönemin sona erdiğini ve yeniden toplumsal yaşama veya ilişkilere dönme çabasını gösterebilir."
     },
     {
-      "title": "Karadan Uzaktaki Büyük Bir Adada Bulunmak",
-      "description": "Anakaradan tamamen kopuk ama kendi içinde bir yaşam barındıran büyük bir adada bulunduğunu görmek, kişinin kendi yaşam kurallarını yeniden yazma ve ütopik bir düzen kurma isteğini yansıtabilir."
+      "title": "Adada bir sığınak veya ev inşa etmek",
+      "description": "Adada kendi korunaklı alanını kurmak, rüya sahibinin sınırlarını belirleme, içsel bağımsızlık talebi ve ego sınırlarını sağlamlaştırma eğilimini sembolize edebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "Jungcu analitik psikolojide ada düşleri, yeni örgütlenmiş ego bilincinin başlangıcına ya da bir kompleks içine çekilme ve bireyleşme sürecine giriş eşiğine işaret eder. Ada, çoğunlukla bilinçdışının okyanusunda benlikten kısmen ayrılmış bağımsız bir psikik alanı temsil eder.",
-  "islamicTradition": "",
-  "christianTraditions": "Hristiyan kaynaklarında ve metinlerinde \"adalar\" motifi genellikle uzak ve ayrılmış yerleri, yeryüzünün uçlarını ve ilahi mesajın coğrafi olarak uzak topluluklara erişimini simgeler.",
-  "jewishTraditions": "Yahudi biblikal imge sözlüğünde adalar, Akdeniz'in uzak ve az bilinen halklarının ve coğrafyalarının bir tasviri olarak ele alınır.",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
+  "psychology": "Ampirik psikoloji literatüründe adayı doğrudan inceleyen çalışmalar sınırlıdır; mevcut klinik örnekler ve analitik vaka tartışmaları ada görüntüsünü analiz için bir giriş noktası olarak ele alabilir ve rüya sahibinin psikodinamik durumuna göre ayrışma, sığınak ya da yeniden örgütlenen ego bilincinin başlangıcı gibi anlamlar taşıyabileceğini gösterir.",
+  "jungian": "Jungcu analitik çerçevede deniz genellikle bilinçdışına, adaysa onun içinden yükselen bilinç alanına benzetilir. Bu metafor çerçevesinde ada, ego-bilinç için çevresindeki bilinçdışı akışlardan korunmuş bir merkez veya bireyleşme sürecinde ortaya çıkan ayrışmış bir bilinç parçası olarak okunur; yine de yorum rüya bağlamına ve duygusal tona bağlıdır.",
+  "islamicTradition": "Modern İslami aktarımlar, rüyada adanın yalnızlık, tefekkür ve korunma arayışını; yeşil bir ada görüntüsünün refah ve rahatlığa işaret edebileceğini; bazı çevrimiçi derlemelerin ise adaya çıkma veya adaya alınma eylemlerini maddi kazanç veya miras bağlamında yorumladığını bildirir. Ancak klasik birincil kaynaklarda \"ada\" maddesinin doğrudan güvenilir biçimde yer almadığı görülmektedir; bu nedenle bu yorumlar geleneksel derlemelere dayanmakta olup bağlama göre açıklama gerektirir.",
+  "christianTraditions": "İncil metinlerinde 'ada' kullanımı hem coğrafi hem de sembolik anlamlar taşır; Hristiyan yorumlarda adalar sıklıkla izolasyon, sığınak, uzak milletlerin temsilcisi veya ilahi egemenliğin sınır tanımazlığı bağlamında ele alınır. Patmos'un vahiy-sürgün bağlamı gibi kültürel imgeler, adayı tecrit ve vahiy motifleriyle ilişkilendirir; bunlar rüya yorumu geleneği değil, Kutsal Yazın ve teolojik metaforların çağrışımlarıdır.",
+  "jewishTraditions": "Yahudi rüya geleneği genel olarak rüyaların yorumunun bağlama ve yorumlayıcıya bağlı olduğunu vurgular; eldeki materyaller 'ada' için doğrudan bir Talmudik veya rabbinik rüya maddesi sunmaz. Bu nedenle Yahudi çerçevede ada sembolü sabit bir anlam taşımak yerine rüya sahibinin yaşam koşullarına göre değerlendirilmelidir.",
+  "buddhistEasternApproaches": "Hindu geleneklerinde ada görüntüleri genellikle inziva, saflık ve kutsal alan çağrışımı taşır; rüyadaki ada, dış dünyadan çekilme ve daha derin benlikle temas etme temasıyla ilişkilendirilebilir. Budist bağlamda ise ada, Nirvana’ya veya özgürleşmeye yönelik güvenli bir sığınak, 'kendinize ada olun' öğüdü doğrultusunda Dharma'ya dayanma metaforu olarak okunabilir. Bu okumalar, rüya içindeki ada görüntüsünün niteliğine göre farklı anlamlar kazanır.",
+  "spiritualApproaches": "Ezoterik ve simyasal yaklaşımlarda ada, suyla çevrili olduğu için bilinçdışından ayrılmış korunaklı bir merkez, dağınık enerjilerin sabitlenip yoğunlaştığı bir nokta veya içe çekilme eşiği olarak yorumlanır. Modern spiritüel aktarımlarda ada, gündelik karmaşadan uzak, korunma ve arınma mekânı olarak sembolleşebilir.",
   "comparisonTable": [
     {
-      "approach": "Jungcu Psikoloji",
-      "interpretation": "Ego bilincinin yapılanması, kompleks içine çekilme ve bireyleşme eşiği.",
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Bilinç ile bilinçdışı arasındaki sınır; ego bilincinin uyanışı ve bireyleşme eşiği.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Hristiyan Geleneksel Metinleri",
-      "interpretation": "Yeryüzünün uçları, uzaklık, ayrılık ve ilahi mesajın yayılması.",
+      "approach": "Klasik / Geleneksel Yorumlar",
+      "interpretation": "İhtiyaç duyulan yalnızlık, tefekkür ve korunma alanı; bazı derlemelerde adaya çıkma eylemleri maddi kazanç veya mirasla ilişkilendiriliyor.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Yahudi Biblikal Sembolizm",
-      "interpretation": "Uzak diyarlar, bilinmeyen topluluklar ve coğrafi ayrılık.",
-      "evidenceLevel": "traditional"
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Dış dünyanın karmaşasından arınmış içsel sığınak; simyasal merkezleşme ve enerjilerin yoğunlaşması imgesi.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplinler ve gelenekler, ada sembolünün merkezinde 'merkezden uzaklaşma', 'izolasyon' ve 'sınırlandırılmış coğrafi veya psikolojik alan' unsurlarının bulunduğunu kabul eder.",
-  "differences": "Jungcu yaklaşım adayı içsel bir psikik ayrışma ve bireyleşme alanı olarak ele alırken, dini ve biblikal metinler adayı coğrafi bir uzaklık ve dış dünya ile ilahi mesaj arasındaki mesafe olarak konumlandırır.",
-  "inusAssessment": "INUS editoryal yaklaşımına göre ada sembolü ne katı bir iyiliğin ne de mutlak bir olumsuzluğun habercisidir. Rüya bağlamında ada, kişinin bilinçli zihninden, kalabalıklardan ya da günlük rollerinden geçici veya kalıcı olarak soyutlanma ihtiyacını, içsel sınırlarını ve kendi öz alanına çekilme arzusunu incelikle irdeler.",
-  "faq": [
-    {
-      "question": "Rüyada ada görmek yalnızlık korkusuyla mı ilgilidir?",
-      "answer": "Ada sembolü, yalnızlığı hem koruyucu bir sığınak hem de izolasyon hissi olarak iki yönlü yansıtabilir; rüyanın genel atmosferi bu duygunun yapısını belirler."
-    },
-    {
-      "question": "Jungcu perspektifte ada rüyaları ne anlama gelir?",
-      "answer": "Jungcu çerçevede ada düşleri genellikle bireysel psikede ayrı bir alanın belirmesine işaret eder; bu, ego ile bilinçdışı arasındaki yeni düzenlenmelerin, bireyleşmeye yönelik bir yönelimin veya bir kompleks etrafında toplanmanın başlangıcı olarak okunabilir."
-    }
-  ],
+  "commonGround": "Çeşitli disiplin ve gelenekler ada imgesini genellikle çevresinden ayrılmış, korunmuş bir merkez olarak görür; bu merkez ya güvenli bir sığınak ya da izolasyon ve ayrışma deneyiminin ifadesi olabilir.",
+  "differences": "Psikolojik yaklaşımlar adayı ego-bilinç ile bilinçdışı arasındaki sınırı gösteren içsel bir merkez olarak okurken, Doğu spiritüel geleneklerinde ada daha çok inziva, Dharma'ya dayanma veya Nirvana'ya erişim metaforu olarak vurgulanır; bazı geleneksel derlemeler ise adaya ilişkin eylemleri maddi sonuçlarla ilişkilendirir. Bu farklı okumalar, adanın rüya içindeki niteliği ve rüya sahibinin yaşam bağlamıyla birleştirildiğinde anlam kazanır.",
+  "inusAssessment": "Ada sembolü, rüya yorumunda tek başına kesin bir yorumu belirlemez; adanın niteliği (verimli/ıssız, erişilebilir/mahsur vb.), suyun durumu ve rüya sahibinin duygusal tutumu birlikte değerlendirildiğinde farklı anlam kombinasyonlarına işaret edebilir. Bu nedenle ada, yorumda dikkate alınması gereken bir öğedir.",
+  "faq": [],
   "sources": [
     {
-      "title": "1 Island Worlds Ian Kinane For as long as human cultures ...",
-      "relevance": "Adaların edebî ve kültürel imgelemdeki tarihsel işlevini, mitoloji ve düşünce tarihinde nasıl tekrarlandığını ele alır.",
-      "url": "https://pure.roehampton.ac.uk/ws/files/727046/Island_Worlds._Ian_Kinane.pdf"
-    },
-    {
-      "title": "Cultural History of Islands",
-      "relevance": "Ada motifinin kültürel tarihte ütopya, egzotik ada ve toplumsal tasavvurla kurduğu ilişkileri inceler.",
-      "url": "https://link.springer.com/chapter/10.1007/978-3-319-63869-0_3"
-    },
-    {
-      "title": "[PDF] Sacred islands and island symbolism in Ancient and Imperial China",
-      "relevance": "Eski ve imparatorluk Çin’inde adaların kutsallık, erişilmezlik ve efsanevi mekân olarak kurgulanışını tartışır.",
-      "url": "https://islandstudiesjournal.org/article/82089-sacred-islands-and-island-symbolism-in-ancient-and-imperial-china-an-exercise-in-decolonial-island-studies.pdf"
-    },
-    {
-      "title": "Symbolic meanings of island in dreams",
-      "relevance": "Jungcu klinik bağlamda ada düşlerinin analize giriş, ego yapılanması ve kompleks temalarıyla ilişkisini örnekler.",
+      "title": "Symbolic meanings of island in dreams - PubMedpubmed.ncbi.nlm.nih.gov › ...",
+      "relevance": "Jungcu analiz bağlamında rüyada adanın nasıl yorumlanabileceğine dair vaka örnekleri ve sembolik çerçeve sağlayan çalışmayı gösterir.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/9682934/"
     },
     {
+      "title": "Dream Psychology",
+      "relevance": "Freud'un su imgelerini intrauterin yaşama ve doğum fantezilerine bağlayan pasajları içerir; adanın suyla çevrili oluşundan türetilen psikanalitik okumalara arka plan sağlar.",
+      "url": "https://www.rybn.org/ANTI/ADMXI/documentation/ADMXI/IV.ALGORITHMS/DREAMER/PSYCHOLOGY/pdfs/1920_Sigmund_Freud_Dream_-_Psychology.pdf"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/262 - Wikisource, the free online library",
+      "relevance": "Freud'un sudan çıkma/girme düşlerini doğum fantezisi olarak ele aldığı klasik pasajı sunar; ada-su ilişkisinin psikanalitik bağlamını destekler.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/262"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/261 - ...",
+      "relevance": "Freud'un doğumun rüyada su imgeleriyle ifade edilebileceğini belirten metin bölümlerini içerir; ada yorumunda su-rahim çağrışımlarının referansını sağlar.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
+    },
+    {
+      "title": "[PDF] The Castaway Archetype in Two Tales of an Island Year",
+      "relevance": "Jungcu metaforlar üzerinden deniz-bilinçdışı ve ada-bilinç benzetmesini tartışan ve ada sembolünü analitik psikoloji çerçevesinde ele alan kaynaktır.",
+      "url": "https://jungianjournal.ca/index.php/jjss/article/download/219/132"
+    },
+    {
+      "title": "Dream Symbols Of The Individuation Process: Notes ...",
+      "relevance": "Jung seminerleri ve bireyleşme sürecine dair notların bulunduğu metin; adanın bilinçdışından yükselen bilinç alanı olarak okunmasına örnek verir.",
+      "url": "https://dokumen.pub/dream-symbols-of-the-individuation-process-notes-of-cg-jungs-seminars-on-wolfgang-paulis-dreams-0691183619-9780691183619.html"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Greko-Romen oneirokritik geleneğin ana metni olarak rüya yorum geleneğinin tarihsel çerçevesini sağlar; 'ada' için doğrudan giriş doğrulanmasa da tarihsel bağlam sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "تفسير رؤية الجزيرة في المنام لابن سيرين والنابلسي",
+      "relevance": "Modern İslami aktarımlarda adanın yalnızlık, korunma ve içe çekilme temalarıyla nasıl ilişkilendirildiğine dair bir örnek aktarımı temsil eder.",
+      "url": "https://lifebyislam.com/dreams/tafsir-ruya-al-jazira-fi-almanam"
+    },
+    {
+      "title": "Full text of \"hipnoz_kitabi_hakan_menguc\"",
+      "relevance": "Derleme, 'ada' ile para ilişkisinin kısa bir tabirini içerir.",
+      "url": "https://archive.org/stream/hipnoz_kitabi_hakan_menguc/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1_djvu.txt"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri A Harfi - Muhammed.net",
+      "relevance": "Çevrimiçi aktarım, adaya çıkma veya adaya alınma eylemlerinin miras ve mal bağlamında yorumlandığını bildirir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-a-harfi.html"
+    },
+    {
       "title": "Topical Bible: Island Isle",
-      "relevance": "İncil’de \"adalar\" temasının uzaklık, ayrılık, yeryüzünün uçları ve ilahî mesajın erişimiyle ilişkisini ele alır.",
+      "relevance": "Kutsal Kitap'taki 'island/isle' kullanımlarının coğrafi ve sembolik bağlamlarına dair maddeler sunar; Hristiyan metaforik okumalar için referans sağlar.",
       "url": "https://biblehub.com/topical/i/island_isle.htm"
     },
     {
-      "title": "Острова, Словарь библейских образов - Райкен Л., Уилхойт Д., Лонгман Т. - читать онлайн и скачать - Райкен Л., Уилхойт Д., Лонгман Т. | часть 560 из 1073",
-      "relevance": "\"Adalar\" imgesini uzak ve az bilinen halklar bağlamında açıklar; Yahudi-biblikal sembolizminde kullanımını irdeler.",
-      "url": "https://azbyka.ru/otechnik/Spravochniki/slovar-biblejskih-obrazov/560"
+      "title": "The Island - Topical Bible",
+      "relevance": "İncil'de adaların izolasyon, sığınak ve uzaklık temalarıyla nasıl ilişkilendirildiğini özetleyen teolojik bir kaynak olarak kullanılmıştır.",
+      "url": "https://biblehub.com/topical/t/the_island.htm"
     },
     {
-      "title": "Buddhism and Hinduism",
-      "relevance": "Budist ve Hindu ikonografilerinde ortak kullanılan semboller ve işaretler hakkında genel bir çerçeve sunar.",
-      "url": "https://en.wikipedia.org/wiki/Buddhism_and_Hinduism"
+      "title": "Topical Bible: Isle",
+      "relevance": "Adaları Tanrı’nın mesajı ve egemenliğinin en uzak yerlere uzanması bağlamında ele alır.",
+      "url": "https://biblehub.com/topical/i/isle.htm"
     },
     {
-      "title": "Spiritual Meaning of the Name Ada (Revealed) - Lets Learn Slang",
-      "relevance": "‘Ada’ adının modern spiritüel yorumlarla ilişkilendirildiği çevrimiçi bir metin örneğidir; geleneksel Budist ya da Hindu kaynaklarıyla ilişkili değildir.",
-      "url": "https://letslearnslang.com/spiritual-meaning-of-the-name-ada/"
+      "title": "Topical Bible: Islands",
+      "relevance": "Adaları uzak coğrafyalar ve peygamberlik dili içinde Tanrı’nın kurtuluşuna açılan alanlar olarak açıklar.",
+      "url": "https://biblehub.com/topical/i/islands.htm"
+    },
+    {
+      "title": "4248 islands - Dictionary of Bible Themes",
+      "relevance": "Adaları uzak uluslar ve kıyı bölgeleri için kullanılan peygamberliksel bir imge olarak verir.",
+      "url": "https://www.biblegateway.com/resources/dictionary-of-bible-themes/4248-islands"
+    },
+    {
+      "title": "Dreams and Judaism",
+      "relevance": "Yahudi rüya yorumunun bağlama bağlılığını ve yorumlayıcı rolünü vurgulayan özet metin; 'ada' için doğrudan madde sağlamaz ama yorum ilkesine dair çerçeve sunar.",
+      "url": "https://www.oxfordchabad.org/templates/articlecco_cdo/aid/374282/jewish/Dreams-and-Judaism.htm"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Talmudik ve rabbanî rüya anlayışını, rüyaların yorumla anlam kazandığı fikrini özetler; 'ada' için özel giriş sağlamaz.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Judaism and Dreams",
+      "relevance": "Rüya yorumunun Talmudik ilkesini ve yorumun bağlama bağlılığını aktarır; 'ada' sembolü için doğrudan tabir içermez.",
+      "url": "https://aish.com/judaism-and-dreams/"
+    },
+    {
+      "title": "Ada — Biblical Name",
+      "relevance": "Ada adının İbranice köküne dair etimolojik bilgi verir; sembolik ad anlamı üzerinden sınırlı bir bağlam sağlar.",
+      "url": "https://bibles.co.uk/names/ada"
+    },
+    {
+      "title": "Dreaming Of Island – Meaning",
+      "relevance": "Hindu odaklı modern aktarımda adanın inziva, saflık ve kutsal alan çağrışımlarıyla nasıl ilişkilendirildiğini gösterir; akademik birincil metin olmamakla birlikte sembolik okuma örneği sunar.",
+      "url": "https://www.hindu-blog.com/2022/08/dreaming-of-island-meaning.html"
+    },
+    {
+      "title": "Island Dream Meaning - Interpret Your Dream!",
+      "relevance": "Budist sembolizmde adayı Nirvana ve güvenli sığınak metaforu olarak açıklıyor; rüya bağlamında da bu sembolik okuma veriyor.",
+      "url": "https://mirrorwithin.com/dream-dictionary/island/"
+    },
+    {
+      "title": "Spiritual Symbolism in the Life of Pi: Island and Ocean",
+      "relevance": "Hindu ve Budist edebiyatta adayı Jambudvipa ve samsara bağlamında ele alıyor; ada imgesinin kozmolojik anlamını gösteriyor.",
+      "url": "https://www.hinduwebsite.com/general/essays/pi.asp"
+    },
+    {
+      "title": "[PDF] SD 63.13 Mahā,supina Sutta - The Minding Centre",
+      "relevance": "Buda'nın 'kendinize ada olun' öğüdü ve Dharma'ya dayanma metaforu bağlamında ada imgesinin Budist yorumunu destekleyen bir sutta notudur.",
+      "url": "https://www.themindingcentre.org/dharmafarer/wp-content/uploads/63.13-Maha-Supina-S-a5.196-piya.pdf"
+    },
+    {
+      "title": "[PDF] A DICTIONARY OF SYMBOLS - Esoteric Library",
+      "relevance": "Ezoterik sembol sözlüğü olarak adanın yalnızlık, sığınak ve bilinçdışına karşı korunaklı alan şeklindeki çok katmanlı anlamlarını derleyen bir referans sağlar.",
+      "url": "https://esotericlibrary.weebly.com/uploads/5/0/7/7/5077636/a_dictionary_of_symbols__cirlot_.pdf"
+    },
+    {
+      "title": "Microsoft Word - ISJ-7-1-2012-Mezzana-et-al.doc",
+      "relevance": "Adaların dini, spiritüel ve aşkın çağrışımlarla yüklendiğini tartışan akademik bağlam sunar; ada sembolünün kutsal/ayrışmış mekân olarak okunmasına zemin verir.",
+      "url": "https://islandstudiesjournal.org/article/81304.pdf"
+    },
+    {
+      "title": "Epstein Island Decoded Pt. 1 - by Solomon Pakal - Mystery Codex",
+      "relevance": "Ada motifini ezoterik ve sembolik bir mekân olarak yorumlayan modern bir metindir; ada benzeri izole alanların koruyucu ya da ritüel eşik olarak okunmasına örnek verir.",
+      "url": "https://www.solomonpakal.com/p/epstein-island-decoded-pt-1"
     }
   ],
   "relatedSlugs": []

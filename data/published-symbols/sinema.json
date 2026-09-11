@@ -1,0 +1,210 @@
+{
+  "slug": "sinema",
+  "title": "sinema",
+  "shortDescription": "Rüyada sinema görmek, hayatınıza ve iç dünyanıza dışarıdan bakma; olaylar karşısında izleyici mi, etkin mi olduğunuzu düşünme ihtiyacını yansıtabilir. Perdede gördükleriniz ise geçmiş anılarınızın, duygularınızın ya da çatışmalarınızın zihninizde canlanmasıyla ilgili olabilir.",
+  "positiveAssociations": [
+    "İçsel farkındalık ve yaşam hikayesini dışarıdan gözlemleyebilme becerisi",
+    "Görsel ve yaratıcı ifade yeteneğinin artması",
+    "Farklı bakış açılarını ve anlatıları anlamada esneklik",
+    "Bilinçdışından gelen imgelerin yaratıcı bir biçimde düzenlenmesi"
+  ],
+  "challengingAssociations": [
+    "Hayattaki olaylara karşı pasif bir seyirci konumunda kalma",
+    "Gerçeklikten uzaklaşma, illüzyonlara kapılma ve kaçış eğilimi",
+    "Kendi hayatının senaryosunu başkalarının yazdığı hissine kapılma",
+    "Görünen ile gizli olan arasındaki çelişkilerin yarattığı gerilim"
+  ],
+  "contextDependentAssociations": [
+    "Boş bir sinema salonunda tek başına olmakla kalabalık bir izleyici kitlesinin içinde bulunmak",
+    "Filmi büyük bir dikkatle izlemek veya gösteri sırasında salonu terk etmek",
+    "Perdede kendi hayatına benzer sahneler görmekle tamamen yabancı bir hikâyeye tanıklık etmek",
+    "Uyku öncesi görsel medya maruziyetinin rüya içeriğine doğrudan yansıması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Karanlık Sinema Salonunda Tek Başına Oturmak",
+      "description": "Geniş ve boş bir salonda tek başına devasa perdeye bakmak, kişinin kendi iç dünyasıyla baş başa kalmasını ve hayatındaki olayları dışarıdan, tarafsız bir gözle değerlendirme ihtiyacını simgeler."
+    },
+    {
+      "title": "Perdede Kendi Yaşamından Sahneler İzlemek",
+      "description": "Sinema perdesinde aktörler yerine kendi geçmiş anılarının veya günlük olaylarının gösterildiğini görmek, bilinçdışının kişinin davranışlarını ve arzularını yabancılaşmış biçimde sunma eğilimini yansıtır."
+    },
+    {
+      "title": "Film Başlamadan Önce Salonu Terk Etmek",
+      "description": "Gösterim vaktini beklerken ya da film yeni başlarken sinemadan çıkmak, kişinin uyanık yaşamında üzerine atılan bir rolden, bir toplumsal beklentiden veya pasif bir konumdan vazgeçme isteğini gösterir."
+    },
+    {
+      "title": "Kalabalık İzleyiciler Arasında Film Seyretmek",
+      "description": "Yüzlerce insanla birlikte karanlıkta aynı ekrana bakmak, kolektif bir duygu durumuna ortak olmayı, toplumsal normların ve ortak anlatıların birey üzerindeki etkisini temsil eder."
+    }
+  ],
+  "psychology": "Ampirik psikoloji çalışmalarında, uyku öncesi görsel medya maruziyetinin rüya içeriğini orta düzeyde etkileyebildiği; film veya video oyunu gibi uyaranların rüyalarda duygusal tonu, karakterleri ve görsel tuhaflıkları etkileyebildiği gösterilmiştir. Sinema, rüyalarda tek ve sabit bir anlama indirgenemeyen, kişinin zihinsel etkinliklerini ve izleme deneyimini yansıtan bağlamsal bir uyaran olarak ortaya çıkar.",
+  "jungian": "Jungcu analitik psikolojide sinema teması, içsel sahnelerin dışsal bir perdeye yansıtılması ve bilinçdışının imgesel anlatımı olarak okunabilir. Film izleme deneyimi, kolektif bilinçdışının arketiplerini ve sembolik formlarını görsel bir dil aracılığıyla bireyin bilincine taşıyan modern bir projeksiyon alanı işlevi görür.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan film düşüncesi geleneğinde sinema, kolektif bir düşsellik, manevi duyarlılık ve kutsal anlatıların çağdaş görsel kültürde yeniden belirmesiyle ilişkilendirilir. Rüyadaki sinema imgeleri, kişinin hayatını hangi temel anlatı üzerine kurduğunu ve hangi manevi değerlerin rehberliğinde yürüdüğünü sorgulayan bir sembolik zemin sunar.",
+  "jewishTraditions": "Rabbanî rüya geleneğinde rüya anlamının sabit olmadığı, yorum ve bağlamla şekillendiği kabul edilir. Sinema metaforu, modern Yahudi yazınında kişinin kendini yalnızca izleyici değil, aynı zamanda kendi hayat anlatısının kurucusu ve yorumlayıcısı olarak konumlandırmasıyla bağdaştırılır.",
+  "buddhistEasternApproaches": "Budist düşünce ve film teorisi kesişiminde, sinema deneyimi düşsellik, illüzyon, geçicilik ve gölge metaforlarıyla okunur. Görüntü temelli bu deneyim, Mahāyāna öğretisindeki fenomenlerin rüya gibi doğasını ve zihnin algıyı inşa ederken yarattığı geçici görüngüleri anlamak için bir tefekkür alanı sağlar.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda sinema, bilincin kendi imgelerini bir perdeye yansıtarak izleyici konumundan seyrettiği bir projeksiyon alanı olarak ele alınır. Bu yaklaşım, görünen olayların ardındaki sembolik rezonansı fark etme ve pasif izleyicilikten uyanık bir gözlemci bilincine geçme çabasını vurgular.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Görsel medya uyaranlarının rüya içeriğine katılması ve duygusal durumu etkilemesi.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Zihinsel içeriğin görsel bir sahneye, arzunun temsiline ve rüya üretimine benzer bir yapıyla aktarılması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilinçdışı içeriklerin ve arketiplerin dışsal bir perdeye yansıtılarak sembolik olarak ifade edilmesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan film düşüncesi",
+      "interpretation": "Kutsal altmetinlerin ve manevi anlatıların çağdaş görsel kültürdeki yansıması.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Bilinç alanının kendi yansımalarını izlemesi, illüzyon ve gözlemci bilincinin rolü.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, sinemanın doğrudan sabit bir sözlük karşılığı olmadığını; aksine görsel temsil, izleyici konumu ve içsel süreçlerin dışa vurumu ekseninde esnek bir anlam alanı sunduğunu kabul eder.",
+  "differences": "Ampirik psikoloji görsel uyaranların belleğe ve rüya içeriğine etkisini incelerken, psikanaliz ve Jungcu teori rüyayı ve sinemayı arzu, projeksiyon ve bilinçdışı yapı açısından ele alır; spiritüel ve dini yaklaşımlar ise illüzyon, tanıklık ve yaşam anlatısı temalarına odaklanır.",
+  "inusAssessment": "Sinema sembolü, rüya gören kişinin hayat sahnesinde aktif bir oyuncu mu yoksa pasif bir izleyici mi olduğunu sorgular. Perdeye yansıyan görüntülerin içeriği, bireyin içsel çatışmalarını ve arzularını hangi mesafeden izlediğini gösterir; bu nedenle rüyadaki sinema deneyimi ancak kişinin uyanık yaşamındaki rolleri ve duygusal konumuyla ilişkili olarak anlam kazanır.",
+  "faq": [
+    {
+      "question": "Rüyada sinemada film izlemek ne anlama gelir?",
+      "answer": "Rüyada sinemada film izlemek, genellikle kişinin kendi yaşamına dışarıdan bir gözlemci olarak bakma ihtiyacını, bilinçdışı arzuların sahnelenmesini veya günlük hayattaki olayları bir hikaye gibi değerlendirme eğilimini yansıtır."
+    },
+    {
+      "question": "Sinema rüyaları her zaman uyku öncesi izlenen filmlerden mi kaynaklanır?",
+      "answer": "Araştırmalar uyku öncesi görsel medya maruziyetinin rüyalara katılabildiğini gösterse de, sinema sembolü aynı zamanda psikolojik projeksiyon, bilinçdışı temsiller ve hayatın sahnelerine tanıklık etme gibi daha derin zihinsel süreçleri de temsil edebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FILM & DREAMS",
+      "relevance": "Film ile rüya benzerliğini, rüyaların film anlatısı, izleyicideki duygulanım ve algısal deneyim açısından nasıl düşünülebileceğini tartışan bir çerçeve sunar.",
+      "url": "http://ereserve.library.utah.edu/Annual/FILM/6370/Lippard/filmanddreams.pdf"
+    },
+    {
+      "title": "Impact of Pre-Sleep Visual Media Exposure on Dreams - PMC",
+      "relevance": "Uyku öncesi görsel medya maruziyetinin sonraki rüya içeriğine nasıl katılabildiğini ve rüya duygusunu nasıl değiştirebildiğini özetleyen ampirik derleme.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11274468/"
+    },
+    {
+      "title": "[PDF] Applying Freudian Dream Interpretation to Dream Sequences in Film",
+      "relevance": "Rüya çalışması, görsel temsil ve düşlerin arzuyla ilişkisi için temel Freudcu çerçeveyi sağlar.",
+      "url": "https://www.etera.ee/api/oai2/download/30096.pdf"
+    },
+    {
+      "title": "Oneiric Metaphor in Film Theory",
+      "relevance": "Sinema ile rüya arasındaki psikanalitik yapısal benzerlikleri ve görsel dramatizasyon temasını tartışır.",
+      "url": "https://openjournals.uwaterloo.ca/index.php/kinema/article/download/982/1054?inline=1"
+    },
+    {
+      "title": "Psychoanalytic Film Theory",
+      "relevance": "Freud’un sinemayı doğrudan tartışmadığını, fakat film kuramında onun rüya kuramının etkili olduğunu özetler.",
+      "url": "https://www.oxfordbibliographies.com/display/document/obo-9780199791286/obo-9780199791286-0052.xml?d=/document/obo-9780199791286/obo-9780199791286-0052.xml&p=emailAg7nmPu.pZlas"
+    },
+    {
+      "title": "Psychoanalysis Discovers Film TheoryAnne Friedberg and Close Up",
+      "relevance": "Sinema ile rüya arasında duyusal imge ve gerileme üzerinden kurulan bağı açıklayan akademik bir tartışma sunar.",
+      "url": "https://academic.oup.com/book/35317/chapter/299965618?searchresult=1"
+    },
+    {
+      "title": "Psychoanalysis and Cinema | Columbia University Press",
+      "relevance": "Psikanaliz ile sinemanın rüya, arzu, imge ve yanılsama etrafında kesişen düşünme biçimleri olduğunu belirtir.",
+      "url": "https://cup.columbia.edu/book/psychoanalysis-and-cinema/9781903364192"
+    },
+    {
+      "title": "D086135_1_0001.tif",
+      "relevance": "Jung’un rüyayı bilinçdışının sembolik anlatımı olarak ele alışını ve rüya-sembol ilişkisini açıklar; sinema benzeri görsel anlatıların Jungcu yorumuna zemin sağlar.",
+      "url": "https://dspace.stir.ac.uk/bitstream/1893/2149/1/Hockley%20(1988)%20Detecting%20the%20Myth%20-%20An%20Application%20of%20C%20G%20Jung's%20Analytical%20Psychology%20to%20Film%20Analysis.pdf"
+    },
+    {
+      "title": "Citação: Jan Peters, “Cinematic Articulations of the Jungian ‘Symbolic’ and the Cultivation of",
+      "relevance": "Jungcu sembol anlayışını, kolektif bilinçdışı ve arketipsel imgelerle bağlantılı biçimde tartışır; sinemanın Jungcu sembolik alanla ilişkisini kurar.",
+      "url": "https://ler.letras.up.pt/uploads/ficheiros/10110.pdf"
+    },
+    {
+      "title": "[PDF] Jung and Film by Christopher Hauke",
+      "relevance": "Jung ve film ilişkisini, hareketli imgenin sembolik anlam üretimi üzerinden ele alır; sinema temasını Jungcu sembolizm bağlamında konumlandırır.",
+      "url": "https://www.perlego.com/book/3056256/jung-and-film-postjungian-takes-on-the-moving-image-pdf"
+    },
+    {
+      "title": "THE MOVING IMAGE: CONTEMPORARY FILM ANALYSIS ...",
+      "relevance": "Jungcu film analizinde rüya sembolleri ile film imgeleri arasında paralellik kurar; sinemanın Jungcu okuması için yöntemsel çerçeve sunar.",
+      "url": "https://repository.up.ac.za/server/api/core/bitstreams/c30c4b32-6250-49d8-9a3d-49e6b7d2d7d6/content"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorum geleneğinde tiyatro, gösteri ve kamusal temsil türü imgelerin hangi bağlamlarda yorumlandığını incelemek için temel başvuru kaynağıdır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Cinema Has Not Yet Been Invented: André Bazin's Christ ...",
+      "relevance": "Sinema ve rüya benzerliği, ışıklar sönünce herkesin aynı düşü paylaştığı fikri üzerinden film ile kolektif düşsellik arasındaki ruhani bağı kurar.",
+      "url": "https://christianscholars.com/cinema-has-not-yet-been-invented-andre-bazins-christ-based-ontology-of-moving-images/"
+    },
+    {
+      "title": "Sacred cinema: exploring Christian sensibilities within popular Hollywood films",
+      "relevance": "Hollywood sinemasında kutsal anlatılar, ilahî sembolizm ve Mesih-benzeri figürlerin işlenişini tartışır; sinemanın Hristiyan sembolik okuması için bağlamsal çerçeve sağlar.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/13617670701485797"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Yahudi rüya geleneğinde rüya yorumunun bağlama göre şekillendiğini ve \"rüyalar ağza uyar\" ilkesinin önemini tartışır.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "The Dream I Dreamt About a Movie Theater",
+      "relevance": "Sinema metaforu üzerinden kişinin kendi hayat anlatısını okuması ve yeniden yazması.",
+      "url": "https://jewishmom.com/2019/12/08/the-dream-i-dream-about-a-movie-theater/"
+    },
+    {
+      "title": "Buddhism and Film Theory: Beyond a Legacy - Oxford Academic",
+      "relevance": "Budist film teorisi içinde sinemanın rüya, illüzyon, kabarcık ve gölge benzetmesiyle ilişkilendirilmesini aktarır.",
+      "url": "https://academic.oup.com/edited-volume/44429/chapter/374913265?guestAccessKey="
+    },
+    {
+      "title": "Life Is But a Dream (As Seen on TV)",
+      "relevance": "Mahāyāna Budist öğretide fenomenlerin rüya gibi görülmesine dair çerçeve sunar.",
+      "url": "https://rubinmuseum.org/life-is-but-a-dream-as-seen-on-tv/"
+    },
+    {
+      "title": "Crafting Cinema in the Buddhist Contemplative Gaze",
+      "relevance": "Sinema deneyiminin Budist tefekkür ve düşsel algı ile nasıl ilişkilendirilebildiğini tartışır.",
+      "url": "https://www.mdpi.com/2077-1444/10/4/253"
+    },
+    {
+      "title": "Cinema in dreams — meaning and symbolism",
+      "relevance": "Sinema sembolünü ezoterik bir yorum içinde, bilinç alanının kendi yansımalarını izlemesi, görünen ile gizli olan arasındaki perde ve sembolik mesaj fikriyle ilişkilendiriyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/cinema"
+    },
+    {
+      "title": "Cinema - Dreampaths",
+      "relevance": "Sinema sembolünü içsel projeksiyonlar, kolektif bilinçdışı, izleyici konumu ve sahne/rol teması üzerinden okuyan modern bir spiritüel yorum sunuyor.",
+      "url": "https://dreampaths.com/symbol/cinema"
+    },
+    {
+      "title": "Movie in dreams — meaning and symbolism",
+      "relevance": "Film ve görüntü akışını, bilinçte beliren imgeler ve sembolik anlamın taşıyıcısı olarak ele alan esnek bir ezoterik okuma sağlar; sinema sembolüne dolaylı çerçeve sunar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/movie"
+    },
+    {
+      "title": "Cinema Dream Meaning & Interpretation",
+      "relevance": "Sinema rüyasını iç anlatılar, duygusal projeksiyonlar ve hayat sahnelerini izleme temasıyla açıklayan modern spiritüel bir yorum verir; illüzyon ve gözlemci bilinç vurgusu taşır.",
+      "url": "https://mirrorwithin.org/dream-dictionary/cinema/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian",
+    "buddhist-eastern"
+  ]
+}

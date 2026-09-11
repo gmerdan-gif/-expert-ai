@@ -1,90 +1,213 @@
 {
   "slug": "avukat",
   "title": "avukat",
-  "shortDescription": "Rüyada avukat görmek, hak arama, kendini savunma ve resmî bir konuda destek alma ihtiyacını yansıtabilir. Avukatın tavrı, yanlış yönlendirilme ya da gizlenen bir gerçeği öğrenme kaygısına da işaret edebilir.",
+  "shortDescription": "Rüyada avukat görmek, hak arama, kendini savunma, adalet ihtiyacı ve çözülmesi gereken bir çatışmayla ilişkilendirilebilir. Avukatın sizi savunması destek ve korunma ihtiyacını, onunla tartışmanız ise vicdani bir hesaplaşmayı veya otoriteyle yaşanan gerilimi öne çıkarabilir.",
   "positiveAssociations": [
-    "Hak arayışı ve adaletin sağlanması yönünde girişimler",
-    "Hukuki ya da resmi bir konuda dışarıdan profesyonel destek ve danışmanlık alma",
-    "Bir uyuşmazlığın resmî süreçlerle çözülme olasılığı",
-    "Toplumsal normlara veya kurallara uygun davranma eğilimi"
+    "hak arama",
+    "savunuculuk",
+    "sorun çözme",
+    "adillik",
+    "rehberlik bulma",
+    "içsel denge"
   ],
   "challengingAssociations": [
-    "Gerçeği tam görememe, yanlış yönlendirilme veya bilgi eksikliği endişesi",
-    "Yargılanma, hesap verme veya hukuki sorumluluk hissi",
-    "Miras, sözleşme ya da dava benzeri resmi anlaşmazlıkların ortaya çıkma riski",
-    "Gizlenen gerçeklerle yüzleşme zorunluluğu veya hak arama sürecinin getirdiği gerilim"
+    "mesleki baskı",
+    "hukuki kaygılar",
+    "suçluluk duygusu",
+    "çatışma",
+    "yargılanma korkusu"
   ],
   "contextDependentAssociations": [
-    "Avukatın rüyadaki rolü: savunan mı, karşı tarafı mı temsil eden mi yoksa danışman ya da aracı rolü mü üstlendiği — bu, rüyanın 'kimin hak aradığı' mı yoksa 'kimin savunulduğu' mu temasıyla doğrudan bağlantılıdır.",
-    "Rüyada geçen hukuki içerik: dava, miras, sözleşme veya resmi belge gibi belirgin hukuki unsurların bulunması, sembolün somut bir hukuki meseleye işaret etme olasılığını güçlendirir.",
-    "Avukatın tutumu ve davranışı: ikna edici, destekleyici, yanıltıcı veya otoriter bir tavır sergilemesi, rüya sahibinin uyanık yaşamında güven, aldatılma ya da resmi otorite algısına dair ipuçları verir."
+    "dava veya duruşma ortamında bulunmak",
+    "avukatla hukuki bir meseleyi tartışmak",
+    "birinin avukatlığını üstlenmek",
+    "avukatın sakin veya agresif tavır takınması"
   ],
   "commonVariations": [
     {
-      "title": "Bir avukatla ofisinde görüşmek",
-      "description": "Rüya sahibinin gerçek hayatta hukuki, finansal veya mirasla ilgili bir konuyu profesyonel yardımla çözme ihtiyacı hissettiğini veya böyle bir yardımın yakında ortaya çıkabileceğini gösterebilir."
+      "title": "Büyük Bir Davaya Hazırlanan Avukat",
+      "description": "Yoğun bir hukuki dosya veya iflas davası üzerinde çalışan bir avukat figürü, rüya gören kişinin gündelik yaşamındaki ağır mesleki sorumlulukları ve zihinsel yükleri yansıtır."
     },
     {
-      "title": "Mahkeme salonunda avukatla birlikte olmak",
-      "description": "Kişinin hayatında resmi bir hesaplaşma, iddia veya kendini savunma gereksiniminin hissedildiğini; ayrıca toplum önünde sorumlulukla yüzleşme kaygısını yansıtabilir."
+      "title": "Kendini Bir Avukat Tarafından Savunulurken Görmek",
+      "description": "Rüya sahibinin zorlu bir durumda hak arama, dışarıdan destek bulma veya haksızlığa uğradığı bir konuda kendini koruma ihtiyacını simgeler."
     },
     {
-      "title": "Kendini avukat olarak görmek",
-      "description": "Rüya sahibinin bir konuda temsilci, savunucu veya hak arayan rolünü üstlendiğini; başkalarının haklarını koruma, sözleşme müzakeresi ya da resmi süreçlerde aktif rol alma eğilimini simgeler."
+      "title": "Tanıdık Birinin Avukat Olduğunu Görmek",
+      "description": "Yakın çevredeki bir kişinin hayatındaki dönüm noktaları, arabuluculuk rolü veya kişisel ilişkilerdeki denge arayışını temsil eder."
     },
     {
-      "title": "Avukatla tartışmak veya anlaşmazlığa düşmek",
-      "description": "Resmî karar süreçlerinde bilgi anlaşmazlığı, yanlış değerlendirme veya iletişim kaynaklı sorunlar yaşanabileceğine dair uyarı niteliği taşıyabilir."
+      "title": "Mahkeme Salonunda Avukatla Tartışmak",
+      "description": "İçsel vicdan muhasebesi, ahlaki bir ikilem veya yaşamdaki otorite figürleriyle yaşanan anlaşmazlıkların rüyadaki dışavurumudur."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "İslami rüya tabirlerinde avukat figürü genellikle gerçeği tam görememe, yanılma ihtimali ve gizlenen gerçeklerle ilişkilendirilir. Ayrıca miras, iş ya da pürüzlü konular bağlamında yakınlardan yardım görme olarak yorumlanabilir; kimi yorumlarda ise anlaşmazlık ve çözüm arayışı bağlamında ele alınır.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist çerçevede rüya imgeleri sabit bir sözlük yerine bağlama, niyete ve uyanık yaşamla ilişkili koşullara bağlı olarak yorumlanır; bu nedenle avukat figürü, rüya sonrasında yarattığı zihinsel uyanış, eylem çağrışımı ve niyete göre değerlendirilmelidir.",
-  "spiritualApproaches": "",
+  "psychology": "Bilimsel psikolojide rüyaların doğrudan evrensel anlamları olduğuna dair ampirik bir kanıt bulunmamaktadır. Rüyalar genellikle bellek konsolidasyonu ve nöral süreçlerle ilişkilendirilir.",
+  "jungian": "Analitik psikoloji çerçevesinde avukat figürü, bilinçdışının dengeleme işleviyle bağlantılı olarak içsel adalet duygusu, aklın rehberliği ve 'bilge yaşlı adam' arketipinin bir uzantısı şeklinde okunabilir; sembol sabit bir anlama indirgenemez.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan teolojik ve sembolik bağlamda avukat kavramı (Yunanca paraklētos), savunma, arabuluculuk, ilahi rehberlik ve birinin adına konuşma veya aracılık etme temalarıyla ilişkilendirilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde (Talmudî Berakhot çerçevesinde) rüyalar anlam taşıyabilir; ancak kesin bir 'avukat' tabiri bulunmamakla birlikte, figür adalet, uyuşmazlıkların çözümü ve savunma sesini temsil eden bir yorum unsuru olarak ele alınabilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel yaklaşımlarda avukat sembolü, vicdan muhasebesi, karmasal denge, sınır koyma, hak arama ve doğruyla yanlışı ayırma ihtiyacı olarak yorumlanır.",
   "comparisonTable": [
     {
-      "approach": "İslami Tabirler",
-      "interpretation": "Gizlenen gerçekler, yanılma riski; miras, iş veya pürüzlü konularda yardım ve anlaşmazlık/çözüm arayışı bağlamında yorumlanır.",
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Gündüz kalıntıları, mesleki baskılar, bastırılmış çatışmalar ve suçluluk veya savunma mekanizmalarının dolaylı bir ifadesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "İçsel arabuluculuk, adalet arayışı ve aklın rehberliğini temsil eden arketipsel bir dışavurum.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Teolojik Sembolizm",
+      "interpretation": "İlahi savunuculuk, arabuluculuk ve Kutsal Ruh'un yardımcı/koruyucu işlevi.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Doğu/Budist Yaklaşım",
-      "interpretation": "Sembolün sabit bir anlamı yoktur; rüyanın uyandırdığı zihinsel durum ve koşullara göre esnek bir değerlendirme önerilir.",
-      "evidenceLevel": "traditional"
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Vicdan muhasebesi, ahlaki denge, hak arama ve karmasal hesaplaşma temaları.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Araştırma ve geleneksel yorumlarda avukat figürü özellikle hukuki uyuşmazluk, adalet ve temsil ile gerçeğin resmi süreçlerle açığa çıkarılması temalarıyla ilişkilendirilir; yani sembol çoğunlukla hukuki çerçevede hak arama veya hakları savunma ekseninde okunur.",
-  "differences": "İslami çevrimiçi tabir koleksiyonları avukatı gizlenen gerçekler, miras ve yakınlardan yardım bağlamında daha spesifik olaylarla ilişkilendirirken, Doğu/Budist perspektifler sembolü kişinin niyeti, ruh hali ve koşullara bağlı olarak değişken bir imge olarak ele alır.",
-  "inusAssessment": "Avukat sembolü, hukuk ikonografisinin otorite, denge ve yaptırım çağrışımlarını taşır; rüyada ortaya çıktığında genellikle belirli bir hukuki süreç, temsil ilişkisinin varlığı veya gerçeğin resmi yollarla araştırılması koşullarını içeren, çok etkenli ve neden-sonuç ilişkileri barındıran bir durumun parçası olduğunu işaret eder. Kesin bir kehanet değil; rüya sahibinin hak arama, savunma ya da resmi bir hesaplaşmayla ilişkili iç-dış dinamiklere dair ipuçları sunar.",
-  "faq": [],
+  "commonGround": "Farklı disiplinler ve gelenekler, avukat figürünün temelinde çatışma çözümü, hak arama, savunma ve adalet arayışının yattığı konusunda birleşir.",
+  "differences": "Psikanaliz bu figürü bireyin zihinsel çatışmaları ve mesleki stresleriyle bağdaştırırken, teolojik ve spiritüel yaklaşımlar bunu ilahi rehberlik, vicdan ve arabuluculuk boyutuna taşır.",
+  "inusAssessment": "Rüyada avukat figürünün belirmesi, kişinin yaşamındaki hukuki, mesleki veya etik bir sürtüşmenin zihinsel düzlemde işlendiğini gösterir. Bu sembolü değerlendirirken rüya sahibinin avukatla kurduğu ilişkinin niteliği —savunan mı yoksa savunulan mı olduğu ya da bir mahkeme ortamında krizle mi yüzleşildiği— kritik önem taşır; zira figür bir yandan dışsal baskılara karşı korunma ve hak arama ihtiyacını yansıtırken, diğer yandan kişinin kendi iç dünyasındaki vicdani hesaplaşmaları ve adalet arayışını açığa çıkarır.",
+  "faq": [
+    {
+      "question": "Rüyada avukat görmek her zaman hukuki bir soruna mı işaret eder?",
+      "answer": "Hayır. Psikanalitik ve teorik yaklaşımlarda bu figür, gündelik mesleki baskıların, içsel çatışmaların ya da hak arama ve savunma ihtiyacının metaforik bir yansıması olabilir."
+    },
+    {
+      "question": "Rüyada avukatla konuşmak ne anlama gelir?",
+      "answer": "Bu durum genellikle kişinin hayatında çözülmesi gereken bir uyuşmazlığı, vicdani bir muhasebeyi veya bir konuda dışsal rehberlik ve destek arayışını simgeler."
+    }
+  ],
   "sources": [
     {
-      "title": "Lawyer Symbol",
-      "relevance": "Hukuk sembollerinin mahkeme düzeni, karar kesinliği ve savunma-otorite çağrışımlarını açıklayarak avukat figürünün kültürel görsel diline dair bağlam sağlar.",
-      "url": "https://face.meei.harvard.edu/lawyer-symbol"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüya kuramının temel çerçevesi, rüyayı bastırılmış isteğin kılık değiştirmiş doyumu olarak ele alır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "Historical Legal Iconology: Law and Image from the Middle ...",
-      "relevance": "Terazi, göz bağı ve kılıç gibi hukuk ikonografisi unsurlarının anlamlarını ele alarak avukat sembolünün otorite, tarafsızlık ve yaptırım boyutlarını anlamaya yardımcı olur.",
-      "url": "https://www.fd.ulisboa.pt/wp-content/uploads/2025/12/Programa-Historical-Legal-Iconology-Law-and-Image-from-the-Middle-Ages-to-the-21st-Century-.pdf"
+      "title": "Freud (1900) Chapter 4 - Classics in the History of Psychology",
+      "relevance": "Genç bir avukatın iflas davası sonrası gördüğü rüya örneğini içerir; hukuk ve mesleki yük bağlamını gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams4.htm"
     },
     {
-      "title": "Rüya tabirleri Avukat görmek - Molla Cami",
-      "relevance": "Kaynak, İslami rüya tabirleri bağlamında avukat figürünü gizlenen gerçekler ve yanılma temaları bağlamında inceler; ayrıca miras ve pürüzlü konuları da ele alır.",
-      "url": "https://ruyatabiri.mollacami.com/islami-ruya-tabirleri/avukat-gormek-tabiri-yorumlari.html"
+      "title": "[PDF] Dream Psychology Sigmund Freud Open Education Project OKFN ...",
+      "relevance": "Rüyanın dilek doyumu ve gündüz kalıntılarıyla ilişkisini özetleyen Freudcu kuramsal çerçeveyi sunar.",
+      "url": "https://in.okfn.org/files/2013/07/Dream-Psychology.pdf"
     },
     {
-      "title": "Rüyada Avukat görmek",
-      "relevance": "Modern çevrimiçi İslami tabir derlemeleri üzerinden avukatın iş, miras, yardım ve anlaşmazlık çözümü temalarıyla ilişkilendirildiğini bildirir.",
-      "url": "https://ruya.ihya.org/ruyada-avukat-gormek.html"
+      "title": "THE INTERPRETATION OF DREAMS",
+      "relevance": "Aynı avukat örneğinin başka bir erişim sürümünü verir; avukat ve dava bağlamını doğrular.",
+      "url": "https://idr.uin-antasari.ac.id/468/1/The_Interpretation_of_Dreams_-_Sigmund_Freud.pdf"
     },
     {
-      "title": "Buddhist Dream Symbols: Meanings, Uses, and Limits",
-      "relevance": "Budist yaklaşımın rüya sembollerini sabit kodlar yerine bağlama ve zihinsel koşullara bağlı imgeler olarak ele aldığı ilkesini aktarır.",
-      "url": "https://www.dreamspoken.com/en/cultural-religious-dream-interpretations/buddhist/buddhist-dream-symbols-meanings-uses-and-limits"
+      "title": "Page:Freud - The interpretation of dreams.djvu/215 - Wikisource, the free online library",
+      "relevance": "Rüyanın dış uyaranları dönüştürerek uykuya hizmet etmesi ve rüya işleyişi üzerine pasajlar içerir.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/215"
+    },
+    {
+      "title": "Oedipus Lex: Psychoanalysis, History, Law",
+      "relevance": "Freudcu rüya kuramının hukuk ve mahkeme sahneleriyle ilişkisini tarihsel bağlamda tartışır.",
+      "url": "https://publishing.cdlib.org/ucpressebooks/public/book/oedipus-lex-psychoanalysis-history-law.html"
+    },
+    {
+      "title": "What Does Dreaming About Lawyer Mean? - Rüya Tabirleri",
+      "relevance": "Avukat figürüne Jungcu bir atıf yaparak bunu bilge yaşlı adam arketipi, içsel adalet ve aklın rehberliği ile ilişkilendiriyor.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-a-lawyer"
+    },
+    {
+      "title": "Jung on the Nature and Interpretation of Dreams - PMC",
+      "relevance": "Jung'un rüya yorumunda kesin kurallar olmadığını ve rüyaların genel olarak dengeleme işlevi taşıyabileceğini aktaran akademik derleme sayfası.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4217604/"
+    },
+    {
+      "title": "Jung on Dreams: Part I - Jungian Center for the Spiritual Sciences",
+      "relevance": "Jung'un sembol tanımı üzerinden, sembollerin bilinç için tam olarak belirlenmemiş anlamlar taşıdığını açıklayan Jungcu eğitim sayfası.",
+      "url": "https://jungiancenter.org/jung-on-dreams-part-i/"
+    },
+    {
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual",
+      "relevance": "Artemidorus’un rüya kitabında hukukçu figürlerinin geçtiği bölümleri ve bunların tarihsel bağlamını gösterir.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?guestAccessKey="
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un Oneirocritica adlı antik rüya yorum kılavuzunu ve Greko-Romen oneirokritik geleneğini tanıtır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un eserinin kapsamını, rüya sınıflandırması ve yorum yöntemlerini tarihsel bağlamda açıklar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Rüyada Avukat Görmek Ne Anlama Gelir?",
+      "relevance": "Modern bir Türkçe rüya-tabiri sayfası; avukat sembolünü doğrudan yorumlayan bir içerik olarak görünür, ancak klasik İslami kaynak metni sağlamaz.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-avukat-gormek-ne-anlama-gelir-25318"
+    },
+    {
+      "title": "Ask and You Shall Receive - Apostle David E. Taylor ...",
+      "relevance": "Rüyada avukat figürünü Kutsal Ruh, danışmanlık ve arabuluculuk temalarıyla ilişkilendirirken, legalizm konusunda uyarıda bulunan modern bir Hristiyan yorum.",
+      "url": "https://joshuamediaministries.org/dreams/lawyer/"
+    },
+    {
+      "title": "What Does It Mean to Dream About a Lawyer?",
+      "relevance": "Avukat sembolünü Kutsal Ruh’un Parakletos oluşu, ilahi savunuculuk ve adalet temalarıyla ilişkilendiren Hristiyan yorum metni.",
+      "url": "https://dreamsweb.org/what-does-it-mean-to-dream-about-a-lawyer/"
+    },
+    {
+      "title": "Jesus the Lawyer",
+      "relevance": "1 Yuhanna 2:1’deki 'savunucu' kavramını Mesih’in imanlılar adına savunuculuğu ve hukuki benzetme üzerinden açıklayan teolojik yazı.",
+      "url": "https://thispresenttime.blogspot.com/2018/04/jesus-lawyer.html"
+    },
+    {
+      "title": "I'm a Lawyer. Here's What the Bar Taught Me About Christ's ...",
+      "relevance": "1 Yuhanna 2:1’deki paraklētos kavramını savunma ve aracılık bağlamında açıklayan Hristiyan teolojik metin.",
+      "url": "https://cfc.sebts.edu/faith-and-culture/im-a-lawyer-heres-what-the-bar-taught-me-about-christs-advocacy-for-me/"
+    },
+    {
+      "title": "Berakhot 56b | The Sefaria Library",
+      "relevance": "Rüyaların yorumla anlam kazandığı ve rüya anlatılarının nasıl ele alındığına dair temel Talmudî metin.",
+      "url": "https://www.sefaria.org/Berakhot.56b"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot’ta rüyalar bahsinin genel çerçevesini ve rüya yorumunun işleyişini özetleyen açıklama.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams",
+      "relevance": "Yahudi gelenekte rüyaların yeri, yorumun önemi ve halakhik sınırlara dair açıklama.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Rüyaların yorumla gerçekleşen anlamına ve olumlu yorum geleneğine dair metin pasajı.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Lawyer Dream Meaning - Interpret Your Dream!",
+      "relevance": "Avukat figürünü spiritüel ve metafizik düzlemde vicdan, karma, ahlaki denge ve içsel rehberlik temalarıyla okuyan modern bir yorum örneği.",
+      "url": "https://mirrorwithin.com/dream-dictionary/lawyer/"
+    },
+    {
+      "title": "The Lawyer Archetype: Meaning & Symbolism",
+      "relevance": "Avukat sembolünü güç, sınır, savunma ve anlaşmazlık bağlamında yorumlar; rüyada avukatın bu temaları görünür kıldığını anlatan arketipsel bir yorum sunar.",
+      "url": "https://mymythos.org/archetype/lawyer/"
+    },
+    {
+      "title": "Dream About Attorney",
+      "relevance": "Avukat rüyasını danışma ve rehberlik arayışıyla ilişkilendiren bir modern yorum sayfası; sembolün pratik ve koruyucu yönünü öne çıkarır.",
+      "url": "https://evangelistjoshua.com/%E2%81%A0dream-about-attorney/"
+    },
+    {
+      "title": "Goodrich, Peter - Legal Emblems and The Art of Law",
+      "relevance": "Avukatı disiplinli savunma, yetki ve adlandırma ve delillendirme gerilimi içinde okuyan bir sembol tarihi ve hukuk imgeleri kaynağı; rüya yorumundan çok kültürel sembolizm sağlar.",
+      "url": "https://www.scribd.com/document/891890697/Goodrich-Peter-Legal-Emblems-and-the-Art-of-Law-Press-2013"
     }
   ],
   "relatedSlugs": []

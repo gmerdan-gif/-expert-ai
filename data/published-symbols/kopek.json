@@ -1,130 +1,215 @@
 {
   "slug": "kopek",
   "title": "köpek",
-  "shortDescription": "Rüyada köpek görmek sadakat, korunma ve içgüdüsel rehberlikle ilişkilendirilebilir. Sakin bir köpek destek ve güveni, havlayan ya da saldıran bir köpek ise tehdit, öfke veya sınır ihlali endişesini öne çıkarabilir.",
+  "shortDescription": "Rüyada köpek görmek, rüya sahibinin köpekle olan ilişkisine, köpeğin davranışlarına ve rüyanın genel duygusal tonuna bağlı olarak sadakat, korunma, çatışma veya düşmanlık gibi çok katmanlı anlamlar barındıran zengin bir semboldür.",
   "positiveAssociations": [
-    "Sadakat ve bağlılık",
-    "Korunma ve güvenlik",
-    "İçgüdüsel bilgelik",
-    "Rehberlik"
+    "Sadakat",
+    "Koruyuculuk ve güvenlik",
+    "Dostluk ve yakın ilişkiler",
+    "Sezgi ve rehberlik",
+    "Emek karşılığı elde edilen kazanç"
   ],
   "challengingAssociations": [
-    "Düşmanlık ve saldırganlık",
-    "Aşağılık veya dışlanmışlık hissi",
-    "Dünyevi arzulara aşırı bağlanma",
-    "Tehdit ve uyarı algısı"
+    "Açık düşmanlık ve zarar görme riski",
+    "İçgüdüsel dürtüleri kontrol etmekte zorlanma",
+    "Tehdit ve saldırı korkusu",
+    "Gıybet, hakaret veya sorunlu sosyal çevre"
   ],
   "contextDependentAssociations": [
-    "Evcil veya işlevsel köpeklerin rolü (bekçi, avcı, rehber)",
-    "Rüya sahibinin gerçek yaşamda köpeklerle olan deneyimi ve duyguları",
-    "Rüyadaki köpeğin davranışı, sağlığı ve bulunduğu ortam"
+    "Evcil köpek, ev halkı ve mülkle ilişkilendirilebilir.",
+    "Av köpeği, kişinin iş faaliyetleri ve kazançlarıyla ilişkilendirilebilir.",
+    "Köpeğin havlaması veya ısırması olumsuz; kuyruk sallaması ise olumlu olarak okunur."
   ],
   "commonVariations": [
     {
-      "title": "Sadık bir köpekle yürümek",
-      "description": "Rüyada sakin ve sadık bir köpekle yürümek, kişinin içgüdüsel rehberlik ve destek hisleriyle uyumlu olduğunu ve ilişkilerde güven arayışını sembolize edebilir."
+      "title": "Dostça yaklaşan bir köpeği sevmek",
+      "description": "Rüyada kuyruk sallayan, sakin ve dost canlısı bir köpek görmek; uyanık yaşamda güven duygusuna, sadık dostluklara ve huzurlu bir sosyal çevreye işaret edebilir."
     },
     {
-      "title": "Havlayan veya saldıran bir köpek",
-      "description": "Size doğru gelen, havlayan veya ısıran bir köpek, uyanık hayatta hissedilen bir tehdit, bastırılmış öfke veya sınır ihlaliyle ilgili bir uyarı ya da bilinçdışı bir endişe olarak yorumlanabilir."
+      "title": "Saldıran veya havlayan bir köpekten kaçmak",
+      "description": "Üzerine koşan ya da havlayan hırçın bir köpek görmek; uyanık yaşamda hissedilen bir tehdide, çözülmemiş çatışmalara veya dışarıdan gelebilecek olumsuzluklara karşı duyulan kaygıyı yansıtabilir."
     },
     {
-      "title": "Bekçi köpeği görmek",
-      "description": "Bir alanı koruyan bekçi köpek, sınırları koruma ihtiyacı, güvenlik kaygıları veya bilinçdışı sınırların bekçiliğini temsil edebilir."
+      "title": "Av köpeğinin peşinde olmak",
+      "description": "Bir av köpeğinin iz sürmesini veya av yakalamasını görmek; kişinin iş hayatındaki çabalarının, başkalarının emeğinin ve elde edilecek maddi kazançların simgesi olarak değerlendirilebilir."
     },
     {
-      "title": "Uzakta uluyan bir köpek",
-      "description": "Uzaklardan gelen uluma, sezgisel bir uyarı, çevresel bir alamet veya sosyal bağlamda duyulan bir endişe ile bağlantılı olabilir."
+      "title": "Köpek yavrusu beslemek",
+      "description": "Küçük bir köpek yavrusuyla ilgilenmek; yeni sorumluluklar, saf ilişkiler, yakın çevreyle kurulan koruyucu bağlar veya çocukla ilgili gündemlere işaret edebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "Jungcu çerçevede köpek, içgüdüsel yaşam, duygusal destek ve sezgisel yönelimle ilişkilendirilir. Ayrıca bilinç ile bilinçdışı arasında geçişlerde rehberlik eden bir psikopomp işlevi görebilir. Sadakat ve koruyuculuk temaları aracılığıyla bireysel dönüşüm süreçlerinde bir rol oynayabilir.",
-  "islamicTradition": "",
-  "christianTraditions": "Hristiyan metin ve sembolizminde köpek çoğunlukla aşağılık, kirli veya dışlanmış çağrışımlarıyla yer alır; bununla birlikte bazı yorumlarda sadakat ve koruma temaları da öne çıkar. Bu kullanımlar genel dinsel-sembolik çerçeveye aittir ve doğrudan rüya yorumu geleneğiyle aynı şey değildir.",
-  "jewishTraditions": "Talmudik ve Yahudi geleneklerinde köpek davranışları ve sesleri çeşitli alametlerle ilişkilendirilmiştir; bu, köpeğin toplumsal gözlem ve işaretler çerçevesinde değerlendirildiğini gösterir, ancak geniş bir rüya sözlüğü yerine belirli metinsel gözlemlere dayanmaktadır.",
-  "buddhistEasternApproaches": "Budist kaynaklarda köpek bazen cehalet, bağlanma veya öğretinin yanlış anlaşılmasına dair metaforik örnek olarak kullanılır. Zen geleneğinde \"Bir köpeğin Buda doğası var mı?\" sorusu etrafındaki metinler, köpeği öğretisel bir gerilim noktası olarak öne çıkarır; bunlar rüya yorumu değil, doktrinsel/alegorik tartışmalardır.",
-  "spiritualApproaches": "",
+  "psychology": "Ampirik çalışmalar, köpek sahibi olan veya uyanık yaşamında köpeklerle sık etkileşim kuran kişilerin rüyalarında köpekleri daha sık gördüğünü ve genellikle daha olumlu tonlu rüyalar deneyimlediğini gösterir. Buna karşın, uyanık yaşamda köpeklerle ilgili olumsuz deneyimler yaşayan bireylerin rüyalarında tehditkâr köpeklerle karşılaşma oranı daha yüksektir. Hayvan içerikli rüya analizleri, rüyadaki hayvan figürlerinin büyük ölçüde rüya sahibinin kendi içsel eğilimleri, duygusal durumları ve uyanık yaşamındaki deneyimleriyle doğrudan ilişkili olduğunu ortaya koymaktadır.",
+  "jungian": "",
+  "islamicTradition": "Köpeğin tavrı tabiri doğrudan etkiler. Saldırma, havlama veya ısırma genellikle zarar, gıybet ve açık düşmanlıkla ilişkilendirilirken, evcil veya bekçi köpeği sadakat veya menfaat açısından olumlu biçimde yorumlanabilir.",
+  "christianTraditions": "",
+  "jewishTraditions": "Talmudik geleneğe göre, özellikle Berakhot 56b'de, rüyada köpek gören kişiye uyanınca belirli bir Kutsal Kitap ayetini okuması önerilir. Bu bağlamda köpek, rüyalarda tek ve sabit bir anlam taşımaktan ziyade, uyanış anında kutsal metinle karşılanması ve dengelenmesi gereken bir sembol olarak ele alınır.",
+  "buddhistEasternApproaches": "Budist ve Zen geleneklerinde köpek, yaşamın ve varlığın sorgulanmasına aracılık eden bir figür olarak ele alınabilir. Kimi metinlerde cehalet, yanlış anlama ve dünyevi arzulara bağlanmayı simgeleyen bir mecaz olarak yer alırken, bazı anlatılarda ise sadakat, koruyuculuk ve etik dersler taşıyan çok katmanlı bir figür olarak konumlandırılır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda köpek en çok sadakat, koruyuculuk, güven ve rehberlik temalarıyla özdeşleştirilir. Görünür dünya ile görünmeyen alan arasında bir eşik figürü olarak ele alınan köpek rüyaları; sezgisel uyarıları, sınır koyma ihtiyacını, içgüdüsel farkındalığı ve ilişkilerdeki karşılıklı sorumluluk bağlarını yansıtan birer işaret olarak yorumlanır.",
   "comparisonTable": [
     {
-      "approach": "Jungcu Analitik Psikoloji",
-      "interpretation": "Köpek, içgüdüsel bilgelik, duygusal destek ve bilinçdışı ile bilinç arasında rehberlik eden bir psikopomp olarak görülür.",
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Rüya içeriği ile uyanık yaşamdaki köpek deneyimleri arasında süreklilik ilişkisi bulunur; köpek sahipleri daha olumlu tonlu rüyalar görür.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Hayvan imgeleri dürtü, bastırma, yer değiştirme mekanizmalarının ve içgüdüsel çatışmaların taşıyıcısı olarak okunur.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami rüya özetleri (modern kaynaklar)",
-      "interpretation": "Çevrimiçi İslami rüya özetlerinde köpek genellikle düşmanlık, kaba veya utanmaz kişilerle ilişkilendirilir; işlevsel köpekler bazen olumlu kabul edilir.",
+      "approach": "İslami Gelenek",
+      "interpretation": "Genellikle düşman, zarar veya ahlaki sorunlarla ilişkilendirilir; havlama veya ısırma olumsuzluk belirtisiyken, sadık bekçi köpeği menfaat getirebilir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan/Metinsel Sembolizm",
-      "interpretation": "Köpek çoğunlukla dışlanmışlık veya aşağılıkla ilişkilendirilir; bazı bağlamlarda sadakat ve koruma temaları da görülür.",
-      "evidenceLevel": "traditional"
-    },
-    {
-      "approach": "Budist/Doğu Yaklaşımları",
-      "interpretation": "Köpek öğretisel metaforlarda cehalet, bağlanma veya aydınlanma tartışmalarının bir unsuru olarak kullanılır.",
-      "evidenceLevel": "traditional"
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Sadakat, koruyuculuk, içgüdüsel sezgi ve dünya arasında bir eşik/rehber figürü olarak kabul edilir.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Çoğu yaklaşımda köpek, insanla yakın ilişkisinden dolayı hem sadakat, koruma ve rehberlik temalarını hem de tehdit, dışlanmışlık veya ahlaki/psikolojik uyarıları taşıyabilen ikili bir simgedir. Rüyadaki duruma ve rüya sahibinin bağlamına göre hangi yönün öne çıktığı değişir.",
-  "differences": "Jungcu okuma köpeği içsel bir rehber ve psikopomp olarak değerlendirirken, dini-metinsel okumalar köpeği daha çok ahlaki değerlendirmeler, alametler veya öğretisel metaforlar üzerinden ele alır. İslami rüya özetleri ise sıkça düşmanlık veya utanmazlık çağrışımlarını vurgular. Bu özetlerin modern derlemeler olduğu unutulmamalıdır.",
-  "inusAssessment": "Köpeğin davranışı, rüya sahibinin deneyimi ve rüyanın geçtiği ortam gibi ayrıntılar ile kültürel ve dini çerçeve dikkate alınmadığında yapılan tek yönlü yorumlar eksik kalır.",
-  "faq": [],
+  "commonGround": "Farklı gelenekler ve yaklaşımlar, köpeğin rüyadaki varlığının tek tip ve evrensel bir anlama indirgenemeyeceği konusunda birleşir. Gerek psikolojik araştırmalar gerekse geleneksel yorumlar, köpeğin davranış biçiminin ve rüya sahibinin köpekle kurduğu kişisel ilişkinin anlamı belirlemede en kritik unsur olduğunu vurgular.",
+  "differences": "Bilimsel psikoloji köpek rüyalarını uyanık yaşamdaki deneyimler ve bireysel eğilimlerle açıklarken, İslami gelenek düşmanlık, ahlaki uyarılar veya sadakat üzerinden sembolik karşılıklar üretir. Psikanalitik yaklaşım içgüdüsel dürtülerin bastırılmasına odaklanırken, spiritüel yaklaşımlar köpeği koruyucu bir rehber ve eşik figürü olarak ele alır.",
+  "inusAssessment": "Okurun kendi rüyasında köpeğin tavrına — havlaması, kuyruk sallaması veya kendisine eşlik etmesi gibi davranışlara — ve hayvanla kurduğu kişisel ilişkiye odaklanması, rüyanın hangi yönde anlam kazanacağını belirlemede en önemli unsurlardan biridir.",
+  "faq": [
+    {
+      "question": "Rüyada köpek görmek her zaman düşman olarak mı yorumlanır?",
+      "answer": "Hayır. Geleneksel ve psikolojik çerçevelerde köpeğin havlaması veya saldırması düşmanlık veya tehdit olarak okunabilirken, dostça yaklaşan, kuyruk sallayan veya evcil olan köpekler sadakat, dostluk ve güven duygusuyla ilişkilendirilir."
+    },
+    {
+      "question": "Köpek sahibi olmak köpek rüyalarını nasıl etkiler?",
+      "answer": "Ampirik çalışmalar, uyanık yaşamda köpeklerle yakın ilişkisi olan kişilerin rüyalarında köpekleri daha sık gördüğünü ve genellikle daha olumlu tonlu rüyalar deneyimlediğini göstermektedir."
+    }
+  ],
   "sources": [
     {
-      "title": "DOG SYMBOLISM IN DREAMS: Companions, Protectors ...",
-      "relevance": "Jungcu perspektiften köpek sembolünü içgüdü, sezgi ve psikopomp işlevi bağlamında tartışır.",
-      "url": "https://thisjungianlife.com/dog-symbolism-in-dreams/"
+      "title": "Dreaming about Dogs: An Online Survey - PMC - NIH",
+      "relevance": "Köpeklerin rüyalarda nasıl göründüğünü, köpek sahipliği ve köpeğe yönelik deneyimlerle ilişkisini inceleyen çevrimiçi anket çalışması.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7603358/"
     },
     {
-      "title": "Canis lupus familiaris. Symbolika psa w historii, sztuce i literaturze – zarys problematyki",
-      "relevance": "Köpeğin tarih boyunca sadakat, cesaret ve kimi zaman olumsuz ahlaki çağrışımlarla birlikte ele alınmasını özetler.",
-      "url": "https://ojs.tnkul.pl/index.php/rh/article/view/16062"
+      "title": "Dreams with animals in psychotherapeutic pro- cess",
+      "relevance": "Rüyalardaki hayvan imgelerinin içerik analizi ve bu imgelerin rüya sahibinin eğilimleriyle ilişkisi üzerine çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/83826/82597/234814"
     },
     {
-      "title": "Dogs, Past and Present: An Interdisciplinary Perspective",
-      "relevance": "Köpeğin insan topluluklarındaki tarihsel, duygusal ve simgesel konumunu disiplinlerarası bir çerçevede sunar.",
-      "url": "https://library.oapen.org/bitstream/handle/20.500.12657/77201/1/external_content.pdf"
+      "title": "THE INTERPRETATION OF DREAMS",
+      "relevance": "Freud’un rüya çalışmasında hayvan imgeleri, bastırma ve yer değiştirme bağlamında okunabilecek temel psikanalitik çerçeveyi sağlar.",
+      "url": "https://idr.uin-antasari.ac.id/468/1/The_Interpretation_of_Dreams_-_Sigmund_Freud.pdf"
     },
     {
-      "title": "Socio‐economic evaluation of human–dog coexistence: A 40,000 years history",
-      "relevance": "İnsan-köpek birlikteliğinin uzun tarihsel sürecinde köpeğin ritüel, statü ve sembolik rollerini ele alır.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11464907/"
+      "title": "Animal dreams in a long dream series",
+      "relevance": "Hayvan rüyalarının tarihsel ve yorumlayıcı bağlamını gösteren akademik inceleme, rüyalarda hayvan imgesinin genel sembolik işlevine ışık tutar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/9609/pdf_38/13914"
     },
     {
-      "title": "Dogs Islamic Interpretations & Meanings",
-      "relevance": "Modern çevrimiçi İslami rüya özetlerinde köpeğin düşmanlık veya olumsuz kişiliklerle ilişkilendirildiğine dair yaygın bir derlemeyi sunar.",
-      "url": "https://www.myislamicdream.com/dogs.html"
+      "title": "El vínculo humano-perro en Freud",
+      "relevance": "Freud’un metinlerinde köpek ve köpekle ilişkili rüya sahnelerinin nasıl yorumlandığını tartışan akademik çalışma, köpek imgesini Freudcu okuma içinde konumlandırır.",
+      "url": "https://revistas.unlp.edu.ar/revpsi/article/download/14738/13863"
     },
     {
-      "title": "Animals Dreams — 141 Islamic Interpretations | Dream Wisdom",
-      "relevance": "İslami rüya kategorilerinde köpeğin kimi zaman küstah, utanmaz veya günahkâr kişilerle ilişkilendirildiğini özetleyen modern bir derlemedir.",
-      "url": "https://www.dream-wisdom.com/en/dreams/category/Animals/"
+      "title": "Sigmund Freud and His Love of Dogs",
+      "relevance": "Freud’un yaşamında köpeklerle kurduğu yakınlık ve bunun psikanalitik çevrelerde anılması, köpek imgesinin Freudcu bağlamda ele alınmasına kültürel arka plan sağlar.",
+      "url": "https://www.virtualpsychoanalyticmuseum.org/winnies-gallery/sigmund-freud-and-his-love-of-dogs/"
     },
     {
-      "title": "Dogs in Biblical Context: A Comparative Insight | Digital Bible",
-      "relevance": "Hristiyan metin ve sembolizminde köpeğin genellikle olumsuz çağrışımlarla kullanıldığını özetleyen bir kaynaktır.",
-      "url": "https://digitalbible.ca/article-page/modern-topics-what-does-the-bible-say-about-dogs"
+      "title": "The Natural World | An Ancient Dream Manual - Oxford Academic",
+      "relevance": "Artemidorus’un rüya kitabında evcil hayvanların genel yorumu ve köpeklerin aile-dost çevresiyle ilişkisi için ana metin.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
     },
     {
-      "title": "Dogs in Christian Symbolism - Depthdogguide -",
-      "relevance": "Hristiyan sembolizminde köpeğe atfedilen sadakat, koruma ve zaman zaman dışlayıcılık temalarını derleyen bir incelemedir.",
-      "url": "https://depthdogguide.com/dog-history/dogs-in-christian-symbolism/"
+      "title": "DREAMING ABOUT ANIMALS",
+      "relevance": "Artemidorus’ta köpek rüyalarının ev halkı, eş, mülk ve av/iş ilişkileri üzerinden nasıl ayrıştırıldığını ayrıntılandıran akademik çalışma.",
+      "url": "https://www.etd.ceu.edu/2018/vujnovic_milica.pdf"
     },
     {
-      "title": "Watchdog of Israel - סגולה - Segula Jewish History Magazine",
-      "relevance": "Talmudik metinlerde köpek davranışlarının nasıl alamet olarak okunabildiğine dair örnekler sunar.",
-      "url": "https://segulamag.com/en/watchdog-of-israel/"
+      "title": "[PDF] Dog - Susan McHugh - National Academic Digital Library of Ethiopia",
+      "relevance": "Köpeğin antik anlatı ve kültürel sembolizmde eşik, koruma ve insan-toplum ilişkileriyle bağlantısını tartışan kültürel ve tarihsel arka plan.",
+      "url": "http://ndl.ethernet.edu.et/bitstream/123456789/39380/1/Susan%20McHugh_2004.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un köpeklerle ilgili rüya pasajlarının çevrimiçi çevirisi; yorumun köpeğin davranışı ve bağlamına göre değiştiğini gösteren birincil metin erişimi.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "[PDF] İbni Sîrîn'den Tercüme Edilen Bir Rüya Tabîr-Nâmesi - SADAB",
+      "relevance": "Köpek sembolünü rüyada düşmanlık ve düşmana üstün gelme bağlamında ele alan metin.",
+      "url": "https://makale.isam.org.tr/server/api/core/bitstreams/c513adc0-7e40-4fcb-930b-660b5bc70fa0/content"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri - Nedir? Nasıl yapılır? Ne demektir?",
+      "relevance": "Köpek için düşman, nefis, sadık dost, çoban köpeği ve köpek yavrusu gibi geleneksel karşılıkları toplu halde sunar.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/imam-nablusi-ruya-tabirleri/page/2/"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Köpek başına dönüşmek gibi biçim değişikliklerini rüya tabirleri içinde sıkıntı ve meşakkatle ilişkilendirir.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Dogs - Topical Bible",
+      "relevance": "Köpeğin Kutsal Kitap içindeki sembolik kullanımını ve Hristiyan bağlamda olumsuz çağrışımlarını topluca gösterir; rüya yorumu için doğrudan doktrin vermese de sembolün teolojik arka planını aydınlatır.",
+      "url": "https://biblehub.com/topical/d/dogs.htm"
+    },
+    {
+      "title": "Berakhot 56b | The Sefaria Library",
+      "relevance": "Rüyada köpek görülmesi için doğrudan Talmudik yönlendirmeyi içerir; köpek sembolünün Yahudi rüya geleneğindeki en açık birincil tanıklıklarından biridir.",
+      "url": "https://www.sefaria.org/Berakhot.56b"
+    },
+    {
+      "title": "Berakhot 56 - Hadran",
+      "relevance": "Rüyada köpek gören kişinin söylemesi istenen ayeti ve bununla bağlantılı alternatif ayeti gösterir; köpek rüyasının rabbanî bağlamını doğrudan aydınlatır.",
+      "url": "https://hadran.org.il/daf/berakhot-56/"
     },
     {
       "title": "Does a Dog Have Buddha Nature?",
-      "relevance": "Zen geleneğindeki 'köpeğin buda-doğası' sorusu ve bunun öğretisel anlamı üzerine tartışmaları aktarır.",
+      "relevance": "Zen geleneğinde “köpek” ve Buddha doğası sorusunu doğrudan ele alan koan anlatımı; köpeğin Budist düşüncede sorgulayıcı ve sembolik rolünü gösterir.",
       "url": "https://hearstmuseum.berkeley.edu/exhibit/dog-buddha-nature/"
     },
     {
       "title": "Dog: Significance and symbolism",
-      "relevance": "Budist ve daha geniş kültürel bağlamlarda köpeğin cehalet, bağlanma ve sembolik kullanımlarına dair derlemeler sunar.",
+      "relevance": "Budist bağlamda köpeğin cehalet, yanlış anlama ve dünyevi arzulara bağlanma ile ilişkilendirildiğini özetleyen sembolik açıklama.",
       "url": "https://www.wisdomlib.org/concept/dog"
+    },
+    {
+      "title": "[PDF] Gone to the dogs in ancient India - Zobodat",
+      "relevance": "Eski Hint ve Budist anlatı dünyasında köpekle ilgili tarihsel ve kültürel kullanımları tartışan akademik çalışma.",
+      "url": "https://www.zobodat.at/pdf/Sitz-Ber-Akad-Muenchen-phil-hist-Kl_2006_0001-0135.pdf"
+    },
+    {
+      "title": "International Journal of Advance Study and Research Work (2581-5997)/ Volume 2/Issue 9/September 2019",
+      "relevance": "Budist anlatılarda köpeklerin etik dersler, sadakat ve önceki yaşam öyküleriyle ilişkilendirilmesine dair modern akademik tartışma.",
+      "url": "https://www.ijasrw.com/pdf/Finalorg/2019/5_Sep19.pdf"
+    },
+    {
+      "title": "Dreaming about Dogs: Interpretation & Spiritual Meaning",
+      "relevance": "Köpeğin rüyalarda sadakat, korunma ve rehberlik temalarıyla ele alındığı modern spiritüel yorum.",
+      "url": "https://www.karmaweather.com/mysticism/dreams/dog-dream"
+    },
+    {
+      "title": "Dog in Dreams: Meaning & Symbolism (Jungian, Freudian, Vedic ...",
+      "relevance": "Köpek rüyasını Jungcu, Freudyen ve daha geniş sembolik katmanlarla birlikte ele alan modern ezoterik özet.",
+      "url": "https://ihadthisdream.com/symbols/d/dog/"
+    },
+    {
+      "title": "A Calm Or Friendly Dog",
+      "relevance": "Köpeğin rüyalarda sadakat, koruma ve ruhsal rehberlik anlamlarıyla yorumlandığı modern spiritüel derleme.",
+      "url": "https://spiritanimalatlas.com/dream/dog"
+    },
+    {
+      "title": "5 Spiritual Meanings Behind Dreaming About Dogs | mindbodygreen",
+      "relevance": "Köpek rüyasını ilişkiler, sadakat ve koruma başlıklarıyla işleyen modern spiritüel içerik.",
+      "url": "https://www.mindbodygreen.com/articles/spiritual-meaning-of-dogs-in-dreams"
+    },
+    {
+      "title": "Dog Dream Meaning & Interpretation - Mirror",
+      "relevance": "Köpek sembolünü sezgi, sadakat, koruma ve bilinçdışına açılan bir eşik gibi yorumlayan modern ezoterik sayfa.",
+      "url": "https://mirrorwithin.org/dream-dictionary/dog/"
+    },
+    {
+      "title": "Dog in dreams — meaning and symbolism",
+      "relevance": "Köpeğin ezoterik okumada enerji koruyucusu, sadık rehber ve iç-dış dünya arasında eşik figürü olarak ele alınması.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/dog"
     }
   ],
   "relatedSlugs": []

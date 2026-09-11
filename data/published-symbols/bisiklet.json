@@ -1,84 +1,219 @@
 {
   "slug": "bisiklet",
   "title": "bisiklet",
-  "shortDescription": "Rüyada bisiklet görmek, kendi çabanızla ilerlemeyi, denge kurmayı ve yönünüzü bulmayı simgeler. Sürüşün kolaylığı, yolun durumu ve hisleriniz; özgürlük, engeller veya kontrol duygusuyla ilgili ipuçları verebilir.",
+  "shortDescription": "Rüyada bisiklet, iki tekerlekli, pedallı yapısıyla denge, ritim ve kendi gücüyle ilerlemeyi çağrıştıran, modern yaşamın hareketlilik temalarıyla örtüşen dinamik bir semboldür.",
   "positiveAssociations": [
-    "Kişisel çabayla ilerleme ve yol alma",
-    "Bireysel bağımsızlık ve özgürlük hissi",
-    "Denge kurma ve yön tayin etme becerisi",
-    "Modern yaşam içinde kendi gücüne güvenme"
+    "Kendi çabası ve bedensel yeteneklerin uyumuyla adım adım ilerleme; öğrenme ve beceri kazanımı",
+    "Kişisel tempo ve ritmi bulma; günlük yaşamın akışını düzenleme becerisi",
+    "Bağımsızlık duygusu, günlük hareketlilik ve özgürleşme hissi (özellikle tek başına sürülen veya kişinin kendi bisikletine sahip olduğu rüyalarda)",
+    "Sürdürülebilir, emek-temelli ilerleme: kısa, düzenli çabaların birikimli sonucu olarak görülebilecek somut kazanımlar (bazı modern yorumlarda maddi iyileşme çağrışımıyla eşleştiriliyor)"
   ],
   "challengingAssociations": [
-    "Dengeyi kaybetme veya yoldan sapma kaygısı",
-    "Tek başına çaba göstermenin getirdiği yorgunluk",
-    "Mekanik bir araç üzerinde kontrolü sağlama baskısı",
-    "İlerleme sürecinde karşılaşılan engeller"
+    "Denge kaybı, düşme veya frenlerin işlemediği durumlara bağlı kontrol kaygısı",
+    "Sürekli çaba gerektiren yokuşlar veya zincir/lastik arızası gibi beklenmedik aksaklıklar nedeniyle tükenmişlik hissi",
+    "Yalnızca kendi gücüne dayanmanın getirdiği izolasyon veya destek eksikliği kaygısı",
+    "Pedal ritmiyle uyumsuzluk—içsel dürtülerle dışsal talepler arasındaki gerilim"
   ],
   "contextDependentAssociations": [
-    "Bisikletin hızı ve sürüş kolaylığı",
-    "Sürüş yapılan yolun durumu ve çevresel koşullar",
-    "Rüya sahibinin aracı kullanırken hissettiği duygusal durum"
+    "Bisikleti öğrenme süreci (ilk kez binmek, destek tekerlekleriyle olmak): gelişme, öğrenme ve beceri edinme temasını güçlendirir.",
+    "Bisikletin türü (tandem, çocuk bisikleti, elektrikli bisiklet): tandem beraberlik ve ortak yönelim; çocuk bisikleti geçmişe veya yeterlilik eksikliğini çağrıştırabilir; elektrikli bisiklet daha az bedensel çabayla ilerleme çağrıştırır.",
+    "Aracın durumu (zincir kopması, lastik patlaması, frenlerin tutmaması): dışsal engellere, kontrol kaybına ya da planların aksamasına işaret edebilir.",
+    "Sürüş mekânı (kalabalık sokak, boş yol, patika, yokuş yukarı/aşağı): sosyal baskı, yalnızlık/özgürlük hissi veya yaşamın zorluk/akış düzeyi hakkında ipucu verir.",
+    "Rüya içindeki hız ve pedal ritmi: hızlı, kontrolsüz sürüş acele/kaygı; dengeli ritim ise uyum ve kontrollü ilerleme çağrıştırır.",
+    "Bir başkasının bisikleti sürmesi veya sizinle tandem sürmesi: sorumluluk paylaşımı, ilişkisel dinamikler veya başkasının yön verme eğilimi hakkında sembolik bilgi sunar."
   ],
   "commonVariations": [
     {
-      "title": "Yokuş yukarı bisiklet sürmek",
-      "description": "Günlük yaşamda veya hedeflere ulaşma sürecinde artan fiziksel ve zihinsel çabayı, karşılaşılan dirençleri simgeler."
+      "title": "Yokuş Yukarı Bisiklet Sürmek",
+      "description": "Yüksek çaba gerektiren hedefler, dirençle karşılaşma ve yetenek ile gerekli çaba arasındaki dengeyi vurgular; rüyanın duygusal tonu yorumda belirleyicidir."
     },
     {
-      "title": "Freni tutmayan bisikletle gitmek",
-      "description": "Hayatın bazı alanlarında hızı kontrol etmekte zorlanma, olaylar karşısında duramama veya kontrolden çıkma hissini yansıtır."
+      "title": "Bisikletin Dengesini Kaybetmesi",
+      "description": "Günlük yaşamda kontrolün sarsılması korkusunu, karar alma dengelerindeki kırılganlığı ve dürtü-düzenleme sorunlarına dair bilinçaltı uyarılarını yansıtabilir."
     },
     {
-      "title": "Kalabalık yolda bisiklet sürmek",
-      "description": "Sosyal çevre, toplumsal beklentiler veya modern hayatın karmaşası içinde kendi yönünü bulma çabasını gösterir."
+      "title": "Kalabalık Yolda Bisiklet Sürmek",
+      "description": "Toplumsal etkileşimler içinde kendi yönünü koruma mücadelesi; sosyal ritimlere uyum sağlama ya da kendine özgü tempoyu sürdürme ikilemi."
     },
     {
-      "title": "Boş ve sakin yolda bisiklet sürmek",
-      "description": "Bireysel bağımsızlık, huzurlu bir ilerleyiş ve kendi kararlarını kendi gücüyle alma arzusunu ifade eder."
+      "title": "Yokuş Aşağı Hızla İlerlemek",
+      "description": "Kontrolün azalmasıyla birlikte akışa kapılma, sorumluluk devri ya da belirli dürtusal enerjilerin serbest kalması hissini ima edebilir."
     }
   ],
-  "psychology": "",
+  "psychology": "Mevcut psikanalitik ve modern yorumlar bisiklet rüyasını özellikle pedallama ritmi, bedensel hareket ve denge üzerinden okur; bu çerçevede pedala basma eylemi dürtü enerjisinin düzenlenmesi, bedensel haz ve kontrol çabasıyla ilişkilendirilir. Ancak doğrudan ampirik psikoloji araştırmaları sınırlıdır; bu tür okumalar teorik ve metaforik düzeydedir.",
   "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Farklı disiplinler ve yaklaşımlar, bisikletin insan iradesi ve fiziksel çaba ile doğrudan ilişkili dinamik bir nesne olduğu konusunda birleşir.",
-  "differences": "Tarihsel ve kültürel incelemeler nesnenin toplumsal dönüşümdeki rolüne odaklanırken, modern rüya yorumları daha çok bireysel denge ve ilerleme temalarına ağırlık verir.",
-  "inusAssessment": "Bisiklet sembolü, klasik dini veya köklü geleneksel rüya tabiri kaynaklarında doğrudan yer almaz; bunun yerine ağırlıklı olarak modern dönemin teknolojik, kültürel ve bireysel deneyimleri üzerinden anlam kazanır. Bu nedenle rüya analizinde tek tip ve kesin bir yorum yerine, bireyin kendi çabası, yaşamındaki denge ve ilerleme arayışı bağlamında ele alınmalıdır.",
-  "faq": [
+  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında doğrudan \"bisiklet\" maddesi yoktur; modern İslami yorumlarda ise bisiklet genellikle genel binek/araç sembolizmi bağlamında ele alınarak hedefe ulaşma ve bazı popüler sayfalarda maddi sıkıntıların hafiflemesi gibi temalarla ilişkilendirilmektedir. Bu tür atıflar klasik kaynaklarla doğrudan doğrulanmamaktadır.",
+  "christianTraditions": "Modern Hristiyan yorumlayıcı çevrelerde bisiklet, manevi yolculuk, sorumluluk taşıma ve denge temaları etrafında okunur; olumlu bağlamlarda aile veya destekle ilişkilendirilirken, olumsuz bağlamlarda ise lütuf yerine yalnızca kendi çabasına güvenme eğilimine dikkat çekilir. Bu okumalar çağdaş yorumlar olarak sunulmalıdır.",
+  "jewishTraditions": "Yahudi çağdaş yazılarında bisiklet, ilerlemenin küçük, ardışık adımlarla gerçekleşmesi fikri ve tekerlek imgeleriyle ilişkilendirilebilir; bunlar doğrudan rüya-doktrini değil, temkinli sembolik bağlantılardır.",
+  "buddhistEasternApproaches": "Budist bağlamda bisikletin tekerlekleri ve kendi gücüyle ilerleme fikri, orta yol, dikkatli çaba ve ritim temalarıyla örtüşür; doğrudan klasik Budist rüya metinlerinde güçlü örnekler bulunmamakla birlikte tekerlek sembolizmi (Dharma çarkı) bağlamsal bir arka plan sağlar.",
+  "spiritualApproaches": "Modern spiritüel okumalar bisikleti akış ile çaba arasındaki denge, kişisel tempo ve bilinçli ilerleme simgesi olarak ele alır; ezoterik açıklamalar bisikleti sabırlı, düzenli ilerlemenin ve denge korumanın pratiği olarak yorumlar.",
+  "comparisonTable": [
     {
-      "question": "Bisiklet görmek klasik rüya tabirlerinde yer alır mı?",
-      "answer": "Bisiklet, klasik dini rüya tabiri kaynaklarında doğrudan yer alan köklü bir sembol değildir; daha çok modern dönemin kültürel ve bireysel bir nesnesi olarak anlam taşır."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Pedallama ritmi, bedensel denetim ve dürtü yönetimi üzerinden bireysel enerji düzenlemesine, haz ve denetim temasına odaklanır.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Rüyada bisiklet sürmek neyi temsil eder?",
-      "answer": "Genel olarak bireysel çaba, kendi gücüyle ilerleme, denge kurma ve yaşam yolunda yön bulma süreçleriyle ilişkilendirilir."
+      "approach": "Tarihsel-Kültürel Okuma",
+      "interpretation": "Bisikleti modernlik, özgürlük, hareketlilik ve toplumsal statü bağlamında değerlendirir; rüyalarda bu sosyal çağrışımlar belirleyici olabilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel/Yeni Çağ Yaklaşımı",
+      "interpretation": "Kişisel tempo, yaşam ritmi ve dengeli ilerleme metaforları ön plana çıkar; bisiklet meditasyonu ve günlük pratiklerle bağlantılı olarak okunur.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşım bisikleti hareket, denge ve sürdürülebilir ilerleme ekseninde yorumlar; pedallama/tekerlek imgesi ortak bir metaforik zemin sağlar.",
+  "differences": "Psikanalitik okumalar daha çok içsel dürtü-düzenleme ve bedensel ritim üzerine yoğunlaşırken, tarihsel-kültürel ve spiritüel okumalar dışsal yönelimler, özgürlük, toplumsal rol ve bilinçli yaşam temposu vurgular.",
+  "inusAssessment": "Bisikletin türü, rüya içindeki işlevi (ör. öğrenme, yarışma, kaçış), aracın teknik durumu ve rüyanın duygusal tonu birleşerek sembolün hangi yaşam alanına işaret ettiğini belirten kritik bileşenlerdir.",
+  "faq": [
+    {
+      "question": "Rüyada bisiklet görmekte en çok hangi ayrıntılara dikkat etmeliyim?",
+      "answer": "Bisikletin türü, sizin bisikleti kullanıp kullanmadığınız, sürüşün ritmi ve duygusu, bisikletin mekânı (trafik/boş yol) ve aracın teknik durumu (frenler, zincir, lastik) en anlamlı ipuçlarını verir."
+    },
+    {
+      "question": "Bisikletin freninin tutmadığını görmek neyi ifade edebilir?",
+      "answer": "Genellikle kontrol kaybı ve hızla değişen koşullar karşısındaki endişeye işaret eder; frenin neden tutmadığı (kablo arızası, bakım eksikliği vb.) rüyanın hangi alanda kontrol sorunu olduğunu daraltmaya yardımcı olur."
     }
   ],
   "sources": [
     {
-      "title": "The bicycle as a symbol of lifestyle, status and distinction. A ...",
-      "relevance": "19. yüzyıl sonu Avrupa’sında bisikletin statü, ayrım ve modern eğlence nesnesi olarak kültürel konumunu açıklar.",
+      "title": "Bicycle",
+      "relevance": "Pedallama ritmi ve denge üzerinden Freudyen çağrışımlar kuran modern bir yorum; bisikletin bedensel ritimle ilişkilendirilebileceğini gösterir.",
+      "url": "https://rosmertapublishing.com/dream-symbols/bicycle/"
+    },
+    {
+      "title": "What Does It Mean to Dream About a Bicycle? - Night Omen",
+      "relevance": "Bisiklet rüyasını pedallama, cinsel enerji ve kontrol kaygısı bağlamında ele alan modern psikanalitik tarzda bir açıklama.",
+      "url": "https://nightomen.com/what-does-it-mean-to-dream-about-a-bicycle/"
+    },
+    {
+      "title": "Traumdeutung: Fahrrad | Traummaschine",
+      "relevance": "Almanca kaynak; Freudçu çerçevede bisiklet sürmeyi dürtü enerjisinin düzenlenmesi ve dengeyle ilişkilendirir.",
+      "url": "https://traummaschine.com/traumlexikon/traumdeutung/fahrrad"
+    },
+    {
+      "title": "Bicycle Dream Meaning & Interpretation - Mirror",
+      "relevance": "Bisikleti libido enerjisi ve bedensel denetim bağlamında okuyan modern bir psikanalitik yorum metni.",
+      "url": "https://mirrorwithin.org/dream-dictionary/bicycle/"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Rüyada bisiklet sürmeyi ritim, beden kontrolü ve dürtüsel enerji açısından yorumlayan modern bir metin.",
+      "url": "https://mirrorwithin.org/dream-dictionary/riding-a-bicycle/"
+    },
+    {
+      "title": "[PDF] The bicycle as a symbol of lifestyle, status and distinction. A cultural ...",
+      "relevance": "Bisikletin tarihsel olarak modernlik, statü ve yaşam tarzı bağlamındaki kültürel çağrışımlarını ortaya koyan akademik çalışma.",
       "url": "https://depositonce.tu-berlin.de/bitstreams/0e8863ac-4731-4374-acc7-d99dc98e89e3/download"
     },
     {
+      "title": "[PDF] Open Access - Goldsmiths Research Online",
+      "relevance": "Bisikletin sanat ve edebiyatta kültürel nesne olarak incelenmesine dair bir akademik çerçeve sunar.",
+      "url": "https://research.gold.ac.uk/id/eprint/33230/1/Cycling%20and%20Cinema_book.pdf"
+    },
+    {
       "title": "UC Davis",
-      "relevance": "Bisikletin sosyalizm, anarşizm, feminizm, ilerleme ve modernlik ile tarihsel ilişkilerini özetler.",
+      "relevance": "Bisikletin tarihsel olarak sosyalizm, anarşizm, feminizm, ilerleme ve modernlikle ilişkilendirildiğini özetler.",
       "url": "https://bikeleague.org/wp-content/uploads/2023/03/qt37s8b56q.pdf"
     },
     {
-      "title": "The Bicycle: Towards a Global History by Paul Smethurst (review)",
-      "relevance": "Bisikletin bedenle yakın ilişkisini, insan gücünü uzatan bir mekanik araç olarak modern deneyimi nasıl simgelediğini tartışır.",
-      "url": "https://muse.jhu.edu/article/628311/summary"
+      "title": "Cycling through Space and Time - HKU",
+      "relevance": "Bisikletin kültürel temsillerde sanat ve edebiyatla ilişkisini gösterir.",
+      "url": "https://www4.hku.hk/pubunit/Bulletin/2013_Feb_Vol.14_No.2/books/page2.html"
     },
     {
-      "title": "The Wonder That Was the Bicycle: Notes on the Vernacularised Lives of Two-Wheelers in Colonial Bengal (1890s–1920s)",
-      "relevance": "Kolonyal Bengal’de bisikletin küresel teknoloji ve modernliğinin yerel anlamlara dönüştüğü bir kültürel sembol olarak ele alındığını tartışır.",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/00856401.2026.2652480"
+      "title": "9781137499516_3",
+      "relevance": "Bisiklet hareketinin denge, ivme ve bedensel kontrolle ilişkisini kültürel bağlamda açıklar.",
+      "url": "https://www.scribd.com/document/690261209/9781137499516-3"
+    },
+    {
+      "title": "Culture on Two Wheels: The Bicycle in Literature and Film",
+      "relevance": "Bisikletin modernlik, özgürlük, direniş ve çevresel değerlerle ilişkilendirilen kültürel tarihini ele alır.",
+      "url": "https://muse.jhu.edu/book/45815/"
+    },
+    {
+      "title": "A SOCIAL mSTORY OF",
+      "relevance": "Bisikletin toplumsal kullanım tarihini özgürlük, hareketlilik, beceri ve statü ekseninde açıklar.",
+      "url": "https://core.ac.uk/download/pdf/35461979.pdf"
+    },
+    {
+      "title": "Learn about the interpretations of seeing a bicycle in a dream by Ibn Sirin - the interpretation of dreams",
+      "relevance": "Modern kaynaklı bir aktarım; bazı İslami yorumlarda bisikletin genel binek/araç sembolizmi üzerinden hedefe ulaşma ve kazanç çağrışımıyla ilişkilendirilebildiğini gösterir.",
+      "url": "https://en.joellemena.com/Interpretation-of-dreams-by-Nabulsi-and-Ibn-Sirin/Dreams-of-Ibn-Sirin/bike-in-a-dream/"
+    },
+    {
+      "title": "What Does Dreaming About Bicycle Mean? - Rüya Tabirleri",
+      "relevance": "İslami rüya yorumunda bisikletin klasik kaynaklarda doğrudan geçmediğini ve genel binek/seyahat sembolizmiyle yorumlandığını söyleyen modern bir açıklama.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-a-bicycle"
+    },
+    {
+      "title": "Rüyada Bisiklete Binmek",
+      "relevance": "Bisiklete binmeyi maddi sıkıntıların bitmesiyle ilişkilendiren modern rüya tabiri sayfası.",
+      "url": "https://www.diyadinnet.com/ruyada-1880-bisiklet-binmek-gormek"
+    },
+    {
+      "title": "Ask and You Shall Receive - Apostle David E. Taylor ...",
+      "relevance": "Bisikletin rüyada nasıl yorumlandığına dair doğrudan Hristiyan yorumu sunar; olumlu ve olumsuz anlam çiftini açıkça listeler.",
+      "url": "https://joshuamediaministries.org/dreams/bicycle/"
+    },
+    {
+      "title": "Bicycle dream meaning | Biblical Dream Meanings | BibleStep",
+      "relevance": "Bisikleti İncil’deki yolculuk, denge, sorumluluk ve ilahi yönlendirme motifleriyle ilişkilendiren Hristiyan sembolik okuma sunar.",
+      "url": "https://biblestep.com/dreams/bicycle-dream-meaning"
+    },
+    {
+      "title": "Vehicles - Dream Symbols Dictionary - Apostle David E. ...",
+      "relevance": "Bisikletin manevi ilerleme, ilişkide yer alan kişiler ve kendi gücüyle sorunları çözmeye çalışma gibi anlamlarla ilişkilendirildiği Hristiyan rüya sözlüğü kaydıdır.",
+      "url": "https://joshuamediaministries.org/dream-interpretation/dream-symbols-dictionary/vehicles/"
+    },
+    {
+      "title": "How Does a Bike Relate to Judaism? - Chabad.org",
+      "relevance": "Yahudi çağdaş yazılarında bisikletin adım adım ilerleme fikriyle ilişkilendirilebileceğine dair temkinli bir sembolik bağlantı sunar.",
+      "url": "https://www.chabad.org/blogs/blog_cdo/aid/1561595/jewish/How-Does-a-Bike-Relate-to-Judaism.htm"
+    },
+    {
+      "title": "Spiritual Significance of Bicycle Angels on Yom Kippur | Mel ...",
+      "relevance": "Bisiklet ile ofanim arasındaki ses benzerliği üzerinden Yahudi sembolik çağrışım kurar.",
+      "url": "https://blogs.timesofisrael.com/spiritual-significance-of-bicycle-angels-on-yom-kippur/"
+    },
+    {
+      "title": "The Blogs: Of bikes and angels",
+      "relevance": "Ofnai’im ve ofanim yazımı/okunuşu üzerinden bisikletin tekerlek ve hareket sembolizmiyle ilişkilendirilmesini gösterir.",
+      "url": "https://blogs.timesofisrael.com/of-bikes-and-angels/"
+    },
+    {
+      "title": "WHEEL FOR LOCOMOTIVE WELLNESS: INTERPRETATION OF ...",
+      "relevance": "Tekerlek imgesinin Budist öğreti ve Dharma çarkı bağlamında nasıl düşünülebileceğine dair akademik tartışma; bisikletin tekerlek yapısına bağlamsal destek sağlar.",
+      "url": "https://so04.tci-thaijo.org/index.php/JSBA/article/view/255706"
+    },
+    {
+      "title": "Dharmachakra - Encyclopedia of Buddhism",
+      "relevance": "Dharma çarkının Buda’nın öğretilerini temsil eden tekerlek sembolü olduğunu açıklıyor.",
+      "url": "https://encyclopediaofbuddhism.org/wiki/Dharmachakra"
+    },
+    {
+      "title": "Cycling in Dreams: Momentum, Balance, and Where Your Effort is ...",
+      "relevance": "Modern spiritüel yorum örneği; bisiklet rüyasını ivme, denge ve kişisel tempo açısından ele alır.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/cycling"
+    },
+    {
+      "title": "Bicycle Dreams: Balance, Momentum, and Finding Your Pace",
+      "relevance": "Bisiklet sembolünü kişisel tempo, denge ve ilerleme üzerinden açıklayan kısa spiritüel materyal sağlıyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/bicycle"
+    },
+    {
+      "title": "Bicycle, Bike Symbolism in Signs, Dreams, and Meditations |",
+      "relevance": "Bisikleti işlevsel sembolizm açısından; denge, ritim, ilerleme ve kendi hızında hareket etme başlıklarıyla ilişkilendiriyor.",
+      "url": "https://mandorlaacademy.com/bicycle-symbolism/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "psychoanalytic",
+    "islamic",
+    "christian",
+    "buddhist-eastern"
+  ]
 }

@@ -1,103 +1,248 @@
 {
   "slug": "cicek",
   "title": "çiçek",
-  "shortDescription": "Rüyada çiçek görmek, bir duygu, ilişki ya da potansiyelin ortaya çıkmasını; güzelliği ve geçiciliği çağrıştırabilir. Taze, açmış çiçekler gelişim ve takdirle; solmuş çiçekler ise zamanın geçişi, kayıp ya da tükenen enerjiyle ilişkilendirilebilir.",
+  "shortDescription": "Rüyada çiçek görmek, büyüme, duygusal açılım, yenilenme ve hayatın geçiciliğiyle ilişkilendirilebilir. Canlı ve açmış çiçekler neşe ve gelişimi, solmuş veya mevsimi dışında görülen çiçekler ise geçicilik, kaçırılmış fırsatlar ya da dönemsel sıkıntıları öne çıkarabilir.",
   "positiveAssociations": [
-    "Anlık (geçici) güzellik ve estetik değerin somutlaşması.",
-    "Çiçeğin açılması, ortaya çıkış, verimlilik veya ilişkinin göstergesi olabilir.",
-    "Törensel sunumlarda saygı, onur ya da bağlılık ifadesi.",
-    "Bazı türlerde (ör. nilüfer) geleneksel olarak saflıkla ilişkilendirilir."
+    "güzellik",
+    "sevinç",
+    "yenilenme",
+    "umut",
+    "rızık",
+    "dostluk",
+    "şifa"
   ],
   "challengingAssociations": [
-    "Solma, kuruma veya çürüme yoluyla zamanın geçişi ve kayıp hissi.",
-    "Çiçeğin kırılganlığı üzerinden algılanan geçicilik ve korunma gereksinimi.",
-    "Psikodinamik çerçevelerde bazı durumlarda kadınsılık, erotik arzu veya üretkenlik temalarına gönderme."
+    "kırılganlık",
+    "hüzün",
+    "mevsim dışında görülmesi nedeniyle sıkıntı",
+    "kayıp"
   ],
   "contextDependentAssociations": [
-    "Hediye edilen veya sunulan çiçeklerin sosyal ilişkiler, takdir veya tören bağlamını vurgulaması.",
-    "Doğada tek başına açan veya yabani çiçeklerin bireysel potansiyel ve serbest gelişim çağrışımı taşıması.",
-    "Su üstünde açan nilüfer gibi türlerin geleneksel olarak ruhsal saflık ve uyanışla ilişkilendirilmesi."
+    "açık ya da solmuş olması",
+    "çiçeğin türü",
+    "mevsiminde görülüp görülmediği",
+    "eşlik eden duygusal ton"
   ],
   "commonVariations": [
     {
-      "title": "Bahçede açan tek bir çiçek",
-      "description": "Rüyada yalnız bir çiçeğin açması, kişinin belirgin bir yeteneğinin, duygusunun veya ilişkisinin şu anda görünür hale gelmesiyle ilişkili olabilir; tür ve açılma aşaması yorumda belirleyicidir."
+      "title": "Mevsiminde Açmış Parlak Renkli Çiçekler",
+      "description": "Doğal döngüsünde ve canlı renkleriyle görülen çiçekler, genellikle yaşamın olumlu evrelerine, ferahlığa ve içsel neşeye işaret eden bir bağlam sunar."
     },
     {
-      "title": "Rüyada solmuş veya kurumuş çiçekler",
-      "description": "Solmuş çiçekler, tamamlanmış bir dönemin, enerjinin tükenmişliğinin veya bir ilişkinin eskimesinin simgesi olarak algılanabilir; aynı zamanda zamanın geçişine dikkat çeker."
+      "title": "Solmuş veya Mevsimi Dışında Görülen Çiçekler",
+      "description": "Mevsimi geçmiş ya da yapraklarını döküp solmuş çiçekler genellikle geçicilik, kaçırılmış fırsatlar veya dönemsel keder ve sıkıntılarla ilişkilendirilir."
     },
     {
-      "title": "Birine çiçek vermek veya sunmak",
-      "description": "Çiçeği hediye etmek, uyanık yaşamda takdir, gönül bağı ya da törensel bir jestle bağlantılı duyguların ifadesi olabilir; alıcının kimliği ve bağlam, yorumun anlamını değiştirir."
+      "title": "Çiçek Buketi Almak veya Taşımak",
+      "description": "Rüyada bir demet çiçek taşımak ya da hediye almak, hatırlanma, kırgınlıkların giderilmesi, dostluk ilişkileri ve bazen örtük duygusal niyetlerin ifadesidir."
     },
     {
-      "title": "Nilüfer / su üzerinde açan çiçek",
-      "description": "Su üzerinde açan nilüfer görüntüsü, Budist ve Doğu geleneklerinde sıkça saflık ve içsel arınma/uyanışla ilişkilendirilir; rüyalarda bu imge çoğu zaman içsel arınma veya bilinçte bir değişime işaret edebilir."
+      "title": "Ağaçta Açan Çiçekler veya Polen",
+      "description": "Bitkinin kök ve dallarında görülen çiçeklenmeler veya polenler, aile, soy, rızık artışı veya yeni bir dönemin filizlenmesi gibi temaları yansıtır."
     }
   ],
-  "psychology": "Ampirik psikolojide çiçek imgelerinin rüya anlamını doğrudan inceleyen çalışmalar sınırlıdır; bu nedenle psikolojik yorumlar daha çok psikanalitik ve kuramsal çerçevelerden gelir. Psikanalitik çizgide çiçekler sıklıkla kadınsılık, erotik çağrışımlar ve doğurganlık/üretkenlik temalarıyla ilişkilendirilir; bu tür okumalar teorik olup doğrudan ampirik kanıtla desteklenmemektedir.",
-  "jungian": "Jungçu çerçevede çiçek, psişenin açılması ve içsel potansiyelin görünürleşmesi için kullanılan güçlü bir imgedir. Bireyleşme sürecinde çiçeğin açılması, yeni bir yönün veya bütünleşen bir yönün ortaya çıkışına işaret edebilir; türün ve çiçeğin açılma durumunun yorumda belirleyici olduğu vurgulanır.",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist ve bazı Doğu geleneklerinde çiçekler genellikle geçicilik ve güzellik bağlamında, ritüel veya ruhsal gelişim çerçevesinde kullanılır; nilüfer (lotus) türleri özellikle saflık ve aydınlanma simgesi olarak öne çıkar. Bu sembolik kullanımlar kültürel bağlama bağlıdır; rüyalarda tek tip bir anlam atamak doğru değildir.",
-  "spiritualApproaches": "Spiritüel ve ezoterik yaklaşımlarda çiçekler çoğunlukla içsel açılma, bereket veya ruhsal olgunlaşmanın metaforu olarak görülür; belirli türlere farklı manevi nitelikler atfedilebilir. Bu okumalar sembolik ve kültüre özgü bağlamlara dayanır.",
+  "psychology": "Rüya içerik analizinde çiçek imgesi tek ve sabit bir anlama indirgenemez. Rüya raporları, imgelerin kategorisi, sıklığı ve rüyanın bütünündeki bağlamsal ilişkiler dikkate alınarak çözümlenmelidir.",
+  "jungian": "Jungcu analitik psikolojide çiçek, bireyleşme sürecinin, kişiliğin doğal açılımının ve Benlik merkezindeki ruhsal bütünleşmenin simgesi olarak yorumlanabilir; altın veya mavi çiçek gibi imgeler psikolojik ve kültürel dönüşüm katmanlarına işaret eder.",
+  "islamicTradition": "İslami rüya tabiri aktarımlarında çiçek genel olarak sevinç, güzellik, rızık ve aile temalarıyla bağdaştırılır. Mevsiminde görülen çiçek olumlu karşılanırken, mevsimi dışında görülen veya ağaçsız ya da yapraksız beliren çiçekler keder, sıkıntı veya geçici durumlar şeklinde yorumlanabilir.",
+  "christianTraditions": "Hristiyan sembolizminde çiçekler, Tanrı'nın yaratılışındaki ihtişamı, geçiciliği, sevgi, umut ve inanç erdemlerini simgeler. Aynı zamanda ruhun ilahi olana yönelişini ve yenilenme temalarını destekler.",
+  "jewishTraditions": "Yahudi rüya ve bitki sembolizminde doğrudan çiçek için standart bir tabir bulunmamakla birlikte, genel bitkisel imgeler bereket, iyi şöhret ve olumlu sonuçlar ekseninde ele alınır.",
+  "buddhistEasternApproaches": "Budist ve doğu yaklaşımlarında lotus ve udumbara gibi özel çiçekler, saflığı, uyanışın nadirliğini ve Dharma'nın öğretisel değerini temsil eden metaforik bir dille ilişkilendirilir.",
+  "spiritualApproaches": "Ezoterik ve simyasal geleneklerde çiçek imgesi, kalbin açılması, içsel uyum, ince ruhsal farkındalık ve karşıtların birleşmesi yoluyla yaşanan dönüşüm süreciyle bağdaştırılır.",
   "comparisonTable": [
     {
-      "approach": "Psikanaliz",
-      "interpretation": "Çiçeği kadınsılık, çekicilik, arzu ve üretkenlik temalarıyla okur; yin yönleri ve erotik çağrışımlar vurgulanır.",
+      "approach": "Psikanalitik Kuram",
+      "interpretation": "Bastırılmış arzuların, masumiyetin veya erotik ve bedensel simgelerin örtük ifadesi.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungçu Psikoloji",
-      "interpretation": "Çiçek açılması biçiminde psişede ortaya çıkan potansiyel, büyüme ve bireyleşme sürecine işaret eden bir arketip olarak görülür.",
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Bireyleşme, Benlik'in açılımı ve ruhsal bütünleşme süreci.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Budist / Doğu gelenekleri",
-      "interpretation": "Geçicilik, ruhsal uyanış ve bazı türlerde saflık simgesi; törensel sunum ritüellerinde bağlılık ifadesi olarak da değerlendirilir.",
+      "approach": "Geleneksel Aktarımlar",
+      "interpretation": "Rızık, sevinç, aile, mevsimsel değişimler ve dönemsel hüzünler.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik Yaklaşım",
+      "interpretation": "Kalbin açılması, içsel uyum ve simyasal dönüşüm.",
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı gelenekler çiçeğin 'açılma' ve 'geçicilik' temalarını ortak bir zeminde paylaşır; ayrıca tören ve sunum bağlamında sosyal değeri yaygın olarak tanınır.",
-  "differences": "Yaklaşımlar çiçeğe farklı eksenlerden bakar: psikanaliz daha çok cinsellik ve dişil imgelerle ilişkilendirirken, Jungçu okuma bireyleşme ve psişik bütünleşme açısından değerlendirir; Doğu ve spiritüel gelenekler ise tür temelli (ör. nilüfer) saflık ve geçicilik vurgusunu ön plana çıkarır.",
-  "inusAssessment": "Çiçek sembolü tek bir nedensel açıklama yerine birçok koşula bağlıdır: türü (ör. nilüfer), fiziksel durumu (taze/açık veya solmuş), eylem (verme/alma/tozlaşma) ve rüya görenin uyanık yaşamındaki ilişki ve duygu durumu birlikte değerlendirilmelidir. Bu yüzden rüya yorumu bağlama bağımlı ve çok nedenli olmalıdır.",
+  "commonGround": "Farklı disiplinler ve gelenekler, çiçeğin sabit ve tek boyutlu bir anlamı olmadığını ve onun canlılığı ile geçiciliğinin bağlamına göre değerlendirilmesi gerektiği konusunda birleşir.",
+  "differences": "Psikanalitik yaklaşım cinsel ve içgüdüsel katmanlara odaklanırken, Jungcu gelenek ruhsal bütünleşmeye, dini ve geleneksel aktarımlar ise rızık, mevsimsellik ve ahlaki erdemlere ağırlık verir.",
+  "inusAssessment": "Rüyadaki çiçek imgesi, sadece hoş bir manzara unsuru olmanın ötesinde, açılmış ya da solmuş olması, türü, mevsimi ve rüya sahibinin o anki duygusal tonu ile şekillenen çok katmanlı bir tablodur. Bu sembolü yorumlarken tek bir sabit anlam aramak yerine, çiçeğin rüyanın hikâyesindeki yeri ve çağrışımlarını bütüncül bir yaklaşımla incelemek gerekir.",
   "faq": [
     {
-      "question": "Rüyada çiçek görmek her zaman olumlu mu?",
-      "answer": "Hayır; çiçeğin durumu ve bağlam belirleyicidir. Taze ve açmış bir çiçek genelde ortaya çıkma veya takdir çağrışımı taşırken, solmuş veya çürümüş çiçekler kayıp ve bitiş duygusunu vurgulayabilir. En kullanışlı yaklaşım, rüyadaki çiçeğin türünü, fiziksel halini ve kiminle/nerede göründüğünü gözlemlemektir."
+      "question": "Rüyada solmuş çiçek görmek ne anlama gelir?",
+      "answer": "Solmuş çiçekler geleneksel ve simgesel okumalarda geçicilik, geride kalan fırsatlar veya dönemsel hüzün ve sıkıntılarla ilişkilendirilir."
     },
     {
-      "question": "Jungçu perspektifte çiçek rüyalarında nelere dikkat etmek gerekir?",
-      "answer": "Jungçu okuma, çiçeği psişede bir yönün açılmasına işaret eden imge olarak görür; pratikte çiçeğin açılıp açılmadığı, tek mi çoğul mu olduğu ve rüya görenin bu imgeyle hissettiği duygular yorumda kıymet taşır; bunlar bireyleşme sürecine dair ipuçları verir."
+      "question": "Çiçeğin mevsiminde görülmesi rüyayı nasıl etkiler?",
+      "answer": "Geleneksel aktarımlarda çiçeklerin kendi mevsiminde açmış halde görülmesi genellikle olumlu bir sevinç, ferahlık ve bereket alameti olarak kabul edilir."
     }
   ],
   "sources": [
     {
-      "title": "Signification : Fleurs - Psychologies.com",
-      "relevance": "Psikanalitik çerçevede çiçeklerin kadınsılık, çekicilik ve cinsellik çağrışımlarıyla ilişkilendirildiğini gösterir.",
-      "url": "https://www.psychologies.com/Therapies/Psychanalyse/Dictionnaire-des-reves/Fleurs"
+      "title": "[PDF] Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin temel ilkelerini özetler; rüya raporlarının nasıl sistemli biçimde çözümlenebileceğini ve imgelerin bağlam içinde değerlendirilmesi gerektiğini gösterir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
     },
     {
-      "title": "Blooms Of The Psyche: A Jungian Garden Of Flowers And ...",
-      "relevance": "Jungçu perspektifin çiçeği psişenin açılması ve bireyleşme imgesi olarak ele alışını örnekler.",
-      "url": "https://psychologytimes.co.uk/blooms-of-the-psyche-a-jungian-garden-of-flowers-and-archetypes/"
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Çiçekli masa örneğinde çiçeklerin kadın bedeni ve cinsel organlarla ilişkilendirildiği rüya pasajı.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
     },
     {
-      "title": "Flowers through time: exploring their cultural and historical ...",
-      "relevance": "Çiçeklerin tarih boyunca törensel, sanatsal ve simgesel kullanımlarını tarihsel-kültürel bir çerçeve içinde özetler.",
-      "url": "https://ornamentalhorticulture.com.br/rbho/article/view/3015"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyaların bastırılmış dileklerin örtük gerçekleşmesi olarak ele alındığı temel kuramsal çerçeve.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "A Guide to Flower Symbolism in Buddhism - BLOOM & SONG",
-      "relevance": "Budist gelenekte çiçek sembolizminin geçicilik ve ruhsal bağlamlarla nasıl ilişkilendirildiğini açıklar.",
-      "url": "https://www.bloomandsong.com/hong-kong-wedding-flowers/a-guide-to-flower-symbolism-in-buddhism"
+      "title": "Freud (1900) Chapter 6, part a",
+      "relevance": "Çiçek açan dal örneğinde çiçeklenmenin masumiyet ve cinsel saflıkla bağlantılandırılması.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm"
     },
     {
-      "title": "Lotus Flower, Hindu Sacred Flower, Lotus Flower Symbolism",
-      "relevance": "Nilüferin (lotus) Hindu ve Budist geleneklerde saflık ve aydınlanma ile bağdaştırılmasına dair geleneksel açıklamalar sunar.",
-      "url": "https://www.lotussculpture.com/my_articles_lotus.html"
+      "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
+      "relevance": "Çiçek demeti taşıyan rüya örneğinde çiçeklerin masumiyet ve cinsel karşıtlıklarla birlikte yorumlanması.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
+    },
+    {
+      "title": "Dreams: (From Volumes 4, 8, 12, and 16 of the Collected Works of C. G. Jung) [With a New foreword by Sonu Shamdasani ed.] 9781400839148 - DOKUMEN.PUB",
+      "relevance": "Jung’un çiçek imgelerini (‘golden flower’, ‘blue flower’) psikolojik dönüşüm ve kültürel sembolizm bağlamında ele aldığı pasajlar.",
+      "url": "https://dokumen.pub/dreams-from-volumes-4-8-12-and-16-of-the-collected-works-of-c-g-jung-with-a-new-foreword-by-sonu-shamdasaninbsped-9781400839148.html"
+    },
+    {
+      "title": "Carl Jung - Analysis of Dream Symbols (2)",
+      "relevance": "Çiçeğin Benlik ve bireyleşme süreciyle ilişkilendirilmesine dair Jungcu yorumlayıcı çerçeve.",
+      "url": "https://www.carl-jung.net/dream_symbols2.html"
+    },
+    {
+      "title": "The Collected Works of C. G. Jung : Aion",
+      "relevance": "Çiçeğin verimlilik, Benlik ve ince ruhsal aktarım ile ilişkilendirildiğini belirten Jungcu sembol açıklamaları.",
+      "url": "https://dn790006.ca.archive.org/0/items/collectedworksof92cgju/collectedworksof92cgju.pdf"
+    },
+    {
+      "title": "Jungian Insights on Dreams and Death | PDF | Carl Jung - Scribd",
+      "relevance": "Çiçeğin ruh ve ölümden sonraki süreklilik imgeleriyle bağlantılı Jungcu yorumlar.",
+      "url": "https://www.scribd.com/document/900330711/On-Dreams-and-Death-a-Jungian-Interpretation-Traum-Und-Tod-Marie-Louise-Von-Franz-Translated-by-Emmanuel-Xipolitas-Boston-Massachusetts"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual: Artemidorus' The ...",
+      "relevance": "Artemidorus’un rüya kitabı, bitki ve çiçek türlerini tek tek nasıl anlamlandırdığını gösterir; örneğin narcissus çiçekleriyle bitki sembolizminin rüya yorumundaki yerini aydınlatır.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri Ç Harfi",
+      "relevance": "Çiçek poleni (döllenme tozu) rüyalarında rızık, eşin hamileliği, şifa ve bazı özel durumlarla ilgili farklı yorumlar veren İslami rüya tabirleri.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-c2-harfi.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri F Harfi",
+      "relevance": "Fulya çiçeğinin rüyadaki anlamını neşe, sevinç ve dostluk ekseninde veren İslami tabir aktarımı.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-f-harfi.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri S Harfi",
+      "relevance": "Süsen çiçeğinin rüyada görülmesine dair özel bir çiçek türü kaydı ve olumsuz yorum.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-s1-harfi.html"
+    },
+    {
+      "title": "dream interpretation of flower , by tabeer ur roya imam ibn e sereen",
+      "relevance": "Çiçeğin ağaçta olup olmamasına ve mevsimine göre hüzün, keder ya da çocukla ilişkilendirildiği aktarım.",
+      "url": "https://tabeerurroya.org/en/dream-interpretation-of-flower"
+    },
+    {
+      "title": "Flower Islamic Interpretations & Meanings",
+      "relevance": "Çiçek ve gül için çocuk, helal kazanç ve uzaktaki birinin dönüşü gibi anlamlar veren çevrimiçi İslami tabir özeti.",
+      "url": "https://www.myislamicdream.com/flower.html"
+    },
+    {
+      "title": "تفسير رؤية الزهر في المنام لابن سيرين والنابلسي - موقع الحياة بالإسلام",
+      "relevance": "Arapça kaynak, 'zahr' (çiçek) için sevinç, ferahlık, güzel koku, mevsim dışı olması ve solgunluk üzerinden olumlu-olumsuz ayrımlar yapar.",
+      "url": "https://lifebyislam.com/dreams/ruyat-zzahr-fi-almanam"
+    },
+    {
+      "title": "Flowers: Beautiful - Topical - Bible Hub",
+      "relevance": "Kutsal Kitap bağlamında çiçeklerin güzellik, geçicilik ve yaratılışın görkemiyle ilişkilendirildiği bir derleme.",
+      "url": "https://biblehub.com/topical/ttt/f/flowers--beautiful.htm"
+    },
+    {
+      "title": "Flowers in the Bible 10 Varieties and Their Meanings",
+      "relevance": "Kutsal Kitap’taki çiçek sembolizmini sevgi, iman, umut ve önemli olaylarla ilişkilendiren modern derleme.",
+      "url": "https://thursd.com/articles/flowers-in-the-bible-10-significant-varieties-and-their-meanings"
+    },
+    {
+      "title": "Plants in Christian iconography - Wikipedia",
+      "relevance": "Hristiyan ikonografisinde çeşitli çiçeklerin saflık, Meryem, diriliş ve Teslis gibi anlamlarla eşleştirildiğini özetleyen kaynak.",
+      "url": "https://en.wikipedia.org/wiki/Plants_in_Christian_iconography"
+    },
+    {
+      "title": "Blossom Theology : University of Dayton, Ohio",
+      "relevance": "Çiçeklerin açması, döngüsü ve üçlü biçimleri üzerinden Hristiyan teolojisinde yaratılış, Meryem, Mesih ve Teslis sembolizmini açıklayan çalışma.",
+      "url": "https://udayton.edu/marianlibrary/marysgardens/b/blossom-theology.php"
+    },
+    {
+      "title": "Over 40 Dream Elements and Their Meanings (Berakhot 56b-57b)",
+      "relevance": "Berakhot 56b-57b çevresindeki bitkisel rüya öğelerini topluca ele alan kaynak; çiçek için doğrudan bir madde göstermese de Talmudik bitki sembolizminin bağlamını verir.",
+      "url": "https://www.ezrabrand.com/p/pt2-symbolism-of-plants-animals-birds"
+    },
+    {
+      "title": "Pt1 Symbolism of Plants, Animals, Birds, and Nature in Talmudic Dream Interpretations: Over 40 Dream Elements and Their Meanings (Berakhot 56b-57b)",
+      "relevance": "Berakhot 56b-57b’deki bitkisel ve doğal öğelerin rüya yorumlarını özetleyen kaynak; çiçek için doğrudan tabir vermese de rabbanî bitkisel sembolizmin çerçevesini gösterir.",
+      "url": "https://www.ezrabrand.com/p/pt1-symbolism-of-plants-animals-birds"
+    },
+    {
+      "title": "Pt3 Symbolism of Plants, Animals, Birds, and Nature in Talmudic ...",
+      "relevance": "Myrtle örneği üzerinden Talmudik rüyalarda bitkilerin olumlu sonuçlarla ilişkilendirildiğini gösterir; çiçek için doğrudan değil, yakın bir bitkisel rüya örneğidir.",
+      "url": "https://www.ezrabrand.com/p/pt3-symbolism-of-plants-animals-birds"
+    },
+    {
+      "title": "Dreams in the Talmud | Voices on Sefaria",
+      "relevance": "Talmud’daki rüya pasajlarına erişim sağlar; doğal unsurların rüya yorumlandığı rabbanî çerçeveyi doğrular.",
+      "url": "https://www.sefaria.org/sheets/233896"
+    },
+    {
+      "title": "LILY - JewishEncyclopedia.com",
+      "relevance": "Zambak ve benzeri çiçek imgelerinin Yahudi düşüncesindeki sembolik çağrışımlarını açıklar; rüya değil, genel Yahudi çiçek sembolizmi için arka plan verir.",
+      "url": "https://www.jewishencyclopedia.com/articles/9987-lily"
+    },
+    {
+      "title": "Flowers mentioned in the sūtras",
+      "relevance": "Budist metinlerde geçen çiçek türleri ve bunların nadirlik, saflık ve öğretinin değerini vurgulayan sembolik kullanımları.",
+      "url": "https://tibetanbuddhistencyclopedia.com/en/index.php/Flowers_mentioned_in_the_s%C5%ABtras"
+    },
+    {
+      "title": "[PDF] Dream Interpretation in Buddhism and Contemporary Psychotherapy",
+      "relevance": "Budist şiirsel metaforda çiçeğin hoş söz, etki ve öğretinin meyvesiyle ilişkilendirilişi.",
+      "url": "https://thecjbs.org/wp-content/uploads/2025/04/McCullough-Shiu_Dreaming-Buddha_19.pdf"
+    },
+    {
+      "title": "The Flower Ornament Scripture: A Translation of The Avatamsaka Sutra",
+      "relevance": "Avataṃsaka/Sutra geleneğinde çiçeğin geniş öğretisel ve sembolik çerçevede ilişkilendirilmesi.",
+      "url": "https://buddhanature.tsadra.org/index.php/Books/The_Flower_Ornament_Scripture:_A_Translation_of_The_Avatamsaka_Sutra"
+    },
+    {
+      "title": "Flower in dreams — meaning and symbolism",
+      "relevance": "Çiçeğin ezoterik bir okuma içinde kalbin açılması, içsel uyum ve ruhsal incelikle ilişkilendirildiği kısa bir rüya yorumu sunuyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/flower"
+    },
+    {
+      "title": "Flowers, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Çiçeklerin tomurcuklanma ve tam açma üzerinden yeni fikir, yeni yaşam evresi ve ruhsal düzeyde sevgi ve sembolik çağrışımlar kurduğunu belirtir.",
+      "url": "http://www.dreamtation.com/docs/1257.htm"
+    },
+    {
+      "title": "International Alchemy Guild",
+      "relevance": "Simyasal sembolizmde gülün dönüşüm, birleşme ve ruhsal merkez fikriyle ilişkilendirildiğini açıkça anlatıyor; çiçek sembolünün ezoterik geniş bağlamını destekliyor.",
+      "url": "https://alchemyguild.wildapricot.org/page-311919"
+    },
+    {
+      "title": "Rose in Alchemy - Wisdom Portal",
+      "relevance": "Simyada gülün Felsefe Taşı, karşıtların birleşmesi ve içsel dönüşümle bağlantılı kullanımlarını özetliyor; çiçek sembolünün simyasal katmanını gösteriyor.",
+      "url": "https://www.wisdomportal.com/Poems2008/RoseInAlchemy.html"
     }
   ],
   "relatedSlugs": []

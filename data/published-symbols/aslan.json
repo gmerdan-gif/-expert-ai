@@ -1,146 +1,230 @@
 {
   "slug": "aslan",
   "title": "aslan",
-  "shortDescription": "Rüyada aslan görmek; güç, cesaret, otorite ve koruyuculuğu, bazen de baskın bir kişiyi, zorlu bir sınavı veya kontrol dışına çıkan içgüdüleri simgeleyebilir. Aslanın sakin ya da tehditkâr olması, bu gücün destekleyici mi yoksa bunaltıcı mı hissedildiğini gösterir.",
+  "shortDescription": "Rüyada aslan görmek, güç, cesaret, liderlik, kişisel sınırlar ve otorite figürleriyle kurulan ilişkilerin simgesel bir yansımasıdır.",
   "positiveAssociations": [
     "Cesaret ve içsel güç",
-    "Liderlik ve otorite",
-    "Koruyuculuk ve üstünlük",
-    "Ahlaki irade ve kararlılık"
+    "Liderlik ve koruyucu otorite",
+    "Uysal veya zarar vermeyen aslanın getirdiği huzur",
+    "Engelleri aşma yeteneği ve kararlılık"
   ],
   "challengingAssociations": [
-    "Ezici psikolojik baskı ve gölge yönler",
-    "Zorlu sınavlar ve çatışmalar",
-    "Tehdit ve zalim yöneticiler",
-    "Agresif ve kontrol dışı içgüdüler"
+    "Tehdit ve saldırganlık",
+    "Zalim veya baskın otorite figürleri",
+    "Korku, hastalık veya yüksek ateş gibi tehlikeler",
+    "Bastırılmış içgüdüsel gerilimler"
   ],
   "contextDependentAssociations": [
-    "Aslanla mücadele etmek veya onu yenmek",
-    "Aslanın kükremesi veya taht sembolleri",
-    "Kutsal metinlerdeki ikonografik konumlar",
-    "Farklı kültürel ve dini geleneklerdeki atıflar"
+    "Aslanın uysal ya da saldırgan duruşu",
+    "Rüya sahibinin aslanla kurduğu mücadele veya uyum",
+    "Görülen aslanın cinsi (örneğin dişi aslan)",
+    "Rüyanın uyandırdığı duygusal ton ve yaşam durumu"
   ],
   "commonVariations": [
     {
-      "title": "Karşınıza Çıkan Sakin Bir Aslan",
-      "description": "Rüyada sakin duran bir aslanın görünmesi, güç ve otorite temalarının rüya görenin bilinçdışı alanında yer aldığını gösterebilir; bununla birlikte kaynaklar bu özel senaryoya ilişkin tekil ve kesin bir yorum sunmaz; farklı geleneklerde aslan hem koruyucu hem de baskın bir güç olarak ele alınabilir."
+      "title": "Uysal Aslanla Karşılaşmak",
+      "description": "Rüyalarda zarar vermeden ve sakin bir şekilde yaklaşan uysal bir aslan görmek, rüya sahibinin otorite veya güçlü figürlerle uyum yakalayacağına, durumun olumlu yönde gelişeceğine işaret eder."
     },
     {
-      "title": "Kükreyen ve Tehditkâr Aslan",
-      "description": "Kükreyen bir aslan genellikle uyarı, tehdit veya baskı hissiyle ilişkilendirilirken, Budist ikonografide 'aslanın kükremesi' motifinin Buddha'nın öğretisinin kudretini ve ilanını simgelediği de belirtilir; bu nedenle rüyalarda kükreme hem olumsuz baskı algılarını hem de güçlü bir otoritenin veya ilahi/ahlaki çağrının ifadesini taşıyabilir."
+      "title": "Saldırgan Veya Tehditkâr Aslan",
+      "description": "Kükreyen veya saldıran bir aslanla karşılaşmak, uyanık yaşamda karşılaşılan baskıcı bir otoriteyi, ani tehlikeleri veya bastırılmış korkuların dışa vurumunu temsil eder."
     },
     {
       "title": "Aslanla Mücadele Etmek",
-      "description": "Rüyada bir aslanla boğuştuğunu veya mücadele ettiğini görmek, bireyin hayatındaki zorlu bir sınav, rakip ya da kendi içgüdüsel dürtüleriyle verdiği psikolojik mücadelenin bir yansıması olabilir."
+      "description": "Rüyada aslanla boğuşmak ve ona üstün gelmek, kişinin hayatındaki zorluklara, güçlü rakiplere veya baskın durumlara karşı zafer kazanma çabasını simgeler."
     },
     {
-      "title": "Aslan Sürüsü veya Tahtı Görmek",
-      "description": "Geleneksel motiflerle uyumlu şekilde aslan figürlerini bir taht ya da koruyucu rolde görmek, yönetim, liderlik ve koruma temalarının rüya görenin zihninde aktif olduğunu gösterir."
+      "title": "Dişi Aslan Görmek",
+      "description": "Rüyada dişi aslan görmek genellikle çevredeki baskın, koruyucu veya sert karaktere sahip kadınlarla ilişkilendirilir."
     }
   ],
-  "psychology": "",
-  "jungian": "Jungcu analitik psikoloji çerçevesinde aslan, ego tarafından bastırılmış olan güçlü içgüdüsel enerjileri, ezici psikolojik kuvvetleri ve kişiliğin gölge yönlerini temsil edebilir. Aynı zamanda 'kral' arketipiyle ve güneşin ateşli ilkeleriyle bağdaştırılarak bireyin ruhsal bütünleşme sürecindeki dinamikleri simgeler.",
-  "islamicTradition": "Klasik İslami rüya tabirleri geleneğinde aslan; güçlü bir hükümdar, otorite sahibi bir figür, düşman, zulüm veya ağır bir sınav olarak yorumlanabilmektedir. Rüyada aslanı yenmek veya ona hükmetmek üstünlük kazanmaya işaret ederken, aslanda zarar görmek zorluklarla karşılaşılacağı şeklinde ele alınır.",
-  "christianTraditions": "Hristiyan sembolizminde aslan çok anlamlı bir figür olarak karşımıza çıkar; bir yandan Mesih’in gücünü, krallığını ve kudretini simgelerken, diğer yandan şeytani tehditleri ve tehlikeleri temsil eden iki yönlü bir imge olarak değerlendirilebilir.",
-  "jewishTraditions": "Yahudi gelenek ve metinlerinde aslan (özellikle Yahuda Aslanı), güç, liderlik, ahlaki cesaret ve irade gücünün köklü sembollerindendir. Talmudik adlandırmalarda ve kutsal nesne ikonografilerinde aslan figürleri tarihsel ve kültürel anlamlar taşır.",
-  "buddhistEasternApproaches": "Budist gelenek ve ikonografisinde aslanlar, bodhisattvaları simgeleyen ve Dharma'yı koruyan figürler olarak ele alınır. 'Aslanın kükremesi' ve aslan tahtı motifleri, Buddha'nın öğretisinin sarsılmaz kudretini ve ilanını ifade eder.",
-  "spiritualApproaches": "",
+  "psychology": "Psikolojik açıdan aslan, rüya içeriğinin tek ve sabit bir anlama indirgenemeyeceğini, bağlama ve duygusal tona göre şekillendiğini gösterir. Psikanalitik çerçevede (örneğin Freud'un üç aslan analizi) aslan, evrensel bir simgeden çok çocukluk anıları, çağrışımlar ve bastırılmış isteklerin yoğunlaştığı bir odak noktası olarak ele alınır.",
+  "jungian": "Jungcu analitik psikolojide aslan; psikenin otonom bir parçası, kolektif bilinçdışından gelen ilksel bir figür ve bedene köklenmiş güçlü içgüdüsel enerji olarak ele alınır. Benliğin gölgede kalmış, ateşli ve arzu dolu yönleriyle temas eden bu imge, bilinçli bir yüzleşmeyle bütünleşme çağrısı taşır.",
+  "islamicTradition": "İslami rüya tabiri geleneklerinde aslan genellikle kuvvetli, şiddet yanlısı veya cebbar bir otorite figürü ile ilişkilendirilir. Aktarımlarda aslan bazen güçlü bir düşmanı temsil eder; bazı anlatımlarda ise aslanın şifa ile ilişkilendirildiği veya dişi aslanın baskın bir kadın figürünü simgelediği de belirtilir.",
+  "christianTraditions": "Hristiyan sembolizminde aslan iki yönlü bir anlam taşır. Bir tarafta Vahiy metinlerindeki 'Yahuda Aslanı' ile Mesih'in krallığı ve koruyucu otoritesi vurgulanırken, diğer tarafta kükreyen aslan benzetmesiyle ruhsal tehditlere karşı uyanık olma ihtiyacı hatırlatılır.",
+  "jewishTraditions": "Yahudi geleneğinde hayvanların kralı olarak anılan aslan, güç, yücelik ve krallıkla bağdaştırılır. Talmudik gelenekte (Berakhot bağlamında) rüyada aslan gören kişinin uyanınca Amos 3:8 ayetini okuması gerektiği aktarılır; bu imge aynı zamanda saygınlık ve kutsal aidiyet çağrışımları taşır.",
+  "buddhistEasternApproaches": "Budist literatürde aslan; Buda'nın ve Dharma'nın korkusuzluğunu, asaletini ve otoritesini simgeler. Sutralardaki 'aslan kükremesi' motifi, hakikatin sarsılmaz ve cesur bir şekilde ilan edilmesini, öğretinin gücünü ve üstün konumunu temsil eder.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda aslan; koruma, ilahi yönlendirme ve içsel cesaretin yanı sıra simyada, ham maddenin arınarak olgunlaşma sürecinde kalıcı bir güç simgesidir.",
   "comparisonTable": [
     {
-      "approach": "Jungcu Analitik Psikoloji",
-      "interpretation": "Bastırılmış içgüdüsel enerjiler, gölge yönler ve ezici psikolojik kuvvetler.",
+      "approach": "Psikanaliz",
+      "interpretation": "Çocukluk anılarının, çağrışımların ve gizli isteklerin yoğunlaşma noktası.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami Rüya Geleneği",
-      "interpretation": "Otorite, hükümdar, düşman, ağır sınavlar veya üstün gelme.",
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Otonom içgüdüsel enerji, kolektif bilinçdışı ve gölgeyle yüzleşme çağrısı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Güçlü, zalim veya baskın otorite figürleri ile çetin düşmanlar.",
       "evidenceLevel": "traditional"
     },
     {
       "approach": "Hristiyan Sembolizmi",
-      "interpretation": "Mesih'in kudreti veya şeytani tehdit imgesi.",
+      "interpretation": "Mesih'in koruyucu krallığı veya uyanıklık gerektiren ruhsal tehdit.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Yahudi Gelenekleri",
-      "interpretation": "Yahuda Aslanı, ahlaki cesaret, liderlik ve irade gücü.",
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Yücelik, krallık, otorite ve saygınlık sembolü.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist İkonografi",
-      "interpretation": "Bodhisattva koruyuculuğu, Dharma'nın ilanı ve öğretinin kudreti.",
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Korkusuzluk, hakikatin cesur ilanı ve öğretinin otoritesi.",
       "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Okuma",
+      "interpretation": "İçsel cesaret, ilahi koruma ve geçiş enerjisi.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı disiplinler ve gelenekler arasında aslan sembolü, güç, otorite, cesaret ve yoğun bir kuvvet merkezi etrafında birleşir. Hem koruyucu hem tehditkâr okumalar mümkündür; bağlam, aslanın tavrı ve rüya görenin kültürel çerçevesi yorumda belirleyicidir.",
-  "differences": "Farklı yaklaşımlar arasındaki temel ayrım, bu gücün kaynağına ve yönüne odaklanır. Jungcu perspektif içsel psikolojik dinamiklere ve bastırılmış dürtülere vurgu yaparken; dini gelenekler aslanı dışsal otoriteler, ilahi kudret, ahlaki sınavlar veya kozmik koruyuculuk bağlamında değerlendirir.",
-  "inusAssessment": "Aslan sembolü, gücün ve otoritenin hem yapıcı hem de yıkıcı olabileceği gerçeğini rüya bağlamında aynı anda barındırır. INUS yaklaşımı, bu sembolün tek bir deterministik anlam taşımadığını; aslanın tavrı, rüya bağlamı ve rüya görenin kültürel-kişisel geçmişine göre farklı katmanlar açabileceğini vurgular.",
-  "faq": [],
+  "commonGround": "Farklı disiplinler ve gelenekler, aslanı güç, otorite ve sert kişilik özellikleriyle ilişkilendiren ortak bir simge olarak görür.",
+  "differences": "Kimi gelenekler aslanı dışsal bir düşman veya baskın bir otorite olarak ele alırken, psikolojik ve analitik ekoller onu rüya sahibinin kendi içgüdüsel enerjisi, gölgesi veya bastırılmış çağrışımları olarak değerlendirir.",
+  "inusAssessment": "Aslan rüyası, sabit ve evrensel bir tekil anlama indirgenemez; rüyadaki aslanın uysallığı, tehditkâr kükremesi veya rüya sahibiyle kurduğu ilişki biçimi yorumun yönünü tamamen değiştirebilir. Güç, otorite ve korku temaları arasında gidip gelen bu imge, kişinin uyanık yaşamındaki sınırlarını ve karşılaştığı baskın dinamikleri nasıl ele aldığını anlamak için bağlamsal bir odak sunar.",
+  "faq": [
+    {
+      "question": "Rüyada aslan görmek her zaman tehlikeye mi işaret eder?",
+      "answer": "Hayır. Geleneksel ve psikolojik okumalarda aslanın duruşu önemlidir; uysal ve zarar vermeyen aslan olumlu veya koruyucu bir gücü simgelerken, saldırgan aslan tehdit veya korkulara işaret edebilir."
+    },
+    {
+      "question": "Aslan rüyaları psikolojik olarak nasıl ele alınır?",
+      "answer": "Psikanalitik ve Jungcu yaklaşımlarda aslan; bastırılmış içgüdüsel enerjiler, gölgede kalmış yönler ya da zihinsel çağrışımların yoğunlaştığı bir simge olarak değerlendirilir."
+    }
+  ],
   "sources": [
     {
-      "title": "Lion Dreams",
-      "relevance": "Aslanın kültürel simge olarak güç, cesaret ve otoriteyle ilişkilendirilmesini gösteren çevrimiçi kaynak.",
-      "url": "https://www.psychologistworld.com/dreams/dictionary/lion"
+      "title": "Lion Dream Meaning: Strength, Fear, Authority, and the Call ...",
+      "relevance": "Aslan rüyalarında korku, sınır, liderlik ve güç ilişkilerinin rüya ayrıntılarına göre değişebileceğini vurgulayan yorumlayıcı bir kaynak.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/lion"
     },
     {
-      "title": "Lion - Dream Symbol - Dreampaths",
-      "relevance": "Aslanın rüya yorumlarında ve popüler Jungcu yaklaşımlarda güçlü psikolojik enerji ve gölge bağlantılarına atıf yapan çevrimiçi içerik.",
-      "url": "https://dreampaths.com/symbol/lion"
+      "title": "Page:Freud - The interpretation of dreams.djvu/384 - Wikisource, the free online library",
+      "relevance": "Rüyadaki üç aslan örneğini ve bu imgenin çocukluk çağrışımlarıyla nasıl çözümlendiğini gösteren temel psikanalitik metin.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/384"
     },
     {
-      "title": "Lion | 1. Carl Jung on the Lion Anthology",
-      "relevance": "Jung atfı içeren derleme; aslanın arketipsel ve kral olgusu bağlamındaki kullanımlarına dair çevrimiçi metin.",
+      "title": "CHAPTER 6 (part 4) THE DREAM-WORK",
+      "relevance": "Üç aslan örneğine ilişkin analizde, aslanın öğretmen, baba figürü ve çocukluk oyuncağıyla kurulan çağrışımları gösteren bölüm.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6d.htm"
+    },
+    {
+      "title": "1. Carl Jung on the Lion Anthology",
+      "relevance": "Aslan imgesine ilişkin Jung’a atfedilen rüya ve sembol pasajlarını bir araya getirir; aslanın içgüdüsel enerji, arzu ve rüyada ortaya çıkan bir psikik içerik olarak okunmasına dair metin içerir.",
       "url": "https://carljungdepthpsychologysite.blog/2020/05/26/lion-anthology/"
     },
     {
-      "title": "Lion Islamic Interpretations & Meanings",
-      "relevance": "Klasik İslami rüya geleneğinde aslanın otorite, düşmanlık, zulüm ve zaferle ilişkilendirildiğini sunan derleme.",
-      "url": "https://www.myislamicdream.com/lion.html"
+      "title": "The Pattern of the Lion",
+      "relevance": "Aslanı kolektif bilinçdışı, otonom psikik enerji ve gölgeyle temas eden bir figür olarak Jungcu çerçevede yorumlayan analitik psikoloji yazısıdır.",
+      "url": "https://jungpage.org/learn/articles/culture-and-psyche/729-the-pattern-of-the-lion"
     },
     {
-      "title": "LION - JewishEncyclopedia.com",
-      "relevance": "Yahudi metin geleneğinde aslanın Talmudik adları ve kültürel önemine dair temel başvuru.",
-      "url": "https://www.jewishencyclopedia.com/articles/10001-lion"
+      "title": "Franco Gendering animals I",
+      "relevance": "Artemidorus geleneğinde aslanın uysal ve saldırgan görünümlerine göre değişen rüya yorumu için metin pasajı.",
+      "url": "https://www.qro.unisi.it/frontend/sites/default/files/04%20Franco%20Gendering%20animals%20I%20-%20def.pdf"
     },
     {
-      "title": "the-lion-in-medieval-western-europe-toward-an-interpretive-history.pdf",
-      "relevance": "Hristiyan sembolizminde aslanın Mesih ve tehdit imgesiyle ilişkisini ele alan akademik çalışma.",
-      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FFE8383A225E9E5ABF3F3BE177C1DBD5/S0362152921000052a.pdf/the-lion-in-medieval-western-europe-toward-an-interpretive-history.pdf"
+      "title": "ANIMAL SYMBOLISM IN ANCIENT AND MEDIEVAL ...",
+      "relevance": "Artemidorus’ta aslanın güçlü hayvanlar ve güçlü insan tipleriyle ilişkisine dair akademik inceleme.",
+      "url": "https://www.etd.ceu.edu/2018/vujnovic_milica.pdf"
     },
     {
-      "title": "Why Does the Lion Disappear in Revelation 5? Leonine Imagery in Early Jewish and Christian Literatures - Brent A. Strawn, 2007",
-      "relevance": "Erken Yahudi ve Hristiyan literatüründe aslan imgesinin metin içi işlevlerini inceleyen akademik makale.",
-      "url": "https://journals.sagepub.com/doi/10.1177/0951820707083881"
+      "title": "The Natural World | An Ancient Dream Manual - Oxford Academic",
+      "relevance": "Antik rüya el kitabında aslan gibi güçlü hayvanların benzer karakterde insanları haber verdiğini söyleyen bölüm.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
     },
     {
-      "title": "Lion",
-      "relevance": "Hristiyan bağlamında aslanın Mesih ve şeytani güçlerle ilişkilendirilen sembolik anlamlarını özetleyen kurumsal içerik.",
-      "url": "https://public.websites.umich.edu/~umfandsf/symbolismproject/symbolism.html/L/lion.html"
+      "title": "Rüyada Aslan Görmek Ne Demek? Kısaca Ne Anlama Gelir?",
+      "relevance": "İbn-i Sîrîn’e atfedilen aslan rüyası yorumunu açık biçimde aktaran çevrimiçi kaynak; aslanı güçlü ve saldırgan bir düşmanla ilişkilendirir.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-aslan-gormek-ne-anlama-gelir-25146"
     },
     {
-      "title": "The Rising Lion in Jewish Tradition",
-      "relevance": "Yahudi geleneğinde aslanın çağdaş sembolik yorumlarını ve liderlik/güç çağrışımlarını ele alan kurum içeriği.",
-      "url": "https://www.chabad.org/library/article_cdo/aid/6940925/jewish/The-Rising-Lion-in-Jewish-Tradition.htm"
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Arslan başlığında otorite, zulüm, ölüm, şifa ve dişi aslan için baskın kadın yorumu veren derlenmiş İslami rüya tabiri metni.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
     },
     {
-      "title": "Ilia Rodov, \"Papal Lions on the Torah Ark: A Heraldic Symbol Converted\"",
-      "relevance": "Aslan figürünün Yahudi kutsal nesneleri ve hanedan/ibadet bağlamındaki tarihsel sembolizmini tartışan çalışma.",
-      "url": "https://www.academia.edu/4428840/Ilia_Rodov_Papal_Lions_on_the_Torah_Ark_A_Heraldic_Symbol_Converted_"
+      "title": "Dreaming About A Lion And It's Biblical Meaning (Ultimate ...",
+      "relevance": "Rüyada aslanın güç, otorite ve Yahuda’nın Aslanı imgesiyle nasıl okunabildiğine dair modern Hristiyan açıklama sunar.",
+      "url": "https://www.alivechristians.com/acblog/meaning-of-a-lion-in-your-dream-biblical-interpretation"
     },
     {
-      "title": "Lion's Tale « Ask The Rabbi « - Ohr Somayach",
-      "relevance": "Yahudi etik öğretilerinde aslanın cesaret ve irade gücü örneği olarak kullanımını anlatan kurum içeriği.",
-      "url": "https://ohr.edu/explore_judaism/ask_the_rabbi/ask_the_rabbi/6750"
+      "title": "Biblical Dream Symbols Guide: Animals, Water, Numbers ...",
+      "relevance": "Hristiyan bağlamında aslanın Mesih ve düşman tehdidi arasında nasıl çift anlam taşıdığına dair sembolik özet verir.",
+      "url": "https://www.theeasternchurch.com/saints/biblical-dream-symbols-guide"
+    },
+    {
+      "title": "Biblical Meaning of Lions in a Dream (KJV) | Bible Sundays",
+      "relevance": "Rüyadaki aslanın tonuna göre Mesih’i ya da ruhsal tehdidi işaret edebileceğini söyleyen Hristiyan yorum çerçevesi sunar.",
+      "url": "https://www.biblesundays.com/dream-meanings/lions"
+    },
+    {
+      "title": "What is the significance of lions in the Bible?",
+      "relevance": "İncil’de aslanın Mesih ve yıkıcı güçler arasında değişen sembolik kullanımını topluca özetler.",
+      "url": "https://www.gotquestions.org/lions-in-the-Bible.html"
+    },
+    {
+      "title": "Topical Bible: Symbolism of the Lion",
+      "relevance": "Aslanın İncil’de güç, cesaret, asalet ve otoriteyle ilişkilendirildiğini derleyen kısa bir başvuru sunar.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_the_lion.htm"
+    },
+    {
+      "title": "Berakhot 56 - Hadran",
+      "relevance": "Rüyada aslan gören kişinin uyanınca söylemesi gereken ayeti aktarır; aslanın rüya bağlamındaki doğrudan rabbanî referansıdır.",
+      "url": "https://hadran.org.il/daf/berakhot-56/"
+    },
+    {
+      "title": "Berakhot 112 - Talmud Bavli Study",
+      "relevance": "Berakhot’ta rüyada aslan için aynı ayet yönlendirmesini tekrarlar; rüya-aslan ilişkisinin Talmudik çerçevesini destekler.",
+      "url": "https://talmudbavli.app/en/texts/Berakhot.112.1"
+    },
+    {
+      "title": "LION - JewishEncyclopedia.comjewishencyclopedia.com › articles › 10001-lion",
+      "relevance": "Aslanın Yahudi düşüncesinde hayvanların kralı, güç ve yücelik sembolü olarak konumunu açıklar.",
+      "url": "https://jewishencyclopedia.com/articles/10001-lion"
     },
     {
       "title": "Jewish Concepts: The Lion",
-      "relevance": "Yahudi kimliğinde ‘Yahuda Aslanı’ sembolünün yaygınlığını açıklayan kaynak.",
+      "relevance": "Aslanın Yahudi sembolizminde merkezi yerini ve kutsal figürlerle ilişkisini özetler.",
       "url": "https://jewishvirtuallibrary.org/the-lion-in-judaism"
     },
     {
-      "title": "Symbolism of Animals in Buddhism",
-      "relevance": "Budist gelenekte aslanın bodhisattvalarla, Dharma koruyuculuğuyla ve Buddha’nın öğretisinin kudretiyle ilişkisini açıklayan çalışma.",
-      "url": "https://dlbs.liberal.ntu.edu.tw/FULLTEXT/JR-BH/bh117490.htm"
+      "title": "The Lion's Roar",
+      "relevance": "Budist metinlerde aslanın Buda ile ilişkilendirilişi, özellikle “Shakyaların aslanı” ve “bilgelerin aslanı” ifadeleri üzerinden sembolik arka plan sağlar.",
+      "url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-AN/an142270.pdf"
+    },
+    {
+      "title": "<> Sutta",
+      "relevance": "Budist “aslan kükremesi” (sihanada) motifinin hakikatin korkusuz ilanı ve öğretinin otoritesiyle bağlantısını açıklar.",
+      "url": "https://scdd.sfo2.cdn.digitaloceanspaces.com/uploads/original/2X/3/3d289706c69317717c76c6663cbd85631a2291dc.pdf"
+    },
+    {
+      "title": "anaalayo.indd",
+      "relevance": "Aslan motifinin Budist stūpa süslemelerinde kraliyet ve üstünlük sembolü olarak kullanımını tarihsel bağlamda gösterir.",
+      "url": "https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/lions-roar.pdf"
+    },
+    {
+      "title": "Microsoft Word - 20110126-政大中文學報第十四期.doc",
+      "relevance": "Çin Budist literatüründe aslanın Buda’nın asaleti, saygınlığı, bilgeliği, cesareti ve gücüyle ilişkilendirilmesini inceler.",
+      "url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-MISC/misc396629.pdf"
+    },
+    {
+      "title": "Dream About Lion - Meaning & Interpretation - Satyori",
+      "relevance": "Aslan rüyasını doğrudan ele alan modern spiritüel içerik; koruma, ilahi yönlendirme ve içsel cesaret temalarını aslan sembolüyle ilişkilendiriyor.",
+      "url": "https://satyori.com/dreams/lion/"
+    },
+    {
+      "title": "Le symbolisme du lion en alchimie : interprétation",
+      "relevance": "Simyasal sembolizmde aslanın anlamını açıklayan bir okuma; aslanı madde, dönüşüm ve arınma bağlamında konumlandırıyor.",
+      "url": "https://www.jepense.org/symbolisme-lion-alchimie/"
+    },
+    {
+      "title": "Labors of Hercules: First, to Open the Nemean Lion",
+      "relevance": "Nemea aslanı üzerinden aslanın simyasal sembol olarak dayanıklılık, sabitlik ve yoğun kuvvet çağrışımlarını sunuyor.",
+      "url": "https://www.labyrinthdesigners.org/alchemy-mythology/labors-of-hercules-first-to-open-the-nemean-lion/"
     }
   ],
   "relatedSlugs": []

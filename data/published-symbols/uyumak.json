@@ -1,0 +1,262 @@
+{
+  "slug": "uyumak",
+  "title": "uyumak",
+  "shortDescription": "Rüyada uyumak, dinlenme ve zihinsel toparlanma ihtiyacını gösterebilir; bazen de dalgınlık veya farkındalık kaybıyla ilişkilendirilir. Güvenli bir yerde uyumak huzuru, yol ortasında uyumak ise hazırlıksızlık ya da kontrolü kaybetme endişesini çağrıştırabilir.",
+  "positiveAssociations": [
+    "Korku veya tehdit beklentisi içindeki kişiler için güven ve ferahlık",
+    "Dinlenme, zihinsel yenilenme ve içsel dinginlik",
+    "Ruhsal ve bedensel arınma için içe dönme eşiği",
+    "Zihinsel dağınıklığın yatışması ve dinginlik arayışı"
+  ],
+  "challengingAssociations": [
+    "Klasik aktarımlarda gaflet, tembellik ve işsizlik işareti",
+    "Bilincin dış dünyadan geri çekilmesiyle ortaya çıkan kayıtsızlık riski",
+    "Antik gelenekte başarısızlık veya eylemsizlik göstergesi",
+    "Dikkatsizlik ve farkındalık kaybı"
+  ],
+  "contextDependentAssociations": [
+    "Kabir, hastane veya yol üstünde uyumanın hastalık veya kayıp çağrıştırması",
+    "Yatış yönüne göre gücün veya sıkıntının simgelenmesi",
+    "Bilinçdışı içeriklerin uykuda kesinti olmadan işlenmesi",
+    "Geçicilik ve yanılsama temaları"
+  ],
+  "commonVariations": [
+    {
+      "title": "Evde güvenli bir odada derin uykuya dalmak",
+      "description": "Gündelik hayatın stresinden uzaklaşarak zihinsel bir dinlenme ve toparlanma ihtiyacını simgeler."
+    },
+    {
+      "title": "Yol ortasında veya kamusal bir alanda uyuyakalmak",
+      "description": "Hayatın akışı içinde kontrolü kaybetme endişesini, gaflet veya hazırlıksızlık hissini yansıtır."
+    },
+    {
+      "title": "Korku içindeyken bir yerde uyuyup rahatladığını görmek",
+      "description": "Tehdit veya belirsizlik ortamında sığınma, güvende hissetme ve içsel ferahlığa kavuşma arzusunu gösterir."
+    },
+    {
+      "title": "Yabancı bir mezarlıkta veya kabir üstünde uyumak",
+      "description": "Maddi sıkıntılar, yaşamın geçiciliği veya sağlıkla ilgili endişelerin bilinçdışındaki yansımasıdır."
+    }
+  ],
+  "psychology": "Deneysel çalışmalar, uyku sırasında üretilen rüya raporlarının uyanık yaşantıların anlamsal izlerini taşıdığını ve bellekle doğrudan ilişkili olduğunu göstermektedir. Dil tabanlı içerik analizleri, rüya metinlerinden yapısal bilginin çıkarılmasına olanak tanır.",
+  "jungian": "Jungcu perspektifte uyku, rüyanın gerçekleştiği psikodinamik zemin ve bilinçdışına açılan bir eşiktir. Rüya, bilinç egosunun tek yanlı tutumunu dengeleyen ve psişeyi bütünlüğe götüren kendiliğinden beliren imgeler sunar; bu bağlamda uyumak, bilinçten geri çekilme ve içsel karşıtların telafisi anlamına gelir.",
+  "islamicTradition": "İslami rüya tabiri geleneğinde uyku sembolü bağlama göre farklılık gösterir. Genel olarak gaflet, tembellik veya işsizlik işareti sayılırken, korku ve tehlike yaşayan kimseler için emniyet, huzur ve ferahlık olarak yorumlanır. Yatış yönü ve uyunulan yer (yol, kabir vb.) tabirin yönünü değiştiren unsurlar arasındadır.",
+  "christianTraditions": "Hristiyan teolojik ve geleneksel yaklaşımında uyku, bazen ölüm için yumuşatıcı bir mecaz, bazen de ilahi rehberlik bağlamında değerlendirilen bir durumdur.",
+  "jewishTraditions": "Yahudi geleneğinde uyku, Talmudik metinlerde 'ölümün altmışta biri' olarak anılır ve ruhun geçici olarak bedenden ayrılıp üst âlemle bağ kurmasıyla ilişkilendirilir. Rüyalar ise tövbe çağrısı ve gündüz düşüncelerinin bilinçdışı yansımaları olarak ele alınır.",
+  "buddhistEasternApproaches": "Budist gelenekte uyku ve rüya, uyanıklık halinin aydınlanmış bilinçle kesintisiz hale gelebileceği bir çerçevede ele alınır. Dikkatsizlikle uykuya dalmanın sakıncalarına ve farkındalık pratiğine vurgu yapılırken, derin rüyasız uyku zihinsel dinginliğin bir sonucu olarak görülebilir.",
+  "spiritualApproaches": "Ezoterik ve okült geleneklerde uyku, gündelik bilinçten çekilme, maddi ağırlığın gevşemesi ve görünmeyen dünyaya açılma eşiği olarak yorumlanır. Bu durum, dönüşüm öncesi bir pasiflik veya içsel sezgilere alan açan bir duraklama hâlidir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Uyku, rüya raporlarının üretildiği ve uyanık yaşam anılarının işlendiği nörobiyolojik ve bilişsel bir zemindir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Uyumak, bilinçten uzaklaşarak bilinçdışının telafi edici ve dengeleyici imgeleriyle temas kurma eşiğidir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Klasik Dini Gelenekler",
+      "interpretation": "Bağlama göre, gaflet belirtisi olabileceği gibi korku içinde olanlar için ilahi bir sığınak ve güven işareti olarak da yorumlanabilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik Yaklaşımlar",
+      "interpretation": "Maddi farkındalığın gevşediği, ruhsal algıların ve içsel dönüşüm potansiyelinin aktive olduğu bir ara durumdur.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplin ve gelenekler uykuyu, uyanık bilincin dış dünyadan uzaklaştığı ve içsel ya da aşkın süreçlerin devreye girdiği bir geçiş alanı olarak kabul eder.",
+  "differences": "Psikoloji uykuyu bellek işleme ve bilişsel düzenleme bağlamında incelerken, dini gelenekler ahlaki uyanıklık, gaflet veya ilahi korunma temalarına odaklanır.",
+  "inusAssessment": "Bu nedenle uykunun nerede gerçekleştiği, rüyayı gören kişinin o andaki duygusal tonu (korku, huzur, belirsizlik) ve uyanma biçimi, yorumu kökten değiştirir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "A Novel Approach to Dream Content Analysis Reveals Links ...",
+      "relevance": "Uyku sırasında alınan rüya raporlarında deneyim izlerinin nasıl belirdiğini ve rüya içeriğinin uyanık yaşantılarla ilişkisini gösteren deneysel çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6088287/"
+    },
+    {
+      "title": "The Language of Dreams: Application of Linguistics-Based ...",
+      "relevance": "Rüya raporlarının dilsel ve nicel çözümlemesiyle ilgili güncel yöntemleri anlatan derleme.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34563057/"
+    },
+    {
+      "title": "Dream content analysis: methodological and theoretical approaches",
+      "relevance": "Rüya içerik analizinin yöntemsel çerçevesini ve raporların nasıl sınıflandırıldığını açıklayan derleme.",
+      "url": "https://link.springer.com/article/10.1007/s00729-014-0023-2"
+    },
+    {
+      "title": "The Neuroscience of Sleep and Dreams - PMC",
+      "relevance": "Uyku ve rüya çalışmalarında kullanılan ölçüm araçlarını ve rüya içeriği puanlama sistemlerini tanıtan nörobilim derlemesi.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6585519/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüya kuramında rüyanın temel işlevi, uykuyu sürdürmek ve onu bozacak etkilere karşı korumak olduğuna dair temel kaynak.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Introduction to Freud's Concepts of Sleep and Dream2",
+      "relevance": "Freudçu perspektifte rüyanın uykuyu sürdürme işlevi hakkında özet açıklamalar içerir.",
+      "url": "https://freudiangroup.com/wp-content/uploads/2025/10/4_5918123140390585450.pdf"
+    },
+    {
+      "title": "The Neglected Relationship Between Sleep and Psychoanalysis",
+      "relevance": "Psikanaliz literatüründe uyku ve rüyanın ilişkisini, rüyanın uykuyu koruyan işlevi üzerinden tartışır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11940688/"
+    },
+    {
+      "title": "Freud's Dream Interpretation: A Different Perspective Based ...",
+      "relevance": "Freud'un rüya kaynakları ve uyku sırasında oluşan zihinsel etkinliklere dair çerçevesini özetler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6115518/"
+    },
+    {
+      "title": "Carl Jung on Sleep – Anthology",
+      "relevance": "Jungcu perspektifte uykunun rüya üretim zemini ve bilinçdışına açılan eşik olarak ele alınışını özetleyen derleme.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/02/28/sleep/"
+    },
+    {
+      "title": "Jung on Dreams: Part I - Jungian Center for the Spiritual Sciences",
+      "relevance": "Jung’a atfedilen rüya tanımını ve rüyanın uyku sırasında oluşan bilinçdışı etkinlik olduğunu özetleyen sayfa.",
+      "url": "https://jungiancenter.org/jung-on-dreams-part-i/"
+    },
+    {
+      "title": "Jung on So-Called Lucid Dreaming",
+      "relevance": "Jung’un rüyayı uyku durumunda beliren, bilinç denetiminden bağımsız psikik süreç olarak konumlandırmasını aktaran sayfa.",
+      "url": "https://jungiancenter.org/jung-on-so-called-lucid-dreaming/"
+    },
+    {
+      "title": "Dream Interpretation - Jungian Psychoanalysis",
+      "relevance": "Jungcu yaklaşımda rüyaların bilinçdışına erişim, telafi ve psişenin durumunu gösterme işlevini özetleyen kurum sayfası.",
+      "url": "https://jungian.ca/resources/dream-interpretation/"
+    },
+    {
+      "title": "A Late Confirmation? Review of C. G. Jung's Understanding of ...",
+      "relevance": "Jung’un rüyayı bilinçdışının görünür bağlantıları ve psişik denge aracı olarak görmesini özetleyen akademik değerlendirme.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13381552/"
+    },
+    {
+      "title": "Dreaming the unrepressed unconscious and beyond - PMC",
+      "relevance": "Jung’un rüyaları egoyu dengeleyen ve bütünlüğe yönelten spontan imgeler olarak ele alışını tartışan akademik inceleme.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8451207/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritik geleneğin örneği; rüyada uyumaya dair bağlama duyarlı yorumlar içerir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Rüyada uyku görmek için tembellik, işsizlik, istirahat ve bazı durumlarda kederin geçmesi gibi ana yorumları aktaran gazeteci derlemesi.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "Electronic Encyclopedia of the Ancient World",
+      "relevance": "Antik dünyada Artemidorus’un rüya kitabının tarihsel önemini ve klasik rüya kayıtları içindeki yerini açıklar.",
+      "url": "https://ccnmtl.columbia.edu/projects/eeaw/CD/Sample_Article_Dreams.pdf"
+    },
+    {
+      "title": "The Snake and the Whale | An Ancient Dream Manual",
+      "relevance": "Antik rüya kılavuzlarının temel varsayımlarını ve Artemidorus’un oneirokritik gelenek içindeki yerini açıklar.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035753"
+    },
+    {
+      "title": "Rüyada Uyku Görmek Ne Anlama Gelir? Ne Demek ...",
+      "relevance": "Rüyada uyku görmek için tembellik, işsizlik, istirahat ve bazı durumlarda kederin gitmesi gibi ana yorumları aktaran gazeteci derlemesi.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-uyku-gormek-ne-anlama-gelir-29040"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri U Harfi",
+      "relevance": "Klasik İslami rüya tabiri aktarımında uyku, gaflet ve yatış yönüne göre değişen yorumları gösteren derleme.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-u1-harfi.html"
+    },
+    {
+      "title": "تفسير الأحلام لإبن سيرين | النوم والإستلقاء",
+      "relevance": "Arapça bir rüya bilimi (oneirology) metninde 'النوم' maddesi; uyku, gaflet ve yan üzerine uyuma gibi ifadelerle sembolün klasik tabir dilini gösterir.",
+      "url": "https://www.mktbtk.com/dir/ser/d-0065.htm"
+    },
+    {
+      "title": "Dreams - EWTN",
+      "relevance": "Kutsal metinlerde uykunun dinlenme, ölüm mecazı ve ilahi mesajla ilişkili kullanımını Hristiyan yorum ilkeleriyle birlikte sunar.",
+      "url": "https://www.ewtn.com/catholicism/library/dreams-12575"
+    },
+    {
+      "title": "What Does the Bible Say About Sleep? Biblical Verses ...",
+      "relevance": "Hristiyan geleneğinde rüyaların nasıl ayırt edilmesi gerektiğine dair çerçeve verir; uykunun rüya bağlamında aşırı kesin yorumlanmaması gerektiğini destekler.",
+      "url": "https://www.faithtime.ai/content/bible-lessons/bible-say-about-sleep/"
+    },
+    {
+      "title": "The Dream of God: How Do Religion and Science See Lucid ... - PMC",
+      "relevance": "Hristiyanlıkta rüyaların Tanrı ile iletişim ve rehberlik aracı olarak kavramsallaştırılmasını tarihsel ve akademik bağlamda açıklar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7573223/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Talmudik Berakhot tartışmaları bağlamında rüyaların statüsünü ve uykunun teolojik anlamlarını ele alan kaynak.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "The Kabbalah of Sleep",
+      "relevance": "Uykuya Kabalistik yaklaşımı, ruhun bedenden geçici ayrılması ve ruhsal yenilenme temalarıyla açıklar.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/559460/jewish/The-Kabbalah-of-Sleep.htm"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Kabalistik yaklaşıma göre uyku, ruhun bedenden geçici olarak ayrılması ve ruhsal yenilenme temalarıyla ilişkilendirilir.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "1/60th of Death The Mystical Power of Sleep and Dreams | Sefaria",
+      "relevance": "Talmudik formülü aktararak uykunun metafizik sembolizmini ve rüyanın peygamberlik benzetmesini birlikte sunar.",
+      "url": "https://www.sefaria.org/sheets/300630"
+    },
+    {
+      "title": "Sleeping and dream: Significance and symbolism",
+      "relevance": "Budist gelenekte uyku ve rüya sembolizmine dair kavramsal çerçeve sunan çalışma.",
+      "url": "https://www.wisdomlib.org/concept/sleeping-and-dream"
+    },
+    {
+      "title": "Early Buddhist discourse structures around sleep",
+      "relevance": "Erken Budist metinlerde uykunun uygulama bağlamında nasıl kavramsallaştırıldığını ve rüyasız uykunun uygulamadaki yerini tartışan akademik çalışma.",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003031570"
+    },
+    {
+      "title": "A compilation of suttas related to sleep--any other suggestions? - Q & A",
+      "relevance": "Erken Budist metin geleneğinde dikkatsiz uykuya bağlanan sakıncaları ve kötü rüya temasını gösterir.",
+      "url": "https://discourse.suttacentral.net/t/a-compilation-of-suttas-related-to-sleep-any-other-suggestions/17532"
+    },
+    {
+      "title": "R815 230607 Mindfulness-awareness and sleeping 473",
+      "relevance": "Satipaṭṭhāna bağlamında uyurken ve uyanırken bilinçli farkındalık temasını açıklar.",
+      "url": "https://www.themindingcentre.org/dharmafarer/wp-content/uploads/R815-230607-Mindfulness-awareness-and-sleeping-473.pdf"
+    },
+    {
+      "title": "Are there any metaphors related \"waking up or awakening\" in EBTs?",
+      "relevance": "Erken Budist metinlerde rüya benzetmesi üzerinden arzu ve geçicilik temasını gösterir.",
+      "url": "https://discourse.suttacentral.net/t/are-there-any-metaphors-related-waking-up-or-awakening-in-ebts/15063"
+    },
+    {
+      "title": "Symbols and Teachings of the Royal Art - PDFDrive.com",
+      "relevance": "Simyasal ve hermetik ezoterik okumalarda uyku ve rüya durumlarının dönüşüm, pasiflik ve bilinç katmanlarıyla ilişkilendirildiğini gösteren kaynak.",
+      "url": "https://rexresearch1.com/AlchemyArchives/EvolaHermTradRoyalArt.pdf"
+    },
+    {
+      "title": "I",
+      "relevance": "Düş ve uyku arasındaki ilişkinin spiritüel ilham, vizyon ve içsel tahayyül bağlamında tartışıldığı akademik tez bölümü.",
+      "url": "https://etheses.whiterose.ac.uk/id/eprint/5917/4/4.pdf"
+    },
+    {
+      "title": "II. The Eye of God: Dreams and Revelations in ...",
+      "relevance": "Uyku, bedenden soyutlanma ve ruhsal algı kapasitesiyle ilişkili düşünce ağını anlatan tez bölümü; ezoterik rüya anlayışına bağlanabilir.",
+      "url": "https://etheses.whiterose.ac.uk/id/eprint/5917/5/5.pdf"
+    },
+    {
+      "title": "the occultist:",
+      "relevance": "Okült geleneklerde uykunun astral dolaşım, rüya yolculuğu ve vizyon deneyimiyle ilişkilendirildiğini anlatan metin.",
+      "url": "http://www.ithellcolquhoun.co.uk/dreams.htm"
+    }
+  ],
+  "relatedSlugs": []
+}

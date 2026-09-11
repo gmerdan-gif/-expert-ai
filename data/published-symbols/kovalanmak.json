@@ -1,93 +1,198 @@
 {
   "slug": "kovalanmak",
   "title": "kovalanmak",
-  "shortDescription": "Rüyada kovalanmak, genellikle günlük hayattaki stresin, tehdit hissinin veya yüzleşmekten kaçınılan bir durumun yansımasıdır. Kovalamaca, bastırılmış kaygıları da çağrıştırabilir.",
+  "shortDescription": "Rüyada kovalanmak, uyanık yaşamda karşılaşılan tehditler, kaçınılan sorumluluklar ve kişilerarası zorluklarla bağlantılı olarak ortaya çıkan yaygın bir kaçınma ve tehdit temasını yansıtır.",
   "positiveAssociations": [
-    "Uyanık yaşamda kaçınılan konularla yüzleşme potansiyeli",
-    "Bastırılmış enerjinin veya potansiyelin açığa çıkma arzusu",
-    "Kişisel farkındalığı artırma ve içsel dönüşüm için bir uyarıcı"
+    "Kaçışın ardından güvenliğe ulaşma",
+    "Farkındalıkla dönüp bakma",
+    "İçsel yüklerden arınma çabası"
   ],
   "challengingAssociations": [
-    "Uyanık yaşam stresinin ve baskı hissinin rüyaya yansıması",
-    "Zorluklardan veya sorumluluklardan kaçınma eğilimi",
-    "Çözülmemiş tehdit algısı ve kaygı duygusunun baskın olması"
+    "Uyanık yaşamdaki olumsuz ilişkiler ve gerilimler",
+    "Bastırılmış korkular ve çözülmemiş meseleler",
+    "Sorumluluktan kaçma ve vicdani baskı"
   ],
   "contextDependentAssociations": [
-    "Kovalanan figürün kim olduğu veya neyi temsil ettiği",
-    "Rüya sahibinin kaçarken hissettiği korku veya heyecan düzeyi",
-    "Rüyanın sonunda yakalanıp yakalanmama durumu"
+    "Kovalayan figürün kimliği",
+    "Rüya sırasındaki korku veya kaçış tonu",
+    "Kaçışın başarılı olup olmadığı"
   ],
   "commonVariations": [
     {
-      "title": "Tanınmayan birisinden kaçmak",
-      "description": "Yüzü seçilemeyen veya kim olduğu bilinmeyen bir tehdit unsurundan hızla kaçmaya çalışmak, genellikle somutlaştırılamayan genel bir kaygı veya uyanık yaşam stresine işaret eder."
+      "title": "Tanınmayan Bir Figürden Kaçmak",
+      "description": "Sizi tehdit eden, yüzünü net göremediğiniz bir figürden sokaklarda veya tanımadığınız mekânlarda kaçmaya çalışmak."
     },
     {
-      "title": "Hayvan tarafından kovalanmak",
-      "description": "Vahşi veya agresif bir hayvanın hedefinde olmak, rüya sahibinin rasyonel zihniyle bastırmaya çalıştığı içgüdüsel dürtülerle karşılaşma ihtimalini düşündürür."
+      "title": "Hayvan Tarafından Kovalanmak",
+      "description": "Vahşi veya saldırgan bir hayvanın sizi takip etmesi ve kaçarken kapana kısılmış hissetme deneyimi."
     },
     {
-      "title": "Yavaş hareket ederek kaçmaya çalışmak",
-      "description": "Ayakların taşa kesilmesi veya adım atmanın imkansızlaşması gibi ağırlık hissiyle birlikte kovalanmak, uyanık yaşamda kontrolü kaybetme korkusunu ve çaresizlik algısını simgeler."
+      "title": "Kaçarken Hızın Kesilmesi",
+      "description": "Tehlikeden kaçmaya çalışırken bacakların ağırlaşması, adım atamada zorlanma veya yerinde sayma hissi."
     },
     {
-      "title": "Bilinmeyen bir tehlikeden saklanmaya çalışmak",
-      "description": "Sadece kovalanmakla kalmayıp sürekli bir yerlerde saklanma çabası içinde olmak, kaçınma stratejilerinin günlük hayattaki yansımalarını gösterir."
+      "title": "Kovalayan Kişiyle Yüzleşmek",
+      "description": "Sürekli kaçtıktan sonra ani bir kararla durup arkaya dönmek ve kovalayan figürle göz göze gelmek."
     }
   ],
-  "psychology": "Ampirik bulgular, kovalanmak temasının uyanık yaşam deneyimlerini metaforik biçimde yansıtabileceğini; özellikle stres, tehdit algısı veya çözülmemiş gündelik yaşantılarla ilişkili olabileceğini göstermektedir. Klasik psikanalitik çerçevede ise bu tema, kaçınma ve bastırılmış kaygının düşsel bir ifadesi olarak teorize edilmiştir.",
-  "jungian": "Jungcu çerçevede kovalanmak, bilinçdışının ‘gölge’ yönüyle karşılaşma olarak yorumlanır; kovlayan figür genellikle benliğin reddedilen, görmezden gelinen veya bastırılmış parçalarını temsil eder.",
+  "psychology": "Ampirik rüya araştırmaları, 'kovalanmak' temasının uyanık yaşamdaki olumsuz kişilerarası deneyimler ve tehdit unsurlarıyla metaforik bir bağ taşıdığını göstermektedir. Gündelik yaşamdaki baskıların ve stres faktörlerinin yoğunluğu, bu tür tehdit ve kaçınma rüyalarının sıklığını ve duygusal şiddetini etkileyebilir.",
+  "jungian": "Analitik psikoloji çerçevesinde kovalayan figür ve takip edilme motifi, rüya sahibinin bilinç alanından uzak tutmaya çalıştığı 'gölge' yönlerin veya entegre edilmemiş içeriklerin yaklaşması olarak ele alınır. Kaçış hareketi, bireyin kendi içsel gerçekliğinden kaçma eğilimini simgeleyebilir.",
   "islamicTradition": "",
   "christianTraditions": "",
   "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist bağlamda rüyalar, özellikle Mahayana literatüründe, uyanık deneyimin bir benzeri ve boşluk (sunyata) kavramı için bir benzetme olarak ele alınır. Bununla birlikte, kovalanma sahnesi doğrudan sabit bir Budist rüya sembolü olarak tanımlanmamıştır.",
-  "spiritualApproaches": "",
+  "buddhistEasternApproaches": "Doğu ve Budist tabanlı yaklaşımlarda kovalanma teması, zihinsel aversiyon (kaçınma ya da itme) eğilimi, dukkha (acı/tatminsizlik) ve samsara döngüsü içindeki koşullanmalarla ilişkilendirilir. Kaçış eylemi, acı verici olandan uzaklaşma çabasını güçlendirirken, farkındalıkla dönüp bakmak alternatif bir ilişki biçimi sunar.",
+  "spiritualApproaches": "Ruhsal ve ezoterik okumalarda kovalanmak, kişinin yüzleşmekten kaçındığı bir içsel gerilim, dönüşüm baskısı veya dikkatin yönelmesi gereken çözülmemiş bir yaşam dersi olarak yorumlanır.",
   "comparisonTable": [
     {
       "approach": "Ampirik Psikoloji",
-      "interpretation": "Uyanık yaşam stresinin, tehdit algısının ve kaçınma davranışlarının metaforik bir yansımasıdır.",
+      "interpretation": "Uyanık yaşamdaki tehditler, stres ve olumsuz kişilerarası deneyimlerin metaforik yansıması.",
       "evidenceLevel": "research"
     },
     {
-      "approach": "Jungcu / Psikanalitik Kuram",
-      "interpretation": "Bilinçdışının gölge yönleriyle karşılaşma, bastırılmış kaygıların ve reddedilen parçaların dışavurumudur.",
+      "approach": "Psikanaliz ve Jungcu Çerçeve",
+      "interpretation": "Bastırılmış dürtüler, korkular veya gölge yönlerin bilinç alanına yaklaşması.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Budist Yaklaşım",
-      "interpretation": "Rüya deneyiminin illüzyon ve boşluk kavramları çerçevesinde değerlendirilmesi, özel bir tabir barındırmaz.",
-      "evidenceLevel": "traditional"
-    }
-  ],
-  "commonGround": "Farklı analitik ve teorik yaklaşımlar, kovalanmak temasının rüya sahibinin zihnindeki baskı unsurlarıyla veya kaçındığı dinamiklerle bir bağı bulunduğunda birleşir.",
-  "differences": "Ampirik psikoloji bu temayı ölçülebilir stres ve uyanık yaşam olaylarıyla ilişkilendirirken, Jungcu ve psikanalitik teoriler konuyu tamamen içsel süreçler ve bilinçdışı mekanizmalar üzerinden açıklar.",
-  "inusAssessment": "Kovalanmak sembolü, tek ve sabit bir anlam içermeyen, kişisel stres düzeyleri ve kaçınma mekanizmalarıyla şekillenen dinamik bir rüya temasıdır. Bu nedenle rüyayı yorumlarken dogmatik ve deterministik yargılardan kaçınmak, rüya sahibinin uyanık yaşamındaki mevcut gerilimleri göz önünde bulundurmak gerekir.",
-  "faq": [
-    {
-      "question": "Kovalanmak rüyaları her zaman korkuyla mı ilişkilidir?",
-      "answer": "Ampirik çalışmalar bu temanın genellikle stres veya tehdit algısıyla bağlantılı olduğunu gösterse de, her rüya sahibinde hissettirilen duygusal yoğunluk ve uyanık yaşam karşılığı farklılık gösterebilir."
+      "approach": "Budist ve Doğu Yaklaşımları",
+      "interpretation": "Aversiyon, zihinsel koşullanmalar ve kaçınılan acı deneyiminden kaçış döngüsü.",
+      "evidenceLevel": "spiritual"
     },
     {
-      "question": "Kovalanmak rüyası görmenin bilimsel bir açıklaması var mı?",
-      "answer": "Evet, ampirik araştırmalar bu tür rüyaların uyanık yaşamdaki stresli deneyimlerin veya kaçınma eğilimlerinin birer metaforik yansıması olabileceğini ortaya koymaktadır."
+      "approach": "Spiritüel ve Ezoterik Okuma",
+      "interpretation": "Çözülmemiş meseleler ve dönüşüm talep eden içsel baskının işareti.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve yaklaşımlar, kovalanmak temasını temelde bir kaçınma, kaçış ve yüzleşilmemiş bir gerilim ya da tehdit unsuru etrafında ele almaktadır.",
+  "differences": "Ampirik psikoloji bulguları bu durumu uyanık yaşamdaki stres ve olumsuz ilişkilerle bağdaştırırken, teorik ve spiritüel yaklaşımlar bunu içsel çatışmalar, gölge unsurlar veya zihinsel aversiyon kalıpları üzerinden yorumlar.",
+  "inusAssessment": "Bu rüyayı değerlendirirken kovalayan figürün niteliği, kaçışın yarattığı bedensel hisler ve rüya sahibinin kaçmak yerine dönüp kovalayanla yüzleşip yüzleşmediği gibi ayrıntılar yorumun yönünü belirler.",
+  "faq": [
+    {
+      "question": "Rüyada sürekli aynı kişi veya varlık tarafından kovalanmak ne anlama gelir?",
+      "answer": "Tekrar eden kovalanma rüyaları, uyanık yaşamda uzun süredir kaçınılan, çözülmemiş bir mesele veya içsel baskının zihin tarafından ısrarla gündeme getirildiğine işaret edebilir."
+    },
+    {
+      "question": "Kovalanırken bacakların ağırlaşması veya koşamamak neyi ifade eder?",
+      "answer": "Bu detay, uyanık yaşamda karşılaşılan bir baskı veya sorumluluk karşısında kendinizi çaresiz, güçsüz veya engellenmiş hissettiğiniz durumları yansıtabilir."
     }
   ],
   "sources": [
     {
       "title": "Dreaming of being chased reflects waking-life experiences ...",
-      "relevance": "Kovalanma temasının rüyalarda uyanık yaşam deneyimleriyle metaforik ilişkisini inceleyen ampirik çalışma.",
+      "relevance": "Rüyada kovalanma temasını doğrudan inceleyen çalışma; uyanık yaşamda başkalarıyla olumsuz ilişkiler deneyimleriyle ilişkisini ele alıyor.",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11310133/"
     },
     {
-      "title": "Jung's Theory of Dreaming and the Findings of Empirical and ...",
-      "relevance": "Jung’un rüya teorisini ve kovalanma gibi sembolik temaların Jungcu yorumunu tartışan akademik inceleme.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12517111/"
+      "title": "Threats in dreams, emotions and the severity of threatening experiences in waking",
+      "relevance": "Rüyalardaki tehditlerin ve duyguların, uyanık yaşamda yaşanan tehditlerle ilişkisini günlük veriler üzerinden inceliyor.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/27214"
     },
     {
-      "title": "A Buddhist Approach to Dreams - Urban Dharma",
-      "relevance": "Budist metinlerde rüyaların illüzyon/boşluk benzetmesiyle ele alınmasına dair genel çerçeve; kovalanma sembolüne doğrudan sabit anlam vermez.",
-      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+      "title": "Typical dreams of falling, being chased, and being paralyzed ...",
+      "relevance": "‘Kovalanma’ temasının tipik rüya içeriği olarak ne kadar sık bildirildiğine dair temsilî anket verisi sunuyor.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/75878"
+    },
+    {
+      "title": "Nightmare Themes: An Online Study of Most Recent ... - PMC",
+      "relevance": "Kâbus temalarının sınıflandırılmasında \"kovalanma\" temasını ayrı bir kategori olarak tanımlıyor.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5837849/"
+    },
+    {
+      "title": "[PDF] The typical contents of Freud's and Jung's dreams",
+      "relevance": "Freud’un tipik rüya içerikleri arasında kovalanma ve takip edilme motiflerinin geçtiğini gösteren akademik bir derleme.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/19865/pdf/90172"
+    },
+    {
+      "title": "Being chased Dream Psychology Meaning | MyDreamsHub",
+      "relevance": "Freudcu okuma diliyle kovalanma temasını bastırılmış dürtüler ve kaçınma üzerinden anlatan çevrim içi metin.",
+      "url": "https://mydreamshub.com/dream/being-chased/psychology/"
+    },
+    {
+      "title": "Being Chased in a Dream Meaning - DeepJung",
+      "relevance": "Rüyada kovalanma temasını Jungcu gölge, bastırma ve bilinçdışının telafisi çerçevesinde açıklayan bir çevrimiçi yorum.",
+      "url": "https://www.deepjung.com/blog/being-chased-in-a-dream"
+    },
+    {
+      "title": "Dreams About Being Chased: The Shadow You Can't Outrun",
+      "relevance": "Kovalanma rüyasını Jung perspektifinden, kovalayan figürün bütünleşmek isteyen ayrışmış içerik olarak okunması üzerinden ele alan çevrimiçi yorum.",
+      "url": "https://individuate.me/articles/dream-about-being-chased"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Greko-Romen rüya yorumunun ana metni; rüya sembollerini tarihsel oneirokritik (rüya yorumu geleneği) bağlamda incelemek için temel eser.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Gods in dreams: Religious conceptions in Artemidorus' Oneirocritica",
+      "relevance": "Artemidorus’ta rüyanın işlevini ve yorumun bağlama bağlı yapısını ele alan akademik çalışma; rüya sahnelerinin nasıl çerçevelendiğini anlamaya yardımcı olur.",
+      "url": "https://research.vu.nl/en/publications/gods-in-dreams-religious-conceptions-in-artemidorus-oneirocritica"
+    },
+    {
+      "title": "ARTEMIDORUS´ ONEIROCRITICA. DREAM ANALYSIS IN ...",
+      "relevance": "Artemidorus’un eserinin beş kitaplık yapısını ve rüya yorumu için teknik bir çerçeve sunduğunu özetleyen akademik PDF kaydı; tarihsel rüya okuması için bağlam sağlar.",
+      "url": "https://drvidalis.gr/wp-content/uploads/2016/08/080709203649.pdf"
+    },
+    {
+      "title": "Rüyada Kovalanmak Nedir? Silahla, Bıçakla Kovalandığını ...",
+      "relevance": "Kovalanmayı şüphe, güvensizlik ve rüyada rahatsızlık duyulan kişilerle bağlantılı yorumluyor.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-kovalanmak-ne-anlama-gelir-6371282"
+    },
+    {
+      "title": "Being chased in a dream | The Islamic Dream Book",
+      "relevance": "Kovalanmayı korku, tehdit, düşmanlık ve sorumluluktan kaçış çerçevesinde özetliyor; kaçışın sonucu yorumda belirleyici görülüyor.",
+      "url": "https://theislamicdreambook.com/being-chased-in-a-dream/"
+    },
+    {
+      "title": "Rüyada Biri Tarafından Kovalanmanın Psikolojik Yorumu ...",
+      "relevance": "Kovalanmayı günah, vicdani baskı ve yaklaşan imtihan gibi dini-ahlaki temalarla ilişkilendiriyor.",
+      "url": "https://www.mentalgundem.com/ruyalar/ruyada-biri-tarafindan-kovalanmanin-psikolojik-yorumu-ve-anlami/314"
+    },
+    {
+      "title": "“All Dreams Follow the Interpretation” – Even for the Rabbis!",
+      "relevance": "Berakhot 55b çevresindeki rüya tartışmalarını ve yorumun rüya anlamındaki rolünü özetler; Yahudi rüya hermenötiğinin genel çerçevesini verir.",
+      "url": "https://thegemara.com/article/all-dreams-follow-the-interpretation-even-for-the-rabbis/"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Talmud’daki rüyalar tartışmasını, bazı rüyaların önemsiz sayılması ve olumlu yorumun önemi üzerinden özetler; Yahudi rüya çerçevesinin işleyişini gösterir.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Yahudi rüya geleneğinde bazı rüya imgelerinin işaret değerini örnekleyen bir derleme sunar; geleneksel sembol okuması için bağlam sağlar.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "being chased - Dream Symbol Meaning and Interpretation",
+      "relevance": "Budist çerçevede kovalanma temasını aversiyon ve farkındalık üzerinden açıklayan çevrim içi yorum.",
+      "url": "https://dreams.guide/dream-symbols/being-chased/"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Budist sembolizm içinde kovalanmayı dukkha, samsara ve zihinsel koşullanma ile ilişkilendiren çevrim içi yorum.",
+      "url": "https://mirrorwithin.com/dream-dictionary/getting-chased/"
+    },
+    {
+      "title": "Dream of Being Chased: Vedic Meaning",
+      "relevance": "Vedik/Swapna Śāstra bağlamında kovalanma rüyasını kaçınılan sorumluluk ve yüzleşme ihtiyacıyla okuyan çevrimiçi kaynak.",
+      "url": "https://www.vedicbirth.com/dream/being-chased"
+    },
+    {
+      "title": "15 Spiritual Meanings of Being Chased in a Dream",
+      "relevance": "'Being chased in a dream' başlığında modern bir ruhsal okuma sunar; kovalanma temasını çözülmemiş meseleler, içsel kaçınma ve gölgeyle yüzleşme olarak ele alır.",
+      "url": "https://wisdomofthespirit.com/spiritual-meaning-of-being-chased-in-a-dream/"
+    },
+    {
+      "title": "Dream of Being Chased Meaning: Anxiety, Avoidance, and Pressure",
+      "relevance": "Kovalanma motifini kaygı, kaçınma ve dönüşüm baskısı üzerinden açıklar; ruhsal okumada yaklaşan bir hakikat ya da ders olarak yorumlanabileceğini belirtir.",
+      "url": "https://somniascope.com/articles/being-chased.html"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "islamic",
+    "buddhist-eastern"
+  ]
 }

@@ -1,0 +1,269 @@
+{
+  "slug": "ilac",
+  "title": "İlaç",
+  "shortDescription": "Rüyada ilaç görmek, bedensel ya da ruhsal bir sıkıntı için destek, çözüm ve iyileşme ihtiyacını simgeler. İlacı isteyerek almak yardımı kabul etmeye açıklığı; acı, etkisiz veya reddedilen ilaç ise zorlayıcı bir süreçle yüzleşme ya da tedaviyi erteleme eğilimini gösterebilir.",
+  "positiveAssociations": [
+    "İlaç aracılığıyla şifa bulma ve belirtilerin hafiflemesi",
+    "Bir ilaç veya tedavi yoluyla dışarıdan destek alma",
+    "Panzehir ya da koruyucu ilaç sayesinde tehlikeden uzaklaşma",
+    "İlaç tedavisiyle duygusal dengenin güçlenmesi",
+    "Tedavinin gündelik işlevselliği desteklemesi"
+  ],
+  "challengingAssociations": [
+    "Acı bir ilaç veya tedavi sürecinin getirdiği zorluk",
+    "Bazı ilaçlarla ilişkili daha canlı ya da rahatsız edici rüyalar",
+    "İlaca veya dış müdahaleye bağımlı hissetme",
+    "Gerekli ilacı reddetme ya da tedaviyi erteleme",
+    "İlacın yan etkileri veya beklenmedik psikolojik etkileri"
+  ],
+  "contextDependentAssociations": [
+    "İlacın nasıl alındığı: içilmesi, haricen sürülmesi, enjeksiyon vb. Alım biçimi — alışkanlık, rıza veya reddetme — yorumda belirleyicidir.",
+    "İlacın acı, tatlı ya da etkisiz olması (acının fedakârlık/tedavi maliyeti, etkisizliğin umutsuzluk sembolizmi olabilir)",
+    "Rüyanın psikotrop veya tıbbi tedavi bağlamında görülmesi (kullanılan ilaçların rüya içeriğini değiştirebileceği literatürle uyumludur)",
+    "İlacı kim veriyor veya kim reçete ediyor (kimin müdahalesi olduğu, güven/şüphe temalarını belirler)"
+  ],
+  "commonVariations": [
+    {
+      "title": "Doktorun Verdiği İlacı İçmek",
+      "description": "Bir hekimin verdiği spesifik ilacı içtiğini görmek, rüya sahibinin sorununu profesyonel bir yöntemle çözmeye açık olduğunu ve dışarıdan önerilen tedaviyi kabul etme niyeti taşıdığını gösterebilir."
+    },
+    {
+      "title": "Acı Bir İlacı Zorla Yutmak",
+      "description": "Tadı çok kötü bir ilacı isteksizce veya zorla içtiğini görmek, uyanık hayatta kabul edilmesi gereken zor ama gerekli tedavi veya değişikliklerle yüzleşildiğini ima edebilir."
+    },
+    {
+      "title": "İlacı İçmeyi Reddetmek",
+      "description": "Sunulan ilacı reddetmek, çözüm yollarından kaçma, tedaviyi geciktirme veya alışkanlıklara tutunma eğilimini sembolize edebilir."
+    },
+    {
+      "title": "Zehre Karşı Panzehir Kullanmak",
+      "description": "Zehirlenmeye karşı etkili bir ilaç kullanmak, gerçek hayatta bir krizden kurtulma, tehditten korunma ya da güvende hissetme arzusu olarak okunabilir."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar psikotrop ilaçların rüya anımsama sıklığını, rüya canlılığını ve duygusal tonunu değiştirebildiğini gösterir; bazı antidepresanlar rüyalarda olumlu duygulanım artışıyla ilişkilendirilebilirken, dopaminerjik ilaçlar daha canlı veya rahatsız edici rüyalarla bağlantılı bulunmuştur. Bu yüzden rüyada ilaç imgesi hem gerçek dünyadaki tıbbi/psikiyatrik müdahalenin bir yansıması hem de tedavi süreçlerinin psikolojik etkilerinin sembolik ifadesi olarak anlaşılabilir — ancak tekil ve zorunlu bir anlam çıkarılamaz.",
+  "jungian": "Jungcu çerçevede ilaç imgesi, psişenin yaralı veya dengesiz hissedilen bir yönüne müdahale eden, telafi ve bütünleşme arayışını temsil eden bir araç olarak okunabilir. Yorumda ilacı kimin verdiği, nasıl alındığı ve rüya sahibinin kişisel çağrışımları belirleyicidir.",
+  "islamicTradition": "İslami rüya geleneğinde ilaç görmek sıklıkla dinin iyiliği, manevi ıslah, ilim ve nasihatten fayda görme ile ilişkilendirilir. Özellikle 'ilaç içmek' maddi/ruhsal şifa ile paralel olarak dini hayatın düzelmesine işaret edebilir; buna rağmen geleneksel yorumlar bağlam ve rüya ayrıntılarına dayanır.",
+  "christianTraditions": "Hristiyan tarihsel kaynaklarında şifa rüyaları bağlamında 'ilaç' imgeleri, Tanrı’nın veya azizlerin aracılığıyla sağlanan onarım ve bedensel/ruhsal iyileşme beklentisini simgeleyebilir. Bu okumalar genellikle rüyayı kutsal yardımın bir aracı olarak görür, fakat yorum rüya sahibinin koşullarına göre nitelenir.",
+  "jewishTraditions": "Talmudik ve ortaçağ Yahudi kaynaklarında rüyalar bazen tedavi, arınma ve hastalığın giderilmesiyle ilişkilendirilir; Berakhot geleneği gibi metinler rüya içindeki tedavi edici unsurları iyileşme beklentisiyle bağdaştırır. 'İlaç' sembolü burada da bağlamsal olarak ele alınmalıdır.",
+  "buddhistEasternApproaches": "Budist ve Tibet tıp-pratiklerinde ilaç/şifa imgeleri, beden-zihin dengesindeki bir düzenlemeye işaret edebilir. Medicine Buddha geleneği ve Tibet tıbbı bağlamında ilaç teması genellikle hastalığın giderilmesi ve merhametli şifa beklentisiyle ilişkilendirilir; rüya yorumunda bu tema, rüyanın tıbbi-ritüel veya içsel denge okumalarıyla birlikte değerlendirilir.",
+  "spiritualApproaches": "Ezoterik ve simyasal yorumlarda ilaç, içsel yaraların sarılması, enerjisel tıkanıklıkların açılması ve arınma sürecinin bir aracı olarak okunur. Bu yaklaşımlar ilacı sembolik bir ‘müdahale aracı’ olarak ele alır ve rüyanın dönüşüm/arıtma temalarıyla bağlanmasını öne çıkarır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Psikotrop ilaçların rüya geri çağırma sıklığını, rüya canlılığını ve duygusal tonunu nümerik ve içerik-analiz yöntemleriyle incelemesi.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "İlaç imgesinin psişik bütünleşme, telafi veya dengeleme amaçlı bir dış müdahale olarak okunması; kişisel çağrışımların belirleyiciliği vurgulanır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Rüyâ Geleneği",
+      "interpretation": "İlaç görmenin dini ıslah, ilim ve nasihatle faydalanma, esenliğe çıkma gibi anlamlarla ilişkilendirilmesi (yorumun bağlama bağlı olduğu notuyla).",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik / Simyasal Yaklaşım",
+      "interpretation": "İlacın arındırıcı, dönüştürücü ve enerji-dengeleyici bir müdahale metaforu olarak değerlendirilmesi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli disiplinler ilaç sembolünü genel olarak bir eksikliğin giderilmesi, dışarıdan uygulanan onarım/müdahale ve şifa arayışı ekseninde buluşturur; rüyanın ayrıntıları (ilacın türü, nasıl alındığı, kimin verdiği) ortak olarak yorumun belirleyicileri sayılır.",
+  "differences": "Bilimsel yaklaşımlar ilacın rüya üzerinde doğrudan nörobiyolojik/psikofarmakolojik etkilerine odaklanırken; geleneksel ve spiritüel okumalar ilacı manevi/ritüel veya simgesel şifa bağlamında değerlendirir. Jungcu yaklaşım ise bireysel çağrışımlar ve psişik işlevi önceler.",
+  "inusAssessment": "Rüyada ilaç görmek, tek başına sabit bir mesaj taşımaz; 'ilaç' bir madde/metot olduğu için rüyanın anlamı büyük ölçüde ilacın kendisine (formu, tadı, etkinliği), alım biçimine ve rüya sahibinin uyanık yaşamındaki tıbbi tedavi bağlamına bağlıdır. Bu nedenle yorumda ilacın nasıl sunulduğu, kimin verdiği, rüyanın duygusal tonu ve varsa gerçek bir tıbbi tedavi geçmişi dikkate alınmalıdır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Kirschner: Changes in Dream Content After Drug Treatment",
+      "relevance": "Sertralin örneğinde ilaç tedavisi öncesi/sonrası rüya içeriği değişimini gösteren vaka çalışması; ilaç kullanımının rüya içeriğini somut biçimde değiştirebileceğine dair örnek verir.",
+      "url": "https://dreams.ucsc.edu/Library/kirschner_1999a.html"
+    },
+    {
+      "title": "Dreams, Sleep, and Psychotropic Drugs - PMC - NIH",
+      "relevance": "Psikotrop ilaçların rüya anımsama sıklığı, rüya içeriği ve duygulanım üzerindeki etkilerini özetleyerek ilaç imgesinin tıbbi bağlamda rüyalarda nasıl yansıyabileceğine dair ampirik zemin sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7674595/"
+    },
+    {
+      "title": "The effects of RBD medications on dream content: A critical review ...",
+      "relevance": "Dopaminerjik ve levodopa türü tedaviler ile daha canlı veya rahatsız edici rüyalar/kâbuslar arasındaki ilişkiyi ele alan eleştirel bir derlemedir; bu, rüyada ilaca bağlı olumsuz yan etkilerin yorumla ilişkisini destekler.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41160948/"
+    },
+    {
+      "title": "The Scientific Study of",
+      "relevance": "Rüya içeriği analizinin yöntemlerini ve ilaç etkilerinin bu yöntemle nasıl incelenebileceğini açıklayarak, 'ilaç' temalı rüya okumalarında içerik-analiz yaklaşımının dayanaklarını sunar.",
+      "url": "https://dreams.ucsc.edu/TSSOD/The_Scientific_Study_of_Dreams_2003.pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramı; rüya içeriği ile gizli içerik ayrımını ve sembollerin bağlama göre çözümlenmesi gerektiğini vurgulayarak 'ilaç' sembolünün tekil bir anlam taşımayacağını destekler.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "COCAINE PAPERS BySIGMUND FREUD",
+      "relevance": "Freud’un kokainle ilgili yazıları; ilaç maddelerinin Freud’un klinik ve düşünsel bağlamındaki yerini gösterir.",
+      "url": "https://ia800507.us.archive.org/35/items/sigmund-freud-cocaine-papers/sigmund-freud-cocaine-papers.pdf"
+    },
+    {
+      "title": "Dreams In Jungian Psychology: The use of Dreams as ... - PMC",
+      "relevance": "Jungcu rüya kuramının sembolik dil ve kişisel çağrışımlar üzerine yaptığı vurguyu aktarır; 'ilaç' imgesinin bireysel bütünleşme ve dengeleme işlevi bağlamında okunmasına temel oluşturur.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3216128/"
+    },
+    {
+      "title": "Jung's Theory of Dreaming and the Findings of Empirical ...",
+      "relevance": "Jung’un rüyayı bilinçdışının sembolik öz-anlatımı olarak gören yaklaşımını ve rüya imgelerinin psikik duruma işaret etmesini özetliyor.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/1468-5922.70011"
+    },
+    {
+      "title": "Sleep and Dreams: From Myth to Medicine in Ancient Greece",
+      "relevance": "Antik Yunan tıp geleneğinde rüyaların bedenin iç durumuyla ilişkisi ve teşhis amacıyla kullanımı hakkında genel tarihsel-entelektüel arka plan sağlar.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352452915200102"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Klasik Greko-Romen oneirology geleneğinin yapısını gösterir; tıbbi/bedensel bağlamı dikkate alan yorum yöntemi 'ilaç' temasını tarihsel olarak konumlandırmak için kullanılır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "(PDF) The Body, Experience, and the History of Dream Science in ...",
+      "relevance": "Artemidorus’un rüyaları beden durumu ve tıbbî işaretler bağlamında ele alışını tartışır; şifa ve hastalık eksenindeki sembolleri anlamak için yararlıdır.",
+      "url": "https://www.academia.edu/68691950/The_Body_Experience_and_the_History_of_Dream_Science_in_Artemidorus_Oneirocritica"
+    },
+    {
+      "title": "Dreaming and the Body in Ancient Medicine - S Y N A P S I S",
+      "relevance": "Hippokratik Regimen 4 / On Dreams’in rüya içeriğini bedenin iç durumuna dair işaretler olarak okuyan tıbbî yaklaşımını açıklar.",
+      "url": "https://medicalhealthhumanities.com/2019/08/31/dreaming-and-the-body-in-ancient-medicine/"
+    },
+    {
+      "title": "THE SEMIOTICS OF THE SOUL IN ANCIENT MEDICAL DREAM INTERPRETATION: PERCEPTION AND THE POETICS OF DREAM PRODUCTION IN HIPPOCRATES’ ON REGIMEN | Ramus | Cambridge Core",
+      "relevance": "Antik Yunan’da tıbbî rüya yorumunun Asklepiosçu şifa pratiğiyle ilişkisini ele alır; iyileşme ve tedavi sembolizmi için bağlam sunar.",
+      "url": "https://www.cambridge.org/core/journals/ramus/article/abs/semiotics-of-the-soul-in-ancient-medical-dream-interpretation-perception-and-the-poetics-of-dream-production-in-hippocrates-on-regimen/2CADCA9F2A691F4FF9535EE9F0612275"
+    },
+    {
+      "title": "The role of dreams in ancient medicine",
+      "relevance": "İslami rüya tabirleri içinde \"ilaç\" girdilerine dair örnekler sunar; dinî ıslah, ilim/nasihat ve şifa temalarıyla ilişkilendirilen geleneksel okumaları gösterir.",
+      "url": "https://www.academia.edu/107704158/The_role_of_dreams_in_ancient_medicine"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri İ Harfi",
+      "relevance": "İslami rüya tabirleri içinde 'ilaç' girdi(ler)ine dair örnekler sunar; dinî ıslah, ilim/nasihat ve şifa temalarıyla ilişkilendirilen geleneksel okumaları gösterir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-i2-harfi.html"
+    },
+    {
+      "title": "İlaç",
+      "relevance": "İlaç sembolü için İslami rüya tabiri anlamlarını topluca verir; şifa, esenlik, dini ıslah, ilim ve Kur'an öğrenme bağlantılarını içerir.",
+      "url": "https://www.ilimdunyasi.com/i-ruya-tabiri-740/ilac/"
+    },
+    {
+      "title": "Byzantine Incubation Literature between Religion and Medicine: Food as Medicament in the Collection of Healing Miracles Performed by Saints Cosmas and Damian (BHG 373B)",
+      "relevance": "Bizans Hristiyan şifa rüyalarında tıbbi iyileşme sahnelerini ve rüya şifa ilişkisini ele alıyor.",
+      "url": "https://lirias.kuleuven.be/retrieve/709150"
+    },
+    {
+      "title": "the miracles of saints cosmas and damian",
+      "relevance": "Azizler aracılığıyla gerçekleşen şifa rüyaları ve uyku-ziyaret bağlamında iyileştirici deneyimleri inceliyor.",
+      "url": "https://ams.ceu.edu/2002/Csepregi.pdf"
+    },
+    {
+      "title": "[PDF] Dreams and Visions in the Early Middle Ages",
+      "relevance": "Erken Orta Çağ’da rüya yorumu, tıbbi gözlem ve iyileşme beklentileri arasındaki ilişkiyi tarihsel olarak açıklıyor.",
+      "url": "http://assets.cambridge.org/97811070/82137/excerpt/9781107082137_excerpt.pdf"
+    },
+    {
+      "title": "Doctoral Thesis",
+      "relevance": "Church Fathers bağlamında düşlerin kişinin bedensel durumunu anlamaya yardımcı olabileceği fikrini aktarıyor.",
+      "url": "https://era.ed.ac.uk/server/api/core/bitstreams/c52021c2-a434-4422-ad59-4122288fb573/content"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200 ...",
+      "relevance": "Babil Talmudu’ndaki rüya malzemesinin kehanet ve anlamlandırma boyutlarını tartışır; Talmudik rüya düşüncesinin genel yapısını verir.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "TERAPÊUTICA DURANTE O SONO:",
+      "relevance": "Berakhot geleneğinde rüyalar, kötü rüyalar için uygulamalar ve hastalıkla ilişkili işaretler özetlenir; şifa eksenli Yahudi rüya bağlamı kurar.",
+      "url": "https://repositorio.ulisboa.pt/bitstream/10451/62873/1/Terap%C3%AAutica%20durante%20o%20sono.pdf"
+    },
+    {
+      "title": "les rêves dans les sources juives anciennes",
+      "relevance": "Eski Yahudi kaynaklarında rüyaların hastalık, kötü rüya ve tedavi/rahatlama pratikleriyle ilişkisini tartışır.",
+      "url": "https://rosa.uniroma1.it/rosa01/medicina_nei_secoli/article/download/325/308/620"
+    },
+    {
+      "title": "Bavli Berakhot 55a–57b: The Talmudic Dreambook in ...",
+      "relevance": "Talmudik rüya geleneğinin şifa/tedavi eksenindeki metinlerini inceleyerek 'ilaç' sembolünün Yahudi yorum geleneği içinde iyileşme ve arınma bağlamında ele alınabileceğine dair çerçeve sunar.",
+      "url": "https://www.liverpooluniversitypress.co.uk/doi/pdf/10.18647/1801/JJS-1995?download=true"
+    },
+    {
+      "title": "The Starry Sky & the Still Small Voice: The World Within",
+      "relevance": "Berakhot 55b’de rüyaların kişinin düşünce ve duygularıyla ilişkili olabileceği fikrini aktarır; içsel yaşantı ile rüya arasındaki bağı vurgular.",
+      "url": "https://jewishvirtuallibrary.org/the-world-within-judaic-treasures"
+    },
+    {
+      "title": "Jewish Dream Exploration Source Sheet",
+      "relevance": "Talmud Berakhot 55b’de kötü rüyanın düzeltilmesi ve olumluya çevrilmesi için yapılan uygulamaları özetler; rüyaların tedavi edici yönünü gösterir.",
+      "url": "https://memglobal.org/resources/jewish-dream-exploration-source-sheet/"
+    },
+    {
+      "title": "Berakhot 57a-b: Seeing Bloodletting in a Dream",
+      "relevance": "Berakhot 57a-b’de rüyada kan alma/tedavi uygulamasının olumlu işaret sayılabildiğini açıklar; tedavi araçlarının rüya sembolizmine girebildiğini gösterir.",
+      "url": "https://steinsaltz.org/daf/berakhot57/"
+    },
+    {
+      "title": "[PDF] Jewish Magic Bibliography - University of Washington",
+      "relevance": "Yahudi şifa anlatıları ve Talmudik-midrashik healing stories üzerine literatürü listeler; sağlık/iyileşme temasının Yahudi metin geleneğindeki yerini bağlamlandırır.",
+      "url": "https://faculty.washington.edu/snoegel/JewishMagicBibliography.pdf"
+    },
+    {
+      "title": "Sweet Dreams - Medical Halacha",
+      "relevance": "Rüya yorumunu tıbbî teşhise benzeten Abarbanel pasajını aktarır; şifa ve teşhis diliyle rüya okuması için kavramsal köprü sağlar.",
+      "url": "https://medicalhalacha.org/2021/01/05/sweet-dreams/"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist gelenekte rüyaların sağlık durumuna işaret edebilen sembolik göstergeler olarak ele alınmasını ve bazı rüya imgelerinin bedensel dengesizliklerle ilişkilendirilmesini anlatır.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Sutra of the Medicine Buddha",
+      "relevance": "Medicine Buddha geleneğinin şifa ve tıbbi-ruhsal iyileştirme temalarını göstererek Budist bağlamda ilaç/şifa imgelerinin nasıl anlamlandırılabileceğine dair arka plan verir.",
+      "url": "https://www.buddhanet.net/pdf_file/medbudsutra.pdf"
+    },
+    {
+      "title": "Medicine Buddha Sutra",
+      "relevance": "Medicine Buddha’nın büyük bir hekim olarak hastalıkları iyileştiren figür olduğunu özetleyen Budist kaynak sayfası.",
+      "url": "https://www.buddhistdoor.com/OldWeb/bdoor/0606/sources/medsutra1.htm"
+    },
+    {
+      "title": "Dream interpretation and practice - TME",
+      "relevance": "Tibet Budizmi ve Tibet tıp geleneğinde rüya, kanal tıkanıklıkları, hastalık belirtileri ve sembolik dil arasındaki ilişkiyi açıklar.",
+      "url": "https://tibetanmedicine-edu.org/tmm/tm/dream-and-bardo/the-dream-interpretation-and-practice/"
+    },
+    {
+      "title": "Dreams in Tibetan Medicine - TME - Tibetan Medicine Education Center",
+      "relevance": "Tibet tıbbında rüyaların sembolik dil olarak anlaşılmasını ve hastalıkla bağlantılı renk/biçim okumalarını anlatır.",
+      "url": "https://tibetanmedicine-edu.org/tmm/tm/dream-and-bardo/dreams-in-tibetan-medicine/"
+    },
+    {
+      "title": "King of Lapis Lazuli Light and how can we attain healing ...",
+      "relevance": "Medicine Buddha ikonografisinde mavi-lapis lazuli rengi ve iyileştirme gücünün merkezi olduğunu açıklar.",
+      "url": "https://buddhaweekly.com/who-is-medicine-buddha-king-of-lapis-lazuli-light-and-how-can-we-attain-healing-blessings/"
+    },
+    {
+      "title": "Medicine Dream Meaning & Interpretation - Mirror",
+      "relevance": "İlaç/medicine sembolünü rüya bağlamında iyileşme, onarım ve denge arayışıyla ilişkilendiren bir modern spiritüel yorum sunar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/medicine/"
+    },
+    {
+      "title": "Medicine in dreams — meaning and symbolism",
+      "relevance": "İlaç/medicine sembolünü ezoterik bir okumada ruhsal rahatlama ve dengeye dönüşle ilişkilendirir.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/medicine"
+    },
+    {
+      "title": "Herbal Medicine Dream Meaning & Interpretation - Mirror",
+      "relevance": "Herbal medicine üzerinden simyasal dönüşüm ve içsel şifa temalarını rüya yorumu çerçevesine bağlar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/herbal-medicine/"
+    }
+  ],
+  "relatedSlugs": []
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "imam",
+  "title": "imam",
+  "shortDescription": "Rüyada imam görmek, rehberlik, önderlik ve sorumluluk temalarıyla ilişkilendirilir. İmamın cemaate namaz kıldırması itibar ve liderliği, tanıdık bir imamla karşılaşmak ise tavsiye ya da yön arayışını öne çıkarabilir.",
+  "positiveAssociations": [
+    "İtibar ve saygınlık kazanma",
+    "Doğru yola yönelme ve rehberlik",
+    "Toplumsal sorumluluk üstlenme",
+    "Manevi ve maddi bolluk"
+  ],
+  "challengingAssociations": [],
+  "contextDependentAssociations": [
+    "Rüyada görülen imamın tanınmış bir şahıs mı yoksa anonim bir figür mü olduğu",
+    "Rüyanın bağlamı: rüyayı görenin imamın önünde mi olduğu, imam mı olduğu yoksa imamı uzaktan mı izlediği; ayrıca imamın yaptığı eylemler.",
+    "Rüyanın uyandırdığı duygusal ton ve genel atmosferi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Cemaate Namaz Kıldırdığını Görmek",
+      "description": "Kişinin rüyasında kendisini cemaatin önünde namaz kıldırırken bulması, çevresinde sözü dinlenen biri haline gelmesi ve itibarla ilişkilendirilir."
+    },
+    {
+      "title": "Tanıdık Bir İmamla Karşılaşmak",
+      "description": "Gündelik hayatta bilinen bir din görevlisini veya imamı rüyada görmek, o dönem yaşanabilecek rehberlik arayışı veya tavsiye alma ihtiyacını yansıtabilir."
+    },
+    {
+      "title": "İmam Olduğunu Fark Etmek",
+      "description": "Rüyada imamlık makamına geldiğini görmek, sorumlulukların artması, hayat düzeninde yeni bir denge kurulması ve liderlik vasıflarının ön plana çıkmasıyla okunur."
+    },
+    {
+      "title": "Mihrapta İmamı İzlemek",
+      "description": "Cami ortamında mihrapta duran bir imamı uzaktan seyretmek, hayatın belirli bir düzenine, manevi merkeze yönelişe ve dışsal bir otoritenin etkisinde kalmaya işaret edebilir."
+    }
+  ],
+  "psychology": "Çapraz-kültürel rüya çalışmalarında (ör. Arap dünyası örnekleri) dini imgelerin daha sık ve farklı biçimlerde çıktığı gözlenmiştir; bu, imam imgesi gibi dinî otorite figürlerinin rüya içeriğini kültürel ve inanç bağlamına göre şekillendirdiğini gösterir. Ampirik literatürde 'imam' için tekil, evrensel bir psikolojik anlamı doğrulayan kanıt yoktur; bu nedenle yorum, rüyanın bağlamı, figürün kimliği, rüya görenin dini/sosyal deneyimi ve duygusal ton dikkate alınarak yapılmalıdır.",
+  "jungian": "",
+  "islamicTradition": "İslami rüya yorum geleneğinde camide cemaate namaz kıldıran imam görmek genel olarak önderlik, yönetim makamları, itibar ve hayırla ilişkilendirilir. Şiî ve bazı tarihsel geleneklerde imam figürünün doğru rüyalar, sembolik yorumlama yeteneği ve ezoterik bilgiyle bağlantısı olduğu vurgulanır; ancak bu tarihsel konumlar her rüya için tekil bir doktrin teşkil etmez ve yorum bağlama göre değişir.",
+  "christianTraditions": "",
+  "jewishTraditions": "Yahudi rüya geleneğinde (Berakhot 55a-b gibi metinler) rüyaların yorumla anlam kazandığı; yorumlanmamış rüyanın açılmamış bir mektuba benzetildiği aktarılır. Bu çerçeve, imam benzeri bir otorite figürünün rüyada görülmesini kişisel ve ahlaki bir değerlendirme bağlamında okumaya elverişli kılar, ancak imam için doğrudan bir Yahudi rüya yorumu geleneği bulunmamaktadır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda imam imgesi sıklıkla rehberlik, manevi merkez ve gizil bilgiye erişim temalarıyla ilişkilendirilir. Şiî ve İsmailî sembolizmde imam, yalnızca görünür otorite değil aynı zamanda ezoterik merkezin temsilcisi olarak düşünülür; rüyada imamın belirgin bir rolü olması, içsel yönelim veya kutsal merkeze çağrı şeklinde yorumlanabilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Araştırmalar",
+      "interpretation": "Dini imgelerin rüya içeriğinde kültürel bağlama göre çeşitlilik gösterdiğini ve imam gibi dini otorite figürlerinin bağlama bağlı olarak ortaya çıktığını belirtir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Geleneksel İslami ve yerel rüya yorumları",
+      "interpretation": "Cemaate namaz kıldırma, imam olma gibi görüntüleri liderlik, itibar ve toplumsal sorumlulukla ilişkilendirir; Şiî/İsmailî çevrelerde ezoterik bilgiyle bağ kurma eğilimi görülür.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel/Ezoterik Yaklaşım",
+      "interpretation": "İmamı manevi rehberlik, kutsal merkez ve içsel yönelimin simgesi olarak okur.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Kaynaklar imam figürünü rüyalarda genellikle rehberlik, otorite ve toplumsal/ruhsal yönelimle ilişkilendirir; bu ortak tema, yorumun bağlama bağlı olması gerektiğini vurgular.",
+  "differences": "Ampirik çalışmalar rüya içeriğinin kültürel ve inançsal arka plana göre değiştiğini vurgularken, geleneksel İslami yorumlar imam imgelerini daha spesifik toplumsal ve manevi rollerle eşleştirir. Ezoterik okumalar ise imamı daha çok içsel rehberlik ve kutsal merkez bağlamında değerlendirir.",
+  "inusAssessment": "İmam sembolünü genel bir dinî otorite figüründen ayıran temel özellik, cemaat önünde namaza önderlik etme, dinî rehberlik ve topluluk içindeki temsil makamıdır. Rüyada imamın namaz kıldırması, öğüt vermesi, makamını doğru ya da yanlış kullanması liderlik, itibar ve dinî sorumluluk eksenlerini öne çıkarabilir. Şiî ve İsmailî bağlamlarda imam kavramının daha özgül teolojik ve ezoterik anlamları bulunduğundan, bu geleneklere ait okumalar Sünni cemaat imamı kavramıyla birleştirilmeden ayrı değerlendirilmelidir.",
+  "faq": [
+    {
+      "question": "Rüyada imam görmek her zaman iyi bir şeye mi işaret eder?",
+      "answer": "Geleneksel kaynaklarda genellikle itibar, rehberlik ve hayır temalarıyla ilişkilendirilir; fakat rüyanın bağlamı, detayları ve duygusal tonu anlamı değiştirebilir."
+    },
+    {
+      "question": "Rüyada imam olmak ne anlama gelir?",
+      "answer": "Klasik aktarımlarda imam olmak, toplumsal sorumlulukların artması, itibar kazanma veya yaşam düzeninde yeni bir denge kurma gibi temalarla okunur. Bu tür okumalar bağlama göre değerlendirilmelidir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Spiritual and religious imagery in dreams: A cross cultural analysis",
+      "relevance": "Dini/ruhsal imgelerin rüya içeriğinde kültürel gruplar arasında farklılık gösterdiğini ve Müslüman bağlamlarda dini imgelerin daha sık çıktığını gösteren ampirik çalışma; imam imgesinin kültürel bağlamda ortaya çıkabileceğine dair genel kanıt sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/10333"
+    },
+    {
+      "title": "DREAMS AND DREAM INTERPRETATION",
+      "relevance": "İranica maddesi; Şiî gelenekte imamların doğru rüyalar ve sembolik yorumlama ile ilişkilendirildiğini aktararak imam figürünün rüya kültüründeki tarihsel konumunu açıklar.",
+      "url": "https://www.iranicaonline.org/articles/dreams-and-dream-interpretation/"
+    },
+    {
+      "title": "Maria Mavroudi, 2002 | doi:10.1163/ ...",
+      "relevance": "Bir rüya örneğinde imamlık makamının doğum, soy ve dini önderlik sembolizmiyle nasıl ilişkilendirildiğini gösteren tarihsel malzeme sunar.",
+      "url": "https://brill.com/downloadpdf/display/book/9789004473461/B9789004473461_s013.pdf"
+    },
+    {
+      "title": "[PDF] The Interpretation of Dreams in Islamic Lands - The Distant Reader",
+      "relevance": "İslam dünyasında rüya yorumunun tarihsel yaygınlığını ve kültürel önemini özetler; imam figürünün bu gelenek içinde okunabileceği bağlamı destekler.",
+      "url": "https://distantreader.org/stacks/journals/ajiss/ajiss-1336.pdf"
+    },
+    {
+      "title": "[PDF] The Inspirational Night Dream in Islam",
+      "relevance": "İslam’da rüyaların dinî deneyim ve otoriteyle bağlantısını ele alır; rüya içinde imam figürünün rehberlik ve meşruiyet çağrışımlarını anlamak için bağlam sağlar.",
+      "url": "https://durham-repository.worktribe.com/file/1600217/1/Published%20Journal%20Article"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri İ Harfi",
+      "relevance": "Çevrimiçi aktarımlarda cemaate namaz kıldıran imam, imam olmak gibi imgelerin liderlik, itibar ve bolluk temalarıyla ilişkilendirildiğine dair örnekler sunar.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-i2-harfi.html"
+    },
+    {
+      "title": "What Does Dreaming About Imam Mean? - Rüya Tabirleri",
+      "relevance": "Modern rüya söylemleri kapsamında imam sembolünü rehberlik, bilgi ve sorumluluk temalarıyla özetleyen popüler bir aktarım sunar.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-imam"
+    },
+    {
+      "title": "Imam Jafar Islamic Interpretations & Meanings",
+      "relevance": "İmam figürünün liderlik ve dini otorite rolü bağlamında yorumlandığı modern çevrimiçi girişlerden biridir.",
+      "url": "https://www.myislamicdream.com/imam_jafar.html"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Yahudi geleneğinde rüyanın yorumla bağlantısını ve yorumlanmamış rüyanın açılmamış mektup benzetmesini sunar; imam benzeri otorite figürleri için yorum bağlamının önemini vurgulayan bir karşılaştırma çerçevesi sağlar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Berakhot 55.b metninin rüya yorumu ve iyi rüya ile yorum pratiğine ilişkin pasajını sunan kaynak.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Jewish Dream Exploration Source Sheet - Mem Global",
+      "relevance": "Modern Yahudi rüya pratiği ve rüya yorumunun kişisel ve ibadet bağlamında ele alınışı hakkında bilgi verir; \"imam\" için doğrudan bir eşdeğer sunmaz ancak yorum ilkelerini destekler.",
+      "url": "https://memglobal.org/resources/jewish-dream-exploration-source-sheet/"
+    },
+    {
+      "title": "The solitude of the Orphan: Ǧābir b. Ḥayyān and the Shiite ...",
+      "relevance": "Şiî çevrelerde imamın ezoterik bilgi ve inisiyatik otoriteyle ilişkisinin tarihsel ve kültürel bağlamını tartışan akademik çalışma örneğidir.",
+      "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/solitude-of-the-orphan-gabir-b-hayyan-and-the-shiite-heterodox-milieu-of-the-thirdninthfourthtenth-centuries/4F76EF47752DC56BB5BDFC08C7B2C67F"
+    },
+    {
+      "title": "Esoteric Hajj: From the Physical Ka'bah to the Living Imam",
+      "relevance": "İsmailî ezoterik yorumlarda yaşayan imamın kutsal merkez ve içsel yönelimle ilişkisini ele alan çağdaş bir yazı; imam imgesinin ezoterik okumalarını örnekler.",
+      "url": "https://www.ismailignosis.com/p/esoteric-hajj-from-the-physical-kabah-to-the-living-imam"
+    }
+  ],
+  "relatedSlugs": []
+}

@@ -1,123 +1,202 @@
 {
   "slug": "havuz",
   "title": "havuz",
-  "shortDescription": "Rüyada havuz görmek, duyguların kontrol altında tutulmasına işaret edebilir. Berrak su huzur ve ferahlığı, bulanık su ise sıkıntı veya belirsizliği; havuzdan su içmek de rızık, rahatlama ya da faydalı bir destek görmeyi çağrıştırır.",
+  "shortDescription": "Rüyalarda havuz, çevresi belirlenmiş bir su mekânı olarak duygusal durum, içsel düzenleme ve sosyal ilişkilerin sembolik yansıması olabilir.",
   "positiveAssociations": [
-    "Duygusal denge ve kontrol",
-    "Ferahlık ve rahatlama",
-    "Rızık ve bolluk",
-    "Arınma ve yenilenme"
+    "Arınma",
+    "Yenilenme",
+    "İyileşme",
+    "Zihinsel berraklık",
+    "Cömertlik ve bereket"
   ],
   "challengingAssociations": [
-    "Bulanık veya kirli suyla ilişkilendirilen olumsuz durumlar veya ahlaki belirsizlik",
-    "Arzu ve dikkat dağınıklığı"
+    "Zihnin bulanıklığı",
+    "Duygusal karışıklık",
+    "Sınırlanmışlık hissi",
+    "Dışarıdan gelen müdahaleler"
   ],
   "contextDependentAssociations": [
-    "Suyun berraklığı (berraklık veya bulanıklık) — geleneklere göre farklı yorumlar doğurur.",
-    "Havuzun bulunduğu yer (ör. ev içi havuz, halka açık havuz, ritüel veya ibadet alanı çevresindeki su birikintisi)",
-    "Havuzla etkileşim şekli (yüzmek, su içmek, uzak durmak) rüyanın anlamını değiştirir"
+    "Suyun temiz veya kirli olması",
+    "Havuzda yüzmek ya da sadece izlemek",
+    "Abdest almak veya su içmek",
+    "Kişinin havuzla kurduğu fiziksel temas"
   ],
   "commonVariations": [
     {
-      "title": "Berrak Su Dolu Havuz",
-      "description": "Suyun tamamen şeffaf ve temiz görünmesi, zihinsel netliğe ve duygusal olarak huzurlu bir döneme işaret edebilir."
+      "title": "Berrak ve sakin bir havuzda yüzmek",
+      "description": "Çok temiz, durgun bir havuzda yüzmek; kişinin duygusal dengesine, korunmuş bir iç dinginliğe ve zihinsel netliğe işaret edebilir."
     },
     {
-      "title": "Bulanık veya Kirli Havuz",
-      "description": "Havuz suyunun bulanık olması, çözülmemiş içsel sıkıntılara, karmaşaya veya ahlaki açıdan belirsiz durumlara dikkat çekebilir."
+      "title": "Bulanık veya kirli suyla dolu havuz",
+      "description": "Havuz suyunun kirli veya bulanık olması, çözülmemiş duygulara, içsel karışıklığa ya da bilince çıkarılmayı bekleyen duygu birikimine işaret edebilir."
     },
     {
-      "title": "Havuzdan Su İçmek",
-      "description": "Rüyada havuzdan su içtiğini görmek, gündelik yaşamda beklenmeyen bir ferahlığa, bolluğa veya faydalı bir kişiden destek görmeye yorumlanabilir."
+      "title": "Havuzdan su içmek veya abdest almak",
+      "description": "Havuz suyunu içmek veya o suyla abdest almak, bazı geleneksel yorumlarda rızık, üzüntülerin giderilmesi ve ritüel arınma temalarına bağlanır."
     },
     {
-      "title": "Sınırlandırılmış Yapay Havuz",
-      "description": "Doğal bir göl yerine insan eliyle yapılmış bir havuzda olmak, duyguların, egonun belirlediği bilinçli sınırlar içinde tutulmaya çalışıldığını simgeleyebilir."
+      "title": "Taşan veya dışarıdan su karışan havuz",
+      "description": "Havuzun taşması bolluk ve bereketin artışına işaret edebilir; havuza yabancı su karışması ise aile düzenine veya özel alana dış müdahale olarak yorumlanabilir."
     }
   ],
-  "psychology": "Psikanalitik literatürde su genel olarak duygusal ve psişik içerikle ilişkilendirilir; ancak Freudcu gelenekte havuz için belirli ve kanonik bir formülasyon yoktur. Bu nedenle havuzla ilgili yorumlar, suyun genel duygusal temsil işlevine atıf yapan sınırlı psikanalitik yaklaşımlar ile daha çok Jungcu çerçeveler arasında paylaşılan temalara dayanır.",
-  "jungian": "Jungcu analizde doğal su kütleleri geniş bilinçdışıyla bağdaştırılırken, insan yapımı ve sınırlandırılmış havuzlar bilinçdışının daha kişisel, ego tarafından çerçevelenmiş ve denetlenebilir yönlerini çağrıştırabilir; suyun berraklığı ve havuzun yapısı bu okumada önemli ayrıntılardır.",
-  "islamicTradition": "İslami rüya tabiri derlemelerinde havuz genellikle cömertlik, faydalı bir kimse, rızık ve ferahlıkla ilişkilendirilir. Havuzdan su içmek sıkıntıdan kurtulma veya rızka işaret edebilir; berrak havuz olumlu nitelendirmelerle, bulanık havuz ise olumsuz çağrışımlarla yorumlanır.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Budist kaynaklar havuzu bazen arzuya kapılma veya bağlılık tehlikesine işaret eden bir alan olarak uyarıcı biçimde sunar; aynı zamanda manastır çevresindeki sakin su birikintileri arınma ve dinginlik çağrışımı taşıyabilir. Bu okumalar geleneklerin bağlamına göre değişir.",
-  "spiritualApproaches": "",
+  "psychology": "Rüya içerik analizlerinde su ve havuz gibi imgeler, doğa öğeleri arasında sıkça rastlanan temalardandır. Bu imgelerin yorumu sabit bir anlama indirgenemez; rüyanın bağlamı, suyun niteliği ve rüya içindeki eylemler (yüzmek, içmek, temas kurmak) yorum için belirleyicidir.",
+  "jungian": "Analitik psikoloji bağlamında su genellikle bilinçdışıyla ilişkilendirilir. Havuzun yapısal sınırları ve inşa edilmiş görünümü, suyun ‘düzenlenmiş’ bir kısmıyla karşılaşmayı çağrıştırır; bu da rüyada daha kişisel, sınırlandırılmış ve yönlendirilebilir bir psişik alanla ilişkilendirilebilir.",
+  "islamicTradition": "İslami rüya tabirlerinde havuz, genellikle cömert ve faydalı bir kimseyle, rızık ve arınma temalarıyla bağdaştırılır. Havuzdan abdest almak üzüntülerin azalmasına yorumlanır; havuzdan su içmek ise hayır sahibi birinden rızık almaya yorumlanır. Geniş ve temiz bir havuzda yıkanmak arınma şeklinde yorumlanır.",
+  "christianTraditions": "Hristiyan okumalarında havuz motifleri, özellikle daldırma ve arınma çağrışımı olduğunda vaftiz ve yeni doğuş temalarıyla ilişkilendirilebilir. Kutsal metinlerdeki bazı havuz tasvirleri iyileşme, ferahlık ve ilahi müdahale bağlamında ele alınır.",
+  "jewishTraditions": "Yahudi geleneklerinde su imgeleri çoğunlukla hayat, bereket ve olumlu alamet çerçevesinde değerlendirilir. Havuz benzeri kapalı su alanları, ritüel temizliği ve geçişleri çağrıştıran mikveh pratiğinin sembolik zeminiyle ilişkilendirilebilir.",
+  "buddhistEasternApproaches": "Budist kaynaklarda lotus havuzları saflık, dönüşüm ve kutsal mekân imgeleriyle betimlenir; erken metinlerde berrak ve bulanık havuzların karşıtlığı zihnin açıklığı ile bulanıklığını anlatmak için kullanılır. Bu çerçeve, havuzun zihinsel açıklık/karışıklık temalarıyla okunmasını destekler.",
+  "spiritualApproaches": "Modern spiritüel okumalarda havuz, duyguların düzenlendiği, güvenli ve seçilmiş bir içsel çalışma alanı olarak görülür. Bakımlı bir havuz bilinçli arınma ve tazelenme ile ilişkilendirilirken, kirli ya da ihmal edilmiş bir havuz duygusal düzensizlik göstergesi olarak yorumlanır.",
   "comparisonTable": [
     {
-      "approach": "Psikanalitik Çerçeve",
-      "interpretation": "Suyun duygusal içeriği temsil etmesi üzerine genel atıflar; havuz için belirgin bir kanonik formülasyon sınırlıdır.",
+      "approach": "Ampirik Rüya Araştırmaları",
+      "interpretation": "Su ve havuz motifleri sık gözlenen rüya kategorilerindendir; tek bir anlama indirgenmez, sistematik içerik kodlaması gerektirir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz ve Jungcu Psikoloji",
+      "interpretation": "Suyun bilinçdışıyla bağı, havuzun ise daha kişisel ve sınırlandırılmış bir psişik alan çağrışımı oluşturduğu yönünde teorik okumalar vardır.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "Jungcu Analiz",
-      "interpretation": "Havuzun sınırları, bilinçdışının daha kişisel ve denetlenebilir bir temsilini vurgular; berraklık ve konteks önemlidir.",
-      "evidenceLevel": "theoretical"
-    },
-    {
-      "approach": "İslami Rüya Geleneği",
-      "interpretation": "Cömert kimse, rızık, ferahlık; suyun berraklığına göre hayır veya sıkıntı şeklinde yorumlar bulunur.",
+      "approach": "İslami ve Geleneksel Tabirler",
+      "interpretation": "Havuz rüyaları cömert kimse, rızık, arınma ve toplumsal çevreyle ilişkilendirilen geleneksel anlamlara sahiptir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Budist Yaklaşım",
-      "interpretation": "Arzu ve dikkat dağınıklığına karşı uyarı veya ritüel/meditatif bağlamlarda arınma ve dinginlik çağrışımları.",
-      "evidenceLevel": "traditional"
+      "approach": "Spiritüel ve Ezoterik Yaklaşımlar",
+      "interpretation": "Havuzu duyguların düzenlendiği, bilinçli içsel çalışma ve arınma alanı olarak okuyan modern yorumlar vardır.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Genel olarak farklı yaklaşımlar havuzu, suyun akışkanlığı ile insan yapımı sınırların birleştiği, duyguların ve içsel durumların gözlemlenebildiği bir odak noktası olarak ele alır; berraklık, havuzun yapısı ve kullanım bağlamı ortak okumaları şekillendirir.",
-  "differences": "Psikolojik yaklaşımlar havuzu ego sınırları ve bilinçdışı denetimi üzerinden değerlendirirken; geleneksel ve dini yorumlar daha ziyade rızık, ahlaki nitelendirme veya ritüel anlamlara odaklanır.",
-  "inusAssessment": "Havuz sembolü INUS biçiminde değerlendirildiğinde: havuzun insan yapımı sınırları, suyun berraklığı ve rüya içindeki etkileşim biçimi rüyanın duygusal mesajına katkıda bulunan önemli ama tek başına belirleyici olmayan bileşenlerdir.",
+  "commonGround": "Çeşitli disiplinler, havuzu çevresi belirgin ve inşa edilmiş bir su alanı olarak görür; bu nedenle çoğu yaklaşım havuzu arınma ve duygusal düzenleme bağlamında, içsel malzemenin kontrollü olarak işlendiği bir sahne olarak yorumlar.",
+  "differences": "Bilimsel içerik analizleri havuzu istatistiksel bir rüya kategorisi olarak ele alırken, psikanalitik ve Jungcu yaklaşımlar havuzun psişik sınır, regresyon ve bilinçdışı temalarıyla ilişkisini vurgular. Dini ve geleneksel yorumlar ise havuzu rızık, bereket, ritüel arınma ve toplumsal ilişkiler ekseninde değerlendirir.",
+  "inusAssessment": "Havuz simgesi okyanus veya nehir gibi akışkan, sınırsız su imgelerinden ayrılır; yapısal sınırları, duyguların denetlendiği veya belli bir düzene sokulduğu bir sahne çağrıştırır. Bu nedenle rüyadaki ana ayrıştırıcı unsurlar suyun berraklığı, havuzun bakımı ve rüya sahibinin suyla kurduğu eylemsel ilişkilerdir (yüzmek, içmek, abdest almak).",
   "faq": [],
   "sources": [
     {
-      "title": "Swimming Pool Dream Meaning: Depth, Boundaries, and the ...",
-      "relevance": "Havuzun insan yapımı sınırları ve duyguların çerçevelenmesi temalarını Jungcu ve yorumlayıcı perspektiflerle ilişkilendirir.",
-      "url": "https://www.dreamspoken.com/en/dream-meaning/swimming-pool"
+      "title": "[PDF] Dream content analysis using Artificial Intelli- gence",
+      "relevance": "Rüya içerik analizinde 'pool' gibi su alt imgelerinin nasıl sınıflandırıldığını gösterir; havuzun rüya verisinde ayrı bir motif olarak kodlanabileceğini destekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/48744/54228"
     },
     {
-      "title": "Pool Dream Meaning: Depth, Clarity, and What Your Water Is ...",
-      "relevance": "Havuz suyunun berraklığına bağlı anlam farklılıklarını ve yapay su alanının yönelttiği çağrışımları tartışır.",
-      "url": "https://www.dreamspoken.com/en/dream-meaning/pool"
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya raporlarının sistematik kodlanması ve kör derecelendirme gibi yöntemlerle su imgelerinin yorumunun nasıl çerçevelenebileceğini açıklar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
     },
     {
-      "title": "The symbolism of pool in the field of moral traditional architecture of Iran",
-      "relevance": "Geleneksel mimaride havuzun sembolik işlevlerini, mekânsal ve ritüel bağlamları üzerinden ele alır.",
-      "url": "https://jfaup.ut.ac.ir/article_69757.html?lang=en"
+      "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
+      "relevance": "Freud’un rüya kuramı, su imgelerinin beden, doğum ve ana rahmi çağrışımları üzerinden psikanalitik yorumlanmasına dair temel çerçeve sağlar; havuz için doğrudan hüküm vermez ancak su sembolizmi bağlamı sunar.",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
     },
     {
-      "title": "dream | The Child Who Dreamed of a Tortoise",
-      "relevance": "Rüyada suyun bilinçdışıyla ilişkisini ve havuz benzeri su alanlarının psikik çağrışımlarını Jungcu bağlamda ele alan bir metin.",
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud’un rüya kuramı, sudan çıkma, suya girme ve benzeri sahnelerin beden, doğum ve ana rahmi çağrışımları üzerinden psikanalitik yorumlanmasına dair temel çerçeve sağlar; bu çerçeve havuz yorumlarına temel oluşturur.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/261 - ...",
+      "relevance": "Sudan çıkma, suya girme ve benzeri düş sahnelerinin doğum ve embriyonik yaşamla ilişkilendirildiği pasajları içerir.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
+    },
+    {
+      "title": "Full text of \"Marie Louise Von Franz books\"",
+      "relevance": "Jungcu perspektiften suyun bilinçdışıyla ilişkisi ve sembol yorumunun bağlama bağlılığı hakkında örnek pasajlar sunar; havuz okuması için Jungcu zemini açıklar.",
+      "url": "https://archive.org/stream/marielouisevonfranzalchemyanintroductiontothesymbolismandthepsychologystudiesinj/Marie-Louise%20Von%20Franz%20-%20Alchemy_%20An%20Introduction%20to%20the%20Symbolism%20and%20the%20Psychology%20(Studies%20in%20Jungian%20Psychology)%20(1981,%20Inner%20City%20Books)_djvu.txt"
+    },
+    {
+      "title": "The Child Who Dreamed of a Tortoise",
+      "relevance": "Suda hareket etme ve yüzmenin bilinçdışıyla ilişkili psişik bir deneyim olarak okunmasına dair Jungcu pasaj sunar.",
       "url": "https://carljungdepthpsychologysite.blog/2021/03/26/dream-25/"
     },
     {
-      "title": "1. The Symbolism of the Pool in Initiation.",
-      "relevance": "Su ve bilinçdışı arasındaki ilişkiyi Jungcu bağlamda tartışan metin; havuz sembolünün yorumlanmasına kavramsal dayanak sağlar.",
-      "url": "https://carljungdepthpsychologysite.blog/2020/01/31/symbolism/"
+      "title": "Artemidorus on Dreams",
+      "relevance": "Oneirocritica’nın kapsamını ve rüya yorum yöntemini özetler; havuz sembolünü geniş Greko-Romen rüya kılavuzu bağlamına yerleştirir.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
     },
     {
-      "title": "Rüyada Havuz görmek - İhya Rüya Tabirleri",
-      "relevance": "İslami rüya tabiri derlemeleri bağlamında havuzun rızık, ferahlık ve suyun berraklığına göre yapılan okumalarını sunar.",
-      "url": "https://ruya.ihya.org/ruyada-havuz-gormek.html"
+      "title": "Artemidorus, Dream Interpretation 2.15 - aleator classicus",
+      "relevance": "Artemidorus geleneğinde gölet/gölet-benzeri su alanlarının evle ve kapalı su mekânlarıyla ilişkilendirildiğine dair tarihsel bir örnek sunar; havuz için tarihsel bağlam sağlar.",
+      "url": "https://aleatorclassicus.wordpress.com/2011/10/29/artemidorus-dream-interpretation-2-15/"
     },
     {
-      "title": "Significance of Pool of water",
-      "relevance": "Budist ve Hindu bağlamlarda havuz ve su birikintilerinin arınma, dinginlik ve arzuya dair uyarı temalarını özetler.",
-      "url": "https://www.wisdomlib.org/concept/pool-of-water"
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Rüyanın bağlama duyarlı ve işaretleyici bir doğaya sahip olduğu yönündeki genel tanımı verir; havuz yorumunda tekil anlam dayatmasını sınırlamak için önemlidir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "Significance of Pools of water",
-      "relevance": "Kutsal su alanlarının Budizm ve Hinduizm içindeki arınma, huzur ve ritüel temizlik bağlamlarını bir arada toplar.",
-      "url": "https://www.wisdomlib.org/concept/pools-of-water"
+      "title": "Prof. Scott B. Noegel",
+      "relevance": "Oneirocritica’nın doruk noktası olduğunu ve daha geniş bir oneirokritik arka planı derlediğini açıklar; havuz için tarihsel çerçeve sağlar.",
+      "url": "https://faculty.washington.edu/snoegel/PDFs/articles/Noegel%2036%20-%20Ideologies%202000.pdf"
     },
     {
-      "title": "Significance of Sacred pool",
-      "relevance": "Kutsal havuz temasını Gaya ile ilişkilendirilen arınma pratikleri üzerinden Budist ve Hindu ritüel kullanımına bağlar.",
-      "url": "https://www.wisdomlib.org/concept/sacred-pool"
+      "title": "[PDF] ALCMENA'S DREAM IN MOSCHUS' MEGARA - Dialnet",
+      "relevance": "Oneirokritik öğretilerin sözlü ve el kitabı temelli aktarımını anlatır; su mekânlarının sabit değil geleneksel yorumla işlendiğini destekler.",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/633286.pdf"
     },
     {
-      "title": "Water pond: Significance and symbolism",
-      "relevance": "Su göletinin Budizm ve Hinduizm içinde dinginlik, güzellik, arınma ve ritüel anlamlar taşıdığını özetler.",
-      "url": "https://www.wisdomlib.org/concept/water-pond"
+      "title": "İmam Nablusi Rüya Tabirleri H Harfi - Muhammed.net",
+      "relevance": "İslami rüya tabirleri bağlamında havuz için doğrudan maddeler içerir; cömertlik, abdest, su içme ve arınma temalarını aktarır.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-h-harfi.html"
+    },
+    {
+      "title": "Rüyada Havuzlu Oda Görmek Ne Anlama Gelir? Ne Demek, Neye Yorumlanır?",
+      "relevance": "Havuzu Nablusî geleneğine atfederek, onu kişi, çevre, arınma ve bereket temalarıyla ilişkilendirir.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-havuzlu-oda-gormek-ne-anlama-gelir-26788"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri - Nedir? Nasıl yapılır? Ne demektir?",
+      "relevance": "Havuzu; cömert ve faydalı bir kimseyle, abdest almakla, su içmekle veya kadınla ilişkilendiren çeşitli tabirleri bir araya getirir.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/imam-nablusi-ruya-tabirleri/page/2/"
+    },
+    {
+      "title": "Topical Bible: Pools of Water",
+      "relevance": "Kutsal Kitap’ta havuzların ferahlık, iyileşme ve ilahi müdahale bağlamlarında nasıl kullanıldığını özetleyen toplu bir başvuru sunar.",
+      "url": "https://biblehub.com/topical/p/pools_of_water.htm"
+    },
+    {
+      "title": "[PDF] Betesda dan Siloam: Dua Kolam, Satu Keselamatan Kajian Teologis ...",
+      "relevance": "Hristiyan bağlamında Betesda ve Siloam havuzlarının yorumlanması üzerinden vaftiz, iyileşme ve arınma temalarına dair teolojik bir perspektif sunar.",
+      "url": "https://siloamresearch.org/index.php/jtpk/article/download/31/46"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Yahudi literatüründe su imgelerinin olumlu alametler içinde yer almasına dair pasajlar içerir; havuz benzeri su imgeleri için sembolik zemin sağlar.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Yahudi rüya yaklaşımında rüyaları iyiye çevirme pratiğini ve olumlu görülen gece imgeleri listesini aktarır; su sembolizmi için geleneksel bağlam sunar.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "Mikveh - Jewish Practices & Rituals",
+      "relevance": "Mikveh'i ritüel arınma için kullanılan bir ritüel banyo olarak tanımlar; havuz sembolü için Yahudi su sembolizmi zemini sağlar.",
+      "url": "https://jewishvirtuallibrary.org/mikveh"
+    },
+    {
+      "title": "Sukhāvatīvyūha - Śraddhāpa Translation",
+      "relevance": "Sukhāvatī’deki lotus havuzlarının değerli maddelerden oluştuğunu, sekiz iyi nitelikli suyla dolu olduğunu ve lotüslerle çevrili bulunduğunu anlatan pasaj.",
+      "url": "https://www.sraddhapa.com/ssv"
+    },
+    {
+      "title": "The Amida Sutra",
+      "relevance": "Amitābha/Pure Land bağlamında lotus havuzlarının mücevherli, suyla dolu ve lotüslerin açtığı kutsal mekânlar olarak sunulduğu sutra çevirisi.",
+      "url": "http://www.acmuller.net/bud-canon/amidakyo.pdf"
+    },
+    {
+      "title": "Udakarahaka Suttas: A Pool of Water",
+      "relevance": "Erken Budist metinlerde berrak ve bulanık havuz karşıtlığı, zihnin açıklığı ve bulanıklığı metaforu üzerinden havuz simgesinin zihinsel saflık bağlamında okunmasına olanak tanır.",
+      "url": "https://www.accesstoinsight.org/tipitaka/an/an01/an01.045-046.than.html"
+    },
+    {
+      "title": "Pool in dreams — meaning and symbolism",
+      "relevance": "Modern spiritüel kaynaklardan havuzun duyguların düzenlendiği bir içsel alan olarak yorumlanmasına dair örnekler sunar; bu yorumların çağdaş spiritüel yaklaşımlarla nasıl anlatıldığını gösterir.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/pool"
+    },
+    {
+      "title": "Swimming Pool Dream Meaning: Depth, Boundaries, and the ...",
+      "relevance": "Havuzun hazırlanmış ve bakımı yapılan su olması nedeniyle yenilenme, bilinçli arınma ve iç dünyaya kontrollü giriş temasını vurguluyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/swimming-pool"
     }
   ],
   "relatedSlugs": []

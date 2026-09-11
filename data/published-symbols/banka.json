@@ -1,0 +1,248 @@
+{
+  "slug": "banka",
+  "title": "banka",
+  "shortDescription": "Rüyada banka görmek, para, zaman ve duygusal enerji gibi kaynakları koruma ve yönetme ihtiyacını; güvenlik ve sorumluluk arayışını yansıtabilir. Bankanın dolu, boş, açık ya da kapalı olması, kaynaklarınıza erişiminizle ve onları kullanma biçiminizle ilgili temaları öne çıkarır.",
+  "positiveAssociations": [
+    "Güvenlik",
+    "Korunma",
+    "Maddi ve manevi birikim",
+    "İçsel kaynaklara erişim",
+    "Sorumluluk bilinci",
+    "İstikrar"
+  ],
+  "challengingAssociations": [
+    "Bastırma ve sansür",
+    "Aşırı kontrol",
+    "Borçlanma kaygısı",
+    "Değerlere erişilememesi",
+    "Geçicilik korkusu"
+  ],
+  "contextDependentAssociations": [
+    "Bankadaki paranın miktarı veya durumuna göre değişen kaynak algısı",
+    "Binanın mimari ve kurumsal havasının uyandırdığı otorite hissi",
+    "Para yatırma veya çekme eyleminin rüya sahibinin günlük hayatındaki ekonomik kararlarıyla ilişkisi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kapalı veya Erişilemez Bir Banka Görmek",
+      "description": "Rüya sahibinin kendi içsel potansiyeline veya duygusal rezervlerine ulaşmakta zorlandığını, bir engelle karşılaştığını ima eder."
+    },
+    {
+      "title": "Bankaya Para Yatırmak",
+      "description": "Uyanık yaşamda geleceğe yatırım yapma, birikim oluşturma veya kaynakları güvenli bir alanda saklama arzusu olarak okunabilir."
+    },
+    {
+      "title": "Bankadan Para Çekmek",
+      "description": "Mevcut kaynakların harcanması, birikimlerin kullanıma sokulması ya da psikolojik olarak saklanan enerjinin açığa çıkışı süreci olarak görülebilir."
+    },
+    {
+      "title": "Banka senedi veya ticari borç görmek",
+      "description": "Günlük yaşamda hesap verebilirlik, ticari riskler, yükümlülükler ve borçlanma kaygılarıyla ilişkilendirilebilir."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmaları (ör. DreamBank çalışmaları), rüya ögelerini tekil, evrensel betimlerle sabitlemek yerine tema, duygu tonu ve bağlam dağılımı açısından inceler. Psikanalitik literatürde para ve mali imgeler, haz, kontrol, bastırma ve psikik ekonomi temalarıyla ilişkilendirilir. Dolayısıyla banka bir yandan gündelik maddi kaygıları yansıtabilir, diğer yandan rüya sahibi için kişisel çağrışımlar üzerinden anlam kazanır.",
+  "jungian": "Jungcu perspektifte banka, dışsal finans kurumundan çok psişenin emanet ettiği ve koruduğu içsel değerler, saklı potansiyeller ve “hazne” imgesi olarak okunabilir. Bu okuma, bankanın rüyada nasıl sunulduğuna, rüya sahibinin bankayla kurduğu duygusal ilişkiye ve erişim biçimine göre şekillenir.",
+  "islamicTradition": "Modern İslami rüya kaynaklarında banka genellikle gelir veya ekonomik güvenlik ekseninde ele alınır. Bankaya para yatırmanın işlerde başarı veya kazançla, bankadan para çekmenin ise paranın elden çıkması ya da kaynak azalmasıyla yorumlandığı yönünde aktarım vardır.",
+  "christianTraditions": "Hristiyan yorum geleneklerinde banka rüyası çoğunlukla güvenli saklama, korunma, birikmiş ödül veya manevi sorumluluk temalarıyla ilişkilendirilir. Patristik ve tarihsel Hristiyan rüya anlayışında ise rüyanın kaynağı, ahlaki yönü ve ruhun durumu ön plandadır; bu nedenle modern yorumlar temkinle ele alınmalıdır.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyaların anlamı sabit bir sözlüğe sıkıştırılmaz; Berakhot ve rabbanî tartışmalar rüya yorumunun yorumla şekillendiğini vurgular. Doğrudan Talmudik bir 'banka' girişi bulunmamakla birlikte güven, emanet, hesap verme ve etik servet yönetimi gibi temalar üzerinden kontrollü bir okuma yapılabilir.",
+  "buddhistEasternApproaches": "Budist yaklaşımlarda rüyalar sıklıkla geçicilik ve değişkenlik bağlamında okunur. Bu çerçevede banka imgesi, maddi sahipliklerin ve dışsal güvencelerin geçiciliğini hatırlatan ve bu tür bağlılıkları sorgulatan bir sembol olarak değerlendirilebilir.",
+  "spiritualApproaches": "Spiritüel ve ezoterik okumalarda banka, kaynakların saklandığı bir hazne, güvenlik alanı veya zaman, yetenek ve enerjinin yönetildiği bir depo metaforu olarak görülür. Banka dolu ve erişilebilirse korunmuş kapasite ve istikrarı; boş veya erişilemezse kaynakların yeniden dengelenmesi ihtiyacını çağrıştırabilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Para; bastırma, ekonomik temsil ve libidinal (cinsel enerji) yönetimi bağlamında psişik ekonomiyle ilişkilendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "İçsel zenginliklerin saklandığı bir hazne; bilinçdışı kaynaklara ve gizli potansiyele erişim.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Yaklaşım",
+      "interpretation": "Gelir/güvenlik, para yatırma/çekme ve ticari borç/sermaye ilişkileri üzerinden yapılan modern yorumlar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Güvenli saklama, göksel ödül, inanç ve manevi sorumluluk temaları.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Yaklaşım",
+      "interpretation": "Güven, emanet, sorumluluk ve etik servet yönetimi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist (Doğu) Yaklaşımları",
+      "interpretation": "Maddi sahipliklerin geçiciliği ve rüyaların değişkenlik simgesi olarak okunması.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Enerji birikimi, zaman ve yetenek gibi yaşam kaynaklarının yönetimi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli gelenekler ve kuramsal yaklaşımlar banka imgesini ortak olarak güvenlik, değer saklama, kaynak yönetimi ve sorumluluk temaları etrafında değerlendirirler.",
+  "differences": "Psikanaliz bankayı bastırma ve içsel ekonomik dengelerle ilişkilendirirken, Jungcu yaklaşım içsel hazinelere odaklanır; dinî yorumlar emanet ve ahlaki sorumluluğa vurgu yapar; spiritüel okumalar ise enerji ve kaynak yönetimi metaforunu öne çıkarır.",
+  "inusAssessment": "Rüyada banka sembolü, somut bir finans kurumundan ziyade, rüya sahibinin kaynaklarıyla (duygu, enerji, para, zaman) kurduğu ilişkiyi, güvenlik arayışını ve erişim ile durum dengesini yansıtır. Bankanın dolu/boş, erişilebilir/erişilemez olması veya işlemlerin (yatırma/çekme) nasıl gerçekleştiği, sembolün olası anlamlarını sınırlar. Bu nedenle yorumda rüyanın duygusal tonu ve kişisel çağrışımlar önceliklidir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Studying dream content using DreamBank.net",
+      "relevance": "Rüya içerik analizinin yöntemlerini ve geniş derlemelerin sembolleri bağlam içinde incelemedeki rolünü açıklar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2008c.html"
+    },
+    {
+      "title": "The Neurocognitive Theory of Dreaming",
+      "relevance": "Rüya anlatılarının sistematik iç çözümlemesini ve duygu tonu analizinin önemini ortaya koyan ampirik bir çerçeve sunar.",
+      "url": "https://dreams.ucsc.edu/NCTD/Neurocognitive%20Theory%20of%20Dreaming%20(Domhoff%202022).pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya mekanizmaları (yer değiştirme, yoğunlaştırma, çağrışım) bağlamında para ve ekonomik imgelerin psikanalitik yorumuna temel sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Das Geld bei Marx und Freud",
+      "relevance": "Para imgelerinin Freud bağlamında bastırma, sembolleşme ve psikik ekonomiyle ilişkisini tartışır.",
+      "url": "https://elibrary.klett-cotta.de/article/99.120105/ps-39-5-429"
+    },
+    {
+      "title": "Bank in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Banka imgesini Jungcu bağlamda içsel değerler ve psişik hazne metaforu üzerinden ele alan modern bir çalışmadır.",
+      "url": "https://rosmertapublishing.com/dream-symbols/bank/"
+    },
+    {
+      "title": "What Does Dreaming About Bank Mean? - Rüya Tabirleri",
+      "relevance": "Banka rüyasını Jungcu bakışla iç kaynaklara erişim ve gizli potansiyel temasıyla ilişkilendiren modern bir rüya açıklaması.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-a-bank"
+    },
+    {
+      "title": "Bank Dream Meaning & Interpretation - Mirror",
+      "relevance": "Banka imgesini kolektif bilinçdışı ve ortak arketipsel içeriklerle ilişkilendiren modern Jungcu yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/bank/"
+    },
+    {
+      "title": "Full article: Symbolism in bank marketing and architecture",
+      "relevance": "Bankaların mimari ve görsel dilinde kullanılan sembollerin tarihsel ve kültürel anlamlarını inceler; bankanın otorite ve güven çağrışımlarına ışık tutar.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/17449359.2019.1683038"
+    },
+    {
+      "title": "[PDF] Building the Bank Large print guide",
+      "relevance": "Banka mekânlarındaki antik sembolizmin (ör. Merkür figürü) tarihsel kullanımını ve para ile ilişkilendirilmesini örnekler.",
+      "url": "https://www.bankofengland.co.uk/-/media/boe/files/museum/print-guide"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Antik rüya yorum geleneğinin yöntem ve kapsamı hakkında tarihsel bağlam sağlar; 'banka' için doğrudan bir giriş vermez.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' The Interpretation of ...",
+      "relevance": "Antik rüya yorum kitabının korunmuş en kapsamlı metin olduğunu ve yorum yöntemini özetler; tarihsel rüya geleneği bağlamı sunar.",
+      "url": "https://academic.oup.com/book/40085"
+    },
+    {
+      "title": "Banka Rüyada Görmek İmam Nablusi - İslamda.org",
+      "relevance": "Modern İslami kaynaklarda bankanın gelir/güvenlik ve para yatırma/çekme bağlamında nasıl yorumlandığına dair bir örnek sunar.",
+      "url": "https://www.islamda.org/2015/05/banka-ruyada-gormek-imam-nablusi.html"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "'Banka' başlığı altında rüyada bankaya para yatırma ve para çekme konularını kısa bir derleme halinde sunar.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Bank Islamic Interpretations & Meanings",
+      "relevance": "İslami çerçevede banka senedi ve borçlanma imgelerinin ticaret ve yatırım bağlamında değerlendirilmesine örnek sağlar.",
+      "url": "https://www.myislamicdream.com/bank.html"
+    },
+    {
+      "title": "Apostle David E. Taylor [Official Site] - Joshua Media Ministries Int'l.",
+      "relevance": "Banka rüyası için doğrudan Hristiyan yorum maddesi; banka sembolünü göksel ödül, kilise, saklama ve korunma ile ilişkilendiriyor.",
+      "url": "https://joshuamediaministries.org/dreams/bank/"
+    },
+    {
+      "title": "Helpful Clues to Dream & Vision Interpretation",
+      "relevance": "Banka ve banka çeki için Hristiyan rüya sözlüğü niteliğinde maddeler; güvenli saklama, göksel ödül, kilise ve inanç temasını birlikte veriyor.",
+      "url": "https://davewilliams.com/wp-content/uploads/2018/09/Helpful-Clues-to-Dream-and-Vision-Interpretation.pdf"
+    },
+    {
+      "title": "Biblical Dreams Interpretation - Wailing Women of Prayer",
+      "relevance": "Banka, çek ve güvenlik diliyle Hristiyan rüya yorumu veren kaynak; banka sembolünü emniyet, dayanıklılık ve göksel ödülle ilişkilendiriyor.",
+      "url": "https://wailingwomenofprayer.org/biblical-dreams-interpretation/"
+    },
+    {
+      "title": "Doctrinalising dreams: patristic views of the nature of ... - ERA",
+      "relevance": "Patristik rüya anlayışının ahlaki, demonik ve ilahi boyutlarını tartışan tez; Hristiyan rüya yorumuna bağlamsal çerçeve sağlıyor.",
+      "url": "https://era.ed.ac.uk/handle/1842/5462?show=full"
+    },
+    {
+      "title": "The patristic dream (Chapter 3) - Dreaming in the Middle ...",
+      "relevance": "Ortaçağdaki patristik rüya düşüncesini ele alan çalışma; Hristiyan rüyalarında anlamın ahlaki ve teolojik bağlamda kurulduğunu gösteriyor.",
+      "url": "https://www.cambridge.org/core/books/abs/dreaming-in-the-middle-ages/patristic-dream/AF4244F788B3C8B6E3361A7951BE82DE"
+    },
+    {
+      "title": "Berakhot | The Sefaria Library",
+      "relevance": "Yahudi rüya yorumu geleneklerinin rabbanî çerçevesini ve rüyanın yoruma bağlı doğasını gösterir.",
+      "url": "https://www.sefaria.org/Berakhot"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot’ın rüyalar bölümünün kapsamını ve Yahudi rüya geleneğindeki merkezi yerini açıklar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Babylonian Talmud: Tractate Berakoth",
+      "relevance": "Berakhot’ın rüya pasajlarını ve sembolik yorumların bağlamsal yapısını görünür kılar.",
+      "url": "https://www.come-and-hear.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist perspektifte rüyaların geçicilik ve değişkenlik bağlamında nasıl okunabileceğine dair güncel bir açıklama sağlar.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Bank in Dreams: Security, Value, and the Contracts We Live By",
+      "relevance": "Modern spiritüel yorumlarda banka temasının güvenlik, değer saklama ve toplumsal düzen bağlamında ele alınışına dair örnek bir metindir.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/bank"
+    },
+    {
+      "title": "Rüyada Banka: Anlamı ve Yorumu 2026 | SosyalVadi",
+      "relevance": "Banka sembolünü içsel kaynaklar, ruhsal koruma ve cömertlik/emanet diliyle yorumlayan modern spiritüel metin.",
+      "url": "https://www.sosyalvadi.com/ruya/banka/"
+    },
+    {
+      "title": "Bank Dream Meaning Interpretation",
+      "relevance": "Rüyada banka temasını kaynaklar, güvenlik ve enerji birikimiyle ilişkilendiren modern çevrimiçi yorum.",
+      "url": "https://dreamsq.org/bank-dream-meaning-interpretations/"
+    },
+    {
+      "title": "Bank (as a financial institution) / banking house",
+      "relevance": "Bankayı maddi güç ve güvenli bir alan olarak yorumlayan, aynı zamanda ruhsal bir mekân olarak ele alan çevrimiçi rüya metni.",
+      "url": "http://www.dreamtation.com/docs/688.htm"
+    },
+    {
+      "title": "Sen o banku – co oznacza? Sennik: symbolika i interpretacja finansów duszy",
+      "relevance": "Polonya dilindeki metin, banka imgesini kaynak, enerji ve bilinçdışı birikim bağlamında yorumlayan modern bir çevrimiçi çalışmadır.",
+      "url": "https://doswiadczeniabliskiesmierci.pl/sennik/sen-bank"
+    },
+    {
+      "title": "Sen o banku - Co Oznacza? Interpretacja Snu",
+      "relevance": "Banka sembolünü maddi ve gayri-maddi kaynaklar, güvenlik ve kontrol bağlamında yorumlayan çevrimiçi rüya metni.",
+      "url": "https://snyiznaki.pl/interpretacja-snow/sen-o-banku"
+    },
+    {
+      "title": "Bank Dream Meaning | Dreamiary",
+      "relevance": "Banka imgesini kaynaklar, güvenlik ve içsel zenginlik metaforları bağlamında ele alan modern spiritüel içerik.",
+      "url": "https://www.dreamiary.com/symbols/bank"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "buddhist-eastern"
+  ]
+}

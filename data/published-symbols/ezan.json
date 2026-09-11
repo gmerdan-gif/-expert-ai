@@ -1,0 +1,196 @@
+{
+  "slug": "ezan",
+  "title": "Ezan",
+  "shortDescription": "Rüyada ezan görmek veya duymak, ibadete, hayra ya da dikkat edilmesi gereken bir sorumluluğa çağrıyı simgeler; hayırlı haber ve topluluğa seslenme anlamları da taşıyabilir. Ezanın nerede, ne zaman ve kim tarafından okunduğu yorumu değiştirir; minareden veya bilinen bir yerde okunması hayra, uygunsuz vakit ya da mekânda duyulması ise uyarıya işaret edebilir.",
+  "positiveAssociations": [
+    "İbadete ve hayra yönelme",
+    "Hac veya umre ile ilişkilendirilen yolculuk/niyet",
+    "Hayırlı haber, bereket ve merhamet beklentisi",
+    "Doğru söz söyleme, toplumsal itibar kazanma veya davet iletme",
+    "Ruhsal uyanış ve dikkatin toplanması"
+  ],
+  "challengingAssociations": [
+    "Uygunsuz zaman veya mekânda duyulduğunda uyarı niteliği (sıkıntı, kayıp veya yanlış adım)",
+    "Yetkin olunmayan bir görevi üstlenmeye yönelik uyarı",
+    "Ezanın çağrı niteliğinin yarattığı içsel sarsıntı veya rahatsızlık",
+    "Ezan çağrısının yanlış anlaşılması veya uygunsuz bağlamda yankılanması"
+  ],
+  "contextDependentAssociations": [
+    "Bilinen bir yerde ya da minareden okunan ezan, bazı geleneksel yorumlarda hayır, hac veya toplumsal tanınmayla ilişkilendirilir.",
+    "Sokak ortasında ya da uygunsuz bir mekânda duyulan ezan genellikle güçlük, iflas veya sosyal huzursuzluğa işaret edecek şekilde yorumlanır.",
+    "Ezanı duymak, pasif bir çağrıya maruz kalmayı simgeler; ezan okumak ise çağrıyı iletme, sorumluluk üstlenme veya topluluk önünde görünür olma anlamına gelir."
+  ],
+  "commonVariations": [
+    {
+      "title": "Minareden Ezan Okumak",
+      "description": "Minareden ezan okumak, topluluğa seslenme, görünür bir sorumluluk üstlenme veya kamusal bir çağrı yapma temalarını öne çıkarabilir."
+    },
+    {
+      "title": "Bilinmeyen Bir Yerde Ezan Sesi İşitmek",
+      "description": "Tanıdık olmayan mekânda gelen ezan sesi, dışarıdan gelen bir uyarı, beklenmedik bir davet veya rüya sahibinin dikkat etmesi gereken bilinçdışı yönelimlerin yankısı olarak okunabilir."
+    },
+    {
+      "title": "Ev İçinde Ezan Okunduğunu Duymak",
+      "description": "Evin içinden gelen ezan sesi, ailevi bir habere, ev içi sorumluluklara veya yakın çevreyle ilgili bir dönüşüme işaret edebilir; bazı geleneklerde olumsuz olaylarla da ilişkilendirilmiştir."
+    },
+    {
+      "title": "Uygun Olmayan Vakitte Ezan Okumak",
+      "description": "Gereksiz veya olağan dışı bir vakitte ezan okumak, kişinin yetkin olmadığı bir görevi üstlenmesi, zamanlama hatası veya toplumsal yanlış anlamalara işaret eden bir uyarı biçiminde yorumlanır."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmaları tek bir simgeye sabit anlam atamayı desteklemez; rüya içeriği duygusal ton ve uyku öncesi zihinsel durumla bağlantılıdır. Psikanalitik çerçevede rüyada işitilen sesler, dışarıdan geliyormuş gibi algılansa bile uyanık yaşamda söylenmiş sözlerin veya bastırılmış düşüncelerin yeniden biçimlenmiş izlerini taşıyabilir; bu nedenle ezan sesinin anlamı rüyanın duygusal atmosferi ve kişisel çağrışımlarıyla değerlendirilmelidir.",
+  "jungian": "Jungcu okumada ezan, 'çağrı' arketipi ve içsel yöneliş temaları bağlamında ele alınır; dua ve kutsal çağrı imgeleri, bilinçdışının yönlendirmesi veya bireyleşme sürecine işaret eden bir farkındalık çağrısı olarak düşünülebilir. Ancak Jung’un birincil metinlerinde ezana özgü sabit bir hüküm bulunmadığı için yorum, kişisel çağrışımlar ve rüyanın bütüncül bağlamı içinde dikkatle yapılmalıdır.",
+  "islamicTradition": "İslami rüya anlatımlarında ezan teması, modern derlemeler ve geleneksel aktarılarda genellikle hayır, bereket, hac, doğruya çağrı veya makam yükselişi gibi anlamlarla bağlanır; aynı zamanda uygunsuz mekân veya vakitte okunduğunda uyarı veya olumsuzluk işaretleri şeklinde aktarılmıştır. Bu okumalar kaynaklar arasında değişir ve çoğu modern derleme üzerinden raporlanmıştır.",
+  "christianTraditions": "Hristiyan rüya geleneğinde ezan için doğrudan klasik bir kayıt bulunmamaktadır; buna karşın rüyada dua etme veya dualara çağrı imgesi Hristiyan yorumlarında Tanrı ile ilişki, tövbe ve içsel yöneliş çağrışımları verir. Bu nedenle ezan benzeri bir çağrı imgesi, dua ve uyanış temaları çerçevesinde temkinli ve dikkatli bir şekilde ele alınabilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar yorumlanabilir ve dua ile olumluya çevrilebilir (Berakhot örneğinde görüldüğü üzere). Ezan için doğrudan Talmudî bir madde yoksa da şofar gibi çağrı-sesleri, uyanış, tövbe ve toplu ibadete yönelme bağlamında benzer sembolik işlevler taşır; rüyadaki çağrı teması bu çerçevede okunabilir.",
+  "buddhistEasternApproaches": "Zen ve bazı Budist uygulamalarda çan sesi, dikkati toplama ve farkındalığa çağrı işlevi görür; bu bağlamdan hareketle ezan benzeri bir çağrı sesi rüyada 'uyanıklığa yönelme' ve dikkat temalarıyla ilişkilendirilebilir. Ancak ezanın kendisi Budist bir sembol değildir; burada yapılan bağ, işlevsel paralellik üzerinedir.",
+  "spiritualApproaches": "Spiritüel okumada ezan, bir yöneliş veya uyanış çağrısı olarak ele alınabilir. Rüyada ezanı işitmek kişinin dikkatini manevi bir sorumluluğa çevirmesini, ezana ses vermek ise bu çağrıyı başkalarına iletme rolünü simgeleyebilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Rüyada işitilen sesleri uyanık yaşamın ve bastırılmış düşüncelerin yeniden biçimlenmiş izleri olarak değerlendirir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Ezanı 'çağrı' arketipi, içsel yöneliş ve bilinçdışından gelen sembolik mesaj olarak okur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Modern ve geleneksel derlemelerde ezan, hac, hayır, makam veya bağlama göre uyarı gibi anlamlarla yorumlanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneksel Çerçevesi",
+      "interpretation": "Rüyadaki çağrı ve ses unsurlarını uyanış, tövbe ve rüyanın olumluya çevrilmesi uygulamaları bağlamında ele alır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Ezanı ilahî çağrı, içsel yöneliş ve ruhsal uyanış simgesi olarak değerlendirir; ezana ses vermek ise iletme sorumluluğu vurgusu taşır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, ezan benzeri işitsel çağrılarda ortak olarak uyanma ve dikkat toplama, içsel yöneliş ve ruhsal farkındalık temalarını görür; aralarındaki farklar sembolün kültürel bağlamı ve uygulama biçiminden kaynaklanır.",
+  "differences": "Psikanalitik yaklaşım sesi kişisel zihinsel izlerin yeniden biçimlenmesi olarak açıklar; Jungcu bakış arketipsel bir çağrı ve bireyleşme sürecine vurgu yapar. Dini gelenekler (özellikle İslami okumalar) mekân, vakit ve eylemin niteliğine göre daha somut hayat olayları veya uyarılarla ilişkilendirirken, spiritüel yaklaşımlar daha doğrudan 'ilahî çağrı' temasına bağlar.",
+  "inusAssessment": "Ezan rüyası, tek ve kesin bir anlamdan ziyade genellikle 'çağrı' işlevi etrafında değerlendirilmelidir: kime ve nerede söylendiği, rüya sahibinin duygu durumu ve rüyanın diğer unsurları birlikte ele alındığında daha açıklayıcı olur. Bu yönüyle ezan, rüya sahibinin uyanık yaşamında hangi sorumluluklara, uyarılara veya içsel yönelimlere kulak vermesi gerektiğini sorgulatan bir işitsel simge olarak öne çıkar.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Recurrent dream themes: Frequency, emotional tone, and ...",
+      "relevance": "Rüya içeriklerinde sıklık ve duygusal tonun ölçülebileceğini gösteren ampirik çalışma; tek bir sembole sabit anlam atamama gerekçesini destekler.",
+      "url": "https://psycnet.apa.org/record/2022-94772-001"
+    },
+    {
+      "title": "Continuity of emotions across pre-sleep state and the content of dreams",
+      "relevance": "Uykudan önceki duyguların rüya içeriğini etkilediğini tartışan çalışma; ezan rüyasının duygusal bağlamla değerlendirilmesinin önemini vurgular.",
+      "url": "https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1970&context=masters-theses"
+    },
+    {
+      "title": "Hearing Voices in Dreams: Freud's Tossing and Turning with Speech and Writing",
+      "relevance": "Rüyalarda işitilen sözlerin psikanalitik çerçevede nasıl ele alındığını inceleyen metin; ezan gibi işitsel öğelerin uyanık yaşamın sözel izleriyle ilişkili olabileceğini destekler.",
+      "url": "https://www.psyartjournal.com/article/show/keskinen-hearing_voices_in_dreams_freuds_tossing_"
+    },
+    {
+      "title": "Sigmund Freud [1900] The Interpretation of Dreams ( ...",
+      "relevance": "Freudcu rüya kuramının işitsel ve konuşma öğelerine ilişkin temel çerçevesini sağlar; ezan sesinin rüyadaki temsilini değerlendirmek için teorik arka plan sunar.",
+      "url": "https://ia802907.us.archive.org/17/items/SigmundFreud/Sigmund%20Freud%20%5B1900%5D%20The%20Interpretation%20of%20Dreams%20(James%20Strachey%20translation,%201955).pdf"
+    },
+    {
+      "title": "What Does Dreaming About Adhan (Call to Prayer) Mean?",
+      "relevance": "Modern Jungcu ve popüler okuma bağlamında ezan rüyasını 'çağrı' arketipiyle ilişkilendiren yorum; Jungcu temaların ezan için nasıl uygulanabileceğine dair örnek sağlar.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-ezan"
+    },
+    {
+      "title": "Jung on Prayer - Jungian Center for the Spiritual Sciences",
+      "relevance": "Jung’un dua ve yukarı yönelişle ilgili fikirlerini derleyen metin; ezanın rüyada ruhsal çağrı olarak okunmasına kavramsal zemin sunar.",
+      "url": "https://jungiancenter.org/jung-on-prayer/"
+    },
+    {
+      "title": "Dreams",
+      "relevance": "Jungcu rüya kuramında rüyanın bilinçdışından gelen sembolik mesaj olarak ele alınmasını özetleyen analitik psikoloji metni.",
+      "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/dreams/"
+    },
+    {
+      "title": "Rüyada Ezan Görmek Ne Anlama Gelir? Ne Demek, Neye Yorumlanır?",
+      "relevance": "Modern Türkçe derlemelerde ezanın rüyada hac, hayır, uyarı ve makamla ilişkilendirildiğini gösteren popüler kaynak; İslami geleneğe atıfların nasıl aktarıldığını yansıtır.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-ezan-gormek-ne-anlama-gelir-26238"
+    },
+    {
+      "title": "Islamic Dream Interpretation of Adhan and Iqamah in Dreams",
+      "relevance": "Ezan (Adhan) rüyasını doğrudan ele alan çevrimiçi aktarım; geleneksel temalar (hac, doğruya çağrı, uygunsuz vakit) hakkında bilgi sağlar.",
+      "url": "https://islamicdreamqa.com/adhan-and-iqamah-in-dreams/"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Ezan sembolünü hac, hayır, bereket ve rahmetle ilişkilendiren Türkçe derleme.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri E Harfi",
+      "relevance": "Nablusî’ye atfedilen modern aktarımlarda ezanın hac, makam ve haber temalarıyla ilişkilendirildiğini gösterir; klasik atıfların modern derlemelerde nasıl sunulduğuna dair örnek teşkil eder.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-e-harfi.html"
+    },
+    {
+      "title": "Biblical meaning of praying in a dream - biblestep.com",
+      "relevance": "Ezan rüyasını doğrudan ele alan çevrimiçi bir rüya sözlüğü sayfası; ezanı hırsızlık, yüksek mevki, saygı duyulan söz ve bekâr için evlenme gibi anlamlarla ilişkilendiriyor.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-praying-in-a-dream"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Rüyada ezan okumak ve görmeyi hac, otorite, güç ve dua ile ilişkilendiren içerik; metin klasik atıfları modern bir yorum hattı içinde aktarıyor.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 10.a",
+      "relevance": "Rüyanın gerçekliği konusunda ihtiyatı öğütleyen ve rüya görüldüğünde Tanrı’ya yönelme ile merhamet dileme temalarını işleyen metin.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/10.a"
+    },
+    {
+      "title": "Berakhot 56b | The Sefaria Library",
+      "relevance": "Rüyada görülen bazı şeylerin olumlu yorumlanmasına dair Talmudî örnekler.",
+      "url": "https://www.sefaria.org/Berakhot.56b"
+    },
+    {
+      "title": "Berachot: 56b - Talmud",
+      "relevance": "Metin, rüyanın gerçekliği konusunda ihtiyatı öğütler; rüya görüldüğünde Tanrı’ya yönelme ve merhamet dileme temasını işler.",
+      "url": "https://www.chabad.org/torah-texts/5299914/Talmud/Berachot/Chapter-9/56b"
+    },
+    {
+      "title": "Taking Hold of the Shofar: Dreams of Past & Future | Hebrew College",
+      "relevance": "Şofar sesinin rüyada uyanış, tövbe ve ruhsal farkındalığa çağrı işlevini tartışan yazı; ezan benzeri çağrı seslerinin Yahudi sembolik çerçevede nasıl okunabileceğine dair paralel sağlar.",
+      "url": "https://hebrewcollege.edu/blog/taking-hold-of-the-shofar-dreams-of-past-future/"
+    },
+    {
+      "title": "What Is The Jewish 'Allahu Akbar' In Hebrew? - The Forward",
+      "relevance": "Ezanın günde beş kez duyulan ibadete çağrı olarak tanımlanması ve 'Allah büyüktür' ifadesiyle ilişkilendirilmesi.",
+      "url": "https://forward.com/news/386804/what-is-the-jewish-allahu-akbar/"
+    },
+    {
+      "title": "City of 10,000 Buddhas",
+      "relevance": "Zen/Budist uygulamalarda çan sesinin dikkati toplama ve farkındalığa çağrı işlevini tanımlayan kaynak; ezan sesine işlevsel bir paralellik kurulmasına yardımcı olur.",
+      "url": "https://www.cttbusa.org/shurangama4/shurangama4_17.asp.html"
+    },
+    {
+      "title": "Ezan | Značenje sna",
+      "relevance": "Ezan rüyasını doğrudan ele alan çevrimiçi bir rüya sözlüğü sayfası; ezanı hırsızlık, yüksek mevki, saygı duyulan söz ve bekâr için evlenme gibi anlamlarla ilişkilendiriyor.",
+      "url": "https://www.islamskisanovnik.com/ezan/"
+    },
+    {
+      "title": "Šta znači sanjati ezan? | Sanovnik - Sanjarica",
+      "relevance": "Rüyada ezan okumanın doğruyu söylemekle ilişkilendirildiği modern bir sanovnik sayfası.",
+      "url": "https://www.sanovnik.org/snovi/sta-znaci-sanjati-ezan.html"
+    },
+    {
+      "title": "Rüyada ezan okumak ne anlama gelir? Rüyada camide ezan okumak anlamı nedir?",
+      "relevance": "Rüyada ezan okuma ve görmeyi Hac, otorite, güç ve dua ile ilişkilendiren içerik; metin, klasik atıfı modern bir yorum hattı içinde aktarıyor.",
+      "url": "https://www.haberturk.com/ruyada-ezan-okumak-ne-anlama-gelir-ruyada-camide-ezan-okumak-anlami-nedir-3708764/3"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian",
+    "buddhist-eastern"
+  ]
+}

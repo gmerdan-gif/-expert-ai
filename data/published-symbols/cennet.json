@@ -1,0 +1,231 @@
+{
+  "slug": "cennet",
+  "title": "cennet",
+  "shortDescription": "Rüyada cennet görmek, iç huzur, güven ve manevi yenilenme arzusunu simgeler. Cennete girmek ya da nimetlerinden tatmak umut ve dileklerin gerçekleşmesiyle; kapıdan geri dönmek ise ulaşılması zor hedefler veya vicdani bir gerilimle ilişkilendirilebilir.",
+  "positiveAssociations": [
+    "İçsel huzur ve rahatlama",
+    "Güvenlik ve korunma duygusu",
+    "Manevi arınma ve yenilenme",
+    "Bütünlük ve tamamlanma hissi"
+  ],
+  "challengingAssociations": [
+    "Ulaşılması zor ideallerin yarattığı yoksunluk",
+    "Gerçeklikten kaçış ve fantezi dünyasına sığınma",
+    "Kaybedilmiş bir masumiyetin veya geçmişin özlemi",
+    "Geçici tatminlerin ardından gelen hayal kırıklığı"
+  ],
+  "contextDependentAssociations": [
+    "Cennetteki nehirlerden su ya da süt içilmesi",
+    "Cennet kapılarına kadar gelip içeri girememek",
+    "Manevi bir arayış veya tövbe sürecinin rüyaya yansıması",
+    "Erken çocukluk anıları ya da anne rahmini andıran sığınak arayışları"
+  ],
+  "commonVariations": [
+    {
+      "title": "Cennet Bahçesinde Yürümek",
+      "description": "Rüyada yeşillikler ve çiçeklerle dolu bir bahçede dolaşmak, zihinsel bir sükûnet arayışını ve dünyevi çatışmalardan uzaklaşma isteğini simgeler."
+    },
+    {
+      "title": "Cennet Nehirlerinden Su İçmek",
+      "description": "Cennet nehirlerinden berrak su veya süt içtiğini görmek, rüya sahibinin içsel fıtratına dönme, bilgiye ulaşma ve rızka erişme arzusunu yansıtır."
+    },
+    {
+      "title": "Cennet Kapısından Geri Çevrilmek",
+      "description": "Cennetin girişine kadar gelip içeri giremediğini görmek, kişinin ulaşılamaz hedefleri veya vicdani muhasebesiyle ilgili içsel bir gerilimi gösterir."
+    },
+    {
+      "title": "Yüksek Bir Yere veya Göğe Yükselmek",
+      "description": "Gökyüzüne ve cennetvari bir âleme doğru tırmandığını veya merdivenlerden çıktığını görmek, ruhsal olgunlaşma ve aşkın hedeflere yönelme çabasını ifade eder."
+    }
+  ],
+  "psychology": "Ampirik rüya içerik analizleri, rüya imgelerinin sabit ve tekil anlamlara indirgenemeyeceğini, aksine bağlam ve duygu tonuna göre şekillendiğini ortaya koyar. 'Cennet' imgesi bilimsel psikolojide doğrudan mistik bir kehanet olarak değil, kişinin zihinsel rahatlama, güvenlik arayışı ve olumlu duygularla kurduğu bağlar üzerinden incelenir.",
+  "jungian": "Analitik psikolojide cennet teması, çatışma, acı ve yoksunluktan özgürleşme arzusu ve Self (Benlik) arketipi etrafında şekillenen psikolojik bütünleşme çabası olarak ele alınır.",
+  "islamicTradition": "İslami rüya aktarımlarında cennet rüyaları genellikle hayır, sevinç, emniyet, muradın gerçekleşmesi ve dinî salah (ibadet/namaz) ile ilişkilendirilir. Cennet nehirlerinden içilen sıvılar: rızık, fıtrat, ilim veya ilahi sevgi gibi farklı manalara yorulurken, cennete girmek veya nimetlerden tatmak tövbe ve salih amellerle bağdaştırılır.",
+  "christianTraditions": "Hristiyan teolojik ve vizyoner geleneğinde cennet, Tanrı'nın yurdu, eskatolojik umut alanı ve ilahi yakınlık arzusunun bir yansımasıdır. Erken dönem rüya anlatılarında cennet bahçeleri ve merdivenler, ruhsal yükseliş, dönüşüm ve kutsal karşılaşma motifleriyle birlikte okunur.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar anlamlı kabul edilir ve Berakhot metinlerinde vurgulandığı üzere olumlayıcı bir yorum ilkesiyle ele alınır. Apokaliptik vizyon literatüründeki göksel cennet ve yeryüzü ötesi yolculuk motifleri, bu imgenin saflık, yücelik ve aşkın yakınlık çağrışımlarını besleyen bir sembolik arka plan sunar.",
+  "buddhistEasternApproaches": "Budist kozmolojide cennet, erdemli eylemlerle ulaşılabilen geçici bir mutluluk âlemi veya varoluş katmanı olarak tanımlanır. Kutsal doğum ve uyanış mitlerinde cennet motifinin bir iniş ve geçiş alanı olarak yer alması, bu imgenin dünyevi acının ötesindeki geçici saadet arayışını temsil ettiğini gösterir.",
+  "spiritualApproaches": "Ezoterik ve simyasal geleneklerde cennet, dünyevi düzenin ötesinde bir yetkinleşme, içsel huzur ve esrarlı saadet alanı olarak ele alınır. Bu okuma, bireyin ruhsal olarak aşkın bir hedefe ve saf bir bilinç hâline yönelme isteğini simgeler.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Erken çocukluk dönemine duyulan özlem, utançsızlık ve dileklerin doyumu veya fantezisi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Psikolojik bütünleşme, Self arketipi ve çatışmalardan arınmış içsel denge arayışı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel Dini Aktarımlar",
+      "interpretation": "Hayır, müjde, içsel emniyet, tövbe, ilahi yakınlık ve ahiret bilinci.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Spiritüel Yaklaşım",
+      "interpretation": "Dünyevi sınırların ötesinde aşkın bir saadet, saf bilinç ve ruhsal yetkinleşme alanı.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, cennet imgesinin sıradan günlük kaygılardan kurtulma, huzur bulma ve daha yüksek bir anlama veya masumiyete ulaşma arzusunu temsil ettiği noktasında birleşir.",
+  "differences": "Psikanaliz bu imgeyi geçmişteki bir çocukluk fantezisine veya içsel sığınağa bağlarken, Jungcu yaklaşım geleceğe dönük bir bütünleşme sürecine, dini gelenekler ise aşkın bir mükâfata ve manevi yönelişe odaklanır.",
+  "inusAssessment": "Rüyada cennet sembolüyle karşılaşmak, tekil ve katı bir kehanetten ziyade bireyin iç dünyasındaki huzur arayışının, çatışmalardan kaçış isteğinin veya manevi yönelimin çok katmanlı bir aynasıdır. Rüya içinde cennetin hangi bağlamda, hangi duygu tonu ile ve hangi detaylarla (örneğin bahçede dolaşmak, nehirden içmek ya da kapıdan dönmek gibi) görüldüğü, yorumun yönünü belirleyen en kritik unsurdur.",
+  "faq": [
+    {
+      "question": "Rüyada cennet görmek her zaman olumlu bir duruma mı işaret eder?",
+      "answer": "Geleneksel ve psikolojik okumalarda genel olarak huzur, rahatlama ve umutla ilişkilendirilse de, rüyanın taşıdığı duygusal ton ve detaylar (örneğin içeri girememe hissi) kişinin içsel çatışmalarını veya ulaşılamaz ideal beklentilerini de yansıtabilir."
+    },
+    {
+      "question": "Cennet rüyaları çocukluk anılarıyla nasıl bağlantılıdır?",
+      "answer": "Psikanalitik kuramda cennet, bireyin sorumluluk ve utançtan uzak olduğu erken dönem çocukluk yıllarına duyduğu özlemin ve dileklerin doyumunun simgesel bir dışavurumu olarak ele alınır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizi için temel yöntem ilkelerini ve rüya raporlarının sistematik kodlanmasını açıklar, 'cennet' gibi imgeleri incelemek için kullanılabilecek ampirik çerçeveyi sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramında cennet imgesinin çocukluk, utançsızlık ve dileklerin doyumu ile ilişkilendirildiği temel pasajları içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Embriyonik yaşam, ana rahmi ve doğum fantazilerinin rüyadaki görünümünü tartışan pasajları içerir; cennetle ilişkili psikanalitik sentez için kavramsal zemin sağlar.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Cross Currents: Chapter 11",
+      "relevance": "Cennet özlemini çatışma, acı ve yoksunluktan özgürleşme arzusu olarak ele alır.",
+      "url": "https://jungpage.org/learn/resources/cross-currents/827-cross-currents-chapter-11"
+    },
+    {
+      "title": "Longing for Paradise: Psychological Perspectives on ...",
+      "relevance": "Cennet arketipini psikolojik bütünlük ve aidiyet arayışıyla ilişkilendirir.",
+      "url": "https://books.google.com/books/about/Longing_for_Paradise.html?id=VruSN7u8GlYC"
+    },
+    {
+      "title": "[PDF] Cult Fictions: C.G.Jung and the Founding of Analytical Psychology",
+      "relevance": "Jung’a atfedilen pasajlarda cennet, doğa ve insan arasındaki uyumun simgesi olarak açıklanır.",
+      "url": "http://ndl.ethernet.edu.et/bitstream/123456789/16498/1/22.pdf"
+    },
+    {
+      "title": "\"An Alchemy of Heaven on Nature's Base\": Intimations of the Universal Opus in the Integral Yoga and the Divine Life in Man in the Work of C. G. Jung",
+      "relevance": "Jungcu pasajlarda cennet ile bilinçdışına iniş ve bütünsellik temalarının birlikte işlendiği görülür.",
+      "url": "http://www.markfoster.net/dcf/subtlety.pdf"
+    },
+    {
+      "title": "Carl Jung on “The Garden of Eden” – Anthology",
+      "relevance": "Cennet imgesini Eden, mandala ve yeniden kazanılmış saflık sembolleriyle birlikte tartışır.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/05/11/eden-anthology/"
+    },
+    {
+      "title": "LIRPA International Journal",
+      "relevance": "Yeryüzü cennetini Benlik (Self) ve dört psikolojik işlevle ilişkilendirir.",
+      "url": "https://www.lirpa-internationaljournal.it/wp-content/uploads/2023/03/N.-5-Grassi-Berivi-2021-ENG.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Greko-Romen rüya yorumunun temel metni; rüyaların nasıl sınıflandırıldığını ve yorumlandığını gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "[PDF] Dreambooks In Byzantium",
+      "relevance": "Bizans döneminde rüya kitapları geleneğinin sürdürülmesini ele alan akademik çalışma; tarihsel rüya yorumunun kültürel devamlılığını bağlamlandırır.",
+      "url": "https://toc.library.ethz.ch/objects/pdf/z01_978-0-7546-6084-2_01.pdf"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Nablusî’ye nispet edilen cennet nehirleri aktarımı; cennet sembolünün rüyada su, süt, şarap ve bal nehri gibi ayrıntılarla farklı dinî ve ahlaki çağrışımlar kazanabildiğini gösterir.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "تفسير رؤية الجنة في المنام لابن سيرين والنابلسي بالتفصيل",
+      "relevance": "İbn Sîrîn ve en-Nablusî’ye nispet edilerek cennetin rüyada mescid, zikir meclisi, hac, cihad ve kazanç gibi alanlarla ilişkilendirildiği geniş sembolik çerçeveyi aktarır.",
+      "url": "https://mana.ms/blog/ar/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D8%A7%D8%A8%D9%86-%D8%B3%D9%8A%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A"
+    },
+    {
+      "title": "حلم دخول الجنة | رؤية دخول الجنة في المنام لابن سيرين والنابلسي",
+      "relevance": "Cennet rüyasının bağlama göre tövbe, İslam’a giriş, arzu edilen hayra erişme veya yaklaşan ecel gibi farklı İslami yorumlarını derleyen bir kaynaktır.",
+      "url": "https://www.layalina.com/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%AD%D9%84%D9%85-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D9%86%D8%A9-368829.html"
+    },
+    {
+      "title": "Dreaming of Heaven",
+      "relevance": "Cenneti Tanrı’nın yurdu ve bahçe/şehir sembolizmi üzerinden Hristiyan teolojik çerçevede ele alır.",
+      "url": "https://four12global.com/articles/dreaming-of-heaven/"
+    },
+    {
+      "title": "Doctrinalising dreams: patristic views of the nature of ... - ERA",
+      "relevance": "Patristik rüya düşüncesinde ilahî ilhamlı rüyaların epifani ve ilahî mesaj alanı olduğunu özetler.",
+      "url": "https://era.ed.ac.uk/handle/1842/5462?show=full"
+    },
+    {
+      "title": "Doctoral Thesis",
+      "relevance": "Perpetua’nın rüyasında cennete çıkan merdiven ve cennetsel bahçe motiflerini ele alır.",
+      "url": "https://era.ed.ac.uk/server/api/core/bitstreams/c52021c2-a434-4422-ad59-4122288fb573/content"
+    },
+    {
+      "title": "Dreams and Dream Interpretation - Berachot 9 - ספריא",
+      "relevance": "Yahudi rüya yorumunun klasik rabbanî çerçevesi; rüyaların anlamlandırılması ve olumlu yorum ilkesi.",
+      "url": "https://www.sefaria.org/sheets/226246"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Rüyanın yoruma açık ve yönlendirilebilir bir işaret olarak ele alınması; rabbanî rüya yaklaşımı.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Hebrew visions of hell and paradise - Gaster (1893)",
+      "relevance": "Cennet motifini içeren erken Yahudi/İbranî vizyon geleneği; göksel cennet temasının tarihsel arka planı.",
+      "url": "https://www.scribd.com/document/92888437/Hebrew-visions-of-hell-and-paradise-Gaster-1893"
+    },
+    {
+      "title": "Visions - Jewish Virtual Library",
+      "relevance": "Yahudi apokaliptik vizyonlarda göksel cennet ve yeryüzü ötesi yolculuklar; cennet sembolünün dinsel hayal dünyası.",
+      "url": "https://jewishvirtuallibrary.org/visions"
+    },
+    {
+      "title": "Dream Accounts in the Hebrew Bible and Ancient Jewish Literature",
+      "relevance": "Eski Yahudi literatüründe rüya anlatıları ve rüya sahnelerinin kullanımını ele alır; rüya çalışmalarına tarihsel bir bağlam sağlar.",
+      "url": "https://www.theology.ox.ac.uk/publication/1059867/manual"
+    },
+    {
+      "title": "Ksitigarbha Sutra",
+      "relevance": "Budist kozmolojide altı arzu cennetini ve cennet âlemlerinin yerini gösterir.",
+      "url": "https://www.buddhistdoor.com/OldWeb/bdoor/0308/sources/ksitsutra2.htm"
+    },
+    {
+      "title": "City of 10000 Buddhas - The Earth Store Bodhisattva Sutra ...",
+      "relevance": "Budist metin geleneğinde cennet katmanlarının mutluluk, doğum ve varoluş düzeyleriyle ilişkisini açıklar.",
+      "url": "http://www.cttbusa.org/esscommentary/earthstore1_4.htm"
+    },
+    {
+      "title": "heaven | Dictionary of Buddhism",
+      "relevance": "Budizm’de cennetin göksel varlıkların âlemi olarak kavramsallaştırılmasını verir.",
+      "url": "https://www.nichirenlibrary.org/en/dic/Content/H/15"
+    },
+    {
+      "title": "Buddhist Scriptures: I. The Dream of Queen Māyā | Sacred Texts Archive",
+      "relevance": "Māyā Kraliçe’nin rüyasında Tuṣita cennetinden gelen Bodhisattva motifini aktarır.",
+      "url": "https://sacred-texts.com/bud/busc/busc04.htm"
+    },
+    {
+      "title": "The Plurality of Afterlife Abode in the Tang Lotus Sūtra Cult",
+      "relevance": "Simyasal ve okült sembolizm içinde \"dünyevi cennet\" ve \"sevinç cenneti\" gibi ifadelerle cennet imgelerinin nasıl kullanıldığını gösterir; cennet sembolünün ezoterik okuması için bağlam sağlar.",
+      "url": "https://glorisunglobalnetwork.org/wp-content/uploads/2024/03/hualin6.1_ho.pdf"
+    },
+    {
+      "title": "The Earth Store Bodhisattva Sutra with Commentary",
+      "relevance": "Trāyastriṃśa cenneti adlandırmasını ve Budist kozmolojide yer olarak işleyişini açıklar.",
+      "url": "https://cttbusa.org/esscommentary/earthstore1.htm"
+    },
+    {
+      "title": "Hidden Symbolism of Alchemy and the Occult Arts",
+      "relevance": "Simyasal ve okült sembolizm içinde “dünyevi cennet” ve “sevinç cenneti” ifadeleriyle cennet imgelerinin nasıl kullanıldığını gösterir; cennet sembolünün ezoterik okuması için bağlam sağlar.",
+      "url": "https://manuals.plus/m/2fdab6e880a0bbf220d8577544842ff142ca3a5681ee09f08aab20eeee8fed62.pdf"
+    }
+  ],
+  "relatedSlugs": []
+}

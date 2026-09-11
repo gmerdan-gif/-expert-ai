@@ -1,130 +1,239 @@
 {
   "slug": "cocuk",
   "title": "çocuk",
-  "shortDescription": "Rüyada çocuk görmek; masumiyet, yenilenme ve gelişmekte olan yaratıcı potansiyelle ilişkilendirilebilir. Rüyanın atmosferine göre korunma ihtiyacını veya yeni bir sorumluluğu da çağrıştırabilir.",
+  "shortDescription": "Rüyalarda çocuk sembolü, sosyal etkileşim, içsel gelişim, bağımlılık, sorumluluk ve dönüşüm potansiyelini barındıran, bağlama göre anlamı değişen çok katmanlı bir motiftir.",
   "positiveAssociations": [
-    "Masumiyet",
-    "Yenilenme",
-    "Yaratıcı potansiyel",
-    "İlahî lütuf",
-    "Doğal fıtrat"
+    "Masumiyet ve saflık",
+    "Yeni başlangıçlar ve taze yaşam enerjisi",
+    "İçsel potansiyel ve büyüme arzusu",
+    "Ferahlık, sevinç ve müjde"
   ],
   "challengingAssociations": [
-    "Zayıflık",
-    "Aşırı bağımlılık",
-    "Korunma ihtiyacı",
-    "Bilinçli zihnin dengesizliği",
-    "Ağır sorumluluk yükü"
+    "Bağımlılık ve korunma ihtiyacı",
+    "Yük, bakım sorumluluğu ve kaygı",
+    "Çözülmemiş bağlılıklar ve kırılganlık",
+    "Üzüntü"
   ],
   "contextDependentAssociations": [
-    "Geçmişten taşınan miras",
-    "Geleceğe dönük beklentiler",
-    "Emanet altında olma",
-    "Vekâlet veya sorumluluk",
-    "Refah ile geçim (rızık) arasındaki ilişki"
+    "Çocuğun yaşı (bebek, küçük çocuk veya daha büyük bir çocuk)",
+    "Rüya sahibinin çocukla kurduğu ilişki (mesafeli olmak ya da sorumluluk üstlenmek)",
+    "Çocuğun duygusal durumu (ağlayan, gülen veya saldırıya uğrayan çocuk)"
   ],
   "commonVariations": [
     {
-      "title": "Yeni doğmuş bir bebek görmek",
-      "description": "İnsanın yaratılıştaki saf fıtratına ve yeni başlangıç potansiyeline işaret edebilir; bağlama göre henüz gelişmemiş olasılıkların veya sorumluluk beklentilerinin simgesi olabilir."
+      "title": "Gülümseyen küçük bir çocuk görmek",
+      "description": "Neşeli, temiz yüzlü bir çocuk yaşamın taze enerjisini, içsel saflığın yeniden keşfini ve beklenen küçük müjdeleri simgeleyebilir."
     },
     {
-      "title": "Kaybolmuş bir çocuğu aramak",
-      "description": "Kayıp veya ihmal edilmiş görünen içsel yönleri, unutulmuş oyun/yaratıcılık alanlarını ya da korunma/rehberlik ihtiyacını arama çabasını çağrıştırabilir."
+      "title": "Ağlayan veya yardıma muhtaç bir bebek görmek",
+      "description": "Yardıma muhtaç bir bebek, rüya sahibinin ihmal ettiği hassas yönleri, korunma ihtiyacını veya üstlenilmemiş duygusal sorumlulukları gösterebilir."
     },
     {
-      "title": "Ağlayan bir çocukla ilgilenmek",
-      "description": "İhmal edilmiş duygusal ihtiyaçlar, yeni üstlenilen sorumluluklar veya çevresel koruma gereksinimi gibi durumlara dikkat çekebilir."
+      "title": "Kendi çocukluk halini rüyada görmek",
+      "description": "Kendi çocukluğunu görmek, geçmiş anılara dönüş, erken dönem duygusal ihtiyaçların yeniden canlanması veya bugünkü benliğin kökleriyle temas kurma arzusu anlamına gelebilir."
     },
     {
-      "title": "Mutlu bir çocukla oyun oynamak",
-      "description": "Spontanlık, oyunluluk ve yaşam enerjisinin geri kazanılmasıyla ilgili olumlu bir işaret olabilir; yine de anlam, rüyanın genel atmosferine bağlıdır."
+      "title": "Bir çocuğun sorumluluğunu üstlenmek",
+      "description": "Rüyada bir çocuğa bakmak, beslemek veya korumak, yeni bir projeye, gelişmekte olan bir potansiyele veya artan sorumluluk bilincine işaret edebilir."
     }
   ],
-  "psychology": "Ampirik psikoloji literatürü, sembollerin dikkat, bellek ve zihinde kavramların temsil süreçleriyle bağlantılı olduğunu göstermektedir. Bu tür ampirik bulgular, rüyalarda görülen \"çocuk\" imgesine tek ve kesin bir anlam atfetmek için yeterli değildir; yorum, bağlama ve rüya görenin kişisel durumuna bağlı olarak değişir.",
-  "jungian": "Analitik psikolojide çocuk arketipi yenilenme, yaratıcılık ve olasılık potansiyeliyle ilişkilendirilir. Eski psikolojik örüntüler tükendiğinde veya tek yanlılaştığında ortaya çıkan 'çocuk' motifi, bilinçli zihnin dengesini telafi etmeye ve gelecekteki gelişim olanaklarını ima etmeye yarayan arketipsel bir çağrışım olarak ele alınır.",
-  "islamicTradition": "Klasik İslami rüya tabirleri bağlamında 'çocuk' imgesi, rüyanın koşullarına göre zayıflık, korunma ihtiyacı, sorumluluk, masumiyet veya bağımlılık gibi anlamlarla ilişkilendirilebilir. Bazı geleneksel yorumlarda yeni doğan çocuk, fıtrat veya tazelenme çağrışımı taşır; bu tür yorumlar genellikle bağlama bağlıdır ve kaynaklar arasında farklılık olabilir.",
-  "christianTraditions": "Hristiyan kutsal metin ve geleneklerinde çocuk sembolü sıklıkla masumiyet, tevazu ve Tanrı'nın egemenliğine saf bir kabulü simgeler. Bu, genel İncil sembolizmine dayanan bir okumadır; doğrudan rüya yorumu geleneğiyle aynı şey olmadığı açıkça belirtilmelidir.",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
+  "psychology": "Ampirik psikoloji çalışmaları, rüyalardaki çocuk imgelerinin sosyal etkileşim, öz-temsil ve duygulanım bağlamında ortaya çıktığını gösterir. Çocukluk ve ergenlik dönemine ilişkin veriler, rüya içeriğinin yaşla birlikte değiştiğini ve çocuk-benlik temalarının rüya sahibinin sosyal konumu ve duygusal tonuyla yakından bağlantılı olduğunu vurgular.",
+  "jungian": "Analitik psikolojide çocuk imgesi, bilinçdışına yakın ilksel bir psişik durumu ve bilincin yeni doğuşunu temsil eder. 'İlahi çocuk' (puer aeternus) ekseninde ele alınan bu motif, yenilenme enerjisini, geleceğe dönük potansiyeli ve bireyleşme sürecinde ortaya çıkan yeni psikolojik merkezleri simgeler. Jungcu kaynaklarda çocuk figürü genellikle süreçsel bir dönüşüm işareti olarak okunur, bağlama göre sorumluluk alan veya bakım gerektiren bir içsel yön olarak belirebilir.",
+  "islamicTradition": "İslami rüya yorumlarında çocuk sembolü hem olumlu hem de ağır anlamlar taşıyabilir. Bazı nakillerde sevinç, rızık ve müjdeyle, diğer yorumlarda küçük çocukların görülmesi üzüntü, keder veya emanet yükümlülüğü anlamına gelebilir. Çocuğun yaşı, cinsiyeti ve dış görünüşünün taşıdığı duygu (gülümseme, ağlama vb.) yorumun yönünü belirler.",
+  "christianTraditions": "Hristiyan sembolik okumalarda çocuk, alçakgönüllülük, iman, masumiyet ve ruhsal yeniden doğuş gibi temalarla ilişkilendirilir. İncil'deki figürel kullanımlar, rüyada çocuğun görünmesini manevi açıklık, öğrencilik ya da yeni bir hizmet çağrısı bağlamında yorumlamaya imkân verir.",
+  "jewishTraditions": "Yahudi geleneklerinde rüyaların yorumunun bağlama bağlı olduğu vurgulanır, Talmudik metinler, rüya anlamlarının yorumla şekillendiğini öne sürer. Bu yüzden 'çocuk' sembolü de nesillerin devamı, eğitim ve bakım temaları çerçevesinde yorumlanabilir, fakat tekil, zorunlu bir tabir olarak sunulmaz.",
+  "buddhistEasternApproaches": "Budist okumalarda çocuk imgesi genellikle uyanış zihninin açıklığı, savunmasız ama alıcı bilinç hâli ve başlangıç zihniyle ilişkilendirilir. Aynı zamanda bağımlılık, erken gelişim sorunları veya çözülmemiş bağlılıklar bağlamında kırılgan yönleri temsil edebilir; yorumda çocuğun durumu ve rüyanın duygusal tonu beraber düşünülmelidir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda çocuk, taze yaşam enerjisi, içsel potansiyelin uyanışı ve sade hakikate dönüş imgesi olarak okunur. Simyasal veya mistik sentezlerde çocuk motifi, dönüşümün yeni, bütünleşmiş bir ürününü veya ilahi çocuk arketipini çağrıştırır.",
   "comparisonTable": [
     {
       "approach": "Ampirik Psikoloji",
-      "interpretation": "Semboller bilişsel süreçlerle (temsil, dikkat, bellek) ilişkilendirilir; tekil bir rüya anlamı çıkarmaya yeterli değildir.",
+      "interpretation": "Rüyalardaki çocuk imgeleri sosyal etkileşim, öz-temsil ve gelişimsel bağlamın yansımaları olarak değerlendirilir.",
       "evidenceLevel": "research"
     },
     {
-      "approach": "Jungcu Psikoloji",
-      "interpretation": "Çocuk arketipi yenilenme, yaratıcılık ve bilinç dengeleme bağlamında yorumlanır.",
+      "approach": "Psikanaliz ve Jungcu Analiz",
+      "interpretation": "Freudyen perspektifte çocuk imgesi bazen bedensel/cinsel çağrışımlar taşıyabilir; Freud bazı durumlarda çocuk figürünü onanizm veya cinsel temsillerle ilişkilendirmiştir. Jungcu analizde ise çocuk, bilincin doğuşu, içsel potansiyel ve arketipsel dönüşüm ekseninde değerlendirilir.",
       "evidenceLevel": "theoretical"
     },
     {
-      "approach": "İslami Gelenek",
-      "interpretation": "Bağlama göre zayıflık, korunma, sorumluluk veya fıtrat çağrışımları olabilir; yorumlar farklı kaynaklarda değişir.",
+      "approach": "İslami ve Hristiyan Gelenekler",
+      "interpretation": "Geleneksel okumalarda çocuk hem sevinç, rızık ve müjde hem de emanet, sorumluluk ve dünya meşguliyeti ekseninde yorumlanabilir; İncil temelli Hristiyan okumaları masumiyet ve ruhsal açıklık vurgusu getirir.",
       "evidenceLevel": "traditional"
     },
     {
-      "approach": "Hristiyan Geleneği",
-      "interpretation": "Masumiyet, tevazu ve ruhsal kabul temalarıyla ilişkilendirilir (genel İncil sembolizmi).",
-      "evidenceLevel": "traditional"
+      "approach": "Spiritüel ve Ezoterik Yaklaşımlar",
+      "interpretation": "Çocuk motifi yeni başlangıç, ruhsal potansiyel, saflığın yeniden kazanımı ve (simyasal/metaforik) bütünleşme ile ilişkilendirilir.",
+      "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Birçok yaklaşım çocuk sembolünde masumiyet, yenilenme ve potansiyel unsurlarının bulunduğu konusunda örtüşür; ancak bu temaların yorumu bağlama ve geleneğin çerçevesine göre değişir.",
-  "differences": "Ampirik çalışmalar sembolü bilişsel işlevler açısından ele alırken, Jungcu değerlendirme arketipsel dönüşüm ve bireyleşme eksenine vurgu yapar. Dini gelenekler ise sembolü ahlaki, toplumsal veya ruhsal bağlamlarla ilişkilendirir; bu okumalar doğrudan rüya yorumu ile aynı ağırlıkta değildir.",
-  "inusAssessment": "Çocuk sembolü, tek ve sabit bir kehanet anlamı taşımaz. Hem ampirik hem de teorik kaynaklardaki farklı katmanlar ve dini/tradisyonel okumaların bağlama duyarlılığı, rüya yorumunun bireyin yaşam koşulları ve rüya bağlamı dikkate alınarak yapılmasını gerektirir.",
+  "commonGround": "Çeşitli disiplinler ve gelenekler, çocuk sembolünün tek ve sabit bir anlamı olmadığı konusunda hemfikirdir, genellikle yeni başlangıç, potansiyel ve bakım gerektiren hassas bir yönü işaret ettiğini kabul ederler.",
+  "differences": "Psikolojik yaklaşımlar çocuğu öz-temsil, gelişimsel bağlam ve duygusal konum bağlamında açıklarken, dini gelenekler onu iman, emanet, sorumluluk veya müjde ekseninde değerlendirir. Ezoterik ve analitik okumalar ise arketipsel dönüşüm ve içsel yenilenmeyi vurgular.",
+  "inusAssessment": "Rüyadaki çocuk sembolü ne tamamen olumlu ne de tamamen olumsuz bir işaret olarak okunmamalıdır. Genellikle rüya sahibinin benliğinde gelişmekte olan yeni bir yönü, korunma gereksinimini veya üstlenilmemiş sorumlulukları temsil eder. Çocuğun yaşı, duygu durumu ve rüya sahibinin ona karşı tutumu, sembolün işlevini belirlemede en önemli ipuçlarıdır.",
   "faq": [],
   "sources": [
     {
-      "title": "Symbols Build Communication and Thought: The Role of ...",
-      "relevance": "Sembollerin temsil, dikkat ve bellek süreçleriyle bağlantısını ampirik olarak tartışır; \"çocuk\" imgesinin bilişsel zeminiyle ilgili genel bulgular sunar.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2914350/"
+      "title": "Content analysis of 4 to 8 year-old children's dream reports",
+      "relevance": "4–8 yaş çocukların rüya raporlarında karakter türleri, öz-temsil ve sosyal etkileşim dağılımını gösteren içerik analizi; çocuk imgelerinin sosyal/duygusal bağlamda ortaya çıktığını destekler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4415323/"
+    },
+    {
+      "title": "Ontogeny of dreaming: a review of empirical studies - PubMed",
+      "relevance": "Çocuklarda rüya içeriğinin yaşla birlikte nasıl değiştiğini ve yorum için gelişimsel bağlamın önemini özetleyen ampirik derleme.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24629827/"
+    },
+    {
+      "title": "Developmental perspective dreaming across the lifespan ...",
+      "relevance": "Rüyanın yaşam boyu gelişimini ele alan ve çocukluk dönemindeki rüya özelliklerindeki değişimleri çerçeveleyen akademik derleme.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20870062/"
+    },
+    {
+      "title": "The Home Dreams and Waking Fantasies of Boys and Girls Between Ages 9 and 15: A Longitudinal Study - Dreaming",
+      "relevance": "Çocuk ve ergenlerde rüya ile uyanık fantezilerin içerik karşılaştırmasını yapan boylamsal çalışma; çocukların rüyalarda kendilerini nasıl konumlandırdığını gösterir.",
+      "url": "https://link.springer.com/article/10.1023/A:1021341732185"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud'un rüya yorumunda çocuk figürünün bazen bedensel/cinsel çağrışımlar taşıyabileceği ve bazı durumlarda onanizm temsiliyle ilişkilendirilebileceğine dair klasik ifade.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Rüya sembollerinin çocukluk, beden ve cinsel temsil katmanlarıyla nasıl ilişkilendiğini gösteren Freudcu bağlam.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
+    },
+    {
+      "title": "The Child Dream and the Child Transference",
+      "relevance": "Rüyadaki çocuk motifinin benliğin bağımlı ve gelişmekte olan yönleriyle ilişkilendirilmesini tartışan psikanalitik yorum.",
+      "url": "https://dondefrancisco.com/wp-content/uploads/2021/12/Childdreamandchildtransference.pdf"
+    },
+    {
+      "title": "collected-Works-18-The-Symbolic-Life-by-C-G-Jung. ...",
+      "relevance": "Çocuk imgelerinin bilinçdışına yakın, erken psişik duruma ve bilinç oluşumunun başlangıcına bağlanmasını anlatan Jungcu pasaj içerir.",
+      "url": "https://ronliskey.com/docs/collected-Works-18-The-Symbolic-Life-by-C-G-Jung.pdf"
+    },
+    {
+      "title": "Tracking an Archetype: The Child Motif in Dreams and its ...",
+      "relevance": "Jung'un çocuk motifini, arketipsel dönüşüm ve rüya dizilerinde gelişen süreçsel bir figür olarak ele alan çağdaş Jungcu araştırma.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/1468-5922.70083"
+    },
+    {
+      "title": "The analytic nursery: Ferenczi's ‘wise baby’ meets Jung's ‘divine child’",
+      "relevance": "Jung ile Kerenyi'nin 'ilahi çocuk' arketipini iyileştirici, sezgisel ve psikolojik dönüşümle ilişkili bir motif olarak tartışan çalışma.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/1465-5922.00408"
+    },
+    {
+      "title": "The Inner Child in Dreams - Kathrin Asper - Google Books",
+      "relevance": "Rüyalardaki çocuk sembolünün 'iç çocuk' ve çocuksu/yaratıcı yönlerle ilişkisini tartışan Jungcu çalışma.",
+      "url": "https://books.google.com/books/about/The_Inner_Child_in_Dreams.html?id=2E4TAQAAMAAJ"
+    },
+    {
+      "title": "Full text of \"Marie Louise Von Franz books\"",
+      "relevance": "Von Franz'ın metni, 'çocuk' sembolünü bilinçöncesi katmanlarla ve benliğin temel yönleriyle ilişkilendirir.",
+      "url": "https://archive.org/stream/marielouisevonfranzalchemyanintroductiontothesymbolismandthepsychologystudiesinj/Marie-Louise%20Von%20Franz,%20Marie-Luise%20von%20Franz%20-%20The%20Problem%20of%20the%20Puer%20Aeternus%20(2000)_djvu.txt"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Klasik rüya yorumlama örneği olarak Artemidorus'ta bebek ve küçük çocuk rüyalarının sıkıntı, keder veya aile yükleri bağlamında yorumlandığını gösteren tarihsel kaynak.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri O Harfi - Muhammed.net",
+      "relevance": "Çocuk sembolüne dair Nablusî’ye atfedilen kısa yorum: küçük çocuk ve üzüntü ilişkisi.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-o1-harfi.html"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Küçük çocuğun gülümsemesiyle ilgili kısa bir derleme pasajı içerir; sembolün olumlu yönlerine işaret eder.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Children in a dream | The Islamic Dream Book",
+      "relevance": "Modern bir İslami derlemedir; çocukların rüyalarda sevinç, rızık, ziynet, emanet veya imtihan bağlamlarında yorumlanabildiğini bildirir.",
+      "url": "https://theislamicdreambook.com/children-in-a-dream/"
+    },
+    {
+      "title": "Rüyada Çocuk Görmek: İbn-i Sirin, Diyanet ve Psikolojik ...",
+      "relevance": "İbn Sîrîn’e atfen çocuk görmenin hayırlı haber ve rızık artışıyla ilişkilendirildiğini aktaran modern derleme.",
+      "url": "https://www.thedatepoint.com/ruya-yorumlari/ruyada-cocuk-gormek"
     },
     {
       "title": "Child",
-      "relevance": "Jungcu literatürde çocuk arketipinin yenilenme ve bilinç dengeleme işlevine dair teorik özet; çocuk sembolü için arketipsel çerçeve sağlar.",
-      "url": "https://www.encyclopedia.com/science-and-technology/computers-and-electrical-engineering/computers-and-computing/child"
+      "relevance": "Rüyada çocuk imgesini Hristiyan dua ve yorum dili içinde masumiyet, iman ve yeni hizmet çağrısı ile ilişkilendiriyor.",
+      "url": "https://joshuamediaministries.org/dreams/child/"
     },
     {
-      "title": "The Child Archetype: Recovering the Treasure You Buried Early",
-      "relevance": "Jungcu perspektiften çocuk arketipini yenilenme ve yaratıcı potansiyel bağlamında ele alan değerlendirme; teorik destek sağlar.",
-      "url": "https://joeboyd.substack.com/p/the-child-archetype-recovering-the"
+      "title": "What the Bible Says About the Meaning of a Child - God's Blessing",
+      "relevance": "Çocuk figürünü Kutsal Kitap bağlamında bereket, armağan ve sorumluluk temalarıyla ilişkilendiren Hristiyan bir kaynak.",
+      "url": "https://godsbless.ing/definitions/spiritual-and-theological-concepts/biblical-meaning-of-a-child/"
     },
     {
-      "title": "Children in Dreams. What does it mean?",
-      "relevance": "Klasik İslami rüya tabirleri bağlamında \"çocuk\" sembolüne dair çevrimiçi derleme; bağlama bağlı yorum örnekleri içerir.",
-      "url": "https://jhdreams.wordpress.com/2025/09/25/children-in-dreams-what-does-it-mean/"
+      "title": "Topical Bible: A Little Child",
+      "relevance": "İbn-i Sirin’e atfen çocuk görmenin hayırlı haber ve rızık artışıyla ilişkilendirildiğini aktaran modern derleme.",
+      "url": "https://biblehub.com/topical/a/a_little_child.htm"
     },
     {
-      "title": "Topical Bible: Child",
-      "relevance": "İncil metinleri ve Hristiyan sembolizminde çocuk temasının masumiyet, tevazu ve ruhsal kabul ile ilişkisini özetleyen kaynak.",
-      "url": "https://biblehub.com/topical/c/child.htm"
+      "title": "Topical Bible: Children: Figurative",
+      "relevance": "Çocukların İncil’de masumiyet, bağımlılık, alçakgönüllülük ve ruhsal yeniden doğuş gibi anlamlarla kullanıldığını gösteriyor.",
+      "url": "https://biblehub.com/topical/naves/c/children--figurative.htm"
     },
     {
-      "title": "Dreams in Jewish Tradition",
-      "relevance": "Yahudi gelenekte rüyaların nasıl anlaşıldığını ve yorum/iyileştirme çerçevesini özetleyen genel bir inceleme; 'çocuk' sembolüne özgü doğrulanmış rüya yorumu sunmaz.",
-      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+      "title": "The Symbol Of 'Children' In the Gospel Of Matthew",
+      "relevance": "Matta İncili’nde çocuk sembolünün gök egemenliği ve öğrencilik bağlamında nasıl yorumlandığını inceleyen akademik çalışma.",
+      "url": "https://repository.tangaza.ac.ke/items/9717ec4e-1cb0-4c04-88d1-ae03ffbe88ba/full"
     },
     {
-      "title": "Significance of Dreams",
-      "relevance": "Talmud ve hahamî pratiklerde rüyaların anlamlı görülebileceğini anlatan popüler açıklama; 'çocuk' sembolüne özgü doğrudan yorum içermez.",
-      "url": "https://aish.com/significance-of-dreams/"
+      "title": "Babylonian Talmud: Tractate Berakoth",
+      "relevance": "Talmud'da rüya yorumuna dair bir pasaj; yorumun rüyanın anlamını şekillendirdiğini gösterir.",
+      "url": "https://www.come-and-hear.com/berakoth/berakoth_57.html"
     },
     {
-      "title": "An overview of Freud & Jewish interpretations of dreams",
-      "relevance": "Yahudi perspektifli genel bir değerlendirme; 'çocuk' sembolüne özgü doğrulanmış rüya yorumu sağlamaz.",
-      "url": "https://www.oxfordchabad.org/templates/blog/post_cdo/aid/708481/postid/13691"
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Rüya sembollerinin homiletik biçimde yorumlandığını gösteren Talmud bölümü.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
     },
     {
-      "title": "The Power of Dreams",
-      "relevance": "Klasik Yahudi rüya anlayışının yerini tartışan kaynak; 'çocuk' sembolüne ilişkin doğrudan, doğrulanmış bir yorum sunmaz.",
-      "url": "https://www.jtsa.edu/torah/the-power-of-dreams/"
+      "title": "Dream of Child in Dream — Symbolic Meaning & Psychological…",
+      "relevance": "Budist bağlamda çocuğu uyanış zihninin açıklığı ve savunmasız ama alıcı bir bilinç hâliyle ilişkilendiren sembolik açıklama.",
+      "url": "https://wereallunique.com/dreams/child-figure"
     },
     {
-      "title": "[Free to read] Wounding and Potential: The Child in Dreams",
-      "relevance": "Jungcu çizgide popüler bir değerlendirme; Doğu gelenekleri açısından birincil kaynak niteliğinde değildir.",
-      "url": "https://beginagain.substack.com/p/the-threshold-between-wounding-and"
+      "title": "Child: Significance and symbolism",
+      "relevance": "Budizmde çocuk imgesini bağımlılık, erken gelişim evresi ve çözülmemiş bağlılıklarla ilişkilendiren kavramsal açıklama.",
+      "url": "https://www.wisdomlib.org/concept/child"
+    },
+    {
+      "title": "Dreaming in the Lotus 0861711580 - DOKUMEN.PUB",
+      "relevance": "Tibet Budist rüya ve doğum anlatılarında çocukların Budist işaretlerle birlikte ruhsal önem ve dönüştürücü potansiyel taşıması.",
+      "url": "https://dokumen.pub/dreaming-in-the-lotus-0861711580.html"
+    },
+    {
+      "title": "A Study on Symbolim in Buddhist Folklore with Child Character",
+      "relevance": "Budist folklorda çocuk karakterinin saflık, bodhisattva görünümü ve hakikati arayan uygulayıcıyla ilişkisi.",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001422931"
+    },
+    {
+      "title": "Child in dreams — meaning and symbolism",
+      "relevance": "Rüyada çocuk imgesini ezoterik bir çerçevede saflık, taze yaşam enerjisi, sezginin doğuşu ve korunma ihtiyacıyla ilişkilendiriyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/child"
+    },
+    {
+      "title": "Baby / Child in Dreams: Meaning & Symbolism | Somniary",
+      "relevance": "Bebek/çocuk imgesini yeni başlangıçlar, kırılganlık, masumiyet ve bakılması gereken potansiyel olarak açıklar; çocuk rüyası için doğrudan sembolik malzeme sağlar.",
+      "url": "https://somniary.com/dream-library/symbols/baby-child"
+    },
+    {
+      "title": "Children - Dream Symbol",
+      "relevance": "Çocuk sembolünü yeni başlangıç, potansiyel, içsel büyüme ve 'İlahi Çocuk' kavramıyla ilişkilendirir; ayrıca alıntıladığı ezoterik/Jungçu hattı üzerinden sembolik bir çerçeve sunar.",
+      "url": "https://dreampaths.com/symbol/children"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Simyasal gelenekte 'Filozofun Çocuğu' ve 'İlahi Çocuk' motifleri üzerinden çocuk imgesinin tamamlanma, karşıtların birliği ve dönüşmüş bilinçle ilişkilendirildiğini öne sürer.",
+      "url": "https://mirrorwithin.com/dream-dictionary/healthy-baby/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
 }
