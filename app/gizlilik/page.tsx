@@ -84,10 +84,25 @@ export default function Gizlilik() {
               </h2>
 
               <p>
-                INUS, hizmetin sürdürülebilmesi amacıyla üçüncü taraf reklam
-                hizmetleri kullanabilir. Bu hizmetler, reklamların
-                gösterilmesi ve ölçümlenmesi için çerezler veya benzeri
-                teknolojiler kullanabilir.
+                INUS, hizmetin sürdürülebilmesi amacıyla Google AdSense dahil
+                üçüncü taraf reklam hizmetlerinden yararlanabilir. Google ve diğer
+                reklam sağlayıcıları, reklamların gösterilmesi, ölçümlenmesi ve
+                uygun olduğu durumlarda kişiselleştirilmesi amacıyla çerezler veya
+                benzeri teknolojiler kullanabilir.
+              </p>
+
+              <p className="mt-4">
+                Google&apos;ın reklam çerezlerini kullanması, kullanıcılara INUS&apos;u
+                veya internetteki diğer siteleri daha önce ziyaret etmelerine
+                dayalı reklamlar gösterilmesine olanak sağlayabilir. Kullanıcılar,
+                Google&apos;ın reklam ayarları üzerinden kişiselleştirilmiş reklamları
+                yönetebilir veya devre dışı bırakabilir.
+              </p>
+
+              <p className="mt-4">
+                Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre&apos;deki
+                kullanıcılar için gerekli olduğu durumlarda reklam ve ilgili veri
+                kullanımları konusunda kullanıcı rızası alınır.
               </p>
             </section>
 
