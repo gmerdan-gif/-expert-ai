@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 import AdSlot from "@/components/ads/AdSlot";
+import { dreamPhrase } from "@/lib/symbols/dream-title";
 
 import type {
   SymbolContent,
@@ -31,23 +32,7 @@ function rawSymbolName(title: string) {
 }
 
 function dreamHeading(title: string) {
-  const clean = title.trim();
-
-  if (/^rüyada\s+/i.test(clean)) {
-    return clean;
-  }
-
-  const lower = lowerTr(clean);
-
-  if (
-    lower.endsWith("mak") ||
-    lower.endsWith("mek") ||
-    lower.includes("olduğunu görmek")
-  ) {
-    return `Rüyada ${lower}`;
-  }
-
-  return `Rüyada ${lower} görmek`;
+  return dreamPhrase(title);
 }
 
 export function SymbolPage({
@@ -160,7 +145,7 @@ export function SymbolPage({
               </p>
 
               <h2 className="text-3xl font-light tracking-[-0.025em]">
-                {name} hangi temalarla ilişkilendiriliyor?
+                Hangi temalarla ilişkilendiriliyor?
               </h2>
 
               <div className="mt-7 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
@@ -178,37 +163,6 @@ export function SymbolPage({
             </section>
           )}
 
-          <section className="border-t border-[#d9d2c9] py-10">
-            <div className="grid gap-8 lg:grid-cols-[1fr_auto] lg:items-center">
-              <div className="max-w-3xl">
-                <p className="mb-3 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
-                  SEMBOLÜN ÖTESİNDE
-                </p>
-
-                <h2 className="text-3xl font-light tracking-[-0.025em]">
-                  Peki senin rüyanda ne oldu?
-                </h2>
-
-                <p className="mt-4 max-w-2xl text-[15px] leading-7 text-[#625c54]">
-                  Aynı sembol, iki rüyada bambaşka bir yerde durabilir.
-                  Kimler vardı, ne oldu, ne hissettin ve{" "}
-                  {lowerTr(rawName)} rüyanın içinde nasıl ortaya çıktı?
-                  INUS rüyanı bu bağlamla birlikte ele alır.
-                </p>
-              </div>
-
-              <div className="lg:text-right">
-                <Link
-                  href="/"
-                  className="inline-flex items-center gap-8 rounded-full bg-[#292621] px-7 py-3.5 text-sm text-white transition hover:bg-[#403b35]"
-                >
-                  Rüyanı anlat
-                  <span aria-hidden="true">→</span>
-                </Link>
-              </div>
-            </div>
-          </section>
-
           {perspectives.length > 0 && (
             <section className="border-t border-[#d9d2c9] py-10">
               <p className="mb-3 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
@@ -216,7 +170,7 @@ export function SymbolPage({
               </p>
 
               <h2 className="text-3xl font-light tracking-[-0.025em]">
-                {name} farklı yaklaşımlarda nasıl ele alınıyor?
+                Farklı yaklaşımlarda nasıl ele alınıyor?
               </h2>
 
               <p className="mt-4 max-w-3xl text-sm leading-7 text-[#746d64]">
@@ -293,7 +247,7 @@ export function SymbolPage({
                 </p>
 
                 <h2 className="text-3xl font-light tracking-[-0.025em]">
-                  {name} rüyasına bağlam içinde bakmak
+                  Rüyaya bağlam içinde bakmak
                 </h2>
 
                 <div className="mt-5 max-w-4xl text-[15px] leading-8 text-[#5f5952]">
@@ -310,7 +264,7 @@ export function SymbolPage({
               </p>
 
               <h2 className="text-3xl font-light tracking-[-0.025em]">
-                {name} rüyaları nasıl değişebilir?
+                Rüyanın ayrıntıları anlamı nasıl değiştirebilir?
               </h2>
 
               <div className="mt-7 overflow-hidden rounded-xl border border-[#d9d1c7] bg-[#faf8f4]">
@@ -336,6 +290,37 @@ export function SymbolPage({
 
           <AdSlot placement="symbol-before-faq" />
 
+          <section className="border-t border-[#d9d2c9] py-10">
+            <div className="grid gap-8 lg:grid-cols-[1fr_auto] lg:items-center">
+              <div className="max-w-3xl">
+                <p className="mb-3 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                  SEMBOLÜN ÖTESİNDE
+                </p>
+
+                <h2 className="text-3xl font-light tracking-[-0.025em]">
+                  Peki senin rüyanda ne oldu?
+                </h2>
+
+                <p className="mt-4 max-w-2xl text-[15px] leading-7 text-[#625c54]">
+                  Aynı sembol, iki rüyada bambaşka bir yerde durabilir.
+                  Kimler vardı, ne oldu, ne hissettin ve{" "}
+                  {lowerTr(rawName)} rüyanın içinde nasıl ortaya çıktı?
+                  INUS rüyanı bu bağlamla birlikte ele alır.
+                </p>
+              </div>
+
+              <div className="lg:text-right">
+                <Link
+                  href="/"
+                  className="inline-flex items-center gap-8 rounded-full bg-[#292621] px-7 py-3.5 text-sm text-white transition hover:bg-[#403b35]"
+                >
+                  Rüyanı anlat
+                  <span aria-hidden="true">→</span>
+                </Link>
+              </div>
+            </div>
+          </section>
+
           {symbol.faq?.length > 0 && (
             <section className="border-t border-[#d9d2c9] py-10">
               <p className="mb-3 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
@@ -343,7 +328,7 @@ export function SymbolPage({
               </p>
 
               <h2 className="text-3xl font-light tracking-[-0.025em]">
-                {name} rüyaları hakkında sık sorulan sorular
+                Sık sorulan sorular
               </h2>
 
               <div className="mt-7 overflow-hidden rounded-xl border border-[#d9d1c7] bg-[#faf8f4]">

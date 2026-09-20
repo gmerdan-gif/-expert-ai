@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
 import { SymbolPage } from "@/components/symbol-pages/SymbolPage";
+import { dreamQuestionTitle } from "@/lib/symbols/dream-title";
 import {
   getAllPublishedSymbolSlugs,
   getPublishedSymbolBySlug,
@@ -33,11 +34,9 @@ export async function generateMetadata({
     return {};
   }
 
-  const lowerTitle =
-    symbol.title.toLocaleLowerCase("tr-TR");
-
-  const title =
-    `Rüyada ${lowerTitle} Görmek Ne Anlama Gelir?`;
+  const title = dreamQuestionTitle(
+    symbol.title,
+  );
 
   const url =
     `${BASE_URL}/ruyalar/semboller/${symbol.slug}`;
@@ -78,8 +77,9 @@ export default async function SymbolDetailPage({
     notFound();
   }
 
-  const lowerTitle =
-    symbol.title.toLocaleLowerCase("tr-TR");
+  const title = dreamQuestionTitle(
+    symbol.title,
+  );
 
   const url =
     `${BASE_URL}/ruyalar/semboller/${symbol.slug}`;
@@ -87,8 +87,7 @@ export default async function SymbolDetailPage({
   const articleJsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline:
-      `Rüyada ${lowerTitle} Görmek Ne Anlama Gelir?`,
+    headline: title,
     description: symbol.shortDescription,
     url,
     mainEntityOfPage: {
