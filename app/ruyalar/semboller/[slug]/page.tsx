@@ -6,6 +6,7 @@ import { dreamQuestionTitle } from "@/lib/symbols/dream-title";
 import {
   getAllPublishedSymbolSlugs,
   getPublishedSymbolBySlug,
+  getRelatedPublishedSymbols,
 } from "@/lib/symbols/repository";
 
 type PageProps = {
@@ -76,6 +77,9 @@ export default async function SymbolDetailPage({
   if (!symbol) {
     notFound();
   }
+
+  const relatedSymbols =
+    getRelatedPublishedSymbols(symbol);
 
   const title = dreamQuestionTitle(
     symbol.title,
@@ -173,7 +177,10 @@ export default async function SymbolDetailPage({
         />
       )}
 
-      <SymbolPage symbol={symbol} />
+      <SymbolPage
+        symbol={symbol}
+        relatedSymbols={relatedSymbols}
+      />
     </>
   );
 }

@@ -7,8 +7,14 @@ import type {
   SymbolContent,
 } from "@/data/symbol-system/schema/symbol-schema";
 
+type RelatedSymbol = Pick<
+  SymbolContent,
+  "slug" | "title"
+>;
+
 type SymbolPageProps = {
   symbol: SymbolContent;
+  relatedSymbols?: RelatedSymbol[];
 };
 
 function lowerTr(value: string) {
@@ -37,6 +43,7 @@ function dreamHeading(title: string) {
 
 export function SymbolPage({
   symbol,
+  relatedSymbols = [],
 }: SymbolPageProps) {
   const rawName = rawSymbolName(symbol.title);
   const name = capitalizeTr(rawName);
@@ -349,6 +356,41 @@ export function SymbolPage({
                       {item.answer}
                     </div>
                   </details>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {relatedSymbols.length > 0 && (
+            <section className="border-t border-[#d9d2c9] py-10">
+              <p className="mb-3 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
+                KEŞFET
+              </p>
+
+              <h2 className="text-3xl font-light tracking-[-0.025em]">
+                İlgili rüya sembolleri
+              </h2>
+
+              <p className="mt-4 max-w-2xl text-sm leading-7 text-[#746d64]">
+                Bu sembolle doğrudan ilişkili diğer rüya
+                sembollerini keşfedebilirsin.
+              </p>
+
+              <div className="mt-7 flex flex-wrap gap-3">
+                {relatedSymbols.map((related) => (
+                  <Link
+                    key={related.slug}
+                    href={`/ruyalar/semboller/${related.slug}`}
+                    className="inline-flex items-center gap-3 rounded-full border border-[#d4ccc2] bg-[#faf8f4] px-5 py-3 text-sm text-[#4f4942] transition hover:border-[#9e9489] hover:text-[#24221f]"
+                  >
+                    {related.title}
+                    <span
+                      aria-hidden="true"
+                      className="text-[#91887e]"
+                    >
+                      →
+                    </span>
+                  </Link>
                 ))}
               </div>
             </section>

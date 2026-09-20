@@ -5,6 +5,8 @@ import type {
   SymbolContent,
 } from "@/data/symbol-system/schema/symbol-schema";
 
+import { generatedRelatedSymbolSlugs } from "@/lib/symbols/related-symbols.generated";
+
 const PUBLISHED_SYMBOLS_DIR = path.join(
   process.cwd(),
   "data",
@@ -86,4 +88,55 @@ export function publishedSymbolExists(
   slug: string,
 ): boolean {
   return getPublishedSymbolBySlug(slug) !== null;
+}
+
+export function getRelatedPublishedSymbols(
+  symbol: SymbolContent,
+  limit = 4,
+): SymbolContent[] {
+  const manualSlugs =
+    symbol.relatedSlugs?.filter(
+      (slug) => slug && slug !== symbol.slug,
+    ) ?? [];
+
+  const generatedSlugs =
+    generatedRelatedSymbolSlugs[symbol.slug] ?? [];
+
+  /*
+   * Explicit editorial relationships take priority.
+   * Generated relationships fill only when no manual
+   * relationship has been defined for the symbol.
+   */
+  const candidateSlugs =
+    manualSlugs.length > 0
+      ? manualSlugs
+      : generatedSlugs;
+
+  const seen = new Set<string>();
+  const related: SymbolContent[] = [];
+
+  for (const slug of candidateSlugs) {
+    if (
+      slug === symbol.slug ||
+      seen.has(slug)
+    ) {
+      continue;
+    }
+
+    const target =
+      getPublishedSymbolBySlug(slug);
+
+    if (!target) {
+      continue;
+    }
+
+    seen.add(slug);
+    related.push(target);
+
+    if (related.length >= limit) {
+      break;
+    }
+  }
+
+  return related;
 }
