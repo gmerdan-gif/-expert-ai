@@ -10,6 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/ruyalar/ruya-nedir",
     "/ruyalar/ruya-sembolleri",
     "/ruyalar/semboller",
+    "/ruyalar/semboller/tumu",
     "/ruyalar/kabuslar",
     "/ruyalar/neden-ruya-goruruz",
     "/ruyalar/ruyalar-neden-unutulur",

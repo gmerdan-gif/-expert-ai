@@ -236,6 +236,16 @@ export default function DreamSymbolsIndexPage() {
                 ))}
               </div>
             </div>
+
+            <div className="mt-8 flex justify-end">
+              <Link
+                href="/ruyalar/semboller/tumu"
+                className="inline-flex items-center gap-4 text-sm text-[#625c54] transition hover:text-[#24221f]"
+              >
+                Tüm sembolleri keşfet
+                <span aria-hidden="true">→</span>
+              </Link>
+            </div>
           </section>
         )}
 
