@@ -1,0 +1,294 @@
+{
+  "slug": "parfum",
+  "title": "parfüm",
+  "shortDescription": "Rüyada parfüm görmek; itibar, duygusal anılar ve çevrenizde bıraktığınız etkiyle ilişkilendirilir. Hoş bir koku övgü ve yakınlığı, ağır veya rahatsız edici bir koku ise bunaltıcı durumları ya da samimiyetsizliği yansıtabilir.",
+  "positiveAssociations": [
+    "İyi şöhret ve olumlu övgü",
+    "Hoş anılar ve duygusal derinlik",
+    "Manevi arınma ve kutsanma",
+    "Zarif çekicilik ve olumlu etki"
+  ],
+  "challengingAssociations": [
+    "Duygusal veya fiziksel olarak bastırılmış hisler",
+    "Geçim kaybı veya kimlik kaybı endişesi",
+    "Duygusal aşırılık veya yanılsama",
+    "Görünmez bir baskının hissettirdiği huzursuzluk"
+  ],
+  "contextDependentAssociations": [
+    "Parfümün kokusunun hoş ya da rahatsız edici olması",
+    "Parfümün hediye edilmesi, satın alınması veya sıkılması",
+    "Rüyayı gören kişinin uyanık yaşamındaki koku farkındalığı",
+    "Kokunun kaynağının rüyada görünür olup olmaması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Üzerine Parfüm Sıkmak",
+      "description": "Rüyada kendi üstüne parfüm sıktığını görmek, uyanık yaşamda dış dünyaya yansıtılan persona, imaj ve beğenilme arzusu ile ilişkilendirilir."
+    },
+    {
+      "title": "Tanıdık Bir Parfüm Kokusu Almak",
+      "description": "Görünmeyen bir kaynaktan gelen tanıdık bir parfüm kokusu, geçmişe ait güçlü bir hatıranın, nostaljinin veya bilinçdışından gelen bir anının su yüzüne çıkmasına işaret edebilir."
+    },
+    {
+      "title": "Parfüm Hediye Etmek veya Almak",
+      "description": "Başka birine parfüm vermek ya da almak, sosyal ilişkilerdeki bağları, yakınlık arayışını veya karşılıklı etkileşimlerde bırakılan izleri simgeler."
+    },
+    {
+      "title": "Ağır ve Rahatsız Edici Parfüm Kokusu",
+      "description": "Boğucu veya aşırı yoğun bir koku, uyanık yaşamda maruz kalınan bunaltıcı durumları, samimiyetsiz tutumları veya bastırılmış bazı rahatsızlıkları yansıtabilir."
+    }
+  ],
+  "psychology": "Ampirik psikoloji çalışmaları, rüyalarda koku algılarına ve özellikle parfüm gibi spesifik koku imgelerine rastlanma sıklığının oldukça düşük olduğunu göstermektedir. Koku deneyimi bildiren kişilerin gündelik yaşamda koku farkındalığına daha duyarlı oldukları ve bu rüyaların çoğunlukla kısa, duygusal ve uykudan önceki tanıdık kokularla bağlantılı olduğu saptanmıştır. Uyku sırasında dışarıdan verilen olumlu veya olumsuz koku uyaranlarının doğrudan rüya sahnelerine her zaman koku imgesi olarak girmese de rüyanın genel duygusal tonunu etkileyebildiği deneysel olarak gözlenmiştir.",
+  "jungian": "Jung analitik psikolojisinde parfüm, sabit bir nesneden ziyade görünmez bir etkinin veya varlığın habercisi olarak görülür. Kokunun bedensel olmayan, yayılan doğası, rüyada görünmeyenin veya bilinçdışından yükselen gizli özelliklerin bilinç alanına nasıl yaklaşabileceğini düşündürür. Bu bağlamda parfüm imgesi, kişinin dış dünyaya gösterdiği persona, içsel anima/animus dinamikleri veya bastırılmış bazı psikolojik yönlerin fark edilmesiyle ilişkilendirilebilir.",
+  "islamicTradition": "Klasik İslami rüya yorum geleneğinde güzel koku ve parfüm, sevinç, hoş ilişkiler, iyi bir şöhret, övgü ve insan sevgisiyle ilişkilendirilir. Nablusî ve İbn Sîrîn'e atfedilen yorumlarda, misk ve amber gibi maddeler helâl kazanç, hayırlı işler, evliliğe yaklaşma veya tövbe gibi olumlu temalarla birlikte ele alınır; kokunun niteliği ve rüyadaki bağlam tabirin yönünü belirler.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde hoş koku ve parfüm motifleri, Tanrı'ya sunulan kabul görmüş ibadet, kutsama ve ruhsal yakınlık kavramlarıyla bağdaştırılır. İnananın yaşamının ve yöneliminin ilahi huzurda bir 'tatlı koku' gibi değerlendirilmesi, rüyadaki parfüm imgesinin adanmışlık, saygı ve manevi saflık çağrışımları taşıyabileceğini düşündürür.",
+  "jewishTraditions": "Yahudi rabbanî ve metinsel gelenek çerçevesinde rüyalar yoruma açıktır ve tek bir sabit anlam yerine bağlama dayalı olarak değerlendirilir. Koku temaları bu gelenekte sıklıkla eşik, geçiş, kutsallık ve hoşluk kavramlarıyla ilişkilendirilir; bu nedenle rüyadaki parfüm, katı bir kehanetten ziyade cazibe, saygı veya manevi sınırların fark edilmesi ekseninde okunur.",
+  "buddhistEasternApproaches": "Budist sembolizminde hoş kokular ve parfüm (gandha), hem duyusal arzu ve dünyevi bağların bir unsuru hem de Dharma'nın uzaklara yayılan manevi etkisinin bir mecazı olarak yer alır. Lotus Sutra veya Vajrayana geleneklerindeki sunu ve koku pratikleri, parfümün arınma, erdem ve ince bir ruhsal etki geliştirme ile bağdaştırılabileceğini gösterir.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda parfüm, derin bellek, nostalji, görünmez etki, bereket, arınma ve ruhsal hazırlık sembolü olarak ele alınır. Kişinin uyanık yaşamda bırakmak istediği kalıcı iz, beğenilme arzusu veya ince bir enerji alanının temizlenmesi gibi temalar bu yaklaşımın merkezindedir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik psikoloji",
+      "interpretation": "Olfaktif rüyaların nadir görüldüğünü, anlık koku farkındalığıyla ve rüyanın duygusal tonuyla ilişkili olduğunu vurgular.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz ve Teorik Yaklaşım",
+      "interpretation": "Duyusal izlerin dönüştürülmüş temsillerini, beden yakınlığını, hafızayı ve arzu eksenindeki dinamikleri inceler.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami ve Dini Gelenekler",
+      "interpretation": "Güzel kokuyu iyi şöhret, övgü, helâl kazanç ve manevi temizlik bağlamında ele alır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Parfümü görünmez etki, bellek, arınma ve ruhsal yakınlık sembolü olarak yorumlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, parfümün ve hoş kokunun duyusal bir uyaran olmanın ötesinde insan zihninde derin izler bırakan, görünmeyen ama güçlü etkiler taşıyan ve duygusal tonu doğrudan şekillendiren bir simge olduğu konusunda birleşir.",
+  "differences": "Ampirik psikoloji koku rüyalarının fizyolojik ve bağlamsal sıklığına odaklanırken, psikanaliz bunu bastırılmış arzular ve beden hafızasıyla açıklar. Dinî ve spiritüel gelenekler ise parfümü itibar, kutsanma ve manevi temizlik gibi daha aşkın anlamlarla bağdaştırır.",
+  "inusAssessment": "Parfüm rüyaları, sabit ve evrensel bir sözlük anlamı taşımaktan ziyade, rüyayı gören kişinin o anki duygusal tonu, koku farkındalığı ve yaşamındaki sosyal ilişkileriyle doğrudan şekillenir. Bu rüyayı yorumlarken kokunun hoşa giden nitelikte mi yoksa rahatsız edici bir yoğunlukta mı olduğu, ayrıca kokunun kaynağının kim veya ne olduğu gibi ayrıntılar, sembolün anlamını tamamen değiştirebilecek en kritik ipuçlarını sunar.",
+  "faq": [
+    {
+      "question": "Rüyalarda parfüm kokusu almak sık görülen bir durum mudur?",
+      "answer": "Yapılan ampirik çalışmalar, rüyalarda koku algılarına ve parfüm gibi olfaktif imgelere rastlanma oranının oldukça düşük olduğunu göstermektedir."
+    },
+    {
+      "question": "Rüyada parfüm sıkmak psikolojik olarak ne anlama gelir?",
+      "answer": "Psikanalitik ve teorik çerçevede parfüm sıkmak, kişinin dış dünyaya yansıttığı kimlik, persona, beden yakınlığı ve duyusal çekicilik arayışlarıyla ilişkilendirilebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "[PDF] Olfactory perception in dreams: Analysis of a long dream series",
+      "relevance": "Uzun bir rüya dizisinde koku imgelerinin sıklığı ve duygu tonu üzerine ampirik veri sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/57845/54240"
+    },
+    {
+      "title": "Studies on Olfactory Dreaming",
+      "relevance": "Olfaktif rüyaların görülme sıklığı, özellikleri ve koku imgeleriyle ilişkisi hakkında anket temelli bulgular sunar.",
+      "url": "https://link.springer.com/article/10.1007/s12078-010-9074-0"
+    },
+    {
+      "title": "Olfactory Dreams: Phenomenology, Relationship to Volitional Imagery and Odor Identification - Richard J. Stevenson, Trevor I. Case, 2004",
+      "relevance": "Olfaktif rüyaların doğasını, gündelik koku deneyimiyle ilişkisini ve nadirliğini inceleyen çalışma.",
+      "url": "https://journals.sagepub.com/doi/10.2190/R97G-RM98-B58N-DUYA"
+    },
+    {
+      "title": "Subjectively intense odor does not affect dream emotions during ...",
+      "relevance": "Koku yoğunluğunun rüya duygusallığına etkisini test eden deneysel çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10299998/"
+    },
+    {
+      "title": "Nocturnal exposure to a preferred ambient scent does not affect ...",
+      "relevance": "Tercih edilen ortam kokusuna gece boyu maruz kalmanın rüya duyguları ve uykudan sonra hissedilen duygu durumu üzerindeki etkisini inceleyen uyku laboratuvarı çalışması.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11074142/"
+    },
+    {
+      "title": "Information processing during sleep: the effect of olfactory stimuli on dream content and dream emotions",
+      "relevance": "Uyku sırasında verilen koku uyaranlarının rüya içeriği ve rüya duyguları üzerindeki etkisini doğrudan gösteren deneysel çalışma.",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2869.2009.00737.x"
+    },
+    {
+      "title": "Do you remember if you have olfactory dreams? A content analysis of LOFTER and a questionnaire survey conducted in China - PubMed",
+      "relevance": "Çin örnekleminde koku içeren rüya kayıtlarının içeriğini ve sıklığını analiz eden çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35597309/"
+    },
+    {
+      "title": "Effects of all-night exposure to ambient odour on dreams ...",
+      "relevance": "Kokuya gece maruziyetinin rüya içeriği ve uykudan sonraki temel duygulanım üzerindeki etkisini test eden çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33245999/"
+    },
+    {
+      "title": "Olfaction-Related Factors Affecting Chemosensory Dream Content ...",
+      "relevance": "Koku farkındalığı ile koku içeren rüya raporları arasındaki ilişkiyi inceleyen çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8465492/"
+    },
+    {
+      "title": "The Scent of Sleep: On Night Knowledge and Its Atmospheres",
+      "relevance": "Rüyada koku uyaranlarının nasıl sahneye dönüştürülebildiğine dair klasik Freudyen örnekleri içerir; parfüm/koku imgeleri için temel psikanalitik bağlam sağlar.",
+      "url": "https://www.erudit.org/en/journals/im/2023-n41-im08800/1106554ar.pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyada duyusal uyaranların dolaylı ve dönüştürülmüş temsilini açıklayan genel rüya kuramı bağlamını sağlar; parfüm için psikanalitik bir yorum için bağlam sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "The Perfume of Soul from Freud to Lacan: A Critical ...",
+      "relevance": "Freud’dan Lacan’a uzanan çizgide koku, beden ve özneleşme ilişkisini ele alır; parfümün psikanalitik okunmasında arzu ve bedensel yakınlık eksenini açar.",
+      "url": "https://www.routledge.com/The-Perfume-of-Soul-from-Freud-to-Lacan-A-Critical-Reading-of-Smelling-Breathing-and-Subjectivity/Jazani/p/book/9781032757353"
+    },
+    {
+      "title": "Fragrance and Freud; a chapter of applied psychoanalysis",
+      "relevance": "Freud ve parfüm/koku ilişkisini uygulamalı psikanalitik açıdan tartışan bir çalışmaya işaret eder; parfüm sembolünün Freudcu yorumunda hafıza ve arzu temalarıyla bağlantı kurulmasına yardımcı olur.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13485263/"
+    },
+    {
+      "title": "Perfume in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Rüyada parfümü, kokunun bedensiz bir varlığı haber vermesi bağlamında Jungcu sembolizm çerçevesinde ele alır.",
+      "url": "https://rosmertapublishing.com/dream-symbols/perfume/"
+    },
+    {
+      "title": "Perfume Dream Meaning & Interpretation - Mirror",
+      "relevance": "Parfümü Jungcu yorumda persona, anima/animus ve benlik temalarıyla ilişkilendirir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/perfume/"
+    },
+    {
+      "title": "Smelling Perfume Dream Meaning & Interpretation - Mirror",
+      "relevance": "Parfüm kokusunu Jungcu yorumda anima/animus ve bilinçdışından gelen niteliklerin fark edilmesiyle ilişkilendirir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/smelling-perfume/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un çevirisinde parfüm satıcısı örneği; parfümün meslek ve geçim kaybı bağlamındaki oneirokritik kullanımı.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Interprétation de voir du parfum dans un rêve par Ibn Sirin et Al-Nabulsi - un site égyptien",
+      "relevance": "Parfümün ve amberli kokuların rüya bağlamındaki olumlu çağrışımlarını aktaran modern derleme sayfası.",
+      "url": "https://fr.msry.org/Parfum-dans-un-r%C3%AAve.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri - Nedir? Nasıl yapılır? Ne demektir?",
+      "relevance": "Misk, amber ve güzel kokuların klasik İslami rüya sembolizmi içindeki anlamlarını aktaran çevrimiçi derleme.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/imam-nablusi-ruya-tabirleri/page/2/"
+    },
+    {
+      "title": "Rüyada Buhurlanmak Ne Anlama Gelir? Ne Demek, Neye Yorumlanır?",
+      "relevance": "Misk ve hoş kokulu tütsülerin sevinç ve büyüklükle ilişkilendirildiği rüya tabiri aktarımı.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-buhurlanmak-ne-anlama-gelir-25623"
+    },
+    {
+      "title": "تفسير رؤية العطر/الطيب في المنام لابن سيرين والنابلسي",
+      "relevance": "Güzel kokuyu iyi şöhret, övgü ve insanların sevgisiyle ilişkilendiren Arapça rüya tabiri derlemesi.",
+      "url": "https://www.tfseerahlam.com/dream/perfume"
+    },
+    {
+      "title": "Nablusi Rüya Tabirleri – Sayfa 2 – Bilmesek olmaz – Nedir? Nasıl yapılır? Ne demektir?",
+      "relevance": "Parfümün rüyadaki olumlu çağrışımlarını Nablusî ve İbn Sîrîn aktarımlarından derleyen modern Arapça kaynak.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/nablusi-ruya-tabirleri/page/2/"
+    },
+    {
+      "title": "تفسير رؤية العطر في المنام لابن سيرين والنابلسي - مجلة لها",
+      "relevance": "Nablusî ve İbn Sîrîn'in parfümle ilgili aktarımlarını derleyen başka bir modern Arapça derleme.",
+      "url": "https://www.lahamag.com/article/235855-%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D9%84%D8%A7%D8%A8%D9%86-%D8%B3%D9%8A%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A"
+    },
+    {
+      "title": "Rüyada Koku Görmek Ne Anlama Gelir? Ne Demek, Neye Yorumlanır?",
+      "relevance": "Rüyada parfüm kokusunun dileklerin kolay gerçekleşmesiyle ilişkilendirildiğini aktaran modern Türkçe rüya tabiri sayfası.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-koku-gormek-ne-anlama-gelir-27352"
+    },
+    {
+      "title": "Perfume - Interpreting Dream Symbols - David E. Taylor",
+      "relevance": "Rüyada parfümü Tanrı’ya yakınlık, ibadet ve hoş koku diliyle ilişkilendiren modern Hristiyan yorum metni.",
+      "url": "https://joshuamediaministries.org/dreamperfume/"
+    },
+    {
+      "title": "The Aroma of Christ - Feeding on Christ",
+      "relevance": "Kutsal meshetme yağı ve hoş koku motifinin Hristiyan sembolizmindeki anlamını açıklayan metin; parfümün kutsama ve ruhsal hoş koku çerçevesine bağlanmasına imkân verir.",
+      "url": "https://feedingonchrist.org/the-arom-of-christ/"
+    },
+    {
+      "title": "Fragrances - Topical Bible",
+      "relevance": "Kutsal yazılarda hoş koku, saflık, kutsallık, ilahi huzur ve ibadet temalarının nasıl kullanıldığını topluca gösteren tematik başvuru sayfaları.",
+      "url": "https://biblehub.com/topical/f/fragrances.htm"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyalar ve anlamları üzerine Talmudî çerçeve sunar; rüya yorumunun genel Yahudi bağlamını anlamak için kullanışlıdır.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "English 1..32",
+      "relevance": "Berakhot’un ilgili bölümüne dair İngilizce özet, rüyalar ve kokuya ilişkin rabbanî tartışmaların bulunduğu çerçeveyi doğrulamak için yararlıdır.",
+      "url": "https://www.talmudha-igud.org.il/data/UploadedFiles/sugyot/Berachot%20VI/english_abstracts.pdf"
+    },
+    {
+      "title": "The Aroma of Righteousness: Scent and Seduction in Rabbinic Life and Literature by Deborah A. Green (review)",
+      "relevance": "Rabbanî literatürde koku, hoşluk, arzu, sınır ve sembolik anlamların nasıl işlendiğine dair akademik arka plan sağlar.",
+      "url": "https://muse.jhu.edu/pub/60/article/503623/pdf"
+    },
+    {
+      "title": "Lecture 148: The Mystery of Human Communication",
+      "relevance": "Budist bağlamda parfümü Dharma’nın etkisi ve yayılışıyla ilişkilendiren bir sembolik anlatım sunar.",
+      "url": "https://www.freebuddhistaudio.com/texts/lecturetexts/149_The_Mystery_of_Human_Communication.pdf"
+    },
+    {
+      "title": "The Wonderful Dharma Lotus Flower Sutra with ...",
+      "relevance": "Lotus Sutra’da hoş kokuların ve tütsülerin yer aldığı pasaj, Budist sembolizmde koku çevresini gösterir.",
+      "url": "https://www.cttbusa.org/dfs19/dfs19_3.asp.html"
+    },
+    {
+      "title": "Perfume: Significance and symbolism",
+      "relevance": "Budist gelenekte parfüm/gandha’nın sunu ve duyusal arzu yönlerini birlikte gösterir.",
+      "url": "https://www.wisdomlib.org/concept/perfume"
+    },
+    {
+      "title": "Scent Offerings In Vajrayana Buddhism - Samye Pathways",
+      "relevance": "Vajrayana’da hoş kokuların sunu ve olumlu nitelikler geliştirme ile ilişkilendiğini belirtir.",
+      "url": "https://pathways.samyeinstitute.org/wiki/scent-offerings/"
+    },
+    {
+      "title": "The Sense of Smell and Buddhist Ritual: Repentance and Fragrance in the Platform Sutra",
+      "relevance": "Platform Sutra’daki beş koku metaforunu erdemler ve ruhsal niteliklerle ilişkilendirir.",
+      "url": "https://www.academia.edu/123391772/The_Sense_of_Smell_and_Buddhist_Ritual_Repentance_and_Fragrance_in_the_Platform_Sutra"
+    },
+    {
+      "title": "Perfume in Dreams: Scent, Memory, and Invisible Influence",
+      "relevance": "Parfümü duygu, bellek, görünmez etki ve spiritüel olarak bereket/arındırma ile ilişkilendiren modern bir spiritüel rüya okuması sunar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/perfume"
+    },
+    {
+      "title": "Fragrance in Dreams: Meaning, Memory, and the Subtle Work of ...",
+      "relevance": "Koku ve hoş kokuyu rüyalarda varlık, bereket, arınma ve niyetin yükselişiyle ilişkilendiren daha genel bir spiritüel sembolizm çerçevesi sağlar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/fragrance"
+    },
+    {
+      "title": "Perfume in Dreams — Islamic Interpretation & Meaning",
+      "relevance": "İslami rüya yorum geleneğinde parfümü güzel övgü, iyi şöhret, hoş sözler, erdemli davranış ve kalıcı olumlu etkiyle ilişkilendirir.",
+      "url": "https://www.dream-wisdom.com/en/dreams/perfume/"
+    },
+    {
+      "title": "Dream of Seeing Perfume - Islamic Dream Interpretation",
+      "relevance": "Parfümü iyi itibar, güzel karakter, ruhsal etki ve hoş kokunun kaynağını aşan kalıcı etkiyle ilişkilendirir; ayrıca peygamberî sünnet ve güzel nitelikler temasını vurgular.",
+      "url": "https://muslimdreammeaning.com/symbols.php?symbol=perfume"
+    },
+    {
+      "title": "Dream Interpretation of Perfume: Hidden Attraction",
+      "relevance": "Parfümü çekicilik, beğenilme arzusu, kutsama, bolluk ve ruhsal gelişme gibi temalarla birlikte ele alan modern ezoterik bir sentez sunar.",
+      "url": "https://fassir.ai/en/dictionary/perfume"
+    },
+    {
+      "title": "Perfume Dream Interpretation - Perfume Dream Meaning",
+      "relevance": "Parfümü övgü, güzelleşme, hazırlanma, onurlandırılma ve arınma ile ilişkilendiren; ayrıca kokunun hafıza ve nostalji taşıyıcısı olabileceğini söyleyen bir yorum derlemesi sunar.",
+      "url": "https://www.dreamsmain.com/perfume"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian"
+  ]
+}

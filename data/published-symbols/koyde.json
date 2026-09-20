@@ -1,0 +1,203 @@
+{
+  "slug": "koyde",
+  "title": "köyde",
+  "shortDescription": "Rüyada köyde olmak, köklere, aidiyete ve daha sade bir yaşam düzenine yönelme isteğini çağrıştırır. Bakımlı bir köy huzur ve toplulukla uyumu, harap bir köy ise kayıp, maddi sıkıntı veya aidiyet bağlarının zayıflamasını düşündürebilir.",
+  "positiveAssociations": [
+    "Sıkıntıdan feraha çıkma",
+    "Sadelik ve huzur arayışı",
+    "Toplumsal aidiyet",
+    "Doğallık ve köklerle bağ"
+  ],
+  "challengingAssociations": [
+    "Şehir merkezinden uzaklaşmanın itibar veya şeref kaybı endişesini çağrıştırması.",
+    "Harap köy imgesi, fakirlik, zarar veya kaynak kaybı hissini çağrıştırabilir.",
+    "Toplumsal çözülme veya aşinalıktan uzaklaşma"
+  ],
+  "contextDependentAssociations": [
+    "Komşu köye yürüyüş sırasında erken yaşantılara ilişkin ve geriye dönüş temalarına değinilir.",
+    "Köyden çıkışın kötülükten uzaklaşma veya yeni bir işe başlama anlamları taşıması",
+    "Köyün yapısına ve rüya sahibinin şehirdeki konumuna göre değişen sosyal statü algısı"
+  ],
+  "commonVariations": [
+    {
+      "title": "Komşu köye yürüyüş yapmak",
+      "description": "Bahar sabahı tarlalardan geçerek komşu bir köye doğru yürümek; erken yaşantı ortamlarına ve geriye dönüş temalarına işaret eden psikanalitik bir sahnedir."
+    },
+    {
+      "title": "İmar edilmiş ve düzenli bir köyde bulunmak",
+      "description": "Bakımlı, düzenli ve canlı bir köyde olmak; topluluk içinde huzur bulma, sadelik ve ortak yaşam düzeniyle uyum sağlama arzusunu yansıtır."
+    },
+    {
+      "title": "Harap ve kimsesiz bir köyü görmek",
+      "description": "Bakımsız kalmış, yıkık dökük bir köyde dolaşmak; maddi sıkıntılar, kayıplar ve içsel köklere bağlılığın zayıflaması hissini simgeler."
+    },
+    {
+      "title": "Şehirden köye yerleşmek",
+      "description": "Kalabalık ve karmaşık bir kentten sakin bir köye geçiş yapmak; modern yaşamın karmaşasından kaçarak daha doğal, sade ve dengeli bir psikolojik konuma yönelme ihtiyacını gösterir."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmalarında 'köyde' gibi mekânsal öğeler, Van De Castle ve Hall sisteminde 'setting' (mekân) ve tanıdıklık düzeyi boyutlarıyla incelenir. Bu yaklaşım, rüya mekânının tek başına sabit bir anlam taşımadığını, bireyin yaşamındaki bilinen veya uzak çevresel bağlamları yansıtan bir alan olarak ele alınması gerektiğini gösterir.",
+  "jungian": "Analitik psikolojide köy imgesi, bireysel egonun kolektif bilinçdışı ve ortak yaşam düzeniyle kurduğu bağı temsil edebilir. Modern karmaşıklığa karşı daha köklü, doğal ve yaşantısal bir yönelimi simgeleyen bu mekân, geleceğe köprü kuran yapıcı bir psikolojik denge arayışının izdüşümüdür.",
+  "islamicTradition": "Geleneksel ve modern İslami rüya derlemelerinde köy görmek sıkıntıdan feraha çıkma veya bir yolculuk olarak aktarılır. Şehirde yaşayan birinin kendini köyde görmesi itibar veya şeref kaybına yorulabilir; harap köy genellikle fakirlik ve zararla ilişkilendirilirken, mamur (düzenli, verimli) köy halkın doğruluğu ya da erdemliliği ile bağdaştırılır. Köye girmek topluluk üzerinde söz sahibi olmaya, köyden çıkmak ise kötülükten kaçmaya yorumlanır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde köy, sadelik, cemaat ve alçakgönüllü gündelik yaşamın mekânıdır. Rüyada köyde bulunmak, manevi anlamda topluluğa aidiyet ve aşırılıklardan arınmış sade bir iman yaşamı temasıyla okunabilir.",
+  "jewishTraditions": "Doğrudan \"köyde\" için standart bir Talmudik tabir bulunmamakla birlikte, yerleşik yaşam alanı ve topluluk bağlamı üzerinden temkinli bir yorum çerçevesi kurulabilir.",
+  "buddhistEasternApproaches": "Doğu ve Hindu geleneklerinde köy, topluluk sorumlulukları, aile bağları, mevsimsel ritimler ve köklere dönüş ile ilişkilendirilir. Bu bağlamda köyde olmak, bireyin kökleriyle ve günlük yaşamın ritmiyle yeniden bağ kurma ihtiyacını simgeler.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda köy, yer-toprak enerjisi, ataların belleği, paylaşılan ritüeller ve içsel topluluk alanı olarak ele alınır. Köyde bulunmak, aşırılıklardan arınma, dinlenme ve doğanın döngüsüne uyum sağlama çağrısı olarak değerlendirilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikolojik Araştırma",
+      "interpretation": "Mekânsal bağlam ve tanıdıklık düzeyi olarak incelenir, sabit bir anlam yüklenmez.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Kuram",
+      "interpretation": "Geriye dönüş, erken yaşantı ortamları ve komşu köy yürüyüşleri bağlamında ele alınır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Kolektif aidiyet, köklere dönüş ve sade bir yaşam düzeni ihtiyacını simgeler.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Ferahlama, yolculuk veya toplumsal çevre ilişkileri bağlamında yorumlanır; harap bir durum söz konusuysa, bu sıkıntı işareti olarak okunabilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Doğanın ritmine uyum, arınma, atasal kökler ve içsel sadelik alanı olarak okunur.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, köy imgesini modern karmaşadan uzaklaşma, aidiyet, topluluk ilişkileri ve köklere dönüş ekseninde buluşturur.",
+  "differences": "Psikoloji, mekânı çevresel bir kod olarak ele alırken, İslami ve geleneksel kaynaklar ferahlık, kayıp ya da statü değişimleri gibi somut yorumsal sonuçlara odaklanır. Spiritüel ve Jungcu yaklaşımlar ise konuyu içsel bir arınma ve kolektif denge arayışı olarak konumlandırır.",
+  "inusAssessment": "Rüyada köyde olma imgesi, modern kentsel karmaşadan uzaklaşma arzusu ile bireyin köklerine ve toplumsal hafızasına duyduğu özlemin kesiştiği özgül bir mekândır. Bu rüyayı yorumlarken köyün yapısının mamur ya da harap olması, rüya sahibinin şehirdeki mevcut konumu ve mekâna atfedilen duygusal ton, anlamı tamamen tersine çevirebilecek en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada şehir merkezinden köye gitmek ne anlama gelir?",
+      "answer": "Genellikle yaşamda bir yön veya ritim değişimine işaret eder; kalabalık ve hızdan uzaklaşıp daha sakin, ölçülü bir düzene doğru yönelme isteği olabilir. Kesin yorum rüyanın duygusal tonu ve bağlamına bağlıdır."
+    },
+    {
+      "question": "Köyün harap veya bakımsız olması rüyada nasıl yorumlanır?",
+      "answer": "Harap bir köy, genellikle kayıpları, kaynakların azalmasını veya aidiyet ilişkilerinde zayıflamayı çağrıştırabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Chapter 2: The Hall/Van De Castle System",
+      "relevance": "Hall/Van De Castle sisteminin 'setting' ve tanıdıklık kodları, rüyada köy gibi mekânların bağlama göre yorumlanması gerektiğini gösterir.",
+      "url": "https://dreams.ucsc.edu/Library/fmid2.html"
+    },
+    {
+      "title": "Dreaming of Europe: Locations in a long dream series of an US American",
+      "relevance": "Rüya serilerinde yerlerin deneyimle bağlantısını inceleyen çalışma, köy gibi yer-imgelerinin bağlamsal analizini örnekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/111718"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un örnek rüyaları, köy sahnelerinin rüya içeriğinde nasıl sahne olarak yer alabileceğini ve bağlamla birlikte yorumlanması gerektiğini gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "[PDF] Sigmund Freud [1900] The Interpretation of Dreams (James ...",
+      "relevance": "Freud'un komşu köye yürüyüş içeren örnek anlatısı, köy imgelerinin psikanalitik çözümlenmesindeki bağlamsal rolü hakkında kanıt sağlar.",
+      "url": "https://ia802907.us.archive.org/17/items/SigmundFreud/Sigmund%20Freud%20%5B1900%5D%20The%20Interpretation%20of%20Dreams%20(James%20Strachey%20translation,%201955).pdf"
+    },
+    {
+      "title": "The Collective Unconscious",
+      "relevance": "Jung’un kolektif bilinçdışı kavramı, köy imgesinin ortak/kollektif çağrışımlar taşıyabileceği düşüncesini destekler.",
+      "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/the-collective-unconscious-2/"
+    },
+    {
+      "title": "Translation and Transformation: Carl Jung, Beatrice Hinkle ...",
+      "relevance": "Jungcu yaklaşım rüyayı kurucu ve geleceğe dönük bir mesaj olarak görür; bu bağlam, köy imgelerinin \"dengelenme\" ve \"köklere dönüş\" temalarıyla ilişkilendirilmesini açıklar.",
+      "url": "https://villagepreservation.org/2020/10/16/translation-and-transformation-carl-jung-beatrice-hinkle-and-greenwich-village-bohemia/"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un oneirokritik yöntemi, rüya sembollerinin rüya sahibinin koşulları ve analoji üzerinden yorumlanması gerektiğine dair tarihsel bir çerçeve sunar; eldeki kaynaklarda 'köyde' için doğrudan madde bulunmamıştır.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüyayı nasıl tanımladığına dair çeviri, tarihsel oneirokritik bağlamın anlaşılmasına katkı sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' The Interpretation ...",
+      "relevance": "Artemidorus'un Oneirocritica'sının tarihsel önemi ve rüya sembollerinin gelenekte nasıl ele alındığı konusunda bibliyografik kayıt sunar.",
+      "url": "https://books.google.com/books/about/An_Ancient_Dream_Manual.html?id=QZjFDwAAQBAJ"
+    },
+    {
+      "title": "Rüyada Köy Görmek Ne Anlama Gelir? Ne Demek, Neye Yorumlanır?",
+      "relevance": "Modern derlemeler üzerinden köy görmekle ilgili folklorik ve popüler yorumların (ferahlık, itibar değişimleri, fakirlik vb.) nasıl aktarıldığını gösterir.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-koy-gormek-ne-anlama-gelir-27331"
+    },
+    {
+      "title": "Village Islamic Interpretations & Meanings",
+      "relevance": "İslami rüya sözlüğü maddelerinin köy imgesi, haraplık ve toplumsal düzen bağlamında verdiği geleneksel yorumları özetler.",
+      "url": "https://www.myislamicdream.com/village.html"
+    },
+    {
+      "title": "Topical Bible: Village",
+      "relevance": "İncil bağlamında köy temalarının sadelik, topluluk ve gündelik iman yaşamıyla ilişkili olduğuna dair teolojik-sembolik bir çerçeve sunar.",
+      "url": "https://biblehub.com/topical/v/village.htm"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Berakhot 57a ve çevresindeki pasajlar, Yahudi geleneğinde rüyaların sembolik okumaya açık olduğunu ve yorumun bağlama bağlı olduğunu gösterir.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a–55b açıklamaları, Talmudik rüya yorumu çerçevesinin ana hatlarını sunar; 'köyde' için doğrudan madde bulunmamıştır.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "JHOM - Dreams",
+      "relevance": "Babil Talmudu malzemeleri ve rabbanî anlatılar üzerinden Yahudi rüya geleneğinin yöntemine dair arka plan sağlar.",
+      "url": "https://www.jhom.com/topics/dreams/barhadaya.html"
+    },
+    {
+      "title": "Dreams - Jewish Virtual Library",
+      "relevance": "Yahudi gelenekte rüyaların sembolik yorumlandığı ve bağlama göre anlam üretildiği bilgisini destekler.",
+      "url": "https://jewishvirtuallibrary.org/dreams"
+    },
+    {
+      "title": "Dreaming Of My Village – Meaning",
+      "relevance": "Hindu/Hint kaynaklarına dayalı modern yorumlar, köy imgelerinin aile, mevsimsellik ve toplumsal sorumluluk çağrışımlarını göstermektedir.",
+      "url": "https://www.hindu-blog.com/2022/11/dreaming-of-my-village-meaning.html"
+    },
+    {
+      "title": "Village in dreams — meaning and symbolism",
+      "relevance": "Ezoterik/spiritüel derlemeler, köyü yer-toprak enerjisi, arınma ve doğaya uyum temalarıyla ilişkilendirir.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/village"
+    },
+    {
+      "title": "Rêver de village : signification et interprétation - Revalite",
+      "relevance": "Modern yorumlarda köy rüyasının kökler, topluluk ve aidiyet temaları üzerinden nasıl anlatıldığını örnekler.",
+      "url": "https://mon.astrocenter.fr/interpretations-reves/reve/village/"
+    },
+    {
+      "title": "Village Dream Meaning & Symbolism | DreamWiki",
+      "relevance": "Popüler rüya sözlükleri bağlamında köyün aidiyet ve ruhsal durum göstereni olarak nasıl ele alındığını gösterir.",
+      "url": "https://dreamwiki.net/en/dream-meaning/village-dream-meaning-symbolism"
+    },
+    {
+      "title": "Rêver de Village — Signification et Interprétation | Mystic Manga",
+      "relevance": "Modern spiritüel kaynakların köy imgesini atalar, topluluk ve içsel aidiyet üzerinden yorumlama eğilimini temsil eder.",
+      "url": "https://www.mystic-manga.com/dreams/symbole/village"
+    },
+    {
+      "title": "Village Dream Meaning: Community, Roots, And The Space ...",
+      "relevance": "Ezoterik söylemde köyün içsel topluluk ve paylaşılan ritüellerle ilişkisinin nasıl özetlendiğine dair örnek bir derlemedir.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/village"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "buddhist-eastern"
+  ]
+}

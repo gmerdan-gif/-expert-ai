@@ -1,0 +1,184 @@
+{
+  "slug": "dua-okumak",
+  "title": "dua okumak",
+  "shortDescription": "Rüyada dua okumak, genellikle ferahlama, korunma ve rehberlik arayışını; uyanık yaşamdaki inançların rüyaya yansımasını ifade eder. Huzurlu dua umut ve rahatlama isteğini, feryatla edilen dua ise yoğun kaygı veya çözülememiş bir sıkıntıyı gösterebilir.",
+  "positiveAssociations": [
+    "Sıkıntılardan ferahlama ve içsel rahatlama arayışı",
+    "İlahi düzene yöneliş, samimiyet ve içsel bağlılık",
+    "Manevi rehberlik ve koruma talebi",
+    "Rüya deneyimini olumlu yöne dönüştürme iradesi"
+  ],
+  "challengingAssociations": [
+    "Aşırı feryatlı ve şiddetli dua sahnelerinde içsel gerilim veya musibet kaygısı",
+    "Zihinsel kararsızlık ve çelişkili isteklerin yarattığı baskı",
+    "Suçluluk duygusuyla baş etme çabası"
+  ],
+  "contextDependentAssociations": [
+    "Duanın sabah ezanına yakın veya gece yarısından sonra okunmasının getirdiği umut ve çabuk ferahlama vurgusu",
+    "Talmudik gelenekte olduğu gibi, rüyayı düzeltmek ve barışa ulaştırmak amacıyla yapılan ritüel uygulamalar",
+    "Kişinin uyanık yaşamındaki dindarlık düzeyi ve ruhsal yönelimlerinin rüya atmosferine yansıma biçimi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Gece yarısı sessizlikte el açıp dua okumak",
+      "description": "Rüyayı gören kişinin derin bir huzur içinde ya da sabaha karşı yalnız başına içtenlikle dua etmesi, uyanık yaşamdaki sıkıntılardan arınma ve içsel ferahlama arzusunu yansıtır."
+    },
+    {
+      "title": "Kalabalık içinde feryat ederek dua okumak",
+      "description": "Şiddetli bir duygu patlaması ve feryat eşliğinde yüksek sesle okunan dualar, rüyadaki kişinin uyanık yaşamındaki yoğun kaygıya, sıkıntıya veya çözülmemiş bir krize işaret edebilir."
+    },
+    {
+      "title": "Anlaşılmaz veya ezberlenen bir duayı tekrarlamak",
+      "description": "Rüyada belirli bir ritüel metni veya anlamı tam çözülemeyen duaları tekrarlamak, zihinsel bir gerginliği yatıştırma, güven arama veya bilinçaltındaki çatışmaları kontrol altına alma çabasını simgeler."
+    },
+    {
+      "title": "Kötü bir rüya sonrasında duaya sığınmak",
+      "description": "Korkutucu bir düş gördükten hemen sonra uyanıp ya da rüya içinde dua okumaya başlamak, rüyanın olumsuz etkisinden kurtulma, korunma isteme ve psikolojik olarak dengeyi yeniden kurma iradesini gösterir."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar, dinî içerikli rüya raporlarının kişinin uyanık yaşamındaki dinî tutum, inanç ve deneyimlerini anlamlı biçimde yansıttığını göstermektedir. Bu bağlamda rüyada dua okumak, tek başına sabit bir psikolojik etiket olmaktan ziyade bireyin manevi yönelimlerinin ve içsel dünya algısının bir uzantısıdır.",
+  "jungian": "",
+  "islamicTradition": "İslami kaynaklarda ve geleneksel derlemelerde rüyada dua etmek çoğunlukla hidayet, rızık, sıkıntılardan kurtuluş ve duanın kabulü ekseninde yorumlanır. Özellikle sabaha karşı veya gece yarısından sonra yapılan dualar ferahlama ve müjde habercisi olarak ele alınırken, aşırı feryatlı ve şiddetli dua sahneleri bazı aktarımlarda musibet veya fitne ihtimaliyle ilişkilendirilir.",
+  "christianTraditions": "Hristiyan teolojik ve pratik çerçevesinde rüyada dua okumak, Tanrı ile yakınlık kurma, içsel bağlılık, rehberlik arayışı ve ruhsal ayırt etme ihtiyacıyla bağdaştırılır. Çağdaş Hristiyan yaklaşımlarında anlaşılamayan rüyalar karşısında bilgelik istemek ve rüya içeriğini dua ile değerlendirmek önemli bir uygulama olarak görülür.",
+  "jewishTraditions": "Talmudik gelenekte, özellikle Berakhot metinlerinde rüya ve dua arasında doğrudan pratik bir bağ kurulur. Anlamı çözülemeyen veya kaygı veren rüyaların ardından rahiplerin kutsaması sırasında okunan özel dualar, rüyayı edilgen biçimde kabullenmek yerine onu iyiye çevirme, şifa bulma ve barış talep etme yönünde aktif bir tavrı temsil eder.",
+  "buddhistEasternApproaches": "Budist ve Doğu geleneklerindeki kutsal metin okumaları veya ritüel tekrar uygulamaları, doğrudan bir rüya tabiri sözlüğünden ziyade zihinsel odaklanma, niyetin arınması ve koruyucu enerji alanları oluşturma işleviyle ilişkilendirilir.",
+  "spiritualApproaches": "Ezoterik ve genel spiritüel yaklaşımlarda dua okumak, daha yüce bir ilkeyle temas kurma, niyetin saflığını koruma, teselli bulma ve zihinsel kararsızlık içinde rehberlik isteme hareketi olarak ele alınır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Uyanık yaşamdaki dindarlık ve inanç tutumlarının rüya formunda anlamlı bir yansıması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jungcu)",
+      "interpretation": "Egonun daha geniş bir içsel merkeze (Benlik) yönelme ve rehberlik arayışı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Hidayet, rızık, ferahlama, duanın kabulü veya bağlama göre musibet uyarısı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Talmudik Gelenek",
+      "interpretation": "Rüyayı edilgen şekilde izlemek yerine dua ile olumluya dönüştürme ve şifa isteme pratiği.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Yüce bir ilkeyle bağ kurma, içsel teselli arama ve niyetin arındırılması.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, dua okuma eylemini rastgele bir gürültü olarak görmez; aksine bunu bireyin içsel arayışını, sığınma ihtiyacını ve anlam bulma çabasını temsil eden bir eylem olarak değerlendirme konusunda görüş birliği içindedir.",
+  "differences": "Psikoloji bu imgeyi bireyin iç dünya dinamikleri ve uyanık yaşam tutumlarıyla açıklarken, İslami ve Yahudi gelenekleri duayı doğrudan ilahi yöneliş, kabul veya rüyayı dönüştüren aktif bir litürjik araç olarak konumlandırır; spiritüel yaklaşımlar ise daha evrensel bir enerji ve niyet saflığı vurgusu yapar.",
+  "inusAssessment": "Rüyada dua okumak, tek tip bir sözlük tanımına sığdırılamayacak kadar çok katmanlıdır; çünkü duanın feryatla mı yoksa huzurlu bir yakarışla mı edildiği, rüya sonrasındaki psikolojik tepkiyi ve geleneksel yorumun yönünü tamamen değiştirir. Bu sembolü ele alırken rüyanın duygusal tonunu, kişinin uyanık yaşamındaki ruhsal yönelimlerini ve sahnenin niteliğini bir bütün olarak değerlendirmek gerekir.",
+  "faq": [
+    {
+      "question": "Rüyada dua okumak kesin olarak dileklerin kabul olacağı anlamına mı gelir?",
+      "answer": "Hayır. Geleneksel ve psikolojik çerçevelerde bu imge tek bir kesin sonuca bağlanmaz; duanın tonuna, rüyanın bağlamına ve bireyin kendi içsel yönelimlerine göre farklı biçimlerde yorumlanır."
+    },
+    {
+      "question": "Korkutucu bir rüya sırasında dua okumak neyi ifade eder?",
+      "answer": "Korku anında duaya sığınmak, psikolojik olarak içsel gerginliği yatıştırma ve güven arama çabasını gösterirken; bazı geleneklerde ise rüyanın olumsuz etkisinden korunma ve durumu iyiye çevirme isteği olarak ele alınır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Religious Content of Dreams: A New Scientific Foundation - Pastoral Psychology",
+      "relevance": "Rüyalardaki dinî içeriğin kişinin uyanık yaşamındaki dinî tutum ve deneyimlerle ilişkisini tartışır; dua etme veya dua okuma imgesinin bağlamsal okunmasına temel sağlar.",
+      "url": "https://link.springer.com/article/10.1007/s11089-008-0180-8"
+    },
+    {
+      "title": "[PDF] Dreams and religious conversions: A study of Malaysian Muslim ...",
+      "relevance": "Dinî rüya imgelerinin sistematik içerik çözümlemesi ve bunların uyanık yaşam dindarlığıyla ilişkisi üzerine bulgular sunar; rüyada dua etmenin tekil bir sabit anlama indirgenemeyeceğini göstermeye yarar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/48858/54229"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramının temelini, rüyaların bastırılmış dileklerle ilişkisini ve sembolik örtülmeyi anlamak için ana metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud's Method for Interpreting Dreams - London",
+      "relevance": "Freud’un rüya çözümlemesinde serbest çağrışım ve rüya öğelerini tek tek izleme yöntemini açıklar.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/freuds-method-for-interpreting-dreams/"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Rüyaların bastırılmış isteklerin gizlenmiş doyumu olduğu fikrini kısa ve doğrudan biçimde özetleyen çevrimiçi metin.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Rüyada Dua Etmek Ne Anlama Gelir? ...",
+      "relevance": "Rüyada dua okumayı hayırlı gelişmeler, sıkıntılardan kurtulma ve kabul edilmiş dua fikriyle ilişkilendiren modern aktarım.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-dua-etmek-ne-anlama-gelir-26174"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri D Harfi",
+      "relevance": "Nablusî’ye nispet edilen rüya tabiri aktarımında dua etmenin kabul, hidayet, rızık ve övgü ile bağlantısı.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-d-harfi.html"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Rüyada dua edilmesini kabul, hidayet ve rızıkla; aşırı feryatlı dua görüntüsünü ise musibet veya fitneyle ilişkilendiren derleme pasajı.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Doctrinalising dreams: patristic views of the nature of ... - ERA",
+      "relevance": "Hristiyan patristik dönemde rüyaların insan kaynaklı, şeytani ve ilahi türler olarak ele alınmasına dair tez; rüya yorumunu dua ve ruhsal ayrım bağlamında konumlandırır.",
+      "url": "https://era.ed.ac.uk/handle/1842/5462?show=full"
+    },
+    {
+      "title": "Biblical meaning of praying in a dream - biblestep.com",
+      "relevance": "Rüyada dua deneyimini Kutsal Kitap merkezli bir okuma içinde, Tanrı ile yakınlık ve anlam arayışıyla ilişkilendirir.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-praying-in-a-dream"
+    },
+    {
+      "title": "Interpreting Your Dreams: A Biblical Christian Approach",
+      "relevance": "Rüyaları dua ve bilgelik arayışıyla ele alan Hristiyan yaklaşımı özetler; anlaşılmayan rüyalar için ruhsal değerlendirme önerir.",
+      "url": "https://www.soulshepherding.org/interpreting-your-dreams/"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Berakhot 55b’de rüyasını anlamayan kişinin Kutsal Ruhban Kutsaması sırasında söylemesi için bir dua aktarılır; rüyayı iyiye çevirme, şifa ve barış isteme temasını içerir.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b üzerine açıklama; rüya ile ilgili duanın rahiplerin kutsaması bağlamında okunmasını ve rüyanın olumluya çevrilmesi fikrini açıklar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Birkat Kohanim: Dreams",
+      "relevance": "Kutsama sırasında okunan rüya duasının uygulama ayrıntılarını ve zamanlamasını özetler; Yahudi litürjik pratiğin sembol bağlamını destekler.",
+      "url": "https://www.torahmusings.com/2019/05/birkat-kohanim-dreams/"
+    },
+    {
+      "title": "Golden Light Sutra - Wikipedia",
+      "relevance": "Sutranın koruyucu ve arındırıcı okunuşu, Budist gelenekte dua okuma eyleminin sembolik işlevini gösterir.",
+      "url": "https://en.wikipedia.org/wiki/Golden_Light_Sutra"
+    },
+    {
+      "title": "Dreaming about praying — meaning in three traditions",
+      "relevance": "Dua sembolünü üç gelenek içinde ele alan modern bir yorum metni; dua etme eylemini yöneliş, samimiyet ve yüce olana dönme olarak çerçeveliyor.",
+      "url": "https://www.nocturnary.com/symbols/praying"
+    },
+    {
+      "title": "Prayer in Dreams: A Deep, Practical, and Respectful Guide",
+      "relevance": "Rüyalarda dua sembolüne dair spiritüel bir okuma sunuyor; dua etmeyi daha yüksek bir güçle bağlantı kurma, rehberlik arayışı ve içsel yöneliş olarak yorumluyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/prayer"
+    },
+    {
+      "title": "Prayer in dreams — meaning and symbolism",
+      "relevance": "Ezoterik okumada dua sembolünü titreşim yükseltme, niyet saflığı ve ince katmanlarla bağ kurma olarak açıklıyor; ritüel-simgesel bir çerçeve sunuyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/prayer"
+    },
+    {
+      "title": "Pray. The interpretation of the dream, the Smorfia numbers",
+      "relevance": "Dua sembolünü ezoterik bir yorumla karar verme ihtiyacı ve teselli arayışıyla ilişkilendiriyor; sembolün kısa, öz bir ezoterik karşılığını veriyor.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=pray"
+    }
+  ],
+  "relatedSlugs": []
+}

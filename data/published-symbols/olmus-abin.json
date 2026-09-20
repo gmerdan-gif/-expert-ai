@@ -1,0 +1,247 @@
+{
+  "slug": "olmus-abin",
+  "title": "Ölmüş ağabey",
+  "shortDescription": "Rüyada ölmüş ağabeyi görmek, özlem ve yasın yanı sıra koruyuculuk, rekabet ve ortak anılar gibi kardeşlikle ilgili duyguları yeniden gündeme getirebilir. Ağabeyin huzurlu görünmesi teselli verirken, hasta ya da yardım ister hâlde olması çözülmemiş üzüntü, suçluluk veya kayıp korkusunu yansıtabilir.",
+  "positiveAssociations": [
+    "Geçmişe ait olumlu anıların hatırlanması",
+    "Ölen kişinin rüyada huzurlu ve iyi bir hâlde görünmesinin verdiği içsel rahatlama",
+    "Aile bağlarının ve köklerin hatırlatılması",
+    "Kişisel dönüşüm ve içsel bir dönemin kapanıp yenisinin başlaması"
+  ],
+  "challengingAssociations": [
+    "Yas sürecinin getirdiği yoğun keder ve özlem",
+    "Yasın ilk yılında görülen rahatsız edici, baskıcı veya kaygı verici rüyalar",
+    "Çocukluk dönemine ait bastırılmış kardeş rekabeti ve ambivalan duygular",
+    "Ölüm, ayrılık ve fanilik hissinin uyandırdığı sarsıcı duygusal etki"
+  ],
+  "contextDependentAssociations": [
+    "Ağabeyin hayattayken hasta olup olmaması veya rüyadaki genel görünümünün ahiret hâli olarak yorumlanması",
+    "Rüyayı gören kişinin yas sürecindeki aşaması ve duygusal ton",
+    "Rüyanın uyanık yaşamdaki anksiyete, depresif belirtiler veya kayıpla baş etme mekanizmalarıyla ilişkisi",
+    "Rüya sırasında hissedilen yoğun keder ile az duygu içeren rüyalar arasındaki yapısal ayrım"
+  ],
+  "commonVariations": [
+    {
+      "title": "Ölmüş ağabeyin rüyada huzurlu ve güler yüzlü görünmesi",
+      "description": "Ağabey temiz, bakımlı kıyafetlerle ve sakin bir ifadeyle görülür; bu görüntü genellikle geride kalanlar için teselli, ölenin hatırasıyla barışma ve olumlu anıların canlanması olarak yorumlanır."
+    },
+    {
+      "title": "Ölmüş ağabeyin hasta veya zor durumda görülmesi",
+      "description": "Rüyada ağabeyin soluk, yaralı, yatakta veya yardım isteyen biçimde görünmesi; örneğin eli kolu bağlı, ağlıyor ya da yardım çağırıyor gibi etkileşimler yer alır. Bu tür sahneler genellikle rüya sahibinin suçluluk, kayıp korkusu, çözülmemiş üzüntü ya da yas sürecindeki zorlanma duygularını yansıtır."
+    },
+    {
+      "title": "Kardeşin ölümünün tekrar yaşandığı rüyalar",
+      "description": "Birey aynı ölüm sahnesini tekrar tekrar yaşar; bu senaryo genellikle yasın erken evreleriyle, kaybın kabullenilmesindeki zorluklarla ve zihnin travmatik gerçekle yeniden yüzleşme çabasıyla bağlantılıdır."
+    },
+    {
+      "title": "Ölmüş ağabeyle geçmişteki bir olayı konuşmak",
+      "description": "Rüyada ağabeyle eski bir anıyı konuşmak veya ondan tavsiye almak, eksikliğini hissettiğiniz rehberlikle yeniden bağ kurma çabası, kapanmamış duygusal düğümler ve içsel bir hesaplaşmanın işareti olabilir."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar, yas sürecindeki kişilerin rüyalarında ölen yakınlarının sıkça yer aldığını ve rüya içeriğinin zamanla yasın evrelerine paralel değişim gösterebildiğini ortaya koyar. Yasın ilk yılında rahatsız edici rüyaların artışı anksiyete ve depresif belirtilerle ilişkilendirildiği için, ölmüş bir ağabey görüntüsü kimi zaman ruhsal yükün bir belirtisi olabilir. Freudcu metinlerde ise sevilen bir akrabanın ölümü iki türde ele alınır: duygulanımın az olduğu rüyalar ve yoğun kederle yaşanan rüyalar; özellikle ikinci tür, çocuklukta kardeş kıskançlığı, rekabet ya da bastırılmış arzuların dolaylı ifadesi olarak yorumlanmıştır. Bu, 'ölen ağabey' rüyasının her örneğinde tek ve sabit bir anlama sahip olduğu anlamına gelmez.",
+  "jungian": "Jungcu çerçevede ölü bir kardeş figürü, yalnızca bireysel yas değil aynı zamanda psikenin bütünleşmemiş yönleri, gölgeyle temas ve dönüşüm süreçleri bağlamında okunur. Ölü akraba imgeleri bilinçte güçlü yankılar uyandırabileceğinden bu tür rüyalar sabit bir sözlük anlamından çok içsel bütünleşme ve kayıpla baş etme dinamiklerinin bir parçası olarak değerlendirilmelidir.",
+  "islamicTradition": "Klasik İslami rüya literatüründe kardeşin ölümü, rüyayı görenin durumuna ve kardeşin sağlığına göre farklı biçimlerde yorumlanır. Ölü kişinin rüyada beyaz veya yeşil elbiseler içinde, sevinçli görünmesi onun ahirette iyi durumda olduğuna; kirli veya yıpranmış giysilerle ya da öfkeyle görünmesi ise olumsuz hâllere işaret edebileceğine dair geleneksel aktarımlar bulunur.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde ölmüş bir kardeşin rüyada görünmesi çoğunlukla harfi anlamda ölümden ziyade yas, kayıp, teselli ve yaşam ilişkilerindeki değişimler şeklinde yorumlanır; rüyalar aynı zamanda dua ve ruhsal ayırt etme bağlamında ele alınır.",
+  "jewishTraditions": "Rabbanî rüya geleneği rüyaları ciddiye alır ancak bunları mutlak bir kehanet saymaz; ölü akrabaların rüyada görülmesi bazen hatırlatma, bazen de yaşayanın zihinsel-ruhsal tepkisi olarak değerlendirilir ve yorumun bağlama bağlı olması gerektiği vurgulanır.",
+  "buddhistEasternApproaches": "Budist anlatı ve rüya-yoga geleneklerinde ölü akraba imgeleri, fanilik, ayrılık ve ölüm-sonrası bilinç gibi temalarla ilişkilendirilir. Ölmüş ağabey figürü bu bağlamda sabit bir tabirden çok bardo halleri ve geçicilik farkındalığıyla bağlantılı bir sembolik okuma alanı açar.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yorumlarda ölmüş ağabey rüyası, ruhsal bağlar, kapanmamış duygusal düğümler veya işlenmemiş duygusal yüklerin işlendiği bir imge olarak ele alınabilir; bazı geleneklerde ise bu tür rüyalar dönüşüm, rehberlik veya ziyaret rüyası olasılıkları üzerinden de değerlendirilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Yas sürecinin evrelerini, kederin uyumlanmasını ve kayıpla baş etme mekanizmalarını yansıtan dinamik bir süreç olarak inceler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Kardeş rekabeti, bastırılmış isteklerin doyumu ve ambivalan duyguların rüyasal ifadesi olarak değerlendirir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Psikenin bütünleşmesi, gölge teması ve kayıpla dönüşüm süreciyle ilişkili içsel bir figür olarak okur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Ölüyle temas, ahiret hâlinin sembolü ve rüyadaki fiziksel/ruhsal gösterimlere bağlı işaretler çerçevesinde ele alır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Ruhsal bağlar, kapanmamış duygusal düğümler ve kişisel dönüşüm döngüleri üzerinden yorumlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli gelenekler ve psikolojik çerçeveler, ölmüş bir ağabeyin rüyada görünmesinin ortak olarak kayıp, özlem ve yaşayanın kardeşlik ilişkisine dair içsel yankıları barındırdığını kabul eder. Burada özellikle kardeşlik dinamikleri—koruyuculuk, rekabet, ortak tarih ve kimlik bağları—yorumun merkezinde yer alır.",
+  "differences": "Psikolojik yaklaşımlar rüyayı yasın evreleri ve uyum süreci olarak vurgularken, psikanaliz kardeşlik rekabeti ve bastırılmış arzulara odaklanır. Geleneksel dinî yaklaşımlar ise rüyadaki gösterime göre ahiret hâli veya uyarı/teselli gibi teolojik yorumlar getirebilir. Spiritüel okumalar ise dönüşüm ve ziyaret rüyası olasılıklarını öne çıkarır.",
+  "inusAssessment": "Bu sembolün belirleyici öğeleri: rüyadaki ağabeyin davranışı/görünümü, rüyayı görenin yas sürecindeki yeri ve rüyanın duygusal tonudur.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "[PDF] Dreams in bereavement: Case study",
+      "relevance": "Yas sürecinde ölen yakınların rüyalarda nasıl yer aldığını ve rüya içeriğinin zaman içinde yas evreleriyle paralel değişebileceğini gösteren olgu çalışması.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/74179/74404/218873"
+    },
+    {
+      "title": "[PDF] Thematic Analysis of dream content of grieved parents with the ...",
+      "relevance": "Yas yaşayan ebeveynlerin rüya temalarında ziyaret, güven verme ve kayıpla ilişkili temaları inceler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/74960/version/65137/74405/218874"
+    },
+    {
+      "title": "[Are oppressive dreams indicators in bereavement?] - PubMed",
+      "relevance": "Yasın ilk yılında rahatsız edici rüyaların sıklığının arttığını ve bu rüyaların anksiyete/depresif belirtilerle ilişkilendirilebileceğini rapor eden epidemiyolojik çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23074846/"
+    },
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içeriğini kişi, duygu ve sosyal etkileşim boyutlarında nicel olarak çözümleyen klasik içerik analizi çerçevesini açıklar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "The Impact of Dreams of the Deceased on Bereavement - Scott T. Wright, Christopher W. Kerr, Nicole M. Doroszczuk, Sarah M. Kuszczak, Pei C. Hang, Debra L. Luczkiewicz, 2014",
+      "relevance": "Ölen kişiye ilişkin rüyaların çoğunlukla hoş veya karışık duygulu yaşandığını ve sık görülen temaları rapor eder.",
+      "url": "https://journals.sagepub.com/doi/10.1177/1049909113479201"
+    },
+    {
+      "title": "Dream Content in Complicated Grief: A Window into Loss ...",
+      "relevance": "Karmaşık yas bağlamında rüyalardaki ölen kişiler, aile figürleri ve duygusal örüntüler arasındaki ilişkiyi gösterir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3929213/"
+    },
+    {
+      "title": "Dream content of grieved parents",
+      "relevance": "Yas bağlamında ziyaret, teselli ve ölüm/hastalık temalı rüya örüntülerini bir araya getirir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/74960/74990/220058"
+    },
+    {
+      "title": "Freud (1900) Chapter 5, part b",
+      "relevance": "Sevilen bir akrabanın ölümünü içeren rüyaların psikanalitik çerçevede nasıl iki türe ayrıldığı ve kardeş rekabeti bağlamında nasıl düşünülebileceğine dair klasik kaynak.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5b.htm"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Kardeş dahil sevilen akrabanın ölümünü içeren rüyaları iki sınıfa ayıran ve bunları bastırılmış isteklerin doyumu bağlamında tartışan metin.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/228 - ...",
+      "relevance": "Kardeşin ölüm rüyalarını çocukluk kıskançlığı ve kardeş rekabeti bağlamında özetleyen sayfa.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/228"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Ölü yakınlarla ilgili rüyalarda bastırılmış düşüncenin reddi ve olağandışı duygulanım biçimlerini tartışan bölüm.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Jungian Insights on Dreams and Death | PDF | Carl Jung - Scribd",
+      "relevance": "Jung’un ölmüş kardeşle yaşanan ölüm sonrası karşılaşma üzerine yorumu; ölü kardeş imgesinin Jungcu düşüncede ölüm sonrası temas ve ruhsal deneyim bağlamında ele alındığını gösterir.",
+      "url": "https://www.scribd.com/document/900330711/On-Dreams-and-Death-a-Jungian-Interpretation-Traum-Und-Tod-Marie-Louise-Von-Franz-Translated-by-Emmanuel-Xipolitas-Boston-Massachusetts"
+    },
+    {
+      "title": "The Seduction of Death: Jung's Thoughts on the End of Life",
+      "relevance": "Jung’un ölen kişilerle ilgili deneyimlerin psikolojik etkisine ve bilinç dağılmasına dair uyarısı, ölü akraba imgelerinin sabit bir sözlük anlamıyla çözülemeyeceğini düşündürür.",
+      "url": "https://jungiancenter.org/the-seduction-of-death-jungs-thoughts-on-the-end-of-life/"
+    },
+    {
+      "title": "dead | Carl Jung on Post-Mortem contact with the Dead",
+      "relevance": "Ölü kardeş figürünün Jungcu sembolizmde gölge, yakınlık, kayıp ve bireyleşme temalarıyla ilişkilendirildiğine dair genel çerçeve sunar.",
+      "url": "https://carljungdepthpsychologysite.blog/2023/08/11/dead-12/"
+    },
+    {
+      "title": "Full text of \"Interpreting Perpetua and her dreams\"",
+      "relevance": "Artemidorus’un rüya yorum yöntemini ve klasik oneirokritik yaklaşımın bağlamsal karakterini açıklar.",
+      "url": "https://archive.org/stream/interpretingperp00mitc/interpretingperp00mitc_djvu.txt"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Klasik oneirokritik geleneğin aile üyeleriyle ilgili rüya materyallerini bağlama göre değerlendirme ilkesini ve akrabalık sembolizmini aktaran çeviri.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "brother died",
+      "relevance": "Kardeşin ölümüyle ilgili klasik rüya aktarımı; hasta kardeş, kardeşi olmayan kişi ve olası sonuçlar üzerinden doğrudan aile/kardeş ölümü bağlamı verir.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=brother+died"
+    },
+    {
+      "title": "Deceased Brother Islamic Interpretations & Meanings",
+      "relevance": "Ölü kişinin rüyada iyi veya kötü hâlde görünmesine dair İslami aktarım; ölmüş ağabey imgesinin ahiret hâliyle bağlantısını kurmak için kullanılır.",
+      "url": "https://www.myislamicdream.com/deceased_brother.html"
+    },
+    {
+      "title": "44- Ölüler İle Dirilerin Ruhları Rüyada Görüşür",
+      "relevance": "Ölen kardeşin rüyada görülmesine dair klasik atıf içeren metin; ölü kardeş temasının rüya literatüründeki yerini gösterir.",
+      "url": "http://www.islamilimleri.com/Ktphn/Kitablar/08/006/Turkce/01/044.htm"
+    },
+    {
+      "title": "Dreaming of the Dead - How Christians Should Respond",
+      "relevance": "Ölmüş bir kardeşin rüyadaki görünümünü Hristiyan çerçevede yas, kayıp ve teselli temalarıyla ilişkilendiriyor; ayrıca ölen yakınlar hakkında rüya görmeyi dua ve ruhsal ayırt etme bağlamında ele alıyor.",
+      "url": "https://www.crosswalk.com/faith/spiritual-life/how-should-christians-interpret-dreams-about-the-dead.html"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Rabbanî gelenekte rüyaların temkinli değerlendirildiğini ve rüya yorumunun bağlama bağlı olması gerektiğini vurgulayan temel metin referansı.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Yahudi halk dini ve geleneksel rüya inançlarında ölülerin rüyada görülmesi ve akraba ölümüyle bağlantılı bazı yorumlar.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Ölü kişi, ev ve akrabalık bağlarıyla ilişkili rüya yorumlarının aktarımına erişim sağlayan Talmud sayfası.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Chapter 14: Feeling the Dream",
+      "relevance": "Ölümün kardeşler ve akrabalarla kalıcı ayrılık olarak anlatıldığı bölüm; ölmüş ağabey sembolü bağlamında ayrılık ve fanilik okuması için kullanıldı.",
+      "url": "https://www.wisdomlib.org/buddhism/book/taisho-chinese-buddhist-canon/d/doc1856495.html"
+    },
+    {
+      "title": "Dream Yoga Root Text v. 2 with page links Khenpo Samdup Rinpoche 1/16/2023",
+      "relevance": "Rüya-yoga geleneğinde rüyaların önceki ve sonraki yaşamları fark etmeye ve bardo varlıklarıyla karşılaşmaya hizmet ettiğini belirten metin.",
+      "url": "https://garchencanada.com/wp-content/uploads/2023/01/Dream-Yoga-Root-Text-v.-2-with-page-links-Khenpo-Samdup-Rinpoche-1_18_2023.pdf"
+    },
+    {
+      "title": "Ja 317 The Birth Story about Weeping for the Dead (4s)",
+      "relevance": "Ölüye ağlamayı konu eden Jātaka anlatısı; yas ve ölüm karşısındaki duygulanımın Budist anlatı geleneğindeki yerini gösterir.",
+      "url": "https://ancient-buddhist-texts.net/English-Texts/Jataka/317.htm"
+    },
+    {
+      "title": "Brother in dreams — meaning and symbolism",
+      "relevance": "Kardeş sembolünü ezoterik okumada ruh bağı, ortak tema ve kapanmamış duygular bağlamında ele alıyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/brother"
+    },
+    {
+      "title": "Appeared dead brother. Dream interpretation, numbers to play",
+      "relevance": "Ölmüş kardeş rüyası için doğrudan sembolik yorum veriyor; evde bereket ve iyi haber temasını aktarıyor.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=appeared+dead+brother"
+    },
+    {
+      "title": "Dream About Dead Brother Meaning - Symbolism & Interpretation",
+      "relevance": "Ölü kardeş rüyasını özlem, yas ve kapanmamış duygular üzerinden açıklayan modern spiritüel yorum sunuyor.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/dead-brother/"
+    },
+    {
+      "title": "Dreaming Brother Died: 9 Symbolic Interpretations",
+      "relevance": "Kardeşin ölmesi temasını ruhsal değişim, içsel güç ve vizyoner ziyaret olasılığıyla ilişkilendiren spiritüel yorum içeriyor.",
+      "url": "https://dreamshilight.com/dreaming-brother-died-9-symbolic-interpretations/"
+    },
+    {
+      "title": "Brother Dying Dream Meaning & Interpretation",
+      "relevance": "Kardeşin ölümü temasını dönüşüm ve yeni başlangıçlar üzerinden yorumlayan spiritüel açıklama sunuyor.",
+      "url": "https://mirrorwithin.com/dream-dictionary/brother-dying/"
+    },
+    {
+      "title": "Dream about dead brother (Fortunate Interpretation)",
+      "relevance": "Ölü kardeş rüyasını sevgi, kutlama ve hayırlı işaretler gibi olumlu sembolik çerçevede ele alıyor.",
+      "url": "https://www.dreamsopedia.com/dream-about-dead-brother.html"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian",
+    "buddhist-eastern"
+  ]
+}

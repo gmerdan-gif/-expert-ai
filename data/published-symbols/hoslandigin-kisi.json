@@ -1,0 +1,260 @@
+{
+  "slug": "hoslandigin-kisi",
+  "title": "hoşlandığın kişi",
+  "shortDescription": "Rüyada hoşlandığın kişiyi görmek, genellikle ona duyduğun özlemin, yakınlaşma isteğinin ve günlük hayattaki duygusal beklentilerinin rüyaya yansımasıdır. Rüyadaki sıcaklık ilişki kurma arzusunu; mesafe veya gerilim ise karşılıksız kalma ya da bağlanma kaygısını gösterebilir.",
+  "positiveAssociations": [
+    "romantik özlem ve yakınlık isteği",
+    "duygusal uyum ve çekim",
+    "karşılıklı sevgi beklentisi",
+    "kişinin kalbinin belirli bir kişiye yönelmesi",
+    "ilişki kurma arzusu"
+  ],
+  "challengingAssociations": [
+    "nefsânî meşguliyet",
+    "aşırı idealleştirme ve yanılsama",
+    "kararsızlık ve içsel gerilim",
+    "karşılıksız kalma korkusu",
+    "bağlanma ve geçicilik kaygısı"
+  ],
+  "contextDependentAssociations": [
+    "ortak etkinliklerin varlığı/olmaması",
+    "gündelik iletişim düzeyi ve ayrılık dönemlerinin etkisi",
+    "kişinin kendi bağlanma güvenliği ve içsel beklentileri"
+  ],
+  "commonVariations": [
+    {
+      "title": "Hoşlandığın kişiyle ortak bir aktivite yapmak",
+      "description": "Rüyanın büyük bölümünde o kişiyle birlikte günlük yaşamda olabilecek sıradan bir etkinliği paylaşmak ve yakınlaşmak."
+    },
+    {
+      "title": "Hoşlandığın kişinin uzaktan izlemesi",
+      "description": "O kişinin rüyada size yakın durmayıp uzaktan baktığı, aradaki mesafenin veya kararsızlığın hissedildiği anlar."
+    },
+    {
+      "title": "Hoşlandığın kişiyle tartışmak veya gerilim yaşamak",
+      "description": "Beklenmedik bir sürtüşme veya olumsuz duygu tonu barındıran, uyanık hayattaki kaygıları yansıtan karşılaşmalar."
+    },
+    {
+      "title": "Hoşlandığın kişiyle ayrılmak veya uzaklaşmak",
+      "description": "O kişinin sizden uzaklaştığını ya da rüya içinde yollarınızın ayrıldığını görerek hissedilen kayıp."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmaları, romantik ilgi ve partner figürlerini içeren rüyaların yaklaşık yüzde yetmişinde ortak etkinliklerin görüldüğünü, erotik etkileşimlerin ise daha seyrek olduğunu göstermektedir. Bağlanma güvenliği, günlük sevgi ve çatışma düzeyleri ile rüyalardaki pozitif veya negatif duygular arasında ilişki bulunmuştur. Ayrılık dönemlerinden sonra dostane etkileşimlerin azaldığı ve olumsuz duyguların arttığı da rapor edilmiştir.",
+  "jungian": "Jungcu ve analitik psikoloji çerçevesinde, rüyadaki sevilen veya hoşlanılan figür her zaman dış dünyadaki gerçek kişiden ibaret olmayabilir; bu figür sıklıkla benliğin bir yönünü, anima/animus dinamiklerini veya içsel projeksiyonları temsil eder. Bu okumalar bağlama ve rüyanın duygusal tonuna göre dikkatle uygulanmalıdır.",
+  "islamicTradition": "İslamî rüya literatüründe bu tema genellikle kalbin belirli bir kişiye yönelmesi ve nefsânî meşguliyet ekseninde ele alınır. Modern derlemelerde bekarlar için evlilik ihtimali gibi yorumlar görülse de klasik metinlerde doğrudan eşdeğer bir madde bulunmamıştır; tabirde rüyanın duygu tonu ve rüya görenin hali belirleyicidir.",
+  "christianTraditions": "Hristiyan pastoral okumada, birine duyulan çekimi içeren rüyalar içsel arzuları, ilişki ihtiyaçlarını veya ruhsal muhasebe çağrılarını açığa çıkarabilir. Neşideler Neşidesi geleneğindeki özlem dili bağlamında bu rüyalar yakınlık ve birlik arzusunun bir yansıması olarak değerlendirilebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar sabit sembol sözlükleri olarak değil, kişinin gündüz düşünceleri ve içsel durumlarıyla bağlantılı işaretler şeklinde okunur. Hoşlanılan kişi figürü de bu bağlamda sabit bir kehanet olmaktan ziyade zihinsel meşguliyetlerin bir dışavurumudur.",
+  "buddhistEasternApproaches": "Doğu ve Budist etkilerine sahip anlatılarda, rüyadaki sevilen figür veya aşk arzusu idealleştirmenin ötesinde geçicilik, dayanıksızlık ve aldatıcı olana işaret eden bir bağlanma teması olarak ele alınabilir.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yorumlarda bu sembol, kalbin dikkatinin belirli bir yöne yoğunlaşmasını, içsel uyum arayışını ve duygusal açıklık potansiyelini temsil eder. Rüyanın tonu huzurluysa uyum ve çekim; gerginse kararsızlık, sınır ihtiyacı veya yansıtma temaları öne çıkabilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Günlük ilişki deneyimlerinin, bağlanma stillerinin ve ortak etkinliklerin rüya içeriğine yansıması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Bastırılmış veya engellenmiş arzuların, erotik dileklerin ve nesne-sevgisinin örtük doyurumu.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Anima/animus dinamikleri, içsel projeksiyon ve benliğin yansıtılan bir yönü.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslamî Yaklaşım",
+      "interpretation": "Kalbin yönelimi ve nefsânî meşguliyet çerçevesinde değerlendirilen rüya içeriği.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Pastoral Okuma",
+      "interpretation": "İlişki ihtiyacı, özlem, içsel arzular ve ruhsal farkındalık çağrısı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yorum",
+      "interpretation": "Kalp merkezli yönelim, duygusal açıklık ve karşılıklı çekim enerjisi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenek ve yaklaşımlar, rüyada görülen hoşlanılan kişi figürünün dışsal bir kehanetten ziyade, kişinin uyanık yaşamdaki zihinsel meşguliyetleri, duygusal yatırımları ve içsel dünyasıyla sıkı bir bağ içinde olduğu noktasında birleşir.",
+  "differences": "Psikolojik araştırmalar rüyayı bağlanma ve günlük etkileşimler üzerinden incelerken, psikanaliz arzu doyurumuna odaklanır; dini ve geleneksel okumalar ise rüyayı nefsânî yönelim, ruhsal muhasebe veya manevi bağlamda ele alır.",
+  "inusAssessment": "Rüyada hoşlandığın kişiyi görmek, dışarıdaki gerçek kişinin doğrudan bir eyleminden ziyade uyanık hayatta o kişiye yöneltilen duygusal yatırımın, özlemin ve zihinsel meşguliyetin bir aynasıdır. Rüyadaki senaryonun ortak bir etkinlik mi yoksa bir gerilim mi barındırdığı, kişinin uyanık yaşamdaki bağlanma güvenliği ve içsel beklentileriyle ilişkili olabilir.",
+  "faq": [
+    {
+      "question": "Rüyada hoşlandığım kişiyi görmek onun da beni düşündüğü anlamına mı gelir?",
+      "answer": "Bilimsel ve psikolojik veriler bu rüyayı doğrudan karşı tarafın düşüncesiyle değil, rüyayı gören kişinin uyanık yaşamdaki özlemleri, beklentileri ve zihinsel meşguliyeti ile ilişkilendirir."
+    },
+    {
+      "question": "Bu rüya gelecekte o kişiyle birlikte olacağımızın bir haberi midir?",
+      "answer": "Rüya sembolleri kesin bir gelecek kehaneti sunmaz; ancak rüyada hissedilen yoğun çekim veya olumlu duygular, uyanık hayattaki ilişki kurma isteğinin ve arzu yoğunluğunun bir göstergesidir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Partners and Ex-Partners in Dreams: A Diary Study - PMC",
+      "relevance": "Romantik partnerin rüya içeriğinde hangi ilişki ve duygu örüntüleriyle göründüğünü gösteren içerik analizi.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8161826/"
+    },
+    {
+      "title": "Attachment Security, Emotions and Relational Scenarios in ...",
+      "relevance": "Romantik partner içeren rüyalarda bağlanma, gündelik ilişki deneyimleri ve duygusal ton arasındaki ilişkileri rapor eden çalışma.",
+      "url": "https://dspace.sunyconnect.suny.edu/items/fc734c70-fec4-4304-9595-b1372a3673e4"
+    },
+    {
+      "title": "With or without you? Dreaming about the romantic partner",
+      "relevance": "Romantik partner rüyalarının ilişki dönemleri ve ayrılık dönemleri boyunca nasıl değiştiğini inceleyen uzunlamasına içerik çalışması.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/59638"
+    },
+    {
+      "title": "Script-like attachment representations in dreams containing current ...",
+      "relevance": "Romantik partner veya yakın kişi içeren rüyalarda bağlanma güvenliği ile güvenli üs temaları arasındaki ilişkiyi özetleyen çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22856620/"
+    },
+    {
+      "title": "When dreams come true: The relation of salient dreams to the future satisfaction of waking needs",
+      "relevance": "Belirgin romantik çekim içeren rüyaların daha sonraki ilişki durumlarıyla ilişkisini inceleyen çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/89054"
+    },
+    {
+      "title": "Freud (1900) Chapter 4 - Classics in the History of Psychology",
+      "relevance": "Rüyaların dilek doyurumu olarak ele alınmasını ve bastırılmış isteklerin rüya içeriğine nasıl dönüştüğünü gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams4.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyalarda erotik isteklerin gizli ve simgesel biçimde temsil edilebilmesine ilişkin Freud'un temel ifadesini içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "JacobsMNDthesis",
+      "relevance": "Freud'da nesne sevgisi, nesne yatırımı ve aşk nesnesi kavramlarını özetler; hoşlanılan kişi imgesinin nesne ilişkileri bağlamında düşünülmesine katkı sağlar.",
+      "url": "https://oro.open.ac.uk/48431/1/JacobsMNDthesis.pdf"
+    },
+    {
+      "title": "Anima and Animus - International Association of Analytical Psychology",
+      "relevance": "Anima ve animus figürlerinin rüyalarda güçlü çekim uyandıran yabancılar olarak belirebilmesini açıklar.",
+      "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/anima-and-animus-2/"
+    },
+    {
+      "title": "Jungian Psychology Series: Dreams and the Afterlife (part I)",
+      "relevance": "Rüyadaki diğer kişilerin çoğu zaman benliğin bir yönünü temsil ettiği Jungcu genel yaklaşımı aktarır.",
+      "url": "https://jungstop.com/jungian-psychology-series-dreams-and-the-afterlife-part-i/"
+    },
+    {
+      "title": "Anima / Animus Figure in Dreams · Forever Jung",
+      "relevance": "Rüyada 'sevgili' figürünü anima/animus ve idealize edilmiş içsel karşılık üzerinden ele alır.",
+      "url": "https://foreverju.ng/symbols/anima_animus_figure"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Sevilen kişiyle rüyada birlikte olma temasını ve arzunun rüyada yeniden belirmesini açıkça aktaran çeviri metindir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’un rüya kuramını ve âşık kişinin rüyasında sevgiliyi görmesi temasını tartışan akademik inceleme.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "ARTEMIDORUS´ ONEIROCRITICA. DREAM ANALYSIS IN ...",
+      "relevance": "Artemidorus’un rüya analizinde arzu, eksiklik ve bedensel durumlar arasındaki ilişkiyi özetleyen akademik metin.",
+      "url": "https://drvidalis.gr/wp-content/uploads/2016/08/080709203649.pdf"
+    },
+    {
+      "title": "Rüyada Hoşlandığın Kişiyi Görmek Ne Anlama Gelir?",
+      "relevance": "Rüyada hoşlandığın kişiyi görmekle ilgili modern bir yorum; mutluluk, başarı ve evlilik ihtimali çerçevesinde anlatıyor.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-hoslandigin-kisiyi-gormek-ne-anlama-gelir-6358346"
+    },
+    {
+      "title": "Rüyada Sevdiğini Görmek | Dini ve Psikolojik 7 Anlamı",
+      "relevance": "Sevdiğin kişiyi rüyada görmeyi çoğunlukla kalbin meşguliyeti ve nefsânî yansıma olarak ele alan modern açıklama.",
+      "url": "https://www.nukteler.com/ruyada-sevdigini-gormek-dini-ve-psikolojik-7-anlami/"
+    },
+    {
+      "title": "Hadislerin rehberliğinde İslam'da rüya kavramı",
+      "relevance": "Rüya hakkındaki hadis çerçevesini aktarır; hoş görülen rüyanın Allah’tan olduğu ve hayırla ilişkilendirildiği genel bağlamı verir.",
+      "url": "https://www.fikriyat.com/galeri/islam/hadislerin-rehberliginde-islamda-ruya-kavrami/5"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri A Harfi - Muhammed.net",
+      "relevance": "Nablusî’ye nispet edilen ‘âşık olmak beladır’ aktarımını görünür kılar; rüya-aşk ilişkisine dair dolaşan klasik atıfları yansıtır.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-a-harfi.html"
+    },
+    {
+      "title": "Dreaming of someone being attracted to you | Biblical Dream ...",
+      "relevance": "Birine duyulan çekimi içeren rüyalar için pastoral ve ahlaki değerlendirme dili sunar; içsel arzular, ayartı ve dua/özdeğerlendirme temalarını işler.",
+      "url": "https://biblestep.com/dreams/dreaming-of-someone-being-attracted-to-you"
+    },
+    {
+      "title": "What Does The Bible Say About Dreaming About Someone (31 Verses",
+      "relevance": "Bir kişi hakkında rüya görmek, duygusal durumları, ilişkisel dinamikleri veya ruhsal yürüyüşü yansıtabilir; bu Hristiyan çerçevede rüyanın anlamının bağlama göre değiştiğini gösterir.",
+      "url": "https://christianitypath.com/what-does-the-bible-say-about-dreaming-about-someone/"
+    },
+    {
+      "title": "Dreaming about being in a relationship | Biblical Dream ...",
+      "relevance": "İlişki temalı rüyaların yakınlık, arkadaşlık, arzular ve ruhsal ayrım konularını nasıl gündeme getirebileceğine dair Hristiyan yorumları sunar.",
+      "url": "https://biblestep.com/dreams/dreaming-about-being-in-a-relationship"
+    },
+    {
+      "title": "Topical Bible: The Bride's Dream and Longing",
+      "relevance": "Sevilen kişiye yönelik özlem ve birleşme temasını Neşideler Neşidesi bağlamında ele alır; Hristiyan sembolik okumada yakınlık arzusunu anlamlandırmak için kullanılabilir.",
+      "url": "https://biblehub.com/topical/t/the_bride's_dream_and_longing.htm"
+    },
+    {
+      "title": "Babylonian Talmud: Tractate Berakoth",
+      "relevance": "Rüyaların yorumla ilişkisini, rüyaların bir kısmının kişinin kendi düşüncelerinden gelebileceğini ve anlamın bağlama göre değiştiğini gösteren klasik Yahudi rüya pasajları.",
+      "url": "https://www.come-and-hear.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Rüya pasajlarının Yahudi geleneğindeki işlevini ve rüyanın içsel durumla bağlantısını özetleyen açıklama; sevilen bir kişinin rüyada görülmesini genel Yahudi rüya çerçevesine yerleştirmeye yardımcı olur.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dream lover: Significance and symbolism",
+      "relevance": "Hindu bağlamında rüyada idealize edilen sevgili figürünü ve arzu-gerçeklik ilişkisini ele alır.",
+      "url": "https://www.wisdomlib.org/concept/dream-lover"
+    },
+    {
+      "title": "30. Buddhism in East Asian love narratives",
+      "relevance": "Budist etkili aşk anlatılarında rüya imgesinin aşkı dayanıksız, yanılsamalı ve geçici gösteren sembolik işlevini açıklar.",
+      "url": "https://berkeley.pressbooks.pub/interpretinglovenarratives/chapter/buddhism/"
+    },
+    {
+      "title": "Dreams of love: Significance and symbolism",
+      "relevance": "Hindu bağlamında sevgi düşlerinin romantik özlem ve arzu ile ilişkisini özetler.",
+      "url": "https://www.wisdomlib.org/concept/dreams-of-love"
+    },
+    {
+      "title": "Spiritual Meaning of Dreaming About Someone You Like and What ...",
+      "relevance": "Rüyada hoşlandığın biriyle ilgili modern spiritüel yorumlar sunuyor; kalbin o kişiye yönelmesi, yakınlık isteği ve niyetlerin rüyada görünmesi temalarını ele alıyor.",
+      "url": "https://theindiespiritualist.com/spiritual-meaning-of-dreaming-about-someone-you-like/"
+    },
+    {
+      "title": "What Does It Mean to Dream About Someone You Like? 15 Interesting Interpretations",
+      "relevance": "Rüyada sevilen/hoşlanılan birinin görülmesini ruhsal bağ, içe dönük sezgi ve çekim temasında ele alan modern bir yorum derlemesi sunuyor; ayrıca Cava Primbonu (Endonezya'da rüya ve kehanet geleneği) ve spiritüel bağlantı fikirlerine değiniyor.",
+      "url": "https://en.kapanlagi.com/celebrity/what-does-it-mean-to-dream-about-someone-you-like-15-interesting-interpretations.html"
+    },
+    {
+      "title": "What Does it Mean When You Dream About Someone?",
+      "relevance": "Rüyada hoşlandığın kişi figürünü ‘kalbin dikkatinin çekildiği yer’ olarak yorumlayan modern spiritüel bir açıklama veriyor; çekim ve karşılaşma ihtimali temasını öne çıkarıyor.",
+      "url": "https://www.centreofexcellence.com/dreaming-about-someone/"
+    },
+    {
+      "title": "Crush in dreams — meaning and symbolism",
+      "relevance": "Rüyada crush figürünü sembolik ve ezoterik bir dille ele alıyor; karşılıklı çekim, içsel uyum ve kalp merkezli yönelim temalarını işliyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/crush"
+    },
+    {
+      "title": "Dreaming of Crush: Meaning, Symbolism & Interpretation",
+      "relevance": "Rüyada hoşlandığın kişi görmeyi modern sembolik bir çerçevede, arzu ve projeksiyon diliyle ele alıyor; ayrıca bazı ezoterik çağrışımlar ve yönelim temaları sunuyor.",
+      "url": "https://dreamz-journal.com/blog/dream-symbol/crush/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

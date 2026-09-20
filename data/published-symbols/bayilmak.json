@@ -1,0 +1,259 @@
+{
+  "slug": "bayilmak",
+  "title": "bayılmak",
+  "shortDescription": "Rüyada bayılmak, yoğun stres, duygusal baskı veya kontrolü kaybetme korkusuyla bunalmayı ve bir süre geri çekilme ihtiyacını simgeler. Bayıldıktan sonra ayılmak ise geçici bir sıkıntının aşılmasına, denge ve farkındalığın yeniden kazanılmasına işaret eder.",
+  "positiveAssociations": [
+    "Geçici bir sıkıntı veya krizden sonra gelen rahatlama",
+    "Gafletten uyanma ve farkındalık kazanma",
+    "egonun aşırı yüklenmeye karşı korunması için verilen mola",
+    "İçsel dengeyi yeniden kurma arzusu"
+  ],
+  "challengingAssociations": [
+    "Aşırı baskı ve vicdani yükler altında ezilme hissi",
+    "Kontrolü kaybetme korkusu ve çaresizlik",
+    "Fiziksel veya zihinsel tükenmişlik",
+    "Farkındalık kaybı veya olaylar karşısında iradenin zayıflaması"
+  ],
+  "contextDependentAssociations": [
+    "Aşırı sevinç veya ani duygu patlamaları sonucu bayılma: beklenmedik, yoğun olumlu duyguların beden veya ruh üzerindeki ani etkisini gösterir.",
+    "Bayıldıktan hemen sonra ayılma, krizin atlatıldığını gösterir.",
+    "Gündelik kaygılar ile rüya ortamının kesiştiği anlar"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kalabalık bir ortamda aniden bayılmak",
+      "description": "Sosyal baskılar, başkalarının beklentileri veya yargıları altında ezildiğini ve taşıyamayacağı bir sorumlulukla baş başa kaldığını gösteren bir rüya senaryosudur."
+    },
+    {
+      "title": "Korku veya stresten baygınlık geçirmek",
+      "description": "Uyanık yaşamda karşılaşılan tehditler, baskılar veya çözülemeyen kaygılar karşısında zihnin savunma mekanizmalarını devreye sokarak duraklamasını simgeler."
+    },
+    {
+      "title": "Bayıldıktan sonra tekrar ayılmak",
+      "description": "Yaşanan geçici bir sıkıntı, borç veya krizin ardından kişinin yeniden kontrolü ele alacağını, bir farkındalık veya uyanış yaşayacağını ifade eder."
+    },
+    {
+      "title": "Aşırı sevinçten dolayı bayılmak",
+      "description": "Beklenmedik, şaşırtıcı ve yoğun duygusal coşku yaratan haberler veya gelişmeler karşısında zihnin bu ani olumlu yükü işlemede zorlanmasını yansıtır."
+    }
+  ],
+  "psychology": "Bilimsel psikoloji ve duygu düzenleme araştırmalarında rüyalar, gün içindeki olayların duygusal değerini değerlendirme ve duyguları işleme süreçleriyle ilişkilendirilir. Rüyalarda yoğun olarak üzüntü, korku, stres ve diğer olumsuz duyguların görüldüğü bilinmektedir. Bu bağlamda rüyadaki çöküş veya bilinç kaybı görüntüsü; zihnin yoğun duygusal yükü ve tehdit algısını dengeleme, maruz bırakma yoluyla duyarsızlaşma ya da duygu düzenleme çabasının bir yansıması olarak yorumlanabilir.",
+  "jungian": "Analitik psikoloji çerçevesinde bayılma imgeleri, bilincin kısa süreli kesilmesiyle egonun geçici bir geri çekilmesine veya korunmaya yönelik bir kapanışa işaret edebilir; bunun sonucunda çözülme yaşanır ve iç dengeyi yeniden kurma ihtiyacı doğar.",
+  "islamicTradition": "İslami rüya tabiri geleneğinde bayılmak çoğunlukla gaflet, farkındalık kaybı, üzüntü, keder, borç ya da yapılan bir hata nedeniyle baskı altında hissetme ile ilişkilendirilir. Bayıldıktan sonra ayılmak ise geçici bir sıkıntıdan kurtulmaya, gafletten uyanmaya, tövbe etmeye veya durumun düzelmesine işaret eder. Bazı tabirlerde ise sevincinden bayılma motifi beklenmedik sevinçli bir haberle de ilişkilendirilir.",
+  "christianTraditions": "Hristiyan tefsir geleneğinde ve Kutsal Kitap dilinde 'bayılma' kavramı, fiziksel zayıflık, tükenme, cesaretsizlik ve ruhsal yılgınlıkla bağlantılıdır. Sıkıntı günlerinde gücün düşmesi veya korku ve kaygı karşısında dayanıklılığın azalması temaları üzerinden, rüyadaki bayılma imgesi denemeler ve zorluklar karşısında zayıflama ya da bunalmışlık hissiyle ilişkilendirilebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde ve Talmudik yaklaşımda rüyalar tek başına sabit ve mutlak bir hüküm doğurmaz; bunun yerine rüyanın anlamı kişinin uyanık hayattaki kaygılarıyla bağlantılı görülür ve yorumun biçimi deneyimin yönünü etkiler. Güç kaybı veya kontrolün geçici olarak askıya alınması gibi imgeler, kişinin zihinsel baskı ve endişeleri bağlamında ele alınır.",
+  "buddhistEasternApproaches": "Tibet Budist ve Doğu geleneklerinde bayılma, uykunun bitimi veya ölüm gibi süreçlerle birlikte daha ince bilinç düzeylerinin ortaya çıktığı bir eşik durumu olarak anlatılır. Bu yaklaşımda bayılma, rüya sembolünden ziyade bilincin geçici olarak içe çekilmesi ve olağan zihinsel akışın çözülmesi hâlini ifade eder.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel okumalarda rüyada bayılmak, enerji alanının kısa süreli kapanması, taşınamayacak yüklerden geri çekilme veya kontrolün bilinçli olarak askıya alınması şeklinde anlaşılır. Bu durum, egonun geçici olarak çözülmesi ve içsel dengeyi yeniden tesis etmek için gereken zorunlu bir duraklama veya dönüşüm öncesi içsel bir mola olarak yorumlanır.",
+  "comparisonTable": [
+    {
+      "approach": "Duygu düzenleme araştırmaları",
+      "interpretation": "Rüyalardaki olumsuz duygulanım ve çöküş imgelerini, zihnin stresle başa çıkma ve duygusal yükü işleme mekanizmalarıyla bağdaştırır.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Kuram",
+      "interpretation": "Bilinç kaybı ve çöküşü, bastırma mekanizmaları ile sansürlenmiş düş içeriklerinin açık içerikte dolaylı yansıması olarak inceler.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Ego sınırlarının geçici olarak çözülmesini, bilinçdışı gölgeyle karşılaşma eşiğini ve psikik dengeyi korumak için yapılan koruyucu bir geri çekilmeyi vurgular.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Gaflet, keder, baskı altında hissetme veya borç gibi durumlarla ilişkilendirirken; ayılma anını sıkıntıdan kurtuluş ve farkındalık olarak ele alır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojik Yaklaşımı",
+      "interpretation": "Kutsal metinlerdeki tükenme ve yılgınlık dili üzerinden, sıkıntılı dönemlerde yaşanan ruhsal yorgunluk ve güç kaybı temasına odaklanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Enerjinin içe çekilmesi, kontrolün bırakılması, egonun çözülmesi ve içsel dengeyi yenilemek için verilen zorunlu bir mola olarak değerlendirir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplin ve geleneklerin hemen hepsinde, rüyada bayılma veya bilinç kaybı yaşama imgesi, kişinin uyanık yaşamda taşıdığı yoğun baskı, stres, kontrolü kaybetme endişesi veya aşırı zihinsel yük ile doğrudan ilişkilendirilir. Hiçbir köklü yaklaşım bu sembolü düz ve sığ bir kehanet olarak ele almaz; aksine zihnin veya bedenin bir sınır noktasına ulaştığını ve bir duraklama ihtiyacı duyduğunu kabul eder.",
+  "differences": "Yaklaşımlar arasındaki temel ayrım, bu duraklamanın kaynağına ve anlamına odaklanır. Bilimsel ve psikodinamik modeller bunu duygu işleme, bastırma ve savunma mekanizmaları üzerinden açıklarken; İslami ve Hristiyan gelenekleri ahlaki gaflet, borç, vicdani baskı ya da ruhsal dayanıklılığın azalması ekseninde ele alır. Jungcu ve spiritüel okumalar ise süreci bireyleşme, ego sınırlarının esnemesi ve enerji tükenmesinden arınarak yeniden denge kurma yönünde daha metaforik ve içsel bir boyuta taşır.",
+  "inusAssessment": "Yorum yapılırken rüyanın hangi duygu tonuyla bittiği —örneğin çaresizlik içinde mi kalındığı yoksa bayıldıktan sonra rahatça tekrar ayılıp ayılınmadığı mı— deneyimin temel yönünü belirler; zira ayılma motifi sıkıntıların aşılmasına işaret ederken, sürekli bir baygınlık hâli derinleşen bir tükenmişliğe ya da kaçış eğilimine işaret edebilir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dreamers' evaluation of the emotional valence of their day-to ... - PMC",
+      "relevance": "Rüyaların duygusal değerlendirme ve ruh hali düzenleme ile ilişkisini tartışır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9523572/"
+    },
+    {
+      "title": "Dreaming is linked to improved memory consolidation and ...",
+      "relevance": "Rüyanın duygusal anı işleme ve olumsuz uyaranlara verilen tepkinin azalmasıyla ilişkisini inceleyen çalışmadır.",
+      "url": "https://news.uci.edu/2024/05/13/dreaming-is-linked-to-improved-memory-consolidation-and-emotion-regulation/"
+    },
+    {
+      "title": "The Functional Role of Dreaming in Emotional Processes - PMC",
+      "relevance": "Rüyanın duygusal düzenleme ve tehdit işleme ile ilişkisini kuramsal ve ampirik literatür üzerinden tartışır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6428732/"
+    },
+    {
+      "title": "Relationships between Dream and Previous Wake Emotions ...",
+      "relevance": "Rüya içeriğinde baskın duyguların çoğunlukla olumsuz olduğunu gösteren veri sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601812/"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud’un rüya kuramının temel metni; rüyaları bastırılmış isteğin maskelenmiş doyumu ve açık/gizli içerik ayrımı üzerinden ele alır.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Dream - Unconscious, Interpretation, Symbolism",
+      "relevance": "Freudcu rüya yorumunun genel çerçevesini; bilinçdışı, bastırma ve sembolik anlatım bağlamında özetler.",
+      "url": "https://www.britannica.com/topic/dream-sleep-experience/Psychoanalytic-interpretations"
+    },
+    {
+      "title": "Dreams",
+      "relevance": "Freud’un rüya anlayışını açık ve gizli içerik, sansür ve bilinçdışı erişim açısından ders notu biçiminde özetler.",
+      "url": "https://courses.washington.edu/freudlit/Dreams.html"
+    },
+    {
+      "title": "Reconsidering Freud's dream theory",
+      "relevance": "Freud’un düş kuramını uyku koruma işlevi ve düş düşüncelerinin işlenişi açısından yeniden tartışan akademik çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/59178/54236/179762"
+    },
+    {
+      "title": "Memories Dreams Reflections, Carl Gastav Jung, 1961 AD",
+      "relevance": "Jung’un anı ve düş metinleri, bayılma benzeri bilinç kesilmesi imgelerinin analitik psikoloji bağlamında nasıl okunabileceğine tarihsel zemin sağlar.",
+      "url": "https://www.bible.ca/psychiatry/carl-gastav-jung-memories-dreams-reflections-1961ad.htm"
+    },
+    {
+      "title": "C. G. Jung's Memories, Dreams, Reflections as a Source ...",
+      "relevance": "Jung’un anı ve vizyonlarının psikik iniş, dönüşüm ve kriz eşiği bağlamında okunmasına dair akademik tartışma sunar.",
+      "url": "https://jungianjournal.ca/index.php/jjss/article/download/38/31/61"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya türlerini ve bazı rüyaların beden ya da ruh durumunun yansıması olabileceğini gösteren bir çeviri metindir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "On the Theories of Dream Interpretation in Artemidorus",
+      "relevance": "Artemidorus’ta rüya yorumunun teorileri üzerine akademik tartışma; rüyaların nasıl sınıflandırıldığını anlamak için kullanışlıdır.",
+      "url": "https://www.jstor.org/stable/3289049"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’ta bazı rüya terimlerinin beden ve zihinsel durumla ilişkili tanımlarını derleyen bir çalışmadır.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’ta bazı rüya terimlerinin beden ve zihinsel durumla ilişkili tanımlarını derleyen çalışma.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "Bayılmak - Hz Muhammed (SAV) Hayatı",
+      "relevance": "Rüyada bayılmayı gaflet, farkındalık kaybı ve bayılıp ayılmayı geçici sıkıntıdan kurtuluş şeklinde aktaran çevrimiçi İslami tabir metni.",
+      "url": "https://hz-muhammed.com/ruya/bayilmak/"
+    },
+    {
+      "title": "Rüyada Bayılmak Baygınlık görmek - Home can-ada.net",
+      "relevance": "Bayılmayı borç, söz, hata ve vicdani baskı ile; yeniden ayılmayı ise gafletten uyanma ve tövbe ile ilişkilendiren çevrimiçi tabir metni.",
+      "url": "https://can-ada.net/ruya-tabiri/ruyada-bayilmak-bayginlik-gormek/"
+    },
+    {
+      "title": "Rüyada Bayılmak Ne Anlama Gelir?",
+      "relevance": "Bayılmayı üzüntü ve kedere, sevincinden bayılmayı ise beklenmedik sevinçli haber ve mutluluğa bağlayan çevrimiçi tabir sayfası.",
+      "url": "https://www.diyadinnet.com/ruyada-3503-bayilmak-gormek"
+    },
+    {
+      "title": "Topical Bible: Fainting",
+      "relevance": "İncil kullanımında bayılma kavramının fiziksel zayıflık ve mecazi ruhsal yılgınlıkla ilişkisini topluca gösterir.",
+      "url": "https://biblehub.com/topical/f/fainting.htm"
+    },
+    {
+      "title": "Proverbs 24:10 If you faint in the day of distress, how small is your ...",
+      "relevance": "Atasözleri 24:10’da bayılma, sıkıntı gününde gücün düşmesi ve yılma ile bağlantılı geçiyor.",
+      "url": "https://biblehub.com/proverbs/24-10.htm"
+    },
+    {
+      "title": "Faint - International Standard Bible Encyclopedia",
+      "relevance": "'Faint' teriminin Kutsal Kitap’ta bedensel tükenme ve ruhsal cesaretsizlik anlamlarını özetliyor.",
+      "url": "https://www.internationalstandardbible.com/F/faint.html"
+    },
+    {
+      "title": "Fainted - Topical Bible",
+      "relevance": "Bayılma/fainted biçimlerinin Kutsal Kitap bağlamında güçsüzlük, yıpranma ve ruhsal yıkılma ile kullanıldığını derliyor.",
+      "url": "https://biblehub.com/topical/f/fainted.htm"
+    },
+    {
+      "title": "Luke 21:26 Men will faint from fear and anxiety over what is ...",
+      "relevance": "Luka 21:26’da korku ve kaygı yüzünden gücün düşmesi, bayılma dilinin teolojik arka planını veriyor.",
+      "url": "https://biblehub.com/luke/21-26.htm"
+    },
+    {
+      "title": "Berakhot 10.a - Steinsaltz Center",
+      "relevance": "Rüyaların yoruma açık doğasını ve yorumun rüyanın anlamını etkilediği ilkelerini ele alan Talmudik metin özeti.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/10.a"
+    },
+    {
+      "title": "Revelation or Interpretation? - Jewish Theological Seminary",
+      "relevance": "Talmud’daki rüya pasajlarının, rüyaların gündüz düşünceleriyle ilişkisi ve yorumun rolü üzerinden anlaşılmasına dair açıklama sunar.",
+      "url": "https://www.jtsa.edu/torah/revelation-or-interpretation/"
+    },
+    {
+      "title": "Death, Sleep, and Orgasm: Gateways to the Mind of Clear Light",
+      "relevance": "Tibet Budist düşüncede bayılma, uyku ve rüya bitimiyle birlikte daha ince bilinç hallerinin ortaya çıkması bağlamında açıklanır.",
+      "url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-JOCP/jc88033.htm"
+    },
+    {
+      "title": "༄༅། །་ལམ་མང་བ་ས་་བ་གངས། The Dhāraṇī “ ...",
+      "relevance": "Rüya üretme ritüelinde uykuya geçiş sırasında rüya görme niyeti ve rüya gösterilmesi anlatılır; bayılma sembolü değil, rüya pratiği bağlamı sunar.",
+      "url": "https://84000.co/translation/toh460a.pdf"
+    },
+    {
+      "title": "Dream interpretation and practice - TME",
+      "relevance": "Uyku, derin meditasyon ve bayılma sırasında bilincin içe çekilmesi ve geçici bilinç kaybı anlatılır.",
+      "url": "https://tibetanmedicine-edu.org/tmm/tm/dream-and-bardo/the-dream-interpretation-and-practice/"
+    },
+    {
+      "title": "Fainting in dreams — meaning and symbolism",
+      "relevance": "Rüyada bayılmayı ezoterik okumada enerji alanının kısa süreli kapanması, güç akışının tükenmesi ve taşınan yüklerden geri çekilme olarak yorumlayan modern bir spiritüel metin.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/fainting"
+    },
+    {
+      "title": "Fainting Dream Meaning & Interpretation - Mirror",
+      "relevance": "Bayılma rüyasını sembolik olarak kontrol kaybı, iç durumun duraklaması ve bilinçdışıyla ilişki kurma ihtiyacı üzerinden ele alan modern spiritüel metin.",
+      "url": "https://mirrorwithin.org/dream-dictionary/fainting/"
+    },
+    {
+      "title": "Faint",
+      "relevance": "Bayılmayı rüya içinde stres, şok ya da duygusal acıdan kaçınma ve kimi esoterik pratiklerde bilinç değişimiyle ilişkilendiren bir kaynak.",
+      "url": "https://dreamhawk.com/dream-dictionary/faint/"
+    },
+    {
+      "title": "Spiritual Meaning of Fainting in a Dream 2025",
+      "relevance": "Bayılma rüyasını ruhsal kopuş, enerji kaybı ve dönüşüm temalarıyla açıklayan modern spiritüel yorum metni.",
+      "url": "https://dreamingssign.com/spiritual-meaning-of-fainting-in-a-dream/"
+    },
+    {
+      "title": "Fainting in a Dream Hidden Messages Behind This ...",
+      "relevance": "Bayılma rüyasını teslimiyet ve dönüşüm temalarıyla açıklayan modern spiritüel yorum metni.",
+      "url": "https://dreamingsign.com/fainting-in-a-dream/"
+    },
+    {
+      "title": "What is the Spiritual Meaning Of Fainting ? [HIDDEN TRUTHS]",
+      "relevance": "Bayılma rüyasını kaygı, güçsüzlük ve enerji tükenmesiyle ilişkilendiren modern spiritüel yorum metni.",
+      "url": "https://auryo.com/spiritual-meaning-fainting/"
+    },
+    {
+      "title": "Dream Meaning of Fainting: Symbolism & Interpretation",
+      "relevance": "Bayılma rüyasını kontrol kaybı, teslimiyet ve bedensel-zihinsel sınırların aşılması üzerinden okuyan modern spiritüel yorum metni.",
+      "url": "https://tarotreveal.com/dreams/fainting/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

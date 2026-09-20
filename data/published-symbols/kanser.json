@@ -1,0 +1,220 @@
+{
+  "slug": "kanser",
+  "title": "kanser",
+  "shortDescription": "Rüyada kanser görmek, sağlık kaygılarını, yoğun stresi, çaresizlik hissini ya da zihinde büyüyen bir sorunu yansıtabilir. Tedavi veya hastane görmek ise zor bir durumla mücadele etme ve toparlanma isteğine işaret edebilir.",
+  "positiveAssociations": [
+    "Yaşam değerinin ve sağlığın farkına varma",
+    "İçsel şifa ve toparlanma dürtüsü",
+    "Beden sinyallerine karşı artan duyarlılık",
+    "Ruhsal ve duygusal öncelikleri yeniden yapılandırma"
+  ],
+  "challengingAssociations": [
+    "Kontrolsüzlük ve çaresizlik korkusu",
+    "Ölüm ve kayıp korkusu",
+    "Bedensel bütünlüğün bozulma tehdidi",
+    "Uyanık yaşamın baskı ve streslerinin rüyaya sızması"
+  ],
+  "contextDependentAssociations": [
+    "Rüya sahibinin veya yakın çevresinin mevcut sağlık durumu",
+    "Rüya sırasındaki duygusal ton (tehdit algısı ya da tarafsız/nesnel gözlem)",
+    "Yaşanan tıbbi süreçler ve hastane deneyimleri",
+    "Bireyin günlük hayattaki kontrol, tükenmişlik ve stres seviyesi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kendi vücudunda kanser olduğunu öğrenmek",
+      "description": "Rüya sahibinin tıbbi bir teşhis aldığını görmesi, uyanık yaşamdaki bedensel yorgunlukların, bastırılmış korkuların ya da sağlıkla ilgili endişelerin doğrudan bir dışavurumu olabilir."
+    },
+    {
+      "title": "Yakın bir akraba veya sevdiğiniz birinde kanser görmek",
+      "description": "Çevredeki birinin hastalandığını görmek, o kişiyi kaybetme korkusunu, ilişkideki çözülme endişelerini veya genel bir çaresizlik hissini sembolize edebilir."
+    },
+    {
+      "title": "Tıbbi tedavi ve hastane süreçleri yaşamak",
+      "description": "Kanser tedavisi gördüğünü veya hastane ortamında bulunduğunu görmek, kişinin hayatındaki zorluklarla mücadele etme çabasını ve şifa arayışını yansıtır."
+    },
+    {
+      "title": "Yayılan veya kontrolden çıkan bir yapı hissetmek",
+      "description": "Bedende hızla yayılan bir rahatsızlık hissi, durdurulamayan düşünceler, büyüyen stres kaynakları veya denetlenemeyen psikolojik süreçlerin zihinsel bir metaforu olabilir."
+    }
+  ],
+  "psychology": "Ampirik psikoloji ve onkolojik rüya çalışmaları, kanser temalı rüyaların özellikle hastalar arasında daha fazla olumsuz duygu, hastalık ve ölüm teması; tıbbi figürler ve bedensel imge artışı gösterdiğini ortaya koymaktadır. Bu bulgular, kanser deneyiminin rüya içeriğini biçimlendirebildiğini; ancak toplum geneline yaygın, tek bir yoruma işaret etmediğini destekler.",
+  "jungian": "Analitik psikoloji çerçevesinde kanser imgesi, psişede özerk biçimde büyüyen ve bilinci zorlayan bir kompleks, gölge içeriği veya dönüşüm sürecinin simgesi olarak okunabilir. Jungcu yazında terminal hastalıklar ve ölüm temaları ego ile bilinçdışı arasındaki çatışma ve bireyleşme süreçleri bağlamında ele alınır. Kanser sözcüğünün çağrıştırdığı 'yengeç' metaforu ise kabuğa çekilme, koruma ihtiyacı ve geri çekilmeye neden olan korkularla ilişkilendirilir.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik ve pastoral okumalarda hastalık imgeleri genellikle ölümlülük bilinci, acı, ruhsal sorgulama ve merhametle ilişkilendirilir; bu çerçeve rüyanın tıbbi bir kehanet değil, ruhsal ve duygusal gerilimin yansıması olabileceğini vurgular.",
+  "jewishTraditions": "Yahudi rüya okuma geleneğinde rüyaların anlamı büyük ölçüde onların nasıl yorumlandığına dayanır. Doğrudan 'kanser' için klasik bir metin bulunmamakla birlikte, Talmudik çerçevede zorlayıcı rüyalar kişiyi iç gözleme ve ahlaki yenilenmeye davet eden uyarılar olarak değerlendirilebilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda 'Yengeç' (burç) sembolü, Ay'ın etkisi altında iç dünyaya kapanma, koruyucu kabuk oluşturma ve dönüşüm eşiği temalarıyla ilişkilendirilir. Burada geri çekilme ile yeniden doğuş arasındaki psikolojik gerilim ön plandadır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Uyanık yaşamın bedensel yüklerinin, tıbbi farkındalığın ve stresin rüya içeriğine yansıması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Psişede büyüyen özerk bir kompleks, gölge öğesi veya dönüşüm eşiğinin simgesel temsili.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve (Freud)",
+      "interpretation": "Bedensel uyarım, fiziksel duyumlar ve bastırılmış kaygıların dolaylı dışavurumu.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Sembolik Yaklaşım",
+      "interpretation": "Ölümlülük kaygısının, ruhsal gerilimin ve içsel dikkat çağrısının yansıması.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Simyasal Okuma",
+      "interpretation": "Kabuk metaforu, koruma, duygusal bellek ve geri çekilme ile dönüşüm gerilimi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli disiplinler, kanser temalı rüyaların tek anlamlı veya kehanet değeri taşıyan imgeler olmadığında birleşir. Tüm yaklaşımlar bu imgenin bedensel duyumlar, kontrol kaybı, içsel çatışmalar ve ölümlülük kaygısıyla güçlü ilişkiye sahip olduğunu kabul eder.",
+  "differences": "Ampirik araştırmalar rüyaları uyanık yaşamın tıbbi ve duygusal gerçekliğinin bir yansıması olarak incelerken; Jungcu ve psikodinamik yaklaşımlar içeriği kompleksler, savunma mekanizmaları ve dönüşüm süreçleri üzerinden yorumlar. Dini ve ezoterik okumalar ise imgeleri ruhsal uyarılar veya içsel arayış aracı olarak konumlandırır.",
+  "inusAssessment": "Rüyada 'kanser' sembolü büyük ölçüde bağlama bağlıdır ve tek başına gerçek bir kanser tanısı ya da geleceğe dair bir öngörü anlamına gelmez. Klinik çalışmalar ve olgu örnekleri bu tür rüyaların sıklıkla kontrolsüz yayılma veya büyüme korkusu, bedensel bütünlüğe yönelik tehdit hissi, ölüm/sonluluk kaygısı ve psikolojik enerji tükenmesi temalarıyla ilişkili olduğunu; ayrıca 'yengeç' çağrışımının geri çekilme ve korunma ihtiyacını simgeleyebileceğini göstermektedir. Rüyanın spesifik yorumu; rüya sahibinin güncel sağlık durumu, son dönemdeki tıbbi tetkikler veya tedaviler, rüyanın duygusal tonu ve yaşam koşulları gibi birden çok faktöre bağlıdır. Bu nedenle kanser temalı bir rüya, genellikle duygusal ve bedensel kaygıların bir yansıması olarak okunmalıdır; eğer gerçek bir sağlık endişeniz varsa mutlaka bir sağlık profesyoneline başvurun.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "End-of-Life in Oncologic Patients' Dream Content - PMC",
+      "relevance": "Onkolojik hastalarda rüya içeriğinin hastalık, ölüm ve olumsuz duygu ile ilişkisinin ampirik incelemesini sunar; kanser bağlamında rüya temalarının nasıl dönüştüğüne dair bulgular sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7464967/"
+    },
+    {
+      "title": "The dreams of a cancer patient: a \"royal road\" to ...",
+      "relevance": "Bir kanser hastasının rüyalarının hastalık durumunu sembolik biçimde temsil edebildiğini tartışan olgu çalışması; kanser deneyiminin rüya içeriğini nasıl şekillendirebileceğine dair örnek sunar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11330012/"
+    },
+    {
+      "title": "In the midnight hour: Cancer and nightmares. A review of theories and interventions in psycho-oncology - PubMed",
+      "relevance": "Kanser ve kabuslar üzerine derleme; kanserle ilişkili rüya materyalinde tehdit, kayıp ve ölüm temalarının nasıl işlendiğini özetler.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24468487/"
+    },
+    {
+      "title": "Detecting Cancer in Dream Content - PubMed",
+      "relevance": "Rüya içeriğinde yeni maligniteyi düşündüren olgu raporu; 'erken uyarı rüyaları' tartışmasına vaka düzeyinde katkı sağlar, genellenmesi sınırlıdır.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9703710/"
+    },
+    {
+      "title": "[PDF] Exploring the Dreams of Women with Breast Cancer: Content and ...",
+      "relevance": "Meme kanseri olan kadınların rüya içeriklerinde tıbbi ve bedensel imgelerin arttığını gösteren içerik analizi; hastalık deneyiminin rüyalara yansımasına dair veri sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/514/pdf/6875"
+    },
+    {
+      "title": "Exploring the Dreams of Women with Breast Cancer",
+      "relevance": "Meme kanseri bağlamında rüya temalarının hastalık deneyimi, korku ve ölümle ilişkisini inceleyen çalışmadır; hasta örneklerinde bulunan temaları rapor eder.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/514"
+    },
+    {
+      "title": "Dreams That Can Save Your Life: Early Warning Signs of Cancer ...",
+      "relevance": "Kanserle ilişkili erken uyarı rüyalarına dair olgu serisi; rüya içeriği ile sonradan tanı arasındaki ilişkileri vaka düzeyinde tartışır, geniş nüfusa genelleme sınırlıdır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7497954/"
+    },
+    {
+      "title": "Dreaming in patients with cancer and their partners–an ...",
+      "relevance": "Kanser hastaları ve partnerlerinde rüya duygusunun ölçülebilir biçimde değişebildiğini gösteren çalışmadır; rüya afetinin (affect) önemine işaret eder.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jsr.14169"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüya kuramı; bedensel uyarımların ve hastalık imgelerinin rüyaya nasıl girebileceğine dair temel teorik çerçeve sunar, 'kanser' için kesin bir hüküm vermez.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "The dream diagnosis Dr Freud missed",
+      "relevance": "Freud'un Irma rüyası çevresinde beden ve hastalık temalarının psikanalitik bağlamını ele alan değerlendirme; hastalık imgelerinin psikanalitik yorumuna tarihsel örnek sağlar.",
+      "url": "http://mossdreams.blogspot.com/2015/07/the-dream-diagnosis-dr-freud-missed.html"
+    },
+    {
+      "title": "Cancer in a Dream: Meaning and Sources",
+      "relevance": "Modern psikanalitik özet; rüyadaki hastalık imgelerinin beden korkusu ve gerçek bedensel durumla ilişkisini tartışır ve 'kanser' imgesinin psikodinamik anlamlarını değerlendirir.",
+      "url": "https://rosmertapublishing.com/dream-symbols/cancer/"
+    },
+    {
+      "title": "Illness in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Hastalık rüyalarının psikanalitik ve mitolojik bağlamlarını karşılaştıran değerlendirme; 'kanser' temalarının tarihsel ve teorik okunması için bağlam sunar.",
+      "url": "https://rosmertapublishing.com/dream-symbols/illness/"
+    },
+    {
+      "title": "C. G. JUNG",
+      "relevance": "Jung metninde 'cancer/crab' çağrışımının geçtiği pasajları içerir; hastalık imgesinin korku, geri çekilme ve bedensel tehlike temaları içinde nasıl ele alındığına dair birincil kaynak örneğidir.",
+      "url": "https://ronliskey.com/docs/collected-Works-07-Analytical-Psychology-by-C-G-Jung.pdf"
+    },
+    {
+      "title": "The dream in terminal illness: a Jungian formulation",
+      "relevance": "Terminal hastalık bağlamında Jungcu rüya yorumunu ve ölümü bireyleşme sürecinin parçası olarak ele almayı tartışan makale; kanser bağlamında arketipsel okumalar sunar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1372305/"
+    },
+    {
+      "title": "Revista da Sociedade Brasileira de Psicologia Analitica, 2º sem. 2018 ■ 67",
+      "relevance": "Kompleksler, semptomlar ve bedensel hastalıklar arasındaki Jungcu ilişkiyi tartışan makale; kanser imgelerinin psişik düzlemde nasıl okunabileceğine dair analitik perspektif sağlar.",
+      "url": "https://pepsic.bvsalud.org/pdf/jung/v36n2/en_04.pdf"
+    },
+    {
+      "title": "Murray Stein | Symbols and the Transformation of the Psyche",
+      "relevance": "Kanser metaforunu psişik kompleksler, enerji tüketimi ve dönüşüm bağlamında ele alan Jungcu konuşma/makaleye ilişkin kaynak; metaforun arketipsel kullanımına dair örnek verir.",
+      "url": "https://jungchicago.org/murray-stein-symbols-and-the-transformation-of-the-psyche/"
+    },
+    {
+      "title": "[PDF] Dreams and artwork in my cancer journey",
+      "relevance": "Kanser deneyimi sürecindeki rüya imgelerinin kişisel ve arketipsel dönüşümünü inceleyen çalışma; hastalık sürecinin rüyalardaki temsiline ilişkin nitel veri sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/113076/111614/293818"
+    },
+    {
+      "title": "Oneirocritica - The Perseus Catalog",
+      "relevance": "Artemidorus’un Oneirocritica'sı antik rüya yorum geleneğinin temel metnidir; eserde hastalık imgelerinin yorumlanmasında rüya sahibinin sağlık durumunun belirleyici olduğu vurgulanır, ancak eser içinde modern anlamda 'kanser' sözcüğü için doğrudan bir madde bulunmamaktadır.",
+      "url": "https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0553.tlg001.opp-grc2"
+    },
+    {
+      "title": "On the Theories of Dream Interpretation in Artemidorus",
+      "relevance": "Artemidorus'ta rüya yorumunun ilkeleri ve hastalık/sağlık durumunun yorum üzerindeki etkisini tartışan akademik çalışma; antik oneirokritiğin hasta rüyalarına yaklaşımını açıklar.",
+      "url": "https://www.jstor.org/stable/3289049"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus'un hasta kişiler için rüyaları ölüm ya da bedensel sonuçlarla ilişkilendiren yorumları üzerine yapılan akademik tartışma; antik metinlerin hastalık imgelerini nasıl ele aldığına dair analiz sunar.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "(PDF) The Body, Experience, and the History of Dream Science in ...",
+      "relevance": "Artemidorus’un rüya çözümlemesini gözlem, deneyim ve sınıflandırma ekseninde ele alan tarihsel çalışma; bedensel durumların rüya yorumundaki rolüne dair bağlamsal bilgi verir.",
+      "url": "https://www.academia.edu/68691950/The_Body_Experience_and_the_History_of_Dream_Science_in_Artemidorus_Oneirocritica"
+    },
+    {
+      "title": "Dream of Cancer (8 Meanings + Reasons) - Practical Psychology",
+      "relevance": "Çevrim içi popüler bir yorum yazısı; 'kanser rüyaları' üzerine modern yorum örnekleri sunar ancak ampirik dayanakları sınırlıdır ve dikkatle değerlendirilmelidir.",
+      "url": "https://practicalpie.com/dream-of-cancer/"
+    },
+    {
+      "title": "Berakhot 55.a - Steinsaltz Center",
+      "relevance": "Berakhot pasajı ve açıklamaları üzerinden Talmudik rüya anlayışını özetler; Yahudi geleneğinde rüyaların yorumlanmasının önemini ve rüyaların nasıl iyiye yorulabileceğini açıklar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.a"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Talmud’daki rüya anlayışını, anlam taşıyan rüyalar ve iyiye yorma ilkesi üzerinden özetleyen eğitimsel kaynak; 'kanser' için doğrudan klasik bir madde olmamakla birlikte yorum çerçevesi sağlar.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Berakhot korpusuna ait Talmud sayfası; Yahudi gelenekte rüyaların yorumla ilişkisinin incelenmesi için başvurulabilir bir metin kaynağıdır.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Cancer: Esoteric Meaning & Symbolism",
+      "relevance": "Kanser burcunun ezoterik anlamını Ay, kişilik maskesi ve duygusal-psişik alanla ilişkilendiren ezoterik kaynak; astrolojik-simbolik okumalara örnek teşkil eder.",
+      "url": "https://theosophytrust.org/674-cancer"
+    },
+    {
+      "title": "The Book of Talismans: Pat II. The Gems of the Zodiac: Chapter IV. Cancer—The Crab",
+      "relevance": "Zodyaktaki yengeç sembolünün tarihsel ve simgesel okumasını, özellikle yeniden doğuş ve eski sembol katmanları bağlamında ele alan metin; simgesel bağlantılar için referans sağlar.",
+      "url": "https://sacred-texts.com/sym/bot/bot19.htm"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
+}

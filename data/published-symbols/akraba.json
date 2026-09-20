@@ -1,0 +1,213 @@
+{
+  "slug": "akraba",
+  "title": "akraba",
+  "shortDescription": "Rüyada akraba görmek, genellikle aile bağlarını, aidiyet duygusunu ve günlük hayattaki ilişkileri yansıtır. Rüyadaki akrabayla ilişkiniz ve rüyanın duygusu; destek ve güveni ya da geçmişten kalan kırgınlıklar ile çözümlenmemiş meseleleri öne çıkarabilir.",
+  "positiveAssociations": [
+    "Aile içi dayanışma ve destek ağı",
+    "Güven, emniyet ve aidiyet hissi",
+    "Uzlaşma, barışma ve küslüklerin sona ermesi",
+    "Sıla-i rahim ve bağların korunması"
+  ],
+  "challengingAssociations": [
+    "Çözülmemiş ailevi çatışmalar ve suçluluk",
+    "Geçmişten gelen baskıcı kalıplar ve aidiyet yükü",
+    "Ambivalans ve erken dönem ilişkisel gerilimler",
+    "Kayıp veya ölüm bağlamındaki yas tepkileri"
+  ],
+  "contextDependentAssociations": [
+    "Günlük etkileşim yoğunluğunun rüya içeriğine yansıması",
+    "Akrabalık derecesine ve ilişkinin mevcut durumuna göre değişen anlamlar",
+    "Farklı psişik katmanlarda (bireyleşme, soy hafızası veya arketipsel bağ) temsil edilme biçimi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Geniş aile üyeleriyle kalabalık bir sofrada buluşmak",
+      "description": "Uyanık yaşamdaki sosyal destek ağını, aidiyet arayışını ve hane içi bağların güncel durumunu yansıtan bir rüya senaryosudur."
+    },
+    {
+      "title": "Küskün veya görüşülmeyen bir akraba ile karşılaşmak",
+      "description": "Geçmişte kalan çözülmemiş meseleleri, bastırılmış kırgınlıkları ve içsel bir uzlaşma ya da yüzleşme ihtiyacını temsil edebilir."
+    },
+    {
+      "title": "Ölmüş bir akrabayı rüyada canlı ve huzurlu görmek",
+      "description": "Ölmüş bir akrabayı rüyada canlı ve huzurlu görmek, yas sürecinin doğal bir aşaması olan anımsama, hatıralarla kurulan bağ veya bilinçdışında bir kapanış ve teselli arayışına işaret edebilir."
+    },
+    {
+      "title": "Uzak bir akrabadan beklenmedik bir haber almak",
+      "description": "Günlük hayatın akışında göz ardı edilen sosyal bağların, köklerle ilgili bilincin veya beklenmedik bir gelişmenin psişik yansımasıdır."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmaları, çekirdek aile ve akraba figürlerinin rüyaların önemli bir bölümünü oluşturduğunu ve en sık görülen sosyal karakterler arasında yer aldığını göstermektedir. Destek ağı üyelerinin rüyada görünme olasılığı, uyanık yaşamdaki günlük etkileşimler ve ilişkiye özgü dinamiklerle yakından ilişkilidir.",
+  "jungian": "Analitik psikolojiye göre rüyadaki akraba figürü, dışsal bir kişiden ziyade psişenin içsel bir yönünü veya arketipsel bir temayı temsil edebilir. Bu figürler, bireyleşme sürecinde aidiyet, bağımlılık, otorite veya aile kompleksi gibi temaları dengeleyici bir işlevle (kompansasyon) ortaya çıkabilir.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolizminde aile üyeleri ve akrabalar, mevcut ilişki bağları, sorumluluk, koruma, uzlaşma ihtiyacı ve aile içi gerilimler çerçevesinde ele alınır. Kaybedilen yakınların rüyada sevgiyle belirmesi ise teselli ve umut temalarıyla ilişkilendirilebilir.",
+  "jewishTraditions": "Yahudi geleneksel yaklaşımında rüyalar ve özellikle ölmüş yakınların rüyada görünmesi, aile bağı ve ölüm sonrası temas bağlamında değerlendirilir. Rüyaların yorumlanması ve olumlu bir bakış açısıyla ele alınması, rüya kültürünün önemli bir parçasını oluşturur.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yaklaşımlarda akraba figürleri, köken, ortak hafıza, nesiller arası enerjisel bağlar ve atalardan gelen kalıplar üzerinden yorumlanır. Bu rüyalar sıklıkla şifa, sınır koyma, bağışlama veya çözülmemiş duygusal yüklerin fark edilmesiyle ilişkilendirilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Aile ve akraba figürlerinin rüyalarda sıkça yer almasını günlük sosyal etkileşimler ve ilişki ağlarıyla açıklar.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Teori",
+      "interpretation": "Akraba figürlerini bastırılmış istekler, suçluluk, ambivalans ve erken aile ilişkilerinin temsili olarak ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Akraba imgesini psişenin dengeleyici bir yönü, aile kompleksi veya bireyleşme sürecinin bir göstergesi olarak yorumlar.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Yahudi Geleneksel Çerçevesi",
+      "interpretation": "Ölmüş yakınların rüyada görünmesini aile bağı, anımsama ve rüya yorumu geleneği içinde değerlendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Akraba figürlerini kökler, nesiller arası bağlar, atasal örüntüler ve ruhsal şifa ihtiyacı bağlamında okur.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, akraba sembolünün sabit ve tek bir anlama indirgenemeyeceği konusunda birleşir. Rüyada görülen akraba figürleri, her durumda kişinin sosyal bağlarını, ilişkisel geçmişini ve o anki duygusal tonunu merkeze alır.",
+  "differences": "Ampirik Psikoloji rüyadaki akraba varlığını günlük etkileşimlerle açıklar. Psikanalitik Teori bunu arzu ve bastırılmış çatışmalarla; Analitik Psikoloji ise içsel psişik dengeyle; Spiritüel yaklaşımlar ise nesiller arası bağlar ve atasal hafızayla ilişkilendirir.",
+  "inusAssessment": "Rüyada akraba görülmesi, yalnızca dışsal bir sosyal karakterin hatırlanmasından öte, kişinin uyanık yaşamındaki bağları, kökleri ve içsel dinamikleriyle kurduğu ilişkinin bir yansımasıdır. Bu sembolün yorumunda, rüyadaki akrabanın kim olduğu, o kişiyle olan günlük etkileşim düzeyi, aradaki bağın duygusal tonu ve rüyanın genel atmosferi belirleyicidir. Dolayısıyla aynı sembol, bir rüyada destek ve güven hissini çağırırken başka bir rüyada geçmişten gelen çözülmemiş bir yükün veya içsel bir yüzleşmenin göstergesi olabilir.",
+  "faq": [
+    {
+      "question": "Rüyada sürekli aynı akrabayı görmek ne anlama gelir?",
+      "answer": "Bu durum genellikle o kişiyle olan uyanık yaşamdaki günlük etkileşim yoğunluğuna, aradaki ilişkinin niteliğine veya o akrabanın temsil ettiği psişik temalara (aidiyet, çatışma veya destek) işaret eder."
+    },
+    {
+      "question": "Ölmüş bir akrabayı rüyada görmek neye delalet eder?",
+      "answer": "Yas süreçlerinin doğal bir yansıması olabileceği gibi, anımsama, aile bağı, geçmişle kurulan bağlar veya bilinçdışında bir kapanış ve teselli arayışı olarak ele alınabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dreams of core family members in a long dream series",
+      "relevance": "Uzun bir rüya serisinde çekirdek aile üyelerinin rüyalarda ne sıklıkta göründüğünü gösteren temel bulgu.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/11055"
+    },
+    {
+      "title": "Relationship and personality factors predict longitudinal changes in ...",
+      "relevance": "İlişki özgü değişkenlerin ve günlük etkileşimin, destek ağı üyelerinin rüyada görünme olasılığını yordadığını gösteren boylamsal çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12049429/"
+    },
+    {
+      "title": "Mutual dreaming - Experts@Minnesota",
+      "relevance": "Karşılıklı rüyalarda aile ve arkadaş ilişkilerinin sık görülen temalar olduğunu bildiren çalışma özeti.",
+      "url": "https://experts.umn.edu/en/publications/mutual-dreaming/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüyada yakın akraba ölümü, aile içi ambivalans ve istek doyumu tartışmalarını içerir; ayrıca akraba figürlerinin rüyalarda ikincil simgesel işlevler taşıyabileceği bir bağlam sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Dream Interpretation In Jung's Theory A Comparative ...",
+      "relevance": "Jung'un rüya yorumunda sembollerin sabit değil, arketipsel ve çok katmanlı olduğunu özetleyen çalışma; akraba figürünün tek anlamlı olmadığını ve psikodinamik ile sembolik okumalar için zemin sağlar.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/107-dream-interpretation-in-jungs-theory-a-comparative-analysis"
+    },
+    {
+      "title": "Analytical psychology among symbolism, semiotics, iconology, and ...",
+      "relevance": "Jungcu sembol anlayışını, sembolün bilinçdışındaki psişik içerik için en iyi ifade olması üzerinden açıklar; rüyadaki akraba figürünün sembolik işlevi için temel çerçeve sunar.",
+      "url": "https://www.cgjung.net/espace/jps/articles/rachel-huber/situating-analytical-psychology/"
+    },
+    {
+      "title": "Interpretation of Dreams (Analytical Psychology ...",
+      "relevance": "Jung'un rüyayı bilinçdışının sembolik kendini ortaya koyuşu olarak tanımlayan yaklaşımını aktarır; akraba figürünü rüyanın iç durumunu anlatan bir imge olarak düşünmeye uygundur.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/interpretation-dreams-analytical-psychology"
+    },
+    {
+      "title": "Jung on the Nature and Interpretation of Dreams - PMC",
+      "relevance": "Jung'un rüya yorumunda kesin kurallardan çok kompansasyon ilkesini öne çıkaran değerlendirme; akraba figürünün dengeleyici ve ilişkisel temalarla bağlantılı okunmasına yardımcı olur.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4217604/"
+    },
+    {
+      "title": "Volume 18: The Symbolic Life",
+      "relevance": "Jung'un Collected Works içindeki sembolik yaşam bölümünü özetler; rüyaların sembol üretimi ve bilinçdışı araştırması için merkezi kaynak olduğunu belirtir.",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-18-symbolic-life/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un çevirisinde kan akrabaları ve yakın aile ilişkilerinin rüya sembolizmi içinde nasıl yer aldığını gösteren pasaj.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un klasik oneirokritik geleneğin önde gelen isimlerinden biri olduğunu ve rüya yorumunu sistemli biçimde ele aldığını özetleyen tanıtım.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "People & Relationships in Dreams | Biblical Interpretation | RTCLM",
+      "relevance": "Akraba ve diğer aile üyelerinin rüyada ilişkiler, sorumluluk, koruma, çatışma ve uzlaşma temalarını taşıyabileceğini anlatan Hristiyan yorum materyali.",
+      "url": "https://revealingthechristianlife.org/dreams-visions-knowledge-center/biblical-dream-symbols-dictionary/dream-symbols-people-relationships/"
+    },
+    {
+      "title": "Does the Bible Support Loved Ones Visiting Us in Dreams?",
+      "relevance": "Ölmüş yakınların rüyada görülmesi ve bu deneyimin Hristiyanlarca nasıl anlaşıldığı üzerine, teselli ve ahiret umudu temalarını veren makale.",
+      "url": "https://www.christianity.com/wiki/christian-life/do-loved-ones-visit-us-in-dreams.html"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Talmud Berakhot 57a’da rüyaların değerlendirilmesi ve yorumlanması için rabbanî çerçeve bulunur.",
+      "url": "https://www.sefaria.org/Berakhot.57a?lang=en"
+    },
+    {
+      "title": "Viviennes Visitation « Ask The Rabbi « - Ohr Somayach",
+      "relevance": "Ölen yakınların rüyada görünmesi ve bunun aile bağıyla ilişkili olabileceği üzerine Yahudi kaynaklarına dayalı açıklama verir.",
+      "url": "https://ohr.edu/explore_judaism/ask_the_rabbi/ask_the_rabbi/4199"
+    },
+    {
+      "title": "What Do Dreams Mean?",
+      "relevance": "Rüyalarda ölen kişilerin, özellikle yakınların, geride kalanlara mesaj iletebilmesi temasını işler.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/274823/jewish/What-Do-Dreams-Mean.htm"
+    },
+    {
+      "title": "Dare to Dream - Mishpacha Magazine",
+      "relevance": "Hatavas chalom bağlamında rüya yorumunun yakın kişiler, sevilenler ve aile çevresiyle ilişkisini gösterir.",
+      "url": "https://mishpacha.com/dare-to-dream/"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Berakhot 55b’de rüyanın yorumlanmış hâlinin ve başka biri hakkında görülen rüyanın önemine dair Talmudik çerçeve sunar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Relative in dreams — meaning and symbolism",
+      "relevance": "Akraba rüyasını ezoterik düzlemde aile bağı, köken, ortak hafıza ve nesiller arası enerji bağlantısı olarak ele alıyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/relative"
+    },
+    {
+      "title": "12 Spiritual Meanings of Seeing a Family Member in a Dream - Divine Symbolism",
+      "relevance": "Aile üyesinin rüyada görünmesini kökler, miras, çözülmemiş duygular ve atalarla bağlantı üzerinden yorumluyor.",
+      "url": "https://divinesymbolism.com/seeing-a-family-member-in-a-dream/"
+    },
+    {
+      "title": "What Does Dreaming About Relative Mean? - Rüya Tabirleri",
+      "relevance": "Akraba rüyalarında aile bağları, geçmişle yüzleşme ve aidiyet duygusu temasını öne çıkarıyor.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-a-relative"
+    },
+    {
+      "title": "Family in dreams — meaning and symbolism",
+      "relevance": "Aile sembolünü ezoterik düzlemde ata alanı, soy hafızası, nesiller arası örüntüler ve şifa ihtiyacıyla ilişkilendiriyor.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/family"
+    },
+    {
+      "title": "Dream Symbol: Family Members: Unraveling the Mysteries of Kinship and Relationships",
+      "relevance": "Aile üyelerinin rüyada görünmesini ruhsal mesajlar ve ilahi uyarılar çerçevesinde yorumlayan modern bir spiritüel yaklaşım sunuyor.",
+      "url": "https://dict.dreamdecoder.me/symbol/dream-symbol-family-members-unraveling-the-mysteries-of-kinship-and-relationships"
+    },
+    {
+      "title": "Dreaming of Deceased Family: Meaning, Symbolism ...",
+      "relevance": "Ölen aile üyelerinin rüyada görünmesini bitmemiş duygular, ata bağları ve spiritüel ziyaret/mesaj fikriyle ilişkilendiriyor.",
+      "url": "https://dreamz-journal.com/blog/dream-symbol/deceased-family/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
+}

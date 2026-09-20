@@ -1,0 +1,195 @@
+{
+  "slug": "gri-kedi",
+  "title": "gri kedi",
+  "shortDescription": "Rüyada gri kedi görmek, netleşmemiş bir durumda sezgilerinizi dinlerken temkinli davranma ve yakınlıkla mesafe arasında denge kurma ihtiyacını gösterebilir. Kedinin size yaklaşması ya da uzak durması ile rüyadaki hisleriniz, bu belirsizliğin sakin bir gözlem mi yoksa kuşku ve kararsızlık mı olduğunu anlamaya yardımcı olur.",
+  "positiveAssociations": [
+    "Temkinli sezgi: hızla karar vermekten kaçınıp durumları içgüdüyle ve dikkatle izleme eğilimi",
+    "Sınırları koruma becerisi: yakınlık ile mesafe arasında dengeli, bağımsız bir tutum",
+    "Belirsizlikle başa çıkma becerisi: net olmayan koşullarda gözlemci kalabilme",
+    "İçsel rehberlikle uyum: sezgisel uyarıları sakinçe dinleme"
+  ],
+  "challengingAssociations": [
+    "Karar gecikmesi ve iki seçenek arasında karar verememe veya karar sürecinde tıkanma",
+    "Gizli niyetlere karşı artan kuşku veya ilişkilere temkinli yaklaşma",
+    "Duygusal mesafe koyma ihtiyacı; yakınlıktan kaçınma veya soğukluk hissi",
+    "Ambivalans: hem çekim hem uzaklaşma duygularının aynı anda var olması"
+  ],
+  "contextDependentAssociations": [
+    "Kedinin rüyada yaklaşıcı mı yoksa uzaklaştırıcı mı davrandığı (yaklaşma/uzaklaşma)",
+    "Rüyayı görenin uyanıştaki duygu tonu: huzurlu bir gözlem mi yoksa kaygılı bir belirsizlik mi hissettiği.",
+    "Gri tonun çevreyle ve diğer rüya öğeleriyle etkileşimi — örneğin loş ışık, kapalı kapılar veya bir yol ayrımı."
+  ],
+  "commonVariations": [
+    {
+      "title": "Sessizce Yürüyen Gri Kedi",
+      "description": "Gri kedinin sessizce dolaşması, rüya sahibinin bir durumu müdahale etmeden izlediğini ve acele karar vermekten kaçındığını gösterir."
+    },
+    {
+      "title": "Uzakta Duran Gri Kedi",
+      "description": "Uzakta bekleyen gri kedi, kişinin belli bir konuya duygusal mesafe koyduğunu veya henüz dahil olmamayı tercih ettiğini işaret edebilir."
+    },
+    {
+      "title": "Gri Kedinin Dokunması veya Sürtünmesi",
+      "description": "Kedinin fiziksel temas arayışı, içgüdüsel yakınlık ile bağımsızlık arasındaki gerilimi ve dokunma isteğini düşündürebilir."
+    },
+    {
+      "title": "Karanlıkta Kaybolan Gri Kedi",
+      "description": "Gri kedinin gölgeler arasında kaybolması, rüya sahibinin belirsizliğin sürmesi ve sorunun kısa vadede çözülmemesi olasılığına işaret eder."
+    }
+  ],
+  "psychology": "İçerik analizleri, kedi imgelerinin rüyalarda yaygın olduğunu ve hayvan–rüya etkileşimlerinin duygulanımlarla şekillendiğini gösterir. Bu nedenle gri kedinin yorumu, sembolün kendisinden ziyade rüya bağlamı, etkileşim biçimi ve rüya sahibinin hisleri temelinde yapılmalıdır; sabit bir anlam atamak ampirik bulgularla desteklenmez.",
+  "jungian": "Jungcu çerçevede kedi imgeleri içgüdüsel yaşam ve özerk psişik yönlerle bağlantılıdır; gri ton eklenmesi geleneksel Jungcu kaynaklarda sabit bir anlam vermez, ancak rüyanın duygulanımına bağlı olarak sezgi, arabuluculuk veya psişik 'ara bölge' hissini vurgulayacak şekilde yorumlanabilir.",
+  "islamicTradition": "Klasik İslami tabir kaynakları doğrudan 'gri kedi'yi ele almaz; genel kedi motifleri Nablusî ve benzeri aktarımlarda hizmetçi, koruyucu veya ev içindeki hilekâr/hırsız çağrışımlarıyla ilişkilendirilir; gri renk özelleştirmesi klasik metinlerde doğrulanmamıştır.",
+  "christianTraditions": "Hristiyan bağlamında yapılan modern okumalar kedi rüyalarını genellikle gizli niyetleri sezme, ayırt etme ve temkin temaları etrafında yorumlar; gri kediye ilişkin modern yorumlar belirsizlik ve ayırt etme ihtiyacını vurgular, ancak bu renk yüklemesi klasik patristik bir doktrin olarak doğrulanmamıştır.",
+  "jewishTraditions": "Talmudik pasajlar (ör. Berakhot 56b) kedinin rüyada bağlama göre iki şekilde okunabileceğini gösterir; 'gri' gibi renklendirmeler için klasik bir hüküm bulunmadığından, gri kedi yorumu bağlamsal ve temkinli bir Yahudi okumayla sınırlı tutulmalıdır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel kaynaklarda gri kedi çoğunlukla sezgi, denge ve ara alan vurgusuyla okunur; bu okumalarda imge, netleşmemiş durumlarda gözlem ve acele etmeme çağrısı şeklinde yorumlanır. Bu tür modern yorumlar geleneksel bir kanıt yerine yorumlayıcı pratiklere dayanır.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Bastırılmış dürtüler, bedensel içerikler ve duygu yer değiştirmesi olasılıkları; kedi imgesi başka gündelik içeriklerin yerine geçebilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "İçgüdüsel yaşam, özerklik ve bilinçdışının otonom katmanları; gri ton yorumda belirsizlik ve ara alan hissi katar.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Klasik İslami Tabir",
+      "interpretation": "Kedinin hizmetçi, koruyucu veya hilekâr/hırsız gibi genel çağrışımları; gri renk özelleştirmesi klasik kaynaklarda doğrulanmamıştır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Sezgi, denge ve ara durumların simgesi; netleşmemiş konularda temkinli gözlem çağrısı.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşım, kedinin sabit bir anlam taşımadığı konusunda hemfikirdir: yorum, rüyanın bağlamına, kedinin davranışına ve rüya sahibinin duygulanımına göre şekillenir.",
+  "differences": "Psikolojik ekoller rüyayı içsel dinamikler ve içerik yer değiştirmesi açısından ele alırken, geleneksel ve spiritüel okumalar daha çok dışsal işaretler, sezgi ve uyaranlar üzerinden pratik çıkarımlar yapar; gri renk için tarihsel kaynaklardan sabit bir hüküm yoktur.",
+  "inusAssessment": "Gri kedi sembolü, kedi imgesinin özerklik ve sezgi çağrışımları ile gri rengin belirsizlik ve ara ton hissini birlikte içerir. Yorumda en belirleyici unsurlar kedinin rüyada yaklaşma/uzaklaşma davranışı ve rüya sahibinin uyanıştaki duygu tonudur; bu ikiliğin varlığı, sembolün hangi yönünün öne çıkacağını belirler.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dreams with animals in psychotherapeutic process",
+      "relevance": "Rüyalardaki hayvan imgelerinin psikoterapötik çözümlemede nasıl ele alınabileceğini ve yorumun klinik bağlamla ilişkilendirilmesini açıklar; kedi imgelerinin içsel eğilimlerle nasıl okunabileceği konusunda doğrudan ilgilidir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/83826"
+    },
+    {
+      "title": "Perceived Change in the Affect Associated With Dreams",
+      "relevance": "Rüyaya eşlik eden duygulanımın zaman içinde değişebileceğini gösterir; gri kedi yorumunda duygu tonunun önemini destekler.",
+      "url": "https://www.niu.edu/jskowronski/publications/RitchieSkowronski2008.pdf"
+    },
+    {
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Rüya içerik analizinin kategori ve örüntü odaklı yaklaşımını açıklar; tekil sembollere sabit anlam atılmaması gerektiğine dair metodolojik destek sağlar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
+    },
+    {
+      "title": "Dreams with animals in psychotherapeutic pro- cess",
+      "relevance": "Hayvanların rüyalarda nasıl terapötik bağlamda değerlendirildiğini ve kedi imgelerinin kişinin içsel eğilimleriyle ilişkilendirilebileceğini tartışır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/83826/82597/234814"
+    },
+    {
+      "title": "Animals in Dreams of Children, Adolescents, and Adults",
+      "relevance": "Farklı yaş gruplarında hayvan rüyalarının sıklığı ve etkileşim özelliklerine dair ampirik veri sunar; kedinin yaygınlığını destekler.",
+      "url": "https://journals.sagepub.com/doi/10.1177/0276236620960634"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Freud'un rüya çözümlemesinde geçen 'kedi' (orijinalde 'cat') örnekleri, kedi imgesinin rüyada duygu yer değiştirmesi ve tensel içeriklerle bağlantı kurabileceği fikrini destekler.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Freud (1900) Chapter 5, part b",
+      "relevance": "Freud'un hayvan imgelerinin başka gündelik veya bedensel içeriklerin yerine geçebileceğine dair metinsel pasajları, psikanalitik okuma için temel sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5b.htm"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud'un kediyi örneklediği bölümler, kedi imgesinin rüyalarda taşıyabileceği duygusal ton ve yer değiştirme potansiyelini göstermektedir.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Instinct As Guide: Animals in Women's Dreams",
+      "relevance": "Jungcu çerçevede hayvan imgelerinin içgüdü ve derin psişik yaşamla ilişkisini tartışır; kedi imgesinin Jungcu yorumuna kaynaklık eder.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/922-instinct-as-guide-animals-in-womens-dreams"
+    },
+    {
+      "title": "To Dream of a Cat — Jungian Times Newsletter",
+      "relevance": "Kedinin Jungcu sembolizmde içgüdü, dişil nitelik ve bağımsızlıkla ilişkilendirilmesine dair örnekleyici bir Jungcu kaynaktır.",
+      "url": "https://jungiantimes.com/von-franz-cat-dream-symbolism-jungiantimes/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorumları (oneirokritik) metinde kedinin hırsızlık ve gizli zarar çağrışımlarıyla ele alındığını gösterir; 'gri' özelleştirmesi burada yer almamaktadır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "THERIOMORPHIC SYMBOLISMS AND MECHANISMS IN ANCIENT ...",
+      "relevance": "Antik edebiyat ve hayvan sembolizmi üzerine akademik bağlam sağlar; kedinin tarihsel repertuvar içindeki yerini anlamaya yardımcı olur.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14073178/"
+    },
+    {
+      "title": "Cat Dreams: Meaning from Bastet to Jung",
+      "relevance": "Kedi sembolizminin tarihsel dönüşümünü özetler; antik bağlamlarda kedinin çağrışımlarına dair modern değerlendirme sunar.",
+      "url": "https://dreamlore.net/dreams/cat/"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Klasik İslami rüya tabirleri derlemesi; kediye dair hizmetçi/koruyucu veya hilekâr/hırsız çağrışımlarını aktaran kaynakları içerir.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Cats in Dreams: Symbolic Meaning - Magnificat Ministries",
+      "relevance": "Modern Hristiyan yorumlayıcı perspektiflerde kedinin gizlilik, ayırt etme ve temkin temalarıyla ele alınışını örnekler.",
+      "url": "https://www.magnificatministries.ca/cats-in-dreams-interpretation-symbols"
+    },
+    {
+      "title": "Spiritual Meaning of Cats in Dreams - Dream Codex",
+      "relevance": "Gri kedinin modern yorumlayıcı metinlerde belirsizlik ve ayırt etme ihtiyacıyla ilişkilendirildiğine dair örneklerden biridir.",
+      "url": "https://thedreamcodex.com/cats-in-dreams-means"
+    },
+    {
+      "title": "Berachot: 56b - Talmud",
+      "relevance": "Talmudik pasaj, kedi rüyasının dilsel ve kültürel bağlama bağlı ikili okunabileceğini gösterir; renk özelleştirmeleri için sınırlı veri sunar.",
+      "url": "https://www.chabad.org/torah-texts/5299914/Talmud/Berachot/Chapter-9/56b"
+    },
+    {
+      "title": "The Curious Case of Cats",
+      "relevance": "Yahudi kültürel bağlamda kedi rüyası pasajının dil oyunu ve yorumlanışına dair açıklayıcı bir modern tartışmadır.",
+      "url": "https://www.thetorah.com/article/the-curious-case-of-cats"
+    },
+    {
+      "title": "Gray Cat Dream Meaning & Interpretation",
+      "relevance": "Modern spiritüel/yorumlayıcı kaynaklardan biri olarak gri kedinin sezgi, denge ve ara alan temalarıyla ilişkilendirilmesine örnek sağlar.",
+      "url": "https://mirrorwithin.com/dream-dictionary/gray-cat/"
+    },
+    {
+      "title": "Dreaming of a Cat: Meaning, Intuition and Spiritual Message",
+      "relevance": "Gri kedinin modern yorumlarında nüans, geçiş ve gözlem temalarıyla nasıl ele alındığını gösterir.",
+      "url": "https://www.karmaweather.com/mysticism/dreams/cat-dream"
+    },
+    {
+      "title": "Dreaming Of Cats: 37 Types And Interpretations - Luciding Dream Dictionary",
+      "relevance": "Popüler rüya sözlükleri bağlamında gri kedinin ilişki dinamikleri ve örtük şüpheler ile nasıl yorumlandığına dair örnekler sunar.",
+      "url": "https://luciding.com/dreaming-of-cats-37-types-and-interpretations/"
+    },
+    {
+      "title": "Spiritual Meanings of Grey Cats in Dreams: 12 Insights & Messages",
+      "relevance": "Gri kedileri sezgi, ruhsal bağlantı ve koruyucu mesajlarla ilişkilendiren modern ezoterik yorumlardan biridir.",
+      "url": "https://insightfulspiritual.com/spiritual-meanings-of-grey-cats-in-dreams/"
+    },
+    {
+      "title": "Spiritual Meaning of Grey Cat",
+      "relevance": "Gri kediyi denge, bilgelik ve ihtiyat sembolü olarak ele alan modern yorumlayıcı içeriklerden örnekler verir.",
+      "url": "https://earthsoulorganics.org/cat-dreams/spiritual-meaning-of-grey-cat/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "christian"
+  ]
+}

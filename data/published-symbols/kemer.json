@@ -1,0 +1,215 @@
+{
+  "slug": "kemer",
+  "title": "kemer",
+  "shortDescription": "Rüyada kemer görmek, kontrolü koruma, sınır koyma ve sorumluluk taşıma ihtiyacını çağrıştırabilir. Kemerin sıkı olması baskı ve kısıtlanmayı; gevşemesi ya da kopması ise destek ve düzen duygusunun zayıflamasını düşündürebilir.",
+  "positiveAssociations": [
+    "Bel bölgesini destekleme ve duruşu düzenleme (fiziksel 'tutma' işlevinin metaforik karşılığı)",
+    "Günlük düzen ve yaşamın toparlanmasına yönelik hazırlıklı olma.",
+    "Sorumlulukları 'belinde taşıma' veya görev bilinci (özellikle toplumsal/mesleki roller bağlamında)",
+    "Toplumsal statü veya kimlik işareti olarak görünürlük (süslenmiş kemerler, rütbe işaretleri)"
+  ],
+  "challengingAssociations": [
+    "Fiziksel olarak sıkışma, nefes alma veya hareket kısıtlanması hissiyle bağlantılı rahatsızlık",
+    "Aşırı disiplin veya kendine uygulanan katı sınırların yol açtığı baskı hissi",
+    "Kemerin kırılması/gevşemesiyle ilişkili olarak güvenlik/destek mekanizmalarının zayıflaması",
+    "Toplumsal rol beklentilerinin bezdiriciliği veya statüye bağlı baskı"
+  ],
+  "contextDependentAssociations": [
+    "Kemerin sıkılığı, gevşekliği veya kırılmış olması; fiziksel durumun duygusal anlamı belirler",
+    "Kemerin süslü veya değerli olması — mal, zinet veya statü çağrışımları",
+    "Askerî veya mesleki tipte bir kemer — aidiyet, görev ve disiplin vurgusu",
+    "Kemerin başkası tarafından takılması veya alınması — sorumluluk devri veya kontrol kaybı ima edebilir"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kemerin Çözülmesi",
+      "description": "Sıkı bir kemerin rüyada çözülmesi, beden/kimlik çevresindeki katı sınırların gevşemesi, kontrolün azalması veya bir süreliğine rahatlama isteği olarak okunabilir."
+    },
+    {
+      "title": "Sıkı veya Çok Sıkı Kemer",
+      "description": "Bedeninizi rahatsız edecek kadar sıkı bir kemer takmak, yaşamda kendinize uyguladığınız katı disiplin, kısıtlama ya da başkalarının beklentilerinin baskı oluşturmasıyla ilişkili olabilir."
+    },
+    {
+      "title": "Kırık veya Kopmuş Kemer",
+      "description": "Kemerin işlevini yitirmesi, günlük destek sistemlerinde zayıflama, sorumlulukların dağılması veya statüyle ilgili endişeleri simgeliyor olabilir."
+    },
+    {
+      "title": "Süslenmiş ya da Gösterişli Kemer",
+      "description": "Değerli taşlı veya süslü bir kemer, toplum içindeki görünürlüğünüz, maddi kaynaklar veya evlilik/çeyiz gibi kültürel çağrışımlarla ilişkilendirilebilir."
+    }
+  ],
+  "psychology": "Kemer, bedeni çevreleyen ve bağlayan fiziksel rolü nedeniyle rüyalarda kontrol, sınırlar ve kimlikle ilgili düzenleme temalarıyla ilişkilendirilebilir. Ampirik rüya araştırmaları ise nesnelere tek ve sabit anlamlar atamanın sakıncalı olduğunu vurgular; bu nedenle kemerin yorumu rüyanın duygusal tonu, anlatısı ve uyuyan kişinin yaşam bağlamıyla birlikte ele alınmalıdır.",
+  "jungian": "Jungcu çerçevede kemer, çevreleyici ve bütünleştirici yapısıyla kişiliği bir arada tutma, merkezde kalma ve uyum sağlama metaforlarıyla ilişkilendirilebilir. Kemerin çözülmesi ise analitik çerçevede baskıların azalması veya benliğin daha esnek bir forma geçme olanağına işaret edebilir; bununla birlikte kemer için doğrudan Jung kaynaklı özel bir madde bulunmadığı için bu okuma kontrollü ve bağlama bağlı tutulmalıdır.",
+  "islamicTradition": "Modern İslami kaynaklarda kemer, yolculuk, yük/taşıma, para birikimi, çeyiz, evlilik ve bazı durumlarda hizmetçi ya da ev içi ilişkilerle ilişkilendirilmektedir. Bu özetler temalar sunar; ancak klasik İslami metinlerde doğrudan bir atıf olmadığından bu anlamlar kaynak ve kültürel bağlama göre dikkatle değerlendirilmelidir.",
+  "christianTraditions": "Hristiyan sembolik kullanımında 'kemer' imgeleri genellikle eyleme hazırlanma, doğruluk ve ruhsal donanım vurgusuyla okunur; kemerin kuşanılması, bir tür içsel hazırlık veya eyleme hazır olma metaforunu taşır.",
+  "jewishTraditions": "Talmudik ve Yahudi rüya geleneği, yorumun rüyanın içeriğine bağlı olduğunu vurgular; 'kemer' için doğrudan Talmudik bir madde belirlenmemiştir; bu nedenle Yahudi perspektifi kemeri tek başına bir sözlük maddesi olarak değil, rüyanın özgün bağlamında değerlendirmeyi tercih eder.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda kemer, çevreleyici yapısı nedeniyle sınır koyma, disiplin, sorumluluk taşıma ve kişisel bütünlüğü koruma fikirleriyle yorumlanır. Bu tür yorumlar genellikle modern rüya sözlüğü kaynaklarına dayanır ve kesin hüküm yerine tematik çağrışım sağlar.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Kemerin rüyalarda çağrıştırdığı duygusal ve bağlamsal işlevlere odaklanır; nesneye sabit anlam yüklemez.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Giysi ve beden aksesuarlarının gizlenmiş dürtüler veya sansürlenmiş isteklerle ilişkili olabileceğini ileri sürer; kemer beden çevresindeki bağlama işlevi üzerinden değerlendirilebilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Kemerin çevreleyen yapısını benlik bütünlüğü ve parçaları bir arada tutma metaforuyla ilişkilendirir; çözüldüğünde serbestleşme temaları öne çıkabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek (modern aktarım)",
+      "interpretation": "Çevrimiçi aktarımlarda kemer, mal, çeyiz, yolculuk ve sorumluluk ekseninde yorumlanır; klasik kaynak doğrulaması sınırlıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Kutsal Kitap bağlamında kemer, hazır olma, doğruluk ve ruhsal donanım imgeleriyle ilişkilendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Kişisel disiplin, sınır koyma ve koruma temaları üzerinden sembolik okuma yapar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Kemerin fiziksel işlevi—bele sarılması, bağlama ve gerektiğinde destek verme—çeşitli yorumlarda ortak bir başlangıç noktası sağlar. Bu somut özellik, rüyalarda kontrol, sınırların korunması, sorumlulukların taşınması ve toplumsal rol göstergeleri gibi daha spesifik temalara atıf yapmayı mümkün kılar; yine de yorum her zaman rüyanın duygusal tonu ve bağlamıyla sınanmalıdır.",
+  "differences": "Yaklaşımlar arasındaki fark, odaklanan düzeydedir: bilimsel psikoloji rüyanın duygulanımı ve anlatısına öncelik verirken, psikanalitik ve Jungcu okumalar kemerin bağlama/bağlayıcılık işlevini içsel dinamiklerin simgesi olarak genişletebilir. Geleneksel dinî yorumlar ise kemeri sıkça toplumsal roller, mal ve sorumlulukla ilişkilendirir; bu bağlantılar kaynakların modern/ikincil doğası nedeniyle dikkatle ele alınmalıdır.",
+  "inusAssessment": "Kemer rüyası, uyuyan kişinin yaşamındaki kontrol, sınır koyma ve sorumluluk taşıma biçimlerine dair olası bir ipucu sunar: fiziksel sıkılık kronik baskı hissine, gevşeme veya kopma ise destek mekanizmalarında çözülmeye işaret edebilir. Ancak bu, tek başına bir nedeni belirlemez; rüyanın duygusal tonu, olay dizisi ve uyuyan kişinin yaşam koşullarıyla birlikte değerlendirilmelidir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "DreamResearch.net: The content of dreams (Domhoff, 2005)",
+      "relevance": "Rüya içerik analizinde nesnelere sabit anlamlar atamanın sınırlılıklarını ve duygulanım ile bağlamın önemini açıklıyor; bu, kemer yorumunda bağlam odaklı yaklaşımı destekler.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2005a.html"
+    },
+    {
+      "title": "[PDF] The Neurocognitive Theory of Dreaming",
+      "relevance": "Rüyalarda duygulanımın yaygınlığını ve yorumda duygunun belirleyiciliğini vurguluyor; kemer analizinde duygusal tonun önemini destekleyen bir kaynak.",
+      "url": "https://dreams.ucsc.edu/NCTD/Neurocognitive%20Theory%20of%20Dreaming%20(Domhoff%202022).pdf"
+    },
+    {
+      "title": "Key of Dreams and Psychoanalysis",
+      "relevance": "Psikanalitik çerçevede giysi ve beden aksesuarlarının rüyalarda sansürlenmiş istek veya dürtülerle ilişkilendirilebileceğini ortaya koyuyor; kemerin beden çevresindeki konumu açısından dolaylı bir temel sağlar.",
+      "url": "https://www.freudfile.org/psychoanalysis/key_of_dreams.html"
+    },
+    {
+      "title": "SE 15.pdf",
+      "relevance": "Rüya sembollerinin beden ve cinsellik ekseninde nasıl düşünüldüğüne dair genel sembolizm tartışması.",
+      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149-169.pdf"
+    },
+    {
+      "title": "Dream About a Belt: Meaning & Interpretation | Revalite",
+      "relevance": "Kemerin çözülmesi/gevşetilmesi üzerinden serbestleşme ve içsel kısıtların azalması temasını Jungcu bir dille ele alan sayfa.",
+      "url": "https://my.astrofame.com/dream-interpretation/dream/belt/"
+    },
+    {
+      "title": "Belt Dream Meaning & Interpretation - Mirror",
+      "relevance": "Kemerin dairesel formunu bütünlük ve kendilik çağrışımlarıyla ilişkilendiren Jungcu yorum sunan sayfa.",
+      "url": "https://mirrorwithin.org/dream-dictionary/belt/"
+    },
+    {
+      "title": "6. Get in the Zōnē: Examining Belts in Ancient Greece",
+      "relevance": "Antik Yunan bağlamında kemerin statü, kimlik ve cinsiyet rolleriyle bağlantısını anlatarak, kemerin sosyal anlam çağrışımlarına tarihsel arka plan sağlar.",
+      "url": "https://ecampusontario.pressbooks.pub/dressandadornmentancientgreece/chapter/belts/"
+    },
+    {
+      "title": "EVOLUTION OF BELTS FROM BRONZE AGE TO ...",
+      "relevance": "Eski toplumlarda kemerin statü, konum, askerî ve dinsel anlamlar taşıdığına dair genel tarihsel çerçeve sunar.",
+      "url": "https://www.granthaalayahpublication.org/Arts-Journal/ShodhKosh/article/download/1072/978/9530"
+    },
+    {
+      "title": "Belts and Pins as Gendered Elements of Clothing in Third and Second millennia Mesopotamia",
+      "relevance": "Mezopotamya’da kemerin erkeklik ve iktidar ile bağlantısını ele alır.",
+      "url": "https://hal.science/hal-03088839/document"
+    },
+    {
+      "title": "[PDF] The Belt in Prehistoric Central Tyrrhenian Italy",
+      "relevance": "Antik İtalya’da kemerin pratik işleviyle birlikte sembolik anlamlar da taşıdığını gösterir.",
+      "url": "http://www.sarks.fi/masf/masf_2/SLT_03_Lipkin.pdf"
+    },
+    {
+      "title": "·316",
+      "relevance": "Roma askerî kültüründe kemerin rütbe ve askerî kimlik işareti olduğunu açıklar.",
+      "url": "https://a-r-m-e-s.org/wp-content/uploads/2023/08/17-317-326-Hoss.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorumu geleneğine tarihsel bağlam sunuyor; Artemidoros çevirisinde kemer için doğrudan bir madde bulunmaması, klasik bir sözlük maddesinin eksikliğini göstermeye yardımcı olur.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Belt Islamic Interpretations & Meanings",
+      "relevance": "Modern İslami rüya aktarımlarında kemerin yolculuk, para birikimi, çeyiz ve sorumluluk gibi temalarla ilişkilendirildiğine dair örnekler sunuyor; klasik metin doğrulaması sınırlıdır.",
+      "url": "https://www.myislamicdream.com/belt.html"
+    },
+    {
+      "title": "Rüyada Kemer Görmek Ne Anlama Gelir?",
+      "relevance": "Kemerin çeyiz, zinet, mal, evlat ve uzun ömürle ilişkilendirildiği Türkçe modern rüya tabiri sayfası.",
+      "url": "https://www.diyadinnet.com/ruyada-6176-kemer-gormek"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri K Harfi - Muhammed.net",
+      "relevance": "Kemerin çeyiz, çocuk sahibi olma, hizmetçi, zinet ve mal ile ilişkilendirildiğini belirten bir aktarım örneğidir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
+    },
+    {
+      "title": "Topical Bible: Belt",
+      "relevance": "Kutsal Kitap bağlamında kemer imgelerinin hazır olma, doğruluk ve ruhsal donanım temasını nasıl taşıdığını özetliyor; Hristiyan okumalara referans sağlar.",
+      "url": "https://biblehub.com/topical/b/belt.htm"
+    },
+    {
+      "title": "Girdle, Apron, Belt – Word Study - New Church Society Sites",
+      "relevance": "Kemerin, dışsal öğeleri birleştiren ve amaçta bütünlük sağlayan bir bağlama simgesi olarak ele alınması.",
+      "url": "https://societies.newchurch.org/wordstudy/bible-keywords/girdle-apron-belt/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyalar bölümü ve rüyaların tövbe ile ilişkisi.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 55b | The Sefaria Library",
+      "relevance": "Berakhot 55b metninin erişimi; rüyalar pasajının birincil Talmud metni.",
+      "url": "https://www.sefaria.org/Berakhot.55b"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Babylonian Talmud Berakhot 55a–57b’nin Yahudi rüya literatüründeki merkezi yeri ve rüya yorumunun içerikle ilişkisi.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Yahudi gelenekte rüyaların bazılarının anlamlı, bazılarının önemsiz sayılması ve olumlu yorum geleneği.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Belt in Dreams: Control, Boundaries, Support, and Change",
+      "relevance": "Kemeri rüya bağlamında kontrol, sınır, destek, değişim ve spiritüel adanmışlıkla ilişkilendiren modern bir yorum sayfası.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/belt"
+    },
+    {
+      "title": "Belt in Dreams: Meaning & Symbolism",
+      "relevance": "Kemeri kontrol, yapı, sınırlama ve hazırlık temalarıyla açıklayan modern bir rüya yorumu metni.",
+      "url": "https://tarotreveal.com/dreams/belt/"
+    },
+    {
+      "title": "Belt - dreamtation.com",
+      "relevance": "Kemeri spiritüel düzlemde güç, bilgelik, adalet, sadakat ve hakikat ile ilişkilendiren kısa bir esoterik özet sunuyor.",
+      "url": "http://www.dreamtation.com/docs/1054.htm"
+    },
+    {
+      "title": "Belt in Dreams — Islamic Interpretation & Meaning",
+      "relevance": "Kemeri spiritüel bağlamda sorumluluk taşıma, yolculuk, bilgiye özen ve mal/mülk temalarıyla ilişkilendiren bir rüya yorumu metni.",
+      "url": "https://www.dream-wisdom.com/en/dreams/belt/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian"
+  ]
+}

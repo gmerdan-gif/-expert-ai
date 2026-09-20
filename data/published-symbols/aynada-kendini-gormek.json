@@ -1,0 +1,210 @@
+{
+  "slug": "aynada-kendini-gormek",
+  "title": "aynada kendini görmek",
+  "shortDescription": "Rüyada aynada kendini görmek, kendinizi nasıl gördüğünüzü ve iç dünyanızı daha dürüstçe değerlendirme ihtiyacını simgeler. Aynadaki görüntünün net, bulanık ya da kırık olması, bu yüzleşmenin ne kadar açık veya zorlayıcı hissettirdiğine işaret edebilir.",
+  "positiveAssociations": [
+    "Öz farkındalık ve içgörü",
+    "Kişisel bütünleşme ve netleşme",
+    "Ahlaki dürüstlük ve iç muhasebe",
+    "Evlilik ve çocuk beklentisi (tarihsel bağlamda)"
+  ],
+  "challengingAssociations": [
+    "Pişmanlık ve geçmişle yüzleşmenin yükü",
+    "Narsisistik çatışmalar ve benlik kaygısı",
+    "Parçalanmış kimlik veya korku",
+    "Fanilik ve bilinmeyenle karşılaşma gerilimi"
+  ],
+  "contextDependentAssociations": [
+    "Aynanın temiz, kırık veya bulutlu oluşuna göre değişen anlamlar",
+    "Görüntünün netliği ile psikolojik örgütlenme düzeyi arasındaki ilişki",
+    "Kişinin rüya anındaki duygusal tonu, yorumun yönünü belirler."
+  ],
+  "commonVariations": [
+    {
+      "title": "Berrak Ayna",
+      "description": "Aynadaki yansımanın net ve temiz olması, rüya görenin içsel dünyasıyla uyumlu olduğunu ve öz farkındalık ile zihinsel bütünlüğün görece yüksek olabileceğini gösterir."
+    },
+    {
+      "title": "Kırık Ayna",
+      "description": "Aynanın kırık veya parçalanmış olması, benlik algısında parçalanma, içsel çatışma veya bütünleşme sürecindeki zorlukları simgeleyebilir."
+    },
+    {
+      "title": "Bulanık/Kirli Ayna",
+      "description": "Yansımanın belirsiz ya da kirli görünmesi, kişinin kendi gerçeğini net görememesi, kimlik belirsizlikleri veya içsel muhasebe ihtiyacıyla ilişkili olarak okunabilir."
+    },
+    {
+      "title": "Yabancı Görüntü",
+      "description": "Aynada kendisinden farklı bir yüz veya tanıdık olmayan bir suret görmek, bilinçdışının gölge yönleriyle karşılaşma, ego ile içsel öteki arasındaki yabancılaşma ya da kimlik dönüşümüne işaret edebilir."
+    }
+  ],
+  "psychology": "Klinik gözlemler, rüyalardaki aynanın durumunun (örneğin netlik veya bozulma) rüya görenin psikolojik örgütlenme düzeyi, kaygı ve benlik imgesi bütünlüğüyle ilişkili olabileceğini gösterir. Sağlam ve net aynalar yaratıcı bütünleşme süreçleriyle ilişkilendirilirken kırık, bozuk veya yansıtmayan aynalar daha fazla korku ve parçalanma hissiyle ilişkilendirilmiştir.",
+  "jungian": "Jungcu analitik psikolojide ayna, ego bilincine nesnel veya beklenmedik bir geri yansıtma sunan bir simge olarak değerlendirilir. Rüyada aynada kendini görmek gölgeyle karşılaşma, benliğin parçalarını fark etme ve bilinçdışının egoya sunduğu yeni perspektiflerin açığa çıkması bağlamında ele alınır. Anlam ise rüyanın bağlamı ve görüntünün niteliğine göre değişir.",
+  "islamicTradition": "Çağdaş İslami rüya yorumlarında ve çevrimiçi aktarılarda, kendini aynada görmek bazen kişinin davranışlarıyla yüzleşmesi, pişmanlık ve iç muhasebe ekseninde yorumlanır; bazı popüler aktarılarda ise 'ömrün uzaması' veya evlilik ve çocukla ilişkilendirilen geleneksel motifler bulunur. Bu yorumlar klasik metinlerin çağdaş aktarımları olarak değerlendirilmelidir.",
+  "christianTraditions": "Erken Hristiyan düşüncesinde bazı kaynaklar rüyaların ruhun durumunu yansıtabileceğini, rüyayı iç ve dış benliğin bir tür aynası olarak görebileceğini öne sürer; bu bağlamda ayna imgesi öz-değerlendirme ve ruhsal durumun görünürleşmesi temalarıyla ilişkilendirilir.",
+  "jewishTraditions": "Yahudi düşünce ve Talmudik çerçevede rüyalar, kişiyi tövbeye ve ahlaki dönüşüme yönelten işlevleri bakımından ele alınır. İbranice 'mar’ah' kavramının görüntü ve ayna anlamı, aynada kendini görme temasını kişinin dürüst muhasebesi ve hakikatle yüzleşmesi ekseninde okumaya elverişli kılar.",
+  "buddhistEasternApproaches": "Hint ve bazı doğu felsefi kaynaklarında ayna benzetmesi, öz ve görünüş arasındaki ilişkiyi açıklamak için kullanılır; rüyada kendini görme teması doğrudan bir rüya yorumu sağlamasa da benlik illüzyonu ve gerçeklik ayrımı çerçevesinde sembolik bir zemin sunar.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel yorumlarda aynada kendini görmek, öz farkındalık, benlik imgesiyle yüzleşme ve içsel dönüşüm çağrısı olarak ele alınır. Görüntünün berraklığı veya bozulması, kişinin kendini nasıl algıladığına dair simgesel bir ipucu olarak yorumlanır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Aynanın durumunun (net/kırık) rüya görenin psikolojik örgütlenme düzeyi ve bütünleşme çabasını gösterme olasılığı.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Ayna, bilinçdışının egoya geriye yansıtma işlevi görür; gölgeyle karşılaşma ve kimlik bütünleşmesi bağlamında okunur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel / Dini Yorumlar",
+      "interpretation": "İç muhasebe, pişmanlık, bazen evlilik veya çocuk beklentisi gibi kültürel-tarihsel çağrışımlarla ilişkilendirilen geleneksel okumalar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Öz imgesi, hakikatle yüzleşme ve içsel dönüşüm bağlamında kimliğin yeniden değerlendirilmesine işaret eder.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli disiplinler ve gelenekler, aynada kendini görme temasının kişinin kendi iç dünyasına, öz algısına ve hakikatine dönük bir yüzleşme içerdiği konusunda ortak bir zemine sahiptir.",
+  "differences": "Bilimsel ve analitik yaklaşımlar bu temayı bilişsel örgütlenme, ego sınırları ve bilinçdışı dinamikleri üzerinden değerlendirirken, geleneksel ve spiritüel görüşler daha çok ahlaki muhasebe, tövbe, evlilik veya çocuk beklentisi ya da ruhsal arınma çağrışımları üzerinden yorumlar.",
+  "inusAssessment": "Aynada kendini görmek, sembolik olarak rüya görenin öz algısını ve benlikle kurduğu mesafeyi merkeze alır. Bu sembolün olası işlevi, aynanın niteliği (berraklık, kırık, bulanıklık) ve rüya anındaki duygusal tonla yakından bağlantılıdır. Tek başına belirleyici bir anlam çıkarılmamalıdır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dream Mirrors - PubMed",
+      "relevance": "Rüyalardaki aynaların görünümünün psikolojik örgütlenme, korku ve bütünleşme düzeyiyle ilişkisini bildiren klinik gözlem çalışması.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/840955/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyaların sıklıkla rüya görenin kendisine döndüğünü ve benlik-odaklı okumaların psikanalitik temellerini sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "CHAPTER 5",
+      "relevance": "Aynalama ve kendilik saygısı ile narsisistik yapılanma arasındaki bağlantıları tartışan psikanalitik metin.",
+      "url": "http://insight.org.ro/wp-content/uploads/2017/08/Types-of-mirror-transference.pdf"
+    },
+    {
+      "title": "Mirror Stage - Learn Lacan",
+      "relevance": "Ayna evresi kuramı bağlamında aynanın benlik kuruluşu, özdeşleşme ve yanlış tanıma ile ilişkisini ele alır.",
+      "url": "https://www.learnlacan.com/concepts/mirror-stage"
+    },
+    {
+      "title": "The \"Subject\" of Dreams - The Jung Page",
+      "relevance": "Rüyalarda yansıtma ve içsel öteki kavramlarını Jungcu perspektifle tartışır; ayna benzetmesini rüya hermenötiğine yerleştirir.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/242-the-qsubjectq-of-dreams"
+    },
+    {
+      "title": "Self-Boundaries In Dreams - The Jung Page",
+      "relevance": "Rüyadaki benlik sınırlarını ayna benzetmesiyle açıklar; rüyanın benlik imgesini geri vermesi ve dönüştürmesi temasına değinir.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/108-self-boundaries-in-dreams"
+    },
+    {
+      "title": "[PDF] Archetypal-Imaging and Mirror-Gazing - Semantic Scholar",
+      "relevance": "Jungcu ayna imgelerini ve bilinçdışıyla ilişkilerini inceleyen akademik metinlere erişim sağlar.",
+      "url": "https://pdfs.semanticscholar.org/41a6/d10ed0fd7619afc1c5682e2197f9ed962dfc.pdf"
+    },
+    {
+      "title": "Quote by C.G. Jung: “In dreams a mirror can symbolize the ...",
+      "relevance": "Jung’a atfedilen kısa alıntı, rüyadaki aynanın bilinçdışının kişiye kendisini nesnel biçimde gösterme gücünü simgeleyebileceğini ifade eder.",
+      "url": "https://www.goodreads.com/quotes/11817642-in-dreams-a-mirror-can-symbolize-the-power-of-the"
+    },
+    {
+      "title": "The Interpretation of Dreams by Artemidorus",
+      "relevance": "Tarihsel oneirokritik aktarımda, aynada kendi yansımasını görmenin evlilik, çocuk veya hastalık bağlamında farklı yorumlandığı örnekler içerir.",
+      "url": "https://cdn.bookey.app/files/pdf/book/en/the-interpretation-of-dreams-by-artemidorus.pdf"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’un rüya sembollerinde aynanın kadın veya eş çağrışımıyla yer aldığını tartışan akademik inceleme.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Rüyada Ayna Görmek Ne Demek? Aynanın Kırılması (Kırık Ayna) Ne Anlama Gelir?",
+      "relevance": "Kendini aynada görmeyi ömrün uzamasıyla ve aynaya bakarak kendi yüzünü görmeyi evlenme ya da çocukla ilişkilendiren çevrimiçi rüya tabiri özeti.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-ayna-gormek-ne-anlama-gelir-25306"
+    },
+    {
+      "title": "Rüyada Ayna Görmek Ne Anlama Gelir? Rüyada Aynaya Bakmak Anlamı",
+      "relevance": "Rüyada kişinin kendini aynada görmesini pişmanlık, zarar görme ve kendiyle yüzleşme ekseninde açıklayan güncel bir yorum metni.",
+      "url": "https://www.hurriyet.com.tr/mahmure/ruya-tabirleri/ruyada-ayna-gormek-ne-anlama-gelir-ruyada-aynaya-bakmak-anlami-41480354"
+    },
+    {
+      "title": "[PDF] Doctoral Thesis - ERA",
+      "relevance": "Erken Hristiyan rüya düşüncesinde rüyaların ruhun durumunu yansıtabilmesi ve benliğin iç-dış yönlerini ayna gibi gösterebilmesi üzerine tarihsel bağlam sunan akademik çalışma.",
+      "url": "https://era.ed.ac.uk/server/api/core/bitstreams/c52021c2-a434-4422-ad59-4122288fb573/content"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Talmudik çerçevede rüyaların yorumunun önemi ve rüyanın tövbeye yöneltme işlevi hakkında bilgi sağlar; aynadaki yüzleşme temasıyla ilişkilendirilebilir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "On Dreams and Prophecy | My Jewish Learning",
+      "relevance": "Ayna anlam alanını taşıyan mar’ah kavramını ve vahiyde yansıma/metafor ilişkisini açıklar; ayna sembolünün Yahudi düşüncesindeki yansıtıcı hakikat temasını gösterir.",
+      "url": "https://www.myjewishlearning.com/article/on-dreams-and-prophecy/"
+    },
+    {
+      "title": "Mirror, Mirror On the Wall | My Jewish Learning",
+      "relevance": "Aynaya bakma temasının Yahudi popüler-dini sembolizminde fanilik ve ölüm çağrışımlarıyla ilişkilendirilebildiğini aktarır.",
+      "url": "https://www.myjewishlearning.com/article/mirror-mirror-on-the-wall/"
+    },
+    {
+      "title": "Mirror Models of Consciousness in Early Sources and Indian ...",
+      "relevance": "Erken Hint kaynaklarında ayna benzetmelerinin benlik ve görünüş-gerçeklik ilişkisini ele alış biçimlerini tartışır.",
+      "url": "https://academic.oup.com/book/45783/chapter/400596755"
+    },
+    {
+      "title": "Mirror Symbolism — Self-Perception, Truth, and the Unfamiliar ...",
+      "relevance": "Aynanın hakikat, öz-izlenim ve kendini yüzleştirme temalarıyla ilişkilendirildiği çağdaş ezoterik/yorumlayıcı çerçeve.",
+      "url": "https://psysymbol.com/symbol/mirror.html"
+    },
+    {
+      "title": "Mirror Dreams: Meaning & Psychological Interpretation",
+      "relevance": "Rüya aynasında kendini görmenin öz-farkındalık, özdeşlik ve içsel hakikatle karşılaşma temalarıyla yorumlandığı modern spiritüel anlatım.",
+      "url": "https://somniscient.com/en/symbols/mirror"
+    },
+    {
+      "title": "Mirror in Dreams: Meaning & Symbolism | Somniary",
+      "relevance": "Aynayı benlik algısı, hakikat ve içsel yüzleşme sembolü olarak ele alan modern sembol sözlüğü.",
+      "url": "https://somniary.com/dream-library/symbols/mirror"
+    },
+    {
+      "title": "Spiritual Meanings Of Seeing Yourself In A Mirror In A Dream",
+      "relevance": "Rüyada aynada kendini görmeyi içsel yönlerle yüzleşme, bilinçdışı ve gizli yönlerin fark edilmesi şeklinde açıklayan modern spiritüel yorum.",
+      "url": "https://spiritualityessence.com/spiritual-meaning-of-seeing-yourself-in-a-mirror-in-a-dream/"
+    },
+    {
+      "title": "The Spiritual Science of Mirrors in Dreamwork",
+      "relevance": "Rüyalarda aynanın 'kalbin aynası' ve ilahî niteliklerin yansıması gibi tasavvufi bir sembolik okumasını sunan modern bir derlemedir.",
+      "url": "https://dreamstudies.org/spiritual-science-mirrors-dreaming/"
+    },
+    {
+      "title": "Mirror Self Dream Meaning - Interpret Your Dream!",
+      "relevance": "Rüya aynasında görülen görüntünün öz imgesi, kimlik ve benlik algısıyla ilişkili olarak yorumlandığını belirten modern bir ezoterik anlatımdır.",
+      "url": "https://mirrorwithin.com/dream-dictionary/mirror-self/"
+    },
+    {
+      "title": "Seeing Yourself - Dream Symbol Meaning and Interpretation",
+      "relevance": "Rüyada kendini görme temasını aynadaki yansıma üzerinden öz farkındalık ve içsel dengeyle ilişkilendiren modern bir sembol anlatımıdır.",
+      "url": "https://dreams.guide/dream-symbols/seeing-yourself"
+    },
+    {
+      "title": "Mirror Dream Meaning: Self-Reflection and Identity",
+      "relevance": "Aynayı benlik algısı, hakikat ve içsel yüzleşme bağlamında ele alan modern bir spiritüel anlatımdır.",
+      "url": "https://dreamalchemy.me/en/learn/symbols/mirror"
+    },
+    {
+      "title": "Reflection in dreams — meaning and symbolism",
+      "relevance": "Yansıma temasını öz-hakikat, bütünlük ve merkeze yeniden temas etme bağlamında açıklayan modern ezoterik sözlük.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/reflection"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "buddhist-eastern"
+  ]
+}

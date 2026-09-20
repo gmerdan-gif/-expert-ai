@@ -1,0 +1,231 @@
+{
+  "slug": "sayi-gormek",
+  "title": "Sayı görmek",
+  "shortDescription": "Rüyada sayı görmek, zaman, sıra, miktar ya da hayatınızdaki hedef ve sorumlulukları düzenleme ihtiyacını öne çıkarabilir. Belirli bir yaş, tarih veya tekrar eden sayılar kişisel bir anıyı ya da rüyada dikkat çeken bir konuyu; büyük ve belirsiz sayılar ise kapsam veya ölçüsüzlük hissini anlatabilir.",
+  "positiveAssociations": [
+    "Hayatın bir dönemini, hedefini veya görevini belirginleştirebilir; sayı genellikle tamamlanma veya bir hedefe işaret edebilir.",
+    "İşlerin sıraya konması, düzen ve organizasyon ihtiyacının sembolik ifadesi.",
+    "Tekrarlayan dizilerde dikkat çekme: rüyanın bir konuya vurgu yapması.",
+    "Bütünlük, döngü veya aşama atlama gibi dönüşümsel süreçlerin göstergesi; Jungcu okumaya göre."
+  ],
+  "challengingAssociations": [
+    "Tarihler, yaşlar veya sayılar üzerinden baskı, zaman baskısı hissi veya son tarih kaygısı.",
+    "Kendini nicel olarak azaltılmış hissetme—insanın ‘bir sayıya’ indirgenmesi kaygısı.",
+    "Aşırı hesaplama, kontrol veya mükemmeliyetçilik eğilimlerinin yansıması.",
+    "Sayıların tutarsız veya anlamsız görünmesi halinde zihinsel karışıklık ve belirsizlik hissi."
+  ],
+  "contextDependentAssociations": [
+    "Sayının tek bir rakam mı, belirli bir yaş/tarih/kilometre/para miktarı mı yoksa tekrar eden diziler halinde mi göründüğü.",
+    "Rakamın rüyada yazılı mı yoksa söylenmiş mi olduğu; örneğin saat, plaka veya kasa gibi nesnelerdeki sayılar.",
+    "Rüyanın duygusal tonu: sayı olumlu bir bağlamda mı (tamamlama), yoksa kaygı/çoğalma bağlamında mı sunuluyor.",
+    "Büyük sayılar veya belirsiz sayılar genellikle gerçek nicelikten çok metaforik 'kapsam' veya 'ölçüsüzlük' çağrıştırır."
+  ],
+  "commonVariations": [
+    {
+      "title": "Ardışık rakamları saymak",
+      "description": "Rüya sahibi hayatındaki işleri, tarihleri veya sorumlulukları sıraya koyma ve kontrol etme çabası içinde olabilir; sayma eylemi organizasyon ihtiyacına işaret eder."
+    },
+    {
+      "title": "Tekrarlayan sayı dizileri (ör. 111, 222)",
+      "description": "Modern spiritüel literatürde vurgu, eşzamanlılık veya mesaj olarak okunma eğilimindedir; psikolojik açıdan ise belirli bir konuya dikkat çekilmesinin göstergesi olabilir."
+    },
+    {
+      "title": "Belirli bir yaş veya tarih görmek",
+      "description": "Freudcu çerçevede genellikle gerçek bir yaş, tarih veya geçmiş bir olaya gönderme olabilir; rüya sahibinin kişisel çağrışımları belirleyici olur."
+    },
+    {
+      "title": "Çok büyük veya anlamsız sayılar",
+      "description": "Bunlar çoğu zaman gerçek bir niceliği değil, kapsam, ölçülemezlik veya bir durumun abartılı algısını ifade eden sayısal metaforlardır."
+    }
+  ],
+  "psychology": "Rüya içerik analizi literatürü, sayıların rüya raporlarında zaman, sıralama veya miktar gibi biçimsel öğeler olarak kodlanabileceğini gösterir; dolayısıyla rüyada sayıların görülmesi bazen rüya anlatısının yapısal bir unsuru (zaman göstergesi, sıra bildiren işaret) olabilir. Ampirik çalışmalarda esas soru ‘‘sayıların ne anlama geldiği’’ değil, sayıların nasıl raporlandığı ve hangi bağlamlarda öne çıktığıdır; bu nedenle sayıların yorumu rüya sahibinin kişisel çağrışımları ve rüyanın bağlamsal ayrıntılarına dayanmalıdır.",
+  "jungian": "Jungcu literatürde ve Marie‑Louise von Franz’ın çalışmalarında sayılar yalnızca aritmetik değerler olarak görülmez; psişede düzen kuran, kaotik izlenimler arasında yapı oluşturan ve dönüşümün aşamalarını simgeleyebilen imgeler olarak ele alınır. Bu çerçevede bir sayı, rüyanın bütününde bireyleşme veya bütünleşme süreçlerinin işaretçisi olarak okunabilir—ancak bu okuma da bağlam ve kişisel çağrışımlarla sınırlandırılmalıdır.",
+  "islamicTradition": "İslami rüya literatürünün modern derlemelerinde bazı sayılara (ör. 1, 7, 10 vb.) yönelik spesifik anlamlar aktarılır; ayrıca İbn Sîrîn çeviri-derlemelerinde sayma eylemi ve belirli rakamlara ulaşmanın çeşitli yorumları bulunur (ör. 10 için bir işi tamamlama ya da hac ile ilişkilendirme gibi). Bununla birlikte bu maddeler modern aktarım ve derlemeler üzerinden gelmekte olup, her zaman klasik metnin doğrudan ve değişmez bir yorumu olarak okunmamalıdır.",
+  "christianTraditions": "Hristiyan sayı sembolizmi genellikle Kutsal Kitap’taki sayısal örüntülere dayanır: örneğin 1 birlik, 3 Teslis, 7 tamamlanma, 12 düzen ve Tanrı halkı çağrışımları yapabilir. Rüyada sayı görmek bu çerçevede bazı geleneklerde teolojik veya eskatolojik imgelerle ilişkilendirilebilir; yine de tek bir sayının evrensel bir rüya yorumu olduğu sonucuna varmak uygun değildir.",
+  "jewishTraditions": "Yahudi gelenekte sayılar tarihî ve metinsel bağlamlarda anlam taşır; Talmudik kaynaklarda rüyaların yorumlanabilirliği ve tekrarlayan rüyaların önemi vurgulanır. Dolayısıyla sayı içeren rüyalar bağlama göre düzen, vurgu veya sembolik değer taşıyabilir; fakat belirli bir sayının tek ve sabit bir anlamı olarak sunulması sınırlıdır.",
+  "buddhistEasternApproaches": "Budist kaynaklarda sayılar öğretisel veya zihinsel işlevlerle ilişkilendirilebilir; özellikle çok büyük sayılar çoğu zaman gerçek bir nicelikten ziyade öğretinin kapsamını veya kurtuluş yolunun genişliğini ifade eden 'sayısal metafor' olarak kullanılır. Rüya bağlamında bu, sayının gerçek bir hesaplama değil, bir ölçü/sınır veya kapsam göstergesi olduğu anlamına gelebilir.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel okumalarda rüyada sayı görmek düzen, örüntü, işaret veya eşzamanlılık çağrışımlarıyla yorumlanır. Tekil rakamların geleneksel numerolojik çağrışımları (ör. 0 bütünlük, 1 başlangıç, 7 tamamlanma) aktarılırken; tekrar eden diziler çoğunlukla vurgulanmış bir mesaj veya sinyal olarak okunur. Bu yaklaşımlar yorumlarını bağlama ve bireyin inançına göre şekillendirir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Rüyalarda sayılar çoğunlukla yaş, tarih veya kişisel olayların yoğunlaşmış izlerini taşır; sayının analizi kişisel çağrışımlarla yapılmalıdır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Sayılar bilinçdışının düzen kurucu sembolleri olarak okunur; düzen, bütünleşme ve dönüşüm süreçlerine işaret edebilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel / Dini Yaklaşım",
+      "interpretation": "Bazı dini geleneklerde belirli sayılar ritüel, teolojik veya kültürel anlamlarla ilişkilendirilir; rüya bağlamında bu atıflar dikkatle değerlendirilmeli ve bağlama göre sınırlandırılmalıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Okuma",
+      "interpretation": "Tekrarlayan sayılar ve belirli rakamlar genellikle işaret, eşzamanlılık veya kişisel mesaj olarak yorumlanır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli disiplinler ve gelenekler, rüyada görülen sayıların salt aritmetik veri olmadığını; zaman, sıra, ölçü veya vurgu işlevleriyle birlikte kişisel ve kültürel çağrışımlar taşıyabileceği konusunda birleşir.",
+  "differences": "Psikanaliz sayıları bireyin yaşamındaki somut tarihler, yaşlar veya anılarla ilişkilendirirken; Jungcu yaklaşım onları psişik düzen ve dönüşümle bağlantılı semboller olarak görür. Dini gelenekler belirli sayılara ritüel veya doktrinsel anlam atfetmeye eğilimli iken, modern spiritüel okumalar tekrarlayan dizileri eşzamanlılık veya mesaj olarak yorumlama eğilimindedir.",
+  "inusAssessment": "Rüyada sayı görmek için tek bir neden veya anlam gösterilemez; sayı çoğu zaman rüyanın biçimsel bir öğesi olarak (zaman, sıra, miktar) çalışır ve aynı zamanda kişisel çağrışımlar —ör. belli bir yaş, tarih veya hesaplama— üzerinden özel anlam kazanır. Tekil rakamların tekrar etmesi rüya içindeki önemini artırır; büyük ya da belirsiz sayılar ise genellikle metaforik bir genişlik veya ölçüsüzlük hissi taşır. Bu unsurlar birlikte değerlendirildiğinde, sayının nasıl sunulduğu ve rüyanın duygusal tonu yorum için en belirleyici faktörlerdir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin sayıların rüya anlatısında zaman, sıra veya nicelik gibi biçimsel öğeler olarak kodlanabileceğini ve bu bağlamda sayma/nicelik unsurlarının sistematik olarak incelenebileceğini gösteren çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/474"
+    },
+    {
+      "title": "The Language of Dreams: Application of Linguistics-Based ... - PMC",
+      "relevance": "Rüya anlatılarının dilsel ve nicel özelliklerini inceleyerek, rüyalarda geçen sayıların raporlanma biçiminin ve metinsel işlevinin değerlendirilmesi için yöntemsel bir dayanak sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8482230/"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Freud'un rüyalardaki sayıların çoğu kez yaş, tarih veya kişisel olaylara gönderme yaptığı ve sayı sembolizmine temkinli yaklaşılması gerektiği yönündeki gözlemlerini içeren bölüm; sayının kişisel çağrışımlarla analiz edilmesi gerektiğini vurgular.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud'un sayılar için evrensel bir sözlükten kaçınılması gerektiğini belirttiği bölüm; sayıların yalnızca tekil vakalarda anlam kazandığına dair tezi destekler.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "An Introduction to Marie-Louise von Franz’s Number and Time",
+      "relevance": "Marie‑Louise von Franz ve Jungcu perspektifinden sayı sembolizmini düzenleyici ve dönüşümle ilişkili imgeler olarak ele alan çalışma; rüyalarda sayının psikolojik işlevine dair Jungcu çerçeve sağlar.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00332925.2018.1536584"
+    },
+    {
+      "title": "Dreams: (From Volumes 4, 8, 12, and 16 of the Collected Works of C. G. Jung) [With a New foreword by Sonu Shamdasani ed.] 9781400839148 - DOKUMEN.PUB",
+      "relevance": "Jung’un sayı düşleri üzerine derlenen metin, rüyadaki sayıların bilinçdışındaki sayı sembolizmiyle ilişkisini doğrudan tartışır.",
+      "url": "https://dokumen.pub/dreams-from-volumes-4-8-12-and-16-of-the-collected-works-of-c-g-jung-with-a-new-foreword-by-sonu-shamdasaninbsped-9781400839148.html"
+    },
+    {
+      "title": "Jung on Numbers - Jungian Center for the Spiritual Sciences",
+      "relevance": "Jung'un sayı düşleri üzerine derlemelerden hareketle sayıların psişik düzen, bireyleşme ve dönüşüm süreçleriyle ilişkisini özetler; sayıların rüyada düzen kurucu rolünü vurgular.",
+      "url": "https://jungiancenter.org/jung-on-numbers/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritik geleneğin bağlamsal yorum yaklaşımını göstererek, soyut öğeler (ör. sayılar) için tekil ve evrensel hükümlerin yerine rüyanın bütününe bakılmasının önemini vurgulayan kaynak.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "[PDF] Toward a Demography of Dreamers in Artemidorus' Oneirocritica",
+      "relevance": "Artemidorus’un Oneirocritica’sındaki rüya örneklerinin kapsamını ve vaka-temelli yapıyı gösterir.",
+      "url": "https://camws.org/sites/default/files/meeting2015/Abstracts2015/040.Artemidorus.pdf"
+    },
+    {
+      "title": "ARTEMIDORUS´ ONEIROCRITICA. DREAM ANALYSIS IN ...",
+      "relevance": "Artemidorus’un yorum yönteminde bağlam, rüya sahibinin konumu ve yerel adetlerin rolünü açıklar.",
+      "url": "https://drvidalis.gr/wp-content/uploads/2016/08/080709203649.pdf"
+    },
+    {
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual",
+      "relevance": "Artemidorus’un rüya el kitabını antik bir oneirokritik gelenek içinde konumlandırır.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792"
+    },
+    {
+      "title": "تفسير رؤية الأعداد في المنام لابن سيرين والنابلسي وابن شاهين والإمام الصادق - موقع المرجع",
+      "relevance": "Sayıların rüyada tek tek nasıl yorumlandığını derleyen modern bir İslami rüya tabiri aktarımı sunar.",
+      "url": "https://almrj3.com/interpretation-of-seeing-numbers-in-a-dream-by-ibn-sirin/"
+    },
+    {
+      "title": "Ibn Seerin's Dictionary of Dreams",
+      "relevance": "İslami rüya tabiri geleneğinde sayma eylemi ve belirli rakamların yorumlarına ilişkin derleme örnekleri sunar; modern aktarımda bazı sayıların tamamlanma, zafer veya zorluk gibi temalarla ilişkilendirildiğini gösterir (klasik metin aktarımı olarak dikkatle değerlendirilmelidir).",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Number Islamic Interpretations & Meanings",
+      "relevance": "Sayıların tek tek sembolik anlamlarını ve sayma eyleminin yorumunu derleyen bir çevrimiçi İslami rüya tabiri kaynağı.",
+      "url": "https://www.myislamicdream.com/number.html"
+    },
+    {
+      "title": "Meaning of numbers in Scripture and dreams",
+      "relevance": "Kutsal Kitap’taki sayısal örüntülere dayalı Hristiyan sayı sembolizmini özetleyen çevrimiçi bir derleme; 1, 3, 7 ve 12 gibi sayıların teolojik çağrışımlarını verir.",
+      "url": "https://nietzenwriterhome.wordpress.com/meaning-of-numbers-in-dreams/"
+    },
+    {
+      "title": "Numbers – Dream Symbols Dictionary - Apostle David E ...",
+      "relevance": "Sayıların Hristiyan sembolik anlamlarını kısa biçimde listeleyen bir rüya sözlüğü; 1 ve 12 gibi sayıların birlik, başlangıç ve Tanrı halkı ile bağlantısını verir.",
+      "url": "https://joshuamediaministries.org/dream-interpretation/dream-symbols-dictionary/numbers/"
+    },
+    {
+      "title": "Biblical meaning of numbers in dreams",
+      "relevance": "Hristiyan sayı yorumunda sayının çevresindeki semboller, renkler ve bütün rüya kurgusuyla birlikte ele alınması gerektiğini vurgulayan modern bir yazı.",
+      "url": "https://heavensdreammessages.com/dream-symbols-numbers/"
+    },
+    {
+      "title": "NUMBERS AND NUMERALS - JewishEncyclopedia.com",
+      "relevance": "Yahudi düşüncesinde sayıların tarihsel ve metinsel bağlamlarda nasıl anlam taşıdığına dair arka plan sunar; rüyalarda sayıların sembolik çağrışımlarının kültürel zemini hakkında bilgi verir.",
+      "url": "https://www.jewishencyclopedia.com/articles/11619-numbers-and-numerals"
+    },
+    {
+      "title": "Meaning in the Details: Talmudic Numbers | Yeshivat Har Etzion",
+      "relevance": "Talmudik ve biblikal gelenekte bazı sayıların sembolik işlevler taşıdığını açıklar; sayıların metinsel anlam üretimindeki yerini gösterir.",
+      "url": "https://www.etzion.org.il/en/talmud/studies-gemara/midrash-and-aggada/meaning-details-talmudic-numbers"
+    },
+    {
+      "title": "Dreams in the Talmud 1: Brachot 55",
+      "relevance": "Berakhot 55b’de rüyaların yorumlanabilirliği ve tekrar eden rüyaların önemi hakkında Talmud pasajını görünür kılar; rüya yorumuna yönelik rabbanî çerçeveyi destekler.",
+      "url": "https://www.sefaria.org/sheets/222313"
+    },
+    {
+      "title": "Buddhist numerology | Sujato's Blog - WordPress.com",
+      "relevance": "Budist sayılar üzerine öğretisel ve sembolik bir çerçeve sunar; sayıların Budist düşüncede zihinsel ve yapısal işlevini anlamak için kullanışlıdır.",
+      "url": "https://sujato.wordpress.com/2010/04/15/buddhist-numerology/"
+    },
+    {
+      "title": "불교 숫자의 상징성 고찰 ― ‘4’와 ‘7’을 중심으로 ―",
+      "relevance": "Budist sayı sembolizmini, özellikle 4 ve 7 üzerinden, Budist dünya görüşü ve uygulama bağlamında tartışan akademik bir çalışmadır.",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001349016"
+    },
+    {
+      "title": "Gandavyuha Sutra - Madhyamaka",
+      "relevance": "Gaṇḍavyūha Sūtra’daki uzun sayı dizilerini Budist kozmoloji ve bodhisattva idealinin ölçülemezliği bağlamında gösterir.",
+      "url": "https://madhyamaka.com/2021-10-30-gandavyuha-sutra/"
+    },
+    {
+      "title": "[PDF] Between One and Many: Multiples, Multiplication and the Huayan ...",
+      "relevance": "Budist metinlerde büyük sayıların ‘sayısal metafor’ olarak işleyebildiğini ve nicelikten çok sembolik genişlik anlattığını açıklar.",
+      "url": "https://www.thebritishacademy.ac.uk/documents/1955/pba181p205.pdf"
+    },
+    {
+      "title": "What It Means When You See Numbers In Your Dreams",
+      "relevance": "Rüyalarda sayıları, özellikle 0’ı, döngüsellik, sonsuzluk ve bütünlük temalarıyla ilişkilendiren modern spiritüel yorum sunar.",
+      "url": "https://www.yourtango.com/self/spiritual-meaning-numbers-dreams"
+    },
+    {
+      "title": "Dream Moods Dream Themes: Numbers",
+      "relevance": "Rüya sayıları için 0’dan 9’a kadar sembolik karşılıklar ve tekrar eden sayı dizileri üzerine modern numerolojik/spiritüel okuma verir.",
+      "url": "https://www.dreammoods.com/dreamthemes/numbers-dream-symbols.htm"
+    },
+    {
+      "title": "Dream About Number — Meaning, Interpretation & Symbolism ...",
+      "relevance": "Rüyada sayı görülmesini spiritüel mesajlar ve numerolojik anlamlarla açıklayan çağdaş bir yorum çerçevesi sunar; tekrar eden sayıları da ele alır.",
+      "url": "https://www.astroformer.com/blog/dream-meaning/number"
+    },
+    {
+      "title": "Number - Dream Symbol Meaning and Interpretation",
+      "relevance": "Sayı rüyalarını düzen, ölçü, örüntü ve sembolik anlam ekseninde tartışan modern bir yorum sayfasıdır.",
+      "url": "https://dreams.guide/dream-symbols/number"
+    },
+    {
+      "title": "Number Dreams: Meanings, Psychology, and Cultural Lenses",
+      "relevance": "Sayıların rüyada çoğu zaman ölçü, sınır ve örüntüleri işaret ettiğini söyleyen çağdaş yorum kaynağıdır.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/number"
+    },
+    {
+      "title": "🔢 Dream Meaning: Seeing Numbers in a Dream | Panchang & Prosper",
+      "relevance": "Rüyada sayıların belirli zaman, karar ve gizli anlamlarla ilişkilendirilebileceğini savunan modern spiritüel yorum sunar.",
+      "url": "https://panchang.org/seeing-numbers-in-a-dream/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
+  ]
+}

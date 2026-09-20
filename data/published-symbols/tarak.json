@@ -1,0 +1,256 @@
+{
+  "slug": "tarak",
+  "title": "tarak",
+  "shortDescription": "Rüyada tarak görmek, hayatınızdaki dağınıklığı toparlama ve zihinsel ya da duygusal karmaşayı çözme ihtiyacını simgeler. Saç taramak hazırlık ve dış görünüşle ilgilenmeyi, kırık tarak ise işlerin aksamasını veya kontrol kaybı hissini gösterebilir.",
+  "positiveAssociations": [
+    "Düzen ve toparlama",
+    "Bakım ve görünürlük",
+    "Arınma ve hazırlık",
+    "Karışıklığı çözme",
+    "İşlerin yoluna girmesi"
+  ],
+  "challengingAssociations": [
+    "Düzenin bozulması",
+    "İşlerin aksaması veya fırsat kaybı",
+    "Bedensel görünüme veya egoya aşırı takılma",
+    "Kontrol kaybı"
+  ],
+  "contextDependentAssociations": [
+    "Saçın taranış biçimi",
+    "Tarak dişlerinin sağlamlığı veya kırık olması",
+    "Tarağın kim tarafından kullanıldığı",
+    "Rüya sahibinin o anki duygusal yoğunluğu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Saçını ayna karşısında taramak",
+      "description": "Kişinin dış görünümü, öz-imajı ve toplumsal sunumu üzerinde kontrol sağlama ya da kendini yeniden değerlendirme çabasını yansıtır."
+    },
+    {
+      "title": "Kırık dişli bir tarak kullanmak",
+      "description": "Mevcut düzeni korumakta zorlanma, işlerin aksaması ya da kontrolün elden kaybolduğu hissiyle ilişkilendirilir."
+    },
+    {
+      "title": "Başkasının saçını taramak",
+      "description": "Sosyal ilişkilerde arabuluculuk yapma, bir yakının karmaşık sorunlarını çözmesine yardım etme veya faydalı bir yönlendirme yapma arzusunu simgeler."
+    },
+    {
+      "title": "Çok karışık saçları tarakla açmaya çalışmak",
+      "description": "Zihinsel veya duygusal bir karmaşayı, çözülmesi gereken zor bir meseleyi adım adım ve sabırla ele alma sürecini gösterir."
+    }
+  ],
+  "psychology": "Ampirik rüya içerik analizi literatürü, belirli bir nesneye tek başına sabit bir anlam yüklemek yerine rüya raporlarının sistematik kodlanmasını, içerikteki duygu yoğunluğunu ve bağlamsal örüntüleri incelemeyi vurgular. Psikodinamik çerçevede tarak, dış görünüşün kontrolü, öz-imaj, narsisizm, bastırılmış dürtüler ve dişlerle ilgili ikincil fallik çağrışımlar bağlamında ele alınabilir.",
+  "jungian": "Analitik psikolojiye göre tarak gibi gündelik nesneler, sabit bir sözlük anlamından ziyade bilinçdışının psişik süreçlerine işaret eden çok anlamlı imgelerdir. Rüya imgesi yalnızca çözülecek bir işaret değil, bilinçli ve bilinçdışı içerikleri bir arada taşıyan canlı bir deneyim alanıdır; bu nedenle anlam, rüyanın bütün dramatik yapısı ve bireysel bağlam içinde şekillenir.",
+  "islamicTradition": "Bazı geleneksel ve modern derlemelerde tarak, faydalı ve adil bir kişi, sevinç, işlerin yoluna girmesi, borç ödeme ve sıkıntıların giderilmesi etrafında yorumlanmaktadır. Saç tarama eylemi ise düzen kurma ve hayatın dağınıklığını toparlama çabasıyla bağdaştırılırken, kırık tarak düzenin bozulması şeklinde ele alınabilmektedir.",
+  "christianTraditions": "Hristiyan yorumlarında tarak, ruhsal temizlik, düzene sokulma ve Tanrı'nın iradesiyle hizalanma temalarıyla okunabilir. Saçın taranması ve karışıklığın çözülmesi, yaklaşan bir dönüm noktasına hazırlanma veya içsel bir yenilenme süreci olarak değerlendirilebilir.",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "Budist ve Doğu yaklaşımlarında rüyalar zihinsel durumun yansımaları olarak ele alınırken, bazı modern yorumlarda tarama eylemi bedensel görünüme veya egoya bağlanmadan arınma, zihni dünyevi bağlardan ayırma metaforuyla okunabilir.",
+  "spiritualApproaches": "Ezoterik ve sembolik geleneklerde tarak, dağınık olanı yapılandırma, ilişkilerdeki düğümleri çözme ve tarağın dişlerinin eşitliği sayesinde denge ve uyum sağlama aracı olarak görülür. Aynı zamanda ayna ve bakım motifleriyle birleşerek beden, arınma ve bereket temalarını destekler.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Rüya Analizi",
+      "interpretation": "Sabit bir sembol anlamı yerine bağlamsal kodlama ve duygusal yoğunluğa odaklanılarak incelenir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Öz-imaj, dış görünüş kontrolü, narsisizm ve ikincil dürtüsel temalarla ilişkilendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Bilinçdışı içerikleri düzenleme, ayırma ve psişik dengeyi sağlama süreci olarak görülür.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel / İslami Derlemeler",
+      "interpretation": "Faydalı bir kişi, işlerin yoluna girmesi, sıkıntıların giderilmesi veya düzen kurma olarak aktarılır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Düğüm ve karmaşaları çözme, denge, arınma ve içsel düzeni sağlama sembolü olarak ele alınır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar tarak nesnesini ortak bir paydada buluşturur: Tarak, temelde bir 'düzenleme', 'ayıklama' ve 'karmaşayı çözme' aracıdır.",
+  "differences": "Psikanalitik ve teorik yaklaşımlar nesneyi bireyin içsel dürtüleri ve öz-imajı üzerinden okurken, geleneksel ve kültürel okumalar ise daha çok dış dünyada işlerin yoluna girmesi, sosyal ilişkiler ve pratik çözümler üzerine odaklanır.",
+  "inusAssessment": "Rüyada tarak görülmesi, sabit ve tek bir kehanet anlamı taşımaktan ziyade rüya sahibinin hayatındaki dağınıklığı toplama, bir meseleyi netliğe kavuşturma veya dış dünyaya sunulan imajı kontrol etme ihtiyacını yansıtır. Tarağın kırık olup olmaması, saçın kolayca taranıp taranmaması veya işlemin kimin saçında gerçekleştirildiği gibi ayrıntılar rüyanın kişisel dünyadaki gerçek karşılığını belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada tarak görmek her zaman düzen kurmak anlamına mı gelir?",
+      "answer": "Hayır; tarak temel olarak düzenleme ve ayıklama çağrışımı taşısa da, tarağın kırık olması veya saçın taranırken kopması gibi detaylar düzenin bozulması veya zorluk yaşandığına işaret edebilir."
+    },
+    {
+      "question": "Rüyada kırık tarak görmek neyi simgeler?",
+      "answer": "Geleneksel ve sembolik bağlamlarda kırık tarak, kurulan düzenin aksaması, kontrol kaybı veya planlanan işlerde yaşanan kesintileri temsil edebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin temel ilkelerini açıklar; rüya raporlarının sistematik kodlanması ve yorumlanması için yöntem çerçevesi sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Dream emotions: a comparison of home dream reports with ...",
+      "relevance": "Evde toplanan rüya raporlarının duygusal yoğunluğunu laboratuvar raporlarıyla karşılaştırır; ev raporlarında daha fazla olumsuz duygu bildirildiğini gösterir.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jsr.12555"
+    },
+    {
+      "title": "Studying dream content using DreamBank.net",
+      "relevance": "DreamBank üzerinden rüya metinlerini sözcük, ifade ve örüntü düzeyinde tarama yaklaşımını açıklar; belirli nesne adlarının rüya raporlarında nasıl geçtiğini incelemek için yararlıdır.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2008c.html"
+    },
+    {
+      "title": "Comb Dream Meaning & Interpretation - Mirror",
+      "relevance": "Tarak imgesine Freudyen bir yorum atfeden çevrimiçi bir metin; tarak, cinsellik, bastırılmış dürtüler, narsisizm ve dış görünüş kontrolüyle ilişkilendiriliyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/comb/"
+    },
+    {
+      "title": "Sigmund Freud told of a Jewish women who dreamt ...",
+      "relevance": "Freud’un tarağın geçtiği bir rüya örneğine dair anekdot aktarımı; tarak nesnesinin aile, evlilik ve cinsellik çağrışımlarıyla okunmasına dair tarihsel bir iz sunuyor.",
+      "url": "https://www.askphilosophers.org/question/4290"
+    },
+    {
+      "title": "Carl Jung - Symbol Analysis",
+      "relevance": "Jung’un sembol anlayışını ve rüya imgelerinin bilinçdışıyla ilişkisini gösteren birincil çerçeve.",
+      "url": "https://www.carl-jung.net/symbolism.html"
+    },
+    {
+      "title": "Analytical psychology among symbolism, semiotics, iconology, and ...",
+      "relevance": "Analitik psikolojide sembolün bilinçli ve bilinçdışı içerikleri birlikte taşıyan anlam yapısını açıklar.",
+      "url": "https://www.cgjung.net/espace/jps/articles/rachel-huber/situating-analytical-psychology/"
+    },
+    {
+      "title": "Dream Interpretation In Jung's Theory A Comparative ...",
+      "relevance": "Rüya ve sembolün deneyimsel/işleyici doğasına dair Jungcu bir yorum çerçevesi sunar.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/107-dream-interpretation-in-jungs-theory-a-comparative-analysis"
+    },
+    {
+      "title": "Symbol – International Association of Analytical Psychology",
+      "relevance": "Sembolün bilinçdışı dili olarak ele alınışını ve rüyaların sembolik işlevini anlatır.",
+      "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/symbol-2/"
+    },
+    {
+      "title": "Interpretation of Dreams (Analytical Psychology ...",
+      "relevance": "Jung’un rüyayı bilinçdışının kendiliğinden ifadesi olarak gören yaklaşımını özetler.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/interpretation-dreams-analytical-psychology"
+    },
+    {
+      "title": "Carl Jung - Analysis of Dream Symbols (2)",
+      "relevance": "Jungcu literatürde bazı imgelerin göreli sabitliğini ve tipik sembol örneklerini gösterir.",
+      "url": "https://www.carl-jung.net/dream_symbols2.html"
+    },
+    {
+      "title": "A Way into Mystery, A Way Out of Catastrophe: Jung on Symbols ...",
+      "relevance": "Rüyanın bilinçdışının sembolik kendini ifadesi olduğu Jungcu yaklaşımını ve bağlamsal yorum ilkesini vurgular.",
+      "url": "https://jungiancenter.org/a-way-into-mystery-a-way-out-of-catastrophe/"
+    },
+    {
+      "title": "Comb / comb, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Tarak maddesine yönelik modern bir derlemede Artemidorus’a atfedilen kısa bir yorum aktarılıyor; tarak, yararlılık ve sıkıntıları aşan iyileştirici zamanla ilişkilendiriliyor.",
+      "url": "http://www.dreamtation.com/docs/2320.htm"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un Antikçağ’dan günümüze ulaşan en kapsamlı rüya yorumu kılavuzunu yazdığını belirten çeviri sayfası; Greko-Romen oneirokritik geleneği için tarihsel bağlam sunuyor.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Rüyada Tarak Görmek Ne Anlama Gelir?",
+      "relevance": "Tarak için olumlu İslami-popüler yorum; faydalı bir kişi, sevinç ve sıkıntıların giderilmesi çağrışımı.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-tarak-gormek-ne-anlama-gelir-28956"
+    },
+    {
+      "title": "Comb in Dreams — Islamic Interpretation & Meaning | Dream Wisdom",
+      "relevance": "Comb sembolü için İslami rüya geleneğine dair geniş bir sembol ağı veriyor; adil kişi, öğüt, zekât, borç, tarama ve sıkıntıların giderilmesi gibi anlamlar sıralanıyor.",
+      "url": "https://www.dream-wisdom.com/en/dreams/comb/"
+    },
+    {
+      "title": "The Spiritual Significance of a Comb in a Dream: Unveiling the Biblical Meaning - John Baptist Church",
+      "relevance": "Tarak sembolünü Hristiyan çerçevede düzen, arınma, yapı ve ruhsal temizlik temalarıyla ilişkilendiren bir yorum metni.",
+      "url": "https://johnbaptistchurch.org/biblical-meaning-experiences/comb-in-a-dream"
+    },
+    {
+      "title": "The Spiritual Significance of Combing Hair in a Dream: Unveiling the Biblical Meaning - John Baptist Church",
+      "relevance": "Tarakla saç tarama eylemini Hristiyan sembolik okumada hazırlık, yenilenme ve karışıklığın çözülmesi bağlamında tartışan çevrim içi metin.",
+      "url": "https://johnbaptistchurch.org/biblical-meaning-experiences/combing-hair-in-a-dream"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Rüyaların anlamı, yorumu ve ahlaki işlevi üzerine klasik Yahudi tartışma çerçevesi.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 57b | The Sefaria Library",
+      "relevance": "Rüyalarda nesnelerin alamet değerine dair geniş bir Talmudik bağlam sunar.",
+      "url": "https://www.sefaria.org/Berakhot.57b?lang=en"
+    },
+    {
+      "title": "Berakhot 18.a - Steinsaltz Center",
+      "relevance": "Tarak kelimesinin Talmudik anlatıda geçtiğini gösteren, ancak rüya yorumu olmayan bir kullanım örneği.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/18.a"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist gelenekte rüyaların boşluk, işaret ve öğretici mesaj olarak ele alınabileceğini özetler.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "The: Bardo of Dream - Tibetan Buddhist ...",
+      "relevance": "Tibet Budist rüya pratiğinde rüyayı tanıyıp dönüştürme yaklaşımını sunar.",
+      "url": "https://www.tibetanbuddhistencyclopedia.com/en/index.php?title=The:_Bardo_of_Dream"
+    },
+    {
+      "title": "༄༅། །་ལམ་མང་བ་ས་་བ་གངས། The Dhāraṇī “ ...",
+      "relevance": "Rüya görünümleri için gece uygulanacak bir dhāraṇī ve rüya üretme ritüelini açıklar.",
+      "url": "https://84000.co/translation/toh460a.pdf"
+    },
+    {
+      "title": "Dreaming in the Lotus",
+      "relevance": "Tibet ve Hint-Budist geleneklerinde rüyaların kutsal biyografiler, kehanet ve gizli öğretilerle ilişkisini anlatır.",
+      "url": "https://books.google.com/books/about/Dreaming_in_the_Lotus.html?id=fuBP0y-Ipv0C"
+    },
+    {
+      "title": "Seeing Comb in a dream",
+      "relevance": "Tarakın eşit diş yapısı üzerinden adalet, düzen, işbirliği ve işleri toparlama çağrışımlarını içeren bir rüya yorumu metni.",
+      "url": "https://www.shiacircle.com/dream-interpretation/comb"
+    },
+    {
+      "title": "Meaning of Comb Dreams - Oneiro",
+      "relevance": "Tarakın sembolik olarak düzen kurma, karmaşayı çözme ve ilişkileri düzeltme temasını işleyen modern bir ezoterik rüya yorumu.",
+      "url": "https://oneiro.click/en/articles/comb-dream/"
+    },
+    {
+      "title": "(Essay) The Magic Comb by Hearth Moon Rising",
+      "relevance": "Tarak ile ayna ve kadınsı sembolizm arasındaki ilişkiyi ele alan, folklorik ve ezoterik bir yorum yazısı.",
+      "url": "https://www.magoism.net/2013/03/essay-the-magic-comb-by-hearth-moon-rising/"
+    },
+    {
+      "title": "ᐅ Comb and Hair symbolic jewellery",
+      "relevance": "Tarak ve saç motiflerini kültürel-sembolik düzeyde, özellikle kadınlık ve arındırma çağrışımlarıyla birlikte tartışan bir makale.",
+      "url": "https://nasvete.com/comb-and-hair-symbolic-jewellery/"
+    },
+    {
+      "title": "The Pictish Mirror and the Comb symbols in Sky Divination",
+      "relevance": "Tarak simgesini folklorik ve sembolik bağlamda, kadınsı ve öte-dünya ile ilişkili bir motif olarak ele alan bir yazı.",
+      "url": "https://lastofthedruids.com/2013/03/21/the-pictish-mirror-and-the-comb-symbols-in-sky-divination-2/"
+    },
+    {
+      "title": "[PDF] A DICTIONARY OF SYMBOLS - Esoteric Library",
+      "relevance": "Tarak sembolünün klasik sembol sözlüğündeki anlamlarını; özellikle dişler, düzeltme, uzlaştırma ve bazı mitik kadın figürlerle ilişkisini derleyen kaynak.",
+      "url": "https://esotericlibrary.weebly.com/uploads/5/0/7/7/5077636/a_dictionary_of_symbols__cirlot_.pdf"
+    },
+    {
+      "title": "The magical symbolism of the comb in the primitive and ...",
+      "relevance": "Tarak sembolünün bereket ve yayılım/emanasyon fikriyle ilişkilendirildiğini söyleyen tarihsel-sembolik bir çalışma PDF’i.",
+      "url": "https://ia800809.us.archive.org/29/items/symbolism-of-the-comb/Symbolism%20of%20the%20COmb.pdf"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
+  ]
+}

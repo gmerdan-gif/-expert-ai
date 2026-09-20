@@ -1,0 +1,232 @@
+{
+  "slug": "sincap",
+  "title": "sincap",
+  "shortDescription": "Rüyada sincap görmek, geleceğe hazırlanmayı, kaynakları korumayı ve değişen koşullara uyum sağlamayı çağrıştırır. Sincap huzursuz ya da öfkeliyse, küçük meselelerin yarattığı gerginliğe veya savunmacı tepkilere işaret edebilir.",
+  "positiveAssociations": [
+    "Hazırlık ve planlama",
+    "Kaynakları koruma ve biriktirme",
+    "Çeviklik ve hızlı uyum sağlama",
+    "Özenli, dikkatli tutum",
+    "Günlük denge kurma çabası"
+  ],
+  "challengingAssociations": [
+    "Zihinsel huzursuzluk veya iç gerilim",
+    "Aşırı hesapçılık ya da aşırı tutumluluk",
+    "Savunmacı veya sinirli tepki verme",
+    "Yabancılık veya dışsal etkilere karşı hassasiyet"
+  ],
+  "contextDependentAssociations": [
+    "Sincabın doğal ortamında (ağaçta veya orman kenarında) yiyecek saklaması ile şehir veya ev yakınında görülmesi arasında farklı anlamlar taşıyabilir.",
+    "Sincabın sakin ve oyunbaz mı yoksa öfkeli ve saldırgan mı olduğu rüyanın vurgusunu belirler.",
+    "Rüya sahibinin uyanık yaşamında süren maddi hazırlıklar veya günlük rutini düzenlemeye yönelik çabalarla ilişkilendirilebilir."
+  ],
+  "commonVariations": [
+    {
+      "title": "Ağaçta yiyecek saklayan sincap",
+      "description": "Geleceğe yönelik planlar yapma ve kaynakları temkinli biçimde koruma; uzun vadeli düzenlemelere odaklanma temasını vurgular."
+    },
+    {
+      "title": "Hızlı değişimlere uyum sağlayan sincap",
+      "description": "Günlük yaşamdaki beklenmedik değişikliklere çevikçe uyum sağlama, esneklik ve pratik zekâyla başa çıkma yeteneğini simgeler."
+    },
+    {
+      "title": "Öfkeli veya huzursuz sincapla karşılaşmak",
+      "description": "İçsel gerginlikler, küçük meselelerin büyümesi ya da savunmacı tutumlar gibi psikolojik gerilimlere işaret edebilir."
+    },
+    {
+      "title": "Doğal ortamında sakin duran sincap",
+      "description": "Denge, basit zevklerde huzur bulma ve mevcut kaynaklarla yetinme eğilimini gösterir."
+    }
+  ],
+  "psychology": "Sincap görüntüsüyle ilgili doğrulanmış ampirik çalışmalar sınırlıdır. Bu nedenle bu imgeyi yorumlarken rüya bağlamı ve bireysel yaşam öyküsü belirleyicidir.",
+  "jungian": "Jungcu çerçevede hayvan imgeleri içgüdüsel enerjiyi ve bilinçdışı dinamikleri temsil eder. Modern Jungcu yorumlarda sincap korunma, birikim, öngörü ve geleceğe yönelik hazırlık temalarıyla ilişkilendirilir. Ancak bu bağlantı doğrudan Jung'un eserlerinde doğrulanmış bir pasajla desteklenmez.",
+  "islamicTradition": "Klasik İslami rüya yorumlama kaynaklarında sincap için doğrulanmış, yaygın bir rüya maddesi bulunmamaktadır. Modern İslami rüya tabiri sayfalarında ise sincabın bazen 'yabancı ve zengin kişi' ile ilişkilendirildiği ve kürk veya post bağlamlarında olumsuz niteliklere (kibir, gösteriş) atıf yapıldığı aktarılmaktadır; bu aktarımların klasik kaynaklarda doğrulanması sınırlıdır.",
+  "christianTraditions": "Klasik Hristiyan rüya öğretisinde sincap açıkça yer almaz; çağdaş Hristiyan yorumlarda ise sincap sıkça kışlık hazırlık yapan bir canlı olarak temkin, sorumluluk ve gelecek için hazırlık gibi alegorik anlamlarla ilişkilendirilir. Bu okumalar doğrudan Kutsal Kitap kaynaklı değildir ve yorumlayıcı niteliğe sahiptir.",
+  "jewishTraditions": "Talmudik ve rabbinik rüya yorumları genel hayvan kategorilerini ele alır ancak sincap için doğrulanmış spesifik bir kayıt bulunmamaktadır. Bu nedenle Yahudi geleneği bağlamında yaklaşım, genel hayvan-rüyası çerçevesiyle sınırlı kalır.",
+  "buddhistEasternApproaches": "Erken Budist metinlerde sincapla ilişkili mekân adları ve benzetmeler vardır. Modern Budist esinli yorumlarda sincap, denge, farkındalık ve uyum sağlama ile ilişkilendirilir; öfkeli görüntüsü ise zihinsel huzursuzluk (kötü niyet, Pāli: vyāpāda) ile bağdaştırılabilir. Bu kullanımlar daha çok sembolik ve anlatısaldır.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel kaynaklarda sincap, kaynak yönetimi, hazırlık yapma, uyum sağlama ve oyunbaz enerjiyi temsil eden bir sembol olarak işlenir; bu yaklaşımlar genellikle geleneksel veya ampirik kanıtla doğrudan desteklenmez ve yorumlayıcıdır.",
+  "comparisonTable": [
+    {
+      "approach": "Psikolojik Araştırma",
+      "interpretation": "Hayvan imgelerinin kişisel yaşam deneyimleri, içgüdüler ve günlük sorunlarla bağlantılı olarak okunması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "İçgüdüsel enerjinin dışavurumu; sincap için öngörü, birikim ve korunma temaları teorik düzeyde önerilmiştir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Aktarımlar",
+      "interpretation": "Modern aktarımlarda 'yabancı ve zengin kişi' veya kürk bağlamında olumsuz niteliklerle ilişkilendirme; klasik kaynak desteği sınırlıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Gelenekleri",
+      "interpretation": "Alegorik olarak temkin, hazırlık ve ilahi sağlama fikirleriyle ilişkilendirilir; bu yorumlar kutsal metinlere doğrudan dayanmaz.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşımlar",
+      "interpretation": "Kaynakları biriktirme, uyum sağlama ve oyunbazlık temalarının vurgulanması; yorumlayıcı/spiritüel düzeyde.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu kaynak sincap imgesini kaynak koruma, hazırlık ve çevik uyum temaları etrafında bir araya getirir; bu ortaklık rüya bağlamına göre farklı anlamlar taşıyabilir.",
+  "differences": "Yaklaşımlar arasındaki fark, psikolojik araştırmaların bağlamsallık ve kişisel deneyim vurgusu ile dini/spiritüel yorumların daha alegorik ve bazen tekil anlamlar önerme eğilimi arasında görülür. Ayrıca bazı modern internet kaynaklarının klasik veya birincil metin desteği sınırlıdır.",
+  "inusAssessment": "En belirleyici ayrım, rüya içindeki sincapla etkileşimin niteliği (örneğin koruyan veya planlayan mı, yoksa oyunbaz, tedirgin ya da öfkeli mi olduğu) ile rüya sahibinin gerçek yaşamındaki hazırlık veya endişe süreçleri arasındaki ilişkidir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Squirrels, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Sincapla ilişkilendirilen çeviklik, biriktirme ve hazırlık temalarının modern rüya sözlüğündeki bir örneği.",
+      "url": "http://www.dreamtation.com/docs/9503.htm"
+    },
+    {
+      "title": "Dreams with animals in psychotherapeutic process",
+      "relevance": "Hayvan imgelerinin terapötik bağlamda nasıl okunabileceğini ve içgüdüsel yönelimlerle ilişkilenebileceğini açıklayan çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/83826"
+    },
+    {
+      "title": "Animal dreams in a long dream series",
+      "relevance": "Uzun rüya dizilerinde hayvan imgelerinin kişinin gündelik yaşam deneyimleriyle nasıl bağlantılandığını gösteren analiz.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/9609"
+    },
+    {
+      "title": "Animals in Dreams of Children, Adolescents, and Adults: The UK Library Study - Michael Schredl, Mark Blagrove, 2021",
+      "relevance": "Hayvan rüyalarının dağılımı ve evcil hayvanların rüyadaki rolü üzerine ampirik bulgular sağlayan çalışma.",
+      "url": "https://journals.sagepub.com/doi/10.1177/0276236620960634"
+    },
+    {
+      "title": "What Does Dreaming About Squirrel Mean? - Rüya Tabirleri",
+      "relevance": "Sincap sembolünü modern bir Jungcu dille hazırlık, korunma ve birikim temalarıyla ilişkilendiren çevrimiçi yorum (modern yorum örneği).",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-a-squirrel"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Greko‑Romen bir oneirokritik kaynağı olarak hayvan rüyalarının bağlamsal yorumlandığını gösterir; sincap için doğrudan bir giriş doğrulanmamıştır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual: Artemidorus' The ...",
+      "relevance": "Artemidorus’un rüya kitabının akademik bağlamı; hayvanlar ve doğal dünya üzerine yorumlarının kapsamını gösterir.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un rüyaları çok sayıda hayvan, bitki ve doğal unsur üzerinden sınıflandırdığını özetleyen, akademik ve genel okuyucuya yönelik bir tanıtım.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "The Body, Experience, and the History of Dream-Science ...",
+      "relevance": "Artemidorus’un Oneirocritica’sının Greko‑Romen antikitenin en geniş korunmuş kehanetsel rüya yorum koleksiyonu olduğunu belirten bibliyografik kayıt.",
+      "url": "https://www.ebsco.com/articles/social-sciences-and-humanities/cc899927-e667-5231-a383-1c81a19159c5/the-body-experience-and-the-history-of-dream-science-in-artemidorus-oneirocritica"
+    },
+    {
+      "title": "Squirrel Islamic Interpretations & Meanings",
+      "relevance": "Modern İslami rüya tabiri sayfası; sincabı 'yabancı ve zengin kişi' ile ilişkilendiren ve kürk veya post bağlamlarında olumsuz nitelikler aktaran örnek aktarımlar içerir.",
+      "url": "https://www.myislamicdream.com/squirrel.html"
+    },
+    {
+      "title": "The Spiritual Significance of Seeing a Squirrel in Your Dreams: Exploring the Biblical Meaning - John Baptist Church",
+      "relevance": "Çağdaş Hristiyan yorum örneği; sincap imgesini hazırlık, temkin ve ilahi temin çağrışımlarıyla ele alır (yorumlayıcı kaynak).",
+      "url": "https://johnbaptistchurch.org/biblical-meaning-nature/squirrel-in-a-dream"
+    },
+    {
+      "title": "Biblical Meaning Of Squirrels In Dream-Dreamsdeliverance.org",
+      "relevance": "Çağdaş Hristiyan yorum örneği; sincap imgesini hazırlık, temkin ve ilahi temin çağrışımlarıyla ele alır (yorumlayıcı kaynak).",
+      "url": "https://dreamsdeliverance.org/biblical-meaning-of-squirrels-in-dream/"
+    },
+    {
+      "title": "Dreaming about Squirrels: Biblical Dream Interpretation",
+      "relevance": "Kutsal Kitap’ta sincapların rüya bağlamında açıkça geçmediğini belirten Hristiyan değerlendirme yazısı.",
+      "url": "https://christianpure.com/learn/squirrels-in-bible-dreams/"
+    },
+    {
+      "title": "Christian Symbols - Animals",
+      "relevance": "Sincabı Hristiyan alegorik sembolizminde ebediyet düşüncesi ve göksel tefekkürle ilişkilendiren semboller derlemesi.",
+      "url": "https://www.christiansymbols.net/animals.html"
+    },
+    {
+      "title": "Berakhot 57b | The Sefaria Library",
+      "relevance": "Talmudik hayvan rüyaları bağlamını gösteren kaynak; sincap için doğrulanmış spesifik bir rüya maddesi içermez.",
+      "url": "https://www.sefaria.org/Berakhot.57b?lang=en"
+    },
+    {
+      "title": "Berakhot | The Sefaria Library",
+      "relevance": "Berakhot traktatının tamamına erişim sağlayarak Yahudi rüya yorumlarının yer aldığı Talmudik bağlamı gösterir.",
+      "url": "https://www.sefaria.org/Berakhot"
+    },
+    {
+      "title": "סְנָאִי — squirrel",
+      "relevance": "İbranice’de sincap için kullanılan סְנָאִי biçimini kaydeder; sözcüğün Yahudi dil dünyasındaki kullanımını doğrular.",
+      "url": "https://www.elongilad.com/en/etymology/%D7%A1%D7%A0%D7%90%D7%99"
+    },
+    {
+      "title": "What Does it Mean When You Dream About a Squirrel?",
+      "relevance": "Rüyada sincabın Budist bakış açısından denge, farkındalık ve uyum sağlama ile ilişkilendirildiğini öne süren modern bir yorum metni.",
+      "url": "https://www.centreofexcellence.com/the-meaning-of-squirrel-dreams/"
+    },
+    {
+      "title": "Angry Squirrel Dream Meaning & Interpretation",
+      "relevance": "Rüyada sincabın Budist perspektifinden denge, farkındalık ve uyum temalarıyla ilişkilendirildiğini belirten modern bir yorum metni.",
+      "url": "https://mirrorwithin.com/dream-dictionary/angry-squirrel/"
+    },
+    {
+      "title": "BOOK VII.",
+      "relevance": "Öfkeli sincap rüyasını Budist kavramlarla, özellikle kötü niyet (Pāli: vyāpāda) ve zihinsel huzursuzlukla ilişkilendiren modern bir yorum sayfası.",
+      "url": "https://www.sacred-texts.com/bud/sbe36/sbe3609.htm"
+    },
+    {
+      "title": "Significance of Squirrel",
+      "relevance": "Theravāda anlatısında sincabın Kral Bimbisāra hikâyesiyle ve tehlikeye karşı uyarı rolüyle ilişkilendirilmesini aktaran sayfa.",
+      "url": "https://www.wisdomlib.org/concept/squirrel"
+    },
+    {
+      "title": "The Squirrel Sutra",
+      "relevance": "Budist edebî bağlamda sincabın şiirsel görünürlüğünü gösteren kısa bir metin.",
+      "url": "https://tricycle.org/magazine/squirrel-sutra/"
+    },
+    {
+      "title": "A Translation of Saṃyukta-āgama Discourses 250 to 255",
+      "relevance": "Erken Budist metinlerde 'Squirrels’ Feeding Place' örneği gibi sincabın metin içi görünürlüğünü belgeleyen çeviri.",
+      "url": "https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-BM054/bm054591091.pdf"
+    },
+    {
+      "title": "The Discourse about Moonlight",
+      "relevance": "Erken Budist metinde Bamboo Wood içindeki 'Squirrels’ Feeding Place' mekân adını gösterir.",
+      "url": "https://ancient-buddhist-texts.net/English-Texts/Exalted-Utterances/4-Meghiyavaggo-04.htm"
+    },
+    {
+      "title": "Squirrel Symbolism & Spiritual Meaning",
+      "relevance": "Modern spiritüel kaynaklarda sincapla ilişkilendirilen hazırlık, uyum ve oyunbazlık temalarını özetleyen örnek metin.",
+      "url": "https://www.spiritanimal.info/squirrel-symbolism/"
+    },
+    {
+      "title": "Squirrel Symbolism: What is the Spiritual Meaning of a ...",
+      "relevance": "Sincap üzerine spiritüel sembolizm ve rüya çağrışımları sunar; düzenleme, hazırlık ve yaşamın küçük anlarında neşe bulma temasını işler.",
+      "url": "https://www.centreofexcellence.com/the-spiritual-meaning-of-squirrels/"
+    },
+    {
+      "title": "The Magic and Symbolism of Squirrels",
+      "relevance": "Sincapların rüyalarda kaynakları toplama ve koruma fikriyle ilişkilendirildiğini, aynı zamanda enerji ve duyguların bir kenara bırakılması temasını vurgular.",
+      "url": "https://parlourofwonders.com/blogs/animal-magic/the-magic-and-symbolism-of-squirrels"
+    },
+    {
+      "title": "Squirrel Dream Meaning: Dreams About Squirrels Explained",
+      "relevance": "Sincap rüyalarını hazırlık, bolluk ve iş-oyun dengesi çerçevesinde yorumlar; spiritüel geleneklerde sincabın mesaj taşıyıcı olarak okunabileceğini söyler.",
+      "url": "https://whatisyourspiritanimal.com/animal-dream-symbols/when-you-dream-about-squirrels/"
+    },
+    {
+      "title": "Squirrel Dream Meaning & Interpretation - Mirror",
+      "relevance": "Sincap rüyasını kaynak toplama, koruma ve geleceğe hazırlanma sembolizmiyle açıklar; ayrıca denge ve saklı bilgi temalarına da değinir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/squirrel/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "islamic",
+    "christian"
+  ]
+}

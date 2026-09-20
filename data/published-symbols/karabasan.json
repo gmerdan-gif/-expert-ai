@@ -1,0 +1,227 @@
+{
+  "slug": "karabasan",
+  "title": "karabasan",
+  "shortDescription": "Rüyada karabasan görmek; yoğun korku, tehdit ve çaresizlik hissiyle, çoğu zaman stres ve anksiyeteyle ilişkilendirilen bir gece deneyimidir. Göğüste baskı, hareket edememe ya da odada bir varlık hissi varsa uyku felciyle bağlantılı olabilir.",
+  "positiveAssociations": [
+    "Bastırılmış korku veya anksiyetenin görünürleşmesine yol açarak sorunların fark edilmesine zemin hazırlayabilir (çoğunlukla rahatsız edici biçimde).",
+    "Bilinçdışı içeriklerin uyku-uyanıklık sınırında belirginleşmesi, zorlayıcı da olsa bireysel farkındalığı tetikleyebilir.",
+    "Uyku felci veya kabus deneyimi, uyku alışkanlıkları ve stres yönetimi gibi alanlarda gözden geçirme ihtiyacını ortaya çıkarabilir."
+  ],
+  "challengingAssociations": [
+    "Yoğun tehdit algısı ve çaresizlik hissi",
+    "Göğse baskı ve hareket edememe ile beliren fiziksel/fenomenolojik sıkışma",
+    "Kabuslar ve disforik zihinsel imgelerle çevrili uyku deneyimi"
+  ],
+  "contextDependentAssociations": [
+    "Günlük yaşamdaki yüksek anksiyete ve stresörlerin gece rüya ve uyku felci deneyimlerini tetiklemesi",
+    "Uyku felci fenomeninin kültürel adlandırmalarla (ör. 'karabasan') kesişmesi ve bu adın deneyime anlam yüklemesi",
+    "Korkutucu gece baskılarının kişisel özellikler, inançlar ve bağlama göre farklı duygusal tonlar alması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Göğse baskı yapan gölgeli figür",
+      "description": "Uyanma evresinde odanın içinde hareket etmeyi engelleyen, göğüs üzerine çöken karanlık bir varlığın hissedildiği klasik uyku felci ve korku senaryosu."
+    },
+    {
+      "title": "Karanlık bir odada kımıldayamadan kalma",
+      "description": "Zihnin açık olduğu ancak bedenin kilitlendiği, dış etkilere karşı ses çıkarma ya da kaçma çabasının sonuçsuz kaldığı uyku-uyanıklık ara durumu."
+    },
+    {
+      "title": "Anksiyete kaynaklı tehdit yüklü kaçış rüyaları",
+      "description": "Gündüz yaşanan stresin tetiklediği, tehlikeli unsurlardan kaçmaya çalışırken bedenin ağırlaşması ve hareket kabiliyetinin kısıtlanması temalı rüyalar."
+    },
+    {
+      "title": "Derin bir iniş ve karanlık eşik deneyimi",
+      "description": "Bilinçdışının baskın olduğu rahatsız edici bir sahneye düşüş veya inisiyatifin kaybolduğu karanlık bir atmosfer içinde sıkışıp kalma hali."
+    }
+  ],
+  "psychology": "Ampirik psikoloji literatüründe 'karabasan' terimiyle doğrudan çalışan güçlü çalışmalar sınırlıdır; bunun yerine kabus, kötü rüya, anksiyete içerikleri ve uyku felci ekseninde ampirik veriler mevcuttur. Klinik çalışmalar kabusların yoğun olumsuz duygu, tehdit algısı ve uyanmayla ilişkili olduğunu; anksiyete ve stresörlerin rüya içeriğini olumsuz yönde etkileyebileceğini göstermektedir. Uyku felci fenomeni, karabasan anlatısında sıkça referans verilen bir fenomenolojik zemindir ve deneyimin hem kültürel adlandırmayla hem de nörofizyolojik uyku süreçleriyle kesiştiği vurgulanır.",
+  "jungian": "Jungcu anlatımlarda karabasan-benzeri korkutucu gece deneyimleri, genellikle bilincin dışına itilmiş içeriklerin, gölgenin veya dönüşüme çağıran eşiklerin rahatsız edici geri dönüşü olarak okunur. Bu bakış, karabasanı dışsal bir salt tehditten çok, bireyin bastırılmış yönleriyle karşılaştığı zorlu bir iç süreç olarak ele alır; yine de Jungcu okumalarında kesin ve evrensel sembolik anlamlar atanmaktan kaçınılması gerektiği belirtilmektedir.",
+  "islamicTradition": "",
+  "christianTraditions": "Bununla birlikte Hristiyan kaynakların bir kısmı uyku felcini çoğu zaman REM döngüsüne bağlı, doğal bir uyku olayı olarak açıklar; bu nedenle dinsel yorumlar bağlama ve yoruma bağlıdır.",
+  "jewishTraditions": "Tarihsel olarak kabus deneyimine karşı ritüel tepkiler gelişmiş olup, karabasan benzeri deneyimler genel olarak kötü rüya kategorisi içinde ele alınır.",
+  "buddhistEasternApproaches": "Budist bağlamda kabuslar ve gece korkuları, bazen samsara'nın yanıltıcı doğasına dair bir benzetme içinde değerlendirilir; Mahayana uygulamalarında bodhisattva adının anılması veya metta (sevgi dolu şefkat) meditasyonu gibi uygulamalarla yatıştırılmaya çalışılır. Bazı geleneklerde tekrarlayan korkutucu rüyalar merhumlarla ilgili sevap paylaşımı veya sevap aktarma uygulamalarıyla ilişkilendirilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalar karabasanı karanlık bir varlık ya da gece baskısı deneyimi olarak yorumlayabilir; ancak mevcut kaynaklar genellikle karabasanı folklorik bir uyku felci adlandırması veya genel kabus kategorisi içinde değerlendirir. Bu nedenle spiritüel okumalar bağlam ve kaynağa göre değişir ve tek bir yoruma indirgenmemelidir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Anksiyete, stresörler, uyku felci ve tehdit algısının tetiklediği olumsuz rüya veya uyku deneyimi.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jungcu)",
+      "interpretation": "Bilinçdışına itilmiş içeriklerin ve gölge figürünün rahatsız edici bir eşik deneyimiyle geri dönmesi; dönüşüm olasılığına işaret eden teorik okuma.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Patristik ve Spiritüel Anlatılar",
+      "interpretation": "Yoğun baskı ve varlık algısının ruhsal ayartı veya demonik saldırı bağlamında değerlendirilmesi; bazı yorumlarda ise doğal uyku olayı olarak açıklanması.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneksel Çerçevesi",
+      "interpretation": "Rahatsız edici rüyanın yorum ve ritüellerle (sadaka, hatavat chalom vb.) dönüştürülmesi gerektiği yaklaşımı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Kâbusun samsara benzetmesi veya merhamet/sevap uygulamalarıyla hafifletilmesi; farkındalık pratikleri önerilir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli disiplin ve gelenekler karabasan benzeri gece baskısı deneyimlerini tek tip veya evrensel bir belirti ya da yorum olarak değil, kişinin anksiyete düzeyi, uyku-uyanıklık sınırındaki fizyoloji, bastırılmış korkuları ve kültürel/ritüel çerçevelerle etkileşen çok boyutlu bir olgu olarak görürler.",
+  "differences": "Ampirik psikoloji karabasanı uyku süreçleri ve anksiyete bağlamında açıklar; Jungcu yaklaşım gölge ve dönüşüm temaları üzerinden teorik bir okuma önerir. Dini ve geleneksel yaklaşımlar deneyimi ruhsal saldırı, yorum ve dönüştürme veya ritüel tepkiler bağlamında ele alır; kaynaklar arasında bu yorumların kapsamı ve kesinliği açısından farklılık vardır.",
+  "inusAssessment": "Karabasan deneyimi, sıradan bir tehdit rüyasından farklı olarak uyku ile uyanıklık sınırında yoğun korku, baskı ve hareket edememe hissiyle ilişkilendirilebilir. Deneyimin tekrarlanması, bedensel duyumların eşlik etmesi ve kişinin bunu kültürel ya da kişisel olarak nasıl anlamlandırdığı birlikte değerlendirilmelidir; tek bir sembolik açıklamaya indirgenmemelidir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dreams in anxiety disorders and anxiety",
+      "relevance": "Kabusların anksiyete, korku ve tehdit içeriğiyle ilişkisini ve klinik bağlamını özetler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/60789/65594"
+    },
+    {
+      "title": "Perceived Change in the Affect Associated With Dreams",
+      "relevance": "Rüyalarda hissedilen duygunun zaman içinde değişebildiğini inceleyen çalışma.",
+      "url": "https://www.niu.edu/jskowronski/publications/RitchieSkowronski2008.pdf"
+    },
+    {
+      "title": "Thematic and Content Analysis of Idiopathic Nightmares and ...",
+      "relevance": "İdiyopatik kabusların içerik analizine dair çalışma; korku ve disforik imgelerin kabus içeriğinde belirgin olduğunu gösterir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900621/"
+    },
+    {
+      "title": "Bad dream, nightmares and psychopathology: a systematic review",
+      "relevance": "Kabuslar ve psikopatoloji arasındaki ilişkiyi derleyen sistematik inceleme; karabasan benzeri kabus içeriklerinin anksiyete ile ilişkisini destekleyen literatür.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11493664/"
+    },
+    {
+      "title": "Analysis of dream contents of patients with anxiety disorders ...",
+      "relevance": "Anksiyete bozukluğu olan kişilerin rüya içeriklerini inceleyen ampirik çalışma; anksiyete ve tehdit-yüklü rüya içerikleri arasındaki bağlantıyı destekler.",
+      "url": "https://psycnet.apa.org/record/2022-16342-001"
+    },
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Freud'un rüyalarda su, rahim ve doğum imgeleri üzerine tartıştığı bölüm; psikanalitik bağlamda su imgelerinin çok anlamlılığını ve bağlama bağlı değerlendirilmesi gerektiğini ortaya koyar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "A Jungian Perspective on Nightmares and Bad Dreams",
+      "relevance": "Kabusların Jungcu açıdan gölgeyle ve bilinçdışına itilmiş içeriklerle ilişkilendirilmesini anlatan modern Jung-esinli bir değerlendirme.",
+      "url": "https://www.samwoolfe.com/2014/06/a-jungian-perspective-on-nightmares.html"
+    },
+    {
+      "title": "[PDF] The Collected Works of C.G. Jung: Volume 11: Psychology and ...",
+      "relevance": "Jung'un iniş, karanlık ve bilinçdışına dalış imgeleri üzerine yazıları; Jungcu çerçevede karabasan-benzeri deneyimlerin gölge ve dönüşümle ilişkisini anlamaya yardımcı olur.",
+      "url": "https://www.jungiananalysts.org.uk/wp-content/uploads/2018/07/C.-G.-Jung-Collected-Works-Volume-11_-Psychology-and-Religion_-West-and-East.pdf"
+    },
+    {
+      "title": "Volume 12: Psychology and Alchemy",
+      "relevance": "Karanlık dünyaya iniş, bilinçdışıyla karşılaşma ve dönüşüm temasını Jung’un kendi sembolik çerçevesi içinde sunan özet kayıt.",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-12-psychology-alchemy/"
+    },
+    {
+      "title": "The Way of the Dream: Marie-Louise von Franz in Conversation with Fraser Boa (2008) - full transcript",
+      "relevance": "Rüyalarda gölge figürlerinin korkutucu ama bütünleyici bir anlam taşıyabileceğini Jungcu gelenekte tartışan konuşma/transkript kaydı.",
+      "url": "https://subslikescript.com/movie/The_Way_of_the_Dream_Marie-Louise_von_Franz_in_Conversation_with_Fraser_Boa-2350070"
+    },
+    {
+      "title": "Beliefs about sleep paralysis in Turkey: Karabasan attack - PMC",
+      "relevance": "Türk folklorunda 'karabasan' teriminin uyku felci ve göğse çöken baskı deneyimiyle ilişkilendirilmesini açıklayan ampirik/toplumsal kaynak.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8060736/"
+    },
+    {
+      "title": "RÜYA - TDV İslâm Ansiklopedisi",
+      "relevance": "Türk folklorunda 'karabasan' teriminin uyku felci ve göğse çöken baskı deneyimiyle ilişkisini açıklayan ampirik ve toplumsal bir kaynak.",
+      "url": "https://islamansiklopedisi.org.tr/ruya"
+    },
+    {
+      "title": "RÜYALAR GERÇEK OLSA…",
+      "relevance": "Halk dilinde karabasanın kâbus ve şeytanî rüya ile birlikte anılışını açıklar.",
+      "url": "https://www.ekrembugraekinci.com/article/?ID=1379"
+    },
+    {
+      "title": "Doctrinalising dreams: patristic views of the nature of ... - ERA",
+      "relevance": "Patristik dönemde rüyaların ruhsal ve demonik boyutlarını ayıran tez; gece deneyimlerinin Hristiyan rüya düşüncesindeki yerini gösterir.",
+      "url": "https://era.ed.ac.uk/handle/1842/5462?show=full"
+    },
+    {
+      "title": "Understanding Dreams and Their Meaning - Vladimir Savchuk Ministries",
+      "relevance": "Hristiyan ibadet/danışmanlık dilinde kâbus, uyku felci ve baskı deneyimlerini ruhsal saldırı çerçevesinde ele alan modern bir anlatım.",
+      "url": "https://pastorvlad.org/dreams/"
+    },
+    {
+      "title": "Is sleep paralysis the result of spiritual attack?",
+      "relevance": "Uyku felcinin çoğu durumda REM döngüsüyle açıklanabileceğini, bazı Hristiyan yorumların ise bunu ruhsal saldırı ihtimaliyle birlikte değerlendirdiğini anlatır.",
+      "url": "https://www.gotquestions.org/sleep-paralysis.html"
+    },
+    {
+      "title": "What is sleep paralysis with false awakening? Is it a spiritual attack?",
+      "relevance": "Uyku felcinin doğal fizyolojik açıklamasını ve bunun Hristiyan inanç dili içinde nasıl değerlendirildiğini bir arada sunar.",
+      "url": "https://www.compellingtruth.org/sleep-paralysis.html"
+    },
+    {
+      "title": "Sleep Paralysis Spiritual Meaning & What to Do",
+      "relevance": "Uyku felci sırasında hissedilen baskı ve varlık algısını bazı Hristiyan yorumlarla ilişkilendiren popüler bir özet sunar.",
+      "url": "https://www.wikihow.com/Sleep-Paralysis-Spiritual-Meaning"
+    },
+    {
+      "title": "DREAMS",
+      "relevance": "Talmudik rüya anlayışında yorumun rüya anlamını etkilediğini özetler.",
+      "url": "https://www.rabbiwein.com/blog/dreams-596"
+    },
+    {
+      "title": "The Nightmare in Jewish History and Culture",
+      "relevance": "Yahudi tarihinde kabus kavramının kültürel ve ritüel boyutunu ele alır.",
+      "url": "https://yivo.org/Nightmare"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Kötü rüya sonrası hatavat chalom gibi Yahudi pratiklerini açıklar.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "Nightmares - Torah.org",
+      "relevance": "Rahatsız edici rüyalar için olumlu yorum ve yatıştırma yaklaşımını aktarır.",
+      "url": "https://torah.org/learning/integrity-nightmares/"
+    },
+    {
+      "title": "Significance of Dreams - Aish.com",
+      "relevance": "Rahatsız edici rüyalar sonrasında hatavat chalom, sadaka ve pratik dini tepkileri özetler.",
+      "url": "https://aish.com/significance-of-dreams/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Budist anlatıda tekrarlayan korkutucu rüya, merhum yakınlarla sevap paylaşımı/sevap aktarma uygulamalarıyla ilişkilendiriliyor.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Talmud’daki rüya pasajlarının kapsamını ve rüyalar üzerine yoğun bir literatür bulunduğunu belirtir.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Where is this sutta reference?",
+      "relevance": "Budist anlatıda tekrarlayan korkutucu rüya, merhum yakınlarla merit paylaşımı ve bunun koruyucu etkisiyle ilişkilendiriliyor.",
+      "url": "https://discourse.suttacentral.net/t/where-is-this-sutta-reference/34274"
+    },
+    {
+      "title": "Nightmare: Significance and symbolism",
+      "relevance": "Mahayana bağlamında kâbusu, korkutucu rüyalar ve bunları yatıştırmaya dönük bodhisattva pratiğiyle ilişkilendiriyor.",
+      "url": "https://www.wisdomlib.org/concept/nightmare"
+    },
+    {
+      "title": "Understanding the Nightmare – by His Holiness Penor ...",
+      "relevance": "Tibet Budizmi’nde kâbusu samsara’nın doğasını açıklayan bir benzetme olarak kullanıyor.",
+      "url": "https://www.tibetanbuddhistaltar.org/understanding-the-nightmare/"
+    },
+    {
+      "title": "[PDF] Dreaming the path: diagnosing Bodhisattva progress in early ...",
+      "relevance": "Tibet Budizmi'nde kabusu, samsara'nın doğasını açıklayan bir benzetme olarak kullanıyor.",
+      "url": "https://scholarlypublications.universiteitleiden.nl/access/item:4105024/view"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "slug": "heyelan",
+  "title": "heyelan",
+  "shortDescription": "Rüyada heyelan görmek, güven duygusunu sarsan ani bir değişim, kontrol kaybı ya da biriken stres ve ertelenen duyguların açığa çıkmasıyla ilişkilendirilebilir. Eski düzenlerin çözülüp yeni bir denge kurma ihtiyacını da yansıtabilir.",
+  "positiveAssociations": [
+    "Biriken stresin, ertelenmiş meselelerin veya bastırılmış duyguların açığa çıkması",
+    "Eski, işlevini yitirmiş yapıların çözülerek yenilenmeye alan açması",
+    "Zorlu ama dönüştürücü bir geçişin tetiklenmesi; arınma ve yeniden düzenlenme potansiyeli",
+    "Değişimin ve geçiciliğin kabulü yoluyla yeni bir denge kurma fırsatı"
+  ],
+  "challengingAssociations": [
+    "Ani çöküş, kontrol kaybı ve belirsizlik hissi",
+    "Güvenli zemin veya destek sistemlerinin (ör. çalışma, ilişki, ev veya aidiyet duygusu) zayıflaması",
+    "Uyanık yaşamda yoğun kaygı, kronik stres veya travmatik artçılarla paralel rahatsız edici içerikler",
+    "Toparlanması zor sarsıntılar, yitim ya da ağır sorumluluk baskısı duygusu"
+  ],
+  "contextDependentAssociations": [
+    "Heyelanın uzak bir yerde veya uzaktan izlendiği rüyalar, değişime dışarıdan bakma ve geçiciliği kavrama kapasitesiyle ilişkili okunabilir.",
+    "Heyelanın doğrudan rüya sahibinin yaşam alanında (ev, iş yeri) olması, mevcut yaşam dengesinde acil bir iç muhasebe veya müdahale gerektirebileceğine işaret edebilir.",
+    "Rüya sonrasında hissedilen rahatlama veya süregiden korku, uyanık hayattaki duygu düzenleme kapasitesi ve rüyanın kişisel bağlamıyla yakından bağlantılıdır."
+  ],
+  "commonVariations": [
+    {
+      "title": "Evimin arkasında toprak kayması",
+      "description": "En temel güvenlik alanının (barınma, aile yaşamı) tehdit altında olduğunu ve kişisel temellerin sarsıldığını ima eder."
+    },
+    {
+      "title": "Dağdan kopan büyük kaya ve toprak kütlesi",
+      "description": "Dışsal, durdurulamaz görülen büyük değişim dalgalarını; hayatın akışında kontrolün zorla elden çıkması hissini simgeler."
+    },
+    {
+      "title": "Heyelan sırasında güvenli bir yüksekliğe kaçmak",
+      "description": "Krize karşı zihinsel mesafe koruma, içsel strateji geliştirme ve durumdan sağ çıkma becerisinin rüya dilinde ifadesidir."
+    },
+    {
+      "title": "Heyelan altından zarar görmeden çıkmak",
+      "description": "Zorlu bir geçişin ardından gelen rahatlama, yüklerden kurtulma ve yeni bir denge kurma sürecine işaret eder."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmaları, korku ve felaket içerikli rüyaların uyanık hayattaki kaygı, stres ve duygusal düzenleme süreçleriyle bağlantılı olduğunu göstermektedir. Heyelan gibi ani, yıkıcı yer hareketleri rüyalarda sıklıkla güvende olma duygusunun sarsılması, kontrol kaybı veya biriken psikolojik gerilimlerin dışavurumu bağlamında ortaya çıkar; bunların anlamı rüya sahibinin yaşam koşullarına ve duygulanımına bağlı olarak değişir. Psikanalitik yaklaşımlar ise (Freud ve takipçileri bağlamında) su, düşme ve iniş imgelerini doğum veya bedensel duyum veya arzu ekseninde ele alır; ancak heyelanı tek bir psikanalitik anlama otomatikçe indirgemek yerine, benzer imgeler üzerinden kontrollü bir ilişkilendirme yapılması gerektiği vurgulanır.",
+  "jungian": "Jungcu çerçevede su ve yer imgeleri bilinçdışının katmanları ve psişik enerjinin hareketleriyle ilişkilendirilir. Heyelan, bilinçdışından yükselen yoğun içeriklerin veya bastırılmış dinamiklerin ani ve güçlü bir şekilde yüzeye çıkması olarak okunabilir; bu durum geçici bir düzen yıkımı ve sonrasında olası bir psişik yenilenme aşamasının habercisi olabilir. Bu yorum bağlama göre iyileştirici veya tehlike çağrışımlı olarak değişebilir.",
+  "islamicTradition": "Klasik İslami rüya yorumlarında dağın çökmesi, parçalanması veya toprağın yerinden oynaması gibi motifler genellikle hayatın sarsılması, büyük değişimler, manevi bağlılıkta zayıflama veya geçici sıkıntılarla ilişkilendirilir. Heyelan imgeleri için modern İslami yorumlarda ani değişim veya uyarı çağrışımları bulunmakla birlikte, bu atıflar her zaman klasik bir birincil metinle birebir doğrulanmamıştır; bu yüzden klasik gelenekteki temsiller, heyelan için kontrollü ve bağlama duyarlı okunmalıdır.",
+  "christianTraditions": "",
+  "jewishTraditions": "Yahudi rüya anlayışında rüyalar sembolik okunur; rahatsız edici ve sarsıcı imgeler bazen uyarı, tövbe çağrısı veya içsel inceleme işlevi taşır. Toprağın kayması ve beklenmedik çöküş imgeleri istikrarın sarsılması temasıyla ilişkilendirilebilir; bununla birlikte heyelan için doğrudan klasik bir madde bulunmadığından yorum, Talmudik ilkelere ve rüyanın bağlamına göre disiplinli bir sentez gerektirir.",
+  "buddhistEasternApproaches": "Budist yaklaşımlarda rüyalar zihnin yansıması olarak ele alınır; dağlar sağlamlığı ve tutunmayı, heyelan ise sabitlik yanılsamasının çöküşünü, geçiciliği (anicca) ve bağlardan çözülmeyi ima edebilir. Bu çerçevede heyelan, sabitlik duygusunun sarsılması ve kişinin bağlarını gözden geçirmesi gereken bir dönemeç olarak okunabilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda heyelan, birikmiş enerjinin, ertelenmiş meselelerin ya da dengesi bozulan yapının artık tutulamayarak dışavurumu şeklinde yorumlanır. Bu sembol genelde zorlayıcı ama dönüşüm getirici bir eşik, eski katmanların temizlenmesi ve yeniden kurulma gereksinimi ekseninde değerlendirilir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Anksiyete, stres ve duygusal düzenleme süreçlerinin rüya içeriğindeki yansıması; heyelan imgeleri psikolojik gerginlikle ilişkili olabilir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Bilinçdışının içeriklerinin ani bir güçle yüzeye çıkışı; düzenin bozulması ve psşik yenilenme olasılığı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Hayatın sarsılması, büyük değişimler, sıkıntı veya iç muhasebe çağrısı temalarıyla ilişkili geleneksel okuma.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik / Spiritüel Yaklaşım",
+      "interpretation": "Birikmiş yüklerin salınması, temel sarsılması ve dönüşüm eşiği olarak sembolik okuma.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli disiplinler heyelanı tekil ve sabit bir kehanet biçiminde değil; istikrarın bozulması, destek/zemin kaybı, kontrol kaybı ve zorunlu değişim dalgalarıyla ilgili bir sembol olarak ortak bir zeminde değerlendirir.",
+  "differences": "Ampirik psikoloji daha çok bireysel kaygı, stres ve duygu düzenleme süreçleriyle açıklar; Jungcu yaklaşım bilinçdışının enerji hareketleri ve arınma/yenilenme eksenine vurgu yapar. Dini ve spiritüel gelenekler ise imgeleri manevi uyarı, toplumsal sarsıntı veya dönüşüm ritüelleri ekseninde yorumlar. Bu yaklaşımlar sembolün bağlama göre farklı tonlar alabileceğini vurgular.",
+  "inusAssessment": "Heyelan sembolü, rüya bağlamında 'istikrarı bozan bir koşulun' bileşenleri (zeminin kayması, aşağı yönlü hareket, desteklerin yok olması) ile tanımlanır. Bir Insufficient but Necessary part of an Unnecessary but Sufficient condition olarak heyelan, istikrarın bozulmasına yol açabilecek nedenlerin (kısmi) bir parçası olabilir: tek başına gerekli veya yeterli olmasa da, belirli koşullar altında (ör. yakın tehdit, güçlü kaygı, somut yaşam değişiklikleri) rüya bağlamında önemli ve açıklayıcı bir öğe taşır. Yorumu etkileyen önemli değişkenler: olayın rüya içindeki yeri, rüya sahibinin gördüğü zarar veya zarar görmeme durumu, rüyanın tekrar etme sıklığı ve uyanık yaşam bağlamı.",
+  "faq": [
+    {
+      "question": "Rüyada heyelandan kaçıp kurtulmak ne anlama gelir?",
+      "answer": "Genellikle zorlu bir dönemeçte rüya sahibinin içsel direnci, kaynakları veya başa çıkma stratejileri sayesinde zarar görmeden çıkabileceğine işaret eder; aynı zamanda kriz sırasında zihinsel mesafe ve çözüm odaklı tutumun varlığını gösterebilir."
+    },
+    {
+      "question": "Heyelan rüyası sürekli tekrar ediyorsa ne anlam taşır?",
+      "answer": "Tekrarlayan heyelan rüyaları, uyanık yaşamda çözülmemiş kronik stres, sürdürülen belirsizlikler veya sürekli işlevselliği tehdit eden durumların zihinde işlendiğini gösterebilir; bağlam ve duygulanım değerlendirilmelidir."
+    },
+    {
+      "question": "Rüyada heyelan görüp zarar görmemek ile zarar görmek arasındaki fark neyi gösterir?",
+      "answer": "Zarar görmeden kurtulma, rüya sahibinin başa çıkma kapasitesi ve direnç kaynaklarına işaret ederken; zarar görme veya kayıp hissetme, yaşamda somut bir kayıp veya önemli bir istikrarsızlık kaynağına ilişkin daha güçlü kaygıları yansıtabilir."
+    },
+    {
+      "question": "Heyelan rüyası manevi bir uyarı mıdır?",
+      "answer": "Bazı dini ve kültürel geleneklerde rahatsız edici rüyalar uyarı işlevi görebilir; ancak rüyanın manevi bir mesaj olup olmadığı, rüya sahibinin inanç çerçevesi ve rüyanın kişisel bağlamıyla değerlendirilmelidir."
+    },
+    {
+      "question": "Rüyada uzak bir bölgede heyelan izlemek ne ifade eder?",
+      "answer": "Uzak bir heyelanı izlemek, değişimi uzaktan gözlemleme, kendi yaşamındaki dönüşümlere nesnel veya mesafeli bir bakış geliştirme ya da değişimin kişisel olmayan yönlerini kabul etme eğilimini gösterebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fear in dreams and in wakefulness: Evidence for day/night ...",
+      "relevance": "Rüyalarda korku içeriği ile uyanıklıkta duygusal tepkisellik arasındaki ilişkiyi ele alan çalışma; heyelan gibi korkutucu rüya imgelerinin uyanık anksiyeteyle bağlantılı olarak okunmasına kaynaklık eder.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7267911/"
+    },
+    {
+      "title": "Dream content: Reflections of the emotional and ...",
+      "relevance": "Travma yaşamış gruplarda rüya içeriğinin daha canlı, nahoş ve korkutucu olabildiğini bildiren çalışma; felaket/afet imgelerinin travmatik yük bağlamında daha sık görülebildiğini gösterir.",
+      "url": "https://psycnet.apa.org/record/2006-23055-001"
+    },
+    {
+      "title": "Peace of mind and anxiety in the waking state are related to ... - PMC",
+      "relevance": "Gündelik kaygı düzeyinin rüya duygulanımıyla ilişkisini inceleyen çalışma; olumsuz rüya içeriklerinin uyanık psikolojik durumla bağlantısını destekler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6109051/"
+    },
+    {
+      "title": "Association Between Dreams, Anxiety, and Depressive ... - PMC",
+      "relevance": "Ergenlerde rüya özellikleri ile anksiyete/depresif belirtiler arasındaki ilişkiyi inceleyen çalışma; rahatsız edici rüya içeriği ile psikolojik belirtiler arasındaki bağlantıya kanıt sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12286153/"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud'un su imgeleri, doğum ve rahimle ilişkilendirilmesi üzerine pasaj; heyelanın su/iniş tematikleriyle kontrollü bir ilişkilendirilmesine kaynak sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Düşme rüyalarının Freudcu bağlamda kimi durumlarda bedensel duyumlar veya erotik içeriklerle ilişkilendirilebileceğini gösteren klasik metin; heyelanı doğrudan eşlemek yerine benzer motiflere dikkat çekilmesini sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "SE 15.pdf",
+      "relevance": "Freud'un doğum ve su sembolizmi tartışması; suya ilişkin imgelerin psikanalitik okumalarında heyelanın dolaylı bir ilişkiyle ele alınabileceğini destekler.",
+      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149-169.pdf"
+    },
+    {
+      "title": "[PDF] Collected Works of C.G. Jung, Volume 16: Practice of Psychotherapy",
+      "relevance": "Jung'un su ve bilinçdışıyla ilgili açıklamaları; heyelanın Jungcu bir okumasının bilinçdışı içeriklerin yüzeye çıkışı ekseninde kurulmasına kaynaklık eder.",
+      "url": "https://jungiancenter.org/wp-content/uploads/2023/09/Vol-16-the-practice-of-psychotherapy-essays-on-the-psychology-of-the-transference-and-other-subjects.pdf"
+    },
+    {
+      "title": "Volume 12: Psychology and Alchemy",
+      "relevance": "Jungcu metinler üzerinden aşağıya iniş ve bilinçdışı derinlikleriyle ilgili temalar; heyelanın düzen bozulması ve yenilenme bağlamında yorumlanmasını destekler.",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-12-psychology-alchemy/"
+    },
+    {
+      "title": "[PDF] Franz, Marie-Louise von.pdf",
+      "relevance": "Marie-Louise von Franz'ın su imgelerinin bağlama göre değişen anlamları üzerine çalışması; heyelanı bastırılmış içeriğin ani boşalması olarak düşünmeye elverişli kılar.",
+      "url": "http://ndl.ethernet.edu.et/bitstream/123456789/14463/1/Franz,%20Marie-Louise%20von.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritik geleneğin ana metni; Artemidorus'un yaklaşımı heyelan için doğrudan bir madde sunmasa da aşağı yönlü yıkıcı hareketlerin tarihsel yorum çerçevesini gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Full text of \"Artemidoros aus Daldis Symbolik der Träume -- Artemidorus ; übersetzt und mit Anmerkungen begleitet von Friedrich S. Krauss\"",
+      "relevance": "Artemidorus geleneğinde 'yamaçtan aşağı yuvarlanma' gibi motiflerin olumsuz okunabildiğini gösteren kaynak; heyelanla tarihsel paralellik kurulmasına yardımcı olur.",
+      "url": "https://archive.org/stream/BIUSante_55615/BIUSante_55615_djvu.txt"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Oneirokritica'nın tarihsel bağlamı ve rüya sembollerinin kullanım mantığına ilişkin açıklama; heyelanın antik literatürdeki yerinin dolaylı olarak değerlendirilmesini sağlar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’ta anlamlı rüya ile anlamsız uyku görüntüsü ayrımını ve rüya terimlerinin kullanımını tartışır.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "Rüyada Heyelan Görmek Ne Anlama Gelir?",
+      "relevance": "Modern İslami rüya yorumu metni; heyelanın ani değişim ve sıkıntı bağlamında çağdaş yorumlara nasıl yansıtıldığını örnekler.",
+      "url": "https://www.diyadinnet.com/ruyada-434-heyelan-gormek"
+    },
+    {
+      "title": "Mountains Islamic Interpretations & Meanings",
+      "relevance": "Dağların parçalanması veya çöküşü motiflerinin klasik İslami rüya yorumlarında hangi temalarla ilişkilendirildiğini gösteren kaynak.",
+      "url": "https://www.myislamicdream.com/mountains.html"
+    },
+    {
+      "title": "Mountain Islamic Interpretations & Meanings",
+      "relevance": "Dağların parçalanması ve çökmüş dağ imgesi üzerinden büyük sarsıntılar için sembolik çerçeve sunan klasik içerik.",
+      "url": "https://www.myislamicdream.com/mountain.html"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Talmudik ve klasik Yahudi rüya anlayışının genel ilkeleri; sembolik okumalar ve rüyanın yorumunun önemine dair temel çerçeve sunar.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot üzerindeki tartışmalar aracılığıyla Talmudik rüya prensipleri ve rahatsız edici rüyaların ruhsal işlevi hakkında bilgi verir; heyelan yorumunda disiplinli bir senteze kaynaklık eder.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist rüya yaklaşımını özetleyen metin; dağ/heyelan motiflerinin geçicilik ve zihnin yansıması bağlamında okunmasına temel sağlar.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Landslide Dreams: Meaning, Emotions, and Practical Ways to ...",
+      "relevance": "Rüyada heyelanı doğrudan ele alan modern yorum metni; sembolün stres, dönüşüm ve yeniden düzenlenme çerçevesinde okunmasına örnek oluşturur.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/landslide"
+    },
+    {
+      "title": "Landslide in dreams — meaning and symbolism",
+      "relevance": "Heyelanı ezoterik bir dille açıklayan modern kaynak; enerji dengesinin bozulması ve eski katmanların temizlenmesi temalarını sunar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/landslide"
+    },
+    {
+      "title": "Dream About Landslide — Meaning & Interpretation",
+      "relevance": "Heyelanın mistik geçiş ve zorlayıcı dönüşüm olarak yorumlandığı popüler bir kaynak; çağdaş spiritüel okumalara örnek teşkil eder.",
+      "url": "https://thedreamindex.com/dream-about-landslide/"
+    },
+    {
+      "title": "Landslide Dreams: Meaning & Interpretation | Somniscient",
+      "relevance": "Heyelanı spiritüel ve Jungcu bir dille ele alan modern yorum; kontrol kaybı, korku ve doğanın gücü temalarını vurgular.",
+      "url": "https://somniscient.com/en/symbols/landslide"
+    },
+    {
+      "title": "Horoscope today mega-accurate from star astrologer Erich Bauer",
+      "relevance": "Heyelanı ezoterik açıdan dengenin bozulması ve içsel güvensizlik olarak yorumlayan modern bir astroloji/rüya yorum metni.",
+      "url": "https://www.astroportal.com/en/dream-interpretation/landslide/"
+    },
+    {
+      "title": "Natural Disaster in dreams — meaning and symbolism",
+      "relevance": "Doğal afetler bağlamında heyelanı, ertelenmiş meselelerin hareket etmeye başlaması ve daha büyük bir ritme teslimiyet fikriyle ilişkilendiren modern ezoterik yorum.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/natural-disaster"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "buddhist-eastern"
+  ]
+}

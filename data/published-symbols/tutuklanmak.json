@@ -1,0 +1,210 @@
+{
+  "slug": "tutuklanmak",
+  "title": "tutuklanmak",
+  "shortDescription": "Rüyada tutuklanmak, kendinizi kısıtlanmış, baskı altında ya da hesap vermek zorunda hissediyor olmanıza işaret edebilir. Suçsuz yere tutuklanmak haksızlık duygusunu, tutukluluktan çıkmak ise ferahlama ve yüklerden kurtulmayı öne çıkarır.",
+  "positiveAssociations": [
+    "İş sahasında başarı ve itibar",
+    "İçsel disiplin ve farkındalık",
+    "Yüklerden arınma ve ferahlık",
+    "Dışsal koruma ve sabırlı bekleyiş"
+  ],
+  "challengingAssociations": [
+    "Özgürlüğün kısıtlanması ve dış baskı",
+    "Suçluluk ve ceza beklentisi",
+    "İçsel sıkışmışlık ve kontrol kaybı",
+    "Enerji akışında blokaj"
+  ],
+  "contextDependentAssociations": [
+    "Rüya sırasında hissedilen korkunun uyanıklık duygularıyla birebir örtüşmemesi",
+    "Yasa ihlali içeren içeriklerin yakalanma ve sonuç beklentisiyle bağlantısı",
+    "Hapisten çıkış anının ferahlık veya yüklerden kurtuluş olarak algılanması",
+    "Mahkûmiyet, durumun mahiyetine göre koruma ya da darlık anlamı taşıyabilir."
+  ],
+  "commonVariations": [
+    {
+      "title": "Suçsuz Yere Tutuklanmak",
+      "description": "Rüyada herhangi bir suç işlemediği halde polisler tarafından kelepçelenerek gözaltına alındığını görmek, uyanıklık yaşamında maruz kalınan dışsal baskıları, haksızlık hissini veya kişinin kendi koyduğu sınırlarla çatışmasını yansıtır."
+    },
+    {
+      "title": "Polisten Kaçarken Yakalanıp Tutuklanmak",
+      "description": "Bir takip sahnesinin ardından kaçamayarak tutuklandığını görmek, bastırılan bir konunun, vicdan muhasebesinin veya kaçınılmaz bir sorumluluğun artık ertelenemez biçimde farkındalığa çağrıldığını gösterir."
+    },
+    {
+      "title": "Mahkemede Yargılanıp Tutuklanma Kararı Alınması",
+      "description": "Resmi bir makam veya mahkeme huzurunda suçlu bulunarak tutuklanmak, kişinin içsel otoritesiyle hesaplaşmasını, vicdani muhasebesini ve davranışlarının sonuçlarıyla yüzleşme ihtiyacını simgeler."
+    },
+    {
+      "title": "Tutuklanarak Zindana Kapatılmak",
+      "description": "Dar ve karanlık bir hücreye veya zindana kapatıldığını görmek, simgesel düzeyde nefsin kısıtlanmasını, dünya bağlarını, sabır gerektiren bir imtihan dönemini ya da iş sahasındaki yoğun disiplini temsil eder."
+    }
+  ],
+  "psychology": "Ampirik psikoloji çalışmalarında tutuklanma rüyalarının doğrudan sabit bir anlam taşıdığına dair kesin bir bulgu yoktur; ancak rüyalardaki olumsuz duygulanımın korunduğu ve yasa ihlali içeren içeriklerin genellikle yakalanma veya tehdit beklentisiyle ilişkili olduğu bilinmektedir.",
+  "jungian": "Analitik psikoloji açısından hapsedilme veya kısıtlanma teması, bilinçdışının etkisiyle içe kapanma ve bireyleşme sürecinde eylem özgürlüğünün geçici olarak kısıtlanmasıyla ilişkilendirilir.",
+  "islamicTradition": "Klasik İslami yorum çizgisinde rüyada tutuklanarak zindana girmek iş hayatında başarı ve şan-şerefle ilişkilendirilebilir. Genel anlamda hapis, borç, hastalık veya sabır gerektiren bir imtihan olarak görülür. Hapisten çıkış ise ferahlık, borçtan kurtuluş ve şifa olarak yorumlanır.",
+  "christianTraditions": "Hristiyan teolojik okumada tutuklanma imgesi, vicdanın hesaba çağrılması, kişinin davranışlarının sorgulanması ve içsel bir değerlendirme ile tövbe ihtiyacı bağlamında ele alınır.",
+  "jewishTraditions": "Talmudik geleneğin rüyalara yaklaşımında rüya tek başına kesin bir hüküm kaynağı olarak görülmez; bu çerçevede tutuklanma teması, kısıtlanma ve otorite karşısında durdurulma gibi genel engellenme halleriyle ihtiyatlı biçimde bağdaştırılabilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda tutuklanmak, benliğin kendini ifade etme arzusu ile sansürleme mekanizması arasındaki gerilimi, hayatın bir alanında zorla durdurulmuşluk hissini ve enerjinin akışındaki blokajları temsil eder.",
+  "comparisonTable": [
+    {
+      "approach": "Psikolojik Yaklaşım",
+      "interpretation": "Tehdit beklentisi, vicdan muhasebesi ve uyanıklık duygularının yansıması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik çerçeve",
+      "interpretation": "Bastırılmış bir istek ile cezalandıran içsel ruhsal otorite arasındaki çatışma.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Perspektif",
+      "interpretation": "Bilinçdışı içeriklerin etkisiyle yaşanan içe kapanma ve psişik kısıtlanma.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "İmtihan, sabır, dünya bağları veya iş hayatında başarı ve ferahlık.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Vicdanın hesaba çağrılması ve davranışların sorgulanması.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Okuma",
+      "interpretation": "Özgürlüğün daralması, dış baskılar ve enerji akışındaki blokajlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenek ve disiplinlerin ortak paydasında tutuklanmak; bir sınırla karşılaşma, özgürlüğün kısıtlanması, durdurulma ve bireyin kendi iç dünyası ya da dış çevreyle yaşadığı gerilim temalarını barındırır.",
+  "differences": "Psikolojik yaklaşımlar temayı duygu ve tehdit beklentisiyle açıklarken, psikanaliz içsel ceza mekanizmalarına odaklanır; İslami gelenek sabır, imtihan ve ferahlık ekseninde okurken spiritüel yaklaşımlar enerji blokajları ve özgürlük alanının daralmasını öne çıkarır.",
+  "inusAssessment": "Rüyada tutuklanmak sembolü, dışsal bir suç veya olaydan ziyade bireyin kendi iç denetim mekanizmaları, sınırları ve baskılanmış dürtüleri arasındaki gerilimi sahneler. Bu rüyayı yorumlarken tutuklanmanın gerçekleştiği anın duygu tonu, kişinin suçluluk hissedip hissetmediği ve rüya sonrasındaki ferahlık ya da darlık hissi, sembolün anlamını belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada suçsuz yere tutuklanmak ne anlama gelir?",
+      "answer": "Suçsuz yere tutuklanmak, uyanıklık yaşamında kişinin kendini haksız yere baskı altında hissettiği durumları, dışsal kısıtlamaları veya kendi koyduğu katı sınırlarla yaşadığı çatışmaları yansıtabilir."
+    },
+    {
+      "question": "Rüyada tutuklanıp hapishaneden çıktıktan sonra ferahlamak nasıl yorumlanır?",
+      "answer": "Hapishaneden çıkış veya tutukluluk halinin sona ermesi, genellikle yüklerden arınma, borç veya sıkıntılardan kurtulma, içsel bir ferahlığa ulaşma ve sabır gerektiren bir dönemin geride kalması şeklinde okunur."
+    }
+  ],
+  "sources": [
+    {
+      "title": "[PDF] The Neurocognitive Theory of Dreaming",
+      "relevance": "Rüya içeriğinde duyguların ve içerik örüntülerinin nasıl değerlendirildiğine dair nörobilişsel çerçeve.",
+      "url": "https://dreams.ucsc.edu/NCTD/Neurocognitive%20Theory%20of%20Dreaming%20(Domhoff%202022).pdf"
+    },
+    {
+      "title": "“Breaking the law” in dreams: Analysis of a long dream series",
+      "relevance": "Uzun bir rüya dizisinde yasa ihlali, yakalanma ve tutuklanma korkusuyla ilişkili rüya içeriklerinin görülme sıklığı.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/78797"
+    },
+    {
+      "title": "Relationships between Dream and Previous Wake Emotions ...",
+      "relevance": "Rüya duyguları ile önceki uyanıklık duyguları arasındaki ilişkinin ve rüyalardaki olumlu-olumsuz duygulanım örüntülerinin ampirik incelenmesi.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601812/"
+    },
+    {
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Freud’un rüya kuramında dilek doyumu, bastırma ve ceza rüyaları arasındaki ilişkiyi açıklar; tutuklanma imgesinin Freudcu yorumunda temel teorik dayanak sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
+    },
+    {
+      "title": "Remarks On The Theory And Practice Of Dream-Interpretation p. 4039",
+      "relevance": "Rüya sansürü ve ceza rüyalarının uykuyu sürdürme işlevini ele alır; tutuklanma temasının içsel denetim ve cezalandırma bağlamında okunmasına zemin sağlar.",
+      "url": "https://www.noinputbooks.aphasic-letters.com/endless/cc_06-27-11_07-23-11/Hogarth%20Press/1953-74/freud.complete.works.standard.edition.english.trans.strachey.hlp.and.html.version/html/Remarks_On_The_Theory_An/Remarks_On_The_Theory_An00004038.htm"
+    },
+    {
+      "title": "Interpretation of the Fourth Vision",
+      "relevance": "Hapsedilmenin bilinçdışı içeriklere kapılma, içe kapanma ve bireyleşme sürecindeki sembolik işlevini tartışan Jungçu bir metin.",
+      "url": "https://carljungdepthpsychologysite.blog/2022/06/11/vision-53/"
+    },
+    {
+      "title": "In the Night Kitchen, by Daldianus Artemidorus, Translated by Daniel E. Harris-McCoy",
+      "relevance": "Artemidorus’un rüya yorumunda hapishane, zincirlenme ve toplumsal sonuçların nasıl işlendiğini özetleyen akademik tanıtım ve çeviri bağlamı.",
+      "url": "https://harpers.org/archive/2013/08/in-the-night-kitchen/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un Oneirocritica’sına erişilebilir çeviri; rüya yorumu için genel yöntem ve bağlamsal yaklaşımı gösteren metin.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Illness and its Metaphors in Artemidorus’ Oneirocritica. A Negative list, in: Steven Oberhelman (ed.), Dreams, Healing, and Medicine in Greece. From Antiquity to the Present, Ashgate 2013, 128–158.",
+      "relevance": "Artemidorus’ta işlev kaybı, esaret ve hapishane ile ilişkili rüya imgelerini tartışan akademik inceleme.",
+      "url": "https://www.academia.edu/11907140/Illness_and_its_Metaphors_in_Artemidorus_Oneirocritica_A_Negative_list_in_Steven_Oberhelman_ed_Dreams_Healing_and_Medicine_in_Greece_From_Antiquity_to_the_Present_Ashgate_2013_128_158"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Rüyada tutuklanarak zindana girmenin işte başarı ve itibar anlamına gelebileceğini aktarıyor.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "A prison in a dream - The Islamic Dream Book",
+      "relevance": "Hapishane sembolünü borç, hastalık, kısıtlanma ve sabır gerektiren imtihanla ilişkilendiriyor; çıkışını ise ferahlık olarak yorumluyor.",
+      "url": "https://theislamicdreambook.com/a-prison-in-a-dream/"
+    },
+    {
+      "title": "What Does Dreaming Of Being in Prison Mean? - Rüya Tabirleri",
+      "relevance": "İslami gelenekte hapis sembolünün dünya bağları, zorluklar, nefsin kısıtlanması ve kurtuluş temalarıyla nasıl okunduğunu özetliyor.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-being-in-prison"
+    },
+    {
+      "title": "What does it mean to see a prison cell in a dream? - molla.az",
+      "relevance": "Hapishane hücresini tutuklanma, korunma, fayda ve sabırlı bekleyişle ilişkilendiren kısa bir İslami yorum sunuyor.",
+      "url": "https://www.molla.az/en/dream-interpretation/what-does-it-mean-to-see-a-prison-cell-in-a-dream"
+    },
+    {
+      "title": "What Does It Mean to Dream About Being Arrested",
+      "relevance": "Rüyada tutuklanmayı Hristiyan teolojik okumada vicdanın hesaba çağrılması ve tövbe ihtiyacıyla ilişkilendiren kısa açıklama.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/being-arrested/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot’ta rüyalar, belirsiz rüya için okunacak dua ve kötü rüyaya karşı tutum çerçevesi sunar; 'tutuklanmak' için doğrudan bir tabir vermez.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Talmud’daki rüya bölümlerinin konumunu gösteren sayfa referansı; 'tutuklanmak' için doğrudan rüya yorumu sağlamaz.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Berakhot 10.a - Steinsaltz Center",
+      "relevance": "Rüyaların kesin hüküm kaynağı olarak alınmaması gerektiği fikrini destekleyen Talmud açıklaması.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/10.a"
+    },
+    {
+      "title": "Rüyada Tutuklanmak | TAROTIKA.COM",
+      "relevance": "Rüyada tutuklanmayı hareket alanının daralması, özgürlüğün kısıtlanması ve dış baskıların sembolü olarak okuyan modern bir yorum metni.",
+      "url": "https://www.tarotika.com/ruya-tabirleri/ruyada-tutuklanmak"
+    },
+    {
+      "title": "Rüyada tutuklanmak; içsel suçluluk, bastırılmış özgürlük arzusu ...",
+      "relevance": "Rüyada tutuklanmayı içsel suçluluk, bastırılmış özgürlük arzusu ve kendi kendine koyulan sınırlarla yüzleşme olarak yorumlayan modern bir spiritüel metin.",
+      "url": "https://fallarim.com/ruya/ruyada-tutuklanmak-icsel-sucluluk-bastirilmis-ozgurluk-arzusu-dissal-baskilar-veya-kendi-kendine-koydugun-sinirlarla-yuzlesmeyi-simgeler"
+    },
+    {
+      "title": "Rüyada Birinin Tutuklandığını Görmek Ne Anlama Gelir?",
+      "relevance": "Rüyada tutuklanmayı kısıtlanmalar, sorumluluklar, içsel çatışmalar ve vicdan azabı temalarıyla bağlayan modern bir yorum metni.",
+      "url": "https://diyanetruyatabirleri.com.tr/birini/ruyada-birinin-tutuklandigini-gormek-ne-anlama-gelir"
+    },
+    {
+      "title": "Dreaming of Arrest: Meaning, Symbolism & Interpretation",
+      "relevance": "Rüyada tutuklanmayı hareketin kesilmesi, baskı ve özgürlük alanının daralması gibi sembolik bir durum olarak ele alan modern ezoterik bir yorum metni.",
+      "url": "https://dreamz-journal.com/blog/dream-symbol/arrest/"
+    },
+    {
+      "title": "Arrested in dreams — meaning and symbolism",
+      "relevance": "Rüyada tutuklanmayı ezoterik okumada enerjinin akışında blokaj, korku ve kontrol altında tutulma hissi ile ilişkilendiren modern bir sembolik yorum metni.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/arrested"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "christian"
+  ]
+}

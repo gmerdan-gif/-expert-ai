@@ -1,0 +1,249 @@
+{
+  "slug": "kuruyemis",
+  "title": "Kuruyemiş (sembol)",
+  "shortDescription": "Rüyada kuruyemiş, dışı korunan ama içinde değer taşıyan bir potansiyeli veya emekle elde edilecek küçük bir kazancı simgeleyebilir. Kabuk kırmak bir konunun özüne ulaşmayı; taze kuruyemiş doyumu, bozuk ya da acı kuruyemiş ise beklenen faydanın aksamasını çağrıştırır.",
+  "positiveAssociations": [
+    "Gizli potansiyel",
+    "Korunmuş içsel değer",
+    "Emekle elde edilen küçük kazanç"
+  ],
+  "challengingAssociations": [
+    "Kabuğu aşma güçlüğü",
+    "Bozulma veya tatsızlık nedeniyle sıkıntı",
+    "Zahmet ve yorgunluk hissi"
+  ],
+  "contextDependentAssociations": [
+    "Kuruyemişin taze/bozuk olması",
+    "Kabuklu/kırılmış/soyulmuş görünümü",
+    "Yemek yeme veya kuruyemiş alma öncesindeki davranışlar ve rüyadaki duygular",
+    "Kuruyemişin birine verilme veya toplanma bağlamı",
+    "Tür farkları (badem, fındık, ceviz vb.)"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kabuklu kuruyemişleri kırmak",
+      "description": "Kabuğu kırma eylemi, zorlayıcı bir sürecin ardından bir meselenin özüne ulaşma veya saklı bir yeteneği açığa çıkarma şeklinde okunabilir."
+    },
+    {
+      "title": "Taze, lezzetli kuruyemiş yemek",
+      "description": "Rüyada taze kuruyemiş yemek, günlük yaşamda elde edilen küçük ama tatmin edici kazançlar veya içsel doyum anlarına işaret edebilir."
+    },
+    {
+      "title": "Bozuk ya da acı kuruyemişlerle karşılaşmak",
+      "description": "Kuruyemişlerin bozuk olması, beklenen faydanın aksaması, hayal kırıklığı ya da elde edilen şeyin beklentiyi karşılamaması şeklinde yorumlanabilir."
+    },
+    {
+      "title": "Kuruyemiş toplamak/depoda biriktirmek",
+      "description": "Toplama eylemi, emekle oluşturulan kaynakların birikimi, sabır ve planlama gerektiren bir süreç ya da birikmiş potansiyelin korunması olarak görülebilir."
+    }
+  ],
+  "psychology": "Ampirik rüya çalışmalarının bulguları (nesne imgeleri ile duygulanım ilişkisi) kuruyemiş sembolünün yorumunda somut bir ilke sunar: tek bir nesnenin anlamı, rüyanın duygusal tonu ve nesnenin özellikleri birlikte ele alındığında belirlenir. Freudcu çerçevede kuruyemiş genellikle yiyecek ve haz bağlamında ele alınır; kabuğu ise erişimi geciktiren veya örten bir işlev görebilir. Bu bir olasılıktır; kesin bir hüküm değildir.",
+  "jungian": "Temkinli Jungcu yaklaşımlarda kuruyemiş, kabuk içinde korunmuş bir iç çekirdek olarak okunur: benliğin henüz açığa çıkmamış yönleri, içsel potansiyel veya psikolojik bütünleşme sürecinin bir metaforu olabilir. Doğrudan C. G. Jung’un temel eserlerinde kuruyemişe özel bir pasaj bulunmadığı için bu yorum temkinli tutulmalı ve rüya sahibinin kişisel çağrışımlarıyla desteklenmelidir.",
+  "islamicTradition": "İslami yorumlarda genellikle taze kuruyemiş olumlu, bozuk kuruyemişse olumsuz okunur; yorum yapılırken kaynağın klasik mi yoksa modern bir derleme mi olduğuna dikkat edilmelidir.",
+  "christianTraditions": "Kutsal metinlerde kuruyemiş doğrudan yaygın bir rüya motifi olmasa da Hristiyan sembolizminde kuruyemişler genellikle yeryüzünün bereketi ve Tanrı’nın verdiği nimetlerle ilişkilendirilir; badem gibi türlerin belirli geleneklerde haberci veya seçkinlik çağrışımları bulunur. Bu bağlam, kuruyemişi rüyada bolluk veya ilahi lütufla bağlantılandırma olanağı sunar ama doğrudan rüya doktrini değildir.",
+  "jewishTraditions": "Yahudi sembol kaynaklarında kuruyemişler sıklıkla Tora’nın gizli çekirdeği, bilginin korunmuş özü veya toplumsal düzenin alegorisi olarak ele alınır. Zohar benzeri mistik metinlerde kuruyemiş imgesi katmanlı düzenler için kullanılır; rüya yorumu bağlamında bu gelenek kuruyemişi içsel değer ve yorum gerektiren bir işaret olarak okumaya uygundur, fakat doğrudan klasik bir rüya girişi olarak doğrulanmamıştır.",
+  "buddhistEasternApproaches": "Modern çevrimiçi ve bazı Budist yaklaşım yorumlarında kuruyemişin sert kabuğu zihinsel engelleri veya yanılsamaları, içindeki çekirdek ise kavranacak bilgelik ya da aydınlanma potansiyelini sembolize eder. Bu okumalar genelde Budist felsefenin rüyaların boşluğa ilişkin vurgusuyla örtüşür; ancak eldeki materyalin çoğu klasik kanonik metin yerine modern yorumlardır ve bu sınırlama açıkça belirtilmelidir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel literatürde kuruyemiş, \"korunan içsel hazine\", gizli potansiyel ve emekle açılan değer temalarıyla ilişkilendirilir. Kabuğun açılması sembolik olarak yüzeyselin ötesine geçme, sırları veya yetenekleri açığa çıkarma eylemi olarak okunur.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Kuruyemişi yiyecek/haz bağlamında ve kabuk aracılığıyla sansür/örtülü içerik metaforu olarak değerlendirme.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Psikolojik ampirik çalışma",
+      "interpretation": "Nesne imgeleri ile rüya duygusunun birlikte ele alınmasının kuruyemiş yorumunu daha güvenilir kıldığını gösterir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "İslami gelenek (modern aktarımlar)",
+      "interpretation": "Taze/bozuk ayrımı üzerinden rızık, bereket veya sıkıntı ekseninde yorumlar sunar; çoğunlukla modern derlemelere dayalıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel / Doğu okuma",
+      "interpretation": "Kabuk-çekirdek karşıtlığı üzerinden içsel potansiyel, engel aşma ve bilgelik temalarını vurgular.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşım kuruyemişi dışarıdan görülen bir koruyucu katman ile içinde saklı değerli bir çekirdek ikilisi olarak okur; yorum farkları, bu ikiliğin hangi yönüne vurgu yapıldığıyla (rızık, içsel potansiyel, sansür vb.) ortaya çıkar.",
+  "differences": "Psikanaliz daha çok yiyecek/hoşlanma ve sansür metaforlarına; İslami gelenekler rızık-bereket eksenine; spiritüel ve Doğu okumaları ise engel/aydınlanma ikiliğine odaklanır. Her yaklaşım sembolü farklı bir pratik veya ahlaki bağlama bağlı olarak değerlendirir.",
+  "inusAssessment": "Kuruyemiş rüyalarının yorumu genellikle tek bir öğeden çok, birden fazla bağlamsal unsurun birleşimine dayanır: örneğin kapalı kabuğun varlığı, rüyanın duygusal tonu ve kuruyemişin fiziksel durumu birlikte değerlendirildiğinde daha net anlamlar ortaya çıkar. Bu nedenle yalnızca kuruyemiş görüntüsüne bakmak yerine bağlamsal koşulların dikkate alınması önemlidir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "University of Dundee",
+      "relevance": "Rüyalardaki nesne imgeleri ile nesne sayısı ilişkisini inceleyerek, kuruyemiş gibi somut nesnelerin rüya analizinde ölçülebilir özellikler taşıyabileceğini ve bu özelliklerin (ör. kabuklu/kırık) yorumda dikkate alınması gerektiğini göstermektedir.",
+      "url": "https://discovery.dundee.ac.uk/ws/portalfiles/portal/1199055/Murzyn_phd_2010.pdf"
+    },
+    {
+      "title": "Regarding affects and imagery in dreams",
+      "relevance": "Rüyadaki imge ve duygulanım ilişkisinin kuruyemiş sembolünün yorumunda doğrudan önem taşıdığını; örneğin kuruyemişin gözlemlenen halinin rüyanın duygusal tonuyla birlikte değerlendirilmesi gerektiğini destekleyen ampirik çerçeve sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/26386"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un yiyecek imgeleri, doyum ve sansür kavramları çerçevesinde, kuruyemişin ‘yenilen nesne’ ve kabuğun sansür/örtü işlevi üzerinden okunabileceği teorik zemini sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Dream - Unconscious, Interpretation, Symbolism",
+      "relevance": "Freud’un rüya çalışmasında sembolleştirme, sansür ve örtük isteklerin düşsel imgelerle ifade edilmesi çerçevesini özetleyen kaynak.",
+      "url": "https://www.britannica.com/topic/dream-sleep-experience/Psychoanalytic-interpretations"
+    },
+    {
+      "title": "Dreams About Food and Eating: A Literature Review",
+      "relevance": "Rüyalarda yiyecek imgelerinin genel yaklaşımlarını derleyerek, kuruyemiş gibi besin imgelerinin haz, ihtiyaç ve sembolik doyumla ilişkilendirilebileceğine dair literatür desteği verir.",
+      "url": "https://sleepandhypnosis.org/wp-content/uploads/2024/07/c33e8622e0b54b798969ad7bda85a3fd.pdf"
+    },
+    {
+      "title": "Freud's Method for Interpreting Dreams - London",
+      "relevance": "Freudcu yöntemin pratik yönlerini özetleyerek, kuruyemiş gibi nesnelerin kişisel çağrışımları ve örtük içerikle birlikte ele alınmasının önemini vurgular.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/freuds-method-for-interpreting-dreams/"
+    },
+    {
+      "title": "Nuts",
+      "relevance": "Jungcu yaklaşıma yakın çevrimiçi bir yorum sunar; kuruyemişin kabuk-çekirdek ikilisi üzerinden içsel potansiyel ve korunmuş psikolojik içeriğe dair bir perspektif verir.",
+      "url": "https://rosmertapublishing.com/dream-symbols/nuts/"
+    },
+    {
+      "title": "Dreams by Marie-Louise von Franz — Dreams of Jung, Descartes, Socrates, and Historical Figures | Seba.Health",
+      "relevance": "Von Franz’ın rüya ve sembol anlayışını özetleyerek, kuruyemiş imgesinin egonun henüz fark etmediği psişik veriler ve dönüşüm süreçleriyle ilişkilendirilebileceğini gösteren temkinli bir Jungcu çerçeve sağlar.",
+      "url": "https://www.seba.health/library/the-psyche/vonfranz-dreams/"
+    },
+    {
+      "title": "Nut / nuts",
+      "relevance": "Artemidorus geleneğine atfedilen modern aktarım; kırılan yemişlerin tarihsel oneirokritik kaynaklarda sıkıntı veya gürültüye bağlandığını bildirir ve kuruyemişin antik rüya-okuma gelenekleri içinde nasıl yer alabileceğine dair örnek sunar.",
+      "url": "http://www.dreamtation.com/docs/5470.htm"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus ve Oneirocritica hakkında genel bilgi sağlayarak, kuruyemiş benzeri nesnelerin Greko-Romen rüya yorum geleneğinde ele alınma tarzına ilişkin tarihsel bağlam verir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un profesyonel rüya yorumcusu olduğunu ve Oneirocritica’nın rüya sınıflandırması ile yorum yöntemi sunduğunu açıklar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Interpretation of a dream about Nuts by Ibn Sirin - Interpretation of Dreams",
+      "relevance": "Modern İslami rüya tabirleri üzerinden kuruyemişin rızık, bereket ve iyi/bozuk ayrımıyla nasıl yorumlandığını örnekleyen çağdaş bir derlemedir.",
+      "url": "https://en.joellemena.com/dreaminterpretation/Nuts-dream-interpretation/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri K Harfi - Muhammed.net",
+      "relevance": "Türkçe modern rüya tabirleri bağlamında kuruyemişin kâr, kazanç ve bazen üzüntü ile ilişkilendirildiğini gösterir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
+    },
+    {
+      "title": "Nuts Islamic Interpretations & Meanings",
+      "relevance": "Kuruyemiş ve özellikle fındık için İslami rüya çağrışımlarını, zenginlik, cömertlik ve zahmetle kazanılan para ekseninde toplayan çevrimiçi derleme.",
+      "url": "https://www.myislamicdream.com/nuts.html"
+    },
+    {
+      "title": "Interpretation of a dream about eating nuts for Ibn Sirin - Interpretation of Dreams",
+      "relevance": "Kuruyemiş yeme, bozuk kuruyemiş ve fındık üzerinden bereket, rızık, cömertlik ve helal kazanç temalarını aktaran modern derleme.",
+      "url": "https://en.tafseer-dreams.com/Interpretation-of-a-dream-about-eating-nuts/"
+    },
+    {
+      "title": "Topical Bible: Nut",
+      "relevance": "Biblikal literatürde kuruyemişlerin bolluk ve yaratılışın nimetleriyle ilişkilendirildiğini özetleyerek, Hristiyan sembolik bağlamda kuruyemişin olumlu bereket çağrışımlarına nasıl katkıda bulunduğunu açıklar.",
+      "url": "https://biblehub.com/topical/n/nut.htm"
+    },
+    {
+      "title": "Nut: General Scriptures Concerning - Topical Bible",
+      "relevance": "Kuruyemişleri Tanrı’nın bolluğu ve sağladığı nimetler çerçevesinde ele alan biblikal konu özeti.",
+      "url": "https://biblehub.com/topical/naves/n/nut--general_scriptures_concerning.htm"
+    },
+    {
+      "title": "[PDF] Mediterranean nuts: origins, ancient medicinal benefits and symbolism",
+      "relevance": "Akdeniz kuruyemişlerinin tarihsel sembolizmini ve Hristiyan gelenekte özellikle bademin Meryem ve bakire doğumla ilişkilendirilmesini ele alan akademik çalışma.",
+      "url": "https://repositori.urv.cat/repositori/getDocument/PC:3172?ds=DocumentPrincipal&mime=application/pdf"
+    },
+    {
+      "title": "Topical Bible: Nuts",
+      "relevance": "Kuruyemişlerin biblikal bağlamda bolluk, bereket ve yaratılışın zenginliğiyle ilişkilendirildiğini özetleyen konu sayfası.",
+      "url": "https://biblehub.com/topical/n/nuts.htm"
+    },
+    {
+      "title": "Nut - The 1901 Jewish Encyclopedia - StudyLight.org",
+      "relevance": "Yahudi ansiklopedik gelenekte kuruyemişin Tora ve bilginin korunmuş çekirdeği olarak algılanmasına dair tarihsel sembolik arka plan sağlar ve bu çerçeve rüya yorumuna alegorik bir perspektif katar.",
+      "url": "https://www.studylight.org/encyclopedias/eng/tje/n/nut.html"
+    },
+    {
+      "title": "Israel Environment & Nature: Nuts",
+      "relevance": "Kuruyemişin Yahudi tarihsel-sembolik okumalarında topluluk düzeni, çeşitlilik ve karşılıklı bağlılıkla ilişkilendirilmesini aktaran derleme.",
+      "url": "https://jewishvirtuallibrary.org/nuts"
+    },
+    {
+      "title": "I went down into the garden of nuts - Zohar",
+      "relevance": "Zohar’da 'nut' imgesinin katmanlı yapısı ve kutsal düzenle ilişkisi.",
+      "url": "https://www.zohar.com/zohar/Shemot/chapters/32"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüya bölümünün genel çerçevesi; rüya yorumu ve anlamın dini işlevi.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 56",
+      "relevance": "Berakhot 56 bağlamında rüyaya olumlu yorumla yaklaşma ve yorumun belirleyici rolü.",
+      "url": "https://www.myjewishlearning.com/article/berakhot-56/"
+    },
+    {
+      "title": "Nut Dream Meaning & Interpretation - Mirror",
+      "relevance": "Kuruyemişin sert kabuğu ve iç özü üzerinden Budist sembolik okumalarını içeren çevrimiçi bir yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/nut/"
+    },
+    {
+      "title": "The Sunday Tribune - Spectrum - Dream theme",
+      "relevance": "Cevizin rüyada zorluk, endişe ve sonunda iyileşme ile ilişkilendirildiğini aktaran Hindistan merkezli gazete yazısı.",
+      "url": "https://www.tribuneindia.com/2002/20020901/spectrum/dream.htm"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Mahayana geleneğinin rüya anlayışına dair metin, kabuk-çekirdek metaforunun zihinsel engellerin aşılması ve bilgelik kazanımı bağlamında nasıl kullanılabileceğine dair modern bir açıklama sunar.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Walnut Dream Meaning & Interpretation - Mirror",
+      "relevance": "Cevizin kabuk-öz karşıtlığını Budist çerçevede yanılsama, bağlılık, bilgelik ve iç huzurla ilişkilendiren yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/walnut/"
+    },
+    {
+      "title": "Pecan Dream Meaning & Interpretation - Mirror",
+      "relevance": "Pecan için sert kabuk ve içteki çekirdeği aydınlanma ve zihinsel engelleri aşma üzerinden yorumlayan Budist çerçeveli metin.",
+      "url": "https://mirrorwithin.org/dream-dictionary/pecan/"
+    },
+    {
+      "title": "Peanut Dream Meaning & Interpretation - Mirror",
+      "relevance": "Fıstığı Budist çerçevede bağlılık, günlük farkındalık ve basit eylemlerde bilinçli bulunma ile ilişkilendiren çevrim içi yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/peanut/"
+    },
+    {
+      "title": "Dreaming of Nuts: Symbolism and Meaning Explained",
+      "relevance": "Modern spiritüel/ezoterik literatürde kuruyemiş imgesinin gizli potansiyel, korunmuş öz ve açılmayı bekleyen değer temalarıyla nasıl ilişkilendirildiğini örnekleyen bir derleme niteliğindedir.",
+      "url": "https://www.hallofdreaming.com/dreams/dream-dictionary/nuts"
+    },
+    {
+      "title": "Dreams About Nuts: Seeds of Potential, Effort, and Hidden ...",
+      "relevance": "Kuruyemişin spiritüel düzeyde beslenme, gizli bilgelik ve emekle elde edilen değerle ilişkilendirildiğini söylüyor; ayrıca koruyucu kabuk fikrini öne çıkarıyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/nuts"
+    },
+    {
+      "title": "Nuts Dream Interpretation - Nuts Dream Meaning",
+      "relevance": "Kuruyemiş rüyasını bereket, başarı, cinsellik ve ‘bir meselenin özüne inme’ temalarıyla yorumluyor; ayrıca kabuk açma eylemini sembolik olarak merkez alıyor.",
+      "url": "https://www.dreamsmain.com/nuts"
+    },
+    {
+      "title": "Macadam nuts. The meaning of the dream, the Smorfia numbers",
+      "relevance": "Kuruyemişin ezoterik anlamını doğrudan ‘ilerleme basamağı’ ve ‘aldatmalar’ şeklinde veriyor; özellikle sembolün söz konusu gelenekteki esoterik okumasını gösteriyor.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=macadam+nuts"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

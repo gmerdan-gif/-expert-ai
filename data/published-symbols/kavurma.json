@@ -1,0 +1,231 @@
+{
+  "slug": "kavurma",
+  "title": "kavurma",
+  "shortDescription": "Rüyada kavurma görmek, emek ve zaman isteyen bir sürecin olgunlaşıp somut sonuç vermesini; kaynakları koruma ve geleceğe hazırlanma ihtiyacını çağrıştırabilir. Kavurmayı yemek doyum ve paylaşımı, yanmış görmek ise sürecin fazla zorlanmasını ya da enerjinin tükenmesini öne çıkarabilir.",
+  "positiveAssociations": [
+    "Ateşle işlenme ve olgunlaşma (ham maddenin işlenip sindirilebilir hale gelmesi)",
+    "Birikimlerin korunması ve geleceğe yönelik tedbir (eti yağda saklama çağrışımı)",
+    "Ağızsal doyum ve haz ile bağlantılı tatmin duygusu",
+    "Emek sonucu ortaya çıkan somut ürün ve paylaşım (paylaşılabilecek yiyecek)"
+  ],
+  "challengingAssociations": [
+    "Dönüşüm sürecinin zorluğu veya süreçte harcanan enerji (uzun pişirme, emek gerektirme)",
+    "Dürtüsel haz ile uzun vadeli korunma/planlama arasındaki gerilim",
+    "Aşırı korunma veya birikim isteğinin ilişkilerde yarattığı soğuma"
+  ],
+  "contextDependentAssociations": [
+    "Kavurmanın taze, iyi saklanmış veya bozulmuş olması",
+    "Rüya sahibinin kavurmayı yapan mı yoksa sadece yiyen mi olduğuna bağlı rol farkı",
+    "Ocak/ateşin kontrol altında mı yoksa kontrolden çıkmış mı olduğuna dair görüntü",
+    "Kavurmanın saklandığı biçim (kavanoz/yağ içinde/sofra paylaşımı) ve bunun güvenlik/tedbir çağrışımı",
+    "Kavurmanın saklandığı biçim (ör. kavanozda, yağ içinde) ve bunun güvenlik ya da tedbir çağrışımları. Not: \"sofra paylaşımı\" saklama biçimi olarak ayrı bir kategori değildir; paylaşım bağlamı ayrı bir unsur olarak ele alınmalıdır."
+  ],
+  "commonVariations": [
+    {
+      "title": "Ocakta Kendi Yağıyla Pişen Kavurma",
+      "description": "Etin kendi yağıyla ağır ağır kavrulduğunu izlemek, uzun süreli emeğin içsel kaynaklarla sürdürülmesiyle bir konuyu sabırla olgunlaştırma ve dayanıklı bir sonuca dönüştürme temalarını vurgular."
+    },
+    {
+      "title": "Kalabalık Bir Sofrada Kavurma Yemek",
+      "description": "Toplulukla birlikte pişmiş kavurmayı paylaşmak; ortak emeklerin meyvesini toplama, aidiyet ve toplumsal paylaşım duygusuyla ilişkilidir."
+    },
+    {
+      "title": "Kavanoza Basılmış Saklanan Kavurma",
+      "description": "Kavurmanın kaplara doldurulduğunu ve saklandığını görmek; gelecek için tedbir, kaynakların korunması ve mevsimsel hazırlık arayışı temasını öne çıkarır."
+    },
+    {
+      "title": "Yanmış veya Aşırı Pişmiş Kavurma",
+      "description": "Ocakta unutulmuş veya kararmış kavurma görmek, sürecin aşırı zorlanması, enerji tükenmesi ya da dikkat eksikliğine dair uyarıcı bir işaret sunabilir."
+    }
+  ],
+  "psychology": "Ampirik rüya çalışmaları, yemek ve pişirme imgelerini içerik analizinde ayrı bir kategori olarak ele alır; kavurma gibi özgül bir yiyecek imgesi, tek başına sabit bir anlam vermez. Rüyanın duygusal tonu, tekrarlanma sıklığı ve uyanık yaşam bağlamı, kavurma imgesinin hangi temalara (ör. koruma, doyum, emek) işaret ettiğini belirlemede merkezi rol oynar.",
+  "jungian": "Analitik psikolojide pişirme ve ateş imgeleri dönüşüm, yoğunlaşma ve psişik içeriğin 'sindirilebilir' hale gelmesiyle ilişkilendirilir. Kavurma, özellikle ısının kullanılması ve etin korunması boyutlarıyla, ham olanın olgunlaşması ve içsel enerjinin yoğunlaştırılması metaforu olarak okunabilir; bu yorum kontrollü ve bağlama bağlıdır.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik okumalarda pişirme ve ateş, olgunlaşma ve sınanmaya işaret eden metaforlar olarak kullanılabilir; kavurma imgesi bu çerçevede hazırlık ve bereket temalarıyla kontrollü biçimde ilişkilendirilebilir, ancak doğrudan klasik bir oneirokritik kaydı yoktur.",
+  "jewishTraditions": "Talmudik gelenekte rüyaların yoruma açık olması ve yorumun sonucu etkileyebileceği ilkesi öne çıkar. Et ve kavurma benzeri yiyecek imgeleri Yahudi kaynaklarında bazen sembolik anlamlar taşır; kavurma için doğrudan antik bir kayıt bulunmamakla birlikte, et/pişirme ayırımlarının metin geleneğinde önem taşıması dolaylı bir okuma imkânı verir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Yiyecek/pişirme kategorisinde yer alan bir rüya öğesidir; anlamı duygusal ton ve uyanık yaşam bağlamı içinde aranır.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Yemek/et imgeleri aracılığıyla yemekle ilgili doyum, haz ve dürtüsel süreçlerin dışavurumu olarak okunabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Isı ve pişirme metaforları aracılığıyla, ham psişik maddenin dönüştürülmesi ve olgunlaşması teması vurgulanır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Kültürel ve Geleneksel Okuma",
+      "interpretation": "Kavurma, tarihsel olarak etin korunması ve kışlık hazırlıkla ilişkili bir pratik olduğu için ekonomik ve günlük yaşam imgeleri üzerinden yorumlanır.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Yaklaşımlar genellikle kavurma imgesini salt bir nesne olmaktan çok 'işlem' ve 'koruma' bağlamında değerlendirir: ateşle dönüşüm, emek sonucu oluşan ürün ve saklama/birikim pratikleri ortak temalardır.",
+  "differences": "Psikolojik yaklaşımlar imgeyi bireysel bağlam ve duygulanıma göre ele alırken, analitik psikoloji dönüşüm ve yoğunlaşma metaforuna vurgu yapar; tarihsel/kültürel okumalar ise kavurmayı somut mutfak pratiği ve koruma alışkanlığı üzerinden yorumlar.",
+  "inusAssessment": "Kavurma rüyalarını değerlendirirken iki belirleyici unsur öne çıkar: (1) 'ateşle işleme' — süreç, zaman ve enerji gerektiren dönüşüm; (2) 'saklama/koruma' — yağda veya kapta muhafaza etme pratiklerinin ima ettiği tedbir ve birikim temaları. Ateşin kontrolü rüya sahibinin içsel enerjiyi yönetme biçimini, saklama biçimi ise kaynakları koruma/geleceğe hazırlık tutumunu yansıtmada önemli sinyallerdir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Methods and Measures for the Study of Dream Content",
+      "relevance": "Rüya içeriği analizinde yiyecek ve nesne kategorilerinin nasıl sınıflandığını gösterir; kavurma imgelerinin içerik analizi açısından hangi kategori altında değerlendirilebileceğini açıklar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2000a.html"
+    },
+    {
+      "title": "Exploring emotional characteristics in dreams of clinical ...",
+      "relevance": "Rüyaların duygusal içeriğinin analiz edildiği klinik çalışma; kavurma imgesinin duygusal tonla birlikte yorumlanmasının gerekliliğini destekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/102923/99325/267300"
+    },
+    {
+      "title": "[PDF] The Neurocognitive Theory of Dreaming",
+      "relevance": "Rüyalarda sembolik görünen öğelerin sıklığının bağlama bağlı olduğunu tartışır; belirli bir nesnenin sabit anlamının sorgulanması için metodolojik dayanak sağlar.",
+      "url": "https://dreams.ucsc.edu/NCTD/Neurocognitive%20Theory%20of%20Dreaming%20(Domhoff%202022).pdf"
+    },
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin temel ilkelerini özetleyen yöntem yazısı; kavurma gibi belirli imgelerin ölçümü için raporların nasıl kodlandığını ve frekanslandırıldığını açıklar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Themes in participants' understandings of meaning in their ...",
+      "relevance": "Katılımcıların rüyalarına anlam verme biçimlerini ve sembolizm algısını inceleyen çalışma; kavurma imgesinin yorumunda kişisel çağrışım ve uyanık yaşam bağlamının rolüne işaret eder.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/29405"
+    },
+    {
+      "title": "Relationships between Dream and Previous Wake Emotions ...",
+      "relevance": "Rüya ve önceki uyanıklık duyguları arasındaki ilişkileri inceleyen çalışma; kavurma imgelerinin yorumunda rüya duygusunun merkezi değişken olduğunu gösteren ampirik bağlam sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601812/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Yemek ve et imgelerinin psikanalitik okumada arzu doyumu ve haz temalarıyla nasıl ilişkilendirilebileceğini gösteren klasik metindir; kavurma için doğrudan örnek vermez ancak yiyecek imgelerinin psikanalitik çerçevesini sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Yemek temalarının Freudcu rüya yorumunda arzu doyumu ve haz bağlamına yerleştirilebileceğini gösterir.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "The Occurrence and Meaning of Dreams of Food and Eating. I. Typical Food and Eating Dreams of Four Patients in Analysis | American Journal of Psychotherapy",
+      "relevance": "Yiyecek ve yeme rüyalarının psikanalitik çalışmada ele alınabildiğini gösteren klinik bir makaledir.",
+      "url": "https://psychiatryonline.org/doi/10.1176/appi.psychotherapy.1958.12.3.606"
+    },
+    {
+      "title": "Roast in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Kavrulmuş et imgelerini Jungcu ve modern anlamlandırma çerçevesinde tartışır; kavurma imgesinin dönüşüm ve sunum bağlamlarında yorumlanabileceğine dair örnekler sunar.",
+      "url": "https://rosmertapublishing.com/dream-symbols/roast/"
+    },
+    {
+      "title": "Roast Dream Meaning & Interpretation - Mirror",
+      "relevance": "Kavurma sembolünü Jungcu perspektiften yorumlayarak, ham olanın sindirilebilir ve bütünleşmiş olana dönüşmesi temasını açıklar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/roast/"
+    },
+    {
+      "title": "[PDF] Franz, Marie-Louise von.pdf",
+      "relevance": "Ateşin duyguyu ve dönüşümü anlatan Jungcu yorumlarını içerir; kavurma imgesini ısıyla dönüşüm bağlamına yerleştirmek için kullanışlıdır.",
+      "url": "http://ndl.ethernet.edu.et/bitstream/123456789/14463/1/Franz,%20Marie-Louise%20von.pdf"
+    },
+    {
+      "title": "title: Archetypal Patterns in Fairy Tales Studies in Jungian ...",
+      "relevance": "Pişirme sürecini ateşin gizli nitelikleri ortaya çıkaran işleviyle ilişkilendirir; kavurma sembolünün Jungcu dönüşüm temasına bağlanmasını destekler.",
+      "url": "https://maypoleofwisdom.com/wp-content/uploads/2022/12/archetypal-patterns-in-fairy-tales-marie-louise-von-franz-z-lib.org_.pdf"
+    },
+    {
+      "title": "Carl Jung Dream Analysis Seminar Lecture IV 30 October ...",
+      "relevance": "Jung seminerinde pişirme sürecini yaratım ve dönüşüm sembolü olarak ele alan bir pasaj sunar; kavurma için analitik psikoloji bağlamı sağlar.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/08/21/dream-46/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Klasik rüya yorumu geleneğinin temel bir metni; kavurma için doğrudan giriş doğrulanmadığından, yalnızca genel oneirokritik çerçeveyi temsil eder.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "llms.txt",
+      "relevance": "Hakkâri mutfağında kavurmanın toplu yemek ve yerel yemek pratikleri içindeki kullanımını gösterir.",
+      "url": "https://kureansiklopedi.com/en/detay/hakkari-dogaba-67b3e/llms.txt"
+    },
+    {
+      "title": "Qorma: A short history of a long journey in the making of this South ...",
+      "relevance": "Kavurma/qavurma adının ve yemeğin Türkî mutfak tarihinde etin kavrulmasıyla ilişkisini açıklar.",
+      "url": "https://www.harpersbazaar.in/travel-food/story/qorma-a-short-history-of-a-long-journey-in-the-making-of-this-south-asian-staple-564885-2022-12-06"
+    },
+    {
+      "title": "Anatolia Social Research Journal (2024) 3(1)",
+      "relevance": "Kavurmanın kışlık hazırlık ve etin kendi yağıyla pişirilip saklanması pratiğini tarihsel-kültürel bağlamda ele alır; sembolün koruma/birikim çağrışımını destekler.",
+      "url": "https://anadolusosyal.com/index.php/as/article/download/40/62/292"
+    },
+    {
+      "title": "Kaourmas | Cyprus Food Museum",
+      "relevance": "Kavourmas/kavurma geleneğinin yağa basılarak saklanan kavrulmuş et formunu tanımlar; sembolün mutfak kültüründeki koruma işlevine ilişkin somut kanıt sunar.",
+      "url": "https://www.cyprusfoodmuseum.com/en/sylloges/trofima/kaourmas"
+    },
+    {
+      "title": "Biblical Meaning of Eating Roasted Corn in the Dream",
+      "relevance": "Kavrulmuş gıdayı rüyada görmeye dair modern bir Hristiyan yorum örneği sunar; kavurma temasını hazırlanma, olgunlaşma ve bereketle ilişkilendiren bir sembolik çerçeve içerir.",
+      "url": "https://spiritualroutine.com/biblical-meaning-of-eating-roasted-corn-in-the-dream/"
+    },
+    {
+      "title": "Perchance to Dream: Dream Divination in the Bible and the Ancient Near East",
+      "relevance": "Eski Yakın Doğu ve Yahudi bağlamında rüya yorumunun tarihsel arka planını sunar; Talmudik rüya yorum ilkelerinin anlaşılmasına katkıda bulunur.",
+      "url": "https://www.sbl-site.org/assets/pdfs/pubs/9780884142874_OA.pdf"
+    },
+    {
+      "title": "“All Dreams Follow the Interpretation” – Even for the Rabbis!",
+      "relevance": "Berakhot 55b’deki rüya yorum ilkelerini ve ‘rüyaların yorumla gerçekleşmesi’ temasını aktarır.",
+      "url": "https://thegemara.com/article/all-dreams-follow-the-interpretation-even-for-the-rabbis/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Talmud’daki rüya pasajlarını ve rüyaların yoruma açık olduğu ilkesini açıklayan kaynak; Yahudi gelenekleri bağlamında kavurma benzeri yiyecek imgelerinin nasıl ele alınabileceğini göstermede yararlı olur.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Yahudi geleneğinde rüyaların iyiye yorumlanması gerektiğini vurgulayan kısa eğitim sayfası.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Berakhot 57a metninin çevrimiçi tam karşılığını sunar; rüya pasajlarının metinsel kontrolü için kullanışlıdır.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Dreams in the Talmud | Sefaria",
+      "relevance": "Talmud içindeki rüya yorum örneklerini derleyen Sefaria sayfasıdır; et ve yemek imgelerinin rüya sembolizmiyle ilişkili örnekler sunar.",
+      "url": "https://prod.sefaria.org.il/sheets/233896"
+    },
+    {
+      "title": "Berakhot 56",
+      "relevance": "Berakhot 56’da rüya yorumunun olumlu yönüne dair açıklama sunar; rüya anlamının bağlam ve yorumla şekillenmesi açısından önemlidir.",
+      "url": "https://www.myjewishlearning.com/article/berakhot-56/"
+    },
+    {
+      "title": "Babylonian Talmud: Nedarim 49 - Halakhah.com",
+      "relevance": "Nedarim’de pişmiş ve kızarmış yiyecekler arasındaki halakhik ayrımı gösterir; kavurma teriminin Yahudi yemek dilindeki yerini ortaya koyar.",
+      "url": "https://halakhah.com/nedarim/nedarim_49.html"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Yahudi büyü ve batıl inanç derlemesinde et ve pişirme imgelerine bağlanan geleneksel rüya yorum örnekleri verir.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Dreaming Of Roasted Meat – Meaning - Hindu Blog",
+      "relevance": "Budist ve Hindu rüya sembolü olarak ‘kavurma’ için doğrudan ve güvenilir bir geleneksel eşleştirme bulunup bulunmadığını taramak açısından kullanılan web sonucudur; ancak sonuç, bu sembol için sağlam bir geleneksel rüya maddesi doğrulamadı.",
+      "url": "https://www.hindu-blog.com/2023/09/dreaming-of-roasted-meat-meaning.html"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian",
+    "buddhist-eastern"
+  ]
+}

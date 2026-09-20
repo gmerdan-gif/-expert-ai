@@ -1,0 +1,229 @@
+{
+  "slug": "abim",
+  "title": "abim",
+  "shortDescription": "Rüyada abini görmek, aile içi destek, güven ve korunma ihtiyacını; bazen de sorumluluk, otorite veya rekabet duygularını yansıtabilir. Abinin rüyadaki tavrı ve sende uyandırdığı duygu, dayanışmanın mı yoksa aranızdaki bir gerilimin mi öne çıktığını gösterir.",
+  "positiveAssociations": [
+    "Güç ve dayanışma",
+    "Aile içi destek ve güven",
+    "Ortaklık ve paylaşım",
+    "Yol gösterme ve koruma"
+  ],
+  "challengingAssociations": [
+    "Çocukluktan kalan rekabet ve kıyas",
+    "Bastırılmış saldırganlık veya gerilim",
+    "Otoriteyle çatışma",
+    "Ayrışma ve mesafe kaygısı"
+  ],
+  "contextDependentAssociations": [
+    "Abimin rüyadaki görünüşü, sağlığı ve davranışı (ör. nasıl davrandığı, ne hissettiği) rüyanın yorumunu etkileyebilir.",
+    "Rüya sahibinin uyanınca hissettiği duygu tonu",
+    "Gerçek hayattaki abimle ilişki durumu ve güncel çatışmalar"
+  ],
+  "commonVariations": [
+    {
+      "title": "Abimle Tartışmak",
+      "description": "Rüyada abimle tartışmak, uyanık yaşamda geçmiş veya güncel rekabet, çözülmemiş anlaşmazlıklar ya da sınır konularının düşsel yansıması olabilir."
+    },
+    {
+      "title": "Abimden Destek Görmek",
+      "description": "Rüyada abim zor anında yardım ediyorsa, bu güven, korunma arzusu veya gerçek ilişkide beklenen dayanışma temasını simgeliyor olabilir."
+    },
+    {
+      "title": "Abimin Kaybolması veya Uzaklaşması",
+      "description": "Abimin rüyada kaybolması/uzaklaşması, aile bağlarında hissedilen mesafe, ayrışma süreci veya yalnızlık duygusuna işaret edebilir."
+    },
+    {
+      "title": "Abimle İş/Ortaklık Yapmak",
+      "description": "Rüyada abimle birlikte bir işte/sorumlulukta bulunmak, paylaşım, ortaklık ve aile içinde görev alma temalarını öne çıkarır."
+    }
+  ],
+  "psychology": "Psikolojik araştırmalar, rüyalardaki aile üyeleri ve yakın ilişkilerin içerik analiziyle incelenebileceğini gösterir; bu çerçevede \"abim\" figürü hem gerçek ilişki dinamiklerinin yansıması hem de bireysel duyguların ve rollerin temsilcisi olabilir. Psikanalitik perspektif ise abim benzeri figürleri bazen çocukluk rekabeti, yer değiştirme ve bastırılmış dürtülerin taşıyıcısı olarak okur; yine de bu tür okumalar rüyanın duygusu ve bağlamına bağlıdır.",
+  "jungian": "Jungcu yaklaşımda abim imgesi, kişinin benliğine yakın bir 'öteki' olarak görülebilir; abim, gölgede kalan, tanınmamış ya da bütünleşmemiş yönlerin yakın bir yansıması olabilir. Ancak Jungcu ifadeler bağlama göre dikkatle ve kişisel çağrışımlarla değerlendirilmelidir.",
+  "islamicTradition": "Modern ve geleneksel İslami rüya kaynakları genel olarak erkek kardeş/ağabey imgesini destek, ortaklık, güven ve toplumsal/ailesel sorumluluk temalarıyla ilişkilendirir; rüyanın ayrıntıları (abimin hali, etkileşimler, rüya sahibinin duygusu) yorum yönünü belirler.",
+  "christianTraditions": "Hristiyan sembolik çerçevede 'kardeş' terimi biyolojik bağın ötesinde ruhsal kardeşlik ve cemaat aidiyetini de kapsar; bu nedenle rüyadaki abim imgesi bağlılık, sadakat, topluluk içi görevler veya ilişkisel sorumluluk temalarıyla okunabilir.",
+  "jewishTraditions": "Yahudi rüya geleneği yorumun bağlama bağlı olduğunu vurgular; kutsal anlatılar bağlamında kardeş figürü kıskançlık, seçilme, uzlaşma ve karşılıklı yükümlülük temalarını taşıdığı için \"abim\" görüntüsü de bağlama göre destek ya da gerilim çağrışımları alabilir.",
+  "buddhistEasternApproaches": "Budist yaklaşımlarda rüyalar zihnin üretimi olarak görülür; rüyada abim ortaya çıktığında bu, bağlanma/ayrılma, şefkat veya yaklaşma-kaçınma eğilimlerinin görünür kılınması şeklinde okunabilir.",
+  "spiritualApproaches": "Ezoterik/spiritüel okumalar abim imgesini ortak kader, yakın enerji bağı veya içsel bir ikilik/ikiz yön olarak yorumlayabilir; bu değerlendirmeler rüyanın duygusal tonuna ve sembolik detaylarına göre değişir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Abim imgesi çocukluk rekabeti, yer değiştirme ve aile içi konumlanma dinamiklerini sembolize edebilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Abim, gölgede kalan yönler veya benliğin yakın bir öteki yansıması olarak okunabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Abim/erkek kardeş figürü destek, ortaklık, mala/servete ilişkin paylaşım ve aile içi güvenle ilişkilendirilebilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Abim, ortak kader, benzer enerji veya içsel karşıtlık temalarını çağırabilir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli gelenek ve yaklaşımlarda \"abim\" figürünün yalnızca harfi harfine bir aile üyesi olmadığı; destek, rekabet, sorumluluk ve benliğin bölünmüş yönleri gibi içsel/ilişkisel temalarla sıkça bağlantılı olduğu kabul edilir.",
+  "differences": "Psikanalitik ve Jungcu okumalar abim imgesini daha çok içsel psikodinamikler ve gölge/arz temaları üzerinden yorumlarken; İslami ve geleneksel yorumlarda abim daha çok destek, ortaklık ve somut aile rolleri bağlamında değerlendirilir.",
+  "inusAssessment": "Rüyada abim görülmesinin tek bir zorunlu nedeni yoktur; genellikle abim figürü rüyada belli bir işlev (ör. destek, rekabet, otorite) taşır ve bu işlev rüyanın duygusu, abimin rüyadaki davranışı ile gerçek hayattaki ilişki bağlamına göre anlam kazanır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Interactions with family members in students' dreams.",
+      "relevance": "Öğrenci rüyalarında aile bireyleriyle etkileşimleri inceleyerek, rüyalarda 'abim' gibi aile figürlerinin sosyal rolleri ve etkileşimleri bağlamında nasıl çözümlenebileceğine dair çerçeve sağlar.",
+      "url": "https://psycnet.apa.org/record/2022-71798-001"
+    },
+    {
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içerik analizine ilişkin yöntemleri sunarak, 'abim' figürünün rüya anlatılarında karakter, duygu ve etkileşim kategorileri içinde kodlanıp yorumlanabileceğini gösterir.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya teorisi, aile üyelerinin rüyalarda bastırılmış dilek ve yer değiştirme işlevi üstlenebileceğini vurgular; bu, 'abim' imgesinin bazı psikanalitik okumalarında rekabet veya arz ile ilişkilendirilebileceği anlamına gelir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud’un kardeşlerle ilgili örnekleri, erkek kardeş/ağabey figürünün rüyalarda rekabet, yer değiştirme ve çocukluk gerilimleri çerçevesinde okunabileceğini gösteren pasajlar içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "The interpretation of dreams",
+      "relevance": "Freud metninin farklı baskıları ve pasajları, akraba figürlerinin rüyalarda sembolik işlevler alabileceğini ve abim benzeri imgelerin doğrudan biyografik kişiden daha fazla anlam taşıyabileceğini açımlamaya hizmet eder.",
+      "url": "https://s3.us-west-1.wasabisys.com/luminist/EB/F/Freud%20-%20The%20Interpretation%20of%20Dreams.pdf"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/230 - ...",
+      "relevance": "Belirli Freud örnekleri üzerinden, erkek kardeş/ağabey figürünün rüyalarda rekabet, yer değiştirme ve çocukluk gerilimleri çerçevesinde okunabileceğini gösteren ilave örnekler sunar.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/230"
+    },
+    {
+      "title": "Revealed Older Brother Dreams: Meaning & Interpretation",
+      "relevance": "Çevrimiçi Jungcu-taraflı yorum sayfası; abim/ağabey figürünün rehberlik, otorite ve gölge temalarıyla ilişkilendirilmesine dair modern yorum örnekleri sunar.",
+      "url": "https://somniscient.com/en/symbols/revealed-older-brother"
+    },
+    {
+      "title": "Brother",
+      "relevance": "Jungcu perspektife odaklanan bu kaynak, kardeş/abim figürünün benliğin ikili yapısı ve gölge ile ilişkisinin nasıl anlatılabildiğine dair açıklayıcı çevrimiçi malzeme sağlar.",
+      "url": "https://rosmertapublishing.com/dream-symbols/brother/"
+    },
+    {
+      "title": "1. Carl Jung interprets Dream Associations",
+      "relevance": "Jung’a atfedilen rüya çözümlemeleri üzerinden, abim-benzeri figürlerin psişede yerine geçen ya da gölgeyi temsil eden rolleri üzerine tartışma örnekleri sunar.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/04/02/dream-associations/"
+    },
+    {
+      "title": "Carl Jung: Dream Analysis Seminar Lecture IV",
+      "relevance": "Jung seminer notları ve tartışmaları bağlamında, abim-benzeri figürlerin geride kalan veya bütünleşmemiş yönlerle ilişkilendirilebileceğine dair yorumlayıcı malzeme içerir.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/07/29/carl-jung-visions-2/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un oneirokritik geleneği, rüyalarda akrabalık figürlerinin aile düzeni ve ilişkisel bağlam içinde sembolik okunmasına dair tarihsel bir arka plan sunar; bu bağlamda abim imgesi de aileci anlam katmanları taşır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Greko-Romen rüya yorumu geleneğinin açıklaması, abim gibi aile figürlerinin tarihsel oneirokritik söylem içinde nasıl değerlendirilebileceğine ilişkin kaynakça desteği verir.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "[PDF] ALCMENA'S DREAM IN MOSCHUS' MEGARA - Dialnet",
+      "relevance": "Antik dönemde kardeş figürlerinin rüyalarda çeşitli sembolik yüklerle verilebildiğine dair örnekler sunar; abim imgesinin tarihsel çeşitliliğini göstermeye yardımcı olur.",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/633286.pdf"
+    },
+    {
+      "title": "A Babylonian Dream Tablet on the Interpretation of Dreams",
+      "relevance": "Eski Yakındoğu kaynakları bağlamında rüyada aile figürlerinin sembolik önemine dair tarihsel perspektif sağlayarak, abim figürünün uzun süreli kültürel okunabilirliğine işaret eder.",
+      "url": "https://www.penn.museum/sites/journal/586/"
+    },
+    {
+      "title": "Dream of Brother — Islamic Meaning - Naeem Foundation",
+      "relevance": "Modern İslami rüya yorumları içinde abim/erkek kardeş maddesine ait çağrışım örnekleri vererek, İslami geleneğin destek ve ortaklık temalarını abim örneğiyle ilişkilendirir.",
+      "url": "https://www.naeemfoundation.org/dreams/brother"
+    },
+    {
+      "title": "What does it mean to see a brother in a dream?Islamic ...",
+      "relevance": "İslami yorumlayıcı içeriklerde abim figürünün aile bağları, güven ve karşılıklı haklar ekseninde nasıl yorumlandığına dair güncel örnekler sunar.",
+      "url": "https://www.molla.az/en/dream-interpretation/what-does-it-mean-to-see-a-brother-in-a-dream"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri – Sayfa 3 – Bilmesek olmaz – Nedir? Nasıl yapılır? Ne demektir?",
+      "relevance": "Nablusî atıfıyla sunulan derlemeler, erkek kardeş/abim temalarının geleneksel İslami sözlüklerde paylaşım ve akrabalık anlamlarıyla ele alındığına dair örnek sağlar.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/imam-nablusi-ruya-tabirleri/page/3/"
+    },
+    {
+      "title": "[PDF] İbni Sîrîn'den Tercüme Edilen Bir Rüya Tabîr-Nâmesi - SADAB",
+      "relevance": "İbn Sîrîn’e atfedilen tercüme malzeme, İslami rüya literatüründe abim-benzeri figürlerin geleneksel sözlüklerde nasıl yer alabildiğine dair referans oluşturur (doğrudan 'abim' maddesi sınırlı olabilir).",
+      "url": "https://makale.isam.org.tr/server/api/core/bitstreams/c513adc0-7e40-4fcb-930b-660b5bc70fa0/content"
+    },
+    {
+      "title": "Ibn Seerin's Dictionary of Dreams",
+      "relevance": "İslami rüya sözlüğü çerçevesinde \"brother\" maddesinin abim/erkek kardeş figürünü destek, ortaklık ve sükûnet bağlamlarında ele alış biçimini gösterir.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Brothers - Holman Bible Dictionary - StudyLight.org",
+      "relevance": "Hristiyan referanslarında kardeş/abim dilinin cemaat içi ruhsal kardeşlik ve ilişkisel bağlılık anlamlarını nasıl taşıdığına dair sözlük niteliğinde açıklama sağlar.",
+      "url": "https://www.studylight.org/dictionaries/eng/hbd/b/brothers.html"
+    },
+    {
+      "title": "Brother - Topical Bible",
+      "relevance": "Kutsal Kitap kullanımında 'kardeş' teriminin biyolojik ötesindeki ruhsal/kültürel kullanımlarını göstererek, rüyalarda abim imgesinin topluluk ve aidiyet temalarıyla okunabileceğini destekler.",
+      "url": "https://biblehub.com/topical/b/brother.htm"
+    },
+    {
+      "title": "Brother - International Standard Bible Encyclopedia Online",
+      "relevance": "Hristiyan ansiklopedik kaynaklar, abim kavramının dini/ruhsal kardeşlik bağlamlarında ne tür çağrışımlar taşıyabileceğini örnekler.",
+      "url": "https://www.internationalstandardbible.com/B/brother.html"
+    },
+    {
+      "title": "Brother - Watchtower ONLINE LIBRARY - JW.ORG",
+      "relevance": "Hristiyan cemaat literatürü bağlamında 'brother' hitabının iman kardeşliği ve topluluk içi sorumluluk temalarını nasıl vurguladığına dair örnek sağlar.",
+      "url": "https://wol.jw.org/en/wol/d/r1/lp-e/1200000830"
+    },
+    {
+      "title": "On the Interpretation of Dreams (Miketz)",
+      "relevance": "Talmudik rüya yorumu geleneğini özetleyerek, rüyaların yorumunun bağlama ve söyleme bağlı olduğunu; bu yüzden 'abim' imgesinin sabit bir sözlük anlamına indirgenemeyeceğini gösterir.",
+      "url": "https://ilanakurshan.com/2020/12/14/on-the-interpretation-of-dreams-miketz/"
+    },
+    {
+      "title": "Berakhot 55.b",
+      "relevance": "Berakhot metinleri, Yahudi rüya yorumlama geleneğinde rüyanın yoruma muhtaç olduğunu vurgulayarak, abim figürünün bağlama göre değişen okumalarına dair çerçeve sunar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    },
+    {
+      "title": "Oh brother! | Sefaria",
+      "relevance": "Yahudi anlatı geleneğindeki kardeş temalarını ele alarak, abim figürünün kıskançlık, seçilme ve uzlaşma gibi motiflerle nasıl ilişkilendirilebileceğini gösterir.",
+      "url": "https://www.sefaria.org/sheets/612618"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Talmudik açıklamalar üzerinden rüya yorumunun yorumcuya bağlı doğasını ortaya koyar; abim imgesinin tek anlamlı olmadığına dair destek sağlar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist bağlamda rüyalar zihnin etkinliği olarak okunur; abimle ilgili rüyalar bağlanma, şefkat ya da ayrılma eğilimlerini görünür kılabilir.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Brother in dreams — meaning and symbolism",
+      "relevance": "Ezoterik bir derleme olarak abim/erkek kardeş figürünün aidiyet, sadakat ve rekabet temalarıyla nasıl ilişkilendirilebildiğine dair örnek yorumlar sunar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/brother"
+    },
+    {
+      "title": "Brother, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Popüler ezoterik kaynak, abim sembolüne yönelik içsel ikilik ve benzer enerji okumalarını örnekleyerek spiritüel yorum çeşitliliğini göstermeye katkı sağlar.",
+      "url": "http://www.dreamtation.com/docs/1384.htm"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

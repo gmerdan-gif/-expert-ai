@@ -1,0 +1,227 @@
+{
+  "slug": "hamsi",
+  "title": "hamsi",
+  "shortDescription": "Rüyada hamsi görmek, günlük geçim, emek, paylaşım ve küçük kazançların birikimiyle ilişkilendirilebilir; Karadeniz kültürüyle bağı olanlar için aidiyet duygusunu da çağrıştırabilir. Taze ya da sofrada paylaşılan hamsi bolluk ve desteği, bozuk hamsi yorgunluk veya ihmal edilen konuları; tek bir hamsi ise gözden kaçan küçük ama önemli bir ayrıntıyı öne çıkarabilir.",
+  "positiveAssociations": [
+    "Bölgesel beslenme ve geçimin sürekliliği",
+    "Bolluk ve küçük kazançların birikimi",
+    "Kültürel köken ve aidiyet duygusu",
+    "Gündelik emeğin ve paylaşımın simgelenmesi"
+  ],
+  "challengingAssociations": [
+    "Toplu avlanma ya da hamsi sürüsünün azalması görüntüleri: geçim/endüstri kaynaklı kaygılar veya toplumsal belirsizlik hissi",
+    "Tazeliğini yitirmiş ya da çürümüş hamsi görmek: tükenme, yorgunluk ya da ihmal edilmiş bakım gerektiren konulara işaret edebilir.",
+    "Tek bir küçük hamsinin önemsiz sayılması ve sonradan önemli sonuçlar doğurması, göz ardı edilen küçük sorunların etkisine işaret edebilir."
+  ],
+  "contextDependentAssociations": [
+    "Hamsinin suda, tavada, sofrada veya poşetteki görünümü (yaş, taze/bozuk, pişmiş/çiğ) sembolik yorumunu değiştirir.",
+    "Rüyanın duygusal tonu — ör. lezzetli, iğrenç, kaygılı — anlamı belirginleştirir.",
+    "Rüya görenin Karadeniz kültürüyle, balıkçılıkla veya yemek alışkanlıklarıyla olan kişisel geçmişi yorumda belirleyici olur"
+  ],
+  "commonVariations": [
+    {
+      "title": "Denizde sürü halinde yüzen hamsiler",
+      "description": "Büyük bir hamsi sürüsünün birlikte hareket ettiğini görmek, kolektif kaynaklar, ortak emek veya duygusal akışlarla ilgili bir sezgiyi ima edebilir; duygusal ton, topluluk ya da birey odaklı okumayı belirler."
+    },
+    {
+      "title": "Tavada pişen hamsi",
+      "description": "Mutfakta hamsi pişirmek veya tüketmek, ev içi emek, günlük beslenme düzeni ve yakın ilişkilerde paylaşım, destek temalarıyla ilişkilendirilebilir."
+    },
+    {
+      "title": "Tek bir küçük hamsi tutmak veya bulmak",
+      "description": "Elinde tek bir hamsi tutmak, gözden kaçabilecek küçük bir fırsatın ya da ihmal edilmiş bir sorunun kişisel önemini simgeleyebilir."
+    },
+    {
+      "title": "Tazeliğini yitirmiş hamsi görmek",
+      "description": "Bozulmuş veya kokan hamsiler, tükenmişlik hissini, bakım gerektiren alanların ihmalini veya geçimle ilgili endişelerin rüyada kendini göstermesini simgeleyebilir."
+    }
+  ],
+  "psychology": "Hamsiye dair rüya anlatılarında yorum, rüyanın duygusal tonu ve sembolün bağlamsal görünümü üzerinden yapılmalıdır. Ampirik rüya içerik analizleri (frekans, bağlam, duygu kodlaması) bu tür okumalar için yöntemsel çerçeve sağlar. Psikanalitik yaklaşımlar genel olarak balık imgesini bastırılmış arzular, beden ve bilinçdışı içerikler ile ilişkilendirirken, bu çerçeve hamsi gibi küçük, kültürel açıdan yüklü bir balık için bağlama göre uyarlanmalıdır; balık ve su imgeleri arzu veya beden temalarıyla ilişkilendirilirken belirleyici olan rüyanın özgül ayrıntılarıdır.",
+  "jungian": "Jungcu perspektifte su ve içindeki balık figürleri bilinçdışından yükselen içeriklere işaret eder. Hamsi gibi küçük bir balık, rüya görenin ruhunda yeni fark edilen, başlangıç aşamasındaki içgörüleri, mütevazı bir dönüşüm işaretini veya gözden kaçan içsel öğeleri temsil edebilir; yine de somut anlam rüyanın tüm bağlamıyla belirlenmelidir.",
+  "islamicTradition": "",
+  "christianTraditions": "Kutsal Yazı merkezli ve geleneksel Hristiyan yorumlarında balık imgesi genellikle iman, paylaşım ve ilahi inayetle ilişkilendirilir. Hamsi türünün İncil metinlerinde özel olarak anılmaması nedeniyle, hamsi rüyası yalnızca genel balık sembolizmi ve rüyanın anlatısal bağlamı içinde temkinli biçimde ele alınmalıdır.",
+  "jewishTraditions": "Talmudik ve rabbanî çerçeveler rüya yorumunun önemini kabul eder; balık sembolü bereket ve geçimle ilişkilendirilebilir. Ancak kaynaklarda hamsiye dair doğrudan bir rüya tabiri bulunmadığı için Yahudi gelenekinden yapılacak yorum, hamsiyi genel balık teması bağlamında, rüyanın bütünsel anlatısına göre sınırlı biçimde uygulanmalıdır.",
+  "buddhistEasternApproaches": "Budist rüya yaklaşımları rüyaları zihnin geçici tezahürleri olarak görür; bu perspektifte hamsi sembolü, özellikle haṃsī/haṃsa sözcük ailelerinin ezoterik kullanımlarıyla doğrudan bağlanamaz, ancak rüyada görülen küçük bir canlı olarak zihinsel süreçlerin yansıması şeklinde okunabilir.",
+  "spiritualApproaches": "Modern ezoterik ve popüler yorumlarda hamsi genellikle küçük ama olumlu sonuçlar ve bereket çağrışımıyla ele alınır; ayrıca hamsi figürü bazı kültürlerde koruma veya nazardan sakınma temalarıyla da ilişkilendirilebilir. Bu okumalar geleneksel kaynaklarla tam örtüşmeyebilir ve bağlamla uyumlu şekilde değerlendirilmelidir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz ve Freudcu Kuram",
+      "interpretation": "Balık imgesi üzerinden bastırılmış arzular, beden ve dürtü temalarıyla ilişkilendirilir; bu bağlamda hamsi için temkinli ve genel bir çerçeve uygulanır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Bilinçdışından çıkan küçük psişik içerikler, içgörü işaretleri ve dönüşüm olasılıkları bağlamında okunur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Sembolik Geleneği",
+      "interpretation": "İman topluluğu, paylaşım ve ilahi sağlayış temaları; hamsi bu geniş balık sembolizmi içinde değerlendirilebilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rüya Geleneği",
+      "interpretation": "Rüya yorumunun manevi önemi vurgulanır; balık teması bereket ve geçimle ilişkilendirilebilir ancak hamsi özelinde doğrudan metin yoktur.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımları",
+      "interpretation": "Rüyaların zihinsel süreçlerin geçici tezahürleri olduğunu ve sembollerin bağlama göre anlaşılması gerektiğini vurgulayan bir çerçevedir.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Okumalar",
+      "interpretation": "Popüler yorumlarda hamsi, küçük detaylarda gizli bolluk, bereket ve koruyucu sembolizm olarak ele alınır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli disiplinler, hamsinin tek bir anlamı olmadığını; rüyanın duygusu, hamsinin görünüşü ve rüya görenin kültürel ve kişisel geçmişinin anlamını belirlediğini kabul eder.",
+  "differences": "Kuramsal yaklaşımlar (psikanaliz, Jung) rüyayı içsel dinamikler üzerinden yorumlarken; geleneksel ve spiritüel okumalarda hamsi daha çok bolluk, koruma veya toplumsal paylaşım bağlamında ele alınır.",
+  "inusAssessment": "Hamsi rüyası tek bir sabit tabire indirgenemez. Bölgesel beslenme ve tarihsel-ticari önemi, rüyadaki bağlama göre (denizde sürü, tavada pişmiş, tek başına bulunan) farklı anlamlar üretebilir. Yorumu belirlerken rüyanın uyandırdığı his, hamsinin durumu ve rüya görenin kişisel geçmişi daha belirleyicidir.",
+  "faq": [
+    {
+      "question": "Rüyada hamsi görmek genellikle olumlu mudur?",
+      "answer": "Hamsi yerel kültürde bollukla ilişkilendirilse de rüyanın ayrıntıları belirleyicidir: pişmiş ve paylaşılmış hamsi daha olumlu bir paylaşım temasına işaret edebilir; bozuk veya tükenmiş hamsi ise kaygı ve yorgunluk çağrışımı yapabilir."
+    },
+    {
+      "question": "Freud veya Jung hamsiyi doğrudan yorumlamış mıdır?",
+      "answer": "Doğrudan hamsiyi konu alan klasik bir psikanalitik metin bulunmamaktadır; bu yüzden Freudcu ve Jungcu okumalar genel balık sembolizmi çerçevesinden temkinli biçimde uyarlanır."
+    },
+    {
+      "question": "Karadenizli olmamak rüyanın yorumunu değiştirir mi?",
+      "answer": "Evet. Hamsinin kültürel yükü bölgesel bir ayrıntıdır; o nedenle rüya görenin hamsiyle ilişkisi (yiyorsa, ailesel/mesleki bağlantısı varsa) yorumda önemli bir bağlam sağlar."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Exploring emotional characteristics in dreams of clinical ...",
+      "relevance": "Rüya anlatılarında duygusal tonun kodlanmasına dair ampirik yöntemler sunar; hamsi rüyalarındaki olumlu/olumsuz duyguları değerlendirmek için uygulanabilir bir çerçeve sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/102923/99325/267300"
+    },
+    {
+      "title": "Studying dream content using DreamBank.net",
+      "relevance": "Rüya içeriklerinin frekans ve bağlam temelinde incelenmesine dair yöntemsel yaklaşım sunar; hamsi gibi nadir/sembol yüklü öğelerin analizinde kullanılabilecek araçları tartışır.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2008c.html"
+    },
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinde kör kodlama ve güvenirlik ilkelerini aktarır; hamsi ile ilgili rüya örneklerinin sistematik olarak değerlendirilmesi için metodolojik temel verir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud'un balık imgelerine ilişkin genel psikanalitik çerçeveyi sunar; hamsi için doğrudan olmasa da temkinli bir teorik yorum zemini sağlar.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Fish in Dreams · Forever Jung",
+      "relevance": "Jungcu kaynaklar içinde balığın bilinçdışı ve içgörü ile ilişkisini ele alır; hamsi gibi küçük balık imgelerinin Jungcu okumaları için teorik destek sunar.",
+      "url": "https://foreverju.ng/symbols/fish"
+    },
+    {
+      "title": "Fish Symbolism, The Zodiac, Carl Jung and the Development ...",
+      "relevance": "Balık sembolizminin Jungcu bağlamda nasıl yorumlandığını tartışır; hamsi örneklerinin arketipsel okumasında başvuru olanağı verir.",
+      "url": "https://gautamjhanjee.substack.com/p/fish-symbolism-the-zodiac-carl-jung"
+    },
+    {
+      "title": "Carl Jung - Analysis of Dream Symbols (2)",
+      "relevance": "Jungcu sembol analizlerinin özetlendiği çevrimiçi materyal; balık imgelerinin ruhsal dönüşüm ve bilinçdışıyla ilişkisini hamsi bağlamında değerlendirmeye yardımcı olur.",
+      "url": "https://www.carl-jung.net/dream_symbols2.html"
+    },
+    {
+      "title": "The Black Sea Hamsi (Anchovy)",
+      "relevance": "Hamsinin Karadeniz ve Pontus folklorundaki tarihsel-kültürel yerini anlatır; hamsinin rüyalarda toplumsal ve beslenme temalarıyla bağlanmasının kültürel dayanaklarını gösterir.",
+      "url": "https://pontosworld.com/index.php/history/sam-topalidis/916-black-sea-hamsi-anchovy"
+    },
+    {
+      "title": "[PDF] from the Black Sea to Athens during",
+      "relevance": "Antik dönemde Karadeniz hamsisinin ticaret ve beslenme bağlamındaki yerini işler; hamsinin ekonomik ve toplumsal önemine dair tarihsel arka plan sunar.",
+      "url": "https://colchianstudies.wordpress.com/wp-content/uploads/2011/04/muzaffer-demir-2007-the-trade-in-salt-pickled-hamsi-and-other-fish-from-the-black-sea-to-athens-during-the-archaic-and-classical-periods.pdf"
+    },
+    {
+      "title": "Historical roots of anchovy fishing Hamsi balıkçılığının tarihi ...",
+      "relevance": "Hamsinin ticaret, sosyal hayat ve edebiyattaki kültürel önemine dair çalışmadır; rüyalarda hamsinin geçim ve emeğe işaret etme olasılığını destekler.",
+      "url": "http://www.actabiologicaturcica.com/index.php/abt/article/download/953/1044"
+    },
+    {
+      "title": "karadeniz yöresinde folklorik bir değer olarak hamsi",
+      "relevance": "Karadeniz folklorunda hamsinin deyim ve atasözleriyle kullanımını gösterir; rüyada hamsinin yerel kültürel çağrışımlarını anlamak için doğrudan kaynak sağlar.",
+      "url": "https://akmb.gov.tr/wp-content/uploads/2024/03/5-Bekir-SISMAN-Karadeniz-Yoresinde-Folklorik-Bir-Deger-Olarak-Hamsi.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Klasik oneirokritik geleneğin ana metnini tanıtır; balık sembolizminin antik rüya yorumlama bağlamında nasıl ele alındığına dair genel bir referans sunar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Chasing Anchovies on Turkey's Black Sea Coast",
+      "relevance": "Hamsinin güncel toplumsal ve ekonomik önemine dair gazetecilik anlatısı; modern kültürel bağlamı rüya yorumuna taşımada yararlı bilgiler içerir.",
+      "url": "https://www.nytimes.com/2012/12/16/travel/chasing-anchovies-on-turkeys-black-sea-coast.html"
+    },
+    {
+      "title": "Colors in Dreams",
+      "relevance": "Kutsal Yazı merkezli sembol yorumunda bağlamın önemini vurgular; hamsi gibi balık imgelerini İncil merkezli okumalara uyarlamak için referans sağlar.",
+      "url": "https://www.theeasternchurch.com/saints/biblical-dream-symbols-guide"
+    },
+    {
+      "title": "What is the biblical meaning of seeing fish in dreams?",
+      "relevance": "Hristiyan gelenekte balık sembolizminin hangi temalara işaret ettiğini özetler; hamsi yorumu için genel Hristiyan sembolik çerçeve sunar.",
+      "url": "https://thecrosstalk.com/knowledgebase/biblical-studies/biblical-criticism/what-biblical-meaning-seeing-fish-dreams/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Talmudik rüya yaklaşımının rüya yorumuna verdiği önemi gösterir; hamsi için rabbanî çerçevede yapılacak sınırlı yorumlara zemin sağlar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 57A – Hebrew & English Talmud | Bekiut",
+      "relevance": "Rüyaların bazı durumlarda anlamlı olabileceğini gösteren Talmud pasajı; sembolik öğelerin rabbanî bağlamda değerlendirilmesinin örneğini sunar.",
+      "url": "https://bekiut.com/talmud/Berakhot/57a"
+    },
+    {
+      "title": "Dreams: Judaism's Forgotten Spiritual Practice - Evolve",
+      "relevance": "Yahudi geleneğinde rüyaların manevi ve pratik okunmasına dair çağdaş bir değerlendirme; hamsi sembolünün dini-kültürel okumaları için destekleyici perspektif sağlar.",
+      "url": "https://evolve.reconstructingjudaism.org/dreams-practice/"
+    },
+    {
+      "title": "Hamsi, Haṃsi, Hamshi: 16 definitions",
+      "relevance": "haṃsī/haṃsa sözcük ailesinin Budist ezoterik metinlerdeki kullanımlarını gösterir; hamsi biçimli sözcüklerin dinî/ezoterik anlam taşıyabileceğine dair dilsel arka plan sunar.",
+      "url": "https://www.wisdomlib.org/definition/hamsi"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Budist rüya yaklaşımının genel çerçevesini verir; hamsi gibi nesnelerin rüyada zihinsel süreçlerin yansıması olarak okunmasına dair bir perspektif sağlar.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "DREAMS",
+      "relevance": "Budist psikoloji geleneğinde rüyaların sınıflandırılması ve işlevine dair açıklamalar içerir; hamsi rüyalarının zihinsel nedenleri üzerine düşünülecek genel çerçeve sunar.",
+      "url": "https://www.buddhisma2z.com/content.php?id=116"
+    },
+    {
+      "title": "Рыба хамса и амулет хамса. Что у них общего? - ШколаЖизни.ру",
+      "relevance": "Hamsa/hamse muskası ve içindeki balık figürünün koruma-bereket çağrışımlarını tartışır; hamsi figürünün muskalarla sembolik bağlantılarına dair popüler kültür örneği sunar.",
+      "url": "https://www.shkolazhizni.ru/world/articles/104459/"
+    },
+    {
+      "title": "The Meaning of a Fish in a Hamsa Hand Amulet",
+      "relevance": "Hamsa elindeki nazarlıkta bulunan balık figürünün yorumunu açıklar; hamsi imgesinin koruyucu ve bereket temalarına bağlanmasına dair kültürel bir referans sağlar.",
+      "url": "https://www.alefbet.com/blogs/blog/what-does-a-fish-symbolize-in-art"
+    },
+    {
+      "title": "What Is The Meaning Behind The Hamsa",
+      "relevance": "Hamsa sembolizmini ve koruma-bereket çağrışımlarını özetler; hamsi/balık figürlerinin bu bağlamda nasıl algılanabileceğine dair popüler bir kaynak sunar.",
+      "url": "https://www.dreamdictionary.org/dream-dictionary/what-is-the-meaning-behind-the-hamsa/"
+    },
+    {
+      "title": "Dream Meaning of Anchovy (Hamsi) | Dream Interpretation",
+      "relevance": "Popüler rüya sözlüğü türündendir; hamsiyi küçük ama hayırlı bir işaret olarak tanımlar.",
+      "url": "https://www.dreaminterpretation.co/dream-meaning-of-anchovy-hamsi/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian",
+    "buddhist-eastern"
+  ]
+}

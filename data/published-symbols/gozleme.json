@@ -1,0 +1,199 @@
+{
+  "slug": "gozleme",
+  "title": "gözleme",
+  "shortDescription": "Rüyada gözleme görmek; günlük ihtiyaçlar, emek, hazırlık ve doyum temalarıyla ilişkilendirilir. Gözleme pişirmek çabanın sonuca ulaşmasını, yemek veya paylaşmak ise ihtiyaçların karşılanmasını ve sosyal bağları çağrıştırabilir; yanmış ya da çiğ kalmış gözleme hazırlıktaki aksaklık ve yorgunluğu yansıtabilir.",
+  "positiveAssociations": [
+    "Bereket ve doyum",
+    "Emek karşılığı elde edilen rahatlama",
+    "Paylaşma ve topluluk duygusu",
+    "Gündelik yaşamda yeterlilik"
+  ],
+  "challengingAssociations": [
+    "Beslenme ve beden sağlığıyla ilgili kaygılar",
+    "Hazırlık aşamasındaki yorgunluk ve baskı",
+    "Gündelik rızık veya geçim sıkıntıları",
+    "Aşırı doyum veya haz odaklı rahatsızlıklar"
+  ],
+  "contextDependentAssociations": [
+    "Gözlemenin pişirildiği ortam ve sıcaklık/ısı koşulları",
+    "Rüya sahibinin yiyecekle kurduğu duygusal ton",
+    "Yalnız başına mı yoksa başkalarıyla mı tüketildiği",
+    "Hamurun açılma ve hazırlık sürecindeki hisler"
+  ],
+  "commonVariations": [
+    {
+      "title": "Saçta Gözleme Pişirmek",
+      "description": "Saçta özenle gözleme pişirdiğini görmek, emek verilen bir sürecin olgunlaşması ve günlük çabaların somut bir ürüne dönüşmesiyle ilişkilendirilir."
+    },
+    {
+      "title": "Gözleme Yemek ve Doyum",
+      "description": "Taze bir gözlemeyi yediğini ve tat aldığını görmek, ağızda hissedilen haz, içselleştirme ve günlük yaşamda ihtiyaç duyulan enerjinin karşılanması temalarına işaret eder."
+    },
+    {
+      "title": "Başka Birine Gözleme İkram Etmek",
+      "description": "Pişirilen gözlemeyi başkalarıyla paylaştığını görmek, sosyal bağlar, cömertlik, topluluk hissi ve rızkı çevredekilerle bölüşme arzusunu yansıtır."
+    },
+    {
+      "title": "Yanmış veya Pişmemiş Hamur Gözleme",
+      "description": "Gözlemenin yanması ya da çiğ kalması, hazırlık süreçlerinde yaşanan aksaklıkları, eksik kalmış çabaları veya beklentilerin tam karşılanmamasından kaynaklanan tedirginliği gösterir."
+    }
+  ],
+  "psychology": "Ampirik psikoloji çalışmalarında yiyecek ve yeme eylemi, rüya içeriğinde bağlama bağlı bir unsur olarak kodlanır. Tat deneyimleri ve yiyecek temalı rüyalar, bireyin günlük beslenme alışkanlıkları, fiziksel duyarlılıkları, haz arayışı veya bedenle kurduğu ilişkiyle doğrudan bağlantılı olabilir. Rüya sırasında hissedilen duygu tonu, yiyecek imgesinin anlamını büyük ölçüde şekillendirir.",
+  "jungian": "Analitik psikoloji perspektifinde yiyeceklerin hazırlanması ve pişirilmesi süreci, genellikle bilinçdışı içeriklerin işlenmesi, dönüştürülmesi veya özümsenmesiyle bağdaştırılır. Su ve ısı gibi elementlerin hamurla birleşerek pişmesi, psişik enerjinin yoğrulması ve bireyin kendi iç derinliklerinden süzülen bilgiyi sindirmesi yönünde ele alınabilir.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik çerçevesinde unlu ve hazırlanan yiyecekler, genel ekmek ve günlük rızık sembolizmi üzerinden Tanrı’nın sağlayışı, yeterlilik ve şükran kavramlarıyla ilişkilendirilebilir. Bu bağlamda gözleme, yaşamın temel ihtiyaçlarının karşılanmasını ve ruhsal ya da bedensel beslenmeyi simgeleyebilir.",
+  "jewishTraditions": "Yahudi rüya ve gıda sembolizminde unlu mamuller ve temel gıdalar doyum, geçim ve nimet ekseninde değerlendirilir. Tavada hazırlanan hamur işi gibi unsurlar, günlük beslenme ile paylaşılan sade rızık temalarına yakın durur.",
+  "buddhistEasternApproaches": "Budist yaklaşıma göre rüyalar zihnin yansımaları ve alışılmış düşünce örüntülerinin görünümüdür. Gündelik bir nesne olan gözleme, zihnin o anki beklentilerinin, arzularının veya gündelik yaşam pratiklerinin zihinsel birer tezahürü olarak ele alınır.",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Beslenme alışkanlıkları, beden duyarlılıkları ve günlük yeme temalarının yansıması olarak ele alır.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Oral haz, istek doyumu, emek ve erken dönem beslenme deneyimleriyle ilişkilendirir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Psişik enerjinin işlenmesi, ısı ve su dengesiyle hamurun dönüşüm süreci üzerinden okur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Günlük rızık, Tanrı'nın sağlayışı ve başkalarıyla paylaşma çağrısı olarak değerlendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Gıda Sembolizmi",
+      "interpretation": "Temel geçim, doyum ve sade rızık ekseninde bağlama dayalı olarak ele alır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Zihin Yaklaşımı",
+      "interpretation": "Zihnin günlük alışkanlıklarının ve yansımalarının bir formu olarak temkinli biçimde değerlendirir.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, gözleme gibi temel gıda ve hazırlık içeren simgelerin tek ve evrensel bir anlam taşımadığı konusunda ortak noktada birleşir: nesnenin anlamı rüyanın bağlamına ve bireyin yaşam koşullarına göre şekillenir.",
+  "differences": "Psikolojik yaklaşımlar yeme eylemini bedensel ve ampirik temellere ya da içsel arzu dinamiklerine bağlarken, geleneksel ve teolojik okumalar rızık, şükran, paylaşım ve manevi beslenme ekseninde yorumlar üretir.",
+  "inusAssessment": "Gözleme sembolü, rüyada yalnızca pasif bir nesne olarak değil, hamurun yoğrulmasından pişmesine kadar aktif bir hazırlık süreci barındırmasıyla öne çıkar. Bu durum, rüya sahibinin günlük hayatında harcadığı emeği, ürettiği değeri ve bu üretimin meyvelerini toplama arzusunu simgeler. Rüyanın olumlu bir doyum hissiyle mi yoksa hazırlık aşamasındaki bir telaşla mı görüldüğü, sembolün haz veren bir rızık mı yoksa aşırı çaba gerektiren bir sorumluluk mu olduğuna karar vermede belirleyicidir.",
+  "faq": [
+    {
+      "question": "Rüyada gözleme görmek kesinlikle bereket anlamına mı gelir?",
+      "answer": "Hayır. Ampirik ve geleneksel çerçeveler rüya sembollerinin sabit olmadığını, rüya sahibinin o anki duygusal tonuna ve bağlama göre anlam değiştirdiğini vurgular."
+    },
+    {
+      "question": "Gözleme pişirmek ile yemek arasında yorum farkı var mıdır?",
+      "answer": "Evet. Pişirmek genellikle emek verme, hazırlık ve bir süreci yönetme çabasını yansıtırken; yemek eylemi daha çok doyum, içselleştirme ve haz odaklı temalarla ilişkilendirilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "More dreams of the rarebit fiend: food sensitivity and dietary ... - PMC",
+      "relevance": "Yiyeceklerin rüya içeriği ve kâbus sıklığıyla ilişkisini ele alan güncel ampirik çalışma; yiyecek temalı rüya değişimleri için doğrudan bulgu sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12259596/"
+    },
+    {
+      "title": "Dreams About Food and Eating: A Literature Review",
+      "relevance": "Rüya içeriği sınıflamasında yiyecek ve yeme kategorisinin nasıl kodlandığını gösteren derleme; 'gözleme'yi yiyecek kategorisi içinde konumlandırmak için yararlıdır.",
+      "url": "https://sleepandhypnosis.org/wp-content/uploads/2024/07/c33e8622e0b54b798969ad7bda85a3fd.pdf"
+    },
+    {
+      "title": "scale investigation of dreamt gustatory experi- ences",
+      "relevance": "Tat deneyimleri ve yeme içeriğinin rüya raporlarındaki sıklığını inceleyen çalışma; yiyecek duyumlarının rüya içeriğinde nicel olarak nasıl göründüğüne dair veri sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/90419/95268/259155"
+    },
+    {
+      "title": "Chapter 2: The Hall/Van De Castle System",
+      "relevance": "Hall/Van de Castle rüya kodlama sisteminde yeme ve içme davranışlarının ayrı bir içerik boyutu olarak ele alınmasını açıklar.",
+      "url": "https://dreams.ucsc.edu/Library/fmid2.html"
+    },
+    {
+      "title": "[PDF] The Neurocognitive Theory of Dreaming",
+      "relevance": "Rüya sembolizminin yaygın ve otomatik olmadığını savunan nörobilişsel çerçeve; sembolleri sabit anlamlarla eşleştirmeye temkinli yaklaşmayı destekler.",
+      "url": "https://dreams.ucsc.edu/NCTD/Neurocognitive%20Theory%20of%20Dreaming%20(Domhoff%202022).pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyada pasta kesme ve yeme eylemi örneği üzerinden yiyecek, arzu ve eylem bağlantısını gösteren klasik psikanalitik metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams"
+    },
+    {
+      "title": "C. G. JUNG - ronliskey.com",
+      "relevance": "Su, bilinçdışı ve derinliğe iniş temalarının Jung’un kendi sembolizminde nasıl kurulduğunu gösterir.",
+      "url": "https://www.ronliskey.com/docs/collected-Works-09-I-Archetypes-and-the-Collective-Unconscious-by-C-G-Jung.pdf"
+    },
+    {
+      "title": "Full text of \"Marie Louise Von Franz books\"",
+      "relevance": "Rüyalarda suyun bağlama göre nasıl taşma, iyileşme ve yaşam suyu anlamları kazanabildiğini açıklar.",
+      "url": "https://archive.org/stream/marielouisevonfranzalchemyanintroductiontothesymbolismandthepsychologystudiesinj/Marie-Louise%20Von%20Franz%20-%20Alchemy_%20An%20Introduction%20to%20the%20Symbolism%20and%20the%20Psychology%20(Studies%20in%20Jungian%20Psychology)%20(1981,%20Inner%20City%20Books)_djvu.txt"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorumu geleneğinin temel metni; yiyecek sembollerini tarihsel oneirokritik bağlama yerleştirmek için ana çerçeveyi sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un rüya yorumcu kimliğini ve Oneirocritica’nın kapsamını özetler; rüya sembollerinin yorum yöntemine tarihsel bağlam sağlar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of ...",
+      "relevance": "Artemidorus’un rüya sınıflandırmasını tartışır; yiyecek sembollerinin yorumunda rüyanın türünün önemini anlamaya yardımcı olur.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Topical Bible: Symbolism of Bread and Water",
+      "relevance": "Kutsal Kitap’taki ekmek sembolizmini Tanrı’nın sağlayışı ve ruhsal beslenme olarak özetler; gözleme için ekmek benzeri yorum kurmaya elverişli temayı destekler.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_bread_and_water.htm"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Rüya yorumunu sabit sembol eşleştirmeleri yerine bağlama dayalı tartışan Talmudik rüya çerçevesi.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Baker's Dream and the Tenth of Tevet | Sefaria",
+      "relevance": "Ekmek ve doyum temasını Yahudi anlatı geleneği içinde ele alan rabbanî materyal.",
+      "url": "https://www.sefaria.org/sheets/456821"
+    },
+    {
+      "title": "Traum und Traumdeutung im Talmud",
+      "relevance": "Unlu yiyeceklerin gündelik beslenme, kutsal zaman ve hatırlama ile ilişkilendirildiği Yahudi gıda sembolizmi.",
+      "url": "https://www.magnespress.co.il/en/book/Traum_und_Traumdeutung_im_Talmud-3900"
+    },
+    {
+      "title": "Budist Rüya Yorumu: Dharma, Farkındalık ve Aydınlanma - DreamAM",
+      "relevance": "Budist rüya yaklaşımını, rüyaların zihnin yansımaları ve alışılmış düşünce örüntülerinin görünümü olarak ele alan genel çerçeve.",
+      "url": "https://getdreamon.app/tr/interpretation-styles/buddhist"
+    },
+    {
+      "title": "Dreampaths",
+      "relevance": "Göz sembolünü genel olarak içgörü, farkındalık ve bilinçle ilişkilendiren modern sembolik bir okuma sunuyor; 'gözleme' için ancak dolaylı çağrışım sağlayabilir.",
+      "url": "https://dreampaths.net/symbol/eyes"
+    },
+    {
+      "title": "Eyes",
+      "relevance": "Gözün sembolik anlamlarını farklı kültürel ve ezoterik bağlamlarda özetliyor; 'gözleme'ye doğrudan uygulanabilir bir rüya yorumu içermiyor.",
+      "url": "https://websites.umich.edu/~umfandsf/symbolismproject/symbolism.html/E/eyes.html"
+    },
+    {
+      "title": "Eyes Meaning & Symbolism in Mythology, Folklore & Spirit Work",
+      "relevance": "Göz sembolünü spiritüel ve ezoterik açıdan bilinç, algı ve ilahi gözetimle ilişkilendiriyor; fakat 'gözleme' için doğrudan kanıt sağlamıyor.",
+      "url": "https://wisdomofthespirit.com/eyes-symbolism-meaning/"
+    },
+    {
+      "title": "The Hidden Meaning Of The Eye – InkTally",
+      "relevance": "Göz imgesini bilinç, içgörü ve 'görme' temalarıyla açıklıyor; 'gözleme' adına doğrudan bir rüya malzemesi vermiyor.",
+      "url": "https://www.inktally.co.uk/blogs/the-inktally-journal/symbols-the-eye"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

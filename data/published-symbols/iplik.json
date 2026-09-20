@@ -1,0 +1,207 @@
+{
+  "slug": "iplik",
+  "title": "iplik",
+  "shortDescription": "Rüyada iplik görmek; bağ kurma, süreklilik ve dağınık olanı bir araya getirme ile ilişkilendirilir. Sarılı ve sağlam iplik düzeni, onarımı veya işlerin sağlamlaşmasını; düğümlü ya da kopmuş iplik ise karmaşık ya da çözülen bağları çağrıştırabilir.",
+  "positiveAssociations": [
+    "bağlantı",
+    "onarma",
+    "süreklilik",
+    "birlik",
+    "kutsallık",
+    "kimlik",
+    "kefaret",
+    "kurtuluş",
+    "antlaşma",
+    "korunma"
+  ],
+  "challengingAssociations": [
+    "düğümlenmiş ipliğin sihirle ilişkilendirilmesi",
+    "kopan veya çözülen bağlar",
+    "bedensel boşaltım ve dönüşüm çağrışımları",
+    "karmaşık zihinsel düğümler"
+  ],
+  "contextDependentAssociations": [
+    "beyaz ipliğin sabahı simgelemesi",
+    "siyah ipliğin geceyi simgelemesi",
+    "iplik eğirmenin yolculukla ilişkilendirilmesi",
+    "ipliğin rengine ve rüyadaki kullanım biçimine göre değişen manalar"
+  ],
+  "commonVariations": [
+    {
+      "title": "Beyaz ve Siyah İplik Görmek",
+      "description": "Rüyada beyaz iplik görmek genellikle sabahı, siyah iplik görmek ise geceyi ve zamanın akışını simgeler."
+    },
+    {
+      "title": "İplik Eğirmek veya Sarmak",
+      "description": "Rüyasında yün veya benzeri malzemelerden iplik eğirdiğini ya da ip sarıp yumak yaptığını görmek, geleneksel tabirlere göre genellikle bir yolculuğa çıkma ya da işlerin sağlam olması şeklinde yorumlanır."
+    },
+    {
+      "title": "Düğümlenmiş İplik Görmek",
+      "description": "Rüyada karşılaşılan düğümlü iplik, geleneksel kaynaklarda sihir veya karmaşık bağlar temasıyla ilişkilendirilen bir imge olarak öne çıkar."
+    },
+    {
+      "title": "Kırmızı İplik Görmek",
+      "description": "Teolojik ve sembolik okumalarda kırmızı iplik motifi, korunma, kurtuluş, antlaşma ve derin ruhsal bağlar gibi temalarla bağdaştırılarak ele alınır."
+    }
+  ],
+  "psychology": "Doğrudan ampirik psikoloji literatüründe rüyada iplik görülmesine dair kesin bir bilimsel karşılık bulunmamaktadır. Ancak psikanalitik çerçevede iplik, gündelik deneyim ile rüya düşünceleri arasında bir 'iz' veya bağlantı hattı kurma işleviyle ele alınır.",
+  "jungian": "",
+  "islamicTradition": "İslam rüya tabiri geleneklerinde iplik, delil ve şahid olarak kabul edilir. Beyaz iplik sabahı, siyah iplik geceyi simgeler, düğümlenmiş iplik sihirle tabir edilir. İplik eğiren veya yünden iplik yapan birini görmek ise kanaat, işlerin sağlam olması, hayra yönelme ve yolculukla ilişkilendirilir.",
+  "christianTraditions": "Hristiyan teolojik sembolizminde iplik ve tekstil imgeleri Tanrı'nın yaratıcı düzeni, hayatın birbirine bağlılığı, kimlik, birlik ve kefaret kavramlarıyla ilişkilendirilir. Özellikle kırmızı iplik motifi korunma, antlaşma ve kurtuluş çağrışımları taşır.",
+  "jewishTraditions": "Yahudi rüya geleneği ve Talmudik çerçevede rüyaların tek başına sabit bir anlamı yoktur; rüyanın anlamı büyük ölçüde yoruma ve kişinin ahlaki yönelimine bağlıdır. İplik gibi birleştirici imgeler, bu bağlamda ahlaki ve manevi değerlendirmelere zemin hazırlar.",
+  "buddhistEasternApproaches": "Doğu ve Budist geleneklerinde, Upanişadlara dayanan kökenleriyle iplik, varlık düzlemleri arasındaki bağlantıyı, kaynağa dönüşü ve yaşam ipliği, arzu ile karmanın birbirine bağlanışını simgeler. Ayrıca keşiş giysilerinin onarılması bağlamında bakım, süreklilik ve sadelik anlamları taşır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda iplik, farklı varlık boyutları arasındaki görünmez bağı, düşünce hattını, yaşamın ana temasını veya içsel yolculuğu bir arada tutan ince ama belirleyici bir çizgiyi temsil eder.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "İlişkileri birbirine bağlayan, uzatan ve bedensel ve dürtüsel çağrışımlar uyandıran bir imgedir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Delil, şahid, zamanın akışı (beyaz/siyah iplik), düğüm ve sihir ilişkisi veya yolculuk ile hayra yönelme.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Tanrı'nın düzeni, yaratılışın birbirine bağlılığı, birlik, kefaret ve kırmızı iplik özelinde koruma/antlaşma.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Doğu ve Ezoterik Yaklaşımlar",
+      "interpretation": "Varlık düzlemleri arasında kozmik bağ, yaşam ipliği, süreklilik, onarım ve içsel yönelim.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve psikolojik yaklaşımlar incelendiğinde, ipliğin temel ortak paydasının 'bağlantı kurmak', 'süreklilik sağlamak' ve 'dağınık unsurları bir araya getirmek' olduğu görülür.",
+  "differences": "Psikanalitik yaklaşım ipliği zihinsel bağlar ve bedensel çağrışımlar üzerinden okurken; dini ve geleneksel okumalar onu zaman simgeleri, delil, yolculuk veya teolojik antlaşma gibi somut ve simgesel alanlarla ilişkilendirir.",
+  "inusAssessment": "Rüyada iplik sembolüyle karşılaşmak, onun tek başına sabit bir hüküm taşımasından ziyade, rüya içindeki durumuna göre şekillenen keskin bir gerilim barındırır. İpliğin beyaz veya siyah olması, düzgünce sarılması ya da düğümlenip kopması, yorumun yönünü tamamen değiştirebilir. Bu durum, ipliğin rüyada yalnızca pasif bir nesne olmadığını, aksine zihinsel ve yaşamsal bağların hangi yöne evrildiğini gösteren dinamik bir odak noktası olduğunu ortaya koyar.",
+  "faq": [
+    {
+      "question": "Rüyada iplik görmek her zaman olumlu bir anlam taşır mı?",
+      "answer": "Hayır. İpliğin durumu rüyanın anlamını doğrudan etkiler; örneğin düzgün eğrilmiş veya beyaz iplik olumlu ve düzenli bir sürece işaret edebilirken, düğümlenmiş iplik sihir veya karmaşa gibi zorlu temalarla ilişkilendirilebilir."
+    },
+    {
+      "question": "Rüyada beyaz ve siyah iplik görmenin anlamı nedir?",
+      "answer": "Geleneksel tabirlerde beyaz iplik sabah vaktine ve aydınlığa, siyah iplik ise geceye ve zamanın akışına delalet eden simgesel karşıtlıklar olarak ele alınır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DREAMS IN FOLKLORE (FREUD AND OPPENHEIM)",
+      "relevance": "İplik, kordon, ip ve benzeri nesnelerin Freudcu sembolizmde meni ve bedensel boşaltım çağrışımlarıyla nasıl ilişkilendirildiğini gösterir.",
+      "url": "https://www.lutecium.org/ftp/Freud/pdf/1911_dreams_in_folklore.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Rüya parçalarının daha geniş rüya-düşünce ağına nasıl bağlandığını gösteren Freudcu rüya kuramı çerçevesi sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Freud's Dream Interpretation: A Different Perspective Based ...",
+      "relevance": "Freud’un rüya kaynakları ve rüya içeriğinin dönüşümü hakkındaki genel kuramsal çerçevesini akademik dille özetler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6115518/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un Oneirocritica adlı rüya yorumu eserinin kapsamını ve antik rüya yorum geleneğindeki yerini gösteren klasik çeviri kaynağı.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus’un Oneirocritica’sını antik rüya yorumu el kitabı olarak konumlandıran ve eserin yorum yöntemi hakkında bağlam veren tanıtım yazısı.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri İ Harfi",
+      "relevance": "İplik için doğrudan rüya tabiri maddeleri içerir; delil ve şahid, sabah-gece karşıtlığı, düğüm ve sihir, iplik eğirme ve yolculuk gibi sembolik eşleştirmeler verir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-i2-harfi.html"
+    },
+    {
+      "title": "İslami Rüya Tabirleri, Nablusi, Kirmani, İbn-i Sirin, İmam Cafer Sadık, Seyyid Süleyman, Danyal - İ",
+      "relevance": "İp sembolünü yolculukla ilişkilendirir ve ip/halat sarmayı yolculuğa çıkma olarak aktarır.",
+      "url": "https://www.medicentertv.com/islami-ruya-tabirleri-nablusi-kirmani-ibn-i-sirin-imam-cafer-sadik-seyyid-suleyman-danyal-i"
+    },
+    {
+      "title": "İbni Sîrîn'den Yapılan Rüya Tabirnameleri ve Tercümeleri ...",
+      "relevance": "İbni Sîrîn'e atfedilen tabirnamelerde ip ve iplik başlıklı bir bölüm bulunduğunu gösteren akademik çalışma; klasik geleneğin metin düzeni hakkında bağlam sağlar.",
+      "url": "https://dergipark.org.tr/tr/download/article-file/3169759"
+    },
+    {
+      "title": "Topical Bible: Thread",
+      "relevance": "İncil’de 'thread' (Türkçesi: 'iplik') başlığı altında ipliği Tanrı'nın düzeni ve yaratılışın birbirine bağlılığı için bir mecaz olarak özetleyen derleme.",
+      "url": "https://biblehub.com/topical/t/thread.htm"
+    },
+    {
+      "title": "Topical Bible: Threads",
+      "relevance": "İncil’de iplik ve tekstil imgelerinin kutsallık, kimlik, birlik ve ruhsal anlamlarla ilişkilendirildiğini toplayan derleme.",
+      "url": "https://biblehub.com/topical/t/threads.htm"
+    },
+    {
+      "title": "Topical Bible: Symbolism of the Scarlet Thread",
+      "relevance": "Kırmızı iplik (Scarlet thread) motifini kurtuluş, antlaşma ve Mesih'in kanıyla ilişkilendiren İncil temelli derleme.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_the_scarlet_thread.htm"
+    },
+    {
+      "title": "Topical Bible: Scarlet Thread",
+      "relevance": "Kırmızı iplik motifinin kurtuluş, koruma ve antlaşma sembolizmi içindeki yerini açıklayan İncil odaklı derleme.",
+      "url": "https://biblehub.com/topical/s/scarlet_thread.htm"
+    },
+    {
+      "title": "The Stuff That Dreams Are Made Of",
+      "relevance": "Berakhot 55b’ye atıfla Yahudi geleneğinde rüyanın yorumla anlam kazandığını anlatır; bu, rüya sembollerinin sabit değil yorum bağımlı ele alınmasına dair çerçeve sağlar.",
+      "url": "https://www.reconstructingjudaism.org/dvar-torah/stuff-dreams-are-made/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’nin rüyalar bölümünün kapsamını ve rüyaların teshuvaya yöneltebilen ahlaki işlevini açıklar; Yahudi rüya geleneğinin genel çerçevesini verir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "The Symbolism of the Thread - New Acropolis Library -",
+      "relevance": "İpliğin Upanişadlara dayanan sembolizmde, varlık düzlemleri arasındaki bağ ve kaynağa dönüş ilişkisini ele alır.",
+      "url": "https://library.acropolis.org/the-symbolism-of-the-thread/"
+    },
+    {
+      "title": "Buddhism’s Knotted Thread (結縷法)",
+      "relevance": "Hint kültüründe kutsal ipliğin işlevlerini ve sembolik önemini tartışır.",
+      "url": "https://www.wisdomlib.org/science/journal/religions-journal-mdpi/d/doc1693457.html"
+    },
+    {
+      "title": "WHITE BONES RED ROT BLACK SNAKES",
+      "relevance": "Bhavanetti ve yaşam ipliği teması üzerinden ipliğin yaşamı bağlayan sembolik işlevine değinir.",
+      "url": "http://santifm.org/santipada/wp-content/uploads/WBRRBS23softLoRes.pdf"
+    },
+    {
+      "title": "Significance of Thread",
+      "relevance": "Buddhist bağlamda iplik kavramını keşiş giysilerinin onarımı ve yenilenmesiyle ilişkilendirir.",
+      "url": "https://www.wisdomlib.org/concept/thread"
+    },
+    {
+      "title": "WOVEN MANTRA: AVISUAL EXPRESSION",
+      "relevance": "Sutra ve tantra terimlerinin iplik/dokuma metaforlarıyla bağlantısını ve kutsal sözün süreklilik anlamını gösterir.",
+      "url": "https://core.ac.uk/download/pdf/212995118.pdf"
+    },
+    {
+      "title": "Holy thread: Significance and symbolism",
+      "relevance": "Budist ritüel bağlamda kutsal ipliğin koruma ve bereketle ilişkilendirildiğini aktarır.",
+      "url": "https://www.wisdomlib.org/concept/holy-thread"
+    },
+    {
+      "title": "The Thread - Great Symbols Series | Theosophy Trust",
+      "relevance": "İpliği, düzlemler arası bağlantı ve kozmik kuvvet çizgileriyle ilişkilendiren teosofik bir sembol anlatımı sunar.",
+      "url": "https://theosophytrust.org/1188-the-thread"
+    },
+    {
+      "title": "Thread, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Rüyada ipliği, düşünce hattı, yaşamın 'kırmızı ipi' ve spiritüel düzeyde aydınlanmaya giden yol olarak yorumlayan bir rüya-simgesi metni sunar.",
+      "url": "http://www.dreamtation.com/docs/1477.htm"
+    },
+    {
+      "title": "Thread and cord",
+      "relevance": "İpliği algısal yükseliş ve bilinçle ilişkilendiren ezoterik bir açıklama sunar.",
+      "url": "https://allaboutheaven.org/symbols/thread-and-cord/123"
+    }
+  ],
+  "relatedSlugs": []
+}

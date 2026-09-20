@@ -1,0 +1,190 @@
+{
+  "slug": "kendi-kani",
+  "title": "kendi kanı",
+  "shortDescription": "Rüyada kendi kanını görmek genellikle yaşam gücü, fedakârlık, kayıp veya içsel dönüşüm temalarıyla ilişkilendirilir. İmgelerin anlamı sahneye, kanın kaynağına ve rüya sahibinin duygusal tepkisine göre değişir.",
+  "positiveAssociations": [
+    "Yaşam enerjisi ve canlılıkla bağ kurma",
+    "Ruhsal arınma ve hafifleme",
+    "Fedakârlık ve içsel adanmışlık",
+    "Kişisel dönüşüm ve olgunlaşma"
+  ],
+  "challengingAssociations": [
+    "Enerjinin tükenmesi veya yorgunluk",
+    "Bedensel zarar veya yaralanma kaygısı",
+    "Maddi ya da manevi kayıp hissi",
+    "Suçluluk, borç veya sıkıntılı durumlar"
+  ],
+  "contextDependentAssociations": [
+    "Kanın hangi beden bölgesinden çıktığı",
+    "Kanın miktarı, rengi ve akış biçimi",
+    "Rüya sahibinin kana karşı gösterdiği duygusal tepki",
+    "Uyanık yaşamdaki stres, enerji harcama veya adanmışlık durumu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Bedenin bir yerinde kendi kanını görmek",
+      "description": "Rüya sahibinin uyanık yaşamında o bölgeyle ilgili (örneğin ilişki, iş, sağlık) tükenme veya zarar hissinin simgesel yansıması olabilir."
+    },
+    {
+      "title": "Kendi kanının akıp gittiğini hissetmek",
+      "description": "Motivasyon, yaşam enerjisi veya kontrolün azalması biçiminde deneyimlenen bir kayıp duygusuna işaret edebilir."
+    },
+    {
+      "title": "Kan aldırma veya kontrollü kan akışı",
+      "description": "Yüklerden arınma, psikosomatik rahatlama veya içsel bir hafifleme arzusu bağlamında okunabilir."
+    },
+    {
+      "title": "Kendi kanını yuttuğunu veya içtiğini görmek",
+      "description": "Özveri, içselleştirilmiş keder, ağır sorumluluklar, borç veya sıkıntı hissinin sembolik ifadesi olabilir."
+    }
+  ],
+  "psychology": "Doğrudan \"kendi kanı\" konusu üzerine ampirik psikolojik çalışmalar bulunmamaktadır; bu nedenle psikolojik yorumlar büyük ölçüde kan imgelerinin genel psikoloji ve özellikle psikanalitik literatürdeki çağrışımlarına dayanır. Psikanalitik çerçevede kan, libido, saldırganlık, suçluluk, kayıp ve bedensel sınırların ihlali gibi temalarla ilişkilendirilir. Rüyada kendi kanını görmenin olası anlamları—enerji kaybı, duygusal yara, fedakârlık veya arınma ihtiyacı—bağlam, rüya duygu tonu ve beden bölgesi göz önünde bulundurularak değerlendirilmelidir.",
+  "jungian": "Jungcu perspektifte kan, yaşam gücü ve bedensel-ruhsal canlılıkla ilişkilendirilir. Kendi kanını görmek, bireysel dönüşüm sürecinin bir bedeli, bastırılmış enerjinin açığa çıkışı veya benliğin yenilenme ihtiyacı olarak okunabilir; yine de bu tür okumalar duygu tonu ve kişisel bağlama bağlıdır.",
+  "islamicTradition": "Modern İslami tabir aktarımlarında \"kendi kanını görmek\" genellikle haram veya şüpheli kazanç, malda eksilme, günah veya keder temalarıyla ilişkilendirilir. Ancak burada kullanılan İslami örnekler çoğunlukla modern çevrimiçi aktarımlara dayanmaktadır ve klasik kaynaklarda \"kendi kanı\" ifadesine dair doğrudan, güvenilir tek bir hüküm saptanamadığı için dikkatle değerlendirilmelidir.",
+  "christianTraditions": "",
+  "jewishTraditions": "Talmudik literatürde (ör. Berakhot 57a) rüyada kan aldırma görmenin günahların affı ve bedensel arınma ile bağdaştırıldığı aktarılır. Bu bağlam, kan imgelerinin yalnızca zarar değil aynı zamanda yükten kurtulma veya af çağrışımı taşıyabileceğini gösterir.",
+  "buddhistEasternApproaches": "Budist ve bazı Doğu geleneklerinde 'kendi kanı' motifleri bedensel özveri, adanmışlık ve benlikten vazgeçme ekseninde ele alınır. Mahāyāna örneklerinde ve Çin Budizmi uygulamalarında kan, kutsal metne adanmışlık veya dünyevi bağlılıkların simgesel karşılığı olarak kullanılmıştır; bu nedenle rüyada kendi kanını görmek bağlılık, dönüşüm veya özveri temasıyla okunabilir.",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda kendi kanı, yaşam gücü, fedakârlık ve dönüşümle ilişkilendirilir. Simyada kırmızı evre ve kan imgeleri benliğin olgunlaşması, bir şeyler feda edilmesi veya içsel yeniden yapılanma süreçlerinin simgesi olarak değerlendirilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikoloji / Psikanaliz",
+      "interpretation": "Kan imgeleri libido, kayıp, suçluluk, bedensel sınırların ihlali ve duygusal tükenme ekseninde yorumlanır; \"kendi kanı\" bu çerçevede enerji kaybı veya içsel yara olarak okunabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "\"Kendi kanı\" yaşam gücü, dönüşüm bedeli ve bireysel yenilenme sürecinin sembolik görünümü olarak değerlendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek (modern aktarımlar)",
+      "interpretation": "Genel aktarımlarda haram kazanç, mal eksilmesi, günah veya keder eksenli uyarılarla ilişkilendirilir; klasik kaynaklarda doğrudan doğrulama sınırlıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği (Talmudik)",
+      "interpretation": "Kan aldırma teması bağlamında affedilme ve arınma çağrışımı vardır; bu, kan sembolünü yalnızca zarar olarak okumamaya izin verir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımları",
+      "interpretation": "Kutsal adanmışlık, özveri ve benlikten vazgeçme çerçevesinde okunur; rüya bağlamında bağlılık veya dönüşüm temalarını işaret edebilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel / Ezoterik",
+      "interpretation": "Kan, simyasal kırmızı evreyle bağlantılı olarak yaşam özü, fedakârlık ve dönüşümün sembolü kabul edilir; \"kendi kanı\" benliğin değişim maliyeti olarak yorumlanabilir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli gelenek ve yaklaşımlar, kanı güçlü bir yaşam-enerjisi ve bedensel sınırların göstergesi olarak görür; bu yüzden rüyada kendi kanını görmek genellikle enerji, kayıp, fedakârlık veya dönüşüm temalarıyla ilişkilendirilir.",
+  "differences": "Psikolojik ve Jungcu okumalar daha çok içsel enerji, psikodinamik süreçler ve dönüşüm üzerinden yorum yaparken; dini geleneklerde yorumlar sıkça ahlaki, mali veya kaderle ilgili uyarı ve arınma ekseninde şekillenir. Budist/Doğu ve ezoterik yaklaşımlar ise bağlam içinde özveri ve ruhsal adanmışlık vurgusu getirir.",
+  "inusAssessment": "Kendi kanını görmek tek bir nedene indirgenebilecek belirgin bir işaret değildir; daha ziyade rüya sahibinin yaşam enerjisinin harcanışı, duygusal sınırlarının ihlali veya içinde bulunduğu dönüşüm süreci gibi çeşitli unsurların (örneğin ilişki, sağlık, maddi durum, sorumluluklar) birleşimi olarak değerlendirilmelidir. Kanın kaynağı, miktarı ve rüya duygu tonu, hangi unsurların rüyanın anlamında daha belirleyici olduğunu saptamada önem taşır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Blood in Dreams: What It Means and Why It Matters | Hypnos",
+      "relevance": "Rüyalarda kan imgesinin olası duygusal ve bedensel çağrışımlarını, \"kendi kanı\" yorumuna kaynaklık edebilecek genel psikoloji perspektifiyle sunar.",
+      "url": "https://www.usehypnos.com/blog/blood-dreams-meaning"
+    },
+    {
+      "title": "The Psychoanalysis of Blood",
+      "relevance": "Kan imgelerinin psikanalitik çerçevede nasıl libido, suçluluk ve bedensel sınırlarla ilişkilendirildiğini göstererek \"kendi kanı\" yorumlarına teorik zemin sağlar.",
+      "url": "https://www.therapyroute.com/article/the-psychoanalysis-of-blood-by-m-mcardle-longford"
+    },
+    {
+      "title": "Blood in Dreams · Forever Jung",
+      "relevance": "Jungcu okumada kanın yaşam gücü ve dönüşümle ilişkisini özetleyerek \"kendi kanı\" için analitik psikoloji perspektifi sunar.",
+      "url": "https://foreverju.ng/symbols/blood"
+    },
+    {
+      "title": "Carl Jung - Analysis of Dream Symbols (3)",
+      "relevance": "Jung’a atfedilen çevrimiçi bir sembol açıklamasıdır; kanı hayat maddesi, yaşam ve ruhla ilişkilendirir.",
+      "url": "https://www.carl-jung.net/dream_symbols3.html"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritik geleneğin kan ve beden imgelerini bağlama göre yorumlama eğilimini gösterir; tarihsel perspektif sağlar ancak \"kendi kanı\" için doğrudan tekil bir hüküm vermez.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Sleep and Dreams in Ancient Medical Diagnosis and Prognosis",
+      "relevance": "Antik tıp ve rüya yorumunda kan, beden içi durumlar ve renk imgeleri arasındaki ilişkiyi tartışır.",
+      "url": "https://theses.ncl.ac.uk/jspui/bitstream/10443/1577/1/Hulskamp%20M%20A%20A%2008.pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams in the Ancient Near East. With a Translation of an Assyrian Dream-Book",
+      "relevance": "Eski Mezopotamya rüya kitabı ve kehanet geleneği içinde beden imgelerinin yorumlanışını anlamaya yardımcı olur.",
+      "url": "https://ia802907.us.archive.org/6/items/Oppenheim1956AssyrianDreamBook/Oppenheim_1956_Assyrian_Dream_Book.pdf"
+    },
+    {
+      "title": "Rüyada Kan Kusmak Ne Anlama Gelir? - Diyadinnet Rüya Tabirleri",
+      "relevance": "Kan içme temasını İslami rüya tabiri bağlamında ele alan çevrimiçi bir kaynaktır; kendi kanını içmeyi keder ve borç temasıyla ilişkilendirir.",
+      "url": "https://www.diyadinnet.com/ruyada-kan-kusmak-5909"
+    },
+    {
+      "title": "Rüyada Kendi Kanını Görmek Ne Anlama Gelir?",
+      "relevance": "Kendi kanını görmeyi haram mal, şüpheli kazanç, günah ve mal eksilmesiyle ilişkilendiren çevrimiçi İslami tabir sayfası.",
+      "url": "https://www.diyadinnet.com/ruyada-2577-kendi-kanini-gormek"
+    },
+    {
+      "title": "İBN SÎRÎN",
+      "relevance": "İbn Sîrîn’in rüya tabirleriyle ilişkili eserlerini ve tarihî arka planını özetleyen ansiklopedi maddesidir.",
+      "url": "https://islamansiklopedisi.org.tr/ibn-sirin"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Talmudik metinde kan/kan aldırma temasıyla ilgili pasajlar bulunur; bu kaynak Yahudi geleneğinin kan imgelerini affedilme/arınma bağlamında değerlendirdiğini göstermeye yardımcı olur.",
+      "url": "https://www.sefaria.org/Berakhot.57a?lang=en"
+    },
+    {
+      "title": "Berakhot 57a-b: Seeing Bloodletting in a Dream - Steinsaltz.org",
+      "relevance": "Berakhot 57a-b'nin kan aldırma rüyasını tıbbi bağlam ve affedilme anlamıyla açıklayan metin.",
+      "url": "https://steinsaltz.org/daf/berakhot57/"
+    },
+    {
+      "title": "Blood writing as extraordinary artifact and agent for ...",
+      "relevance": "Budist metinlerde kanın kutsal yazı ve özveri bağlamında kullanımını ele alır; \"kendi kanı\" motifinin Doğu yaklaşımlarındaki adanmışlık okumalarına referans sağlar.",
+      "url": "https://www.nature.com/articles/s41599-020-0497-1"
+    },
+    {
+      "title": "Significance of Own blood",
+      "relevance": "Mahayana bağlamında ‘kendi kanı’ temasını Sadāprarudita örneği üzerinden özveri, adanmışlık ve benlikten vazgeçme ekseninde özetler.",
+      "url": "https://www.wisdomlib.org/concept/own-blood"
+    },
+    {
+      "title": "Blood Writing in Chinese Buddhism",
+      "relevance": "Çin Budizmi’nde kanla sutra kopyalama pratiğini ve kanın adanmışlıkla ilişkisini tarihsel olarak ele alır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/download/9174/3032/9461"
+    },
+    {
+      "title": "THE%20TIBETAN%20BOOK%20OF%20THE%20DEAD.pdf",
+      "relevance": "Tibetçi sembolik dilde kanın saṃsāra ile ilişkili varoluş bağlamında nasıl değerlendirildiğini açıklar; kan imgesinin dönüşüm ve dünyevî bağlılık bağlamında okunmasına kapı açar.",
+      "url": "https://the-eye.eu/public/Books/World%20Tracker%20Library/worldtracker.org/media/library/Metaphysics%20&%20Spirituality/THE%20TIBETAN%20BOOK%20OF%20THE%20DEAD.pdf"
+    },
+    {
+      "title": "Blood: Esoteric Meaning & Symbolism",
+      "relevance": "Kanı yaşam, fedakârlık ve ruhsal öz ile ilişkilendiren ezoterik sembolizm özeti.",
+      "url": "https://theosophytrust.org/631-blood"
+    },
+    {
+      "title": "Use of Blood in Alchemy",
+      "relevance": "Kanı simyasal süreçte yaşam ilkesi ve dönüşümle ilişkilendiren kısa not.",
+      "url": "https://www.alchemywebsite.com/blood.html"
+    },
+    {
+      "title": "Red Tincture — Seba Concordance",
+      "relevance": "Kırmızı renk, kan, rubedo ve taşın olgunlaşması arasındaki simyasal bağlantıyı ele alan sayfa.",
+      "url": "https://www.seba.health/concordance/red-tincture/"
+    },
+    {
+      "title": "Le symbolisme du sang : signification, interprétation",
+      "relevance": "Kanı yaşam, kutsal/arıtıcı anlamlar ve simyasal su-fire birlikteliği üzerinden yorumlayan derleme.",
+      "url": "https://www.jepense.org/symbolisme-du-sang/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "psychoanalytic"
+  ]
+}

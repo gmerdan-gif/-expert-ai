@@ -1,0 +1,237 @@
+{
+  "slug": "kumru",
+  "title": "kumru",
+  "shortDescription": "Rüyada kumru görmek genellikle barış, sadakat, yuva huzuru ve uzaktan gelecek hoş haberlerle ilişkilendirilir. Kumrunun ötüşü ve rüyadaki duygular ise bu anlamı hasret, keder veya uzayan bekleyişe yaklaştırabilir.",
+  "positiveAssociations": [
+    "saflık",
+    "masumiyet",
+    "barış",
+    "sadakat",
+    "alçakgönüllülük",
+    "uzlaşma",
+    "iyi ve hoş gelişmeler",
+    "kederin dağılması"
+  ],
+  "challengingAssociations": [
+    "derin keder",
+    "bekleyişin uzaması",
+    "mevsimsel ertelemeler"
+  ],
+  "contextDependentAssociations": [
+    "uzaktan gelecek haber",
+    "hasretin dinmesi ve eve dönüş",
+    "ailevi ve ilişkisel yakınlık",
+    "mevsimsel döngülere bağlı olarak işlerin sonuçlanması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Pencereye konan kumru",
+      "description": "Yakın zamanda uzaktan gelecek hoş bir haberin işareti ya da uzun süredir beklenen bir durumun çözülmeye yaklaşması şeklinde okunabilir."
+    },
+    {
+      "title": "Evin içine giren kumru",
+      "description": "Hane içinde huzurun artması, aile içi bağların güçlenmesi veya beklenen haberin eve ulaşması gibi yuva odaklı olumlu değişiklikleri simgeleyebilir."
+    },
+    {
+      "title": "Uçan kumru sürüsü",
+      "description": "Hayatta barış ve uzlaşma eğilimlerinin çoğalması, ruhsal bir rahatlama dönemine girme veya toplumsal/ilişkisel çözülmelerin yatışması olarak değerlendirilebilir."
+    },
+    {
+      "title": "Yaslı veya yüksek sesle öten kumru",
+      "description": "İçsel hasret, geçmişe dair duygusal canlanma veya hassas bir bekleyiş döneminin habercisi olabilir; duygusal ton ve bağlam burada belirleyicidir."
+    }
+  ],
+  "psychology": "Doğrudan kumru rüyalarını inceleyen ampirik psikolojik çalışma bulunmamaktadır. Kuşlarla ilgili genel rüya araştırmaları, rüya içeriğinin tek bir sabit anlama indirgenemeyeceğini; rüya görenin duygusal tonu, REM süreçleri ve kişisel bağlamın belirleyici olduğunu göstermektedir. Bu nedenle kumru sembolü yalnızca bağlam ve duygu tonu göz önünde tutularak yorumlanmalıdır.",
+  "jungian": "Jungcu analitik psikolojide kuş ve özellikle güvercin imgeleri, bilinç ile bilinçdışı arasında aracı olarak, anima ya da dönüşüm motifleriyle ilişkilendirilir. Jung’un kendi anlatılarında beyaz kuş figürü bazen bilince gelen bir içsel yönün veya psişik bütünleşmeyi başlatan bir habercinin temsili olarak okunur; kumru için dengeli bir Jungcu sentez, yumuşaklık, birleştiricilik ve ruhsal uzlaşma çağrışımlarını öne çıkarır.",
+  "islamicTradition": "Modern İslami aktarımlarda kumru genellikle hayra erişme, beklenen bir işin görülmesi, üzüntüden kurtulma ve uzaktan gelecek güzel haberler anlamına yorulur. Bazı aktarılarda kumrunun baharda görülmesi işin o mevsimde sonuçlanacağı; mevsim dışında görülmesi ise ertelenme eğiliminde olduğu şeklinde değerlendirilir. Ayrıca geleneksel aktarılarda erkek kumruyla erkek çocuk, dişi kumruyla dindar veya rızkı bol kadın gibi cinsiyetle ilişkilendirilen yerel yorumlar bulunur; bunlar daima bağlama ve kaynağın güvenilirliğine göre dikkatle ele alınmalıdır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde kumru (turtledove) saflık, masumiyet, eşe sadakat ve kurban/arınma temalarıyla ilişkilendirilir. Kutsal metinlerdeki kullanımlar kumruyu ilahi sevgi, barış ve tövbekâr keder bağlamlarında okunabilir kılar; rüya bağlamında bu dini çağrışımlar yalnızca sembolik bir katman oluşturur ve doğrudan determinizm getirmez.",
+  "jewishTraditions": "Yahudi metinleri ve Talmudik rüya yorumlarında (ör. Berakhot 56b) güvercin/kumru benzeri imgeler evlilik, kadınlar ve ahlaki bağlılık ekseninde yorumlanmıştır. Kumrunun eşine bağlılığı, rabbanî yorumlarda sadakat ve manevi bağlılık metaforu olarak kullanılır; rüya yorumu ise bağlam ve anlatıya göre değişir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel okumalarda kumru genellikle vefa, sadakat, yumuşak iletişim ve uzlaşma temalarının taşıyıcısı olarak görülür. Rüya bağlamında kumru; hasretin hafiflemesi, eve/döngüsel güvenliğe dönüş ve ilişkilerde onarıcı etki çağrışımlarını beraberinde getirebilir; ancak bu okumalar geleneksel kaynaklarla birebir örtüşmeyebilir ve yorumsaldır.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz ve Teorik Yaklaşım",
+      "interpretation": "Kuş imgelerini daha genel dürtüsel, özgürleşme veya psişik hareketlilik motifleri bağlamında değerlendirir; kumru, bu çerçevede yumuşak yönlerin bir ifadesi olarak okunabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analitik Yaklaşım",
+      "interpretation": "Kumru ve benzeri kuş figürlerini anima, bilinçdışı haberciliği ve psişik bütünleşme aracısı olarak değerlendirir; dönüşüm ve ruhsal yumuşama vurgulanır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami ve Geleneksel Aktarımlar",
+      "interpretation": "Hayra erişme, kederin dağılması, haberleşme, mevsimsel zamanlama ve bazı yerel aktarımlarda cinsiyetle ilişkilendirilen yorumlara açık bir çerçeve sunar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan ve Yahudi Teolojik Geleneği",
+      "interpretation": "Eşe sadakat, saflık, kurban/arınma ve ilahi sevgi gibi temalar üzerinden etik ve ahlaki bir sembolik okuma yapar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Vefa, uzlaşma, ilişkisel huzur ve içsel ferahlamanın simgesi şeklinde yorumlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler kumru sembolünü çoğunlukla sadakat, barış, huzur, haberleşme ve yuvaya bağlılık temaları etrafında ortak bir çerçevede değerlendirir.",
+  "differences": "Yorum farkları büyük ölçüde yöntem ve kaynak temelli olup; psikanaliz daha içsel dürtü ve sembolik işlevlere odaklanırken, dini/tradisyonel yaklaşımlar mevsimsel zamanlama, haberleşme, kurban ve toplumsal cinsiyet bağlamlarını daha belirgin ele alır. Modern popüler tabirler ise bu eksenleri daha basitleştirerek olumlu/olumsuz kutuplarına indirgemeye eğilimlidir.",
+  "inusAssessment": "Kumru rüyasının anlamı için en belirleyici koşullar: rüyanın duygusal tonu, kumrunun rüyadaki davranışı (giriş, uçuş, ötüş), konum (ev içinde/pencere/uzakta) ve rüya görenin uyanık yaşamındaki aile/ilişki bağlarıdır. Bu koşullar bir araya geldiğinde kumrunun rüyadaki olası anlamları ‘sadakat-barış’ ekseninden ‘hasret/uzun bekleyiş’ veya ‘mevsimsel ertelenme’ gibi daha zorlayıcı okumalara kadar açılabilir.",
+  "faq": [
+    {
+      "question": "Rüyada kumru görmek her zaman evlilik veya ilişki anlamına mı gelir?",
+      "answer": "Hayır. Geleneksel aktarımlarda evlilik ve eş ilişkileriyle bağdaştırılsa da, kumru aynı zamanda uzaktan gelecek güzel bir haber, kederin dağılması veya genel bir içsel ferahlama olarak da yorumlanabilir; bağlam belirleyicidir."
+    },
+    {
+      "question": "Kumrunun cinsiyeti rüyada anlamı değiştirir mi?",
+      "answer": "Bazı geleneksel İslami aktarılarda kumrunun cinsiyetiyle ilgili yerel yorumlar bulunur (örneğin erkek kumruyla erkek çocuk, dişi kumruyla dindar kadın gibi); bu tür yerel anlamlar kaynaklara göre değişir ve bağlamla birlikte dikkatle değerlendirilmelidir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rüyada Kumru Görmek Ne Anlama Gelir? Rüyada Kumru Yakalamak Ve Kumrunun Eve Girmesi",
+      "relevance": "Modern çevrimiçi rüya tabirlerinde kumrunun barış, sevgi ve sadakat gibi olumlu çağrışımlarla ilişkilendirildiğini gösterir.",
+      "url": "https://www.hurriyet.com.tr/mahmure/ruya-tabirleri/ruyada-kumru-gormek-ne-anlama-gelir-ruyada-kumru-yakalamak-ve-kumrunun-eve-girmesi-41932196"
+    },
+    {
+      "title": "Freud on Da Vinci: The Rocky Road of Psychobiographic Investigations",
+      "relevance": "Freud’un kuş ve uçuş imgelerini rüyalarda cinsel dürtülerin dolaylı ifadesi olarak ele alışının tartışıldığı bir kaynaktır; kumru için doğrudan değil, genel kuş-imgesi bağlamında yararlıdır.",
+      "url": "https://academic.oup.com/book/25760/chapter/193322991?searchresult=1"
+    },
+    {
+      "title": "transform | Carl Jung: Group Experience and Personal Transformation",
+      "relevance": "Jung’un beyaz kuş anlatısı ve dönüşüm temasını özetleyen metin üzerinden güvercin/kumru imgesinin Jungcu yorumuna referans sağlar.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/08/19/transformation-3/"
+    },
+    {
+      "title": "My (Carl Jung's) Most Difficult Experiment [p. 4] - lampmagician",
+      "relevance": "Jung’un beyaz kuş rüyasını ve kuşun kız çocuğuna dönüşmesini aktaran metin.",
+      "url": "https://lampmagician.com/2026/01/10/my-carl-jungs-most-difficult-experiment-p-4/"
+    },
+    {
+      "title": "Birds - lampmagician",
+      "relevance": "Kuş ve güvercin anlatısının tekrarlandığı, Jung’un beyaz kuş rüyasına ilişkin çevrimiçi aktarım.",
+      "url": "https://lampmagician.com/tag/birds/"
+    },
+    {
+      "title": "[PDF] Franz, Marie-Louise von.pdf",
+      "relevance": "Von Franz’a atfedilen pasajlarda güvercin imgesinin Kutsal Ruh ve simgesel dönüşüm bağlamlarında ele alınışını gösterir; Jungcu literatüre ilişkin bir bağlam sunar.",
+      "url": "http://ndl.ethernet.edu.et/bitstream/123456789/14463/1/Franz,%20Marie-Louise%20von.pdf"
+    },
+    {
+      "title": "Dove",
+      "relevance": "Güvercinin Jung için yumuşak, birleştirici ruhsal bir imge olarak betimlendiği çevrimiçi metin.",
+      "url": "https://rosmertapublishing.com/dream-symbols/dove/"
+    },
+    {
+      "title": "Dove Dream Meaning & Interpretation - Mirror",
+      "relevance": "Güvercinin Jungcu okumada anima, bütünlenme ve bilinçdışı haberciliğiyle ilişkilendirildiğini söyleyen çevrimiçi metin.",
+      "url": "https://mirrorwithin.org/dream-dictionary/dove/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorum geleneğinde güvercin ve kumru yakınsamasının nasıl ele alındığını görmek için temel bir tarihsel kaynaktır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Interpretation of Dreams: Oneirocritica by Artemidorus",
+      "relevance": "Artemidorus’a atfedilen pasajın modern katalog kaydı; güvercin ve kumruya ilişkin antik sembolik eşleştirmeyi görünür kılan metin alıntısı içeriyor.",
+      "url": "https://www.goodreads.com/book/show/604460"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri K Harfi - Muhammed.net",
+      "relevance": "Modern İslami aktarımlarda kumrunun hayır, haber ve mevsimsel zamanlama bağlamlarında yorumlandığına dair bir örnek sunar.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
+    },
+    {
+      "title": "Rüyada kumru görmek ne anlama gelir? - Sabah",
+      "relevance": "Kumru görmenin iyi ve hoş gelişmeler ile bahar mevsimine bağlı işlerin gerçekleşmesi anlamlarını veren kısa bir modern aktarım.",
+      "url": "https://www.sabah.com.tr/ruyada-kumru-gormek-ne-anlama-gelir"
+    },
+    {
+      "title": "Bible Encyclopedia on Turtle-Dove",
+      "relevance": "Kumrunun eşine sadakat ve saflık sembolizmini anlatan ansiklopedik madde.",
+      "url": "https://www.sermonindex.net/encyclopedia/t/turtle-dove/"
+    },
+    {
+      "title": "Topical Studies",
+      "relevance": "Kumru ve güvercinin yas içindeki masumiyet, alçakgönüllülük ve barış çağrışımlarını özetleyen çalışma.",
+      "url": "https://www.bibletools.org/index.cfm/fuseaction/topical.show/rtd/cgg/id/553/turtledove.htm"
+    },
+    {
+      "title": "Strong's Greek: 5167. τρυγών (trugón) -- Turtledove",
+      "relevance": "Kumrunun Kutsal Kitap’taki temiz kuş, kurban, saflık ve sadakat boyutlarını açıklayan sözlük maddesi.",
+      "url": "https://biblehub.com/greek/5167.htm"
+    },
+    {
+      "title": "Topical Bible: Turtle-doves",
+      "relevance": "Kumrunun kutsal metinlerde saflık, kurban, masumiyet ve ilahi sevgiyle ilişkilendirilişini derleyen konu sayfası.",
+      "url": "https://biblehub.com/topical/t/turtle-doves.htm"
+    },
+    {
+      "title": "Turtledove: A Bird in Season | Answers in Genesis",
+      "relevance": "Kumrunun kurbanlık ve arınma bağlamındaki İncilî yerini ele alan kaynak.",
+      "url": "https://answersingenesis.org/birds/turtle-dove/"
+    },
+    {
+      "title": "Turtle Dove Symbolism & Meaning: Spirit Animal, Totem & Dreams",
+      "relevance": "Hristiyan ikonografisinde güvercin/Kutsal Ruh bağlantısını ve kumrunun iffet, dulluk, sadakat imgesi olarak okunmasını aktaran çalışma.",
+      "url": "https://mymythos.org/archetype/turtle-dove/"
+    },
+    {
+      "title": "Concordance",
+      "relevance": "Kumrunun sevgi, sadakat, saflık, masumiyet, barış ve uzlaşma temalarıyla ilişkilendirilmesini derleyen sözlük sayfası.",
+      "url": "https://biblehub.com/topical/t/turtle-dove.htm"
+    },
+    {
+      "title": "Berakhot 112 - Talmud Bavli Study",
+      "relevance": "Talmudik rüya anlatıları içinde güvercin/kumru benzeri imgelerin evlilik ve kadınlarla ilişkilendirildiğini gösteren doğrudan bir kaynaktır.",
+      "url": "https://talmudbavli.app/en/texts/Berakhot.112.1"
+    },
+    {
+      "title": "DOVE:",
+      "relevance": "Jewish Encyclopedia maddesi, güvercinin Yahudi sembolik düşüncesinde sadakat, kurban ve ilahi ruhla ilişkilendirildiğini özetler.",
+      "url": "https://www.jewishencyclopedia.com/articles/14548-turtle-dove"
+    },
+    {
+      "title": "Berachot: 56b - Talmud",
+      "relevance": "Berakhot 56b pasajında güvercin görüntüsünün rüya yorumu ve evlilik/cinsellik bağlamı yer alır.",
+      "url": "https://www.chabad.org/torah-texts/5299914/Talmud/Berachot/Chapter-9/56b"
+    },
+    {
+      "title": "Zealotry Is Like Radiation: One Has To Know How To Use It",
+      "relevance": "Turtledove'un eşine sadakatinin rabbanî-teolojik sembol olarak kullanıldığını gösterir.",
+      "url": "https://torah.org/torah-portion/ravfrand-5774-vayikra/"
+    },
+    {
+      "title": "Rüyada Kumru Görmek Ne Demek? Kısaca Ne Anlama Gelir?",
+      "relevance": "Kumru rüyasının hayra yorumlandığını; özellikle gurbettekilerden gelecek haber ve dönüş çağrışımları taşıdığını belirtir.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-kumru-gormek-ne-anlama-gelir-27278"
+    },
+    {
+      "title": "Rüyada Kumru Görmek | Rüya Tabirleri",
+      "relevance": "Kumruyu uysal ve uğurlu bir kuş olarak yorumlayıp ferahlık, rahatlama ve dileğin gerçekleşmesi temalarıyla ilişkilendirir.",
+      "url": "https://www.ruyatabirleri.co/ruyada-kumru-gormek/"
+    },
+    {
+      "title": "Rüyada Kumru Görmek Ne Anlama Gelir?",
+      "relevance": "Kumruyu vefa, sadık yoldaş, yuvaya bağlılık ve uzaktan gelen yumuşak haber sembolü olarak işler.",
+      "url": "https://ruyaokuma.com/ruya-tabirleri/ruyada-kumru-gormek"
+    },
+    {
+      "title": "Rüyada Kumru Görmek, Kumru (Kuşu) Yavrusu Ne Anlama Gelir?",
+      "relevance": "Kumruyu sevinçli haber, kederin dağılması, çocuk ve haberci/elçi temalarıyla açıklar.",
+      "url": "https://www.diyadinnet.com/ruyada-6603-kumru-gormek"
+    },
+    {
+      "title": "Rüyada Kumru Görmek Ne Anlama Gelir? Neye Delalet Eder?",
+      "relevance": "Kumruyu barış, sevgi, huzur ve sadakatle ilişkilendirir; rüyada kumruyu ilişkisel yakınlık sembolü olarak okur.",
+      "url": "https://www.haberet.com/yasam/ruyada-kumru-gormek-ne-anlama-gelir-67063"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "psychoanalytic"
+  ]
+}

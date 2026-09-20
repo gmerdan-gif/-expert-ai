@@ -1,0 +1,256 @@
+{
+  "slug": "regl",
+  "title": "regl",
+  "shortDescription": "Rüyada regl görmek, bedensel döngüler, duygusal yüklerden arınma ve yenilenme ihtiyacıyla ilişkilendirilebilir. Özellikle premenstrüel dönemde rüyalar daha yoğun, olumsuz duygulu olabilir ve kâbuslar artabilir.",
+  "positiveAssociations": [
+    "İçsel yenilenme ve ferahlama",
+    "Duygusal yüklerin bırakılması",
+    "Döngüsel farkındalık",
+    "Bedenle barışma ve kabul"
+  ],
+  "challengingAssociations": [
+    "Premenstrüel dönemde artan kâbuslar ve olumsuz duygu yoğunluğu",
+    "Ritüel sınır veya ayrışma hissi",
+    "Bedensel endişeler veya ertelenmiş beklentiler",
+    "Geçici kısıtlanma ve engellenme hissi"
+  ],
+  "contextDependentAssociations": [
+    "Regl döngüsünün evresi (ör. luteal ya da premenstrüel dönem)",
+    "Rüya sonrasında yıkanma ve arınma gibi eylemlerin varlığı",
+    "Rüyayı gören kişinin yaşam bağlamı ve kişisel duygu tonu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Beklenmedik bir zamanda adet kanaması görmek",
+      "description": "Günlük planların aksaması, sürpriz durumlar veya bedensel döngü üzerinde kontrolün kaybolduğu hissiyle bağlantılı olabilir."
+    },
+    {
+      "title": "Adet döneminin geciktiğini fark edip rüyada kanama görmek",
+      "description": "Psikanalitik okumalarda gecikmiş veya ertelenmiş bir durumun dolaylı biçimde ifade bulmasıyla ilişkilendirilebilir."
+    },
+    {
+      "title": "Regl sonrası yıkanıp ferahlama hissi",
+      "description": "İslami ve bazı geleneksel/ezoterik okumalarda kederden kurtulma, tövbe ve içsel arınma temalarını çağrıştırır."
+    },
+    {
+      "title": "Premenstrüel dönemde yoğun kâbuslar eşliğinde regl görmek",
+      "description": "Hormonal değişimlerin, rüya içeriğinde olumsuz duygulanım ve artmış uyarılma olarak yansıyabileceği gözlenmiştir."
+    }
+  ],
+  "psychology": "Ampirik Psikoloji: Araştırmalar, regl döngüsü evrelerinin rüya hatırlama ve rüya içeriğini etkileyebileceğini göstermektedir. Örneğin, luteal dönemde daha olumlu rüya içerikleri rapor edilirken, premenstrüel dönemde rüyaların daha uzun ve daha olumsuz duygulu olduğu, kâbusların ise arttığı bildirilmiştir.\n\nPsikanaliz: Freudcu çerçevede regl içeren rüya örnekleri, rüyanın açık içeriğinin gerçek hayattaki bedensel durumu dolaylı olarak yansıtabileceğini gösterir; bu tür rüyalar genellikle örtük dilekler veya bastırılmış/ertelenmiş duygu ve durumların biçim değiştirmiş ifadeleri olarak okunur.",
+  "jungian": "Jungcu ve analitik psikoloji perspektifinde regl sembolü, dişil bilinçdışı, dönüşüm, gölge içerikleri ve arketipsel dişil figürlerle (ör. Büyük Ana, anima) ilişkilendirilebilir. Regl, rüyada bedensel bir olay olmanın ötesinde psişik döngülerin, içsel gerilimlerin ve dönüşüm süreçlerinin bir imgesi olarak değerlendirilir; yine de bu okuma bağlama göre değişir ve tekil bir anlam çıkarmamak gerekir.",
+  "islamicTradition": "Klasik İslami rüya tabiri aktarım ve derlemelerinde hayız/regl rüyası, bağlama göre günah, dönemsel engel, hastalık veya mahremiyetle ilgili çağrışımlar taşıyabilir. Rüyada hayızdan sonra yıkanmak ise geleneksel aktarımda tövbe, kederden kurtuluş ve ferahlama temalarıyla ilişkilendirilir. Yorum, rüyayı gören kişinin durumu (ör. kadının yaşı, hamilelik durumu) ve rüya içindeki eylemlere göre değişir.",
+  "christianTraditions": "Hristiyan gelenekte, Levililer gibi kutsal metinlerin ritüel saflık düzenlemeleri temelinde regl çoğunlukla ritüel saflık, sınır ve ayrışma ekseninde yorumlanır. Rüyada regl imgesi, beden, utanç, arınma veya kutsal olana yaklaşma için hazırlık gibi temalarla ilişkilendirilebilir; tek ve zorunlu bir doktrin oluşturmaz.",
+  "jewishTraditions": "Yahudi/Talmudik çerçevede rüyalar genellikle ahlaki uyarı, teshuva ve sembolik çözümlemeler bağlamında ele alınır. Regl, ritüel ayrılık ve saflık düzeniyle ilişkilendirildiğinden, rüyada belirdiğinde bedensel sınırlar, ritüel farkındalık veya ahlaki uyarı çağrıştıran bağlamsal bir motif olarak okunabilir; kesin bir kehanet niteliği taşımaz.",
+  "buddhistEasternApproaches": "Budist ve Doğu Asya yaklaşımlarında regl çoğunlukla doğal bir bedensel süreç olarak görülür. Bazı bölgesel geleneklerde ritüel saflık-kirlilik tartışmaları bulunmakla birlikte, erken Budist öğretiler reglün ruhsal ilerlemeye engel sayılmadığını belirtir. Sembolik düzeyde regl, döngüsellik, bedensel gerçeklik, içsel kutsallık ve dönüşüm temalarıyla ilişkilendirilebilir.",
+  "spiritualApproaches": "Ezoterik ve çağdaş spiritüel okumalarda regl rüyası genellikle bir döngünün kapanması, duygusal boşalma, yenilenme ve dişil enerji ile uyumlanma temaları etrafında yorumlanır. Bu yaklaşımlar sembolü kişinin iç dünyası, duygusal süreci ve ritüel arınma ihtiyacıyla ilişkilendirir; yine de tek ve zorunlu bir anlam atanmaması vurgulanır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Regl döngüsü evrelerinin hormon değişimleri aracılığıyla rüya içeriğini, duygusal tonu ve kâbus sıklığını etkileyebileceğini araştırır.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Regl rüyasını gerçek hayattaki bedensel durumların dolaylı bildirimi ve örtük dileklerin gerçekleşmesi mantığıyla ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Sembolü anima, gölge, dişil bilinçdışı ve döngüsel psişik dönüşüm bağlamında yorumlar.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Hayızı dönemsel engel, günah veya hastalıkla; yıkanma motifi sonrasını ise tövbe ve ferahlama ile ilişkilendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan / Yahudi Gelenekleri",
+      "interpretation": "Adeti ritüel saflık, sınır ve ahlaki farkındalık ekseninde yorumlar; rüya bağlamında bu temalar öne çıkar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel / Ezoterik Yaklaşım",
+      "interpretation": "Regl imgesini döngüsel yenilenme, duygusal boşalma ve dişil enerji temalarıyla ilişkilendirir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşım regl sembolünü döngüsellik, bedensel farkındalık, geçiş dönemleri ve arınma ihtiyacı ekseninde ortak bir alana yerleştirir; sembolün tek ve sabit bir anlamı olmadığı konusunda uzlaşırlar.",
+  "differences": "Yaklaşımlar arasındaki ayrım odaklandıkları düzeydedir: ampirik psikoloji hormonal ve evresel etkileri vurgular; psikanaliz ve Jungcu ekoller bilinçdışı süreçlere, arketiplere ve dileklere odaklanır; dini gelenekler ritüel saflık, ahlaki uyarı ve arınma motiflerini öne çıkarır; spiritüel yorumlar ise enerjiye ilişkin döngüler ve içsel boşalmayı vurgular.",
+  "inusAssessment": "Rüyada regl görmek, fizyolojik döngülerin yansımasından psikanalitik örtük bildirimlere, Jungcu dönüşüm imgelerinden dini ritüel-saflık çağrışımlarına kadar geniş bir anlam spektrumuna açıktır. Yorumu rüya görenin döngü evresi, rüyanın duygu tonu ve rüya içindeki temizlenme/yıkanma gibi eylemler dikkate alınarak bağlama uygun biçimde yapılmalıdır; tek ve zorunlu bir anlam atanmamalıdır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dream Recall and Content versus the Menstrual Cycle - PMC",
+      "relevance": "Regl döngüsü evreleri ile rüya hatırlama ve içerik değişimini inceleyen çalışma; luteal dönemde daha olumlu rüya içerikleri bildirilmesine dair ampirik bulgular sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6681280/"
+    },
+    {
+      "title": "Menstrual hormone changes and instinctual tendencies in ...",
+      "relevance": "Adet dönemi hormon değişimleri ile rüyadaki anaç/sembolik anne temaları arasındaki ilişkiyi tartışan erken dönem çalışmalara örnek teşkil eder.",
+      "url": "https://link.springer.com/article/10.1007/BF00998865"
+    },
+    {
+      "title": "Nightmares Fluctuate Across the Menstrual Cycle and May be ...",
+      "relevance": "Menstrüel döngü boyunca kâbus sıklığının ve PMS ile ilişkili değişimlerin gözlendiğini bildiren bir araştırma çalışmasıdır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11870828/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüya kuramı metni; regl içeren rüya örnekleri üzerinden rüyanın örtük bildirim ve dilek gerçekleşimi mantığını anlamak için birincil kaynak sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams (1900)",
+      "relevance": "Rüyada adet ifadesinin gecikmiş adet dönemine bağlı olarak örneklendiği bölümdür. Regl sembolüne dair doğrudan birincil kaynak olarak gösterilebilir.",
+      "url": "https://brians.wsu.edu/2016/11/07/sigmund-freud-the-interpretation-of-dreams-1900/"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Rüyadaki adet örneğini içeren metnin tam PDF sürümüdür. Yorumun bağlamını ve Freud’un rüya mantığını doğrulamak için kullanışlıdır.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Spiritual Meaning of Menstruation in a Dream: Jungian Guide",
+      "relevance": "Jungcu çerçevede, regl sembolünün anima, gölge ve dönüşüm temalarıyla ilişkisini özetleyen bir değerlendirme sunar.",
+      "url": "https://www.selfgazer.com/blog/menstruation-dream-spiritual-meaning"
+    },
+    {
+      "title": "MENSTRUATION AND SHAMANISM - CarlJung",
+      "relevance": "Jung’a atfedilen metinler üzerinden menstruasyonun psikolojik karşıtlıklar ve içsel yaralanma bağlamında ele alınışına dair tartışmayı aktarır.",
+      "url": "https://carljung.ru/Library/EngMenstr.htm"
+    },
+    {
+      "title": "Dreams : Marie-Luise von Franz",
+      "relevance": "Jungcu rüya yorumunun kompansasyon, bilinçdışı ve sembolik süreçler üzerinden işlediğini gösteren kitap kaydıdır.",
+      "url": "https://archive.org/details/dreams00fran_0"
+    },
+    {
+      "title": "water | - Carl Jung Depth Psychology",
+      "relevance": "Su imgesini dönüşüm ve psişik değişim bağlamında açıklayan Jungcu bir metindir.",
+      "url": "https://carljungdepthpsychologysite.blog/2023/10/31/water-2/"
+    },
+    {
+      "title": "A Babylonian Dream Tablet on the Interpretation of Dreams",
+      "relevance": "Babil rüya tableti üzerine çalışma, Mezopotamya rüya yorum geleneğinin tarihsel varlığını gösterir; regl sembolüne özgü bir giriş sağlamaz.",
+      "url": "https://www.penn.museum/sites/journal/586/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Greko-Romen oneirokritik geleneğin temel metinlerinden biri olarak tarihsel rüya yorumu bağlamını kurar; eldeki kaynaklarda regl için doğrudan bir madde bulunmadığı not edilmiştir.",
+      "url": "https://books.google.com/books/about/An_Ancient_Dream_Manual.html?id=QZjFDwAAQBAJ"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Oneirocritica’nın beş kitaplık bir rüya el kitabı olduğu ve sınıflandırma/yorumlama araçları sunduğu bilgisi, Greko-Romen oneirokritik çerçeveyi doğrular.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Menstruation Islamic Interpretations & Meanings",
+      "relevance": "İslami rüya tabiri aktarım ve derlemelerinde hayız/regl rüyasının nasıl farklı bağlamlara göre yorumlandığını özetler.",
+      "url": "https://www.myislamicdream.com/menstruation.html"
+    },
+    {
+      "title": "dream interpretation of menstruation , by tabeer ur roya imam ibn e sereen",
+      "relevance": "Hayız sembolünü İslami rüya tabiri çerçevesinde, günah/engel, temizlenme sonrası ferahlama ve kişiye göre değişen sonuçlarla ilişkilendirir.",
+      "url": "https://tabeerurroya.org/en/dream-interpretation-of-menstruation"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri H Harfi - Muhammed.net",
+      "relevance": "Nablusî geleneğine atfedilen hayız maddesini aktararak rüyada hayız, yıkanma ve mahremiyet gibi temaların geleneksel yorum bağlantılarını sunar.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-h-harfi.html"
+    },
+    {
+      "title": "Leviticus 15:19 When a woman has a discharge consisting of ...",
+      "relevance": "Levililer'deki ritüel saflık düzenlemeleri üzerinden reglün Hristiyan sembolik dilindeki çağrışımlarına tarihsel bir referans sağlar.",
+      "url": "https://biblehub.com/leviticus/15-19.htm"
+    },
+    {
+      "title": "Topical Bible: Menstruation: Figurative",
+      "relevance": "Menstruasyonun Hristiyan sembolik dilinde saflık, arınma, reddedilme ve temizlenme temalarıyla ilişkilendirilmesine dair derlenmiş bir sembolik çerçeve sunar.",
+      "url": "https://biblehub.com/topical/naves/m/menstruation--figurative.htm"
+    },
+    {
+      "title": "Topical Bible: Women in Menstruation",
+      "relevance": "Levililer’deki ritüel düzeni üzerinden kutsal alan, temas ve saflık sınırlarıyla ilişkilendirilmesine dair metinsel bir referans sağlar.",
+      "url": "https://biblehub.com/topical/w/women_in_menstruation.htm"
+    },
+    {
+      "title": "Dreaming about Menstruation: What Does It Mean Biblically?",
+      "relevance": "Regl rüyasını Hristiyan sembolizmi içinde utanç, yenilenme, arınma ve duygusal baskı gibi temalarla açık uçlu biçimde okuyan çağdaş bir Hristiyan değerlendirme sunar.",
+      "url": "https://christianpure.com/learn/bible-dreams-menstruation/"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ce]",
+      "relevance": "Talmudik rüya yorumlama mantığını ve bedensel/cinsel imgelerin sembolik okunmasını ele alarak Yahudi çerçevede regl çağrışımlarının nasıl değerlendirilebileceğine dair akademik perspektif sunar.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Berakhot’taki rüya pasajı içinde menstruasyonun ritüel durum olarak nasıl anıldığını gösterir.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Talmudik rüya yorumunun teshuva ve uyarı boyutunu açıklar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 57b | The Sefaria Library",
+      "relevance": "Talmudik rüya malzemesinin metinsel çerçevesini ve sembolik okuma alanını doğrular.",
+      "url": "https://www.sefaria.org/Berakhot.57b?lang=en"
+    },
+    {
+      "title": "Bavli Berakhot 55a–57b: The Talmudic Dreambook in ...",
+      "relevance": "Talmudik rüya geleneğinde bedensel ve cinsel imgelerin sembolik yorumlara açıldığını tartışır.",
+      "url": "https://www.liverpooluniversitypress.co.uk/doi/pdf/10.18647/1801/JJS-1995?download=true"
+    },
+    {
+      "title": "Menstruation, Sexuality and Spirituality in Buddhism | 11 | The Ashgat",
+      "relevance": "Budist bağlamda reglün fiziksel ve normal bir süreç olarak nasıl ele alındığını açıklayan akademik bir çerçeve sunar; bölgesel farklılıkların varlığına dikkat çeker.",
+      "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315612836-11/menstruation-sexuality-spirituality-buddhism-kustiani-kustiani-stephen-hunt"
+    },
+    {
+      "title": "The Perception of Menstruation and Treatment ...",
+      "relevance": "Erken Budist öğretilerde menstruasyonun tabu olmadığını ve menstruasyonun doğal bir bedensel süreç sayıldığını vurgulayan gelenek içi bir anlatım sunar.",
+      "url": "https://digitalcollections.sit.edu/cgi/viewcontent.cgi?article=1003&context=inh"
+    },
+    {
+      "title": "How women are reinterpreting the menstrual taboos in ...",
+      "relevance": "Çin Budizmi ve Japon Budizmi içinde adet kanı, saflık ve 'Blood Pond Hell' etrafındaki kültürel anlatıları örnekler.",
+      "url": "https://theconversation.com/how-women-are-reinterpreting-the-menstrual-taboos-in-chinese-buddhism-272175"
+    },
+    {
+      "title": "WHITE BONES RED ROT BLACK SNAKES",
+      "relevance": "Erken Budist öğretilerde menstruasyon tabu olmadığını ve reglün doğal bir bedensel süreç sayıldığını vurgulayan gelenek içi bir anlatım sunar.",
+      "url": "http://santifm.org/santipada/wp-content/uploads/WBRRBS23softLoRes.pdf"
+    },
+    {
+      "title": "Menstruation and fertility in the Pali texts - Essays",
+      "relevance": "Pali metinlerinde menstruasyonu adlandıran kullanım örneklerini gösterir.",
+      "url": "https://discourse.suttacentral.net/t/menstruation-and-fertility-in-the-pali-texts/3042"
+    },
+    {
+      "title": "Acta Asiatica Varsoviensia 36 (2023): 229–244",
+      "relevance": "Budist yorum geleneğinde menstruasyon kanının lotus tahtı ve buddha/bodhisattva gözyaşlarıyla sembolik ilişkilendirildiğini aktarır.",
+      "url": "http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.ojs-issn-0860-6102-year-2023-issue-36-article-e014c02a-a597-346c-8587-6f34937eacb5/c/articles-35055906.pdf.pdf"
+    },
+    {
+      "title": "Menstruation in dreams — meaning and symbolism",
+      "relevance": "Modern ezoterik/spiritüel kaynaklarda regl rüyasının döngüsellik, duygusal boşalma ve yenilenme temalarıyla nasıl ilişkilendirildiğini özetleyen popüler bir değerlendirmedir.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/menstruation"
+    },
+    {
+      "title": "Seven Rules of Thumb for Esoteric Dream Interpretation",
+      "relevance": "Rüya yorumunda ezoterik yaklaşım için genel ilke veriyor; sembollerin kişinin iç dünyasına işaret edebileceği çerçevesini kuruyor.",
+      "url": "https://www.theosophical.org/files/events/nationalprograms/MastersSpeak/Esoteric_Dream_Interpretation.pdf"
+    },
+    {
+      "title": "Meaning of Menstruation Dreams",
+      "relevance": "Regl/menstruasyon rüyasını yenilenme, dişil enerji ve ruhsal arınma ekseninde ele alan modern spiritüel bir yorum içeriyor.",
+      "url": "https://oneiro.click/en/articles/menstruation-dream/"
+    }
+  ],
+  "relatedSlugs": []
+}
