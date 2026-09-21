@@ -35,7 +35,7 @@
       "description": "Kontrol dışı koşullar karşısında kişinin kendi ritmini kaybetmesi ve zamana yetişme çabasının beyhude olduğu hissinin belirmesidir."
     }
   ],
-  "psychology": "Ampirik çalışmalar, gece ilerledikçe rüyaların duygusal yoğunluğunun arttığını ve geç gece rüyalarının daha canlı, duygusal ve daha yoğun çağrışımsal içeriğe sahip olduğunu göstermektedir. Yakın dönemde yaşanan stresli olayların ve duygusal yüklerin rüyalara 1 ila 7 gün arayla gecikmeli olarak yeniden yansıabildiği (gecikmeli yeniden yansıma — dream-lag etkisi) bilinmektedir. Bu bağlamda geç kalmak teması, kişinin uyanık yaşamındaki yakın zamanlı zaman baskılarının, stres etkenlerinin ve artmış duygu yükünün bir yansıması olarak ortaya çıkabilir. Psikanalitik çerçevede ise Freud, 'çok geç' olma motifinin rüyada bir suçlama ve öz-eleştiri mekanizmasıyla ilişkilenebileceğini belirtir; burada merkez, gecikme deneyiminin rüya sahnesinde bir içsel hesaplaşmaya dönüşmesidir.",
+  "psychology": "Ampirik çalışmalar, gece ilerledikçe rüyaların duygusal yoğunluğunun arttığını ve geç gece rüyalarının daha canlı, duygusal ve daha yoğun çağrışımsal içeriğe sahip olduğunu göstermektedir. Yakın dönemde yaşanan stresli olayların ve duygusal yüklerin rüyalara 1 ila 7 gün arayla gecikmeli olarak yeniden yansıabildiği (gecikmeli yeniden yansıma — dream-lag etkisi) bilinmektedir. Bu bağlamda geç kalmak teması, kişinin uyanık yaşamındaki yakın zamanlı zaman baskılarının, stres etkenlerinin ve artmış duygu yükünün bir yansıması olarak ortaya çıkabilir. Freud'un bazı rüya ve vaka örneklerinde geç kalma, yetişememe veya 'çok geç' olma temaları belirli kişisel çatışmalar ve çağrışım zincirleri içinde ele alınır. Bu örnekler geç kalmanın rüyalarda genel olarak suçlama, öz-eleştiri veya ertelenmiş doyum anlamına geldiğini göstermez. Rüyadaki geç kalmanın neye, kime veya hangi sonuca ilişkin olduğu ve rüya sahibinin buna verdiği duygusal tepki yorumun merkezinde olmalıdır.",
   "jungian": "Analitik psikoloji çerçevesinde gecikme veya yetişememe temaları, kişinin psikolojik zamanı ile yaşam evresi arasındaki uyumsuzluğa işaret edebilir. Bu yaklaşıma göre geç kalmak, bireyin içsel gelişim ritmi ile dış dünyanın temposu arasındaki uyumsuzluğu, bir eşikten geçmeye henüz hazır olmaması veya dönüşüm sürecine bilinçli olarak yetişememesi gibi durumları simgeleyen sembolik bir anlatım olarak ele alınabilir.",
   "islamicTradition": "",
   "christianTraditions": "Hristiyan sembolik geleneğinde zamanın emanet ve sorumluluk olarak görülmesiyle bağlantılı olarak, geç kalma teması uyanıklık, hazırlık ve verilen zamanı doğru değerlendirme yükümlülüğü ile ilişkilendirilebilir.",
@@ -89,36 +89,6 @@
   ],
   "sources": [
     {
-      "title": "Nightly dynamics of emotional content in dreams",
-      "relevance": "Gece ilerledikçe rüyaların duygusal yoğunluğunun arttığını bildiren çalışma; rüya duygulanımı ve gece zamanının etkisiyle ilişkili.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40803415/"
-    },
-    {
-      "title": "Emotion, emotion regulation and sleep: An intimate relationship",
-      "relevance": "Uyku evresi ve gecenin zamanına göre rüya içeriğinin değiştiğini derleyen çalışma; rüya duygu ve içerik örüntülerinin çerçevesini verir.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7181893/"
-    },
-    {
-      "title": "The Functional Role of Dreaming in Emotional Processes - PMC",
-      "relevance": "Duygusal olayların rüya hatırlanımında gecikmeli biçimde yeniden ortaya çıkabildiğini ele alan çalışma; gecikmeli yeniden yansıma (dream-lag etkisi) ve duygusal işlemleme ile ilişkilidir.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6428732/"
-    },
-    {
-      "title": "Dream emotions: a comparison of home dream reports with ...",
-      "relevance": "Ev ve laboratuvar rüya raporlarının duygusallık farklarını gece zamanına bağlayan çalışma; rüya raporlarının bağlamsal yorumuna katkı sağlar.",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jsr.12555"
-    },
-    {
-      "title": "Early-night dreams are more continuous with waking life ...",
-      "relevance": "Erken ve geç gece rüyalarının uyanık yaşam sürekliliği, duygusal önem ve çağrışımsallık bakımından farklılaştığını gösteren çalışma; rüya içeriğinin zaman ve bağlam ilişkisini açıklar.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/33360822/"
-    },
-    {
-      "title": "Emotional valence affects the day-residue and dream-lag effects",
-      "relevance": "Gün artığı ve gecikmeli yeniden yansıma (dream-lag etkisi) etkisini tanımlayan çalışma; gündüz yaşantılarının rüyalarda gecikmeli yeniden belirmesini açıklar.",
-      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/50502/54230/"
-    },
-    {
       "title": "[PDF] The Interpretation of Dreams Sigmund Freud (1900)",
       "relevance": "Rüyada 'çok geç kalma' duygusunun suçlama ve öz-eleştiriyle birleştiği Freudcu örneğe dair metin.",
       "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
@@ -154,11 +124,6 @@
       "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
     },
     {
-      "title": "The patristic dream (Chapter 3) - Dreaming in the Middle ...",
-      "relevance": "Hristiyan patristik rüya düşüncesinin çerçevesini sunan çalışma; zamanın sorumluluk ve uyanıklık temalarıyla bağlantılı bağlam sağlar.",
-      "url": "https://www.cambridge.org/core/books/abs/dreaming-in-the-middle-ages/patristic-dream/AF4244F788B3C8B6E3361A7951BE82DE"
-    },
-    {
       "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
       "relevance": "Yahudi rüya yorumunda rüyanın yorumla şekillendiğini ve rüyaların zamanlamasına dair geleneksel kuralları derleyen kaynak.",
       "url": "https://sacred-texts.com/jud/jms/jms17.htm"
@@ -172,11 +137,6 @@
       "title": "Dream Interpretations are G‑d's business - Dreams preferably should be interpreted on the morning following the night they have been dreamt.",
       "relevance": "Berakhot 56’ya dayanan açıklama; rüyaların ertelenmeden yorumlanmasının önemine ve zaman unsuruna vurgu yapar.",
       "url": "https://www.chabad.org/kabbalah/article_cdo/aid/2044820/jewish/Dream-Interpretations-are-Gds-business.htm"
-    },
-    {
-      "title": "The Teaching on Dreams | 84000 Translating the Words of the Buddha",
-      "relevance": "Budist metinlerde rüya işaretlerine dair bir kayıt; bu kaynaklarda \"geç kalmak\" teması doğrudan rastlanmamıştır.",
-      "url": "https://84000.co/translation/toh48"
     },
     {
       "title": "Dreams of Being Late: Spiritual Meaning & Interpretation",

@@ -40,7 +40,7 @@
     }
   ],
   "psychology": "Ampirik psikoloji literatüründe 'fare yavrusu' rüyasına doğrudan atfedilmiş sabit bir bilimsel karşılık bulunmamaktadır. Bununla birlikte, küçük kemirgen imgeleri genel olarak bireyin bilinçdışında biriken, henüz adını koyamadığı küçük ama sürekli varlığını hissettiren hassasiyetleri ve dikkat gerektiren uyaranları temsil edebilir.",
-  "jungian": "Analitik psikolojide (Jung'a göre) fare, ruhun gölge yönüne, gece ortaya çıkan bilinçdışı içeriklere ve ihmal edilmiş psişik parçalara işaret edebilir. Fare yavrusu imgesi ise henüz tam biçimlenmemiş, zihnin karanlıkta kalan kıvrımlarında sessizce büyüyen ve özen ya da farkındalık talep eden gelişmekte olan bir içeriği düşündürür.",
+  "jungian": "Jungcu yaklaşımda hayvan imgeleri içgüdüsel yaşam ve bilinçdışı içeriklerle bağlamsal olarak ilişkilendirilebilir. Ancak fareyi otomatik olarak gölgeyle, fare yavrusunu da 'henüz gelişmekte olan bilinçdışı içerik' ile özdeşleştirmek Jung'un sabit bir sembol kuralı değildir. Böyle bir okuma ancak rüyanın olay örgüsü, fare yavrusunun davranışı, rüya sahibinin duygusu ve farelere ilişkin kişisel çağrışımları bunu destekliyorsa düşünülebilir. Fare yavrusu imgesi ise henüz tam biçimlenmemiş, zihnin karanlıkta kalan kıvrımlarında sessizce büyüyen ve özen ya da farkındalık talep eden gelişmekte olan bir içeriği düşündürür.",
   "islamicTradition": "Bazı modern tabir kaynaklarında ve geleneksel derlemelerde fare yavrusu: fiziksel olarak küçük ama fesat ehli bir kişi, iş hayatında yeni başlayan ufak çaplı maddi sıkıntılar, zayıf bir düşman veya haram lokma ile ilişkilendirilebilmektedir.",
   "christianTraditions": "Hristiyan sembolizminde fare, küçük ama ısrarcı zarar, gizli bozulma ve ruhsal uyanıklık gerektiren durumlarla bağdaştırılır. Bu bağlamda fare yavrusu, masumiyetten ziyade henüz küçük olan ancak zamanla büyüyüp kirlenmeye veya bozulmaya elverişli hale gelebilecek kırılgan bir sorunu veya kaygıyı temsil edebilir.",
   "jewishTraditions": "Yahudi rüya geleneğinde ve Talmudik tartışmalarda rüyaların yorumla şekillendiği esası benimsenmiştir. Doğrudan fare yavrusuna dair spesifik bir metin bulunmamakla birlikte, temkinli bir yaklaşımla bu imge ev içi dikkat, küçüklük, geçici rahatsızlıklar veya korunması gereken kırılgan durumlar çerçevesinde ele alınabilir.",
@@ -83,31 +83,6 @@
   ],
   "sources": [
     {
-      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
-      "relevance": "Freud’un rüya çalışmasının temel çerçevesini ve bastırılmış içeriğin rüyada dolaylı görünmesini anlatır.",
-      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
-    },
-    {
-      "title": "The Animal in Freud's Analysis of a Phobia in a Five-year ...",
-      "relevance": "Freud’un fare çağrışımlarının obsesyon, korku ve anlam yoğunlaşmasıyla birlikte ele alındığı vaka bağlamını gösterir.",
-      "url": "https://rupkatha.com/freuds-infantile-neurosis/"
-    },
-    {
-      "title": "An Introduction and Brief Overview of Psychoanalysis - PMC",
-      "relevance": "Freudcu rüya kuramının bilinçdışı istek, gizli içerik ve rüyanın terapötik işleviyle ilgili özetini verir.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10575551/"
-    },
-    {
-      "title": "Dream Distortion - The Interpretation of Dreams",
-      "relevance": "Freudcu temel ilkeyi özetler: rüyanın gizlenmiş bir dileğin gerçekleşmesi olduğu düşüncesini açıklar.",
-      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/dream-distortion/"
-    },
-    {
-      "title": "Help interpreting a dream about a mouse and a long sleep.",
-      "relevance": "Fare imgesinin Jungçu biçimde dikkat isteyen küçük bir psişik parçayla ilişkilendirildiği bir çevrimiçi tartışma.",
-      "url": "https://www.reddit.com/r/Jung/comments/79hu92/help_interpreting_a_dream_about_a_mouse_and_a/"
-    },
-    {
       "title": "Carl Jung: What Eros wants is to make man ask a question. To ...",
       "relevance": "Fareyi karanlık, gece ve doğurganlık/eros temalarıyla ilişkilendiren Jungcu alıntı derlemesi.",
       "url": "https://carljungdepthpsychologysite.blog/2020/09/08/eros-6/"
@@ -143,29 +118,9 @@
       "url": "https://www.attalus.org/translate/artemidorus.html"
     },
     {
-      "title": "Rüyada Fare Görmek Nedir? (Diyanet) Evde Küçük Beyaz ...",
-      "relevance": "Fare yavrusu için modern Türkçe bir İslami tabir derlemesi; yeni başlayan sıkıntı, yakın çevrede dönüşen ilişkiler ve haram lokma çağrışımları içeriyor.",
-      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-fare-gormek-ne-anlama-gelir-26471"
-    },
-    {
       "title": "Rüyada Fare Görmek Ne Anlama Gelir?",
       "relevance": "Fare yavrusu için küçük cüsseli fareyle ilgili bir tabir aktarımı; kötü huylu, fesat ehli bir kadınla karşılaşma anlamını veriyor.",
       "url": "https://www.diyadinnet.com/ruyada-1211-fare-gormek"
-    },
-    {
-      "title": "Rüyada fare yavrusu görmek ne anlama gelir? ...",
-      "relevance": "Fare yavrusunu iş ve para alanında sıkıntı, kayıp ve zayıf düşmanlarla ilişkilendiren bir tabir veriyor.",
-      "url": "https://www.hurriyet.com.tr/mahmure/ruya-tabirleri/ruyada-fare-yavrusu-gormek-ne-anlama-gelir-ruyada-fare-yavrusu-oldurmek-ve-yemek-41932191"
-    },
-    {
-      "title": "Rüyada Fare Yavrusu Görmek Ne Anlama Gelir?",
-      "relevance": "Fare yavrusu için iş hayatı kaynaklı sıkıntı ve maddi zorluk çağrışımı yapan kısa bir tabir sunuyor.",
-      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-fare-yavrusu-gormek-ne-anlama-gelir-6368767"
-    },
-    {
-      "title": "Mouse - Joshua Media Ministries Int'l. - Apostle David E. Taylor [Official Site]joshuamediaministries.org › dreams › mouse",
-      "relevance": "Rüyada fare için olumlu ve olumsuz çağrışımlar veren modern Hristiyan rüya yorumu sayfası; küçük, sinsi veya dikkat gerektiren unsurlar temasını açıkça işler.",
-      "url": "https://joshuamediaministries.org/dreams/mouse/"
     },
     {
       "title": "Dreaming about Mice: Biblical Dream Interpretation | Christian Pure",
@@ -173,49 +128,14 @@
       "url": "https://christianpure.com/learn/mice-biblical-dreams/"
     },
     {
-      "title": "Topical Bible: Mouse: Images of",
-      "relevance": "Fareyi Levililer ve yargı/arınma bağlamında toplayan İncil-topikal derleme; Hristiyan sembolik okumada fareye atfedilen kirli ve yargı çağrışımlarını destekler.",
-      "url": "https://biblehub.com/topical/naves/m/mouse--images_of.htm"
-    },
-    {
-      "title": "Berakhot 57a | The Sefaria Library",
-      "relevance": "Rüya yorumunun Talmudik tartışma içindeki yerini gösteren temel berakhot sayfası.",
-      "url": "https://www.sefaria.org/Berakhot.57a"
-    },
-    {
-      "title": "What Does a Dream About Mice Symbolize? - Hidabroot",
-      "relevance": "Farelerin rüyadaki anlamına dair Yahudi rüya yorumu aktarımı.",
-      "url": "https://www.hidabroot.com/question/100"
-    },
-    {
       "title": "Dream Accounts in the Hebrew Bible and Ancient Jewish Literature",
       "relevance": "Eski İbrani ve Yahudi edebiyatında rüyaların tarihsel bağlamını ele alan akademik çalışma.",
       "url": "https://www.theology.ox.ac.uk/publication/1059867/manual"
     },
     {
-      "title": "Berachot: 56b - Talmud",
-      "relevance": "Müsaade edilen arama sonuçlarında Berakhot rüya pasajına erişim veren Talmud sayfası.",
-      "url": "https://www.chabad.org/torah-texts/5299914/The-Talmud/Berachot/Chapter-9/56b"
-    },
-    {
-      "title": "Ja 87 The Birth Story about the Omens (1s)",
-      "relevance": "Budist anlatıda uğur, alamet ve rüya işaretleri üzerine çerçeve sunar.",
-      "url": "https://ancient-buddhist-texts.net/English-Texts/Jataka/087.htm"
-    },
-    {
       "title": "Full text of \"Jataka tales\"",
       "relevance": "Ölü fare motifi üzerinden küçük bir başlangıcın geçim ve başarıya dönüşmesini anlatır.",
       "url": "https://archive.org/stream/jatakatales00fran/jatakatales00fran_djvu.txt"
-    },
-    {
-      "title": "Animal Omens in Buddhist Sanskrit Literature",
-      "relevance": "Budist Sanskrit omen literatüründe hayvan alametlerinin sistemli kullanımını ele alır.",
-      "url": "https://buddhistuniversity.net/content/articles/animal-omens_zysk-kenneth"
-    },
-    {
-      "title": "Dreaming Of Mice",
-      "relevance": "Fare sembolünü rüyada küçük ama kemirici kaygılar, reddedilmişlik duygusu ve zihinsel olarak aşındıran düşüncelerle ilişkilendiriyor.",
-      "url": "https://www.dreamdictionary.org/meaning/dreaming-of-mice/"
     },
     {
       "title": "Dream About Mouse - Meaning & Interpretation | Satyori",
@@ -226,11 +146,6 @@
       "title": "Mouse in Dreams: Small Signs, Subtle Fears, and Quiet ...",
       "relevance": "Fareyi dikkat, çekingenlik, savunmasızlık ve küçük şeylere odaklanma ekseninde ele alan modern bir sembolik okuma içeriyor.",
       "url": "https://www.dreamspoken.com/en/dream-meaning/mouse"
-    },
-    {
-      "title": "What Does it Mean When You Dream About Mice?",
-      "relevance": "Fare sembolünü küçüklük, içsel kaygı ve fark edilmeyen ayrıntılarla ilişkilendiren spiritüel bir yorum derliyor.",
-      "url": "https://www.centreofexcellence.com/dreaming-about-mice/"
     },
     {
       "title": "What Does Seeing a Mouse in a Dream Mean?",
@@ -246,11 +161,6 @@
       "title": "Mouse Dream Meaning: Dreams About Mice Explained",
       "relevance": "Fareyi spiritüel açıdan alçakgönüllülük, dayanıklılık ve küçük şeylerin önemini fark etme temalarıyla ele alıyor.",
       "url": "https://whatisyourspiritanimal.com/animal-dream-symbols/what-does-dreaming-about-a-mouse-symbolize/"
-    },
-    {
-      "title": "Mouse Dream Meaning - Interpret Your Dream!",
-      "relevance": "Fare sembolünü küçük sorunların birikmesi, dikkat gerektiren ayrıntılar ve mütevazılık üzerinden geniş bir spiritüel çerçevede yorumluyor.",
-      "url": "https://mirrorwithin.com/dream-dictionary/mouse/"
     }
   ],
   "relatedSlugs": [],

@@ -41,7 +41,7 @@
     }
   ],
   "psychology": "Ampirik çalışmalar düşme rüyalarının psikolojik sıkıntı, uyku kalitesi ve stresle ilişkili olabileceğini göstermektedir; bazı temsilî anketlerde düşüş, tipik rüya temaları arasında yer almıştır. Bununla birlikte bu bulgular sembole tek ve evrensel bir anlam atamaya elverişli değildir; frekans, bağlam ve eşlik eden duyguların değerlendirilmesi gerekir. Uyku başlangıcındaki düşme-benzeri görüntüler ve ani kas/beden duyumları, düşme deneyimleriyle ilişkilendirilen nörofizyolojik olgular arasında gösterilmiştir.",
-  "jungian": "Jungcu/analitik psikoloji bağlamında düşmek, egonun denetiminden geri çekilme, gerçeklikle teması zayıflamış bir tutumun dengelenmesi ve bilinçdışından gelen telafi edici bir hareket olarak okunabilir. von Franz gibi yorumcular düşüşü, kişinin 'çok yukarıda' konumlanmasının sarsılmasına ve gerçeğe yeniden bağlanmasına işaret eden düzeltici bir imge olarak ele alır; bu, mutlak bir yıkım değil, dönüşüm ya da yeniden dengelenme olasılığı taşıyan bir semboldür.",
+  "jungian": "Jungcu yaklaşımda aşağı yönlü hareket, derinlik ve yeraltına iniş gibi motifler bazı bağlamlarda bilinçdışıyla karşılaşma veya bilinçli tutumun sınırlarıyla ilişkilendirilebilir. Ancak rüyada düşmeyi doğrudan egonun denetimini kaybetmesi ya da bilinçdışına iniş olarak tanımlayan evrensel bir Jungcu sembol kuralı yoktur. Düşmenin nasıl gerçekleştiği, nereye düşüldüğü, rüyadaki duygu ve kişinin yaşam bağlamı yorumda belirleyicidir.",
   "islamicTradition": "İslami rüya-yorumunda (geleneksel derlemelere göre) yüksekten düşmek genellikle iyi bir hâlden kötü bir hâle geçiş veya murada erişememe ile ilişkilendirilir; düşülen yerin niteliği (yeşil/güzel vs. harabe/ıssız) yorumun yönünü belirler. Yüzüstü düşme sıkıntı ve ıstırapla ilişkilendirilir; ayağın kaymasıyla düşme ise felaketle ilişkilendirilir. Bu maddeler modern derlemeler üzerinden özetlenmiş, klasik metin atıflarıyla dikkatle sınırlandırılmıştır.",
   "christianTraditions": "Modern Hristiyan rüya yorumlarında düşme imgesi genellikle gurur uyarısı, ruhsal tökezleme, güvenin kaybı veya kendi gücüne dayanmanın sonucu olarak okunur. Bu okumalar ağırlıklı olarak çağdaş yorum kaynaklarına dayanır ve bağlama göre uyarı, sınanma ya da tövbe çağrısı gibi anlamlar taşıyabilir; ancak bunlar doğrudan teolojik hüküm olmaktan çok yorumlayıcı sentezlerdir.",
   "jewishTraditions": "Talmudik gelenekte rüyanın anlamı yorum yoluyla belirlenir; dolayısıyla 'düşmek' görüntüsü için sabit bir karşılık yerine, destek kaybı, sarsılma veya aşağıya iniş temalarının rüya bağlamı ve yorum geleneği içinde ele alınması vurgulanır. Berakhot vb. kaynaklar rüyaların yorumla anlam kazandığını belirtir; bu nedenle doğrudan tek bir 'düşmek' tabiri yerine yorum ilkeleri öne çıkarılır.",
@@ -88,11 +88,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "Dreams of Teeth Falling Out: An Empirical Investigation ... - PMC",
-      "relevance": "Düşme rüyalarının psikolojik sıkıntı ile ilişkisini rapor eden ampirik çalışmaya atıf; düşme teması bağlamında klinik/araştırma bulgularını içerir.",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6168631/"
-    },
     {
       "title": "Typical dreams of falling, being chased, and being paralyzed ...",
       "relevance": "Düşme rüyasının yaygınlığı ve tipik rüya temaları arasındaki dağılımı bildiren temsî anket analizleri.",
@@ -149,19 +144,9 @@
       "url": "https://www.youtube.com/watch?v=IBwuDZHQCAU"
     },
     {
-      "title": "Artemidorus on Dreams - translation",
-      "relevance": "Düşme rüyasını \"fazla yukarıda olma\", gerçeklik temasının zayıflaması ve dışsal düş kırıklıklarıyla birlikte gelen telafi edici bir hareket olarak ele alan Jungcu konuşma kaydı.",
-      "url": "https://www.attalus.org/translate/artemidorus.html"
-    },
-    {
       "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
       "relevance": "İslami rüya tabirleri derlemesi; yüksekten düşme, düşülen yerin niteliği ve sonuçları üzerine geleneksel tabir örnekleri içerir.",
       "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
-    },
-    {
-      "title": "İslami Rüya Tabirleri, Nablusi, Kirmani, İbn-i Sirin, İmam Cafer Sadık, Seyyid Süleyman, Danyal - D",
-      "relevance": "Artemidorus geleneğinde düşme sahnelerinin rüya sahibinin koşulları ve rüyanın bağlamı içinde yorumlanmasına tarihsel zemin sağlayan kaynaktır; Jungcu bir kaynak değildir.",
-      "url": "https://www.medicentertv.com/islami-ruya-tabirleri-nablusi-kirmani-ibn-i-sirin-imam-cafer-sadik-seyyid-suleyman-danyal-d"
     },
     {
       "title": "BIBLICAL MEANING OF FALLING IN THE DREAM",
@@ -199,11 +184,6 @@
       "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
     },
     {
-      "title": "A Buddhist Approach to Dreams - Urban Dharma",
-      "relevance": "Budist bağlamda düşme imgelerinin kozmik sarsıntı, karmik örtüler veya zihinsel engellerle ilişkilendirilebileceğine dair yorumlar.",
-      "url": "https://www.urbandharma.org/udharma7/dreams.html"
-    },
-    {
       "title": "༄༅། །་ལམ་བན་པ།",
       "relevance": "Bodhisattvaların rüyada uçurumdan aşağı düşmesi ve bunun karmik örtülerle ilişkilendirilmesi üzerine doğrudan Budist metin pasajı sunar.",
       "url": "https://84000.co/translation/toh48.pdf"
@@ -227,11 +207,6 @@
       "title": "Dreams About Falling: 17 Spiritual Meanings and Interpretations",
       "relevance": "Düşen rüyaları teslimiyet, alçakgönüllülük ve bilinmeyene geçiş gibi spiritüel anlamlarla ilişkilendiriyor; düşme sembolünü çağdaş ezoterik dille yorumluyor.",
       "url": "https://wisdomofthespirit.com/dreams-about-falling/"
-    },
-    {
-      "title": "Falling in dreams — meaning and symbolism",
-      "relevance": "Düşmeyi zihin düzeyinden daha temel güvenlik, beden, hayatta kalma ve güven katmanlarına iniş olarak açıklayan ezoterik bir sembol okuması sunuyor.",
-      "url": "https://bookofhoroscopes.com/en/dream-dictionary/falling"
     }
   ],
   "relatedSlugs": [],

@@ -39,7 +39,7 @@
     }
   ],
   "psychology": "Rüyalar tek bir sabit kelime anlamıyla yorumlanamaz; bilimsel rüya araştırmaları ve Hall/Van de Castle gibi içerik analizi yaklaşımları, rüyaların sosyal bağlam, duygulanım ve örüntüler aracılığıyla incelenmesi gerektiğini vurgular.",
-  "jungian": "C.G. Jung'un kendi deneyimlerinde ve analitik psikolojisinde kütüphane, bilinçdışının derinliklerinde keşfedilen, bilinmeyen psikik içeriklere ve simgesel açılımlara işaret eden bir mekândır. Sabit bir sözlük anlamı taşımayan bu imge, bireyin içsel arayışını, henüz tam formüle edilmemiş bilgeliği ve simya ile simgesel keşif süreçlerini temsil edebilir.",
+  "jungian": "C.G. Jung'un yaşamında ve metinlerinde kitaplar, bilgi ve düşünsel keşif önemli bir yer tutsa da kütüphaneyi bilinçdışının derinlikleri için sabit bir rüya sembolü olarak tanımladığı sonucuna varmak için yeterli dayanak yoktur. Jungcu açıdan bir kütüphane; bilgi arayışı, geçmiş birikim, düzenleme veya keşfedilmeyi bekleyen içerikler gibi temalarla ancak rüyanın bağlamı desteklediğinde ilişkilendirilebilir. Bu bağlantılar Jung'un doğrudan sembol tanımı değil, Jungcu kavramlardan hareket eden bağlamsal yorum olasılıklarıdır. Sabit bir sözlük anlamı taşımayan bu imge, bireyin içsel arayışını, henüz tam formüle edilmemiş bilgeliği ve simya ile simgesel keşif süreçlerini temsil edebilir.",
   "islamicTradition": "Modern aktarımlarda ve geleneksel tabirlerde kütüphane, ilim, hikmet ve öğrenme ile ilişkilendirilir. Dolu bir kütüphane ilme merak, mertebe ve zihinsel zenginlik olarak yorumlanırken, boş kütüphane sıkıntı veya eksiklik hissiyle bağdaştırılır.",
   "christianTraditions": "Hristiyan sembolizminde kitap ve bilgi alanı, ilahi zeka, ışık ve kutsal öğrenimle bağlantılıdır. Kütüphane imgesi, kişinin Tanrı'nın bilgi ve anlayışına yönelmesini, ruhsal bir arayışı ve patristik düşüncedeki figüratif kavrayış çabasını temsil edebilir.",
   "jewishTraditions": "Yahudi yorum geleneğinde ve Talmudik metinlerde rüyalar, metinle ilişki kurma, yorumlama ve anlamı açma ekseninde ele alınır. Kütüphane sembolü bu çerçevede çalışma, metne yöneliş ve geleneğe ait bilgi birikimiyle bağdaştırılabilecek bir zihinsel zemin sunar.",
@@ -112,11 +112,6 @@
       "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
     },
     {
-      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
-      "relevance": "Rüya kuramında istek gerçekleşmesi, düş çalışması ve sembolik anlatımın temel çerçevesini sunar.",
-      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
-    },
-    {
       "title": "Freud, S. (1901). On Dreams. The Standard Edition of the Complete",
       "relevance": "Rüyaların nasıl çözümleneceğini, sembolizmin nasıl işlediğini ve yorumda bağlamın neden önemli olduğunu açıklar.",
       "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Freud_SE_On_Dreams_complete.pdf"
@@ -157,26 +152,6 @@
       "url": "https://assets.press.princeton.edu/chapters/i10442.pdf"
     },
     {
-      "title": "ARTEMIDORUS: Interpretation of Dreams (The) (Unabr..",
-      "relevance": "Artemidorus'un eserine genel bir giriş sağlar; antik dönemde rüya öğelerinin nasıl yorumlandığını ve eserin kapsamını açıklar.",
-      "url": "https://www.naxos.com/catalogue/item.asp?item_code=NA0541"
-    },
-    {
-      "title": "Rüyada Kütüphane Görmek Ne Anlama Gelir?",
-      "relevance": "Rüyada kütüphane görmekle ilgili modern bir İslami tabir aktarımı; dolu ve boş kütüphane ayrımı ile ilim, merak, makam ve sıkıntı temalarını aktarıyor.",
-      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-kutuphane-gormek-ne-anlama-gelir-27206"
-    },
-    {
-      "title": "What does it mean to see a library in a dream?",
-      "relevance": "Kütüphane sembolünü klasik İslami rüya yorumu çerçevesinde bilgi, güven, geçişler ve sosyal düzenle ilişkilendiren modern bir aktarımdır.",
-      "url": "https://www.molla.az/en/dream-interpretation/what-does-it-mean-to-see-a-library-in-a-dream"
-    },
-    {
-      "title": "İmam Nablusi Rüya Tabirleri K Harfi - Muhammed.net",
-      "relevance": "Nablusî’ye atfedilen kütap maddesi üzerinden kitap sembolünü kuvvet ve kudretle ilişkilendiren bir aktarım içerir; kütüphane için doğrudan giriş vermese de kitaplık bağlamında dolaylı kullanım sağlar.",
-      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
-    },
-    {
       "title": "Library - Interpreting Dream Symbols - David E. Taylor",
       "relevance": "Kütüphane rüyasını Tanrı’nın bilgi ve anlayış alanına giriş ya da ilahi arayış çağrısı olarak yorumlayan bir Hristiyan rüya metni.",
       "url": "https://joshuamediaministries.org/dreamoflibrary/"
@@ -187,21 +162,6 @@
       "url": "https://www.metmuseum.org/art/collection/search/345202"
     },
     {
-      "title": "The patristic dream (Chapter 3) - Dreaming in the Middle ...",
-      "relevance": "Patristik rüya düşüncesinde rüyanın figüratif imgelerle hakikat aktarabileceğini tartışır; kütüphane gibi bir imgenin alegorik okunmasına teorik zemin sağlar.",
-      "url": "https://www.cambridge.org/core/books/abs/dreaming-in-the-middle-ages/patristic-dream/AF4244F788B3C8B6E3361A7951BE82DE"
-    },
-    {
-      "title": "Handbook of Christian symbolism",
-      "relevance": "Christian symbolism eserinin dijital kopyasında kitap ve bilgiyle ilgili sembolik açıklamalar bulunur; kütüphane imgesinin bilgi/öğrenme temalarıyla bağlantısını destekler.",
-      "url": "https://ia600705.us.archive.org/6/items/handbookofchrist00auds/handbookofchrist00auds.pdf"
-    },
-    {
-      "title": "Berakhot 57.b",
-      "relevance": "Berakhot 57b’de rüyada görülen kişilerin işaret değeri ve rüya sembollerinin yorumlanma biçimi yer alır.",
-      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
-    },
-    {
       "title": "Berakhot 55.b",
       "relevance": "Berakhot 55b’de rüyanın yorumlanması, rüya anlamının açılması ve yorumun belirleyici rolü ele alınır.",
       "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
@@ -210,21 +170,6 @@
       "title": "Dreams - Jewish Virtual Library",
       "relevance": "Yahudi geleneğinde rüyaların sembolik yapısı ve yorum ilkeleri hakkında genel çerçeve sunar.",
       "url": "https://jewishvirtuallibrary.org/dreams"
-    },
-    {
-      "title": "Document 176",
-      "relevance": "Babil Talmudu’nda rüyalar üzerine geniş bir bölüm bulunduğunu ve rüya konusunun Yahudi geleneğinde merkezî görüldüğünü gösterir.",
-      "url": "http://library.huc.edu/pdf/theses/Barlev%20Pearl-LA-Rab%20Text-2007%20rdf.pdf"
-    },
-    {
-      "title": "The Starry Sky & the Still Small Voice: The World Within",
-      "relevance": "Talmudik rüya anlayışının kimi bağlamlarda iç düşünce ve psikolojik içerikle ilişkilendirildiğini aktarır.",
-      "url": "https://jewishvirtuallibrary.org/the-world-within-judaic-treasures"
-    },
-    {
-      "title": "Symbolic Meaning",
-      "relevance": "Kütüphaneyi gizli hakikatler, içsel arayış ve ezoterik bilgiye erişme isteğiyle ilişkilendiriyor.",
-      "url": "https://mirrorwithin.com/dream-dictionary/occult-library/"
     },
     {
       "title": "Dreaming of Library: Meaning, Symbolism & Interpretation",

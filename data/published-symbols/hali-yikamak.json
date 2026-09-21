@@ -39,7 +39,7 @@
       "description": "Geçmişten kalan izleri, pişmanlıkları veya utanç unsurlarını temizleme gereksinimini simgeler; lekelerin çıkmaması ise kalıcı etkilerle veya zorlayıcı bir sürece işaret edebilir."
     }
   ],
-  "psychology": "Psikanalitik çerçeveye göre (Freud’un rüya kuramı temelinde) rüyalar bastırılmış isteklerin kılık değiştirmiş doyumlarını içerir; su ve yıkama imgeleri Freud metinlerinde bazen beden, akışkanlık ve cinsellikle ilgili çağrışımlarla ilişkilendirilir. Bu bakımdan halı yıkamak rüyası suçluluk, arınma arayışı veya örtülü dürtülerle ve beden sınırlarıyla ilgili simgesel bir işlem olarak okunabilir. Ancak Freud’un eserlerinde doğrudan “halı yıkamak” için verilen bir hüküm yoktur; bu yüzden psikanalitik yorum daima rüyanın özgül bağlamı, duygulanımı ve rüya sahibinin yaşam öyküsü dikkate alınarak temkinli biçimde yapılmalıdır.",
+  "psychology": "Freud'un genel rüya kuramı bastırılmış istekler, sansür ve kişisel çağrışımların rüya çalışmasındaki rolünü tartışır; ancak halı yıkamaya özgü sabit bir Freudcu anlam vermez. Su ve yıkama imgeleri rüyanın bağlamına göre temizlik, bedensel deneyim veya başka kişisel çağrışımları harekete geçirebilir. Halı yıkamayı doğrudan suçluluk, arınma ya da bastırılmış dürtülerin temizlenmesi olarak yorumlamak yerine, halının kişisel anlamı ve yıkama eyleminin rüyadaki işlevi birlikte değerlendirilmelidir. Bu bakımdan halı yıkamak rüyası suçluluk, arınma arayışı veya örtülü dürtülerle ve beden sınırlarıyla ilgili simgesel bir işlem olarak okunabilir. Ancak Freud’un eserlerinde doğrudan “halı yıkamak” için verilen bir hüküm yoktur; bu yüzden psikanalitik yorum daima rüyanın özgül bağlamı, duygulanımı ve rüya sahibinin yaşam öyküsü dikkate alınarak temkinli biçimde yapılmalıdır.",
   "jungian": "Jungcu çerçevede su, bilinçdışı, duygulanım ve arınma/dönüşüm süreçleriyle ilişkilendirilir. Yıkama eylemi solutio/çözülme imgeleriyle birlikte değerlendirildiğinde, halı üzerinde biriken 'tortuların' çözülmesi ve gölge içeriklerin ayıklanması biçiminde okunabilir. Halı gündelik bilinç zemini ve aidiyet alanı olarak düşünüldüğünde, halının yıkanması bilinçdışı materyalin yüzeye çıkıp düzenlenmesi ya da yaşam zemininin yenilenmesi isteğini temsil edebilir. Bu yorumlar Jungcu sembolizme dayanır ve rüyanın diğer ayrıntılarıyla dengelenmelidir.",
   "islamicTradition": "İslami tabir geleneğinde halı/kilim/seccade gibi örtüler genellikle dünya hayatı, rızık, ev içi konfor ve statü temalarıyla ilişkilendirilir. Halının temiz, geniş veya yeni olması olumlu bolluk çağrışımı taşır; halıyı yıkama eylemi ise rüya sahibinin yaşam alanında düzen kurma, işlerindeki düzelme veya ev içi düzeni sağlama çabası şeklinde dikkatli bir şekilde okunabilir. Doğrudan \"halı yıkamak\" için klasik bir tekil tabir güvenilir kaynaklarda bulunmamaktadır; burada yapılan sentez genel temizlik sembolizmi ve halı motifinin İslami yorumu üzerinden temkinli biçimde kurgulanmıştır.",
   "christianTraditions": "Hristiyan sembolik dilinde yıkama arınma, kutsanma ve ruhsal yenilenmeyle bağlantılıdır. Bu bağlamda rüyada halı yıkamak, bir mekânın veya yaşamın manevi açıdan arındırılması, içsel dağınıklığın giderilmesi ve yeni bir başlangıç için hazırlık olarak yorumlanabilir. Ancak doğrudan \"halı yıkamak\"e ilişkin klasik bir Hristiyan rüya girişi bulunmadığından, bu okuma genel yıkama sembolizmi üzerinden temkinli bir sentezdir.",
@@ -87,16 +87,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
-      "relevance": "Freud’un rüya kuramı; rüyalarda bastırılmış isteklerin dönüşümü ve su/yıkama imgelerinin psikanalitik çağrışımlar taşıyabileceği çerçevesini sağlar; doğrudan \"halı yıkamak\"e ilişkin hüküm içermez.",
-      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
-    },
-    {
-      "title": "Sigmund Freud: The Interpretation of Dreams",
-      "relevance": "Freud metinlerindeki su ve akışkanlık pasajları, yıkama imgelerinin beden, akışkanlık ve cinsellik çağrışımları bağlamında temkinli okunmasını destekler.",
-      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
-    },
     {
       "title": "🌊 The Symbolism of Water in Jungian Sandplay Therapy",
       "relevance": "Jungcu bağlamda suyun bilinçdışı, duygu ve arınma çağrışımlarını ele alır.",
@@ -161,11 +151,6 @@
       "title": "What does \"clean water\" mean in Ezekiel 36:25?",
       "relevance": "Hezekiel 36:25'teki temiz su imgesini moral kirlenmenin giderilmesi ve yeni yürek bağlamında açıklar.",
       "url": "https://biblehub.com/q/What_does_clean_water_mean_in_Ezekiel_36_25.htm"
-    },
-    {
-      "title": "Dreams in Judaism - Parshat Mikeitz",
-      "relevance": "Yahudi geleneğinde rüyaların ele alınış biçimi ve rüya sonrası dengeleme uygulamaları hakkında bilgi verir; \"halı yıkamak\" için doğrudan klasik bir tabir vermemekle birlikte rüya sonrası arınma fikrini destekler.",
-      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
     },
     {
       "title": "Rüyada halı görmek ne anlama gelir?",

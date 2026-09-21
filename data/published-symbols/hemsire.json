@@ -35,7 +35,7 @@
       "description": "Zor bir anda size yakınlık gösteren bir hemşire imgesi, ilksel korunma ve teselli arzusunu çağrıştırır."
     }
   ],
-  "psychology": "Ampirik rüya çalışmaları, hemşire gibi rüya karakterlerinin tek başına sabit bir anlama sahip olmadığını; etkileşim biçimleri, rüya sahibinin duygulanımı ve anlatı çerçevesinde okunmaları gerektiğini vurgular. Psikanalitik literatürde (özellikle Freud kaynaklarında) hemşire/sütanne çağrışımı erken bakım ilişkileri, beslenme ve çocukluk güvenliği ekseninde ele alınır; bu bağlamlar, rüya sembolünün bağımlılık, korunma ve bedenle ilgili temalarla ilişkilendirilmesine olanak tanır. Ancak doğrudan ‘‘hemşire = kesin anlam’’ demek yerine, sahnedeki rol ve duygusal tonun belirleyici olduğu hatırlanmalıdır.",
+  "psychology": "Ampirik rüya çalışmaları, hemşire gibi rüya karakterlerinin tek başına sabit bir anlama sahip olmadığını; etkileşim biçimleri, rüya sahibinin duygulanımı ve anlatı çerçevesinde okunmaları gerektiğini vurgular. Hemşire figürüne özgü tek ve sabit bir psikolojik rüya anlamı gösterilmiş değildir. Psikanalitik literatürde erken bakım, beslenme ve bakım veren kişilerle ilişkiler önemli temalar olabilir; ancak bunlar rüyadaki her hemşireyi anne, sütanne veya bakım ihtiyacının doğrudan sembolü yapmaz. Rüyadaki hemşirenin kim olduğu, ne yaptığı, rüya sahibinin sağlık ve bakım deneyimleri ve sahnenin yarattığı duygu birlikte değerlendirilmelidir. Ancak doğrudan ‘‘hemşire = kesin anlam’’ demek yerine, sahnedeki rol ve duygusal tonun belirleyici olduğu hatırlanmalıdır.",
   "jungian": "",
   "islamicTradition": "Modern İslami rüya-yorumlarında hemşire figürü genellikle şefkat, merhamet ve destek görme temalarıyla ilişkilendirilir; bir hastanın rüyasında hemşire görmesi çoğunlukla iyileşme ve şifa beklentisiyle bağdaştırılır. Bununla birlikte eldeki malzemede klasik İslami otoritelerin doğrudan hemşireye dair bir girişi bulunmamıştır; bu yüzden modern tabirler bağlamsal ve sınırlı kabul edilmelidir.",
   "christianTraditions": "Modern Hristiyan yorumlarında hemşirelik dili, besleyici bakım, merhamet ve başkalarına pratik yardım elini uzatma temalarıyla ilişkilendirilir. Kutsal Kitap ve Hristiyan ansiklopedik kaynaklarda bakım verme metaforları bulunmakla birlikte, klasik Hristiyan rüya bilimi kaynaklarında doğrudan ‘‘hemşire rüyası’’ gibi sabit bir tabir tespit edilmemiştir; bu nedenle yorumlar daha çok çağdaş tefsir ve metaforik okumalara dayanır.",
@@ -80,26 +80,6 @@
       "url": "https://www.acsu.buffalo.edu/~jswan/Freuds2mothers.htm"
     },
     {
-      "title": "Freud (1900) Chapter 6, part a",
-      "relevance": "Freud’un *The Interpretation of Dreams* içinde sütanne/bakıcı figürüne ilişkin pasajlar; hemşire imgesinin beslenme ve ebeveyn‑bağlanma ekseninde ele alınışına örnek teşkil eder.",
-      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm"
-    },
-    {
-      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
-      "relevance": "Freud’un rüyalarda su ve doğum imgeleri hakkında yazdıkları; hemşire imgesinin beden, doğum sonrası korunma ve ilksel güvenlikle ilişkilenmesine ilişkin psikanalitik çerçeve sunar.",
-      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
-    },
-    {
-      "title": "SE 15.pdf",
-      "relevance": "Freud’un rüyalarda doğumun çoğu kez su bağlantısıyla temsil edildiğini söylediği pasajın bir sürümünü sunar.",
-      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149-169.pdf"
-    },
-    {
-      "title": "Artemidorus on Dreams - translation",
-      "relevance": "Greko‑Romen oneirokritik geleneğin sağlık ve iyileşme temalarını ele alış biçimi; hemşire benzeri bakım figürlerinin olumlu sağlık çağrışımları taşıyabileceğini düşündürür.",
-      "url": "https://www.attalus.org/translate/artemidorus.html"
-    },
-    {
       "title": "Artemidorus on Dreams",
       "relevance": "Artemidorus’un rüya el kitabının tarihsel konumunu ve rüya yorum yöntemini gösteren genel tanıtım.",
       "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
@@ -108,11 +88,6 @@
       "title": "Rüyada Hemşire Görmek",
       "relevance": "Modern İslami/yerel tabir dilinde hemşire figürünün şefkat, merhamet ve yardım temalarıyla ilişkilendirildiğini gösteren bir örnek kaynaktır.",
       "url": "https://www.diyadinnet.com/ruyada-5231-hemsire-gormek"
-    },
-    {
-      "title": "Rüyada Hasta Bakıcı Görmek Ne Demek? Hasta Bakıcısı Olarak Çalıştığını Görmek",
-      "relevance": "Hemşireyi şefkat ve merhamet sembolü, hastanın hemşire görmesini ise iyileşme işareti olarak veren rüya tabiri sayfası.",
-      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-hasta-bakici-gormek-ne-anlama-gelir-26739"
     },
     {
       "title": "Apostle David E. Taylor [Official Site]",
@@ -145,44 +120,9 @@
       "url": "https://biblehub.com/topical/t/the_nurse.htm"
     },
     {
-      "title": "Babylonian Talmud: Berakoth 57",
-      "relevance": "Rüyaların yorumla ilişkisine dair Talmudî çerçeve; rüya anlamının sabit değil, yorum ve bağlamla ilişkili olduğunu gösterir.",
-      "url": "https://halakhah.com/berakoth/berakoth_57.html"
-    },
-    {
-      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
-      "relevance": "Talmud’daki ‘rüyalar yorumlarına göre gerçekleşir’ ilkesini aktararak Yahudi rüya bilimi bağlamında yorumun belirleyiciliğini vurgular.",
-      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
-    },
-    {
-      "title": "Dreams in Jewish Tradition",
-      "relevance": "Yahudi geleneğinde rüyaların yorumlanması ve rüya bilimi bağlamındaki dinî-etik yaklaşımları özetler; hemşire imgesinin bakım ve şifa değerleriyle ilişkilendirilmesine zemin sağlar.",
-      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
-    },
-    {
-      "title": "Significance of Nurse",
-      "relevance": "Mahayana ve Theravada çerçevesinde hemşire/bakıcı figürünün sembolik ve harfî anlamlarını sunar.",
-      "url": "https://www.wisdomlib.org/concept/nurse"
-    },
-    {
-      "title": "Infirmière: Symbolisme et signification",
-      "relevance": "Mahayana ve Theravada çerçevesinde hemşire/bakıcı figürünün sembolik ve literal anlamlarını sunar.",
-      "url": "https://www.wisdomlib.org/fr/concept/infirmi%C3%A8re"
-    },
-    {
-      "title": "Nurse in dreams — meaning and symbolism",
-      "relevance": "Mahayana ve Theravada çerçevesinde hemşire/bakıcı figürünün sembolik ve harfî anlamlarını sunar.",
-      "url": "https://bookofhoroscopes.com/en/dream-dictionary/nurse"
-    },
-    {
       "title": "Dream Interpretation and Meaning of Nurse in Dreams",
       "relevance": "Hemşireyi rüya bağlamında bakım, korunma ve destekle ilişkilendiriyor; sembolün kişisel iyileşme ve içsel denge ihtiyacına işaret edebileceğini söylüyor.",
       "url": "https://www.cafeausoul.com/oracles/dream-dictionary/nurse"
-    },
-    {
-      "title": "Nurse Dream Meaning — Zhou Gong Chinese Interpretation",
-      "relevance": "Hemşireyi koruyucu bir figür ve şifa sürecinin eşlikçisi olarak ele alıyor; rüyadaki hemşire görüntüsünü bakım ve iyileşme temalarıyla okuyor.",
-      "url": "https://dukezhou.com/symbols/nurse"
     }
   ],
   "relatedSlugs": [],
