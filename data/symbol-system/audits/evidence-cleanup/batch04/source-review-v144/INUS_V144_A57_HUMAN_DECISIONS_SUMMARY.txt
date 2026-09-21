@@ -1,0 +1,28 @@
+INUS V144 — A57 HUMAN SEMANTIC REVIEW SUMMARY
+BASELINE: 72b6ca2
+TOTAL: 57
+KEEP: 5
+CONTEXTUAL: 51
+QUARANTINE: 1
+HUMAN_LOCKED: 57
+METADATA_REPAIR: 0
+CLAIM_REPAIR: 0
+PRODUCTION_EDITED: NO
+GIT_INDEX_TOUCHED: NO
+SOURCE_DECISIONS_COMPLETE: YES
+READY_FOR_READ_ONLY_PRE_APPLY_GATE: YES
+
+KEEP:
+- V143-R0014 | dikis-makinesi | source[24] | Sewing Machines Dream Interpretation - Sewing Machines Dream Meaning
+- V143-R0032 | kanguru | source[6] | Rêver de kangourou signification et interprétation en islam.
+- V143-R0041 | mutfak | source[23] | Kitchen, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology
+- V143-R0047 | siyah-ayi | source[5] | 0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf
+- V143-R0050 | tabanca | source[6] | Weapon - Dream Symbol - Dreampaths
+
+QUARANTINE:
+- V143-R0033 | kartal | source[0] | Page:Freud - The interpretation of dreams.djvu/198 ... - Wikisource
+
+QUARANTINE RATIONALE:
+V143-R0033 is a lexical collision around “Adler” in Freud/Wikisource, not valid eagle/kartal evidence.
+
+TOTAL_CHECK: PASS
