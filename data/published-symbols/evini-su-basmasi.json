@@ -37,8 +37,8 @@
       "description": "Dış dünyadan gelen belirsizliklerin veya kolektif baskıların bireyin özel alanının eşiğinde biriktiğini ve içeri sızma eğiliminde olduğunu gösterir."
     }
   ],
-  "psychology": "Doğrudan 'rüyada evinin su basması' olgusunu inceleyen ampirik psikolojik çalışma veya veri mevcut değildir. Ancak genel rüya araştırmalarında su imgeleri, bireyin duygu durumu, stres düzeyleri ve zihinsel yükleri ile ilişkilendirilmektedir. Bu bağlamda ev, bireyin kendilik algısını ve psikolojik sınırlarını temsil ederken su sembolü, bireyin taşıyamayacağı kadar yoğunlaşmış duygu akışlarını yansıtabilir.",
-  "jungian": "Jungcu analitik psikoloji çerçevesinde su, en yaygın bilinçdışı sembollerinden biridir ve bilinç düzeyinin altında yer alan derin katmanları temsil eder. Ev imgesi ise kişiliğin ve psişenin bütünsel yapısını simgeler. Buna göre evin su basması, bilinçdışından gelen yoğun içeriklerin olağan sınırları aşarak psişik yapıya taşması ve bireyi dönüşüme zorlayan bir baskı yaratması şeklinde okunabilir.",
+  "psychology": "Rüyada evini su basmasına özgü, bilimsel araştırmalarla doğrulanmış tek bir psikolojik anlam yoktur. Rüya içeriği kişinin güncel deneyimleri, kaygıları ve duygusal olarak önemli yaşam olaylarıyla bağlantılı olabilir; ancak bundan “su duyguları, ev ise benliği temsil eder” şeklinde sabit bir anlam çıkarılamaz. Yakın zamanda ev, su baskını, yoğun yağış, taşınma, maddi kayıp veya kontrol kaybı gibi konularla karşılaşılmışsa bunlar da rüyanın bağlamında dikkate alınmalıdır.",
+  "jungian": "Jungcu bir okumada su, bilinçdışıyla ilişkilendirilebilen önemli sembolik motiflerden biridir; ev de rüyanın bağlamına göre kişinin psikolojik dünyasıyla ilişkilendirilebilir. Bu çerçevede eve dolan su, bilinçdışı içeriğin kişinin mevcut düzenine güçlü biçimde girmesi şeklinde araştırılabilir. Ancak bu, Jung'un “evi su basması şu anlama gelir” biçiminde verdiği sabit bir sembol tanımı değildir; iki motifin rüyanın bütünü içinde birlikte yorumlanmasıdır.",
   "islamicTradition": "",
   "christianTraditions": "Hristiyan teolojik sembolizminde su baskını, Yaratılış'teki tufan anlatısının çağrıştırdığı yargı, arınma ve yeni başlangıç temalarıyla birlikte ele alınabilir.",
   "jewishTraditions": "Yahudi rüya geleneğinde Talmudî metinlerde geçen su imgeleri barış ve uzun ömür gibi olumlu çağrışımlar taşıyabilse de, taşkın sular aynı zamanda sabır ve direnç gerektiren zorlu dönemlerle de ilişkilendirilebilir. Evin su basması teması, bu gelenekte özel alanın düzenini aşan ve direngenlik gerektiren bir durumun simgesi olarak değerlendirilebilir.",
@@ -66,9 +66,9 @@
       "evidenceLevel": "spiritual"
     }
   ],
-  "commonGround": "Farklı yaklaşımlar ortak olarak ev imgesini bireyin korunmuş iç dünyası ve sınırları şeklinde görür; suyun alana girmesi ise sınırların aşılması, yoğun duygusal basınç ve içsel dönüşüm süreçleriyle ilişkilendirilir.",
-  "differences": "Psikanalitik ve Jungcu yaklaşımlar bu durumu içsel psişik süreçler ve bilinçdışı dinamiklerle açıklarken, Hristiyan ve spiritüel okumalar dışsal baskılar, krizler, arınma ve ruhsal eşikler üzerinden farklı teolojik ve ezoterik vurgular yapar.",
-  "inusAssessment": "Rüyada evinin su basması sembolü, bireyin en mahrem sığınağı olan evin sınırları ile bu sınırlardan içeri sızan akışkan ve baskıcı güç arasındaki gerilimi gösterir. Bu rüyanın anlamı, suyun evin hangi odasında biriktiğine, berraklığına ya da yıkıcılığına ve rüya sahibinin bu duruma verdiği tepkiye göre değişir. Bu nedenle rüyayı tek bir anlama indirgemek yerine, içsel sınırların nerede zorlandığını gösteren çok katmanlı bir bağlam olarak ele almak daha uygundur.",
+  "commonGround": "Farklı yorum gelenekleri su baskınını güçlü, kontrol edilmesi zor veya sınırları aşan bir olay olarak ele alabilir. Ancak bunun psikolojik olarak mutlaka “bastırılmış duyguların taşması” anlamına geldiği söylenemez. Rüyadaki evin kime ait olduğu, suyun nereden geldiği, verilen zarar ve rüyayı gören kişinin tepkisi yorumu değiştirebilir.",
+  "differences": "Psikolojik yaklaşım güncel yaşam bağlamı ve rüyadaki duygularla ilgilenirken, Jungcu yaklaşım su ve ev motiflerini sembolik olarak da araştırabilir. Dini ve geleneksel yorumlar su baskınına farklı anlamlar yükleyebilir. Bunlar birbirlerini doğrulayan tek bir kanıt sistemi gibi birleştirilmemelidir.",
+  "inusAssessment": "Bu rüyada “su = duygu” eşleştirmesinden başlamaktansa olayın nasıl geliştiğine bak: su nereden geldi, yükseliyor muydu, ev zarar gördü mü, kaçmaya mı yoksa suyu durdurmaya mı çalıştın? Ev senin gerçek evin miydi? Son dönemde güvenlik, ev, maddi kayıp veya kontrol edemediğin bir durumla ilgili belirgin bir deneyim yaşadıysan bu bağlantı da değerlendirmeye değerdir.",
   "faq": [],
   "sources": [
     {
@@ -120,26 +120,6 @@
       "title": "Dreams about Water - Hidabroot",
       "relevance": "Yahudi gelenekte su imgelerinin arınma, bilgelik ve bazen zorluk çağrışımlarıyla ele alındığı modern bir açıklama; su baskını temasına kontrollü sembolik bağ kurmaya yarar.",
       "url": "https://www.hidabroot.com/question/384"
-    },
-    {
-      "title": "Of Burning Houses and Rain - Gleanings in Buddha-Fields",
-      "relevance": "Lotus Sutra bağlamında ev/yağmur benzetmelerini ele alarak Budist sembolik okumaya ilişkin perspektif sunar.",
-      "url": "https://nembutsu.cc/2023/01/31/of-burning-houses-and-rain/"
-    },
-    {
-      "title": "SN 55.38 Vassa Sutta: Rain",
-      "relevance": "Yağmurun dağdan aşağı akarak boşlukları, göletleri ve nehirleri doldurması üzerinden Budist akış ve doluluk sembolizmi sunar.",
-      "url": "https://suttafriends.org/sutta/sn55-38/"
-    },
-    {
-      "title": "༄༅། །ད ར་ ི་ག ། The Chapter on the Rains - 84000",
-      "relevance": "Budist manastır geleneğinde yağmur mevsimi ve yağmur inzivası (vassa) bağlamını gösterir; yağmur temasının disiplin ve yaşam düzeniyle ilişkisini destekler.",
-      "url": "https://84000.co/translation/toh1-4.pdf"
-    },
-    {
-      "title": "The Dhāraṇī “Dream Visions” / 84000 Reading Room",
-      "relevance": "Su içme ve rüya görme ritüeliyle suyun Budist tantrik rüya pratiği bağlamında nasıl işlediğini gösterir.",
-      "url": "https://84000.co/translation/toh460a"
     },
     {
       "title": "Symbolic Meaning",
