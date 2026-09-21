@@ -1,0 +1,24 @@
+INUS V174 — FINAL 57 HUMAN DECISIONS SUMMARY
+HEAD REVIEWED: 5fff639943005928d40ba4593e540687b69e0348
+
+TOTAL: 57
+KEEP: 22
+CONTEXTUAL: 30
+QUARANTINE: 5
+HUMAN_LOCKED: 57
+METADATA_REPAIR: 0
+CLAIM_REPAIR: 0
+
+QUARANTINE RECORDS:
+- V172-R0012 | denizanasi | source[14] | Berakhot 112 - Talmud Bavli Study | https://talmudbavli.app/en/texts/Berakhot.112.1
+- V172-R0018 | iskelet | source[1] | Freud (1900) Chapter 6, part c - Classics in the History of Psychology | https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm
+- V172-R0023 | karpuz | source[4] | Freud (1900) Chapter 3 - Classics in the History of Psychology | https://psychclassics.yorku.ca/Freud/Dreams/dreams3.htm
+- V172-R0046 | sumuk | source[2] | The Interpretation of Dreams Sigmund Freud (1900) | https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf
+- V172-R0053 | topuk | source[13] | Berakhot 57.b | https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b
+
+REVIEW PRINCIPLE:
+- High URL reuse alone is not a defect.
+- Direct symbol/traditional evidence is retained.
+- General theory/method/context is retained only as CONTEXTUAL.
+- Unsupported lexical/property/adjacent-symbol bridges are quarantined.
+- No production mutation is authorized by this review artifact itself.
