@@ -1,0 +1,41 @@
+INUS V163 — C282 HUMAN SOURCE REVIEW SUMMARY
+========================================================================
+BASELINE_HEAD: e11b359
+TOTAL: 282
+KEEP: 92
+CONTEXTUAL: 182
+QUARANTINE: 8
+HUMAN_LOCKED: 282
+METADATA_REPAIR: 10
+CLAIM_REPAIR: 2
+PRODUCTION_EDITED: NO
+GIT_INDEX_TOUCHED: NO
+SOURCE_DECISIONS_COMPLETE: YES
+READY_FOR_READ_ONLY_PRE_APPLY_GATE: YES
+TOTAL_CHECK: PASS
+
+QUARANTINE IDS
+- V143-R0226 | beyaz-kar | source[15] | Berakhot 112 - Talmud Bavli Study
+- V143-R0318 | cocuk-bakmak | source[23] | Berakhot 57a | The Sefaria Library
+- V143-R0519 | ise-girmek | source[20] | Berakhot 56 - Hadran
+- V143-R0194 | balik | source[2] | Page:Freud - The interpretation of dreams.djvu/262 - Wikisource, the free online library
+- V143-R0995 | yesillik | source[4] | Sigmund Freud: The Interpretation of Dreams
+- V143-R0978 | yaris | source[6] | CHAPTER 6 (part 2) THE DREAM-WORK
+- V143-R0526 | isten-cikmak | source[4] | The Interpretation of Dreams Sigmund Freud (1900)
+- V143-R0561 | karpuz-tarlasi | source[3] | The Interpretation of Dreams Sigmund Freud (1900)
+
+METADATA REPAIR IDS
+- V143-R0374 | elinde-silah | source[15]
+- V143-R0352 | dikis-makinesi | source[16]
+- V143-R0361 | dovme-yaptirmak | source[11]
+- V143-R0890 | sutlac | source[14]
+- V143-R0205 | baskan | source[22]
+- V143-R0850 | sekerleme | source[15]
+- V143-R0805 | resim | source[22]
+- V143-R0543 | kamyon | source[20]
+- V143-R0441 | futbolcu | source[17]
+- V143-R0181 | ayran | source[3]
+
+CLAIM REPAIR IDS
+- V143-R0978 | yaris | jungian
+- V143-R0561 | karpuz-tarlasi | psychology
