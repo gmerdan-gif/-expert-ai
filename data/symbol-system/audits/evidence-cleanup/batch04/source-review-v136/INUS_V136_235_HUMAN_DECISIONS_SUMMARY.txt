@@ -1,0 +1,39 @@
+INUS V136 — ALL 235 HUMAN SEMANTIC DECISIONS
+BASELINE: 853ad4a
+
+TOTAL: 235
+KEEP: 16
+CONTEXTUAL: 218
+QUARANTINE: 1
+HUMAN_LOCKED: 235
+METADATA_REPAIR: 2
+CLAIM_REPAIR: 0
+
+QUARANTINE
+----------
+V136-S003 | tir | source[6]
+Ask and You Shall Receive - Apostle David E. Taylor ...
+Reason: Rain-specific Christian source has no direct truck evidence and is not needed
+to support the already-cautious Christian lane.
+
+METADATA REPAIRS
+----------------
+V136-S110 | hala | source[17]
+Berakhot 55a-b source currently has rain/Bible relevance metadata. Repair relevance only.
+
+V136-S131 | silahla-vurulmak | source[14]
+Berakhot 55a-b is legitimate contextual Jewish dream evidence, but current relevance
+overextends it into a symbol-specific 'targeted/trial' interpretation. Repair relevance only.
+
+SEMANTIC CONCLUSION
+-------------------
+The V135/V136 high-signal population is overwhelmingly a reuse/specificity phenomenon,
+not a mass bad-source population. Generic Artemidorus, Freud, Berakhot, dream-content
+methodology, and Buddhist dream-framework sources are retained only at contextual
+epistemic level unless the reviewed source directly addresses the symbol or a close variant.
+
+PRODUCTION_EDITED: NO
+GIT_INDEX_TOUCHED: NO
+SOURCE_DECISIONS_COMPLETE: YES
+READY_FOR_READ_ONLY_PRE_APPLY_GATE: YES
+TOTAL_CHECK: PASS
