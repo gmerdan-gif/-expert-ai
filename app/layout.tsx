@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { SOCIAL_PROFILE_URLS } from "@/lib/site/social";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -80,7 +81,8 @@ export default function RootLayout({
                   "@type": "Organization",
                   "@id": "https://www.in-us.app/#organization",
                   "name": "INUS",
-                  "url": "https://www.in-us.app/"
+                  "url": "https://www.in-us.app/",
+                  "sameAs": SOCIAL_PROFILE_URLS
                 }
               ]
             })

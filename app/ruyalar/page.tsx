@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { SOCIAL_PROFILES } from "@/lib/site/social";
 import type { Metadata } from "next";
 
 const BASE_URL = "https://www.in-us.app";
@@ -493,6 +494,49 @@ export default function DreamsPage() {
             >
               Bize Ulaşın
             </Link>
+            <Link
+              href="/gizlilik"
+              className="transition hover:text-[#24221f]"
+            >
+              Gizlilik
+            </Link>
+            <Link
+              href="/kullanim-kosullari"
+              className="transition hover:text-[#24221f]"
+            >
+              Kullanım Koşulları
+            </Link>
+          </div>
+
+          <div className="flex flex-wrap gap-5">
+            <a
+              href={SOCIAL_PROFILES.instagram}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Instagram
+            </a>
+            <a
+              href={SOCIAL_PROFILES.youtube}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              YouTube
+            </a>
+            <a
+              href={SOCIAL_PROFILES.x}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              X
+            </a>
+            <a
+              href={SOCIAL_PROFILES.tiktok}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              TikTok
+            </a>
           </div>
         </footer>
       </div>
