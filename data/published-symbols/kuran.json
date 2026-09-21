@@ -37,7 +37,7 @@
     }
   ],
   "psychology": "Ampirik rüya içerik analizleri, kilise veya diğer ibadethaneler gibi mekanların ve kutsal kitaplar gibi nesnelerin rüya raporlarında oldukça düşük oranlarda ve istisnâî olarak yer aldığını göstermektedir. Bu durum, Kur'an gibi simgesel nesnelerin rüyalarda otomatik ve sabit bir karşılığının olmadığını, aksine bireyin kültürel arka planına ve o anki zihinsel meşguliyetlerine bağlı olarak nadiren ortaya çıkabileceğini işaret eder. Psikanalitik düzlemde ise doğrudan kutsal metinlere yönelik ampirik bir veri bulunmamakla birlikte, taşıyıcı kaplar ve koruyucu nesne türleri, insanın kökeni, rahimsel güvenlik ve içsel değerlerle kurduğu bağlar üzerinden teorik olarak ele alınabilir.",
-  "jungian": "Jung analitik psikolojisinde kutsal metin imgesi, rüyada sözlük anlamına indirgenmiş bir kelime değil; benliğe, anlam merkezine ve bireyleşme sürecindeki bütünleşme çabalarına işaret eden derin bir sembolik taşıyıcıdır. Kur'an gibi bir otorite ve rehber metin motifi, psişenin içsel yönelimi, bilgelik arayışı ve daha yüksek bir anlam düzlemine ulaşma isteğiyle bağlantılıdır. Jung'un Arketipler ve dinî imgeler üzerindeki yaklaşımı göz önüne alındığında, bu tür rüyalar bilinçdışının kişiye sunduğu içsel düzenlenme ve rehberlik denemeleri olarak okunabilir.",
+  "jungian": "Analitik psikoloji dinî imgeleri, kişinin anlam dünyası ve psikolojik bağlamıyla birlikte ele almaya imkân verir. Bu açıdan rüyadaki Kur'an; rüyayı gören kişinin inancı, kutsal metinle ilişkisi, rehberlik, otorite, bilgi veya anlam arayışı gibi kişisel çağrışımlar üzerinden araştırılabilir. Bununla birlikte Kur'an'ı otomatik olarak Benlik (Self) ya da bireyleşmenin sabit bir sembolü saymak Jungcu yaklaşımın bağlamsal niteliğini aşar.",
   "islamicTradition": "İslamî rüya tabiri ve geleneksel literatürde Kur'an sembolü, genellikle hidayet, ilim, rızık, bereket, selamet ve hakikati seslendirme ekseninde ele alınır. Rüya içinde Kur'an okumak, bir ayeti anlamak, ezberlemek ya da Kur'an'la temas etmek genellikle büyük hayır, makamda yükselme, güçlenme ve manevi şifa ile ilişkilendirilir. Bununla birlikte, okunan ayetin mahiyetine göre (örneğin azap veya uyarı içeren ifadeler) rüya bir ikaz ya da iç muhasebe çağrısı olarak da değerlendirilebilir. Geleneksel çerçeve, rüyanın müjde ile vesvese arasındaki ayrımına dikkat çekerek bağlamın önemini vurgular.",
   "christianTraditions": "Hristiyan sembolik ve teolojik okumalarında doğrudan Kur'an metnine yer verilmemekle birlikte, kutsal metinlerin ve manevi yenilenme imgelerinin arkasında yatan arınma, ilahi beslenme ve lütuf temaları benzer bir sembolik zemin sunar. Yağmur veya su gibi sembollerin eşlik ettiği durumlarda, bu imgeler günahlardan arınma, vaftizsel temizlenme ve ruhsal tazelenme çağrışımları uyandırabilir.",
   "jewishTraditions": "Yahudi rüya ve metin geleneğinde, özellikle Talmudik ve eski İbrani kaynaklarında kutsal parşömenler veya yazılı metinler vahiy, ilahi sorumluluk, bilgelik beklentisi ve ahlaki hesaplaşma ile ilişkilendirilir. Rüyalarda görülen kutsal yazı motifleri tek başına kesin ve değişmez bir hüküm üretmez; metnin türüne, okunduğu bağlama ve rüyanın taşıdığı duygu tonuna göre anlam çeşitliliği gösterir.",
@@ -88,26 +88,6 @@
       "title": "[PDF] Dreams and religious conversions: A study of Malaysian Muslim ...",
       "relevance": "Müslüman bir örneklemde rüya öğeleri ve dinî içeriklerin yer almasına ilişkin ampirik veri sağlar; dinî sembollerin rüya içeriğinde nasıl görünebildiğini gösterir.",
       "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/48858/54229"
-    },
-    {
-      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
-      "relevance": "Rüyalarda su, rahim ve doğum çağrışımını doğrudan ele alan Freud pasajı.",
-      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
-    },
-    {
-      "title": "[PDF] Freud and the exegesis of Exodus ii, 3. - PhilArchive",
-      "relevance": "Sepet/kutu ve suyu rahim ile doğumun temsili olarak yorumlayan Freudçu pasajların aktarıldığı çalışma.",
-      "url": "https://philarchive.org/archive/GALFAT-7"
-    },
-    {
-      "title": "Page:Freud - The interpretation of dreams.djvu/261",
-      "relevance": "Rüyada suya giriş ve sudan çıkışı doğum olarak okuyan Freud metni.",
-      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
-    },
-    {
-      "title": "Page:Freud - The interpretation of dreams.djvu/262",
-      "relevance": "Mitolojik örneklerle birlikte suya girişin doğumun ters çevrilmiş temsilini anlattığı Freud pasajı.",
-      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/262"
     },
     {
       "title": "Carl Jung's Original Dream Interpretation Method",
@@ -185,11 +165,6 @@
       "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
     },
     {
-      "title": "Rüyada Kuran okumak Görmek Ne Anlama Gelir?",
-      "relevance": "Kur’an okumak rüyasının mevki, hayır ve ayetin anlamına göre yorumlandığı aktarım.",
-      "url": "https://www.diyadinnet.com/ruyada-6622-kuran-okumak-gormek"
-    },
-    {
       "title": "Quran Islamic Interpretations & Meanings",
       "relevance": "İbni Sîrîn'e atfedilen rüya tabiri geleneğinde Kur'an maddelerinin bulunduğunu gösteren katalog kaydı.",
       "url": "https://www.myislamicdream.com/quran.html"
@@ -203,26 +178,6 @@
       "title": "SAHIH BUKHARI, BOOK 87: Interpretation of Dreams",
       "relevance": "İslam’da rüya türleri ve müjde-korkutucu vesvese ayrımını hatırlatan hadis derlemesi sayfası.",
       "url": "https://www.iium.edu.my/deed/hadith/bukhari/087_sbt.html"
-    },
-    {
-      "title": "Spiritual Meaning Of Rain In The Bible: Is It A Blessing?",
-      "relevance": "Bible’da yağmurun arınma ile ilişkilendirildiğini anlatır; Hristiyan sembolik okuma için temizlenme çağrışımı sağlar.",
-      "url": "https://www.fromtheangels.com/spirituality/spiritual-meaning-of-rain-in-the-bible/"
-    },
-    {
-      "title": "What Does Rain Represent In The Bible - ntrmin.org",
-      "relevance": "Bible’daki yağmur motifinin ilahi beslenme, yargı, yenilenme ve arınma anlamlarını bir arada ele alır.",
-      "url": "https://www.ntrmin.org/what-does-rain-represent-in-the-bible/"
-    },
-    {
-      "title": "50 Epic Bible Verses About Rain (Symbolism Of Rain In The Bible)",
-      "relevance": "Yağmurun kutsal metinlerde bereket ve temizlenme sembolizmiyle bağlantısını açıklar.",
-      "url": "https://biblereasons.com/rain/"
-    },
-    {
-      "title": "Topical Bible: Pools and Ponds: Filled by the Rain",
-      "relevance": "Yağmurla dolan su birikintilerini kutsal lütuf ve ruhsal temizlenme metaforu olarak yorumlar.",
-      "url": "https://biblehub.com/topical/ttt/p/pools_and_ponds--filled_by_the_rain.htm"
     },
     {
       "title": "Dreaming in Christianity and Islam",

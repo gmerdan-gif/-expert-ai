@@ -38,7 +38,7 @@
     }
   ],
   "psychology": "",
-  "jungian": "Analitik psikolojide karga veya kuzgun figürü, kişiliğin karanlık ve bilinmeyen yönlerini simgeleyen gölge arketipiyle ilişkilendirilir. Simyasal terminolojideki 'nigredo' aşamasıyla paralellik kurularak, karga bir dönüşüm sürecinin kararma ve çürüme evresini ve ardından gelen yeniden yapılanma potansiyelini çağrıştırabilir. Marie-Louise von Franz’ın masal incelemelerinde karga, yakalanması zor ve zihinsel olarak denetlenmesi güç psişik içerikleri temsil eden bir kuş imgesi olarak ele alınır.",
+  "jungian": "Marie-Louise von Franz, kuzgun imgesini belirli masal bağlamlarında karanlık düşünceler ve bunların dönüşümüyle ilişkilendirir. Simyasal gelenekte kara kuş imgeleri de nigredo, yani dönüşümün kararma evresiyle birlikte ele alınabilir. Ancak bu bağlantılar, rüyadaki her karganın otomatik olarak Gölge'yi ya da belirli bir psişik içeriği temsil ettiği anlamına gelmez; imgenin anlamı rüyanın kendi bağlamı ve kişinin çağrışımlarıyla birlikte değerlendirilmelidir.",
   "islamicTradition": "Klasik İslami rüya tabiri literatüründe karga, sözünde durmayan, yalancı veya günahkâr kimseler ile gizli düşmanlıklarla ilişkilendirilir. Karganın türüne göre anlam çeşitliliği görülür; örneğin alaca karga kibir, cimrilik ve yalancılıkla bağdaştırılır. Bazı özel bağlamlarda (Kâbe üzerine düşmesi veya alaca karganın doğurması gibi) karga beklenmedik durumlar, fasık birinin evliliği ya da sevinç ve göz aydınlığı gibi temalarla da yan yana anılmıştır.",
   "christianTraditions": "",
   "jewishTraditions": "Yahudi kaynaklarında karga imgesi genellikle uğursuzluk, karanlık ve ahlaki gerilim çağrışımları taşır. Nuh kıssası çevresindeki rabbanî okumalarda karga karanlık, sertlik ve yıkım sonrası dünyanın ruh hâliyle ilişkilendirilirken, bazı anlatılarda karganın yavrularına rağmen ilahî rızıkla gözetilmesi teması üzerinden zorlukla birlikte beklenmedik bir koruma örneği de dikkat çeker.",
@@ -81,11 +81,6 @@
   ],
   "sources": [
     {
-      "title": "Shadow's flight - by Ivor Williams - Mortals - Substack",
-      "relevance": "Karga ve kuzgun imgesini Jungcu gölge ve bilinçdışı bağlamında tartışır, analitik psikoloji perspektifinin çağrışımlarını açıklar.",
-      "url": "https://ivorwilliams.substack.com/p/shadows-flight"
-    },
-    {
       "title": "Listening to Raven: The Shadow's Role as Guide",
       "relevance": "Karga/kuzgun imgesini Jungcu simya, nigredo ve gölgeyle ilişkilendiren analitik psikoloji yazısı; simyasal dönüşüm eksenini destekler.",
       "url": "https://jungpage.org/learn/articles/analytical-psychology/252-listening-to-raven-the-shadows-role-as-guide"
@@ -109,11 +104,6 @@
       "title": "İmam Nablusi Rüya Tabirleri A Harfi - Muhammed.net",
       "relevance": "Karga ve alaca karga için Nablusi’ye atfedilen klasik İslami tabir varyantlarını aktarır.",
       "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-a-harfi.html"
-    },
-    {
-      "title": "Rüyada Alaca Karga Görmek Neye İşarettir Anlamı - Secdem.net",
-      "relevance": "Karga sembolünü kış, soğukluk, sıkıntı, ızdırap, uzun ömür ve menfaatin devamı gibi yorum kümeleriyle ilişkilendiriyor.",
-      "url": "https://www.secdem.net/ruya-tabirleri/ruyada-alaca-karga-gormek-neye-isarettir-anlami.html"
     },
     {
       "title": "islâmî rüya tabirleri ansiklopedisi",
@@ -184,11 +174,6 @@
       "title": "The Birds in Alchemy by Adam McLean",
       "relevance": "Simyasal kuş sembolizmi içinde kara korvidlerin nigredo ve dönüşüm aşamasıyla bağlantısını verir; ezoterik okumaları destekler.",
       "url": "https://alchemywebsite.com/alcbirds.html"
-    },
-    {
-      "title": "Crow",
-      "relevance": "Batı simyasında kara korvidlerin nigredo ve caput corvi ile ilişkilendirilmesini özetler.",
-      "url": "https://occult-world.com/crow/"
     }
   ],
   "relatedSlugs": [],
