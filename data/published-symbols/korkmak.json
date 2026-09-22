@@ -1,0 +1,77 @@
+{
+  "slug": "korkmak",
+  "title": "korkmak",
+  "shortDescription": "Rüyada korkmak, tehdit algısı ve güvenlik arayışıyla birlikte ele alınabilir. Korkunun kaynağı, verdiğiniz tepki ve uyandığınızda kalan duygu önemlidir.",
+  "positiveAssociations": [
+    "Güvenli bir yere ulaşmak",
+    "Destek istemek",
+    "Korkuya rağmen hareket edebilmek"
+  ],
+  "challengingAssociations": [
+    "Tehdit altında hissetmek",
+    "Kaçacak yer bulamamak",
+    "Hareketsiz kalma veya sesini duyuramama hissi"
+  ],
+  "contextDependentAssociations": [
+    "Korkunun kaynağının belli olup olmadığı",
+    "Kaçmak, saklanmak veya yaklaşmak",
+    "Rüyanın güvenli bir yerde bitip bitmediği"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanımadığınız birinden kaçmak",
+      "description": "Yabancı figür kadar kaçış yoluna da bakın. Bir kapının açılması, yardım bulmanız veya yolun kapanması, rüyadaki güvenlik duygusunu farklı biçimde etkiler."
+    },
+    {
+      "title": "Tanıdık birinden korkmak",
+      "description": "Rüyadaki kişi ile gerçek kişiyi eşitlemeyin. Hangi davranışın sizi korkuttuğunu düşünmek, o kişiyi tehlikeli ilan etmekten daha açıklayıcıdır."
+    },
+    {
+      "title": "Korkudan hareket edememek",
+      "description": "Rüya içinde çaresizlik hissi öne çıkabilir. Yalnız bu sahneden bastırılmış çatışma veya bir sağlık durumu sonucu çıkarılamaz."
+    },
+    {
+      "title": "Korkunun ardından rahatlamak",
+      "description": "Tehdit ortadan kalktı mı, biri yardım mı etti, yoksa siz mi farklı davrandınız? Rahatlamayı sağlayan ayrıntı rüyanın yalnız korkudan ibaret olmadığını gösterebilir."
+    }
+  ],
+  "psychology": "Sterpenich ve arkadaşlarının çalışması, rüyada korku yaşanırken uyanık korku deneyiminde de rol alan bazı beyin bölgelerinin etkinleştiğini bildirdi. Çalışmada gündüz tepkileriyle ilişkiler de gözlendi. Daha yeni bir araştırmada ise rüya korkusu daha güçlü gündüz tepkileriyle ilişkili bulundu. Bulgular, korkutucu rüyaların herkeste aynı işlevi gördüğü veya mutlaka duygusal rahatlama sağladığı sonucunu desteklemez.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Araştırmalar rüyadaki korkuyu incelenebilir bir duygu deneyimi olarak ele alır.",
+  "differences": "Beyin etkinliği ve gündüz tepkileri hakkındaki bulgular, rüyanızdaki belirli bir kişinin ya da olayın ne anlama geldiğini tek başına açıklamaz.",
+  "inusAssessment": "Korkmak, tek bir nesnenin simgesi değil, rüya içinde yaşanan bir duygudur. Korkunun nedeni ile ona verilen tepkiyi ayırmak bu yüzden önemlidir. Kaçmak, donakalmak ve yardım istemek farklı sahnelerdir. Rüyadaki korkuyu gerçek bir tehlikenin kanıtı saymadan, güvenlik hissinin nerede değiştiğini ve uyandığınızda hangi duygunun kaldığını değerlendirebilirsiniz.",
+  "faq": [
+    {
+      "question": "Korkutucu rüya gerçek bir tehlikeyi haber verir mi?",
+      "answer": "Bir rüya, gerçek hayatta bir tehlikenin gerçekleşeceğini göstermez. Korku deneyimi ile geleceğe ilişkin tahmin birbirinden ayrılmalıdır."
+    },
+    {
+      "question": "Rüyada korkmak duyguları düzenlemeye yardımcı olur mu?",
+      "answer": "Bu konuda farklı araştırma sonuçları var. Bazı çalışmalar rüyadaki korku ile gündüz tepkileri arasında ilişki bulsa da, her korkutucu rüyanın yararlı olduğu sonucu çıkarılamaz."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fear in dreams and in wakefulness: Evidence for day/night affective homeostasis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7267911/",
+      "relevance": "Rüyadaki korku ile beyin etkinliği ve uyanıkken tehditlere verilen tepkiler arasındaki ilişkileri inceleyen çalışma.",
+      "year": 2020
+    },
+    {
+      "title": "Fear in dreams predicts stronger affect reactivity in wakefulness",
+      "url": "https://doi.org/10.1093/sleep/zsag203",
+      "relevance": "Rüyadaki korkunun gündüz tepkileriyle ilişkisi için farklı yönde bulgular bildiren araştırma; tek bir düzenleme açıklamasının kesinleştirilmesini engeller.",
+      "year": 2026
+    }
+  ],
+  "relatedSlugs": [
+    "yuksekten-korkmak",
+    "korkutulmak"
+  ]
+}

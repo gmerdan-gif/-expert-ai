@@ -1,0 +1,77 @@
+{
+  "slug": "elmas",
+  "title": "elmas",
+  "shortDescription": "Rüyada elmas, değerli bir şeyi koruma, kalıcılık veya görünür olma isteğini çağrıştırabilir. Taşın ham, işlenmiş, sağlam ya da çatlamış olması birlikte değerlendirilir.",
+  "positiveAssociations": [
+    "Değer verdiği bir şeyi korumak",
+    "Kalıcı bir bağ üzerine düşünmek",
+    "Henüz işlenmemiş bir potansiyeli fark etmek"
+  ],
+  "challengingAssociations": [
+    "Kaybetme korkusu",
+    "Değerin yalnız dış görünüşle ölçülmesi",
+    "Sağlam sanılan bir şeyin zarar görmesi"
+  ],
+  "contextDependentAssociations": [
+    "Ham taş ile işlenmiş mücevherin ayrılması",
+    "Taşın kime ait olduğu",
+    "Değerli bulduğunuz şeyin maddi mi duygusal mı olduğu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Elinizde bir elmas tutmak",
+      "description": "Taşa sahip olmanın size güven mi sorumluluk mu verdiğini düşünün. Onu göstermek istemeniz ile saklamanız farklı kişisel çağrışımlar oluşturabilir."
+    },
+    {
+      "title": "Çatlamış bir elmas görmek",
+      "description": "Sağlam sandığınız bir şeyin zarar görmesi fikri öne çıkabilir. Bu sahne gerçek bir ilişkinin bozulacağını göstermez; rüyadaki kayıp hissi üzerinden ele alınabilir."
+    },
+    {
+      "title": "Ham bir elmas bulmak",
+      "description": "İşlenmemiş taş, değeri ilk bakışta anlaşılmayan bir şeyi düşündürebilir. Onu tanımanız, başkasına göstermeniz veya bırakmanız sahnenin yönünü değiştirir."
+    },
+    {
+      "title": "Bir elması kaybetmek",
+      "description": "Kaybettiğiniz şeyin parasal değerine mi, hatırasına mı üzüldüğünüz önemlidir. Rüyada arama biçiminiz ve yardım isteyip istememeniz de bu duyguyu anlamlandırabilir."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "Rubin Museum kaydı, vajrayı yıkılmazlık çağrışımı taşıyan bir ritüel nesnesi olarak açıklar. Elmasla ilişkilendirilen dayanıklılık imgesi bu kültürel bağlamda düşünülebilir; vajra nesnesini rüyada görülen her mücevherle eşitlemek gerekmez.",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Dayanıklılık ve değer, elmasla kurulan kültürel çağrışımlar arasındadır.",
+  "differences": "Tarihsel mücevher kullanımı, Budist ritüel nesnesi ve sizin rüyanızdaki kişisel hatıra birbirine yakın çağrışımlar taşısa da aynı olgu değildir.",
+  "inusAssessment": "Mücevher tarihçisi Jack Ogden, elmasın sertliğinin güç, kalıcılık ve zamanla sevgiyle ilişkilendirilmesindeki rolünü anlatır. Bunlar tarihsel ve sembolik kullanımlardır; taşın ruhsal bir güç yaydığı veya rüyada gelecek bildirdiği iddiası değildir. Elmas rüyasında fiyat ile kişisel değer aynı şey değildir. Bir hediye, bir miras hatırası veya ham taş farklı ilişkiler kurdurabilir. INUS değerlendirmesinde taşın kimden geldiği, nasıl korunduğu ve onu kaybetme ihtimalinin ne hissettirdiği öne çıkar. Elmasın sertlik çağrışımı da onu gerçek hayatta kırılmaz yapmaz; rüyadan zenginlik veya kalıcı birliktelik garantisi çıkarılmaz.",
+  "faq": [
+    {
+      "question": "Elmas görmek zenginleşeceğim anlamına mı gelir?",
+      "answer": "Hayır. Elmasın tarihsel olarak zenginlik ve güçle ilişkilendirilmesi, rüyada görülmesinin maddi kazanç sağlayacağı anlamına gelmez."
+    },
+    {
+      "question": "Ham elmas ile mücevher aynı şey mi anlatır?",
+      "answer": "Kişisel çağrışımları farklı olabilir. Ham taşta keşif ve işleme, mücevherde ise hediye, görünüm veya aidiyet sizin için daha belirgin olabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Diamonds, love and history",
+      "url": "https://yalebooks.yale.edu/2018/04/20/diamonds-love-and-history/",
+      "relevance": "Elmasın sertliği, tarihsel değeri ve sevgiyle ilişkilendirilmesini inceleyen mücevher tarihçisi yazısı; rüya tabiri değildir.",
+      "author": "Jack Ogden",
+      "year": 2018
+    },
+    {
+      "title": "Vajra",
+      "url": "https://rubinmuseum.org/collection/sc2006-2-3/enlarge/altviews/13136/",
+      "relevance": "Vajrayı yıkılmazlık çağrışımı taşıyan bir ritüel nesnesi olarak tanıtan müze kaydı; elmas rüyasının anlamını belirlemez."
+    }
+  ],
+  "relatedSlugs": [
+    "yuzuk",
+    "mucevher"
+  ]
+}

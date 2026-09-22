@@ -1,0 +1,72 @@
+{
+  "slug": "is",
+  "title": "iş",
+  "shortDescription": "Rüyada iş, sorumluluklarınızı, çalışma ilişkilerinizi ve yetiştirme baskısını gündeme getirebilir. Yapılan görev, iş ortamı ve başarı ya da sıkışmışlık hissi önemlidir.",
+  "positiveAssociations": [
+    "Bir işi tamamlamanın verdiği doyum",
+    "İş birliği ve sorumluluk paylaşımı",
+    "Becerilerini kullanmak"
+  ],
+  "challengingAssociations": [
+    "Yetiştirme baskısı",
+    "Görevin belirsizliği",
+    "Değerlendirilme veya hata yapma kaygısı"
+  ],
+  "contextDependentAssociations": [
+    "Mevcut iş mi eski iş mi olduğu",
+    "Görevin kimin tarafından verildiği",
+    "Sorumluluğun paylaşılması veya tek kişide kalması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Eski iş yerine dönmek",
+      "description": "Eski bir görev veya çalışma ilişkisi yeniden aklınıza gelebilir. Bu sahne, eski işe gerçekten dönmek istediğinizi tek başına göstermez; o dönemin sizde bıraktığı duyguya bakın."
+    },
+    {
+      "title": "Bitmeyen görevlerle uğraşmak",
+      "description": "Rüyada ne kadar çalışsanız da işin bitmemesi, yetişme baskısını düşünmek için somut bir sahnedir. En çok zorlayan şeyin iş miktarı mı, belirsiz beklenti mi olduğunu ayırabilirsiniz."
+    },
+    {
+      "title": "Yeni bir işte ne yapacağını bilememek",
+      "description": "Burada yeni bir rolün gerektirdikleri ve yardım isteme duygusu öne çıkabilir. Rüyada size yol gösteren birinin olup olmaması önemlidir."
+    },
+    {
+      "title": "Bir işi ekiple tamamlamak",
+      "description": "Paylaşılan bir başarı, destek ve iş bölümünün sizdeki karşılığını düşündürebilir. İşin bitmesi kadar emeğinizin görülüp görülmediği de dikkate değerdir."
+    }
+  ],
+  "psychology": "1.695 kişinin katıldığı bir çevrimiçi araştırmada, işle ilgili rüyaların duygusal tonu günlük iş stresi ve işle ilişkili duygularla bağlantılı bulundu. Çalışma kişilerin kendi bildirimlerine dayanır; tek bir rüyadan iş yaşamı hakkında kesin sonuç çıkarmaz. Rüyadaki görevleri ve ilişkileri gerçek deneyimlerinizle karşılaştırmak, sabit bir iş tabirinden daha yararlı olabilir.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Çalışma sahnesindeki sorumluluk, destek ve baskı duyguları, iş yaşamınızla karşılaştırabileceğiniz ayrıntılardır.",
+  "differences": "Araştırma katılımcılar arasındaki ilişkileri inceler. Belirli bir iş rüyasına verdiğiniz kişisel anlam, bu istatistiksel bulgudan ayrı tutulmalıdır.",
+  "inusAssessment": "İş rüyasında görevin kendisini, iş arkadaşlarıyla ilişkinizi ve sizden bekleneni ayırmak yararlıdır. Aynı ofis bir rüyada baskı, başka bir rüyada beceri ve dayanışma alanı olabilir. Özellikle görevin bitip bitmemesi, yardım isteyebilmeniz ve emeğinizin fark edilmesi, rüyanızı günlük çalışma deneyiminizle karşılaştırabileceğiniz somut ayrıntılardır.",
+  "faq": [
+    {
+      "question": "İş rüyası iş değiştirmem gerektiğini mi söyler?",
+      "answer": "Hayır. Bir rüya iş kararı vermek için yeterli değildir. Değişiklik isteğinizi düşündürebilir, fakat kararınızı gerçek çalışma koşullarınız ve seçenekleriniz üzerinden değerlendirmelisiniz."
+    },
+    {
+      "question": "Eski işimi görmem hâlâ onu istediğim anlamına gelir mi?",
+      "answer": "Zorunlu olarak değil. Eski işteki bir kişi, görev veya duygu rüyada yeniden belirebilir. Özlem ile benzer bir sorumluluğu bugün yaşamak birbirinden farklıdır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Work-Related Dreams: An Online Survey",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7573803/",
+      "relevance": "1.695 kişinin bildirimlerine dayanan araştırma; işle ilgili rüyalar ile günlük iş stresi ve duygular arasındaki ilişkileri inceler.",
+      "year": 2020
+    }
+  ],
+  "relatedSlugs": [
+    "ise-girmek",
+    "isten-cikmak",
+    "is-arkadasi"
+  ]
+}

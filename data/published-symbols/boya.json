@@ -1,0 +1,72 @@
+{
+  "slug": "boya",
+  "title": "boya",
+  "shortDescription": "Rüyada boya, bir yüzeyi yenileme, görünümü değiştirme veya bir izi kapatma isteğini çağrıştırabilir. Boyanın rengi, uygulandığı yer ve bıraktığı sonuç önemlidir.",
+  "positiveAssociations": [
+    "Bir yüzeyi yenilemek",
+    "Renklerle kendini ifade etmek",
+    "Bir işi kendi emeğiyle tamamlamak"
+  ],
+  "challengingAssociations": [
+    "İstemeden bir yeri lekelemek",
+    "Sonucu kontrol edememek",
+    "Bir izi kapatma baskısı"
+  ],
+  "contextDependentAssociations": [
+    "Duvar, kumaş veya resim boyanması",
+    "Boyayı isteyerek seçip seçmediğiniz",
+    "Eski yüzeyin görünür kalması veya tamamen örtülmesi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Bir duvarı boyamak",
+      "description": "Bu sahne yaşadığınız ortamı değiştirme isteğini düşündürebilir. Rengi sizin seçmeniz ile başkasının istediği renge boyamanız farklı deneyimlerdir."
+    },
+    {
+      "title": "Boyanın dökülmesi",
+      "description": "İstenmeyen izler bırakmak, rüyadaki kontrol ve düzeltme çabasını öne çıkarabilir. En çok eşyaya gelen zarardan mı, başkasının tepkisinden mi rahatsız olduğunuzu ayırın."
+    },
+    {
+      "title": "Resim yapmak için boya kullanmak",
+      "description": "Burada yüzeyi kapatmaktan çok bir görüntü oluşturmak önemlidir. Ne çizdiğiniz ve ortaya çıkan sonuçla ilişkiniz, ifade etme deneyimini düşünmeye yardımcı olabilir."
+    },
+    {
+      "title": "Eski boyayı kazımak",
+      "description": "Yeni bir kat sürmeden önce alttakini kaldırmak, hazırlık ve emek gerektiren bir sahnedir. Eski görünümü korumak mı, değiştirmek mi istediğiniz önem taşır."
+    }
+  ],
+  "psychology": "",
+  "jungian": "Elana Lakh’ın kuramsal makalesi, görsel sanat üretimini Jungcu analizde ifade ve iletişim imkânı olarak ele alır. Bu çerçeve resim yapma sahnesiyle ilişkilendirilebilir; bir duvarı boyamak veya boya dökmek için hazır bir tabir sağlamaz. Rüyadaki amaç ve oluşan görüntü, kişinin kendi çağrışımlarıyla değerlendirilir.",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Görsel bir değişiklik yapma ve ortaya çıkan sonuçla ilişki kurma, boya sahnesinde birlikte düşünülebilir.",
+  "differences": "Sanat üretimi üzerine kuramsal açıklama ile bir boya rüyasının kişisel yorumu farklı düzlemlerdedir. Birincisi ikincisini kesinleştirmez.",
+  "inusAssessment": "Boya rüyasını yalnız renge indirgememek gerekir. Bir izi örtmek, bir evi yenilemek ve resim yapmak farklı amaçlardır. Boyanın elinizde nasıl davrandığı, yüzeyde ne bıraktığı ve sonucu beğenip beğenmediğiniz, değişiklik yapma deneyiminizin somut ayrıntılarıdır. Renkten hastalık, miras veya kazanç gibi kesin sonuçlar çıkarılmaz.",
+  "faq": [
+    {
+      "question": "Boyanın rengi tek başına anlamı belirler mi?",
+      "answer": "Hayır. Aynı renk bir duvarda, bir resimde veya istemeden oluşan lekede farklı bir deneyimin parçasıdır. Amaç ve sonuç da değerlendirilmelidir."
+    },
+    {
+      "question": "Bir izi boyayla kapatmak neyi düşündürebilir?",
+      "answer": "Rüyadaki niyetiniz önemlidir: onarım mı yapıyordunuz, görünümü mü değiştiriyordunuz, bir şeyi mi saklıyordunuz? Bu ayrımları kendinize sormak, hazır bir tabirden daha somut olabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "“Pictures from the unconscious” – Art making within Jungian analysis",
+      "url": "https://cris.biu.ac.il/en/publications/pictures-from-the-unconscious-art-making-within-jungian-analysis/",
+      "relevance": "Görsel sanatın Jungcu analizde ifade ve iletişim aracı olarak kullanımını tartışan kuramsal makale; boya rüyaları üzerine deney değildir.",
+      "author": "Elana Lakh",
+      "year": 2025
+    }
+  ],
+  "relatedSlugs": [
+    "boya-yapmak",
+    "sac-boyamak"
+  ]
+}

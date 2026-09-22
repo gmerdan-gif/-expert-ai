@@ -4,6 +4,16 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
+        source: "/ruyalar/semboller/beyaz",
+        destination: "/ruyalar/semboller/beyaz-renk",
+        permanent: true,
+      },
+      {
+        source: "/ruyalar/semboller/bulut_gormek",
+        destination: "/ruyalar/semboller/bulut",
+        permanent: true,
+      },
+      {
         source: "/ruyalar/semboller/dans",
         destination: "/ruyalar/semboller/dans-etmek",
         permanent: true,

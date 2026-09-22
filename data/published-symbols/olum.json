@@ -1,0 +1,74 @@
+{
+  "slug": "olum",
+  "title": "ölüm",
+  "shortDescription": "Rüyada ölüm, kayıp, ayrılık ve hayatın değişen yönleri üzerine yoğun duygular uyandırabilir. Rüyada kimin öldüğü ve sizin ne hissettiğiniz önemlidir; bir ölüm habercisi değildir.",
+  "positiveAssociations": [
+    "Bir yakını anmak ve onunla kurulan bağı düşünmek",
+    "Kayıp karşısındaki duyguları fark etmek",
+    "Değişen yaşam koşullarını anlamaya çalışmak"
+  ],
+  "challengingAssociations": [
+    "Ayrılık veya kaybetme korkusu",
+    "Yarım kalmış bir konuşmanın ağırlığı",
+    "Belirsizlik ve çaresizlik"
+  ],
+  "contextDependentAssociations": [
+    "Rüyada kimin öldüğü",
+    "Gerçek bir kaybın yaşanıp yaşanmadığı",
+    "Rüyada korku, üzüntü, özlem veya rahatlama hissedilmesi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık birinin ölümünü görmek",
+      "description": "Bu sahne o kişinin öleceğine ilişkin bilgi vermez. Onunla ilişkiniz, ayrılık düşüncesi ve rüyanın sizde bıraktığı duygu üzerine düşünebilirsiniz."
+    },
+    {
+      "title": "Kendi ölümünü görmek",
+      "description": "Rüyadaki konumunuz önemlidir: olayı yaşıyor musunuz, uzaktan mı izliyorsunuz? Bu sahneden bir ömür tahmini veya kesin bir dönüşüm anlamı çıkarılmaz."
+    },
+    {
+      "title": "Vefat etmiş bir yakınla konuşmak",
+      "description": "Özlem, hatıralar ve söylenmemiş sözler bu sahneyi kişisel olarak anlamlandırmanıza yardımcı olabilir. Konuşmanın içeriğini dışarıdan gelen doğrulanmış bir mesaj saymak gerekmez."
+    },
+    {
+      "title": "Kimliği belirsiz bir ölüm haberi almak",
+      "description": "Burada belirli bir kişiden çok haberin yarattığı belirsizlik öne çıkabilir. Haberi kimin verdiği ve sonrasında ne yaptığınız sahneyi anlamak için daha somut ayrıntılardır."
+    }
+  ],
+  "psychology": "Komplike yas yaşayan kişilerden alınan 77 rüya anlatısını inceleyen çalışmada, aile üyeleri ve tanıdık kişiler belirgin yer tuttu. Ölen kişiyi rüyada görenlerle görmeyenler arasında yasın şiddeti bakımından anlamlı bir fark saptanmadı. Bu sınırlı örneklem, rüya ile kayıp deneyimini birlikte düşünmeye yardımcı olur; bütün ölüm rüyalarının anlamını açıklamaz.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Kayıp ve hatıralar, ölüm temalı rüyayı kişinin kendi yaşamıyla ilişkilendirmenin bir yoludur.",
+  "differences": "Yas üzerine araştırma, ölüm temasının her zaman yasla ilgili olduğunu göstermez. Gerçek bir kayıp yaşamamış bir kişinin rüyası da kendi koşulları içinde ele alınmalıdır.",
+  "inusAssessment": "Ölüm temalı bir rüyayı değerlendirirken gerçek bir kaybın hatırası, birini kaybetme korkusu ve rüyada yaşanan kurgusal olay birbirinden ayrılmalıdır. Vefat etmiş bir yakını görmek ile yaşayan birinin ölüm haberini almak aynı deneyim değildir. INUS, rüyayı bir ölüm tarihi ya da haberine çevirmek yerine ilişkinin niteliğini, konuşmaları ve sizde kalan duyguyu ele alır.",
+  "faq": [
+    {
+      "question": "Rüyada ölüm görmek birinin öleceği anlamına gelir mi?",
+      "answer": "Hayır. Rüyadaki ölüm sahnesinden gelecekteki bir ölüm olayı veya zamanına ilişkin sonuç çıkarılamaz."
+    },
+    {
+      "question": "Vefat eden bir yakını görmek yasın kötüleştiğini mi gösterir?",
+      "answer": "Tek başına göstermez. Komplike yas yaşayan kişileri inceleyen bir araştırmada, ölen kişiyi rüyada görme ile yasın şiddeti arasında anlamlı bir fark bulunmamıştır. Bu bulgu da tek bir rüyayı tanı aracına dönüştürmez."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream Content in Complicated Grief: A Window into Loss-Related Cognitive Schemas",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3929213/",
+      "relevance": "Komplike yas örneklemindeki 77 rüya anlatısını inceler. Ölen kişiyi rüyada görmenin tek başına yas şiddetini göstermediğine dair bulgu içerir.",
+      "author": "Anne Germain ve arkadaşları",
+      "year": 2013
+    }
+  ],
+  "relatedSlugs": [
+    "annenin-olumu",
+    "kendi-olumu",
+    "olum-haberi-almak",
+    "birinin-olum-haberini-almak"
+  ]
+}

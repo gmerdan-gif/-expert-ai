@@ -5,6 +5,8 @@ import type {
   SymbolContent,
 } from "@/data/symbol-system/schema/symbol-schema";
 
+import { editorialParentSlugs } from "@/lib/symbols/parent-links.generated";
+
 import { generatedRelatedSymbolSlugs } from "@/lib/symbols/related-symbols.generated";
 
 const PUBLISHED_SYMBOLS_DIR = path.join(
@@ -107,10 +109,10 @@ export function getRelatedPublishedSymbols(
    * Generated relationships fill only when no manual
    * relationship has been defined for the symbol.
    */
-  const candidateSlugs =
-    manualSlugs.length > 0
-      ? manualSlugs
-      : generatedSlugs;
+  const candidateSlugs = [
+    ...(editorialParentSlugs[symbol.slug] ?? []),
+    ...(manualSlugs.length > 0 ? manualSlugs : generatedSlugs),
+  ];
 
   const seen = new Set<string>();
   const related: SymbolContent[] = [];

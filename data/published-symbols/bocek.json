@@ -1,0 +1,78 @@
+{
+  "slug": "bocek",
+  "title": "böcek",
+  "shortDescription": "Rüyada böcek, merak veya tiksinti uyandıran küçük ayrıntıları öne çıkarabilir. Böceğin türü, sayısı ve bedeninize ya da yaşam alanınıza yakınlığı birlikte değerlendirilir.",
+  "positiveAssociations": [
+    "Küçük bir canlının hareketlerini merakla izlemek",
+    "Ayrıntıları fark etmek",
+    "Rahatsız eden bir duruma sınır koymak"
+  ],
+  "challengingAssociations": [
+    "Bedene veya eve bir şey girmesinden duyulan tedirginlik",
+    "Çok sayıda küçük sorun karşısında bunalmak",
+    "Tiksinti ve uzaklaşma isteği"
+  ],
+  "contextDependentAssociations": [
+    "Böceğin türü ve sayısı",
+    "Evin içinde, açık alanda veya bedeninizde olması",
+    "Son günlerde böceklerle yaşadığınız bir karşılaşma"
+  ],
+  "commonVariations": [
+    {
+      "title": "Üzerinizde böcek dolaşması",
+      "description": "Önce rüyadaki bedensel hissi düşünün: kaşınma, korku veya merak mı vardı? Bu sahneyi bir hastalık belirtisi saymak yerine, kişisel alanınıza yaklaşan bir şeye verdiğiniz tepki üzerinden ele alabilirsiniz."
+    },
+    {
+      "title": "Odada çok sayıda böcek görmek",
+      "description": "Tek bir böcekle karşılaşmak ile odanın böceklerle dolması aynı deneyim değildir. Sayının artması, rüyada kontrol edememe veya biriken ayrıntılarla uğraşma hissini öne çıkarabilir."
+    },
+    {
+      "title": "Bir böceği dışarı bırakmak",
+      "description": "Böceğe zarar vermeden onu dışarı çıkarmanız, sınır koyarken korumayı da önemseyip önemsemediğinizi düşündürebilir. Rahatlama mı, suçluluk mu hissettiğiniz bu kişisel okumayı değiştirir."
+    },
+    {
+      "title": "Işığa yaklaşan böcekleri izlemek",
+      "description": "Bu sahnede ışığın çekiciliği ve böceklerin hareketi dikkati çekebilir. Rüyadaki merakınızı, yaklaşma isteğinizi veya zarar görme endişenizi ayrı ayrı ele alabilirsiniz."
+    }
+  ],
+  "psychology": "Barrett A. Klein’ın derlemesi, böceklerin rüyalarda ve kültürel anlatılarda farklı biçimlerde yer aldığını gösterir. Çalışma, klinik gözlemlerle edebî ve geleneksel örnekleri bir araya getirir; bütün böcek rüyalarına uygulanacak tek bir anlam belirlemez. Bu nedenle rüyadaki korku, tiksinti veya merak, kişinin böceklerle kendi deneyimiyle birlikte düşünülmelidir.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "Udana 6.9’da lambalara yönelerek zarar gören böcekler, duyusal çekime kapılmayı anlatan bir benzetmedir. Bu metin bir rüya tabiri sunmaz. Işığa yaklaşan böcek sahnesi için kültürel bir çağrışım sağlayabilir; bunu kişinin rüyasına doğrudan bir hüküm olarak uygulamak doğru olmaz.",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Böcek imgesi hem gözlenen bir canlıya hem de kültürel bir benzetmeye dayanabilir. Rüyada hangisinin size yakın geldiğini kendi deneyiminiz belirler.",
+  "differences": "Literatür derlemesi rüya ve anlatı örneklerini inceler. Budist metin ise bir öğretiyi benzetmeyle anlatır; iki kaynak aynı tür kanıt sunmaz.",
+  "inusAssessment": "Böcek rüyasında ilk ayrım, hayvanın kendisinden korkmak ile sayısı veya bulunduğu yer yüzünden rahatsız olmak arasındadır. Bahçede izlenen tek bir böcek, yatakta hissedilen böceklerle aynı çağrışımı taşımaz. INUS değerlendirmesinde tür, mesafe ve sizin müdahaleniz birlikte ele alınır. Bu sahne okumaları kişisel düşünmeye yardımcı olan olasılıklardır; rüyadan hastalık veya gizli düşman sonucu çıkarılmaz.",
+  "faq": [
+    {
+      "question": "Rüyada böcek görmek hastalık anlamına gelir mi?",
+      "answer": "Bir böcek rüyası hastalık tanısı koydurmaz. Böceklerin rüyalardaki yerini inceleyen bir derlemede farklı klinik ve kültürel örneklerin bulunması, bunların her böcek rüyası için geçerli olduğu anlamına gelmez."
+    },
+    {
+      "question": "Tek böcek ile böcek sürüsü aynı şekilde mi yorumlanır?",
+      "answer": "Hayır. Tek böcekte merak veya belirli bir korku öne çıkabilir; çokluk ise rüyanızdaki kalabalık, yayılma ve kontrol duygularını değiştirir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Curious Connection Between Insects and Dreams",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4553613/",
+      "relevance": "Böceklerin rüyalardaki klinik ve kültürel örneklerini toplayan literatür derlemesi; tek bir sembolik anlamı doğrulayan deney değildir.",
+      "author": "Barrett A. Klein",
+      "year": 2012
+    },
+    {
+      "title": "Adhipataka Sutta: Like Moths to the Flame",
+      "url": "https://www.accesstoinsight.org/tipitaka/kn/ud/ud.6.09.olen.html",
+      "relevance": "Udana 6.9: Işığa yönelen böcekler üzerinden duyusal çekime kapılmayı anlatır; doğrudan rüya tabiri değildir."
+    }
+  ],
+  "relatedSlugs": [
+    "bir-suru-bocek",
+    "kara-bocek",
+    "siyah-bocek"
+  ]
+}
