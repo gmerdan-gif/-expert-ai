@@ -73,6 +73,51 @@ const nextConfig: NextConfig = {
         destination: "/ruyalar/semboller/silah",
         permanent: true,
       },
+      {
+        source: "/ruyalar/semboller/led_isik",
+        destination: "/ruyalar/semboller/led-isik",
+        permanent: true,
+      },
+      {
+        source: "/ruyalar/semboller/lazer_isigi",
+        destination: "/ruyalar/semboller/lazer-isigi",
+        permanent: true,
+      },
+      {
+        source: "/ruyalar/semboller/lunapark_donme_dolap",
+        destination: "/ruyalar/semboller/lunapark-donme-dolap",
+        permanent: true,
+      },
+      {
+        source: "/ruyalar/semboller/fotograf_kaybetmek",
+        destination: "/ruyalar/semboller/fotograf-kaybetmek",
+        permanent: true,
+      },
+      {
+        source: "/ruyalar/semboller/lavabo_tasi",
+        destination: "/ruyalar/semboller/lavabo-tasi",
+        permanent: true,
+      },
+      {
+        source: "/ruyalar/semboller/lunapark_korku_tuneli",
+        destination: "/ruyalar/semboller/lunapark-korku-tuneli",
+        permanent: true,
+      },
+      {
+        source: "/ruyalar/semboller/kuyruklu_yildiz",
+        destination: "/ruyalar/semboller/kuyruklu-yildiz",
+        permanent: true,
+      },
+      {
+        source: "/ruyalar/semboller/lavabo_tikanmasi",
+        destination: "/ruyalar/semboller/lavabo-tikanmasi",
+        permanent: true,
+      },
+      {
+        source: "/ruyalar/semboller/logar_kapagi",
+        destination: "/ruyalar/semboller/logar-kapagi",
+        permanent: true,
+      },
     ];
   },
 };
