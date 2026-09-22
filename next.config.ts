@@ -118,6 +118,31 @@ const nextConfig: NextConfig = {
         destination: "/ruyalar/semboller/logar-kapagi",
         permanent: true,
       },
+      {
+        source: "/ruyalar/semboller/mail_almak",
+        destination: "/ruyalar/semboller/mail-almak",
+        permanent: true,
+      },
+      {
+        source: "/ruyalar/semboller/evine_girememek",
+        destination: "/ruyalar/semboller/evine-girememek",
+        permanent: true,
+      },
+      {
+        source: "/ruyalar/semboller/yanlis_adrese_gitmek",
+        destination: "/ruyalar/semboller/yanlis-adrese-gitmek",
+        permanent: true,
+      },
+      {
+        source: "/ruyalar/semboller/mesaji_silmek",
+        destination: "/ruyalar/semboller/mesaji-silmek",
+        permanent: true,
+      },
+      {
+        source: "/ruyalar/semboller/masa_saati",
+        destination: "/ruyalar/semboller/masa-saati",
+        permanent: true,
+      },
     ];
   },
 };
