@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { SOCIAL_PROFILES } from "@/lib/site/social";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
@@ -235,36 +234,6 @@ export default async function SymbolSourcesPage({
             </Link>
           </div>
 
-          <div className="flex flex-wrap gap-5">
-            <a
-              href={SOCIAL_PROFILES.instagram}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Instagram
-            </a>
-            <a
-              href={SOCIAL_PROFILES.youtube}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              YouTube
-            </a>
-            <a
-              href={SOCIAL_PROFILES.x}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              X
-            </a>
-            <a
-              href={SOCIAL_PROFILES.tiktok}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              TikTok
-            </a>
-          </div>
         </footer>
       </div>
     </main>

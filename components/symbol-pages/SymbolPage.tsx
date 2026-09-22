@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { SOCIAL_PROFILES } from "@/lib/site/social";
 
 import AdSlot from "@/components/ads/AdSlot";
 import { dreamPhrase } from "@/lib/symbols/dream-title";
@@ -22,15 +21,6 @@ function lowerTr(value: string) {
   return value.toLocaleLowerCase("tr-TR");
 }
 
-function capitalizeTr(value: string) {
-  if (!value) return value;
-
-  return (
-    value.charAt(0).toLocaleUpperCase("tr-TR") +
-    value.slice(1)
-  );
-}
-
 function rawSymbolName(title: string) {
   return title
     .replace(/^rüyada\s+/i, "")
@@ -47,7 +37,6 @@ export function SymbolPage({
   relatedSymbols = [],
 }: SymbolPageProps) {
   const rawName = rawSymbolName(symbol.title);
-  const name = capitalizeTr(rawName);
 
   const positiveAssociations =
     symbol.positiveAssociations ?? [];
@@ -87,6 +76,17 @@ export function SymbolPage({
       item.content.trim().length > 0,
   );
 
+  const sectionLinks = [
+    { id: "temalar", label: "Temalar", visible: positiveAssociations.length > 0 },
+    { id: "yaklasimlar", label: "Yaklaşımlar", visible: perspectives.length > 0 },
+    { id: "karsilastirma", label: "Karşılaştırma", visible: Boolean(symbol.commonGround || symbol.differences) },
+    { id: "baglam", label: "Bağlam", visible: Boolean(symbol.inusAssessment) },
+    { id: "ayrintilar", label: "Rüyanın ayrıntıları", visible: symbol.commonVariations?.length > 0 },
+    { id: "sorular", label: "Sorular", visible: symbol.faq?.length > 0 },
+    { id: "ilgili-semboller", label: "İlgili semboller", visible: relatedSymbols.length > 0 },
+    { id: "kaynaklar", label: "Kaynaklar", visible: true },
+  ].filter((section) => section.visible);
+
   return (
     <main className="min-h-screen bg-[#f5f1ea] text-[#24221f]">
       <div className="mx-auto w-full max-w-6xl px-5 sm:px-8">
@@ -99,7 +99,7 @@ export function SymbolPage({
               INUS
             </Link>
 
-            <nav className="hidden items-center gap-7 text-sm text-[#625c54] md:flex">
+            <nav aria-label="Ana gezinme" className="hidden items-center gap-7 text-sm text-[#625c54] md:flex">
               <Link
                 href="/ruyalar"
                 className="transition hover:text-[#24221f]"
@@ -131,9 +131,34 @@ export function SymbolPage({
               Hakkımızda
             </Link>
           </div>
+          <details className="group relative md:hidden">
+            <summary className="flex min-h-11 cursor-pointer list-none items-center gap-3 rounded-lg border border-[#d9d2c9] px-4 text-sm text-[#454039] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#625c54] [&::-webkit-details-marker]:hidden">
+              Menü
+              <span aria-hidden="true" className="transition-transform group-open:rotate-180">⌄</span>
+            </summary>
+            <nav
+              aria-label="Mobil ana gezinme"
+              className="absolute right-0 top-full z-20 mt-2 w-[min(18rem,calc(100vw-2.5rem))] rounded-xl border border-[#d9d2c9] bg-[#faf8f4] p-2"
+            >
+              {[
+                { href: "/ruyalar", label: "Rüyalar" },
+                { href: "/ruyalar/semboller", label: "Rüya Sembolleri" },
+                { href: `/ruyalar/semboller/${symbol.slug}/kaynaklar`, label: "Kaynaklar" },
+                { href: "/hakkimizda", label: "Hakkımızda" },
+              ].map((item) => (
+                <Link
+                  key={item.href}
+                  href={item.href}
+                  className="flex min-h-11 items-center rounded-lg px-4 py-3 text-base text-[#454039] hover:bg-[#eee8df] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#625c54]"
+                >
+                  {item.label}
+                </Link>
+              ))}
+            </nav>
+          </details>
         </header>
 
-        <article>
+        <article className="min-w-0 [overflow-wrap:anywhere]">
           <section className="pb-11 pt-8 sm:pb-14 sm:pt-12">
             <div className="max-w-3xl">
               <h1 className="text-[40px] font-light leading-[1.08] tracking-[-0.035em] sm:text-[48px]">
@@ -143,11 +168,33 @@ export function SymbolPage({
               <div className="mt-6 max-w-2xl text-[16px] leading-8 text-[#5f5952]">
                 {symbol.shortDescription}
               </div>
+              <Link
+                href="/hakkimizda#icerik-yontemi"
+                className="mt-3 inline-flex min-h-11 items-center text-sm text-[#625c54] underline underline-offset-4 focus-visible:outline-2 focus-visible:outline-offset-4"
+              >
+                İçerik hazırlama yöntemi
+              </Link>
             </div>
           </section>
 
+          <nav aria-label="Bu sayfadaki bölümler" className="mb-8 border-t border-[#d9d2c9] pt-5">
+            <p className="mb-2 text-sm font-medium text-[#625c54]">Bu sayfada</p>
+            <ul className="flex flex-wrap gap-x-2 gap-y-1">
+              {sectionLinks.map((section) => (
+                <li key={section.id}>
+                  <a
+                    href={`#${section.id}`}
+                    className="inline-flex min-h-11 items-center rounded-lg px-3 py-2 text-sm text-[#454039] underline decoration-[#b9b0a6] underline-offset-4 hover:bg-[#eee8df] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#625c54]"
+                  >
+                    {section.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </nav>
+
           {positiveAssociations.length > 0 && (
-            <section className="border-t border-[#d9d2c9] py-10">
+            <section id="temalar" className="scroll-mt-6 border-t border-[#d9d2c9] py-10">
               <p className="mb-3 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
                 İLK BAKIŞTA
               </p>
@@ -172,7 +219,7 @@ export function SymbolPage({
           )}
 
           {perspectives.length > 0 && (
-            <section className="border-t border-[#d9d2c9] py-10">
+            <section id="yaklasimlar" className="scroll-mt-6 border-t border-[#d9d2c9] py-10">
               <p className="mb-3 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
                 FARKLI PERSPEKTİFLER
               </p>
@@ -192,13 +239,13 @@ export function SymbolPage({
                 {perspectives.map((item) => (
                   <section
                     key={item.label}
-                    className="rounded-xl border border-[#ddd5cb] bg-[#faf8f4] px-6 py-6"
+                    className="rounded-xl border border-[#ddd5cb] bg-[#faf8f4] px-5 py-6 sm:px-6"
                   >
                     <h3 className="mb-4 text-[15px] font-medium">
                       {item.label}
                     </h3>
 
-                    <div className="text-[14px] leading-7 text-[#625c54]">
+                    <div className="text-base leading-7 text-[#625c54] sm:text-[14px]">
                       {item.content}
                     </div>
                   </section>
@@ -210,7 +257,7 @@ export function SymbolPage({
           <AdSlot placement="symbol-after-perspectives" />
 
           {(symbol.commonGround || symbol.differences) && (
-            <section className="border-t border-[#d9d2c9] py-10">
+            <section id="karsilastirma" className="scroll-mt-6 border-t border-[#d9d2c9] py-10">
               <p className="mb-3 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
                 KARŞILAŞTIRMA
               </p>
@@ -221,24 +268,24 @@ export function SymbolPage({
 
               <div className="mt-7 grid overflow-hidden rounded-xl border border-[#d9d1c7] bg-[#faf8f4] md:grid-cols-2 md:divide-x md:divide-[#ded6cc]">
                 {symbol.commonGround && (
-                  <div className="px-7 py-6">
+                  <div className="px-5 py-6 sm:px-7">
                     <p className="mb-4 text-[10px] uppercase tracking-[0.22em] text-[#81786e]">
                       YAKINLAŞAN NOKTALAR
                     </p>
 
-                    <div className="text-[14px] leading-7 text-[#625c54]">
+                    <div className="text-base leading-7 text-[#625c54] sm:text-[14px]">
                       {symbol.commonGround}
                     </div>
                   </div>
                 )}
 
                 {symbol.differences && (
-                  <div className="border-t border-[#ded6cc] px-7 py-6 md:border-t-0">
+                  <div className="border-t border-[#ded6cc] px-5 py-6 sm:px-7 md:border-t-0">
                     <p className="mb-4 text-[10px] uppercase tracking-[0.22em] text-[#81786e]">
                       AYRILAN NOKTALAR
                     </p>
 
-                    <div className="text-[14px] leading-7 text-[#625c54]">
+                    <div className="text-base leading-7 text-[#625c54] sm:text-[14px]">
                       {symbol.differences}
                     </div>
                   </div>
@@ -248,8 +295,8 @@ export function SymbolPage({
           )}
 
           {symbol.inusAssessment && (
-            <section className="border-t border-[#d9d2c9] py-10">
-              <div className="rounded-xl border border-[#ddd5cb] bg-[#eee8df] px-8 py-8">
+            <section id="baglam" className="scroll-mt-6 border-t border-[#d9d2c9] py-10">
+              <div className="rounded-xl border border-[#ddd5cb] bg-[#eee8df] px-5 py-6 sm:px-8 sm:py-8">
                 <p className="mb-3 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
                   INUS DEĞERLENDİRMESİ
                 </p>
@@ -266,7 +313,7 @@ export function SymbolPage({
           )}
 
           {symbol.commonVariations?.length > 0 && (
-            <section className="border-t border-[#d9d2c9] py-10">
+            <section id="ayrintilar" className="scroll-mt-6 border-t border-[#d9d2c9] py-10">
               <p className="mb-3 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
                 RÜYANIN AYRINTILARI
               </p>
@@ -280,13 +327,13 @@ export function SymbolPage({
                   (variation, index) => (
                     <div
                       key={`${variation.title}-${index}`}
-                      className="grid gap-3 border-b border-[#e1dad1] px-6 py-4 last:border-b-0 sm:grid-cols-[0.28fr_0.68fr] sm:gap-6"
+                      className="grid gap-3 border-b border-[#e1dad1] px-5 py-4 last:border-b-0 sm:px-6 sm:grid-cols-[0.28fr_0.68fr] sm:gap-6"
                     >
-                      <h3 className="text-[14px] font-medium">
+                      <h3 className="text-base font-medium sm:text-[14px]">
                         {variation.title}
                       </h3>
 
-                      <p className="text-[13px] leading-6 text-[#625c54]">
+                      <p className="text-base leading-7 text-[#625c54] sm:text-[13px] sm:leading-6">
                         {variation.description}
                       </p>
                     </div>
@@ -330,7 +377,7 @@ export function SymbolPage({
           </section>
 
           {symbol.faq?.length > 0 && (
-            <section className="border-t border-[#d9d2c9] py-10">
+            <section id="sorular" className="scroll-mt-6 border-t border-[#d9d2c9] py-10">
               <p className="mb-3 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
                 MERAK EDİLENLER
               </p>
@@ -345,7 +392,7 @@ export function SymbolPage({
                     key={`${item.question}-${index}`}
                     className="group border-b border-[#e1dad1] last:border-b-0"
                   >
-                    <summary className="flex cursor-pointer list-none items-center justify-between gap-6 px-6 py-4 text-[14px]">
+                    <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-5 py-4 text-base focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-[#625c54] sm:gap-6 sm:px-6 sm:text-[14px]">
                       <span>{item.question}</span>
 
                       <span className="text-lg font-light transition group-open:rotate-45">
@@ -353,7 +400,7 @@ export function SymbolPage({
                       </span>
                     </summary>
 
-                    <div className="max-w-3xl px-6 pb-5 text-[13px] leading-6 text-[#625c54]">
+                    <div className="max-w-3xl px-5 pb-5 text-base sm:px-6 leading-7 text-[#625c54] sm:text-[13px] sm:leading-6">
                       {item.answer}
                     </div>
                   </details>
@@ -363,7 +410,7 @@ export function SymbolPage({
           )}
 
           {relatedSymbols.length > 0 && (
-            <section className="border-t border-[#d9d2c9] py-10">
+            <section id="ilgili-semboller" className="scroll-mt-6 border-t border-[#d9d2c9] py-10">
               <p className="mb-3 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
                 KEŞFET
               </p>
@@ -397,7 +444,7 @@ export function SymbolPage({
             </section>
           )}
 
-          <section className="border-t border-[#d9d2c9] py-10">
+          <section id="kaynaklar" className="scroll-mt-6 border-t border-[#d9d2c9] py-10">
             <div className="grid gap-8 sm:grid-cols-[1fr_auto] sm:items-end">
               <div>
                 <p className="mb-3 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">
@@ -461,36 +508,6 @@ export function SymbolPage({
             </Link>
           </div>
 
-          <div className="flex flex-wrap gap-5">
-            <a
-              href={SOCIAL_PROFILES.instagram}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Instagram
-            </a>
-            <a
-              href={SOCIAL_PROFILES.youtube}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              YouTube
-            </a>
-            <a
-              href={SOCIAL_PROFILES.x}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              X
-            </a>
-            <a
-              href={SOCIAL_PROFILES.tiktok}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              TikTok
-            </a>
-          </div>
         </footer>
       </div>
     </main>

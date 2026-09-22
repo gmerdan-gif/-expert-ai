@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { SocialLinks } from "@/components/site/SocialLinks";
 import { SOCIAL_PROFILE_URLS } from "@/lib/site/social";
 
 const geistSans = Geist({
@@ -108,6 +109,7 @@ export default function RootLayout({
 
       <body className="min-h-full flex flex-col">
         {children}
+        <SocialLinks />
       </body>
     </html>
   );
