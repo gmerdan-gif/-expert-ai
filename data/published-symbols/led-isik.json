@@ -1,0 +1,253 @@
+{
+  "slug": "led-isik",
+  "title": "LED ışık",
+  "shortDescription": "Rüyalarda görülen LED ışık, modern teknolojinin kontrollü ve odaklı aydınlatma işleviyle bilinç, farkındalık ve görünürlük temalarını birleştiren bir semboldür.",
+  "positiveAssociations": [
+    "İçgörü ve netlik",
+    "Farkındalığın artması",
+    "Doğru yönü bulma",
+    "Gizli kalmış bir durumun aydınlanması"
+  ],
+  "challengingAssociations": [
+    "Yanıp sönen ışıkla temsil edilen istikrarsız dikkat",
+    "Güvenilmez veya yapay bir aydınlanma kaynağı",
+    "Zihinsel olarak aşırı odaklanma veya yorucu bir parlaklık",
+    "Parçalı algı"
+  ],
+  "contextDependentAssociations": [
+    "Işığın rengi, parlaklığı ve sabit olup olmadığı anlamı doğrudan değiştirir.",
+    "Işığın neyi aydınlattığı (bir nesne, karanlık bir oda veya boşluk) rüyanın odak noktasını belirler.",
+    "Rüya görenin uyku sırasında dışsal görsel uyaranlara maruz kalmış olabileceği ihtimali göz önünde bulundurulmalıdır."
+  ],
+  "commonVariations": [
+    {
+      "title": "Karanlık bir odada sabit yanan beyaz bir LED ışık",
+      "description": "Zihinde uzun süredir belirsiz olan bir konunun netleşmesine, gerçeğin açığa çıkmasına ve odaklanma hissine işaret eder."
+    },
+    {
+      "title": "Yanıp sönen veya arızalı bir LED şerit ışık",
+      "description": "Kararsızlığı, istikrarsız dikkati, kopuk düşünce akışını veya tam olarak çözülememiş bir meseleyi simgeler."
+    },
+    {
+      "title": "Çok parlak ve göz alan renkli bir LED lamba",
+      "description": "Bir uyarıcı durumu, dikkat çekme isteğini veya kişinin hayatındaki aşırı yapay uyaranlara karşı duyarlılığını işaret eder."
+    },
+    {
+      "title": "Loş bir alanda taşınan küçük bir LED fener",
+      "description": "Belirsizlik dönemlerinde kişinin kendi içsel rehberliğine tutunma çabasını ve farkındalığını koruma arzusunu yansıtır."
+    }
+  ],
+  "psychology": "Ampirik psikoloji araştırmaları, görsel uyaranların rüya içeriğine kısmen girebildiğini ve dışsal ışık uyaranlarının rüyada bazen yanıp sönen ışıklar ya da aydınlanan nesneler şeklinde temsil edilebildiğini göstermektedir. Ancak bu durum, belirli bir nesne olan LED ışığın rüyada her zaman özel ve sabit bir sembolik karşılığı olduğu anlamına gelmez. Psikanalitik çerçevede ise ışık, doğrudan teknik bir nesne olarak ele alınmasa da görünürlük ve açığa çıkma ekseninde okunabilir; bu bağlamda rüyada ışık görmek, bastırılmış ya da örtük bir içeriğin bilince yükselme arzusunu temsil edebilir.",
+  "jungian": "Analitik psikoloji perspektifinde semboller, bilinçte tam olarak kavranamayan psikik içerikleri somut imgeler aracılığıyla taşır. Işık, çoğunlukla bilinç ve görme yetisiyle, dolayısıyla bilinçdışından gelen içeriğin farkındalığa taşınmasıyla ilişkilendirilir. Parlak veya ani ışık imgeleri, Jungcu çerçevede aydınlanma, içgörü veya Benlik ile temas olasılığını barındırır. Küçük bir ışığı taşımak ise bireyin kişisel bilincini ve içsel anlayışını koruma çabasını simgeleyebilir.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik okumasında ışık, Tanrı'nın varlığı, vahiy, kutsallık ve ilahi rehberlik ile ilişkilendirilir. Rüyadaki ışık imgesi, genellikle ruhsal açıklık ve görünmeyenin açığa çıkması olarak yorumlanır. Yapay bir ışık kaynağı olan fener veya lamba benzeri imgeler ise belirsizlik dönemlerinde ilahi rehberliğin aranması ve gizli olanın ortaya çıkması temasıyla bağdaştırılabilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar yorumlanabilir nitelikte kabul edilir ve anlam büyük ölçüde yorumla şekillenir. Işık, bu gelenekte bilgi, canlılık ve ilahi rehberlikle ilişkilendirilen güçlü bir semboldür. Modern bir nesne olan LED ışık, doğrudan klasik metinlerde yer almasa da, ışığın taşıdığı aydınlanma ve netleşme çağrışımları üzerinden okunmaya elverişlidir.",
+  "buddhistEasternApproaches": "Tibet Budizmi ve ilgili geleneklerde ışık ve parlaklık, zihinsel açıklık ve nihai hakikatle ilişkilendirilir. Mahayana Budizmi perspektifinde ışık imgeleri, geçicilik ve görüngülerin doğası üzerine öğretici bir nitelik taşıyabilir; bu nedenle rüyadaki ışık, kesin bir kehanetten ziyade farkındalık ve boşluk bilincine işaret eden bir simge olarak değerlendirilebilir.",
+  "spiritualApproaches": "Ezoterik ve teosofik okumalarda ışık, bilinç, kavrayış ve bilginin temel simgelerinden biridir. LED ışığın parlak, kontrollü ve modern formu, dış dünyada seçici odaklanmayı, bilinçli farkındalık artışını veya zihinsel olarak bir konunun özellikle aydınlatılması ihtiyacını çağrıştırır.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Görünür kılma, örtük içeriğin bilince yükselmesi ve görme isteği.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Bilinçdışından gelen içeriğin farkındalığa taşınması ve içgörü.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "İlahi rehberlik, vahiy, açıklık ve belirsizlikte yol bulma.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik Yaklaşım",
+      "interpretation": "Zihinsel odaklanma, kontrollü farkındalık ve bilincin aydınlanması.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler arasında ışık; karanlığın zıddı olarak bilinç, açıklık, rehberlik ve gizli olanın açığa çıkması ekseninde ortak bir sembolik zemin paylaşır.",
+  "differences": "Yaklaşımlar arasındaki temel fark, ışığın kaynağına ve niteliğine yüklenen anlamda ortaya çıkar; kimileri bunu ruhsal bir vahiy veya ilahi rehberlik olarak ele alırken, kimileri psikolojik farkındalık ve zihinsel netleşme olarak yorumlar.",
+  "inusAssessment": "Rüyadaki LED ışık sembolü, klasik ışık arketiplerinin modern, kontrollü ve teknik bir formda rüya sahnesine yansımasını temsil eder. Bu sembolü değerlendirirken ışığın sürekli mi yandığı, yoksa yanıp sönerek dikkatin kararsız biçimde yön değiştirdiğini mi gösterdiği kritik bir ayrım noktasıdır. Sabit ve berrak bir aydınlatma zihinsel netleşmeye ve içgörüye işaret ederken, kesintili veya göz alıcı yapay parlaklıklar geçici uyarıcılara veya odak dağılmasına delalet edebilir. Bu nedenle rüyanın taşıdığı duygusal ton ve ışığın sunduğu görünürlük biçimi, yorumun yönünü belirleyen en önemli unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada LED ışık görmek kesin bir anlama gelir mi?",
+      "answer": "Hayır, rüyadaki ışığın rengi, parlaklığı, sabitliği ve rüya görenin uyanık yaşamındaki bağlamı sembolün anlamını doğrudan değiştirir; kesin ve tek bir kehanet içermez."
+    },
+    {
+      "question": "Yanıp sönen bir LED ışık rüyası neye işaret edebilir?",
+      "answer": "Ezoterik ve psikolojik okumalarda yanıp sönen ışık, istikrarsız dikkati, parçalı algıyı veya zihinsel olarak tam çözülememiş bir meseleyi düşündürebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Influencing dreams through sensory stimulation: A systematic review",
+      "relevance": "Uyaranların rüya içeriğine nasıl girebildiğini ve ışık uyarılarının rüyada hangi biçimlerde temsil edilebildiğini gösteren sistematik gözden geçirme.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11009489/"
+    },
+    {
+      "title": "Effect of Visual Stimuli on Dream Content - Allan Rechtschaffen, David Foulkes, 1965",
+      "relevance": "Aydınlatılmış görsel nesnelerin uyku sırasında rüya içeriğine sınırlı ve özgül olmayan biçimde yansıyabildiğini inceleyen deneysel çalışma.",
+      "url": "https://journals.sagepub.com/doi/10.2466/pms.1965.20.3c.1149"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyaların dilek doyumu ve bilinçdışı içeriklerle ilişkisini kuran temel metin; ışık imgesi için doğrudan değil, psikanalitik yorum çerçevesi sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "A Library Guide to Jung's Collected Works: Symbol",
+      "relevance": "Jung’un sembol anlayışını ve ışık imgelerinin bilinmeyeni görünür kılma işlevini açıklayan pasajlar içerir.",
+      "url": "https://pacifica.libguides.com/Jung/symbol"
+    },
+    {
+      "title": "Jung: The Man and His Symbols",
+      "relevance": "Jung’un kişisel anlatısında taşıdığı küçük ışık, bilinç ve anlayışın simgesi olarak sunulur.",
+      "url": "https://www.psychologytoday.com/us/blog/hide-and-seek/201204/jung-the-man-and-his-symbols"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorum geleneğinde ışık ve lamba imgelerinin nasıl anlamlandırıldığını gösteren temel kaynak.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidorus’un rüya kitabının kapsamını ve antik rüya yorumundaki yerini özetleyen kaynak.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Light, Shadow, and Dream in Turkish Culture",
+      "relevance": "Işığın rüyalarda doğru yol ve aydınlanma ile ilişkilendirilmesini ele alan kültürel tarih çalışması.",
+      "url": "https://kureansiklopedi.com/en/detay/light-shadow-and-dream-in-turkish-culture-4106e"
+    },
+    {
+      "title": "[PDF] The Interpretation of Dreams by Artemidorus - Bookey",
+      "relevance": "Lamba ve ay ışığı ilişkisi üzerinden rüyada güvenilmez ışık kaynağı temasını aktaran pasaj.",
+      "url": "https://cdn.bookey.app/files/pdf/book/en/the-interpretation-of-dreams-by-artemidorus.pdf"
+    },
+    {
+      "title": "Concept of Light Over The Course of Time: Symbolism During ...",
+      "relevance": "Işığın Grek düşüncesinde hakikat ve bilgiyle bağlantısını özetleyen çalışma.",
+      "url": "https://ijmejournal.org/ijme/index.php/ijme/article/download/v27-1-10/v27-1-10/v27-1-10.pdf"
+    },
+    {
+      "title": "The Antecedents of the Experience of Light in Dreams",
+      "relevance": "Işığın rüya ve vizyonlarda içsel ışık, vecd ve ruhsal deneyimlerle ilişkilendiğini tartışan akademik çalışma.",
+      "url": "https://scholarworks.utrgv.edu/cgi/viewcontent.cgi?article=1093&context=coun_fac"
+    },
+    {
+      "title": "Dreams about light Islamic Interpretations Explanation",
+      "relevance": "Işık sembolünü İslami rüya yorumunda hidayet, İslam, salih amel, bilgi ve Kur’an ile ilişkilendiren modern aktarım.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=light"
+    },
+    {
+      "title": "Apostle David E. Taylor [Official Site] - Joshua Media Ministries Int'l.",
+      "relevance": "Hristiyan rüya dilinde ışığın Tanrı, Mesih, vahiy, kutsallık ve ilahi görünümle ilişkilendirilmesini anlatır; rüyadaki ışık imgesi için doğrudan sembolik çerçeve sunar.",
+      "url": "https://joshuamediaministries.org/dreams/light/"
+    },
+    {
+      "title": "Biblical meaning of light in dreams | Biblical Dream Meanings ...",
+      "relevance": "Kutsal kitap merkezli okumada ışığın yaratılış, açıklık, kutsallık ve Tanrı’nın yönlendirmesiyle ilişkisini özetler; rüya bağlamında ışık sembolüne teolojik zemin sağlar.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-light-in-dreams"
+    },
+    {
+      "title": "Light - Encyclopedia of The Bible",
+      "relevance": "Işığın Tanrı ile uyumlu olanı, karanlığın ise kötülüğü temsil ettiğini açıklar; ışık/karanlık karşıtlığının Hristiyan sembolik yorumuna temel sağlar.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Light"
+    },
+    {
+      "title": "Light Meaning - Bible Definition and References",
+      "relevance": "İncil geleneğinde ışığın uyanıklık, korunma ve göksel yaşamla ilişkilendirildiğini derler; sembolün Hristiyan yorumsal kapsamını destekler.",
+      "url": "https://www.biblestudytools.com/dictionary/light/"
+    },
+    {
+      "title": "Flashlight dream meaning | Biblical Dream Meanings | BibleStep",
+      "relevance": "Rüyadaki el fenerini belirsizlikte rehberlik ve gizli olanın açığa çıkmasıyla ilişkilendirir; yapay ışık nesneleri için Hristiyan rüya-okumasında yakın bir karşılaştırma sunar.",
+      "url": "https://biblestep.com/dreams/flashlight-dream-meaning"
+    },
+    {
+      "title": "Berakhot.55b.1-56a.19 | The Sefaria Library",
+      "relevance": "Rüyaların yorumlanabilir oluşunu ve anlamın yorumla ilişki kurduğunu gösteren temel Talmudik çerçeve.",
+      "url": "https://www.sefaria.org/Berakhot.55b.1-56a.19?lang=en"
+    },
+    {
+      "title": "lecture",
+      "relevance": "Rüya yorumcuları ve yorumların gerçekleşmesi temasını gösteren pasaj; rüya anlamının sabit değil yorumla ilişkili olduğunu destekler.",
+      "url": "http://files.eshkolot.ru/lecture.pdf"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Rüya imgelerinin tek tek semboller halinde yorumlanabildiğini gösteren talmudik malzeme.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Yahudi rüya geleneğinin temel ilkelerini, rüyaların yoruma açık oluşunu ve anlamın yorumla şekillenmesini özetleyen modern derleme.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Yahudi metinlerinde ışık, ilahî rehberlik ve açıklıkla ilişkilendirilen sembolik alanı görünür kılan toplu metin sayfası.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "The Soul, Gilgulim or Reincarnation, & Dreams? Part 1 - The Netsarim",
+      "relevance": "Yahudi düşüncesinde ışığın bilgi ve canlılıkla ilişkilendirilmesini açıkça formüle eden metin; ışık sembolizmi için yararlı bağlam sağlar.",
+      "url": "https://netsarim.com/the-soul-gilgulim-or-reincarnation-dreams-part-1/"
+    },
+    {
+      "title": "Microsoft Word - Gillespie.docx",
+      "relevance": "Tibet Budizmi ve lucid rüya bağlamında ışığın ruhsal önemini ve 'clear light' (açık ışık) kavramını ele alır.",
+      "url": "https://journals.macewan.ca/lucidity/article/download/673/589/2034"
+    },
+    {
+      "title": "A Study For The Symbolization Of The Light Of The Buddha's Ūrņakośa In The Lotus Sutra",
+      "relevance": "Lotus Sūtra bağlamında Buda ışığının hakikati, eşitliği ve merhameti simgelediğini tartışır.",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002315393"
+    },
+    {
+      "title": "<법화경>에 나타난 ‘백호대광(白毫大光)’의 상징성 고찰",
+      "relevance": "Lotus Sūtra’daki ‘beyaz ışık’ ve Buda ūrṇakośa ışığının sembolik anlamını açıklar.",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002315393"
+    },
+    {
+      "title": "Light: Significance and symbolism",
+      "relevance": "Budizm’de ışığın aydınlanma, bilgelik ve gizli hakikatlerin açığa çıkışıyla ilişkisini özetler.",
+      "url": "https://www.wisdomlib.org/concept/light"
+    },
+    {
+      "title": "Amitabha Buddha’s Twelve Kinds of Light: A Brief Explication",
+      "relevance": "Amitabha ışıkları üzerinden ışığın merhamet, bilgelik ve korunma çağrışımlarını işler.",
+      "url": "https://amida.dk/lights.pdf"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams - Urban Dharma",
+      "relevance": "Mahayana Budizminde rüyaların geçicilik ve boşluk için benzetme olarak kullanıldığını açıklar.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "[PDF] The Light-Emitting Image of Magadha in Tang Buddhist Art",
+      "relevance": "Budist sanatta ışığın aydınlanma ve hakikatin sezgisel olarak tanınmasıyla bağlantısını inceler.",
+      "url": "https://uva.theopenscholar.com/files/dorothy-wong/files/wong_the_light-emitting_image_of_magadha_in_tang_buddhist_art.pdf"
+    },
+    {
+      "title": "[PDF] 2 SYMBOLS - Henry T. Laurency",
+      "relevance": "Işık sembolünün ezoterik geleneklerde bilinç, kavrayış ve bilginin simgesi olarak ele alınışını açıklar; LED ışığın yorumunda temel sembolik çerçeve sağlar.",
+      "url": "https://www.laurency.com/L3e/L3e2.pdf"
+    },
+    {
+      "title": "18 TERMINOLOGY AND SYMBOLISM",
+      "relevance": "Esoterik sembolizmde ışığın farklı bilinç durumlarıyla ilişkisini anlatır; modern bir ışık formu olan LED için 'aydınlatma' ve 'farkındalık' okumasına zemin verir.",
+      "url": "https://neoterra-theosophy.com/biblio/laurency/wm18.pdf"
+    },
+    {
+      "title": "Light",
+      "relevance": "Işığın teosofik ve ezoterik literatürde ruhsal gerçekleşme, aydınlanma ve bilinç açıklığıyla nasıl ilişkilendirildiğini özetler.",
+      "url": "https://theosophy.world/encyclopedia/light"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}
