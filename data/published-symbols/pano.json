@@ -1,0 +1,180 @@
+{
+  "slug": "pano",
+  "title": "pano",
+  "shortDescription": "Rüyada pano görmek; dikkat edilmesi gereken bilgiler, hatırlatmalar, planlar veya zihni meşgul eden konularla ilişkilendirilebilir. Panonun boş ya da dolu olması, üzerinde ne bulunduğu ve rüyada uyandırdığı duygu yorumu belirgin biçimde etkiler.",
+  "positiveAssociations": [
+    "Zihinsel netlik ve düzen",
+    "Önemli bilgilerin veya hatırlatıcıların göz önünde tutulması",
+    "Hedeflere odaklanma",
+    "İletişim ve paylaşım"
+  ],
+  "challengingAssociations": [
+    "Aşırı bilgi yükü veya zihinsel dağınıklık",
+    "Beklentiler altında sıkışmışlık hissi",
+    "Sınırlandırılmış veya çerçevelenmiş olma duygusu",
+    "Gündelik sorumlulukların baskısı",
+    "Görsel veya dikkat dağınıklığı yaratan karmaşa"
+  ],
+  "contextDependentAssociations": [
+    "Panonun boş ya da dolu olması",
+    "Panoya yazılan yazıların veya asılan nesnelerin içeriği",
+    "Rüya sırasında hissedilen duygulanım",
+    "Panonun ev, okul, iş yeri veya kamusal bir alanda konumlanması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Üzerinde Notlar Bulunan Yazı Panosu",
+      "description": "Rüyada üzerinde kâğıtlar, yapışkan notlar veya hatırlatıcılar asılı bir yazı panosu görmek, uyanık yaşamda zihinsel olarak takip edilmesi gereken sorumluluklara, planlara ve hafızada tutulması gereken detaylara işaret edebilir."
+    },
+    {
+      "title": "Tamamen Boş Bir Pano",
+      "description": "Üzerinde hiçbir şey bulunmayan, tamamen boş bir pano görmek; yeni bir başlangıç yapma isteğine, zihinsel bir sayfa açma ihtiyacına ya da belirsizlik duygusuna bağlanabilir."
+    },
+    {
+      "title": "Okul veya Ofis Ortamında Büyük Bir Pano",
+      "description": "Tanıdık bir çalışma veya eğitim ortamında büyük bir pano ile karşılaşmak, toplumsal roller, performans beklentileri veya bir gruba ait olma ve bilgi paylaşımı temalarıyla ilişkilendirilebilir."
+    },
+    {
+      "title": "Üzerine Yağmur Yağan Dış Mekân Panosu",
+      "description": "Açık havada bulunan bir panonun üzerine yağmur yağdığını görmek; duygusal tazelenme ve planlarda değişim çağrışımı taşıyabileceği gibi, dışsal koşulların yarattığı sınanma veya dönüşüm imgeleri de barındırabilir. (Yağmurun olumlu veya uyarıcı yönleri bağlama göre farklılaşır.)"
+    }
+  ],
+  "psychology": "Ampirik psikoloji araştırmaları, rüyada görülen görsel içeriklerin ve nesnelerin rüya görenin uyanıklık durumundaki duygulanımı ile sınırlı ama ölçülebilir düzeyde bağlantılı olabileceğini göstermektedir. Hatırlanan rüyaların bir bölümü gün içi ruh halini etkileyebilir; ancak bu durum, panonun rüyada tek başına sabit ve evrensel bir psikolojik karşılığı olduğu anlamına gelmez. Görsel öğeler, rüyanın sahnesi ve uyandıktan sonra raporlanan duygu tonuyla birlikte bütüncül olarak ele alınmalıdır.",
+  "jungian": "",
+  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında doğrudan 'pano' maddesi bulunmamaktadır. Bununla birlikte, modern ve geleneksel bazı derlemelerde ahşap levha, yazı tahtası veya ‘لوح’ (levh) kavramı üzerinden yapılan değerlendirmelerde, yazı yazılan ahşap yüzeyler ilim, korunma, öğüt, hatırlatma veya ailevi bağlar gibi temalarla ilişkilendirilmektedir. Ancak bu benzeşmeler doğrudan 'pano' kelimesinin birebir karşılığı olmayıp, bağlama göre değişen ikincil yorum çerçeveleridir.",
+  "christianTraditions": "Hristiyan sembolizminde rüyada görülen panoya eşlik edebilecek unsurlardan biri olan yağmur, Tanrı’nın bereketi, lütfu ve ruhsal tazelenme imgesiyle ilişkilendirilebilir; aynı zamanda yağmurun şiddeti veya bağlamı yargı, sınanma ya da taşkınlık ima edebilir. Bu nedenle rüyadaki çevresel detaylar yorumun yönünü belirlemede etkilidir.",
+  "jewishTraditions": "Talmudik gelenekte (örneğin Berakhot bağlamında) rüyalar anlamlı kabul edilir ve rüya yorumunun etkisi vurgulanır; ancak 'pano' sembolü için doğrudan rabbanî bir rüya eşlemesi bulunmamaktadır. Bu nedenle Yahudi rüya yaklaşımı, rüyaların genel yorum ilkeleri ile sembolün bağlamını birlikte ele alan ihtiyatlı bir çerçeve sunar.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Rüyadaki nesnelerin ve görsel içeriklerin gün içi duygu durumuyla olan olası bağını ve kişisel algı sürekliliğini inceler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Teori",
+      "interpretation": "Panoyu mimari bir yüzey veya manifest içeriğin parçası olarak ele alarak latent düşüncelere açılan çağrışımsal bir zemin biçiminde değerlendirir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel / İslami Yaklaşım",
+      "interpretation": "Levha veya yazı tahtası benzeri kavramlar üzerinden ilim, öğüt ve hatırlatma gibi ikincil anlam katmanlarıyla bağdaştırabilir.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımların ortaklaştığı temel nokta, pano gibi bir nesnenin tek başına sabit bir rüya anlamı taşımadığıdır. Yorumda panonun üzerinde ne bulunduğu, rüyanın genel bağlamı ve rüya görenin kişisel çağrışımları birlikte değerlendirilmelidir.",
+  "differences": "Psikolojik ve ampirik yaklaşımlar rüya içeriğini bireyin duygulanımı ve zihinsel süreçleriyle sınırlar; psikanalitik yaklaşım bilinçdışı arzuların maskelenmiş ifadesine odaklanır; geleneksel ve kültürel yaklaşımlar ise metinsel veya sembolik benzeşmeler üzerinden manevi ve öğüt nitelikli katmanlar arar.",
+  "inusAssessment": "Rüyada pano görmek, zihinsel alanın, hatırlatıcıların ve odak noktalarının görsel bir yansıması olarak ortaya çıkabilir. Panonun boş, yazılı, kalabalık ya da dış etkilere maruz kalmış olması, rüya görenin uyanık yaşamdaki zihinsel yükünü, planlarını veya bilgi akışını nasıl yapılandırdığına dair ipuçları verebilir. Bu nedenle yorumda panonun kendisinden çok, üzerinde ne bulunduğuna ve rüya sırasında hissedilen duygulara dikkat etmek gerekir.",
+  "faq": [
+    {
+      "question": "Rüyada pano görmek ne anlama gelir?",
+      "answer": "Rüyada pano görmek, sabit bir tek manaya sahip değildir. Panonun boş ya da dolu olması, üzerinde ne yazıldığı ve rüya görenin uyandığında hissettiği duygu, bu sembolün zihinsel odaklanma, hatırlatma veya bilgi yükü ile olan ilişkisini belirler."
+    },
+    {
+      "question": "Boş bir pano görmek ile dolu bir pano görmek arasında fark var mıdır?",
+      "answer": "Evet. Üzerinde notlar ve yazılar bulunan pano zihinsel meşguliyetleri, sorumlulukları ve hatırlatıcıları çağrıştırırken; tamamen boş bir pano yeni bir zihinsel başlangıç, belirsizlik veya temiz bir sayfa açma isteğini temsil edebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Perceived Change in the Affect Associated With Dreams",
+      "relevance": "Rüya duygusunun uyanıklık duygulanımıyla ilişkisini ve raporlanan rüya örneklerinin zamanlamasını ele alan çalışma; görsel rüya içeriklerinin duygusal bağlamla değerlendirileceğine dair ampirik destek sağlar.",
+      "url": "https://www.niu.edu/jskowronski/publications/RitchieSkowronski2008.pdf"
+    },
+    {
+      "title": "Effects of dreams on daytime mood - Heidelberger OJS-Journals",
+      "relevance": "Hatırlanan rüyaların gündüz ruh haline etkisini ölçen çalışma; rüyanın duygu sürekliliği ve panoya benzer görsel içeriklerin uyandırdığı duyguların uyanıklıkta iz bırakabileceği fikrini destekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/libraryFiles/downloadPublic/959"
+    },
+    {
+      "title": "Manifestations of emotional memories in written and visual ...",
+      "relevance": "Yazılı ve görsel rüya raporlarında sembol, sahne ve duygu öğelerinin birlikte incelenmesini anlatan çalışma; pano gibi görsel öğelerin tek başına değil sahne ve duygu bağlamında okunması gerektiğini vurgular.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/110871/109010"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramı; manifest içerik ve latent içerik ayrımı üzerinden panonun çağrışımsal ve bağlama bağlı okunmasının gerekçesini sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud’un mimari yüzeylere ilişkin örnekleri; düz yüzey imgelerinin rüya bağlamında destek, sınır veya yüzey çağrışımı oluşturabileceğini gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "tablet | British Museum",
+      "relevance": "Mezopotamya’da rüya yorumuna ilişkin kurumsal uygulamaları belgeleyen arkeolojik kayıt; tarihsel rüya yorum geleneğinin varlığını gösterir, ancak 'pano'ya doğrudan bir eşleme sağlamaz.",
+      "url": "https://www.britishmuseum.org/collection/object/W_1881-0706-30"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Greko-Romen rüya el kitabı; tarihsel rüya yorumunda bağlamsal okumanın önemini ve sembol anlamlarının rüyanın türüne göre değiştiğini gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’taki yorumların formül yapısını ve rüya ile rüya görenin özellikleri arasındaki bağlantıyı açıklar.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidorus’un *Oneirocritica*’sını antik dönemin kapsamlı rüya el kitabı ve sınıflandırma metni olarak tanıtır.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "An Ancient Dream Manual",
+      "relevance": "Artemidorus’un rüya kitabını, rüyaları sınıflandıran ve yorum araçları sunan klasik bir metin olarak tanımlar.",
+      "url": "https://api.pageplace.de/preview/DT0400.9780192582010_A39129786/preview-9780192582010_A39129786.pdf"
+    },
+    {
+      "title": "تفسير حلم «لوح» في المنام عند النابلسي وابن شاهين",
+      "relevance": "Geleneksel İslami kaynaklarda 'لوح' (levh/tahta) maddesine ilişkin bir derleme; pano ile yakınlığı bakımından ahşap levha ve yazı levhasının ilim, hatırlatma ve aile bağları gibi temalarla ilişkilendirilebileceğini aktaran modern bir çalışmadır.",
+      "url": "https://ruyati.com/symbols/%D9%84%D9%88%D8%AD"
+    },
+    {
+      "title": "تفسير حلم اللوح: دلالاته ومعانيه عند ابن سيرين والنابلسي",
+      "relevance": "İslami rüya tabirlerinde 'levha' maddesinin çeşitli anlam katmanlarını derleyen içerik; 'pano' için doğrudan klasik giriş bulunmadığında kullanılabilecek yakın bir çerçeve sunar.",
+      "url": "https://mana.ms/blog/ar/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%AD%D9%84%D9%85-%D8%A7%D9%84%D9%84%D9%88%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85"
+    },
+    {
+      "title": "Meaning Of Rain In The Dream - Evangelist Joshua Ministries",
+      "relevance": "Modern Hristiyan yorum örneği; yağmurun rüyalarda bereket, yenilenme ve bazen sınanma/uyarı çağrışımı taşıyabileceğine dair popüler çerçeve sunar (pano ile ilişkisi bağlamsaldır).",
+      "url": "https://evangelistjoshua.com/meaning-of-rain-in-the-dream/"
+    },
+    {
+      "title": "Biblical Meaning of Rain in a Dream (KJV) - Bible Sundays",
+      "relevance": "Hristiyan sembolizminde yağmurun olumlu ve olumsuz yönlerinin yorumlandığını gösteren modern derleme; pano içindeki yağmur detayının anlamını bağlama göre değiştirebileceğini destekler.",
+      "url": "https://www.biblesundays.com/dream-meanings/rain"
+    },
+    {
+      "title": "Topical Bible: Rain: God Causes, to Come Down",
+      "relevance": "Kutsal Kitap’ta yağmurun Tanrı’nın sağladığı bir unsur ve egemenlik göstergesi olarak ele alınışını derleyen kaynak.",
+      "url": "https://biblehub.com/topical/ttt/r/rain--god_causes,_to_come_down.htm"
+    },
+    {
+      "title": "What Does Rain Symbolize In The Bible? | Christian Pure",
+      "relevance": "Yağmurun Hristiyan sembolizminde bereket ve bazı bağlamlarda yargı anlamlarını bir arada ele alan içerik.",
+      "url": "https://christianpure.com/learn/rain-symbolism-bible/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Talmudik rüya tartışmalarını özetleyen kaynak; Yahudi rüya yaklaşımının rüya yorumunu ilişkilere göre ele aldığını ve 'pano' için doğrudan rabbanî eşleme olmadığını gösterir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot.57a.1-57b.22 | The Sefaria Library",
+      "relevance": "Berakhot 57b’de rüyanın peygamberliğe yakınlığı ve bazı klasik rüya imgeleri için yorumlar yer alır; 'pano'ya doğrudan karşılık vermez.",
+      "url": "https://www.sefaria.org/Berakhot.57"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Berakhot’taki rüya tartışmalarını bir araya getiren konu sayfasıdır; Yahudi rüya yorumunun genel yapısını özetler.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}
