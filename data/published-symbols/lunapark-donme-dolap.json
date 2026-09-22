@@ -1,0 +1,187 @@
+{
+  "slug": "lunapark-donme-dolap",
+  "title": "lunapark dönme dolap",
+  "shortDescription": "Rüyada lunaparkta dönme dolap görmek; yükselip alçalma, olaylara farklı bir açıdan bakma, kontrolü bir süreliğine bırakma ve aynı noktaya geri dönme temalarıyla ilişkilendirilebilir. Yorumda yolculuk sırasında hissedilen heyecan, korku veya güven duygusu belirleyicidir.",
+  "positiveAssociations": [
+    "Eğlence/sergi çağrışımı — modernlik ve gösteri nesnesi olma niteliğini vurgular.",
+    "Pasif yolcu konumu — denetim eksikliği ama güvenli sınırlar içinde olma hissi.",
+    "Panoramik bakış — yüksekte kısa süreli geniş perspektif kazanma.",
+    "Geçicilik ve yüzeysellik — anlık heyecan; kalıcı bir dönüşüm zorunluluğunun olmaması.",
+    "Mekanik ritim — duruşlar, yavaşlama ve yeniden hareketlenme gibi periyodik hareketler.",
+    "Topluluk ve kamusal görünürlük — başkalarının önünde olma/seyir nesnesi olma."
+  ],
+  "challengingAssociations": [
+    "Aynı noktaya geri dönme hissi ve rutine sıkışma.",
+    "Kontrolün sınırlı olması — pasif konumda olmanın yarattığı endişe.",
+    "Yükseklik korkusu, yön kaybı veya baş dönmesi.",
+    "Uzun süren duruşlarda asılı kalma/mahcup olma kaygısı.",
+    "Tekrarlayan iniş-çıkışlardan duyulan yorgunluk."
+  ],
+  "contextDependentAssociations": [
+    "Binme anındaki duygu: heyecan mı yoksa korku mu belirleyici olur.",
+    "Dönme dolabın bir lunapark içinde olması — kamusal, eğlencelik ve geçici bir bağlam.",
+    "Kabin tek başına mı kalabalık mı olduğu; yalnızlık veya görünürlük hissini değiştirir."
+  ],
+  "commonVariations": [
+    {
+      "title": "Kabin tepeye ulaşıp durur",
+      "description": "En üstte hareketsiz kalmak, kısa bir süre için ‘yüksek bakış’ ve kararsızlık hissini beraberinde getirir; uzaktan izleme ve değerlendirme anı olabilir."
+    },
+    {
+      "title": "Kabin hızla aşağı iner",
+      "description": "Ani alçalma, beklenmedik konum değişiklikleri ve kontrol kaybı duygusu yaratabilir; yaşamda beklenmedik inişleri çağrıştırabilir."
+    },
+    {
+      "title": "Dönme dolap sürekli aynı turu tekrarlıyor",
+      "description": "Tekrarlayan tur, rutine sıkışma, çıkış aranan döngüsel bir yaşam düzenine işaret edebilir."
+    },
+    {
+      "title": "Kalabalık içinde dönme dolabı izlemek",
+      "description": "Dönme dolabı uzaktan seyretmek, toplumsal olaylara dışarıdan bakma veya kendi yaşamını bir gösteri olarak gözlemleme eğilimini yansıtabilir."
+    }
+  ],
+  "psychology": "Lunapark dönme dolabı için doğrudan ampirik psikoloji çalışması bulunmamaktadır. Psikanalitik perspektifte dönme, tekrar ve pasif yolcu konumu Freud’un tekrarlama itkisi ve regresyon tartışmalarıyla ilişkilendirilebilir; bu, rüya sahibinin geçmişe dönme ya da bastırılmış duygularla tekrar karşılaşma temasıyla bağdaştırılabilir, ancak bu doğrudan ve kesin bir anlam değildir.",
+  "jungian": "Analitik psikolojide dönme dolabının dairesel ve merkez-çevre ilişkisi mandala çağrışımı yaratır; yükselme-alçalma hareketleri bilincin ve bilinçdışının farklı düzlemleri arasında salınımı simgeleyebilir. Bu okumalar dönme dolabının kişisel bütünlük veya yeniden düzenlenme süreçleriyle ilgili imgesel bir rol oynayabileceğini öne sürer, ancak doğrudan Jung metinlerine atfedilebilecek spesifik bir dönme dolap girişi bulunmamaktadır.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan rüya yaklaşımında sembolün anlamı rüyanın uyandırdığı duygu ve kişisel çağrışımlarla biçimlenir. Aynı dönme dolap görüntüsü, rüya sahibinin içsel deneyimindeki korku, heyecan veya teslimiyet duygusuna göre farklı şekilde okunmalıdır.",
+  "jewishTraditions": "Yahudi düşünce çerçevesinde tekerlek benzeri imgeler yükseliş ve düşüş, konum değişimi ve geçicilik temalarıyla ilişkilendirilebilir. Lunapark bağlamındaki dönme dolap, bu genel yükselme ve alçalma imgelemi çerçevesinde temkinli biçimde yorumlanabilir; Talmudik gelenekte rüyaların yorumla yön kazandığı göz önünde bulundurulmalıdır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik okumalarda dönme dolap, yaşamın periyodik yükselme ve alçalma evrelerini ve bunların yolcu açısından yarattığı pasiflik veya geniş perspektif kazanma potansiyelini bir arada çağrıştırır; aynı zamanda tekrara sıkışma hissine ya da kısa süreli aydınlanmalara işaret edebilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Tekrarlama itkisi, regresyon ve pasif yolcu konumunun bastırılmış uyaranlarla ilişkili olabileceği yönünde.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Dairesel form üzerinden merkez-bütünleşme, bilinç-bilinçdışı salınımı ve mandala çağrışımı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Yahudi Geleneksel Çerçevesi",
+      "interpretation": "Yükselme-alçalma ve konum değişimleri temalarını vurgulayan kontrollü bir yorumlama.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Geçici bakış açısı değişimleri, döngü ve ruhsal perspektif kazanımı ekseninde bir okuma.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çalışılan yaklaşımlar, lunapark dönme dolabının özgül özellikleri — dairesel mekanik hareket, yükselme/alçalma deneyimi, yolcunun pasif konumu ve gösteri/sergi niteliği — üzerinden ortak temalar bulur.",
+  "differences": "Psikanalitik okumalar tekrara ve regresyona vurgu yaparken, Jungcu yaklaşım merkezleşme ve bütünleşme temasını öne çıkarır; spiritüel ve geleneksel yorumlar ise gösteri, geçicilik ve perspektif değişimini farklı ağırlıklarla yorumlar.",
+  "inusAssessment": "Lunapark dönme dolabı rüyası, somut olarak bir eğlence ve gösteri nesnesinin mekanik hareketlerini taşıyan bir imgedir; bu nedenle rüyadaki hissiyat (heyecan, sıkışma, hayranlık), lunapark bağlamı (kamusal/özel) ve kabindeki konum gibi ayrıntılar, sembolün hangi çağrışımı taşıdığını belirler. Sembol tek başına sabit bir anlam vermez; yorumda dönme dolabının modernlik, yolcunun pasif rolü ve kısa süreli panoramik bakış gibi kendine özgü özellikleri göz önünde bulundurulmalıdır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud’un rüya kuramı üzerinden bastırılmış istekler, tekrarlama itkisi ve doğuma ilişkin metaforların dönme/iniş-çıkış imgeleriyle nasıl ilişkilendirilebileceğine dair temel çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "The repetition principle of traumatic dreams - PMC - NIH",
+      "relevance": "Travmatik yaşantıların rüyalarda yinelenmesi ve tekrarlama itkisi kavramını açıklayarak döngüsel rüya imgelerinin analizine destek verir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12144281/"
+    },
+    {
+      "title": "Psychoanalysis - Compulsion to Repeat - Sigmund Freud",
+      "relevance": "Bastırılmış yaşantıların ve travmaların rüyalarda tekrar biçiminde geri dönebileceğini belirtir.",
+      "url": "https://www.freudfile.org/psychoanalysis/compulsion_repeat.html"
+    },
+    {
+      "title": "Repetition: Differential Monotony, Affects, Creation",
+      "relevance": "Freud’da tekrarlama itkisi ile rüyaların yineleyici yapısı arasındaki ilişkiyi özetler.",
+      "url": "https://press.ici-berlin.org/doi/10.25620/ci-15/sforzini_repetition.html"
+    },
+    {
+      "title": "Tendency, Repetition, and the Activity of the Mind in ...",
+      "relevance": "Travmatik rüyaların kişiyi tekrar tekrar aynı sahneye geri getiren yapısını tartışır.",
+      "url": "https://link.springer.com/article/10.1007/s10746-024-09717-6?error=cookies_not_supported&code=b7ec9714-2ea8-4c38-8aa9-9e429cc3a34d"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/262",
+      "relevance": "Doğumun rüyalarda suya girme/sudan çıkma gibi ters çevrilmiş imgelerle temsil edilebildiğini örnekler.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/262"
+    },
+    {
+      "title": "Mandala Symbolism",
+      "relevance": "Jung’un dairesel imgeler, merkez ve psikik düzenlenme üzerine görüşleri; dönme dolabın mandala benzeri çağrışımlarına kaynaklık eder.",
+      "url": "https://s3.us-west-1.wasabisys.com/luminist/EB/I-J-K/Jung%20-%20Mandala%20Symbolism.pdf"
+    },
+    {
+      "title": "Dream Symbols of the Individuation Process By C. G. Jung (b)",
+      "relevance": "Jung’un bireyleşme, merkezleşme ve dairesel imgeler arasındaki ilişkiye dair pasajları.",
+      "url": "https://lampmagician.com/2023/09/02/dream-symbols-of-the-individuation-process-by-c-g-jung-b/"
+    },
+    {
+      "title": "Carl Jung and the transformative power of mandalas",
+      "relevance": "Analitik psikolojide mandala ve dairesel imgelerin bütünlük, yeniden yapılanma ve merkezleşme ile ilişkisi.",
+      "url": "https://jungianalchemist.substack.com/p/carl-jung-and-the-transformative"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of the Interpolating ...",
+      "relevance": "Artemidoros’un rüya yorum geleneği ve oneirokritik ayrımlar üzerine akademik tartışma; doğrudan rüya yorumu iddiası yerine tarihsel çerçeve sağlar.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Ferris wheel | Definition, History, & Facts | Britannica",
+      "relevance": "Dönme dolabın modern tarihsel bağlamı ve sergi/eğlence nesnesi olarak kültürel konumuna dair güvenilir tarihsel bilgi sunar.",
+      "url": "https://www.britannica.com/topic/Ferris-wheel"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidoros’un rüya tanımı ve oneirokritik yaklaşımının çevrimiçi çevirisi; tekerlek imgesinin tarihsel rüya yorumu için genel yöntemsel bağlamını sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Dreams",
+      "relevance": "Hristiyan rüya ayıklamasında sembolden önce rüyanın duygusunu, kişisel çağrışımı ve Kutsal Kitap uyumunu gözeten yaklaşımı anlatan makale.",
+      "url": "https://www.premierchristianity.com/home/dreams/1586.article"
+    },
+    {
+      "title": "The Ferris Wheel",
+      "relevance": "Dönme dolap imgesi üzerinden yükseliş, düşüş ve konum değişimi temasını işler; lunapark dönme dolabı sembolü için Yahudi sembolik okuma kurmaya elverişlidir.",
+      "url": "https://www.chabad.org/therebbe/article_cdo/aid/2980177/jewish/The-Ferris-Wheel.htm"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Rüyaların yorumla yön kazanması üzerine Talmudik ilkeyi aktarır; Yahudi rüya yorum geleneğinin genel çerçevesini destekler.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Talmudik bağlamda rüyaların yorumla yön kazandığı ve rüya içeriklerinin manevi içgörülere dönüşebileceği fikrini ortaya koyar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Ferris Wheel - Dream Dictionary Definition",
+      "relevance": "Dönme dolabı rüya bağlamında yaşam döngüleri, duygusal iniş-çıkışlar ve denge arayışıyla ilişkilendiriyor.",
+      "url": "https://dreaminterpreter.ai/dream-dictionary/definition/ferris-wheel"
+    },
+    {
+      "title": "Horoscope today mega-accurate from star astrologer Erich Bauer",
+      "relevance": "Dönme dolabın ruhsal düzlemde tamamlanma, aydınlanma ve sınırsız özgürlük çağrışımlarıyla ele alındığını aktarıyor.",
+      "url": "https://www.astroportal.com/en/dream-interpretation/ferris-wheel/"
+    },
+    {
+      "title": "Ferris Wheel Dream Meaning & Interpretation - Mirror",
+      "relevance": "Dönme dolabın döngüsel hareketi, yükseliş-duruş-alçalma ritmi ve geniş perspektif kazanımıyla bağlantılandırılıyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/ferris-wheel/"
+    },
+    {
+      "title": "Dream About Sitting on a Ferris Wheel? The Surprising Meaning ...",
+      "relevance": "Dönme dolabın aynı noktaya geri dönen döngüsel yapısı ve yolcunun yön veremeyen pasif konumu üzerinden bir okuma sunuyor.",
+      "url": "https://mindpickers.com/en/ferris-wheel-dream"
+    },
+    {
+      "title": "Ferris Wheel Dream Interpretation - Ferris Wheel Dream Meaning",
+      "relevance": "Dönme dolabı yaşam döngüsü, tekrar, eğlence ve durumsal değişim sembolü olarak ele alıyor; ayrıca bir anlık yükselişten sonra iniş fikrini vurguluyor.",
+      "url": "https://www.dreamsmain.com/ferris-wheel"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
+}
