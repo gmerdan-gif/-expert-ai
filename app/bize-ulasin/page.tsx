@@ -1,6 +1,9 @@
+import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
+  title: "Bize Ulaşın",
+  description: "INUS hakkında sorularınızı, içerik düzeltme bildirimlerinizi ve destek taleplerinizi iletin.",
   alternates: {
     canonical: "/bize-ulasin",
   },
@@ -10,9 +13,9 @@ export default function BizeUlasin() {
   return (
     <main className="min-h-screen bg-[#f5f1ea] text-[#24221f]">
       <div className="mx-auto max-w-3xl px-6 py-12 sm:px-8">
-        <a href="/" className="text-lg font-medium tracking-[0.28em]">
+        <Link href="/" className="text-lg font-medium tracking-[0.28em]">
           INUS
-        </a>
+        </Link>
 
         <article className="mt-16">
           <p className="text-xs uppercase tracking-[0.25em] text-[#81786e]">
@@ -43,15 +46,15 @@ export default function BizeUlasin() {
         </article>
 
         <footer className="mt-20 border-t border-[#d9d1c7] pt-6 text-sm text-[#81786e]">
-          <a href="/" className="hover:text-[#686158]">
+          <Link href="/" className="hover:text-[#686158]">
             Ana Sayfa
-          </a>
+          </Link>
 
           <span className="mx-3">·</span>
 
-          <a href="/hakkimizda" className="hover:text-[#686158]">
+          <Link href="/hakkimizda" className="hover:text-[#686158]">
             Hakkımızda
-          </a>
+          </Link>
         </footer>
       </div>
     </main>

@@ -78,7 +78,7 @@ export default function AdSlot({
         data-ad-placement={placement}
         className={`my-10 flex min-h-[120px] items-center justify-center border-y border-[#d9d2c9] text-[10px] uppercase tracking-[0.28em] text-[#9a9288] ${className}`}
       >
-        Advertisement
+        Reklam
       </div>
     );
   }
@@ -92,6 +92,7 @@ export default function AdSlot({
       data-ad-placement={placement}
       className={`my-10 min-h-[120px] ${className}`}
     >
+      <p className="mb-2 text-center text-xs text-[#625c54]">Reklam</p>
       <ins
         className="adsbygoogle block"
         style={{

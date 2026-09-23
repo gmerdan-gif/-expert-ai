@@ -1,6 +1,9 @@
+import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
+  title: "Gizlilik Politikası",
+  description: "INUS gizlilik politikası: rüya metinleri, teknik bilgiler, reklam çerezleri ve iletişim seçenekleri.",
   alternates: {
     canonical: "/gizlilik",
   },
@@ -10,9 +13,9 @@ export default function Gizlilik() {
   return (
     <main className="min-h-screen bg-[#f5f1ea] text-[#24221f]">
       <div className="mx-auto max-w-3xl px-6 py-12 sm:px-8">
-        <a href="/" className="text-lg font-medium tracking-[0.28em]">
+        <Link href="/" className="text-lg font-medium tracking-[0.28em]">
           INUS
-        </a>
+        </Link>
 
         <article className="mt-16">
           <p className="text-xs uppercase tracking-[0.25em] text-[#81786e]">
@@ -100,6 +103,15 @@ export default function Gizlilik() {
               </p>
 
               <p className="mt-4">
+                Reklam tercihlerinizi <a href="https://myadcenter.google.com/" className="underline underline-offset-4">Google Reklam Merkezim</a> üzerinden
+                yönetebilirsiniz. Google’ın iş ortağı sitelerden aldığı bilgileri
+                nasıl kullandığını <a href="https://policies.google.com/technologies/partner-sites" className="underline underline-offset-4">Google’ın veri kullanımı açıklamasında</a> okuyabilirsiniz.
+                Diğer katılımcı reklam sağlayıcılarının kişiselleştirme tercihleri
+                için <a href="https://www.aboutads.info/choices/" className="underline underline-offset-4">reklam tercihleri sayfasını</a> ziyaret edebilirsiniz.
+                Bu ayarlar, reklam gösterimini tamamen kapatmak anlamına gelmez.
+              </p>
+
+              <p className="mt-4">
                 Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre&apos;deki
                 kullanıcılar için gerekli olduğu durumlarda reklam ve ilgili veri
                 kullanımları konusunda kullanıcı rızası alınır.
@@ -128,21 +140,21 @@ export default function Gizlilik() {
         </article>
 
         <footer className="mt-20 border-t border-[#d9d1c7] pt-6 text-sm text-[#81786e]">
-          <a href="/" className="hover:text-[#686158]">
+          <Link href="/" className="hover:text-[#686158]">
             Ana Sayfa
-          </a>
+          </Link>
 
           <span className="mx-3">·</span>
 
-          <a href="/hakkimizda" className="hover:text-[#686158]">
+          <Link href="/hakkimizda" className="hover:text-[#686158]">
             Hakkımızda
-          </a>
+          </Link>
 
           <span className="mx-3">·</span>
 
-          <a href="/bize-ulasin" className="hover:text-[#686158]">
+          <Link href="/bize-ulasin" className="hover:text-[#686158]">
             Bize Ulaşın
-          </a>
+          </Link>
         </footer>
       </div>
     </main>

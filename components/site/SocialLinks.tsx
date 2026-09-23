@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { SOCIAL_PROFILES } from "@/lib/site/social";
 
 const profiles = [
@@ -46,6 +47,20 @@ export function SocialLinks() {
   return (
     <div className="bg-[#f5f1ea] text-[#454039]">
       <div className="mx-auto w-full max-w-6xl px-5 sm:px-8">
+        <nav aria-label="Site bilgileri ve yardım" className="flex flex-wrap justify-center gap-x-5 gap-y-1 border-t border-[#d9d2c9] py-4 text-sm">
+          {[
+            ["/ruyalar", "Rüya rehberi"],
+            ["/ruyalar/semboller", "Rüya sembolleri"],
+            ["/hakkimizda", "Hakkımızda"],
+            ["/bize-ulasin", "Bize ulaşın"],
+            ["/gizlilik", "Gizlilik"],
+            ["/kullanim-kosullari", "Kullanım koşulları"],
+          ].map(([href, label]) => (
+            <Link key={href} href={href} className="inline-flex min-h-11 items-center rounded px-2 underline-offset-4 hover:underline focus-visible:outline-2 focus-visible:outline-offset-2">
+              {label}
+            </Link>
+          ))}
+        </nav>
         <nav
           aria-label="INUS sosyal medya hesapları"
           className="border-t border-[#d9d2c9] py-6 sm:flex sm:items-center sm:justify-between sm:gap-6"

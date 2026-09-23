@@ -5,6 +5,7 @@ import { dreamPhrase } from "@/lib/symbols/dream-title";
 
 import type {
   SymbolContent,
+  LimitedEvidenceLane,
 } from "@/data/symbol-system/schema/symbol-schema";
 
 type RelatedSymbol = Pick<
@@ -44,30 +45,37 @@ export function SymbolPage({
   const perspectives = [
     {
       label: "Modern psikoloji",
+      lane: "psychology" as LimitedEvidenceLane,
       content: symbol.psychology,
     },
     {
       label: "Jungçu yaklaşım",
+      lane: "jungian" as LimitedEvidenceLane,
       content: symbol.jungian,
     },
     {
       label: "İslami geleneklerde",
+      lane: "islamic" as LimitedEvidenceLane,
       content: symbol.islamicTradition,
     },
     {
       label: "Hristiyan geleneklerinde",
+      lane: "christian" as LimitedEvidenceLane,
       content: symbol.christianTraditions,
     },
     {
       label: "Yahudi geleneklerinde",
+      lane: "jewish" as LimitedEvidenceLane,
       content: symbol.jewishTraditions,
     },
     {
       label: "Budist ve Doğu yaklaşımlarında",
+      lane: "buddhist-eastern" as LimitedEvidenceLane,
       content: symbol.buddhistEasternApproaches,
     },
     {
       label: "Spiritüel yaklaşımlarda",
+      lane: "spiritual" as LimitedEvidenceLane,
       content: symbol.spiritualApproaches,
     },
   ].filter(
@@ -243,6 +251,17 @@ export function SymbolPage({
                   >
                     <h3 className="mb-4 text-[15px] font-medium">
                       {item.label}
+                      {symbol.limitedEvidenceLanes?.includes(item.lane) && (
+                        <sup className="ml-1">
+                          <Link
+                            href={`/ruyalar/semboller/${symbol.slug}/kaynaklar#yaklasim-notu`}
+                            aria-label={`${item.label}: kaynak ve yaklaşım dipnotunu oku`}
+                            className="inline-flex min-h-6 min-w-6 items-center justify-center rounded underline underline-offset-2 focus-visible:outline-2 focus-visible:outline-offset-2"
+                          >
+                            *
+                          </Link>
+                        </sup>
+                      )}
                     </h3>
 
                     <div className="text-base leading-7 text-[#625c54] sm:text-[14px]">

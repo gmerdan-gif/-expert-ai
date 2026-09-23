@@ -353,6 +353,30 @@ export default function Home() {
             </section>
 
             <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
+              <h2 className="text-3xl font-light tracking-[-0.03em] sm:text-4xl">
+                İçerikler nasıl hazırlanıyor?
+              </h2>
+              <div className="mt-6 max-w-3xl space-y-5 text-base leading-8 text-[#625c54]">
+                <p>
+                  Rüya sembolü içeriklerinin araştırma ve taslak aşamasında yapay
+                  zekâ desteği kullanılır. Yayına hazırlama sürecinde insan
+                  editörler metinleri inceler ve düzenler; kullanılan kaynaklar
+                  da insan editör kontrolünden geçer. Kaynakları, sembol
+                  sayfalarındaki kaynak bağlantısından inceleyebilirsin.
+                </p>
+                <p>
+                  Rüyanı yazarak aldığın kişisel yorum ise yapay zekâ tarafından
+                  oluşturulur; her yanıt gösterilmeden önce bir insan editör
+                  tarafından incelenmez. Yorumlar tanı veya gelecek öngörüsü
+                  sunmaz; kendi deneyimin üzerine düşünmene yardımcı olur.
+                </p>
+                <a href="/hakkimizda#icerik-yontemi" className="inline-flex min-h-11 items-center underline underline-offset-4">
+                  İçerik hazırlama yöntemimizi incele
+                </a>
+              </div>
+            </section>
+
+            <section className="border-t border-[#d9d2c9] py-14 sm:py-16">
               <div className="grid gap-10 lg:grid-cols-[0.78fr_1.22fr] lg:gap-20">
                 <div>
                   <p className="mb-4 text-[10px] uppercase tracking-[0.3em] text-[#81786e]">

@@ -143,20 +143,18 @@ export default async function SymbolSourcesPage({
           </p>
 
           {limitedEvidenceLanes.length > 0 && (
-            <aside className="mt-8 max-w-2xl border-l border-[#b9b0a6] pl-5">
+            <aside id="yaklasim-notu" className="mt-8 max-w-2xl scroll-mt-6 border-l border-[#b9b0a6] pl-5">
               <p className="text-[10px] uppercase tracking-[0.22em] text-[#8a8278]">
-                KAYNAK DOĞRULAMA NOTU
+                * KAYNAK VE YAKLAŞIM NOTU
               </p>
 
               <p className="mt-3 text-sm leading-7 text-[#706961]">
-                Bu sayfada {limitedEvidenceLabel} kapsamında
-                sunulan bazı yorumlar ilgili ikincil kaynaklara
-                dayanmaktadır; ancak INUS&apos;un bu yaklaşımlar
-                için tercih ettiği güçlü otorite kaynaklarıyla
-                yeterli doğrulama sağlanamamıştır. Bu yorumlar
-                kesin geleneksel veya kuramsal hükümler olarak
-                değil, sınırlı kaynaklara dayalı yorumlayıcı
-                çerçeveler olarak sunulmuştur.
+                {limitedEvidenceLabel} kapsamında aktarılan yorumlar,
+                belirtilen kaynakların kendi kuramsal, kültürel veya geleneksel
+                bağlamında değerlendirilmelidir. Bu yorumlar, bilimsel olarak
+                kanıtlanmış ve herkes için geçerli rüya anlamları olarak
+                sunulmaz. Kaynakların hangi açıklamalar için kullanıldığı
+                aşağıdaki kaynak notlarında belirtilir.
               </p>
             </aside>
           )}

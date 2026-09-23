@@ -52,9 +52,10 @@ export default function Hakkimizda() {
             <div className="mt-5 space-y-5 leading-8 text-[#625c54]">
               <p>
                 Rüya sembolü içeriklerinin araştırma ve taslak hazırlama sürecinde
-                yapay zekâ desteğinden yararlanılır. Taslaklar, yayın öncesinde
-                içerik yapısı ve kalite kontrollerinden geçirilir. Otomatik
-                kontroller, bir insanın her ifadeyi doğruladığı anlamına gelmez.
+                yapay zekâ desteğinden yararlanılır. Yayına hazırlama sürecinde
+                insan editörler metinleri inceler ve düzenler; kullanılan
+                kaynakları da editoryal kontrolden geçirir. Bu inceleme,
+                otomatik içerik yapısı ve kalite kontrolleriyle desteklenir.
               </p>
               <p>
                 Sembol sayfaları farklı yorum yaklaşımlarını ve rüyanın bağlamını
@@ -65,7 +66,9 @@ export default function Hakkimizda() {
               <p>
                 İçerikler kişisel düşünmeye yardımcı olmak içindir; bilimsel
                 olarak doğrulanmış, herkes için geçerli rüya anlamları sunmaz.
-                Bir hata veya kaynak sorunu fark ederseniz bize iletebilirsiniz.
+                İnsan editör kontrolü, tüm yorumların bilimsel olarak kanıtlandığı
+                anlamına gelmez. Bir hata veya kaynak sorunu fark ederseniz bize
+                iletebilirsiniz.
               </p>
               <Link href="/bize-ulasin" className="inline-flex min-h-11 items-center underline underline-offset-4 focus-visible:outline-2 focus-visible:outline-offset-4">
                 İçerikle ilgili geri bildirim gönder
