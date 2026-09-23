@@ -1,0 +1,69 @@
+{
+  "slug": "davul",
+  "title": "davul",
+  "shortDescription": "Rüyada davul, sesini duyurma, ortak bir ritme katılma veya gürültüden rahatsız olma deneyimini öne çıkarabilir. Sesi kimin çıkardığı ve nasıl hissettirdiği önemlidir.",
+  "positiveAssociations": [
+    "Bir kutlamaya katılmak",
+    "Ritmi takip etmekten hoşlanmak",
+    "Tanıdık bir sesi ayırt etmek"
+  ],
+  "challengingAssociations": [
+    "Yüksek sesten rahatsız olmak",
+    "Ritme yetişememek",
+    "Sesin kaynağını bulamamak"
+  ],
+  "contextDependentAssociations": [
+    "Davulun görülmesi veya yalnız duyulması",
+    "Sesin yakınlığı ve temposu",
+    "Çalan, dinleyen veya taşıyan kişi olmak"
+  ],
+  "commonVariations": [
+    {
+      "title": "Uzakta davul sesi duymak",
+      "description": "Sesi bir kutlama, prova veya başka bir ortamla ilişkilendiriyor muydunuz? Kaynağını görmediyseniz rüyanın söylemediği ayrıntıyı kesinleştirmeyin."
+    },
+    {
+      "title": "Sessiz bir davul görmek",
+      "description": "Davula dokunmak veya çalmak istiyor muydunuz? Kullanılmayı bekleyen bir çalgı, sergilenen bir eşya ve size bırakılan bir nesne farklı sahnelerdir."
+    },
+    {
+      "title": "Davulu taşımak",
+      "description": "Taşıma işi isteğinizle mi verilmişti, yorucu muydu? Bir topluluğa eşlik etmek ile ağır bir yükten kurtulmak istemek farklı çağrışımlar yaratabilir."
+    },
+    {
+      "title": "Davulun ritmine eşlik etmek",
+      "description": "Vuruşları takip edebiliyor muydunuz ve bunu yapmaktan hoşlanıyor muydunuz? Uyumsuzluk hissetmek gerçek hayattaki beceriniz veya aidiyetiniz hakkında ölçüm değildir."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "Berakhot 57a’da bataklığa girme rüyalarının anlatıldığı bölümde, davul taşıma ayrıntısı R. Papa’nın akademi başkanlığıyla ilişkilendirilir. Bu, belirli kişiler ve birden fazla ayrıntı içeren geleneksel anlatıdır. Her davul rüyasının liderlik veya yükselme getirdiğine dair genel bir kural olarak sunulamaz.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Sesin niteliği, çalgının görünümü ve kişinin yaptığı eylem ayrı kaydedilebilir.",
+  "differences": "Tarihsel bir rüya anlatısı, bugünkü kişinin geleceğini öngören araştırma değildir.",
+  "inusAssessment": "Davul hem görülebilen bir çalgı hem de duyulan bir ses kaynağıdır. INUS değerlendirmesi önce rüyada hangisinin belirgin olduğunu ayırır. Aynı tempo bir kişiye kutlamayı, başka birine gürültüyü hatırlatabilir. Davuldan içsel ritim, manevi uyarı veya yaklaşan haber sonucu otomatik olarak çıkarılmaz. Davulu görmek, çalmak ve taşımak ayrı eylemler olarak ele alınır.",
+  "faq": [
+    {
+      "question": "Davul duymak iyi haber geleceğini gösterir mi?",
+      "answer": "Rüyadaki ses gelecekteki bir haberi doğrulamaz. Sesi hangi ortamla ilişkilendirdiğiniz ve ona nasıl tepki verdiğiniz üzerinde düşünebilirsiniz."
+    },
+    {
+      "question": "Davul rüyası ile davul çalmak aynı şey mi?",
+      "answer": "Her zaman değil. Davulu uzaktan duymak veya bir yerde görmek ile ritmi bizzat üretmek farklı deneyimlerdir. Yorumda gerçekten yaptığınız eylem önemlidir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Babylonian Talmud — Berakoth 57a",
+      "url": "https://www.halakhah.com/berakoth/berakoth_57.html",
+      "relevance": "Bataklığa girme ve davul taşıma ayrıntılarını içeren anlatı ile ilgili açıklama incelendi. Geleneksel anlatıdır; yalnız davul görmekten makam veya haber sonucu çıkarmaz."
+    }
+  ],
+  "relatedSlugs": [
+    "davul-calmak"
+  ]
+}

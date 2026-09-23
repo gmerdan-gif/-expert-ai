@@ -1,0 +1,71 @@
+{
+  "slug": "sarki",
+  "title": "şarkı",
+  "shortDescription": "Rüyada şarkı, hatırlanan bir kişiyi veya dile gelmeyen bir duyguyu gündeme getirebilir. Sözleri, melodisi ve şarkıyı kimin söylediği birlikte değerlendirilir.",
+  "positiveAssociations": [
+    "Tanıdık bir ezgiden keyif almak",
+    "Biriyle aynı şarkıyı paylaşmak",
+    "Bir anıyı hatırlamak"
+  ],
+  "challengingAssociations": [
+    "Sözleri anlayamamak",
+    "İstemediği bir şarkıyı durduramamak",
+    "Sesin kesilmesine üzülmek"
+  ],
+  "contextDependentAssociations": [
+    "Şarkının tanıdık olup olmaması",
+    "Dinlemek veya söylemek",
+    "Sözlerin gerçekten hatırlanması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık bir şarkı duymak",
+      "description": "Şarkı size hangi kişiyi veya dönemi hatırlatıyor? Rüyadaki duygunuz, bu şarkıyı uyanıkken dinlediğinizdeki duygunuzla aynı olmak zorunda değildir."
+    },
+    {
+      "title": "Sözlerini anlayamadığınız şarkı dinlemek",
+      "description": "Melodiyi duyduğunuzdan mı eminsiniz, yoksa şarkı çaldığını yalnızca biliyor muydunuz? Hatırlanmayan sözleri sonradan bir mesaj oluşturacak biçimde tamamlamayın."
+    },
+    {
+      "title": "Birinin size şarkı söylemesi",
+      "description": "Söyleyen kişiyi tanıyıp tanımadığınız ve onu dinlemek isteyip istemediğiniz önemlidir. Rüyadaki söyleyiş o kişinin gerçek niyetini doğrulamaz."
+    },
+    {
+      "title": "Şarkının yarıda kesilmesi",
+      "description": "Kesilme sizi rahatlattı mı, hayal kırıklığı mı yarattı? Devamını beklemek, kendiniz söylemek veya başka bir işe yönelmek farklı tepkilerdir."
+    }
+  ],
+  "psychology": "Fosse ve Larøi, 13 sağlıklı katılımcının 130 rüya raporunda işitsel deneyimleri inceledi. Katılımcılardan seslere özellikle dikkat etmeleri istendi; sonuçlarda müzik ve şarkı söyleme örnekleri de yer aldı. Küçük ve ses odaklı bu çalışma rüyalarda işitsel içerik bulunabildiğini gösterir. Şarkının anlamını, gerçek bir dış ses kaynağını veya kişide psikiyatrik bir durumu belirlemez.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Melodi, söz ve bunlara verilen tepki ayrı hatırlanabilir.",
+  "differences": "İşitsel rüya içeriği araştırması, şarkı sözlerinin kişiye özel bir mesaj olduğunu kanıtlamaz.",
+  "inusAssessment": "Şarkı rüyasında melodi, sözler, söyleyen kişi ve dinleme ortamı birbirinden ayrılabilir. INUS, hatırladığınız ayrıntılarla kişisel çağrışımlarınızı düşünmenizi önerir. Güzel ses içsel dengeyi, yanlış söylenen nota özsaygı sorununu göstermez. Rüyada bir şarkının tanıdık gelmesi, gerçekte aynı söz ve melodide bir eser bulunduğunu da tek başına doğrulamaz.",
+  "faq": [
+    {
+      "question": "Rüyadaki şarkının sözleri geleceğe dair mesaj mı?",
+      "answer": "Sözler gelecekteki olayların kanıtı değildir. Tam olarak hatırladığınız kısmı kendi çağrışımlarınızla değerlendirebilir, eksik kısmı belirsiz bırakabilirsiniz."
+    },
+    {
+      "question": "Şarkı duymak ile şarkı söylemek aynı şekilde mi ele alınır?",
+      "answer": "Dinlemek ile ses üretmek farklı eylemlerdir. Dinleyen, söyleyen veya eşlik eden kişi olmanız sahnenin ayrıntılarını değiştirir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Quantifying auditory impressions in dreams in order to assess the relevance of dreaming as a model for psychosis",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230212",
+      "relevance": "Özet, yöntem ve müzik/ses örnekleri içeren sonuç bölümü incelendi. 13 katılımcı ve 130 raporla sınırlı işitsel içerik çalışması; şarkının kişisel anlamını veya tanıyı belirlemez.",
+      "author": "Roar Fosse ve Frank Larøi",
+      "year": 2020
+    }
+  ],
+  "relatedSlugs": [
+    "sarki-soylemek"
+  ]
+}

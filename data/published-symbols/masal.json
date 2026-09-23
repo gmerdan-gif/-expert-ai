@@ -1,0 +1,68 @@
+{
+  "slug": "masal",
+  "title": "masal",
+  "shortDescription": "Rüyada masal, çocukluk anıları, tanıdık karakterler ve anlatılan bir hikâyeyle bağ kurma deneyimini öne çıkarabilir. Masaldaki rolünüz ve hikâyenin sonu önemlidir.",
+  "positiveAssociations": [
+    "Sevilen bir hikâyeyi hatırlamak",
+    "Bir anlatıyı paylaşmak",
+    "Hayalî bir dünyayı merak etmek"
+  ],
+  "challengingAssociations": [
+    "Hikâyenin korkutucu hâle gelmesi",
+    "İstemediği bir role zorlanmak",
+    "Sonunu öğrenememek"
+  ],
+  "contextDependentAssociations": [
+    "Dinleyici, anlatıcı veya karakter olmak",
+    "Masalın tanıdık olup olmaması",
+    "Olayların beklenen biçimde ilerlemesi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Birinden masal dinlemek",
+      "description": "Anlatıcıyı tanıyor muydunuz ve dinlemek size nasıl geliyordu? Masalın kendisi kadar anlatan kişi, bulunduğunuz yer ve hatırlattığı dönem de önemli olabilir."
+    },
+    {
+      "title": "Bir çocuğa masal anlatmak",
+      "description": "Bildik bir hikâyeyi mi anlatıyordunuz, yoksa yeni bir son mu kuruyordunuz? Dinleyicinin ilgisi ve anlatırken hissettiğiniz rahatlık veya zorlanma farklı ayrıntılardır."
+    },
+    {
+      "title": "Bir masalın karakteri olmak",
+      "description": "Hangi rolü üstlendiğinizi ve seçim yapabildiğinizi hissedip hissetmediğinizi düşünün. Bir karakteri canlandırmak o karakterin özelliklerine sahip olduğunuzu kanıtlamaz."
+    },
+    {
+      "title": "Tanıdık masalın sonunun değişmesi",
+      "description": "Değişiklik sizi sevindirdi mi, şaşırttı mı? Beklediğiniz son ile rüyada gördüğünüz sonu ayırmak, anlatıda sizin için neyin belirgin olduğunu düşünmenize yardımcı olabilir."
+    }
+  ],
+  "psychology": "Freud Museum’un kurs tanıtımı, Freud’un masal malzemesinin rüyalarda yer almasına ilişkin yazısını ve masalların psikanalitik açıdan ele alınmasını konu eder. Bu, kuramsal ve kültürel bir yaklaşım örneğidir. Tanıtım metni, her masal rüyasının bastırılmış bir anıyı açığa çıkardığını veya kişiye tanı koyduğunu göstermez.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Anlatının içeriği ile sizin anlatıdaki rolünüz ayrı düşünülebilir.",
+  "differences": "Masalların psikanalitik yorumu, rüyadaki olayların gerçek yaşanmışlık olduğuna ilişkin kanıt değildir.",
+  "inusAssessment": "Masal rüyasında yalnız fantastik bir görüntü bulunmasıyla açıkça bir masal dinlemek veya anlatmak aynı durum değildir. INUS değerlendirmesi anlatıdaki rolünüze, tanıdığınız hikâyeye ve değişen ayrıntılara odaklanır. Masal görmek kişinin gerçeklerden kaçtığını veya gizli bir geçmiş olayını hatırladığını göstermez. Buradaki senaryolar kendinize uyan çağrışımları düşünmeniz içindir; her masala tek bir psikolojik anlam verilmez.",
+  "faq": [
+    {
+      "question": "Masal görmek gerçeklerden kaçtığım anlamına mı gelir?",
+      "answer": "Böyle bir sonuca varılmaz. Rüyadaki hikâye sevdiğiniz bir anlatıyı, bir filmi veya bir kişiyle paylaştığınız zamanı çağrıştırabilir."
+    },
+    {
+      "question": "Masaldaki korkutucu olay gerçek bir anı olabilir mi?",
+      "answer": "Rüya tek başına gerçek bir olayı doğrulamaz. Hatırlanan hikâye ile yaşandığı bilinen deneyimi ayırmak gerekir; masal sahnesinden unutulmuş bir olay sonucu çıkarılmaz."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Freud and Fairy Tales",
+      "url": "https://www.freud.org.uk/whats-on/on-demand/courses/freud-and-fairy-tales/",
+      "relevance": "Freud Museum’un açık kurs tanıtımı ve oturum özetleri okundu; ücretli video izlenmedi. Psikanaliz ile masalların tarihsel/kuramsal ilişkisini gösterir, deneysel rüya bulgusu değildir.",
+      "author": "Freud Museum London"
+    }
+  ],
+  "relatedSlugs": []
+}

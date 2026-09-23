@@ -1,0 +1,74 @@
+{
+  "slug": "kitap",
+  "title": "kitap",
+  "shortDescription": "Rüyada kitap, öğrenme isteği, hatırlanan bilgiler veya henüz anlaşılmayan bir konu üzerine düşündürebilir. Kitabın içeriği, okunabilirliği ve açık mı kapalı mı olduğu önemlidir.",
+  "positiveAssociations": [
+    "Merak ettiği bir konuyla karşılaşmak",
+    "Sevilen bir eseri yeniden bulmak",
+    "Bir bilgiyi paylaşmak"
+  ],
+  "challengingAssociations": [
+    "Aradığı kitabı bulamamak",
+    "Sayfalara ulaşamamak",
+    "Ne yazdığını anlayamamak"
+  ],
+  "contextDependentAssociations": [
+    "Kitabın adının bilinmesi",
+    "Açık, kapalı veya hasarlı olması",
+    "Size ait olması veya birinden gelmesi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık bir kitabı bulmak",
+      "description": "Kitabı hangi dönemden hatırladığınızı ve onu görünce ne hissettiğinizi düşünün. İçeriğinden çok hediye eden kişi veya eski bir ortam da aklınıza gelebilir."
+    },
+    {
+      "title": "Kapalı bir kitabı taşımak",
+      "description": "Kitabı açmak istiyor muydunuz, yoksa yalnızca bir yere mi götürüyordunuz? Kapalı olması mutlaka gizli bilgi bulunduğu anlamına gelmez."
+    },
+    {
+      "title": "Boş veya okunamayan sayfalar görmek",
+      "description": "Sayfaların boş olduğunu mu gördünüz, yoksa yazıyı mı seçemediniz? Anlamaya çalışmak, vazgeçmek ve yardım istemek farklı tepkilerdir."
+    },
+    {
+      "title": "Birine kitap vermek",
+      "description": "O kişi için özellikle seçilmiş bir kitap mıydı? Hediye, ödünç verme ve geri teslim etme farklı ilişkileri ve beklentileri gündeme getirebilir."
+    }
+  ],
+  "psychology": "İçerik analizi kitap nesnesini, okuma veya verme eylemini ve rüyadaki duyguyu ayrı düşünmeye imkân verir. Bu ayrım aşağıdaki sahneleri anlatmak için kullanılmıştır; genel yöntem kitabın bilgeliği temsil ettiğini kanıtlamaz.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "Berakhot 57b, Mezmurlar ve Özdeyişler gibi adı belirli kutsal eserler için geleneksel yorumlar sıralar. Bunlar o metinlerin dinî bağlamına aittir. Adı bilinmeyen herhangi bir kitaba genellenemez ve kişinin geleceği hakkında doğrulanmış bilgi sayılmaz.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Kitabın kimliği ile onunla yapılan eylem ayrı ayrıntılardır.",
+  "differences": "Belirli dinî metinlere ilişkin geleneksel yorum ile genel bir kitap nesnesinin kişisel çağrışımı aynı değildir.",
+  "inusAssessment": "Kitap rüyasında nesneyi görmek ile okumak aynı eylem değildir. INUS, kitabın adını bilip bilmediğinize, size nasıl ulaştığına ve onunla ne yaptığınıza bakar. Öğrenme ve merak kişisel çağrışım olabilir; açık kitap bilgeliğin, kapalı kitap saklanan bir sırrın kanıtı sayılmaz. Rüyada okunduğu düşünülen bir bilgi, gerçek hayatta doğrulanmış bilgi yerine geçmez.",
+  "faq": [
+    {
+      "question": "Kitap görmek mutlaka bir şey öğrenmem gerektiğini mi gösterir?",
+      "answer": "Hayır. Kitap size bir kişiyi, zamanı veya sevdiğiniz bir hikâyeyi de hatırlatabilir. Rüyadaki nesneden zorunlu bir görev çıkarmak gerekmez."
+    },
+    {
+      "question": "Kitabın adını hatırlamıyorsam anlamını tamamlamalı mıyım?",
+      "answer": "Hayır. Adını veya içeriğini bilmediğiniz kitabı belirsiz bırakabilirsiniz. Hatırladığınız kapak, ortam ve eylem gibi ayrıntılarla yetinmek daha doğru olur."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Content Analysis Explained",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html",
+      "relevance": "Nesne, etkinlik ve duygu ayrımını açıklayan genel yöntem; kitap için sabit bir rüya anlamı belirlemez."
+    },
+    {
+      "title": "Babylonian Talmud — Berakoth 57b",
+      "url": "https://www.halakhah.com/berakoth/berakoth_57.html",
+      "relevance": "Belirli kutsal kitapların adlandırıldığı geleneksel pasaj incelendi. Herhangi bir kitap için genel bilimsel anlam veya kişisel gelecek bilgisi değildir."
+    }
+  ],
+  "relatedSlugs": [
+    "kitap-okumak"
+  ]
+}

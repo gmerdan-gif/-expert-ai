@@ -193,5 +193,14 @@ export const editorialParentSlugs: Record<string, string[]> = {
   ],
   "kahverengi-kopek": [
     "kahverengi-renk"
+  ],
+  "kitap-okumak": [
+    "kitap"
+  ],
+  "davul-calmak": [
+    "davul"
+  ],
+  "sarki-soylemek": [
+    "sarki"
   ]
 };
