@@ -1,0 +1,69 @@
+{
+  "slug": "lokomotif",
+  "title": "lokomotif",
+  "shortDescription": "Rüyada lokomotif, bir hareketi başlatma ve arkasındaki yükü taşıma deneyimini çağrıştırabilir. Aracın çalışması, hızı ve onu kimin yönettiği önemlidir.",
+  "positiveAssociations": [
+    "Bir hareketin başlaması",
+    "Güçlü bir aracı merakla izlemek",
+    "Bir işi birlikte yürütmek"
+  ],
+  "challengingAssociations": [
+    "Durduramama hissi",
+    "Aşırı gürültüden rahatsız olmak",
+    "Hareket etmeyi beklerken sıkışmak"
+  ],
+  "contextDependentAssociations": [
+    "Aracın çalışıyor veya duruyor olması",
+    "Kumanda kabininde veya dışarıda bulunmak",
+    "Bağlı vagonlar ve hareket yönü"
+  ],
+  "commonVariations": [
+    {
+      "title": "Lokomotifin çalışmaya başlaması",
+      "description": "İlk hareketi bekliyor muydunuz, yoksa ses sizi hazırlıksız mı yakaladı? Sahnenin odağı yolculuktan önceki hazırlık, merak veya gürültü olabilir."
+    },
+    {
+      "title": "Lokomotifi kullanmak",
+      "description": "Kumandaları tanıyor muydunuz ve yanınızda biri var mıydı? Aracı yönetmekten duyulan memnuniyet ile ne yapacağını bilememe hissi farklı çağrışımlar taşır."
+    },
+    {
+      "title": "Lokomotifin vagonlardan ayrılması",
+      "description": "Ayrılma planlı bir işlem gibi mi görünüyordu, yoksa beklenmedik miydi? Rüyada görülen bağlantı değişimini gerçek bir ilişkinin kopacağına dair haber saymayın."
+    },
+    {
+      "title": "Bir müzede eski lokomotifi incelemek",
+      "description": "Burada hareketten çok hatıra, tasarım veya geçmişe merak öne çıkabilir. Rüyada araca dokunmak, fotoğraf çekmek veya birinden hikâyesini dinlemek farklı ayrıntılardır."
+    }
+  ],
+  "psychology": "Domhoff, lokomotifleri sıkça rüyasında gören ve “Engine Man” diye anılan bir kişinin 1939 yazındaki rüya dizisini tartışır. En az 50 sözcük içeren 187 raporun ilk ve ikinci yarısında içerik ölçülerinin benzer kaldığını aktarır. Bu örnek aynı kişinin rüya içeriğindeki süreklilikle ilgilidir; lokomotifin herkeste psikolojik enerji veya ruhsal ilerleme anlamına geldiğini göstermez.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Aracı görmek, kullanmak ve onun hareketini beklemek ayrı eylemlerdir.",
+  "differences": "Bir rüya dizisindeki tekrar, tekrarlanan nesnenin bütün insanlar için tek bir anlamı olduğunu göstermez.",
+  "inusAssessment": "Lokomotif, trenin tümüyle aynı nesne değildir; rüyada çekiş sağlayan araç, kabin, makine sesi veya bağlı vagonlar öne çıkabilir. INUS, bunları hız, sorumluluk ve birlikte hareket etme üzerine kişisel düşünme önerileri olarak ele alır. Aracı kullanmak yaşamın tümünü kontrol ettiğinizi; durması ruhsal gelişimin kesildiğini göstermez. Rüyanızdaki görünümü tanıdık bir yolculuk, iş veya çocukluk anısıyla ilişkilendirip ilişkilendirmediğinizi düşünebilirsiniz.",
+  "faq": [
+    {
+      "question": "Lokomotif ile tren aynı şekilde mi ele alınır?",
+      "answer": "Her zaman değil. Lokomotifte makinenin çalışması ve kumandası; trenin bütününde yolcular, vagonlar ve yolculuk öne çıkabilir. Rüyada gerçekten gördüğünüz ayrıntıya bakabilirsiniz."
+    },
+    {
+      "question": "Hızlanan lokomotif hayatımın kontrolden çıktığını kanıtlar mı?",
+      "answer": "Hayır. Rüyada hızdan korkmanız, gerçek hayatınız hakkında böyle bir hüküm vermeye yetmez. Korkunun yanında heyecan, merak veya rahatlık olup olmadığını da düşünün."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Drawing Theoretical Implications from Descriptive Empirical Findings on Dream Content",
+      "url": "https://dreams.ucsc.edu/Articles/domhoff_1999b.html",
+      "relevance": "Rüya içeriğinde süreklilik tartışmasındaki Engine Man örneği incelendi. Tek kişinin rüya dizisine dair bulgular lokomotif için evrensel sembolik anlam vermez.",
+      "author": "G. William Domhoff",
+      "year": 1999
+    }
+  ],
+  "relatedSlugs": []
+}

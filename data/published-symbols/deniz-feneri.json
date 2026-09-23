@@ -1,0 +1,68 @@
+{
+  "slug": "deniz-feneri",
+  "title": "deniz feneri",
+  "shortDescription": "Rüyada deniz feneri, yön bulma ve güvenli bir yere ulaşma arayışını çağrıştırabilir. Işığın görünürlüğü, denizin durumu ve sizin konumunuz önemlidir.",
+  "positiveAssociations": [
+    "Uzakta tanıdık bir işaret bulmak",
+    "Çevresini daha iyi görebilmek",
+    "Bir yapıyı merakla keşfetmek"
+  ],
+  "challengingAssociations": [
+    "Işığı seçememek",
+    "Kıyıya ulaşamama hissi",
+    "Yüksekte veya yalnız kalmaktan çekinmek"
+  ],
+  "contextDependentAssociations": [
+    "Denizden veya karadan bakmak",
+    "Işığın görülme biçimi",
+    "Fenerin içinde veya uzakta bulunmak"
+  ],
+  "commonVariations": [
+    {
+      "title": "Denizden bir fenerin ışığını görmek",
+      "description": "Işığın nerede olduğunu anlamanıza yardım edip etmediğini ve bir yere gitmeye çalışıp çalışmadığınızı düşünün. Tanıdık kıyıyı seçmek ile yalnızca güzel bir ışığı izlemek farklı deneyimlerdir."
+    },
+    {
+      "title": "Fenerin içinde merdiven çıkmak",
+      "description": "Amacınız manzarayı görmek, birine ulaşmak veya bir işi tamamlamak mıydı? Yükseklik, merdivenin durumu ve yanınızdaki kişiler sahnenin duygusunu değiştirebilir."
+    },
+    {
+      "title": "Fenerin ışığını görememek",
+      "description": "Rüyada ışığın söndüğünü biliyor muydunuz, yoksa sis ya da uzaklık nedeniyle mi göremiyordunuz? Bilmediğiniz nedeni kesinleştirmeden, o sırada verdiğiniz tepkiye bakabilirsiniz."
+    },
+    {
+      "title": "Gündüz kıyıdaki feneri ziyaret etmek",
+      "description": "Bu sahnede yol bulmaktan çok gezi, merak veya bir hatıra öne çıkabilir. Yapıyı kiminle gördüğünüz ve içeride ne yaptığınız kendi deneyiminizi düşünmenize yardımcı olabilir."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Bir işareti görmek ile ona güvenerek hareket etmek farklı deneyimlerdir.",
+  "differences": "Denizcilikte yol göstermeye yarayan bir yapının işlevi, kişiye özel bir rüya hükmüne dönüşmez.",
+  "inusAssessment": "Deniz feneri hem bir yapı hem de denizde konum belirlemeye yardımcı olan bir işarettir. Trinity House, fenerlerin gündüz görünüşleri ve ışık ritimleriyle ayırt edilebildiğini açıklar. Bu gerçek işlev, yön bulma çağrışımını anlaşılır kılar; rüyanın size belirli bir kararın doğru olduğunu söylediğini kanıtlamaz. INUS değerlendirmesinde rehberlik, yalnızlık ve merak kişisel düşünme olasılıklarıdır. Feneri görmekten kişinin içsel kriz yaşadığı veya yakında kurtarılacağı sonucu çıkarılmaz.",
+  "faq": [
+    {
+      "question": "Deniz feneri görmek doğru kararı verdiğimi gösterir mi?",
+      "answer": "Rüya gerçek bir kararın doğruluğunu doğrulamaz. Işığı görünce ne hissettiğiniz, kararlarınıza ilişkin duygularınızı düşünmeniz için bir başlangıç olabilir."
+    },
+    {
+      "question": "Fener ışığının kaybolması kötü haber mi demektir?",
+      "answer": "Böyle bir sonuç çıkarılmaz. Rüyada görünürlüğün neden değiştiğini biliyor olup olmadığınızı ve bunun ardından ne yaptığınızı ayırabilirsiniz."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trinity House FAQs",
+      "url": "https://www.trinityhouse.co.uk/about-us/trinity-house-faq",
+      "relevance": "Fenerlerin gündüz görünüşleri ve farklı ışık ritimleriyle tanınması hakkındaki kurum açıklaması incelendi. Seyir işlevini açıklar; rüya yorumu veya dinî tabir kaynağı değildir.",
+      "author": "Trinity House"
+    }
+  ],
+  "relatedSlugs": []
+}

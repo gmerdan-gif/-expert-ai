@@ -1,0 +1,68 @@
+{
+  "slug": "dolunay",
+  "title": "dolunay",
+  "shortDescription": "Rüyada dolunay, geceyi aydınlatan belirgin bir görüntü olarak hayranlık veya tedirginlik uyandırabilir. Ayın görünümü, çevresi ve kişisel çağrışımları önemlidir.",
+  "positiveAssociations": [
+    "Gece manzarasına hayranlık",
+    "Aydınlıkta çevresini görebilmek",
+    "Bir manzarayı biriyle paylaşmak"
+  ],
+  "challengingAssociations": [
+    "Parlak görüntüden rahatsız olmak",
+    "Gökyüzündeki değişimden ürkmek",
+    "Tanıdık manzaranın yabancılaşması"
+  ],
+  "contextDependentAssociations": [
+    "Ayın doğal veya olağandışı görünmesi",
+    "Yalnız veya biriyle izlemek",
+    "Çevrenin aydınlığı ve hava durumu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Açık gökyüzünde dolunay izlemek",
+      "description": "Ayı izlerken sakinlik, merak veya başka bir duygu hissediyor muydunuz? Manzarayı gördüğünüz yerin tanıdık olup olmaması da kişisel çağrışımlarınıza eşlik edebilir."
+    },
+    {
+      "title": "Dolunayın bulutların arkasına girmesi",
+      "description": "Görüntünün kaybolmasını bekliyor muydunuz? Yeniden görünmesini beklemek ile başka bir yere gitmek farklı tepkilerdir; bulutu yaklaşan kötü olay diye yorumlamak gerekmez."
+    },
+    {
+      "title": "Dolunayı çok büyük veya yakın görmek",
+      "description": "Rüyanın değişmiş ölçeği sizde hayranlık da korku da uyandırabilir. Büyüklüğe tek bir anlam vermek yerine bu görüntü karşısında ne yaptığınızı hatırlamaya çalışın."
+    },
+    {
+      "title": "Dolunayı başka biriyle seyretmek",
+      "description": "Aynı manzaraya bakıyor olmanızın yanında aranızda konuşma olup olmadığı önemlidir. Rüyadaki yakınlık, o kişinin gerçek duyguları hakkında kesin bilgi sağlamaz."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Görülen ışık ve büyüklük ile bunların uyandırdığı duygu ayrı ayrıntılardır.",
+  "differences": "Astronomik bir evrenin açıklaması ile kişisel bir çağrışım aynı tür bilgi değildir.",
+  "inusAssessment": "Dolunay, Ay’ın belirli bir görünümüdür. NASA’nın açıklamasında bu görünüm, Güneş’in aydınlattığı yüzün Dünya’dan görülmesiyle ilgilidir; psikolojik tamamlanma veya gelecekteki olaylar hakkında bilgi vermez. INUS değerlendirmesi rüyadaki ışığı, manzarayı ve sizde bıraktığı duyguyu ele alır. “Tam görünmek” size tamamlanmayı çağrıştırabilir, ancak bu zorunlu bir yorum değildir. Rüyada dolunay görmeniz, o gece gerçekte dolunay olduğunu da doğrulamaz.",
+  "faq": [
+    {
+      "question": "Dolunay görmek bir dileğin gerçekleşeceği anlamına mı gelir?",
+      "answer": "Hayır. Böyle bir gelecek çıkarımı yapılamaz. Dolunayla kişisel olarak ilişkilendirdiğiniz anıları veya beklentileri düşünmek, onları bir kehanet saymayı gerektirmez."
+    },
+    {
+      "question": "Rüyadaki dolunay gerçek Ay evresini gösterir mi?",
+      "answer": "Rüya görüntüsünden gerçek tarih veya Ay evresi belirlenmez. Rüyadaki gökyüzü, gerçek gökyüzünün kaydı olarak değerlendirilmemelidir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Moon Phases",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "relevance": "NASA’nın Ay evreleri ve dolunay açıklaması okundu. Astronomik görünümü açıklar; rüya anlamını, sağlık etkisini veya kişisel geleceği araştırmaz.",
+      "author": "NASA"
+    }
+  ],
+  "relatedSlugs": []
+}

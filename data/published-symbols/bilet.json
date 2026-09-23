@@ -1,0 +1,69 @@
+{
+  "slug": "bilet",
+  "title": "bilet",
+  "shortDescription": "Rüyada bilet, bir yolculuğa veya etkinliğe katılma imkânını gündeme getirebilir. Biletin geçerliliği, nereye ait olduğu ve onu kaybedip kaybetmediğiniz önemlidir.",
+  "positiveAssociations": [
+    "Beklediği etkinliğe katılabilmek",
+    "Bir yolculuğun hazırlığını tamamlamak",
+    "Bir daveti paylaşmak"
+  ],
+  "challengingAssociations": [
+    "Girişte geri çevrilmek",
+    "Bileti bulamamak",
+    "Yanlış tarih veya yer için hazırlanmak"
+  ],
+  "contextDependentAssociations": [
+    "Biletin yolculuk veya etkinlik için olması",
+    "Bilette yazan yer ve zaman",
+    "Satın almak, saklamak veya kontrol ettirmek"
+  ],
+  "commonVariations": [
+    {
+      "title": "Yolculuk bileti almak",
+      "description": "Nereye gitmek istediğiniz ve yolculuğu kendinizin seçip seçmediği önemlidir. Bileti almak sizi rahatlatıyor muydu, yoksa sonrasında yeni bir hazırlık mı gerekiyordu?"
+    },
+    {
+      "title": "Girişte bileti bulamamak",
+      "description": "Bileti kaybettiğinizi biliyor muydunuz, yalnızca arıyor muydunuz? Birinin yardım etmesi, sıranın beklemesi veya kapının kapanması sahnenin duygusunu değiştirebilir."
+    },
+    {
+      "title": "Biletin tarihinin yanlış olması",
+      "description": "Beklediğiniz gün ile bilette gördüğünüz gün arasındaki farkı hatırlıyorsanız kaydedin. Bu ayrıntı gerçek bir randevunun yanlış olduğunu göstermez; rüyadaki şaşkınlık veya acele hissi üzerinde durabilirsiniz."
+    },
+    {
+      "title": "Birine etkinlik bileti vermek",
+      "description": "Etkinliğe birlikte mi gidecektiniz, yoksa kendi yerinizi mi bırakıyordunuz? Paylaşmak, vazgeçmek ve karşılık beklemek farklı deneyimler olabilir."
+    }
+  ],
+  "psychology": "Freud, tiyatroda geçen bir rüyayı tartışırken rüya sahibinin daha önce erkenden bilet almasını ve koltukların boş kalmasını kişisel çağrışımlarıyla birlikte ele alır. Kendi yorumunu bu kişinin yaşam öyküsüne bağlar. Bu tarihsel vaka, biletin herkes için aynı isteği ya da pişmanlığı temsil ettiğini göstermez; burada Freud’un yorumu güncel deneysel bir bulgu olarak sunulmaz.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Biletin nesne olarak durumu ile katılmak istediğiniz deneyim ayrı düşünülebilir.",
+  "differences": "Bir kişinin rüyasına ilişkin tarihsel yorum, başka bir kişinin geleceği hakkında bilgi vermez.",
+  "inusAssessment": "Biletin neye ait olduğu, yalnızca elinizde bulunmasından daha açıklayıcı olabilir: bir konseri beklemek ile yolculuğa yetişmeye çalışmak aynı deneyim değildir. INUS değerlendirmesi katılma isteğini, hazırlığı ve rüyadaki engelleri kişisel düşünme başlıkları olarak ele alır. Biletin geçerli olması güvenli yolculuk garantisi; kaybolması gelecekte fırsat kaybı anlamına gelmez. Bu sayfanın odağı yolculuk ve etkinlik biletidir; çekiliş sonucu hakkında çıkarım yapmaz.",
+  "faq": [
+    {
+      "question": "Bilet görmek yakında yolculuğa çıkacağımı mı gösterir?",
+      "answer": "Rüyadaki bilet gelecekteki bir yolculuğu doğrulamaz. Gitmek istediğiniz yer, eşlik eden kişi ve hazırlanırken hissettikleriniz üzerinden rüyayı düşünebilirsiniz."
+    },
+    {
+      "question": "Geçersiz bilet görmek bir yere kabul edilmeyeceğim anlamına mı gelir?",
+      "answer": "Böyle bir sonuç çıkarılmaz. Rüyada girişin reddedilmesi ile gerçek hayatta bir kurumun veya kişinin vereceği karar ayrı şeylerdir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Interpretation of Dreams — Chapter VI, C",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm",
+      "relevance": "Tiyatro koltukları, fiyatlar ve önceden alınan biletlerle ilgili tek bir vaka anlatısının bulunduğu bölüm. Tarihsel psikanalitik yorumdur; bilet için evrensel veya doğrulanmış bir anlam değildir.",
+      "author": "Sigmund Freud",
+      "year": 1900
+    }
+  ],
+  "relatedSlugs": []
+}
