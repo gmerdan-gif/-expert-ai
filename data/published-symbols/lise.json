@@ -1,0 +1,69 @@
+{
+  "slug": "lise",
+  "title": "lise",
+  "shortDescription": "Rüyada lise, gençlik anıları, akran ilişkileri ve değerlendirilme deneyimini gündeme getirebilir. Okuldaki rolünüz, tanıdık kişiler ve derse katılma biçiminiz önemlidir.",
+  "positiveAssociations": [
+    "Eski arkadaşlarla bir araya gelmek",
+    "Öğrendiği bir şeyi yeniden kullanmak",
+    "Bir dönemi tamamladığını hissetmek"
+  ],
+  "challengingAssociations": [
+    "Derse hazırlıksız yakalanmak",
+    "Akranlarının arasında dışlanmak",
+    "Mezun olduğu hâlde yeniden yükümlü hissetmek"
+  ],
+  "contextDependentAssociations": [
+    "Şu an öğrenci olup olmadığınız",
+    "Rüyadaki yaşınız ve rolünüz",
+    "Gerçek liseniz veya bilinmeyen bir okul olması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Mezun olduğunuz liseye dönmek",
+      "description": "Bugünkü yaşınızla mı yoksa öğrencilik hâlinizle mi oradaydınız? Bir anıyı ziyaret etmek, yeniden öğrenci olmak ve tamamlanmamış bir görevle karşılaşmak farklı sahnelerdir."
+    },
+    {
+      "title": "Lise arkadaşlarıyla buluşmak",
+      "description": "Kiminle yakın olduğunuz ve rüyada ilişkinizin değişip değişmediği önemlidir. Bu karşılaşmayı o kişinin sizi düşündüğüne ilişkin bir mesaj yerine kendi hatıralarınız üzerinden ele alabilirsiniz."
+    },
+    {
+      "title": "Sınıfı veya dersliği bulamamak",
+      "description": "Yanlış koridor, değişen oda numarası veya geç kalma telaşı sahneyi farklılaştırabilir. Aradığınız yer kadar yardım alıp alamadığınızı da düşünün."
+    },
+    {
+      "title": "Mezuniyet için bir dersin eksik kaldığını öğrenmek",
+      "description": "Gerçekte tamamladığınız bir dönemin rüyada yeniden açılması size şaşkınlık veya yük hissi verebilir. Bu sahne mevcut yeterliliğinizin eksik olduğunu kanıtlamaz; rüyadaki beklenti ve tepkiyi ayrı değerlendirin."
+    }
+  ],
+  "psychology": "Domhoff ve Schneider, iki genç kadının ergenlikten genç yetişkinliğe uzanan rüya dizilerinde karakterleri ve kişisel ilgileri inceledi. Bir dizinin incelenmesinde ortaokul, lise ve üniversite dönemleri ayrı ele alındı. Bulgular rüya içerikleriyle uyanık yaşamdaki ilgiler arasında süreklilik örnekleri sundu. İki kişinin günlüklerine dayanan bu çalışma, lise görülen her rüyanın kimlik bunalımı veya sınav kaygısı olduğunu göstermez.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Kişiler ve ilgi alanları, lise yıllarıyla bugünkü deneyiminizi karşılaştırmak için somut ayrıntılar sağlayabilir.",
+  "differences": "Lise çağında kaydedilen rüyalar ile rüyada bir lise binası görmek aynı araştırma konusu değildir. Kaynağın yaşam dönemi bulguları, tek bir okul sahnesinin tabirine dönüştürülmemelidir.",
+  "inusAssessment": "Lise rüyası, genel okul imgesinden daha belirli bir dönemi ve ilişkileri hatırlatabilir. INUS değerlendirmesi şu anda lisede olmanızla yıllar sonra o yere dönmenizi ayırır. Arkadaşlar, öğretmenler, dersler ve mezuniyet farklı odaklardır. Rüyanın hangi ayrıntısının bugünkü hayatınızla size bir bağlantı kurdurduğunu düşünmek, her lise rüyasını sınav kaygısı saymaktan daha açıklayıcı olabilir.",
+  "faq": [
+    {
+      "question": "Lise görmek geçmişe dönmek istediğim anlamına mı gelir?",
+      "answer": "Zorunlu olarak değil. Özlem, eski bir arkadaşlık, belirli bir olay veya tamamlanma duygusu farklı biçimlerde akla gelebilir. Rüyadaki duyguya bakmak bu ayrımı kolaylaştırır."
+    },
+    {
+      "question": "Lise rüyası sınavda başarısız olacağımı gösterir mi?",
+      "answer": "Hayır. Rüyadaki hazırlıksızlık veya gecikme sahnesi gelecekteki sınav sonucunu bildirmez. Gerçek hazırlığınız ve rüyada hissettiğiniz kaygı ayrı değerlendirilmelidir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "From Adolescence to Young Adulthood in Two Dream Series: The Consistency and Continuity of Characters and Major Personal Interests",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_schneider_2020.pdf",
+      "relevance": "İki genç kadının uzun dönem rüya dizilerini inceler; lise dönemi yaşam evresi olarak ayrılır. Lise binasını görmenin sabit anlamını araştırmaz.",
+      "author": "G. William Domhoff ve Adam Schneider",
+      "year": 2020
+    }
+  ],
+  "relatedSlugs": []
+}

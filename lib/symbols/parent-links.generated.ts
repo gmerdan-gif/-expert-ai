@@ -145,5 +145,20 @@ export const editorialParentSlugs: Record<string, string[]> = {
   ],
   "kumarda-para-kazanmak": [
     "para"
+  ],
+  "adam-dovmek": [
+    "adam"
+  ],
+  "devlet-adami": [
+    "adam"
+  ],
+  "arsa-almak": [
+    "arsa"
+  ],
+  "kafada-bit": [
+    "bit"
+  ],
+  "bitlenmek": [
+    "bit"
   ]
 };

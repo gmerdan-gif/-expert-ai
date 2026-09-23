@@ -1,0 +1,71 @@
+{
+  "slug": "adam",
+  "title": "adam",
+  "shortDescription": "Rüyada bir adam görmek, tanıdıklık, güven ve mesafe gibi ilişki deneyimlerini düşündürebilir. Adamın kim olduğu, davranışı ve sizde uyandırdığı duygu önemlidir.",
+  "positiveAssociations": [
+    "Birinden yardım almak",
+    "Bir konuşmada anlaşılmak",
+    "Tanıdık bir kişiyle yeniden karşılaşmak"
+  ],
+  "challengingAssociations": [
+    "Tanımadığınız birinin yaklaşmasından tedirgin olmak",
+    "Birinin baskısıyla karşılaşmak",
+    "Bir yüzü tanımaya çalışıp çıkaramamak"
+  ],
+  "contextDependentAssociations": [
+    "Adamın tanıdık veya yabancı olması",
+    "Size söyledikleri ve yaptıkları",
+    "Aranızdaki mesafe ve sizin tepkiniz"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanımadığınız bir adamla konuşmak",
+      "description": "Konuşmanın konusu ve karşılıklı tutum, yalnız kişinin erkek olmasından daha açıklayıcı olabilir. Yardım mı istiyordunuz, bir şeyi mi anlatıyordunuz, yoksa konuşmadan uzaklaşmak mı istiyordunuz?"
+    },
+    {
+      "title": "Tanıdık bir adamın farklı davranması",
+      "description": "Rüyadaki davranışın gerçek kişinin niyetini gösterdiğini varsaymayın. Size tanıdık gelen tarafı ile şaşırtan davranışı ayırmak, sahneyi kendi deneyiminizle karşılaştırmanıza yardımcı olabilir."
+    },
+    {
+      "title": "Bir adamın size yol göstermesi",
+      "description": "Yardımı kabul edip etmediğiniz önemlidir. Rahatlama, kuşku veya bağımsız hareket etme isteği, bu karşılaşmanın sizde uyandırdığı farklı duygular olabilir."
+    },
+    {
+      "title": "Yüzünü seçemediğiniz bir adam görmek",
+      "description": "Yüzün belirsiz olması dışında sesini, kıyafetini veya bulunduğu yeri hatırlıyor olabilirsiniz. Hatırlamadığınız ayrıntılara kimlik yüklemek yerine, sahnede gerçekten seçebildiğiniz unsurlardan başlayın."
+    }
+  ],
+  "psychology": "Domhoff’un içerik analizi değerlendirmesi, tanıdık ve yabancı karakterleri ve bu kişilerle dostça ya da saldırgan etkileşimleri ayrı ayrı inceler. Bunlar rüya grupları arasında yapılan karşılaştırmalardır. Belirli bir rüyadaki adamın tehlikeli, koruyucu veya baba figürü olduğunu tek başına göstermez. Kişinin görünüşünden çok rüyada ne yaptığına ve sizin tepkinize bakmak, kendi anlatınızı daha ayrıntılı düşünmenizi sağlar.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Kimlik, davranış ve karşılıklı ilişki, rüyadaki bir kişiyi tarif etmek için ayrı ayrıntılardır.",
+  "differences": "Grup düzeyindeki karakter sıklıkları kişisel rüya tabiri değildir. Bir adamın sizin için taşıdığı çağrışım, onunla yaşadığınız sahneye bağlıdır.",
+  "inusAssessment": "Bu sayfadaki adam, rüyada görülen yetişkin erkek figürüdür; Âdem peygamberi anlatan özel isimle aynı kapsamda değildir. INUS değerlendirmesinde kişinin tanıdık olup olmadığı, yaptığı şey ve sizin onunla ilişkiniz öne çıkar. Bir erkek figürü yalnız cinsiyeti nedeniyle otorite, tehdit veya rehber sayılmaz. Buradaki sahne okumaları kendi çağrışımlarınızı düşünmeniz için olasılıklardır.",
+  "faq": [
+    {
+      "question": "Rüyada yabancı bir adam görmek yeni bir ilişkiyi haber verir mi?",
+      "answer": "Yalnız bu görüntüden gelecekteki bir tanışma veya ilişki sonucu çıkarılamaz. Konuşma, uzaklık, yakınlık ve rüyada hissettiğiniz duygu daha somut ayrıntılardır."
+    },
+    {
+      "question": "Rüyadaki adam gerçek hayattaki bir kişiyi mi temsil eder?",
+      "answer": "Bazen tanıdığınız bir kişiyi açıkça hatırlayabilirsiniz; bazen kimliği belirsizdir. Rüyadan yola çıkarak gerçek bir kişinin niyetini bildiğinizi varsaymak doğru olmaz."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Gender Similarities and Differences in Dreams",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2005c.html",
+      "relevance": "Rüya karakterlerinin tanıdıklığı ve sosyal etkileşimlerini grup düzeyinde karşılaştırır. Tek bir erkek figürünün anlamını belirlemez.",
+      "author": "G. William Domhoff"
+    }
+  ],
+  "relatedSlugs": [
+    "adam-dovmek",
+    "devlet-adami"
+  ]
+}
