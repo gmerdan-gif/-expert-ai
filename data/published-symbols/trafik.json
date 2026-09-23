@@ -1,0 +1,67 @@
+{
+  "slug": "trafik",
+  "title": "trafik",
+  "shortDescription": "Rüyada trafik, başkalarıyla aynı akışta ilerleme veya beklemek zorunda kalma deneyimini öne çıkarabilir. Yoğunluk, yön ve sürücü mü yolcu mu olduğunuz önemlidir.",
+  "positiveAssociations": [
+    "Birlikte hareket eden akışa katılmak",
+    "Bekleyişin ardından ilerlemek",
+    "Ulaşılacak yere yaklaşmak"
+  ],
+  "challengingAssociations": [
+    "Sıkışıklıkta beklemek",
+    "Geç kalma baskısı",
+    "Başkalarının hareketlerini öngörememek"
+  ],
+  "contextDependentAssociations": [
+    "Sürücü, yolcu veya yaya olmanız",
+    "Trafiğin durması veya akması",
+    "Bir yere yetişmeye çalışıp çalışmadığınız"
+  ],
+  "commonVariations": [
+    {
+      "title": "Trafikte sıkışıp kalmak",
+      "description": "Beklerken neye yetişmeye çalıştığınızı ve yapabileceğiniz bir şey olup olmadığını düşünün. Sabırsızlık, çaresizlik veya beklemeyi kabullenmek farklı deneyimlerdir."
+    },
+    {
+      "title": "Yolcu olarak trafiği izlemek",
+      "description": "Aracı başkasının kullanması ile sizin sürmeniz aynı durum değildir. Sürücüye güvenip güvenmediğiniz, varış noktasından daha fazla dikkatinizi çekmiş olabilir."
+    },
+    {
+      "title": "Yoğun trafikte karşıya geçmeye çalışmak",
+      "description": "Boşluk aramak, yardım almak veya beklemek sahnenin ayrı parçalarıdır. Kendinizi güvende hissettiğiniz anın ne zaman değiştiğine bakabilirsiniz."
+    },
+    {
+      "title": "Trafiğin birden açılması",
+      "description": "Rahatlama yalnız hareket etmekten mi, gecikme korkusunun bitmesinden mi geliyordu? Önceki bekleyiş ile sonrasındaki duygu arasındaki farkı düşünün."
+    }
+  ],
+  "psychology": "Rüya içerik analizi, kişileri, eylemleri, mekânı ve duyguları ayrı kategorilerde inceler. Trafik sahnesinde sürücü olmanızla yolcu olmanız veya beklemenizle hareket etmeniz ayrı ayrıntılardır. Bu sınıflama trafiğe tek bir psikolojik anlam vermez.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Hareket ve bekleme, rüyadaki zaman duygusunu düşünmek için somut ayrıntılardır.",
+  "differences": "Bir içerik kategorisi ile yaşamınız hakkında kesin sonuç aynı şey değildir.",
+  "inusAssessment": "Trafik rüyasında araçların çokluğu kadar sizin konumunuz önemlidir. Sürücü, yolcu ve yaya aynı ölçüde karar vermez veya aynı şeyleri görmez. INUS, bekleme, zaman baskısı ve hareket alanını rüyanın somut ayrıntılarıyla ele alır. Trafiğin tıkanması yaşamınızın mutlaka tıkandığını, açılması da yakın zamanda bütün sorunların çözüleceğini göstermez.",
+  "faq": [
+    {
+      "question": "Trafik rüyası bir kaza haberi mi?",
+      "answer": "Rüya gelecekteki bir kazayı bildirmez. Rüyadaki tedirginlik ile gerçek bir olay hakkında kanıt ayrı şeylerdir."
+    },
+    {
+      "question": "Trafikte beklemek başarısızlık anlamına mı gelir?",
+      "answer": "Hayır. Bekleme sırasında neye önem verdiğiniz ve hangi seçenekleri gördüğünüz üzerinden kişisel bir değerlendirme yapabilirsiniz."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Content Analysis Explained",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html",
+      "relevance": "Nesne, mekân, etkinlik ve duygu ayrımını açıklayan genel rüya içerik analizi yöntemi; bu sembol için sabit anlam kanıtı değildir."
+    }
+  ],
+  "relatedSlugs": []
+}

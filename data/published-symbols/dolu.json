@@ -1,0 +1,67 @@
+{
+  "slug": "dolu",
+  "title": "dolu",
+  "shortDescription": "Rüyada dolu yağışı, aniden değişen koşullar ve korunma ihtiyacını çağrıştırabilir. Tanelerin büyüklüğü, sığınacak yer ve çevrede bıraktığı etki önemlidir.",
+  "positiveAssociations": [
+    "Korunaklı bir yere ulaşmak",
+    "Yağışın geçmesini izlemek",
+    "Birini veya bir eşyayı koruyabilmek"
+  ],
+  "challengingAssociations": [
+    "Ani gürültüyle irkilmek",
+    "Açıkta kalmak",
+    "Eşyaların zarar görmesinden kaygılanmak"
+  ],
+  "contextDependentAssociations": [
+    "İçeride veya dışarıda olmanız",
+    "Dolu tanelerinin büyüklüğü",
+    "Yağışın ne kadar sürdüğü"
+  ],
+  "commonVariations": [
+    {
+      "title": "Pencereden dolu yağışını izlemek",
+      "description": "Korunaklı bir yerde olmak ile dışarıda kalmak farklı deneyimlerdir. Ses, görüntü ve dışarıda kalan bir şey için endişelenip endişelenmediğiniz önemlidir."
+    },
+    {
+      "title": "Dolu başlayınca sığınak aramak",
+      "description": "Nereye yöneldiğinizi ve yardım alıp almadığınızı düşünün. Rüyadaki güvenlik arayışı yaklaşan bir felaketi bildirmez."
+    },
+    {
+      "title": "Dolu altında kalan bir eşyayı korumak",
+      "description": "Eşyanın sizin için neden önemli olduğunu hatırlayın. Parasal değer, emek veya bir hatıra farklı kişisel çağrışımlar oluşturabilir."
+    },
+    {
+      "title": "Dolunun durup eridiğini görmek",
+      "description": "Rahatlama mı, geride kalan hasarı inceleme isteği mi öne çıkıyordu? Yağışın sona ermesi ile yaşadığınız duygunun bitmesi aynı anda olmayabilir."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "Nûr sûresinin 43. ayeti bulutların birleşmesini, yağmuru, doluyu ve şimşeği Allah’ın kudreti bağlamında anar. Bu, doğa olayları üzerine bir dinî anlatımdır; dolu görülen rüyadan kişiye yönelik ceza veya gelecek haberi çıkarmak için bir tabir değildir.",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Yağışın etkisi ve kişinin korunaklı olup olmaması sahneyi düşünmek için somut ayrıntılardır.",
+  "differences": "Ayetin dinî bağlamı ile bir rüyanın kişisel çağrışımı birbirinin yerine geçmez.",
+  "inusAssessment": "Dolu burada hava olayıdır; bir kabın dolu olması veya ölüm temasıyla aynı kapsamda değildir. INUS, yağışın büyüklüğünü, sizin bulunduğunuz yeri ve korunmak için yaptıklarınızı birlikte ele alır. Dolu görüntüsünden kişinin cezalandırıldığı, kriz yaşayacağı veya zorunlu bir dönüşüm geçirdiği sonucu çıkarılmaz.",
+  "faq": [
+    {
+      "question": "Dolu görmek kötü bir olayın habercisi mi?",
+      "answer": "Rüyadaki dolu gerçek bir felaketin gerçekleşeceğini göstermez. Korku, şaşkınlık ve rahatlama sahnenin farklı parçaları olabilir."
+    },
+    {
+      "question": "Dolu ile yağmur aynı şekilde mi ele alınır?",
+      "answer": "Aynı olmak zorunda değildir. Rüyada ses, tanelerin görünümü ve korunma ihtiyacı farklı hissedilebilir. Hatırladığınız ayrıntılardan başlayabilirsiniz."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nûr sûresi, 24:43",
+      "url": "https://quran.com/24/43",
+      "relevance": "Bulut, yağmur, dolu ve şimşeği Allah’ın kudreti bağlamında anan ayet; kişisel dolu rüyalarına tabir sunmaz."
+    }
+  ],
+  "relatedSlugs": []
+}

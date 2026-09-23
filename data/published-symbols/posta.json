@@ -1,0 +1,67 @@
+{
+  "slug": "posta",
+  "title": "posta",
+  "shortDescription": "Rüyada posta, haber bekleme ve iletişim kurma deneyimleriyle birlikte düşünülebilir. Gönderinin gelişi, gecikmesi ve kime ait olduğu farklı çağrışımlar oluşturur.",
+  "positiveAssociations": [
+    "Birinden haber almak",
+    "Gönderdiğinin ulaştığını öğrenmek",
+    "Bir bağlantıyı yeniden kurmak"
+  ],
+  "challengingAssociations": [
+    "Beklenen gönderinin gecikmesi",
+    "İçeriği öğrenmekten çekinmek",
+    "Özel bir gönderinin yanlış kişiye ulaşması"
+  ],
+  "contextDependentAssociations": [
+    "Gönderen ve alıcının kimliği",
+    "Mektup, paket veya başka bir gönderi olması",
+    "Gönderinin açılması veya kapalı kalması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Posta kutusunda gönderi bulmak",
+      "description": "Göndereni tanıyıp tanımadığınızı ve açmadan önce ne hissettiğinizi düşünün. Merak ile kaygı aynı görüntüde birlikte bulunabilir."
+    },
+    {
+      "title": "Beklediğiniz postanın gelmemesi",
+      "description": "Beklediğiniz şeyin kendisi mi, belirsizliğin sürmesi mi sizi zorluyordu? Rüyadaki bekleyiş gerçek hayatta gönderinin gecikeceğini göstermez."
+    },
+    {
+      "title": "Yanlış adrese giden posta görmek",
+      "description": "Gönderinin kime ait olduğunu ve hatayı düzeltmeye çalışıp çalışmadığınızı ayırın. Yanlış anlaşılma üzerine kişisel çağrışım kurabilirsiniz; bunu gerçek bir haberin kaybolacağına ilişkin işaret saymayın."
+    },
+    {
+      "title": "Bir gönderiyi postaya vermek",
+      "description": "İçeriği teslim ettikten sonra rahatladınız mı, geri almak mı istediniz? Göndermek ve yanıt beklemek farklı aşamalardır; hangisinin öne çıktığına bakın."
+    }
+  ],
+  "psychology": "İçerik analizinde bir nesne, onunla yapılan eylem ve eşlik eden duygu ayrı kaydedilebilir. Posta sahnesini bulmak, göndermek, açmak veya beklemek olarak ayırmak bu genel yöntemle uyumludur. Yöntem, postanın bilinçdışından veya dışarıdaki bir kişiden gelen doğrulanmış mesaj olduğunu söylemez.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Gönderinin geliş biçimi ve ona verdiğiniz tepki ayrı düşünülmelidir.",
+  "differences": "Rüyadaki iletişim çağrışımı ile gerçek bir kişinin iletmek istediği mesaj aynı bilgi değildir.",
+  "inusAssessment": "Posta burada fiziksel gönderi ve teslim sürecidir; e-posta veya yalnız bir mektubun içeriğiyle aynı kapsamda değildir. INUS değerlendirmesi göndereni, alıcıyı, teslim durumunu ve sizde oluşan duyguyu ayırır. Rüyada posta görmek mutlaka yakında haber geleceği veya birinin size gizli mesaj gönderdiği anlamına gelmez.",
+  "faq": [
+    {
+      "question": "Posta görmek yakında haber alacağımı gösterir mi?",
+      "answer": "Hayır. Gönderi bekleme veya alma sahnesi gelecekteki bir haberi doğrulamaz. Rüyadaki merak ve beklenti kişisel olarak düşünülebilir."
+    },
+    {
+      "question": "Kapalı gönderinin içeriğini yorumdan öğrenebilir miyim?",
+      "answer": "Rüyada içeriği görmediyseniz bunu bilmediğiniz bir ayrıntı olarak bırakmak gerekir. Yorum, görünmeyen içeriği doğrulanmış bilgiye dönüştürmez."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Content Analysis Explained",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html",
+      "relevance": "Nesne, mekân, etkinlik ve duygu ayrımını açıklayan genel rüya içerik analizi yöntemi; bu sembol için sabit anlam kanıtı değildir."
+    }
+  ],
+  "relatedSlugs": []
+}
