@@ -80,9 +80,70 @@ export const editorialParentSlugs: Record<string, string[]> = {
     "siyah-renk"
   ],
   "siyah-orumcek": [
-    "siyah-renk"
+    "siyah-renk",
+    "orumcek"
   ],
   "siyah-panter": [
     "siyah-renk"
+  ],
+  "masa-basinda-oturmak": [
+    "masa"
+  ],
+  "buyuk-orumcek": [
+    "orumcek"
+  ],
+  "dev-orumcek": [
+    "orumcek"
+  ],
+  "tarantula": [
+    "orumcek"
+  ],
+  "cam-bardak": [
+    "cam"
+  ],
+  "cam-kirilmasi": [
+    "cam"
+  ],
+  "kirik-cam": [
+    "cam"
+  ],
+  "elbise-almak": [
+    "elbise"
+  ],
+  "beyaz-elbise-giymek": [
+    "elbise"
+  ],
+  "takim-elbise": [
+    "elbise"
+  ],
+  "buyuk-dalga": [
+    "dalga"
+  ],
+  "deniz-dalgasi": [
+    "dalga"
+  ],
+  "bozuk-para": [
+    "para"
+  ],
+  "madeni-para": [
+    "para"
+  ],
+  "para-bulmak": [
+    "para"
+  ],
+  "para-kaybetmek": [
+    "para"
+  ],
+  "para-saymak": [
+    "para"
+  ],
+  "yerden-para-toplamak": [
+    "para"
+  ],
+  "birinin-sana-para-vermesi": [
+    "para"
+  ],
+  "kumarda-para-kazanmak": [
+    "para"
   ]
 };

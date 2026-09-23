@@ -1,0 +1,76 @@
+{
+  "slug": "masa",
+  "title": "masa",
+  "shortDescription": "Rüyada masa, çalışma, paylaşım veya bir araya gelme alanı olabilir. Üzerindeki nesneler, çevresindeki kişiler ve masanın dolu ya da boş olması birlikte değerlendirilir.",
+  "positiveAssociations": [
+    "Bir araya gelmek ve konuşmak",
+    "Çalışmak için kendine yer açmak",
+    "Ortak bir işi düzenlemek"
+  ],
+  "challengingAssociations": [
+    "Bir topluluğun dışında kalmak",
+    "Üst üste yığılmış işlerle karşılaşmak",
+    "Dengesiz bir zeminde çalışmaya uğraşmak"
+  ],
+  "contextDependentAssociations": [
+    "Yemek, çalışma veya toplantı masası olması",
+    "Masada kimlerin bulunduğu",
+    "Kendi yerinizi seçip seçemediğiniz"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kalabalık bir masada oturmak",
+      "description": "Konuşmaya katılabiliyor muydunuz, yoksa sizi duyan yok muydu? Masadaki kişiler ve aranızdaki mesafe, birlikte olma deneyiminizi düşünmek için masanın biçiminden daha somut ayrıntılardır."
+    },
+    {
+      "title": "Boş bir masaya bakmak",
+      "description": "Boşluk rahatlık ve hazırlık alanı da olabilir, birinin eksikliği de. Birini bekleyip beklemediğinizi ve masayı kullanmak isteyip istemediğinizi hatırlamaya çalışın."
+    },
+    {
+      "title": "Dağınık bir çalışma masasını toplamak",
+      "description": "Eşyaları ayırmak ve yer açmak, rüyadaki düzenleme çabasını öne çıkarır. Hangi parçayı bulamadığınız veya bırakmak istemediğiniz kişisel çağrışımlarınızı değiştirebilir."
+    },
+    {
+      "title": "Ayağı sallanan bir masa kullanmak",
+      "description": "Bir iş yapmaya çalışırken masayı sürekli tutmak zorunda kalmanız, sahnedeki desteğin yetersizliğini hissettirebilir. Bu düşünme önerisi, gerçek hayatta bir ilişkinin veya işin çökeceği anlamına gelmez."
+    }
+  ],
+  "psychology": "Hall/Van de Castle içerik analizi, rüya anlatısındaki nesneleri, kişileri, etkinlikleri ve duyguları ayrı kategorilerde inceler. Masa sahnesini bu ayrıntılara ayırmak mümkündür; yöntem masanın herkes için aynı anlamı taşıdığını söylemez. Farklı bir düzlemde Freud, Rüyaların Yorumu’nun semboller bölümünde masayı kadın bedeniyle ilişkilendirir. Bu, tarihsel psikanalitik bir yorumdur; her masa rüyasına uygulanabilen bilimsel bir bulgu değildir.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Rüyadaki nesnenin yanında onunla yapılan eylemi ve sahnedeki kişileri kaydetmek, kendi deneyiminizi daha ayrıntılı düşünmenizi sağlar.",
+  "differences": "İçerik analizi anlatıda neler bulunduğunu sınıflandırır; Freud’un sembol yorumu ise bir kuramsal anlam önerir. Bu iki yaklaşım aynı tür açıklama değildir.",
+  "inusAssessment": "Masa rüyasında önce masanın kullanımını ayırın: yemek yemek, çalışmak, konuşmak ve birini beklemek aynı sahne değildir. Ardından masadaki yerinizi, diğer kişileri ve yaptığınız işi düşünün. INUS değerlendirmesinde masa, tek başına bereket veya anlaşmazlık haberi olarak ele alınmaz. Buradaki sahne önerileri, hatırladığınız ayrıntılarla kendi çağrışımlarınızı karşılaştırmanız içindir.",
+  "faq": [
+    {
+      "question": "Boş masa yoksulluk anlamına mı gelir?",
+      "answer": "Boş masadan maddi geleceğiniz hakkında sonuç çıkarılamaz. Hazırlık, bekleme, yalnızlık veya rahatlama gibi farklı kişisel deneyimler söz konusu olabilir."
+    },
+    {
+      "question": "Yemek masası ile çalışma masası aynı şekilde mi yorumlanır?",
+      "answer": "Hayır. Birinde paylaşım ve birlikte yeme, diğerinde görev ve çalışma düzeni öne çıkabilir. Rüyada gerçekte ne yaptığınız bu ayrımı belirler."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Content Analysis Explained",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html",
+      "relevance": "Hall/Van de Castle yönteminde nesneler, kişiler, etkinlikler ve duyguların ayrı kodlandığını açıklar; masa için sabit bir anlam belirlemez."
+    },
+    {
+      "title": "The Interpretation of Dreams — Chapter 6, part 2",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm",
+      "relevance": "E bölümündeki masa ve tahta yüzey örneği, Freud’un tarihsel cinsel sembol yorumunu gösterir; güncel ampirik doğrulama değildir.",
+      "author": "Sigmund Freud",
+      "year": 1900
+    }
+  ],
+  "relatedSlugs": [
+    "masa-basinda-oturmak"
+  ]
+}

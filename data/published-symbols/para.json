@@ -1,0 +1,76 @@
+{
+  "slug": "para",
+  "title": "para",
+  "shortDescription": "Rüyada para, maddi kaygılar, güvence veya bir şeye verdiğiniz değerle birlikte düşünülebilir. Parayı bulmak, kaybetmek ve paylaşmak farklı durumlar olarak ele alınır.",
+  "positiveAssociations": [
+    "Bir ihtiyacı karşılayabilmek",
+    "Emeğinin karşılığını almak",
+    "Birine destek olmak"
+  ],
+  "challengingAssociations": [
+    "Yetmeyeceğinden endişe etmek",
+    "Kaybetme veya borçlu kalma hissi",
+    "Bir alışverişte haksızlığa uğramak"
+  ],
+  "contextDependentAssociations": [
+    "Paranın kime ait olduğu",
+    "Bulmak, kazanmak, vermek veya kaybetmek",
+    "Miktardan çok rüyadaki ihtiyacın karşılanıp karşılanmadığı"
+  ],
+  "commonVariations": [
+    {
+      "title": "Yerde para bulmak",
+      "description": "Paranın sahibini aramanız, saklamanız veya orada bırakmanız farklı duygular yaratabilir. Bulmanın sevinci kadar o parayla ne yapmak istediğinizi de düşünün."
+    },
+    {
+      "title": "Ödeme yaparken paranın yetmemesi",
+      "description": "Neyi alamadığınız ve karşınızdaki kişinin tepkisi önemlidir. Sahne ihtiyaç, mahcubiyet veya hazırlıksızlık üzerine düşündürebilir; gelecekte yoksullaşacağınızı göstermez."
+    },
+    {
+      "title": "Birine para vermek",
+      "description": "Hediye, borç, yardım ve zorla ödeme aynı eylem değildir. Parayı isteyerek verip vermediğiniz ve sonrasında ne hissettiğiniz, rüyadaki ilişkinin kişisel anlamını değiştirebilir."
+    },
+    {
+      "title": "Kaybolan parayı aramak",
+      "description": "Paranın miktarı mı, ona yüklediğiniz emek mi öne çıkıyordu? Arama sırasında suçladığınız biri varsa, rüyadaki şüpheyi o kişi hakkında gerçek bir kanıt gibi ele almayın."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "Adiya Sutta’da uygun yolla edinilmiş servetin kişinin ve yakınlarının ihtiyaçları, dostlara destek, korunma ve bağış için kullanılması ele alınır. Metin para rüyalarına bir anlam vermez. Rüyadaki verme veya harcama sahnesini düşünürken, servetin ne için kullanıldığına ilişkin kültürel bir karşılaştırma sunabilir.",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Paranın miktarı kadar kullanım amacı ve ilişkideki rolü de düşünmeye değerdir.",
+  "differences": "Budist metin servetin kullanımına ilişkin bir öğreti sunar. Bir para rüyasının kişisel yorumu veya gelecek tahmini bu öğretinin doğrudan sonucu değildir.",
+  "inusAssessment": "Para rüyasında kazanmak ile bulmak, paylaşmak ile mecburen ödemek ayrı deneyimlerdir. INUS değerlendirmesi paranın nereden geldiğine, kime ait olduğuna ve sahnede neyi mümkün kıldığına bakar. Buradaki güven, sorumluluk ve ihtiyaç çağrışımları kişisel düşünme önerileridir. Rüya, kazanç tahmini veya maddi kararlar için kanıt sağlamaz.",
+  "faq": [
+    {
+      "question": "Rüyada para bulmak gerçek kazancı haber verir mi?",
+      "answer": "Hayır. Rüyadaki bulma sahnesi gelecekteki maddi kazancı göstermez. Sevinç, tereddüt veya sahiplik duygusu üzerinden kişisel olarak değerlendirilebilir."
+    },
+    {
+      "question": "Para vermek mutlaka kayıp anlamına mı gelir?",
+      "answer": "Hayır. Yardım etmek, hediye vermek, borç ödemek ve baskıyla ödeme yapmak farklı sahnelerdir. Rüyadaki niyet ve duygu ayrımı önemlidir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Adiya Sutta: Benefits to be Obtained (from Wealth), AN 5.41",
+      "url": "https://www.accesstoinsight.org/tipitaka/an/an05/an05.041.than.html",
+      "relevance": "Servetin kişinin ve yakınlarının ihtiyaçları, korunma ve bağış için kullanımını anlatan Budist metin. Para rüyalarının anlamını veya maddi kazancı öngörmez."
+    }
+  ],
+  "relatedSlugs": [
+    "bozuk-para",
+    "madeni-para",
+    "para-bulmak",
+    "para-kaybetmek",
+    "para-saymak",
+    "yerden-para-toplamak",
+    "birinin-sana-para-vermesi",
+    "kumarda-para-kazanmak"
+  ]
+}

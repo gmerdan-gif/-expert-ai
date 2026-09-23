@@ -1,0 +1,72 @@
+{
+  "slug": "orumcek",
+  "title": "örümcek",
+  "shortDescription": "Rüyada örümcek, korku, dikkat veya ince bir işle uğraşma hissi uyandırabilir. Örümceğin yeri, ağı ve size yaklaşımı, kişisel çağrışımlarla birlikte değerlendirilir.",
+  "positiveAssociations": [
+    "Bir canlının hareketlerini merakla izlemek",
+    "Ağın ince yapısını fark etmek",
+    "Rahatsız edici bir karşılaşmada mesafe koymak"
+  ],
+  "challengingAssociations": [
+    "Yaklaşan bir canlıdan ürkmek",
+    "Ağa takılma veya kurtulamama hissi",
+    "Gözden kaybolan örümceği ararken tedirgin olmak"
+  ],
+  "contextDependentAssociations": [
+    "Örümceğin size uzaklığı",
+    "Ağın mı hayvanın mı dikkat çektiği",
+    "Gerçek hayatta örümceklere verdiğiniz tepki"
+  ],
+  "commonVariations": [
+    {
+      "title": "Örümceğin ağ örmesini izlemek",
+      "description": "Sahne size ilginç mi, ürkütücü mü geliyordu? Ağın kurulmasını sabır veya emekle ilişkilendirmek kişisel bir çağrışım olabilir; bunu bütün örümcek rüyalarının ortak anlamı saymayın."
+    },
+    {
+      "title": "Üzerinizde örümcek görmek",
+      "description": "Hayvanın yakınlığı ve hareketi, rüyadaki bedensel tedirginliği değiştirebilir. Nereye dokunduğunu, uzaklaştırıp uzaklaştıramadığınızı ve sonrasında rahatlayıp rahatlamadığınızı düşünün."
+    },
+    {
+      "title": "Bir örümcek ağına takılmak",
+      "description": "Önce takılanın bedeniniz mi, elinizdeki bir eşya mı olduğunu ayırın. Kurtulmak için yaptığınız hareket, rüyanın yalnız engel değil, çözüm arama tarafını da gösterebilir."
+    },
+    {
+      "title": "Örümceği evden çıkarmak",
+      "description": "Öldürmek, dışarı bırakmak veya uzak durmak farklı tercihlerdir. Tercihiniz sırasında hissettiğiniz korku, merhamet ya da rahatlama üzerinden kendi deneyiminizi ele alabilirsiniz."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "Ankebût sûresinin 41. ayetinde örümceğin evi, Allah dışında koruyucu edinmenin dayanıksızlığını anlatan bir benzetmede yer alır. Ayetin konusu rüya tabiri değildir. Bu imge kültürel bir çağrışım sağlayabilir; bir kişinin örümcek rüyasından inancı veya geleceği hakkında hüküm çıkarmaya dayanak oluşturmaz.",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Örümceğin kendisi, ağı ve ağın bulunduğu yer ayrı ayrı ele alınabilir.",
+  "differences": "Dinî metindeki benzetme belirli bir öğreti bağlamına aittir. Rüyada yaşadığınız korku, merak veya rahatlama bu metinsel anlamla otomatik olarak aynı değildir.",
+  "inusAssessment": "Örümcek rüyasında canlıyı görmek ile ağına takılmak farklı deneyimlerdir. Bir örümceği uzaktan merakla izlemek, yatağınızda ona rastlamakla aynı duyguyu yaratmayabilir. INUS, bu ayrıntıları ve örümceklerle gerçek hayattaki ilişkinizi birlikte ele alır. Rüyadan çevrenizde gizli bir düşman olduğu, bir kadının sizi yönettiği veya gelecekte zarar göreceğiniz sonucu çıkarılmaz.",
+  "faq": [
+    {
+      "question": "Örümcek görmek gizli düşman olduğu anlamına mı gelir?",
+      "answer": "Böyle bir sonucu yalnız rüyadan çıkarmak mümkün değildir. Korkutucu sahne ile gerçek bir kişi hakkında kanıt birbirinden ayrılmalıdır."
+    },
+    {
+      "question": "Örümcek ağı her zaman tuzak mı demektir?",
+      "answer": "Hayır. Ağa takılmak, ağı temizlemek ve örülmesini izlemek farklı sahnelerdir. Size ne hissettirdiği, ağın kendisinden daha açıklayıcı olabilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ankebût sûresi, 29:41",
+      "url": "https://quran.com/29/41",
+      "relevance": "Örümceğin evi üzerinden Allah dışında dayanak edinmeye ilişkin benzetme içerir; örümcek rüyaları için bir tabir vermez."
+    }
+  ],
+  "relatedSlugs": [
+    "buyuk-orumcek",
+    "dev-orumcek",
+    "siyah-orumcek",
+    "tarantula"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "cam",
+  "title": "cam",
+  "shortDescription": "Rüyada cam, dışarıyı görme imkânı ile aradaki engeli birlikte düşündürebilir. Camın sağlamlığı, saydamlığı ve ona dokunup dokunmadığınız yorumu değiştirir.",
+  "positiveAssociations": [
+    "Bir şeyi daha net görebilmek",
+    "Görüşü kesmeden korunmak",
+    "Hassas bir eşyayı özenle taşımak"
+  ],
+  "challengingAssociations": [
+    "Kırılma ve yaralanma endişesi",
+    "Görüp ulaşamamak",
+    "Çatlağın büyümesini engelleyememek"
+  ],
+  "contextDependentAssociations": [
+    "Pencere, bardak veya cam yüzey olması",
+    "Camın temiz, buğulu, çatlak veya kırık olması",
+    "Camın hangi tarafında bulunduğunuz"
+  ],
+  "commonVariations": [
+    {
+      "title": "Camın arkasındaki birine ulaşamamak",
+      "description": "Görebilmek ile temas kurabilmek arasındaki fark sahnenin odağı olabilir. Karşıdaki kişinin sizi fark edip etmediğini ve camın açılıp açılmadığını düşünün."
+    },
+    {
+      "title": "Buğulu camı silmek",
+      "description": "Silince neyi görmeyi beklediğiniz önemlidir. Görüntünün netleşmesi, merak veya rahatlama hissini değiştiriyorsa, kişisel çağrışımınızı bu değişim üzerinden ele alabilirsiniz."
+    },
+    {
+      "title": "Kırık camları toplamak",
+      "description": "Burada kırılma anından çok sonrasındaki dikkat ve temizleme işi öne çıkabilir. Kimi korumaya çalıştığınızı ve yardım alıp almadığınızı hatırlayın."
+    },
+    {
+      "title": "Çatlamış bir cam kabı taşımak",
+      "description": "Kabın içindekini korumak ile kabı düşürmemek farklı kaygılardır. Ne taşıdığınız, onu neden bırakmadığınız ve elinizde ne hissettiğiniz sahneyi daha belirgin kılar."
+    }
+  ],
+  "psychology": "",
+  "jungian": "IAAP’nin Jung’un Psikoloji ve Simya eserine ilişkin özetinde, içinde jelatinimsi madde bulunan bir cam kap, belirli bir kişinin rüya dizisi içinde ele alınır. Aynı derleme, rüyayı önceden belirlenmiş anlamlarla çözmek yerine bağlamını inceleme gereğini vurgular. Bu tek örnek, bütün camların bilinç ile bilinçdışı arasındaki sınırı temsil ettiğini göstermez.",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Camın biçimi ve içinde ya da arkasında bulunan şey, kişisel çağrışımları ayırt etmeye yardımcı olur.",
+  "differences": "Jungcu kaynak belirli bir rüya dizisinin kuramsal yorumunu aktarır. Buradaki gündelik sahne önerileri ise kendi rüyanızın ayrıntılarını düşünmeniz içindir.",
+  "inusAssessment": "Camın saydamlığı, bir şeyi görmeye izin verirken dokunmayı engelleyebilir; kırılması ise sahnenin akışını değiştirebilir. Bunlar kişisel çağrışım kurmak için kullanılabilecek somut özelliklerdir. Pencere, bardak ve yerdeki cam parçaları aynı rüya değildir. INUS değerlendirmesi nesnenin biçimini, onunla ne yaptığınızı ve rüyadaki duyguyu birlikte ele alır.",
+  "faq": [
+    {
+      "question": "Kırık cam kötü bir olayın habercisi mi?",
+      "answer": "Rüyada kırılan cam gelecekteki bir kazayı veya ayrılığı göstermez. Kırılma karşısındaki tepkiniz ve sonrasında yaptıklarınız kişisel değerlendirme için daha somuttur."
+    },
+    {
+      "question": "Cam ile gözlük aynı simge midir?",
+      "answer": "Hayır. Cam bir malzeme, gözlük belirli bir işleve sahip eşyadır. Görüntüde asıl dikkat çeken nesneyi ayırmak, anlamları birbirine karıştırmayı önler."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Volume 12: Psychology and Alchemy — Collected Works Abstracts",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-12-psychology-alchemy/",
+      "relevance": "000400 numaralı özet cam kap içeren belirli bir rüya yorumunu; 000397 ise bağlamı inceleme gereğini aktarır. Jung’un eserinin kurumsal özeti, genel cam tabiri değildir."
+    }
+  ],
+  "relatedSlugs": [
+    "cam-bardak",
+    "cam-kirilmasi",
+    "kirik-cam"
+  ]
+}
