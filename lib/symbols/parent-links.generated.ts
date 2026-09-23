@@ -184,5 +184,14 @@ export const editorialParentSlugs: Record<string, string[]> = {
   ],
   "gebelik-testinde-cift-cizgi": [
     "gebelik-testi"
+  ],
+  "gri-kedi": [
+    "gri-renk"
+  ],
+  "kahverengi-ayi": [
+    "kahverengi-renk"
+  ],
+  "kahverengi-kopek": [
+    "kahverengi-renk"
   ]
 };
