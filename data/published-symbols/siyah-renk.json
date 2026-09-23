@@ -1,84 +1,214 @@
 {
   "slug": "siyah-renk",
-  "title": "siyah renk",
-  "shortDescription": "Rüyada siyah renk, yas, resmiyet, güven veya belirsizlik gibi farklı çağrışımlar taşıyabilir. Rengin bulunduğu nesne ve size ne hissettirdiği birlikte değerlendirilir.",
+  "title": "Siyah renk",
+  "shortDescription": "Rüyada siyah; otorite, itibar ya da korunma ihtiyacını, bazen de yas, belirsizlik ve gizlenen korkuları çağrıştırabilir. Anlamı, siyahın nerede görüldüğüne, rüyadaki hislere ve kişinin günlük hayatta siyah kullanma alışkanlığına göre değişir.",
   "positiveAssociations": [
-    "Resmiyet ve ciddiyet",
-    "Kendini güvende veya korunmuş hissetmek",
-    "Sade bir görünümü tercih etmek"
+    "Otorite ve itibar",
+    "Korunma veya sınır koyma",
+    "İçsel kaynakları toplama, geri çekilme",
+    "Derin bir dönüşümün hazırlık aşaması (nigredo/çözülme)"
   ],
   "challengingAssociations": [
-    "Yas ve ayrılık çağrışımları",
-    "Karanlıkta ne olduğunu seçememek",
-    "Ağır veya kapalı bir ortamda hissetmek"
+    "Hüzün ve yas",
+    "Karanlık, belirsizlik veya bilinmemezlik hissi",
+    "Manevi sınav veya içsel mücadele",
+    "Gizlenen korkuların yüzeye çıkması"
   ],
   "contextDependentAssociations": [
-    "Siyahın hangi nesnede görüldüğü",
-    "Günlük hayatta bu rengi sevip sevmediğiniz",
-    "Rengin mi, ışık azlığının mı öne çıktığı"
+    "Kişinin siyah giymeye alışık olup olmaması (günlük kullanım alışkanlığı)",
+    "Mevsimsel veya dönemsel bağlam (ör. Talmudik siyah üzüm örneği)",
+    "Rüya sahibinin sosyal/ahlaki konumu veya kültürel rolü (bazı İslami aktarılarda salih/zalim ayrımı)"
   ],
   "commonVariations": [
     {
       "title": "Siyah giysi giymek",
-      "description": "Giysi size şık, rahat, resmî veya yaslı mı hissettiriyordu? Aynı renk, kıyafetin kullanıldığı ortama ve kişisel alışkanlığınıza göre farklı çağrışımlar taşıyabilir."
+      "description": "Rüyada siyah elbise giymek; eğer kişi gündelik yaşamında siyaha alışkınsa itibar veya otorite çağrıştırabilir; alışkın değilse keder ya da geri çekilme duygusu ile okunabilir."
     },
     {
-      "title": "Siyah bir odaya girmek",
-      "description": "Duvarların siyah olması ile ışık olmadığı için odayı görememek farklıdır. Rüyadaki belirsizliğin renkten mi, görememekten mi kaynaklandığını ayırabilirsiniz."
+      "title": "Çevrede yoğun siyah nesneler",
+      "description": "Etrafın veya nesnelerin siyahlaşması, korunma veya sınır koyma eğilimi, bilinmeyene dönük çekilme ya da gölgeyle yüzleşme temalarını işaret edebilir; yorum nesnenin türü ve rüyanın duygusal tonu ile netleşir."
     },
     {
-      "title": "Siyah bir eşya seçmek",
-      "description": "Seçimi isteyerek yapmanız, görünüm ve tercih duygusunu öne çıkarabilir. Nesnenin ne işe yaradığı, yalnız renginden daha açıklayıcı olabilir."
+      "title": "Mevsiminde siyah üzüm görmek",
+      "description": "Mevsiminde siyah üzüm görmek; Talmudik Berakhot örneğinde olduğu gibi, siyah üzümün anlamı mevsime bağlıdır: mevsiminde olumlu, mevsim dışındaysa olumsuz bir alamet sayılabilir; ..."
     },
     {
-      "title": "Siyah ve beyazı yan yana görmek",
-      "description": "Zıtlık rüyanın görsel odağı olabilir. Bu karşıtlığın düzen, ayrım veya gerilim gibi hangi kişisel çağrışımı uyandırdığını düşünün; renkleri iyi ve kötü diye sabitlemeyin."
+      "title": "Her yanı kaplayan derin siyahlık",
+      "description": "Rüyada yoğun karanlık ya da ilksel siyahlık deneyimi, bilinçdışı materyalin yoğunlaştığı, henüz biçimlenmemiş psikik içeriklerin veya simyasal dönüşümün başlangıç evresinin habercisi olarak okunabilir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "Katolik litürjik sanat üzerine kaynakta siyah, yas ve tövbenin yanında ciddiyet ve resmiyetle de ilişkilendirilir. Bunlar belirli bir kültürel sembolizm bağlamındaki açıklamalardır; siyah görülen her rüyaya aynı anlamı vermez.",
-  "jewishTraditions": "Jewish Theological Seminary’de yayımlanan yorum, siyah giysinin bazı rabbanî metinlerde ve yas uygulamalarında keder ve ayrılıkla ilişkisini anlatır. Buradaki konu rüya tabiri değil, giysinin kültürel ve dinî kullanımıdır.",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "İki kültürel kaynakta da siyahın yasla bağlantısı vardır; bu ortaklık bütün siyah rüyalarının yasla ilgili olduğunu göstermez.",
-  "differences": "Kültürel renk kullanımı ile sizin rüyadaki kişisel deneyiminiz aynı şey değildir. Resmiyet, tercih ve görsel zıtlık da sahnenin parçası olabilir.",
-  "inusAssessment": "Siyah renk için önce nesneyi ve ortamı belirlemek gerekir. Sevdiğiniz siyah bir ceket ile içini seçemediğiniz karanlık bir oda aynı deneyim değildir. Yas çağrışımı bazı kültürel metinlerde belirgindir; ancak kişisel zevkiniz, alışkanlığınız ve rüyadaki seçiminiz de önem taşır. Siyahı otomatik olarak kötü haberle eşitlemek bu ayrımları kaybettirir.",
-  "faq": [
+  "psychology": "Ampirik çalışmalar, rüyalarda renk deneyiminin sabit bir sözlüğe sahip olmadığını; siyah-beyaz veya renkli rüya algısının büyük ölçüde görsel bellek, hatırlama süreçleri ve bireyin yaşadığı görsel çevreyle ilişkili olduğunu öne sürer. Bu nedenle psikolojik okumada 'siyah' görüntüsü çoğu zaman algı/hatırlama mekanizmalarının ve o anki duygusal dikkat dağılımının sonucu olarak değerlendirilir; bununla birlikte siyah, tehdit, korunma veya içe dönüklük algılarıyla da bağlantılı şekilde yorumlanabilir—ancak bu bağlantılar rüyanın diğer öğeleriyle sınırlanmalıdır.",
+  "jungian": "Jungcu yaklaşımlar, siyahın gölge, bilinçdışı içerikler ve nigredo gibi simyasal dönüşüm motifleriyle ilişkilendirilebileceğini vurgular.",
+  "islamicTradition": "Modern derlemeler İslami rüya literatüründe siyahı güç, ululuk veya mal ile ilişkilendirirken, aynı zamanda sınav, örtülme veya içsel mücadele çağrışımlarını da aktarır.",
+  "christianTraditions": "Hristiyan sembolik okumalarda siyah sıkça yas, manevi karanlık, ölüm veya zor dönemlerle ilişkilendirilir; litürjik kullanımda (ör. Kutsal Cuma) siyahın yas/hatırlama işlevi öne çıkar. Bu okuma, siyahın rüyada sarsıntı veya manevi sınav temalarıyla bağlanabileceğini gösterir.",
+  "jewishTraditions": "Talmudik kaynaklarda renk yorumları bağlama dayalıdır: Berakhot 56b’de siyah üzüm örneği mevsime göre farklı anlam taşır; Berakhot 57b ise çoğu rengin rüyada iyi sayıldığını belirtir. Bu yüzden Yahudi geleneksel çerçevede siyahın yorumu nesne, mevsim ve bağlama göre şekillenir.",
+  "buddhistEasternApproaches": "Budist sanat ve sembolizminde siyah, ilksel karanlık ve dönüştürülmesi gereken yıkıcı dürtüleri (nefret, cehalet) temsil eder; dönüşüm bağlamında siyah, bu dürtülerin bilgelik ve şefkate çevrilmesini simgeleyebilir.",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel kaynaklarda siyah; korunma, gizlilik, enerji toplama ve simyasal nigredo evresindeki çözülme temalarıyla ilişkilendirilir. Bu yorumlar, rüyanın tonuna göre korunma/rahatlama ya da bastırılmış korkuların görünmesi biçiminde okunmalıdır.",
+  "comparisonTable": [
     {
-      "question": "Siyah renk kötü haber anlamına mı gelir?",
-      "answer": "Hayır. Rengi tek başına bir olayın habercisi saymak için dayanak yoktur. Rüyadaki nesne ve duygu, tek bir renk tabirinden daha açıklayıcıdır."
+      "approach": "Psikoloji (Ampirik)",
+      "interpretation": "Renk algısının hatırlama ve görsel bellek süreçleriyle açıklandığını, siyahın sıklıkla algısal/hatırlamaya bağlı ortaya çıktığını vurgular.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Siyah renk ile karanlık aynı şey midir?",
-      "answer": "Hayır. Siyah bir nesneyi açıkça görebilirsiniz; karanlık ise görmeyi zorlaştıran ortam koşuludur. Rüyada hangisinin baskın olduğunu ayırmak yararlıdır."
+      "approach": "Jungcu Perspektif",
+      "interpretation": "Siyahı gölge, bilinçdışı içerikler ve dönüşümün (nigredo) işareti olarak okur; sembolik ve terapiye yönelik bir çerçeve sunar.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Siyahı otorite, mal/ululuk veya sınav ve örtülme bağlamlarında değerlendirir; yorum rüya sahibinin konumuna göre değişir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Siyahı yas, manevi karanlık ve sınav temalarıyla ilişkilendirir; litürjik kullanım anlamları belirleyicidir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği (Talmud)",
+      "interpretation": "Rüyalarda renk yorumları bağlama bağlıdır; örneğin siyah üzüm için mevsimsel ayrım önem taşır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel / Ezoterik",
+      "interpretation": "Korunma, gizlilik, simyasal çözülme ve dönüşüm hazırlığı temalarını öne çıkarır.",
+      "evidenceLevel": "spiritual"
     }
   ],
+  "commonGround": "Çeşitli disiplinler siyahın rüyalarda genellikle örtme/gizleme ile güç/otorite veya ölüm/duygusal kayıp eksenlerini aynı sembolik alanda taşıdığını kabul ederler; ortak nokta, siyahın tek başına belirleyici olmayan ve bağlam ile rüya sahibinin alışkanlıklarına göre anlamı netleşen çok anlamlı bir işaret olmasıdır.",
+  "differences": "Psikoloji, siyahın görünmesini çoğunlukla algısal ve hatırlama süreçleriyle açıklar; Jungcu ve ezoterik yaklaşımlar siyahı gölge, nigredo ve dönüşüm bağlamında sembolik olarak yorumlar; İslami ve Hristiyan gelenekleri kültürel/ritüel referanslara (otorite, yas, sınav) dayanarak farklı vurgular yapar; Talmudik Yahudi çerçevesi ise nesne ve mevsimi ön plana çıkarır (ör. siyah üzüm örneği).",
+  "inusAssessment": "Rüyadaki siyah renk; karanlık, bilinmeyen, yas, ağırlık, resmiyet veya güç gibi farklı çağrışımları öne çıkarabilir. Anlamın yönünü siyahın hangi nesne ya da kişide görüldüğü, rüyanın duygu tonu ve siyahın korkutucu mu, koruyucu mu, çekici mi hissedildiği belirler. Bu çağrışımlar tek başına sabit bir rüya anlamı oluşturmaz.",
+  "faq": [],
   "sources": [
     {
-      "title": "COLOUR MEANINGS",
-      "url": "https://art.catholic.org.au/2021/12/15/colour-meanings/",
-      "relevance": "Katolik litürjik sanat bağlamında siyahın yas, tövbe ve resmiyet çağrışımlarını tartışır; bir rüya sözlüğü değildir."
+      "title": "Why did we think we dreamed in black and white?",
+      "relevance": "Rüyalarda renk algısı ve siyah‑beyaz ayrımının hatırlama ve görsel bellek süreçleriyle ilişkisini tartışır; siyahın rüyadaki görünürlüğünü yorumlarken algısal kökenlere referans sağlar.",
+      "url": "https://faculty.ucr.edu/~eschwitz/SchwitzPapers/DreamB&W.pdf"
     },
     {
-      "title": "Black North, White West: Color, Grief, and the Geography of the Soul",
-      "url": "https://www.jtsa.edu/torah/black-north-white-west-color-grief-and-the-geography-of-the-soul/",
-      "relevance": "Rabbanî metinler ve yas geleneklerinde siyah giysi kullanımını ele alan yorum yazısı.",
-      "author": "Marcus Mordecai Schwartz",
-      "year": 2025
+      "title": "The Significance of Color in Dreams - Dream Science",
+      "relevance": "Rüyalarda renklerin psikolojik çağrışımlarını ele alırken siyahın karanlık, bilinçdışı içerikler ve dönüşümle ilişkilendirilebileceğini özetler.",
+      "url": "https://www.dreamscience.org/wp-content/uploads/2019/03/Hoss-Hoffman-2004-Significance-of-Color-in-Dreams.pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freudcu çerçeveye göre renklerin doğrudan sabit bir rüya sözlüğüne sahip olmadığı görüşünü savunur; rüya anlamının örtük içerik ve bağlam üzerinden kurulduğunu gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "夢に現れる色の象徴｜ユング心理学が読み解く赤・青・黒・白・黄のこ...",
+      "relevance": "Jungcu perspektiften siyahın gölge, bilinçdışı ve dönüşüm (nigredo) ile ilişkilendirilebileceğine dair sentez sağlayan bir kaynaktır.",
+      "url": "https://www.kokoro-jung.com/dream-color-symbolism/"
+    },
+    {
+      "title": "Color Black in Dreams: Spiritual & Jungian Meaning",
+      "relevance": "Jungcu renk sembolizmi içinde siyahın gölge, bilinmeyen ve dönüşümle ilişkisini özetler.",
+      "url": "https://www.selfgazer.com/blog/black-dream-spiritual-meaning"
+    },
+    {
+      "title": "Interpretation of Dreams: Oneirocritica by Artemidorus",
+      "relevance": "Siyah giysinin rüya yorumunda nasıl değerlendirildiğine ve yorumda nesne türünün renk kadar önem taşıdığına dair izler sunar.",
+      "url": "https://www.goodreads.com/book/show/604460"
+    },
+    {
+      "title": "[PDF] Why did we think we dreamed in black and white?",
+      "relevance": "Rüya tarihindeki renk algısının, özellikle siyah ve beyaz ayrımının, modern psikoloji öncesi düşüncede nasıl ele alındığını tartışır.",
+      "url": "https://www.faculty.ucr.edu/~eschwitz/SchwitzPapers/DreamB&W.pdf"
+    },
+    {
+      "title": "Colors in Islamic Dreams",
+      "relevance": "İslami rüya literatüründeki modern derlemeler üzerinden siyahın güç, otorite, sınav ve kişiye göre değişen anlamlarına ilişkin örnekler sunar.",
+      "url": "https://www.dreamnav.ai/knowledge/article/102"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri S Harfi",
+      "relevance": "Siyah rengin ve siyah elbisenin rüya tabirinde ululuk, mal, şeref ve izzetle ilişkilendirildiğini aktaran çevrim içi derleme.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-s1-harfi.html"
+    },
+    {
+      "title": "IBN SEERiN'S",
+      "relevance": "İbn Sîrîn’e atfedilen İngilizce PDF çeviri, siyahın bolluk, mutluluk, mal ve hükümranlıkla ilişkilendirilebildiğini aktarıyor.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Dream About Black: Meaning & Interpretation",
+      "relevance": "İbn Sîrîn ve el-Nâbulusî’ye atfedilen siyah yorumlarını derleyen çevrim içi sayfa; siyahın itibar, otorite ya da kederle ilişkilendirildiğini aktarır.",
+      "url": "https://tafsiralholm.com/en/dream-interpretation/black/"
+    },
+    {
+      "title": "Colors - Dream Symbols Dictionary - Apostle David E. ...",
+      "relevance": "Rüya renkleri içinde siyahı yas, açlık, ilahi yargı ve karanlık çağrışımlarıyla ele alan modern Hristiyan yorum sayfası.",
+      "url": "https://joshuamediaministries.org/dream-interpretation/dream-symbols-dictionary/colors/"
+    },
+    {
+      "title": "Color Symbolism in Christianitywou.edu › provost › library › exhibits › exhibits2004-05 › color › Images",
+      "relevance": "Hristiyan renk sembolizmi içinde siyahın ölüm, korku, cehalet ve Kutsal Cuma ile ilişkisini özetleyen kaynak.",
+      "url": "https://wou.edu/provost/library/exhibits/exhibits2004-05/color/Images/christianity.pdf"
+    },
+    {
+      "title": "Colors In Biblical Dreams",
+      "relevance": "Siyahı manevi karanlık, yas ve zor dönemler bağlamında yorumlayan Hristiyan rüya-sembolü özeti.",
+      "url": "https://www.theeasternchurch.com/saints/biblical-dream-symbols-guide"
+    },
+    {
+      "title": "Berakhot 56b | The Sefaria Library",
+      "relevance": "Talmudik siyah üzüm örneği üzerinden, siyahın rüyadaki anlamının mevsim ve bağlama bağlı olarak değişebileceğini gösteren doğrudan metinsel bir referans sağlar.",
+      "url": "https://www.sefaria.org/Berakhot.56b"
+    },
+    {
+      "title": "Berakhot 57.b",
+      "relevance": "Rüyada renklerin genel değeri üzerine temel Talmudik çerçeveyi verir; renkler için istisna belirtir.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Rüyalarda renklerin çoğunun iyi alamet sayıldığını aktaran İngilizce çeviri.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "A Jewish Guide to Dream Interpretation",
+      "relevance": "Yahudi rüya yorumunda Talmudik Berakhot çerçevesini ve rüyalarda renklerin anlam taşıyabildiğini özetler.",
+      "url": "https://www.heyalma.com/a-jewish-guide-to-dream-interpretation/"
+    },
+    {
+      "title": "Jewish Color Magic",
+      "relevance": "Yahudi renk sembolizminde siyahın ölüm ve yas ile ilişkilendirildiğini aktarır.",
+      "url": "https://templeofmiriam.com/blog/jewish-color-magic"
+    },
+    {
+      "title": "Color Symbolism in Buddhist Art",
+      "relevance": "Budist sanat ve sembolizm bağlamında siyahın ilksel karanlık, dönüştürülmesi gereken dürtüler ve bunların bilgelik ile dönüştürülmesi temasını açıklar.",
+      "url": "https://web.stanford.edu/class/history11sc/pdfs/Buddhist%20colors.pdf"
+    },
+    {
+      "title": "Black Dream Meaning & Interpretation - Mirror",
+      "relevance": "Modern spiritüel/ezoterik okumalarda siyahın korunma, gizlilik ve simyasal nigredo ile ilişkilendirilmesine dair çağdaş bir özet sunar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/black/"
+    },
+    {
+      "title": "Color Symbolism",
+      "relevance": "Siyah için esoterik ve simyasal bağlamda nigredo, boşluk ve dönüşüm dili sunan renk sembolizmi özeti.",
+      "url": "https://thatsesoteric.com/wiki/Color_Symbolism"
+    },
+    {
+      "title": "Color Black Spiritual Meaning, Symbolism & Psychology",
+      "relevance": "Siyahın spiritüel yorumda koruma, toprağa bağlanma ve gizli bilgiyle ilişkilendirilmesini anlatan çağdaş ezoterik renk okuması.",
+      "url": "https://www.spiritualmarker.com/color-black-spiritual-meaning-symbolism-psychology/"
+    },
+    {
+      "title": "Black in dreams — meaning and symbolism",
+      "relevance": "Siyahın rüya bağlamında gizli olan, sınır, korunma ve dönüşüm öncesi içe çekilme gibi temalarla okunmasına dair çağdaş yorum.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/black"
+    },
+    {
+      "title": "Spiritual Meaning of Black – The Power Color",
+      "relevance": "Siyahın ezoterik uygulamalarda gizlilik, dönüşüm ve enerji toplama temalarıyla ilişkilendirilmesini özetleyen modern spiritüel anlatı.",
+      "url": "https://unifycosmos.com/black/"
     }
   ],
-  "relatedSlugs": [
-    "siyah-ayakkabi",
-    "siyah-ayi",
-    "siyah-bocek",
-    "siyah-giyinmek",
-    "siyah-inek",
-    "siyah-keci",
-    "siyah-kus",
-    "siyah-orumcek",
-    "siyah-panter"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian"
   ]
 }

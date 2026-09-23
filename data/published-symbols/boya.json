@@ -1,72 +1,220 @@
 {
   "slug": "boya",
-  "title": "boya",
-  "shortDescription": "Rüyada boya, bir yüzeyi yenileme, görünümü değiştirme veya bir izi kapatma isteğini çağrıştırabilir. Boyanın rengi, uygulandığı yer ve bıraktığı sonuç önemlidir.",
+  "title": "Boya",
+  "shortDescription": "Rüyada boya görmek, dış görünüşünüzü yenileme, bir şeyi onarma ya da hayatınızda değişiklik yapma isteğini yansıtabilir. Bir şeyi örtüp gizleme çağrışımıyla, dış görünüşle iç dünyanız arasındaki gerilime de işaret edebilir.",
   "positiveAssociations": [
-    "Bir yüzeyi yenilemek",
-    "Renklerle kendini ifade etmek",
-    "Bir işi kendi emeğiyle tamamlamak"
+    "Yeniden biçimlendirme",
+    "İçsel potansiyeli görünür kılma",
+    "Onarım ve tazelenme",
+    "Denge ve psişik bütünleşme"
   ],
   "challengingAssociations": [
-    "İstemeden bir yeri lekelemek",
-    "Sonucu kontrol edememek",
-    "Bir izi kapatma baskısı"
+    "Dış görünüş ile iç gerçeklik arasında gerilim",
+    "Örtme ve gizleme ihtiyacı",
+    "Kısa süren neşe veya yüzeysel çözümler",
+    "Maddi değer kaybı veya elden çıkan sermaye endişesi"
   ],
   "contextDependentAssociations": [
-    "Duvar, kumaş veya resim boyanması",
-    "Boyayı isteyerek seçip seçmediğiniz",
-    "Eski yüzeyin görünür kalması veya tamamen örtülmesi"
+    "Boyanın renginin ruhsal duruma ve niyet değişimine etkisi",
+    "Boyanan nesnenin veya yüzeyin niteliği",
+    "Boyanın dökülmesi, kabarması veya bozulma halleri",
+    "Uygulama biçimi ve rüya sahibinin kişisel çağrışımları"
   ],
   "commonVariations": [
     {
-      "title": "Bir duvarı boyamak",
-      "description": "Bu sahne yaşadığınız ortamı değiştirme isteğini düşündürebilir. Rengi sizin seçmeniz ile başkasının istediği renge boyamanız farklı deneyimlerdir."
+      "title": "Duvarları Farklı Bir Renge Boyamak",
+      "description": "Mekânın yüzeyini yenileme, dışarıya sunulan imajı tazeleme veya yaşam alanında bilinçli bir yönelim değişikliğine gitme çabasını yansıtır."
     },
     {
-      "title": "Boyanın dökülmesi",
-      "description": "İstenmeyen izler bırakmak, rüyadaki kontrol ve düzeltme çabasını öne çıkarabilir. En çok eşyaya gelen zarardan mı, başkasının tepkisinden mi rahatsız olduğunuzu ayırın."
+      "title": "Üstüne Boya Dökülmesi",
+      "description": "Kontrol dışı bir etkenin benlik sunumunu etkilemesi, beklenmedik bir durumun yüzeydeki düzeni bozması veya gizlenen bir şeyin görünür hale gelmesiyle ilişkilidir."
     },
     {
-      "title": "Resim yapmak için boya kullanmak",
-      "description": "Burada yüzeyi kapatmaktan çok bir görüntü oluşturmak önemlidir. Ne çizdiğiniz ve ortaya çıkan sonuçla ilişkiniz, ifade etme deneyimini düşünmeye yardımcı olabilir."
+      "title": "Kabaran veya Dökülen Boya Görmek",
+      "description": "Eskimiş bir katmanın ortadan kalkması, yüzeydeki yapaylığın çözülmesi ve altındaki gerçek durumun açığa çıkma sürecine işaret eder."
     },
     {
-      "title": "Eski boyayı kazımak",
-      "description": "Yeni bir kat sürmeden önce alttakini kaldırmak, hazırlık ve emek gerektiren bir sahnedir. Eski görünümü korumak mı, değiştirmek mi istediğiniz önem taşır."
+      "title": "Elbisenin veya Giysinin Boyanması",
+      "description": "Sosyal kimlik, günlük roller ve dış dünyanın algılanma biçiminde yaşanan geçici değişimler veya kısa süreli neşe halleriyle bağdaştırılır."
     }
   ],
-  "psychology": "",
-  "jungian": "Elana Lakh’ın kuramsal makalesi, görsel sanat üretimini Jungcu analizde ifade ve iletişim imkânı olarak ele alır. Bu çerçeve resim yapma sahnesiyle ilişkilendirilebilir; bir duvarı boyamak veya boya dökmek için hazır bir tabir sağlamaz. Rüyadaki amaç ve oluşan görüntü, kişinin kendi çağrışımlarıyla değerlendirilir.",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Görsel bir değişiklik yapma ve ortaya çıkan sonuçla ilişki kurma, boya sahnesinde birlikte düşünülebilir.",
-  "differences": "Sanat üretimi üzerine kuramsal açıklama ile bir boya rüyasının kişisel yorumu farklı düzlemlerdedir. Birincisi ikincisini kesinleştirmez.",
-  "inusAssessment": "Boya rüyasını yalnız renge indirgememek gerekir. Bir izi örtmek, bir evi yenilemek ve resim yapmak farklı amaçlardır. Boyanın elinizde nasıl davrandığı, yüzeyde ne bıraktığı ve sonucu beğenip beğenmediğiniz, değişiklik yapma deneyiminizin somut ayrıntılarıdır. Renkten hastalık, miras veya kazanç gibi kesin sonuçlar çıkarılmaz.",
-  "faq": [
+  "psychology": "Bununla birlikte psikanalitik teorik çerçevede, rüyalardaki imgeler doğrudan bir nesnenin bire bir kopyası olarak değil, yoğunlaştırma, yer değiştirme ve dolaylı temsil mekanizmalarıyla şekillenir.",
+  "jungian": "Analitik psikoloji yaklaşımında rüyalarda görünen renkler ve boya benzeri nesneler, bilinç ile bilinçdışı arasındaki ilişkiyi ve psişik bütünleşme sürecini yansıtabilir. Özellikle renklerin öne çıkması, duygusal tonu, çözülmemiş gerilimleri ve psikolojik işlev dengesini gösterir. Boya, bireyin yaşam deneyimlerine dayanan kişisel bir sembol olarak ele alındığında, sabit bir anlam taşımaktan ziyade içsel entegrasyonun ve dönüşüm niyetinin bir taşıyıcısı olarak okunur.",
+  "islamicTradition": "İslami rüya tabiri geleneğinde rüyalar sembolik bir dilin çözümlenmesi olarak ele alınır. Muabbirler, hayalî şekillerin iç ve dış yönlerini ayırt ederek yoruma ulaşırlar. Bu bağlamda boya teması bazı derlemelerde elden giden sermaye, sakalda boya olması halinde amelde hile, boya dökmek güvenilmez insanlarla birliktelik ve elbise boyası ise kısa süren neşe biçiminde aktarılmıştır.",
+  "christianTraditions": "Rüyada boyanın aşırı kapatıcılık veya sadece dış yüzeyi parlatma işleviyle belirmesi, insani dış görünüş ile iç gerçeklik arasındaki gerilimi düşündüren bir okuma alanı sunar.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar sembolik okumalara açıktır ve yorumun kendisinin anlamlandırma sürecinde belirleyici olabileceği kabul edilir. Bu çerçevede boya nesnesi, bir şeyi örtme/kapama ile yeni bir yüzey yaratıp dönüştürme arasında çift yönlü bir çağrışım alanı taşır.",
+  "buddhistEasternApproaches": "Budist renk sembolizminde turuncu ve safran tonları feragat, sade yaşam ve keşişlikle ilişkilendirilirken; kırmızı yaşam gücünü, yeşil ise uyum ve eylemi simgeler. Theravada geleneğinde boyar maddelerin doğal kaynaklardan elde edilmesi, boya malzemesini doğallık ve zihinsel dönüşüm kavramlarıyla bağdaştıran bir zemin sunar.",
+  "spiritualApproaches": "Ezoterik ve simyasal yaklaşımlarda boya, maddeyi dönüştürme, yaşamı tazeleme ve içsel potansiyeli dışa yansıtma fikriyle okunur. Yüzeyi yenileme veya onarma işlevi görürken, aynı zamanda gizlenen durumların açığa çıkması veya yeni bir niyetin pratik hayata uyarlanması şeklinde de değerlendirilir.",
+  "comparisonTable": [
     {
-      "question": "Boyanın rengi tek başına anlamı belirler mi?",
-      "answer": "Hayır. Aynı renk bir duvarda, bir resimde veya istemeden oluşan lekede farklı bir deneyimin parçasıdır. Amaç ve sonuç da değerlendirilmelidir."
+      "approach": "Psikanalitik Teori",
+      "interpretation": "Yoğunlaştırma ve yer değiştirme süreçleri üzerinden örtme, yüzey ve benlik sunumu fikirlerinin dolaylı temsilidir.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Bir izi boyayla kapatmak neyi düşündürebilir?",
-      "answer": "Rüyadaki niyetiniz önemlidir: onarım mı yapıyordunuz, görünümü mü değiştiriyordunuz, bir şeyi mi saklıyordunuz? Bu ayrımları kendinize sormak, hazır bir tabirden daha somut olabilir."
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilinçdışı mesajların ve psikolojik işlev dengesinin renkler aracılığıyla psişik bütünleşmeye yaklaşma çabasıdır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Sembolik dilin çözümlenmesi çerçevesinde sermaye değişimi, ameldeki tutumlar veya geçici neşe alameti olarak değerlendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyanlık Bağlamı",
+      "interpretation": "Yapay süsleme, dış görünüş ile içsel gerçeklik arasındaki gerilim ve aldatıcı parlaklık çağrışımı taşır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Simyasal Yaklaşım",
+      "interpretation": "Maddeyi dönüştürme, yeni bir yüzey yaratma, onarma ve yaşamı tazeleme aracıdır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenek ve yaklaşımların ortak noktasında, boyanın katı ve sabit bir nesneden ziyade bir örtme, değiştirme ve yeniden biçimlendirme aracı olması yer alır.",
+  "differences": "Yaklaşımlar arasındaki temel ayrım, psikanalitik ve Jungcu ekollerin süreci bireyin içsel psişik denge ve bağlamsal çağrışımlarına dayandırması, buna karşın geleneksel ve ezoterik okumaların dış imaj, sermaye, ruhsal dönüşüm veya dışsal gerilimler üzerine odaklanmasıdır.",
+  "inusAssessment": "Boyanın bir yüzeyi örtmesi, koruması ya da tamamen farklı bir renge büründürmesi, rüya sahibinin kendi iç gerçekliği ile dış dünyaya sunduğu imaj arasındaki dengeyi ve dönüşüm arzusunu sorgulamasını gerektirir.",
+  "faq": [
+    {
+      "question": "Rüyada boya görmek kesin olarak bir aldatılmaya mı işaret eder?",
+      "answer": "Hayır. Boya sembolü sabit bir anlama sahip olmayıp, örtme ve dış görünüş temalarını barındırsa da, rüya bağlamına ve bireyin kişisel çağrışımlarına göre yenilenme veya onarım gibi farklı anlamlar da taşıyabilir."
+    },
+    {
+      "question": "Boyanın rengi rüya yorumunu nasıl etkiler?",
+      "answer": "Farklı psikolojik ve kültürel yaklaşımlarda renkler, bilinçdışı tonları, niyet değişimlerini veya yaşam gücünü temsil ettiğinden, boya, rüyanın genel duygusal yönelimini anlamada önemli bir ipucu sunar."
     }
   ],
   "sources": [
     {
-      "title": "“Pictures from the unconscious” – Art making within Jungian analysis",
-      "url": "https://cris.biu.ac.il/en/publications/pictures-from-the-unconscious-art-making-within-jungian-analysis/",
-      "relevance": "Görsel sanatın Jungcu analizde ifade ve iletişim aracı olarak kullanımını tartışan kuramsal makale; boya rüyaları üzerine deney değildir.",
-      "author": "Elana Lakh",
-      "year": 2025
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüya imgelerinin yoğunlaştırma ve serbest biçimlenme yoluyla kurulmasını tartışır; 'Boya' sembolü için doğrudan değil, psikanalitik yorumun nasıl temellendirileceğine dair çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "The Significance of Color in Dreams - Dream Science",
+      "relevance": "Rüyalarda renklerin Jung ve Perls çerçevesinde psikolojik bütünlük ve dengeyle ilişkisini tartışır.",
+      "url": "https://www.dreamscience.org/wp-content/uploads/2019/03/Hoss-Hoffman-2004-Significance-of-Color-in-Dreams.pdf"
+    },
+    {
+      "title": "[PDF] Working with Color in Dreams | DreamScience.org",
+      "relevance": "Jung’un rüyalardaki renkleri bilinçdışıyla ilişkilendiren yaklaşımını özetler.",
+      "url": "https://www.dreamscience.org/wp-content/uploads/2019/03/Part-3-Wokring-with-Color-in-Dreams.pdf"
+    },
+    {
+      "title": "Carl Jung: Colors in Dreams",
+      "relevance": "Jung’a atfedilen, rüyalardaki renklerin bilinç ve bilinçdışı ilişkisine bağlı olarak anlam kazandığı görüşünü aktarır.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/08/25/colors/"
+    },
+    {
+      "title": "Jung on Family Constellations and the Alchemy of Colors",
+      "relevance": "Jungcu çerçevede rüyalardaki renklerin kişisel semboller olarak ele alınabileceğini ve anlamın çağrışımlara göre değişebileceğini açıklar.",
+      "url": "https://jungiancenter.org/jung-on-family-constellations-and-the-alchemy-of-colors/"
+    },
+    {
+      "title": "The Spectrum of Consciousness",
+      "relevance": "Jung’un renkleri psikolojik işlevlerle eşleştirdiğini ve renk sembolizmini kuramsal olarak ele aldığını anlatır.",
+      "url": "https://typeindepth.org/the-spectrum-of-consciousness/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorum kitabının İngilizce çevirisine erişim sağlar; Greko-Romen oneirokritik geleneğin ana metnini ve rüya sembollerinin sistemli yorumunu görmek için yararlı bir kapıdır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "The Realm of Dreams: Impressions from a Journey through its Cultural, Literary and Artistic History - Manfred Engel",
+      "relevance": "Antik rüya kitaplarının kültürel ve edebî tarih içindeki yerini ele alır; Artemidorus’un metninin rüya yorumu geleneğindeki konumunu bağlama yerleştirir.",
+      "url": "https://www.mhra.org.uk/publications/stable/10.59860/cl.c69adf6"
+    },
+    {
+      "title": "Published with license by Koninklijke Brill NV | doi:10.1163/1568525X-12347333",
+      "relevance": "Artemidorus’un rüya sınıflandırmasını ve oneiroi ile enhypnia ayrımını tartışır; tarihsel rüya yorumu yöntemini anlamak için bağlamsal destek sunar.",
+      "url": "https://durham-repository.worktribe.com/OutputFile/3109639"
+    },
+    {
+      "title": "Artemidorus Archives « Polis",
+      "relevance": "Artemidorus’ta yorumların formül yapısını ve rüya açıklamalarının nasıl kurulduğunu tartışır; sembol temelli yorum mantığını anlamaya yardım eder.",
+      "url": "https://www.polisjerusalem.org/tag/artemidorus/"
+    },
+    {
+      "title": "İslami Rüya Tabirleri -B- harfi",
+      "relevance": "Boya için kısa, maddesel İslami rüya tabiri özetleri ve boya dökmek, sakalda boya, elbise boyası gibi bağlamlar sunar.",
+      "url": "https://www.ihvanlar.net/islami-ruya-tabirleri-b-harfi/"
+    },
+    {
+      "title": "RÜYA - TDV İslâm Ansiklopedisi",
+      "relevance": "Rüya tabirinin İslami gelenekte sembolik yorum mantığını açıklar.",
+      "url": "https://islamansiklopedisi.org.tr/ruya"
+    },
+    {
+      "title": "Paint Meaning - Bible Definition and References",
+      "relevance": "Kutsal Kitap’ta boya ve kozmetik kullanımının dış süs, kibir ve aldatma çağrışımları taşıdığına dair sözlük maddesi.",
+      "url": "https://www.biblestudytools.com/dictionary/paint/"
+    },
+    {
+      "title": "Paint - Topical Bible",
+      "relevance": "Boya/paint teriminin Kutsal Kitap’ta kozmetik ve yapay güzellik bağlamındaki kullanımına dair sözlük açıklaması.",
+      "url": "https://biblehub.com/topical/p/paint.htm"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Yahudi rüya geleneğinde rüyaların sembolik yorumlanması ve yorumun etkisi üzerine genel çerçeve sunar.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Talmudik gelenekte rüya ile yorum arasındaki ilişkiyi özetleyen klasik aktarımı içerir; rüyaların sembolik okunmasına tarihsel bağlam sağlar.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "What Do Buddhist Colors Mean? Beginner Guide",
+      "relevance": "Budist renk sembolizmi içinde turuncu/safranın feragat, sade yaşam ve keşişlikle ilişkisini açıklar; boya için renk-temelli bir kültürel bağ kurar.",
+      "url": "https://gassho.info/blog-page/buddhist-colors-meaning/"
+    },
+    {
+      "title": "Colors in Buddhism",
+      "relevance": "Tibet Budizmi’nde temel renklerin anlamlarını ve kırmızı ile yeşilin sembolik çağrışımlarını özetler; boya rüyası için renk odaklı yorum zemini sağlar.",
+      "url": "https://tibetanbuddhistencyclopedia.com/en/index.php?title=Colors_in_Buddhism"
+    },
+    {
+      "title": "[PDF] Color Symbolism in Buddhist Art",
+      "relevance": "Buddhist art bağlamında renklerin dönüşüm ve bilgelik temalarıyla ilişkisini gösterir; boya sembolünü Budist ikonografi açısından okumaya yardım eder.",
+      "url": "https://wou.edu/provost/library/exhibits/exhibits2004-05/color/Images/buddhism.pdf"
+    },
+    {
+      "title": "Significance of Six kinds of dye",
+      "relevance": "Theravada bağlamında boyar maddelerin doğal kaynaklarını ve izinli kullanım çerçevesini anlatır; boya malzemesinin geleneksel kullanımına dair doğrudan veri sağlar.",
+      "url": "https://www.wisdomlib.org/concept/six-kinds-of-dye"
+    },
+    {
+      "title": "Magic Paint Dream Meaning & Interpretation",
+      "relevance": "Boya ve renk sembolünü simyasal dönüşüm, içsel yeniden yaratım ve görünüşü değiştirme temalarıyla ilişkilendiren modern ezoterik anlatı sağlar.",
+      "url": "https://mirrorwithin.com/dream-dictionary/magic-paint/"
+    },
+    {
+      "title": "Paint",
+      "relevance": "Boya için örtme, yenileme, onarma ve bir şeyi gizleme temalarını veren modern ruhani yorum kaynağıdır.",
+      "url": "https://joshuamediaministries.org/dreams/paint/"
+    },
+    {
+      "title": "Paint. The interpretation of the dream, the Smorfia numbers",
+      "relevance": "Budist sanat bağlamında renklerin dönüşüm ve bilgelik temalarıyla ilişkisini gösterir; boya sembolünü Budist ikonografisi açısından okumaya yardımcı olur.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=paint"
+    },
+    {
+      "title": "Paint figures. Dream interpretation, numbers for the lottery",
+      "relevance": "Boya lekesi ve boyanın koku/renk değişimi gibi ayrıntıları üzerinden daha dar bir esoterik çağrışım alanı sağlar.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=paint+figures"
+    },
+    {
+      "title": "Peeling paint. Dream interpretation, numbers for the lottery",
+      "relevance": "Boyanın kabarması/dökülmesi gibi bozulma hallerini sembolik olarak ele alan kısa bir esoterik yorum içerir.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=peeling+paint"
     }
   ],
-  "relatedSlugs": [
-    "boya-yapmak",
-    "sac-boyamak"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "jewish"
   ]
 }

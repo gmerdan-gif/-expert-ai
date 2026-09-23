@@ -1,0 +1,305 @@
+{
+  "slug": "arkadas",
+  "title": "Arkadaş",
+  "shortDescription": "Rüyada arkadaş görmek, yakınlık, güven, destek ihtiyacı veya geçmişten gelen bağlarla ilgili olabilir. Arkadaşın size yardım etmesi, uzak durması ya da sizinle çatışması, yorumda destek, özlem veya ilişkideki gerilimi öne çıkarabilir.",
+  "positiveAssociations": [
+    "Tanıdık destek ve dayanışma (rüya sahibinin uyanık yaşamda hissettiği veya aradığı somut destek ihtiyacının yansıması)",
+    "Geçmiş bağların onarılması veya eski ilişkinin sağladığı ferahlama (eski dostun görünmesiyle gelen rahatlama hissi)",
+    "(... modern tabirlerde ve bazı kültürel kaynaklarda görülen bir tema)",
+    "Ruhsal yolda veya uygulamada eşlik (Budist kalyāṇa‑mitta çağrışımıyla olumlu yol arkadaşı niteliği)"
+  ],
+  "challengingAssociations": [
+    "İlişkisel gerilim ve uyarı (arkadaşla çatışma sahneleri uyanık ilişkide çözülmemiş sürtüşmelere işaret edebilir)",
+    "Aynalama/uyarıcı içsel çatışma (arkadaşın rüya içindeki davranışı, rüya sahibinin tanımadığı veya reddettiği bir yönünü gösteriyor olabilir)",
+    "Freudcu mekanizmalarla yer değiştirme veya bastırılmış isteklerin taşıyıcılığı (arkadaş figürünün başka bir kişiyi/isteği temsil etmesi olasılığı)",
+    "Güvensiz/zararlı ilişki sinyali (rüyada 'kötü arkadaş' temasının uyarı veya kaçınma çağrıştırması)"
+  ],
+  "contextDependentAssociations": [
+    "Eski bir dostun görülmesiyle gelen ferahlama ve geçmişin yeniden değerlendirilmesi",
+    "Çocukluk arkadaşıyla karşılaşmanın anımsattığı değerler veya sorumluluklar",
+    "Rüya sahibinin kendinde tanıdığı bir niteliğin arkadaş olarak kişileştirilmesi",
+    "Arkadaşın rüya içindeki rolü (konuşan, suskun, yardım eden, tehdit eden) yorumun yönünü belirler"
+  ],
+  "commonVariations": [
+    {
+      "title": "Eski bir dostla yeniden bir araya gelmek",
+      "description": "Geçmişten tanıdık bir arkadaşla samimi bir buluşma; rüya sahibinin kapanmamış ilişki meselelerini, nostaljiyi veya geçmiş kaynaklı destek arzusunu gündeme getirebilir."
+    },
+    {
+      "title": "Bir arkadaşla tartışmak veya kavga etmek",
+      "description": "Rüyada yakın bir arkadaşla gerilim yaşamak, uyanık yaşamda aynı kişiye dair çözülmemiş gerilimleri veya içsel karşıtlıkları dışavuruyor olabilir."
+    },
+    {
+      "title": "Çocukluk arkadaşını zor bir durumda görmek",
+      "description": "Geçmiş dönemlere ait bir arkadaşın sıkıntılı hali, rüya sahibinin kaybolmuş masumiyet, geçmiş sorumluluklar veya unutulmuş duygularla yeniden karşılaşma ihtiyacını işaret edebilir."
+    },
+    {
+      "title": "Bir arkadaşın desteğini almak",
+      "description": "Rüyada bir arkadaşın yardım etmesi, uyanık yaşamda beklenen veya aranan somut desteğin, güven duygusunun ya da içsel dayanıklılığın sembolik ifadesi olabilir."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar ve rüya içerik analizleri, arkadaş figürünün rüyalarda ölçülebilir bir sosyal içerik olduğunu; ortaya çıkma sıklığının kişisel öneme, birlikte geçirilen zamana ve kişilik özelliklerine (ör. dışadönüklük) bağlı olduğunu gösterir. Deneysel veriler ayrıca, arkadaş içeren rüyaların yorumlanmasında rüya sahibinin beklenti ve tutumlarının önemli rol oynadığını işaret eder.",
+  "jungian": "Jungcu çerçevede 'arkadaş' rüya figürü genellikle dış dünyadaki harfi anlamıyla kişiden ziyade bilinçdışının bir yönünü kişileştiren simgesel bir temsilci olarak okunur. Bu bağlamda arkadaş, rüya sahibine eşlik eden bir içsel taraf, henüz bilinç düzeyine yükselmemiş bir yeti veya ilişki biçiminin temsilcisi olabilir. Arkadaşın rüya içindeki işlevi (örneğin rehber, ayna, tetikleyici) Jungcu yorumda belirleyici olup, tek bir sabit anlam çıkarılmamalıdır.",
+  "islamicTradition": "Modern İslami derlemelerde ve çevrim içi tabirlerde 'eski dostu rüyada görmek' gibi kalıplar genellikle sevince, dayanışmaya veya sıkıntıdan kurtulmaya bağlanır; fakat bu çağrışmalar klasik metinlerde net ve tekil bir kural olarak sabitlenmiş değildir. İslamî tabirlerde arkadaşın rüya içindeki hâli veya etkileşimi yorumun yönünü önemli ölçüde etkiler.",
+  "christianTraditions": "Hristiyan sembolik okumalarında dostluk teması sevgi, sadakat ve karşılıklı sorumlulukla bağlantılıdır; rüyadaki arkadaş figürü, topluluk içinde güven, uzlaşma veya ruhsal yoldaşlık konularına dikkat çeken bir öğe olarak ele alınabilir. Bu tür yorumlar genellikle rüya sahibinin yaşam bağlamına göre değerlendirilir.",
+  "jewishTraditions": "Yahudi geleneğinde rüyaların paylaşımı ve yorum ilişkileri öne çıkar; örneğin Berakhot pasajları rüyaların kişi ve arkadaşlar arasında dolaşımını tartışır. Zohar geleneğinde rüyanın yakın bir dosta anlatılması olumlu yorum uygulamasıyla ilişkilendirilir; arkadaş figürü burada rüyanın sosyal aktarımı bağlamında önem kazanır.",
+  "buddhistEasternApproaches": "Budist metin ve yorumlarda 'iyi dost' (kalyāṇa‑mitta) kavramı rüya bağlamında da uygulanabilecek bir çağrışım taşır: rüyadaki arkadaş, manevi pratiği ve erdemi teşvik eden destekleyici bir çevre niteliğiyle okunabilir. Bu yaklaşım, rüyayı davranış ve topluluk kalitesi açısından düşünmeye çağırır.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda arkadaş figürü sıklıkla rüyanın rehberi, koruyucusu veya geçiş dönemlerinde eşlik eden bir yardımcı olarak yorumlanır. Bu yorumlar sembolik düzeyde destek, aynalama ve sadakat temalarını vurgular; ancak bunlar tekil ve belirleyici anlamlar olarak sunulmaz.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Arkadaş figürünün rüyalarda yer alması kişisel önem, sosyal bağlam ve kişilikle ilişkili ölçülebilir bir içerik boyutudur.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Arkadaş imgesi özdeşleşme, yer değiştirme ve yoğunlaşma gibi mekanizmalarla bastırılmış isteklerin veya ilişkilere dair duygulanımların taşıyıcısı olabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Arkadaş rüya figürü benliğin bir parçasını, içsel bir eşlikçiyi veya ilişki biçiminin dışsallaşmasını temsil eden sembolik bir figür olarak okunur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Dini ve Geleneksel Yorumlar",
+      "interpretation": "Arkadaş sembolü kültürel bağlama göre sevince, haber almaya, toplumsal uyuma veya uyarıya işaret edebilir; yorum büyük ölçüde bağlama bağlıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Arkadaş, rüyada içsel rehberlik, sadakat ve duygusal eşlik temalarını taşıyan sembolik bir figür olarak değerlendirilir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Kaynaklar, arkadaş figürünün rüyada genellikle yalnızca dışsal bir kişi olmadığını; rüya sahibinin ilişkisel ihtiyaçlarını, duygusal tonunu ve geçmiş bağlarını yansıtan dinamik bir öğe olduğunu kabul eder. Tüm yaklaşımlar bağlam ve duygu tonunun yorumda belirleyici olduğunu vurgular.",
+  "differences": "Ampirik çalışmalar daha çok frekans, kişisel önem ve kişilik korelasyonlarına odaklanırken; psikanalitik ve Jungcu yaklaşımlar arkadaş figürünü bilinçdışı süreçlerin veya benlik parçalarının taşıyıcısı olarak yorumlar. Dini ve spiritüel gelenekler ise sembolü toplumsal, etik veya manevi eşlik bağlamında değerlendirir; bu yorumlar kültürel ve bağlamsal olarak farklılık gösterir.",
+  "inusAssessment": "Rüyadaki arkadaş figürü, ilişkinin gerçek hayattaki niteliği kadar arkadaşın rüyada ne yaptığı ve rüya sahibinde hangi duyguyu uyandırdığıyla anlam kazanır. Destek veren, uzaklaşan, çatışan ya da tanınmayacak kadar değişmiş bir arkadaş; yakınlık, güven, rekabet veya kişinin kendinde tanıdığı bir özelliği farklı biçimlerde öne çıkarabilir. Bu nedenle yorum, arkadaş figürünün kimliği ile rüyanın eylem ve duygu örüntüsünü birlikte ele almalıdır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "When Dreaming Is Believing: The (Motivated) Interpretation ...",
+      "relevance": "Arkadaş içeren rüyaların insanlar tarafından ne zaman anlamlı bulunduğunu deneysel olarak inceleyen çalışma; rüya sahibinin beklenti ve tutumlarının yorum üzerindeki etkisini gösterir.",
+      "url": "https://www.hbs.edu/ris/Publication%20Files/morewedge%20norton%20when%20dreaming%20is_deebd872-2003-4409-8e96-6725c7b204aa.pdf"
+    },
+    {
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içerik analizinde 'arkadaşlar' ve 'dostça etkileşimler' kategorilerinin nasıl kodlandığını ve arkadaş temasının ölçülebilir sosyal içerik olduğunu açıklar.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "Old school friends: Former social relationship patterns in a long dream series",
+      "relevance": "Uzun dönem rüya serilerinde arkadaşların görülme sıklığının kişisel önem ve birlikte geçirilen zamanla ilişkili olduğunu tartışır; arkadaşın rüyalarda geçmiş bağları canlandırma rolüne dair örnek sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/9432"
+    },
+    {
+      "title": "Relationship and personality factors predict longitudinal changes in ...",
+      "relevance": "Boylamsal bir analizde arkadaşların rüyalarda görülmesini dışadönüklük gibi kişilik özellikleriyle ilişkilendirir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12049429/"
+    },
+    {
+      "title": "Studying Dream Content Using Dreambank.Net",
+      "relevance": "Rüya verilerinde arkadaş ve benzeri sosyal kategorilerin oranlarla nasıl ölçüldüğünü gösterir.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2004d.html"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Freud'un rüyadaki kişi figürlerinin yoğunlaşması, özdeşleşme ve yer değiştirme mekanizmaları üzerine pasajları; arkadaş figürünün başka istekleri veya kişileri taşıyabileceği fikrini destekler.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyanın dilek gerçekleşmesi ve rüya düşüncelerinin dönüşümü üzerine temel Freudcu çerçeveyi verir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "The Irma's injection dream without disguise",
+      "relevance": "Irma rüyası bağlamında Freud’un yakın dost figürleri ve onların rüya malzemesiyle ilişkisini tartışır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/102936/102669/274929"
+    },
+    {
+      "title": "The Interpretation of Dreams (Freud)/Chapter 6 - Wikisource",
+      "relevance": "Rüyada bir kişinin başka kişileri temsil etmesi ve özdeşleşme mekanizması üzerine pasajlar sunar.",
+      "url": "https://en.wikisource.org/wiki/The_Interpretation_of_Dreams_(Freud)/Chapter_6"
+    },
+    {
+      "title": "Dream Psychology / Psychoanalysis for Beginners",
+      "relevance": "Rüyaların bastırılmış isteklerle ilişkisini ve arkadaşla özdeşleşme örneğini gösteren bölümler içerir.",
+      "url": "https://www.ibhcenter.org/wp-content/uploads/Dream-Psychology-Psychoanalysis-for-Beginner-Sigmund-Freud.pdf"
+    },
+    {
+      "title": "A Library Guide to Jung's Collected Works: Dreams",
+      "relevance": "Jungcu çerçevenin rüyayı bilinçdışının sembolik bir betimi olarak ele alışını anlatır; arkadaş figürünün benliğin bir yönünü kişileştirme olasılığını kuramsal olarak destekler.",
+      "url": "https://pacifica.libguides.com/Jung/dreams"
+    },
+    {
+      "title": "How To Interpret Dreams Like Carl Jung - Rafael Krüger",
+      "relevance": "Jungcu yaklaşımda rüya imgelerinin sembolik okunması gerektiğini aktaran bibliyografik yönlendirme.",
+      "url": "https://www.rafaelkruger.com/how-to-interpret-dreams-like-carl-jung/"
+    },
+    {
+      "title": "Dreaming About Someone: Jungian Meaning | Mindberg",
+      "relevance": "Rüyadaki kişi figürlerinin benliğin yönlerini kişileştirebilmesi ve ilişkisel bağlama göre yorumlanması fikri.",
+      "url": "https://mindberg.org/insights/dreaming-about-someone-what-does-it-mean/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Tarihsel oneirokritik bağlamda Artemidorus'un arkadaşlık ve yeniden birleşme temalarını tartıştığı örnekler; arkadaş figürünün sosyal sonuçlarla ilişkilendirilebileceğine dair tarihsel bir referans sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidorus’un rüya kitabının yapısını, sembolik rüyaları ve yorumda bağlam kullanımını anlatır.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Roman Dream Interpretation",
+      "relevance": "Artemidorus’un kişilerarası figürleri sosyal konum ve ilişki bağlamında çözdüğünü özetler.",
+      "url": "https://www.unrv.com/articles/roman-dream-interpretation.php"
+    },
+    {
+      "title": "خواب دوستان برای ابن سیرین",
+      "relevance": "Eski dostun rüyada görülmesini sevinç, duygusal destek ve sıkıntıdan kurtulma ile ilişkilendiriyor.",
+      "url": "https://tabirgar.ir/dream/50394/"
+    },
+    {
+      "title": "The most prominent interpretations of Ibn Sirin for seeing a friend in a dream - an Egyptian site",
+      "relevance": "Rüyada arkadaş görmeyi iç sıkıntılarını paylaşma ihtiyacı, ziyaret, sevindirici haber ve çocukluk dostu üzerinden ferahlama ile açıklıyor.",
+      "url": "https://en.msry.org/Seeing-a-friend-in-a-dream.html"
+    },
+    {
+      "title": "تفسير رؤية الأصدقاء في المنام لابن سيرين | ديني - للعلّم",
+      "relevance": "Rüyada arkadaşları görmeyi gizli duygular, yakın ziyaret, sevindirici haber ve arkadaşın hâline göre değişen anlamlarla ele alıyor.",
+      "url": "https://www.lilalem.com/article/17652"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Derlenmiş bir rüya tabiri içinde arkadaşlara dair kısa bir klasik atıf izi veriyor.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "İslami Rüya Tabirleri -A- harfi",
+      "relevance": "Rüyada arkadaş görmeyi hayır, ticarette başarı, iyi arkadaşta uzun ömür ve kötü arkadaşta tartışmadan kaçınma ile ilişkilendiriyor.",
+      "url": "https://ehlisunnetmedya.com/2015/03/islami-ruya-tabirleri-a-harfi/"
+    },
+    {
+      "title": "friend",
+      "relevance": "Arkadaşın rüyada kimi zaman güven, ilişki niteliği ve Mesih’i çağrıştırabilen bir figür olarak okunmasına dair Hristiyan çerçevede örnekler verir.",
+      "url": "https://joshuamediaministries.org/dreams/friend/"
+    },
+    {
+      "title": "Friend, Friendship - Encyclopedia of The Bible",
+      "relevance": "Kutsal Kitap’taki dostluk kavramını sevgi, sadakat ve Tanrı ile dostluk ekseninde açıklar; sembolik Hristiyan okuma için temel kavramsal zemin sağlar.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Friend-Friendship"
+    },
+    {
+      "title": "Two Biblical Images of Spiritual Friendship",
+      "relevance": "Hristiyan dostluk anlayışını sadakat, yüz yüze ilişki ve ruhsal yakınlık üzerinden ele alır; arkadaş sembolünün topluluk ve ilişki boyutuna bağlanmasına imkân verir.",
+      "url": "https://www.thegospelcoalition.org/blogs/justin-taylor/two-biblical-images-of-spiritual-friendship/"
+    },
+    {
+      "title": "Principles of Christian Dream Interpretation",
+      "relevance": "Rüya sembollerinin çoğu zaman rüya sahibinin hayatından geldiğini ve kişi adlarının/kişilerin rüyada anlam taşıyabileceğini anlatan yöntemsel bir çerçeve sunar.",
+      "url": "https://www.cwgministries.org/books/Christian-Dream-Interpretation.pdf"
+    },
+    {
+      "title": "Berakhot 55b | The Sefaria Library",
+      "relevance": "Yahudi geleneğinde rüyaların sosyal dolaşımı ve 'arkadaş' ile ilgili pasajlar; rüyanın paylaşımı ve yorumunun önemine dair geleneksel bir kaynak sağlar.",
+      "url": "https://www.sefaria.org/Berakhot.55b"
+    },
+    {
+      "title": "Berakhot.55b.1-56a.19 | The Sefaria Library",
+      "relevance": "Bir dostun bir kişi hakkında gördüğü rüyanın gerçekleşebilir rüyalar arasında sayıldığını gösterir.",
+      "url": "https://www.sefaria.org/Berakhot.55b.1-56a.19?lang=en"
+    },
+    {
+      "title": "[PDF] Dreams and the Art of their Interpretations",
+      "relevance": "Rüyanın yakın dosta anlatılması ve olumlu yorumla ilişkilendirilmesi temasını işler.",
+      "url": "https://koshertorah.com/PDF/dreams.pdf"
+    },
+    {
+      "title": "Why Do We Dream? The Spiritual Meaning of Dreams in Jewish Tradition",
+      "relevance": "Bir arkadaş hakkında görülen rüyanın dua ve paylaşım bağlamında ele alınışını aktarır.",
+      "url": "https://www.hidabroot.com/article/12969"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyaların yorumla ve tövbe yönelimiyle ilişkisini özetler.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Yahudi geleneğinde rüyaların anlamının yorumla belirlendiğini ve bazı rüyaların önemsiz sayıldığını açıklar.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Friend Dream Meaning & Interpretation - Mirror",
+      "relevance": "Arkadaş rüyasını Budist perspektifte kalyāṇa-mitta yani ruhsal dost kavramıyla ilişkilendiren modern açıklama.",
+      "url": "https://mirrorwithin.org/dream-dictionary/friend/"
+    },
+    {
+      "title": "Good friend: Significance and symbolism",
+      "relevance": "Budizm’de ‘good friend’ kavramının erdem, rehberlik ve ruhsal ilerleme ile ilişkisini derleyen kavram sayfası.",
+      "url": "https://www.wisdomlib.org/concept/good-friend"
+    },
+    {
+      "title": "Received: 2019-06-11; Reviewed: 2019-06-21; Accepted: 2019-06-21",
+      "relevance": "Budist dostluk anlayışında yardımcı, dengeleyici, iyi olanı gösteren ve sempatik arkadaş türlerini tartışan akademik metin.",
+      "url": "https://so09.tci-thaijo.org/index.php/jibs/article/download/2537/1451/10116"
+    },
+    {
+      "title": "Buddhist Wisdom Verses",
+      "relevance": "Budist şiirsel/öğretici metin içinde dostluğun kalıcı değerini ve ‘gerçek dost’ temasını içeren metin.",
+      "url": "https://ancient-buddhist-texts.net/English-Texts/Buddhist-Wisdom-Verses/06-Friends.htm"
+    },
+    {
+      "title": "spiritual friendship Archives - Wildmind",
+      "relevance": "Budist öğreti içinde iyi dostların ve yoldaşlığın ruhsal yaşam için merkezî önemini anlatan metin.",
+      "url": "https://www.wildmind.org/tag/spiritual-friendship"
+    },
+    {
+      "title": "Surrey and Hallisey 2021: “Friendship, the Whole of Life Well-lived”,",
+      "relevance": "Budist dostluk kavramının bütün iyi yaşamla ilişkisini tartışan akademik PDF.",
+      "url": "https://www.buddhistinquiry.org/wp-content/uploads/2024/06/Friendship_Updated.pdf"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams",
+      "relevance": "Budist rüya yaklaşımında ‘good companions’ ifadesini rüya sembolleri arasında anan sayfa.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Admirable friendship: kalyanamittata - Access to Insight",
+      "relevance": "Admirable friendship öğretisi üzerinden doğru dostluğun Dhamma uygulamasıyla ilişkisini sunan klasik Budist öğretim özeti.",
+      "url": "https://accesstoinsight.org/ptf/dhamma/sacca/sacca4/samma-ditthi/kalyanamittata.html"
+    },
+    {
+      "title": "Friend in Dreams: What Friendship Figures Reveal About Your ...",
+      "relevance": "Modern spiritüel/çeşitli yorumlarda arkadaş figürünün rehberlik, destek ve eşlik temalarıyla ele alınışına örnek teşkil eder.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/friend"
+    },
+    {
+      "title": "Friend Dream Interpretation - Friend Dream Meaning",
+      "relevance": "Arkadaş rüyasını destek, uyum, kişilik yönleri ve geçmişle bağ gibi temalar üzerinden açıklayan modern rüya yorumu.",
+      "url": "https://www.dreamsmain.com/friend"
+    },
+    {
+      "title": "Dreams About Friends - Meaning, Interpretation and Symbolism",
+      "relevance": "Arkadaş rüyasının sembolik olarak güven, eşlik ve bağlılık temalarıyla okunmasına dair modern spiritüel yorum.",
+      "url": "https://www.sunsigns.org/friend-dream-meaning-interpretation-and-symbolism/"
+    },
+    {
+      "title": "Dreaming about a co-worker",
+      "relevance": "Rüyadaki arkadaş figürünün, kişinin kendine arkadaş olma kapasitesini veya ilişkisel bir mesajı temsil edebileceğine dair popüler yorum.",
+      "url": "https://www.mindbodygreen.com/articles/what-does-it-mean-to-dream-about-someone-we-asked-expert"
+    },
+    {
+      "title": "Friend Dreams Meaning and Interpretation | Dream Dictionary 1001",
+      "relevance": "Arkadaş rüyasını sosyal destek, arkadaşlık ve duygusal bağlar üzerinden açıklayan genel rüya sözlüğü kaydı.",
+      "url": "https://1001horoscopes.com/dream-dictionary/friend-dreams/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
+}

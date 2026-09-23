@@ -1,69 +1,189 @@
 {
   "slug": "yara-izi",
-  "title": "yara izi",
-  "shortDescription": "Rüyada yara izi, geçmişte yaşanan bir olayın kalan etkisini veya iyileşme deneyimini çağrıştırabilir. İzin yeri, kime ait olduğu ve ona bakarken hissettikleriniz önemlidir.",
+  "title": "Yara izi",
+  "shortDescription": "Rüyada yara izi görmek, geçmişte yaşanan bir acının ya da mücadelenin hafızada bıraktığı kalıcı izi simgeler. İz dayanıklılık hissettiriyorsa iyileşme ve kabullenişi; yeniden sızlıyor veya kanıyorsa geçmişte kapandığı sanılan bir konunun tekrar canlanmasını gösterebilir.",
   "positiveAssociations": [
-    "Geçmiş bir deneyimi hatırlamak",
-    "Bedenindeki bir ayrıntıyı kabullenmek",
-    "Bir hikâyeyi paylaşabilmek"
+    "Geçmişteki zorlukların aşılması ve dayanıklılık",
+    "İyileşme ve onarım sürecinin tamamlanması",
+    "Zorlayıcı deneyimlerden elde edilen bilgelik ve olgunlaşma",
+    "Kişisel tarihin kabulü ve bütünleşme"
   ],
   "challengingAssociations": [
-    "İzin başkaları tarafından görülmesinden çekinmek",
-    "Geçmiş bir olayı hatırlayınca zorlanmak",
-    "Görünümün beklenmedik biçimde değişmesi"
+    "Geçmişteki travmaların veya acıların hala hissedilen psikolojik yükü",
+    "Bastırılmış yaşantıların veya unutulmaya çalışılan olayların yeniden su yüzüne çıkması",
+    "İyileşmiş olsa bile davranışları ve sınırları etkilemeye devam eden eski bir incinme",
+    "Utanç, direnç veya hatırlama korkusu"
   ],
   "contextDependentAssociations": [
-    "İzin tanıdık veya yeni görünmesi",
-    "Kimin bedeninde olduğu",
-    "Gizlemek, göstermek veya yalnız bakmak"
+    "Yara izinin bedenin hangi bölgesinde görüldüğü",
+    "Yara izinin utanç mı yoksa bir madalya/dayanıklılık göstergesi mi olarak hissedildiği",
+    "Rüya sahibinin uyanıklık hayatındaki mevcut iyileşme veya kapanma süreçleri"
   ],
   "commonVariations": [
     {
-      "title": "Kendi bedeninizde tanıdık bir iz görmek",
-      "description": "Gerçekte bildiğiniz bir izse hangi anıyı çağrıştırdığını düşünebilirsiniz. Rüyadaki duygu, gerçek hayatta o ize karşı hissettiğinizle aynı olmak zorunda değildir."
+      "title": "Aynada eski bir yara izini incelemek",
+      "description": "Rüya sahibinin kendi geçmişiyle yüzleştiğini, eski bir acının bıraktığı izi nesnel bir gözle fark ettiğini ve kişisel tarihini kabullenme çabasını simgeler."
     },
     {
-      "title": "Daha önce görmediğiniz bir yara izi bulmak",
-      "description": "İzin rüyada nereden geldiğini biliyor muydunuz? Bilmediğiniz bir ayrıntıyı geçmişte yaşanmış ve unutulmuş bir olayın kanıtı saymayın."
+      "title": "Kol veya bacakta kapanmış belirgin bir iz görmek",
+      "description": "Günlük yaşamda maruz kalınan fiziksel veya zihinsel bir mücadelenin geride bıraktığı kalıcı etkiyi, artık kanamayan ama varlığını sürdüren bir hatırayı gösterir."
     },
     {
-      "title": "Yara izini birinden saklamak",
-      "description": "Saklama isteğinin görünümden mi, sorulacak sorulardan mı kaynaklandığını ayırın. Karşınızdaki kişinin tepkisi ve kendinizi rahat hissedip hissetmediğiniz önemlidir."
+      "title": "Yara izinin yeniden sızlaması veya kanaması",
+      "description": "Geçmişte kapatıldığı düşünülen bir meselenin, mevcut bir tetikleyici nedeniyle tekrar canlandığını ve duygusal bellekte yer edinmeye devam ettiğini ifade eder."
     },
     {
-      "title": "Birinin yara izinin hikâyesini dinlemek",
-      "description": "Sahnenin odağı izden çok konuşma ve yakınlık olabilir. Dinlerken merak, üzüntü veya dayanışma hissedip hissetmediğinizi düşünün."
+      "title": "Başkasının vücudundaki yara izine tanık olmak",
+      "description": "Rüya sahibinin çevresindeki bir kişinin geçmişte yaşadığı acılara, zorluklara veya mücadelelere karşı geliştirdiği empatiyi ve ortak hafızayı yansıtır."
     }
   ],
-  "psychology": "",
-  "jungian": "",
+  "psychology": "Ampirik psikoloji literatüründe rüyalardaki yara izi imgesini doğrudan test eden sabit bir kanıt bulunmamaktadır. Bununla birlikte, rüya imgelerinin genel duygusal yük, korku ve sağlık temalarıyla yüksek ilişkili olabildiği bilinmektedir.",
+  "jungian": "Analitik psikoloji çerçevesinde yara izi, daha önce incinmiş bir deneyimin iyileşmiş olsa bile kişilikte iz bırakması ve bu izlerin dönüşümle birlikte taşınması olarak okunur. Kişinin üzerinde taşıdığı kişisel tarih, görünür kimlik ve eski yaralanmanın artık kanamasa da davranışı etkilemeye devam eden kaydı niteliğindedir.",
   "islamicTradition": "",
-  "christianTraditions": "Kathryn Dickason’ın tarihsel incelemesi, Orta Çağ Batı Hristiyanlığında yara izlerinin dinî metinler ve görsel sanatlar içinde nasıl anlam kazandığını ele alır. İzlerin anlamı, içinde okundukları toplumsal bağlama bağlıdır. Bu tarihsel örnekler bir kişinin rüyadaki izinden kutsallık, günah veya ruhsal durum sonucu çıkarmaya dayanak değildir.",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Bir izin görünümü ile ona bağlanan hikâye farklı düzeylerde düşünülebilir.",
-  "differences": "Tarihsel dinî sembolizm, kişisel rüyanın veya sağlık durumunun açıklaması değildir.",
-  "inusAssessment": "Yara izi ile açık yara aynı sahne değildir. INUS değerlendirmesinde iz, görünümü ve ona ilişkin hatırayla birlikte ele alınır; kişinin travma yaşadığını veya iyileşmesinin tamamlandığını gösteren bir belirti sayılmaz. Geçmiş, kabullenme ve görünürlük çağrışımları kişisel düşünme önerileridir. Rüyada beliren bir izi gerçek bir sağlık bulgusuna çevirmemek gerekir.",
-  "faq": [
+  "christianTraditions": "Teolojik okumalarda yara izi, acının reddedilmesinden ziyade dönüşmüş acının tanıklığına ve Mesih’in yaralarının ölümden sonra da görünür kalması fikrine bağlanır. Çoğu zaman Tanrı’nın terk edişine değil, korunma, lütuf ve kurtuluş hikâyesine işaret eder.",
+  "jewishTraditions": "Yahudi rüya yorumu geleneğinde rüyaların anlamı sabit olmayıp yorumla şekillenir. Bu bağlamda yara izi sembolü, geçmişte kalmış bir yara, kalıcı etki veya iyileşmiş ama iz bırakmış deneyim olarak yorumlanabilecek esnek bir alandır.",
+  "buddhistEasternApproaches": "Budist bakışta ve modern yaklaşımlarda yara izi, geçmiş acının bedende ya da bilinçte kalan izi (dukkha — acı/ızdırap) ve bunun fark edilmesiyle gelişen kabullenme olarak ele alınır. Ayrıca monastik pratikteki kalıcı izler gibi adanma ve disiplinin görünür işaretiyle de ilişkilendirilebilir.",
+  "spiritualApproaches": "Çağdaş spiritüel okumalarda yara izi, iyileşmiş bir yaranın görünür kalıntısı üzerinden hafıza, kimlik ve dayanıklılık temalarıyla değerlendirilir. Yaşanmış zorlukların ardından gelen büyümenin ve ruhsal olgunlaşmanın simgesidir.",
+  "comparisonTable": [
     {
-      "question": "Yara izi görmek geçmişte unuttuğum bir olayı kanıtlar mı?",
-      "answer": "Hayır. Rüyadaki görüntü, yaşandığı bilinmeyen bir olayı doğrulamaz. Hatırladığınız gerçek deneyim ile rüyanın oluşturduğu sahneyi ayırabilirsiniz."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Bastırılmış yaşantının, travmatik etkinin veya psikolojik bir izlenimin bedensel kalıntı üzerinden görünürleşmesi.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Yara izini görmek iyileştiğim anlamına mı gelir?",
-      "answer": "Tek başına böyle bir sonuca varılmaz. Rüya duygusal veya bedensel iyileşmenin ölçümü değildir; iz karşısında ne hissettiğiniz kişisel olarak değerlendirilebilir."
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Kişisel tarihin, eski bir yaralanmanın davranış üzerindeki kalıcı kaydı ve yaralı-şifacı teması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Teolojik Okuması",
+      "interpretation": "Geçilmiş acının tanıklığı, korunma, lütuf ve kurtuluş hikâyesinin kalıcı işareti.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Yorum Geleneği",
+      "interpretation": "Sabit bir anlamdan ziyade, geçmişte kalan kırılmanın onarımı ve yorum yönüne göre şekillenen esnek bir işaret.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımları",
+      "interpretation": "Geçmiş acının izi (dukkha), geçicilik, farkındalık ve kabullenme süreci.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Dayanıklılık, kimlik, hafıza ve yaşanmış zorlukların ardından gelen ruhsal dönüşüm.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenek ve yaklaşımların ortak noktasında yara izi, tamamen yok olmayan, geçmişin deneyimini bugüne taşıyan kalıcı bir işaret ve hafıza nesnesi olarak konumlanır.",
+  "differences": "Psikanalitik yaklaşım izi bastırılmış dürtülerin ve kalıntıların görünürleşmesi olarak ele alırken, teolojik ve spiritüel okumalar onu lütuf, şifa, dayanıklılık ve dönüştürülmüş acının birer tanıklığına dönüştürür.",
+  "inusAssessment": "Rüyadaki yara izi, aktif bir kanama ya da taze bir acı barındırmamasıyla diğer beden yarası sembollerinden ayrılır; burada odak noktası artık iyileşmiş ancak varlığını sürdüren kalıcı kayıttır. Bu sembolü yorumlarken, yara izinin utanç verici bir zayıflık mı yoksa yaşanmış bir mücadelenin onurlu işareti mi olarak hissedildiği, rüyanın yönünü belirler.",
+  "faq": [
+    {
+      "question": "Rüyada yara izi görmek geçmişteki travmaların hala etkisinde olduğumu mu gösterir?",
+      "answer": "Yara izi, geçmişte kalan bir olayın hafızada ve kişilikte bıraktığı kaydı simgeler; bu durum mutlaka aktif bir travma yaşandığını göstermez; daha ziyade o deneyimin kimliğinizin bir parçası haline geldiğini gösterir."
+    },
+    {
+      "question": "Rüyadaki yara izi tamamen iyileşmenin bir işareti olabilir mi?",
+      "answer": "Evet, birçok spiritüel ve teolojik okumada yara izi artık kanamayan, iyileşmiş ve geride yalnızca dayanıklılık kanıtı bırakmış bir dönemin sembolü olarak değerlendirilir."
     }
   ],
   "sources": [
     {
-      "title": "Sacred Skin: The Religious Significance of Medieval Scars",
-      "url": "https://www.cambridge.org/core/journals/signs-and-society/article/sacred-skin-the-religious-significance-of-medieval-scars/3652E49D5BF162CC3D89EE5D933051B1",
-      "relevance": "Makalenin özet ve giriş bölümü, Orta Çağ Batı Hristiyanlığında yara izlerine verilen toplumsal ve dinî anlamları inceler; rüya veya sağlık araştırması değildir.",
-      "author": "Kathryn Dickason",
-      "year": 2022
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Rüyalarda beden imgesi, bastırma ve gizli anlam katmanları üzerine Freud’un temel eseri.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 1, part a",
+      "relevance": "İzlenimlerin kalıcılığı ve bellekte silinmeyen iz bırakması fikrini veren Freud metni.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams1a.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyalarda beden parçaları ve yara görüntülerinin başka bedensel anlamlara açılabildiğini gösteren pasaj.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Wounds / Scars / Bleeding in Dreams · Forever Jung",
+      "relevance": "Yara, iz ve ‘yaralı-şifacı’ temasını Jungcu sembol diliyle ilişkilendiren çevrimiçi yorum sayfası.",
+      "url": "https://foreverju.ng/symbols/wounds"
+    },
+    {
+      "title": "Scar Dreams: Old Wounds, Memory and What Shows",
+      "relevance": "Yara izini kişisel tarih, görünür kimlik ve eski yaralanmanın yüzeydeki kaydı olarak yorumlayan çevrimiçi sembol sayfası.",
+      "url": "https://somniscient.com/en/symbols/scar"
+    },
+    {
+      "title": "Nonsuicidal Self-injury and Rite of Passage - revista Junguiana",
+      "relevance": "Analitik psikoloji bağlamında yara izlerini kimliğin kurucu bir işareti ve bedensel deneyimin taşıdığı anlam olarak tartışan makale.",
+      "url": "https://junguiana.sbpa.org.br/revista/article/download/294/402"
+    },
+    {
+      "title": "Topical Bible: Scars",
+      "relevance": "Kutsal metinlerde yara izlerinin acı, şifa ve tanıklık temasına nasıl bağlandığını gösteren toplu bir bağlantı sunar.",
+      "url": "https://biblehub.com/topical/s/scars.htm"
+    },
+    {
+      "title": "What Does It Mean to Dream About Scars",
+      "relevance": "Yara izi sembolünü Hristiyan bağlamında travma, iyileşme ve dönüşüm ekseninde tartışır; rüya yorumuna doğrudan değil, sembolik okumaya dayanak sağlar.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/scars/"
+    },
+    {
+      "title": "The power of our scars - Buckner International www.buckner.org › blog › the-power-of-our-scars",
+      "relevance": "Hristiyan adanmışlık yazısında yara izlerini Tanrı’nın koruması, lütfu ve kurtuluş hikâyesiyle ilişkilendirir.",
+      "url": "https://www.buckner.org/blog/the-power-of-our-scars/"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Talmudik gelenekte rüyanın yorumla anlam kazandığına dair alıntılanan ifadelere yer verir; Yahudi rüya yorumu çerçevesi için temel bağlam sağlar.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ...",
+      "relevance": "Babylonian Talmud’un Berakhot bölümündeki rüya pasajlarının yapısını ve yorum merkezli rüya anlayışını tartışır; Yahudi dream literature için akademik bağlam sunar.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y?error=cookies_not_supported&code=25242877-d1d7-429a-84c8-22398b65c6ab"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Babylonian Talmud’un Berakhot bölümündeki rüya pasajlarının yapısını ve yorum merkezli rüya anlayışını tartışır; Yahudi rüya literatürü için akademik bağlam sunar.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Berakhot’taki rüya pasajlarına ve rüyaların yorumla anlam kazandığı rabbanî çerçeveye erişim sağlar.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Berakhot 55–58’i Yahudi rüya yorumunun ana kaynak havuzu olarak tanıtır ve tarihsel çerçeve verir.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Dreams of Fields",
+      "relevance": "Berakhot’taki örnek sembol yorumlarını ve Talmudik rüya sözlüğü mantığını görünür kılar; sembol-okuma yapısını anlamaya yardımcı olur.",
+      "url": "https://www.tabletmag.com/sections/belief/articles/dreams-of-fields"
+    },
+    {
+      "title": "Scar Dream Meaning & Interpretation - Mirror",
+      "relevance": "Yara izi için Budist perspektiften bir sembolik okuma sunuyor; acının izi, karma ve geçicilik temalarıyla ilişkilendiriyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/scar/"
+    },
+    {
+      "title": "FAQ: Why do the Venerables shave their heads, and what are the scars on their heads?",
+      "relevance": "Budist monastik pratikte bedende kalan kalıcı izlerin ritüel ve bağlılık anlamı taşıdığını gösteriyor; yara izi sembolünün Budist kültür bağlamını destekliyor.",
+      "url": "https://guamdharma.wordpress.com/2010/07/06/faq-why-do-the-monks-and-nuns-shave-their-heads-and-what-are-the-scars-on-their-heads/"
+    },
+    {
+      "title": "Scar in Dreams: Healing, Memory, and Identity | Dreamspoken",
+      "relevance": "‘Scar in Dreams’ başlığı altında yara izini rüya bağlamında hafıza, kimlik ve dönüşümle ilişkilendiren çağdaş spiritüel yorum sunuyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/scar"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "buddhist-eastern"
+  ]
 }

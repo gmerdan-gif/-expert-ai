@@ -1,72 +1,203 @@
 {
   "slug": "orumcek",
-  "title": "örümcek",
-  "shortDescription": "Rüyada örümcek, korku, dikkat veya ince bir işle uğraşma hissi uyandırabilir. Örümceğin yeri, ağı ve size yaklaşımı, kişisel çağrışımlarla birlikte değerlendirilir.",
+  "title": "Örümcek",
+  "shortDescription": "Rüyada örümcek görmek, sabır ve emekle kurulan şeyleri; aynı zamanda karmaşık bağları ve sıkışmışlık hissini simgeleyebilir. Örümcek ağı ise kırılgan ya da aldatıcı olabilecek planlara ve ilişkilere işaret edebilir.",
   "positiveAssociations": [
-    "Bir canlının hareketlerini merakla izlemek",
-    "Ağın ince yapısını fark etmek",
-    "Rahatsız edici bir karşılaşmada mesafe koymak"
+    "sabır",
+    "sebat",
+    "emek",
+    "zanaatkârlık",
+    "karşılıklı bağlılık"
   ],
   "challengingAssociations": [
-    "Yaklaşan bir canlıdan ürkmek",
-    "Ağa takılma veya kurtulamama hissi",
-    "Gözden kaybolan örümceği ararken tedirgin olmak"
+    "tuzağa düşme",
+    "aldatma",
+    "anne figürünün yutulma korkusu",
+    "boş umutlar",
+    "kırılganlık"
   ],
   "contextDependentAssociations": [
-    "Örümceğin size uzaklığı",
-    "Ağın mı hayvanın mı dikkat çektiği",
-    "Gerçek hayatta örümceklere verdiğiniz tepki"
+    "gizli etkinlik",
+    "ilişkisel örüntüler",
+    "kader ve karma",
+    "taktik mücadele"
   ],
   "commonVariations": [
     {
-      "title": "Örümceğin ağ örmesini izlemek",
-      "description": "Sahne size ilginç mi, ürkütücü mü geliyordu? Ağın kurulmasını sabır veya emekle ilişkilendirmek kişisel bir çağrışım olabilir; bunu bütün örümcek rüyalarının ortak anlamı saymayın."
+      "title": "Üzerinde büyük bir örümcek ağı görmek",
+      "description": "Rüya sahibinin çıkışı zor olan ilişkisel örüntüler veya karmaşık bağların içinde kaldığını; çabalarının kırılgan bir yapı oluşturduğunu gösteren teorik ve geleneksel bir okumadır."
     },
     {
-      "title": "Üzerinizde örümcek görmek",
-      "description": "Hayvanın yakınlığı ve hareketi, rüyadaki bedensel tedirginliği değiştirebilir. Nereye dokunduğunu, uzaklaştırıp uzaklaştıramadığınızı ve sonrasında rahatlayıp rahatlamadığınızı düşünün."
+      "title": "Ev köşesinde sakin duran örümcek",
+      "description": "Gizli yürütülen süreçlerin, sabır gerektiren emeklerin veya rüya sahibinin henüz farkına vardığı ince planların sembolik bir yansımasıdır."
     },
     {
-      "title": "Bir örümcek ağına takılmak",
-      "description": "Önce takılanın bedeniniz mi, elinizdeki bir eşya mı olduğunu ayırın. Kurtulmak için yaptığınız hareket, rüyanın yalnız engel değil, çözüm arama tarafını da gösterebilir."
+      "title": "Üzerine örümcek düştüğünü hissetmek",
+      "description": "Ani bir rahatsızlık hissi, tedirgin edici bir yakınlık veya bastırılmış dürtüsel gerilimlerin yüzeye çıkma anını temsil edebilir."
     },
     {
-      "title": "Örümceği evden çıkarmak",
-      "description": "Öldürmek, dışarı bırakmak veya uzak durmak farklı tercihlerdir. Tercihiniz sırasında hissettiğiniz korku, merhamet ya da rahatlama üzerinden kendi deneyiminizi ele alabilirsiniz."
+      "title": "Örümceğin ağ ördüğünü izlemek",
+      "description": "Yaratıcı bir sürecin, sabırlı bir inşanın ya da kişi ile çevresi arasındaki karşılıklı bağımlılık ağının kurulduğunun göstergesi olarak okunur."
     }
   ],
   "psychology": "",
   "jungian": "",
-  "islamicTradition": "Ankebût sûresinin 41. ayetinde örümceğin evi, Allah dışında koruyucu edinmenin dayanıksızlığını anlatan bir benzetmede yer alır. Ayetin konusu rüya tabiri değildir. Bu imge kültürel bir çağrışım sağlayabilir; bir kişinin örümcek rüyasından inancı veya geleceği hakkında hüküm çıkarmaya dayanak oluşturmaz.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Örümceğin kendisi, ağı ve ağın bulunduğu yer ayrı ayrı ele alınabilir.",
-  "differences": "Dinî metindeki benzetme belirli bir öğreti bağlamına aittir. Rüyada yaşadığınız korku, merak veya rahatlama bu metinsel anlamla otomatik olarak aynı değildir.",
-  "inusAssessment": "Örümcek rüyasında canlıyı görmek ile ağına takılmak farklı deneyimlerdir. Bir örümceği uzaktan merakla izlemek, yatağınızda ona rastlamakla aynı duyguyu yaratmayabilir. INUS, bu ayrıntıları ve örümceklerle gerçek hayattaki ilişkinizi birlikte ele alır. Rüyadan çevrenizde gizli bir düşman olduğu, bir kadının sizi yönettiği veya gelecekte zarar göreceğiniz sonucu çıkarılmaz.",
-  "faq": [
+  "islamicTradition": "İslami rüya aktarımlarında örümcek bazen hilekâr, zayıf ve tembel bir kimseyle ya da kocasının yatağında yatmak istemeyen bir kadınla ilişkilendirilirken, bazı yorumlarda dokumacıya, ibadet ehli ve takva sahibi bir zata da işaret edebileceği belirtilmektedir. Örümcek ağı ise Ankebût Suresi'ndeki atıflarla uyumlu olarak zayıflık, gevşeklik ve geçici güvenlik anlamları taşır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde örümcek ve ağ imgesi bağlama göre kapana kısılma, aldatma, şeytani saptırma ve zayıf insanî planların kırılganlığı gibi uyarıcı temalarla okunurken; aynı zamanda emek, sebat ve zanaatkârlık gibi zıt çağrışımlara da açık bırakılır.",
+  "jewishTraditions": "Yahudi rüya hermenötiğinde ve kültürel ansiklopedik arka planda örümcek ağı, yararsız işler, boş umutlar ve insan çabasının geçiciliğini gösteren bir imge olarak açıklanır; bu da rüyada örümcek görünümünün aldatıcı bir güven duygusu çağrıştırabileceğini gösterir.",
+  "buddhistEasternApproaches": "Ezoterik Hint ve Budist okumalarda örümcek ağı, Samsara’nın değişken ve koşullanmış varoluş dokusuna benzetilir; merkezde duran örümcek ise illüzyon, bağlanma ve ıstırap döngüsünün metaforu olarak ele alınır.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yazında örümcek; sabır, sebat, kader ağı kurma ve maddenin içinden yeni bir biçim çıkarma potansiyeliyle okunur. Rüya bağlamında hem kurucu-yaratıcı hem de sıkıştırıcı/bağlayıcı yönleriyle çift anlamlı bir konumda tutulur.",
+  "comparisonTable": [
     {
-      "question": "Örümcek görmek gizli düşman olduğu anlamına mı gelir?",
-      "answer": "Böyle bir sonucu yalnız rüyadan çıkarmak mümkün değildir. Korkutucu sahne ile gerçek bir kişi hakkında kanıt birbirinden ayrılmalıdır."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Örümceği öfkeli anne figürü, yutulma korkusu ve bedensel dürtüsel gerilimlerin nesneleşmiş hali olarak ele alır.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Örümcek ağı her zaman tuzak mı demektir?",
-      "answer": "Hayır. Ağa takılmak, ağı temizlemek ve örülmesini izlemek farklı sahnelerdir. Size ne hissettirdiği, ağın kendisinden daha açıklayıcı olabilir."
+      "approach": "İslami Gelenek",
+      "interpretation": "Hilekâr veya zayıf bir kimseden takva sahibi bir zata kadar değişen çok katmanlı tabirlere ve gevşek ağ motifine odaklanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Ağ imgesini kırılgan insan planları, aldatma riski veya sebat ve zanaatkârlık gibi ikili bir düzlemde değerlendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Doğu ve Ezoterik Yaklaşımlar",
+      "interpretation": "Örümcek ağını koşullu varoluş, Samsara dokusu, karmik örüntüler ve bağlanma döngüsünün metaforu olarak yorumlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve psikodinamik yaklaşımlar arasında örümcek sembolü, tuzak, ağ kurma, kaçış zorluğu ve kırılganlık gibi ortak temalar etrafında birleşir.",
+  "differences": "Psikanaliz örümcek sembolünü içsel dürtüler ve anne imgesi bağlamında sınırlar; dini gelenekler ise ahlaki uyarılar ya da takva ile hile arasındaki tezatları öne çıkarır. Doğu felsefeleri ise evrensel koşullanma ve karmik ağlara odaklanır.",
+  "inusAssessment": "Rüyada örümcek görülmesi, sabırlı bir emekle örülen yapıların kırılganlığı ile içsel sıkışma hissi arasındaki gerilimi barındırır. Bu sembolü değerlendirirken örümceğin rüya içindeki konumu, rüya sahibinin hissettiği tehdit veya koruma duygusu ile ağın uyandırdığı bağlayıcılık hissinin birlikte ele alınması gerekir.",
+  "faq": [
+    {
+      "question": "Rüyada örümcek ağı görmek her zaman tehlikeye mi işaret eder?",
+      "answer": "Geleneksel ve ezoterik okumalarda ağ, kırılgan insan planları, boş umutlar veya karmaşık ilişkisel örüntülerle ilişkilendirilir; ancak her zaman mutlak bir tehdit değil, bazen sabır ve zanaatkârlık temalarını da barındırabilir."
+    },
+    {
+      "question": "Psikanalitik açıdan rüyada örümcek neyi temsil eder?",
+      "answer": "Psikanalitik çerçevede örümcek; çatışmalı nesne ilişkileri, annelik figürünün yutucu yönü ve bastırılmış dürtüsel gerilimlerin bir temsili olarak ele alınır."
     }
   ],
   "sources": [
     {
-      "title": "Ankebût sûresi, 29:41",
-      "url": "https://quran.com/29/41",
-      "relevance": "Örümceğin evi üzerinden Allah dışında dayanak edinmeye ilişkin benzetme içerir; örümcek rüyaları için bir tabir vermez."
+      "title": "The Spider as a Dream Symbol 1",
+      "relevance": "Örümcek sembolünün anne figürü ve korku temalarıyla ilişkilendirilmesine dair klasik psikanalitik tartışma.",
+      "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9780429479854-19/spider-dream-symbol-1-1922-ernest-jones-douglas-bryan-alix-strachey"
+    },
+    {
+      "title": "Shakespeare and Psychoanalysis - Leontes' Jealousy - PsyArt Journal",
+      "relevance": "Örümceğin cinsel tehdit, anne imgesi ve ruhsal yutulma korkusu ekseninde psikanalitik sembol olarak ele alınması.",
+      "url": "https://psyartjournal.com/article/show/m_schwartz-shakespeare_and_psychoanalysis_loss_and_"
+    },
+    {
+      "title": "Animal Figures in Dreams | The Dream Network Journal",
+      "relevance": "Hayvan imgelerinin psikanalitik sembolizmde dürtüsel gerilimler ve bedensel duyumlarla ilişkilendirilebilmesine örnek bir tartışma.",
+      "url": "https://dreamnetworkjournal.com/bcpov6kanimd/animal-figures-in-dreams"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus'un rüya yorum kitabının kapsamını ve Greko-Romen oneiromansi geleneğindeki yerini gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual: Artemidorus' The ...",
+      "relevance": "Artemidorus'un doğal dünya örnekleri içinde örümcekleri küçük zehirli canlılar bağlamında ele alışını gösteren bölüm.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "An Ancient Dream Manual",
+      "relevance": "Oneirocritica'nın antik çağdan günümüze ulaşan tek tam rüya kitabı olduğunu doğrulayan eser kaydı ve önsöz bilgisi.",
+      "url": "https://api.pageplace.de/preview/DT0400.9780192582010_A39129786/preview-9780192582010_A39129786.pdf"
+    },
+    {
+      "title": "Oneirocritica - The Perseus Catalog",
+      "relevance": "Oneirocritica'nın bibliyografik kimliğini ve yazarını doğrulayan katalog kaydı.",
+      "url": "https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0553.tlg001.opp-grc2"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidorus'un profesyonel rüya yorumcusu olarak konumunu ve Oneirocritica'nın kapsamını özetler.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri Ö Harfi",
+      "relevance": "Örümcek sembolüne dair doğrudan rüya tabirlerini ve çoklu anlam katmanlarını içerir; hilekâr-zayıf kimse, dokumacı, takva sahibi kişi, örümcek ağı, damdan düşme ve evlilik bağlamı gibi kullanımları bir arada verir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-o2-harfi.html"
+    },
+    {
+      "title": "Dreams About Spiders: Biblical Meaning and Interpretation",
+      "relevance": "Örümcek ve ağ imgesi için Hristiyan çerçevede sabır, zanaatkârlık, korku, gizli etkinlik ve kırılganlık temalarını özetleyen modern bir Hristiyan yorum yazısı.",
+      "url": "https://revealingthechristianlife.org/2025/07/01/dreams-and-visions-how-to-interpret-dreams-about-spiders/"
+    },
+    {
+      "title": "How Are Spiders Symbolized In Christian Teachings? - Bible Lift - Nourishing Faith & Understanding",
+      "relevance": "Örümceğin Hristiyan öğretisinde aldatma, şeytani mücadele, sebat, bilgelik ve güven gibi farklı sembolik çağrışımlarını derleyen modern bir Hristiyan kaynak.",
+      "url": "https://biblelift.com/how-are-spiders-symbolized-in-christian-teachings/"
+    },
+    {
+      "title": "Spiders - Joshua Media Ministries",
+      "relevance": "Örümcek rüyasını aldatma, ikiyüzlülük, günah, yanlış öğreti ve ayartma ekseninde okuyan bir Hristiyan rüya yorumu metni.",
+      "url": "https://joshuamediaministries.org/dreams/spider/"
+    },
+    {
+      "title": "The spiritual meaning of spiders in the Bible - Aleteia",
+      "relevance": "Hristiyan bağlamında örümcek ağlarının kırılganlık ve zayıflıkla ilişkisini, ayrıca tarihsel dönemde örümceğin kötü imge olarak kullanımını anlatan bir yazı.",
+      "url": "https://aleteia.org/2021/06/23/spiritual-meaning-of-spiders-in-the-bible/"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Berakhot içindeki rüya yorum geleneğini ve Yahudi rüya sembollerinin nasıl ele alındığını gösteren Talmud sayfası.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "INSECTS - JewishEncyclopedia.com",
+      "relevance": "Örümcek ağının Yahudi ve Kutsal Kitap bağlamında kırılganlık, boş umutlar ve yararsız çabalarla ilişkilendirildiğini anlatan madde.",
+      "url": "https://www.jewishencyclopedia.com/articles/13956-spider"
+    },
+    {
+      "title": "Spider: Significance and symbolism",
+      "relevance": "Budizm’de örümceğin bağlılık ve ıstırap döngüsünü anlatan bir benzetme olarak kullanıldığını özetliyor.",
+      "url": "https://www.wisdomlib.org/concept/spider"
+    },
+    {
+      "title": "Spider: Esoteric Meaning & Symbolism | Theosophy Trust",
+      "relevance": "Örümcek ağını Maya ve Samsara ile ilişkilendiren ezoterik bir sembol okuması sunuyor.",
+      "url": "https://theosophytrust.org/650-the-spider"
+    },
+    {
+      "title": "Spider, Spider",
+      "relevance": "Tibet Budizmi bağlamında örümcek ve şefkat/ilişkisel etik arasında bağlantı kuran kısa bir metin içeriyor.",
+      "url": "https://fpmt.org/mandala-today/dharma-realities/spider-spider/"
+    },
+    {
+      "title": "Dreams about Spiders - A Web Of Lies and Conspiracy In ...",
+      "relevance": "Örümcek rüyalarını modern spiritüel dille sabır, sebat, çalışma ve beceri temaları üzerinden okuyan popüler bir sayfa.",
+      "url": "https://thepleasantdream.com/dreams-about-spiders/"
+    },
+    {
+      "title": "Spiders in Alchemy and the Occult - Izabael Dajinn's Occult Review",
+      "relevance": "Örümcek için ezoterik okuma öneren, dokuma, dönüşüm ve simyasal çağrışımlar kuran modern bir yazı.",
+      "url": "https://izabaeldajinn.com/2024/01/spiders-in-alchemy-and-the-occult"
+    },
+    {
+      "title": "Örümcek Sembolizmi ve Anlamı - Sembolopedia",
+      "relevance": "Örümcek sembolünü yaratma, kader, ağ örme ve bazı modern spiritüel yorumlar üzerinden anlatan sembolizm odaklı bir kaynak.",
+      "url": "https://symbolopedia.com/tr/spider-symbolism-meaning/"
+    },
+    {
+      "title": "Spider Dreams: Meaning & Psychological Interpretation",
+      "relevance": "Örümcek rüyasını yaratma, bağlanma ve tehdit temalarıyla ilişkilendiren modern yorumlayıcı bir sayfa.",
+      "url": "https://somniscient.com/en/symbols/spider"
     }
   ],
-  "relatedSlugs": [
-    "buyuk-orumcek",
-    "dev-orumcek",
-    "siyah-orumcek",
-    "tarantula"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "psychoanalytic",
+    "christian",
+    "buddhist-eastern"
   ]
 }

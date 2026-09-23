@@ -1,67 +1,199 @@
 {
   "slug": "posta",
-  "title": "posta",
-  "shortDescription": "Rüyada posta, haber bekleme ve iletişim kurma deneyimleriyle birlikte düşünülebilir. Gönderinin gelişi, gecikmesi ve kime ait olduğu farklı çağrışımlar oluşturur.",
+  "title": "Posta",
+  "shortDescription": "Rüyada posta görmek, beklenen bir haber, yanıt ya da iletişimle ilişkilendirilebilir. Zarfın açık veya kapalı olması bilginin açığa çıkması ya da henüz bilinmemesiyle; postanın gecikmesi veya yanlış adrese gitmesi ise ertelenen haberler ve iletişim aksaklıklarıyla ilişkilendirilebilir.",
   "positiveAssociations": [
-    "Birinden haber almak",
-    "Gönderdiğinin ulaştığını öğrenmek",
-    "Bir bağlantıyı yeniden kurmak"
+    "Beklediğiniz bir zarfın/kolinin teslim olması (somut bilgi veya sonuç alınması)",
+    "Açılmış bir mektupta net bir yanıt veya açıklık",
+    "Kayıtlı veya imzalı teslimat, doğrulanabilirlik ve güven duygusu sağlar.",
+    "Postacının saygılı ve düzenli teslimatı — ilişkilerde güvenin veya bağın güçlenmesi"
   ],
   "challengingAssociations": [
-    "Beklenen gönderinin gecikmesi",
-    "İçeriği öğrenmekten çekinmek",
-    "Özel bir gönderinin yanlış kişiye ulaşması"
+    "Zarfın gecikmesi, kaybolması veya iade edilmesi — belirsizlik ve engellenmiş bilgi akışı",
+    "Yanlış adrese teslim veya adresleme hatası — iletişimin hedefe ulaşmaması",
+    "Zarfın mühürlü/okunmamış kalması — bilgiden mahrumiyet veya ertelenmiş yüzleşme",
+    "Postacının olumsuz tavrı, zorlayıcı bir bildirim ya da rahatsız edici bir haberin gelmesi"
   ],
   "contextDependentAssociations": [
-    "Gönderen ve alıcının kimliği",
-    "Mektup, paket veya başka bir gönderi olması",
-    "Gönderinin açılması veya kapalı kalması"
+    "Postanın açılıp açılmadığı, zarfın fiziksel durumu (yıpranmış, mühürlü, damgalı)",
+    "Postacının kim olduğu, teslim şekli (kapı çalma, bırakma, iadeli teslim) ve tavrı",
+    "Teslim zamanlaması: gecikme, ani geliş veya düzenli rutin içinde oluşu",
+    "Zarfın türü (resmi bildiri, tebrik, paket vb.) ve adres/doğrulama bilgileri"
   ],
   "commonVariations": [
     {
-      "title": "Posta kutusunda gönderi bulmak",
-      "description": "Göndereni tanıyıp tanımadığınızı ve açmadan önce ne hissettiğinizi düşünün. Merak ile kaygı aynı görüntüde birlikte bulunabilir."
+      "title": "Posta Kutusundan Beklediğiniz Mektubu Almak",
+      "description": "Uzun süredir beklediğiniz veya haberine hasret kaldığınız bir konuda somut bir yanıt alma isteğini ve zihinsel hazırlığı yansıtır."
     },
     {
-      "title": "Beklediğiniz postanın gelmemesi",
-      "description": "Beklediğiniz şeyin kendisi mi, belirsizliğin sürmesi mi sizi zorluyordu? Rüyadaki bekleyiş gerçek hayatta gönderinin gecikeceğini göstermez."
+      "title": "Hiç Açılmamış Zarflar Görmek",
+      "description": "Henüz yüzleşilmemiş bilgiler, çözülmemiş konular veya içindeki potansiyeli fark etmeye hazır olmadığınız bildirimler olarak okunabilir."
     },
     {
-      "title": "Yanlış adrese giden posta görmek",
-      "description": "Gönderinin kime ait olduğunu ve hatayı düzeltmeye çalışıp çalışmadığınızı ayırın. Yanlış anlaşılma üzerine kişisel çağrışım kurabilirsiniz; bunu gerçek bir haberin kaybolacağına ilişkin işaret saymayın."
+      "title": "Postacının Kapıyı Çalması ve Haber Getirmesi",
+      "description": "Dış dünyadan beklenmedik bir müdahale, yeni bir davet ya da ilişkilerde kurulacak yeni bir köprü olasılığını temsil edebilir; teslim biçimi ve postacının tutumu önemli belirleyicilerdir."
     },
     {
-      "title": "Bir gönderiyi postaya vermek",
-      "description": "İçeriği teslim ettikten sonra rahatladınız mı, geri almak mı istediniz? Göndermek ve yanıt beklemek farklı aşamalardır; hangisinin öne çıktığına bakın."
+      "title": "Kaybolmuş veya Yanlış Adrese Giden Posta",
+      "description": "İletişim kopukluklarını, mesajın hedefe ulaşmamasını veya kendi iç sesinizi doğru mecraya iletmede yaşanan güçlükleri gösterir."
     }
   ],
-  "psychology": "İçerik analizinde bir nesne, onunla yapılan eylem ve eşlik eden duygu ayrı kaydedilebilir. Posta sahnesini bulmak, göndermek, açmak veya beklemek olarak ayırmak bu genel yöntemle uyumludur. Yöntem, postanın bilinçdışından veya dışarıdaki bir kişiden gelen doğrulanmış mesaj olduğunu söylemez.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
+  "psychology": "Rüya içerik analizi, posta imgesini tekil bir sembol olarak sabit bir anlama indirgemek yerine teslimatın gecikmesi, zarfın açılmış/kapalı oluşu, teslim biçimi ve rüya içindeki duygusal ton bağlamında değerlendirir. Ampirik çalışmalar sembollerin frekans ve bağlamla anlamlandığını gösterir; dolayısıyla 'posta' yorumu rüyanın genel örüntüsüyle birlikte yapılmalıdır.",
+  "jungian": "Analitik psikolojide posta motifi, bilinçdışının bilince ulaştırmak istediği içerik çağrısı şeklinde okunabilir; özellikle zarfın içeriğinin bilinmezliği veya postacının kimliği, bütünleşmemiş bir yönün dikkat çekme çabası olarak yorumlanabilir. Jungcu okumalar bağlama ve kişisel çağrışımlarla yakından ilişkilendirilerek yapılmalıdır.",
+  "islamicTradition": "nin vurguladığı gibi, modern ",
+  "christianTraditions": "Modern Hristiyan yorumlarda posta/mesaj motifleri dua, yönlendirme veya sınanma bağlamında 'mesaj alma' metaforuyla ilişkilendirilebilmektedir; ancak kutsal metinlerde modern posta kurumuna karşılık gelen doğrudan bir örnek yoktur, bu yüzden teolojik okumalar yazılı haber sembolizmi üzerinden temkinli yapılmalıdır.",
+  "jewishTraditions": "Talmudik gelenekte rüyalar yorumlanana dek 'okunmamış bir mektup' gibidir; bu çerçevede posta imgesi rüyanın bir mesaj taşıyıcısı olduğu ve yorumlandığında anlam kazanacağı şeklinde okunabilir.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Gönderinin geliş biçimi ve ona verdiğiniz tepki ayrı düşünülmelidir.",
-  "differences": "Rüyadaki iletişim çağrışımı ile gerçek bir kişinin iletmek istediği mesaj aynı bilgi değildir.",
-  "inusAssessment": "Posta burada fiziksel gönderi ve teslim sürecidir; e-posta veya yalnız bir mektubun içeriğiyle aynı kapsamda değildir. INUS değerlendirmesi göndereni, alıcıyı, teslim durumunu ve sizde oluşan duyguyu ayırır. Rüyada posta görmek mutlaka yakında haber geleceği veya birinin size gizli mesaj gönderdiği anlamına gelmez.",
-  "faq": [
+  "spiritualApproaches": "Ezoterik ve modern spiritüel çerçevelerde posta, senkronistik işaretler, içsel rehberlikten gelen bildirimler veya ruhsal uyarılar ekseninde yorumlanabilir; bu okumalar kültürel ve kişisel farklılıklara bağlı olarak değişir.",
+  "comparisonTable": [
     {
-      "question": "Posta görmek yakında haber alacağımı gösterir mi?",
-      "answer": "Hayır. Gönderi bekleme veya alma sahnesi gelecekteki bir haberi doğrulamaz. Rüyadaki merak ve beklenti kişisel olarak düşünülebilir."
+      "approach": "Ampirik Rüya Analizi",
+      "interpretation": "Posta öğesi, teslim biçimi, gecikme ve duygusal bağlamla birlikte değerlendirilen bir tema olarak ele alınır; tekil sabit anlam reddedilir.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Kapalı gönderinin içeriğini yorumdan öğrenebilir miyim?",
-      "answer": "Rüyada içeriği görmediyseniz bunu bilmediğiniz bir ayrıntı olarak bırakmak gerekir. Yorum, görünmeyen içeriği doğrulanmış bilgiye dönüştürmez."
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Posta, bilinçdışından bilince yönelen sembolik bir çağrı veya bütünleşme talebi olarak okunabilir; yorum kişisel çağrışımla bağıntılıdır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami ve Geleneksel Yaklaşım",
+      "interpretation": "Postacı/mektup temaları haber, davet ve uzaktan gelen bildirim işlevi üzerinden yorumlanır; modern posta, işleviyle ele alınmalıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Okuma",
+      "interpretation": "Posta benzeri imgeler içsel rehberlik, senkronisite veya ruhsal işaretler bağlamında değerlendirilir; kişisel sezgi vurgulanır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinlerde posta sembolünün fiziksel teslimat biçimleri (zarfın durumu, teslim süresi, aracı kişi) üzerinden işlevsel olarak iletişim ve bekleyiş boyutunu taşıdığı noktada birleştiği söylenebilir.",
+  "differences": "Ampirik yaklaşım posta öğesini teslimat koşulları ve bağlamsal sıklıklarla incelerken; geleneksel ve spiritüel okumalar aracı, ilahi veya sezgisel yönlendirme vurgusunu daha belirgin hale getirir; Jungcu yorum ise sembolü içsel bütünleşme çağrısı olarak konumlandırır.",
+  "inusAssessment": "Posta imgesinde mesajın gönderilmesi ya da alınması, zarfın açık veya kapalı oluşu, teslim biçimi, gecikme ve aracı kişi yorum açısından ayırt edicidir. Bu ayrıntılar haber bekleme, iletişim kurma, bir şeyin ulaşması veya ulaşmaması gibi temaları öne çıkarabilir. Anlam, rüyanın duygusal ve yaşantısal bağlamıyla birlikte değerlendirilmelidir.",
+  "faq": [
+    {
+      "question": "Rüyada posta almak her zaman iyi bir habere mi işarettir?",
+      "answer": "Hayır. Posta sembolü olumlu veya zorlayıcı olabilir; içeriğin türü, zarfın durumu, rüya sırasındaki duygular ve uyanık yaşamınızdaki beklentiler sonucu belirler. Uzun süredir beklediğiniz bir haberin gelmesi olumlu algılanabilirken, gecikme veya yanlış adres olumsuz anlamlar taşıyabilir."
+    },
+    {
+      "question": "Rüyadaki postacı figürü neyi temsil eder?",
+      "answer": "Postacı genellikle dış dünyadan gelen aracı kişiyi, bir bildiriyi ulaştıranı veya bilinçdışından bilince köprü kuran taşıyıcıyı simgeler; postacının davranışı, rüyanın duygusal tonunu ve bildirinin niteliğine dair ipuçları verebilir."
     }
   ],
   "sources": [
     {
-      "title": "Content Analysis Explained",
-      "url": "https://dreams.ucsc.edu/Info/content_analysis.html",
-      "relevance": "Nesne, mekân, etkinlik ve duygu ayrımını açıklayan genel rüya içerik analizi yöntemi; bu sembol için sabit anlam kanıtı değildir."
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Rüya içerik analizinin yöntemlerini ve sembollerin frekans-bağlam ilişkisini açıklayarak 'posta' imgesinin tek başına sabit bir anlama indirgenemeyeceğini destekler.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
+    },
+    {
+      "title": "Methods and Measures for the Study of Dream Content",
+      "relevance": "Rüya içeriğini sınıflandırma ve tekrarlayan temaları tanımlama yöntemleri üzerinden posta benzeri imgelerin araştırılmasına metodolojik temel sağlar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2000a.html"
+    },
+    {
+      "title": "Freud (1900) Chapter 2 - Classics in the History of Psychology",
+      "relevance": "Freud’un mektup örneği, rüya sözlüklerinin tekil imgeleri sabit anlamlarla eşleştirme eleştirisini gösterir; posta için deterministik yorumu sorgular.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams2.htm"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Mektup simgesini Jungcu açıdan bilinçdışından gelen mesaj ve bütünleşme çağrısı olarak ele alır; posta okumalarında Jungcu perspektife destek verir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/letter/"
+    },
+    {
+      "title": "Carl Jung's Original Dream Interpretation Method",
+      "relevance": "Rüyaların bilinçdışının sembolik sunumu olduğu görüşüyle posta ve mektup motiflerinin bağlama göre yorumlanması gerektiğini vurgular.",
+      "url": "https://www.rafaelkruger.com/the-art-of-dream-interpretation/"
+    },
+    {
+      "title": "Symbol – International Association of Analytical Psychology ...",
+      "relevance": "Sembolün görünen anlamından fazlasını taşıdığı fikrini destekleyerek posta imgesinin çok katmanlı okunabileceğine dair teorik zemin sunar.",
+      "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/symbol-2/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus geleneğinin rüya yorumunda sembolün bağlamına ve işlevine göre değerlendirme yaptığını gösterir; modern 'posta' için dolaylı tarihsel çerçeve sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’ta rüya açıklamalarının kalıplaşmış dilini ve anlamın öğeler üzerinden kurulduğunu ele alır.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidorus’un yaşamı, eseri ve rüya yorumculuğundaki kapsamı hakkında tarihsel bağlam sunar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Published with license by Koninklijke Brill NV | doi:10.1163/1568525X-12347333",
+      "relevance": "Artemidorus’ta rüya türleri ayrımı ve yorumda içsel/dışsal unsur farkı üzerine akademik tartışma sunar.",
+      "url": "https://durham-repository.worktribe.com/OutputFile/3109639"
+    },
+    {
+      "title": "RÜYA - TDV İslâm Ansiklopedisi",
+      "relevance": "Rüya tabirinin sembolik dili çözme faaliyeti olarak tanımlanmasını sağlayarak 'posta' gibi çağdaş nesnelerin işlev üzerinden okunmasını destekler.",
+      "url": "https://islamansiklopedisi.org.tr/ruya"
+    },
+    {
+      "title": "Rüyada Postacı Görmek",
+      "relevance": "Geleneksel rüya tabirlerinde postacı figürünün haberci ve davetçi olarak yorumlandığına dair örnekler sunar.",
+      "url": "https://www.diyadinnet.com/ruyada-10443-postaci-gormek"
+    },
+    {
+      "title": "Biblical Meaning Of Receiving Mail In A Dream",
+      "relevance": "Rüyada mail/posta almayı Hristiyan yorumda ‘Tanrı’dan mesaj’ ve cevap alma temalarıyla ilişkilendiren modern bir dini yorum sayfası.",
+      "url": "https://dreampeas.com/biblical-meaning-of-receiving-mail-in-a-dream/"
+    },
+    {
+      "title": "M - Symbols Dreams And Visions | ASR Martins Ministries",
+      "relevance": "Postayı rüyalarda Tanrı’dan gelen mesaj olarak yorumlayan Hristiyan bakanlık içeriği.",
+      "url": "https://www.asrmartins.com/m-symbols/"
+    },
+    {
+      "title": "Topical Bible: Mail",
+      "relevance": "Kutsal metin bağlamında ‘mail’ kelimesinin modern posta değil zırh anlamına geldiğini ve sembolik kullanımın koruma temasıyla ilişkili olduğunu gösteren başvuru sayfası.",
+      "url": "https://biblehub.com/topical/m/mail.htm"
+    },
+    {
+      "title": "What does the Bible say about Dreams and Visions?",
+      "relevance": "Rüyalar ve vizyonların Kutsal Yazı ile sınanması gerektiğini savunan Hristiyan öğretici metin.",
+      "url": "https://ichthys.com/mail-dreams%20and%20visions.html"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Talmudik çerçevede rüyaların yorumlanmadıkça 'okunmamış mektup' gibi görülmesi fikrini gösterir; posta metaforunun yorumla anlam kazanması bağlamını destekler.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "RUYA TABiRLERi",
+      "relevance": "Rüyada posta, postacı ve mektup ile ilgili kısa geleneksel yorumlar içeriyor; posta kutusundan ya da elden mektup almayı haber alma temasıyla ilişkilendiriyor.",
+      "url": "https://www.islamiokul.com/kutuphane/muhtelif/ruya/ruyap.html"
+    },
+    {
+      "title": "Traumdeutung Post",
+      "relevance": "Post sembolünü klasik ve spiritüel rüya yorumları çerçevesinde iletişim, mesaj, haber ve manevi dünya ile bağlantı temalarıyla ele alıyor.",
+      "url": "https://energetic-root-medicine.net/traumdeuter/p/post/"
+    },
+    {
+      "title": "Mail Dream Meaning & Interpretation - Mirror",
+      "relevance": "Mail sembolünü genel olarak iletişim, haber ve içsel rehberlik olarak yorumluyor; rüyalarda posta benzeri bir simge için yorumlayıcı çerçeve sunuyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/mail/"
+    },
+    {
+      "title": "Mail spiritual meaning",
+      "relevance": "Mail ile ilgili spiritüel yorumda mesaj, sezgi ve evrensel iletişim temalarını öne çıkarıyor; modern spiritüel okuma için yararlı bir çerçeve sunuyor.",
+      "url": "https://spiritualmeaningacademy.com/mail-spiritual-meaning/"
+    },
+    {
+      "title": "Dream Interpretation and Meaning of Mail in Dreams",
+      "relevance": "Posta sembolünü iletişim, haber ve karşı taraftan gelen yanıt beklentisiyle ilişkilendiriyor; rüya yorumunda genel anlam alanını genişletiyor.",
+      "url": "https://www.cafeausoul.com/oracles/dream-dictionary/mail/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
 }

@@ -1,68 +1,195 @@
 {
   "slug": "rozet",
-  "title": "rozet",
-  "shortDescription": "Rüyada rozet, bir gruba aidiyet, tanınma veya üstlenilen görevi çağrıştırabilir. Üzerindeki işaret ve onu isteyerek mi taktığınız birlikte değerlendirilir.",
+  "title": "Rozet",
+  "shortDescription": "Rüyada rozet görmek; kimlik, aidiyet ve başkaları tarafından tanınma isteğiyle ilişkilendirilebilir. Rozetin kimden geldiği ve sizde gurur ya da rahatsızlık uyandırması, bunun takdir mi yoksa rol ve statü baskısı mı olduğunu anlamada önemlidir.",
   "positiveAssociations": [
-    "Bir gruba ait hissetmek",
-    "Emeğinin görülmesinden memnun olmak",
-    "Bir tercihini görünür kılmak"
+    "Tanınma ve takdir edilme",
+    "Güçlü kurumsal aidiyet",
+    "Yeni görev ve sorumluluklar",
+    "Kamusal görünürlük"
   ],
   "challengingAssociations": [
-    "İstemediği bir etiket taşımak",
-    "Görev veya statü baskısı",
-    "Kimliğini başkalarının değerlendirmesinden çekinmek"
+    "Aşırı biçimsel roller altında ezilme",
+    "Kimliğin dış onaylara bağımlı hale gelmesi",
+    "Yetki ve statü baskısı",
+    "Toplumsal maskelerle yaşanan gerilim"
   ],
   "contextDependentAssociations": [
-    "Rozetin üzerinde ne yazdığı",
-    "Kimin verdiği ve takmayı seçip seçmediğiniz",
-    "Ödül, görev veya grup işareti olması"
+    "Rozetin kime takıldığı veya kimden alındığı",
+    "Nesnenin üzerindeki işaretin veya sembolün türü",
+    "Rüya sahibinin uyanık yaşamındaki kurumsal pozisyonu",
+    "Rozetin takılırken uyandırdığı gurur veya rahatsızlık duygusu"
   ],
   "commonVariations": [
     {
-      "title": "Rozeti gururla takmak",
-      "description": "Gururun neye bağlı olduğunu düşünün: bir başarıya, bir topluluğa veya kişisel bir hatıraya mı? Başkalarının rozeti fark etmesi kadar sizin ona verdiğiniz değer de önemlidir."
+      "title": "Yakaya resmî bir rozet takılması",
+      "description": "Rüya sahibinin uyanık yaşamında üstlendiği yeni bir görevi, sorumluluğu veya bir otorite figürü tarafından onaylanma arzusunu yansıtır."
     },
     {
-      "title": "İstemediğiniz bir rozeti taşımak",
-      "description": "Rozeti çıkarabiliyor muydunuz, takmanızı kim istiyordu? Bu sahne zorunluluk veya dışarıdan tanımlanma üzerine kişisel çağrışımlar oluşturabilir."
+      "title": "Üzerinde simge bulunan küçük bir rozetin kaybolması",
+      "description": "Kişinin sosyal kimliğini, aidiyet duyduğu grubu veya kamusal alandaki tanınırlığını yitirme kaygısıyla ilişkilendirilebilir."
     },
     {
-      "title": "Rozeti kaybetmek",
-      "description": "Nesnenin hatırasına mı, gösterdiği göreve mi üzülüyordunuz? Kaybın rüyada neyi değiştirdiği, yalnız rozetin görünümünden daha açıklayıcı olabilir."
+      "title": "Parlak ve gösterişli bir nişan rozeti bulmak",
+      "description": "Beklenmeyen bir takdir görme, başarıya ulaşma ya da bireyin yetkinliklerinin çevresi tarafından fark edilmesi temalarını taşır."
     },
     {
-      "title": "Başkasına ait rozet takmak",
-      "description": "Yanlışlık mı olmuştu, yoksa bunu isteyerek mi yapmıştınız? Fark edilme endişesi, oyun veya merak farklı deneyimlerdir; rüyadan kişiliğiniz hakkında kesin hüküm çıkarılmaz."
+      "title": "Üzeri okunmayan veya silinmiş bir rozet taşımak",
+      "description": "Kişinin kendi rolünü ve toplumsal maskesini sorguladığı, kimliğine dair belirsizlikler yaşadığı bir döneme işaret eder."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Bir işareti taşımak ve onunla tanınmak farklı kişisel duygular oluşturabilir.",
-  "differences": "Rozetin tarihsel kullanım amacı, rüyada size ne hissettirdiğini tek başına açıklamaz.",
-  "inusAssessment": "Rozet rüyasında üzerindeki işaret ve takılma nedeni önemlidir. Bir başarı rozeti, görev işareti ve destek bildirisi aynı kullanım değildir. Smithsonian koleksiyon tanıtımı, rozet ve düğmelerin seçim kampanyalarında tanıtım için kullanımına örnek verir; bu tarihsel kullanım rüya tabiri değildir. INUS, aidiyet ve tanınma çağrışımlarını ancak sizin sahnenizle birlikte düşünür.",
-  "faq": [
+  "psychology": "Ampirik psikolojide rozet gibi sembollerin tek ve evrensel bir karşılığı bulunmamaktadır. Ancak psikolojik analizler, bu tür nesnelerin bireyin benlik algısı, sosyal rolleri ve dış dünyadan beklediği onay mekanizmalarıyla doğrudan ilişkili olabileceğini gösterir.",
+  "jungian": "Analitik psikoloji çerçevesinde rozet, bireyin içsel benliği ile dış dünyaya sunduğu toplumsal 'persona' arasındaki köprüyü simgeler. Küçük ve taşınabilir bir işaret olması, kişinin topluluk içindeki yerini, kimlik göstergelerini ve başkaları tarafından nasıl algılandığını anlamlandırma çabasını yansıtır.",
+  "islamicTradition": "Bazı modern aktarımlarda ve geleneksel okuma denemelerinde, rüyada rozet görülmesi devlet adamından fayda görme, makam sahibi olma veya önemli bir göreve atanma temalarıyla ilişkilendirilmiştir. Ancak bu tür bağlantılar kesin bir kuraldan ziyade, rüya bağlamına göre şekillenen ihtiyatlı yorum imkânlarıdır.",
+  "christianTraditions": "Hristiyan sembolizminde küçük görünen bir işaretin daha büyük bir inanç ve aidiyet boyutu taşıyabileceği düşünülür. Bu bağlamda rüyadaki rozet, inancı veya kurumsal bir değere bağlılığı dışarıya görünür kılan bir kimlik göstergesi olarak ele alınabilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar kesin kehanetler olarak görülmez; anlam büyük ölçüde rüyanın bağlamına ve kişinin o günkü zihinsel meşguliyetlerine dayanır. Rozet gibi bir aidiyet sembolü, bireyin güncel sosyal ilişkileri ve zihinsel odak noktaları üzerinden değerlendirilir.",
+  "buddhistEasternApproaches": "Budist rüya yaklaşımlarında imgeler katı ve sabit kodlar olarak okunmaz; aksine zihnin geçici projeksiyonları olarak ele alınır. Rozet sembolü de bu perspektifte, bireyin kurumsal takıntılara veya geçici kimlik etiketlerine yüklediği anlamın bir yansıması olarak okunabilir.",
+  "spiritualApproaches": "Ezoterik ve sembolik geleneklerde rozet, bireyin bir topluluk içindeki yerini, üstlendiği sembolik görevi ve içsel yetkinliğinin dış dünya tarafından onaylanmasını temsil eden bir nişan olarak okunur.",
+  "comparisonTable": [
     {
-      "question": "Rozet görmek terfi edeceğim anlamına mı gelir?",
-      "answer": "Hayır. Rozetin görev veya başarıyla ilişkili kullanımı gelecekte terfi olacağını göstermez."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Kimlik, otorite ve dışa sunulan rollerin sembolik birer temsili olarak okunur.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Rozet ile broş aynı şey midir?",
-      "answer": "Her zaman değil. Broş süs eşyası olabilir; rozet bir görev, grup veya mesaj belirtebilir. Rüyada işlevin ve üzerindeki işaretin ne olduğunu ayırmak yararlıdır."
+      "approach": "Analitik Psikoloji (Jungcu)",
+      "interpretation": "Bireyin içsel dünyası ile toplumsal persona arasındaki dengeyi ve aidiyet arayışını yansıtır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel ve Modern Aktarımlar",
+      "interpretation": "Görev, makam, tanınma ve kamusal alanda öne çıkma temalarıyla bağdaştırılır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik Yaklaşım",
+      "interpretation": "Sembolik yetki, içsel nişan ve topluluk içinde seçkinleşme göstergesi olarak ele alınır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, rozetin insan zihninde 'kimlik', 'görünürlük' ve 'aidiyet' kavramlarıyla sıkı bir bağ kurduğunu ortaklaşa kabul eder.",
+  "differences": "Psikolojik yaklaşımlar rozeti bireyin içsel benlik algısı ve maskeleriyle ilişkilendirirken, geleneksel ve ezoterik okumalar nesneyi daha çok dışsal görevler, tanınma ve statü ekseninde ele alır.",
+  "inusAssessment": "Rozet; görünür bir kimlik, üyelik, görev veya takdir işareti olması nedeniyle rüyada aidiyet ve tanınma temalarını öne çıkarabilir. Rozetin kim tarafından verildiği, takılması ya da çıkarılması, üzerinde hangi işaretin bulunduğu ve rüya sahibinin bundan gurur mu yoksa rahatsızlık mı duyduğu yorum açısından ayırt edicidir.",
+  "faq": [
+    {
+      "question": "Rüyada rozet takmak ne anlama gelir?",
+      "answer": "Rüyada rozet takmak genellikle uyanık yaşamda üstlenilen yeni sorumlulukları, bir gruba aidiyet hissedilmesini veya toplumsal alanda tanınma arzusunu yansıtır."
+    },
+    {
+      "question": "Rüyada rozet kaybetmek neyi ifade eder?",
+      "answer": "Rozet kaybetmek sosyal statüyü, kurumsal aidiyeti veya bireyin dış dünyada kendine biçtiği rolü yitirme endişesiyle ilişkilendirilebilir."
     }
   ],
   "sources": [
     {
-      "title": "Political Novelties",
-      "url": "https://americanhistory.si.edu/collections/object-groups/political-novelties",
-      "relevance": "Smithsonian koleksiyonunun indekslenmiş tanıtım metni rozet ve düğmelerin kampanya tanıtımında kullanımını açıklar. Rüya yorumu kanıtı değildir.",
-      "publication": "National Museum of American History"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya işleyişi, sembolik yer değiştirme ve örtük düşüncenin rüyada temsil edilmesi hakkındaki temel açıklamaları.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud’un rüya sembollerini ve rüya öğelerinin gizli anlamlarını ele aldığı bölüm; resmî işaretler için yorumlayıcı çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "SE 15.pdf",
+      "relevance": "Freud’un rüya sembolizmini daha sistematik biçimde açıkladığı metin; rüya imgelerinin sembolik işleyişine dair genel çerçeve verir.",
+      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149-169.pdf"
+    },
+    {
+      "title": "Symbols of Transformation – Quotation Excerpts",
+      "relevance": "Jung’un sembol ve rüya imgeleri hakkındaki alıntılarını derleyen sayfa; rüya imgelerinin literal değil sembolik okunması temasını yansıtır.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/04/11/and-symbols/"
+    },
+    {
+      "title": "APA PsycNET",
+      "relevance": "Jung’un bilinçdışı, semboller ve kendileşme süreci hakkındaki genel analitik psikoloji çerçevesini özetleyen kayıt.",
+      "url": "https://psycnet.apa.org/record/2010-18469-004"
+    },
+    {
+      "title": "Carl Jung - Symbol Analysis",
+      "relevance": "Jungcu sembol çözümlemesinin rüyalarda sembollerin dolaylı ve katmanlı okunmasına dayandığını gösteren derleme sayfası.",
+      "url": "http://www.carl-jung.net/symbolism.html"
+    },
+    {
+      "title": "Analysis of Dream Symbols",
+      "relevance": "Jungcu rüya yorumu üzerine sembollerin yoğunluk ve işlev bakımından ele alınmasına örnek veren derleme sayfası.",
+      "url": "https://www.carl-jung.net/dream_symbols.html"
+    },
+    {
+      "title": "A Babylonian Dream Tablet on the Interpretation of Dreams",
+      "relevance": "Mezopotamya rüya yorumunun tarihsel varlığını gösteren erken bir belge; rüya tabiri geleneğinin antik köklerini bağlama yerleştirir.",
+      "url": "https://www.penn.museum/sites/journal/586/"
+    },
+    {
+      "title": "oneirocritica-artemidorus-dream-dictionary",
+      "relevance": "Artemidorus'un Oneirocritica adlı eserine dair genel bir yönlendirme ve tarihsel rüya yorumu bağlamı sunar.",
+      "url": "https://dreamstudies.org/dream-interpretation-without-a-dream-dictionary/oneirocritica-artemidorus-dream-dictionary/"
+    },
+    {
+      "title": "Religious conceptions in Artemidorus' Oneirocritica",
+      "relevance": "Artemidorus'un Oneirocritica'sında tanrısal ve sembolik öğelerin işleyişini ele alır; antik rüya yorum yönteminin doğasını anlamaya yardımcı olur.",
+      "url": "https://research.vu.nl/en/publications/gods-in-dreams-religious-conceptions-in-artemidorus-oneirocritica/"
+    },
+    {
+      "title": "The Body, Experience, and the History of Dream-Science ... - EBSCO",
+      "relevance": "un Oneirocritica",
+      "url": "https://www.ebsco.com/articles/social-sciences-and-humanities/cc899927-e667-5231-a383-1c81a19159c5/the-body-experience-and-the-history-of-dream-science-in-artemidorus-oneirocritica"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus çevirisinin bir bölümü; nesnelerin ve hayvan imgelerinin toplumsal işlev, güç ve zenginlik gibi alanlarla ilişkilendirildiğini gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri | Bilmesek olmaz - Nedir? Nasıl ...",
+      "relevance": "Rozet için devlet adamı, fayda ve görevlendirilme temalı bir rüya aktarımı sunuyor.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/imam-nablusi-ruya-tabirleri/"
+    },
+    {
+      "title": "[PDF] Christian Symbols Often Used for Banners, Worship and Chrismons*",
+      "relevance": "Hristiyan sembollerinin küçük işaretler üzerinden inanç, kutsallık ve aidiyet anlamı taşımasına dair sembol derlemesi.",
+      "url": "https://www.umcs.org/chrismons/booklet.pdf"
+    },
+    {
+      "title": "Significance of Dreams",
+      "relevance": "Yahudi düşüncesinde rüyaların genel değeri, gündüz düşünceleriyle ilişkisi ve rüya etkisini yatıştırma uygulamaları üzerine kısa çerçeve sunar.",
+      "url": "https://aish.com/significance-of-dreams/"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Talmud’daki rüya pasajlarını ve belirli rüya imgeleri için sembolik eşleştirme geleneğini gösterir.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Dreaming in the Lotus : Buddhist dream narrative, imagery ...",
+      "relevance": "Budist rüya anlatıları, imgeleri ve uygulamalarını ele alan temel çalışma.",
+      "url": "https://archive.org/details/dreaminginlotusb00youn"
+    },
+    {
+      "title": "Rüyada Rozet Görmek | Rozet Takmak Ne Anlama Gelir?",
+      "relevance": "Rozetin rüya tabiri literatüründe başarı, tanınma, onur ve yeni fırsatlar ile ilişkilendirildiğini gösteren modern bir internet metni.",
+      "url": "https://www.neoldu.com.tr/ruyada-rozet-gormek-ne-anlama-gelir-12366h.htm"
+    },
+    {
+      "title": "Understanding the Lamen: A Symbol of Divine Connection",
+      "relevance": "Rozeti, ezoterik ritüel bağlamda taşınan sembolik bir nişan ve kişinin özsel niteliğini temsil eden işaret olarak tanımlayan metin.",
+      "url": "https://syndu.com/blog/understanding-the-lamen-a-symbol-of-divine-connection/"
+    },
+    {
+      "title": "The Master Mason's Handbook P6 - The Square Magazine",
+      "relevance": "Rozet/rosette öğesini masonik önlük üzerindeki sembolik unsurlar arasında konumlandıran ve rozet biçiminin üçlü düzen içinde anlam kazandığını anlatan metin.",
+      "url": "https://www.thesquaremagazine.com/mag/article/202212the-master-masons-handbook/"
+    },
+    {
+      "title": "The Badge of a Mason",
+      "relevance": "Rozeti aidiyet, işaret ve sembolik kimlik göstereni olarak tarif eden masonik bir metin.",
+      "url": "http://www.themasonictrowel.com/Articles/master_mason/mason_files/the_badge_of_a_mason_by_magill.htm"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian",
+    "buddhist-eastern"
+  ]
 }

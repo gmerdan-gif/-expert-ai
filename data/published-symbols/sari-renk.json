@@ -1,75 +1,239 @@
 {
   "slug": "sari-renk",
-  "title": "sarı renk",
-  "shortDescription": "Rüyada sarı renk, canlılık veya dikkat çekme hissi uyandırabilir. Parlaklığı, görüldüğü nesne ve kişisel çağrışımları önemlidir; tek başına hastalık belirtisi sayılmaz.",
+  "title": "Sarı renk",
+  "shortDescription": "Rüyada parlak ve canlı sarı; zihinsel açıklık, farkındalık ve ferahlıkla ilişkilendirilebilir. Soluk ya da donuk sarı ise yorgunluk, kaygı veya sağlıkla ilgili hassasiyetleri çağrıştırabilir; rengin tonu ve görüldüğü nesne yorumu etkiler.",
   "positiveAssociations": [
-    "Canlılık ve dikkat",
-    "Aydınlık bir ortamdan keyif almak",
-    "Bir nesneyi kolayca fark etmek"
+    "Zihinsel berraklık ve aydınlanma",
+    "Parlak sarı tonlarında sevinç ve ferahlık",
+    "Farkındalık ve bilincin uyanışı",
+    "Güneş ve ışık sembolizmi"
   ],
   "challengingAssociations": [
-    "Fazla parlaklıktan rahatsız olmak",
-    "Soluk veya yıpranmış bir görünüm",
-    "Dikkat çekmekten çekinmek"
+    "Soluk veya donuk sarı tonlarında hastalık ve zayıflık",
+    "Yaşam baskıları ve bedensel rahatsızlık",
+    "Kaygı, yorgunluk ve dengesizlik",
+    "Kıskançlık veya uyarı hissi"
   ],
   "contextDependentAssociations": [
-    "Parlak sarı ile soluk sarının ayrılması",
-    "Rengin ışıkta mı nesnede mi olduğu",
-    "Kişisel ve kültürel renk çağrışımları"
+    "Sarı ipek giysinin genel bağlamda hastalık, savaşçı için ise onur ve cesaret simgesi olması",
+    "Rüya nesnesinin türü ve bağlamı, rengin taşıdığı anlamın önüne geçebilir.",
+    "Parlak tonların olumlu gelişmelerle, soluk tonların sıkıntıyla ilişkilendirilmesi"
   ],
   "commonVariations": [
     {
-      "title": "Sarı giysi giymek",
-      "description": "Giysiyi sevmeniz ile fazla dikkat çektiğini düşünmeniz farklı deneyimlerdir. Rengin sizin seçiminiz olup olmadığına ve çevrenizdeki kişilere bakabilirsiniz."
+      "title": "Parlak sarı ışık veya nesne görmek",
+      "description": "Rüyada net ve parlak sarı tonlarında bir nesne veya aydınlık görmek, zihinsel açıklık ve farkındalık süreçleriyle ilişkilendirilir."
     },
     {
-      "title": "Sarı ışıkla aydınlanan bir yer",
-      "description": "Işığın sıcak ve rahatlatıcı mı, göz alıcı mı olduğunu düşünün. Burada renk kadar mekânın hissi de önemlidir."
+      "title": "Soluk veya sararmış kıyafetler giymek",
+      "description": "Soluk ve donuk sarı renkte kıyafetler içinde olmak, bedensel yorgunluk, zayıflık veya yaşamın getirdiği dönemsel sıkıntılara işaret edebilir."
     },
     {
-      "title": "Soluk sarı bir eşya görmek",
-      "description": "Solgun görünüm size eskimeyi veya kullanılmışlığı hatırlatabilir. Bu çağrışımı sağlık tahminine çevirmeden eşyanın durumu üzerinden değerlendirin."
+      "title": "Sarı tonlarında simyasal veya ezoterik imgeler",
+      "description": "Kükürt sarısı gibi tonlar, dönüşüm ve arınma hissi vererek içsel bir evre değişimini, bilincin uyanışını veya zihinsel odaklanmayı çağrıştırabilir."
     },
     {
-      "title": "Sarı bir nesneyi kalabalıkta fark etmek",
-      "description": "Renk, rüyada dikkatinizi tek bir şeye çekmiş olabilir. Nesnenin ne olduğunu ve neden önemli geldiğini düşünmek, yalnız renge anlam vermekten daha somuttur."
+      "title": "Doğada solmuş sarı yapraklar veya bitkiler",
+      "description": "Doğal bağlamda sararmış yapraklar görmek, enerjinin azalması, yorgunluk, kaygı veya bir dönemin sona ermesiyle ilgili çağrışımlar uyandırabilir."
     }
   ],
-  "psychology": "",
-  "jungian": "Jung’un renklerle çalışmasını ele alan kaynak, renklerin duygusal değerlerini ve görsel ifade içindeki yerini tartışır. Bu yaklaşımda rüyadaki sarıyı, kişinin renk hakkındaki çağrışımlarıyla birlikte düşünmek mümkündür. Sarıyı herkes için aynı zihinsel işlevin veya duygunun kanıtı saymak gerekmez.",
-  "islamicTradition": "",
-  "christianTraditions": "Litürjik sanat kaynağı sarıyı ve altın tonlarını sevinç ve aydınlanma gibi çağrışımlarla ele alırken, farklı kültürel bağlamlarda olumsuz kullanımların da bulunduğunu belirtir. Bu renk tarihi, kişisel rüyaya uygulanacak bir kehanet tablosu değildir.",
+  "psychology": "Ampirik literatür, rüyalardaki renklerin uyanık yaşamdaki duygusal süreçler ve bireysel çağrışımlarla ilişkili olduğunu göstermektedir. Rüyada hatırlanan sarı renk, tek başına sabit bir anlama indirgenemez; daha çok renk algısı, ortak fizyolojik süreçler ve kişinin o anki duygusal bağlamı ile birlikte şekillenir.",
+  "jungian": "Analitik psikoloji perspektifinde sarı renk, ışık, bilinçlilik ve içsel farkındalıkla bağdaştırılır. Ancak bu ilişki katı bir kural olarak değil, rüyanın bütünündeki duygusal tona ve bireyin arketipsel çağrışım ağına göre esnek bir şekilde ele alınır.",
+  "islamicTradition": "Bazı aktarımlarda soluk ve donuk sarı tonları hastalık veya sağlıkla ilgili hassasiyeti simgelerken, sarı ipek gibi detaylar bağlama göre zayıflık ya da savaşçı için onur ve cesaret gibi farklı anlamlar taşıyabilir.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde sarı renk bazen ilahi bilgelik, Tanrı’nın görkemi, onur ve ruhsal anlayışla ilişkilendirilirken, bazı modern kaynaklarda uyarı veya dikkat temalarıyla da ele alınmaktadır.",
   "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Renk, duygusal ve kültürel çağrışımları olan bir görsel ayrıntıdır.",
-  "differences": "Rengin kültürel geçmişi, rüyadaki kişisel deneyimi açıklamaya yardımcı olabilir; fakat onun yerine geçmez.",
-  "inusAssessment": "Sarı rüyasında belirleyici ayrım, rengin canlılığı ve bulunduğu yerdir. Aydınlık bir odanın sarısı ile solmuş bir kumaşın sarısı aynı hissi uyandırmayabilir. INUS değerlendirmesi, renge hastalık veya ihanet gibi sabit sonuçlar yüklemek yerine dikkatinizin hangi nesneye yöneldiğine ve o görüntüyü nasıl deneyimlediğinize odaklanır.",
-  "faq": [
+  "buddhistEasternApproaches": "Tibet Budizmi ve geleneksel doğu yaklaşımlarında sarı, feragat, alçakgönüllülük, keşiş cübbelerinin rengi üzerinden toprağa bağlılık ve Ratnasambhava ile ilişkilendirilen eşitlik bilgeliği gibi temalarla bağdaştırılır.",
+  "spiritualApproaches": "Ezoterik ve modern spiritüel okumalarda sarı renk güneş, irade, kişisel güç, zihinsel berraklık ve simyasal dönüşüm süreciyle ilişkilendirilir; kirli veya bulanık tonları ise kaygı ve dengesizliği çağrıştırabilir.",
+  "comparisonTable": [
     {
-      "question": "Sarı renk hastalık anlamına gelir mi?",
-      "answer": "Sarı bir rüya görüntüsü hastalık belirtisi sayılmaz. Tarihsel renk benzetmeleriyle sağlık hakkında çıkarım yapmak birbirinden farklı şeylerdir."
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Renklerin sabit bir sözlük anlamı yoktur; duygusal süreçler ve kişisel çağrışımlarla şekillenir.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Parlak sarı ile soluk sarı aynı mı yorumlanır?",
-      "answer": "Aynı olmak zorunda değildir. Parlaklık, ışık, malzeme ve rüyada hissettiğiniz duygu görüntünün sizdeki karşılığını değiştirebilir."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Renk ayrıntısı, rüyadaki görsel temsil düzeninin ve yoğunlaştırma süreçlerinin bir parçasıdır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Sarı, ışık, bilinç ve içsel farkındalıkla bağdaştırılan bir sembolik unsur olarak ele alınabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Tonuna ve nesneye göre değişir; soluk sarı hastalıkla, bazı istisnai giysiler ise onurla yorumlanabilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "İlahi bilgelik, Tanrı'nın görkemi ve onur temalarıyla ilişkilendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Güneş, zihinsel açıklık, simyasal dönüşüm ve kişisel güç simgesi olarak kabul edilir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplin ve geleneklerin çoğunda sarı rengin anlamı tek tip değildir; rengin tonuna, parlaklığına ve rüyadaki nesnenin bağlamına göre olumlu ya da zorlayıcı yönlere evrilebilir.",
+  "differences": "Ampirik psikoloji renkleri bireysel ve duygusal bağlam içinde incelerken, spiritüel ve geleneksel yaklaşımlar ışık, bilgelik, hastalık veya dönüşüm gibi daha belirli sembolik atıflar öne sürer.",
+  "inusAssessment": "Sarı rüyalarda en belirleyici unsur, rengin parlak ve canlı mı yoksa soluk ve donuk mu olduğudur.",
+  "faq": [
+    {
+      "question": "Rüyada sarı renk görmek kesin bir anlama mı gelir?",
+      "answer": "Hayır. Bilimsel ve psikolojik veriler, rüya renklerinin sabit bir sözlüğü olmadığını, kişinin duygusal durumu ve rüya bağlamına göre şekillendiğini gösterir."
+    },
+    {
+      "question": "Parlak sarı ile soluk sarı rüyada farklı mı yorumlanır?",
+      "answer": "Evet. Geleneksel ve kültürel aktarımlarda parlak sarı tonları ferahlık veya zihinsel açıklıkla bağdaştırılırken, soluk veya sararmış tonlar daha çok yorgunluk ve sağlık hassasiyetleriyle ilişkilendirilir."
     }
   ],
   "sources": [
     {
-      "title": "Jung on Family Constellations and the Alchemy of Colors",
-      "url": "https://jungiancenter.org/jung-on-family-constellations-and-the-alchemy-of-colors/",
-      "relevance": "Jung’un renklerle çalışmasını ve renklerin duygusal değerlerini tartışır; sarı rüyalarının tek anlamını gösteren araştırma değildir."
+      "title": "Content analysis on the potential significance of color in dreams: A preliminary investigation",
+      "relevance": "Rüyalarda renklerin olası anlamını içerik analiziyle ele alır; sarı dahil renklerin rüya bağlamında nasıl yorumlanabileceğine ilişkin ampirik çerçeve sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/508"
     },
     {
-      "title": "COLOUR MEANINGS",
-      "url": "https://art.catholic.org.au/2021/12/15/colour-meanings/",
-      "relevance": "Sarı ve altın tonlarının kültürel sembolizmde değişken kullanımını açıklar; rüya veya sağlık tahmini sunmaz."
+      "title": "Study on the factors affecting the change of color palette in ...",
+      "relevance": "Rüya raporlarında görülen renk dağılımlarını örnekler; sarının rüya içeriğinde rapor edilen renklerden biri olduğunu gösterir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/90727/95269/259156"
+    },
+    {
+      "title": "Dream Color and Emotion.PDF",
+      "relevance": "Rüya rengi ile duygusal yaşantı arasındaki bağlantıyı tartışır; renklerin duygusal içeriği yansıtabileceği fikrini destekler.",
+      "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d66ee0732bf8ed9141f15058fba36ee8d6cc653f"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyaların nasıl görsel imgeler halinde kurulduğunu ve görsel temsilin psikanalitik yorumdaki yerini gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Calef, V. (1954). Color in Dreams. Journal of the American Psychoanalytic Association, 2(3), 453–461.",
+      "relevance": "Rüyada renklerin duyusal izler, sembolik temsil ve regresyonla ilişkisini tartışan psikanalitik bir değerlendirme sunar.",
+      "url": "https://www.scribd.com/document/678696689/Calef-V-1954-Color-in-Dreams-Journal-of-the-American-Psychoanalytic-Association-2-3-453-461"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freudcu çerçevede renk ayrıntısının sabit bir sözlük anlamı değil, bağlam içinde okunan bir rüya unsuru olduğunu destekler.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "The Color You Choose Will Reveal Your Deepest Truth – Carl Jung’s Shocking Color Test",
+      "relevance": "Jungcu renk sembolizmine dair çevrimiçi bir yorum; rüyada sarı rengin bilinç, ışık ve farkındalıkla ilişkilendirilmesine dair özet bilgiler sunar.",
+      "url": "https://www.youtube.com/watch?v=fRlL_73wuoQ"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorumlarına ait çevrimiçi çeviri; Greko-Romen oneirokritik bağlamı ve yorum tarzını görmek için temel metin.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "(PDF) The Body, Experience, and the History of Dream Science in ...",
+      "relevance": "Artemidorus’ta beden, deneyim ve humoral tıp arasındaki ilişkiyi tartışan akademik çalışma; sıcak-kuru nitelikler ve sarı safra bağlantısı için kullanışlıdır.",
+      "url": "https://www.academia.edu/68691950/The_Body_Experience_and_the_History_of_Dream_Science_in_Artemidorus_Oneirocritica"
+    },
+    {
+      "title": "Title: The role of dreams in ancient medicine",
+      "relevance": "Eski tıpta rüyaların rolünü tartışan akademik metin; ateş, sarı safra ve humoral yorum arasındaki ilişkiyi açıkça özetler.",
+      "url": "https://core.ac.uk/download/pdf/197753172.pdf"
+    },
+    {
+      "title": "Denique Onirocrites, sic erit Hippocrates",
+      "relevance": "Artemidorus ve humoral tıp bağlamında ateşin sarı safra ile ilişkilendirilmesini aktaran akademik makale.",
+      "url": "https://www.athensjournals.gr/health/2021-8-2-1-Oberhelman.pdf"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’un rüya dilini ve anlamlandırma alışkanlıklarını inceleyen dilsel çalışma; sembollerin bağlamsal kurulumu için yararlıdır.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "[PDF] The Interpretation of Dreams by Artemidorus - Bookey",
+      "relevance": "Artemidorus’ta renklerin önemini özetleyen çevrimiçi PDF; renklerin tek başına değil bağlam içinde ele alınması gerektiğine dair genel not sunar.",
+      "url": "https://cdn.bookey.app/files/pdf/book/en/the-interpretation-of-dreams-by-artemidorus.pdf"
+    },
+    {
+      "title": "Yellow in a Dream — Islamic Interpretation",
+      "relevance": "Sarı renk için ton farkına dayalı İslami rüya yorumu aktarımı; soluk sarının sağlık ve sıkıntı eksenini ele alır.",
+      "url": "https://tafsiralholm.com/en/dream-interpretation/yellow/"
+    },
+    {
+      "title": "Yellow Islamic Interpretations & Meanings",
+      "relevance": "Sarı renk ve sarı giysi için klasik rüya tabiri ifadeleri; hastalık ve savaşçı için onur temasını içerir.",
+      "url": "https://www.myislamicdream.com/yellow.html"
+    },
+    {
+      "title": "Yellow - Islamic Interpretation - Dream Wisdom",
+      "relevance": "Sarı rengin İslami rüya yorumunda zayıflık, bedensel rahatsızlık ve bağlama göre takdir anlamlarını veren modern derleme.",
+      "url": "https://www.dream-wisdom.com/en/dreams/yellow/"
+    },
+    {
+      "title": "Colors - Dream Symbols Dictionary - Apostle David E. ...",
+      "relevance": "Sarı rengin rüya bağlamında bilgelik, Tanrı’nın görkemi, onur ve bazı olumsuz çağrışımlarla yorumlandığı modern Hristiyan rüya sözlüğü sayfası.",
+      "url": "https://joshuamediaministries.org/dream-interpretation/dream-symbols-dictionary/colors/"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Talmud Berakhot’taki rüya tartışmalarına erişim sağlar ve Yahudi rüya yorumunun temel rabbanî çerçevesini gösterir.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Yahudi rüya yorumunda renk ve nesne işaretlerinin nasıl işlendiğine dair tarihsel örnekler sunar.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Color Symbolism in Buddhist Art",
+      "relevance": "Budist sanat ve renk sembolizmi içinde sarının keşiş cübbeleri, alçakgönüllülük, feragat ve toprağa bağlılıkla ilişkisini açıklar.",
+      "url": "https://web.stanford.edu/class/history11sc/pdfs/Buddhist%20colors.pdf"
+    },
+    {
+      "title": "Meanings of Different Colors in Tibetan Buddhism",
+      "relevance": "Tibet Budizmi’nde sarı rengin yerleşiklik, feragat, Ratnasambhava bağlantısı ve eşitlik bilgeliğine dönüşümle ilişkisini özetler.",
+      "url": "https://www.tibettravel.org/tibetan-buddhism/meanings-of-colors-in-tibet.html"
+    },
+    {
+      "title": "Dream Yoga",
+      "relevance": "Rüya yogası bağlamında sarı rengi toprak rüzgârı, göbek çakrası ve bazı rüya sınıflamalarıyla ilişkilendirir.",
+      "url": "https://tibetanmedicine-edu.org/wp-content/uploads/2022/05/dreams_practice.pdf"
+    },
+    {
+      "title": "Five colours: Significance and symbolism",
+      "relevance": "Tibet Budizmi’nin beş renk şemasında sarının temel sembolik konumunu ve 'saf bilinç' (pristine cognition) ile ilişkisini açıklar.",
+      "url": "https://www.wisdomlib.org/concept/five-colours"
+    },
+    {
+      "title": "The Psychology of Yellow: Illuminating the Mind ...",
+      "relevance": "Sarı rengin rüya bağlamında aydınlanma, zihin açıklığı, dönüşüm ve simyasal sembolizmle ilişkilendirildiğini açıkça söyleyen modern bir yorum yazısı.",
+      "url": "https://gettherapybirmingham.com/blog/the-psychology-of-yellow-illuminating-the-mind-empowering-the-self/"
+    },
+    {
+      "title": "The Color Yellow: Meaning and Symbolism - Artinsolite",
+      "relevance": "Sarıyı simyada kükürt, güneş ilkesi ve dönüşümün erken evreleriyle ilişkilendiren; ayrıca içsel aydınlanma ve bilincin uyanışı temasını kuran modern açıklama.",
+      "url": "https://www.artinsolite.com/en/post/the-color-yellow-meaning-and-symbolism"
+    },
+    {
+      "title": "The Spiritual Meaning Of Yellow And How To Work With It",
+      "relevance": "Sarıyı gün, neşe, zihinsel olumlu durum ve solar pleksus çakrası üzerinden yorumlayan modern spiritüel çerçeve.",
+      "url": "https://www.mindbodygreen.com/articles/yellow-symbolism"
+    },
+    {
+      "title": "Citrination and its Discontents: Yellow as a Sign of Alchemical Change",
+      "relevance": "Sarıyı simyasal değişim bağlamında ele alan akademik bir makale; sarının alkimyasal dönüşümde nasıl anlamlandırıldığını tartışıyor.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00026980.2024.2309059"
+    },
+    {
+      "title": "Color Yellow in Dreams: Spiritual & Jungian Meaning",
+      "relevance": "Sarı rengin rüyalarda zihinsel berraklık, kişisel güç, farkındalık ve bazen uyarı/gerginlik temalarıyla ilişkilendirildiğini söyleyen modern spiritüel yorum.",
+      "url": "https://www.selfgazer.com/blog/yellow-dream-spiritual-meaning"
     }
   ],
-  "relatedSlugs": [
-    "sari-akrep",
-    "sari-cicek"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
   ]
 }

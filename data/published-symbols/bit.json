@@ -1,72 +1,190 @@
 {
   "slug": "bit",
-  "title": "bit",
-  "shortDescription": "Rüyada bit, bedenle ilgili rahatsızlık ve kurtulması zor küçük sorunları çağrıştırabilir. Bitin nerede görüldüğü ve onu temizlemeye çalışıp çalışmadığınız önemlidir.",
+  "title": "Bit",
+  "shortDescription": "Rüyada bit görmek, küçük ama sürekli rahatsız eden stresleri, zihni yoran ayrıntıları veya huzursuz edici ilişkileri simgeler. Bitleri ayıklamak bu yüklerle baş etme ve arınma çabasını anlatırken, geleneksel yorumlarda mal ve rızık artışıyla da ilişkilendirilebilir.",
   "positiveAssociations": [
-    "Rahatsız eden bir şeyi fark etmek",
-    "Temizleme sırasında destek almak",
-    "Küçük ayrıntıları dikkatle ayırmak"
+    "Maddî kazanç ve rızık artışı",
+    "Gündelik düzeni sağlama ve detayları fark etme",
+    "İçsel yükleri ayıklama ve arınma",
+    "Otorite veya yaşam koşullarında yenilenme"
   ],
   "challengingAssociations": [
-    "Kaşınma veya huzursuzluk hissi",
-    "Başkalarının fark etmesinden çekinmek",
-    "Temizlemeye çalıştıkça bitlerin arttığını görmek"
+    "Sürekli rahatsızlık ve bunaltı hissi",
+    "Kişisel sınırların ihlal edilmesi ve tükenmişlik",
+    "Zayıf düşmanlar, dedikodu ve gizli çekişmeler",
+    "Küçük ama birikerek büyüyen stres kaynakları"
   ],
   "contextDependentAssociations": [
-    "Bitin saçta, giyside veya başka bir yerde olması",
-    "Tek bir bit mi çok sayıda bit mi görüldüğü",
-    "Temizleyen ve yardım eden kişinin kimliği"
+    "Bitlerin bedende dolaşması veya giysiye tutunması",
+    "Bitlerin sayısı ve istila boyutu",
+    "Rüya sahibinin bitleri temizleme veya ayıklama eylemi",
+    "Rüya sırasındaki duygusal ton (korku, iğrenme veya olağanlık)"
   ],
   "commonVariations": [
     {
-      "title": "Saçınızda bit aramak",
-      "description": "Bulduğunuz şeyden mi, aramaya devam etmek zorunda kalmaktan mı rahatsız olduğunuzu düşünün. Bu sahne tek başına gerçek hayatta bit bulunduğuna ilişkin bir bilgi vermez."
+      "title": "Elbisede veya gömlekte bit görmek",
+      "description": "Kişinin günlük rollerinde veya yakın çevresinde karşılaştığı küçük ama ısrarcı bir yükü ya da maddî bir alandaki yenilenme arayışını simgeleyebilir."
     },
     {
-      "title": "Birinin saçındaki bitleri ayıklamak",
-      "description": "Yardım etmek, yakınlık veya yapılması zor gelen bir işle uğraşmak sizin için öne çıkabilir. Karşınızdaki kişinin yardımı kabul edip etmediğini ve kendi duygunuzu ayrı ele alın."
+      "title": "Üzerinde çok sayıda bitin dolaştığını fark etmek",
+      "description": "Zihni meşgul eden çok sayıda küçük detayın, ufak sorumlulukların veya bitmeyen kaygılı düşüncelerin birikerek bir bunaltı yarattığını gösterir."
     },
     {
-      "title": "Giysinizde bit görmek",
-      "description": "Giysiyi çıkarmak, saklamak veya temizlemeye çalışmak farklı tepkilerdir. Rüyada başkasının görmesinden çekinmeniz ile bedensel rahatsızlık duymanız aynı deneyim değildir."
+      "title": "Bitleri ayıklamak veya temizlemek",
+      "description": "Rüya sahibinin hayatındaki tahriş edici unsurlarla, parazitik ilişkilerle veya gizli stres kaynaklarıyla aktif olarak baş etme çabasını yansıtır."
     },
     {
-      "title": "Temizlediğiniz yerde yeniden bit bulmak",
-      "description": "Bitmeyen bir işlem hissi sahnenin yorucu tarafını oluşturabilir. Kaç kez denediğiniz, yardım isteyip istemediğiniz ve rüyanın nasıl bittiği kişisel çağrışımlarınızı etkileyebilir."
+      "title": "Bit ısırığı hissetmek",
+      "description": "Günlük yaşamda küçümsenen ancak anlık olarak can yakan küçük bir haksızlığın, dedikodunun veya rahatsız edici bir sözün farkına varıldığına işaret edebilir."
     }
   ],
-  "psychology": "Klein’ın böcekler ve rüyalar üzerine derlemesi klinik, kültürel ve edebî örnekleri bir araya getirir. Bu çeşitlilik, bütün bit rüyalarına uygulanabilen bir anlam oluşturmaz. Buradaki ayıklama, arama ve temizleme sahneleri de bir araştırma sonucunun kişiye uygulanması değil, rüyada hatırlanan eylemleri düşünme önerileridir.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Hayvanın kendisi kadar onunla uğraşırken yaşadığınız duygu ve yaptığınız hareket önemlidir.",
-  "differences": "Böcekler hakkında bir derleme, belirli bir bit rüyasının açıklaması değildir. Kültürel inanışlar ve kişisel çağrışımlar da aynı tür bilgi sunmaz.",
-  "inusAssessment": "Burada bit, küçük parazit canlıdır; ısırılma eylemiyle aynı başlık değildir. INUS değerlendirmesinde bitin bulunduğu yer, sayısı ve ondan kurtulmak için yaptığınız şey birlikte ele alınır. Kişisel olarak rahatsızlık veya temizlik çağrışımı kurabilirsiniz; bunlardan dedikodu, gizli düşman ya da kazanç haberi çıkarılmaz.",
-  "faq": [
+  "psychology": "Rüya içerik analizleri, rüyaların büyük bir kısmının en az bir temel duygu barındırdığını ve sembollerin duygusal bağlamdan ayrı düşünülemeyeceğini ortaya koyar. 'Bit' gibi küçük haşere imgeleri, bireyin uyanık yaşamındaki bastırılmış rahatsızlıkların, iğrenme duygusunun veya küçük ama süreğen bunaltıların rüya düzlemindeki yansıması olarak ele alınabilir.",
+  "jungian": "Jungcu analitik psikolojide böcek ve haşere figürleri, bilincin sınırlarını zorlayan, genellikle göz ardı edilen fakat süreklilik arz eden psikik içeriklerle ilişkilendirilir. Marie‑Louise von Franz çizgisinde bit gibi küçük, tutunan ve itici bir varlık, gündelik yaşamı kemiren bir kompleksi, gölgede kalmış bir incinmeyi veya bireyin enerjisini sızdıran küçük bir zihinsel rahatsızlığı simgeleyebilir.",
+  "islamicTradition": "Geleneksel İslami rüya tabiri kaynaklarında bit, bağlama göre farklı şekillerde yorumlanır. Bazı aktarımlarda dünyevî mal, rızık ve aile bağları ile ilişkilendirilirken, bazı derlemelerde zayıf düşmanlar, hakirlik, gıybet veya rahatsız edici küçük sıkıntılar olarak ele alınır. Elbisede görülen bit maddî kazanç veya otorite değişimine işaret edebilirken, bit öldürmek sıkıntılardan kurtulma şeklinde okunur.",
+  "christianTraditions": "Hristiyan sembolik okuma geleneğinde tek bir nesne soyutlanarak mutlak bir anlamla yüklenmez; rüyanın bütünsel anlatısı ve taşıdığı duygu esas alınır. Bu çerçevede bit imgesi, ruhsal veya ahlaki düzlemde kişiyi rahatsız eden küçük ama ısrarcı manevi pürüzlerin veya dikkat edilmesi gereken gizli uyarıların bir işareti olarak değerlendirilebilir.",
+  "jewishTraditions": "Rabbanî Yahudi geleneğinde Berakhot literatürü rüyaların anlamsız olmadığını, ancak asıl önemli olanın rüyanın kendisinden ziyade onun nasıl yorumlandığı olduğunu vurgular. Doğrudan 'bit' için sabit bir klasik rüya maddesi bulunmamakla birlikte, bu tür simgesel unsurlar rüyanın genel bağlamı ve kişinin içsel durumu ışığında ihtiyatlı bir yaklaşımla ele alınır.",
+  "buddhistEasternApproaches": "Erken Budist rüya anlatılarında ve metinlerinde, beden üzerinde hareket eden küçük kurtçuk veya haşere benzeri imajların yer aldığı görülür. Bu yaklaşım, rüya sembollerinin sabit birer sözlük karşılığından ziyade, zihnin ve bedenin o anki durumunu yansıtan akışkan ve bağlama bağlı imgeler olarak okunması gerektiğini destekler.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda bit, bireyin kişisel sınırlarını ihlal eden, enerjisini tüketen veya sürekli dikkat gerektiren parazitik etkilere işaret edebilir. Bu tür rüyalar, kişinin yaşamındaki gizli stres kaynaklarını fark etmesi, detaylarda kaybolan enerjisini koruması ve yaşam alanını arındırması için bir farkındalık çağrısı olarak yorumlanır.",
+  "comparisonTable": [
     {
-      "question": "Rüyada bit görmek para kazanmak anlamına mı gelir?",
-      "answer": "Bit görüntüsü maddi kazanç göstergesi değildir. Rüyadaki duygu, bulunduğu yer ve yaptığınız şey üzerinden kişisel bir değerlendirme yapılabilir."
+      "approach": "Psikolojik Yaklaşım",
+      "interpretation": "Gündelik yaşamdaki birikmiş küçük stresler, bunaltılar ve duygusal rahatsızlıkların yansıması.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Bit rüyası mutlaka kötü bir anlama mı gelir?",
-      "answer": "Tek bir anlamı yoktur. Bir rüyada tedirginlik, başka birinde birine yardım etme veya bir işi bitirmenin rahatlığı öne çıkabilir."
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilince sızan, zihni kemiren küçük kompleksler, gölgede kalmış incinmeler ve parazitik psikik içerikler.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Bağlama göre maddî rızık ve mal artışı ya da zayıf düşmanlar, dedikodu ve küçük sıkıntılar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Okuma",
+      "interpretation": "Kişisel sınırları zorlayan, enerji sızdıran ve arınma gerektiren ısrarcı dış etkiler.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Tüm yaklaşımlarda bit sembolü, büyüklüğüyle değil, yarattığı sürekli rahatsızlık, yapışkanlık ve küçük ama ısrarcı varlığıyla öne çıkar. Hiçbir ekol bu imgeyi büyük bir kriz olarak görmez; aksine, ihmal edilen küçük detayların veya sinsi rahatsızlıkların bir göstergesi olarak ele alır.",
+  "differences": "Farklı yaklaşımlar arasındaki temel ayrım, odağın nereye yöneltildiğine bağlıdır: psikoloji ve Jungcu analiz bu durumu içsel kompleksler ve duygusal bunaltılar olarak ele alırken, geleneksel ve spiritüel okumalar dışsal etkilere, rızık veya enerjisel sınır ihlallerine odaklanır.",
+  "inusAssessment": "kemiren",
+  "faq": [
+    {
+      "question": "Rüyada bit görmek her zaman kötü bir anlama mı gelir?",
+      "answer": "Hayır. Geleneksel bazı aktarımlarda bit mal ve rızık artışı ile ilişkilendirilirken, psikolojik ve spiritüel okumalarda daha çok küçük stresler veya dikkat edilmesi gereken detaylar olarak ele alınır."
+    },
+    {
+      "question": "Bitleri temizlediğini görmek rüyada ne anlama gelir?",
+      "answer": "Genellikle kişinin hayatını huzursuz eden küçük sorunlarla, parazitik ilişkilerle veya zihni yoran detaylarla aktif olarak baş etme çabasını ve arınma isteğini simgeler."
     }
   ],
   "sources": [
     {
-      "title": "The Curious Connection Between Insects and Dreams",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4553613/",
-      "relevance": "Böceklerin rüya ve kültürel anlatılardaki yerini derleyen yazı. Bitin tek bir rüya anlamını doğrulayan deney değildir.",
-      "author": "Barrett A. Klein",
-      "year": 2012
+      "title": "Relationships between Dream and Previous Wake Emotions ...",
+      "relevance": "Rüyalar ve önceki uyanıklık duyguları arasındaki ilişkiyi, rüya duygularının çeşitliliğini ve yaygınlığını ele alan ampirik çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601812/"
+    },
+    {
+      "title": "DreamResearch.net: The content of dreams (Domhoff, 2005)",
+      "relevance": "Rüya içerik analizinin nasıl yapılacağını, kategori oluşturma ve frekans karşılaştırmalarını açıklayan akademik kaynak.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2005a.html"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramını ve rüyanın bastırılmış isteklerle ilişkisini anlatan temel eser.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Marie-Louise von Franz - Die Publikationen und Werke",
+      "relevance": "Rüya imgelerinin kişisel çağrışım ve psikik bütünlük bağlamında açımlanmasına dayanan Jungcu yorum çerçevesini temsil eder; küçük, itici ve tutunan imgelerin gölge ve komplekslerle ilişkilendirilmesi için uygun bir dayanak sağlar.",
+      "url": "https://www.marie-louisevonfranz.com/startseite"
+    },
+    {
+      "title": "The Curious Connection Between Insects and Dreams - PMC - NIH",
+      "relevance": "Böcek ve haşere imgelerinin rüyalarda rahatsızlık, iğrenme ve istilâ duygularıyla ilişkilendirilebildiğini gösteren genel bir çerçeve sunar; bit imgesinin Jungcu okumasında yardımcı bağlam sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4553613/"
+    },
+    {
+      "title": "Dream Interpretation of Lice: Wealth or Worries",
+      "relevance": "Bit sembolü için İbn Sîrîn’e atfedilen modern bir derleme maddesi; bitin mal, aile, zayıf düşman ve rahatsız edici sözlerle ilişkisini açıklar.",
+      "url": "https://fassir.ai/en/dictionary/lice"
+    },
+    {
+      "title": "Animals Dreams — 141 Islamic Interpretations | Dream Wisdom",
+      "relevance": "İslami rüya tabiri geleneğinde bitin rızık, elbise, yerde görülme ve ısırma gibi bağlamlarda nasıl yorumlandığını toplu biçimde sunan çevrimiçi derleme.",
+      "url": "https://www.dream-wisdom.com/en/dreams/category/Animals/"
+    },
+    {
+      "title": "Şeyh Ali'nin Ta'bîrnâme'sinde Rüya Türleri ve Hayvan ...",
+      "relevance": "Şeyh Ali Ta'bîrnâmesi’nde bit sembolünün 'hakir ve zayıf' oluşla ilişkilendirilmesini gösteren akademik çalışma.",
+      "url": "https://dergipark.org.tr/tr/download/article-file/5051906"
+    },
+    {
+      "title": "[PDF] İbni Sîrîn'den Tercüme Edilen Bir Rüya Tabîr-Nâmesi - SADAB",
+      "relevance": "İbni Sîrîn’den tercüme edildiği belirtilen rüya tabîrnâmesinde bitin mal ve rızıkla ilişkilendirildiğini gösteren metin parçası.",
+      "url": "https://makale.isam.org.tr/server/api/core/bitstreams/c513adc0-7e40-4fcb-930b-660b5bc70fa0/content"
+    },
+    {
+      "title": "Dreams about punishment Islamic Interpretations ...",
+      "relevance": "Bit için elbise, kaşıntı, gıybet, ceza ve bit istilası gibi bağlamlarda farklı İslami tabirleri bir araya getiren derleme sayfası.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=punishment"
+    },
+    {
+      "title": "Interpreting Your Dreams: A Biblical Christian Approach",
+      "relevance": "Hristiyan rüya okumasında sembolleri tek başına değil, bütün rüya bağlamı ve duygusal tonla birlikte değerlendirme yaklaşımı.",
+      "url": "https://www.soulshepherding.org/interpreting-your-dreams/"
+    },
+    {
+      "title": "Syracuse University",
+      "relevance": "Berakhot 55a-55b’de rüyanın yoruma bağlılığı ve “yorumlanmayan rüya” ilkesi üzerine akademik bir tartışma.",
+      "url": "https://surface.syr.edu/cgi/viewcontent.cgi?article=1037&context=rel"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Yahudi geleneğinde rüyaların anlam taşıyabileceğini ve Talmud’daki rüya anlayışını özetleyen giriş yazısı.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b’de rüyalar bölümünün genel çerçevesini ve yorumun önemini anlatan Talmud açıklaması.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Talmud’da bazı rüyaların anlamsız, bazılarının ise potansiyel anlam taşıdığı ve olumlu yorum geleneğinin varlığı ele alınır.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Klasik Yahudi kaynaklarında rüyaların yorumla ilişkisini ve Berakhot’taki temel ilkeleri özetler.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "The updated version is freely available at",
+      "relevance": "Buda’nın beş büyük rüyasını içerir; bedeni kaplayan beyaz kurtçuklar/solucanlar imgesi, Budist rüya sembolizmi içinde küçük haşere benzeri canlıların nasıl yer aldığını gösterir.",
+      "url": "https://accesstoinsight.org/tipitaka/an/an05/an05.196.than.html"
+    },
+    {
+      "title": "Dreams",
+      "relevance": "Aynı beş rüya geleneğinin başka bir aktarımıdır ve rüya sembollerinin öğreti bağlamında okunmasına ilişkin metinsel zemin sağlar.",
+      "url": "https://obo.genaud.net/dhamma-vinaya/pts/an/05_fives/an05.196.hare.pts.htm"
+    },
+    {
+      "title": "Louse Dream Meaning - Interpret Your Dream!",
+      "relevance": "Rüyada bit/louse sembolünü modern spiritüel ve sembolik çerçevede açıklayan bir sayfa; biti rahatsızlık, sınır ihlali ve enerjiyi tüketen etkilerle ilişkilendiriyor.",
+      "url": "https://mirrorwithin.com/dream-dictionary/louse/"
+    },
+    {
+      "title": "Louse spirit animal",
+      "relevance": "Bit/louse için modern spiritüel yorum sunan bir sayfa; küçük canlıyı dikkat, uyum ve gizli stresleri fark etme temalarıyla bağlıyor.",
+      "url": "https://spiritualmeaningacademy.com/louse-spirit-animal/"
     }
   ],
-  "relatedSlugs": [
-    "kafada-bit",
-    "bitlenmek"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
   ]
 }

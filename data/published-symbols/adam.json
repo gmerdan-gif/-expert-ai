@@ -1,71 +1,196 @@
 {
   "slug": "adam",
-  "title": "adam",
-  "shortDescription": "Rüyada bir adam görmek, tanıdıklık, güven ve mesafe gibi ilişki deneyimlerini düşündürebilir. Adamın kim olduğu, davranışı ve sizde uyandırdığı duygu önemlidir.",
+  "title": "Adam",
+  "shortDescription": "Rüyada Adam veya Hz. Âdem’i görmek, köklere dönme, yeni bir başlangıç ve sorumluluk gerektiren bir dönemece işaret edebilir. Rüyanın bağlamına göre imtihan, pişmanlık, sabır, tevbe ya da ilim ve rehberlik arayışı öne çıkabilir.",
   "positiveAssociations": [
-    "Birinden yardım almak",
-    "Bir konuşmada anlaşılmak",
-    "Tanıdık bir kişiyle yeniden karşılaşmak"
+    "İlim ve hikmet arayışı",
+    "Yeni bir başlangıç ve döngü",
+    "Psikolojik bütünlük ve içsel denge",
+    "Geçmiş tecrübelerden ders alma",
+    "Onur, itibar ve konum kazanma"
   ],
   "challengingAssociations": [
-    "Tanımadığınız birinin yaklaşmasından tedirgin olmak",
-    "Birinin baskısıyla karşılaşmak",
-    "Bir yüzü tanımaya çalışıp çıkaramamak"
+    "Büyük bir sınav veya imtihandan geçme",
+    "Günah, düşüş ve pişmanlık duygusu",
+    "Yolunu kaybetme veya kararsızlık",
+    "Otorite veya saygı ilişkilerinde bozulma",
+    "İçgüdüsel ve bedensel dürtülerin baskısı"
   ],
   "contextDependentAssociations": [
-    "Adamın tanıdık veya yabancı olması",
-    "Size söyledikleri ve yaptıkları",
-    "Aranızdaki mesafe ve sizin tepkiniz"
+    "Su veya rahim temalı imgelerle birleştiğinde doğum ve bedensel başlangıç",
+    "Hz. Âdem ile doğrudan diyalog kurulması durumunda bilgi ve marifet kazanımı",
+    "Kişinin kendi hayatındaki otorite figürleriyle olan ilişkilerini yansıtması",
+    "Ehil olduğu durumlarda velayet ve sorumluluk üstlenme"
   ],
   "commonVariations": [
     {
-      "title": "Tanımadığınız bir adamla konuşmak",
-      "description": "Konuşmanın konusu ve karşılıklı tutum, yalnız kişinin erkek olmasından daha açıklayıcı olabilir. Yardım mı istiyordunuz, bir şeyi mi anlatıyordunuz, yoksa konuşmadan uzaklaşmak mı istiyordunuz?"
+      "title": "Hz. Âdem ile konuşmak",
+      "description": "Rüyada ilk insanla diyalog kurmak, kişinin hayatında yeni bir bilgelik kazanma, ilim elde etme ve içsel rehberlik arayışı içinde olduğuna işaret eder."
     },
     {
-      "title": "Tanıdık bir adamın farklı davranması",
-      "description": "Rüyadaki davranışın gerçek kişinin niyetini gösterdiğini varsaymayın. Size tanıdık gelen tarafı ile şaşırtan davranışı ayırmak, sahneyi kendi deneyiminizle karşılaştırmanıza yardımcı olabilir."
+      "title": "İlk insan figürüyle ıssız bir yerde karşılaşmak",
+      "description": "İnsanlığın kökenini simgeleyen bu figürle baş başa kalmak, kişinin kendi kökleriyle, varoluşsal sorgulamalarıyla ve içsel saflığıyla yüzleşmesini temsil eder."
     },
     {
-      "title": "Bir adamın size yol göstermesi",
-      "description": "Yardımı kabul edip etmediğiniz önemlidir. Rahatlama, kuşku veya bağımsız hareket etme isteği, bu karşılaşmanın sizde uyandırdığı farklı duygular olabilir."
+      "title": "Sınav veya imtihan ortamında Âdem figürünü görmek",
+      "description": "Büyük bir zorluk veya karar aşamasında bu sembolle karşılaşmak, kişinin hayatındaki sabır gerektiren dönemeçleri ve sorumluluk bilincini vurgular."
     },
     {
-      "title": "Yüzünü seçemediğiniz bir adam görmek",
-      "description": "Yüzün belirsiz olması dışında sesini, kıyafetini veya bulunduğu yeri hatırlıyor olabilirsiniz. Hatırlamadığınız ayrıntılara kimlik yüklemek yerine, sahnede gerçekten seçebildiğiniz unsurlardan başlayın."
+      "title": "Su kenarında veya rahim benzeri bir mekanda ilk insanı görmek",
+      "description": "Bedensel başlangıç, köken ve yeniden doğuş temalarını barındıran bu senaryo, kişinin hayatında taze bir sayfa açma potansiyelini simgeler."
     }
   ],
-  "psychology": "Domhoff’un içerik analizi değerlendirmesi, tanıdık ve yabancı karakterleri ve bu kişilerle dostça ya da saldırgan etkileşimleri ayrı ayrı inceler. Bunlar rüya grupları arasında yapılan karşılaştırmalardır. Belirli bir rüyadaki adamın tehlikeli, koruyucu veya baba figürü olduğunu tek başına göstermez. Kişinin görünüşünden çok rüyada ne yaptığına ve sizin tepkinize bakmak, kendi anlatınızı daha ayrıntılı düşünmenizi sağlar.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
+  "psychology": "Ampirik rüya araştırmaları, rüyaların karakter, tema ve duygu tonu bakımından geniş bir değişkenlik gösterdiğini ve tek bir sembolün sabit bir anlama indirgenemeyeceğini ortaya koymaktadır. Rüya içeriğinde beliren insan figürleri, bireyin sosyal bağlamı ve zihinsel örüntüleriyle birlikte incelenir.",
+  "jungian": "Jungcu analitik psikolojide Adam veya ilk insan figürü, kolektif bilinçdışının en derin katmanlarını, insan psişesinin bütünlüğünü ve Self arketipini temsil eder. Bu bağlamda rüyadaki insan figürü, bilinç ile bilinçdışının entegrasyonunu ve bireyleşme sürecindeki tamamlanma çabasını gösterir.",
+  "islamicTradition": "İslami rüya tabiri geleneklerinde Hz. Âdem’i görmek imtihan, sabır, hikmet arayışı ve işlenen hatalardan sonra tevbe etme ihtiyacı ile yorumlanır. Onunla konuşmak ilim ve marifet kazanımına işaret ederken, figüre zarar verme veya saygısızlık etme temaları ana-baba, öğretmen veya otorite figürleriyle olan bağların zedelenmesine yorulur.",
+  "christianTraditions": "Hristiyan teolojik sembolizminde Adam, insanlığın kökenini, Tanrı’nın suretinde yaratılışı, düşüşü ve insanlık durumunun kırılganlığını simgeler. Aynı zamanda tipolojik okumalarda Mesih’e bir önfigür olarak ele alınarak eski insan ile yeni başlangıç arasındaki gerilimi temsil eder.",
+  "jewishTraditions": "Yahudi rüya ve teoloji geleneğinde Adam, yalnızca tarihi bir figür değil, ilk insan ve insanlığın arketipsel kökeni olarak ele alınır. Talmudik yorum geleneği, rüyaların mutlak birer hüküm olmadığını, aksine bağlamına göre dikkatle değerlendirilmesi gereken anlam alanları barındırdığını vurgular.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Kimlik, davranış ve karşılıklı ilişki, rüyadaki bir kişiyi tarif etmek için ayrı ayrıntılardır.",
-  "differences": "Grup düzeyindeki karakter sıklıkları kişisel rüya tabiri değildir. Bir adamın sizin için taşıdığı çağrışım, onunla yaşadığınız sahneye bağlıdır.",
-  "inusAssessment": "Bu sayfadaki adam, rüyada görülen yetişkin erkek figürüdür; Âdem peygamberi anlatan özel isimle aynı kapsamda değildir. INUS değerlendirmesinde kişinin tanıdık olup olmadığı, yaptığı şey ve sizin onunla ilişkiniz öne çıkar. Bir erkek figürü yalnız cinsiyeti nedeniyle otorite, tehdit veya rehber sayılmaz. Buradaki sahne okumaları kendi çağrışımlarınızı düşünmeniz için olasılıklardır.",
-  "faq": [
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda Adam, dönüşümün ilk maddesi olan prima materia, duyusallık ile tözün dengelenmesi ve yeni bir döngünün başlangıcı olarak yorumlanır. Bu yaklaşım, sembolü insan doğasının köklerine dönüş ve bütünlenme potansiyeli olarak ele alır.",
+  "comparisonTable": [
     {
-      "question": "Rüyada yabancı bir adam görmek yeni bir ilişkiyi haber verir mi?",
-      "answer": "Yalnız bu görüntüden gelecekteki bir tanışma veya ilişki sonucu çıkarılamaz. Konuşma, uzaklık, yakınlık ve rüyada hissettiğiniz duygu daha somut ayrıntılardır."
+      "approach": "Psikanaliz ve Jungcu Psikoloji",
+      "interpretation": "Bireyleşme, Self arketipi, psikolojik bütünleşme ve bilinçdışı öğelerin entegrasyonu.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Rüyadaki adam gerçek hayattaki bir kişiyi mi temsil eder?",
-      "answer": "Bazen tanıdığınız bir kişiyi açıkça hatırlayabilirsiniz; bazen kimliği belirsizdir. Rüyadan yola çıkarak gerçek bir kişinin niyetini bildiğinizi varsaymak doğru olmaz."
+      "approach": "İslami Rüya Geleneği",
+      "interpretation": "İmtihan, sabır, tevbe, ilim kazanımı ve otorite figürleriyle ilişkiler.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan ve Yahudi Teolojisi",
+      "interpretation": "İnsanlığın kökeni, yaratılış, düşüş, sorumluluk ve yeni bir başlangıç.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Simyasal Yaklaşım",
+      "interpretation": "Prima materia, bedensellik, içgüdüsel dengelenme ve döngüsel dönüşüm.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve psikolojik ekoller arasında bu sembol, insanlığın kökeni, başlangıç noktası, sorumluluk bilinci ve varoluşsal bir dönüm noktası fikri etrafında birleşir.",
+  "differences": "Psikolojik yaklaşımlar figürü içsel bütünleşme ve arketipsel bir yapı olarak ele alırken, dini gelenekler teolojik imtihanlar, tevbe ve otorite ekseninde somutlaştırır; ezoterik okumalar ise daha çok maddesel ve dönüşümsel kökler üzerinde durur.",
+  "inusAssessment": "Adam sembolü, rüyada belirdiği andan itibaren sıradan bir insan figürünün ötesinde, kişinin kökenleri, yaşamındaki büyük sınavlar ve içsel dönüşüm potansiyeli ile ilgili derin bir gerilim barındırır. Bu rüyayı yorumlarken figürün hangi bağlamda ortaya çıktığı—bir ilim ve rehberlik anı mı, yoksa bir imtihan veya pişmanlık teması mı olduğu—anlamın yönünü belirleyen en kritik unsurdur.",
+  "faq": [
+    {
+      "question": "Rüyada Hz. Âdem'i görmek kesin bir günah işlendiğine mi işaret eder?",
+      "answer": "Geleneksel kaynaklarda bu imge tevbe ihtiyacı veya imtihanla ilişkilendirilse de, her rüya gören için doğrudan bir suçluluk anlamı taşımaz; daha çok kişinin hayatındaki muhasebe ve sabır süreçlerini yansıtır."
+    },
+    {
+      "question": "Adam sembolü psikolojik rüyalarda neyi temsil eder?",
+      "answer": "Analitik psikolojide bu tür arketipler bireyin içsel bütünlüğü, bilinçdışı ile kurduğu bağ ve psikolojik olgunlaşma çabasıyla bağlantılı olarak değerlendirilir."
     }
   ],
   "sources": [
     {
-      "title": "Gender Similarities and Differences in Dreams",
-      "url": "https://dreams.ucsc.edu/Library/domhoff_2005c.html",
-      "relevance": "Rüya karakterlerinin tanıdıklığı ve sosyal etkileşimlerini grup düzeyinde karşılaştırır. Tek bir erkek figürünün anlamını belirlemez.",
-      "author": "G. William Domhoff"
+      "title": "DreamResearch.net: Similarities and differences in dream content",
+      "relevance": "Rüya içeriğinin karşılaştırmalı biçimde incelenmesi, karakter ve tema örüntülerinin nasıl değerlendirildiğini gösterir.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2008d.html"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud’un rüyalarda su, rahim ve doğum arasındaki bağlantıyı anlattığı bölüm; Adam sembolü için doğrudan değil, yakın psikanalitik imgeler üzerinden çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "1. Carl Jung on Adam and Eve as Psychological Realities",
+      "relevance": "Adam ve Havva teması üzerinden Adam’ın psikolojik bütünlüğü, bilinç ve bilinçdışı öğeleriyle ilişkisini ve ilk insan/insanlık imgesini ele alır.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/07/22/73482/"
+    },
+    {
+      "title": "1. Carl Jung: The Archetype in Dream Symbolism",
+      "relevance": "Adam ile Mesih, ölüm ve yeniden doğuş bağlantısı üzerinden Jungcu insan (Anthropos) sembolizmini tartışır.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/10/18/symbolism-2/"
+    },
+    {
+      "title": "Symbol – International Association of Analytical Psychology ...",
+      "relevance": "Jung’un sembol tanımını ve rüyada sembollerin bilincin ötesine taşan anlamını açıklar.",
+      "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/symbol-2/"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidorus’un Oneirocritica’sının beş kitaplık bir rüya yorumu el kitabı olduğunu ve tarihsel kullanım alanını açıklar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "The Body, Experience, and the History of Dream-Science ...",
+      "relevance": "Artemidorus’un eserinin Greko-Romen antikiteden günümüze ulaşan en büyük kehanet amaçlı rüya yorumu derlemesi olduğunu belirtir.",
+      "url": "https://www.ebsco.com/articles/social-sciences-and-humanities/cc899927-e667-5231-a383-1c81a19159c5/the-body-experience-and-the-history-of-dream-science-in-artemidorus-oneirocritica/"
+    },
+    {
+      "title": "Published with license by Koninklijke Brill NV | doi:10.1163/1568525X-12347333",
+      "relevance": "Artemidorus’ta rüyaların iç ve dış boyutlarını tartışan akademik bir inceleme sunar; tarihsel rüya teorisinin bağlamını destekler.",
+      "url": "https://durham-repository.worktribe.com/OutputFile/3109639"
+    },
+    {
+      "title": "تفسير رؤيا آدم عليه السلام في المنام | سواري",
+      "relevance": "Hz. Âdem’in rüyada görülmesini imtihan, sabır, hikmet arayışı ve tecrübeden ders alma ile ilişkilendiren modern Arapça aktarım.",
+      "url": "https://sawarey.com/tfsyr-ruya-aadm-alyh-alslam-fy-almnam"
+    },
+    {
+      "title": "تفسير رؤية أدم عليه السلام في المنام: ولاية وعلم وتوبة",
+      "relevance": "Hz. Âdem’i rüyada görmeyi tevbe, baba, sultan, ilim ve zarar verme temalarıyla bağlayan Nablusî atfı taşıyan çevrimiçi aktarım.",
+      "url": "https://mana.ms/blog/ar/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A3%D8%AF%D9%85-%D8%B9%D9%84%D9%8A%D9%87-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85"
+    },
+    {
+      "title": "تفسير منام حلم رؤيا آدم عليه السلام | مركزي لتفسير الاحلام و ...",
+      "relevance": "Hz. Âdem’in rüyada görülmesi konusunda İbn Şâhin’e atfedilen tevbe, velayet ve ilim temalı çevrimiçi derleme.",
+      "url": "https://dreams.mrkzy.com/alif/interpretation-60/"
+    },
+    {
+      "title": "IBN SEERiN'S",
+      "relevance": "Hz. Âdem maddesi; günah, tevbe, baba, yönetici, onur ve ilim gibi sembolik anlamları bir arada veren İngilizce derleme PDF.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "« Adam » dans le christianisme",
+      "relevance": "Adam’ın Hristiyanlık içindeki sembolik anlam katmanlarını; insanlığın başlangıcı, düşüş ve Mesih’te kurtuluş ekseninde özetler.",
+      "url": "https://www.wisdomlib.org/fr/christianisme/concept/adam"
+    },
+    {
+      "title": "Adam — Patriarchs",
+      "relevance": "Adam’ı Tanrı’nın suretinde yaratılmış ilk insan ve insanlık durumunun kurucu figürü olarak sunar; teolojik sembolizm için uygundur.",
+      "url": "https://www.via.bible/en/character/adam/"
+    },
+    {
+      "title": "Topical Bible: Adam: The First Man: Type of Christ",
+      "relevance": "Adam’ın Hristiyan teolojisinde Mesih’e tipolojik olarak bağlanmasını açıklar; sembolün kurtuluş ve yeni insanlık temalarıyla ilişkisini destekler.",
+      "url": "https://biblehub.com/topical/naves/a/adam--the_first_man--type_of_christ.htm"
+    },
+    {
+      "title": "Berakhot 55b | The Sefaria Library",
+      "relevance": "Rüya yorumuna ilişkin Berakhot pasajları, Yahudi geleneğinde rüyaların anlamı ve yorumunun merkezi yerini gösterir; ayrıca 'Adam' figürünün uyku ve yaratılış temalarıyla bağlantısını kurmaya yarayan metinsel bağlam sağlar.",
+      "url": "https://www.sefaria.org/Berakhot.55b"
+    },
+    {
+      "title": "Interpret Your Dream! - Adam Dream Meaning",
+      "relevance": "Adam rüyasını ilk insan, başlangıç ve insan deneyiminin kökeni temalarıyla ilişkilendiren modern yorumlayıcı bir okuma sunuyor.",
+      "url": "https://mirrorwithin.com/dream-dictionary/adam/"
+    },
+    {
+      "title": "Adam, Traumdeutung, Traumdeuter, Träume, Traum, Esoterik, Astrologie",
+      "relevance": "Adam’ı bedenlilik, duyusallık ve baba figürüyle ilişkilendiren esoterik bir rüya yorumu veriyor.",
+      "url": "http://traumdeuter.ch/texte/144.htm"
+    },
+    {
+      "title": "Dreaming About Adam: 11 Intriguing Dream Symbolism Scenarios",
+      "relevance": "Adam ve Havva üzerinden başlangıç, saflık, ikilik ve düşüş temalarını rüya sembolizmi olarak ele alan modern bir yorum sunuyor.",
+      "url": "https://dict.dreamdecoder.me/symbol/decoding-the-dream-symbol-of-adam/scenarios"
+    },
+    {
+      "title": "Volume 14: Mysterium Coniunctionis – International ...",
+      "relevance": "Simyasal bağlamda Adam’ın prima materia ve dönüşüm süreçleriyle ilişkilendirildiğini aktarıyor.",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-14-mysterium-coniunctionis/"
+    },
+    {
+      "title": "Andrea Pisano and the Weird Birth of Eve Rib. Part 2",
+      "relevance": "Simyasal yorumlarda Adam’ın magisterium ve kırmızılaşma (rubedo) ile ilişkilendirildiği iddiasını aktarır.",
+      "url": "https://www.labyrinthdesigners.org/alchemy-art/andrea-pisano-and-the-weird-birth-of-eve-rib-part-2/"
     }
   ],
-  "relatedSlugs": [
-    "adam-dovmek",
-    "devlet-adami"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
   ]
 }

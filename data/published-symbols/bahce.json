@@ -1,69 +1,266 @@
 {
   "slug": "bahce",
-  "title": "bahçe",
-  "shortDescription": "Rüyada bahçe, bakım verilen kişisel bir alanı veya dış dünyayla kurulan ilişkiyi çağrıştırabilir. Bitkilerin durumu, sınırlar ve bahçede yaptıklarınız önemlidir.",
+  "title": "Bahçe",
+  "shortDescription": "Rüyada bahçe görmek, emek ve bakım isteyen iç dünyayı, ilişkileri ya da yaşam alanlarını simgeler. Bakımlı bir bahçe gelişim ve berekete, kurumuş veya dağınık bir bahçe ise ihmal ve tükenmişlik hissine işaret edebilir.",
   "positiveAssociations": [
-    "Kendine dinlenme alanı bulmak",
-    "Bir yeri emekle güzelleştirmek",
-    "Açık havada birlikte zaman geçirmek"
+    "Bakım ve emek",
+    "Verimlilik ve bereket",
+    "Ruhsal ve kişisel büyüme",
+    "Mahremiyet ve koruma",
+    "Aitlik ve yakınlık"
   ],
   "challengingAssociations": [
-    "Bakımsız bir alanla karşılaşmak",
-    "Özel bir yere izinsiz girilmesi",
-    "İçeri girememek veya çıkışı bulamamak"
+    "İhmal veya tükenme",
+    "Dağınıklık ve düzen kaybı",
+    "Ahlaki ya da toplumsal şüphe çağrışımları",
+    "Dünyevi hazlarla gerilim",
+    "Zamanın ve geçiciliğin farkındalığı"
   ],
   "contextDependentAssociations": [
-    "Bahçenin size tanıdık olması",
-    "Bakımını kimin yaptığı",
-    "Kapı, çit ve yolların durumu"
+    "Bahçenin bakımlı, kurumuş, kapalı veya vahşi olması",
+    "Mevsim ve çiçeklenme durumu",
+    "Bahçede yapılan eylemler (sulama, budama, düzenleme)",
+    "Rüyadaki duygusal ton ve eşlik eden imgeler (insanlar, hayvanlar, duvarlar vb.)"
   ],
   "commonVariations": [
     {
-      "title": "Çiçekli bir bahçede dolaşmak",
-      "description": "Hangi ayrıntıya yöneldiğinizi düşünün: koku, renk, bir bank veya yanınızdaki kişi. Güzel görünümün sizde mutlaka huzur yarattığını varsaymadan kendi duygunuzu hatırlayın."
+      "title": "Bakımlı ve çiçekli bahçe",
+      "description": "Rüyada düzenli, meyve ağaçları ve çiçeklerle dolu bir bahçe görmek, içsel bakımın sürdürüldüğüne, yaratıcı veya ruhsal verimliliğin aktif olduğuna işaret edebilir."
     },
     {
-      "title": "Bakımsız bahçeyi temizlemek",
-      "description": "Temizleme işini isteyerek yapmanız ile mecbur hissetmeniz farklıdır. Neyin kalmasını, neyin kaldırılmasını istediğiniz kişisel çağrışımlarınızı belirginleştirebilir."
+      "title": "Kurumuş ve bakımsız bahçe",
+      "description": "Solmuş bitkiler, kurumuş toprak veya yabani otlarla kaplı bir bahçe, iç dünyada ihmal edilmiş alanlara, tükenmişlik veya fırsatların kaçırıldığı duygusuna gönderme yapabilir."
     },
     {
-      "title": "Bahçe kapısını açamamak",
-      "description": "İçeride ne olduğunu biliyor muydunuz, biri sizi bekliyor muydu? Kapının kilitli olması kadar o bahçeye girme nedeniniz de önemlidir."
+      "title": "Bahçe sulamak",
+      "description": "Bahçeye su verme, bitkileri sulama veya budama gibi bakım eylemleri, rüya sahibinin ilişkilerine, projelerine veya içsel süreçlerine emek verdiğini ve bir gelişim sürecini beslediğini gösterebilir."
     },
     {
-      "title": "Bahçede başkalarını ağırlamak",
-      "description": "Yer açmak, yiyecek hazırlamak veya yalnız konuşmak farklı etkinliklerdir. Misafirlerle ilişkiniz ve alanı paylaşırken rahat olup olmadığınız birlikte düşünülebilir."
+      "title": "Çitlerle çevrili kapalı bahçe",
+      "description": "Sınırları belirgin, dış dünyadan korunaklı bir bahçe, mahremiyet, psişik sınırlar veya kutsal veya korunmuş bir alan ihtiyacını çağrıştırabilir; bazı geleneklerde ilahi yakınlık veya cennet çağrışı da taşır."
     }
   ],
-  "psychology": "Freud, Rüyaların Yorumu’ndaki belirli bir çiçek rüyasında bahçe ve dal taşıma sahnelerini cinsel çağrışımlarla yorumlar. Bu, tarihsel psikanalitik yaklaşımın bir örneğidir; her bahçe rüyasının cinsellikle ilgili olduğunu gösteren deneysel bir bulgu değildir. Kendi rüyanızda bahçenin kullanımını ve size tanıdık gelen ayrıntıları ayrıca değerlendirmek gerekir.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Bahçedeki kişiler ve yapılan işler, mekânın kişisel çağrışımını değiştirebilir.",
-  "differences": "Belirli bir vakaya ait kuramsal yorum, bütün bahçe rüyaları için geçerli bir sözlük maddesi değildir.",
-  "inusAssessment": "Bahçe hem yetiştirilen bitkilerin hem de dinlenme ve birlikte olma deneyimlerinin geçtiği bir yer olabilir. INUS değerlendirmesinde bakım, erişim ve alanın paylaşımı birbirinden ayrılır. Bahçenin düzenli oluşundan kazanç, dağınık oluşundan kayıp tahmini yapılmaz. Rüyadaki eylem ve duygu, yalnız görüntüye anlam yüklemekten daha somut bir başlangıçtır.",
-  "faq": [
+  "psychology": "Rüya içerik analizleri (ör. DreamBank yaklaşımları) 'bahçe' imgesinin tek bir sabit anlama indirgenemeyeceğini; bahçenin durumu, rüyada yapılan eylemler ve eşlik eden duyguların yorum yönünü belirlediğini vurgular. Bu nedenle bahçe rüyaları bağlam ve duygulanım dikkate alınarak yorumlanmalıdır.",
+  "jungian": "Analitik psikoloji çerçevesinde bahçe, bilincin doğayı düzenleme eğiliminin, seçilmiş büyüme ve sınır koyma işlevinin imgesidir. Bahçe, kişiliğin yetiştirilen ve biçim verilen yönlerini, orman gibi kontrolsüz doğadan ayrılan düzenlenmiş iç alanı simgeleyebilir. Bu tür okumalarda imgenin kişisel çağrışımları ve rüyanın bütünlüğü göz önünde tutulmalıdır.",
+  "islamicTradition": "Klasik İslami rüya aktarımında bahçe, mekânın verimliliği, uzun ömür, eş veya evlilik, geçim kolaylığı ve bazen cennet çağrışımlarıyla ilişkilendirilir. Bahçeyi sulamak veya düzeltmek ömür ve gayretle ilişkilendirilir. Çiçekli, meyveli bir bahçe ise hayır veya evlilikle yorumlanabilir. Bu okumalar geleneksel tablolar ve aktarım metinleri bağlamında, rüyanın ayrıntılarına göre değerlendirilmelidir.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde bahçe, yaratılış, Tanrı ile ilişki, korunma ve ruhsal bakım temalarıyla bağlantılıdır. Eden bahçesi ilahi yakınlık ve başlangıç imgesini çağrıştırır. Getsemani bahçesi ise teslimiyet ve sınavı anımsatır. Bu nedenle rüyadaki bahçe hem huzur ve bereket hem de ruhsal sınav veya teslimiyet çağrışımı taşıyabilir. Yorumu teolojik ve rüyanın ayrıntılarına göre nitelendirilmelidir.",
+  "jewishTraditions": "Yahudi rüya ve mistik geleneğinde bahçe imgeleri Song of Songs gibi metinlerle ilahî yakınlık, arzu ve bereket çağrıştırır. Talmudik rüya yorumlama ilkeleri (ör. Berakhot örnekleri) sabit bir sözlükten ziyade bağlama göre yorumlama uygular; bu çerçevede bahçe olumlu veya kutsal bir çevre imgesi olarak ele alınabilir ama rüyanın ayrıntıları belirleyicidir.",
+  "buddhistEasternApproaches": "Erken Budist metinlerde ve anlatılarda bahçe, hem zihni yatıştıran dingin bir ortam hem de dünya hazlarıyla ruhsal çekilmeyi dengeleyen bir metafor olarak kullanılır. Bazı anlatılarda görkemli bahçe, görünümün geçiciliğini açıklayan öğretici bir imgedir. Rüya bağlamında bu sembol geçicilik, huzur veya dünyevi bağlılık gerilimini vurgulayabilir.",
+  "spiritualApproaches": "Spiritüel ve ezoterik okumalarda bahçe, iç dünyanın ekilip biçildiği, sabır ve hizmet gerektiren bir dönüşüm alanı olarak değerlendirilir. Düzenli, canlı bir bahçe içsel denge ve potansiyelin açığa çıkmasına işaret eder. Bakımsız bir bahçe ise ihmal, dağınıklık ve dönüşüm ihtiyacını simgeleyebilir.",
+  "comparisonTable": [
     {
-      "question": "Bahçe görmek mutlaka bolluk anlamına mı gelir?",
-      "answer": "Hayır. Bahçede ne yaptığınız, oraya ait hissedip hissetmediğiniz ve diğer kişilerle ilişkiniz farklı deneyimler oluşturabilir."
+      "approach": "Psikanaliz",
+      "interpretation": "Bitkisel sembolizm ve cinsellik, doğurganlık çağrışımları bağlamında ele alınır.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Eski evimin bahçesini görmek neyi düşündürebilir?",
-      "answer": "O yere ait hatıraları, kişileri veya alışkanlıkları akla getirebilir. Rüyadaki bahçenin gerçek hatıranızdan nasıl farklılaştığına bakabilirsiniz."
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Bilinçli düzenleme, sınır, yetiştirilen kişilik yönleri ve içsel bahçe-mekan metaforu üzerinden değerlendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Evlilik, eş, geçim, uzun ömür, cennet ve bereket çağrışımlarıyla yorumlanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Eden ve Getsemani kutupları bağlamında ilahi yakınlık, teslimiyet ve ruhsal bakım ekseninde okunur.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "İlahî yakınlık, bereket ve kutsal mekan imgeleriyle bağlantılı; yorum bağlama göre değişir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Geçicilik, zihinsel yatışma veya dünyevi hazlarla manevî arayış arasındaki gerilim bağlamında ele alınır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "İç dünyanın bakımı, sabır, hasat ve ruhsal dönüşüm süreci olarak simgelenir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli gelenek ve disiplinlerde bahçe, insan müdahalesiyle şekillenen, özen gerektiren ve bireyin iç dünyasını veya yaşam alanını yansıtan bir düzenlenmiş mekân olarak öne çıkar; bakım düzeyi ve sınırlar yorumda belirleyicidir.",
+  "differences": "Psikanalitik okumalar daha çok beden, cinsellik ve doğurganlık çağrışımlarına vurgu yaparken, dini ve spiritüel gelenekler bahçeyi ilahi yakınlık, bereket, ahlaki düzen veya ruhsal bakım ekseninde değerlendirir. Jungcu perspektif düzen ve sınır vurgusunu öne çıkarırken, Budist çerçeve geçicilik ve haz ile asketik yaşam anlayışı arasındaki gerilime dikkat çeker.",
+  "inusAssessment": "Bahçe sembolü, insan eliyle biçimlendirilmiş ve bakılan bir alan olması bakımından diğer doğa imgelerinden ayrılır. Rüyada görülen bahçenin bakımlı, verimli, kurumuş veya kapalı olması; yapılan eylemler ve rüyanın duygusal tonu, bahçenin hangi koşullarda ve hangi işlevle içselleştirildiğini belirleyen gerekli ama tek başına yeterli olmayan unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada bakımsız ve kurumuş bir bahçe görmek ne anlama gelir?",
+      "answer": "Kurumuş veya ot bürümüş bir bahçe, psikolojik ve spiritüel okumalarda bakımın ihmal edildiğini, bazı yaşam alanlarında tükenmişlik veya potansiyel kaybı hissedildiğini gösterebilir; ayrıntılar bağlamında hangi alanların ihmal edildiği değerlendirilmeli."
+    },
+    {
+      "question": "İslami gelenekte rüyada meyveli bahçe görmek nasıl yorumlanır?",
+      "answer": "Klasik İslami aktarım ve derlemelerde çiçekli, meyveli bir bahçe bekâr için evlilik, genel olarak ise uzun ömür, geçim rahatlığı ve bereketle ilişkilendirilir; yorum rüyanın ayrıntılarına göre değişir."
     }
   ],
   "sources": [
     {
-      "title": "The Interpretation of Dreams — Chapter 6, part 2",
-      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm",
-      "relevance": "D bölümündeki çiçek rüyasında bahçe ve dal taşıma imgeleri tarihsel psikanalitik yorumla ele alınır; genel bahçe anlamı doğrulanmaz.",
-      "author": "Sigmund Freud",
-      "year": 1900
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içerik analizinde kullanılan yöntemleri açıklayarak 'bahçe' gibi imgelerin bağlam, duygu ve olay örgüsü içinde değerlendirilmesi gerektiğini gösterir.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "A General Introduction to Psychoanalysis - Sigmund Freud - @sigmund.freud - Newt",
+      "relevance": "Freudcu çerçevede bahçe ve bitkisel imgelerin kadın cinselliği ve doğurganlık çağrışımlarıyla ilişkilendirildiğini gösteren temel psikanalitik ifadeyi içerir.",
+      "url": "https://newt.to/sigmund.freud/tXqPE1k9BS/lo0JQ7MF9n"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Rüya sembollerinde bitkiler ve bahçe bağlamındaki klasik Freudcu örneklemeyi sunarak psikanalitik bir okuma zeminine işaret eder.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Garden - dreamtation.com",
+      "relevance": "Jungcu ve analitik psikoloji düzeyinde bahçeyi düzenlenmiş doğa, bilinç ve büyüme ilişkisi içinde açıklayan sembolik bir özet sağlar.",
+      "url": "http://www.dreamtation.com/docs/1887.htm"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual: Artemidorus' The ...",
+      "relevance": "Artemidorus’un Oneirocritica’sındaki bahçe pasajları üzerinden tarihsel oneirokritik bağlamda bahçenin toplumsal ve ahlaki çağrışımlarını gösterir.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidorus’un *Oneirocritica* adlı yapıtının rüya yorumu el kitabı olduğunu ve tarihsel oneirokritik bağlamını açıklar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Nablusi Rüya Tabirleri | Bilmesek olmaz | Sayfa 3",
+      "relevance": "Modern aktarım düzeyinde İslami rüya geleneği bağlantısıyla bahçe yorumları (uzun ömür, evlilik, düzenleme eylemleri) hakkında örnekler sunar.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/nablusi-ruya-tabirleri/page/3/"
+    },
+    {
+      "title": "Islamic Meaning: Seeing a Garden in a Dream",
+      "relevance": "Bahçe sembolünü İslami rüya geleneğinde eş, mal, ziynet, ömür, geçim ve sulama temalarıyla ilişkilendiren modern bir aktarım.",
+      "url": "https://lifeinsaudiarabia.net/seeing-garden-dream-meaning-islam/"
+    },
+    {
+      "title": "Garden Islamic Interpretations & Meanings - myIslamicDream",
+      "relevance": "Bahçe için toplu İslami rüya tabiri derlemesi; bahçeyi eş, evlilik, cennet ve hastalık bağlamlarında yorumlar.",
+      "url": "https://www.myislamicdream.com/garden.html"
+    },
+    {
+      "title": "Gardens Islamic Interpretations & Meanings",
+      "relevance": "Bahçenin İslami yorumlarda pazar, düğün, eş ve geçim alanlarıyla ilişkilendirildiğini aktaran derleme sayfası.",
+      "url": "https://www.myislamicdream.com/gardens.html"
+    },
+    {
+      "title": "Garden Paradise Islamic Interpretations & Meanings",
+      "relevance": "Bahçe görüntüsünün cennet, evlilik ve hastalık bağlamlarında yorumlandığı derleme sayfası.",
+      "url": "https://www.myislamicdream.com/garden_paradise.html"
+    },
+    {
+      "title": "Interpretation of Dreams",
+      "relevance": "Bahçeyi zengin, cennet çağrışımlı ve şehadetle bağlantılı gören İslami rüya tabiri aktarımı.",
+      "url": "http://www.inter-islam.org/faith/dreams899.htm"
+    },
+    {
+      "title": "IBN SEERiN'S",
+      "relevance": "İbn Sîrîn’e atfedilen aktarımlarda bahçenin çiçeklenmesinin bazı durumlarda çocuk veya bereketle ilişkilendirildiğine dair geleneksel bir örnek sağlar.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Topical Bible: Symbolism of the Garden",
+      "relevance": "Kutsal Kitap ve Hristiyan gelenek bağlamında bahçenin ilahi huzur, yaratılış ve ruhsal büyüme ile ilişkisini özetleyen tematik bir kaynaktır.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_the_garden.htm"
+    },
+    {
+      "title": "Topical Bible: Gardens of the Church",
+      "relevance": "Bahçeleri cennet, bereket, Tanrı’nın varlığı, dua ve eskatolojik umutla ilişkilendiren Hristiyan tematik bir derleme sunuyor.",
+      "url": "https://biblehub.com/topical/ttt/g/gardens_of_the_church.htm"
+    },
+    {
+      "title": "Topical Bible: Garden Imagery",
+      "relevance": "Bahçe imgesinin yaratılış, güzellik, Tanrı ile yakınlık ve umut temalarıyla nasıl işlendiğini toplu biçimde gösteriyor.",
+      "url": "https://biblehub.com/topical/g/garden_imagery.htm"
+    },
+    {
+      "title": "Topical Bible: The Symbolism of the Garden",
+      "relevance": "Bahçenin Kutsal Kitap’taki sembolik eksenlerini cennet, ilahi karşılaşma, sağlanış ve ruhsal büyüme olarak özetliyor.",
+      "url": "https://biblehub.com/topical/t/the_symbolism_of_the_garden.htm"
+    },
+    {
+      "title": "Topical Bible: Garden",
+      "relevance": "Bahçenin Kutsal Kitap’ta yaşam, büyüme, ilahi sağlanış ve Tanrı ile karşılaşma alanı olarak işlendiğini derliyor.",
+      "url": "https://biblehub.com/topical/g/garden.htm"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Berakhot ve Talmudik rüya pasajlarını derleyerek Yahudi rüya yorumlama mantığı ve bahçe imgelerine ilişkin rabbanî örnekler hakkında bağlam sağlar.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Madness and Prophecy: Dreams, Texts, and the Power of Rabbinic Interpretation",
+      "relevance": "Berakhot’taki rüya yorum mantığını, sembol eşleştirmelerini ve ‘güzel bahçe’ örneğini açıklayan akademik tartışma sunar.",
+      "url": "https://www.academia.edu/247828/Madness_and_Prophecy_Dreams_Texts_and_the_Power_of_Rabbinic_Interpretation"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ...",
+      "relevance": "Rüya yorumunun rabbanî bağlamını ve Talmudik düş yorumlarında anlamın nasıl üretildiğini tartışır; bahçe imgesi için yorumlayıcı çerçeve sağlar.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y?error=cookies_not_supported&code=25242877-d1d7-429a-84c8-22398b65c6ab"
+    },
+    {
+      "title": "Gardens of the Spirit: Land, Text and Ecological Hermeneutics ...",
+      "relevance": "Yahudi metin ve mistik gelenekte bahçe imgesinin ilahî yakınlık, arzu ve kutsal mekân çağrışımlarını ele alır.",
+      "url": "https://shc.stanford.edu/arcade/publications/dibur/unusual-gardens-towards-poetics-cultivated-earth/gardens-spirit-land-text"
+    },
+    {
+      "title": "Payasi-sutta, Scroll 2",
+      "relevance": "Budist metinlerde bahçe imgelerinin görünümün geçiciliğini ve öğretinin iletimindeki rolünü gösteren bir örnektir.",
+      "url": "https://www.wisdomlib.org/buddhism/book/taisho-chinese-buddhist-canon/d/doc1853410.html"
+    },
+    {
+      "title": "The Use of Garden Imagery in Early Indian Buddhism | 2 | Garden and La",
+      "relevance": "Erken Hint Budizmi içinde bahçe imgeleminin, haz ve ruhsal yönelim gerilimiyle ilişkisini tartışan çalışma.",
+      "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003157878-2/use-garden-imagery-early-indian-buddhism-akira-shimada"
+    },
+    {
+      "title": "Why Indian Buddhism has gardens, not monasteries",
+      "relevance": "Erken Hint Budizminde bahçenin dünyevî haz ile feragat arasındaki karşıtlık içinde ele alınışını tartışan metin.",
+      "url": "https://psyche.co/ideas/why-indian-buddhism-has-gardens-not-monasteries"
+    },
+    {
+      "title": "GARDENS",
+      "relevance": "Bahçe ve benzeri çevrelerin zihni yatıştırdığına dair bir Budist açıklamadır.",
+      "url": "https://www.buddhisma2z.com/content.php?id=148"
+    },
+    {
+      "title": "Jeta Garden: Significance and symbolism",
+      "relevance": "Jeta Bahçesi’nin Budist gelenekte öğretim ve topluluk buluşmasıyla ilişkilendirilmesi.",
+      "url": "https://www.wisdomlib.org/concept/jeta-garden"
+    },
+    {
+      "title": "Garden Dreams: Meaning & Psychological Interpretation | Somniscient",
+      "relevance": "Bahçeyi rüya bağlamında büyüme, özen, iç dünyanın işlenmesi ve ruhsal gelişim alanı olarak ele alır.",
+      "url": "https://somniscient.com/en/symbols/garden"
+    },
+    {
+      "title": "Garden Dreams: Growth, Care, and the Wild Within",
+      "relevance": "Bahçeyi spiritüel yollarda sığınak, dikkat, sabır ve hizmetle ilişkili bir sembol olarak yorumluyor; rüyada bahçe imgesine spiritüel bir okuma sunuyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/garden"
+    },
+    {
+      "title": "Garden Dream Meaning: Growth, Peace & Inner Potential",
+      "relevance": "Bahçeyi ruhsal gelişim, huzur, potansiyel ve doğayla uyum bağlamında açıklıyor; rüya sembolünün spiritüel yönüne doğrudan temas ediyor.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/garden/"
+    },
+    {
+      "title": "Garden in Dreams: Meaning & Symbolism - Somniary",
+      "relevance": "Bahçeyi bilinçli çabanın düzenlediği kutsal/mandala benzeri bir alan olarak okuyor; ezoterik-simgesel bir çerçeve sunuyor.",
+      "url": "https://somniary.com/dream-library/symbols/garden"
+    },
+    {
+      "title": "Dream About Garden - Meaning & Interpretation",
+      "relevance": "Bahçeyi manevi bakım, dua/tefekkür, hasat ve dönüşüm diliyle ele alıyor; rüyadaki bahçe için spiritüel bir yorum çerçevesi sağlıyor.",
+      "url": "https://satyori.com/dreams/garden/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian"
+  ]
 }

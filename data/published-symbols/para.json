@@ -1,76 +1,206 @@
 {
   "slug": "para",
-  "title": "para",
-  "shortDescription": "Rüyada para, maddi kaygılar, güvence veya bir şeye verdiğiniz değerle birlikte düşünülebilir. Parayı bulmak, kaybetmek ve paylaşmak farklı durumlar olarak ele alınır.",
+  "title": "Para",
+  "shortDescription": "Rüyada para görmek; maddi konuların yanı sıra değer algınızı, güvence ihtiyacınızı, sorumluluklarınızı veya toplumsal konumunuzu yansıtabilir. Parayı bulmak, vermek, almak ya da kaybetmek ve paranın türü yorumu etkiler; gümüş para güzel söz ve ilimle, bakır para ise tartışma ve dedikoduyla ilişkilendirilebilir.",
   "positiveAssociations": [
-    "Bir ihtiyacı karşılayabilmek",
-    "Emeğinin karşılığını almak",
-    "Birine destek olmak"
+    "sağlanma",
+    "güven",
+    "emanet",
+    "cömertlik",
+    "ruhsal zenginlik",
+    "iç kaynaklar"
   ],
   "challengingAssociations": [
-    "Yetmeyeceğinden endişe etmek",
-    "Kaybetme veya borçlu kalma hissi",
-    "Bir alışverişte haksızlığa uğramak"
+    "açgözlülük",
+    "kavga",
+    "gürültü",
+    "dedikodu",
+    "sözlü tartışma",
+    "yük ve sorumluluk"
   ],
   "contextDependentAssociations": [
-    "Paranın kime ait olduğu",
-    "Bulmak, kazanmak, vermek veya kaybetmek",
-    "Miktardan çok rüyadaki ihtiyacın karşılanıp karşılanmadığı"
+    "değer",
+    "kontrol",
+    "ödül",
+    "biriktirme veya bırakma",
+    "akış ve değişim",
+    "toplumsal rol ve statü"
   ],
   "commonVariations": [
     {
-      "title": "Yerde para bulmak",
-      "description": "Paranın sahibini aramanız, saklamanız veya orada bırakmanız farklı duygular yaratabilir. Bulmanın sevinci kadar o parayla ne yapmak istediğinizi de düşünün."
+      "title": "Yerde Para Bulmak",
+      "description": "Genellikle uyanık yaşamdaki finansal konulara yönelik dikkat veya beklenmedik bir hibe/şansla ilişkilendirilebilir; bazı geleneksel aktarılarda kısa süreli gerginlikler veya sözlü sürtüşmelerle de eşleştirilir."
     },
     {
-      "title": "Ödeme yaparken paranın yetmemesi",
-      "description": "Neyi alamadığınız ve karşınızdaki kişinin tepkisi önemlidir. Sahne ihtiyaç, mahcubiyet veya hazırlıksızlık üzerine düşündürebilir; gelecekte yoksullaşacağınızı göstermez."
+      "title": "Gümüş Para Görmek",
+      "description": "Klasik İslami aktarımlarda çoğunlukla söz, ilim, güzel söz, zikir veya namaz gibi olumlu sözsel/ruhsal anlamlarla bağdaştırılır."
     },
     {
-      "title": "Birine para vermek",
-      "description": "Hediye, borç, yardım ve zorla ödeme aynı eylem değildir. Parayı isteyerek verip vermediğiniz ve sonrasında ne hissettiğiniz, rüyadaki ilişkinin kişisel anlamını değiştirebilir."
+      "title": "Bakır Veya Diğer Madenî Para Görmek",
+      "description": "Geleneksel aktarımlarda daha ziyade kavga, gürültü, dedikodu veya günlük ilişkilere dair sözlü sürtüşmelere işaret edebilir."
     },
     {
-      "title": "Kaybolan parayı aramak",
-      "description": "Paranın miktarı mı, ona yüklediğiniz emek mi öne çıkıyordu? Arama sırasında suçladığınız biri varsa, rüyadaki şüpheyi o kişi hakkında gerçek bir kanıt gibi ele almayın."
+      "title": "Evdeki Paraları Sokağa Atmak",
+      "description": "Bazı klasik rivayetlerde maddi veya duygusal yüklerden, sıkıntı ve kederden kurtulma arzusunu veya bunun gerçekleşmesini simgeler."
     }
   ],
-  "psychology": "",
+  "psychology": "Ampirik literatürde \"para\" rüyaları en belirgin biçimde \"para bulma\" teması etrafında incelenmiştir. Almanya’da yapılan dört temsili ankete göre katılımcıların yaklaşık %16’sı son birkaç ay içinde para bulma rüyası gördüğünü bildirmiş; bu rüyalar erkeklerde kadınlara göre daha sık rapor edilmiş, gençlerde daha yaygın görünmüş ve çalışmanın dönemsel verileri zaman içinde artış eğilimine işaret etmiştir. Bu bulgular, rüya içeriğinin uyanık yaşamdaki finansal gündemler ve demografik etkenlerle ilişkili olabileceğini destekler.",
   "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Adiya Sutta’da uygun yolla edinilmiş servetin kişinin ve yakınlarının ihtiyaçları, dostlara destek, korunma ve bağış için kullanılması ele alınır. Metin para rüyalarına bir anlam vermez. Rüyadaki verme veya harcama sahnesini düşünürken, servetin ne için kullanıldığına ilişkin kültürel bir karşılaştırma sunabilir.",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Paranın miktarı kadar kullanım amacı ve ilişkideki rolü de düşünmeye değerdir.",
-  "differences": "Budist metin servetin kullanımına ilişkin bir öğreti sunar. Bir para rüyasının kişisel yorumu veya gelecek tahmini bu öğretinin doğrudan sonucu değildir.",
-  "inusAssessment": "Para rüyasında kazanmak ile bulmak, paylaşmak ile mecburen ödemek ayrı deneyimlerdir. INUS değerlendirmesi paranın nereden geldiğine, kime ait olduğuna ve sahnede neyi mümkün kıldığına bakar. Buradaki güven, sorumluluk ve ihtiyaç çağrışımları kişisel düşünme önerileridir. Rüya, kazanç tahmini veya maddi kararlar için kanıt sağlamaz.",
-  "faq": [
+  "islamicTradition": "İslami klasik yorumlarda paranın türü ve niteliği önem taşır: gümüş paralar çoğunlukla söz, ilim, güzel söz, zikir ve namaz gibi olumlu sözsel/ruhsal çağrışımlarla; bakır ve değersiz madeni paralar ise kavga, gürültü, dedikodu ve sözlü tartışmalarla ilişkilendirilebilir.",
+  "christianTraditions": "Klasik Hristiyan oneirokritiğinde para için doğrudan ve evrensel bir anlam saptanmamıştır; çağdaş Hristiyan yorumlarda ise rüyada para, Tanrı'nın sağladığı destek, emanet, yetenekler ve ruhsal zenginliğin bir simgesi olarak; aynı zamanda materyalizm, açgözlülük veya yanlış güvene karşı bir uyarı olarak okunabilir. Bu okumalar genellikle İncil’deki emanet ve yetenek benzetmeleriyle ilişkilendirilir ve bağlama göre hem bereket hem sorumluluk çağrısı olarak algılanabilir.",
+  "jewishTraditions": "Talmudik rüya geleneğinde (ör. Berakhot) rüyaların yoruma bağlı olduğu vurgulanır; bu çerçevede para sembolü sabit bir anlama indirgenmez. Yahudi geleneğinde para teması çoğunlukla mal, mülkiyet, sadaka/maaser ve ahlaki kullanım bağlamında rabbanî yorumlarla ele alınır; doğrudan tek bir sembolik karşılık yerine rüyanın amacına göre değerlendirme öne çıkar.",
+  "buddhistEasternApproaches": "Budist perspektifte para ve servet genellikle kalıcılığı olmayan dünyevi kazanımlar olarak görülür; bu yüzden rüyadaki para, bağlılık, yapışmama, cömertlik ve niyet gibi zihinsel tutumları sorgulayan bir işaret olarak okunur. Bazı Budist anlatılarda para veya zenginlik motifleri ritüel, bağış veya kutsal doğum anlatıları çerçevesinde de yer alır.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yorumlarda para, birikmiş değer olmasının yanı sıra değişim enerjisinin, akışın veya yaşam enerjisinin yoğunlaşması olarak değerlendirilir. Rüyada para, içsel kaynaklar, kişisel güç algısı, bolluk hissi veya enerjinin dolaşımı ya da blokajı hakkında ipucu verebilecek sembolik bir öğe olarak okunur.",
+  "comparisonTable": [
     {
-      "question": "Rüyada para bulmak gerçek kazancı haber verir mi?",
-      "answer": "Hayır. Rüyadaki bulma sahnesi gelecekteki maddi kazancı göstermez. Sevinç, tereddüt veya sahiplik duygusu üzerinden kişisel olarak değerlendirilebilir."
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Para bulma başta olmak üzere para temalı rüyalar; uyanık yaşamdaki finansal gündemlerin, demografik etkilerin ve hayat dönemiyle ilişkili endişelerin rüya içeriğine yansıması olarak ele alınır.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Para vermek mutlaka kayıp anlamına mı gelir?",
-      "answer": "Hayır. Yardım etmek, hediye vermek, borç ödemek ve baskıyla ödeme yapmak farklı sahnelerdir. Rüyadaki niyet ve duygu ayrımı önemlidir."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Freudcu perspektifte rüya bastırılmış bir isteğin dolaylı doyumudur; para imgeleri anal dönem, tutma/vermeme, sahiplik, kontrol ve özdeğer temalarıyla ilişkilendirilir ve doğrudan maddi anlamların ötesinde yer değiştirme işlevi görebilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Tarihsel-Kültürel / Klasik Aktarımlar (ör. Artemidorus)",
+      "interpretation": "Antik ve tarihsel oneirokritik bağlamda paranın rüyadaki işlevi sıkça toplumsal ve ekonomik ilişkilerle (ücret, görev, ödeme, meslek, statü) bağlantılıdır; madensel türü, miktarı ve rüya içindeki edim (bulma, verme, atma) anlamı değiştirir. Bu perspektif, İslami madeni para yorumlarıyla örtüşen ve ayrışan noktalar gösterir—örneğin hem madenin niteliği hem de paranın mesleki/toplumsal rol işaretleri önem kazanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel / Ezoterik",
+      "interpretation": "Para sembolü içsel kaynaklar, değer algısı, enerji akışı ve bolluk/cömertlik temalarının yoğunlaşmış ifadesi olarak okunabilir; manevi pratikler bağlamında niyet ve zihinsel tutumla ilişkilendirilir.",
+      "evidenceLevel": "spiritual"
     }
   ],
+  "commonGround": "Araştırma ve geleneklerin çoğu, rüyada paranın sadece maddî kazanç habercisi olmadığını; bireyin uyanık hayatındaki değer algısı, denetim/sahiplik meseleleri, sorumluluklar ve toplumsal konumla ilgili önemli ipuçları taşıyabileceğini kabul eder. Tarihsel kaynaklar (ör. Artemidorus aktarımları) paranın toplumsal görev, ödeme ve statü göstergesi olarak okunabileceğini vurgulayarak bu ortak zemini güçlendirir; aynı zamanda paranın metal, miktar ve rüya içindeki edimlerin yorum yönünü belirlemede kritik olduğunu belirtir.",
+  "differences": "Ampirik psikoloji rüyadaki parayı istatistiksel ve bağlamsal ilişkilere göre değerlendirirken; psikanaliz içsel çatışma ve simgesel yer değiştirmeye vurgu yapar. Tarihsel-kültürel yaklaşımlar parayı toplumsal ekonomi, görev ve statü bağlamında konumlandırır; İslami aktarımlar ise madeni para türlerinin söz/ilim veya tartışma gibi belirli çağrışımlara sahip olabileceğini öne sürer. Spiritüel yaklaşımlar daha çok enerji, akış ve içsel bolluk temalarına odaklanır.",
+  "inusAssessment": "Para imgesi rüyada değer, güvence, alışveriş, borç, kazanma ya da kaybetme gibi temaları öne çıkarabilir. Anlam; paranın bulunması, verilmesi, alınması veya kaybedilmesi kadar rüya sahibinin para karşısındaki duygusuna da bağlıdır. Bu nedenle para, tek başına sabit bir anlama indirgenmeden rüyanın ilişki ve olay bağlamıyla birlikte değerlendirilmelidir.",
+  "faq": [],
   "sources": [
     {
-      "title": "Adiya Sutta: Benefits to be Obtained (from Wealth), AN 5.41",
-      "url": "https://www.accesstoinsight.org/tipitaka/an/an05/an05.041.than.html",
-      "relevance": "Servetin kişinin ve yakınlarının ihtiyaçları, korunma ve bağış için kullanımını anlatan Budist metin. Para rüyalarının anlamını veya maddi kazancı öngörmez."
+      "title": "Dreams of finding money: Four German surveys from 1956 to ...",
+      "relevance": "Almanya’da yapılan temsili anketlerde \"para bulma\" rüyalarının sıklığı, yaş ve cinsiyet farkları ile finansal gündem ilişkisini belgeleyen ampirik çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/91319"
+    },
+    {
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Rüyanın işleyişi ve bastırılmış istek kavramı açısından Freud’un birincil metni; para imgelerinin psikanalitik yorumuna teorik çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
+    },
+    {
+      "title": "O ESTATUTO PSÍQUICO DO DINHEIRO À LUZ DA TEORIA PSICANALÍTICA",
+      "relevance": "Freudcu yazılarda para sembolizminin dışkı/anal dönem, tutma/vermeme ve özdeğer temalarıyla nasıl ilişkilendirildiğini tartışan ikincil akademik çalışma.",
+      "url": "https://www.scielo.br/j/agora/a/9BRrRQNFFqhFcDr8yNPmVCg/?lang=pt"
+    },
+    {
+      "title": "Representações simbólicas do dinheiro na obra freudiana",
+      "relevance": "Freud’un metinlerinde para sembolizmini, para-dışkı yakınlığını ve bunun psikanalitik kavramlarla bağlantısını tartışan çalışma.",
+      "url": "https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1413-62952017000200010"
+    },
+    {
+      "title": "ONEIROKRITIKA DE ARTEMIDORO DE DALDIS (SécuLO ...",
+      "relevance": "Antik oneirokritik geleneğinde para ve ödeme birimlerinin toplumsal ücret, görev ve değer ilişkileri bağlamında nasıl yorumlandığına dair metinsel örnekler içerir.",
+      "url": "https://repositorio.unesp.br/server/api/core/bitstreams/22a2e082-c711-48ba-9e67-ed94c5a83cf9/content"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidoros aktarımlarının çevirileri üzerinden servet, bankerlik ve para öğelerinin rüyada toplumsal konum ve meslekle ilişkili biçimde ele alınabildiğine dair örnekler sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Dreaming of Money: what cash in your sleep actually tracks",
+      "relevance": "Rüyalardaki para ve madeni paraların metal, durum ve türlerine göre farklılaşan anlamlara sahip olabildiğini aktarır.",
+      "url": "https://thedreamguidebook.com/dreaming-of-money/"
+    },
+    {
+      "title": "Finding Money Dreams — Meaning & Interpretation | PsySymbol",
+      "relevance": "Bulunan küçük paraların, büyük meblağların ve para edinme biçimlerinin rüya yorumunda farklı sembolik sonuçlar taşıyabildiğini aktarır.",
+      "url": "https://psysymbol.com/dream/money-found.html"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "İslami klasik tabirlerde gümüş paranın söz, ilim, zikir ve emanetle; madeni paraların ise farklı toplumsal çağrışımlarla ilişkilendirildiğini gösteren derleme niteliğinde kaynak.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "Rüyada Para Görmek: Anlamı ve Yorumu - Diyadinnet",
+      "relevance": "Bakır ve diğer madeni paraların kavga, gürültü, dedikodu ve sıkıntı ile ilişkilendirildiğini aktarır.",
+      "url": "https://www.diyadinnet.com/ruyada-10471-para-gormek"
+    },
+    {
+      "title": "Rüyada Para Saymak Ne Anlama Gelir?",
+      "relevance": "Rüyada para görmek, para bulmak, para atmak ve kap içindeki para için farklı klasik tabir cümleleri aktarıyor.",
+      "url": "https://www.diyadinnet.com/ruyada-para-saymak-1287"
+    },
+    {
+      "title": "Rüyada Para Bulmak Ne Anlama Gelir? Yerde Kağıt ...",
+      "relevance": "Rüyada para bulmak için Nablusî ve İbn Sîrîn’e atfedilen kısa yorumlar veriyor.",
+      "url": "https://www.diyadinnet.com/ruyada-1912-para-bulmak-gormek"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri G Harfi - Muhammed.net",
+      "relevance": "Gümüş parayı söz, ilim, güzel söz, namaz, zikir, tesbih ve emanetle ilişkilendirir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-g-harfi.html"
+    },
+    {
+      "title": "money",
+      "relevance": "Rüyada parayı Hristiyan sembolizmi içinde güç, otorite, sağlama, yetenek ve ruhsal zenginlikle ilişkilendiren çağdaş bir yorum sunar; ayrıca açgözlülük ve materyalizm uyarısı da verir.",
+      "url": "https://joshuamediaministries.org/dreams/money/"
+    },
+    {
+      "title": "Biblical Meaning of Money in a Dream (KJV) | Bible Sundays",
+      "relevance": "Para sembolünü Hristiyan bakışla sağlama, güven, emanet ve maddi değerin kalp üzerindeki etkisiyle ilişkilendirir; rüya bağlamında bereket, yanlış güven ve cömertlik çağrısı temalarını işler.",
+      "url": "https://www.biblesundays.com/dream-meanings/money"
+    },
+    {
+      "title": "Topical Bible: Money-value",
+      "relevance": "Para ve değerin, benzetmelerde emanet edilen sorumluluk ve sadakat temalarıyla nasıl ilişkilendiğini gösteren İncil merkezli başvuru sayfası.",
+      "url": "https://biblehub.com/topical/m/money-value.htm"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Rüyaların yoruma bağlılığı ve rüya sembollerinin rabbanî çerçevede ele alınışı için temel metin.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "DREAMS.",
+      "relevance": "Berakhot’taki rüya geleneğinin kapsamını ve para içeren rabbanî örnekleri özetleyen Yahudi referans kaynağı.",
+      "url": "https://jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Money Dream Meaning & Interpretation - Mirror",
+      "relevance": "Budist çerçevede servet ve para temasını geçicilik, yapışmama ve cömertlik üzerinden ele alan çağdaş Budist yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/money/"
+    },
+    {
+      "title": "Buddhist Scriptures: I. The Dream of Queen Māyā | Sacred Texts Archive",
+      "relevance": "Buda’nın annesi Māyā’nın rüyasında para bağışı ve kraliyet ihtişamının birlikte geçtiği Budist anlatı metni.",
+      "url": "https://sacred-texts.com/bud/busc/busc04.htm"
+    },
+    {
+      "title": "BuddhistRoad",
+      "relevance": "Budist ritüel ve rüya pratiğinde rüya içinde altın para elde etmeye dair bir uygulama pasajı.",
+      "url": "https://omp.ub.rub.de/index.php/BuddhistRoad/catalog/download/250/228/1295?inline=1"
+    },
+    {
+      "title": "Money in dreams — meaning and symbolism",
+      "relevance": "Para sembolünün ezoterik bir okumada değer, akış ve yaşam enerjisinin dolaşımıyla ilişkilendirildiğini açıkça söyleyen modern bir spiritüel yorum.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/money"
+    },
+    {
+      "title": "Money dreams: Spiritual Meaning",
+      "relevance": "Para sembolünü spiritüel açıdan lütuf, güç, sağlama ve miras gibi anlam alanlarında ele alan modern bir yorum.",
+      "url": "https://www.magnificatministries.ca/dream-symbol-money"
+    },
+    {
+      "title": "Money Dreams: Meaning & Psychological Interpretation",
+      "relevance": "Para sembolünü iç kaynaklar, kişisel değer ve bolluk hissiyle ilişkilendiren modern bir yorum metni.",
+      "url": "https://somniscient.com/en/symbols/money"
     }
   ],
-  "relatedSlugs": [
-    "bozuk-para",
-    "madeni-para",
-    "para-bulmak",
-    "para-kaybetmek",
-    "para-saymak",
-    "yerden-para-toplamak",
-    "birinin-sana-para-vermesi",
-    "kumarda-para-kazanmak"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
   ]
 }

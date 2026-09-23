@@ -1,69 +1,243 @@
 {
   "slug": "arsa",
-  "title": "arsa",
-  "shortDescription": "Rüyada arsa, henüz kullanılmamış bir alanı, gelecek planlarını veya sahiplik duygusunu düşündürebilir. Arsanın konumu, sınırları ve durumu önem taşır.",
+  "title": "Arsa",
+  "shortDescription": "Rüyada arsa görmek, yaşamda sağlam bir temel kurma, yeni bir düzen oluşturma ve henüz şekillenmemiş potansiyelleri değerlendirme arayışını yansıtabilir. Verimli ve düzenli bir arsa büyümeye elverişli koşulları; çorak veya çatlak bir arsa tükenmişlik ya da hazırlık eksikliğini, sınırları belirsiz bir arsa ise kendi alanınızı tanımlama güçlüğünü çağrıştırabilir.",
   "positiveAssociations": [
-    "Bir plan için yer bulmak",
-    "Açık bir alanı keşfetmek",
-    "Neyi nasıl kullanacağına karar verebilmek"
+    "Güvenli temel",
+    "Yeni başlangıçlar için alan açma",
+    "Verimlilik ve üretkenlik",
+    "Miras ve vaat",
+    "Aidiyet ve yerleşiklik"
   ],
   "challengingAssociations": [
-    "Sınırları belirsiz bir yerde kalmak",
-    "Bir alanın kullanılamaz görünmesi",
-    "Sahiplik konusunda anlaşmazlık yaşamak"
+    "Çoraklık ve tükenmişlik",
+    "Sınır belirsizliği",
+    "Hazırlık eksikliği",
+    "Yeniden yapılanma ihtiyacı",
+    "Ağır emek ve direnç"
   ],
   "contextDependentAssociations": [
-    "Arsanın boş veya yapılaşmış olması",
-    "Sınırlarının belli olup olmaması",
-    "Arsada ne yapmak istediğiniz"
+    "Arsanın verimli, boş ya da çorak olması",
+    "Arsanın satın alınması, satılması veya sınırlandırılması",
+    "Arazi üzerindeki su veya ıslaklık durumu",
+    "Manzaranın düz veya engebeli oluşu"
   ],
   "commonVariations": [
     {
-      "title": "Boş bir arsada dolaşmak",
-      "description": "Boşluk size ferahlık mı, sahipsizlik mi hissettiriyordu? O yere geliş nedeniniz ve kalmak isteyip istemediğiniz, kişisel çağrışımınızı değiştirebilir."
+      "title": "Verimli ve Düz Bir Arsa Satın Almak",
+      "description": "Kişinin hayatında sağlam bir temel atmaya hazırlandığını, yeni girişimler ve uzun vadeli projeler için elverişli bir zemin bulduğunu gösteren olumlu bir senaryodur."
     },
     {
-      "title": "Arsanın sınırlarını ölçmek",
-      "description": "Nerenin size ait olduğunu belirleme çabası sahnenin odağı olabilir. Ölçünün yetmemesi, bir çizginin silinmesi veya başkasının itirazı rüyadaki belirsizliği farklılaştırır."
+      "title": "Çorak ve Çatlak Bir Arsa Üzerinde Yürümek",
+      "description": "Mevcut yaşam koşullarında veya içsel kaynaklarda hissedilen bir tükenmişliği, hazırlık eksikliğini ve yeniden yapılandırma ihtiyacını yansıtır."
     },
     {
-      "title": "Arsada bir yapı tasarlamak",
-      "description": "Ortada henüz yapı yokken onu hayal etmek, hazırlık ve seçenekler üzerine düşündürebilir. Planı sizin mi başkasının mı yaptığı ve bundan memnun olup olmadığınız önemlidir."
+      "title": "Sınırları Belirsiz veya Boş Bir Arazi Görmek",
+      "description": "Henüz biçim kazanmamış potansiyelleri, hayatta nerede durduğunu bilememe hissini ve kendi alanını tanımlama çabasını simgeler."
     },
     {
-      "title": "Arsaya ulaşacak yol bulamamak",
-      "description": "Alanı uzaktan görmek ile ona girebilmek farklıdır. Rüyada engelin yol, çit veya başka bir kişinin kararı olması, sahneyi düşünürken ayrı ele alınabilir."
+      "title": "Sulak veya Islak Bir Arsa İle Karşılaşmak",
+      "description": "Bedensel uzam, duygusal akışkanlık veya bilinçdışından bilince doğru filizlenen yeni bir yaratıcı sürecin başlangıcına işaret edebilir."
     }
   ],
-  "psychology": "Hall/Van de Castle içerik analizi, rüyadaki mekân, nesne, etkinlik ve duyguları ayrı kategorilerde kaydeder. Arsa sahnesinde de bulunduğunuz yerle orada yaptığınız şeyi ayırabilirsiniz. Bu yöntem arsanın psikolojik karşılığını belirlemez; aşağıdaki kullanım, sınır ve erişim soruları kişisel düşünme önerileridir.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Bir alanı görmek, kullanmak ve ona sahip olmak rüyada farklı durumlar oluşturur.",
-  "differences": "İçerik analizi anlatıdaki unsurları sınıflandırır. Arsanın sizin için gelecek planı, aidiyet veya ferahlık çağrıştırması ise kişisel bir değerlendirmedir.",
-  "inusAssessment": "Arsa rüyasında zeminin görünümünün yanında kullanım ve sınır soruları öne çıkar: orada ne yapmak istiyordunuz, alan kime aitti, içine girebiliyor muydunuz? INUS, bu soruları kesin sembol karşılıkları olarak değil, kişisel deneyiminizi tarif etmenin yolları olarak ele alır. Arsa, ekili tarla ve yalnızca toprak maddesi aynı odak değildir; rüyanızda hangisinin belirgin olduğunu ayırabilirsiniz.",
-  "faq": [
+  "psychology": "Ampirik rüya araştırmalarında 'arsa' gibi mekân ve manzara öğeleri, rüya raporlarını kategorize etmek için kullanılan çevresel bağlam unsurları olarak incelenir. Hall/Van de Castle gibi yaklaşımlarda çevresel bağlam; iç-dış mekân, tanıdık ya da yabancı çevre ayrımlarıyla kodlanır. Psikanalitik düzlemde ise Freud, rüya nesnelerinin beden, cinsellik, doğum ve içsel dürtülerin dolaylı temsilleri olabileceğini belirtir. Özellikle sulak veya akışkan bağlamlar, rahim, doğum ve bedensel uzam çağrışımları üzerinden okunabilir; ancak tek bir imgeye evrensel bir sabit anlam yüklemek yerine rüyanın bütünü ve çağrışım zinciri esas alınır.",
+  "jungian": "Jungcu analitik psikolojide arsa, psişenin dayandığı zemin ve içsel konumlanma alanı olarak ele alınır.",
+  "islamicTradition": "Klasik derlemelerde arsa veya arazi görmek, eş ile ilişkilendirilir. Arsa satın almak evlilikle, arsa satmak ise ayrılıkla tabir edilebilir. Verimli arazi soy ve nesil çokluğuna işaret ederken, üzeri bitki örtüsü olmayan arazi kısır veya verimsiz durumlarla bağdaştırılır. Bununla birlikte rüya tabiri, kişinin kendine has bağlamına göre çözülmesi gereken sembolik bir dil olarak değerlendirilir.",
+  "christianTraditions": "Arsa imgesi, manevi düzeyde \"vaat\", \"emanet\" ve \"yerleşiklik\" temalarını desteklerken, bazı yerel uygulamalarda araziyi koruma, kutsama ve arınma gerektiren bir mekân olarak ele alma eğilimi görülür.",
+  "jewishTraditions": "Talmudik rüya geleneğinde (örneğin Berakhot bağlamında) rüyalar tek başına sabit bir sözlük gibi değil, yorumlandığı ölçüde anlam kazanan dinamik bir alan olarak kabul edilir. Toprak ve arsa teması; miras, vaat, aidiyet ve sınır belirleme kavramlarıyla ilişkilidir. Doğrudan bir arsa tabiri bulunmamakla birlikte, imge yer edinme ve kök salma çağrışımları üzerinden okunur.",
+  "buddhistEasternApproaches": "Budist rüya yaklaşımlarında rüya imgeleri sabit ve evrensel nesneler olarak değil, rüyanın hissi, günlük yaşamın bağlamı ve zihinsel arınma pratikleriyle birlikte ele alınır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel yorumlarda arsa, kişinin hayatında yeni bir düzen kurma, sınır çizme ve yer açma potansiyelini temsil eder. Sağlam bir arsa güvenli bir temeli simgelerken; kaygan, çatlak veya düzensiz bir arazi akışta aksamaları ve yeniden yapılanma gereksinimini ima eder.",
+  "comparisonTable": [
     {
-      "question": "Arsa görmek bir mülk edineceğim anlamına mı gelir?",
-      "answer": "Rüya gelecekte mülk edinileceğini göstermez. Gerçek hayattaki bir planın, görüşmenin veya hatıranın size çağrışım yapıp yapmadığını düşünebilirsiniz."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Beden, içsel uzam, rahim veya üretkenlik potansiyellerinin dolaylı bir yansıması.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Boş arsa ile tarla aynı şekilde mi ele alınır?",
-      "answer": "Aynı olmak zorunda değildir. Arsanın kullanım ve sınırları, tarlanın ise ekim ve ürün gibi özellikleri sahnede farklı ayrıntılar oluşturabilir."
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Psişenin dayandığı temel zemin, bilinçdışı potansiyel ve bireyleşme alanı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Eş, evlilik, soy, üretkenlik ve ailevi bağlar ekseninde yorumlama.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rüyasal Geleneği",
+      "interpretation": "Miras, aidiyet, yerleşiklik ve yoruma bağlı anlam kazanan metinsel bağlam.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Hayatta yer açma, sınır belirleme, kök salma ve zemin sağlama potansiyeli.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve psikolojik ekoller, arsa sembolünün rastgele bir görsel olmadığını; kişinin o anki içsel durumunu, maddi veya manevi temellerini ve gelişim zeminini yansıttığı konusunda birleşir.",
+  "differences": "Psikanalitik ve Jungcu ekoller arsayı psişik yapılar ve potansiyeller üzerinden ele alırken, geleneksel ve dini yaklaşımlar daha çok aile, evlilik, miras ve somut yaşam düzeni ekseninde anlamlandırmaktadır.",
+  "inusAssessment": "Rüyada arsa görmek, genel bir mekân imgesinden öte, bireyin hayatındaki 'zemin' arayışını ve işlenmemiş potansiyellerini temsil eder. Arsanın verimli ya da çorak olması, sınırlarının belli olup olmaması veya üzerinde ne yapıldığı; kişinin içsel dünyasında sağlam bir temel üzerinde mi durduğunu yoksa yeni bir yapılanma eşiğinde mi olduğunu belirleyen en kritik ayrıntılardır. Bu nedenle rüya, sabit bir kehanetten ziyade kişinin kendi yaşam alanını ve niyetlerini nasıl yapılandırdığına dair bir aynadır.",
+  "faq": [
+    {
+      "question": "Rüyada boş arsa görmek ne anlama gelir?",
+      "answer": "Boş arsa, henüz biçimlenmemiş potansiyelleri, hayatta yeni bir düzen kurma ihtiyacını veya kişinin kendi alanını tanımlama çabasını simgeler."
+    },
+    {
+      "question": "Arsanın verimli ya da çorak olması yorumu nasıl etkiler?",
+      "answer": "Verimli arazi içsel kaynakların bolluğuna ve büyüme potansiyeline işaret ederken, çorak arazi tükenmişlik hissini, hazırlık eksikliğini veya yeniden yapılanma ihtiyacını yansıtır."
     }
   ],
   "sources": [
     {
+      "title": "[PDF] The Neurocognitive Theory of Dreaming",
+      "relevance": "Rüya içeriğinin nörokognitif kuramını ve mekân/ortam öğelerinin kodlanmasını tartışır; mekân ve çevre öğelerinin nasıl sınıflandırıldığını anlamaya yardımcı olur.",
+      "url": "https://dreams.ucsc.edu/NCTD/Neurocognitive%20Theory%20of%20Dreaming%20(Domhoff%202022).pdf"
+    },
+    {
       "title": "Content Analysis Explained",
-      "url": "https://dreams.ucsc.edu/Info/content_analysis.html",
-      "relevance": "Rüya anlatılarındaki mekân, nesne, etkinlik ve duyguları sınıflandıran yöntemi açıklar. Arsa sembolüne özgü ampirik anlam kanıtı değildir."
+      "relevance": "İçerik analizinde 'ortam' kavramının ve iç/dış, tanıdık/yabancı ayrımlarının nasıl ele alındığını açıklar.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin temel ilkelerini, kodlama ve yöntemsel yaklaşımları özetler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "The Interpretation of Dreams (Freud)/Chapter 5",
+      "relevance": "Freud'un rüya sembollerinin beden, cinsellik ve aile ilişkileriyle nasıl bağlantılandırıldığını anlattığı bölüm.",
+      "url": "https://en.wikisource.org/wiki/The_Interpretation_of_Dreams_(Freud)/Chapter_5"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/263 - Wikisource, the free online library",
+      "relevance": "Suyun rüyada idrar, meni, amniyotik sıvı ve doğumla ilişkilendirilebildiğini tartışan belirli pasajları içerir.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/263"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüya sembollerinin bedensel işlevleri ve cinsel anlamları hakkında klasik metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "SE 15.pdf",
+      "relevance": "Rüya öğesi ile yorumu arasındaki sabit sembolik ilişkinin nasıl kavramsallaştırıldığını gösteren metin parçası.",
+      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149-169.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud'un su ve doğum arasındaki bağlantıyı tartıştığı bölümün çevirisi/özeti niteliğinde bir kaynaktır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Toprak/arsa imgesine Jungcu bir anlam atfeden ve yerin ana imgesi ile bilinçdışıyla ilişkisini özetleyen açıklama.",
+      "url": "https://mirrorwithin.org/dream-dictionary/land/"
+    },
+    {
+      "title": "Land - Dream Symbol - Dreampaths",
+      "relevance": "Arsa simgesini Jung perspektifinde içsel manzara, bilinçdışı ve keşfedilmemiş benlik yönleriyle ilişkilendirir.",
+      "url": "https://dreampaths.com/symbol/land"
+    },
+    {
+      "title": "Land in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Arsa imgesini Freud, Jung ve modern anlam çerçevesinde tartışır; 'zemin' fikrini vurgular.",
+      "url": "https://rosmertapublishing.com/dream-symbols/land/"
+    },
+    {
+      "title": "Earth in Dreams · Forever Jung",
+      "relevance": "Toprak sembolünü Jungcu okumada beden, temel ve ana imgesiyle ilişkilendirir.",
+      "url": "https://foreverju.ng/symbols/earth"
+    },
+    {
+      "title": "Dreams and a Sense of Place",
+      "relevance": "Jungcu ekolojisel psikoloji bağlamında yer ve bağ hissinin ruhsal gelişime etkisini tartışır.",
+      "url": "https://www.ecojung.com/dreams-and-a-sense-of-place"
+    },
+    {
+      "title": "The Nature Of Dreams Is...",
+      "relevance": "Jungcu bağlamda rüyaların doğası ve bilinçdışı ile ilişkisine dair kısa bir çerçeve sunar.",
+      "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/dreams/"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual: Artemidorus' The ...",
+      "relevance": "Artemidorus ve antik oneirokritik gelenekte arazi, tarla ve tarımsal eylemlerle ilgili tarihsel yorumları içeren bölümdür.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "Arazi ve Arsa",
+      "relevance": "Arsa ve arazi sembolüne dair klasik atıfları aktarır; arsa alım-satımı ve verimlilik üzerinden aile/ilişki merkezli yorumlar sunar.",
+      "url": "https://www.ruyaburcyorumlari.com/ruyada-arazi-ve-arsa-gormek/"
+    },
+    {
+      "title": "RÜYA - TDV İslâm Ansiklopedisi",
+      "relevance": "İslâm ansiklopedisi çerçevesinde rüya tabirinin sembolik dili ve rüyanın kişiye özgü oluşuna dair genel bir açıklama sunar.",
+      "url": "https://islamansiklopedisi.org.tr/ruya"
+    },
+    {
+      "title": "Land | Bible Dictionary",
+      "relevance": "Kutsal Kitap bağlamında toprak temasının antlaşma, bereket, kutsallık, dinlenme ve itaatle ilişkisini özetler.",
+      "url": "https://ai-bible-commentary.com/companion-bible-dictionary/land/"
+    },
+    {
+      "title": "Cleansing the Home and Land",
+      "relevance": "Araziyi kutsama, koruma ve arınma pratiklerine dair örnekler ve uygulama örnekleri sunar.",
+      "url": "https://www.luke-418.com/resource/cleansing-the-land/"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Talmudik metinlerde rüyalar ve rüya yorumlarının yoruma bağlı olarak nasıl anlam kazandığına dair derlemeler içerir.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot geleneğindeki rüya yorumlarına ilişkin tartışmaları ve metinsel örnekleri özetler.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "On ladders and dreams",
+      "relevance": "Yakup'un düşü bağlamında 'toprak' vaadi üzerinden yer, sahiplik ve aidiyet motiflerini inceler.",
+      "url": "https://www.israelhayom.com/2022/12/02/on-ladders-and-dreams/"
+    },
+    {
+      "title": "Dreams of Fields",
+      "relevance": "Talmudik rüya sembolizmi içindeki tarla ve tahıl imgelerine dair örnekler sunar.",
+      "url": "https://www.tabletmag.com/sections/belief/articles/dreams-of-fields"
+    },
+    {
+      "title": "Jacob's Dream: Holy Land and Holy History | Reform Judaism",
+      "relevance": "Yakup'un düşü bağlamında kutsal toprak ve tarihsel sembolizmi tartışır.",
+      "url": "https://reformjudaism.org/learning/torah-study/torah-commentary/jacobs-dream-holy-land-and-holy-history"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams",
+      "relevance": "Budist yaklaşımlarda rüya imgelerinin sabit semboller olarak değil, bağlam, his ve uygulama pratikleriyle birlikte değerlendirildiğini açıklar.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "[PDF] Dreams in the Buddhist View",
+      "relevance": "Budist rüya literatüründe sembolik ve öncü rüya ayrımını tartışan ve uygulama bağlamını vurgulayan bir metindir.",
+      "url": "https://ayurama.eu/pdf/dreams_pali.pdf"
+    },
+    {
+      "title": "Dream Interpretation in Tibetan Buddhism | Mindful Slumber",
+      "relevance": "Tibet Budizmi bağlamında rüya imgelerinin bağlam ve zihinsel durumla ilişkilendirilmesine dair bir rehber niteliğindedir.",
+      "url": "https://www.mindfulslumber.com/dream-interpretation-buddhism"
+    },
+    {
+      "title": "The interpretation of the dream - Land",
+      "relevance": "Toprak ve arazi sembolünün rüyalarda taşıdığı güven, bereket ve yerleşme temalarını ele alan modern bir yorum sunar.",
+      "url": "https://us.dreambook.in.ua/son/land/"
+    },
+    {
+      "title": "The Spiritual Meaning of Land in Dreams - Wisdom Of The Spirit",
+      "relevance": "Toprağın spiritüel anlamını güvenlik, büyüme ve yeni başlangıçlar ekseninde tartışır.",
+      "url": "https://wisdomofthespirit.com/the-spiritual-meaning-of-land-in-dreams/"
     }
   ],
-  "relatedSlugs": [
-    "arsa-almak"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian",
+    "buddhist-eastern"
   ]
 }

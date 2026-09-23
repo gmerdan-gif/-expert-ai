@@ -1,67 +1,206 @@
 {
   "slug": "ray",
-  "title": "ray",
-  "shortDescription": "Rüyada ray, belirli bir güzergâhta ilerleme ve yön değiştirme imkânlarını düşündürebilir. Rayların birleşmesi, ayrılması veya kesintiye uğraması önemlidir.",
+  "title": "Ray",
+  "shortDescription": "Rüyada dar bir ışık huzmesi görmek, belirsiz bir konuda ani bir netlik veya içgörü hissiyle ve yön gösteren bir işaretle ilişkilendirilebilir. Işık göz kamaştırıyor, kaynağı belirsiz kalıyor veya rahatsız ediyorsa kafa karışıklığı, baskı ya da karar vermekte zorlanmayı yansıtabilir.",
   "positiveAssociations": [
-    "Bir yönü takip edebilmek",
-    "Bir güzergâhı fark etmek",
-    "Geçiş için uygun yeri bulmak"
+    "Odaklanmış içgörü: belirli bir soruna veya karara ilişkin ani netlik",
+    "Yön gösterme: belirsizlik döneminde belirgin bir yol veya işaret hissetme",
+    "Engel delme/gevşetme: psikolojik veya pratik bir engelin aşılacağına dair umut",
+    "Konsantre edilmiş manevi temas: kısa ve yoğun bir rehberlik ya da kutsanma hissi"
   ],
   "challengingAssociations": [
-    "Belirli bir hatta sıkışmış hissetmek",
-    "Kesilen bir güzergâhla karşılaşmak",
-    "Yaklaşan tren nedeniyle tedirgin olmak"
+    "Görsel ve duygusal baskı: parlaklığın göz kamaştırması, şaşkınlık veya rahatsızlık hissi",
+    "Maruz kalma/ifşa edilme duygusu: dikkat odağının kişiyi savunmasız bırakması.",
+    "Tek yönlü yönlendirme hissi: beklenmedik bir işaret karşısında karar verme güçlüğü",
+    "Yönü veya kaynağı belirsizse kafa karışıklığı ve güvensizlik"
   ],
   "contextDependentAssociations": [
-    "Rayın sağlam veya kesintili olması",
-    "Rayları izlemek veya üzerinden geçmek",
-    "Trenin bulunup bulunmaması"
+    "Işığın dar ve çizgisel olması, rehberliğin hedefe dönük ve yönlendirici olduğunu işaret edebilir",
+    "Işığın rengi, yoğunluğu ve nereden geldiği rüyanın duygusal tonunu büyük ölçüde değiştirir",
+    "Ray’ın bir engeli delip geçmesi, sembolün müdahaleci/önemli bir yönlendirme niteliğini vurgular",
+    "Rüya sahibinin uyanık yaşamındaki arayış, karar süreci veya dini/spiritüel inançlar yorumda belirleyicidir"
   ],
   "commonVariations": [
     {
-      "title": "Uzayıp giden raylara bakmak",
-      "description": "Hattın nereye gittiğini görebiliyor muydunuz? Açık bir yön ile sonu görünmeyen bir yol sizde farklı duygular oluşturabilir."
+      "title": "Karanlık Bir Odada Tek Bir Işık Huzmesi",
+      "description": "Odaklanmış bir ışığın karanlığı delerken görünmesi, zorlayıcı bir dönemde belirli bir konuya ilişkin aniden doğan netlik veya yol gösterme hissini simgeler."
     },
     {
-      "title": "Rayların ayrıldığı bir noktaya gelmek",
-      "description": "Rüyada hangi hattı seçtiğiniz ve seçimi kimin yaptığı önemlidir. Bu sahne karar verme üzerine kişisel bir çağrışım kurdurabilir; gerçek hayatta önceden belirlenmiş bir kader olduğunu göstermez."
+      "title": "Gökyüzünden Süzülen Dar, Parlak Bir Işın",
+      "description": "Yönlendirme veya koruma duygusu taşıyan bir işaret; kaynağı ilahi veya dışsal görülebilir, ama bu okuma geleneksel sembolizme dayalı ve mutlak değildir."
     },
     {
-      "title": "Kesilmiş veya bozulmuş ray görmek",
-      "description": "Sahnenin odağı engelin kendisi mi, yolculuğun durması mıydı? Geri dönmeniz, beklemeniz veya yardım aramanız farklı tepkilerdir."
+      "title": "Su Yüzeyine Vuran ya da Sudaki Yansımadan Oluşan Işın",
+      "description": "Psikanalitik bağlamda suyla ilişkili imgeler üzerinden duyguların yüzeye çıkması veya bilinçaltından kaynaklanan aydınlanma şeklinde yorumlanabilir; fakat bu doğrudan 'ray' kanıtı değildir."
     },
     {
-      "title": "Rayların karşısına geçmek",
-      "description": "Karşı tarafta neye ulaşmak istediğinizi ve geçiş sırasında ne hissettiğinizi düşünün. Bu rüya sahnesi gerçek hayatta bir tehlikenin gerçekleşeceğine ilişkin bilgi vermez."
+      "title": "Bulutların Arasından Beliren ve Yere Düşen Işık Demeti",
+      "description": "Belirsizliklerin ardından gelen bir rahatlama, bereket ya da fırsat hissinin imgesi olabilir; bağlama göre kutsanma veya sorumluluk çağrışımları taşıyabilir."
     }
   ],
-  "psychology": "İçerik analizi, rüyadaki nesneyle yapılan hareketi ve yaşanan duyguyu ayrı kaydetmeye imkân verir. Ray sahnesini de bakmak, yürümek, beklemek veya karşıya geçmek gibi eylemlere ayırabilirsiniz. Bu yöntem rayın kader veya zorunlu yön anlamına geldiğini göstermez.",
+  "psychology": "Ampirik rüya araştırmaları 'ray' sembolüne özgü standart bir karşılık vermez; modern rüya içerik analizleri ise genelde iki aşamalı yöntemlerle rapor edilen rüya öğeleri ile uyanıklıkta yaşanan deneyimler, dikkat yoğunlaşması ve bilişsel değişkenler arasındaki ilişkileri araştırır. Bu nedenle 'ray' yorumları bağlam, duygu tonu ve kişisel çağrışımlar dikkate alınarak ihtiyatla yapılmalıdır.",
   "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Hattın görünümü ile sizin hareketiniz birlikte ele alınabilir.",
-  "differences": "Genel analiz yöntemi, belirli bir ray rüyasının kişisel anlamını belirlemez.",
-  "inusAssessment": "Bu sayfada ray, demiryolunun metal hattıdır; ışık ışını veya vatoz anlamında kullanılmaz. INUS değerlendirmesinde hattın yönü, sürekliliği ve sizin onunla ne yaptığınız öne çıkar. Trende yolculuk etmek ile dışarıdan raylara bakmak aynı deneyim değildir. Yön, seçim ve engel çağrışımları kişisel düşünme önerileridir; kaçınılmaz bir gelecek anlatmaz.",
-  "faq": [
+  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında 'ray' kelimesine doğrudan bir madde tespit edilmemiştir. İslam geleneğinde ışık imgeleri genellikle rehberlik ve ilimle bağdaştırılır; 'ray' içinse ancak bu genel sembolik mantık çerçevesinde ve ihtiyatla yorum üretilebilir.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde ışık huzmesi, Tanrı’nın aydınlatması, rehberliği ve doğruluğun simgesi olarak okunur. 'Ray' imgeleri de genellikle yönlendirici ve ilahi bir aydınlanma çağrışımı verebilir; bu, klasik bir rüya maddesi değil, ışık sembolizmine dayalı kontrollü bir çerçevedir.",
+  "jewishTraditions": "Yahudi teolojik kaynaklarda gökten gelen bereket ve yaşam veren imgeler (ör. yağmur) güçlü yer tutar; doğrudan 'ray' başlığı bulunmamakla birlikte rüyada beliren ışık/ışın temaları rabbanî literatürde lütuf, korunma veya ruhsal beslenme ekseninde değerlendirilebilir.",
+  "buddhistEasternApproaches": "Budist metin ve ikonografide Buddha’dan yayılan parlak ışınlar (Sanskritçe rashmi, 'ışın, parlama' anlamına gelir) aydınlanma, bilgelik ve şefkat ile ilişkilendirilir. 'Ray' sembolü Budist çerçevede genelde dönüştürücü ruhsal enerjinin veya aydınlanmanın bir işareti olarak okunur.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yorumlarda 'ray' çoğunlukla dar, yoğun bir ışık olarak içgörü, umudun belirivermesi, yön bulma veya ruhsal enerjinin odaklanması temalarıyla eşleştirilir. Bu okumalar geleneksel sembolizm ve çağdaş yorumlar arasında değişir.",
+  "comparisonTable": [
     {
-      "question": "Ray görmek kaderimin belli olduğu anlamına mı gelir?",
-      "answer": "Hayır. Belirli bir hattı izleme görüntüsü bir çağrışım oluşturabilir; yaşamınızın önceden belirlenmiş olduğunu kanıtlamaz."
+      "approach": "Psikanaliz",
+      "interpretation": "Doğrudan 'ray' kanıtı yok; su ve akışkanlık eksenindeki psikanalitik çağrışımlar (doğum, kurtarma düşleri) üzerinden kontrollü ve temkinli bir bağlantı kurulabilir.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Ray ile tren aynı şekilde mi yorumlanır?",
-      "answer": "Hayır. Ray güzergâhın bir parçasıdır; tren ise yolculuk, yolcular ve hareket gibi ek ayrıntılar içeren bir araçtır."
+      "approach": "Hristiyan Geleneksel Okuma",
+      "interpretation": "Işık huzmesi; ilahi aydınlanma, rehberlik ve Tanrı’nın varlığının sembolik yansıması olarak yorumlanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist/Doğu Yaklaşımı",
+      "interpretation": "Buddha’nın ışıltısı ve ışın imgeleri aydınlanma, bilgelik ve dönüştürücü etki ile ilişkilendirilir; 'ray' bu bağlamda ruhsal aydınlanma işareti olabilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Odaklanmış içgörü, yön bulma ve ruhsal uyanış temalarıyla bağdaştırılır; sembolik ve pratik yorumlar değişkenlik gösterir.",
+      "evidenceLevel": "spiritual"
     }
   ],
+  "commonGround": "Çoğu gelenek ve yorumda ışık veya ışın imgeleri karanlığı delen, yön gösteren ve bilinci açan unsurlar olarak öne çıkar; 'ray'ın ayırt edici yanı bu temasın dar, odaklanmış ve hedefe yönelik biçimde ifade edilmesidir.",
+  "differences": "Psikanalitik okumalar içsel dinamikler ve bilinçaltı bağlantıları vurgularken; Hristiyan, Budist ve spiritüel yaklaşımlar daha çok ilahi veya dönüştürücü bir rehberlik, kozmik bilgelik ve dışsal aydınlanma perspektifine odaklanır.",
+  "inusAssessment": "INUS çerçevesinde ray, belirli duygusal ton, bağlam ve rüya sahibinin yaşam koşullarıyla birlikte bir sonucun parçası olabilir; yani gerekli olmayıp bazı durumlarda yeterli olabilecek, tek başına belirleyici olmayan bir etken olarak değerlendirilmelidir.",
+  "faq": [],
   "sources": [
     {
-      "title": "Content Analysis Explained",
-      "url": "https://dreams.ucsc.edu/Info/content_analysis.html",
-      "relevance": "Nesne, mekân, etkinlik ve duygu ayrımını açıklayan genel rüya içerik analizi yöntemi; bu sembol için sabit anlam kanıtı değildir."
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud’un su imgeleri, sudan çıkma ve doğum düşleri ilişkisini ele alan bölümleri; 'ray' için doğrudan değil ama su imgeleri üzerinden psikanalitik bir yakınsama zemini sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "SE 15.pdf",
+      "relevance": "Freud’un su imgesini doğum, rahim ve annelikle ilişkilendirdiği bölümlere erişim; 'ray' için doğrudan kanıt sunmaz, ancak psikanalitik bağlamda ilgili literatürü gösterir.",
+      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149-169.pdf"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/263 - Wikisource, the free online library",
+      "relevance": "Freud’un kurtarma rüyaları ve doğum düşleri ilişkisine dair pasajlar; 'ray' için dolaylı psikanalitik referans sağlar.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/263"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidoros’un bağlamsallık ilkesini ve sembolleri rüya görenin durumuna göre okuma yaklaşımını anlatır; 'ray' gibi sembollerde sabit bir anlam atfetmeme ilkesini destekler.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "What Is the Significance of Dreams in Islam? - Amaliah",
+      "relevance": "İslam’da rüyaların nasıl ele alındığını ve yorumun hangi sembolik ilkelerle yürüdüğünü açıklar; 'ray' için klasik bir madde bulunmadığı durumlarda güvenli bir yorum yaklaşımı sağlar.",
+      "url": "https://www.amaliah.com/post/70094/dreams-interpretation-in-islam"
+    },
+    {
+      "title": "Dreams and Dream Interpretation - Islam Question & Answer",
+      "relevance": "Rüya yorumunun Kur'an, Sünnet ve mecazlar üzerinden yapılabileceğini belirtir; 'ray' için doğrudan atıf yoksa genel çerçeve sunar.",
+      "url": "https://islamqa.info/en/answers/6537"
+    },
+    {
+      "title": "ray light",
+      "relevance": "Web sayfasında 'light in a dream means guidance' ifadesi yer almaktadır; sayfa 'ray' için genel bir ışık/yönlendirme çağrışımı sunar.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=ray+light"
+    },
+    {
+      "title": "Topical Bible: Ray",
+      "relevance": "Kutsal Kitap’taki ışık temalarının derlemesi; Hristiyan sembolik okumalarda ışık/ışın imgelerinin ilahi aydınlanma ve rehberlikle ilişkilendirilmesine kaynaklık eder.",
+      "url": "https://biblehub.com/topical/r/ray.htm"
+    },
+    {
+      "title": "Understanding the Biblical Meaning of Ray and Its Significance in Your Spiritual Journey",
+      "relevance": "Ray kavramını İncil’deki ışık, yönlendirme ve manevi açıklık temalarıyla ilişkilendirir; sembolik bir Hristiyan okuması için kullanılabilir.",
+      "url": "https://biblicalchronology.com/biblical-meaning-of-ray/"
+    },
+    {
+      "title": "What are the red and white rays in the Divine Mercy image? - Aleteia",
+      "relevance": "Hristiyan ikonografisindeki ışın imgelerinin merhamet ve arınma bağlamındaki yorumlarına örnek teşkil eder; 'ray' için ilahi merhamet çağrışımı oluşturmada faydalıdır.",
+      "url": "https://aleteia.org/2023/04/16/what-are-the-red-and-white-rays-in-the-divine-mercy-image/"
+    },
+    {
+      "title": "Make It Rain: Our Literary Critic's Weekly 'Daf Yomi' Talmud Study",
+      "relevance": "Berakhot çevresindeki Talmudî rüya tartışmalarına ve yağmurun Yahudi yaşamındaki temel önemine bağlam sağlar.",
+      "url": "https://www.tabletmag.com/sections/belief/articles/daf-yomi-87"
+    },
+    {
+      "title": "Rain as a Blessing | My Jewish Learning",
+      "relevance": "Yahudi geleneğinde gökten gelen bereket temalarını ele alır; 'ray' için doğrudan değil ama gökten inen işaretler bağlamında yorum imkânı verir.",
+      "url": "https://www.myjewishlearning.com/article/rain-as-a-blessing/"
+    },
+    {
+      "title": "The Bible and Ecotheology: A Jewish Perspective - Oxford Academic",
+      "relevance": "Yağmur, su ve yaşam arasındaki Yahudi sembolik ilişkileri ve rabbanî okuma biçimlerini ele alır.",
+      "url": "https://academic.oup.com/edited-volume/41623/chapter/353458280"
+    },
+    {
+      "title": "RAIN - JewishEncyclopedia.com",
+      "relevance": "Rabbanî kaynaklarda yağmurun ruhsal ve kozmik ağırlığını aktaran bir derleme sunar.",
+      "url": "https://www.jewishencyclopedia.com/articles/12541-rain.html"
+    },
+    {
+      "title": "When the Heavens Open: The Hidden Power and Meaning of ...",
+      "relevance": "Rabbanî kaynaklarda yağmurun ruhsal ve kozmik ağırlığını aktaran bir derleme sunar.",
+      "url": "https://www.hidabroot.com/article/114"
+    },
+    {
+      "title": "The Blogs: Nature Speaks -- Listen! The Rain Has Something to Say | Debra Band",
+      "relevance": "Yağmurun Yahudi sembolizminde ilahî lütuf ve ahlaki anlamlarla ilişkilendirilmesini gösterir.",
+      "url": "https://blogs.timesofisrael.com/nature-speaks-listen-the-rain-has-something-to-say/"
+    },
+    {
+      "title": "Ray: Significance and symbolism",
+      "relevance": "Budist kaynaklarda Buddha’nın ışınları ve ışıltısının anlamı; 'ray' sembolünün Budist çerçevede aydınlanma ve bilgelikle ilişkilendirilebileceğini destekler.",
+      "url": "https://www.wisdomlib.org/concept/ray"
+    },
+    {
+      "title": "Rays of light: Significance and symbolism",
+      "relevance": "Budist sembolizmde ışınların ruhsal aydınlanma ve şefkatle bağlantısını özetler; 'ray' için gelenek-temelli bir okuma zemini sağlar.",
+      "url": "https://www.wisdomlib.org/concept/rays-of-light"
+    },
+    {
+      "title": "Significance of Buddha's rays",
+      "relevance": "Budizmde Buddha'nın ışınlarının bilgelik ve aydınlatıcı varlık olarak yorumlanması.",
+      "url": "https://www.wisdomlib.org/concept/buddhas-rays"
+    },
+    {
+      "title": "THE BUDDHA'S RADIANCE",
+      "relevance": "Buddha'nın ışıltısı ve baş çevresindeki ışınların tarihsel Budist betimlenişi.",
+      "url": "https://thesiamsociety.org/wp-content/uploads/1973/03/JSS_061_1g_Woodward_BuddhasRadiance.pdf"
+    },
+    {
+      "title": "Dreams About Rays: Unraveling Their Hidden Meanings",
+      "relevance": "Modern spiritüel yorumların 'ray' imgelerini içgörü, rehberlik ve umut temalarıyla eşleştirdiğini gösterir; bu kaynaklar ampirik kanıt yerine çağdaş yorum çerçevesi sunar.",
+      "url": "https://dict.dreamdecoder.me/symbol/dreams-about-rays-unraveling-their-hidden-meanings"
+    },
+    {
+      "title": "Dream Meaning of Ray: Light and Spiritual Insight",
+      "relevance": "Ray imgesini rüyada aydınlanma, içgörü ve zor bir dönemde yol gösteren bir ışık olarak ele alan modern spiritüel bir yorum sunar.",
+      "url": "https://tarotreveal.com/dreams/ray/"
+    },
+    {
+      "title": "Ray of Light in Dreams: Meaning, Context, and ...",
+      "relevance": "'Ray of light' rüyalarını dikkat, açıklık ve ruhsal düzeyde rehberlik temalarıyla ilişkilendiren yorum; ışık ve bilinç sembolizmi açısından yararlıdır.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/ray-of-light"
+    },
+    {
+      "title": "Who Are The Ascended Masters Of The Seven Rays Of Light",
+      "relevance": "'Seven Rays of Light' çerçevesinde rayları ilahi enerjinin farklı nitelikleri olarak açıklayan modern spiritüel öğreti.",
+      "url": "https://www.a-higher-view.com/seven-rays-of-light-ascended-master/"
+    },
+    {
+      "title": "What are the Seven Rays?",
+      "relevance": "Seven Rays öğretisini yaratıcı kozmik güçler ve enerji frekansları olarak sunan ezoterik anlatı; ray sembolünü enerji nitelikleri üzerinden okumaya imkân verir.",
+      "url": "https://arhaticalchemy.com/what-are-the-seven-rays/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "buddhist-eastern"
+  ]
 }

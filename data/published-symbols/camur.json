@@ -1,74 +1,195 @@
 {
   "slug": "camur",
-  "title": "çamur",
-  "shortDescription": "Rüyada çamur, ilerlemeyi zorlaştıran bir zemin ya da biçim verilebilen bir malzeme olabilir. Çamura batmak, kirlenmek ve onu şekillendirmek farklı deneyimlerdir.",
+  "title": "Çamur",
+  "shortDescription": "Rüyada çamur, sıkışmışlık, duygusal bulanıklık veya ağırlık hissini; aynı zamanda dönüşüm için henüz biçimlenmemiş bir durumu çağrıştırabilir. Çamura batmak engellenmişliği, çamuru temizlemek yüklerden kurtulma çabasını, çamurla bir şey yapmak ise zorlu koşullarda temel kurmayı öne çıkarır.",
   "positiveAssociations": [
-    "Biçim verilebilen bir malzemeyle üretmek",
-    "Yavaşlayıp zemini değerlendirmek",
-    "Kirlenmeye rağmen hareket edebilmek"
+    "Dönüşüm için ham zemin/biçimlenebilirlik",
+    "Geçim ve yapı işleriyle ilişkilendirilen üretken toprak niteliği",
+    "Çamuru temizleme eylemiyle bağlantılı arınma olasılığı",
+    "Zorlu koşulların içinden çıkan gelişme (lotus-çamur ikiliği)"
   ],
   "challengingAssociations": [
-    "Batma veya ilerleyememe hissi",
-    "Üzerinizde kalan izlerden rahatsız olmak",
-    "Ayağın altındaki zemine güvenememek"
+    "Batma veya yapışma hissiyle ilişkilendirilen sıkışmışlık",
+    "Islak çamur bağlamında bazı geleneklerde hastalık veya zillet çağrışımı",
+    "Zihinsel/duygusal bulanıklık ve yön kaybı hissi",
+    "Bilinçdışı malzemenin yoğunluğuna bağlı ilerlemenin durması"
   ],
   "contextDependentAssociations": [
-    "Çamurun derinliği ve kıvamı",
-    "Çamurun içinde mi kenarında mı olduğunuz",
-    "Kirlenmenin size oyun mu yük mü gibi geldiği"
+    "Çamurun kuru veya sulu oluşu",
+    "Rüya sahibinin çamurun içine batması mı yoksa dışında kalması mı",
+    "Çamurla inşaat yapmak veya çamuru temizlemek gibi eylemler",
+    "Rüya anındaki duygusal ton ve bu duygunun zaman içindeki sönümlenmesi"
   ],
   "commonVariations": [
     {
-      "title": "Çamurda yürümek",
-      "description": "Adımların ağırlaşması, şu sıralar çaba isteyen bir işi hatırlatabilir. Ancak sahnenin anlamını yalnız yürümekte zorlanmanız değil, bir yere ulaşmaya çalışıp çalışmadığınız da değiştirir."
+      "title": "Derin çamura batmak",
+      "description": "Yürümeyi engelleyen koyu çamurun içine gömülme durumu, bilinçdışının baskısını veya günlük yaşamda sıkışmış hissetmeyi çağrıştırabilir."
     },
     {
-      "title": "Çamurla oynamak",
-      "description": "Burada kirlenme bir tehdit yerine keyif olabilir. Ellerinizle biçim vermek, deneme yapma ve sonucu hemen kusursuzlaştırmadan bir şey üretme deneyimi üzerine düşündürebilir."
+      "title": "Çamurla ev veya duvar yapmak",
+      "description": "Çamur kullanarak inşaat yapmak, dünya işleri, geçim veya inançla kurulan somut bağlara işaret edebilir."
     },
     {
-      "title": "Giysilerin çamura bulanması",
-      "description": "Giysilerin nasıl göründüğünden mi, temizleme işinden mi rahatsız olduğunuzu ayırın. İlkinde başkalarının bakışı, ikincisinde geride kalan bir yük sizin için daha belirgin olabilir."
+      "title": "Üzerine bulaşan çamuru temizlemek",
+      "description": "Giysi veya beden üzerindeki çamuru yıkamak, yüklerden ve karışıklardan kurtulma çabasını akla getirebilir."
     },
     {
-      "title": "Çamurun kurumasını beklemek",
-      "description": "Bekleme sahnesi, hemen çözülemeyen bir durum karşısındaki sabrınızı düşündürebilir. Kuruyan çamurun yol açması ile sertleşip engel olması farklı sonuçlardır."
+      "title": "Çamurlu su içinde kalmak",
+      "description": "Berraklığını yitirmiş suyla karışmış çamur, aldanmaya, duygusal karışıklığa ya da yaşamın karmaşık koşullarıyla uğraşmaya işaret edebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "Jungcu analist Jason E. Smith, çamuru zihinsel bulanıklıkla; yıkamayı ise simyadaki albedo, yani beyazlaşma aşamasıyla birlikte ele alır. Yazısında durulma ve düşünme, daha açık görmenin imgeleri olarak kullanılır. Bu, çamur rüyalarının kanıtlanmış anlamı değil, simya sembolizmine dayanan bir yorum çerçevesidir.",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Çamurun durulması ve ona biçim verilmesi, dağınık bir durumla nasıl ilişki kurduğunuzu düşünmek için iki ayrı imge sunar.",
-  "differences": "Jungcu yorum simya metinlerine dayanır. Rüyadaki kişisel deneyiminiz ise çamura dokunmanın, kirlenmenin veya ilerleyememenin size ne hissettirdiğiyle ilgilidir.",
-  "inusAssessment": "Çamurun hem yolu zorlaştıran hem de biçim verilebilen bir malzeme olması bu rüyanın temel ayrımıdır. Batarken yaşanan çaresizlik ile çamurdan bir şey yaparken duyulan merak aynı yoruma sıkıştırılmamalıdır. Rüyayı düşünürken önce çamurla ne yaptığınızı, sonra üzerinizde kalan izi ve sahneden nasıl ayrıldığınızı ele alın.",
-  "faq": [
+  "psychology": "Ampirik rüya çalışmalarında sembollerden çok rüya duygusu, tema ve anlatı bağlamı vurgulanır. Ritchie ve Skowronski’nin bulguları, rüyalara eşlik eden duygulanımın zamanla değişebildiğini ve bu nedenle çamur imgesinin tek başına evrensel veya sabit bir anlama indirgenemeyeceğini gösterir.",
+  "jungian": "Analitik psikolojide çamur, toprak ve suyun birleşimi olarak biçimlenmemiş, dönüşüm potansiyeli taşıyan ara-maddeyi çağrıştırabilir; çamura saplanmak bilinçdışı malzemenin yoğunluğuna ve gölgeyle temasın gerektirdiği içe bakış sürecine işaret edebilir. Simyasal okumalarda çamur nigredo evresine yakın bir ara durumda olmuş gibi düşünülebilir; bu tür ifadeler çağrıştırıcı olup doğrudan Jung’un birincil metnine dayandırılmamaktadır.",
+  "islamicTradition": "Aktarılan İslami rüya tabirlerinde çamur bazen hastalık, zillet veya dünya meşgalesiyle ilişkilendirilir; örneğin çamurla bina yapmak din ve imana, kuru çamur ise mala işaret edebileceği biçiminde aktarımlar vardır. Bu aktarımlar çoğunlukla klasik kaynaklara yapılan modern derlemeler üzerinden geldiği için bağlamı gözeterek temkinli okunmalıdır.",
+  "christianTraditions": "İncilî dilde çamur imgeleri insanın kırılganlığını, kirlenme veya bulanıklığı çağrıştırır; rüyalarda çamur, Hristiyan okumalarında genellikle ahlaki/manevi durumun zorlukları veya arınma ihtiyacıyla ilişkilendirilir. Bu yaklaşım rüyanın bağlamına göre farklı anlamlar verebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde (Berakhot vb.) rüyaların yorumla tamamlandığı kabul edilir; dolayısıyla çamur sabit bir kehanet işareti değil, bağlam içinde kirlenme, ağırlık, bastırılma veya dönüştürülebilir bir durum çağrıştıran bir öğe olarak ele alınır.",
+  "buddhistEasternApproaches": "Budist sembolizmde çamur, samsaraya ilişkin koşulları, acı ve zihinsel engelleri gösterirken aynı zamanda lotusun beslenme zemini olarak dönüşüm potansiyelini de ima eder. Bazı geleneklerde 'çamura gömülme' motifi uyarıcı bir sembol olarak kullanılabilir.",
+  "spiritualApproaches": "Modern ezoterik okumalarda çamur, biçimlenmemiş ilk madde, toprağa köklenme (topraklanma) ve yeniden şekillenme sürecinin ham zemini olarak yorumlanır; bu yorumlar disipline bağlı ve çağrıştırıcı niteliktedir.",
+  "comparisonTable": [
     {
-      "question": "Çamur rüyası mutlaka kötü müdür?",
-      "answer": "Hayır. Oyun, üretme, yürüme veya batma sahneleri farklı deneyimlerdir. Rüyanın duygusu, yalnızca çamurun kirli görünmesinden daha açıklayıcı olabilir."
+      "approach": "Psikolojik Yaklaşım",
+      "interpretation": "Duygu tonu, bağlam ve zaman içindeki duygusal sönümlenme dinamikleri dikkate alınarak yorumlanır.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Çamurun temizlenmesi neyi düşündürebilir?",
-      "answer": "Bir izi ortadan kaldırmak, rahatlamak veya yeniden başlayabilmek üzerine düşünmeye yardımcı olabilir. Bu, kişisel bir sahne okumasıdır; geleceğe ilişkin bir garanti değildir."
+      "approach": "Jungcu Psikanaliz",
+      "interpretation": "Bilinçdışı, gölge ve simyasal dönüşümün ara evresi çağrışımlarıyla ele alınır (temkinli, teorik yorum).",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Rüya Geleneği",
+      "interpretation": "Hastalık, sıkıntı, dünya meşgalesi ile rızık veya bina/mal bağlamında çeşitli geleneksel tabirleri vardır; bağlama göre değişir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Topraklanma, ham madde ve dönüşüm temalarıyla ilişkilendirilir; modern yorumlayıcı çerçevelere dayanır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çamurun fiziksel niteliği—ıslak, yapışkan ve şekil verilebilir oluşu—çeşitli geleneklerde benzer çağrışımlar uyandırır: ağırlık, kirlenme, aynı zamanda biçimlenme potansiyeli. Bu ortak nokta yorumlarda bağlam ve duyguyla birlikte ele alınmalıdır.",
+  "differences": "Bazı gelenekler çamuru öncelikle olumsuz (hastalık, zillet, bulanıklık) görürken, bazı psikolojik ve spiritüel okumalar onu dönüşüm ve topraklanma imkânı olarak değerlendirir.",
+  "inusAssessment": "Çamur rüyasında yorumun yönünü en çok çamurun nasıl göründüğü ve rüya sahibinin onunla ne yaptığı değiştirir. Çamura batmak sıkışmışlık veya yük hissini öne çıkarabilirken, çamuru temizlemek bir yükten arınma çabasını; çamurla bir şey inşa etmek ise ham ve biçimlenebilir bir malzemeden yapı kurma temasını belirginleştirebilir. Rüyadaki duygu tonu, çamurun kuru ya da sulu oluşu ve kişinin hareket edip edememesi bu farklı anlam katmanlarını birbirinden ayırmada özellikle önemlidir.",
+  "faq": [
+    {
+      "question": "Rüyada çamura batmak her zaman kötü bir duruma mı işaret eder?",
+      "answer": "Hayır. Çamura batmak sıkıntı veya dünyevi meşguliyete işaret edebildiği gibi, Jungcu perspektifte bilinçdışıyla yüzleşme ve dönüşüm sürecinin bir parçası olarak da okunabilir; bağlam ve duygu belirleyicidir."
+    },
+    {
+      "question": "Çamur rüyalarında hangi detaylar yorumu en çok değiştirir?",
+      "answer": "Çamurun sulu veya kuru olması, rüya sahibinin çamurda yürüyüp yürüyememesi, çamuru temizleyip temizlemediği ve rüya sırasında hissedilen duygusal ton yorumun yönünü doğrudan etkiler."
     }
   ],
   "sources": [
     {
-      "title": "Washing Away the Mud: On the Albedo of the Alchemical Opus",
-      "url": "https://jung.org/news/blog/21/21-Washing-Away-the-Mud-On-the-Albedo-of-the-Alchemical-Opus-by-Jason-Smith",
-      "relevance": "Çamur ve yıkama imgelerini Jungcu simya yorumunda ele alan Jason E. Smith yazısı; rüya deneylerini raporlayan ampirik çalışma değildir.",
-      "author": "Jason E. Smith",
-      "year": 2023
+      "title": "Perceived Change in the Affect Associated With Dreams",
+      "relevance": "Rüya duygulanımının zaman içinde nasıl değiştiğini ele alan çalışma; rüya yorumunda duygu tonunun ve sönümlenme dinamiklerinin önemini vurgular.",
+      "url": "https://www.niu.edu/jskowronski/publications/RitchieSkowronski2008.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 5, part a",
+      "relevance": "Freud’un rüya kuramının görünür/gizil içerik ayrımını sunan bölümü; çamur doğrudan ele alınmasa da psikanalitik bağlamda yakın imge alanları hakkında çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5a.htm"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/261",
+      "relevance": "Freud’un su ve bedensel imgeler üzerinden doğum/bedensel çağrışımları nasıl çözdüğünü gösteren pasaj; çamur gibi ıslak/bedensel imgeler için sınırlı bir analitik bağlam sağlar.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
+    },
+    {
+      "title": "Mud Dream Meaning & Interpretation - Mirror",
+      "relevance": "Çamuru Jungcu perspektifte bilinçdışı ve gölgeyle ilişkilendiren çevrim içi yorum; Jungcu temalara dayalı modern yorumlayıcı bir kaynaktır.",
+      "url": "https://mirrorwithin.org/dream-dictionary/mud/"
+    },
+    {
+      "title": "Washing Away the Mud: On the Albedo of the Alchemical ...",
+      "relevance": "Çamurun simyasal dönüşüm ve arınma bağlamında ele alındığı, Jungcu yorumlara yakın bir yazı; modern yorumlayıcı metin niteliğindedir.",
+      "url": "https://jung.org/news/blog/21/21-Washing-Away-the-Mud-On-the-Albedo-of-the-Alchemical-Opus-by-Jason-Smith"
+    },
+    {
+      "title": "Stuck in Mud Dream Meaning & Interpretation - Mirror",
+      "relevance": "Çamurda saplanma teması üzerinden Jungcu gölge ve bilinçdışı malzeme bağlamını tartışan çevrim içi metin.",
+      "url": "https://mirrorwithin.org/dream-dictionary/stuck-in-mud/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorum geleneğinde çamur/kil maddesinin bazı kullanım örneklerini sunan çeviri; tarihsel bir perspektif sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Full text of \"hipnoz_kitabi_hakan_menguc\"",
+      "relevance": "Derleme içinde çamur için aktarılan İslami tabirleri içeren metin; modern derleme niteliğinde aktarım sunar.",
+      "url": "https://archive.org/stream/hipnoz_kitabi_hakan_menguc/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1_djvu.txt"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri S Harfi",
+      "relevance": "Sulu çamur için olumlu bağlamlar (itaat, güzel anılma, hâlin düzelmesi) aktaran derleme sayfası; klasik atıf içeren modern aktarım niteliğindedir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-s1-harfi.html"
+    },
+    {
+      "title": "Topical Bible: Mud",
+      "relevance": "İncil metinlerinde çamur imgelerinin kirlenme, insan kırılganlığı ve ilahi dönüşüm çağrışımlarını bir araya getiren tematik kaynak.",
+      "url": "https://biblehub.com/topical/m/mud.htm"
+    },
+    {
+      "title": "Topical Bible: Muddy",
+      "relevance": "Kutsal metin dilinde çamurlu/berrak olmayan imgelerin bulanıklık ve manevi netlik kaybı çağrışımlarını derleyen kaynak.",
+      "url": "https://biblehub.com/topical/m/muddy.htm"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Berakhot ve Yahudi rüya geleneği metinlerinin derlemesini sunar; rüyanın yorumla tamamlandığı ilkesine ilişkin kaynak.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Yahudi gelenekte rüyanın bağlama göre değişen anlamı ve yorumun belirleyici rolü hakkında açıklayıcı materyal.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Berakhot’taki rüya anlayışını, rüyaların yorumla ilişkisini ve olumlu yorum geleneğini özetler.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Mud: Significance and symbolism",
+      "relevance": "Budist bağlamda çamurun bodhisattva metaforları ve lotus-çamur ilişkisini ele alan kavramsal açıklama.",
+      "url": "https://www.wisdomlib.org/concept/mud"
+    },
+    {
+      "title": "the lotus: symbolic representation of a bodhisattva",
+      "relevance": "Lotus ile çamur arasındaki Budist sembolik ilişkiyi, Vimalakīrti Nirdeśa Sūtra bağlamında ele alan akademik makale PDF’i.",
+      "url": "https://so06.tci-thaijo.org/index.php/ajrc/article/download/241097/164014/828226"
+    },
+    {
+      "title": "A History of Buddha-Nature Theory: The Literature and Traditions",
+      "relevance": "Buddha-nature literatüründe derin çamura kök salmış lotus benzetmesini tartışan çalışma.",
+      "url": "https://buddhanature.tsadra.org/index.php/Articles/A_History_of_Buddha-Nature_Theory:_The_Literature_and_Traditions"
+    },
+    {
+      "title": "Muddy Waters | Lapham's Quarterly",
+      "relevance": "Budizmde çamurlu su aldanma ve engellerle ilişkilendirilirken, bazı Japon Budist bağlamlarında lotusun büyümesini mümkün kılan ortam olarak ele alınır.",
+      "url": "https://www.laphamsquarterly.org/roundtable/muddy-waters"
+    },
+    {
+      "title": "The Twelve Warning Dreams: A Buddhist Crisis Manual",
+      "relevance": "Budizmde çamurlu su, aldanma ve engellerle birlikte, bazı Japon Budist bağlamlarda ise lotusun büyümesini mümkün kılan ortam olarak açıklanıyor.",
+      "url": "https://books.google.com/books/about/The_Twelve_Warning_Dreams.html?id=Uuzu0QEACAAJ"
+    },
+    {
+      "title": "Mud in Dreams: Stuck, Grounded, Cleansed, Renewed",
+      "relevance": "Budist kriz geleneğinde 'çamura batma' motifinin uyarıcı bir rüya deseni olarak yer almasını gösteren kaynak.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/mud"
+    },
+    {
+      "title": "Dreaming of Mud – Meaning and Interpretations",
+      "relevance": "Çamur rüyalarını ‘duygusal bulanıklık’, ‘topraklanma’ ve ‘yeniden şekillenme’ temalarıyla açıklayan modern ezoterik yorum.",
+      "url": "https://wisdomofthespirit.com/dreaming-of-mud/"
     }
   ],
-  "relatedSlugs": [
-    "camura-batmak",
-    "camurda-yurumek",
-    "camurlu-su",
-    "camurlu-yolda-yurumek"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "buddhist-eastern"
   ]
 }

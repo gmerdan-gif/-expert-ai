@@ -1,72 +1,253 @@
 {
   "slug": "is",
-  "title": "iş",
-  "shortDescription": "Rüyada iş, sorumluluklarınızı, çalışma ilişkilerinizi ve yetiştirme baskısını gündeme getirebilir. Yapılan görev, iş ortamı ve başarı ya da sıkışmışlık hissi önemlidir.",
+  "title": "İş",
+  "shortDescription": "Rüyada iş görmek, mesleki kimliğinizi, sorumluluklarınızı ve enerjinizi harcadığınız alanları yansıtabilir. İşlerin ahenkle ilerlemesi üretkenlik ve düzenle, yarım kalması tamamlanmamış görevlerle; iş hayatındaki belirsizlik ise emeğinizin karşılığını alamama veya işsizlik kaygısıyla ilişkilendirilebilir.",
   "positiveAssociations": [
-    "Bir işi tamamlamanın verdiği doyum",
-    "İş birliği ve sorumluluk paylaşımı",
-    "Becerilerini kullanmak"
+    "Üretkenlik ve yaşam düzeni",
+    "Emek karşılığının alınması",
+    "Ahenk içinde süren faaliyetler",
+    "İçsel olgunlaşma ve yapı kurma"
   ],
   "challengingAssociations": [
-    "Yetiştirme baskısı",
-    "Görevin belirsizliği",
-    "Değerlendirilme veya hata yapma kaygısı"
+    "İşin noksan kalması veya tamamlanamaması",
+    "İşsizlik veya belirsizlik",
+    "Yoğun yükümlülükler altında kalma",
+    "Emeğin karşılığını alamama kaygısı"
   ],
   "contextDependentAssociations": [
-    "Mevcut iş mi eski iş mi olduğu",
-    "Görevin kimin tarafından verildiği",
-    "Sorumluluğun paylaşılması veya tek kişide kalması"
+    "Rüya sahibinin gerçek hayattaki mesleği ve toplumsal konumu",
+    "Rüyadaki işin niteliği ve akışı",
+    "Rüya esnasındaki duygusal ton ve uyanıklık durumu"
   ],
   "commonVariations": [
     {
-      "title": "Eski iş yerine dönmek",
-      "description": "Eski bir görev veya çalışma ilişkisi yeniden aklınıza gelebilir. Bu sahne, eski işe gerçekten dönmek istediğinizi tek başına göstermez; o dönemin sizde bıraktığı duyguya bakın."
+      "title": "Mevcut İşte Yoğun Çalışmak",
+      "description": "Rüya sahibinin günlük mesleki sorumluluklarını ve yaşam enerjisini harcadığı alanları rüya sahnesinde yeniden deneyimlemesi."
     },
     {
-      "title": "Bitmeyen görevlerle uğraşmak",
-      "description": "Rüyada ne kadar çalışsanız da işin bitmemesi, yetişme baskısını düşünmek için somut bir sahnedir. En çok zorlayan şeyin iş miktarı mı, belirsiz beklenti mi olduğunu ayırabilirsiniz."
+      "title": "İşin Noksan Kalması",
+      "description": "Yarım kalan görevlerin veya tamamlanamamış projelerin rüyada görülerek eksiklik hissini tetiklemesi."
     },
     {
-      "title": "Yeni bir işte ne yapacağını bilememek",
-      "description": "Burada yeni bir rolün gerektirdikleri ve yardım isteme duygusu öne çıkabilir. Rüyada size yol gösteren birinin olup olmaması önemlidir."
+      "title": "Yeni Bir İşe Başlamak",
+      "description": "Mesleki statüde veya yaşam düzeninde yaşanabilecek olası değişikliklerin, yeni bir rol üstlenme arzusunun yansıması."
     },
     {
-      "title": "Bir işi ekiple tamamlamak",
-      "description": "Paylaşılan bir başarı, destek ve iş bölümünün sizdeki karşılığını düşündürebilir. İşin bitmesi kadar emeğinizin görülüp görülmediği de dikkate değerdir."
+      "title": "İş Hayatında Belirsizlik Yaşamak",
+      "description": "İşsizlik korkusunun veya geçim ve emek düzenine dair kaygıların bilinçdışındaki izdüşümü."
     }
   ],
-  "psychology": "1.695 kişinin katıldığı bir çevrimiçi araştırmada, işle ilgili rüyaların duygusal tonu günlük iş stresi ve işle ilişkili duygularla bağlantılı bulundu. Çalışma kişilerin kendi bildirimlerine dayanır; tek bir rüyadan iş yaşamı hakkında kesin sonuç çıkarmaz. Rüyadaki görevleri ve ilişkileri gerçek deneyimlerinizle karşılaştırmak, sabit bir iş tabirinden daha yararlı olabilir.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
+  "psychology": "Psikolojik analizde iş, mesleki kimliğin ayrı bir içerik kategorisi olarak kodlanabileceğini gösterir. Ampirik ve akademik çalışmalar, rüya öğelerinin sabit birer sözlük karşılığı olmadığını, kişisel anlam ve temsil mantığıyla şekillendiğini vurgular.",
+  "jungian": "Analitik psikoloji perspektifinde semboller tek anlamlı işaretler değil, bilinçdışının şimdiki ruhsal duruma ilişkin simgesel öz-sunumlarıdır. İş teması, bireyin iç dengesini, bilinçdışıyla ilişkisini ve ruhsal gelişim sürecini yansıtan bir imge olarak değerlendirilebilir.",
+  "islamicTradition": "Geleneksel ve modern İslami tabir derlemelerinde iş teması; yüksek mertebe, memuriyet halleri, işlerin ahenkle sürmesi ya da işsizlik ve sabır gibi kavramlarla ilişkilendirilmiştir. Rüyadaki işin noksan kalması veya tamamlanması, kişinin gerçek hayattaki ümit ve çabalarının bir yansıması olarak ele alınır.",
+  "christianTraditions": "Hristiyan rüya ayırt etme geleneğinde meslek ve rol sembolleri tek başına sabit anlamlar taşımaz. Sorumluluğun niteliği, otorite taşıyıp taşımadığı ve rüyadaki duygusal bağlam ile birlikte okunur.",
+  "jewishTraditions": "Talmudik Berakhot geleneği, rüyaların zihne giren imgelerden oluştuğunu ve yorumun rüya anlamında belirleyici olabileceğini öngörür. İş sembolü için doğrudan bir tabir metni yer almasa da, bu rabbanî çerçeve sembollerin sabit olmadığını ve bağlama göre şekillendiğini gösterir.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Çalışma sahnesindeki sorumluluk, destek ve baskı duyguları, iş yaşamınızla karşılaştırabileceğiniz ayrıntılardır.",
-  "differences": "Araştırma katılımcılar arasındaki ilişkileri inceler. Belirli bir iş rüyasına verdiğiniz kişisel anlam, bu istatistiksel bulgudan ayrı tutulmalıdır.",
-  "inusAssessment": "İş rüyasında görevin kendisini, iş arkadaşlarıyla ilişkinizi ve sizden bekleneni ayırmak yararlıdır. Aynı ofis bir rüyada baskı, başka bir rüyada beceri ve dayanışma alanı olabilir. Özellikle görevin bitip bitmemesi, yardım isteyebilmeniz ve emeğinizin fark edilmesi, rüyanızı günlük çalışma deneyiminizle karşılaştırabileceğiniz somut ayrıntılardır.",
-  "faq": [
+  "spiritualApproaches": "Modern spiritüel ve simyasal yaklaşımlarda iş; vokasyon, yaşam amaçları, sorumlulukların nasıl taşındığı ve ham deneyimin içsel emekle olgunlaştırılması temalarıyla okunur.",
+  "comparisonTable": [
     {
-      "question": "İş rüyası iş değiştirmem gerektiğini mi söyler?",
-      "answer": "Hayır. Bir rüya iş kararı vermek için yeterli değildir. Değişiklik isteğinizi düşündürebilir, fakat kararınızı gerçek çalışma koşullarınız ve seçenekleriniz üzerinden değerlendirmelisiniz."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Düş-işi, gizli düşünceyi görünür sahneye dönüştürürken kullanılan bir temsil öğesidir.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Eski işimi görmem hâlâ onu istediğim anlamına gelir mi?",
-      "answer": "Zorunlu olarak değil. Eski işteki bir kişi, görev veya duygu rüyada yeniden belirebilir. Özlem ile benzer bir sorumluluğu bugün yaşamak birbirinden farklıdır."
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Bilinçdışının ruhsal durumunu simgesel olarak sunan ve kişisel bağlamla anlam kazanan bir imgedir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel İslami Tabir",
+      "interpretation": "Geleneksel İslami tabirlerde 'iş', genellikle mertebe, geçim ve emeğin karşılığı ile işlerin noksan kalması veya ahenkle sürmesi gibi durumlarla ilişkilendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Vokasyon, sorumluluk, yaşam enerjisinin kullanımı ve içsel dönüşüm süreci.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Tüm yaklaşımlar iş sembolünün tek bir sabit anlama indirgenemeyeceği konusunda birleşir; rüyadaki iş teması mutlaka kişinin yaşam koşulları, duygusal tonu ve bağlamı çerçevesinde ele alınmalıdır.",
+  "differences": "Psikanaliz ve analitik psikoloji, sembolü içsel dinamikler ve bilinçdışı süreçler üzerinden okur; geleneksel tabirler ise statü, geçim ve dışsal yaşam düzenine odaklanır. Spiritüel okumalar ise kavramı yaşam amacı ve içsel emek ekseninde değerlendirir.",
+  "inusAssessment": "İş sembolü, bireyin uyanık yaşamdaki kimliği ile içsel sorumlulukları arasındaki köprüyü temsil eder. Bu sembolü yorumlarken rüyada hissedilen baskının, işin tamamlanıp tamamlanmadığının ve kişinin günlük mesleki gerçekliğinin birlikte ele alınması, rüyanın işaret ettiği ruhsal dinamikleri anlamak açısından belirleyicidir.",
+  "faq": [
+    {
+      "question": "Rüyada iş görmek her zaman kariyerle ilgili bir değişikliğe mi işaret eder?",
+      "answer": "Hayır. Farklı yaklaşımlar, iş sembolünün yalnızca kariyerle ilgili olmadığını; sorumluluklar, yaşam enerjisinin nereye harcandığı ve içsel düzen ihtiyacı gibi geniş bir yelpazede değerlendirildiğini gösterir."
+    },
+    {
+      "question": "İşin rüyada yarım kalması ne anlama gelir?",
+      "answer": "Geleneksel ve psikolojik okumalarda işin noksan kalması, tamamlanmamış sorumlulukları, kaygıları, işsizlik korkusunu veya uyanık yaşamdaki bazı hedeflere ulaşma çabasındaki engelleri işaret edebilir."
     }
   ],
   "sources": [
     {
-      "title": "Work-Related Dreams: An Online Survey",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7573803/",
-      "relevance": "1.695 kişinin bildirimlerine dayanan araştırma; işle ilgili rüyalar ile günlük iş stresi ve duygular arasındaki ilişkileri inceler.",
-      "year": 2020
+      "title": "Dreams In Jungian Psychology: The use of Dreams as ... - PMC",
+      "relevance": "Jungcu rüya yorumunda sembollerin kişisel ve kültürel çağrışımlarla ele alınışını özetler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3216128/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüya yorumu, düş-işi ve sembolik temsil üzerine Freud’un temel metni; rüyalardaki öğelerin gizli düşünceleri nasıl dönüştürerek temsil ettiğini açıklar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part a",
+      "relevance": "Düş-işinin rüyayı nasıl kurduğunu ve yorumun manifest içerikten latent içeriğe geri gidiş olduğunu gösteren bölüm.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm"
+    },
+    {
+      "title": "16 Symbolism, the Primary Process, and Dreams: Freud's Contribution",
+      "relevance": "Freud’un sembolizm, birincil süreç ve rüya yapımı arasındaki ilişkiyi ele alan akademik değerlendirme; rüya öğelerinin sembolik işleve nasıl girebildiğini tartışır.",
+      "url": "https://academic.oup.com/edited-volume/28270/chapter/213427944"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Rüya oluşumunda özel bir sembol kurma yetisinden çok, bilinçdışında hazır bulunan sembolizasyonların kullanıldığını belirten pasaj.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "SE 15.pdf",
+      "relevance": "Rüyada sembolik öğe ile bilinçdışı düşünce arasındaki sabit ilişkiyi ve düş-işi ile yorum arasındaki yön farkını anlatan metin.",
+      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149-169.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Rüyanın temel yöneliminin istek doyumu olduğunu ve bunun sansür nedeniyle tanınmaz biçimde ortaya çıktığını özetleyen bölüm.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
+    },
+    {
+      "title": "Jung's Theory of Dreaming and the Findings of Empirical and ...",
+      "relevance": "Jung’un rüyayı bilinçdışının simgesel öz-sunumu olarak tanımlayan ifadesi, ‘İş’ imgesinin sabit sözlük anlamı yerine ruhsal duruma bağlı bir sembol olarak okunmasına zemin sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12517111/"
+    },
+    {
+      "title": "International Association of Analytical Psychology – IAAP",
+      "relevance": "Analitik psikolojinin sembol, bilinçdışı ve rüya yorumuna dair genel çerçevesini sunar; ‘İş’ imgesinin Jungcu bağlamda nasıl ele alınabileceğini destekler.",
+      "url": "https://iaap.org/jung-analytical-psychology/analytical-psychology/"
+    },
+    {
+      "title": "Symbol – International Association of Analytical Psychology ...",
+      "relevance": "Jung’un sembol ve fantazi anlayışını aktarır; rüya imgelerinin baskılanmış ya da bilinçdışı içeriklerin kendiliğinden ortaya çıkışı olarak değerlendirilmesi için yararlıdır.",
+      "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/symbol-2/"
+    },
+    {
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual",
+      "relevance": "Artemidorus’un rüya yorum kitabının yapısını ve antik rüya yorum geleneğindeki yerini gösterir; meslek, yaşam koşulları ve rüya yorumu ilişkisini anlamak için temel çerçeve sağlar.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?guestAccessKey="
+    },
+    {
+      "title": "The Interpretation of Dreams",
+      "relevance": "Artemidorus’un rüya yorumunda rüyayı görenin geçmişi, mesleği ve sosyal durumu gibi bağlamsal etkenlerin belirleyici olduğunu özetler.",
+      "url": "https://books.apple.com/it/book/the-interpretation-of-dreams/id1491907686?l=en-GB"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidorus’un Oneirocritica'sını antik rüya yorum geleneğinin kapsamlı bir örneği olarak tanıtır ve yorumun kişisel bağlama göre yapıldığını açıklar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Oneirocritica | work by Artemidorus | Britannica",
+      "relevance": "Oneirocritica'nın antik rüya yorumu içindeki yerini ve Artemidorus’un tarihsel önemini özetler.",
+      "url": "https://www.britannica.com/topic/Oneirocritica"
+    },
+    {
+      "title": "Artemidorus | Dream Interpreter, Oracle & Seer - Britannica",
+      "relevance": "Artemidorus’un rüya yorumcusu olarak tarihsel konumunu ve Oneirocritica'nın antik inanç dünyasına dair değerini verir.",
+      "url": "https://www.britannica.com/biography/Artemidorus-Ephesian-soothsayer"
+    },
+    {
+      "title": "Published with license by Koninklijke Brill NV | doi:10.1163/1568525X-12347333",
+      "relevance": "Artemidorus’un rüya sınıflandırmasında düşlerin kişinin içsel durumu ve gelecekle ilişkisi hakkında nasıl değerlendirildiğini açıklar.",
+      "url": "https://durham-repository.worktribe.com/OutputFile/3109639"
+    },
+    {
+      "title": "Oneirocritica - Wikipedia",
+      "relevance": "Oneirocritica'nın Artemidorus’a ait antik bir rüya yorumu eseri olduğunu ve Greko-Romen rüya yorum geleneğinde temel bir metin sayıldığını özetler.",
+      "url": "https://en.wikipedia.org/wiki/Oneirocritica"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri İ Harfi",
+      "relevance": "İş sembolüne doğrudan yer veren, Nablusî’ye atfedilen çevrim içi rüya tabiri maddesi; iş düşündüğünü görmek, işin noksan kalması ve memur kimseler için yorum içerir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-i2-harfi.html"
+    },
+    {
+      "title": "İslami rüya tabirleri -İ- harfi",
+      "relevance": "İş başlığı altında rüyada iş hayatında bulunma ve herhangi bir işte olma temasını işsizlik ve sabır ile ilişkilendiren İslami rüya tabiri maddesi.",
+      "url": "https://www.ihvanlar.net/islami-ruya-tabirleri-i-harfi/"
+    },
+    {
+      "title": "Rüyada İş, Meslek, Uğraş Görmek Ne Anlama Gelir? - Yeni Şafak",
+      "relevance": "İş, meslek ve uğraş başlığında rüyadaki iş temalarını iyi/kötü uğraş, durumun değişmesi ve işin tamamlanması gibi kavramlarla ilişkilendiren modern derleme.",
+      "url": "https://www.yenisafak.com/ruya-tabirleri/ruyada-is-meslek-ugras-gormek-ne-anlama-gelir"
+    },
+    {
+      "title": "The Biblical Meaning of Rain - Wisdom Of The Spirit",
+      "relevance": "İncil’de yağmurun bereket, sağlayış, yargı ve arınma sembolizmini özetleyen Hristiyan kaynak.",
+      "url": "https://wisdomofthespirit.com/the-biblical-meaning-of-rain/"
+    },
+    {
+      "title": "Professions & Career Dream Symbols | RTCLM",
+      "relevance": "Hristiyan rüya ayırt etmede meslek sembolünü bağlam, rol ve duygu üzerinden okumayı öğütleyen meslek sembolleri yazısı.",
+      "url": "https://revealingthechristianlife.org/dreams-visions-knowledge-center/biblical-dream-symbols-dictionary/dream-symbols-professions-careers/"
+    },
+    {
+      "title": "Berakhot.55b.1-56a.19 | The Sefaria Library",
+      "relevance": "Rüyaların yorumla ilişkisini ve rüya imgelerinin zihinsel içerikle bağlantısını gösteren rabbanî temel metin.",
+      "url": "https://www.sefaria.org/Berakhot.55b.1-56a.19?lang=en"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ...",
+      "relevance": "Babil Talmudu’nun Berakhot 55a–57b bölümünü Yahudi rüya geleneğinin ana kaynaklarından biri olarak konumlandırır.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y?error=cookies_not_supported&code=25242877-d1d7-429a-84c8-22398b65c6ab"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Berakhot içindeki sembolik rüya yorum örneklerini ve sabit eşleştirme mantığını gösterir.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot’un rüyalar ve anlamları üzerine yoğunlaşan bölümünü tanıtır.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Belirli rüya imgelerine verilen yorum örneklerini içerir; 'İş' için doğrudan eşleşme vermez.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Job Dreams: Work, Worth, and the Roles We Carry",
+      "relevance": "İş rüyasını ‘vokasyon’, ‘hizmet’, sorumluluk ve paye/maaş ötesi anlam arayışıyla ilişkilendiren modern spiritüel okuma.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/job"
+    },
+    {
+      "title": "Dreaming of Employment: Job Symbolism & Meaning",
+      "relevance": "Çalışma rüyalarını yaşam amacı, özdeğer ve kutsal rızık temalarıyla bağlayan modern spiritüel yorum.",
+      "url": "https://dict.dreamdecoder.me/symbol/dreaming-of-employment-job-symbolism-meaning"
+    },
+    {
+      "title": "Alchemy Dream Meaning & Interpretation - Mirror",
+      "relevance": "Simyasal rüya sembolizmi üzerinden dönüşüm, karşıtların birleşmesi ve deneyimin olgunlaşması temasını veren kaynak.",
+      "url": "https://mirrorwithin.org/dream-dictionary/alchemy/"
+    },
+    {
+      "title": "Work Dreams: Stress, Identity, and the Deeper Labor of the Soul",
+      "relevance": "İş ve çalışma rüyalarını çağrı, emek, özdeğer ve yaşam enerjisinin kullanımı üzerinden ele alan modern spiritüel yorum.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/work"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "İş rüyasını amaç, sorumluluk ve yaşam talepleriyle ilişkilendiren modern sembolik yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/job/"
+    },
+    {
+      "title": "Work Dream Meaning: Duty, Identity & Performance",
+      "relevance": "İş rüyasını görev, kimlik, performans ve üretkenlik ekseninde yorumlayan modern spiritüel içerik.",
+      "url": "https://dreamly.art/dreams/work"
     }
   ],
-  "relatedSlugs": [
-    "ise-girmek",
-    "isten-cikmak",
-    "is-arkadasi"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
   ]
 }

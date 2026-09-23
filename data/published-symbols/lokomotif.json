@@ -1,69 +1,206 @@
 {
   "slug": "lokomotif",
-  "title": "lokomotif",
-  "shortDescription": "Rüyada lokomotif, bir hareketi başlatma ve arkasındaki yükü taşıma deneyimini çağrıştırabilir. Aracın çalışması, hızı ve onu kimin yönettiği önemlidir.",
+  "title": "Lokomotif",
+  "shortDescription": "Rüyada lokomotif görmek, güçlü bir itkiyle hedefe ilerlemeyi ve başkalarına yön veren bir sorumluluk üstlenmeyi simgeleyebilir. Raylarda düzenle ilerlemesi planlı gidişi; arızalanması ya da raydan çıkması ise tıkanıklık, kontrol kaybı veya alışılmış düzenin bozulmasını çağrıştırır.",
   "positiveAssociations": [
-    "Bir hareketin başlaması",
-    "Güçlü bir aracı merakla izlemek",
-    "Bir işi birlikte yürütmek"
+    "Güçlü itici enerji ve başkalarını ilerleten liderlik rolü (lokomotifin çekme gücü)",
+    "Belirgin bir rota veya program izleyerek düzenli ilerleme (raylara bağlılık ve zamanlama)",
+    "Endüstriyel/modern başarı, beceriyle yönetilen teknik yeterlilik",
+    "Toplulukla birlikte koordineli hareket etme, ortak bir hattı sürdürme"
   ],
   "challengingAssociations": [
-    "Durduramama hissi",
-    "Aşırı gürültüden rahatsız olmak",
-    "Hareket etmeyi beklerken sıkışmak"
+    "Sabit bir güzergahta sıkışma hissi; yön değiştirmenin zorluğu (rayların sınırlılığı)",
+    "Zaman ve program baskısı, 'kaçırılan tren' kaygısı",
+    "Dürtüsel hızlanma veya fren yapılamaması korkusu; kontrolü yitirme endişesi",
+    "Makineleşmenin yarattığı yalnızlık ve yorgunluk; mekanik süreçlere yabancılaşma"
   ],
   "contextDependentAssociations": [
-    "Aracın çalışıyor veya duruyor olması",
-    "Kumanda kabininde veya dışarıda bulunmak",
-    "Bağlı vagonlar ve hareket yönü"
+    "Lokomotifin motor gücü, sürücüsü veya makine arızası olup olmaması",
+    "Araç raylarda mı ilerliyor yoksa raydan mı çıkmış?",
+    "Kişinin rüyada lokomotifi yöneten, vagonlara binen yolcu veya dışarıdan izleyen konumunda olması",
+    "Rüyanın duygusal tonu: gürültü, duman, hız veya durgunluk hisleri"
   ],
   "commonVariations": [
     {
-      "title": "Lokomotifin çalışmaya başlaması",
-      "description": "İlk hareketi bekliyor muydunuz, yoksa ses sizi hazırlıksız mı yakaladı? Sahnenin odağı yolculuktan önceki hazırlık, merak veya gürültü olabilir."
+      "title": "Hızlı ve Raylarda İlerleyen Lokomotif",
+      "description": "Motor gücünün verimli çalıştığını, plana bağlı zamanlamayla hedefe doğru kararlı çekişi ve teknik/organizasyonel yeterliliği gösterir."
     },
     {
-      "title": "Lokomotifi kullanmak",
-      "description": "Kumandaları tanıyor muydunuz ve yanınızda biri var mıydı? Aracı yönetmekten duyulan memnuniyet ile ne yapacağını bilememe hissi farklı çağrışımlar taşır."
+      "title": "Arızalı, Dumanlı veya Durmuş Lokomotif",
+      "description": "Teknik veya sistemi etkileyen tıkanıklıklar, enerjinin tükenmesi, program dışı duruşlar ve ilerlemede engellerin varlığına işaret eder."
     },
     {
-      "title": "Lokomotifin vagonlardan ayrılması",
-      "description": "Ayrılma planlı bir işlem gibi mi görünüyordu, yoksa beklenmedik miydi? Rüyada görülen bağlantı değişimini gerçek bir ilişkinin kopacağına dair haber saymayın."
+      "title": "Raydan Çıkmış Lokomotif",
+      "description": "Alışılmış rotanın bozulması, kontrol kaybı veya planlanan hattın dışına sürüklenme korkusunu simgeler; hem kişisel hem toplu düzeyde sonuçları olabilir."
     },
     {
-      "title": "Bir müzede eski lokomotifi incelemek",
-      "description": "Burada hareketten çok hatıra, tasarım veya geçmişe merak öne çıkabilir. Rüyada araca dokunmak, fotoğraf çekmek veya birinden hikâyesini dinlemek farklı ayrıntılardır."
+      "title": "Sürücü Olarak Lokomotife Kumanda Etme",
+      "description": "Kişinin güçlü bir idare/liderlik rolünü üstlenme, teknik kontrol veya başkalarının yönünü belirleme kapasitesi ile ilgilidir."
+    },
+    {
+      "title": "Dışarıdan Lokomotifi İzleme",
+      "description": "Toplumsal akışa tanıklık etme, başkalarının kararlarını takip etme veya kendi yönünü beklemede olma hissini yansıtır."
     }
   ],
-  "psychology": "Domhoff, lokomotifleri sıkça rüyasında gören ve “Engine Man” diye anılan bir kişinin 1939 yazındaki rüya dizisini tartışır. En az 50 sözcük içeren 187 raporun ilk ve ikinci yarısında içerik ölçülerinin benzer kaldığını aktarır. Bu örnek aynı kişinin rüya içeriğindeki süreklilikle ilgilidir; lokomotifin herkeste psikolojik enerji veya ruhsal ilerleme anlamına geldiğini göstermez.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Aracı görmek, kullanmak ve onun hareketini beklemek ayrı eylemlerdir.",
-  "differences": "Bir rüya dizisindeki tekrar, tekrarlanan nesnenin bütün insanlar için tek bir anlamı olduğunu göstermez.",
-  "inusAssessment": "Lokomotif, trenin tümüyle aynı nesne değildir; rüyada çekiş sağlayan araç, kabin, makine sesi veya bağlı vagonlar öne çıkabilir. INUS, bunları hız, sorumluluk ve birlikte hareket etme üzerine kişisel düşünme önerileri olarak ele alır. Aracı kullanmak yaşamın tümünü kontrol ettiğinizi; durması ruhsal gelişimin kesildiğini göstermez. Rüyanızdaki görünümü tanıdık bir yolculuk, iş veya çocukluk anısıyla ilişkilendirip ilişkilendirmediğinizi düşünebilirsiniz.",
-  "faq": [
+  "psychology": "Modern Bağlam ve Kültürel Tarih: Psikoloji literatüründe 'lokomotif' sembolünü doğrudan inceleyen ampirik çalışma bulunmamaktadır. Mevcut bulgular daha çok demiryolu ve tren imgelerinin kültürel tarih, sanayileşme, zamanın standartlaşması ve modernitenin simgeleri olarak ele alındığını gösterir; bu nedenle bu kapsamda yapılan tartışmalar sosyokültürel ve tarihsel perspektiften sunulmalıdır.",
+  "jungian": "Lokomotifin raylara bağımlılığı, bireysel irade ile toplumsal rota arasındaki gerilimi gösterir. Makine imgesi ise modern benliğin dışavurumunu çağrıştırabilir.",
+  "islamicTradition": "Doğrudan klasik İslami rüya tabirlerinde 'lokomotif' için doğrulanmış bir giriş bulunmamaktadır. Modern Türkçe tabirlerde lokomotif genellikle ilerleme ve başkalarına yardım etme gibi anlamlarla ilişkilendirilir; bu tür modern okumalar klasik kaynaklarla doğrudan doğrulanmadığı için temkinli, çağdaş bir sentez olarak sunulmalıdır.",
+  "christianTraditions": "Hristiyan yazınındaki modern yorumlarda tren rayları 'dar ve doğru yol' temasını çağrıştırabilir; lokomotif bu bağlamda, inançla yürüyüşte ilerleten itici güç olarak mecazi şekilde okunur. Bu tür bağlantılar modern yorumlara dayanır ve geleneksel doktrinlerle doğrudan eşdeğer sayılmamalıdır.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyanın yorumu yorumlayıcının rolüyle şekillenir; 'tren' sözcük ailesinin Kutsal Metinlerde farklı anlamları olduğu not edilir. Lokomotif için klasik bir geleneksel kayıt yoktur; modern yorumlarda toplu hareket, hazırlık veya tarihsel hafıza çağrışımları üzerine kontrollü bir sentez mümkündür.",
+  "buddhistEasternApproaches": "Budist yaklaşıma göre rüyalar geçiş hallerini yansıtır; lokomotif buradan hareketle süreç, geçiş ve bağımlı oluş temalarıyla ilişkilendirilebilir. Yorum, rüyanın bağlamına ve zihinsel tona bağlı kalmalıdır.",
+  "spiritualApproaches": "Spiritüel ve ezoterik okumalarda lokomotif, yaşam yolculuğunu ileriye taşıyan güçlü bir itki, hedefe yönelim ve ritmik ilerleme metaforu olarak ele alınır. Bu okumalarda makine imgeleri aynı zamanda dönüşümün teknik/stratejik yönlerini simgeleyebilir.",
+  "comparisonTable": [
     {
-      "question": "Lokomotif ile tren aynı şekilde mi ele alınır?",
-      "answer": "Her zaman değil. Lokomotifte makinenin çalışması ve kumandası; trenin bütününde yolcular, vagonlar ve yolculuk öne çıkabilir. Rüyada gerçekten gördüğünüz ayrıntıya bakabilirsiniz."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Tren/lokomotif imgeleri dürtüsel enerji, cinsel-topografik metaforlar ve kaçırma/özlem motifleri üzerinden teorik olarak okunabilir.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Hızlanan lokomotif hayatımın kontrolden çıktığını kanıtlar mı?",
-      "answer": "Hayır. Rüyada hızdan korkmanız, gerçek hayatınız hakkında böyle bir hüküm vermeye yetmez. Korkunun yanında heyecan, merak veya rahatlık olup olmadığını da düşünün."
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Raylara bağlılık ve toplu rota üzerinden bireyleşme ile kolektif normlar arasındaki gerilime işaret eden sembolik bir okuma sunar.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Geleneksel Okuma",
+      "interpretation": "Ray ve hat metaforunu 'doğru yol' temasıyla ilişkilendirir; lokomotif ise ilerleten güç olarak mecazi kullanım taşır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel/Ezoterik Okuma",
+      "interpretation": "Lokomotifi içsel itki, inisiyasyon ve hedefe yönelme bağlamında ruhsal ilerleme simgesi olarak değerlendirir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli yaklaşımlar lokomotifte ortak olarak hareket, sabit bir güzergâha bağlılık (raylar), makine gücü/çekiş ve modern/toplumsal bir yönelme temalarını görür; fark, hangi unsurların (güç, kısıtlama, kolektiflik) öne çıkarıldığıdır.",
+  "differences": "Psikanaliz içsel dürtülere ve sembolün topografik okumalarına vurgu yaparken, tarihsel/kültürel okumalar lokomotifi modernitenin ve teknolojinin somut metaforu olarak değerlendirir. Jungcu ve spiritüel yaklaşımlar kolektif rota ile bireysel yön arayışını farklı ağırlıklarla vurgular.",
+  "inusAssessment": "Lokomotif rüyası, rüya içindeki somut detaylarla (motorun durumu, rayda/raydan çıkmış olma, sürücü rolü, vagonların varlığı) birlikte değerlendirilmelidir. 'INUS' kısaltması, gerekli ama tek başına yeterli olmayan ve başka unsurlarla birlikte bir sonucu doğuran koşul anlamına gelir. Lokomotif tek başına bir sonucu sağlamaya yeterli olmayabilir ama gerekli bir bileşen olabilir; bu nedenle yorum, bu öğelerin birlikte bulunduğu özgül rüya bağlamına dayanmalıdır. Lokomotifin teknik ayrıntıları ve rüyanın duygusal tonu, hangi etki kümesinin (güç, kısıtlama, kolektif sorumluluk) baskın olduğunu gösterecektir.",
+  "faq": [
+    {
+      "question": "Rüyada lokomotif görmek ne anlama gelir?",
+      "answer": "Tek bir anlam yoktur; lokomotifin makina ve ray özellikleri yorumda belirleyicidir. Motor güçlü ve çalışır haldeyse kontrol, liderlik veya düzenli ilerleme çağrışımı kuvvetlidir. Eğer araç arızalı, durgun veya raydan çıkmışsa bu, planlanan hattın bozulması, kontrol kaybı veya sistemsel tıkanıklıkların imgelenmesi olabilir. Rüyada kendiniz sürücüyseniz sorumluluk ve yön belirleme; yolcuysanız akışa tabi olma temaları daha ön planda olur."
+    },
+    {
+      "question": "Lokomotifin raydan çıkması rüyası nasıl yorumlanır?",
+      "answer": "Raydan çıkma, alışılmış rotanın bozulması ve beklenmedik değişimler konusunda uyarıcı bir imge olabilir; aynı zamanda, rayların sınırlayıcılığından kurtulma ya da kontrolü kaybetme korkusunu temsil edebilir. Rüyanın ayrıntıları—hız, yolcu sayısı, hasar düzeyi—yorumun yönünü belirler."
     }
   ],
   "sources": [
     {
-      "title": "Drawing Theoretical Implications from Descriptive Empirical Findings on Dream Content",
-      "url": "https://dreams.ucsc.edu/Articles/domhoff_1999b.html",
-      "relevance": "Rüya içeriğinde süreklilik tartışmasındaki Engine Man örneği incelendi. Tek kişinin rüya dizisine dair bulgular lokomotif için evrensel sembolik anlam vermez.",
-      "author": "G. William Domhoff",
-      "year": 1999
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramı rüyaların bastırılmış isteklerle ilişkisini tartışır; tren/demiryolu imgeleri için freudyen çerçeve sağlayabilir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "[PDF] Railways of Desire: Prus – Freud – Grabiński. - RCIN.org.pl",
+      "relevance": "Freudyen psikanalizde demiryolu ve tren imgelerinin cinsel-topografik ilişkilere dair tartışmalarını sunar; lokomotif okumaları için teorik destek sağlar.",
+      "url": "https://rcin.org.pl/Content/67713/WA248_87930_P-I-2524_kalisciak-railways_o.pdf"
+    },
+    {
+      "title": "Laura Marcus and the train to Freud",
+      "relevance": "Tren imgelerinin modern özne deneyimi ve freudyen kuramsal bağlantılarını inceleyen akademik çalışma; lokomotifin modernlik bağlamında okunmasına zemin verir.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/0950236X.2024.2323295"
+    },
+    {
+      "title": "Train",
+      "relevance": "Tren sembolünü sabit rota, yön ve kaçırılan tren gibi motifler üzerinden ele alan metin; lokomotifin hareket ve yön duygusuyla ilişkisini düşünmek için kullanışlıdır.",
+      "url": "https://rosmertapublishing.com/dream-symbols/train/"
+    },
+    {
+      "title": "Dream About a Train: Meaning & Interpretation | Revalite",
+      "relevance": "Jungcu perspektiften tren rüyalarının bireyleşme ve kolektif normlarla ilişkisini tartışan popüler bir açıklama sunar.",
+      "url": "https://my.astrofame.com/dream-interpretation/dream/train/"
+    },
+    {
+      "title": "Train Symbolism: 7 Powerful Meanings of Progress & Destiny",
+      "relevance": "Modern kültürde tren ve lokomotifin ilerleme, geçiş ve sanayileşme ile ilişkisinin popüler özetini verir.",
+      "url": "https://symbolora.com/train-symbolism/"
+    },
+    {
+      "title": "[PDF] A World History of Railway Cultures, 1830–1930",
+      "relevance": "Demiryolunun tarihsel ve kültürel bağlamını, lokomotifin modernlik simgesi oluşunu gösteren tarihsel çalışma.",
+      "url": "https://api.pageplace.de/preview/DT0400.9781351211833_A40580010/preview-9781351211833_A40580010.pdf"
+    },
+    {
+      "title": "Pictures to Go: Viewing Trains as Metaphors",
+      "relevance": "Tren imgesinin Amerikan görsel kültüründe ilerleme, bağlantı, güç ve eleştirel anlamlar kazanmasını gösterir.",
+      "url": "https://blogs.loc.gov/picturethis/2015/09/pictures-to-go-viewing-trains-as-metaphors/"
+    },
+    {
+      "title": "Rail Lore by Archie Green",
+      "relevance": "Tren folklorundaki çoklu anlam katmanlarını ve demiryolu imgesinin kültürel çağrışımlarını ele alır.",
+      "url": "https://folklife-media.si.edu/docs/festival/program-book-articles/FESTBK1975_05.pdf"
+    },
+    {
+      "title": "Closely Watched Trains | Leo Marx",
+      "relevance": "Trenin modern makine uygarlığının yoğun bir metaforu olarak nasıl işlendiğini tartışır.",
+      "url": "https://www.nybooks.com/articles/1984/03/15/closely-watched-trains/"
+    },
+    {
+      "title": "İslami rüya tabirleri -L- harfi",
+      "relevance": "Modern Türkçe rüya tabirlerinde lokomotifin ilerleme ve başkalarına yardım etme şeklinde yorumlandığına dair bir örnek kayıt.",
+      "url": "https://ehlisunnetmedya.com/2015/03/islami-ruya-tabirleri-l-harfi/"
+    },
+    {
+      "title": "RÜYALAR ve İSTİKAMET",
+      "relevance": "Tren rüyasının tarihî tabirname geleneğiyle ilişkilendirilebileceğine dair akademik değerlendirme; lokomotif için doğrudan klasik kanıt sağlamaz ama modern-sentez için işaret verir.",
+      "url": "https://www.ekrembugraekinci.com/article/?ID=1442&r%C3%BCyalar-ve-istikamet"
+    },
+    {
+      "title": "Train Track Dream Meaning & Interpretation - Mirror",
+      "relevance": "Tren raylarını Hristiyan yazınında ‘dar ve doğru yol’ imgesiyle ilişkilendiriyor; lokomotifin bu yol üzerinde ilerleten güç olarak okunmasına bağlam sunuyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/train-track/"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Yahudi geleneğinde rüyaların nasıl yorumlandığını ve yorumun belirleyici rolünü açıklar.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Berakhot 57 - Hadran",
+      "relevance": "Berakhot 57 bağlamında rüyada görülen şeylerin yorumlanmasına ilişkin Talmudik çerçeveyi özetler.",
+      "url": "https://hadran.org.il/daf/berakhot-57/"
+    },
+    {
+      "title": "Train - International Standard Bible Encyclopedia Online",
+      "relevance": "'Train' sözcüğünün Yahudi-Kutsal Kitap bağlamındaki farklı anlam alanlarını gösterir; lokomotif için doğrudan değil, kavramsal arka plan sağlar.",
+      "url": "https://www.internationalstandardbible.com/T/train.html"
+    },
+    {
+      "title": "Train - Encyclopedia of The Bible",
+      "relevance": "'Train' kelimesinin 'eğitmek' ve 'hazırlamak' anlamlarını ile Yeşaya 6:1’deki 'train' kullanımını birlikte sunar; modern lokomotif sembolüyle birebir aynı değildir.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Train"
+    },
+    {
+      "title": "CLJ663_04Stahl_Fpp.indd",
+      "relevance": "Trenin Yahudi hikâyelerinde zaman, mekân, modernlik ve tarihsel hafıza ile ilişkisini tartışır.",
+      "url": "https://agnonhouse.org.il/wp-content/uploads/2020/08/Conceptions_of_Time_and_History_in_Mode.pdf"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams",
+      "relevance": "Budist rüya anlayışında rüyaların geçiş hallerini ve süreç temalarını özetler; lokomotifin geçiş-imgesi olarak okunmasına arka plan sağlar.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Locomotive Dream Meaning & Interpretation",
+      "relevance": "Lokomotifin rüyalarda yaşam yolculuğu, hedefe doğru itici güç ve sabit bir rota hissiyle ilişkilendirilmesini açıklar; ayrıca spiritüel ve Jungçu okumaları da birlikte sunar.",
+      "url": "https://mirrorwithin.com/dream-dictionary/locomotive/"
+    },
+    {
+      "title": "Traumdeutung Lokomotive",
+      "relevance": "Lokomotifi şamanik ve spiritüel rüya yorumunda itici güç, yaşam yolculuğu, yön ve dönüşüm temalarıyla ilişkilendirir.",
+      "url": "https://energetic-root-medicine.net/traumdeuter/l/lokomotive/"
+    },
+    {
+      "title": "What Does it Mean When You Dream About Trains? - Centre of Excellence",
+      "relevance": "Tren sembolünü spiritüel yolculuk, kişisel gelişim ve yaşamın aşamalarından geçiş olarak çerçeveler; lokomotif benzeri itici unsurun spiritüel anlamını destekler.",
+      "url": "https://www.centreofexcellence.com/dreaming-about-trains/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "islamic",
+    "christian",
+    "buddhist-eastern"
+  ]
 }

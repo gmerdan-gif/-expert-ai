@@ -1,0 +1,229 @@
+{
+  "slug": "dondurma",
+  "title": "Dondurma",
+  "shortDescription": "Rüyada dondurma görmek, keyif, rahatlama, küçük ödüller ve oyun isteğiyle ilişkilendirilir. Dondurmanın erimesi geçici mutlulukları ya da kaçabilecek fırsatları, paylaşılması ise dostluk ve ortak sevinci çağrıştırır.",
+  "positiveAssociations": [
+    "Haz ve keyif",
+    "İçsel çocuk ve oyun",
+    "Günlük küçük lütuflar",
+    "Ferahlama ve rahatlama",
+    "Tatlı paylaşım ve dostluk",
+    "Gönül ferahlığı"
+  ],
+  "challengingAssociations": [
+    "Geçici mutluluklar",
+    "Erişilmesi zor veya hızla tükenen lüksler",
+    "Kaçan fırsatlar",
+    "Beklentilerin hızla erimesi",
+    "Meşakkatli süreçler"
+  ],
+  "contextDependentAssociations": [
+    "Dondurmanın erime hızı ve durumu",
+    "Rüya sahibinin tatlıyı tek başına mı yoksa başkalarıyla mı tükettiği",
+    "Uyanık yaşamdaki ödül ve dinlenme ihtiyacı",
+    "Ertesi gün taşınan duygulanım tonu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Sıcak bir günde eriyen dondurma yemek",
+      "description": "Anlık rahatlama ve serinleme isteğini; aynı zamanda bu keyfin elinizin arasından hızla kayıp gitmesinin verdiği geçicilik duygusunu yansıtır."
+    },
+    {
+      "title": "Çocuklara külahla dondurma ısmarlamak",
+      "description": "Geçmişin saf sevinçleriyle, içsel çocukla barışma ihtiyacıyla ve sevdiklerle neşeyi paylaşma arzusuyla ilişkilendirilir."
+    },
+    {
+      "title": "Erimesi zor olan dondurmayı meşakkatle elde etmek",
+      "description": "Günlük yaşamda uzun süren çabalar sonucunda ulaşılan kazanımları ve sabırla örülen dostlukları simgeler."
+    },
+    {
+      "title": "Yalnız başına büyük bir kap dondurma yemek",
+      "description": "Kişinin günlük streslerden uzaklaşarak kendine şefkat gösterme, bireysel bir ödül verme ve kendi başına dinlenme ihtiyacını gösterir."
+    }
+  ],
+  "psychology": "Duygu tonu yüksek rüya deneyimlerinin ertesi günkü ruh halini etkilediği bilinmektedir; rüyalarda beliren neşe veya haz unsurları, uyanıklık anındaki duygulanımlarla doğrudan örtüşmese de bireyin o anki içsel rahatlama ihtiyacına işaret edebilir.",
+  "jungian": "Jungcu ve analitik psikoloji çerçevesinde dondurma, katı günlük sorumluluklar arasında yumuşama, içsel çocuğu besleme ve anlık keyiflerin akışkan doğasını kucaklama ihtiyacını temsil eden bir imge olarak ele alınır.",
+  "islamicTradition": "Geleneksel aktarımlarda ve bazı modern tabir kaynaklarında dondurma yemek meşakkatle kazanılan mala, dondurma yapmak yeni bir işe girişe, dondurma almak ise sevdiklerle paylaşılan sevinçli haberlere işaret eder.",
+  "christianTraditions": "Hristiyanlıkta doğrudan bir rüya anahtarı bulunmamakla birlikte, tatlılık ve yiyecek temaları üzerinden Tanrı’nın lütufkâr armağanları, sevinç ve yaşamın küçük bereketleri bağlamında değerlendirilebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyaların anlamının sabit olmadığı, yorumun bizzat rüyanın etkisini şekillendirebileceği ilkesi benimsenmiştir; bu bağlamda işlenmiş tatlı gıdalar doğrudan klasik bir metne dayanmasa da rüya sahibinin yapacağı olumlu yorumlarla anlam kazanabilir.",
+  "buddhistEasternApproaches": "Doğu ve Budist geleneklerinde dondurma sembolüne özel klasik bir rüya metni bulunmamakla birlikte, dünya zevklerinin geçiciliği ve anlık tatminlerin doğası üzerine genel bir farkındalık çerçevesinde düşünülebilir.",
+  "spiritualApproaches": "Modern spiritüel yaklaşımlarda dondurma; günlük hayatın koşturmacası içinde küçük lütuflara odaklanma, kendine şefkat gösterme ve dünyevi zevklerin ne denli geçici olduğunu hatırlama aracı olarak yorumlanır.",
+  "comparisonTable": [
+    {
+      "approach": "Psikolojik Araştırma",
+      "interpretation": "Rüya duygulanımının ertesi günkü ruh haliyle ilişkisini ve bireyin uyanık yaşamdaki dinlenme ve haz ihtiyacını inceler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Dilek doyumu, çocukluk arzuları ve bilinçdışı ödüllendirme mekanizmaları üzerinden okuma yapar.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "İçsel çocuk, oyun, rahatlama ve deneyimin kalıcılık yerine akışkanlık taşıması ekseninde ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel Aktarımlar",
+      "interpretation": "Meşakkatle kazanılan mal, yeni iş teşebbüsleri, dostluk ve sevinçli paylaşımlarla ilişkilendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Küçük lütuflar, öz-şefkat, anlık tatminler ve geçici mutlulukların farkındalığı olarak yorumlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve yaklaşımlar, dondurmanın geçici tatlılık, haz, rahatlama ve anlık deneyim ekseninde ortak bir sembolik zemin sunduğunu kabul eder.",
+  "differences": "Psikanaliz ve psikoloji rüyayı içsel süreçlerin ve duygulanımın bir yansıması olarak incelerken; geleneksel aktarımlar bunu somut yaşam olaylarına, mal kazanımına veya sosyal ilişkilere bağlama eğilimindedir.",
+  "inusAssessment": "Bu rüyayı yorumlarken dondurmanın eriyip erimediği, tadının alınıp alınmadığı ve rüya sahibinin uyanık yaşamındaki ödül veya mola ihtiyacı kritik ayrım noktalarıdır.",
+  "faq": [
+    {
+      "question": "Rüyada dondurmanın eridiğini görmek ne anlama gelir?",
+      "answer": "Erime unsuru genellikle anlık bir fırsatın kaçması, beklenen bir keyfin kısa sürmesi veya geçici mutlulukların akıp gitmesiyle ilgili spiritüel ve psikolojik temaları çağrıştırır."
+    },
+    {
+      "question": "Rüyada başkasıyla dondurma yemek neyi simgeler?",
+      "answer": "Geleneksel aktarımlarda dostluk, arkadaşlık ve sevinçli paylaşımlarla ilişkilendirilirken; psikolojik olarak sosyal bağları güçlendirme ve ortak keyif alanları yaratma isteğini gösterir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Study reveals how dreams affect emotions in day-to-day life - KU News",
+      "relevance": "Rüyalardaki korku ve neşe gibi duyguların ertesi günkü ruh haliyle ilişkisini bildirir.",
+      "url": "https://news.ku.edu/news/article/study-reveals-how-dreams-affect-emotions-in-day-to-day-life"
+    },
+    {
+      "title": "Relationships between Dream and Previous Wake Emotions ...",
+      "relevance": "Rüya duygulanımının uyanıklık duygulanımıyla ilişkisini ve olumlu/olumsuz duygu örüntülerini ele alır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601812/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramının temel metni; rüyaların dilek doyumu, gizli içerik ve görünen içerik ayrımları açısından dondurma imgesinin psikanalitik çerçevesini sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Wish Fulfilment - The Interpretation of Dreams",
+      "relevance": "Freud’un rüyayı dilek doyumu olarak ele alan temel görüşünü özetler ve çocukluk döneminde bir isteğin rüyada doğrudan tatmini örneğini aktarır.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/wish-fulfilment/"
+    },
+    {
+      "title": "Ice Cream Dream Meaning & Psychological Interpretation",
+      "relevance": "Dondurma rüyasını Jungcu teoriyle ilişkilendirerek sembolü psikolojik bir ‘ödül’ ve yatıştırma imgesi olarak ele alır.",
+      "url": "https://psyculator.com/blog/ice-cream-dream-meaning-dream-dictionary-eating-ice-cream/"
+    },
+    {
+      "title": "Chasing Ice Cream Dreams: Unraveling the Symbolism in Your Dreams | Spirituality Shepherd",
+      "relevance": "Dondurma rüyasını Jungcu çerçevede duygusal beslenme, keyif ve geçicilik temalarıyla açıklar.",
+      "url": "https://spiritualityshepherd.com/dream-of-ice-cream/"
+    },
+    {
+      "title": "What Does Dreaming About Ice Cream Mean? - Rüya Tabirleri",
+      "relevance": "Dondurma rüyasını Jungcu okumada içsel çocuk, oyun ve geçici haz temalarıyla ilişkilendirir.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-ice-cream"
+    },
+    {
+      "title": "Man and His Symbols: Understanding Jung's Dream Interpretation",
+      "relevance": "Jungcu yorumda sembollerle kişisel çağrışım kurma ve rüya günlüğüyle örüntü izleme yaklaşımını anlatır; eriyen dondurma örneği üzerinden geçicilik çağrışımı yapar.",
+      "url": "https://dreamologylab.com/knowledge/jungian-psychology/jung-man-and-his-symbols-guide"
+    },
+    {
+      "title": "[PDF] Ice Cream A Global History",
+      "relevance": "Dondurmanın dünya tarihindeki gelişimini, lüks ve haz çağrışımlarını ve kültürel temsilini özetler.",
+      "url": "https://archive.stmarys-ca.edu/archive-ga-23-1k-2-71/ice-cream-a-global-history.pdf"
+    },
+    {
+      "title": "The History of Ice Cream | From Milk Ice to Magnums",
+      "relevance": "Dondurmanın eski soğutulmuş tatlı geleneklerinden modern biçime uzanan tarihsel gelişimini anlatır.",
+      "url": "https://www.foodunfolded.com/article/the-history-of-ice-cream-from-milk-ice-to-magnums"
+    },
+    {
+      "title": "From Palace to Parlor, the Surprising History of Ice Cream",
+      "relevance": "Dondurmanın tarih boyunca elit tüketimden yaygın tüketimine geçişini ve statü işlevini işler.",
+      "url": "https://humanprogress.org/from-palace-to-parlour-the-story-of-ice-cream-is-the-story-of-capitalism/"
+    },
+    {
+      "title": "The scoop on ice cream",
+      "relevance": "Dondurmanın kökenine ilişkin tarihsel anlatıları ve eski soğutulmuş karışımları özetler.",
+      "url": "https://www.asbmb.org/asbmb-today/science/071821/the-scoop-on-ice-cream"
+    },
+    {
+      "title": "Rüyada dondurma görmek ne anlama gelir? Rüyada dondurma almak ve yemek tabiri",
+      "relevance": "Dondurma sembolünün rüya bağlamında uzak yolculuk ve tartışma ile ilişkilendirildiği modern aktarım.",
+      "url": "https://www.hurriyet.com.tr/mahmure/ruya-tabirleri/ruyada-dondurma-gormek-ne-anlama-gelir-ruyada-dondurma-almak-ve-yemek-tabiri-41460920"
+    },
+    {
+      "title": "Rüyada Dondurma Görmek Ne Demek? Külahta Beyaz Meyveli Dondurma Görmek",
+      "relevance": "Dondurma sembolünün uzun bağlılık, uzun dostluk, meşakkatle kazanılan mal ve yeni işe giriş temalarıyla aktarıldığı kaynak.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-dondurma-gormek-ne-anlama-gelir-26092"
+    },
+    {
+      "title": "Rüyada Dondurma Almak Nedir? Bir Çocuğa Külahta Dondurma Ismarlamak",
+      "relevance": "Dondurma almayı güzel haber, sevdiklerle paylaşım ve yakın dönem sevincini anlatan bir rüya aktarımı.",
+      "url": "https://www.milliyet.com.tr/pembenar/ruya-tabirleri/ruyada-dondurma-almak-ne-anlama-gelir-6360860"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri D Harfi",
+      "relevance": "Dondurma için meşakkatle kazanılan mal ve yeni işe giriş temalarını aktaran sayfa.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-d-harfi.html"
+    },
+    {
+      "title": "Rüyada Dondurma Görmek Ne Anlama Gelir? - Yeni Şafak",
+      "relevance": "Dondurma sembolünü dostluk ve arkadaşlık temasıyla ilişkilendiren kısa kayıt.",
+      "url": "https://www.yenisafak.com/ruya-tabirleri/ruyada-dondurma-gormek-ne-anlama-gelir"
+    },
+    {
+      "title": "The Divine Significance of Ice Cream: Unveiling the Biblical Meaning - John Baptist Church",
+      "relevance": "Dondurmayı Tanrı’nın iyiliği, sevinç ve bereket temalarıyla ilişkilendiren güncel bir Hristiyan yorum metni.",
+      "url": "https://johnbaptistchurch.org/biblical-meaning-objects/ice-cream"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Rüyanın yorumla anlam kazanması ve yorumlanmamış rüyanın etkisiz sayılabilmesi fikrini aktarır.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Budist/Hindu/Doğu geleneklerinde dondurma ile ilgili doğrudan klasik bir rüya yorumu izine rastlanmadığını gösterir.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "WebAstrologers Dream Dictionary | Ice Cream | Kulfi Dreams",
+      "relevance": "Budist, Hindu ve diğer Doğu geleneklerinde dondurma ile ilgili doğrudan klasik bir rüya yorumu bulunmadığını belirtir.",
+      "url": "https://www.webastrologers.com/dreams-meaning/ice-cream/kulfi/"
+    },
+    {
+      "title": "13 Spiriual Meanings When You Dream About Ice Cream",
+      "relevance": "Rüyada dondurmayı keyif, rahatlık, yeni fırsatlar ve yaşamdan zevk alma isteğiyle ilişkilendiren modern bir spiritüel yorum sunuyor.",
+      "url": "https://www.dreamspiritual.org/dream-about-ice-cream/"
+    },
+    {
+      "title": "Ice Cream in Dreams: Pleasure, Comfort, and the Sweetness ...",
+      "relevance": "Dondurmayı ruhsal açıdan küçük hazlar, günlük lütuflar, yumuşaklık ve erimenin geçicilik duygusuyla açıklayan bir spiritüel yorum veriyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/ice-cream"
+    },
+    {
+      "title": "Ice Cream Dream Meaning - Interpret Your Dream!",
+      "relevance": "Rüyada dondurmayı sevincin, tatminin ve dünya zevklerinin geçiciliğinin sembolü olarak ele alan modern bir spiritüel çerçeve sunuyor.",
+      "url": "https://mirrorwithin.com/dream-dictionary/ice-cream/"
+    },
+    {
+      "title": "25+ Dreaming of Ice Cream Meanings and Interpretations - BeHappyHuman",
+      "relevance": "Dondurma rüyasını haz, duygusal rahatlama ve geçici mutluluk duyguları üzerinden açıklayan modern spiritüel yorumlar içeriyor.",
+      "url": "https://behappyhuman.com/dreaming-of-ice-cream-meanings/"
+    },
+    {
+      "title": "12 Interpretations of Ice Cream Dreams and Their Symbolism",
+      "relevance": "Dondurmayı zevk, memnuniyet, sıcak duyguların yatışması ve tatlılıkla ilişkilendiren modern spiritüel okumalar içeriyor.",
+      "url": "https://insightfulspiritual.com/dream-of-ice-cream/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "christian",
+    "buddhist-eastern"
+  ]
+}

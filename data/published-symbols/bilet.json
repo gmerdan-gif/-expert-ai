@@ -1,69 +1,196 @@
 {
   "slug": "bilet",
-  "title": "bilet",
-  "shortDescription": "Rüyada bilet, bir yolculuğa veya etkinliğe katılma imkânını gündeme getirebilir. Biletin geçerliliği, nereye ait olduğu ve onu kaybedip kaybetmediğiniz önemlidir.",
+  "title": "Bilet",
+  "shortDescription": "Rüyada bilet görmek; erişim, geçiş, yolculuk ve yeni bir aşamaya hazır olma temalarını çağrıştırır. Biletin geçerli, kayıp ya da süresi geçmiş olması ise fırsatı değerlendirme, hazırlıksızlık veya gecikme kaygısıyla ilişkilendirilebilir.",
   "positiveAssociations": [
-    "Beklediği etkinliğe katılabilmek",
-    "Bir yolculuğun hazırlığını tamamlamak",
-    "Bir daveti paylaşmak"
+    "Yolculuk ve sefer",
+    "Ümit ve beklenti",
+    "Sükun ve selamet",
+    "Erişim ve kabul edilme",
+    "Davet ve çağrı",
+    "Eşik geçişi",
+    "Hazırlık ve uygun zaman",
+    "Lütufla verilen giriş",
+    "Yeni aşamaya giriş",
+    "Fırsat ve hazır oluş"
   ],
   "challengingAssociations": [
-    "Girişte geri çevrilmek",
-    "Bileti bulamamak",
-    "Yanlış tarih veya yer için hazırlanmak"
+    "Hazırlıksızlık",
+    "Yön belirsizliği",
+    "Fırsatı kaçırma kaygısı",
+    "Gecikmiş buluşma",
+    "Bedel ödeme stresi",
+    "Kayıp veya geçersizlik hissi"
   ],
   "contextDependentAssociations": [
-    "Biletin yolculuk veya etkinlik için olması",
-    "Bilette yazan yer ve zaman",
-    "Satın almak, saklamak veya kontrol ettirmek"
+    "Biletin türü ve ne için olduğu",
+    "Biletin geçerli olup olmadığı",
+    "Biletin kaybolması veya bulunması",
+    "Rüyadaki genel duygu tonu ve sabırsızlık düzeyi"
   ],
   "commonVariations": [
     {
-      "title": "Yolculuk bileti almak",
-      "description": "Nereye gitmek istediğiniz ve yolculuğu kendinizin seçip seçmediği önemlidir. Bileti almak sizi rahatlatıyor muydu, yoksa sonrasında yeni bir hazırlık mı gerekiyordu?"
+      "title": "Konser ya da Etkinlik Bileti Bulmak",
+      "description": "Cebinde veya elinde yaklaşan bir etkinliğe ait bilet olduğunu fark etmek; beklenen bir buluşma ya da gündelik heyecanın rüyaya yansıması olarak görülür ve sabırsızlık, beklenti temasını vurgular."
     },
     {
-      "title": "Girişte bileti bulamamak",
-      "description": "Bileti kaybettiğinizi biliyor muydunuz, yalnızca arıyor muydunuz? Birinin yardım etmesi, sıranın beklemesi veya kapının kapanması sahnenin duygusunu değiştirebilir."
+      "title": "Bileti Kaybetmek veya Bulamamak",
+      "description": "Seyahat veya giriş için gerekli biletin kaybolduğunu ya da bulunamadığını görmek; hazırlıksızlık, fırsatı kaçırma korkusu veya yön bulmada yaşanan belirsizlikleri simgeler."
     },
     {
-      "title": "Biletin tarihinin yanlış olması",
-      "description": "Beklediğiniz gün ile bilette gördüğünüz gün arasındaki farkı hatırlıyorsanız kaydedin. Bu ayrıntı gerçek bir randevunun yanlış olduğunu göstermez; rüyadaki şaşkınlık veya acele hissi üzerinde durabilirsiniz."
+      "title": "Seyahat veya Tren Bileti Satın Almak",
+      "description": "Yeni bir yolculuğa çıkmak üzere bilet aldığını görmek; yaşamda yeni bir döneme giriş, değişime hazır oluş veya hedeflenen bir yöne doğru hareket etme arzusuna işaret eder."
     },
     {
-      "title": "Birine etkinlik bileti vermek",
-      "description": "Etkinliğe birlikte mi gidecektiniz, yoksa kendi yerinizi mi bırakıyordunuz? Paylaşmak, vazgeçmek ve karşılık beklemek farklı deneyimler olabilir."
+      "title": "Sezon Bileti veya Uzun Süreli Geçiş Kartı Görmek",
+      "description": "Tek seferlik değil uzun süreli bir bilet veya kartla ilişki kurmak; ilişkilerdeki taahhüt, hesaplaşma ve bilinçdışının bu süreçlere yönelik direncini veya kabulünü yansıtabilir."
     }
   ],
-  "psychology": "Freud, tiyatroda geçen bir rüyayı tartışırken rüya sahibinin daha önce erkenden bilet almasını ve koltukların boş kalmasını kişisel çağrışımlarıyla birlikte ele alır. Kendi yorumunu bu kişinin yaşam öyküsüne bağlar. Bu tarihsel vaka, biletin herkes için aynı isteği ya da pişmanlığı temsil ettiğini göstermez; burada Freud’un yorumu güncel deneysel bir bulgu olarak sunulmaz.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
+  "psychology": "Araştırma sınırları içinde 'bilet' için tekil bir evrensel anlam saptanmamıştır. Psikanalitik örnekler ve çağdaş yorumlar, biletin rüyada genellikle planlama, seyahat, bekleyiş veya ertelenmiş buluşma gibi gündelik kaygı ve beklentilerin bir biçimi olarak yer alabildiğini gösterir; duygu tonu ve bağlam belirleyici olur.",
+  "jungian": "Jungcu okumalarda bilet, eşik ve bir yere ait olma hakkı, geçiş izni, ayrıca ilişki ve taahhütlerin hesaplaşması temalarıyla ilişkilendirilebilir. Bazı Jungcu okumalarında sezon bileti gibi örnekler, bilinçdışının direnç ve kabul süreçlerini gösteren bir simge olarak tartışılır; anlam her durumda rüyanın bütün bağlamı içinde değerlendirilmelidir.",
+  "islamicTradition": "Klasik İslami rüya tabirlerinde doğrudan 'bilet' girişi doğrulanmamıştır; modern derlemelerde ise bilet bazen sefer, yolculuk, sükun ve umut ile ilişkilendirilmektedir. Bu atıflar çağdaş yorumlara dayanır ve klasik metinlerle doğrudan örtüşmeyebilir.",
+  "christianTraditions": "...doğru zamanda hazır olma temasına bağlanabilir;...",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyaların yorumu bağlama ve yorumlayıcının çerçevesine bağlıdır; 'bilet' gibi modern nesneler klasik metinlerde bulunmadığı için, bunlar daha çok izin/aidiyet ekseni üzerinden temkinli biçimde yorumlanır.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Biletin nesne olarak durumu ile katılmak istediğiniz deneyim ayrı düşünülebilir.",
-  "differences": "Bir kişinin rüyasına ilişkin tarihsel yorum, başka bir kişinin geleceği hakkında bilgi vermez.",
-  "inusAssessment": "Biletin neye ait olduğu, yalnızca elinizde bulunmasından daha açıklayıcı olabilir: bir konseri beklemek ile yolculuğa yetişmeye çalışmak aynı deneyim değildir. INUS değerlendirmesi katılma isteğini, hazırlığı ve rüyadaki engelleri kişisel düşünme başlıkları olarak ele alır. Biletin geçerli olması güvenli yolculuk garantisi; kaybolması gelecekte fırsat kaybı anlamına gelmez. Bu sayfanın odağı yolculuk ve etkinlik biletidir; çekiliş sonucu hakkında çıkarım yapmaz.",
-  "faq": [
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda bilet, ruhsal gelişim yolculuğuna çağrı, yeni bir aşamaya giriş izni veya bir çabanın karşılığı olarak onay alma sembolü sayılabilir. Biletin elde edilmesi hazır olmayı, kaybedilmesi ise fırsatların kaçırılmasıyla ilgili endişeyi temsil edebilir.",
+  "comparisonTable": [
     {
-      "question": "Bilet görmek yakında yolculuğa çıkacağımı mı gösterir?",
-      "answer": "Rüyadaki bilet gelecekteki bir yolculuğu doğrulamaz. Gitmek istediğiniz yer, eşlik eden kişi ve hazırlanırken hissettikleriniz üzerinden rüyayı düşünebilirsiniz."
+      "approach": "Psikanaliz (Freudcu Çerçeve)",
+      "interpretation": "Bilet, gündelik beklentilerin, ertelenmiş buluşmaların veya rüyanın gündüz kalıntılarının bir ayrıntısı olarak okunabilir; yer değiştirme ve dilek doyumu süreçleri dikkate alınır.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Geçersiz bilet görmek bir yere kabul edilmeyeceğim anlamına mı gelir?",
-      "answer": "Böyle bir sonuç çıkarılmaz. Rüyada girişin reddedilmesi ile gerçek hayatta bir kurumun veya kişinin vereceği karar ayrı şeylerdir."
+      "approach": "Analitik Psikoloji (Jungcu Çerçeve)",
+      "interpretation": "Bilet, eşik, aidiyet hakkı ve bir sonraki aşamaya geçişi simgeleyen psişik bir işaret olarak değerlendirilir; bazen ilişki muhasebesi ve taahhüt temalarıyla da bağlantılıdır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami ve Kültürel Gelenek",
+      "interpretation": "Doğrudan klasik metin kanıtı olmamakla birlikte, modern derlemeler bilet temasını sefer, yolculuk, sükun ve umutla ilişkilendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Ruhsal yolculuğa çağrı, yeni bir aşamaya giriş izni ve bir çabanın karşılığı olarak onay alma temaları öne çıkar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğunlukla yaklaşımlar, bilet sembolünü hareket, geçiş, erişim ve bir aşamaya kabul edilme ekseninde ortak bir noktada toplar; biletin statüsü (geçerli/iptal/kayıp) ve rüyanın duygusal tonu yorumda belirleyicidir.",
+  "differences": "Psikanaliz bileti daha çok gündelik arzuların ve ertelenmiş karşılaşmaların bir belirtisi olarak incelerken; Jungcu yaklaşımlar eşik, aidiyet ve bireyleşme ekseninde daha sembolik ve süreç odaklı bir okuma önerir; spiritüel okumalar ise manevi çağrı ve onay vurgusunu ön plana koyar.",
+  "inusAssessment": "Bilet sembolü rüyada genelde 'izin', 'erişim' ve 'eşik' dinamiklerini temsil eder. Ona özgü ayırt edici unsur, biletin geçerliliği ve zamanlamasıdır; biletin elde edilmesi, kaybedilmesi veya süresinin geçmesi rüyadaki fırsatlara hazırlık düzeyini ve kaygıları yansıtır. Bu nedenle bilet içeren rüyalarda, biletin türü ve rüyadaki duygu tonu yorumun yönünü belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada bilet görmek genel olarak ne anlama gelir?",
+      "answer": "Genel bir kural yoktur; çoğunlukla erişim, geçiş veya bir fırsatla bağlantılıdır. Ancak rüyanın ayrıntısı—biletin ne için olduğu, geçerli olup olmadığı, kaybolup kaybolmadığı—ve rüya sırasındaki duygu, yorumun yönünü belirler."
+    },
+    {
+      "question": "Rüyada bilet kaybetmek neyi ifade eder?",
+      "answer": "Bileti kaybetmek genellikle hazırlıksızlık, fırsatı kaçırma korkusu veya kontrolü yitirme hissiyle ilişkilendirilir; bağlama göre utanç, pişmanlık veya son dakika değişikliklerine dair endişe de çağrışabilir."
+    },
+    {
+      "question": "Bilet rüyaları psikolojik açıdan nasıl yorumlanır?",
+      "answer": "Psikanalitik ve çağdaş teoriler biletin gündelik beklentilerin, planların veya ertelenmiş buluşmaların bir uzantısı olabileceğini söyler; ayrıca biletin türü ve rüyadaki duygular, bilinçdışı direnç veya hazırlık derecesi hakkında ipucu verir."
     }
   ],
   "sources": [
     {
-      "title": "The Interpretation of Dreams — Chapter VI, C",
-      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm",
-      "relevance": "Tiyatro koltukları, fiyatlar ve önceden alınan biletlerle ilgili tek bir vaka anlatısının bulunduğu bölüm. Tarihsel psikanalitik yorumdur; bilet için evrensel veya doğrulanmış bir anlam değildir.",
-      "author": "Sigmund Freud",
-      "year": 1900
+      "title": "Ticket Dream Meaning: Passages, Permissions, and Turning ...",
+      "relevance": "Çevrim içi yorumlayıcı metin; bilet rüyalarını erişim, izin, eşik ve yeni aşamaya geçiş temaları üzerinden değerlendirir ve duygu/bağlama göre değişen okumalar önerir.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/ticket"
+    },
+    {
+      "title": "Ticket Dream Interpretation – Meaning",
+      "relevance": "Biletin yeni yön, onay ve yol seçimiyle ilişkili olabileceğini söyleyen rüya yorumu sayfası; bilet kaybını kafa karışıklığı ve güvensizlikle birlikte ele alıyor.",
+      "url": "https://www.dreamsmain.com/ticket"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Freud’un rüya kuramında gündelik yaşantıların, tedavi sürecine bağlı düşüncelerin ve bilinçdışı dileklerin rüyaya nasıl girebildiğini anlatır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud örneklerinde konser bileti gibi gündelik nesnelerin ertelenmiş buluşma ve sabırsızlık temalarında rüyada yer alabildiğini gösteren pasajlar bulunur; bilet örnekleri gündelik kalıntı rolü açısından alıntılanır.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "[PDF] Dream Psychology: Psychoanalysis for Beginners - Mindsplain",
+      "relevance": "Rüya işleyişinde yer değiştirme, sansür ve dilek doyumu gibi kavramları açıklar; ayrıca tiyatro biletleriyle ilgili örnekler verir.",
+      "url": "https://mindsplain.com/wp-content/uploads/2020/07/dream-psychology-psychoanalysis-for-beginners.pdf"
+    },
+    {
+      "title": "Ticket in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Biletin Jungcu yorumda eşik, izin ve bir yere ait olma hakkı temalarına bağlandığını gösteren çevrimiçi bir Jung okuması.",
+      "url": "https://rosmertapublishing.com/dream-symbols/ticket/"
+    },
+    {
+      "title": "Dreams: (From Volumes 4, 8, 12, and 16 of the Collected Works of C. G. Jung) [With a New foreword by Sonu Shamdasani ed.] 9781400839148 - DOKUMEN.PUB",
+      "relevance": "Jung",
+      "url": "https://dokumen.pub/dreams-from-volumes-4-8-12-and-16-of-the-collected-works-of-c-g-jung-with-a-new-foreword-by-sonu-shamdasaninbsped-9781400839148.html"
+    },
+    {
+      "title": "A Library Guide to Jung's Collected Works: Dreams",
+      "relevance": "Jung",
+      "url": "https://pacifica.libguides.com/Jung/dreams"
+    },
+    {
+      "title": "Oneirocritica - The Perseus Catalog",
+      "relevance": "Klasik rüya-yorum geleneğinin çerçevesini sunar; modern 'bilet' sembolü doğrudan yer almasa da erişim ve geçiş temalarının tarihsel yorumlanmasına ilişkin bir bağlam sağlar.",
+      "url": "https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0553.tlg001.opp-grc2"
+    },
+    {
+      "title": "İslam Işığında Rüya Tabirleri.pdf - Academia.edu",
+      "relevance": "Modern derlemelerde bilet temasının sefer, sükun ve umutla ilişkilendirildiğine dair çağdaş atıf örnekleri içerir; klasik İslami kaynaklarda doğrudan karşılığı doğrulanmamıştır.",
+      "url": "https://www.academia.edu/32261203/%C4%B0slam_I%C5%9F%C4%B1%C4%9F%C4%B1nda_R%C3%BCya_Tabirleri_pdf"
+    },
+    {
+      "title": "Nablusi Rüya Tabirleri | Bilmesek olmaz | Sayfa 3",
+      "relevance": "Bilet için 'ümide delalet eder' ifadesini aktaran çevrim içi bir Nablusî atfı.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/nablusi-ruya-tabirleri/page/3/"
+    },
+    {
+      "title": "Happy 4th of July from David E. Taylor!",
+      "relevance": "Bilet için tanrısal erişim, manevi büyüme ve kabul edilme temalarıyla kurulmuş çağdaş Hristiyan yorumunu içerir.",
+      "url": "https://joshuamediaministries.org/dreams/ticket/"
+    },
+    {
+      "title": "Ticket Dream Meaning & Interpretation - Mirror",
+      "relevance": "Bilet sembolünü Hristiyan bağlamda dar kapı, hazırlık ve erişim temalarıyla ilişkilendiren teolojik okuma sunar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/ticket/"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Yahudi rüya yorumunun temel çerçevesini ve rüyaların yorumla ilişkisinin nasıl kurulduğunu gösterir.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Rüyaların anlamlandırılması, yorumlayıcı çerçeve ve hatavat halom gibi uygulamalar hakkında genel bilgi verir.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Rêver de billet : signification et interprétation",
+      "relevance": "Bilet rüyasını fırsat, erişim, izin ve yeni yaşam evrelerine giriş temalarıyla ilişkilendiriyor.",
+      "url": "https://aidreamscope.com/fr/dream-dictionary/ticket"
+    },
+    {
+      "title": "Traumdeutung Billet",
+      "relevance": "Biletin ruhsal gelişim, yolculuk ve bir çaba karşılığında yeni aşamaya geçiş sembolü olarak okunmasını aktarıyor.",
+      "url": "https://traum-deutung.de/billet/"
+    },
+    {
+      "title": "znaczenie i symbolika snu Bilet",
+      "relevance": "Biletin yeni fırsatlar, değişim ve ruhsal yolculuk çağrışımlarıyla birlikte verildiği bir sennik kaynağı.",
+      "url": "https://sennik-mistyczny.pl/bilet/"
+    },
+    {
+      "title": "Znaczenie snu Bilet - Sennik",
+      "relevance": "Biletin çoğunlukla yolculuk ve yaşam değişikliğiyle ilişkilendirildiğini; bazı durumlarda kontrol teması taşıyabildiğini söylüyor.",
+      "url": "https://www.msennik.pl/b-sennik/bilet.html"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
 }

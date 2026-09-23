@@ -1,0 +1,262 @@
+{
+  "slug": "kavga",
+  "title": "Kavga",
+  "shortDescription": "Rüyada kavga görmek, çözülmemiş gerilimleri, rekabeti veya bastırılmış öfkeyi yansıtabilir; bazen hak arama ve sınır koyma isteğini de öne çıkarır. Kiminle kavga ettiğiniz, kavganın nasıl geliştiği ve rüyada ne hissettiğiniz yorumu etkiler.",
+  "positiveAssociations": [
+    "Bastırılmış öfke veya saldırgan eğilimlerin sembolik dışavurumu",
+    "Hak arama, haksızlığa tepki ya da sınır koyma kararlılığı",
+    "Kişisel rekabet veya güç dengesine dair bilinçlenme fırsatı",
+    "Çatışmanın sonuçlanması yoluyla ilişkisel sınırların netleşmesi"
+  ],
+  "challengingAssociations": [
+    "Çözülmemiş kişilerarası gerilimler ve düşmanlık dinamikleri",
+    "İçsel dürtüler ile etik/vicdani değerler arasındaki sürtüşme",
+    "Onur, statü veya güç rekabetine ilişkin kaygılar",
+    "Yüksek duygulanımlı kavga sahnelerinin kabus niteliği taşıması"
+  ],
+  "contextDependentAssociations": [
+    "Kiminle kavga edildiği (akraba, yabancı, otorite, kendinin bir yansıması)",
+    "Kavganın türü (sözel tartışma, fiziki itişme, silah veya başka araçların kullanımı gibi)",
+    "Rüya sahibinin uyanık hayattaki sosyal konumu ve o anki duygusal tonu",
+    "Kavganın rüya içinde sonucu (uzlaşma, galibiyet, yaralanma) ve bunun duygusal yankısı"
+  ],
+  "commonVariations": [
+    {
+      "title": "Akrabayla Tartışmak",
+      "description": "Yakın çevreyle görülen sözlü ya da fiziksel sürtüşme, aile içi sorumluluklar, rızık veya yakın ilişkilere dair gündelik gerilimlerin yansıması olabilir."
+    },
+    {
+      "title": "Otorite Figürüyle Çatışma",
+      "description": "Yönetici, lider ya da toplumda üst konumdaki biriyle kavga, hiyerarşik baskılar, yetkiyle ilgili kaygılar veya toplumsal statü ile ilgili endişelere işaret edebilir."
+    },
+    {
+      "title": "Silahlı Cenk Etmek",
+      "description": "Elinde silah veya kılıçla yapılan bir mücadele görüntüsü, bazı geleneklerde şöhret, haklı mücadele veya kararlılık temalarıyla ilişkilendirilir; psikolojik okumalarda ise savunma mekanizmalarının sertleşmesi olarak görülebilir."
+    },
+    {
+      "title": "Topluluk Halindeki Kavga",
+      "description": "Kalabalığın çatıştığı bir sahne, kolektif huzursuzluk, kaynak kıtlığı veya toplum içi gerilimlerin zihinsel temsilini doğurabilir."
+    }
+  ],
+  "psychology": "Ampirik rüya içerik analizleri kavga ve çatışma temalarını sosyal etkileşim biçimleri içinde kodlar. Hall/Van de Castle tipi çalışmalar agresyonu rüyalardaki yaygın sosyal etkileşimlerden biri olarak tanımlar; ayrıca kabus örneklerinde fiziksel saldırganlık ve kişilerarası çatışma temalarının daha yoğun raporlandığına dair ampirik çalışmalar mevcuttur. Çocuk rüya raporları da agresif etkileşimlerin rüya sosyal dinamiklerinde önemli bir yer tuttuğunu göstermektedir. Bu bölümdeki çıkarımlar, içerik-analiz ve laboratuvar/anket çalışmalarının bulgularına dayanmaktadır.",
+  "jungian": "Jungcu yaklaşımlar kavga imgesini çoğunlukla içsel bir gerilim, gölgeyle karşılaşma veya benliğin farklı yönlerinin çatışması olarak yorumlar. Bu çerçevede kavga sahnesi, henüz bilinçle bütünleşmemiş yönlerin dramatizasyonu ve potansiyel bütünleşme sürecine işaret edebilir. Jungcu okumalar anlam üretirken sahnenin duygusal tonu ve karşıt figürün niteliğini dikkate almayı vurgular.",
+  "islamicTradition": "İslami rüya tabirleri geleneğinde kavga teması bağlama göre değişir; topluluk halinde kavga genellikle kıtlık veya toplumsal sıkıntı ile ilişkilendirilirken, akrabayla kavga görmek bazen korkulardan kurtulma ve sevinç olarak da yorumlanır. Elinde silahla cenk etme gibi özel motifler ise bazı tabir çizgilerinde şöhret veya kararlılık ile ilişkilendirilir. Tasavvuf kaynakları ayrıca rüyaların kaynağına ve niteliğine göre (sadık/kâzip ayrımı) değerlendirilmesi gerektiğini not eder.",
+  "christianTraditions": "Klasik Hristiyan rüya literatüründe bu konuya doğrudan ve kapsamlı bir giriş bulunmaz; modern karizmatik ve pentekostal yorumlarda ise kavga teması sıkça 'ruhsal savaş' diliyle ele alınır. Bu modern yorumlarda rüya, dua ve direnç bağlamında manevi mücadele olarak okunabilir; ancak bu yaklaşımın gelenek içi çeşitliliği ve modern çevrim içi ağırlığı göz önünde tutulmalıdır.",
+  "jewishTraditions": "Rabbanî rüya geleneğinde rüyaların anlamı büyük ölçüde yorumcuya ve rüya bağlamına bağlı kabul edilir. Berakhot çevresindeki tartışmalarda rüyaların yoruma açık olduğu, sabit bir kehanet niteliği taşımadığı vurgulanır; bu çerçevede kavga teması genellikle rüya sahibinin güncel çatışma veya rekabetle ilgili durumları ya da etkileşimleriyle ilişkilendirilir.",
+  "buddhistEasternApproaches": "Hindu Swapna Shastra geleneğinde kavga ve savaş imgeleri 'şatru' (düşman/engel) ekseninde okunur; bu gelenekte kavga rüyası uyanık hayattaki çözülmemiş gerilim ve engellerle ilişkilendirilebilir. Tibetçe Budist rüya-yoga uygulamaları ise korku ve saldırganlık tonlu rüyalarda farkındalık ve dönüşüm pratiklerine vurgu yapar. Bu alanlarda kaynakların farklı kökenlere ve kanıt düzeylerine sahip olması nedeniyle temkinli değerlendirme önerilir.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yorumlarda kavga sembolü sıklıkla içsel karşıtlıkların, değer çatışmalarının veya dönüşüm eşiğinin temsili olarak okunur. Bu okumalar, görüntüyü yalnızca dışsal bir çatışma yerine benliğin farklı yönlerinin etkileşimi ve potansiyel dönüşüm fırsatı olarak değerlendirir; ancak bu tür yorumlar geleneksel veya akademik kanıtlarla eşitlenmemelidir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Kavga, rüyalarda ölçülebilen bir agresyon ve sosyal etkileşim kategorisidir; kabuslarda daha sık görülür.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Kavga imgesi içsel çatışmaların, bastırılmış dürtülerin ve savunmaların sahnelenmesi olarak okunabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Gölgeyle yüzleşme ve benliğin bölünmüş parçaları arasındaki gerilim; potansiyel bütünleşme sürecinin dramatizasyonu.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel İslam Tabirleri",
+      "interpretation": "Toplumsal çatışma, kıtlık veya bireysel hak arayışı gibi durumlara dair yorumsal seçenekler sunar; bağlam önemlidir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel / Ezoterik",
+      "interpretation": "Karşıt güçlerin çarpışması, içsel dönüşüm veya etik değerlerle dürtüler arasındaki gerilim ekseninde değerlendirilir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşım kavga sembolünü gerilim, sürtüşme veya çözülmemiş meseleleri işaret eden bir görüntü olarak görür; anlam, bağlam, taraflar ve duygusal ton tarafından şekillenir.",
+  "differences": "Ampirik çalışmalar kavga temalarını ölçülebilir sosyal etkileşimler olarak sınıflarken; psikanalitik ve Jungcu yaklaşımlar bu görüntüleri içsel dinamiklerin sembolik ifadeleri olarak yorumlar. Geleneksel dini yorumlar ise bazen dışsal kehanetsel veya toplumsal işaretler sunar; modern spiritüel okumalarsa dönüşüm diline vurgu yapar.",
+  "inusAssessment": "Rüyada kavga görmek tekil bir öfke göstergesi değildir; INUS çerçevesi açısından kavga, 'çözülmemiş gerilimlerin, rekabet ya da bastırılmış eğilimlerin rüya sahnesinde dramatize edilmesi' olarak değerlendirilebilir. Anlamı belirleyen en kritik unsurlar: kavga ettiği kişinin kimliği, kavganın türü ve rüyadaki duygusal yoğunluktur.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Hall/Van de Castle tipi içerik analizlerinde agresyonun nasıl sınıflandığını ve rüyalarda ne sıklıkta görülebildiğini gösteren ampirik kaynak.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
+    },
+    {
+      "title": "Dream content analysis: Basic principles",
+      "relevance": "Rüya içerik analizinin temel yöntemleri ve agresif içeriklerin kodlanması konusunda metodolojik açıklama sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/474/pdf_11/2073"
+    },
+    {
+      "title": "Thematic and Content Analysis of Idiopathic Nightmares and ...",
+      "relevance": "Kabus örneklerinde fiziksel agresyon ve kişilerarası çatışma temalarının yoğunluğunu inceleyen ampirik çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900621/"
+    },
+    {
+      "title": "Dream Recall, Nightmares, and Aggression-Related Dream Content ...",
+      "relevance": "Rüya raporlarında agresyon temasını ölçen ve gruplar arasında agresyon sıklığını karşılaştıran klinik/ampirik çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12755932/"
+    },
+    {
+      "title": "Content analysis of 4 to 8 year-old children's dream reports",
+      "relevance": "Çocuk rüyalarında agresif ve dostça etkileşimlerin dağılımını gösteren içerik analizi çalışması.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4415323/"
+    },
+    {
+      "title": "Chapter 2: The Hall/Van De Castle System",
+      "relevance": "Hall/Van de Castle sisteminde agresyonun tanımını ve çatışma türlerinin nasıl alt kategorilere ayrıldığını açıklayan kaynak.",
+      "url": "https://dreams.ucsc.edu/Library/fmid2.html"
+    },
+    {
+      "title": "On Dreams and Motivation: Comparison of Freud's and Hobson's ...",
+      "relevance": "Freudcu çerçevede rüyalardaki çatışma ve bastırılmış arzuların nasıl sahnelendiğini tartışarak kavga imgesinin psikanalitik temellendirmesine katkı sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5216045/"
+    },
+    {
+      "title": "Psychoanalytic theory",
+      "relevance": "Freud’un rüyaları bastırılmış istekler ile yasaklayıcı savunmalar arasındaki uzlaşma biçimleri olarak kavramsallaştırmasını özetler; kavga imgesini çatışma ekseninde okumaya yarar.",
+      "url": "https://www.britannica.com/biography/Sigmund-Freud/Psychoanalytic-theory"
+    },
+    {
+      "title": "Sigmund Freud: Conflict & Culture The Individual: Theory",
+      "relevance": "Freud’da rüyaların gizli, çatışmalı istekleri örttüğü ve sembolik olarak dışavurduğu fikrini açıklar; kavga sembolünü bastırma ve çatışma bağlamında konumlandırmak için uygundur.",
+      "url": "https://maint.loc.gov/exhibits/freud/freud02a.html"
+    },
+    {
+      "title": "The Dream: A Psychodynamically Informative Instrument - PMC",
+      "relevance": "Freudyen rüya anlayışında rüyanın çatışma, kriz ve işlenmemiş meselelerle ilişkisini özetler; kavga imgesini bu eksende temellendirmeye yardımcı olur.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3330663/"
+    },
+    {
+      "title": "Aggression in Dreams | Psychology Today United Kingdom",
+      "relevance": "Freud’un saldırganlık dürtüsüne ilişkin görüşünü hatırlatarak rüyalardaki kavga ve saldırganlık bağlantısını psikanalitik çerçevede düşünmeye imkân verir.",
+      "url": "https://www.psychologytoday.com/gb/blog/dreaming-in-the-digital-age/202105/aggression-in-dreams"
+    },
+    {
+      "title": "Fight Dream Meaning & Interpretation - Mirror",
+      "relevance": "Kavga rüyasının Jungcu yorumunu gölgeyle yüzleşme ve iç bütünleşme açısından özetleyen çevrim içi bir Jungcu açıklama.",
+      "url": "https://mirrorwithin.org/dream-dictionary/fight/"
+    },
+    {
+      "title": "Conflict Dream Meaning & Interpretation",
+      "relevance": "Çatışma rüyalarını Jungcu açıdan benliğin bastırılmış yönleriyle karşılaşma olarak açıklayan çevrim içi Jungcu sayfa.",
+      "url": "https://mirrorwithin.org/dream-dictionary/conflict/"
+    },
+    {
+      "title": "Jung's Theory of Dreaming and the Findings of Empirical and ...",
+      "relevance": "Jung’un rüya kuramını ve sembollerin ego ile bütünleşmemiş içeriklerle ilişkisini akademik biçimde tartışan derleme makale.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12517111/"
+    },
+    {
+      "title": "Carl Jung Dream Analysis Seminars Lecture VI 13 ...",
+      "relevance": "Jung’un sembol ve iç çatışma ilişkisini anlattığı bir seminer alıntısını aktaran çevrim içi metin; kavga sembolünü doğrudan adlandırmaz ama çatışma imgelerinin psikolojik işlevini destekler.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/08/25/carl-jungs-dream-2/"
+    },
+    {
+      "title": "[PDF] The Interpretation of Dreams by Artemidorus - Bookey",
+      "relevance": "Greko-Romen oneirokritik geleneğinde kavga temalarının bağlama göre nasıl farklı yorumlandığını gösteren tarihsel referans.",
+      "url": "https://cdn.bookey.app/files/pdf/book/en/the-interpretation-of-dreams-by-artemidorus.pdf"
+    },
+    {
+      "title": "An Ancient Dream Manual",
+      "relevance": "Artemidorus’un rüya yorumunda bağlam, toplumsal konum ve sembolün ilişkisel kullanımı üzerine tarihsel çerçeve sunar.",
+      "url": "https://api.pageplace.de/preview/DT0400.9780192582010_A39129786/preview-9780192582010_A39129786.pdf"
+    },
+    {
+      "title": "Bringing Artemidorus' Interpretation of Dreams up to date",
+      "relevance": "Artemidorus’un günümüze ulaşan tek klasik rüya kılavuzu oluşunu ve antik oneirokritik bağlamını vurgular.",
+      "url": "https://www.the-tls.com/classics/greek/artemidorus-interpretation-of-dreams-review"
+    },
+    {
+      "title": "Rüyada Kavga Görmek ne demek? Rüyada Kavga Etmek ne anlama gelir?",
+      "relevance": "Kavga rüyasının toplumsal kavga, kıtlık ve otoriteye karşı kavga bağlamındaki yorumlarını aktaran bir derleme sayfadır.",
+      "url": "https://www.mardinlife.com/ruya-tabirleri/ruyada-kavga-gormek-ne-demek-ruyada-kavga-etmek-ne-anlama-gelir"
+    },
+    {
+      "title": "RÜYA - TDV İslâm Ansiklopedisi",
+      "relevance": "İslami çerçevede rüyanın kaynağına ilişkin sadık/kâzip ayrımı ve rüya yorumunun bağlama bağlılığını açıklayan başvuru.",
+      "url": "https://islamansiklopedisi.org.tr/ruya"
+    },
+    {
+      "title": "Rüyada akrabayla kavga etmek nedir?",
+      "relevance": "Akrabayla kavga, silahla kavga ve Allah yolunda cenk/kavga gibi farklı bağlamlarda tabirleri bir araya getiren derleme sayfadır.",
+      "url": "https://www.diyadinnet.com/ruyada-26-akraba-gormek"
+    },
+    {
+      "title": "Dream About Fighting - Evangelist Joshua Ministries",
+      "relevance": "Rüyada kavga temasını ruhsal savaş ve düşmanla mücadele diliyle yorumlayan Hristiyan içerik.",
+      "url": "https://evangelistjoshua.com/dream-about-fighting/"
+    },
+    {
+      "title": "“All Dreams Follow the Interpretation” – Even for the Rabbis!",
+      "relevance": "Berakhot 55b çevresindeki rüya yorum geleneğini ve rüya anlamının yorumla ilişkisini gösterir.",
+      "url": "https://thegemara.com/article/all-dreams-follow-the-interpretation-even-for-the-rabbis/"
+    },
+    {
+      "title": "Berakhot 56",
+      "relevance": "Berakhot 56 çevresinde rüya yorumunun nasıl işlediğini ve rüyanın yorumcuya bağlılığını özetler.",
+      "url": "https://www.myjewishlearning.com/article/berakhot-56/"
+    },
+    {
+      "title": "Freud as Talmudist",
+      "relevance": "Talmudik rüya yorumunda anlamın yoruma göre değişmesi ve rüyaların iletişim olarak görülmesi temasını tartışır.",
+      "url": "https://jewishreviewofbooks.com/jewish-history/13912/freud-as-talmudist/"
+    },
+    {
+      "title": "Rabbinic dreams during Late Antiquity",
+      "relevance": "Geç antik Yahudi rüya kültüründe yorum yetkisi, otorite ve yorumcular arası rekabet temasını ele alır.",
+      "url": "https://www.eurekalert.org/news-releases/685530"
+    },
+    {
+      "title": "[PDF] The Samaritans (Kutim) in the Talmud Yerushalmi",
+      "relevance": "Talmudik rüya yorumunda yorum otoritesi ve farklı yorumlayıcılar arasındaki gerilim temasını aktarır.",
+      "url": "https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/156110/Lehnardt_040.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "title": "Fight, War and Conflict Dreams Meaning: Being Attacked ...",
+      "relevance": "Rüyada kavga ve çatışma temalarını Hint geleneksel rüya yorumu içinde ‘şatru’ ve çözülmemiş gerilim ekseninde ele alır; kavga sembolünün geleneksel yorum kümelerini gösterir.",
+      "url": "https://trikalvaani.com/blog/conflict-fight-dreams-meaning-hindu-astrology"
+    },
+    {
+      "title": "सपने में लड़ाई, झगड़ा और युद्ध देखने का मतलब — संपूर्ण वैदिक ...",
+      "relevance": "Rüyada kavga, tartışma ve savaş görmenin sonuçlarını Swapna Shastra bağlamında anlatır; kavga sembolünü mücadele, engel ve zafer temasına bağlar.",
+      "url": "https://trikalvaani.com/blog/sapne-mein-ladai-jhagda-yudh-dekhne-ka-matlab"
+    },
+    {
+      "title": "Dreaming Of Physically Fighting With Someone – Meaning",
+      "relevance": "Fiziksel kavga rüyasını içsel çatışma ve kendilik mücadelesi olarak okuyan Hindu-popüler bir yorum sunar; kavga sembolünün psikolojik içeriğini gösterir.",
+      "url": "https://www.hindu-blog.com/2023/01/dreaming-of-physically-fighting-with-someone-meaning.html"
+    },
+    {
+      "title": "Dreams: Their Interpretation, Yoga and Discrimination",
+      "relevance": "Tibetçe rüya-yoga perspektifinde korku ve şiddet tonlu rüyaların farkındalık ve dönüşüm uygulamalarıyla ele alınışını özetler.",
+      "url": "https://tibetanbuddhistencyclopedia.com/en/index.php/Dreams:_Their_Interpretation,_Yoga_and_Discrimination"
+    },
+    {
+      "title": "Dream Dictionary: K",
+      "relevance": "Rüyada kavga imgesini doğrudan içsel çatışma, çözümlenmemiş duygular ve kimlik içi gerilim bağlamında ele alır.",
+      "url": "https://dreaminterpreter.ai/dream-dictionary/k"
+    },
+    {
+      "title": "Fight Dreams: Conflict, Courage, and What Your Night Mind Is ...",
+      "relevance": "Kavga/fight rüyasını spiritüel dil içinde çatışma, dönüşüm ve karşıt güçlerin etkileşimi olarak yorumlar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/fight"
+    },
+    {
+      "title": "Fighting Dreams: Meaning & Psychological Interpretation",
+      "relevance": "Kavga rüyasını daha genel sembolik düzlemde çatışma, güç mücadelesi ve çözülmemiş gerilim olarak sunar; ezoterik okuma için kavramsal arka plan sağlar.",
+      "url": "https://somniscient.com/en/symbols/fighting"
+    },
+    {
+      "title": "Sword Fight in dreams — meaning and symbolism",
+      "relevance": "Kavgayı esoterik sembolizm içinde zihin, söz, sınır ve içsel karşıtlıkların çarpışmasıyla ilişkilendirir.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/sword-fight"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian",
+    "buddhist-eastern"
+  ]
+}

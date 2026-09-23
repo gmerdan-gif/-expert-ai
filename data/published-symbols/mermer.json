@@ -1,68 +1,219 @@
 {
   "slug": "mermer",
-  "title": "mermer",
-  "shortDescription": "Rüyada mermer, sağlamlık, serinlik veya gösterişli bir ortamı çağrıştırabilir. Taşın işlendiği yer, yüzeyi ve ona dokunduğunuzda hissettikleriniz önemlidir.",
+  "title": "Mermer",
+  "shortDescription": "Rüyada mermer görmek; sağlamlık, kalıcılık, düzen ve itibar çağrışımı taşır. Soğuk ya da çatlak mermer ise duygusal mesafeyi, katı tutumları veya dışarıdan sağlam görünen bir yapının kırılganlığını anlatabilir.",
   "positiveAssociations": [
-    "Bir yüzeyin desenini beğenmek",
-    "Özenle işlenmiş bir nesneyle karşılaşmak",
-    "Dayanıklı görünen bir malzemeye güvenmek"
+    "Dayanıklılık ve süreklilik",
+    "Biçim kazanmış estetik ve statü",
+    "Kutsal yapı veya anıtsal nitelik",
+    "Güven veren temel ya da destek"
   ],
   "challengingAssociations": [
-    "Soğukluk veya mesafe hissi",
-    "Kaygan yüzeyde dengesiz hissetmek",
-    "Kırılan bir parçanın ağırlığıyla uğraşmak"
+    "Duygusal soğukluk veya mesafe",
+    "Esnekliğini yitirmiş, katılaşmış tutumlar",
+    "Aşırı biçimlenme ve baskı sonucu oluşan gerilim hissi",
+    "Görünüşte sağlam ama içten kırılgan yapılar"
   ],
   "contextDependentAssociations": [
-    "Zemin, heykel, tezgâh veya blok olması",
-    "Dokusu, deseni ve dokunma hissi",
-    "Mermeri kullanmanız veya yalnız izlemeniz"
+    "Mermer zeminde yürümek: atılan adımların sağlamlığı veya kontrollü, kaygan bir ortam imgesi",
+    "Mermer sütuna dayanmak: hayatı ayakta tutan dayanaklar, inançlar veya kurumlar",
+    "Parlak beyaz mermer ile çatlamış ya da soluk mermer arasındaki durum farkı: güven ve itibar ile kırılma ya da bozulma ayrımı"
   ],
   "commonVariations": [
     {
-      "title": "Mermer bir zeminde yürümek",
-      "description": "Yüzeyin parlaklığı mı, kayganlığı mı dikkat çekiyordu? Beğenmek ile üzerinde rahat hareket edebilmek ayrı deneyimlerdir."
+      "title": "Parlak mermer zemin",
+      "description": "Ayak bastığınız parlak mermer zemin, yapılan planların sağlamlığını ya da dışarıya yönelik düzenin güven verici görünümünü simgeleyebilir."
     },
     {
-      "title": "Mermer bir heykele bakmak",
-      "description": "Nesnenin kimi veya neyi gösterdiğini, yüzeyden önce mi sonra mı fark ettiğinizi düşünün. Malzeme ile heykelin konusu aynı çağrışımı taşımak zorunda değildir."
+      "title": "Mermer sütunlar",
+      "description": "Sütunlar, kişinin hayatındaki dayanakları, kurumları veya sürdürülen sorumlulukları temsil eder; aynı zamanda yüksek statü çağrışımı taşıyabilir."
     },
     {
-      "title": "Çatlamış mermer görmek",
-      "description": "Çatlağın neyi etkilediğine bakın: görünümü mü, kullanımı mı? Rüyadaki bir çatlak gerçek yaşamda ilişkinin bozulacağına veya kayıp yaşanacağına ilişkin kanıt değildir."
+      "title": "Soğuk mermer heykel",
+      "description": "Dokunulduğunda soğuk hissi veren bir mermer nesne, yakın ilişkilerde hissedilen mesafe veya ifade edilemeyen duygusal katılığı işaret edebilir."
     },
     {
-      "title": "Ağır bir mermer parçasını taşımak",
-      "description": "Yardım alıp almadığınız ve onu nereye götürdüğünüz önemlidir. Malzemenin ağırlığı ile taşıma sorumluluğunu ayrı düşünmek kişisel çağrışımlarınızı belirginleştirebilir."
+      "title": "Çatlamış mermer levha",
+      "description": "Üzerinde çatlaklar bulunan mermer, daha önce sağlam sayılan bir yapının ya da itibarın zedelenmeye başladığını gösterebilir."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Malzemenin görünümü ile ondan yapılmış nesnenin işlevi birlikte düşünülebilir.",
-  "differences": "Sanat tarihindeki mermer kullanımı, rüyadaki kişisel duyguyu belirleyen bir kural değildir.",
-  "inusAssessment": "Mermer bu sayfada taş malzemedir; bilye oyunu veya benzer yazılan başka sözcüklerle eşleştirilmez. INUS değerlendirmesi mermerin bulunduğu nesneyi, dokusunu ve kullanımını ayırır. The Met’in Cleopatra heykeli kaydı, mermerin farklı yüzeyleri andıracak biçimde işlenmesini anlatır. Bu sanat örneği bütün mermer rüyalarının soğukluk veya katı kişilik anlamına geldiğini göstermez.",
-  "faq": [
+  "psychology": "Ampirik psikoloji literatüründe \"mermer\" için doğrudan doğrulanmış araştırma bulunmamaktadır; bu nedenle psikolojik okumalar, sembolün rüya bağlamındaki işlevine ve bireyin çağrışımlarına dayanmalıdır.",
+  "jungian": "Jungcu bağlamda mermer, taş imgeleri ailesi içinde ele alınır: süreklilik, yoğunlaşma ve biçim kazanmış psişik içeriklerle ilişkilendirilebilir. Bu yaklaşım mermerin bireyleşme sürecinde 'biçimleşmiş' bir özne-nesne ya da benlik unsuruna işaret edebileceğini öne sürer; ancak Jung’un bir sembol için sabit bir anlam verdiği iddiasından kaçınılmalıdır ve yorumda rüyanın kişisel bağlamı göz önünde tutulmalıdır.",
+  "islamicTradition": "Modern İslami rüya tabiri derlemelerinde mermer sıklıkla izzet, konum artışı, mal veya evlilikle ilişkilendirilir. Bununla birlikte bu atıfların klasik birincil metinlerle doğrudan örtüştüğüne dair açık kanıt bulunmamaktadır; bu nedenle geleneksel aktarımlar belirtilirken kaynakların modern ve sözlük niteliğinde olabileceği vurgulanmalıdır.",
+  "christianTraditions": "Hristiyan sembolik okumalarında mermer daha çok tapınak ve kutsal yapıların malzemesi olarak ele alınır; bu bağlamlar mermerin kalıcılık, düzen ve görkem çağrışımlarını destekler. Ancak doğrudan klasik bir rüya yorumu olarak sabit bir anlam çıkarmak mümkün değildir.",
+  "jewishTraditions": "Yahudi mistik ve yorum geleneklerinde parlak beyaz taşlar (shesh gibi terimler) merhamet, beyazlık ve kozmik düzen çağrışımıyla anılır; bazı kabalistik metinlerde mermer-benzeri taşların sembolik kullanımı görülür. Doğrudan 'mermer' için standart bir rüya maddesi mevcut değildir; dolayısıyla yorumlar kontrollü bir sembolik çerçeveye dayandırılmalıdır.",
+  "buddhistEasternApproaches": "Güvenilir Budist rüya literatüründe mermer için özel bir rüya kaydı bulunamamıştır; yine de malzemenin kutsal yapılar ve heykeller bağlamında saygınlık ve kalıcılık çağrışımı taşıdığı gözlenir. Bu ilişkilendirme rüya yorumu için temkinli ve bağlama dayalı bir çıkarım sağlar.",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda mermer, dayanıklılık, arınma (simyadaki arınma aşaması olan albedo) ve soğuk, cilalı bir yüzey olarak ruhsal rafinasyon ya da sabit bir hakikat imgesi ile ilişkilendirilebilir. Bu tür yaklaşımlar sembolik sentezler sunar; rüyada mermer için kesin anlamlar üretmekten kaçınılmalıdır.",
+  "comparisonTable": [
     {
-      "question": "Mermer görmek duygusal olarak soğuk olduğumu mu gösterir?",
-      "answer": "Hayır. Malzemeyi soğuk hissetmeniz kişiliğiniz hakkında bir tanı değildir. Rüyada ona dokunmanın sizde ne uyandırdığını kendi deneyiminizle ele alabilirsiniz."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Rüyanın kişisel çağrışımları ve serbest çağrışım yöntemine dayanarak mermer, anıtsallaşma, kalıcılık veya bedensel izler ve hafıza bağlamında okunur.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Mermer bir heykel ile mermer zemin aynı mı yorumlanır?",
-      "answer": "Aynı olmak zorunda değildir. Heykelin konusu ve zeminin kullanımı farklı ayrıntılardır; malzemenin ortak olması bu farkı ortadan kaldırmaz."
+      "approach": "Jungcu Analiz",
+      "interpretation": "Taş imgeleri üzerinden bireyleşme, bütünleşme ve biçim kazanmış psişik içeriklerle ilişkilendirilir; mermer örneğinde bu, kalıcı bir psişik yapının simgesi olabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel Aktarımlar",
+      "interpretation": "Modern rüya sözlüklerinde mermer genellikle izzet, yükseklik, maddi bolluk ve evlilik gibi temalarla bağlanır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Simyasal Yaklaşım",
+      "interpretation": "Beyaz taş ve albedo bağlamında arınma, rafinasyon ve kalıcı ruhsal değerler ekseninde yorumlanır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli gelenekler ve yaklaşımlar mermeri genellikle 'kolay kolay değişmeyen, biçim kazanmış bir madde' olarak görür; ortak vurgular kalıcılık, yapısal işlev ve estetik değer üzerinedir. Ayrıca yüzey ile derinlik arasındaki gerilim (görkemli ama soğuk yüzey ile altındaki kırılganlık) birçok kaynakta tekrar eden bir temadır. Bu ortaklıklar, mermerin rüyadaki işlevine dair kontrollü bir çerçeve sunar; ancak bağlam olmadan tekil, evrensel bir anlam çıkarılamaz.",
+  "differences": "Yorumlar arasındaki temel ayrım odak noktasındadır: geleneksel rüya sözlükleri sosyal statü ve maddi kazanç üzerinden okurken, psikanalitik yaklaşım bireyin özgün çağrışımlarına ve serbest çağrışıma dayanır; Jungcu okuma ise taş imgelerini arketipsel bütünleşme bağlamında değerlendirir. Ayrıca renk, parlaklık ve hasar durumu gibi somut nitelikler (parlak beyaz ile çatlamış gri) farklı geleneklerde farklı anlam yoğunlukları yaratır.",
+  "inusAssessment": "Mermer rüyasında en ayırt edici nokta, malzemenin nasıl kullanıldığı ve nasıl deneyimlendiğidir. Parlak ve sağlam bir mermer zemin düzen, dayanıklılık veya güven veren bir yapı hissini öne çıkarabilirken; soğuk, çatlamış ya da ulaşılamaz mermer duygusal mesafe, katılık veya kırılganlığın üzerini örten görkem duygusunu çağrıştırabilir. Mermerin zemin, sütun, heykel veya başka bir yapı öğesi olarak görülmesi ve rüya sahibinin onun karşısında hissettikleri, yorumun hangi yönde derinleşeceğini anlamada özellikle önemlidir.",
+  "faq": [
+    {
+      "question": "Rüyada mermer görmek her zaman zenginlik mi demektir?",
+      "answer": "Hayır; bazı gelenekler böyle yorumlasa da modern ve psikolojik okumalar mermeri statünün yanı sıra duygusal soğukluk, katı tutum veya sağlam temellerle ilişkilendirir. Bağlama bakılmadan kesin anlam verilmemelidir."
+    },
+    {
+      "question": "Mermerin rüyadaki en önemli ayırt edici özelliği nedir?",
+      "answer": "Mermerin rüyadaki işlevi—zemin, sütun, heykel, çatlak—ve fiziksel niteliği (parlaklık, sıcaklık, bütünlük) en belirleyici unsurlardır; kişisel çağrışımlarla birlikte okunmalıdır."
     }
   ],
   "sources": [
     {
-      "title": "Cleopatra — William Wetmore Story",
-      "url": "https://www.metmuseum.org/art/collection/search/12649",
-      "relevance": "Müze kaydı ve sesli rehber metni, mermerin deri, kumaş ve zemin gibi yüzeyleri andıracak biçimde işlenmesini açıklar. Rüya araştırması değildir.",
-      "publication": "The Metropolitan Museum of Art"
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya çözümlemesinde serbest çağrışım ve bedensel temsiller üzerine sunduğu çerçeve; 'mermer' konusunda Freud’un yazışmalarındaki anıtsal imgeye dayanarak psikanalitik bir arka plan sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams - London",
+      "relevance": "Freud’un 'mermer tablet' ifadesi, mermerin anıtsallık ve kalıcılık çağrışımını taşıyan bir yazışma örneği sunar.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/"
+    },
+    {
+      "title": "II The Method of Interpreting Dreams: An Analysis of a Specimen",
+      "relevance": "Irma rüyasının anlatıldığı bağlamda 'mermer plaket' ifadesinin anma ve hatırlama imgesi olarak nasıl geçtiğini gösterir.",
+      "url": "https://web.english.upenn.edu/~cavitch/pdf-library/Freud_Specimen_Dream.pdf"
+    },
+    {
+      "title": "Marble Dreams: Meaning & Interpretation | Somniscient",
+      "relevance": "Mermer için Jungcu perspektiften bir modern yorum; taş imgelerinin Persona boyutuna dair çağrışımlar içerir (modern çevrimiçi kaynak).",
+      "url": "https://somniscient.com/en/symbols/marble"
+    },
+    {
+      "title": "Marble Dream Meaning - Interpret Your Dream! - Mirror",
+      "relevance": "Mermerin benlik ve bireyleşme ile ilişkilendirildiği modern bir çevrimiçi metin; Jungcu benzetmelere dair güncel bir örnek.",
+      "url": "https://mirrorwithin.com/dream-dictionary/marble/"
+    },
+    {
+      "title": "Carl Jung on Stones Anthology",
+      "relevance": "Jung’a atfedilen taş imgeleri üzerinden benlik, merkez ve bireyleşme çağrışımlarını bir araya getiren derleme sayfası.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/05/04/stones/"
+    },
+    {
+      "title": "It is as if the stones held a living mystery that fascinates them",
+      "relevance": "Taşın birlik ve bireyleşme simgesi olarak ele alınmasına dair Jung atıfları içeren derleme sayfası.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/03/18/stones-2/"
+    },
+    {
+      "title": "Collected Works of C.G. Jung, Volume 12: Psychology and Alchemy",
+      "relevance": "Jung’un bireyleşme ve simyasal simgeleme çerçevesi; taş imgelerinin psişik bütünleşme bağlamında değerlendirilmesine ilişkin teorik zemin sunar.",
+      "url": "https://jungiancenter.org/wp-content/uploads/2023/09/vol-12-psychology-and-alchemy.pdf"
+    },
+    {
+      "title": "Marble in Civilisation: Stones that Shaped History",
+      "relevance": "Mermerin tarih boyunca mimari ve toplumsal prestij ile ilişkilendirilmesine dair tarihsel-kültürel bağlam sağlar.",
+      "url": "https://www.aclassmarble.co.in/blogs/marble-in-civilisation-stones-that-shaped-history"
+    },
+    {
+      "title": "The Glamor Of Marble: From Palaces To Modern Mansions",
+      "relevance": "Antik Yunan ve Roma’da mermerin mimari ve toplumsal prestijle bağlantısını anlatıyor.",
+      "url": "https://stonegroup.gr/blog/the-glamor-of-marble-modern-mansions-greek-design/"
+    },
+    {
+      "title": "extra-expo-study_final_20150928.pdf",
+      "relevance": "Mermerin tarihsel kullanımını ve lüks-zenginlik sembolizmini ele alıyor.",
+      "url": "https://www.cria.pt/media/1716/extra-expo-study_final_20150928.pdf"
+    },
+    {
+      "title": "Painting in Stone: The Symbolism of Colored Marbles in the Visual Arts and Literature from Antiquity until the Enlightenment",
+      "relevance": "Antikiteden Aydınlanma’ya mermerin görsel sanatlardaki sembolik kullanımlarını inceleyerek mermerin tarihsel imgelemine katkı verir.",
+      "url": "https://academiccommons.columbia.edu/doi/10.7916/D85D901K"
+    },
+    {
+      "title": "Marble, 980 Madison Avenue, New York, February 12–June 10, 2009",
+      "relevance": "Mermerin tarih boyunca değişen estetik ve sembolik çağrışımlarını sanat tarihi bağlamında sunuyor.",
+      "url": "https://gagosian.com/exhibitions/2009/marble/"
+    },
+    {
+      "title": "(PDF) New Iconological Perspectives on Marble as Divinus ...",
+      "relevance": "Mermerin Bizans ve erken ortaçağ ikonolojik okumalarındaki kozmolojik çağrışımlarını tartışıyor.",
+      "url": "https://www.academia.edu/31734927/New_Iconological_Perspectives_on_Marble_as_Divinus_Spiritus_Hermeneutical_Change_and_Iconogenesis_in_Louvain_Studies_40_2017_p_14_36"
+    },
+    {
+      "title": "İslami rüya tabirleri -M- harfi",
+      "relevance": "Modern İslami rüya sözlüğü örneği; mermerin izzet, mal ve evlilikle ilişkilendirildiğini aktaran güncel aktarımlardan biridir (klasik birincil metin doğrulaması içermez).",
+      "url": "https://ehlisunnetmedya.com/2015/03/islami-ruya-tabirleri-m-harfi/"
+    },
+    {
+      "title": "Rüyada Mermer tası Görmek Ne Anlama Gelir? - Diyadinnet",
+      "relevance": "Modern İslami rüya sözlüğü örneği; mermerin izzet, mal ve evlilikle ilişkilendirildiğini aktaran bir kaynaktır.",
+      "url": "https://www.diyadinnet.com/ruyada-7055-mermer-tasi-gormek"
+    },
+    {
+      "title": "Marble - Bible Encyclopedia",
+      "relevance": "Mermerin Hristiyan bağlamında tapınak, sanat ve kutsal yapı malzemesi olarak ele alınması; dayanıklılık, değer ve görkem çağrışımlarını destekler.",
+      "url": "https://www.biblexika.com/encyclopedia/marble"
+    },
+    {
+      "title": "Four Who Entered Paradise - They ascended to Heaven by using ...",
+      "relevance": "Kabalistik/Chabad yorum örneği; parlak taş ve merhamet/kozmik düzen çağrışımlarını gösterir ve Yahudi mistik bağlamda mermer-benzeri taşların kullanımına işaret eder.",
+      "url": "https://www.chabad.org/kabbalah/article_cdo/aid/380344/jewish/Four-Who-Entered-Paradise.htm"
+    },
+    {
+      "title": "MARBLE ():",
+      "relevance": "Mermerin Yahudi ansiklopedik ve tarihsel bağlamda parlak, değerli taş ve görkem sembolü olarak ele alınması.",
+      "url": "https://www.jewishencyclopedia.com/articles/10390-marble"
+    },
+    {
+      "title": "Strong's Hebrew: 923. בַּ֫הַט (bahat) -- Marble - Bible Hub",
+      "relevance": "İbranice shesh teriminin mermer ya da parlak taş anlam alanı ve beyazlık çağrışımı.",
+      "url": "https://biblehub.com/hebrew/923.htm"
+    },
+    {
+      "title": "Section III",
+      "relevance": "Mermer sütunların yaratılışın altı günü ve Tevrat ile ilişkilendirildiği yorumsal Yahudi metin.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/2333932/jewish/Section-III.htm"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Mermer sütunlarının yaratılışın altı gün ile ve Tevrat bağlamında ilişkilendirildiğine dair yorumsal bir Yahudi metnidir.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Phantasmagorical Buddhism: Dreams and Imagination in the Creation of Burmese Sacred Space",
+      "relevance": "Burmese sacred space, rüya ve imgelem ilişkisini Budist bağlamda tartışır; mermer için doğrudan rüya girişi sağlamasa da Budist rüya-imge çalışmalarına bağlam sunar.",
+      "url": "https://www.academia.edu/37974288/Phantasmagorical_Buddhism_Dreams_and_Imagination_in_the_Creation_of_Burmese_Sacred_Space"
+    },
+    {
+      "title": "Marble in Dreams: Symbolism, Psychology & Hidden Meanings",
+      "relevance": "Modern rüya-sözlüğü niteliğinde bir kaynak; mermerin yüzey/derinlik gerilimi, kalıcılık ve duygusal soğukluk temaları etrafında popüler yorumlar sunar.",
+      "url": "https://dreammeaningdictionary.com/dream-meaning-of-marble/"
+    },
+    {
+      "title": "Dream Dictionary: MARBLE",
+      "relevance": "Mermeri rüyada güç, dayanıklılık, soğukluk ve kimi bağlamlarda bereket/varlık ile ilişkilendiren modern bir yorum sayfası.",
+      "url": "https://dreaminterpreter.ai/dream-dictionary/marble"
+    },
+    {
+      "title": "Lyndy Abraham - A Dictionary of Alchemical Imagery-Cambridge University Press (1998)",
+      "relevance": "Simyasal imgelemin içinde beyaz taş ve arınma eksenine dair akademik derleme; ezoterik okumalar için referans niteliğindedir.",
+      "url": "https://www.scribd.com/document/606931931/Lyndy-Abraham-A-Dictionary-of-Alchemical-Imagery-Cambridge-University-Press-1998"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
+  ]
 }

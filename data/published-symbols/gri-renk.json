@@ -1,71 +1,210 @@
 {
   "slug": "gri-renk",
-  "title": "gri renk",
-  "shortDescription": "Rüyada gri renk, sakinlik, belirsizlik veya duygusal uzaklık çağrıştırabilir. Grinin tonu, hangi nesnede görüldüğü ve sizde uyandırdığı duygu yorumu değiştirir.",
+  "title": "Gri renk",
+  "shortDescription": "Rüyada gri renk, belirsizlik, ara hâlde kalmışlık ve henüz netleşmemiş bir süreci çağrıştırabilir. Sakin ve sade tonlarda denge ya da içe dönüşü; baskın ve donuk bir atmosferde ise geri çekilme, ağırlık ve yönsüzlük hissini öne çıkarabilir.",
   "positiveAssociations": [
-    "Sade bir görünümden hoşlanmak",
-    "Yumuşak tonlarla rahatlamak",
-    "Tanıdık bir nesneyi fark etmek"
+    "Denge ve merkezlenme",
+    "İçsel dinginlik ve ağırlık",
+    "Olgunluk ve bilgelik",
+    "Sadelik ve alçakgönüllülük"
   ],
   "challengingAssociations": [
-    "Ortamı solgun bulmak",
-    "Bir ayrıntıyı seçememek",
-    "Beklenen rengin kaybolmasına üzülmek"
+    "Belirsizlik ve yönsüzlük",
+    "Duygusal temastan kaçınma veya geri çekilme",
+    "Ara hâlde kalmışlık hissi",
+    "Donukluk veya hayaletimsi bir uzaklaşma"
   ],
   "contextDependentAssociations": [
-    "Yalnız bir nesnenin veya bütün sahnenin gri olması",
-    "Açık ve koyu tonlar",
-    "Rengin uyandırdığı kişisel anılar"
+    "At veya nesne üzerindeki betimleyici gri tonlar",
+    "Manastır veya sade yaşam bağlamındaki gri kıyafetler",
+    "Rüya içindeki su veya yer öğelerinin taşıdığı ağır tonlar"
   ],
   "commonVariations": [
     {
-      "title": "Gri bir kıyafet giymek",
-      "description": "Kıyafeti siz mi seçmiştiniz, yoksa üzerinizde olduğunu sonradan mı fark ettiniz? Rengi beğenmek ile kalabalıkta fark edilmemek istemek aynı deneyim değildir."
+      "title": "Gri bir ata binmek",
+      "description": "Rüyada gri renkli bir ata bindiğini görmek, yolculuk veya ilerleme sürecine dair nötr bir betimleme olarak ortaya çıkar; hareketin belirli bir yönden ziyade tarafsız veya kararsız bir zeminde gerçekleştiğini gösterebilir."
     },
     {
-      "title": "Bütün manzaranın gri görünmesi",
-      "description": "Rüyada her şey gerçekten gri miydi, yoksa uyandığınızda renkleri hatırlayamıyor musunuz? Hatırlamadığınız ayrıntıyı tamamlamadan, gördüğünüzü düşündüğünüz sahneyi kaydedebilirsiniz."
+      "title": "Gri tonların baskın olduğu donuk bir manzara",
+      "description": "Etrafın tamamen gri renkli sis veya bulutlarla kaplı olması, rüya görenin uyanık yaşamındaki belirsizlikleri, kararsızlıkları ya da duygusal olaylardan bir anlığına geri çekilme arzusunu yansıtabilir."
     },
     {
-      "title": "Gri bir nesnenin renklenmesi",
-      "description": "Değişim hangi nesnede başladı ve siz nasıl tepki verdiniz? Şaşırmak, sevinmek veya önceki görünümü tercih etmek farklı çağrışımlar taşıyabilir."
+      "title": "Gri giysiler içinde olmak",
+      "description": "Gri kıyafetler giymek veya sade gri tonlu odalarda bulunmak, gösterişten uzaklaşma, sadelik, içe dönüklük veya dış dünyadaki uyaranlardan korunma çabasıyla ilişkilendirilebilir."
     },
     {
-      "title": "Gri bir hayvan görmek",
-      "description": "Hayvanın davranışı, uzaklığı ve sizinle ilişkisi de önemlidir. Renk, bu ayrıntıların yerini almaz; sakin duran bir hayvan ile yaklaşmasından çekindiğiniz hayvan farklı sahnelerdir."
+      "title": "Su veya karın gri renkte görünmesi",
+      "description": "Doğal unsurların berrak veya beyaz yerine gri tonlarda belirmesi, psikolojik ya da geleneksel yorumlarda ağırlık ve durgunluk hissiyle birlikte berraklık arayışını veya zihinsel yorgunluğun işaretini yansıtabilir."
     }
   ],
-  "psychology": "Eva Murzyn’in çalışmasının özetinde, renkli medyadan önce siyah-beyaz medya deneyimi olan katılımcıların daha çok gri tonlu rüya bildirdiği aktarılır. Çalışma iki yaş grubunun anket ve günlük bildirimlerini karşılaştırır. Bu sonuç, tek bir gri nesnenin kararsızlığı temsil ettiğini göstermez; rüyanın renkli hatırlanmasıyla renge yüklenen kişisel anlam farklı sorulardır.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Renk, nesne ve duygu birbirinden ayrılarak anlatılabilir.",
-  "differences": "Rüya renklerinin nasıl raporlandığına ilişkin araştırma, griye evrensel bir anlam vermez.",
-  "inusAssessment": "Gri renk, tek başına kararsızlığın veya duygusal uzaklığın kanıtı değildir. INUS değerlendirmesi rengin hangi nesnede görüldüğünü, çevreden nasıl ayrıldığını ve sizde ne hissettirdiğini ele alır. Tek bir gri nesne görmek ile bütün rüyayı gri tonlarda hatırlamak ayrı durumlardır. Sadelik, belirsizlik veya dinginlik size uygun geliyorsa kişisel çağrışım olarak düşünülebilir; size uymayan bir anlamı rüyaya eklemek gerekmez.",
-  "faq": [
+  "psychology": "Ampirik psikoloji literatüründe rüyalarda hatırlanan renklerin dağılımı, bireyin görsel deneyimlerinden ziyade nötr renk algısı süreçleri ve renge verilen duygusal yanıtlarla bağlantılıdır. Akromatik renkler arasında yer alan gri, tek başına sabit bir psikolojik durumu simgelemez; daha çok rüya içeriğindeki görsel zenginliğin ve akromatik algının bir yansımasıdır.",
+  "jungian": "Analitik psikoloji perspektifinde gri, siyah ve beyazın eşiğinde konumlanan bir ara alan ve geçiş bölgesidir. Bazı teorik yorumlarda gri tonların baskın olması, psişenin bilinçdışı unsurlar ile bilinç arasında kurmaya çalıştığı dengeye ya da bireyin yoğun duygusal çatışmalardan bir süreliğine korunma ve geri çekilme ihtiyacına işaret edebilir.",
+  "islamicTradition": "Klasik İslami rüya tabiri kaynaklarında gri renk için doğrudan ve kapsamlı bir birincil kayıt sınırlıdır; bazı derlemeler bu rengi yüksek makam veya otorite unsurlarıyla ilişkilendirir; ancak her durumda rüyanın bütünlüğü göz önünde bulundurulmalıdır.",
+  "christianTraditions": "Hristiyan sembolcülüğünde ve ilgili yorum geleneklerinde gri, kül imgesiyle birlikte tevazu, yas ve tövbe temalarıyla ilişkilendirilir. Aynı zamanda yaşlılığa eşlik eden saçın grileşmesi üzerinden bilgelik ve olgunluk çağrışı taşırken, ahlaki ya da ruhsal netlik eksikliği ile belirsizlik ihtimalini de barındırabilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde ve Talmudik çerçevede rüyaların anlamlı olabileceği kabul edilmekle birlikte, renklerin yorumu tamamen bağlama ve rüya görenin durumuna bağlıdır. Gri renk için doğrudan klasik bir atıf bulunmamakla birlikte, karışık tonların ve belirsiz durumların genel rüya ilkeleri çerçevesinde ele alınması mümkündür.",
+  "buddhistEasternApproaches": "Zen ve Chan geleneklerinde gri tonları; sadelik, pratiklik, gösterişten uzaklaşma ve ego bağlarından vazgeçme ile ilişkilendirilirken, Tibet rüya-yoga pratiklerinde sakinlik, ağırlık ve durgunluk gibi nitelikleri barındıran belirli imgeler arasında sınıflandırılabilir.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda gri renk; nötrlük, denge, karşıt güçler arasında bir uzlaşma alanı ve içe dönük bir dönüşüm evresi olarak yorumlanır. Bu yaklaşımlarda gri, netleşmeyi bekleyen bir hazırlık ve eşik hâlini simgeler.",
+  "comparisonTable": [
     {
-      "question": "Gri renk görmek mutlaka kararsız olduğum anlamına mı gelir?",
-      "answer": "Hayır. Gri size sevdiğiniz bir kıyafeti, bir hayvanı veya tanıdık bir ortamı da hatırlatabilir. Rengi hangi duyguyla gördüğünüzü kendi deneyiminiz üzerinden değerlendirin."
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Nörolojik renk algısı ve duygusal yanıtların akromatik yansıması.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Renkleri hatırlamamak rüyanın gri olduğunu gösterir mi?",
-      "answer": "Bunu kesinleştirmez. Rengin hatırlanmaması ile gri bir görüntünün açıkça hatırlanması farklı anlatımlardır; emin değilseniz bu ayrıntıyı belirsiz bırakabilirsiniz."
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Kutuplar arasında geçiş alanı, belirsizlik ve duygusal korunma/geri çekilme.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Sınırlı derleme materyallerine göre yüksek makam veya otorite işareti.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Bilgelik, yaşlılık, tevazu, yas ve aynı zamanda ahlaki belirsizlik.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Doğu Gelenekleri",
+      "interpretation": "Sadelik, manastır disiplini, durgunluk ve dünyevi bağlardan uzaklaşma.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Nötrlük, denge, iki kutup arasında ara hâl ve içsel dönüşüm.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler incelendiğinde, gri rengin ortak paydasının belirsizlik, ara durum ve net bir kutba ait olmama hali olduğu görülür; gri hiçbir gelenekte tek başına keskin bir hüküm vermez.",
+  "differences": "Psikoloji renk içeriğini nörolojik ve duygusal bir algı unsuru olarak ele alırken; Hristiyanlık ve Doğu gelenekleri onu tevazu, yaşlılık veya sade yaşam gibi pratik erdemlerle bağdaştırır. Modern spiritüel okumalar ise rengi daha çok enerji dengesi ve geçiş evresi olarak konumlandırır.",
+  "inusAssessment": "Gri renk sembolü, diğer canlı ve baskın renklerden farklı olarak rüyada net bir kutbu temsil etmemesiyle öne çıkar. Rüyada gri rengin bir nesne üzerinde betimleyici bir öğe olarak mı, yoksa tüm manzarayı kaplayan sisli ve donuk bir atmosfer olarak mı belirdiği yorumun yönünü doğrudan değiştirir. Bu renk, rüya görenin uyanık yaşamındaki kararsızlıklarını, duygusal temastan kaçınma eğilimlerini veya henüz netleşmemiş bir geçiş sürecini anlamak için önemli bir ipucu sunar.",
+  "faq": [
+    {
+      "question": "Rüyada gri renk görmek kesin bir anlama mı gelir?",
+      "answer": "Hayır. Gri renk, rüyanın genel bağlamına ve eşlik eden nesne ya da duygulara göre şekillendiği için tek ve sabit bir anlam taşımaz."
+    },
+    {
+      "question": "Gri renk psikolojik olarak neyi ifade eder?",
+      "answer": "Psikolojik açıdan gri, akromatik bir renk algısı unsuru olup rüyada yoğun duygulardan veya dış uyaranlardan bir süreliğine geri çekilme ya da korunma eğilimiyle ilişkilendirilebilir."
     }
   ],
   "sources": [
     {
-      "title": "Do we only dream in colour? A comparison of reported dream colour in younger and older adults with different experiences of black and white media",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/18845457/",
-      "relevance": "Çalışmanın PubMed özeti incelendi; iki yaş grubunda medya deneyimi ile bildirilen rüya renklerini karşılaştırır. Gri nesnelerin kişisel anlamını veya ruhsal durumu belirlemez.",
-      "author": "Eva Murzyn",
-      "year": 2008
+      "title": "[PDF] Content analysis on the potential significance of color in dreams",
+      "relevance": "Rüyalarda hatırlanan renklerin nasıl dağıldığını ve renk içeriğinin nörolojik renk algısı ile duygusal yanıtlarla ilişkisini tartışır; gri gibi akromatik renklerin rüya içeriğinde nasıl ele alınabileceğine dair ampirik çerçeve sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/508/pdf"
+    },
+    {
+      "title": "[PDF] Why did we think we dreamed in black and white?",
+      "relevance": "Freud’un rüya anlatılarında renkleri nasıl ele aldığı ve gri rengin bu anlatılarda nasıl geçtiği konusunda bağlam sağlar.",
+      "url": "https://www.faculty.ucr.edu/~eschwitz/SchwitzPapers/DreamB&W.pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un bir rüya örneğinde gri at imgesi kullanması, gri rengin doğrudan rüya anlatısındaki görünümünü gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "[PDF] How Could We Have Thought We Dreamed in Black and White",
+      "relevance": "Freud’un tam metninde gri at örneği yer alır; gri rengin düş içeriğinde betimleyici bir unsur olarak geçtiğini doğrular.",
+      "url": "https://www.faculty.ucr.edu/~eschwitz/SchwitzPapers/DreamB&W020404.pdf"
+    },
+    {
+      "title": "color | The Symbolism of the Colors: Gray, Blue, Red.",
+      "relevance": "Gri rengin Jungcu sembolizmde yarı karanlık ve geçiş hâli olarak ele alınmasına dair çevrimiçi bir sunum.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/02/29/color/"
+    },
+    {
+      "title": "Working with Color in Dreams - Robert J. Hoss, MS",
+      "relevance": "Rüyalarda renk kullanımı içinde griyi geri çekilme, korunma ve duygusal temasın azaltılmasıyla ilişkilendiren çalışma.",
+      "url": "http://www.dreamgate.com/dream/hoss/"
+    },
+    {
+      "title": "[PDF] Working with Color in Dreams | DreamScience.org",
+      "relevance": "Rüya imgelerinde griyi örtme, korunma ve ilgisizlik bağlamında tarif eden renk çalışması PDF’i.",
+      "url": "https://www.dreamscience.org/wp-content/uploads/2019/03/Part-3-Wokring-with-Color-in-Dreams.pdf"
+    },
+    {
+      "title": "Jung on Family Constellations and the Alchemy of Colors",
+      "relevance": "Jung’a atfedilen, gri ve donuk renklerin baskın olduğu rüyaların daha derin psikolojik değerlendirmeye işaret ettiğini aktaran Jungçu yorum sayfası.",
+      "url": "https://jungiancenter.org/jung-on-family-constellations-and-the-alchemy-of-colors/"
+    },
+    {
+      "title": "Color Islamic Interpretations & Meanings",
+      "relevance": "Gri renk için İslami rüya sözlüğü tarzında kısa bir anlam verir; griyi yüksek makam veya otoriteyle ilişkilendirir.",
+      "url": "https://www.myislamicdream.com/color.html"
+    },
+    {
+      "title": "Colors - Dream Symbols Dictionary - Apostle David E. ...",
+      "relevance": "Hristiyan rüya yorumunda gri renk için doğrudan açıklama ve olası anlamlar içerir; griyi bilgelik, onur, yönsüzlük ve aldatılma temalarıyla ilişkilendirir.",
+      "url": "https://joshuamediaministries.org/dream-interpretation/dream-symbols-dictionary/colors/"
+    },
+    {
+      "title": "Bible Study: Is Grey Symbolic in the Bible? - Christian Pure",
+      "relevance": "Gri rengin Hristiyan sembolizmi içinde geçiş, belirsizlik, tevazu ve tövbe ile ilişkilendirildiğini açıklar; rüya yorumuna doğrudan dokunmadan sembolik çerçeve sağlar.",
+      "url": "https://christianpure.com/learn/is-grey-in-bible/"
+    },
+    {
+      "title": "Topical Bible: Color",
+      "relevance": "Griyi İbranice kullanımda yaşlılık ve saçın grileşmesiyle ilişkilendirir; gri rengin yaşlılık ve olgunluk çağrışımını destekleyen kanonik dil notu sunar.",
+      "url": "https://biblehub.com/topical/c/color.htm"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Talmud’daki rüya pasajlarının ve ortak rüya sembollerinin genel çerçevesini gösterir; gri renk için doğrudan kayıt vermediği için bağlamsal arka plan sağlar.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Yahudi geleneklerinde rüyaların sembolik yorumuna dair tarihsel çerçeve sunar; gri renk için özel entry vermez.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Significance of Dreams",
+      "relevance": "Zen Budizmi bağlamında gri ve siyah tonlarının sade yaşam, pratiklik ve adanma/bağlılık ile ilişkisini aktarır.",
+      "url": "https://aish.com/significance-of-dreams/"
+    },
+    {
+      "title": "What colors do Buddhists wear? - Mike Gravel",
+      "relevance": "Zen Budizmi bağlamında gri ve siyah tonlarının sade yaşam, pratiklik ve bağlılıktan vazgeçmeyle ilişkisini anlatır.",
+      "url": "https://www.mikegravel.org/what-colors-do-buddhists-wear/"
+    },
+    {
+      "title": "What is the meaning behind different robe colors?",
+      "relevance": "Chan/Zen pratiğinde gri giysilerin eğitim, sade yaşam ve manastır disipliniyle ilişkilendirildiğini aktarır.",
+      "url": "https://buddhism.stackexchange.com/questions/1642/what-is-the-meaning-behind-different-robe-colors"
+    },
+    {
+      "title": "Dream Yoga",
+      "relevance": "Tibetçi rüya yoga metninde gri ya da beyaz tonlu imgelerin belli tür rüyalarda sınıflandırıldığını gösterir.",
+      "url": "https://tibetanmedicine-edu.org/wp-content/uploads/2022/05/dreams_practice.pdf"
+    },
+    {
+      "title": "Gray Dream Meaning & Interpretation - Mirror",
+      "relevance": "Gri renk için modern spiritüel ve rüya yorumu tarzında nötrlük, belirsizlik ve duygusal ara hâl temalarını açıkça dile getiren bir çevrimiçi kaynak.",
+      "url": "https://mirrorwithin.org/dream-dictionary/gray/"
+    },
+    {
+      "title": "Spiritual Meaning of Color Gray, Symbolism & Psychology",
+      "relevance": "Gri rengin spiritüel anlamları, denge, geçiş, içe dönüş ve gri rüya imgelerinin belirsizlikle ilişkisi üzerine modern bir derleme sunan çevrimiçi kaynak.",
+      "url": "https://www.spiritualmarker.com/spiritual-meaning-of-color-gray-symbolism/"
+    },
+    {
+      "title": "What Does Color Gray Symbolize? What You Need to Know",
+      "relevance": "Griyi ezoterik anlamda denge, karşıtlıkların uzlaşması ve bazı modern spiritüel çerçevelerde geçiş/başlangıç sembolü olarak ele alan çevrimiçi yorum.",
+      "url": "https://www.healthynatured.com/what-does-color-gray-symbolize/"
+    },
+    {
+      "title": "The Spiritual Meaning of the Color Gray: Symbolism Explained",
+      "relevance": "Griyi modern spiritüel sözlük dilinde sakinlik, geçiş ve belirsizlik bağlamında yorumlayan çevrimiçi kaynak.",
+      "url": "https://spiritualark.com/what-is-the-spiritual-meaning-of-the-color-gray/"
     }
   ],
-  "relatedSlugs": [
-    "gri-kedi"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "islamic",
+    "buddhist-eastern"
   ]
 }

@@ -1,71 +1,210 @@
 {
   "slug": "sarki",
-  "title": "şarkı",
-  "shortDescription": "Rüyada şarkı, hatırlanan bir kişiyi veya dile gelmeyen bir duyguyu gündeme getirebilir. Sözleri, melodisi ve şarkıyı kimin söylediği birlikte değerlendirilir.",
+  "title": "Şarkı",
+  "shortDescription": "Rüyada şarkı görmek veya söylemek, duyguların ve içsel sesin melodiyle ifade bulmasına işaret edebilir. Neşeli bir şarkı rahatlama ve uyumu; kalabalık önünde söylemek ise kendini ifade etme ya da değerlendirilme kaygısını yansıtabilir.",
   "positiveAssociations": [
-    "Tanıdık bir ezgiden keyif almak",
-    "Biriyle aynı şarkıyı paylaşmak",
-    "Bir anıyı hatırlamak"
+    "İçsel bütünleşme ve duygusal rahatlama",
+    "Toplulukla uyum ve aidiyet duygusu",
+    "Manevi yöneliş ve ibadete dikkat çekme",
+    "Uyanık yaşamdaki müzik deneyimlerinin ve yaratıcılığın yansıması"
   ],
   "challengingAssociations": [
-    "Sözleri anlayamamak",
-    "İstemediği bir şarkıyı durduramamak",
-    "Sesin kesilmesine üzülmek"
+    "Halka açık ortamlarda şarkı söyleme veya yetersiz kalma korkusu",
+    "Faydasız meşguliyetler ve zaman kaybı hissi",
+    "Batıl sözler veya gerçeği yansıtmayan ifadeler",
+    "Zihinsel yorgunluk ve içsel sıkıntılar"
   ],
   "contextDependentAssociations": [
-    "Şarkının tanıdık olup olmaması",
-    "Dinlemek veya söylemek",
-    "Sözlerin gerçekten hatırlanması"
+    "Şarkının tanıdık veya yabancı olması",
+    "Rüya görenin uyanık yaşamındaki müzikle kurduğu ilişki",
+    "Şarkı söylerken veya dinlerken hissedilen duygusal ton",
+    "Şarkının tek başına mı yoksa topluluk içinde mi icra edildiği"
   ],
   "commonVariations": [
     {
-      "title": "Tanıdık bir şarkı duymak",
-      "description": "Şarkı size hangi kişiyi veya dönemi hatırlatıyor? Rüyadaki duygunuz, bu şarkıyı uyanıkken dinlediğinizdeki duygunuzla aynı olmak zorunda değildir."
+      "title": "Tanıdık Bir Şarkıyı Dinlemek",
+      "description": "Rüya sırasında bilinen bir melodiyi dinlemek, uyanık yaşamdaki anıların, duygusal bağların veya geçmiş deneyimlerin zihinde yeniden hareketlendiğini gösterir."
     },
     {
-      "title": "Sözlerini anlayamadığınız şarkı dinlemek",
-      "description": "Melodiyi duyduğunuzdan mı eminsiniz, yoksa şarkı çaldığını yalnızca biliyor muydunuz? Hatırlanmayan sözleri sonradan bir mesaj oluşturacak biçimde tamamlamayın."
+      "title": "Kalabalık Önünde Şarkı Söylemek",
+      "description": "Topluluk içinde şarkı söylemeye çalışmak, uyanık yaşamda başkaları tarafından değerlendirilme endişesini, sahne korkusunu veya kendini ifade etme arzusunu yansıtır."
     },
     {
-      "title": "Birinin size şarkı söylemesi",
-      "description": "Söyleyen kişiyi tanıyıp tanımadığınız ve onu dinlemek isteyip istemediğiniz önemlidir. Rüyadaki söyleyiş o kişinin gerçek niyetini doğrulamaz."
+      "title": "Şarkının Nakaratını Sürekli Tekrarlamak",
+      "description": "Bir şarkının aynı kısmının zihinde dönüp durması, günlük hayatta takılıp kalınan bazı düşüncelere, faydasız meşguliyetlere veya çözülemeyen zihinsel döngülere işaret edebilir."
     },
     {
-      "title": "Şarkının yarıda kesilmesi",
-      "description": "Kesilme sizi rahatlattı mı, hayal kırıklığı mı yarattı? Devamını beklemek, kendiniz söylemek veya başka bir işe yönelmek farklı tepkilerdir."
+      "title": "İlahi veya Manevi Ezgiler Duymak",
+      "description": "Rüyada dini veya manevi tonlar taşıyan ezgiler işitmek, içsel bir sükûnet arayışına, zihni toplama çabasına ve manevi değerlere yönelme ihtiyacına karşılık gelebilir."
     }
   ],
-  "psychology": "Fosse ve Larøi, 13 sağlıklı katılımcının 130 rüya raporunda işitsel deneyimleri inceledi. Katılımcılardan seslere özellikle dikkat etmeleri istendi; sonuçlarda müzik ve şarkı söyleme örnekleri de yer aldı. Küçük ve ses odaklı bu çalışma rüyalarda işitsel içerik bulunabildiğini gösterir. Şarkının anlamını, gerçek bir dış ses kaynağını veya kişide psikiyatrik bir durumu belirlemez.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
+  "psychology": "Ampirik psikoloji çalışmalarında, müzik ve şarkı içeren rüyaların genellikle uyanık yaşamdaki müzik etkinlikleriyle güçlü bir süreklilik gösterdiği ve hatıraların yaklaşık yüzde 6'sında kendine yer bulduğu görülmüştür. Müzik dinlemek çoğunlukla olumlu duygularla bağdaştırılırken, şarkı söylemek veya müzik yapmak bazen uyanık yaşamdaki performans kaygıları ve halka açık ortamlarda hata yapma korkusu gibi daha baskılı duygulanımlarla ilişkilendirilmektedir.",
+  "jungian": "Analitik psikolojide şarkı, persona ve gölge gibi farklı psişik katmanların tek bir ses hattında buluşmasını sağlayan simgesel bir ifade alanı olarak ele alınır. Bireyleşme sürecinde içsel sesin duyulur hale gelmesi, bilinçdışı materyallerin melodi aracılığıyla biçim kazanması ve benliğe doğru yönelen bir bütünleşme çabasını simgeler.",
+  "islamicTradition": "Klasik tabir kaynaklarında şarkı söylemek veya dinlemek genellikle bağlama göre farklı şekillerde yorumlanmaktadır. Bazı aktarımlarda batıl sözler, üzüntü, sıkıntı, yalan veya faydasız meşguliyetlerle ilişkilendirilirken, bazı durumlarda sesin gücüne bağlı olarak şöhret, ilim-hikmet arayışı veya ticarî durumlarla bağdaştırılan yorumlar da yer almaktadır.",
+  "christianTraditions": "Hristiyan sembolizminde şarkı duymak veya söylemek; dua, ilahi, ibadet, teselli ve tövbe gibi manevi kavramlarla okunur. Bu tür rüyalar, bireyin manevi dikkatini yeniden toplamasını, toplulukla uyum arayışını veya ilahi iletişimle kurduğu içsel köprüyü simgeleyebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde ve Talmudik yaklaşımlarda, rüyaların içeriklerinin zihne giren imgelerle ilişkili olduğu kabul edilir. Doğrudan sıradan bir şarkı için sabit bir tabir bulunmamakla birlikte, kutsal metinlerin veya özel ilahilerin (örneğin Şir HaŞirim gibi metin başlıklarının) rüyada yankı bulması dindarlık ve manevi yönelim beklentisiyle ilişkilendirilir.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Melodi, söz ve bunlara verilen tepki ayrı hatırlanabilir.",
-  "differences": "İşitsel rüya içeriği araştırması, şarkı sözlerinin kişiye özel bir mesaj olduğunu kanıtlamaz.",
-  "inusAssessment": "Şarkı rüyasında melodi, sözler, söyleyen kişi ve dinleme ortamı birbirinden ayrılabilir. INUS, hatırladığınız ayrıntılarla kişisel çağrışımlarınızı düşünmenizi önerir. Güzel ses içsel dengeyi, yanlış söylenen nota özsaygı sorununu göstermez. Rüyada bir şarkının tanıdık gelmesi, gerçekte aynı söz ve melodide bir eser bulunduğunu da tek başına doğrulamaz.",
-  "faq": [
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda şarkı, sözün ötesine geçen duyguların ve içsel sesin ritmik bir dışavurumu olarak kabul edilir. Bilinçdışından süzülen mesajların melodi yoluyla taşınması, arınma, dönüşüm ve ruhsal uyum arayışının simgesel bir yansımasıdır.",
+  "comparisonTable": [
     {
-      "question": "Rüyadaki şarkının sözleri geleceğe dair mesaj mı?",
-      "answer": "Sözler gelecekteki olayların kanıtı değildir. Tam olarak hatırladığınız kısmı kendi çağrışımlarınızla değerlendirebilir, eksik kısmı belirsiz bırakabilirsiniz."
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Uyanık yaşamdaki müzik alışkanlıklarının, performans kaygılarının ve duygu tonlarının rüyadaki yansıması.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Şarkı duymak ile şarkı söylemek aynı şekilde mi ele alınır?",
-      "answer": "Dinlemek ile ses üretmek farklı eylemlerdir. Dinleyen, söyleyen veya eşlik eden kişi olmanız sahnenin ayrıntılarını değiştirir."
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilinçdışı içeriğin ses ve melodi yoluyla form kazanması, persona ve gölgenin bütünleşme süreci.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel İslami Tabir",
+      "interpretation": "Bağlama göre batıl söz, sıkıntı veya ilim, hikmet ve manevi yöneliş gibi ikili anlamlar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "İçsel sesin duyulması, ruhsal dönüşüm ve söze dökülemeyen duyguların melodiyle ifadesi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, şarkı sembolünün sabit ve tek tip bir anlamı olmadığını; sesin tonunun, rüya görenin duygu durumunun ve içsel bağlamın yorumu belirleyen en temel unsurlar olduğunu vurgular.",
+  "differences": "Ampirik araştırmalar rüyadaki şarkıyı günlük alışkanlıklar ve performans kaygılarıyla açıklarken; geleneksel ve ezoterik okumalar işitsel unsurlara ahlaki, manevi veya simgesel dönüşüm katmanları eklemektedir.",
+  "inusAssessment": "Rüyada şarkı sembolüyle karşılaşmak, diğer nesne rüyalarından farklı olarak doğrudan işitsel ve duygusal bir akışa işaret eder. Şarkının uyanık yaşamdaki anılarla bağı, rüya esnasındaki neşeli veya kaygılı tonu ve sesin kim tarafından çıkarıldığı, rüyanın anlamını tamamen değiştiren kritik ayrıntılardır. Bu sembolü ele alırken tek bir sabit anlam aramak yerine, rüyanın size hissettirdiği duygusal yankıyı ve uyanık yaşamınızdaki ses/ifade alanlarını birlikte değerlendirmek en tutarlı yaklaşımı sunar.",
+  "faq": [
+    {
+      "question": "Rüyada şarkı söylemek utanç veya korku hissettiriyorsa ne anlama gelir?",
+      "answer": "Bu durum genellikle uyanık yaşamda başkaları tarafından yargılanma, hata yapma veya topluluk önünde kendini ifade etme konusunda duyulan kaygıların rüya dilindeki yansıması olarak değerlendirilebilir."
+    },
+    {
+      "question": "Rüyada sürekli aynı şarkıyı veya nakaratı duymak neye işaret eder?",
+      "answer": "Zihinde tekrarlanan melodiler veya nakaratlar, günlük yaşamda takılıp kalınan bazı düşünce kalıplarını, zihinsel döngüleri veya çözülmeyi bekleyen içsel meşguliyetleri temsil edebilir."
     }
   ],
   "sources": [
     {
-      "title": "Quantifying auditory impressions in dreams in order to assess the relevance of dreaming as a model for psychosis",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230212",
-      "relevance": "Özet, yöntem ve müzik/ses örnekleri içeren sonuç bölümü incelendi. 13 katılımcı ve 130 raporla sınırlı işitsel içerik çalışması; şarkının kişisel anlamını veya tanıyı belirlemez.",
-      "author": "Roar Fosse ve Frank Larøi",
-      "year": 2020
+      "title": "Music and dreams: A review - Heidelberger OJS-Journals",
+      "relevance": "Rüyada müzik/şarkı içeriğinin ne sayılabileceğini tanımlar ve müzik rüyalarıyla ilgili genel çerçeveyi verir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/64480/60076/189088"
+    },
+    {
+      "title": "[PDF] Dreams of a music enthusiast: Analysis of a long dream series",
+      "relevance": "Uzun bir rüya serisinde şarkı söyleme ve diğer müzik etkinliklerinin nasıl kodlandığını gösterir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/100107/99311/267279"
+    },
+    {
+      "title": "[PDF] Analysis of music dreams from a musical per- spective",
+      "relevance": "Büyük bir rüya veri setinde müzikle ilgili etkinlik ve algısal öğelerin ayrıntılı biçimde çözümlenmesini sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/libraryFiles/downloadPublic/884"
+    },
+    {
+      "title": "International Journal of Dream Research Volume 17, No. 1 (2024)",
+      "relevance": "Müzik dinleme, müzik yapma ve şarkı söylemenin rüya duygulanımıyla ilişkisini örnekleyen kısa rapor içeriği sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/103012/99326/267301"
+    },
+    {
+      "title": "Music in dreams and music in waking: An online study",
+      "relevance": "Çevrim içi çalışmada müzik rüyalarının sıklığını ve uyanık yaşam müzik etkinlikleriyle bağlantısını raporlar.",
+      "url": "https://ora.ox.ac.uk/objects/uuid:679fdad3-4025-4259-bfbf-b9a1a45f6bf3/files/m7415b48cb3aa6e1f2b2d02125f87374a"
+    },
+    {
+      "title": "International Journal of Dream Research Volume 15, No. 1 (2022)",
+      "relevance": "Rüyalarda müzik temalarının uyanık yaşamda yapılan şarkı söyleme etkinlikleriyle ilişkisini vurgular.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/83829/82637"
+    },
+    {
+      "title": "Music in dreams: Characteristics in musicians and non- ...",
+      "relevance": "Müzik rüyalarının tanımını verir ve rüya içeriğinde şarkı ile ilgili imgelerin sınıflanmasına yardımcı olur.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/104175"
+    },
+    {
+      "title": "Singing dreams: voice, emotional truth, and meaning",
+      "relevance": "Şarkı imgesini Jungcu dilde persona, gölge ve duygusal ifade başlıklarıyla ele alan çevrimiçi yorum metni.",
+      "url": "https://www.echodream.io/interpret/singing-dreams"
+    },
+    {
+      "title": "Jungian Music Psychotherapy: When Psyche Sings 9781138625648, 9781138625662, 9780429459740 - DOKUMEN.PUB",
+      "relevance": "Müziği ve şarkıyı sembolik içerik taşıyan psişik malzeme olarak ele alan Jungcu müzik-psikoterapi çalışması.",
+      "url": "https://dokumen.pub/jungian-music-psychotherapy-when-psyche-sings-9781138625648-9781138625662-9780429459740.html"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik dönemde rüya tabirine ayrılmış temel Greko-Romen metnin varlığını ve kapsamını gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual",
+      "relevance": "Artemidorus’un rüya yorumu yöntemi ve kuş ötüşüne ilişkin örnek pasaj üzerinden ses/işitsel işaretlerin nasıl ele alınabildiğini gösterir.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?guestAccessKey="
+    },
+    {
+      "title": "The Interpretation of DreamsAn Ancient Dream Manual: Artemidorus’ T...",
+      "relevance": "Artemidorus’un rüyaları yorumlarken içsel ve bedensel koşulları dikkate alan yaklaşımına dair akademik bağlam sunar.",
+      "url": "https://journals.openedition.org/kernos/3606?lang=en"
+    },
+    {
+      "title": "İslami Rüya Tabirleri, Nablusi, Kirmani, İbn-i Sirin, İmam Cafer ...",
+      "relevance": "Rüyada şarkı söyleme, şarkı dinleme ve yüksek sesle şarkı söyleme için çeşitli İslami tabirleri derleyen sayfa; doğrudan sembol eşleştirmeleri içeriyor.",
+      "url": "https://medicentertv.com/islami-ruya-tabirleri-nablusi-kirmani-ibn-i-sirin-imam-cafer-sadik-seyyid-suleyman-danyal-s-s"
+    },
+    {
+      "title": "İslami rüya tabirleri -Ş- harfi",
+      "relevance": "Şarkı söylemenin farklı bağlamlardaki rüya tabirlerini maddeler halinde veren İslami rüya tabiri sayfası.",
+      "url": "https://www.ihvanlar.net/islami-ruya-tabirleri-s-harfi-2/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri N Harfi",
+      "relevance": "Şarkıların nakaratını dinleme üzerinden faydasız meşguliyet temasını aktaran Nablusî başlıklı bir rüya tabiri sayfası.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-n-harfi.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri E Harfi",
+      "relevance": "Ezgi ve şarkı söylemeyi şer, kötülük ve münakaşa ile ilişkilendiren İmam Nablusi başlıklı rüya tabiri sayfası.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-e-harfi.html"
+    },
+    {
+      "title": "Hearing a song in your dream | Biblical Dream Meanings ...",
+      "relevance": "Rüyada şarkı duymanın worship, community ve pastoral anlamlar üzerinden ele alınmasını içeren modern Hristiyan yorum yazısı.",
+      "url": "https://biblestep.com/dreams/hearing-a-song-in-your-dream"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Şarkıyı Hristiyan gelenekte ibadet, peygamberlik ve ilahî iletişim çerçevesinde konumlandıran yorumlayıcı metin.",
+      "url": "https://mirrorwithin.org/dream-dictionary/hearing-a-song/"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Rüyalar, onların yorumu ve Berakhot’taki rüya çerçevesi.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Dreaming of Song: Meaning, Symbolism & Interpretation",
+      "relevance": "Rüyada şarkı temasını doğrudan ele alan modern spiritüel yorum; şarkıyı içsel ses, duygu ve ruhsal yönelimle ilişkilendiriyor.",
+      "url": "https://dreamz-journal.com/blog/dream-symbol/song/"
+    },
+    {
+      "title": "Song in Dreams: Voice, Memory, and Meaning | Dreamspoken",
+      "relevance": "Rüyada şarkı duyma temasını duygusal ifade, hafıza ve içsel deneyim bağlamında yorumlayan modern spiritüel kaynak.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/song"
+    },
+    {
+      "title": "The Symbols behind 'Skies • Seas • Rocks' - NikMartken",
+      "relevance": "Şarkı ve alkimyasal sembolizm arasındaki ilişkiyi, dönüşüm ve sembolik bütünleşme temaları üzerinden çağdaş bir örnek olarak gösteren müzik odaklı kaynak.",
+      "url": "https://www.nikmartken.com/the-symbols-behind-skies-seas-rocks/"
+    },
+    {
+      "title": "Significado de la canción THE ALCHEMIST (Bruce Dickinson) - LETRAS.COM",
+      "relevance": "Alkimyasal imgelem taşıyan bir şarkı örneği; dönüşüm, arınma ve birleşme temalarının şarkı formunda nasıl işlendiğine dair malzeme sağlar.",
+      "url": "https://www.letras.com/bruce-dickinson/10828/significado.html"
+    },
+    {
+      "title": "Unlocking Immortality: Alchemy of the Soul by Therion",
+      "relevance": "Şarkı sözlerinde simyasal dönüşüm, ruhsal aydınlanma ve ezoterik sembolizm kullanımına dair çağdaş örnek.",
+      "url": "https://lyricsmeanings.com/therion-alchemy-of-the-soul"
     }
   ],
-  "relatedSlugs": [
-    "sarki-soylemek"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "christian"
   ]
 }

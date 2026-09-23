@@ -1,73 +1,187 @@
 {
   "slug": "elbise",
-  "title": "elbise",
-  "shortDescription": "Rüyada elbise, kendinizi nasıl gösterdiğiniz ve bulunduğunuz ortama nasıl uyum sağladığınız üzerine düşündürebilir. Elbisenin rahatlığı, durumu ve rengi önemlidir.",
+  "title": "Elbise",
+  "shortDescription": "Rüyada elbise görmek, kişinin kendini dış dünyaya nasıl sunduğu, toplumsal konumu ve iç dünyasıyla dış görünüşü arasındaki ilişkiyle bağdaştırılır. Temiz ve yeni elbiseler yenilenme ve saygınlıkla; kirli, yırtık ya da dar elbiseler ise kırılganlık, korunma ihtiyacı veya kendine uymayan bir role sıkışmış hissetmekle ilişkilendirilebilir.",
   "positiveAssociations": [
-    "Kendini rahat ve kendine uygun hissetmek",
-    "Bir ortama hazırlanmak",
-    "Kendi zevkini ifade etmek"
+    "Arınma ve yenilenme",
+    "Onur, itibar ve yüksek statü",
+    "İçsel doğruluk ve adanmışlık",
+    "Yeni bir yaşam evresine hazırlık",
+    "Sosyal uyum ve şeref"
   ],
   "challengingAssociations": [
-    "Üzerine uymayan kıyafetle sıkışmak",
-    "İstemediği biçimde dikkat çekmek",
-    "Giysideki lekeyi gizlemeye çalışmak"
+    "Kırılganlık ve korunma ihtiyacı",
+    "Uyumsuz veya yanlış bir role sığmaya çalışmak",
+    "Utanç, yas ve ahlaki bozulma",
+    "Eksiklik ve sıkıntı"
   ],
   "contextDependentAssociations": [
-    "Elbiseyi seçen kişinin kim olduğu",
-    "Kumaşın ve bedenin rahatlığı",
-    "Elbisenin hangi ortamda giyildiği"
+    "Kıyafetin rengi, maddesi ve temizlik durumu",
+    "Rüyanın genel duygusal tonu",
+    "Kıyafetin giyen kişiye uygun olup olmaması",
+    "Erkek ve kadın kıyafetlerinin yer değiştirmesi"
   ],
   "commonVariations": [
     {
-      "title": "Yeni bir elbise denemek",
-      "description": "Elbiseyi beğenmeniz ile size yakıştırıldığı için giymeniz farklı deneyimlerdir. Aynaya baktığınızda ne hissettiğinizi ve son kararı kimin verdiğini düşünün."
+      "title": "Temiz ve yeni bir elbise giymek",
+      "description": "Rüyada parlak, temiz veya yeni kıyafetler giymek, kişinin hayatında onur, arınma ve daha hayırlı bir döneme geçiş işareti olarak algılanır."
     },
     {
-      "title": "Dar gelen bir elbise giymek",
-      "description": "Hareketinizin kısıtlanması sahnenin bedensel tarafını öne çıkarır. Elbiseyi değiştirebilmeniz, çıkarmaya çalışmanız veya onunla devam etmeniz farklı kişisel çağrışımlar kurdurabilir."
+      "title": "Yırtık veya kirli kıyafetlerle dolaşmak",
+      "description": "Eski, yıpranmış ya da lekeleli elbiseler; içsel kırılganlığı, utanç duyulan durumları veya korunma ihtiyacını öne çıkarır."
     },
     {
-      "title": "Elbisenin lekelenmesi",
-      "description": "Lekenin kendisi mi, başkalarının onu fark etmesi mi sizi rahatsız ediyordu? Rüyanızdaki kaygıyı görünüm, temizlik veya anıya verilen önem üzerinden ayırabilirsiniz."
+      "title": "Çok dar veya başkasına ait bir elbise giymek",
+      "description": "Kişinin kendisine ait olmayan bir rolü üstlenmeye çalışmasını veya ait hissetmediği bir sosyal çevreye uyum sağlama çabasını yansıtır."
     },
     {
-      "title": "Eski bir elbiseyi yeniden giymek",
-      "description": "O elbiseyi gerçek hayatta tanıyorsanız, ait olduğu dönem veya olay önem kazanabilir. Rüyadaki duygu özlem, rahatlık ya da artık size uymama hissi olabilir."
+      "title": "Farklı türde veya renkte kıyafetler seçmek",
+      "description": "Elbisenin yün, pamuk veya ipek gibi belirli kumaşlardan oluşması ya da renginin farklı olması, zâhidlik, ilâhi lütuf, otorite veya toplumsal statü değişimleriyle bağdaştırılabilir."
     }
   ],
-  "psychology": "The Museum at FIT’in Dress, Dreams, and Desire sergisi, moda ile psikanalizin kültürel ilişkisini; beden imgesi, kendini sunma ve korunma gibi başlıklarla ele alır. Bu çerçeve, elbisenin kişisel görünümünüzdeki yerini düşünmeye yardımcı olabilir. Sergi tanıtımı bir rüya deneyi değildir ve elbise görülen rüyaların tek anlamını belirlemez.",
+  "psychology": "Ampirik düzeyde yapılan bazı içerik analizleri, rüyalarda \"kıyafet\" temasının yer almasının daha hoş duygulanımlarla ilişkili olabileceğini düşündürmektedir. Psikanalitik çerçevede ise elbise, bedenin örtülmesi ve görünür olma arasındaki gerilimi simgeler; kıyafet, bastırılmış arzuların ve mahremiyetin dolaylı bir ifadesi olarak okunur.",
   "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Kıyafetin görünümü ile onu giyen kişinin hissettikleri birlikte düşünülebilir.",
-  "differences": "Moda tarihi ve psikanalitik yorum, kültürel bir çerçeve sunar. Sizin rüyanızdaki elbiseye verdiğiniz kişisel anlam, bu çerçeveden otomatik olarak çıkmaz.",
-  "inusAssessment": "Elbise rüyasında renk kadar kıyafetin size nasıl hissettirdiği ve onu kimin seçtiği önemlidir. İsteyerek giydiğiniz bir elbise ile başkasının dayattığı kıyafet aynı deneyimi anlatmaz. INUS, görünüm, rahatlık ve bulunduğunuz ortamı birlikte değerlendirir. Gelinlik, gömlek veya üniforma gibi daha belirli giysiler de kendi kullanım bağlamlarıyla ele alınmalıdır.",
-  "faq": [
+  "islamicTradition": "İslami rüya tabiri geleneğinde elbise tek bir sabit anlama sahip olmayıp kumaşın maddesine, rengine ve durumuna göre değişir. Genel olarak kişinin dinî hâlini, itibarını, mesleğini ve dış dünyaya yansıyan toplumsal konumunu simgeler. Temiz ve ağırbaşlı kıyafetler onur ve hayra yorulurken, yırtık veya kirli giysiler eksiklik ya da sıkıntıyla ilişkilendirilir.",
+  "christianTraditions": "Hristiyan sembolizminde elbise, kişinin ruhsal örtüsü ve Tanrı önündeki doğruluk durumuyla bağlantılıdır. Temiz ve beyaz elbiseler arınma, kurtuluş ve kutsallığı simgelerken; kirli veya yırtık giysiler günah, utanç ve yas dönemlerini çağrıştırabilir.",
+  "jewishTraditions": "Yahudi rüya ve metin geleneğinde giysinin yırtılması, olumsuz bir hükmün veya kısıtlamanın çözülmesi olarak yorumlanır. Kıyafet genel olarak onur, toplumsal konum, örtünme ve mahremiyetle ilişkilendirilir.",
+  "buddhistEasternApproaches": "Budist gelenekte giysi ve cübbe, maddi bir örtünün ötesinde alçakgönüllülük, sadelik, bağış ve etik pratikle bağdaştırılır. Yalın kıyafetler dünyevi statüden uzaklaşmayı ve paylaşılan eşitlik fikrini temsil eder.",
+  "spiritualApproaches": "Spiritüel ve ezoterik okumalarda elbise, kişinin kimliğini nasıl taşıdığını, kendini dış dünyaya nasıl sunduğunu ve bir inisiyasyon veya dönüşüm eşiğinde hangi yeni niteliği benimsediğini gösteren bir eşiktir.",
+  "comparisonTable": [
     {
-      "question": "Yeni elbise görmek evlilik anlamına mı gelir?",
-      "answer": "Yeni bir elbiseden evlilik veya başka bir gelecek olayı çıkarılamaz. Hazırlanma ve değişiklik hissi, rüyadaki ortam ve kişisel deneyimle birlikte düşünülebilir."
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Kıyafet temasının rüyalardaki genel duygusal ton ve hoşlanma düzeyiyle ilişkisini inceler.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Elbisenin rengi mi modeli mi daha önemlidir?",
-      "answer": "Tek bir ayrıntı her zaman öncelikli değildir. Renk, kumaş, rahatlık ve rüyada o elbiseyle ne yaptığınız birlikte ele alınabilir."
+      "approach": "Psikanaliz",
+      "interpretation": "Elbiseyi mahremiyet, örtünme ve bastırılmış arzuların kılık değiştirmiş dışavurumu olarak ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Giysinin rengini, kumaşını ve temizliğini kişinin itibarını, dinî hâlini ve mesleğini belirleyen unsurlar olarak değerlendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Elbiseyi ruhsal doğruluk, kurtuluş, arınma ya da ahlaki bozulmanın bir işareti kabul eder.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Cübbe ve sade kıyafetleri dünyevi arzulardan arınma, sadelik ve erdemli yaşamın bir sembolü sayar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve psikolojik yaklaşımlar, elbisenin bireyin dış dünyaya sunduğu kimlik, toplumsal konum ve içsel durum ile dış görünüş arasındaki dengeyi temsil ettiği noktasında birleşir.",
+  "differences": "Psikolojik yaklaşımlar rüyadaki duygulanım ve arzunun örtülü ifadesine odaklanırken, dini ve geleneksel yaklaşımlar kıyafetin rengine, maddesine ve durumuna dayanarak ahlaki, toplumsal veya ruhsal bir değer atfeder.",
+  "inusAssessment": "Elbise rüyalarını değerlendirirken en kritik nokta, nesnenin tek başına sağladığı veriden ziyade rüya içindeki bağlamın, kıyafetin niteliğinin ve rüya görenin hissettiği tonun bir arada ele alınmasıdır. Temiz, yeni ve mevsime uygun bir kıyafet kişinin sosyal görünürlüğündeki olumlu bir geçişi veya içsel arınmayı işaret ederken; yıpranmış, dar veya uygunsuz elbiseler kimlik uyumsuzluklarını ve korunma ihtiyaçlarını ön plana çıkarır. Bu nedenle rüyadaki elbisenin durumu, kişinin benliğini dış dünyaya hangi rollerle sunduğunun ipuçlarını verir.",
+  "faq": [
+    {
+      "question": "Rüyada temiz ve yeni elbise giymek ne anlama gelir?",
+      "answer": "Çeşitli geleneklerde ve psikolojik bağlamda temiz kıyafet; arınma, yenilenme, içsel onaylanma ve sosyal yaşamda daha saygın bir konuma geçiş arzusuyla ilişkilendirilir."
+    },
+    {
+      "question": "Rüyada yırtık veya kirli elbise görmek olumsuz bir işaret midir?",
+      "answer": "Kesin bir hüküm olmamakla birlikte; yırtık veya kirli elbiseler genellikle kırılganlık, utanç, korunma ihtiyacı veya geçmişteki bazı kalıpların çözülme gereksinimi olarak okunur."
     }
   ],
   "sources": [
     {
-      "title": "Dress, Dreams, and Desire: Fashion and Psychoanalysis",
-      "url": "https://www.fitnyc.edu/museum/documents/dress-dreams-desire-mfit-press-release-final.pdf",
-      "relevance": "The Museum at FIT’in 2025 sergi tanıtımı, giyim ile benlik imgesi ve psikanaliz arasındaki kültürel ilişkiyi açıklar. Rüya içeriklerini kodlayan ampirik araştırma değildir.",
-      "publication": "The Museum at FIT",
-      "year": 2025
+      "title": "[PDF] Dream content analysis using Artificial Intelli- gence",
+      "relevance": "kıyafet",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/48744/54228"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramının temelini veren eser; rüyaları bastırılmış arzuların kılık değiştirmiş doyumu olarak ele alır ve kıyafet/örtünme temasını yorumlamak için kuramsal zemin sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "CHAPTER 5 (part 2) THE MATERIAL AND SOURCES OF DREAMS",
+      "relevance": "Freud’un rüyalarda çıplaklık ve görünürlükle ilgili tartışmasını içerir; elbise imgelerinin örtme, açığa çıkarma ve teşhir ekseninde okunmasına imkân verir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5b.htm"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un antik rüya yorum geleneğindeki merkezi konumunu ve kapsamlı oneirokritik rehber niteliğini gösteren çeviri sayfası.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri E Harfi",
+      "relevance": "Elbise sembolüne doğrudan giriş veren ve elbisenin rüyadaki anlamının cins, madde ve renge göre değiştiğini aktaran metin.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-e-harfi.html"
+    },
+    {
+      "title": "Clothing in Dreams — Islamic Interpretation & Meaning | Dream ...",
+      "relevance": "İslami rüya tabiri geleneğinde giysi sembolünün anlam katmanlarını; itibar, dinî hâl, meslek, renk ve malzeme ayrımlarıyla topluca sunan derleme sayfa.",
+      "url": "https://www.dream-wisdom.com/en/dreams/clothing/"
+    },
+    {
+      "title": "Clothing",
+      "relevance": "Hristiyan rüya dilinde giysi/elbise için doğrudan yorumlar içerir; temiz, kirli, başkasına ait veya dar elbise gibi durumları ruhsal örtü, doğruluk ve yanlış yönelim bağlamında ele alır.",
+      "url": "https://joshuamediaministries.org/dreams/clothing/"
+    },
+    {
+      "title": "Topical Bible: Symbolism of Clothing",
+      "relevance": "Kutsal Kitap’ta giysinin kurtuluş, doğruluk ve Tanrı’nın sağladığı örtü imgesiyle bağlantısını gösteren ayet örnekleri sunar.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_clothing.htm"
+    },
+    {
+      "title": "Topical Bible: Apparel",
+      "relevance": "Giysinin Kutsal Kitap’ta doğruluk ve kurtuluşu simgelediğine dair derleme bir çerçeve verir; beyaz elbise ve kutsalların giysileri gibi imgeleri içerir.",
+      "url": "https://biblehub.com/topical/a/apparel.htm"
+    },
+    {
+      "title": "Berakhot.57a.1-57b.22 | The Sefaria Library",
+      "relevance": "Berakhot 57a–b’nin rüya pasajları; giysi yırtılması ve çıplaklık üzerinden Yahudi rüya yorumunun doğrudan metinsel örneklerini verir.",
+      "url": "https://www.sefaria.org/Berakhot.57"
+    },
+    {
+      "title": "Garment: Significance and symbolism",
+      "relevance": "Budist geleneğinde \"giysi\" kavramı alçakgönüllülük, bağış ve cübbe sembolizmiyle ilişkilendirilir.",
+      "url": "https://www.wisdomlib.org/concept/garment"
+    },
+    {
+      "title": "Buddhist fashion",
+      "relevance": "Budist kıyafet sembolizmini sade giysi, saflık ve eşitlik ekseninde açıklar.",
+      "url": "https://tibetanbuddhistencyclopedia.com/en/index.php?title=Buddhist_fashion"
+    },
+    {
+      "title": "Clothes",
+      "relevance": "Budist giysilerinin sarı/toprak tonları, sadelik ve toplumsal eşitlik ile bağlantısını anlatır.",
+      "url": "https://tibetanbuddhistencyclopedia.com/en/index.php?title=Clothes"
+    },
+    {
+      "title": "Cloth for a Robe and an Unlined Robe - Nichiren Buddhism Library",
+      "relevance": "Nichiren Budizminde cübbe ile sabır ve yumuşaklık arasında kurulan sembolik ilişkiyi açıklar.",
+      "url": "https://www.nichirenlibrary.org/en/wnd-2/Content/259"
+    },
+    {
+      "title": "Vajra Sutra: The Three Robes",
+      "relevance": "Budist cübbe türlerinin işlevlerini ve \"kutsamalar alanı\" gibi ifadelerin anlamını açıklar.",
+      "url": "https://www.500yojanas.org/vajra-sutra-the-three-robes/"
+    },
+    {
+      "title": "On the Clothing(Kasāya) of Buddhist monk and nun in the Early Buddhist community",
+      "relevance": "Erken Budist toplulukta keşiş cübbesinin temsilî ve kurumsal anlamını ele alır.",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001615930"
+    },
+    {
+      "title": "Dress in Dreams: Identity, Presentation, and Change",
+      "relevance": "Elbiseyi spiritüel/simgesel düzlemde kimlik, sunum ve eşik deneyimiyle ilişkilendiren modern yorum metni; ayrıca özel giysilerin yemin, yas, liderlik ve şifa gibi geçiş anlarında kullanıldığını vurgular.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/dress"
+    },
+    {
+      "title": "Clothing in Dreams: Identity, Protection, and How You Want to ...",
+      "relevance": "hazır olma",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/clothing"
+    },
+    {
+      "title": "Garment — Seba Concordance",
+      "relevance": "Ezoterik gelenekte giysinin, özellikle inisiyasyon ve simyasal ardıllık bağlamında, ruhun tamamlanmış dönüşümünü ve güneşsel yeniden doğuşu simgelediğini aktaran derleme kaydı.",
+      "url": "https://www.seba.health/concordance/garment/"
     }
   ],
-  "relatedSlugs": [
-    "elbise-almak",
-    "beyaz-elbise-giymek",
-    "takim-elbise"
-  ]
+  "relatedSlugs": []
 }

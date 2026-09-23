@@ -1,71 +1,243 @@
 {
   "slug": "cam",
-  "title": "cam",
-  "shortDescription": "Rüyada cam, dışarıyı görme imkânı ile aradaki engeli birlikte düşündürebilir. Camın sağlamlığı, saydamlığı ve ona dokunup dokunmadığınız yorumu değiştirir.",
+  "title": "Cam",
+  "shortDescription": "Rüyada cam görmek; netlik, kırılganlık ve kendinizi ne kadar korunaklı ya da savunmasız hissettiğinizle ilgili olabilir. Berrak ve sağlam cam açıklığı, buğulu, renkli veya kırık cam ise belirsizliği, kuşkuyu ya da hassas bir dengenin bozulmasını çağrıştırır.",
   "positiveAssociations": [
-    "Bir şeyi daha net görebilmek",
-    "Görüşü kesmeden korunmak",
-    "Hassas bir eşyayı özenle taşımak"
+    "berraklık",
+    "saflık",
+    "saydamlık",
+    "öz farkındalık",
+    "ilahi berraklık"
   ],
   "challengingAssociations": [
-    "Kırılma ve yaralanma endişesi",
-    "Görüp ulaşamamak",
-    "Çatlağın büyümesini engelleyememek"
+    "kırılganlık",
+    "savunmasızlık",
+    "gizlinin açığa çıkması",
+    "kısa süreli sıkıntılar",
+    "yanılsamaların çözülmesi"
   ],
   "contextDependentAssociations": [
-    "Pencere, bardak veya cam yüzey olması",
-    "Camın temiz, buğulu, çatlak veya kırık olması",
-    "Camın hangi tarafında bulunduğunuz"
+    "içki kapları ve kullanım biçimleri",
+    "renkli camların getirdiği kuşku",
+    "camın bütün veya kırık olması",
+    "madde ve enerji arasındaki sınır algısı"
   ],
   "commonVariations": [
     {
-      "title": "Camın arkasındaki birine ulaşamamak",
-      "description": "Görebilmek ile temas kurabilmek arasındaki fark sahnenin odağı olabilir. Karşıdaki kişinin sizi fark edip etmediğini ve camın açılıp açılmadığını düşünün."
+      "title": "Pırıl Pırıl Berrak Bir Cam Pencereden Dışarıyı İzlemek",
+      "description": "Rüyada temiz ve saydam bir camın arkasından dış dünyayı izlemek, olayları tarafsız bir gözle değerlendirmeye, zihinsel netliğe ve içsel berraklığa işaret eder."
     },
     {
-      "title": "Buğulu camı silmek",
-      "description": "Silince neyi görmeyi beklediğiniz önemlidir. Görüntünün netleşmesi, merak veya rahatlama hissini değiştiriyorsa, kişisel çağrışımınızı bu değişim üzerinden ele alabilirsiniz."
+      "title": "Elde Tutulan Kırılgan Bir Cam Kabın Parçalanması",
+      "description": "Elde tutulan cam bir kabın kırılması, uzun süredir korunan hassas bir dengenin sarsılmasına, gizlenen bazı durumların ifşa olmasına veya eski kalıpların kırılarak değişmesine delalet edebilir."
     },
     {
-      "title": "Kırık camları toplamak",
-      "description": "Burada kırılma anından çok sonrasındaki dikkat ve temizleme işi öne çıkabilir. Kimi korumaya çalıştığınızı ve yardım alıp almadığınızı hatırlayın."
+      "title": "Renkli Veya Buğulu Camlar Ardından Bakmak",
+      "description": "Şeffaf olmayan, renkli ya da buğulu camlar rüyada belirsizlikleri, olaylar karşısındaki kuşkuları, gerçeği tam olarak görememe durumunu veya duygusal filtreleri simgeler."
     },
     {
-      "title": "Çatlamış bir cam kabı taşımak",
-      "description": "Kabın içindekini korumak ile kabı düşürmemek farklı kaygılardır. Ne taşıdığınız, onu neden bırakmadığınız ve elinizde ne hissettiğiniz sahneyi daha belirgin kılar."
+      "title": "Erişilmez Bir Cam Bariyerle Karşılaşmak",
+      "description": "Geçilemeyen şeffaf bir cam duvar, kişinin çevresiyle veya kendi duygularıyla arasındaki mesafeyi, olayları zihinsel olarak kavramasına rağmen henüz deneyimleyememiş olmasını yansıtır."
     }
   ],
-  "psychology": "",
-  "jungian": "IAAP’nin Jung’un Psikoloji ve Simya eserine ilişkin özetinde, içinde jelatinimsi madde bulunan bir cam kap, belirli bir kişinin rüya dizisi içinde ele alınır. Aynı derleme, rüyayı önceden belirlenmiş anlamlarla çözmek yerine bağlamını inceleme gereğini vurgular. Bu tek örnek, bütün camların bilinç ile bilinçdışı arasındaki sınırı temsil ettiğini göstermez.",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Camın biçimi ve içinde ya da arkasında bulunan şey, kişisel çağrışımları ayırt etmeye yardımcı olur.",
-  "differences": "Jungcu kaynak belirli bir rüya dizisinin kuramsal yorumunu aktarır. Buradaki gündelik sahne önerileri ise kendi rüyanızın ayrıntılarını düşünmeniz içindir.",
-  "inusAssessment": "Camın saydamlığı, bir şeyi görmeye izin verirken dokunmayı engelleyebilir; kırılması ise sahnenin akışını değiştirebilir. Bunlar kişisel çağrışım kurmak için kullanılabilecek somut özelliklerdir. Pencere, bardak ve yerdeki cam parçaları aynı rüya değildir. INUS değerlendirmesi nesnenin biçimini, onunla ne yaptığınızı ve rüyadaki duyguyu birlikte ele alır.",
-  "faq": [
+  "psychology": "Rüya içerik analizleri, rüyaların önemli bir bölümünde yoğun duyguların yer aldığını ve özellikle tedirginlik, çaresizlik gibi temaların sıkça kodlandığını gösterir. Cam sembolü rüyalarda doğrudan sabit bir anlam taşımaz; rüya görenin o anki duygusal tonuna ve bağlamına göre şekillenir.",
+  "jungian": "Analitik psikolojide cam, şeffaflığı sayesinde arkasındakini görmeye izin verirken dokunmayı engelleyen bir arayüz işlevi görür. Bu durum, içeriği zihinsel düzeyde fark etme fakat henüz deneyimlememe gerilimini çağrıştırır. Camın çatlaması ise katılaşmış eski benlik tutumlarının kırılması ve dönüşüm ihtiyacını temsil edebilir.",
+  "islamicTradition": "Modern derlemelerde cam; şeffaflığı dolayısıyla gizli olanın açığa çıkması, örtüsüzlük ve kısa süreli kederlerle ilişkilendirilir. Renkli camların ise insan ilişkilerinde ve eş veya mal bağlamında kuşkular ya da aldanma ihtimali taşıdığı aktarılır.",
+  "christianTraditions": "Hristiyan sembolizminde cam; insanın savunmasızlığı, kırılganlığı ve ilahi hakikatin şeffaf bir şekilde görünürleşmesiyle bağdaştırılır. Kutsal metinlerde geçen berrak cam imgeleri, saflık ve sükûnet temalarını destekler.",
+  "jewishTraditions": "Yahudi geleneğinde cam nesneler, hem evlilik ritüellerinde Tapınak'ın yıkımını anımsatan kırılganlık temasıyla hem de Talmudik yorumlarda rüyada kırılan cam kapların bir isteğin gerçekleşmesine işaret edebileceği yönündeki inançla ele alınır.",
+  "buddhistEasternApproaches": "boşluk",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda cam, iç ve dış dünya arasında hem koruyucu hem de ayıran şeffaf bir eşik olarak kabul edilir. Simyasal açıdan ise dönüşümün gerçekleştiği kap ve sabitleme fikriyle bağdaştırılır.",
+  "comparisonTable": [
     {
-      "question": "Kırık cam kötü bir olayın habercisi mi?",
-      "answer": "Rüyada kırılan cam gelecekteki bir kazayı veya ayrılığı göstermez. Kırılma karşısındaki tepkiniz ve sonrasında yaptıklarınız kişisel değerlendirme için daha somuttur."
+      "approach": "Psikolojik ve İçerik Analizi",
+      "interpretation": "Duygusal duruma ve rüya bağlamına bağlı olarak tedirginlik, kırılganlık veya mesafe algısını yansıtır.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Cam ile gözlük aynı simge midir?",
-      "answer": "Hayır. Cam bir malzeme, gözlük belirli bir işleve sahip eşyadır. Görüntüde asıl dikkat çeken nesneyi ayırmak, anlamları birbirine karıştırmayı önler."
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Bilinç ile bilinçdışı arasındaki geçirgen eşik, ego sınırları ve dönüşüm gereksinimi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami ve Geleneksel Yorum",
+      "interpretation": "Gizlinin açığa çıkması, geçici kederler ve renkli camlarda kuşkular.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "İç ve dış dünya arasındaki koruyucu sınır, şeffaflık ve simyasal kap simgesi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplin ve geleneklerin hemen hepsinde cam, saydamlığı ve kırılganlığı ekseninde ele alınır; bu da onun hem koruyucu bir bariyer hem de tehlikeye açık hassas bir sınır olduğunu gösterir.",
+  "differences": "Yaklaşımlar arasındaki temel fark, ampirik psikolojinin rüyayı duygusal içerik bağlamında ele alması; Jungcu ve spiritüel geleneklerin bunu içsel dönüşüm ve eşik sembolizmine bağlaması; dini ve kültürel geleneklerin ise gizli olanın ifşası veya belirli ritüel çağrışımlar üzerinden yorumlamasıdır.",
+  "inusAssessment": "Cam rüyaları, şeffaflık ile kırılganlık arasındaki hassas dengeyi merkeze alır. Rüyada camın sağlam, kirli, buğulu, renkli ya da kırılmış olması, kişinin kendi iç dünyasındaki sınırları ne kadar koruyabildiğini veya hangi gerçeklerle yüzleşmek zorunda olduğunu belirleyen en kritik ayrıntıdır.",
+  "faq": [
+    {
+      "question": "Rüyada cam görmek her zaman kötü bir olaya mı işaret eder?",
+      "answer": "Hayır. Camın durumu, rüyanın duygu tonu ve bağlamına göre berraklık, farkındalık veya saflık gibi olumlu anlamlar da taşıyabilir."
+    },
+    {
+      "question": "Rüyada kırık cam görmek ne anlama gelir?",
+      "answer": "Kırık cam; katılaşmış tutumların değişmesi, yanılsamaların çözülmesi veya hassas bir dengenin sarsılması gibi farklı bağlamsal katmanlarla yorumlanabilir."
     }
   ],
   "sources": [
     {
-      "title": "Volume 12: Psychology and Alchemy — Collected Works Abstracts",
-      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-12-psychology-alchemy/",
-      "relevance": "000400 numaralı özet cam kap içeren belirli bir rüya yorumunu; 000397 ise bağlamı inceleme gereğini aktarır. Jung’un eserinin kurumsal özeti, genel cam tabiri değildir."
+      "title": "Studying Dream Content Using Dreambank.Net",
+      "relevance": "Rüya içeriklerinin duygusal dağılımını ve içerik kodlama yaklaşımını gösterir; cam gibi bir nesnenin rüya bağlamında anlamının duygu ve içerik üzerinden incelenmesi için temel sağlar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2004d.html"
+    },
+    {
+      "title": "The Nightmares of Sleep Apnea - PMC - NIH",
+      "relevance": "Kabus sıklığı ile uyku fizyolojisi arasındaki ilişkiyi bildirir; rüya içeriğindeki tehdit ya da yoğunluğun yalnızca sembolden değil uyku durumundan da etkilenebileceğini gösterir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2823279/"
+    },
+    {
+      "title": "Glass in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Camın şeffaflık ve erişilemezlik özelliklerinin, içeriği zihinsel düzeyde bilip henüz yaşamama gerilimiyle ilişkilendirildiğini tartışır.",
+      "url": "https://rosmertapublishing.com/dream-symbols/glass/"
+    },
+    {
+      "title": "Molten glass in a Dream: Meaning and Sources",
+      "relevance": "Kırık camı eski benlik biçimlerinin yetersizleşmesi ve dönüşüm ihtiyacıyla ilişkilendirir.",
+      "url": "https://rosmertapublishing.com/dream-symbols/molten-glass/"
+    },
+    {
+      "title": "Glass: From Trauma to Creative Life (유리: 상처에서 창조적 삶으로)",
+      "relevance": "Camın analitik psikoloji ve kum oyun terapisi (sandplay) bağlamında travma, dönüşüm ve yaratıcı yaşama geçişle ilişkisini ele alır.",
+      "url": "https://journal.kci.go.kr/sandplay/archive/articleView?artiId=ART002668119"
+    },
+    {
+      "title": "Dreams In Jungian Psychology: The use of Dreams as ... - PMC",
+      "relevance": "Jung’un sembol anlayışını ve sembollerin tam kavramsallaşmamış anlam taşıyan yapısını açıklar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3216128/"
+    },
+    {
+      "title": "Interpretation of Dreams: Oneirocritica by Artemidorus - Goodreads",
+      "relevance": "Cam kapların rüyalarda kırılganlık ve saydamlık üzerinden yorumlandığı klasik oneirokritik pasaj.",
+      "url": "https://www.goodreads.com/book/show/604460.Interpretation_of_Dreams"
+    },
+    {
+      "title": "The Interpretation of Dreams by Artemidorus",
+      "relevance": "Cam kapların tehlike ve sırların açığa çıkmasıyla ilişkilendirildiği klasik rüya yorumu pasajı.",
+      "url": "https://www.goodreads.com/book/show/51771350"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of the Interpolating ...",
+      "relevance": "Artemidorus’un rüya tipleri ve yorum mantığı üzerine akademik bağlam; rüya sembollerinin bağlama göre okunmasını açıklar.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf",
+      "relevance": "Cam için Nablusî’ye nispet edilen şeffaflık ve gizlinin açığa çıkması temasını içeren modern derleme sayfası.",
+      "url": "https://turuz.com/storage/mifoloji/0404-Boyuk_Islam_Ruya_Tebirleri_Ansiklopedisi-Nablusi_Ibni_Sirin_Ve_Seyyid_Sulymandan_Derlenmish-Yasan-M.Necati_Bursali-1998-666s-_1.pdf"
+    },
+    {
+      "title": "تفسير رؤية الزجاج في المنام: دلالات ابن سيرين والنابلسي",
+      "relevance": "Camın rüyada kısa süreli keder ve görünürlükle ilişkilendirildiğini aktaran çevrim içi özet.",
+      "url": "https://mana.ms/blog/ar/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%B2%D8%AC%D8%A7%D8%AC-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85"
+    },
+    {
+      "title": "‏تفسير رؤية الزُّجاج في المنام | أبجد هوز",
+      "relevance": "Camın Nablusî’ye nispetle geçici sıkıntı ve açıklık anlamında ele alındığı çevrim içi özet.",
+      "url": "https://www.emirates7.com/article/52164"
+    },
+    {
+      "title": "تفسير توزيع الزجاج المشوي في المنام",
+      "relevance": "Camın gizlinin açığa çıkması ve renkli camın kuşku/aldanma çağrışımlarıyla anıldığı çevrim içi metin.",
+      "url": "https://roayat.net/43595-%D8%AA%D9%88%D8%B2%D9%8A%D8%B9.html"
+    },
+    {
+      "title": "The Biblical Meaning of Glass in a Dream: A Divine Revelation Unveiled - John Baptist Church",
+      "relevance": "Camın rüyada görülmesini Hristiyan çerçevede saflık, berraklık, kırılganlık ve içsel açıklık temalarıyla ilişkilendiren modern bir yorum metni.",
+      "url": "https://johnbaptistchurch.org/biblical-meaning-experiences/glass-in-a-dream"
+    },
+    {
+      "title": "Glass in Scripture: What Does It Symbolize? - Christian Pure",
+      "relevance": "Vahiy kitabındaki 'camdan deniz' ifadesini Tanrı’nın huzuru, saflık ve göksel berraklık sembolizmiyle açıklayan Hristiyan içerik.",
+      "url": "https://christianpure.com/learn/glass-symbolism-bible/"
+    },
+    {
+      "title": "Topical Bible: Glass: Symbolical",
+      "relevance": "Camı Kutsal Kitap’ta sembolik olarak berraklık, saflık ve ilahi açıklanma temalarıyla ilişkilendiren sözlük tarzı bir Hristiyan kaynak.",
+      "url": "https://biblehub.com/topical/naves/g/glass--symbolical.htm"
+    },
+    {
+      "title": "Berachot: 57a - Talmud",
+      "relevance": "Rüyada kırılan cam kapların, isteğin karşılandığını bildiren Talmudik rüya işareti.",
+      "url": "https://www.chabad.org/torah-texts/5299917/Talmud/Berachot/Chapter-9/57a"
+    },
+    {
+      "title": "Breaking the Glass at a Jewish Wedding - My Jewish Learning",
+      "relevance": "Yahudi düğününde cam kırma geleneğinin tarihsel anlam katmanları: Tapınak yıkımını anma, kırılganlık ve evlilik bağı.",
+      "url": "https://www.myjewishlearning.com/article/breaking-the-glass-at-a-jewish-wedding/"
+    },
+    {
+      "title": "13 Facts About Jews and Glass",
+      "relevance": "Cam kırma geleneğini Tapınak yıkımıyla ilişkilendiren kısa Yahudi açıklaması.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/7253087/jewish/13-Facts-About-Jews-and-Glass.htm"
+    },
+    {
+      "title": "Glass - Jewish Virtual Library",
+      "relevance": "Camın Yahudi maddi kültüründeki yeri ve tarihsel bağlamı; cam nesnelerin Yahudi çevrelerde kullanımına dair arka plan.",
+      "url": "https://jewishvirtuallibrary.org/glass"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Yahudi geleneğinde rüyaların yorumlanışı ve hatavat chalom uygulaması.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "Dream About Glass: Meaning & Interpretation | Revalite",
+      "relevance": "Camın saydamlığı ile Budist boşluk ve yanılsama temalarını ilişkilendiren modern bir açıklama.",
+      "url": "https://my.astrofame.com/dream-interpretation/dream/glass/"
+    },
+    {
+      "title": "A Study on Glass Pagodas from the Palace Museum, Beijing",
+      "relevance": "Budist metinlerde camın yedi hazineden biri olarak geçtiğini ve kutsal değer taşıdığını gösteren çalışma.",
+      "url": "https://journals.publishing.umich.edu/jgs/article/id/6941/"
+    },
+    {
+      "title": "Glass vessel: Significance and symbolism",
+      "relevance": "Budist bağlamda cam kabın saydamlık ve algı/bilinç ilişkisi üzerinden ele alınması.",
+      "url": "https://www.wisdomlib.org/concept/glass-vessel"
+    },
+    {
+      "title": "Glass Containers’ Aura: The Gestalt of Material Milieu",
+      "relevance": "Budist nesnelerde camın kutsal içeriği görünür kılan şeffaflık ve kozmolojik sembolizmle ilişkisi.",
+      "url": "https://academic.oup.com/arthistory/article/44/1/108/7276790?login=false&guestAccessKey="
+    },
+    {
+      "title": "Looking glass: Significance and symbolism",
+      "relevance": "Yansıtıcı yüzeylerin Budist öz-farkındalık ve ego ile mesafe temasına bağlanması.",
+      "url": "https://www.wisdomlib.org/concept/looking-glass"
+    },
+    {
+      "title": "Glass Dream Meaning & Interpretation - Mirror",
+      "relevance": "Camın rüya sembolü olarak şeffaflık, kırılganlık ve algının netliği gibi temalarla ilişkilendirildiği modern spiritüel yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/glass/"
+    },
+    {
+      "title": "Glass in dreams — meaning and symbolism",
+      "relevance": "Camın ezoterik bir okunuşta arınma, koruma ve iç-dış dünya arasındaki eşik olarak ele alınması.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/glass"
+    },
+    {
+      "title": "Glass. The interpretation of the dream, the Smorfia numbers",
+      "relevance": "Camın spiritüel yorumunda şeffaflık, kırılganlık ve maddi/dünyevi ile ruhsal alan arasındaki sınır fikri.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=glass"
+    },
+    {
+      "title": "A Dictionary of Alchemical Imagery | Book of Shadows",
+      "relevance": "Simyasal sembolizm açısından camın ‘kap/vessel’ olarak düşünülmesi; alşimik dönüşüm, putrefaction ve sabitleme süreçleriyle ilişki.",
+      "url": "https://www.quotev.com/story/4798826/Book-of-Shadows/61"
+    },
+    {
+      "title": "Dream About Glass: Meaning and Interpretation",
+      "relevance": "Camın kırılganlık, görünürlük ve ruhsal eşik olarak modern spiritüel okumadaki kullanımı.",
+      "url": "https://www.tarotread.ai/articles/dream-about-glass"
     }
   ],
-  "relatedSlugs": [
-    "cam-bardak",
-    "cam-kirilmasi",
-    "kirik-cam"
-  ]
+  "relatedSlugs": []
 }

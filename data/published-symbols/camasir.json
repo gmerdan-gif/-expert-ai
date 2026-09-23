@@ -1,0 +1,225 @@
+{
+  "slug": "camasir",
+  "title": "Çamaşır",
+  "shortDescription": "Rüyada çamaşır görmek, birikmiş yüklerden arınma, bastırılmış meselelerin ortaya çıkması ve yenilenme ihtiyacıyla ilişkilendirilir. Kirli çamaşır çözülmemiş sıkıntıları; yıkamak temizlenme çabasını, asmak ise ferahlayıp dış dünyaya yeniden açılmayı anlatır.",
+  "positiveAssociations": [
+    "Arınma",
+    "Yüklerden kurtulma",
+    "Zihinsel berraklık",
+    "Manevi hazırlık ve tövbe",
+    "Yenilenme"
+  ],
+  "challengingAssociations": [
+    "Büyük keder ve sıkıntılar",
+    "Gizli yönlerin veya sırların açığa çıkması korkusu",
+    "İtaatsizlik ve vicdani huzursuzluk",
+    "Tekrar eden zihinsel döngüler ve yorgunluk"
+  ],
+  "contextDependentAssociations": [
+    "Çamaşırın temiz, kirli, yıkanmakta veya asılmakta olması",
+    "Rüyadaki suyun bedensel ve duygusal bağlamı",
+    "Kıyafetlerin renkleri ve türleri"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kirli Çamaşır Biriktirmek",
+      "description": "Günlük yaşamda bastırılmış ya da henüz çözülmemiş duygusal yüklerin, gerilimlerin ve tanınmamış gölge yönlerin zihinde biriktiğine işaret eder."
+    },
+    {
+      "title": "Çamaşır Yıkamak",
+      "description": "Büyük bir üzüntüden, sıkıntıdan veya vicdani bir yükten kurtulma çabasını; geçmişteki izleri temizleme arzusunu simgeler."
+    },
+    {
+      "title": "Çamaşır Asmak",
+      "description": "Çamaşır asmak, başta sıkıntı veren bir beladan ya da kaygıdan selamete erme, içsel berraklığa kavuşma ve dış dünyaya yeniden temiz bir imajla açılma anlamına gelir."
+    },
+    {
+      "title": "Renkli veya Beyaz Çamaşır Görmek",
+      "description": "Renkli çamaşırlar büyük keder ve karmaşık sıkıntılara işaret edebilirken, beyaz çamaşırlar hafif kırgınlıklar, saflık arayışı ve manevi hazırlıkla okunur."
+    }
+  ],
+  "psychology": "Psikolojik açıdan çamaşır ve yıkama temaları, gündelik nesneler üzerinden dolaylı bir temsil alanı sunar. Psikanalitik çerçevede su, bedensel dürtüler, kökensel bağlar ve doğum fantazileriyle ilişkilendirilirken, yıkama sahneleri leke, utanç veya bastırılmış içeriklerin gerilimiyle bağlantılı okunabilir.",
+  "jungian": "Jungcu perspektifte çamaşır yıkama eylemi, bilinçdışı ve gölge unsurlarla temas kurarak bireyleşme ve bütünleşme yönünde atılan yumuşak bir adımdır. Yıkama işleminin tekrar etmesi ise psikolojik olarak henüz tamamlanmamış ve işlenmeyi bekleyen içsel süreçlere dikkat çeker.",
+  "islamicTradition": "İslami rüya yorumlarında kirli kıyafetler itaatsizlik, günahlar ve sıkıntıyla; çamaşır yıkamak ise büyük bir üzüntüden kurtulma, tövbe etme ve manevi arınma çabasıyla ilişkilendirilir. Çamaşır asmak selamete erme ve belalardan kurtulma habercisi olarak kabul edilir.",
+  "christianTraditions": "Hristiyan teolojik sembolizminde giysilerin yıkanması içsel arınma, tövbe ve vicdanın temizlenmesi anlamına gelir. Kutsal metinlerdeki hazırlık ve ritüel arınma temaları, çamaşırın Tanrı'nın huzuruna çıkmaya hazırlanması ve yeni bir başlangıca işaret etmesi bağlamında ele alınır.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüya sabit bir hüküm barındırmaktan ziyade yoruma açıktır. Çamaşır gibi temizlik ve hazırlık temaları, rüyanın akışına ve kişisel bağlama göre iyileştirici veya olumluya dönüştürülebilir bir anlam alanı sunar.",
+  "buddhistEasternApproaches": "Doğu ve Budist yaklaşımlarda yıkama ve temizlenme imgesi, zihinsel kirlenmelerden, dünyevi bağlılıklardan ve ego yüklerinden arınarak zihinsel saflığa ulaşma çabasını temsil eder.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda çamaşır, günlük hayatın getirdiği zihinsel birikimlerin, suçluluk duygularının ve yorgunlukların geride bırakılması gereken ritüel bir arınma alanı olarak ele alınır.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Bedensel dürtüler, gizli istekler ve bastırılmış gerilimlerin dolaylı dışavurumu.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Gölgeyle temas, bilinçdışı unsurların işlenmesi ve psikolojik yenilenme süreci.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Tövbe, günahlardan arınma, üzüntüden kurtulma ve selamete erme.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "İçsel arınma, vicdan temizliği, vaftiz ritüelinin dili ve kutsal karşılaşmaya hazırlık.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Zihinsel yüklerin bırakılması, kişisel imajın düzenlenmesi ve ritüel arınma.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve psikolojik ekoller arasında çamaşır sembolü, ağırlıklı olarak 'kirlenme ile temizlenme', 'yüklerden kurtulma' ve 'yeniden yapılanma' ekseninde ortaklaşmaktadır.",
+  "differences": "Yaklaşımlar arasındaki temel fark, psikanalizin bunu bedensel dürtüler ve bastırılmış gerilimlerle açıklamasına karşın, dinî ve spiritüel geleneklerin süreci daha çok manevi arınma, tövbe ve hazırlık ritüeli olarak ele almasıdır.",
+  "inusAssessment": "Rüyada çamaşır görmek, nesnenin kendi durumundan çok eylemin niteliğine (yıkanması, asılması ya da kirli kalması) bağlı olarak anlam değiştirir. Bu sembol, rüya görenin hayatındaki birikmiş yükleri, bastırılmış meseleleri ve arınma ihtiyacını yansıtması bakımından son derece dinamiktir; dolayısıyla rüyanın duygusal tonu ve çamaşırın o anki hâli yorumu belirleyen temel unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada kirli çamaşır görmek ne anlama gelir?",
+      "answer": "Kirli çamaşırlar genellikle henüz çözülmemiş duygusal yükleri, bastırılmış gerilimleri ya da vicdani huzursuzlukları temsil eder."
+    },
+    {
+      "question": "Çamaşır yıkamak rüyası psikolojik olarak nasıl yorumlanır?",
+      "answer": "Psikolojik ve spiritüel açıdan çamaşır yıkamak, geçmişteki izleri temizleme, zihinsel berraklık kazanma ve içsel yüklerden kurtulma çabasını simgeler."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Laundry Dream Meaning & Interpretation - Mirror",
+      "relevance": "Çamaşır rüyasını temizlik, duygusal işleme ve yeni evreye hazırlanma gibi temalarla ilişkilendiren bir yorum sayfası.",
+      "url": "https://mirrorwithin.org/dream-dictionary/laundry/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüyada su imgesini doğum ve bedenle ilişkilendirdiği bölüm; çamaşırla bağlantılı yıkama ve ıslatma sahneleri için yakın kavramsal çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 3 - Classics in the History of Psychology",
+      "relevance": "Rüyayı istek doyumu olarak ele alan temel metin; çamaşır gibi gündelik nesnelerin sabit değil bağlamsal okunmasını destekler.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams3.htm"
+    },
+    {
+      "title": "Context",
+      "relevance": "Freud'un su imgelerini bedensel ihtiyaçlar ve idrar dürtüsüyle ilişkilendiren aktarımı; çamaşır-yıkama sahnelerinde beden çağrışımlarını düşünmek için kullanılır.",
+      "url": "https://www.shmoop.com/study-guides/interpretation-of-dreams/context-symbol.html"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/261",
+      "relevance": "Doğumun rüyalarda suyla ifade edilebildiğini gösteren pasaj; çamaşırın yıkama/temizleme bağlamında suyla kurduğu ilişki için yakın psikanalitik arka plan sunar.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams (1900)",
+      "relevance": "Bastırılmış çatışmaların rüyada dolaylı biçimde sahnelenmesi fikrini taşıyan Freud yorumuyla bağlantılı genel çerçeve; çamaşır imgesinin tek başına değil, rüya örgüsü içinde incelenmesini destekler.",
+      "url": "https://brians.wsu.edu/2016/11/07/sigmund-freud-the-interpretation-of-dreams-1900/"
+    },
+    {
+      "title": "Laundry in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Yıkama tekrarını Jungcu okumada tamamlanmamışlık ve yineleme temasıyla bağlayan çevrim içi metin.",
+      "url": "https://rosmertapublishing.com/dream-symbols/laundry/"
+    },
+    {
+      "title": "Washing Dreams: Meaning & Interpretation | Somniscient",
+      "relevance": "Yıkama imgesini Jungcu çerçevede bilinçdışı ve gölgeyle temas olarak yorumlayan çevrim içi kaynak.",
+      "url": "https://somniscient.com/en/symbols/washing"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidorus’un Oneirocritica’sının tarihsel bağlamını, kapsamını ve Greko-Romen rüya yorum geleneğindeki yerini özetler.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’a atfedilen çeviride kıyafet yıkama rüyasının yorumunu verir; çamaşır/yıkama temasına ilişkin tarihsel oneirokritik içerik sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri İ Harfi",
+      "relevance": "İç çamaşır motifi üzerinden rüyada gizlilik, hediye, hastalık ve keder temalarını verir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-i2-harfi.html"
+    },
+    {
+      "title": "Çamaşır Yıkamak Rüyada Görmek İmam Nablusi",
+      "relevance": "Çamaşır yıkamak ve çamaşır asmak için doğrudan rüya tabiri aktarımları sunar; temizlik, sıkıntıdan kurtulma ve selamet temalarını içerir.",
+      "url": "https://www.islamda.org/2015/06/camasir-yikamak-ruyada-gormek-imam.html"
+    },
+    {
+      "title": "What is the interpretation of a dream about washing clothes for Ibn Sirin? - Interpretation of dreams online",
+      "relevance": "Kirli kıyafetlerin günah ve itaatsizlikle, yıkamanın ise arınma ve tövbe ile ilişkilendirildiği bir çamaşır okuması sunar.",
+      "url": "https://en.interpret-dreams-online.com/Interpretation-of-a-dream-about-washing-clothes/"
+    },
+    {
+      "title": "İmam Nablusi A'dan Z'ye Rüya Tabiri",
+      "relevance": "Temizlik, abdest ve arınma temasını veren kısa bir Nablusî derlemesi; çamaşır sembolünü yakın anlam alanında konumlandırmak için yararlı.",
+      "url": "https://www.tahavi.com/ruya-tabirleri-imam-nablusi/"
+    },
+    {
+      "title": "What does \"wash his clothes\" symbolize in our spiritual ...",
+      "relevance": "Giysi yıkamanın tövbe, temizlik ve görünür itaatle ilişkisini açıklayan İncilî sembolizm sunar.",
+      "url": "https://biblehub.com/q/Symbolism_of_wash_clothes_in_faith.htm"
+    },
+    {
+      "title": "Topical Bible: Washing of Clothes",
+      "relevance": "Giysi yıkamanın kutsal metinlerde arınma ve hazırlık anlamı taşıyan bir sembol olarak ele alınışını derler.",
+      "url": "https://biblehub.com/topical/w/washing_of_clothes.htm"
+    },
+    {
+      "title": "Topical Bible: The Act of Washing Clothes",
+      "relevance": "Yıkama eyleminin günahın temizlenmesi, yenilenme ve doğruluğa dönüş olarak sembolleştirilmesini gösterir.",
+      "url": "https://biblehub.com/topical/t/the_act_of_washing_clothes.htm"
+    },
+    {
+      "title": "How does Exodus 19:14 reflect the preparation for receiving ...",
+      "relevance": "Çamaşır yıkamayı Tanrı’nın huzuruna hazırlık, ritüel temizlik ve kutsal karşılaşma bağlamına yerleştirir.",
+      "url": "https://biblehub.com/q/Exodus_19_14_Preparing_for_God_s_law.htm"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Berakhot’taki rüya yorum ilkelerini ve 'yorumlanmamış rüya' temasını gösterir.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Yahudi literatüründe rüyaların sembolik yorumlanmasına dair genel çerçeve sunar.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Talmud’daki rüya 'iyileştirme' ritüellerini ve rüyaların dönüştürülebilirliğini özetler.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Significance of Dreams",
+      "relevance": "Talmud’daki yorum merkezli yaklaşımı ve rüyaların önemine dair kısa bir özet verir.",
+      "url": "https://aish.com/significance-of-dreams/"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Budist bağlamda yıkama ve temizlenme temasını, zihinsel kirlenmelerden arınma ve dünyevi bağlılıklardan sıyrılma ekseninde ele alır; çamaşır sembolüne kontrollü bir Budist okuma için kullanılabilir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/washing-clothes/"
+    },
+    {
+      "title": "Washing in dreams — meaning and symbolism",
+      "relevance": "Rüyada yıkama temasını duyguların, ilişkilerin ve gündelik alışkanlıkların tazelenmesiyle ilişkilendiren sembolik bir okuma sunar; çamaşırın temizlenmesi fikrine yakın durur.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/washing"
+    },
+    {
+      "title": "Washing Machine Dream Meaning & Interpretation - Mirror",
+      "relevance": "Çamaşır makinesi rüyasını döngüsel temizlik, duygusal arınma ve tekrar eden meseleleri düzenleme olarak yorumlar; çamaşır sembolünün mekanik/işlemsel yönünü aydınlatır.",
+      "url": "https://mirrorwithin.org/dream-dictionary/washing-machine/"
+    },
+    {
+      "title": "Washing Dishes in Dreams: Meanings, Context, and Practical ...",
+      "relevance": "Bulaşık yıkamayı duygusal işlemleme ve bir tür arınma ritüeli olarak ele alır; yıkama eyleminin spiritüel sembolizmini çamaşır sembolüyle ilişkilendirilebilir kılar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/washing-dishes"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "buddhist-eastern"
+  ]
+}

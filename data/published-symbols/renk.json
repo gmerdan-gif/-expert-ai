@@ -1,76 +1,243 @@
 {
   "slug": "renk",
-  "title": "renk",
-  "shortDescription": "Rüyada renk, bir nesneyi belirginleştirebilir veya sahnenin duygusunu değiştirebilir. Hangi rengin nerede görüldüğü ve kişisel çağrışımları, genel renk tabirlerinden daha açıklayıcıdır.",
+  "title": "Renk",
+  "shortDescription": "Rüyada renk görmek, rüyanın duygusal atmosferini ve sahnedeki kişi, nesne ya da olayın sizin için önemini vurgulayabilir. Canlı renkler yoğun duyguları, soluk veya gri tonlar ise duygusal uzaklaşma ya da düşük enerjiyi çağrıştırabilir; asıl ipucu rengin tonu, baskınlığı ve sizde uyandırdığı histir.",
   "positiveAssociations": [
-    "Bir ayrıntının dikkat çekmesi",
-    "Sevdiği renklerden keyif almak",
-    "Görsel bir düzen kurmak"
+    "Duygusal yoğunluk ve canlılık",
+    "Bütünleşme ve psikolojik denge arayışı",
+    "Ruhsal farkındalık ve sezgisel açıklık",
+    "İçsel dönüşüm ve yenilenme"
   ],
   "challengingAssociations": [
-    "Göz alıcı görüntüden rahatsız olmak",
-    "Renkleri seçememek",
-    "Tanıdık bir nesnenin renginin değişmesine şaşırmak"
+    "Bastırılmış duygular ve gölge yönler",
+    "Aşırı duyusal uyarılma veya zihinsel yorgunluk",
+    "Anlam belirsizliği — rengin tek başına yorumu yanıltıcı olabilir",
+    "Uyumsuz veya dengesiz psişik akış"
   ],
   "contextDependentAssociations": [
-    "Rengin hangi nesnede bulunduğu",
-    "Parlaklık ve aydınlatma",
-    "Rengi ne kadar net hatırladığınız"
+    "Rüya görenin uyanık yaşamındaki görsel deneyimler ve medya maruziyeti",
+    "Görülen spesifik rengin tonu, doygunluğu ve rüya sahnesindeki rolü",
+    "Rüyanın uyandırdığı duygusal ton ve bireyin o anki ruhsal durumu"
   ],
   "commonVariations": [
     {
-      "title": "Tek bir rengin öne çıkması",
-      "description": "Çevre solukken bir eşyanın belirgin görünmesi dikkatinizi ona yöneltmiş olabilir. Eşyanın ne olduğunu ve o renkle kişisel ilişkinizi birlikte düşünün."
+      "title": "Canlı ve Parlak Renklerle Dolu Bir Rüya",
+      "description": "Ampirik gözlemler ve bazı Jungçu anlatımlar, yüksek doygunlukta renklerin bilinçdışının bilince daha canlı bir temasına ve artmış duygusal aktiviteye işaret edebileceğini öne sürer."
     },
     {
-      "title": "Bir nesnenin renginin değişmesi",
-      "description": "Değişim sizi sevindirdi mi, yoksa nesneyi tanımayı mı zorlaştırdı? Önce ve sonraki duygu arasındaki fark kişisel çağrışımlarınızı anlamaya yardımcı olabilir."
+      "title": "Tek Bir Baskın Renkle Karşılaşmak",
+      "description": "Psikolojik, spiritüel ve teolojik yorumlarda, rüyadaki baskın rengin o rengin taşıdığı psikolojik veya sembolik niteliklerin rüya görenin gündeminde olduğuna dair bir vurgu taşıdığı kabul edilir; yine de bağlam belirleyicidir."
     },
     {
-      "title": "Çok renkli bir ortamda bulunmak",
-      "description": "Renklerin çokluğu neşe, kalabalık veya yoruculuk hissi yaratabilir. Sizin için hangisinin öne çıktığını sahnedeki hareket ve sesle birlikte değerlendirin."
+      "title": "Renklerin Soluk veya Gri Tonlarda Belirmesi",
+      "description": "Psikolojik ve Jungçu çerçevelerde soluk veya renksiz imgeler, duygusal uzaklaşma, duyusal belleğin zayıf etkinliği veya psişik enerjide düşük yoğunluk olarak okunabilir."
     },
     {
-      "title": "Renkleri hatırlayamamak",
-      "description": "Hatırlamadığınız bir ayrıntıyı sonradan tamamlamak zorunda değilsiniz. Rengin belirsizliğini kaydedip net hatırladığınız nesne, kişi ve duygulardan başlayabilirsiniz."
+      "title": "Dört Temel Rengin Bir Arada Görülmesi",
+      "description": "Analitik psikoloji bağlamında kırmızı, sarı, mavi ve yeşilin dengeli bir dizilimi, bütünleşme süreçleri ve psikolojik düzenlenme arayışına gönderme yapabilir."
     }
   ],
-  "psychology": "Robert J. Hoss’un ön araştırması, DreamBank kayıtları ve uzun dönem günlüklerinde bildirilen renkleri içerik analiziyle ele alır. Yayıncı özetinde renklerin yalnız gündüz görülenlerin veya kişisel çağrışımların doğrudan kopyası olmayabileceği önerilir. Hatırlanan rüya raporlarına dayanan bu inceleme, belirli bir rengin herkes için aynı duyguyu veya gelecek olayını gösterdiğini kanıtlamaz.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Renk, nesneden ve kişinin hatırladığı sahneden ayrı düşünülmemelidir.",
-  "differences": "Renk bildirimlerini inceleyen bir araştırma, tek bir rüyanın kişisel anlamını belirlemez.",
-  "inusAssessment": "Renk rüyasını düşünürken önce görüntüyü tarif edin: hangi nesne, hangi ton ve nasıl bir ışık vardı? INUS, kırmızıyı her zaman tehlike veya beyazı her zaman iyi haber gibi sabit karşılıklara bağlamaz. Bir rengin kültürel kullanımı ile sizin sevdiğiniz bir eşyadaki rengi farklı çağrışımlar oluşturabilir. Hatırlama düzeyinizi de yorumdan ayrı tutmak yararlıdır.",
-  "faq": [
+  "psychology": "Ampirik araştırmalar, rüyalarda renk hatırlama oranlarının yaş, görsel deneyimler ve medya maruziyeti (örneğin renkli televizyon kullanımı gibi etkenler) ile ilişkili olabileceğini göstermektedir. İçerik analizleri; rüyada bildirilen rengin uyanık görsel deneyimin doğrudan bir kopyası olmadığını, bunun yerine ortak nörolojik/fizyolojik mekanizmalar, duyusal bellek izleri ve duygusal yoğunlukla bağlantılı göründüğünü ortaya koymaktadır.",
+  "jungian": "Analitik psikolojide renk, rüyada tek başına sabit bir sözlük anlamı taşımaz; çoğunlukla bilinç ile bilinçdışı arasındaki ilişkinin niteliğini, duygusal tonu ve psişik enerji yoğunluğunu işaret eden bir işlev görür. Belirgin ve doygun renkler, özellikle mandala benzeri örüntülerle birlikteyse bireyleşme ve bütünleşme süreçlerine işaret edebilir.",
+  "islamicTradition": "Klasik İslami birincil metinlerde doğrudan 'Renk' başlığı altında tekil ve sabit bir rüya yorumu bulunamamıştır; modern İslami yorum kaynakları ise beyaz, yeşil, siyah, kırmızı, sarı, mavi gibi renkler için ayrı anlamlar listeler. Bu nedenle İslami bağlamda temkinli bir yaklaşım gereklidir. Spesifik renkler hakkında modern yorumlar mevcuttur, ancak bunlar klasik metinlere birebir dayanmayabilir.",
+  "christianTraditions": "Hristiyan sembolik ve litürjik gelenekte renkler rüyanın teolojik ve duygusal tonunu belirleyici unsur olarak okunabilir. Örneğin beyaz saflık, kutsallık ve umut; kırmızı ise kan, kurban ve kefaretle ilişkilendirilir. Bu gelenekte rengin yorumu, rüyanın dini, ahlaki veya litürjik bağlamına göre değerlendirilmelidir.",
+  "jewishTraditions": "Yahudi kaynaklarında renklerin rüya bağlamında genelde olumlu alametler sayıldığı belirtilir; Talmud’da (Berakhot 57b) tüm renklerin rüya için uğurlu olduğu, gök mavisi/tekhelet’in istisna oluşturabileceği ifade edilir. Geleneksel sembolizmde ise beyaz saflık ve sevinçle, kırmızı yoğun yaşam gücü veya kanla ilişkilendirilir; yorum spesifik renge bağlıdır.",
+  "buddhistEasternApproaches": "Budist çerçeveler rüyadaki renkleri zihinsel süreçlerin ve duyusal izlerin yansıması olarak değerlendirir. Tibet tıbbı ve rüya pratiklerinde renkler bedenin kanalları, unsurlar ve humoral dengeyle ilişkilendirilebilir; örneğin kırmızı bazen ateş unsuruyla ilişkilendirilir. Ayrıca Budist ikonografide beş ana rengin farklı ruhsal niteliklere denk düştüğü kabul edilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlar, renkleri rüyanın ruhsal atmosferini ve enerji durumunu taşıyan göstergeler olarak ele alır. Yaygın okuyuşlarda mavi, beyaz, mor ve altın türleri ruhsallık ve sezgi; kırmızı ve siyah ise yoğun duygu, gölge içerikler veya uyarı niteliğiyle yorumlanır. Bu okumalar bağlama ve rüyanın his tonuna göre değişir.",
+  "comparisonTable": [
     {
-      "question": "Her rengin sabit bir rüya anlamı var mı?",
-      "answer": "Bu sayfada renkler sabit bir şifre olarak ele alınmaz. Nesne, ışık, duygu ve kişisel çağrışım birlikte düşünülür."
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Rüya renklerini duyusal bellek, nörolojik süreçler, medya maruziyeti ve duygusal yoğunluk bağlamında inceler.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Rengi hatırlamamak rüyanın siyah beyaz olduğu anlamına mı gelir?",
-      "answer": "Rengi hatırlamamanız ile siyah beyaz bir görüntüyü açıkça hatırlamanız aynı bildirim değildir. Emin olmadığınız ayrıntıyı belirsiz bırakabilirsiniz."
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Renkleri bilinç ve bilinçdışı arasındaki ilişkinin göstergesi, psişik enerji yoğunluğu ve bütünleşme aracı olarak değerlendirir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Gelenek",
+      "interpretation": "Renkleri teolojik anlamlar ve litürjik sembolizm üzerinden, kutsallık, yas ve kefaret temalarıyla ilişkilendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Rüyalarda renkleri genel olarak uğurlu sayma eğilimi ve spesifik renklerin sembolik çağrışımları üzerinden okur.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Doğu/Tibet Yaklaşımları",
+      "interpretation": "Renkleri zihinsel imge oluşumu, beden kanalları, unsurlar ve humoral dengelerle ilişkilendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel/Ezoterik",
+      "interpretation": "Renkleri ruhsal yönelim, enerji merkezleri ve içsel dönüşüm süreçlerinin yansıması olarak yorumlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşım, rengin rüyada tek başına sabit bir sözcük anlamı taşımadığında hemfikirdir; anlamlandırma her zaman rüyanın bağlamı, görülen rengin niteliği ve rüya görenin kişisel-hayat bağlamıyla birlikte yapılmalıdır.",
+  "differences": "Ampirik araştırma, renkleri belleksel ve nörofizyolojik süreçlerle açıklar; Jungcu bakış psişik bütünleşme ve bilinçdışıyla ilişki üzerine odaklanır; teolojik gelenekler renkleri litürjik ve ahlaki çerçevede yorumlarken spiritüel gelenekler enerji ve dönüşüm ekseni üzerinden değerlendirme yapar.",
+  "inusAssessment": "Rüyada rengin anlamı, tek başına renk adından çok hangi nesnede belirdiği, ne kadar baskın olduğu ve rüya sahibinde uyandırdığı duyguyla şekillenir. Alışılmadık derecede canlı, soluk veya değişen bir renk; rüyadaki kişi, nesne ya da sahnenin duygusal önemini belirginleştirebilir. Bu nedenle renk, rüyanın diğer öğelerini tamamlayan bağlamsal bir ipucu olarak değerlendirilmelidir.",
+  "faq": [
+    {
+      "question": "Rüyalarda renk hatırlamak ne anlama gelir?",
+      "answer": "Rüyalarda renk hatırlamak genellikle o rüyanın duygusal yoğunluğunun ve duyusal belleğin etkin olduğuna işaret eder; araştırmalar bu hatırlamanın görsel deneyimler, yaş ve medya maruziyetiyle ilişkili olduğunu gösterir."
+    },
+    {
+      "question": "Her rengin sabit bir rüya anlamı var mı?",
+      "answer": "Hayır. Ne modern psikoloji ne de tarihsel/geleneksel yaklaşımlar renkler için tek ve evrensel bir sözlük sunmaz; yorum, rengin tonu, bağlamı ve rüya görenin yaşamı göz önünde bulundurularak yapılmalıdır."
+    },
+    {
+      "question": "Rüyada parlak renkler görmek neyi gösterebilir?",
+      "answer": "Parlak ve doygun renkler, ampirik ve bazı Jungçu gözlemlere göre bilinçdışı ile daha canlı bir ilişki, artmış duygusal aktivite veya içsel hareketliliğin belirtisi olabilir; yine de eşlik eden imgeler ve hisler belirleyicidir."
     }
   ],
   "sources": [
     {
+      "title": "Colors in dreams and the introduction of color TV in Germany: An online study",
+      "relevance": "Rüyada renk hatırlama oranlarının örneklem düzeyinde incelendiği çalışma; medya maruziyeti ve tarihsel etkenlerle renk hatırlamanın ilişkisini gösterir.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/34577"
+    },
+    {
       "title": "Content analysis on the potential significance of color in dreams: A preliminary investigation",
-      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/508",
-      "relevance": "Yayıncıda erişilen özet: rüya raporlarında renklerin içerik analizini yapan ön çalışma. Her renge değişmez anlam veren bir deney değildir.",
-      "author": "Robert J. Hoss",
-      "year": 2010
+      "relevance": "Rüya renklerinin uyanık görsel deneyimlerin doğrudan yansıması olmayabileceğini, nörolojik/fizyolojik süreçler ve duygusal etkenlerle bağlantılı olduğunu tartışan içerik analizi.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/508"
+    },
+    {
+      "title": "Dream Color and Emotion.PDF",
+      "relevance": "Rüyalarda rengin duygusal içerikle bağlantısını ve renkli içeriklerin olası anlamını içerik çözümlemesi üzerinden ele alır.",
+      "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d66ee0732bf8ed9141f15058fba36ee8d6cc653f"
+    },
+    {
+      "title": "Study on the factors affecting the change of color palette in dreams",
+      "relevance": "Rüyalarda renk değişimine etki eden etmenleri ve renkli rüya bildirimlerinin çocukluk çevresi ile medya maruziyeti bağlamını tartışır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/90727"
+    },
+    {
+      "title": "Why did we think we dreamed in black and white?",
+      "relevance": "Freud’un Düşlerin Yorumu içinde rüyalarda renklerin görünürlüğü ve Freud’un renkli düş raporlarına yaklaşımı hakkında tartışma sunar.",
+      "url": "https://faculty.ucr.edu/~eschwitz/SchwitzPapers/DreamB&W.pdf"
+    },
+    {
+      "title": "Color in Dreams - Victor Calef, 1954",
+      "relevance": "Freudcu rüya kuramında renkli düş imgelerinin anı, direnç ve regresyonla ilişkilendirilmesini tartışır.",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/000306515400200303"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud’un rüyaların görsel doğası ve duyusal imgelerin temsili üzerine temel metni; rüyalarda rengin psikanalitik işlevine dair çerçeve sağlar.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Color in dreams and the psychoanalytic situation - The American Journal of Psychoanalysis",
+      "relevance": "Renklerin psikanalitik durumda ve rüya bağlamında nasıl işlev görebileceğine dair psikanalitik bir tartışma sunar.",
+      "url": "https://link.springer.com/article/10.1007/bf01248297"
+    },
+    {
+      "title": "[PDF] Working with Color in Dreams | DreamScience.org",
+      "relevance": "Jungçu perspektife dayanan değerlendirmeler; renklerin psişik işlevlerle ve mandala/bütünleşme temalarıyla ilişkisini ele alır.",
+      "url": "https://www.dreamscience.org/wp-content/uploads/2019/03/Part-3-Wokring-with-Color-in-Dreams.pdf"
+    },
+    {
+      "title": "Carl Jung's Theory of Color Symbolism That Will Change the Way ...",
+      "relevance": "Jung’a atfedilen renk sembolizmi çerçevesini ve rengin psikolojik nitelikleri nasıl taşıyabildiğini özetleyen bir ikinci kaynak.",
+      "url": "https://www.thecollector.com/what-is-color-symbolism-carl-jung/"
+    },
+    {
+      "title": "The Spectrum of Consciousness",
+      "relevance": "Jung’un dört temel rengi dört psişik işleve bağlayan yorum çizgisini ve bunun rüya örüntülerinde bütünlükle ilişkilendirilmesini aktarıyor.",
+      "url": "https://typeindepth.org/the-spectrum-of-consciousness/"
+    },
+    {
+      "title": "The Significance of Color in Dreams - Dream Science",
+      "relevance": "Jung’un rüyalardaki renklerin sembolik önemine dair yaklaşımını ve dört renkli dengenin bütünlük fikriyle ilişkisini ele alıyor.",
+      "url": "https://www.dreamscience.org/wp-content/uploads/2019/03/Hoss-Hoffman-2004-Significance-of-Color-in-Dreams.pdf"
+    },
+    {
+      "title": "Carl Jung: Colors in Dreams",
+      "relevance": "Renkli veya renksiz rüyaların bilinç ile bilinçdışı arasındaki ilişkinin yoğunluğuyla bağlantısını aktaran Jungçu pasaj.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/08/25/colors/"
+    },
+    {
+      "title": "jung's exploration of colour in the red book, 1915",
+      "relevance": "Jung’un renk sembolizmini hastaların rüyaları, etkin imgelem ve mandala çalışmaları içinde nasıl ele aldığına dair analitik psikoloji araştırması.",
+      "url": "https://phanes.live/wp-content/uploads/2020/12/Diane-FinielloZervas-Article-Phanes-3-2020.pdf"
+    },
+    {
+      "title": "[PDF] The Interpretation of Dreams by Artemidorus - Bookey",
+      "relevance": "Rüya yorumunda renklerin nesne türü ve sosyal bağlama göre nasıl ikinci planda kaldığını gösteren klasik oneirokritik çerçeve.",
+      "url": "https://cdn.bookey.app/files/pdf/book/en/the-interpretation-of-dreams-by-artemidorus.pdf"
+    },
+    {
+      "title": "Color Islamic Interpretations & Meanings",
+      "relevance": "Modern İslami yorum kaynakları üzerinden renklerin spesifik anlamlar listelendiğini gösterir; klasik metinlerin tekil 'Renk' yorumu eksikliği bağlamında temkinli kullanım için referans oluşturur.",
+      "url": "https://www.myislamicdream.com/color.html"
+    },
+    {
+      "title": "Dreams about colors Islamic Interpretations Explanation",
+      "relevance": "Renkler için ayrı ayrı yorumlar veren başka bir İslami yorum sayfası; renk sembolünün bağlama göre farklı anlamlar taşıdığını gösteriyor.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=colors"
+    },
+    {
+      "title": "Colors - Dream Symbols Dictionary - Apostle David E. ...",
+      "relevance": "Hristiyan rüya sembolizmi bağlamında renklerin anlamlandırılmasına dair çevrimiçi bir sözlük maddesi; beyaz, kırmızı, mavi ve siyah gibi renkler için teolojik çağrışımlar sunar.",
+      "url": "https://joshuamediaministries.org/dream-interpretation/dream-symbols-dictionary/colors/"
+    },
+    {
+      "title": "Colors, Christian Symbolism of - Biblical Cyclopedia",
+      "relevance": "Hristiyan litürjik ve sembolik gelenekte renklerin anlamlarına dair genel bir özet; beyaz, kırmızı, yeşil, mor ve siyahın teolojik çağrışımlarını verir.",
+      "url": "https://www.biblicalcyclopedia.com/C/colors-christian-symbolism-of.html"
+    },
+    {
+      "title": "Berakhot 57.b",
+      "relevance": "Yahudi geleneğinde rüyalarda renklerin genel olarak uğurlu sayılabileceğine dair rabbanî bir ifade; tekhelet/gök mavisi için istisna ihtimali içerir.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "COLOR - JewishEncyclopedia.com",
+      "relevance": "Yahudi sembolizminde renklerin beyaz, kırmızı, mor ve mavi gibi anlamlarını özetleyen madde.",
+      "url": "https://www.jewishencyclopedia.com/articles/4557-color"
+    },
+    {
+      "title": "Study on the factors affecting the change of color palette in ...",
+      "relevance": "Rüyada renk deneyiminin nasıl kavramsallaştırılabileceğine ilişkin genel bir çerçeve sunar; renkli rüya görüntülerinin duyusal izler ve zihinsel süreçlerle ilişkisini ele alır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/90727/95269/259156"
+    },
+    {
+      "title": "Dream interpretation and practice - TME",
+      "relevance": "Tibet tıbbı ve rüya pratiği bağlamında renklerin beden kanalları, unsurlar ve humoral denge ile ilişkilendirilebileceğine dair geleneksel çerçeve sunar.",
+      "url": "https://tibetanmedicine-edu.org/tmm/tm/dream-and-bardo/the-dream-interpretation-and-practice/"
+    },
+    {
+      "title": "Dreaming Buddha: Dream Interpretation in Buddhism and ...",
+      "relevance": "Buddhist gelenekte beyaz rengin saflık ve temizlikle ilişkilendirildiğini, renk sembolizmi içinde nasıl konumlandığını gösterir.",
+      "url": "https://thecjbs.org/wp-content/uploads/2025/04/McCullough-Shiu_Dreaming-Buddha_19.pdf"
+    },
+    {
+      "title": "Color Symbolism in Buddhist Art",
+      "relevance": "Buddhist sanat ve ikonografide beş ana rengin hangi ruhsal işlevler ve niteliklerle ilişkilendirildiğini özetler.",
+      "url": "https://web.stanford.edu/class/history11sc/pdfs/Buddhist%20colors.pdf"
+    },
+    {
+      "title": "Dream Moods Dream Themes: Colors",
+      "relevance": "Rüyalarda renk başlıkları altında siyah, mavi ve altın gibi renkler için yaygın sembolik anlamlar verir; renklerin rüya bağlamındaki popüler yorumunu gösterir.",
+      "url": "https://www.dreammoods.com/dreamthemes/colors-dream-symbols.htm"
+    },
+    {
+      "title": "Colours in dreams: understand the meanings of different colours",
+      "relevance": "Renklerin rüyalardaki olası anlamlarını, özellikle mavi, mor, beyaz, gümüş ve çakra ilişkili renk eşleştirmelerini açıklar; spiritüel yorum dili sağlar.",
+      "url": "https://www.wellbeing.com.au/mind-spirit/spirituality/colours-dreams-meaning.html"
+    },
+    {
+      "title": "Article: The Meanings of Colors in Dreams",
+      "relevance": "Rüyalarda renklerin genel ezoterik karşılıklarını özetler; özellikle mavi, ruhsal enerji, yüksek idealler ve sezgiyle ilişkilendirilir.",
+      "url": "https://www.llewellyn.com/journal/article/1709"
     }
   ],
-  "relatedSlugs": [
-    "beyaz-renk",
-    "kirmizi-renk",
-    "mor-renk",
-    "pembe-renk",
-    "turuncu-renk",
-    "mavi"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
   ]
 }

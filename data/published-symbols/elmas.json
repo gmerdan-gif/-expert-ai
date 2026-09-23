@@ -1,77 +1,215 @@
 {
   "slug": "elmas",
-  "title": "elmas",
-  "shortDescription": "Rüyada elmas, değerli bir şeyi koruma, kalıcılık veya görünür olma isteğini çağrıştırabilir. Taşın ham, işlenmiş, sağlam ya da çatlamış olması birlikte değerlendirilir.",
+  "title": "Elmas",
+  "shortDescription": "Rüyada elmas görmek, korunması gereken bir değer, dayanıklılık ve içsel berraklıkla ilişkilendirilebilir. Parlak ve lekesiz bir elmas güven veren bir değeri; donuk ya da lekeli bir elmas ise dışarıdan değerli görünen bir şeyle ilgili hayal kırıklığını veya gösteriş ile gerçek değer arasındaki gerilimi çağrıştırabilir.",
   "positiveAssociations": [
-    "Değer verdiği bir şeyi korumak",
-    "Kalıcı bir bağ üzerine düşünmek",
-    "Henüz işlenmemiş bir potansiyeli fark etmek"
+    "Yüksek direnç ve kalıcılık (Yunanca 'adamas' kökeniyle bağlanan yenilmezlik çağrışımı)",
+    "Işığı kırıp yansıtma niteliği üzerinden içsel berraklık ve görünürlük",
+    "Basınç altında oluşan dayanıklılık — ‘basılıp saflaşmış’ iç değer",
+    "Psişik merkezde yoğunlaşma: bireyleşme/öz entegrasyonu çağrışımı (Jungcu okumalardan gelen tematik bağ)"
   ],
   "challengingAssociations": [
-    "Kaybetme korkusu",
-    "Değerin yalnız dış görünüşle ölçülmesi",
-    "Sağlam sanılan bir şeyin zarar görmesi"
+    "Görünüşe aşırı önem verme, kibir veya gösterişe dayalı kimlik vurgusu (klasik İslami aktarımlarda belirtilen bir anlam hattı)",
+    "Katılaşmış tutumlar veya değişime direnç (biyografik/ruhsal izlerin kalıcılığı)",
+    "Dışarıdan değerli görünen, ama içsel kusurlar taşıyan durumlarda hayal kırıklığına işaret eder (donuk veya lekeli taş imgesi).",
+    "Maddi/ilişkisel yükümlülüklerin baskısı ya da bir bağın sonlanmasının yarattığı sıkıntı olasılığı"
   ],
   "contextDependentAssociations": [
-    "Ham taş ile işlenmiş mücevherin ayrılması",
-    "Taşın kime ait olduğu",
-    "Değerli bulduğunuz şeyin maddi mi duygusal mı olduğu"
+    "Taşın parlak mı yoksa lekeli/donuk mu olduğu",
+    "Taşın vücutla ilişkisi: parmağa takma, çıkarma ya da verme eylemleri",
+    "Elmasın rüya içinde yazı aracı, kırılma veya parçalanma biçimlerinde görünmesi"
   ],
   "commonVariations": [
     {
-      "title": "Elinizde bir elmas tutmak",
-      "description": "Taşa sahip olmanın size güven mi sorumluluk mu verdiğini düşünün. Onu göstermek istemeniz ile saklamanız farklı kişisel çağrışımlar oluşturabilir."
+      "title": "Parlak ve Lekesiz Elmas Görmek",
+      "description": "Parlak, lekesiz elmas rüyalarda sıkça içsel berraklık, güvenilecek bir değerin korunduğu hissi veya fark edilebilir bir erdemi simgeleyebilir; aynı zamanda toplum tarafından değeri onaylanmış bir öz-değer duygusuna işaret edebilir."
     },
     {
-      "title": "Çatlamış bir elmas görmek",
-      "description": "Sağlam sandığınız bir şeyin zarar görmesi fikri öne çıkabilir. Bu sahne gerçek bir ilişkinin bozulacağını göstermez; rüyadaki kayıp hissi üzerinden ele alınabilir."
+      "title": "Elmas Yüzük Takmak",
+      "description": "Yüzüğün parmağa takılması, hem kalıcılık arzusu hem de bir yükümlülük/bağlanma temasını simgeler; kültürel geleneklere göre bu eylem evlilikle ilişkilendirilebilir, psikolojik açıdan ise sorumlulukların veya benlik değerlerinin görünürleşmesine işaret edebilir."
     },
     {
-      "title": "Ham bir elmas bulmak",
-      "description": "İşlenmemiş taş, değeri ilk bakışta anlaşılmayan bir şeyi düşündürebilir. Onu tanımanız, başkasına göstermeniz veya bırakmanız sahnenin yönünü değiştirir."
+      "title": "Elmas Yüzüğü Çıkarıp Vermek",
+      "description": "Klasik tabirlerde bir ilişkinin sona ermesiyle ilişkilendirilen bu görüntü, rüyada bağlılıklar üzerinde yeniden değerlendirme, bir yükümlülükten bilinçli vazgeçme veya yakın ilişkilerde kopuş riski gibi içsel süreçleri sembolize edebilir."
     },
     {
-      "title": "Bir elması kaybetmek",
-      "description": "Kaybettiğiniz şeyin parasal değerine mi, hatırasına mı üzüldüğünüz önemlidir. Rüyada arama biçiminiz ve yardım isteyip istememeniz de bu duyguyu anlamlandırabilir."
+      "title": "Donuk veya Lekeli Elmasla Karşılaşmak",
+      "description": "Dışarıdan çekici ama içsel kusurlar taşıyan durumları, aldatıcı güveni veya beklentilerin boşa çıkmasını gösterir; rüyanın duygusal tonu bu okumanın yönünü belirler."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "Rubin Museum kaydı, vajrayı yıkılmazlık çağrışımı taşıyan bir ritüel nesnesi olarak açıklar. Elmasla ilişkilendirilen dayanıklılık imgesi bu kültürel bağlamda düşünülebilir; vajra nesnesini rüyada görülen her mücevherle eşitlemek gerekmez.",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Dayanıklılık ve değer, elmasla kurulan kültürel çağrışımlar arasındadır.",
-  "differences": "Tarihsel mücevher kullanımı, Budist ritüel nesnesi ve sizin rüyanızdaki kişisel hatıra birbirine yakın çağrışımlar taşısa da aynı olgu değildir.",
-  "inusAssessment": "Mücevher tarihçisi Jack Ogden, elmasın sertliğinin güç, kalıcılık ve zamanla sevgiyle ilişkilendirilmesindeki rolünü anlatır. Bunlar tarihsel ve sembolik kullanımlardır; taşın ruhsal bir güç yaydığı veya rüyada gelecek bildirdiği iddiası değildir. Elmas rüyasında fiyat ile kişisel değer aynı şey değildir. Bir hediye, bir miras hatırası veya ham taş farklı ilişkiler kurdurabilir. INUS değerlendirmesinde taşın kimden geldiği, nasıl korunduğu ve onu kaybetme ihtimalinin ne hissettirdiği öne çıkar. Elmasın sertlik çağrışımı da onu gerçek hayatta kırılmaz yapmaz; rüyadan zenginlik veya kalıcı birliktelik garantisi çıkarılmaz.",
-  "faq": [
+  "psychology": "tan esinlenerek)\" — örnek cümle: \"Psikanalitik çerçevede (Freud",
+  "jungian": "Bu bağlamda elmas, psişik enerjinin yoğunlaşıp biçimlenmesi, içsel çekirdeğin korunması veya farkındalığın keskinleşmesi temalarıyla ilişkilendirilebilir; bu yorumlar Jung'un ikincil yorumlarına dayanmaktadır ve doğrudan evrensel bir kural bildirmez.",
+  "islamicTradition": "Klasik İslami rüya tabiri aktarımında elmas genellikle kibirli veya gösterişli bir kadınla ilişkilendirilir; elmas yüzük takmak bu tür bir kişiyle evlilik, yüzüğü çıkarıp vermek ayrılık/boşanma şeklinde yorumlanır. Parlak taş güzel kadına, lekeli/donuk taş ise kusurlu veya istenmeyen özelliklere işaret edecek biçimde aktarılmıştır. Bu aktarımlar tarihsel-tradisyonel bir hattı yansıtır ve rüyanın bağlamı ile birlikte değerlendirilmeli, tek başına kesin hüküm çıkarılmamalıdır.",
+  "christianTraditions": "Yeremya 17:1’de sert bir yazı aracı metaforu kapsamında elmas/sertlik imajı, katılık, derine işleyen iz veya kolay değişmeyen tutumlar anlamında okunabilir. Dolayısıyla rüyadaki elmas yorumları Hristiyan perspektifte genellikle kalıcılık, sertlik veya ruhsal sebat temaları etrafında temkinli biçimde ele alınır.",
+  "jewishTraditions": "Elmas, bağlantılı olarak sorumluluk, korunması gereken değer veya toplum içinde kalıcı bir iz taşıma temasını çağrıştırabilir; kesin yorum rüyanın ayrıntılarına ve duygusal tona bağlıdır.",
+  "buddhistEasternApproaches": "Budist gelenekte elmas/vajra imgesi (Sanskritçe: prajña — genellikle 'bilgelik' veya 'keskin anlayış' olarak çevrilir) cehaleti parçalayan, geçici bağları aşan bir bilgelik metaforu olarak okunur. Rüya bağlamında bu okuma elmas görüntüsünü aydınlanma veya yanılsamaların çözülmesi temalarıyla ilişkilendirir.",
+  "spiritualApproaches": "Modern spiritüel ve simyasal yorumlarda elmas, baskı altında ortaya çıkan içsel berraklık, ruhsal arınma ve iç değerin korunması gibi temalarla okunur. Simyasal geleneğin elmas okumaları, taşın ışığı kırıp yoğunlaştırma niteliğini içgörü ve mükemmelleşme metaforlarıyla bağlar.",
+  "comparisonTable": [
     {
-      "question": "Elmas görmek zenginleşeceğim anlamına mı gelir?",
-      "answer": "Hayır. Elmasın tarihsel olarak zenginlik ve güçle ilişkilendirilmesi, rüyada görülmesinin maddi kazanç sağlayacağı anlamına gelmez."
+      "approach": "Psikanalitik / Psikodinamik Çerçeve",
+      "interpretation": "Tekil nesnenin arzuların veya yer değiştirmiş fikirlerin simgesel taşıyıcısı; elmas değer atfetme mekanizmalarını veya bastırılmış istekleri gösterebilir.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Ham elmas ile mücevher aynı şey mi anlatır?",
-      "answer": "Kişisel çağrışımları farklı olabilir. Ham taşta keşif ve işleme, mücevherde ise hediye, görünüm veya aidiyet sizin için daha belirgin olabilir."
+      "approach": "Analitik Psikoloji (Jungcu Okuma)",
+      "interpretation": "Psişenin yoğunlaşmış merkezi, bireyleşme sürecinde ‘öz’ arketipi ve içsel düzenlenme temalarının simgesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Klasik İslami Tabir Geleneği",
+      "interpretation": "Geleneksel tabir hatlarına göre kibirli/gösterişli bir kadın, evlilik/ayrılık motifleri; parlaklık ve lekelenme karşıtlığı üzerinden toplumsal anlamlar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Felsefesi",
+      "interpretation": "Vajra/diamond metaforu aracılığıyla cehaleti kesen bilgelik, yanılsamayı aşma ve aydınlanma temasına işaret eder.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Modern Spiritüel / Simyasal Yaklaşım",
+      "interpretation": "Basınç altında ortaya çıkan dayanıklılık, içsel berraklık ve içgörünün yoğunlaşması.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli yaklaşımlar elmas etrafında ortak bir eksende birleşir: taşın sertliği, kalıcılığı ve ışığı kırıp yansıtma özellikleri 'korunan bir değer', 'dayanıklılık' veya 'içsel berraklık' temalarını çağrıştırır. Hangi geleneğe bakılırsa bakılsın, elmas genellikle yok olmayan, yoğunlaşmış bir değerin simgesi olarak okunur; rüyanın ayrıntıları bu ortak okumayı yönlendirir.",
+  "differences": "Yaklaşımlar arasındaki temel fark okuma düzeyindedir: İslami gelenek sembolü somut toplumsal roller ve ilişkilerle (ör. kadın, evlilik) ilişkilendirirken; Jungcu ve spiritüel perspektifler elması içsel dönüşüm, bireyleşme veya bilgelik metaforları üzerinden ele alır. Psikanalitik çerçeve ise tek bir sabit anlam yerine arzuların yer değiştirme olasılıklarına vurgu yapar.",
+  "inusAssessment": "Elmas rüyası için INUS tipi değerlendirme: elmasın sertliği, parlaklığı ve bağlamsal eylemler (takma/çıkarma) bir araya geldiğinde rüyadaki bir sonucu (ör. kalıcılık arayışı, ilişkisel kopuş, kendilik değeri sorgulaması) gerekli koşulların parçası olabilir. Ancak taşın parlak mı lekeli mi olduğu, kimin taktığı/aldığı ve rüyanın duygusal tonu gibi koşullar sonucu belirginleştirir; bu nedenle elmas tek başına kesin bir rüya anlamı üretmez.",
+  "faq": [
+    {
+      "question": "Rüyada elmas görmek kesinlikle zenginlik anlamına mı gelir?",
+      "answer": "Hayır. Elmas sembolü geleneksel ve psikolojik okumalarda daha çok değer atfetme, içsel koruma, dayanıklılık veya gösterişe bağlı çatışmalar gibi temalarla ilişkilendirilir; maddi zenginlik sadece olası, ama belirleyici olmayan bir okuma eksenidir."
+    },
+    {
+      "question": "Elmas yüzüğünü parmaktan çıkarmak rüyada ne tür içsel süreçleri gösterebilir?",
+      "answer": "Klasik tabirlerde bunun ilişki sonunu işaret ettiği aktarılırken, psikolojik okumada yüzüğü çıkarmak, sorumlulukların yeniden değerlendirilmesi, bir bağdan bilinçli vazgeçme veya kimlik/rol değişimi ihtimali gibi süreçleri simgeleyebilir. Rüyanın duygusal tonu ve bağlamı yorum açısından belirleyicidir."
     }
   ],
   "sources": [
     {
-      "title": "Diamonds, love and history",
-      "url": "https://yalebooks.yale.edu/2018/04/20/diamonds-love-and-history/",
-      "relevance": "Elmasın sertliği, tarihsel değeri ve sevgiyle ilişkilendirilmesini inceleyen mücevher tarihçisi yazısı; rüya tabiri değildir.",
-      "author": "Jack Ogden",
-      "year": 2018
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya öğelerinin sabit anlamlar taşımadığı ve tekil nesnelerin bilinçdışı rüya düşüncelerinin simgeleri olarak okunması gerektiğine dair kuramsal temel.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
     },
     {
-      "title": "Vajra",
-      "url": "https://rubinmuseum.org/collection/sc2006-2-3/enlarge/altviews/13136/",
-      "relevance": "Vajrayı yıkılmazlık çağrışımı taşıyan bir ritüel nesnesi olarak tanıtan müze kaydı; elmas rüyasının anlamını belirlemez."
+      "title": "SE 15.pdf",
+      "relevance": "Rüyalarda ‘sembolik’ anlatımın nasıl işlediğini açıklayan Freudcu çerçeve; rüya öğelerinin simge olarak okunmasına ilişkin genel kuramı destekler.",
+      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-Symbolism-in-Dreams-Introductory-Lectures-149-169.pdf"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/262",
+      "relevance": "Su ve doğum fantazileri arasındaki ilişkiyi anlattığı kısım; su imgelerinin doğum, rahim içi yaşam ve dönüşümle bağlantısını gösterir.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/262"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/263 - Wikisource, the free online library",
+      "relevance": "Sudan kurtarma ve sudan çıkma sahnelerinin doğum düşünceleriyle ilişkilendirildiği pasaj; doğum simgeciliğini somutlaştırır.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/263"
+    },
+    {
+      "title": "Birth, Dream of",
+      "relevance": "Freud’un 1909 ekinde geçen, su ve dar geçitler gibi imgeleri rahim içi yaşam ve doğum fantazileriyle ilişkilendiren alıntıyı derler.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/birth-dream"
+    },
+    {
+      "title": "Carl Jung on Stones Anthology",
+      "relevance": "Jungcu yorum çerçevesinde taşların, özellikle sertlik ve saydamlık nitelikleriyle elmasın bireyleşme ve psişenin yoğunlaşmış gerçekliğiyle ilişkilendirilmesine dair tematik aktarımlar.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/05/04/stones/"
+    },
+    {
+      "title": "Diamonds, love and history - Yale University Press",
+      "relevance": "Elmasın adının ve tarihsel kültürel anlamının 'yenilmezlik' ve kalıcılık ekseninde ele alındığı tarihsel-kültürel bağlam.",
+      "url": "https://yalebooks.yale.edu/2018/04/20/diamonds-love-and-history/"
+    },
+    {
+      "title": "Diamond Folklore & History | April Birthstone - American Gem Society",
+      "relevance": "Elmasın folklor ve sembol tarihinde güç, korunma, korku azaltma ve kalıcı bağlılıkla ilişkilendirilmesi.",
+      "url": "https://www.americangemsociety.org/diamond-folklore/"
+    },
+    {
+      "title": "Diamond History and Symbolism | Cape Town Diamond Museum",
+      "relevance": "Elmasın Antik Yunan bağlamında göksel köken, değer ve zamanla aşk sembolizmine dönüşümü.",
+      "url": "https://www.capetowndiamondmuseum.org/education/diamond-history-and-symbolism/"
+    },
+    {
+      "title": "Diamonds in History: From Royal Courts to Modern Romance",
+      "relevance": "Elmasın tarih boyunca saray çevreleri, statü ve modern romantik sembolizmle ilişkisini özetleyen kültürel tarih anlatısı.",
+      "url": "https://alldiamond.co.uk/a/blog/diamonds-in-history-from-royal-courts-to-modern-romance"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri E Harfi",
+      "relevance": "Klasik İslami tabir hatlarında elmas, elmas yüzük ve parlak/lekeli taş imgelerinin en yaygın biçimlerde yorumlandığı geleneksel aktarım.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-e-harfi.html"
+    },
+    {
+      "title": "Precious Stones: Diamond - Topical Bible",
+      "relevance": "Elmasın İncil’de sertlik ve kazınmış iz metaforuyla geçtiği yerleri toplayan konu sayfası; Yeremya 17:1 bağlamını öne çıkarır.",
+      "url": "https://biblehub.com/topical/ttt/p/precious_stones--diamond.htm"
+    },
+    {
+      "title": "Bible Study: Are Diamonds Mentioned in the Bible?",
+      "relevance": "İncil’de elmasın adı ve anlamı üzerine, elmasın doğrudan anılmadığı yerlerde değerli taş sembolizminin Hristiyan yorumunu açıklayan kaynak.",
+      "url": "https://christianpure.com/learn/diamonds-bible/"
+    },
+    {
+      "title": "Diamonds in the Bible - Bible Study",
+      "relevance": "Elmasın Yeremya 17:1’de kullanılan sertlik ve iz bırakma bağlamını açıklayan bir İncil konu sayfası.",
+      "url": "https://www.biblestudy.org/bible-study-by-topic/gemstones-in-the-bible/diamonds.html"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Yahudi geleneğinde rüyaların yorumla anlam kazanmasına dair temel ilkeyi gösterir; elmas sembolünü doğrudan vermez, fakat rüya okumasının yöntemsel çerçevesini sağlar.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Dreams - by Rabbi Jack Cohen - The Expression of Life (XL)",
+      "relevance": "Yahudi rüya ve sembol düşüncesi içinde taşlar, isimler ve değer temasını birlikte tartışır; elmas için kontrollü bir sembolik okuma kurmaya yarar.",
+      "url": "https://www.theexpressionoflife.com/p/dreams"
+    },
+    {
+      "title": "Diamond: Significance and symbolism",
+      "relevance": "Budist gelenekte elmasın indirilemezlik, saflık ve hakiki öğretiyi ayırt etme imgesi olarak kullanımı.",
+      "url": "https://www.wisdomlib.org/concept/diamond"
+    },
+    {
+      "title": "[PDF] Lecture No. 74 : The Diamond Sutra - Free Buddhist Audio",
+      "relevance": "Vajra/elmas imgesinin Budist sembolizmde sarsılmaz güç ve engelleri kesen bilgelik olarak açıklanması.",
+      "url": "https://www.freebuddhistaudio.com/texts/lecturetexts/074_The_Diamond_Sutra.pdf"
+    },
+    {
+      "title": "Diamond Sutra | Mahayana Buddhism, Sanskrit Text ...",
+      "relevance": "Budist gelenekte 'diamond' (vajra) metaforunun cehaleti kesen bilgelik ve yanılsamayı aşma temalarıyla bağlantısını açıklayan geleneksel metin/yorum çerçevesi.",
+      "url": "https://www.britannica.com/topic/Diamond-Sutra"
+    },
+    {
+      "title": "Diamond Sutra - Encyclopedia of Buddhism",
+      "relevance": "'Diamond' mecazının şüphe ve bağlılıkları kesen bir güç olarak yorumlanması.",
+      "url": "https://encyclopediaofbuddhism.org/wiki/Diamond-cutter_Sutra"
+    },
+    {
+      "title": "Buddhist texts: The Diamond Sutra",
+      "relevance": "Elmas benzetmesinin prajña ile ve cehaleti kesip gerçekliği açığa çıkaran bilgelikle ilişkilendirilmesi.",
+      "url": "https://idp.bl.uk/discover/learning/buddhism-on-the-silk-roads/articles/buddhism-on-the-ground/buddhist-texts-the-diamond-sutra/"
+    },
+    {
+      "title": "Dreaming of Diamonds | Dream Dictionary",
+      "relevance": "Elması rüya bağlamında yükseklik, ruhsallık, koruma ve değişmezlik gibi temalarla ilişkilendiriyor; modern spiritüel yorum için doğrudan bir rüya kaynağı sunuyor.",
+      "url": "https://www.dreamdictionary.org/meaning/dreaming-of-diamonds/"
+    },
+    {
+      "title": "Diamond Dreams: From Pressure to Clarity | Dreamspoken",
+      "relevance": "Elmas rüyalarını değer, baskı altında dayanıklılık ve içsel berraklık ekseninde ele alıyor; ayrıca elması Jungçu bir çerçeveyle iç merkezlilik temasına yaklaştırıyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/diamond"
+    },
+    {
+      "title": "Diamond Dream Meaning & Interpretation - Mirror",
+      "relevance": "Elması spiritüel okumada saflık, kalıcılık ve iç benliğin değeriyle ilişkilendiriyor; ayrıca simyasal gelenekte mükemmelleşme ve Felsefe Taşı temasıyla bağlantı kuruyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/diamond/"
+    },
+    {
+      "title": "Diamond Alchemy Symbol",
+      "relevance": "Elması simyasal sembol olarak ışığı kırma, açıklık ve farkındalıkla ilişkilendiriyor; bu da elmasın ezoterik sembolizmde ‘anlayışı yoğunlaştıran’ bir imge olarak okunmasına imkân veriyor.",
+      "url": "https://www.whats-your-sign.com/diamond-alchemy-symbol.html"
     }
   ],
-  "relatedSlugs": [
-    "yuzuk",
-    "mucevher"
-  ]
+  "relatedSlugs": []
 }

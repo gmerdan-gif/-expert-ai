@@ -1,68 +1,223 @@
 {
   "slug": "masal",
-  "title": "masal",
-  "shortDescription": "Rüyada masal, çocukluk anıları, tanıdık karakterler ve anlatılan bir hikâyeyle bağ kurma deneyimini öne çıkarabilir. Masaldaki rolünüz ve hikâyenin sonu önemlidir.",
+  "title": "Masal",
+  "shortDescription": "Rüyada masal görmek, zihnin yaşadıklarını kurgulu ve olağanüstü bir hikâyeyle işlemesini yansıtabilir. Masalın tonu ve içindeki rolünüz öğüt veya gerçeklikten uzaklaşma temasını öne çıkarabilir; yarıda kesilen ya da bitmeyen bir masal ise belirsizliği çağrıştırabilir.",
   "positiveAssociations": [
-    "Sevilen bir hikâyeyi hatırlamak",
-    "Bir anlatıyı paylaşmak",
-    "Hayalî bir dünyayı merak etmek"
+    "Anlatısal zenginlik",
+    "Yaratıcı hayal gücü",
+    "Anlatısal dönüşüm teması (kahramanın yolculuğu veya içsel sınavların simgesel sunumu)",
+    "Anlatısal dersler ve alegorik öğütler"
   ],
   "challengingAssociations": [
-    "Hikâyenin korkutucu hâle gelmesi",
-    "İstemediği bir role zorlanmak",
-    "Sonunu öğrenememek"
+    "Gerçeklikten kopuş",
+    "Yanıltıcı kurgular ve aldatıcı algılar",
+    "Anlatısal biçimde gizlenmiş içsel çatışmalar"
   ],
   "contextDependentAssociations": [
-    "Dinleyici, anlatıcı veya karakter olmak",
-    "Masalın tanıdık olup olmaması",
-    "Olayların beklenen biçimde ilerlemesi"
+    "Masalın mutlu ya da uyarıcı bir tonda olması",
+    "Rüyayı görenin anlatının içinde izleyici ya da kahraman konumunda bulunması",
+    "Kişinin uyanık yaşamındaki kurgusal ve gerçekçi dengesi"
   ],
   "commonVariations": [
     {
-      "title": "Birinden masal dinlemek",
-      "description": "Anlatıcıyı tanıyor muydunuz ve dinlemek size nasıl geliyordu? Masalın kendisi kadar anlatan kişi, bulunduğunuz yer ve hatırlattığı dönem de önemli olabilir."
+      "title": "Eski bir masal kitabını okumak",
+      "description": "Rüyada geçmişe ait, unutulmuş masalların yazılı olduğu bir kitabı incelemek, bilinçdışındaki eski anlatı kalıpları ve kişisel/kollektif anıların yeniden canlanmasıyla ilişkilendirilebilir."
     },
     {
-      "title": "Bir çocuğa masal anlatmak",
-      "description": "Bildik bir hikâyeyi mi anlatıyordunuz, yoksa yeni bir son mu kuruyordunuz? Dinleyicinin ilgisi ve anlatırken hissettiğiniz rahatlık veya zorlanma farklı ayrıntılardır."
+      "title": "Kendini bir masal kahramanı olarak bulmak",
+      "description": "Rüyayı gören kişinin kendisini olağanüstü bir masalın başrolünde hissetmesi, rüyanın anlatısal yapısı içinde rol ve görevler aracılığıyla içsel gelişim ve sınav temalarını işlemeye işaret edebilir."
     },
     {
-      "title": "Bir masalın karakteri olmak",
-      "description": "Hangi rolü üstlendiğinizi ve seçim yapabildiğinizi hissedip hissetmediğinizi düşünün. Bir karakteri canlandırmak o karakterin özelliklerine sahip olduğunuzu kanıtlamaz."
+      "title": "Masal anlatan yaşlı bir figürle karşılaşmak",
+      "description": "Rüyada bilge bir karakterin masal anlattığını duymak, anlatının öğütleyici, rehberlik edici veya ahlaki bir ders taşıyabileceğini gösterebilir."
     },
     {
-      "title": "Tanıdık masalın sonunun değişmesi",
-      "description": "Değişiklik sizi sevindirdi mi, şaşırttı mı? Beklediğiniz son ile rüyada gördüğünüz sonu ayırmak, anlatıda sizin için neyin belirgin olduğunu düşünmenize yardımcı olabilir."
+      "title": "Yarıda kesilen veya bitmeyen bir masal",
+      "description": "Anlatının sonuna ulaşılamaması veya masalın aniden kesilmesi, uyanık yaşamda sürmekte olan belirsizlikleri, tamamlanmamış içsel süreçleri veya anlatısal düzeyde çözülmeyi bekleyen meseleleri simgeleyebilir."
     }
   ],
-  "psychology": "Freud Museum’un kurs tanıtımı, Freud’un masal malzemesinin rüyalarda yer almasına ilişkin yazısını ve masalların psikanalitik açıdan ele alınmasını konu eder. Bu, kuramsal ve kültürel bir yaklaşım örneğidir. Tanıtım metni, her masal rüyasının bastırılmış bir anıyı açığa çıkardığını veya kişiye tanı koyduğunu göstermez.",
-  "jungian": "",
+  "psychology": "Ampirik rüya psikolojisinde, özellikle Hall/Van De Castle içerik analizi yaklaşımı, masalsı öğeleri karakterler, ortam, duygular ve eylemler gibi temel bileşenler üzerinden okumayı önerir; dolayısıyla masal temaları sabit bir sözlük anlamı yerine rüyanın bileşenleri ve bağlamı içinde yorumlanmalıdır.",
+  "jungian": "Jungcu analitik psikolojide masallar kolektif bilinçdışının arketipsel örüntülerini ve dönüşüm süreçlerini gösteren anlatılar olarak değerlendirilir. Rüyada masalsı temaların ortaya çıkışı, bireyleşme yolculuğunun evreleri, arketipsel figürlerin rolleri ve içsel dönüşüm potansiyeli bağlamında okunabilir; ancak bu okumalar rüyanın bütünsel bağlamına dayanmalıdır.",
   "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
+  "christianTraditions": "Hristiyan sembolik geleneği ve patristik düşüncede rüyalar ilahi mesaj, ruhsal yansıma veya aldatıcı kurmaca olarak ayrılabilir. Bu çerçevede 'masal' imgesi hakikat ile kurmaca arasındaki gerilimi, ahlaki bir uyarıyı veya parabolik öğretiyi çağrıştırabilir; yine de bu tür okuma rüyanın bağlamına bağlı olarak değerlendirilmelidir.",
+  "jewishTraditions": "Yahudi rüya yorumunda rüyaların anlamı yorumla şekillenir; dolayısıyla masalsı anlatı unsurları tek başına sabit bir tabir oluşturmaz, rüyanın bağlamı ve yorumu üzerinden anlam kazanır.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Anlatının içeriği ile sizin anlatıdaki rolünüz ayrı düşünülebilir.",
-  "differences": "Masalların psikanalitik yorumu, rüyadaki olayların gerçek yaşanmışlık olduğuna ilişkin kanıt değildir.",
-  "inusAssessment": "Masal rüyasında yalnız fantastik bir görüntü bulunmasıyla açıkça bir masal dinlemek veya anlatmak aynı durum değildir. INUS değerlendirmesi anlatıdaki rolünüze, tanıdığınız hikâyeye ve değişen ayrıntılara odaklanır. Masal görmek kişinin gerçeklerden kaçtığını veya gizli bir geçmiş olayını hatırladığını göstermez. Buradaki senaryolar kendinize uyan çağrışımları düşünmeniz içindir; her masala tek bir psikolojik anlam verilmez.",
-  "faq": [
+  "spiritualApproaches": "Ezoterik ve modern spiritüel yaklaşımlarda masal sembolü, rüyanın öğreti verici, inisiyatik veya dönüşümsel bir anlatı sunduğu fikrini çağrıştırabilir; bu tür okumalar sembolik dersleri ve gerçek ile hayal arasındaki eşikleri vurgular.",
+  "comparisonTable": [
     {
-      "question": "Masal görmek gerçeklerden kaçtığım anlamına mı gelir?",
-      "answer": "Böyle bir sonuca varılmaz. Rüyadaki hikâye sevdiğiniz bir anlatıyı, bir filmi veya bir kişiyle paylaştığınız zamanı çağrıştırabilir."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Masal motifleri, rüya-işinin dolaylı gösterim stratejileriyle bağlantılı olarak bastırılmış arzuların ve temsillerin ifade biçimi olarak okunabilir.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Masaldaki korkutucu olay gerçek bir anı olabilir mi?",
-      "answer": "Rüya tek başına gerçek bir olayı doğrulamaz. Hatırlanan hikâye ile yaşandığı bilinen deneyimi ayırmak gerekir; masal sahnesinden unutulmuş bir olay sonucu çıkarılmaz."
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Masal, kolektif bilinçdışının arketipsel örüntülerini ve bireyleşme sürecindeki dönüşümü sembolize eden bir anlatı formu olarak değerlendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Sembolik Gelenek",
+      "interpretation": "Masal imgesi, hakikat ile kurmaca arasındaki farkı, ahlaki uyarıyı veya parabolik öğretiyi çağrıştırabilecek bir sembolik çerçevede ele alınır.",
+      "evidenceLevel": "traditional"
     }
   ],
+  "commonGround": "Çeşitli disiplin ve gelenekler, masal öğesinin rüyada doğrudan tek bir anlama indirgenemeyeceği; onun yerine çok katmanlı, anlatısal ve sembolik bir dil taşıdığı konusunda birleşir.",
+  "differences": "Psikanalitik ve Jungcu yaklaşımlar masalı içsel dinamikler, arketipler ve dönüşüm süreçleri bağlamında yorumlarken; teolojik gelenekler masalı hakikat/kurmaca, ahlak veya uyarı ekseninde değerlendirme eğilimindedir.",
+  "inusAssessment": "Rüyada masal sembolü, zihnin anlatısal ve kurgusal imgeler aracılığıyla içsel dinamikleri yapılandırma biçimidir. Bu sembolün anlamı, rüyanın tonu, anlatı içindeki roller ve uyanık yaşam bağlamıyla birlikte değerlendirilmelidir. Masal motifi tek ve sabit bir anlama indirgenemez; bağlama göre çok katmanlı okunmalıdır.",
+  "faq": [],
   "sources": [
     {
-      "title": "Freud and Fairy Tales",
-      "url": "https://www.freud.org.uk/whats-on/on-demand/courses/freud-and-fairy-tales/",
-      "relevance": "Freud Museum’un açık kurs tanıtımı ve oturum özetleri okundu; ücretli video izlenmedi. Psikanaliz ile masalların tarihsel/kuramsal ilişkisini gösterir, deneysel rüya bulgusu değildir.",
-      "author": "Freud Museum London"
+      "title": "Content Analysis Explained",
+      "relevance": "Hall/Van De Castle içerik analizinin temel kategorilerini açıklayarak masalsı öğeleri karakter, duygu ve ortam bileşenleri üzerinden okumaya olanak veren kuramsal zemini açıklar.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "[PDF] Three Early Pioneers in the Psychoanalytic Study of Fairy Tales",
+      "relevance": "Freud ve psikanalitik geleneğin masal ile rüya sembolizmi arasındaki ilişkisine dair tartışmaları özetleyerek masal motiflerinin rüyalarda nasıl dolaylı temsil olarak okunabileceğini gösterir.",
+      "url": "https://www.robertwhitemd.com/Papers/WhiteThreePioneers.pdf"
+    },
+    {
+      "title": "[PDF] Fairy-tale symbolism - Repositório ISCTE-IUL",
+      "relevance": "Masal sembolizminin psikanalitik bağlamda nasıl ele alındığını tartışarak masal motiflerinin rüya okumasında kullanılabilecek teorik çerçeveyi sunar.",
+      "url": "https://repositorio.iscte-iul.pt/bitstream/10071/16507/1/Fairy-Tale%20Symbolism.pdf"
+    },
+    {
+      "title": "Freud and Fairy Tales - Freud Museum London",
+      "relevance": "Freud'un masallar ve düş dili arasındaki ilişkisini özetleyerek masalın bilinçdışı işleyişle ilişkilendirilebileceğine dair tarihsel ve kuramsal bağlam sağlar.",
+      "url": "https://www.freud.org.uk/whats-on/on-demand/courses/freud-and-fairy-tales/"
+    },
+    {
+      "title": "Do Children Need Fairy Tales?",
+      "relevance": "Freud’un masal anlatılarıyla düş kurma ve dilek doyumu arasında paralellik kuran tartışmalarını aktaran akademik çalışma.",
+      "url": "https://esource.dbs.ie/server/api/core/bitstreams/710b769d-c72a-4f1f-98d6-1a0db2758f4d/content"
+    },
+    {
+      "title": "Fairy-Tale Symbolism: An Overview",
+      "relevance": "Masal sembolizminin Freud ve Jung çerçevelerinde nasıl okunduğunu genel olarak özetler.",
+      "url": "https://academic.oup.com/edited-volume/61883/chapter-abstract/547784206?redirectedFrom=fulltext"
+    },
+    {
+      "title": "Jungian Fairy Tale Interpretation",
+      "relevance": "Jungcu perspektiften masal kahramanları ve olay örgüsünün bireyleşme ve arketipsel süreçler bağlamında nasıl okunabileceğini açıklayan uygulamalı bir kaynaktır.",
+      "url": "https://jungian.ca/fairy-tale-interpretation/"
+    },
+    {
+      "title": "Marie-Louise von Franz - Jungian Confrerie",
+      "relevance": "Von Franz geleneğinde masal çözümlemesinin arketipsel temalar ve dönüşüm süreçleri açısından nasıl kullanılabileceğini özetler; rüyalardaki masal motiflerinin dönüşümle ilişkilendirilmesini destekler.",
+      "url": "https://www.jungian-confrerie.com/phdi/p1.nsf/supppages/8209?opendocument&part=31"
+    },
+    {
+      "title": "COMPANION-GUIDE_A-Jungian-perspective-on-fairy- ...",
+      "relevance": "Jung’un masal ve mitleri bilinçdışı süreçlerin görünür ifadesi olarak gören yaklaşımını aktaran Jungcu rehber metin.",
+      "url": "https://jungplatform.com/wp-content/uploads/dlm_uploads/2023/10/COMPANION-GUIDE_A-Jungian-perspective-on-fairy-tales_James-hollis.pdf"
+    },
+    {
+      "title": "Enchantment, Wonder and the Way of Marie-Louise von Franz ...",
+      "relevance": "Marie-Louise von Franz’in masal çözümlemesi, arketipsel temalar ve dönüşüm odaklı yaklaşımına değinen etkinlik duyurusu.",
+      "url": "https://jungchicago.org/marie-louise-von-franz-fairytales-death-and-the-afterlife/"
+    },
+    {
+      "title": "Jung and the Fairy Tale, Or Nosce Te Ipsum - PsyArt Journal",
+      "relevance": "Jung ve Jungcu yazarların masalları arketipsel figürler ve bilinçdışı süreçlerle ilişkilendiren tartışmasını sunan akademik makale.",
+      "url": "https://psyartjournal.com/article/show/kardaun-jung_and_the_fairy_tale_or_nosce_te_ipsu"
+    },
+    {
+      "title": "Uygur Masallarındaki Seçilmişler ve Rüyaları",
+      "relevance": "Uygur masallarında rüyanın kutsal olanla iletişim ve kehanet işlevi taşıyabildiğini anlatan çalışma.",
+      "url": "https://www.academia.edu/126935766/Uygur_Masallarindaki_Se%C3%A7i_lmi_%C5%9Fler_Ve_R%C3%BCyalari"
+    },
+    {
+      "title": "Kutsal Metinlerde Rüya: Tevrat'ta Yusuf ve Daniel",
+      "relevance": "Tevrat’taki rüya anlatılarının sembolik ve yorum gerektiren yapısı üzerine modern tartışma.",
+      "url": "https://zeyneleroglu.com/ruyalar/kutsal-metinlerde-ruya/"
+    },
+    {
+      "title": "TÂBİRNÂME - TDV İslâm Ansiklopedisi",
+      "relevance": "Rüya tabirleri geleneğinin tarihsel ve kültürel çerçevesini sunarak, rüya sembollerinin bağlama ve yoruma bağlı olarak değiştiği ilkesini doğrular.",
+      "url": "https://islamansiklopedisi.org.tr/tabirname"
+    },
+    {
+      "title": "Interpretation Dreams by Artemidorus of Daldis on Eulogikon",
+      "relevance": "Artemidorus gelenekleri üzerinden rüya sembollerinin rüyayı görenin durumuna bağlı olarak değişebileceğini vurgulayarak masal gibi anlatısal öğelerin bağlama göre değerlendirilmesi gerektiğini gösterir.",
+      "url": "https://eulogikon.org/works/artemidorus-daldis-dreams-qtu-aa"
+    },
+    {
+      "title": "RÜYA - TDV İslâm Ansiklopedisi",
+      "relevance": "İslâm kültüründe rüya yorumunun sembolik dil üzerinden yürüdüğünü ve yorumun usule bağlı olduğunu anlatır.",
+      "url": "https://islamansiklopedisi.org.tr/ruya"
+    },
+    {
+      "title": "İBN SÎRÎN",
+      "relevance": "İbn Sîrîn’in rüya tabiri geleneğindeki yerini ve tarihsel otoritesini tanıtır.",
+      "url": "https://islamansiklopedisi.org.tr/ibn-sirin"
+    },
+    {
+      "title": "Dream Interpretation in Christianity: A Brief History - Kelly Bulkeley",
+      "relevance": "Hristiyan rüya yorumunda sembolik okuma, mecaz ve ilahi yönlendirme ayrımını tartışır.",
+      "url": "https://bulkeley.org/dream-interpretation-christianity/"
+    },
+    {
+      "title": "Doctrinalising dreams: patristic views of the nature of dreams and their relation to early Christian doctrines",
+      "relevance": "Patristik Hristiyan metinlerde rüyaların ilahi mesaj, ruhsal durum göstergesi ve aldatıcı etki olarak nasıl sınıflandırıldığını özetler.",
+      "url": "https://era.ed.ac.uk/items/34dcdb37-1233-47b7-8dd1-a587acf9e48d"
+    },
+    {
+      "title": "The patristic dream (Chapter 3) - Dreaming in the Middle Ages",
+      "relevance": "Ortaçağ Hristiyan düşüncesinde patristik rüya kavrayışının hakikat, kurmaca ve figüratif ifade arasındaki ilişkisini işler.",
+      "url": "https://www.cambridge.org/core/books/abs/dreaming-in-the-middle-ages/patristic-dream/AF4244F788B3C8B6E3361A7951BE82DE"
+    },
+    {
+      "title": "The power of dreams: a Christian guide - Catholicireland.net",
+      "relevance": "Hristiyan pratikte rüyaların duygusal ton, sembolik anlam ve kişisel çağrışımlar üzerinden değerlendirilmesini önerir; ‘masal’ imgesi için de kontrollü sembolik okuma zemini sağlar.",
+      "url": "https://www.catholicireland.net/the-power-of-dreams-a-christian-guide/"
+    },
+    {
+      "title": "Dream Accounts in the Hebrew Bible and Ancient Jewish ...",
+      "relevance": "İbranice Kutsal Kitap ve erken Yahudi bağlamında rüya anlatılarının nasıl kurulduğunu ve anlamın nasıl bildirildiğini gösterir; genel Yahudi rüya çerçevesi için yararlıdır.",
+      "url": "https://ora.ox.ac.uk/objects/uuid:31468460-01e8-4b10-977e-72b954a29fda/files/m094640d42e5594527fcf80f2cc76bc00"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Yahudi geleneğinde rüyalar, rüya onarma pratikleri ve rüya anlamını olumlu yöne çevirme anlayışı hakkında özet bilgi sunar.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot 55a-b üzerine açıklama; rüya yorumunun Yahudi gelenekteki merkezi ilkesini ve rüyanın amacına ilişkin yaklaşımı verir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Rüyaların anlamının yorumla ilişkisini ve halakhik bağlamda rüyaya yaklaşımı özetler.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Yahudi literatüründe rüyaların sembolik yorumlanmasına dair klasik ansiklopedik özet sunar.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Talmudî formülün özetlendiği metinlerden biri; yorumlanmamış rüyanın anlamının yorumla belirlenebileceği fikrini destekler.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Geliş Tarihi/Submission Date: 01.08.2024",
+      "relevance": "Rüya ve tabir konusunu ele alan akademik bir çalışma olarak, rüya dilinin sembolik karakterine ve masal-mitos benzetmesine bağlam sağlar.",
+      "url": "https://dergipark.org.tr/en/download/article-file/4113403"
+    },
+    {
+      "title": "[PDF] Muhyiddîn İbnü'l-Arabî'ye Göre Rüya ve Tabiri - isamveri.org",
+      "relevance": "Rüyanın semboller dili olarak anlaşılmasını ve rüya yorumunun işaretler üzerinden yürüdüğünü tartışır; masalsı anlatı ile rüya sembolizmi arasındaki kavramsal yakınlığı destekler.",
+      "url": "https://isamveri.org/pdfdrg/D02420/2014_3/2014_3_KUCUKON.pdf"
+    },
+    {
+      "title": "The Hebrew Masal",
+      "relevance": "'Masal/mashal' kökünün örnek, benzetme ve öğüt verici anlatı anlamlarını inceleyerek masal sembolünün anlatı ve öğüt boyutunu anlamaya yardımcı olur.",
+      "url": "https://biblicalelearning.org/wp-content/uploads/2022/01/Godbey-Mashal-AJSL.pdf"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "psychoanalytic"
+  ]
 }

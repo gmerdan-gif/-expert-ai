@@ -1,0 +1,200 @@
+{
+  "slug": "sinav",
+  "title": "Sınav",
+  "shortDescription": "Rüyada sınav görmek genellikle sorumluluklar, performans baskısı ve değerlendirilme kaygısıyla ilişkilidir. Hazırlıksız olmak yetersizlik veya hata yapma korkusunu, sınavda başarılı olmak ise hazırlık ve özgüveni yansıtabilir.",
+  "positiveAssociations": [
+    "Konuya hâkimiyet ve hazırlıklı hissetme",
+    "Rüya sonrasında uyanık yaşamdaki performansın olumlu seyretmesi",
+    "Bir sonraki gelişim aşamasına geçmeye hazır olma",
+    "İç disiplin ve sorumluluk bilinci"
+  ],
+  "challengingAssociations": [
+    "Yoğun stres ve performans kaygısı",
+    "Dış otoriteler veya yaşam koşulları karşısında denetlenme hissi",
+    "Yetersizlik, suçluluk ve hata yapmış olma korkusu",
+    "Rezil olma ya da başarısızlık ihtimaliyle yüzleşme"
+  ],
+  "contextDependentAssociations": [
+    "Uyanık yaşamdaki yoğun sınav veya çalışma dönemlerinin bilişsel sürekliliği",
+    "Geçmişteki kaygılı deneyimlerin bugünkü görevler üzerinden yeniden kurulması",
+    "Rüya sırasında duyulan duyguların olumlu ya da olumsuz yönde değişkenlik göstermesi",
+    "Kişinin kamusal değerlendirme altında kalma durumu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Hazırlıksız Yakalanılan Sınav",
+      "description": "Rüya sahibinin konuya hiç çalışmadığını fark ettiği ya da sınıfa geç kaldığı anlar; sorumluluklar karşısında yetersiz kalma veya suçluluk korkusunu yansıtır."
+    },
+    {
+      "title": "Başarılı ve Hâkim Olunan Sınav",
+      "description": "Soruların rahatlıkla yanıtlandığı ve kişinin bilgiye hâkim olduğu senaryolar; uyanık yaşamdaki hazırlık düzeyinin ve artan özgüvenin bir yansımasıdır."
+    },
+    {
+      "title": "Otorite Figürleri Tarafından Denetlenme",
+      "description": "Sınav salonunda veya kurul önünde dış güçlerin ve gözetmenlerin bakışları altında olma; kişinin yeterliliğinin sorgulanmasını ve benliğin ölçütlere göre tartılmasını temsil eder."
+    },
+    {
+      "title": "Eşik ve Geçiş Sınaması",
+      "description": "Sadece akademik bir testten öte, yaşamda yeni bir döneme adım atarken karşılaşılan ruhsal bir eşik veya içsel olgunlaşma denemesi olarak beliren sahneler."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar, sınav rüyalarının uyanık yaşamdaki yoğun sınav veya sorumluluk dönemlerinde daha sık görüldüğünü ve rüyaların süreklilik hipotezini desteklediğini göstermektedir. Uzun rüya serileri üzerine yapılan araştırmalar, bu rüyaların içerikçe oldukça değişken olduğunu; bazı durumlarda olumlu duygular ve bilgiye hâkimiyetin öne çıkabildiğini, bazılarında ise performans baskısı ve stresin hâkim olduğunu ortaya koymaktadır.",
+  "jungian": "Jungcu analitik psikolojide sınav rüyası, rüya benliğinin (dream ego) dış otoriteler veya daha büyük bir düzen tarafından denetlendiği ve ölçüldüğü bir örüntü olarak ele alınır. Sınav imgesi tek başına sabit bir anlama sahip değildir; bilinçli benliğin yeterliliğinin sorgulandığını, yaşamdaki bir eşiğe gelindiğini gösteren ve bilinçdışı durumun sembolik bir portresini sunan çokanlamlı bir imgedir.",
+  "islamicTradition": "Modern aktarımlarda ve geleneksel yaklaşımlarda rüyada sınavda zorlanmak veya başarısız olmak; manevi muhasebe, sorumlulukları gözden geçirme, sabır, ibtila ve tövbeye yönelme çağrısı olarak değerlendirilir.",
+  "christianTraditions": "Hristiyan ayırt etme ve deneme geleneğinde sınav imgesi, imanın, sabrın ve karakterin sınandığı bir süreç olarak ele alınır. Bu tür rüyalar, korku üretmek yerine bilgelik, hazırlık ve ruhsal olgunlaşma sağlayan birer çağrı veya uyarı niteliği taşıyabilir.",
+  "jewishTraditions": "Talmudik çerçevede rüyalar tek ve mutlak kehanetler olarak okunmaz; yorumla ilişkilendirilir ve rüyaların bir kısmının gündelik düşünceler, kaygılar ile zihinsel meşguliyetlerden kaynaklandığı kabul edilir. Bu bağlamda sınav temalı rüyalar; vicdani muhasebe, hesap verme ve sorumluluk hissinin bir yansıması olarak ele alınabilir.",
+  "buddhistEasternApproaches": "Budist perspektifte rüyalar zihinsel durumları gözlemleme aracıdır. Bu bağlamda sınav imgesi, tek bir kehanet olmaktan ziyade kişinin mevcut disiplinini, farkındalığını ve uygulama düzeyini değerlendirmeye çağıran bir kendini yoklama metaforu olarak okunur.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda sınav, kişinin bir eşiğe ulaştığını ve iç tutarlılığının yoklandığını gösteren bir geçiş sembolüdür. Başarı veya başarısızlık ikiliğinden çok, kişinin bir sonraki aşamaya geçmeye ruhsal olarak hazır olup olmadığını sorgulayan bir süreç vurgulanır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Bilişsel süreklilik hipotezi çerçevesinde uyanık yaşamdaki stres ve sınav dönemlerinin yansıması; içerikçe değişkenlik ve sonraki performansa olası etkisi.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Sorumluluk, utanç ihtimali ve ceza beklentisi ekseninde şekillenen bir anksiyete ve yetersizlik korkusu rüyası.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Bilinçli benliğin yeterliliğinin sorgulanması, dış denetim ilişkisi ve yaşamdaki bir eşiğe verilen sembolik yanıt.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Dini ve Geleneksel Yaklaşımlar",
+      "interpretation": "Manevi muhasebe, sabır, ibtila, sorumlulukları gözden geçirme ve içsel bir denetim çağrısı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Ruhsal olgunlaşma, değerlerle uyumlanma ve yeni bir yaşam evresine geçiş öncesi hazırlık testi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve yaklaşımlar, sınav sembolünün tekdüze bir anlam taşımadığı konusunda hemfikirdir; genellikle sembolün kişinin sorumlulukları, dış değerlendirmeler karşısındaki duruşu ve içsel hazırlık düzeyiyle bağlantılı olduğu kabul edilir.",
+  "differences": "Ampirik psikoloji rüyayı bilişsel süreklilik ve stresle bağdaştırırken, psikanalitik yaklaşım suçluluk ve cezalandırma kaygısına odaklanır; Jungcu ve spiritüel yaklaşımlar ise bunu ruhsal bir eşik ve bilinçdışı denetim süreci olarak ele alır.",
+  "inusAssessment": "Sınav rüyası, basit bir başarı veya başarısızlık endişesinin ötesinde, benliğin bir ölçüt karşısında tartılma ve değerlendirilme gerilimini barındırır. Bu rüyayı yorumlarken uyanık yaşamdaki stresin düzeyi, rüya içindeki duygusal tonun olumlu veya baskıcı oluşu ve rüya benliğinin konumlandığı yer kritik ayrım noktalarıdır; dolayısıyla sembolü tek bir sabit anlamla sınırlamak yerine kişinin o dönemdeki sorumluluk ve hazırlık bağlamıyla birlikte ele almak gerekir.",
+  "faq": [
+    {
+      "question": "Sınav rüyaları her zaman başarısızlık korkusuna mı işaret eder?",
+      "answer": "Hayır. Bilimsel araştırmalar sınav rüyalarının içerikçe çok değişken olduğunu, bazı rüyalarda olumlu duyguların ve bilgiye hâkimiyetin de görülebildiğini göstermektedir."
+    },
+    {
+      "question": "Gerçekte sınavı çoktan bitirmiş olmama rağmen neden hâlâ sınav rüyası görürüm?",
+      "answer": "Psikanalitik ve psikolojik yaklaşımlara göre bu tür rüyalar, mevcut yaşamdaki sorumluluklar, performans baskısı veya yaklaşan önemli görevler öncesinde tetiklenen değerlendirilme kaygısının geçmişteki örnekler üzerinden yeniden kurulmasıdır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pass or Fail? Examination dreams in a long dream series",
+      "relevance": "Uzun rüya serisinde sınav rüyalarının içerik çeşitliliğini ve uyanık yaşamdaki sınav dönemleriyle bağlantısını rapor eder.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/34578/pdf/119433"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüyadaki sınav teması üzerine doğrudan açıklamasını ve sınav rüyalarını anksiyete, sorumluluk ve utanç beklentisi bağlamında ele alışını içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Jungian theory of dreaming and contemporary ...",
+      "relevance": "Jungcu rüya kuramı içinde sınav rüyalarının denetim ve gereklilik örüntüsünü ele alır; okul veya üniversite sınavı örneğini doğrudan tartışır.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/1468-5922.12566"
+    },
+    {
+      "title": "Jung on Dreams: Part I - Jungian Center for the Spiritual Sciences",
+      "relevance": "Jung’un rüya ve sembol hakkındaki temel ilkelerini aktarır; rüya imgelerinin kendiliğinden ortaya çıkması ve sembolün çokanlamlı yapısı açısından sınav sembolünün okunmasına bağlam sağlar.",
+      "url": "https://jungiancenter.org/jung-on-dreams-part-i/"
+    },
+    {
+      "title": "On the Nature of Dreams - The Jung Page",
+      "relevance": "Jung’un rüya yorumunda bağlam kurma yöntemini öne çıkarır; sınav imgesinin rüya bütünlüğü içinde değerlendirilmesi gerektiği fikrine katkı sağlar.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/86-on-the-nature-of-dreams"
+    },
+    {
+      "title": "Dream Interpretation In Jung's Theory A Comparative Analysis",
+      "relevance": "Jung’un sembol, bilinçdışı ve arketipsel imgeler hakkındaki açıklamalarını derler; sınavın sabit değil bağlama duyarlı bir sembol olarak ele alınmasına dayanak sağlar.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/107-dream-interpretation-in-jungs-theory-a-comparative-analysis"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidoros'un rüya yorum yöntemini, anlamlı rüya ayrımını ve yorumda statü ile benzetmenin yerini açıklar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Oneirocritica - Wikipedia",
+      "relevance": "Klasik bir rüya el kitabının yapısını ve yorum ilkelerini özetler; rüya sembolünün bağlam içinde ele alınmasına dair tarihsel çerçeve sunar.",
+      "url": "https://en.wikipedia.org/wiki/Oneirocritica"
+    },
+    {
+      "title": "Sınav Rüya Yorumu: Başarı ve Kaygı",
+      "relevance": "Rüyada sınavı geçme ve geçememe temasını İslami yorum diliyle ele alan modern bir sayfa; ibtila, dini muhasebe ve uyarı motiflerini öne çıkarıyor.",
+      "url": "https://fassir.ai/tr/dictionary/exam"
+    },
+    {
+      "title": "A Biblical Model Testing Visions And Dreams In Christian Ministry In The Bahamas",
+      "relevance": "Hristiyan bağlamda vizyon ve rüyaları Kutsal Kitap, meyve ve Mesih merkezli ölçütlerle ayırt etmeye dair modeli sunar; sınav sembolünün yorumunda kontrol çerçevesi sağlar.",
+      "url": "https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1399&context=dmin"
+    },
+    {
+      "title": "Biblical Dream Interpretation | RTCLM",
+      "relevance": "Rüya yorumunu Kutsal Kitap’la sınama, bütün rüya bağlamını dikkate alma ve rüyanın tekrarlayan etkileri (meyveleri) üzerinden ayırt etme ilkelerini verir.",
+      "url": "https://revealingthechristianlife.org/dreams-visions-knowledge-center/dream-interpretation/"
+    },
+    {
+      "title": "Trials and Tests",
+      "relevance": "Deneme ve sınanmaları Hristiyan çağrısında karakter oluşumu ve itaatle ilişkilendirir; sınav sembolünün teolojik arka planını destekler.",
+      "url": "https://www.cgg.org/index.cfm/library/topic/id/3480/trials-tests.htm"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 56 - Halakhah.com",
+      "relevance": "Rüyaların yorumla ilişkilendirildiği ve yorumlanmayan rüyanın ‘okunmamış mektup’ benzetmesiyle ele alındığı temel Talmudik pasaj.",
+      "url": "https://www.halakhah.com/berakoth/berakoth_56.html"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Rüyalar maddesinde klasik rabbanî rüya ilkelerinin özetlendiği ansiklopedi maddesi.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Berakhot 55a-57b çevresindeki rüya pasajlarına erişim sağlayan metin derlemesi.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Significance of Dreams",
+      "relevance": "Talmudik çerçevede rüyaların gündelik düşüncelerle ilişkisi ve rahatsız edici rüyalara verilen dini tepkiler.",
+      "url": "https://aish.com/significance-of-dreams/"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams",
+      "relevance": "Budist yaklaşımda rüyaların zihinsel durumları gözlemleme aracı olabileceğini ve metinlerde arınma, sınır aşma, dönüşüm gibi sembolik örüntülerin bulunduğunu gösterir.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Test Dream Meaning & Interpretation - Mirror",
+      "relevance": "Rüyada test/sınav temasını değerlendirilme, hayat geçişi ve ruhsal büyüme çerçevesinde ele alıyor; ezoterik bir okuma için doğrudan sembolik malzeme sunuyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/test/"
+    },
+    {
+      "title": "Dream About Exam — Meaning, Interpretation & Symbolism ...",
+      "relevance": "Sınav rüyasını ruhsal eşik, \"ruhsal sınama\" ve gelişim basamağıyla ilişkilendiriyor; sembolün modern spiritüel yorumuna örnek veriyor.",
+      "url": "https://www.astroformer.com/blog/dream-meaning/exam"
+    },
+    {
+      "title": "Exam Dreams: The Psychology of Judgement and Preparation",
+      "relevance": "Sınavı yargılanma, hazırlık ve \"ruhsal sınama\" kavramlarıyla açıklayan spiritüel bir yorum çerçevesi sunuyor.",
+      "url": "https://dreamalchemy.me/en/learn/symbols/exams"
+    },
+    {
+      "title": "Exam Dreams: Stress Tests of the Soul, Mind, and Everyday Life",
+      "relevance": "Sınavı bir eşik ve davranışları değerlerle hizalama çağrısı olarak okuyor; ezoterik/ruhsal sembolizm açısından kullanışlı bir sentez zemini sağlıyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/exam"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "buddhist-eastern"
+  ]
+}

@@ -1,67 +1,168 @@
 {
   "slug": "lens",
-  "title": "lens",
-  "shortDescription": "Rüyada lens, görme ve ayrıntıları seçme deneyimini öne çıkarabilir. Kontakt lens ile kamera merceği farklı nesnelerdir; kullanım biçimi ve görüşün netliği önemlidir.",
+  "title": "Lens",
+  "shortDescription": "Rüyada lens görmek, olaylara bakış açınızı, neye odaklandığınızı ve daha net görmeniz gereken konuları simgeleyebilir. Temiz bir lens açıklık ve netliği; bulanık, kirli ya da çizik lens ise bir durumu değerlendirmekte zorlanmayı veya bakış açınızı gözden geçirme ihtiyacını yansıtabilir.",
   "positiveAssociations": [
-    "Bir görüntüyü daha net seçmek",
-    "İstediği ayrıntıya odaklanmak",
-    "Kendi görünümünü seçebilmek"
+    "Algıda netlik ve berraklık",
+    "Bakış açısını yenileyebilme",
+    "İçsel konulara daha odaklı yaklaşabilme",
+    "Görsel ve zihinsel odaklanma becerisi"
   ],
   "challengingAssociations": [
-    "Netlik elde edememek",
-    "Küçük bir nesneyi kaybetmek",
-    "Görüntünün beklenmedik biçimde değişmesi"
+    "Bulanık ya da bozuk algı nedeniyle gerçeği kaçırma",
+    "Bir duruma fazlaca odaklanıp bütünsel resmi göz ardı etme",
+    "Görüşün veya değerlendirme çerçevesinin düzeltilmesi zorunluluğu"
   ],
   "contextDependentAssociations": [
-    "Kontakt lens mi kamera merceği mi olduğu",
-    "Lensi takmak, temizlemek veya değiştirmek",
-    "Görüntüden mi nesnenin kendisinden mi rahatsız olduğunuz"
+    "Lensin temiz, kirli veya çizik olması algısal berraklığın durumunu yansıtır",
+    "Lensi takmaya çalışmak veya çıkarmak odaklanma çabasıyla ilişkilidir",
+    "Merceğin büyütme ya da küçültme işlevi, detaylara verilen önemi gösterir."
   ],
   "commonVariations": [
     {
-      "title": "Kontakt lens takmaya çalışmak",
-      "description": "Burada lens gözle temas eden bir eşyadır. Takmanın zor gelmesi, başarmanın rahatlığı veya birinin yardım etmesi farklı deneyimlerdir; rüyayı bir göz hastalığına ilişkin işaret olarak ele almayın."
+      "title": "Bulanık veya çizik lens görmek",
+      "description": "Rüyada netliği bozulmuş bir lensle bakmaya çalışmak, uyanık yaşamda bazı konuları net olarak değerlendiremediğinize ve algınızda bir sis perdesi bulunduğuna işaret edebilir."
     },
     {
-      "title": "Renkli kontakt lensle görünümünüzü değiştirmek",
-      "description": "Görünümü kendiniz mi seçtiniz, bir başkası mı önerdi? Aynadaki görüntüden memnuniyet ve başkalarının tepkisi, kişisel çağrışımlarınızı farklılaştırabilir."
+      "title": "Gözlük veya kontakt lens takmak",
+      "description": "Rüyada gözünüze lens yerleştirdiğinizi görmek, dış dünyadaki olayları ele alırken veya bir karar verirken bakış açınızı bilinçli olarak ayarlama çabanızı temsil eder."
     },
     {
-      "title": "Kamera lensiyle odak ayarlamak",
-      "description": "Bu sahnede bedeninizdeki bir eşya değil, görüntü elde etmek için kullandığınız bir araç vardır. Neyi çekmek istediğiniz ve hangi ayrıntının netleşmediği önemlidir."
+      "title": "Büyüteç benzeri büyük bir lens kullanmak",
+      "description": "Rüyada büyük bir mercekten nesnelere baktığınızı görmek, gözden kaçan küçük detaylara odaklanma ve bir meseleyi daha yakından inceleme arzusunu simgeler."
     },
     {
-      "title": "Bir lensi kaybetmek",
-      "description": "Kaybolanın kontakt lens mi kamera parçası mı olduğunu ayırın. Sonrasında ne yapamadığınız ve aramayı nasıl sürdürdüğünüz, rüyadaki kayıp hissini daha somut anlatır."
+      "title": "Lensin düşmesi veya kaybolması",
+      "description": "Rüyada lensinizi düşürdüğünüzü veya bulamadığınızı görmek, olaylar karşısında odak kaybı yaşama, yön duygusunu yitirme veya bakış açınızı aniden anlamsız bulma endişesini yansıtabilir."
     }
   ],
-  "psychology": "Rüya içerik analizinde nesneler, etkinlikler ve duygular ayrı kaydedilebilir. Lens sahnesinde önce nesneyi doğru tanımlayıp sonra onunla ne yaptığınızı ve ne hissettiğinizi ayırmak mümkündür. Bu yöntem lensin sezgi, önyargı veya ruhsal berraklık anlamına geldiğini göstermez. Aşağıdaki sahne önerileri kişisel çağrışımlarınızı düşünmeniz içindir.",
-  "jungian": "",
+  "psychology": "Psikanalitik kuramda rüyalar bastırılmış isteklerin örtük tatmini olarak değerlendirilirken, manifest içerikten latent içeriğe geçişte serbest çağrışım yöntemi kullanılır.",
+  "jungian": "Analitik psikoloji perspektifinde rüyalar bilinçdışının sembolik öz-anlatımıdır. Lens gibi optik bir nesne, rüya sahibinin bir durumu nasıl algıladığını, zihinsel olarak neye odaklandığını ve içsel vizyonunda bir perspektif düzeltmesine ihtiyaç duyup duymadığını gösteren bir imge olarak değerlendirilebilir. Bu imge sabit bir kehanet veya evrensel bir simge değil, bireyin psişik bütünü içinde işleyen bir odaklanma aracıdır.",
   "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
+  "christianTraditions": "Hristiyanlık temelli bazı modern yorumlayıcı yaklaşımlarda lens, maddi dünyanın ötesini görebilme, sahte algıları aşma, hakikati daha berrak fark etme ve ruhsal ayırt etme ihtiyacıyla ilişkilendirilir.",
+  "jewishTraditions": "Yahudi rüya düşüncesinde rüyaların yorumla şekillendiği ve kişinin gündüz düşüncelerini ile iç dünyasını yansıtabileceği kabul edilir. Doğrudan 'lens' için klasik bir metin bulunmasa da, bu imge rüyanın nasıl görüldüğünü, olayların hangi çerçeveden değerlendirildiğini ve zihinsel odaklanma biçimini yansıtan kontrollü bir okuma alanı sunar.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Görüntünün netleşmesi, değişmesi veya hiç oluşmaması rüyadaki deneyimin bir parçası olabilir.",
-  "differences": "Kontakt lensin bedenle teması ile kamera merceğinin görüntü kaydetmedeki işlevi ayrı ele alınmalıdır. Genel içerik analizi bu iki nesneye ortak bir sembolik anlam vermez.",
-  "inusAssessment": "Lens sözcüğü iki farklı nesneye işaret edebilir: göze takılan kontakt lens ve kamera gibi araçlardaki mercek. Bu sayfa önce bu ayrımı yapar; ikisine aynı anlamı yüklemez. INUS değerlendirmesinde nesnenin türü, kullanım amacı ve rüyada değişen görüntü birlikte ele alınır. Temiz lensi doğru düşünce, kirli lensi önyargı diye otomatik eşleştirmek yerine kendi sahnenizi tarif etmek daha yararlıdır.",
-  "faq": [
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda lens, algının ayarlanması, içe dönük dikkat, öz-gözlem ve olayları daha derinlemesine inceleme çağrısı olarak ele alınır.",
+  "comparisonTable": [
     {
-      "question": "Lens ile gözlük aynı şekilde mi yorumlanır?",
-      "answer": "İkisi görmeyle ilgili olabilir ama aynı nesne ve deneyim değildir. Göze lens takmak ile gözlük kullanmak farklı bedensel ve kişisel çağrışımlar taşıyabilir."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Görsel bir araç ve optik metafor olarak öznenin bakışını, bilinçdışı odaklanmasını ve simgesel konumunu temsil eder.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Kamera lensi ile kontakt lens rüyası aynı mıdır?",
-      "answer": "Hayır. Biri görüntü kaydetme aracının parçası, diğeri göze takılan bir eşyadır. Rüyada nesneyle ne yaptığınızı belirlemek, yorumları birbirine karıştırmayı önler."
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Sabit bir sembolden ziyade, bireyin algısını ve psişik durumunu nasıl yapılandırdığını gösteren bir perspektif ayarlama imgesidir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Spiritüel Okuma",
+      "interpretation": "İçsel netlik, öz-gözlem, odaklanma gereksinimi ve algısal bulanıklığı giderme çabasıyla ilişkilendirilir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, lens sembolünü doğrudan değişmez bir kader işareti olarak görmek yerine, bireyin dış dünyaya ve kendi içsel gerçekliğine hangi çerçeveden baktığını gösteren bir odak ve algı metaforu olarak ele alır.",
+  "differences": "Psikanalitik ve Jungcu ekoller rüyayı öznenin içsel dinamikleri ve psişik dengesi bağlamında incelerken, modern spiritüel ve teolojik yönelimli okumalar sembolü daha çok ruhsal berraklık, ayırt etme ve bakış açısını dönüştürme ihtiyacı üzerinden yorumlar.",
+  "inusAssessment": "Rüyada lens görülmesi, nesnenin fiziksel işlevinden ötürü doğrudan zihinsel odak, algısal netlik ve olaylara bakış açısını ayarlama temalarıyla belirgin bir bağ kurar. Bu imge, rüya sahibinin uyanık yaşamda hangi konulara fazlaca odaklandığını ya da hangi noktalarda bakış açısını değiştirmesi, başka bir deyişle 'görüşünü düzeltmesi' gerektiğine dair incelikli bir imge sunar. Rüyayı yorumlarken merceğin temizliği, bulanıklığı veya kişinin onu kullanırken yaşadığı hisler, algının hangi yönünün gözden geçirilmesi gerektiğine dair en güvenilir ipuçlarını verir.",
+  "faq": [
+    {
+      "question": "Rüyada lens görmek kesin bir anlam taşır mı?",
+      "answer": "Hayır. Lens rüyaları sabit bir geleceğe işaret etmez; rüya sahibinin uyanık yaşamındaki algı biçimi, odak noktası ve olayları değerlendirme çerçevesiyle birlikte değerlendirilmelidir."
+    },
+    {
+      "question": "Rüyada bulanık veya kirli lens görmek ne anlama gelir?",
+      "answer": "Bu durum genellikle uyanık yaşamda bazı durumları net olarak değerlendiremediğinizi, zihinsel bir bulanıklık yaşadığınızı veya olaylara yanlış bir çerçeveden baktığınızı gösterebilir."
     }
   ],
   "sources": [
     {
-      "title": "Content Analysis Explained",
-      "url": "https://dreams.ucsc.edu/Info/content_analysis.html",
-      "relevance": "Nesne, etkinlik ve duygu ayrımına yönelik genel içerik analizi yöntemi. Kontakt lens veya kamera merceği için kanıtlanmış sembolik anlam sunmaz."
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Freud’un rüya kuramında rüyaların isteğe bağlı, çatışmalı ve çağrışımla çözümlenen yapısını temellendirir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
+    },
+    {
+      "title": "[PDF] UNIVERSIDADE DE SÃO PAULO FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS PROGRAMA DE PÓS-GRADUAÇÃO EM HUMANIDADES, DIREI - Teses USP",
+      "relevance": "Psikanalitik düşüncede optik araçların, bakışın ve görsel kurulumun bilinçdışı ve özneyle ilişkisini tartışır.",
+      "url": "https://teses.usp.br/teses/disponiveis/8/8161/tde-01082022-124847/publico/2022_FlaviaTorresGleich_VCorr.pdf"
+    },
+    {
+      "title": "A propos du schéma optique",
+      "relevance": "Lacan’ın optik şemasını, ayna ve görsel düzenekler üzerinden öznenin imgesel ve simgesel ilişkisini anlamak için sunar.",
+      "url": "https://www.freud-lacan.com/documents-ged/a-propos-du-schema-optique-2/"
+    },
+    {
+      "title": "Classical Jungian Dream Analysis and Creative Methodologies",
+      "relevance": "Jung'un rüyayı bilinçdışının sembolik öz-portresi olarak tanımlayan alıntıyı içeren Jungiyen bir analiz sayfasıdır.",
+      "url": "https://cgjungny.org/classical-jungian-dream-analysis-and-creative-methodologies/"
+    },
+    {
+      "title": "Dream Interpretation In Jung's Theory A Comparative ...",
+      "relevance": "Jung'un rüya yorumunun sembolik ve dinamik doğasını özetleyen Jungiyen bir karşılaştırma yazısı.",
+      "url": "https://jungpage.org/learn/articles/analytical-psychology/107-dream-interpretation-in-jungs-theory-a-comparative-analysis"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya yorumunu tarihsel bağlama yerleştiren bir çeviri sayfasıdır; antik oneirokritik geleneğin kapsamını göstermesi bakımından önemlidir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Early lens use: lenses found in context with their original objects - PubMed",
+      "relevance": "Lenslerin tarihsel kullanımına ilişkin arkeolojik ve teknik bağlam sunar; lensin kültürel tarihini anlamak için yararlıdır.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8950753/"
+    },
+    {
+      "title": "A brief history of the lens | OpenLearn",
+      "relevance": "Lensin tarihini ve erken dönem optik gelişimini ele alır; sembolün görme, odak ve teknolojiyle ilişkili kültürel arka planını destekler.",
+      "url": "https://www.open.edu/openlearn/society-politics-law/sociology/brief-history-the-lens"
+    },
+    {
+      "title": "Convex Lens (Optics) - Overview - StudyGuides.com",
+      "relevance": "Lens ve görsel berraklık arasında popüler kültür düzeyindeki ilişkiyi yansıtır; tarihsel-kültürel sentezde dikkatli kullanılmalıdır.",
+      "url": "https://studyguides.com/study-methods/overview/cmj1ndcnc1fm101aabsd4tyev"
+    },
+    {
+      "title": "Lens Dream Meaning & Interpretation",
+      "relevance": "‘Lens’ için modern bir İslami rüya yorumu iddiası sunuyor; klasik kaynak bağlantısı göstermeyen bir çevrimiçi yorum sayfası.",
+      "url": "https://mirrorwithin.org/dream-dictionary/lens/"
+    },
+    {
+      "title": "Unlocking Dreams: The Hidden Meaning of Lenses",
+      "relevance": "Lens sembolünü Hristiyan/biblikal çerçevede berraklık, ayırt etme ve Tanrı'nın perspektifiyle ilişkilendiren modern bir yorum yazısı.",
+      "url": "https://dict.dreamdecoder.me/symbol/unlocking-dreams-meaning-of-lenses"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Yahudi rüya düşüncesinde rüyaların ve onların yorumunun ele alındığı bir klasik derleme sayfası; rüya yorumunun nasıl işlediğine dair genel çerçeve sağlar.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Rüyaların rabbanî gelenekte yorumlanabilir olduğu ve bazen içsel durumlarla bağlantılandırıldığı temel metin derlemesi.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Yahudi rüya anlayışının tarihsel ve yorumlayıcı yönlerini özetleyen ansiklopedik kaynak; rüyaların sembolik okunmasına dair bağlam verir.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Dream Interpretation and Meaning of Lens in Dreams - Cafe au Soul",
+      "relevance": "Lensin rüyada odağı derinleştirme ve bakış açısını değiştirme gereğini simgelediğini söyleyen kısa spiritüel yorum.",
+      "url": "https://www.cafeausoul.com/oracles/dream-dictionary/lens/"
+    },
+    {
+      "title": "Lens spiritual meaning",
+      "relevance": "Lensin ruhsal anlamını netlik, bulanıklığı giderme ve içgörü arayışıyla açıklayan modern spiritüel metin.",
+      "url": "https://spiritualmeaningacademy.com/lens-spiritual-meaning/"
+    },
+    {
+      "title": "The Symbolism of Dreams - Gnosis Egypt",
+      "relevance": "Lens hakkında genel ezoterik bir okuma sunuyor; sembolü öz-gözlem, yargı ve karar süreçleriyle bağlantılandırıyor.",
+      "url": "https://gnosisegypt.org/blog/the-symbolism-of-dreams-2/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "christian"
+  ]
 }

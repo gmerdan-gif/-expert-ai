@@ -1,68 +1,210 @@
 {
   "slug": "deniz-feneri",
-  "title": "deniz feneri",
-  "shortDescription": "Rüyada deniz feneri, yön bulma ve güvenli bir yere ulaşma arayışını çağrıştırabilir. Işığın görünürlüğü, denizin durumu ve sizin konumunuz önemlidir.",
+  "title": "Deniz feneri",
+  "shortDescription": "Rüyada deniz feneri görmek, belirsizlikte yön bulma, güvenli bir yol arama ve rehberliğe ihtiyaç duyma ile ilişkilendirilir. Işığın güçlü olması umut ve netliği, sönük ya da hasarlı olması ise yön kaybını çağrıştırabilir.",
   "positiveAssociations": [
-    "Uzakta tanıdık bir işaret bulmak",
-    "Çevresini daha iyi görebilmek",
-    "Bir yapıyı merakla keşfetmek"
+    "rehberlik",
+    "umut",
+    "aydınlık",
+    "güvenli rota",
+    "saadet"
   ],
   "challengingAssociations": [
-    "Işığı seçememek",
-    "Kıyıya ulaşamama hissi",
-    "Yüksekte veya yalnız kalmaktan çekinmek"
+    "yön kaybı",
+    "fırtınalı koşullar",
+    "tehlike işareti",
+    "ulaşılamayan rehberlik"
   ],
   "contextDependentAssociations": [
-    "Denizden veya karadan bakmak",
-    "Işığın görülme biçimi",
-    "Fenerin içinde veya uzakta bulunmak"
+    "fenerin ışığının güçlü ya da sönük olması",
+    "denizin sakin veya dalgalı/fırtınalı olması",
+    "gözlemcinin fenerin içinde, kıyıda ya da denizde olması"
   ],
   "commonVariations": [
     {
-      "title": "Denizden bir fenerin ışığını görmek",
-      "description": "Işığın nerede olduğunu anlamanıza yardım edip etmediğini ve bir yere gitmeye çalışıp çalışmadığınızı düşünün. Tanıdık kıyıyı seçmek ile yalnızca güzel bir ışığı izlemek farklı deneyimlerdir."
+      "title": "Karanlık ve fırtınalı denizde uzaktan yanıp sönen fener",
+      "description": "Hayatın çalkantılı veya belirsiz bir döneminde, kişinin uzak ama istikrarlı bir çıkış yolu veya umut ışığı aradığını gösteren bağlamsal bir imgedir."
     },
     {
-      "title": "Fenerin içinde merdiven çıkmak",
-      "description": "Amacınız manzarayı görmek, birine ulaşmak veya bir işi tamamlamak mıydı? Yükseklik, merdivenin durumu ve yanınızdaki kişiler sahnenin duygusunu değiştirebilir."
+      "title": "Sönmüş veya hasarlı bir deniz feneri görmek",
+      "description": "Güvenilen bir rehberliğin kesintiye uğradığını, yön kaybı yaşandığını veya içsel pusulanın yeterince net çalışmadığı bir döneme işaret edebilir."
     },
     {
-      "title": "Fenerin ışığını görememek",
-      "description": "Rüyada ışığın söndüğünü biliyor muydunuz, yoksa sis ya da uzaklık nedeniyle mi göremiyordunuz? Bilmediğiniz nedeni kesinleştirmeden, o sırada verdiğiniz tepkiye bakabilirsiniz."
+      "title": "Deniz fenerinin tepesinden etrafı aydınlatmak",
+      "description": "Kişinin kendi hayatında farkındalık kazanması, olaylara yukarıdan bir bakış açısıyla yaklaşması ve çevresindekilere yol gösterme isteğiyle bağlantılıdır."
     },
     {
-      "title": "Gündüz kıyıdaki feneri ziyaret etmek",
-      "description": "Bu sahnede yol bulmaktan çok gezi, merak veya bir hatıra öne çıkabilir. Yapıyı kiminle gördüğünüz ve içeride ne yaptığınız kendi deneyiminizi düşünmenize yardımcı olabilir."
+      "title": "Sakin bir kıyıda çalışan deniz fenerine yaklaşmak",
+      "description": "Güvenli bir limana sığınma, içsel huzur arayışı ve kararlı bir yönelimle huzurlu bir döneme geçiş çabasını yansıtır."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
+  "psychology": "Ampirik psikoloji literatüründe deniz feneri gibi spesifik nesneler için evrensel ve sabit bir rüya anlamı bulunmamaktadır. Bilimsel rüya içerik analizleri, sembolleri tek başına bir sözlük maddesi olarak ele almaz; bunun yerine rüyadaki kişileri, eylemleri, nesneleri ve özellikle duygusal yoğunluğu kategorilere ayırarak inceler. Rüyalardaki duygu durumunun uyanıklık anındaki duygularla süreklilik gösterebildiği bilinmektedir, bu nedenle deniz feneri rüyası da kişinin o anki belirsizlik veya rehberlik arayışı bağlamında değerlendirilir.",
+  "jungian": "Jungcu ve analitik psikoloji çerçevesinde deniz feneri, karanlıkta bilinç yönelimi, bütünleşme ve psişenin merkezindeki Benlik kavramının bir yansıması olarak ele alınabilir. Fenerin dairesel yapısı bütünlük ve psişik dengeye işaret ederken, fenerin yaydığı ışık ise bilinçdışının karanlığını aydınlatan farkındalık işlevi görür.",
+  "islamicTradition": "Klasik Arapça rüya kaynaklarında doğrudan deniz feneri maddesi yer almamakla birlikte, ‘منارة’ kelimesi üzerinden minare, ışık kulesi ve insanları iyiliğe/hidayete çağıran rehber figürlerle dolaylı bir bağ kurulur. Bazı yerel derleme tabirlerde ise deniz feneri görmek, olgun kimseler aracılığıyla gelecek nimete, aydınlığa ve saadete işaret eden olumlu bir simge olarak aktarılır.",
+  "christianTraditions": "Hristiyan sembolizminde deniz feneri; ışık, uyarı, kamusal tanıklık ve fırtınalı koşullarda ilahi rehberlik temalarıyla düşünülür. İsa’nın 'dünyanın ışığı' olma metaforu ve kilisenin zorluklar içindeki yol gösterici tanıklığı, bu imgenin teolojik arka planını şekillendirir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde ve Talmudik kaynaklarda rüyalar bağlamsal olarak yorumlanır. Doğrudan bir deniz feneri tanımı bulunmasa da, ışık ve yağ motiflerinin Tora’nın aydınlatıcı bilgisiyle ilişkilendirilmesi, deniz fenerini de belirsizlik içinde yön bulma ve manevi rehberlik temasına yakınlaştırır.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Bir işareti görmek ile ona güvenerek hareket etmek farklı deneyimlerdir.",
-  "differences": "Denizcilikte yol göstermeye yarayan bir yapının işlevi, kişiye özel bir rüya hükmüne dönüşmez.",
-  "inusAssessment": "Deniz feneri hem bir yapı hem de denizde konum belirlemeye yardımcı olan bir işarettir. Trinity House, fenerlerin gündüz görünüşleri ve ışık ritimleriyle ayırt edilebildiğini açıklar. Bu gerçek işlev, yön bulma çağrışımını anlaşılır kılar; rüyanın size belirli bir kararın doğru olduğunu söylediğini kanıtlamaz. INUS değerlendirmesinde rehberlik, yalnızlık ve merak kişisel düşünme olasılıklarıdır. Feneri görmekten kişinin içsel kriz yaşadığı veya yakında kurtarılacağı sonucu çıkarılmaz.",
-  "faq": [
+  "spiritualApproaches": "Ezoterik ve modern spiritüel yaklaşımlarda deniz feneri, dış koşullar ne kadar değişirse değişsin sabit kalan bir iç yönelim ve güvenilir bir referans noktasıdır. Işığın netliği ve parlaklığı, kişinin içsel netliğine ve rehberliğe erişimine, sönüklüğü ise yön kaybına işaret eder.",
+  "comparisonTable": [
     {
-      "question": "Deniz feneri görmek doğru kararı verdiğimi gösterir mi?",
-      "answer": "Rüya gerçek bir kararın doğruluğunu doğrulamaz. Işığı görünce ne hissettiğiniz, kararlarınıza ilişkin duygularınızı düşünmeniz için bir başlangıç olabilir."
+      "approach": "Psikanaliz ve Teorik Yaklaşım",
+      "interpretation": "Su ve kıyı imgeleri üzerinden bedensel kökenler, güvenlik arayışı ve yönelim bağlamında okunur.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Fener ışığının kaybolması kötü haber mi demektir?",
-      "answer": "Böyle bir sonuç çıkarılmaz. Rüyada görünürlüğün neden değiştiğini biliyor olup olmadığınızı ve bunun ardından ne yaptığınızı ayırabilirsiniz."
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Bilinçdışını aydınlatan farkındalık ışığı, yön bulma ve Self/bütünlük arayışı olarak değerlendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel ve Dini Okumalar",
+      "interpretation": "Rehberlik, hidayet, aydınlığa çıkma ve olgun dostlar eliyle gelecek hayır temalarıyla ilişkilendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Belirsizlik ve fırtınalı dönemlerde sabit kalan içsel referans noktası ve koruyucu ışık olarak ele alınır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplin ve geleneklerin hemen hepsinde deniz feneri imgesi, karanlık, belirsizlik veya tehlike ortamında beliren 'yol gösterici ışık' ve 'rehberlik' ekseninde buluşur.",
+  "differences": "Psikanalitik ve teorik yaklaşımlar rüyayı bireyin içsel dürtüleri ve bedensel bağlamıyla ele alırken; dini ve geleneksel okumalar dışsal bir nimete veya manevi hidayete odaklanır. Spiritüel ve Jungcu yaklaşımlar ise ışığı bireyleşme ve bilinç farkındalığıyla ilişkilendirir.",
+  "inusAssessment": "Rüyayı yorumlarken fenerin sadece varlığı değil, ışığının yanıp sönmesi, sönük olması veya denizin hırçın olması gibi detaylar, kişinin uyanık yaşamındaki rehberlik arayışı ya da yön kaybı hissiyle doğrudan köprü kurar.",
+  "faq": [
+    {
+      "question": "Rüyada sönmüş bir deniz feneri görmek ne anlama gelir?",
+      "answer": "Fenerin sönük olması, güvenilen bir rehberliğin kesintiye uğradığına, kararsızlık yaşandığına veya kişinin kendi iç pusulasını bulmakta zorlandığı bir döneme işaret edebilir."
+    },
+    {
+      "question": "Deniz feneri rüyaları her zaman olumlu mu yorumlanır?",
+      "answer": "Hayır. Fener, güvenli bir rotayı ve umudu simgeleyebileceği gibi, yaklaşan bir tehlikenin uyarısı veya fırtınalı bir denizde çaresizlik hissiyle de bağlantılı olabilir."
     }
   ],
   "sources": [
     {
-      "title": "Trinity House FAQs",
-      "url": "https://www.trinityhouse.co.uk/about-us/trinity-house-faq",
-      "relevance": "Fenerlerin gündüz görünüşleri ve farklı ışık ritimleriyle tanınması hakkındaki kurum açıklaması incelendi. Seyir işlevini açıklar; rüya yorumu veya dinî tabir kaynağı değildir.",
-      "author": "Trinity House"
+      "title": "DreamResearch.net: Studying dream content using DreamBank.net",
+      "relevance": "Rüya içeriklerinin büyük arşivler üzerinden nasıl sınıflandırılıp incelendiğini açıklar; deniz feneri gibi bir nesnenin rüyadaki bağlamını araştırmak için yöntemsel çerçeve sağlar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2008c.html"
+    },
+    {
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Rüya içeriği analizinin kategorileme, frekanslaştırma ve karşılaştırma mantığını özetler; sembol yorumundan çok veri temelli çözümleme yaklaşımı sunar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
+    },
+    {
+      "title": "Dream emotions: a comparison of home dream reports with ...",
+      "relevance": "Rüya raporlarında duygu yoğunluğu ve negatiflik farklarını inceleyen ampirik çalışma; deniz feneri gibi bir sembol için bağlam ve duygunun önemini destekler.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jsr.12555"
+    },
+    {
+      "title": "Doing Research Projects on Dream Content",
+      "relevance": "Rüya içerik araştırmalarında kişi, eylem, nesne ve duygu kategorilerinin sistematik biçimde kodlandığını anlatır; sembolü tek başına anlamlandırmak yerine içerik analizine yönlendirir.",
+      "url": "https://dreams.ucsc.edu/projects.html"
+    },
+    {
+      "title": "International Journal of Dream Research Volume 10, No. 1 (2017)",
+      "relevance": "Düşlerin olumlu ve olumsuz yoğunluğunun dış değerlendiricilerce puanlanabildiğini gösteren örnek; rüya yorumunda duygusal ölçümün önemini destekler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/34565/pdf/119430"
+    },
+    {
+      "title": "Relationships between Dream and Previous Wake Emotions ...",
+      "relevance": "Rüya duyguları ile uyanıklık duyguları arasındaki ilişkiyi inceleyen ampirik çalışma; rüya anlamının bağlam ve önceki duygusal durumla birlikte değerlendirilmesi gerektiğini destekler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601812/"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Rüyalarda su imgelerinin doğum, anne rahmi ve bedensel süreçlerle ilişkisine dair Freud’un klasik tartışması.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Lighthouse Dream Meaning & Interpretation",
+      "relevance": "Deniz fenerinin Jungcu sembolizmde rehberlik, Self ve bilinç ışığıyla ilişkilendirilmesini açıkça anlatan çevrim içi bir Jungcu yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/lighthouse/"
+    },
+    {
+      "title": "The symbolism of a lighthouse in Sandplay Therapy — Mindsight Counselling & Art Therapy",
+      "relevance": "Deniz feneri sembolünün dairesel formu üzerinden Jung’un Self, bütünlük ve psişe totalitesi kavramlarıyla ilişkilendirilmesini tartışan terapi yazısı.",
+      "url": "https://www.mindsightcounselling.com.au/resources/q21poqnq5ulb3g16bxm3ftalkvrr9f"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorumu geleneğinin temel metnini ve kapsamını gösterir; deniz feneri için doğrudan madde olup olmadığını denetlemek açısından yararlıdır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Lighthouse Meaning & Symbolism in Mythology, Folklore & Spirit Work - Wisdom Of The Spirit",
+      "relevance": "Pharos ve deniz fenerinin antik Akdeniz kültüründe yön gösterme, güvenli geçiş ve denizcilik işareti olarak sembolik konumunu özetler.",
+      "url": "https://wisdomofthespirit.com/lighthouse-meaning-symbolism/"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidorus'un rüya kitabının tarihsel kapsamını ve antik oneirokritik gelenek içindeki yerini anlatır.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "تفسير حلم منارة",
+      "relevance": "Arapça “منارة” için klasik rüya tabirinde rehberlik, dini çağrı ve toplumsal yön göstericilik anlamları verir.",
+      "url": "https://www.arabsdreams.com/dreams/%D9%85%D9%86%D8%A7%D8%B1%D8%A9/"
+    },
+    {
+      "title": "Rüyada Fener Görmek Ne Demek, Neye Yorumlanır?",
+      "relevance": "Türkçe rüya tabirinde deniz feneri için aydınlık, saadet ve yanan ışık üzerinden olumlu çağrışımlar sunar.",
+      "url": "https://www.diyadinnet.com/ruyada-4640-fener-gormek"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri D Harfi",
+      "relevance": "Türkçe İslami rüya tabiri derlemesinde deniz fenerini dostluk, olgunluk ve nimete erişme ile ilişkilendirir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-d-harfi.html"
+    },
+    {
+      "title": "رؤيا المنارة - قاموس تفسير كلمات الأحلام",
+      "relevance": "Arapça rüya sözlüğünde “منارة” için minare, dini yönlendirme ve toplumsal rehberlik anlamlarını ayrıntılandırır.",
+      "url": "https://mktbtk.com/dir/nab/24/d-0187.htm"
+    },
+    {
+      "title": "Lighthouse dream meaning",
+      "relevance": "Deniz feneri rüyasını Hristiyan bağlamda ışık, uyarı, kamusal tanıklık ve fırtınada ilahi yönlendirme temalarıyla açıklıyor.",
+      "url": "https://biblestep.com/dreams/lighthouse-dream-meaning"
+    },
+    {
+      "title": "Lighthouses and Christianity --Aleteia",
+      "relevance": "Deniz feneri imgesini Yuhanna 8:12 ile ilişkilendirerek İsa, kilise ve yol gösteren ışık sembolizmini açıklıyor.",
+      "url": "https://aleteia.org/2017/06/30/lighthouses-an-ancient-symbol-of-christianity/"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Berakhot 55-58’deki rüya yorumları ve Yahudi rüya literatürünün genel çerçevesi hakkında temel tarihsel bilgi verir.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Yahudi geleneğinde rüyaların anlamı, rüya yorumunun statüsü ve rüyalara yaklaşımın genel ilkeleri hakkında kısa bir çerçeve sunar.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Dreams in the Talmud | Sefaria",
+      "relevance": "Talmud’daki rüya pasajlarında ışık, Tora ve sembolik yorum ilişkisini gösteren örnek bir metin sunar.",
+      "url": "https://prod.sefaria.org.il/sheets/233896"
+    },
+    {
+      "title": "Lighthouse Dreams: Guidance, Warning, and the Will to Find ...",
+      "relevance": "Deniz fenerini rüya bağlamında yön gösterme, güvenlik ve ruhsal rehberlik temalarıyla ele alan modern bir yorum sayfası.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/lighthouse"
+    },
+    {
+      "title": "Lighthouse Dream Meaning & Interpretation | DreamIO",
+      "relevance": "Deniz fenerini rüyada kılavuzluk, koruma ve karanlıkta güvenli yol bulma temalarıyla yorumlayan modern bir rüya sözlüğü sayfası.",
+      "url": "https://dreamio.ai/en/dream-dictionary/lighthouse"
+    },
+    {
+      "title": "Dream of Lighthouse — Symbolic Meaning",
+      "relevance": "Deniz fenerini sabit yönelim, güvenilir referans noktası ve belirsizlikte rota tutma sembolü olarak açıklayan modern sembolik okuma.",
+      "url": "https://wereallunique.com/dreams/lighthouse"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "christian"
+  ]
 }

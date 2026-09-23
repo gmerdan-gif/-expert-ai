@@ -1,70 +1,185 @@
 {
   "slug": "kahverengi-renk",
-  "title": "kahverengi renk",
-  "shortDescription": "Rüyada kahverengi, toprak ve ahşap gibi tanıdık malzemeleri çağrıştırabilir. Güven, sadelik veya ağırlık hissi, rengin görüldüğü nesneye ve kişisel deneyime göre değişir.",
+  "title": "Kahverengi renk",
+  "shortDescription": "Rüyada kahverengi görmek; toprak, kökler, güvenlik ve sade yaşamla ilişkilendirilebilir. Rüyanın duygusuna göre istikrar arayışını ya da maddi olana fazla bağlanmayı da yansıtabilir.",
   "positiveAssociations": [
-    "Tanıdık bir malzemenin verdiği rahatlık",
-    "Doğal bir görünümden hoşlanmak",
-    "Sevilen bir eşyayı hatırlamak"
+    "Güvenlik",
+    "Rahatlık",
+    "Toprak ve kökler ile bağ",
+    "Pratiklik ve sağduyu",
+    "Alçakgönüllülük"
   ],
   "challengingAssociations": [
-    "Bir yüzeyi kirli sanmak",
-    "Rengin beklenmedik biçimde değişmesi",
-    "Ortamı ağır veya donuk bulmak"
+    "Maddeselliğe aşırı bağlanma",
+    "Ham veya işlenmemiş başlangıç durumu",
+    "Sıradanlık ve geçicilik hissi"
   ],
   "contextDependentAssociations": [
-    "Rengin ahşap, toprak, kumaş veya hayvanda görülmesi",
-    "Yüzeyin temiz veya lekeli olması",
-    "Açık ve koyu tonlara kişisel tepki"
+    "Gündelik nesnelerin görsel bir ayrıntısı olarak belirmesi",
+    "Yaşam koşullarının somut ve fiziksel düzeyiyle ilişkili olması",
+    "Kişinin aile, ev ve köken temalarına yönelik içsel yönelimi"
   ],
   "commonVariations": [
     {
-      "title": "Kahverengi ahşap bir eşya görmek",
-      "description": "Eşyanın size ait olup olmadığını, yeni mi eski mi göründüğünü düşünün. Renk kadar kullanım ve hatıra da önemli olabilir; sevilen bir masa ile taşımakta zorlandığınız dolap farklı deneyimlerdir."
+      "title": "Kahverengi Toprak veya Zemin Üzerinde Yürümek",
+      "description": "Rüyada ayakların altında kahverengi toprak ya da zemin hissetmek, kişinin somut yaşam koşullarına, fiziksel gerçekliğe ve köklerine bağlılığını simgeler."
     },
     {
-      "title": "Kahverengi kıyafet seçmek",
-      "description": "Rengi isteyerek seçmeniz ile size verilmiş bir kıyafeti giymeniz aynı sahne değildir. Kendinizi rahat, görünür veya yabancı hissettiğiniz anları ayırabilirsiniz."
+      "title": "Kahverengi Giysiler Giymek",
+      "description": "Üzerinde kahverengi kıyafetler görmek veya giymek, sadeliğe, gösterişten uzaklaşmaya, tevazuya ve içsel bir denge arayışına işaret edebilir."
     },
     {
-      "title": "Bir nesnenin kahverengiye dönüşmesi",
-      "description": "Rüyada bunun boya, leke veya başka bir değişim olduğunu biliyor muydunuz? Nedenini bilmediğiniz renk değişimini çürüme ya da kayıp diye kesinleştirmeyin."
+      "title": "Kahverengi Eşya veya Nesneler Görmek",
+      "description": "Ev içinde veya günlük yaşamda kahverengi tonlarında nesnelerle karşılaşmak, güvenlik, rahatlık ve pratik yaşam gereksinimlerine işaret edebilir."
     },
     {
-      "title": "Kahverengi bir hayvanla karşılaşmak",
-      "description": "Hayvanın türü ve davranışı, renginden farklı ayrıntılardır. Yaklaşmak, uzaktan izlemek veya saklanmak gibi kendi tepkinizi de düşünün; kahverengi olması güvenli olduğunu kanıtlamaz."
+      "title": "Kahverengi Tonlarında Doğal Alanlar",
+      "description": "Ağaç gövdeleri, kuru yapraklar veya toprak tonlarının baskın olduğu bir doğa manzarası görmek, doğal döngülere, ham başlangıçlara ve maddesel düzeye dikkat çeker."
     }
   ],
-  "psychology": "Hall/Van de Castle içerik analizi, nesnelerle onların betimleyici özelliklerini ve rüyadaki duyguları ayrı kategorilerde kaydeder. Bu ayrım kahverengi bir nesneyi anlatırken rengini, ne olduğunu ve onunla ne yaptığınızı ayrı düşünmek için kullanılabilir. Yöntem kahverenginin köklenme veya alçakgönüllülük anlamına geldiğini söylemez.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Rengin görüldüğü nesne ile o nesneye ilişkin deneyim birlikte düşünülebilir.",
-  "differences": "Genel içerik analizi, belirli bir renk için dinî veya psikolojik hüküm sağlamaz.",
-  "inusAssessment": "Kahverengi; ahşap, toprak, yiyecek veya bir hayvanın tüyünde görülebilir. Bu nesneler aynı deneyimi oluşturmaz. INUS, rengin tanıdıklığını ve bulunduğu yüzeyle ilişkisini kişisel çağrışımlar üzerinden ele alır. Toprak size güven verebilir; başka bir bağlamda leke veya ağırlık hissi öne çıkabilir. Bunlar sabit anlamlar değildir. Yalnız kahverengiden kişinin daha gerçekçi olması, alçakgönüllü davranması veya ruhsal olarak köklenmesi gerektiği sonucu çıkarılmaz.",
-  "faq": [
+  "psychology": "Ampirik renk‑rüya çalışmaları, rüyalarda hatırlanan renklerin tekil bir sözlük anlamı taşımadığını; bunun yerine renk algısı, duygusal tepkiler ve nörolojik süreçlerle ilişkili olduğunu gösterir. Renk içeriği, rüya görenin uyanık yaşamındaki kişisel tercihleri ve anlık görsel deneyimleriyle şekillenir.",
+  "jungian": "Jungcu analitik psikoloji çerçevesinde kahverengi, toprağa, doğaya ve bedensel yaşama yakın bir renk olarak konumlandırılır. Büyük ağacın odunu veya 'toprak ana' arketipleriyle ilişkilendirilen kahverengi, somut gerçeklik alanı ve duyumsama işleviyle bağlantılıdır; bireyin köklerine, ailesine ve somut yaşam koşullarına yöneldiğini gösterebilir.",
+  "islamicTradition": "Çağdaş İslami rüya tabiri aktarımlarında kahverengi renk, temkinli, ölçülü ve akıllı hareket etmeye işaret eden bir sağduyu göstergesi olarak ele alınır (bu tespit modern aktarım kaynaklarına dayanmaktadır; klasik tekil bir metinden doğrudan alıntı bulunmamaktadır).",
+  "christianTraditions": "Hristiyan sanat ve sembolizminde kahverengi, toprağın rengi olarak tevazu, sadelik ve yaratılmış şeylerin geçiciliğiyle ilişkilendirilir; keşiş cübbelerinde görülen tonlar gibi görsel referanslar, rüyada kahverenginin dünyevî/sıradan olana veya alçakgönüllü yaşama işaret edebileceğini düşündürür.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyaların yorumla şekillendiği kabul edilir; renkler genel olarak bağlama göre yorumlanır ve kahverengi için doğrudan Talmudik bir hüküm bulunmamakla beraber sembolün anlamı rüyanın bütünü ve bağlamına göre değerlendirilmelidir.",
+  "buddhistEasternApproaches": "Budist bağlamda kahverengi, özellikle Theravada manastır cübbe tonlarıyla ilişkilendirilerek sadelik, gösterişsizlik ve dünyevi bağlılıklardan uzaklaşma çağrışımı yapar; rüya bağlamında bu, içsel sadelik veya manastır pratiğine yönelik bir imge zemini sağlayabilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda kahverengi, ham madde, yer elementi, ilk töz ve maddi dünyaya köklenme temalarıyla ele alınır. Modern spiritüel yorumlarda bu renk genellikle istikrar, güvenlik ve temel ihtiyaçlara dönüş eğilimiyle ilişkilendirilir.",
+  "comparisonTable": [
     {
-      "question": "Kahverengi görmek her zaman huzur anlamına mı gelir?",
-      "answer": "Hayır. Rengi sevmeniz, nesneyi tanımanız ve sahnede rahat olmanız birbirinden farklı ayrıntılardır. Kahverenginin sizde uyandırdığı duyguyu önceden belirlenmiş bir kurala uydurmak gerekmez."
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Renklerin rüyadaki varlığı tekil bir sembolden ziyade nörolojik süreçler ve duygusal bağlamla ilişkilendirilir.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Kahverengi bir leke ile kahverengi bir eşya aynı şekilde mi düşünülür?",
-      "answer": "Hayır. Birinde yüzeydeki değişim veya temizleme eylemi, diğerinde eşyanın kendisi öne çıkabilir. Rengi anlatırken nesneyi ve yaptığınız şeyi de kaydedebilirsiniz."
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Toprak, kökler, somut yaşam koşulları, bedensel duyum ve duyumsama işleviyle bağdaştırılır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Yaklaşım",
+      "interpretation": "Modern aktarımlarda akıllı, ölçülü ve temkinli hareket etmeye işaret eden bir sağduyu çağrışımıyla verilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Tevazu, sadelik, yaratılmışların geçiciliği ve dünyevî/sıradan olana yakınlık olarak ele alınır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Ham madde, yer elementi, köklenme ve temel yaşam ihtiyaçlarına dönüş temalarını taşır.",
+      "evidenceLevel": "spiritual"
     }
   ],
+  "commonGround": "Çeşitli disiplinler ve gelenekler kahverengiyi genellikle toprak, maddesellik, sadelik, köklenme ve güven temaları etrafında buluşturur; rüyada kahverengi, soyut bir mesajdan ziyade somut ve pratik olana dikkat çekme eğilimindedir.",
+  "differences": "Ampirik psikoloji rengi nörolojik ve duygusal bir yansıma olarak incelerken, Jungcu yaklaşım arketipsel kökenler ve bedensel duyumlar üzerinden okur. Dini ve ezoterik gelenekler ise tevazu, sadelik veya tözsel niteliklere vurgu yapar; her durumda bağlam belirleyicidir.",
+  "inusAssessment": "Kahverengi renk rüyası, rüya görenin somut yaşam gerçeklikleri, günlük alışkanlıkları ve kökenleriyle ilişkisini gösteren bir bileşen olabilir. Ton, bağlam, eşlik eden imgeler ve rüya sahibinin duygusal tonu, bu rengin istikrar/güvenlik çağrışımı mı yoksa aşırı maddesellik eleştirisi mi taşıdığını belirleyen temel unsurlardır.",
+  "faq": [],
   "sources": [
     {
-      "title": "Content Analysis Explained",
-      "url": "https://dreams.ucsc.edu/Info/content_analysis.html",
-      "relevance": "Rüya raporlarında nesne, niteleme, eylem ve duygu kategorilerini açıklayan genel yöntem. Kahverenginin belirli bir anlamına ilişkin araştırma değildir."
+      "title": "[PDF] Content analysis on the potential significance of color in dreams",
+      "relevance": "Rüyalarda renklerin hatırlanması ve renk içeriğinin duygusal süreçlerle ilişkisi üzerine ampirik içerik çözümlemesi; kahverenginin rüya bağlamındaki olası rollerine ilişkin temel bir araştırma zemini sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/508/pdf"
+    },
+    {
+      "title": "Farben im Traum: Ein Beitrag zur Traumdeutung Sigmund Freuds",
+      "relevance": "Freud ve psikanalitik perspektiften renklerin rüyadaki duygulanım temsili olarak okunmasına dair akademik tartışma sunar.",
+      "url": "https://link.springer.com/article/10.1007/s00451-006-0276-7"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud'un metninde çeşitli renk betimlemeleri bulunur; kahverengi tonlarına dair örnekler, rengin bağlama bağlı olarak görsel ayrıntı şeklinde yer alabildiğini gösterir.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 7, part a",
+      "relevance": "Freud'un rüya örneklerinde kahverengiye yakın tonların görsel ayrıntı olarak işlendiğini gösteren bölüm.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7a.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams (Freud)/Chapter 4 - Wikisource",
+      "relevance": "Freud'un rüya betimlemelerinde renk kullanımına ilişkin metin pasajlarına erişim sağlar; kahverengi tonlarının bağlama göre yorumlanması gerektiğini destekler.",
+      "url": "https://en.wikisource.org/wiki/The_Interpretation_of_Dreams_(Freud)/Chapter_4"
+    },
+    {
+      "title": "[PDF] Working with Color in Dreams | DreamScience.org",
+      "relevance": "Rüyada renklerle çalışma bağlamında Jungcu çağrışımlar ve kahverengi üzerine tematik okumalar içerir.",
+      "url": "https://www.dreamscience.org/wp-content/uploads/2019/03/Part-3-Wokring-with-Color-in-Dreams.pdf"
+    },
+    {
+      "title": "Jung on Family Constellations and the Alchemy of Colors",
+      "relevance": "Jungcu açıdan renklerin işlevselliği ve kahverenginin duyumsama ile ilişkilendirilebileceğine dair aktarım niteliğinde bir kaynak.",
+      "url": "https://jungiancenter.org/jung-on-family-constellations-and-the-alchemy-of-colors/"
+    },
+    {
+      "title": "Exploring the Symbolism of Brown Color - Symbolic Nature",
+      "relevance": "Kahverengi rengin modern kültürel sembolizmi; toprak, güvenlik, istikrar ve doğallık çağrışımlarını özetler.",
+      "url": "https://symbolicbynature.com/exploring-the-symbolism-of-brown-color/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri | Bilmesek olmaz - Nedir? Nasıl ...",
+      "relevance": "Modern bir aktarımda kahverengi rengin 'akıllı hareket etmeye' işaret ettiği şeklinde verilen bir dini yorum örneği (modern aktarım düzeyinde).",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/imam-nablusi-ruya-tabirleri/"
+    },
+    {
+      "title": "Renk Rüyada Görmek İmam Nablusi",
+      "relevance": "Kahverengi rengin rüya tabirinde 'akıllı hareket etmeye' yorulduğu modern çevrimiçi aktarımlardan biri.",
+      "url": "https://www.islamda.org/2015/06/renk-ruyada-gormek-imam-nablusi.html"
+    },
+    {
+      "title": "Meaning of Colors in Sacred Art --Aleteia",
+      "relevance": "Hristiyan sanat ve sembolizm bağlamında kahverenginin tevazu, sadelik ve yaratılmış olana ilişkin çağrışımlarını ele alır.",
+      "url": "https://aleteia.org/2017/09/25/5-colors-and-their-symbolism-in-art/"
+    },
+    {
+      "title": "Color Symbolism in Christianitywou.edu › provost › library › exhibits › exhibits2004-05 › color › Images",
+      "relevance": "Hristiyan görsel-geleneklerde kahverenginin toprak, keşiş giysisi ve tevazu ile ilişkilendirildiğini gösteren yorum ve örnekler sunar.",
+      "url": "https://wou.edu/provost/library/exhibits/exhibits2004-05/color/Images/christianity.pdf"
+    },
+    {
+      "title": "A history of the colour brown in art - London",
+      "relevance": "Kahverenginin sanat tarihindeki kullanımı üzerinden Hristiyan bağlamlardaki tevazu ve sadelik çağrışımlarını tartışır.",
+      "url": "https://www.nationalgallery.org.uk/podcast/colour-stories-brown"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Yahudi geleneğinde rüyaların nasıl ele alındığı ve rüya yorumunun rolü hakkında Talmudik çerçeve sunar; kahverengi için doğrudan hüküm vermekten kaçınır.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "A Jewish Guide to Dream Interpretation",
+      "relevance": "Yahudi rüya sembolizmi içinde renklerin genel konumunu ve bağlama göre yorumlanması gerektiğini açıklayan çağdaş bir rehber.",
+      "url": "https://www.heyalma.com/a-jewish-guide-to-dream-interpretation/"
+    },
+    {
+      "title": "Brown colour: Significance and symbolism",
+      "relevance": "Budist bağlamda kahverengi cübbe renkleri ve manastır sadeliği gibi temalarla ilişkili sembolik anlatımları özetler.",
+      "url": "https://www.wisdomlib.org/concept/brown-colour"
+    },
+    {
+      "title": "Significance of Brown",
+      "relevance": "Budist kullanımında kahverenginin sade, gösterişsiz ve yere yakın bir ton olarak sembolik işlevini ele alır.",
+      "url": "https://www.wisdomlib.org/concept/brown"
+    },
+    {
+      "title": "The Color Brown: Symbolism, Perception, and Natural Depth",
+      "relevance": "Ezoterik ve simyasal çerçevede kahverenginin ham madde, yerleşiklik ve temel maddi temalarla ilişkilendirilmesine dair modern yorumları sunar.",
+      "url": "https://www.artinsolite.com/en/post/the-color-brown-symbolism-perception-and-natural-depth"
+    },
+    {
+      "title": "Color Symbolism",
+      "relevance": "Ezoterik literatürde kahverenginin ilk töz, Malkuth ve yerdeş temalarla bağlantılı okumalarını derleyen bir çalışma.",
+      "url": "https://thatsesoteric.com/wiki/Color_Symbolism"
+    },
+    {
+      "title": "Color Brown Meaning & Symbolism in Mythology, Folklore & Spirit Work - Wisdom Of The Spirit",
+      "relevance": "Modern spiritüel içeriklerde kahverenginin toprakla bağ, istikrar ve temel ihtiyaçlara dönüş biçiminde yorumlanmasına dair örnekler verir.",
+      "url": "https://wisdomofthespirit.com/color-brown-meaning-symbolism/"
     }
   ],
-  "relatedSlugs": [
-    "kahverengi-ayi",
-    "kahverengi-kopek"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "historical-cultural",
+    "buddhist-eastern"
   ]
 }

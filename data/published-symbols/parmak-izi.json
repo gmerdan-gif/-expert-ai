@@ -1,69 +1,200 @@
 {
   "slug": "parmak-izi",
-  "title": "parmak izi",
-  "shortDescription": "Rüyada parmak izi, kimliğinizi kanıtlama, iz bırakma veya tanınma duygusunu gündeme getirebilir. İzin kime ait olduğu ve nasıl kullanıldığı önemlidir.",
+  "title": "Parmak izi",
+  "shortDescription": "Rüyada parmak izi görmek, benzersiz kimliğinizi, bıraktığınız etkiyi ve eylemlerinizin sorumluluğunu düşündüğünüzü gösterebilir. İzlerin silinmesi kimlik veya aidiyet kaygısına, her yerde kendi parmak izinizi görmek ise üzerinizde yük oluşturan sorumluluklara işaret edebilir.",
   "positiveAssociations": [
-    "Kendine ait bir izi tanımak",
-    "Bir katkının görünür olması",
-    "Bir işlemi tamamlamak"
+    "benzersiz kimlik",
+    "ait olma ve tanınma",
+    "iz bırakma ve sorumluluk",
+    "bireysel ruhsal yol ve kader işareti"
   ],
   "challengingAssociations": [
-    "İzinsiz incelenme hissi",
-    "Bir izin yanlış kişiye ait sayılması",
-    "Kimliğini kanıtlama baskısı"
+    "ifşa edilme ve yakalanma korkusu",
+    "eylemlerin kalıcı yükü altında kalma",
+    "kimlik baskısı ve görünür olma kaygısı"
   ],
   "contextDependentAssociations": [
-    "İzin hangi yüzeyde olduğu",
-    "İzi kimin aldığı veya incelediği",
-    "İşlemin gönüllü olup olmadığı"
+    "parmak izinin silinmeye çalışılması veya kaybolması",
+    "tanınmayan ya da başkasına ait bir izle karşılaşılması",
+    "yüzeylerde ya da suç mahali gibi yerlerde belirgin izler bırakılması"
   ],
   "commonVariations": [
     {
-      "title": "Kâğıda parmak izi bırakmak",
-      "description": "Bunu isteyerek mi yapıyordunuz, sizden mi istenmişti? Rüyadaki işlem tamamlanınca rahatlamak ile baskı hissetmek farklı deneyimlerdir."
+      "title": "Kendi parmak izini büyüteçle incelemek",
+      "description": "Rüya sahibinin kendi kimliğini, benzersiz yönlerini veya yaşamındaki ayırt edici duruşunu anlama çabasını simgeler."
     },
     {
-      "title": "Bir yüzeyde kendi izinizi görmek",
-      "description": "Oraya daha önce dokunduğunuzu bilmek, şaşırmak veya izin görülmesinden çekinmek farklı çağrışımlar oluşturabilir. İzden gerçek hayattaki bir olay hakkında kanıt çıkarılmaz."
+      "title": "Parmak izinin silindiğini veya kaybolduğunu görmek",
+      "description": "Kimlik kaybı, aidiyet duygusunda zedelenme veya hayatta iz bırakamama endişesini yansıtır."
     },
     {
-      "title": "Parmak izinin okunmaması",
-      "description": "Bir cihazın veya kişinin sizi tanımaması sahnenin odağı olabilir. Tekrar denemek, yardım istemek veya vazgeçmek rüyadaki tepkinizi belirginleştirir."
+      "title": "Her yerde kendi parmak izinin çıktığını fark etmek",
+      "description": "Gerçek hayattaki eylemlerin, sorumlulukların veya atılan adımların geride bıraktığı baskıcı etkilerle yüzleşmeyi gösterir."
     },
     {
-      "title": "Başkasının parmak izini incelemek",
-      "description": "İzin kime ait olduğunu biliyor muydunuz, yoksa bulmaya mı çalışıyordunuz? Rüyada duyduğunuz kuşkuyu gerçek bir kişi hakkında doğrulanmış bilgi saymayın."
+      "title": "Başka birine ait parmak izleriyle karşılaşmak",
+      "description": "Sosyal çevrede veya ilişkilerde birinin varlığının, etkisinin ya da müdahalesinin, rüya sahibi üzerinde bıraktığı kalıcı izi temsil eder."
     }
   ],
-  "psychology": "",
-  "jungian": "",
+  "psychology": "Ampirik psikoloji literatüründe parmak izi sembolüne özel doğrudan bir rüya kategorisi bulunmamaktadır. Bununla birlikte genel rüya içerik analizleri, rüyaların temelinde yoğun duygusal içeriklerin, kaygıların ve kişisel deneyimlerin yer aldığını göstermektedir. Psikodinamik ve psikanalitik çerçevede ise rüyadaki beden parçaları sabit birer sözlük anlamı taşımaz; bunun yerine serbest çağrışım yoluyla rüya sahibinin 'iz bırakma', 'kanıt', 'sorumluluk' ve 'ifşa' gibi kavramlarla kurduğu bireysel bağlar üzerinden çözümlenir.",
+  "jungian": "Analitik psikoloji perspektifinden parmak izi, bireysellik, ego ile benlik arasındaki gerilim ve psişik alanda bırakılan ayırt edici damga temalarıyla ilişkilendirilebilir. Jung'un sembol anlayışına göre rüya, bilinçdışının mevcut durumunu simgesel olarak ortaya koyar. Bu bağlamda parmak izi, rüya sahibinin bilinçdışındaki benzersiz özünü, kişisel gelişim yolculuğunu ve benliğin dış dünyada bıraktığı görünür kalıcı izleri yansıtan bir psişik imge ya da ifade olarak ele alınabilir.",
   "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "İzin bırakılması, görülmesi ve bir kişiye ait sayılması ayrı ayrıntılardır.",
-  "differences": "Bir nesnenin gerçek dünyadaki işlevi, rüyada ona yüklediğiniz kişisel anlamı tek başına belirlemez.",
-  "inusAssessment": "Parmak izi, parmağın kendisinden farklı olarak bırakılan iz ve tanınma işlemiyle ilgilidir. OJP’nin tarih kaydı parmak izlerinin kimlik belirlemede kullanımını anlatır; bu rüya anlamına ilişkin bir araştırma değildir. INUS değerlendirmesi izin nasıl oluştuğunu, kimin gördüğünü ve sizin bu duruma tepkinizi ele alır. Silik izden kimlik kaybı, belirgin izden kesin sorumluluk hükmü çıkarılmaz.",
-  "faq": [
+  "christianTraditions": "Hristiyan sembolik okumalarında ve teolojik tefekkürde parmak izi, yaratılıştaki tekillik, ilahi mühür ve kişinin yaşamındaki benzersiz çağrı fikriyle bağdaştırılabilir. Rüyalarda bu tür motifler, mahremiyet, kimlik, ilahi tanınma veya bireyin dünyada üstlendiği sorumluluklar gibi temalarla birlikte okunmaya elverişlidir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyaların anlamının yorumla şekillenebileceği kabul edilirken, parmak izi sembolü kişinin dünyada bıraktığı etik kayıt, eylemlerinin sonuçları ve bireysel sorumluluk kavramları üzerinden sembolik bir okumaya tabi tutulabilir; ancak bu klasik bir rüya maddesi değil, yorumlayıcı bir sentezdir.",
+  "buddhistEasternApproaches": "Budist ve doğu kökenli bakış açılarında parmak izi, bedensel benzersizliği vurgularken aynı zamanda geçicilik ve değişmez bir özün yokluğu gibi kavramlar üzerinden düşünülebilir; bireyin taşıdığı bu ayırt edici işaret varoluşsal bir sorgulama alanı sunar.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yazında parmak izi çoğunlukla 'ruhsal imza', 'doğuştan gelen özel yaşam planı' veya 'bireysel kader işareti' olarak ele alınır. Rüyada bu motifin belirmesi, kişinin kendi özgün yolunu fark etmesi ve ruhsal kimliğiyle temas etmesi şeklinde yorumlanabilir.",
+  "comparisonTable": [
     {
-      "question": "Parmak izi görmek suçla ilgili bir işaret mi?",
-      "answer": "Hayır. Rüyadaki iz, gerçek bir suçun veya suçlamanın kanıtı değildir. İşlemin rüyadaki bağlamını ve sizde yarattığı duyguyu düşünebilirsiniz."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Serbest çağrışım aracılığıyla sorumluluk, iz bırakma ve ifşa edilme korkusu gibi psişik unsurların açığa çıkması.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Parmak ile parmak izi aynı anlamda mı ele alınır?",
-      "answer": "Hayır. Parmak bir beden parçasıdır; parmak izi yüzeydeki iz veya kimlik belirleme işlemi olarak öne çıkabilir. İlgili olmaları aynı sahne olduklarını göstermez."
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bireysellik, benlik işareti ve dış dünyada bırakılan ayırt edici psişik damganın simgesel ifadesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Ruhsal imza, benzersiz yaşam yolu ve ilahi planın birey üzerindeki işareti.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar parmak izini çoğunlukla bireysellik, kimlik ve dünyada bırakılan etki kavramları etrafında buluşturur; sembolün ortak noktası, sabit bir gelecek tahmininden ziyade kişinin kendi benliğiyle ve eylemleriyle kurduğu bağdır.",
+  "differences": "Psikolojik yaklaşımlar serbest çağrışım ve içsel dinamiklere odaklanırken, spiritüel ve teolojik okumalar sembolü ilahi bir mühür, ruhsal imza veya kader çizgisi gibi dışsal ve aşkın anlamlarla zenginleştirir.",
+  "inusAssessment": "Rüyalarda parmak izi sembolüyle karşılaşıldığında, anlamı sabitleştiren genel bir rüya sözlüğü karşılığı aramak yerine rüyanın taşıdığı duygusal ton ve özgül bağlam esas alınmalıdır. Kendi parmak izini incelemek bireysel kimlik arayışına işaret ederken, izlerin silinmesi veya her yerde karşılaşılması sorumluluklar ve kimlik baskısıyla ilgili içsel bir hesaplaşmaya işaret edebilir.",
+  "faq": [
+    {
+      "question": "Rüyada parmak izi görmek gelecekte başıma bir olay geleceği anlamına mı gelir?",
+      "answer": "Hayır. Parmak izi rüyası geleceğe dair kehanetler sunmaz; daha ziyade mevcut kimlik, aidiyet, iz bırakma ve sorumluluk hissi gibi psikolojik ve tematik unsurları yansıtır."
+    },
+    {
+      "question": "Parmak izinin rüyada silindiğini görmek neye işaret eder?",
+      "answer": "Bu durum genellikle bireyin kimlik kaybı yaşama korkusu, attığı adımların etkisiz kalacağı endişesi veya aidiyet hissinde yaşadığı belirsizliklerle ilişkilendirilir."
     }
   ],
   "sources": [
     {
-      "title": "Fingerprint Sourcebook — Chapter 1: History",
-      "url": "https://www.ojp.gov/library/publications/fingerprint-sourcebook-chapter-1-history",
-      "relevance": "OJP bölüm özeti, parmak izlerinin kimlik belirlemede kullanım tarihini açıklar. Rüya yorumu veya kişiye ilişkin adli çıkarım kaynağı değildir.",
-      "author": "Jeffery G. Barnes",
-      "year": 2010
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Rüya içerik analizinin temel ilkelerini; kategori oluşturma, frekans sayma ve karşılaştırma adımlarını açıklayan kaynak.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
+    },
+    {
+      "title": "DreamResearch.net: Studying dream content using DreamBank.net",
+      "relevance": "DreamBank üzerinden rüya metinlerinin sözcük ve öğe temelli nicel analizini anlatan kaynak.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2008c.html"
+    },
+    {
+      "title": "Relationships between Dream and Previous Wake Emotions ...",
+      "relevance": "Rüyaların duygusal içerik taşıdığı ve birçok rüyada en az bir duygu bulunduğu yönündeki ampirik bulguları özetleyen çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601812/"
+    },
+    {
+      "title": "Exploring emotional characteristics in dreams of clinical ...",
+      "relevance": "Klinik örneklerde rüya duygularının sıklığını, pozitif-negatif dağılımını ve duygu kategorilerini nicel olarak raporlayan çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/102923/99325/267300"
+    },
+    {
+      "title": "[PDF] Sigmund Freud [1900] The Interpretation of Dreams (James ...",
+      "relevance": "Freud'un rüya çözümlemesinde beden öğelerinin ve rüya parçalarının çağrışım zinciriyle açılmasına ilişkin temel metin.",
+      "url": "https://ia802907.us.archive.org/17/items/SigmundFreud/Sigmund%20Freud%20%5B1900%5D%20The%20Interpretation%20of%20Dreams%20(James%20Strachey%20translation,%201955).pdf"
+    },
+    {
+      "title": "Freud's Method for Interpreting Dreams - London",
+      "relevance": "Freud'un serbest çağrışım yöntemi ve rüyaların bastırılmış isteklerin kılık değiştirmiş doyumları olarak anlaşılması.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/freuds-method-for-interpreting-dreams/"
+    },
+    {
+      "title": "A Library Guide to Jung's Collected Works: Dreams",
+      "relevance": "Jung’un rüya tanımını ve sembol kavrayışını özetleyen kaynak; rüya imgesinin bilinçdışındaki durumu sembolik olarak gösterdiği çerçeveyi sağlar.",
+      "url": "https://pacifica.libguides.com/Jung/dreams"
+    },
+    {
+      "title": "Fingerprint Dream Meaning - Interpret Your Dream!",
+      "relevance": "Parmak izi imgesini bireysel kimlik ve bireyleşme çerçevesinde yorumlayan modern Jungcu sayfa.",
+      "url": "https://mirrorwithin.com/dream-dictionary/fingerprint/"
+    },
+    {
+      "title": "Jung's Model of the Psyche Applied to the Human Hand",
+      "relevance": "Jung’un el ve benlik/ego ilişkisine dair kavrayışını parmak izi ve bireysellik temalarıyla ilişkilendiren sayfa.",
+      "url": "https://www.ireadhands.com/blog/archives/129"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus'un antik rüya tabiri geleneğindeki yerini ve Oneirocritica'nın klasik bir rüya yorum kılavuzu olduğunu gösterir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus on Dreams",
+      "relevance": "Artemidorus'un Oneirocritica adlı eserinin kapsamını ve rüyaları yorumlama yöntemini özetler.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "A Babylonian Dream Tablet on the Interpretation of Dreams",
+      "relevance": "Mezopotamya'da rüya yorumuna dair tarihsel bir Babil tabletini tanıtır ve antik oneirokritik bağlamı destekler.",
+      "url": "https://www.penn.museum/sites/journal/586/"
+    },
+    {
+      "title": "RUYA TABiRLERi",
+      "relevance": "Klasik İslami rüya tabirlerinde 'parmak' sembolünün mal, evlat, kuvvet ve namazla ilişkilendirildiğini aktaran genel bir metindir.",
+      "url": "https://www.islamiokul.com/kutuphane/muhtelif/ruya/ruyap.html"
+    },
+    {
+      "title": "Fingerprint Dream Meaning & Interpretation - Mirror",
+      "relevance": "Parmak izini Hristiyan sembolizmi içinde tekillik, yaratılış ve kişisel amaç ile ilişkilendiren modern bir yorum yazısı.",
+      "url": "https://mirrorwithin.org/dream-dictionary/fingerprint/"
+    },
+    {
+      "title": "God's Fingerprint - LifeWay Lutheran Church www.lifeway.net.au › gods-fingerprint",
+      "relevance": "Tanrı’nın eli/işareti ve 'God’s fingerprint' dilini kullanan Hristiyan tefekkürü; parmak izi temasını ilahi işaret ve tanınma bağlamına yerleştirir.",
+      "url": "https://www.lifeway.net.au/simply-living/gods-fingerprint"
+    },
+    {
+      "title": "Interpreting Your Dreams: A Biblical Christian Approach",
+      "relevance": "Hristiyan rüya ayrıştırmasında sembollerin bağlam, duygu ve ruhsal yönelimle birlikte okunmasını anlatan rehber yazı.",
+      "url": "https://www.soulshepherding.org/interpreting-your-dreams/"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Rüyaların yorumu, rüyanın anlamının nasıl şekillendiği ve bir rüyanın farklı biçimlerde anlaşılabilmesi üzerine temel rabbanî çerçeve sağlar.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Significance of Dreams",
+      "relevance": "Yahudi düşüncesinde rüyaların bazen anlamlı, bazen de gündelik düşüncelerin uzantısı sayıldığına ve rahatsız edici rüyalar için rabbanî pratiklere değinir.",
+      "url": "https://aish.com/significance-of-dreams/"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Yahudi gelenek içinde rüyaların ruhsal anlamı ve yorumlanma biçimleri üzerine genel çerçeve sunar; sembolik okuma için bağlam sağlar.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "The Meaning of Fingerprints in a Spiritual Context",
+      "relevance": "Parmak izlerini ruhsal benzersizlik ve yaşam yolu ile ilişkilendiren modern spiritüel yorumlar içerir; sembolün ezoterik çerçevede nasıl anlamlandırıldığını gösterir.",
+      "url": "https://meaningfulmoon.com/the-meaning-of-fingerprints-in-a-spiritual-context/"
+    },
+    {
+      "title": "The Spiritual Meaning of Fingerprints - A Sign of Our Unique ...",
+      "relevance": "Parmak izlerini ruhsal imza, kader işareti ve enerji izi olarak yorumlayan güncel bir spiritüel anlatım sunar; motifin modern ezoterik dildeki kullanımı açısından yararlıdır.",
+      "url": "https://spiritualnexus.net/the-spiritual-meaning-of-fingerprints-a-sign-of-our-unique-life-path/"
+    },
+    {
+      "title": "Fingerprint Patterns Palmistry Meaning",
+      "relevance": "Parmak izi desenlerini kimlik, ruhsal yol ve kişilik temalarıyla ilişkilendiren modern palmistry odaklı bir yorum içerir; sembolün ezoterik-palmistik bağlamını destekler.",
+      "url": "https://palmistryai.app/learn/fingerprint-patterns-palmistry-meaning"
+    },
+    {
+      "title": "Dermatoglyphics",
+      "relevance": "Parmak izlerini ve el sembolizmini okült bağlamda ele alan genel bir derleme sunar; parmak izi motifinin ezoterik divinasyon alanındaki yerini anlamaya yardımcı olur.",
+      "url": "https://occult-world.com/dermatoglyphics/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian",
+    "jewish",
+    "buddhist-eastern"
+  ]
 }

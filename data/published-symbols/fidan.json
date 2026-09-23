@@ -1,69 +1,242 @@
 {
   "slug": "fidan",
-  "title": "fidan",
-  "shortDescription": "Rüyada fidan, bakıma ihtiyaç duyan bir başlangıcı veya büyümesini beklediğiniz bir şeyi çağrıştırabilir. Kökleri, bulunduğu toprak ve gösterilen özen birlikte değerlendirilir.",
+  "title": "Fidan",
+  "shortDescription": "Rüyada fidan görmek, yeni başlayan bir niyetin, projenin ya da potansiyelin zamanla büyümesini simgeler. Fidanın canlılığı ve bakımı, bu sürecin sabır ve özen gerektiren kırılgan yanlarına işaret edebilir.",
   "positiveAssociations": [
-    "Bir canlıya bakım vermek",
-    "Küçük bir gelişmeyi fark etmek",
-    "Bir şeyin büyümesi için yer açmak"
+    "Yeni başlangıçlar ve gelecek umudu",
+    "Gelişen potansiyel ve büyüme süreci",
+    "Sabırla beslenen niyetler ve yatırımlar",
+    "Kuşaklar arası süreklilik ve bereket"
   ],
   "challengingAssociations": [
-    "Yeni başlayan bir şeyin zarar görmesinden korkmak",
-    "Verilen emeğin karşılığını hemen görememek",
-    "Hassas bir şeyi koruyamamak"
+    "Kırılganlık ve dış etkenlere karşı hassasiyet",
+    "Sonuçların gecikmesi ve yavaş ilerleyen süreçler",
+    "Özen ve sürekli bakım ihtiyacı"
   ],
   "contextDependentAssociations": [
-    "Fidanın köklerinin durumu",
-    "Toprakta mı saksıda mı olduğu",
-    "Onu kimin yetiştirdiği"
+    "Toprağa dikilen fidanın yeni bir sorumluluğa veya karara işaret etmesi",
+    "Fidanın canlı ya da solgun görünümü, içsel enerji düzeyiyle bağlantılı olabilir.",
+    "Büyüme evresindeki engellerin sabır testine dönüşmesi"
   ],
   "commonVariations": [
     {
-      "title": "Yeni dikilmiş bir fidan görmek",
-      "description": "Toprağın durumu ve fidana yaklaşımınız önemlidir. Onu korumak istemeniz, kendi hayatınızda özen gösterdiğiniz bir başlangıcı hatırlatabilir; bu kişisel bir çağrışım önerisidir."
+      "title": "Toprağa yeni fidan dikmek",
+      "description": "Geleceğe yönelik sağlam bir yatırım yapma, yeni sorumluluk üstlenme veya uzun vadeli bir niyetin ilk adımını atma arzusunu gösterir."
     },
     {
-      "title": "Fidanı sulamak",
-      "description": "Suyu isteyerek mi veriyordunuz, bir görevi mi yerine getiriyordunuz? Bakımın sizde yarattığı keyif veya yük hissini ayırabilirsiniz."
+      "title": "Sulanmayı bekleyen taze fidan",
+      "description": "Hayattaki hassas bir alanın, ilişkinin veya projenin korunmaya ve özenle beslenmeye olan ihtiyacını simgeler."
     },
     {
-      "title": "Eğilmiş bir fidana destek koymak",
-      "description": "Fidanı doğrultmaya çalışmak, yardım etme ve koruma çabasını düşündürebilir. Desteğin işe yarayıp yaramaması, rüyadaki rahatlık veya kaygıyı değiştirebilir."
+      "title": "Büyüyen ve filizlenen fidan",
+      "description": "Kişisel gelişimde kaydedilen mesafeyi, içsel potansiyelin yavaş yavaş görünür hale gelmesini ve olgunlaşma sürecini yansıtır."
     },
     {
-      "title": "Fidanı başka bir yere taşımak",
-      "description": "Yeni yerin neden seçildiğine bakın: daha aydınlık mıydı, yoksa eski yerden ayrılmak zorunda mıydınız? Taşınma eylemi ile fidanı kaybetme korkusu ayrı ayrıntılardır."
+      "title": "Gelişimi yavaş veya kırılgan fidan",
+      "description": "Hayatta atılan yeni adımların henüz yeterli desteği bulamadığını, sabırlı olunması gerektiğini ve dışsal risklere karşı dikkatli olunmasını hatırlatır."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "Hezekiel 17:22–24’te bir sedirin genç sürgününün dikilmesi, büyümesi ve kuşlara barınak olması anlatılır. Bu, dinî metnin kendi anlatısı içindeki bir büyüme imgesidir. Fidanın kültürel çağrışımını düşünmeye yardımcı olabilir; rüyada fidan gören kişinin geleceğine ilişkin bir vaat değildir.",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Küçük bir canlının büyümesi ve korunması kişisel çağrışım kurmaya elverişli somut özelliklerdir.",
-  "differences": "Kutsal metindeki sürgün anlatısı ile kişinin kendi rüyası aynı bağlam değildir.",
-  "inusAssessment": "Fidan rüyasında büyüme kadar bakım, bekleme ve korunma da düşünülebilir. INUS değerlendirmesi fidanın nasıl göründüğünü, ona ne yaptığınızı ve bunun size ne hissettirdiğini birlikte ele alır. Sağlıklı fidan evlilik veya çocuk haberi, kurumuş fidan ise kesin kayıp olarak okunmaz. Bu sahneler, kendi deneyiminizle ilişki kurmanıza yardımcı olan düşünme önerileridir.",
-  "faq": [
+  "psychology": "Deneysel çalışmalar, ağaç ve bitki imgeleriyle yönlendirilen rüya deneyimlerinin, uyanma sonrasında yaratıcı problem çözme performansını olumlu yönde destekleyebildiğini göstermektedir. Fidan imgesi, bireyin zihninde henüz olgunlaşma aşamasında olan yeni fikirleri, yaratıcı dürtüleri ve şekillenmekte olan zihinsel süreçleri yansıtan bir alan sunar.",
+  "jungian": "Jungcu analitik psikolojide ağaç sembolü bireyleşme, benlik ve doğal psişik büyüme süreciyle derinden bağlantılıdır. Tam gelişmiş bir ağacın öncüsü olan fidan, psişik yaşamın henüz erken evresini, bilinçdışından yeni çıkan potansiyelleri ve henüz tam biçimlenmemiş içsel gelişme dinamiklerini temsil eder.",
+  "islamicTradition": "Geleneksel tabir kaynaklarında bitki ve taze fidan imgeleri çoğunlukla yeni başlangıçlar, hayırlı kazançlar, bolluk ve nesil ile ilişkilendirilir. Fidanın dikilmesi veya büyümesi; aileye katılabilecek yeni bir birey, iş hayatında kaydedilecek hayırlı gelişmeler ya da sabırla yürütülen işlerin bereketle sonuçlanması yönünde yorumlara açık bir zemin sunar.",
+  "christianTraditions": "İncil temelli okumalarda genç sürgünler ve dikilen bitkiler, köklenme, umut, yenilenme ve geleceğe yatırım temalarıyla bağdaştırılır. Fidan, inanç veya ruhsal yaşamda atılan ilk adımların başlangıç aşamasındaki büyümesini ve meyve verme beklentisini simgeler.",
+  "jewishTraditions": "Rabbanî ve Talmudik gelenekte ağaç ve fidan dikimi, gelecek kuşaklara karşı sorumluluk, süreklilik ve dünyanın onarımı fikriyle iç içedir. İnsan yaşamı ile fidan arasında kurulan analoji, bu imgeyi soy devamlılığı, bereket ve geleceğe bırakılan kalıcı değerler bağlamında anlamlı kılar.",
+  "buddhistEasternApproaches": "Budist perspektifte genç fidanlar, varlığın sürdürülmesi ve canlılığın korunması gereken kırılgan ama kararlı bir devamlılık metaforudur. Bu imge, içsel uyanış ve farkındalık yolculuğunda her yeni adımın özenli bir dikkate ve şefkatli bir bakıma ihtiyaç duyduğunu hatırlatır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda fidan, henüz görünür meyveler vermese bile içinde büyük bir dönüşüm kapasitesi barındıran latent potansiyeli simgeler. Hassas ama umut verici bir büyüme sürecini, içsel niyetlerin korunmasını ve sabırla beslenmesi gereken ruhsal adımları işaret eder.",
+  "comparisonTable": [
     {
-      "question": "Fidan görmek çocuk sahibi olacağım anlamına mı gelir?",
-      "answer": "Rüyadaki fidan böyle bir gelecek olayını göstermez. Büyüme ve bakım çağrışımları, kişisel deneyiminize göre farklı konularla ilişkilenebilir."
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Ağaç ve bitki rüyalarının uyanık yaşamdaki yaratıcı düşünce ve problem çözme becerilerini destekleyici etkisi.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Fidan ile büyük ağaç aynı şey mi anlatır?",
-      "answer": "Aynı olmak zorunda değildir. Fidanın küçük ve korunmaya açık oluşu, büyük ağacın gölgesi veya kökleriyle kurduğunuz çağrışımdan farklı olabilir."
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Bireyleşme sürecinin erken evresi ve henüz biçimlenen psişik potansiyelin yansıması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Büyüyen canlılık, dikey gelişme dinamikleri ve isteklerin sembolik ifadesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Hayırlı kazançlar, yeni başlangıçlar ve işlerin zamanla bereketlenmesi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Yeni yaşam, umut, köklenme ve geleceğe yatırım.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Gelecek kuşaklara süreklilik, sorumluluk ve nesiller arası bağ.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Gelişmekte olan niyetler, korunması gereken hassas potansiyel ve sabır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve psikolojik ekoller arasında fidan sembolü, ani ve hazır bir sonuçtan ziyade zamana yayılan, özen gerektiren ve geleceğe yönelik bir gelişim sürecini temsil etmesi bakımından ortaktır.",
+  "differences": "Psikanalitik ve Jungcu yaklaşımlar fidanı içsel psişik potansiyel ve bireyleşme dinamikleri üzerinden okurken; dini ve geleneksel okumalar bu imgeyi nesil, bereket, somut kazançlar ve yaşam döngüsü gibi dışsal ve sosyal bağlamlarla ilişkilendirir.",
+  "inusAssessment": "Fidanın toprağa dikilmesi, sulanması ya da kırılgan görünmesi gibi ayrıntılar, rüya sahibinin projelerinde, ilişkilerinde veya içsel dünyasında sabırla beslemesi gereken süreçleri ve özen gösterilmesi gereken hassas dengeleri anlamlandırmada anahtar rol oynar.",
+  "faq": [
+    {
+      "question": "Rüyada fidan görmek kesinlikle yeni bir çocuk veya evlilik anlamına mı gelir?",
+      "answer": "Geleneksel tabirlerde bu yönlü yorumlar bulunsa da, modern psikolojik ve analitik yaklaşımlar fidanı daha geniş bir potansiyel, yaratıcılık ve gelişim süreci olarak ele alır; dolayısıyla anlam rüya bağlamına göre çeşitlenir."
+    },
+    {
+      "question": "Rüyada kurumuş veya solmuş fidan görmek neyi ifade eder?",
+      "answer": "Solmuş veya gelişemeyen fidan imgesi, uyanık yaşamda özen gösterilmeyen projelere, ertelenen isteklere ya da enerjinin tükenmekte olduğu alanlara dikkat çekebilir."
     }
   ],
   "sources": [
     {
-      "title": "Hezekiel 17:22–24",
-      "url": "https://www.biblegateway.com/passage/?search=Ezekiel%2017%3A22-24&version=NIV",
-      "relevance": "Dikilen genç sürgünün büyüyüp kuşlara barınak oluşunu anlatan kutsal metin. Kişisel fidan rüyalarına tabir vermez."
+      "title": "Creative problem-solving after experimentally provoking dreams of ...",
+      "relevance": "Ağaç imgeleriyle yönlendirilen rüya deneyimi ve uyanma sonrası performans ilişkisini ele alan deneysel çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12875123/"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud’un rüya ve cinsellik yazılarında ağaç imgesinin fallik çağrışımları ve bedensel sembolizmle ilişkisi.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Page:Freud - A general introduction to psychoanalysis.djvu/176 - Wikisource, the free online library",
+      "relevance": "Freud’un çocuk cinsellik kuramı bağlamında ağaç ve ağaç benzeri dikey imgelerin sembolik yorumuna temas eden bölüm.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_A_general_introduction_to_psychoanalysis.djvu/176"
+    },
+    {
+      "title": "Sprout Dream Meaning & Interpretation - Mirror",
+      "relevance": "Filiz imgesi için büyüme ve psikanalitik sembolizme odaklanan modern bir yorum.",
+      "url": "https://mirrorwithin.org/dream-dictionary/sprout/"
+    },
+    {
+      "title": "Tree Dream Meaning — Korean Dream Interpretation (나무 꿈해몽)",
+      "relevance": "Ağaç imgesi için Freudcu, Jungcu ve kültürel rüya yorum başlıklarını bir araya getiren sayfa.",
+      "url": "https://www.kkumhaemong.com/en/dream/tree-dream"
+    },
+    {
+      "title": "Tree, dream interpretation, interpreter of ...",
+      "relevance": "Ağaç, soy ve cinsellik bağlamında sembolik yorumlar içeren klasik yorum geleneği aktarımı.",
+      "url": "http://www.dreamtation.com/docs/744.htm"
+    },
+    {
+      "title": "Sapling Dream Meaning - Interpret Your Dream! - Mirror",
+      "relevance": "Fidan için Jungcu bir yorum sunuyor; gelişmekte olan benlik, bireyleşme ve psişik potansiyel temalarını ilişkilendiriyor.",
+      "url": "https://mirrorwithin.com/dream-dictionary/sapling/"
+    },
+    {
+      "title": "1. Marie-Louise Von Franz – Eulogies",
+      "relevance": "Von Franz alıntıları üzerinden ağaç imgesini psişik gelişim ve doğal büyüme süreciyle ilişkilendiriyor.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/04/18/marie/"
+    },
+    {
+      "title": "The inner tree - Manuel Walter",
+      "relevance": "Ağacın rüyalarda bireysel psişik yaşamın gelişimini simgelediğini ve bu gelişimin istem dışı/doğal bir süreç olarak anlaşılması gerektiğini anlatıyor.",
+      "url": "https://manuelwalter.ch/the-inner-tree/"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual: Artemidorus' The ...",
+      "relevance": "Artemidorus’un rüya yorumunda bitkiler, ağaçlar ve tarımsal imgeler için genel ilkeleri içerir; dikim ve büyüme motiflerinin aile, çocuklar ve işlerin zamanla gerçekleşmesiyle ilişkisini anlamaya yarar.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un Oneirocritica’sının çevrimiçi tam metin çevirisine erişim sağlar; antik rüya yorum geleneğinde bitki ve ağaç sembollerini izlemek için kullanışlıdır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "islâmî rüya tabirleri ansiklopedisi",
+      "relevance": "Fidanı yeni doğan çocuk, evlilik, kâr ve hayırlı işlerle ilişkilendiren modern İslami rüya tabirleri derlemesi.",
+      "url": "https://can-ada.net/wp-content/uploads/2018/01/ruya-tabirleri-ansiklopedisi-2.pdf"
+    },
+    {
+      "title": "İslami Rüya Tabirleri -F- harfi",
+      "relevance": "Fidanı evlat ve bol kazançla, fidan dikmeyi hayırlı gelişme ve işte ilerlemeyle ilişkilendiren modern İslami rüya tabirleri sayfası.",
+      "url": "https://ehlisunnetmedya.com/2015/03/islami-ruya-tabirleri-f-harfi/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri F Harfi",
+      "relevance": "Fidanı yeni doğacak çocuk, evlilik, kâr ve hayırlı işlerle ilişkilendiren çevrim içi Nablusî aktarımı.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-f-harfi.html"
+    },
+    {
+      "title": "RÜYA - TDV İslâm Ansiklopedisi",
+      "relevance": "Rüya tabirinin İslâm geleneğinde sembolik dil, muabbir ve tâbirnâme çerçevesi içinde ele alındığını anlatır.",
+      "url": "https://islamansiklopedisi.org.tr/ruya"
+    },
+    {
+      "title": "Biblical meaning of plants in dreams",
+      "relevance": "Bitkiler, genç filizler ve ruhsal başlangıçlar arasında İncil merkezli sembolik bağlantılar kuran bir metin sunar.",
+      "url": "https://biblestep.com/dreams/biblical-meaning-of-plants-in-dreams"
+    },
+    {
+      "title": "Biblical Meaning of Trees in Dreams | Faith & Forward",
+      "relevance": "Ağaç dikimi temasını geleceğe yatırım ve büyüme başlangıcı olarak yorumlayan Hristiyan içerik sağlar.",
+      "url": "https://faithandforward.com/articles/biblical-meaning-of-trees-in-dreams"
+    },
+    {
+      "title": "Planting a Sapling",
+      "relevance": "Fidan dikmenin Mesih, gelecek ve sorumlulukla ilişkilendirildiği Yahudi geleneğini özetler.",
+      "url": "https://ritualwell.org/ritual/planting-sapling/"
+    },
+    {
+      "title": "Plant a Sapling - by Andrew Berns - New Wine Old Vessels",
+      "relevance": "Fidan/neti‘ah ile insan arasında kurulan rabbanî benzetmeyi ve fidan dikmenin anlam dünyasını ele alır.",
+      "url": "https://newwineoldvessels.substack.com/p/plant-a-sapling"
+    },
+    {
+      "title": "Tree-Planting Ritual",
+      "relevance": "Ağaç dikiminin çocuk doğumu ve kuşak sürekliliğiyle ilişkilendirildiği Yahudi anlatılarını bir araya getirir.",
+      "url": "https://ritualwell.org/ritual/tree-planting-ritual/"
+    },
+    {
+      "title": "Berakhot 56b | The Sefaria Library",
+      "relevance": "Talmudik rüya pasajlarında ağaç görmenin soy, çocuklar ve iyi ad ile ilişkilendirildiği rüya malzemesini gösterir.",
+      "url": "https://www.sefaria.org/Berakhot.56b"
+    },
+    {
+      "title": "Significance of Saplings",
+      "relevance": "Budist bağlamda fidanların genç bitkiler ve büyüme potansiyeli olarak ele alınmasını aktarır.",
+      "url": "https://www.wisdomlib.org/concept/saplings"
+    },
+    {
+      "title": "Seeds, Paintings and a Beam of Light",
+      "relevance": "Fidanı varlığın sürdürülmesi ve canlı kalmasıyla ilişkilendiren Budist bir sembolik okuma sunar.",
+      "url": "https://suttas.github.io/seeds/"
+    },
+    {
+      "title": "Seedling Dream Meaning & Interpretationmirrorwithin.com › dream-dictionary › seedling",
+      "relevance": "Filiz için rüya sözlüğü tarzında yeni başlangıç, hassas büyüme ve potansiyel temalarını verir; bitki filizi sembolizmi düzeyinde doğrudan yorum içerir.",
+      "url": "https://mirrorwithin.com/dream-dictionary/seedling/"
+    },
+    {
+      "title": "What Does Dreaming About Seedling Mean? - Rüya Tabirleri",
+      "relevance": "Filiz için büyüme, umut, sabır ve korunma gerektiren yeni başlangıçlar ekseninde yorum sunar; sembolün spiritüel çağrışımlarını topluca verir.",
+      "url": "https://ruyaokuma.com/en/dream-meanings/dream-about-a-seedling"
+    },
+    {
+      "title": "Dream About Planting (11 Meanings & Interpretations)",
+      "relevance": "Rüyada ekilen tohum ve filiz için potansiyel, büyüme ve ruhsal gelişim anlatısı kurar; fidan sembolüne yakın bir spiritüel okuma sağlar.",
+      "url": "https://wisdomofthespirit.com/dream-about-planting/"
+    },
+    {
+      "title": "Dreaming of Seeds: The Soul's Mandala | Midnight Mind",
+      "relevance": "Rüyada tohum/filiz sembolünü latent potansiyel, sabır ve yeni yaşam evresi olarak yorumlar; tohum–filiz çizgisinde spiritüel sembolizm sunar.",
+      "url": "https://midnightmind.app/blog/en/dreaming-of-seeds/"
+    },
+    {
+      "title": "Seed / Planting Dream Meaning: What Your Subconscious Is ...",
+      "relevance": "Filiz için rüya sözlüğü tarzında yeni başlangıç, hassas büyüme ve potansiyel temalarını verir; bitki filizi sembolizmi düzeyinde doğrudan yorum içerir.",
+      "url": "https://dreaminsight.app/blog/posts/seed-dream-meaning.html"
     }
   ],
-  "relatedSlugs": [
-    "fidan-dikmek"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
   ]
 }

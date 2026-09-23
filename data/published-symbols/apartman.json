@@ -1,0 +1,201 @@
+{
+  "slug": "apartman",
+  "title": "Apartman",
+  "shortDescription": "Rüyada apartman görmek, yaşam düzeninizi, kişisel sınırlarınızı ve iç dünyanızı yansıtabilir. Binanın durumu, bulunduğunuz kat ve apartmanda yaptıklarınız; istikrar, sosyal ilişkiler veya fark etmediğiniz yönlerinizle ilgili temaları öne çıkarabilir.",
+  "positiveAssociations": [
+    "Yaşamda düzen kurma ve istikrar",
+    "İçsel düzen ve kişisel gelişimin katmanları",
+    "Güvenli ve korunaklı bir yaşam alanı",
+    "Topluluk içinde yer alma ve topluluk bağları"
+  ],
+  "challengingAssociations": [
+    "Yaşamın bölümlenmiş veya kısıtlanmış hissedilen alanları",
+    "Mahremiyet sınırlarının ihlali endişesi",
+    "Çok katlı yapının getirdiği karmaşa veya yüksek katlarda olma kaygısı",
+    "Geçici yerleşim hissi ve yeryüzündeki hayatın geçiciliği"
+  ],
+  "contextDependentAssociations": [
+    "Apartmanın hangi katında bulunulduğu",
+    "Binanın mimari durumu, yapım aşaması veya sağlamlığı",
+    "Rüya sırasında apartman içinde yaşanan eylemler",
+    "Binanın içindeki odaların veya dairelerin durumu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Çok Katlı Bir Apartmanda Yüksek Katlara Çıkmak",
+      "description": "Rüya sahibinin apartmanın üst katlarına doğru yönelmesi, bilinç düzeyinde yükselme, psişik derinlikleri keşfetme veya hayatın farklı katmanlarına uyum sağlama çabasını simgeleyebilir."
+    },
+    {
+      "title": "Apartmanda Tanıdık Olmayan Yeni Bir Daire Bulmak",
+      "description": "Bina içinde daha önce fark edilmemiş veya bilinmeyen bir daireyle karşılaşmak, bireyin kendi iç dünyasında henüz keşfetmediği potansiyelleri veya yaşam alanının yeni yönlerini fark etmesine işaret edebilir."
+    },
+    {
+      "title": "Bakımsız veya Yıkılmak Üzere Olan Bir Apartman",
+      "description": "Yapının eskimiş, hasar görmüş veya dayanıksız olması, rüya sahibinin mevcut yaşam koşullarında, kurduğu düzeninde veya kişisel sınırlarında yaşadığı istikrarsızlık hissini yansıtabilir."
+    },
+    {
+      "title": "Apartmanda Komşularla Bir Arada Olmak",
+      "description": "Çok katlı yapının sunduğu ortak yaşam alanında diğer insanlarla etkileşimde bulunmak, rüyanın sosyal ilişkiler, sorumluluklar ve topluluk içindeki bireysel konum gibi temalara odaklandığını gösterir."
+    }
+  ],
+  "psychology": "Ampirik psikoloji rüya sembollerini tek ve sabit anlamlara indirgemez; bunun yerine rüya bağlamını, duygu tonunu ve anlatı ayrıntılarını esas alır. Doğrudan apartman temasına odaklanan sınırlı sayıda ampirik çalışma bulunsa da, konut ve ev temaları daha geniş psikolojik bağlamlarda ele alınmaktadır.",
+  "jungian": "Jungcu analitik psikolojide mimari ve konut imgeleri, benliğin ve psişik yapının mekânsal bir temsili olarak yorumlanır. Apartmandaki üst katlar daha erişilebilir bilinç alanlarını, alt katlar ise daha derin veya bilinçdışı katmanları simgeleyebilir.",
+  "islamicTradition": "Yapı ve bina sembolleri İslami rüya geleneklerinde çoğunlukla yerleşiklik, geçim, aile, topluluk, bilgi veya dünyevi uğraşlarla ilişkilendirilir. Binanın malzemesi ve yapım biçimi yorumun yönünü değiştirdiğinden, modern çok katlı meskenler de benzer bir yapı ve düzen ekseninde değerlendirilir.",
+  "christianTraditions": "Hristiyan rüya yorumlarında apartman imgesi kişisel yaşam alanı, sorumluluk ve emanet edilen alanlar bağlamında ele alınır. Aynı zamanda geçici konut teması üzerinden yeryüzündeki hayatın geçiciliği ve kalıcı yurt arayışı ile ilişkilendirilebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyaların bir kısmı anlamlı unsurlar taşırken bir kısmı dağınık zihinsel süreçler olarak kabul edilir. Mesken ve ev içi imgeler, rüya sahibinin yaşam düzeni, hane ortamı ve iç muhasebeye yönelme ihtiyacı üzerinden okunur.",
+  "buddhistEasternApproaches": "Budist rüya yaklaşımında düşler illüzyon, farkındalık ve zihnin deneyimlerini sınama alanı olarak ele alınır. Çok katlı yapı imgesi, değişken ve kurulu bir dünya düzeninin geçiciliğini ve zihnin yapılandırılmış görünüşlerini çağrıştırabilir.",
+  "spiritualApproaches": "Ruhani ve ezoterik okumalarda apartman, benliğin bölmelenmiş alanlarını, bilincin katmanlarını ve bireyin kendisini deneyimlediği kişisel sınırları temsil eden simgesel bir form olarak kabul edilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Konut ve mekân imgelerini bedenin bütünü, içsel sınırlar ve psikodinamik yapıyla ilişkilendirir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Apartman katlarını bilinç ve bilinçdışının farklı katmanları, benliğin mekânsal organizasyonu olarak okur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Dini ve Geleneksel Yaklaşım",
+      "interpretation": "Yapı ve mesken unsurlarını yaşam düzeni, geçim, sorumluluk ve hane hayatının durumu bağlamında ele alır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ruhani ve Ezoterik Okuma",
+      "interpretation": "Çok katlı yapıyı ruhsal gelişimin aşamaları, içsel katmanlar ve bilinç sınırlılıkları çerçevesinde değerlendirir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, apartman gibi yapı ve mekân imgelerini rüya sahibinin iç dünyasının, yaşam koşullarının ve kişisel sınırlarının birer yansıması olarak ele alma eğilimindedir.",
+  "differences": "Psikanalitik ve Jungcu ekoller, sembolü içsel psişik katmanlar ve zihinsel yapılanma üzerinden incelerken; dini ve geleneksel yaklaşımlar daha çok yaşam düzeni, sorumluluk ve maddi-manevi duruma odaklanır.",
+  "inusAssessment": "Apartman sembolü, diğer tekil nesnelerden farklı olarak katmanlı yapısı ve bölümlenmiş alanlarıyla bireyin hem dış dünyadaki sosyal konumunu hem de içsel psişik katmanlarını aynı anda temsil eden modern bir mimari motif sunar. Bu rüyayı yorumlarken binanın içindeki hareket yönü, katlar arasındaki geçişler ve rüya sahibinin o mekânda hissettiği duygusal ton, sembolün anlamını belirlemede kritik bir rol oynar.",
+  "faq": [
+    {
+      "question": "Rüyada apartman görmek kesinlikle yeni bir eve taşınacağın anlamına mı gelir?",
+      "answer": "Hayır. Rüyalar doğrudan gelecekteki somut olayların kesin birer habercisi olarak yorumlanmaz; apartman imgesi genellikle mevcut yaşam düzenini, içsel katmanları veya psikolojik sınırları temsil eder."
+    },
+    {
+      "question": "Apartmanın hangi katında olduğum rüyanın anlamını değiştirir mi?",
+      "answer": "Evet. Farklı geleneklerde ve psikolojik yaklaşımlarda katlar, bilinç düzeyleri, hayattaki konum veya içsel derinlikler gibi farklı mekânsal organizasyonları simgeleyebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyada ev ve konut imgelerinin bedenin bütünü ya da bölümleriyle ilişkilenmesi üzerine Freud’un temel çerçevesini verir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "For Jung, architecture was a tool to represent the psyche",
+      "relevance": "Jung’un mimariyi ruhsal yapıyı temsil eden bir anlatı olarak kullanmasına dair açıklayıcı tartışma.",
+      "url": "https://psyche.co/ideas/for-jung-architecture-was-a-tool-to-represent-the-psyche"
+    },
+    {
+      "title": "An introduction to dream interpretation based on Carl Jung's work",
+      "relevance": "Ev ve mekân katlarını psişik derinlik ve bilinç düzeyleriyle ilişkilendiren Jungcu yorum çerçevesi.",
+      "url": "https://www.walkingthroughtransitions.com/2015/11/18/dream-work-interpretation-carl_jung/"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' The Interpretation of ...",
+      "relevance": "Artemidoros’un rüya kitabının antik dünyadaki kapsamını ve ev/bina türü imgelerin tarihsel rüya yorumunda merkezi yerini gösterir.",
+      "url": "https://academic.oup.com/book/40085"
+    },
+    {
+      "title": "Interpretation Dreams by Artemidorus of Daldis on Eulogikon",
+      "relevance": "Artemidoros’un *Oneirocritica* geleneğini ve rüya yorumunun sistematik bir katalog olarak işlendiğini gösterir; yapı imgeleri için tarihsel bağlam sağlar.",
+      "url": "https://eulogikon.org/works/artemidorus-daldis-dreams-qtu-aa"
+    },
+    {
+      "title": "Building Islamic Interpretations & Meanings",
+      "relevance": "Yapı inşa etme, bilgi, hikmet, liderlik ve yerleşimle ilişkilendirilen İslamî rüya yorumlarını derler; apartman gibi çok katlı yapı imgeleri için dolaylı sembol zemini sağlar.",
+      "url": "https://www.myislamicdream.com/building.html"
+    },
+    {
+      "title": "Bible Dream About Apartment",
+      "relevance": "Apartmanı yaşam durumu, güvenlik, aidiyet, beklenti ve finansal koşullarla bağlantılandıran modern Hristiyan yorumlar sunuyor.",
+      "url": "https://evangelistjoshua.com/bible-dream-about-apartment/"
+    },
+    {
+      "title": "Dreaming About an Apartment and What It Could Mean",
+      "relevance": "Geçici konut ve dünya hayatının geçiciliği arasında teolojik bir bağ kurarak apartman sembolü için yorumlayıcı bir çerçeve sağlıyor.",
+      "url": "https://dreams.maishahuru.com/dream/meaning-of-dreaming-about-an-apartment"
+    },
+    {
+      "title": "Interpreting Dreams with God's Wisdom - FaithGateway Store",
+      "relevance": "Rüya yorumunda bağlam, ayet paralelleri ve genel tonun dikkate alınması gerektiğini vurguluyor.",
+      "url": "https://faithgateway.com/blogs/christian-books/decoding-your-dreams"
+    },
+    {
+      "title": "Places & Location Dream Symbols | RTCLM",
+      "relevance": "Hristiyan sembolizminde evin kişisel yaşam, aile ve emanet edilen alanlarla bağlantısını gösteriyor.",
+      "url": "https://revealingthechristianlife.org/dreams-visions-knowledge-center/biblical-dream-symbols-dictionary/dream-symbols-places-locations/"
+    },
+    {
+      "title": "Berakhot.55b.1-56a.19 | The Sefaria Library",
+      "relevance": "Rüyaların genel statüsü ve yorumlanmasının işlevi üzerine temel Talmudik çerçeve.",
+      "url": "https://www.sefaria.org/Berakhot.55b.1-56a.19?lang=en"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Ev/mesken içindeki rüya imgeleri ve bunların alamet olarak okunması.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Rüyanın kişiyi tövbeye ve iç muhasebeye yöneltmesi üzerine açıklama.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Yahudi geleneklerinde rüyaların hem anlamlı unsurlar hem de dağınık zihinsel süreçler taşıyabileceğine dair çerçeveyi açıklar.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Dream Dictionary - Buddha, Buddhist - Buildings",
+      "relevance": "Budist sembolik okumalarda ev ve kule gibi yapı imgelerinin kişilik ve benlikle ilişkisini anlatır.",
+      "url": "https://earthessences.org/index.php/11-articles/134-dream-dictionary-buddha-buddhist-buildings"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams",
+      "relevance": "Budist gelenekte düşlerin boşluk, alamet ve öğretici mesaj olarak ele alınmasına dair çerçeve sunar.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Dream interpretation and practice - TME",
+      "relevance": "Tibet Budizmi bağlamında rüyanın illüzyon benzerliği ve farkındalık eğitimiyle ilişkisini açıklar.",
+      "url": "https://tibetanmedicine-edu.org/tmm/tm/dream-and-bardo/the-dream-interpretation-and-practice/"
+    },
+    {
+      "title": "Dreams",
+      "relevance": "Budist düşüncede varoluşun rüya benzeri ve geçici oluşunu vurgulayan genel çerçeve sunar.",
+      "url": "https://buddhism-today.org/dreams/"
+    },
+    {
+      "title": "Apartment Dream Meaning & Interpretation - Mirror",
+      "relevance": "Apartman rüyasını ruhsal perspektiften ele alıyor; apartmanı ruhun bir bölmesi, bilinç düzeyi ve kişisel sınırlar temasıyla açıklıyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/apartment/"
+    },
+    {
+      "title": "[PDF] Esotericism and the Profession of an Architect - Atlantis Press",
+      "relevance": "Ezoterik mimari ile sembolik düzen arasındaki ilişkiyi anlatıyor; yapıların ve mekânların sembolik anlam taşıyabileceğine dair çerçeve sunuyor.",
+      "url": "https://www.atlantis-press.com/article/125923461.pdf"
+    },
+    {
+      "title": "Spiritual Architecture, Commentary",
+      "relevance": "Spiritual Architecture ve Esoteric Architecture ayrımını yaparak yapıların kutsal, sembolik ve ezoterik anlam katmanlarını tartışıyor.",
+      "url": "https://www.ruhaniat.org/index.php/other-writing/other-commentary/2500-spiritual-architecture-commentary?tmpl=component&format=pdf"
+    },
+    {
+      "title": "The evolution of Rudolf Steiner's esoteric architecture",
+      "relevance": "Rudolf Steiner’ın ezoterik mimarisinde iki karşıt ilke ve sembolik denge fikrini açıklıyor; mekânın ruhsal anlatım gücünü gösteriyor.",
+      "url": "https://www.fa.cvut.cz/studium/ateliery/architektura-a-urbanismus-ateliery/ateliery/atelier-tesar/ls_26/steiner-ocultism.pdf"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian",
+    "buddhist-eastern"
+  ]
+}

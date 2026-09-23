@@ -1,67 +1,179 @@
 {
   "slug": "metal",
-  "title": "metal",
-  "shortDescription": "Rüyada metal, dayanıklılık, ağırlık veya sertlik hissini öne çıkarabilir. Metalin türü, paslı ya da parlak oluşu ve hangi nesnede bulunduğu önemlidir.",
+  "title": "Metal",
+  "shortDescription": "Rüyada metal görmek; güç, dayanıklılık, korunma ve hayatınızdaki bir şeyin sağlamlaşmasıyla ilişkilendirilebilir. Metalin türü, parlak ya da paslı oluşu ve onunla ne yaptığınız yorumu etkiler; ateşte eritilen metal ise baskı altında dönüşüm ve yeniden biçimlenmeyi çağrıştırır.",
   "positiveAssociations": [
-    "Bir aletin işe yaraması",
-    "Sağlam bulduğu bir nesneye güvenmek",
-    "Bir yüzeyi onarmak veya temizlemek"
+    "İçsel güç ve dayanıklılık",
+    "Ruhsal veya pratik arınma ve olgunlaşma",
+    "Yapı kazanma, korunma ve mesleki beceri",
+    "Bazı geleneklerde bereket veya rızık genişlemesi"
   ],
   "challengingAssociations": [
-    "Ağırlığı taşımakta zorlanmak",
-    "Keskin kenardan çekinmek",
-    "Soğuk yüzeyden rahatsız olmak"
+    "Zihinsel katılık ve inatçılık",
+    "Doyumsuzluk, yapışıp kalma eğilimi",
+    "Sert sözler işitme veya iftiraya maruz kalma (özellikle sarı alaşımlar bağlamında)",
+    "Maddi değer ile ruhsal değer arasındaki gerilim"
   ],
   "contextDependentAssociations": [
-    "Metalin türünün bilinip bilinmemesi",
-    "Nesnenin kullanım amacı",
-    "Yüzeyin parlak, mat veya aşınmış görünmesi"
+    "Metalin türü (demir, altın, gümüş, pirinç/bronz, paslı metal vb.)",
+    "Metalle yapılan eylem (taşımak, eritmek, yemek, dövmek, bulmak, kullanmak)",
+    "Rüya sahibinin uyanık yaşamındaki durumlar, duygusal tonu ve kişisel çağrışımlar"
   ],
   "commonVariations": [
     {
-      "title": "Metal bir nesneyi taşımak",
-      "description": "Nesnenin ağırlığı kadar onu neden taşıdığınız da önemlidir. Yardım almak, bırakmak veya taşımaya devam etmek rüyadaki farklı seçenekler olabilir."
+      "title": "Paslı veya Eskimiş Metal Bulmak",
+      "description": "Zamanla işlevini yitirmiş yapıları, geçmişte kalan katı tutumları veya ihmal edilmiş içsel kaynakları yeniden ele alma ihtiyacını çağrıştırır."
     },
     {
-      "title": "Metal yüzeyi parlatmak",
-      "description": "Yaptığınız işten memnun muydunuz, yoksa bitmeyecek gibi mi geliyordu? Bakım yapmak ile kusursuz görünmesi için uğraşmak sizde farklı çağrışımlar oluşturabilir."
+      "title": "Demir Alet Taşımak",
+      "description": "Uyanık yaşamda üstlenilen sorumlulukların ağırlığını, dayanıklılığı ve pratik beceriyle ilgili sınamaları simgeler."
     },
     {
-      "title": "Metal bir parçayı bükmek",
-      "description": "Bükmek istediğiniz bir parçayı şekillendirmek ile sağlam sandığınız bir şeyin elinizde eğilmesi farklı deneyimlerdir. Rüyadaki değişim kişiliğinizin sertliği veya esnekliği hakkında ölçüm değildir."
+      "title": "Ateşte Eritilen veya Dökülen Metal",
+      "description": "Baskı ve zorluk altında gerçekleşen dönüşüm, olgunlaşma veya yeniden biçimlenme sürecine işaret eder."
     },
     {
-      "title": "Ne işe yaradığını bilmediğiniz metal bulmak",
-      "description": "Parçayı merakla mı inceliyordunuz, yoksa dokunmaktan mı çekiniyordunuz? Türünü bilmiyorsanız altın, demir veya başka bir metal olduğunu varsaymadan görünümünü anlatabilirsiniz."
+      "title": "Parlak/Değerli Metal Parçaları Görmek",
+      "description": "Değer, saflık, içsel zenginlik ya da kalıcılıkla ilişkilendirilebilecek olumlu bir çağrışım taşır; ancak bağlam belirleyicidir."
     }
   ],
-  "psychology": "Rüya içerik analizi, görülen nesneyi, betimleyici özelliklerini ve gerçekleşen eylemi ayırt eder. Metal bir kabın soğuk olması ile o kabı birine vermek bu açıdan farklı ayrıntılardır. Bu genel yöntem bir malzemeden kişilik özelliği çıkarmaya veya ruhsal sınırları ölçmeye imkân vermez.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Malzeme, nesnenin işlevi ve sizin tepkiniz ayrı kaydedilebilir.",
-  "differences": "Bir metalin gündelik işlevi, bütün metal nesnelerin rüyada tek anlam taşıdığını göstermez.",
-  "inusAssessment": "Metal bir malzeme grubudur; metal anahtar, levha ve takı aynı nesne değildir. INUS değerlendirmesi önce nesnenin işlevine, sonra ağırlık, yüzey ve ses gibi hatırlanan ayrıntılara bakar. Dayanıklılık veya katılık size çağrışım olarak uygun gelebilir, ancak metal görmek kişinin dirençli, duygusuz ya da dönüşüme kapalı olduğunu göstermez. Malzemenin bilinmediği bir rüyaya belirli bir metalin değerini veya dinî anlamını eklemek gerekmez.",
-  "faq": [
+  "psychology": "İncelenen materyalde doğrudan ampirik psikoloji çalışması bulunmamaktadır; bu nedenle burada sunulan psikolojik okumalar temkinli ve teoriktir.",
+  "jungian": "Jungçu ve simyasal çerçevede metaller, ham maddeden arıtılmış forma geçiş ve psişik dönüşüm süreçleriyle ilişkilendirilir. Simyasal anlatıda metaller gezegenlerle eşleştirilir ve içsel arıtma evrelerinin sembolleri olarak okunur; rüyada metalin parlaklığı, paslılığı, işlenişi veya türü Jungçu okumada farklı psikolojik niteliklere işaret edebilir. Bu okumalar modern Jungçu literatüre dayanan temkinli yorumlardır. Jung’un birincil metinlerinden doğrudan metal için kesin bir anlam iddiası çıkarılamaz.",
+  "islamicTradition": "İslami rüya literatüründe metalin anlamı türüne ve rüyadaki işleme göre değişir. Örneğin demir genellikle güç, mal, zafer ve rızıkla ilişkilendirilir; sarı alaşımlar veya benzeri maddeler bazen sert sözler, iftira veya aldatıcı kişilerle ilişkilendirilebilir. Bununla birlikte, araştırma paketinde klasik İslami kaynaklarda doğrudan ve evrensel bir 'metal' maddesi doğrulanmamıştır; dolayısıyla İslami yorum metalin türü ve rüyadaki eyleme göre temkinli şekilde yapılmalıdır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde metaller Kutsal Kitap referansları üzerinden değer, saflık, güç, dayanıklılık ve yargı temalarıyla ilişkilendirilir. Rüyada metal unsurları, bağlama bağlı olarak ruhsal dayanıklılık, arınma veya ilahi otorite çağrışımı verebilir; yine de bunun kesin bir teolojik hüküm değil, temkinli bir yorum olduğu vurgulanmalıdır.",
+  "jewishTraditions": "Yahudi kaynaklarında metal türleri ayrı anlam katmanları taşır: altın ilahî/semavî ışık ve yücelik, gümüş ahlaki saflık ve kutsallık, pirinç/bronze sertlik ve güç, demir savaş ve kudretle ilişkilendirilir. Aynı zamanda Talmud Berakhot 57'de rüyada görülen genel metal aletlerin iyi alamet sayıldığı; çapa, kazma ve balta gibi istisnaların ise saplarıyla görülmesi gerektiği ifade edilir. Bu iki düzey birlikte değerlendirilmelidir.",
+  "buddhistEasternApproaches": "Bazı Budist uygulamalarda sutraların metal levhalara kazınması, metnin korunması ve dharma",
+  "spiritualApproaches": "Ezoterik ve simyasal gelenekte metal, dayanıklılık, içsel güç ve baskı altında biçim değiştirme kapasitesiyle ilişkilendirilir. Simya geleneğinde her metal farklı ruhsal niteliklerle eşleştirilir ve metal imgeleri ham maddenin arıtılması/rafinasyonu metaforunu taşır. Rüyada metalin parlak, kararmış, ağır veya şekillendirilebilir oluşu bu çerçevede yorumlanır.",
+  "comparisonTable": [
     {
-      "question": "Parlak metal görmek zenginlik haberi mi?",
-      "answer": "Parlaklık nesnenin değerini veya gelecekteki kazancı göstermez. Rüyada ne bulduğunuzu bildiğinizle yalnız görünümünden tahmin ettiğiniz şeyi ayırabilirsiniz."
+      "approach": "Psikanaliz ve Teorik Yaklaşım",
+      "interpretation": "Freudcu notlar ve teorik okumalar çerçevesinde uzun/sivri nesnelerin fallik çağrışımları ve metalin sertlik/katılık unsurlarının metaforik olasılıkları üzerinde durulur.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Metal ile demir aynı başlık mı?",
-      "answer": "Demir belirli bir metaldir; metal daha geniş bir malzeme adıdır. Rüyada türünü bilmiyorsanız onu kesin olarak demir diye adlandırmak gerekmez."
+      "approach": "Jungçu ve Simyasal Yaklaşım",
+      "interpretation": "Metali psişik dönüşüm, arıtma ve simyasal evrelerle ilişkilendirir; metallerin gezegenlerle eşleştirilmesi üzerinden sembolik nitelikler sunar.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "İslami ve Geleneksel Yaklaşım",
+      "interpretation": "Metal türü ve rüyadaki eyleme göre (demir, sarı alaşım vb.) farklı anlamlar üretir; klasik kaynak doğrulaması sınırlıdır, kontrollü okunmalıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi ve Teolojik Gelenek",
+      "interpretation": "Talmudik bir düzeyde metal aletlerin genelde iyi alamet sayıldığı belirtilir; ayrıca metaller türüne göre teolojik çağrışımlar taşır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımı",
+      "interpretation": "Zihinsel katılığı, bağlanmayı veya kutsal metinlerin korunmasını vurgular; metalin işlenmesi arınma metaforu olarak okunabilir.",
+      "evidenceLevel": "spiritual"
     }
   ],
+  "commonGround": "Çeşitli kaynaklar metalin değişmezlik, direnç, değer ve biçimlenebilirlik özellikleri etrafında ortak çağrışımlar ürettiğini gösterir; ancak her gelenek ve psikolojik çerçeve bu öğeleri farklı vurgu ve bağlamlarla işler.",
+  "differences": "Bazı yaklaşımlar metali maddi zenginlik veya dini sembol olarak öne çıkarırken, diğerleri onu zihinsel katılık veya simyasal içsel dönüşüm aracı olarak yorumlar; temel fark bağlam, metal türü ve rüyanın eylemine verilen önemdir.",
+  "inusAssessment": "Rüyadaki metal sembolü ne yalnızca düz bir katılık göstergesidir ne de otomatik olarak maddi kazanç işaretidir. Metalin türü (ör. demir, altın, gümüş, pirinç), parlaklığı/pası, rüya içindeki eylem (taşımak, eritmek, yemek, bulmak) ve rüyanın duygusal tonu, sembolün hangi yönünün öne çıkacağını belirler. Bu nedenle yorum bağlama ve kişisel çağrışımlara göre yapılmalıdır.",
+  "faq": [],
   "sources": [
     {
-      "title": "Content Analysis Explained",
-      "url": "https://dreams.ucsc.edu/Info/content_analysis.html",
-      "relevance": "Nesne, betimleyici özellik, eylem ve duygu ayrımını destekleyen genel içerik analizi açıklaması; metal için sabit sembolik anlam kaynağı değildir."
+      "title": "Metal Dream Meaning & Interpretation - Mirror",
+      "relevance": "Çevrimiçi rüya sözlüğü düzeyinde metal imgelerinin güç, sertlik ve yapı temalarıyla ilişkilendirildiğini özetler; modern yorum örneği sağlar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/metal/"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud’un uzun ve sivri nesnelerin fallik çağrışımlarına dair notlarını sunar; metal için doğrudan hüküm vermeyen ancak psikanalitik çerçeve sağlayan bir kaynak.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Alquimia Marie Louise Von Franz",
+      "relevance": "Von Franz’a atfedilen simya metinleri aracılığıyla metallerin gezegenlerle ve arıtma süreçleriyle ilişkilendirildiğini gösterir; Jungçu/simyasal yorum için dayanak sunar.",
+      "url": "https://es.scribd.com/document/1012854515/Alquimia-Marie-Louise-Von-Franz"
+    },
+    {
+      "title": "Marie Louise Von Franz - Alquimia.pdf",
+      "relevance": "Su, ateş ve metal imgelerinin bilinçdışıyla ilişkisini aktaran Von Franz’a atfedilen simya metni parçası.",
+      "url": "https://pt.scribd.com/document/356499877/Marie-Louise-Von-Franz-Alquimia-pdf"
+    },
+    {
+      "title": "Interpretation of Dreams: Oneirocritica by Artemidorus",
+      "relevance": "Antik rüya el kitabı perspektifiyle bronz ve metal işçiliği üzerinden metal türlerine dair ayrımları ve tarihsel bağlamı gösterir.",
+      "url": "https://www.goodreads.com/book/show/604460"
+    },
+    {
+      "title": "Daniel → Dream Interpretation – Study Guide",
+      "relevance": "Daniel’deki çok-metalli heykel ve Hesiodos’un metal çağları şeması üzerinden metalin güç, ardışıklık ve değer düşüşüyle ilişkilendiği tarihsel-kültürel bağlamı gösterir.",
+      "url": "https://yalebiblestudy.org/courses/daniel/lessons/daniel-1-2-study-guide/"
+    },
+    {
+      "title": "Dreams about metals Islamic Interpretations Explanation",
+      "relevance": "Demir, sarı metal ve metal parçaları için çevrimiçi İslami rüya yorumlarında aktarılan anlamları bir araya getirir; metalin türüne ve rüyadaki eyleme göre yorumların değiştiğini gösterir.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=metals"
+    },
+    {
+      "title": "Topical Bible: Metals",
+      "relevance": "Kutsal Kitap referansları üzerinden altın, gümüş, bronz ve demir gibi metallerin sembolik kullanım alanlarını özetler; Hristiyan sembolik okumalar için kaynak sağlar.",
+      "url": "https://biblehub.com/topical/m/metals.htm"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Talmudik metinde rüyada görülen metal aletlerin genelde iyi alamet sayıldığına dair doğrudan oneirokritik ifade içerir; Yahudi gelenekleri için doğrudan kaynak niteliğindedir.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "METALS - JewishEncyclopedia.com",
+      "relevance": "Yahudi sembolizminde metallerin genel anlam katmanlarını özetler; altın, gümüş, bakır/pirinç ve demir için ayrı sembolik çağrışımlar verir.",
+      "url": "http://www.jewishencyclopedia.com/articles/10735-metals"
+    },
+    {
+      "title": "Metals & Mining",
+      "relevance": "Yahudi geleneklerinde metallerin sembolik kullanımlarını toplar; özellikle altın, gümüş, bakır ve demirin dinsel çağrışımlarını bir araya getirir.",
+      "url": "https://jewishvirtuallibrary.org/metals-mining"
+    },
+    {
+      "title": "METALS",
+      "relevance": "Demirin Yahudi geleneksel sembolizmindeki savaş ve güç bağlantısını aktarır; metal türlerinin anlam ayrımını destekler.",
+      "url": "https://www.jewishencyclopedia.com/articles/14401-tin"
+    },
+    {
+      "title": "Eating Metal Dream Meaning & Interpretation - Mirror",
+      "relevance": "Metal yeme imgesini Budist kavramlarla ilişkilendiren çevrim içi yorum metni; doyumsuzluk ve bağlanma temalarını işler.",
+      "url": "https://mirrorwithin.org/dream-dictionary/eating-metal/"
+    },
+    {
+      "title": "Gold, silver, copper: Significance and symbolism",
+      "relevance": "Budizm’de altın ve gümüşün anlam alanını açıklayan kavramsal derleme; madenlerin değer, saflık ve dünyevi çekimle ilişkisini gösterir.",
+      "url": "https://www.wisdomlib.org/concept/gold-silver-copper"
+    },
+    {
+      "title": "Significance of Gold and silver",
+      "relevance": "Budizm’de altın ve gümüşün manastır disiplini ve maddi servet bağlamındaki yerini özetleyen kavramsal kaynak.",
+      "url": "https://www.wisdomlib.org/concept/gold-and-silver"
+    },
+    {
+      "title": "[PDF] essays.pdf - National Museum of Asian Art",
+      "relevance": "Sutraların metal levhalara kazınması örneği üzerinden metalin kutsal metin koruma ve kalıcılık işlevini anlatan müze yayını.",
+      "url": "https://archive.asia.si.edu/exhibitions/online/faithandform/essays.pdf"
+    },
+    {
+      "title": "7 Metals of Alchemy | Alchemy Planet Symbols - Centre of ...",
+      "relevance": "Simyasal gelenekte yedi metalin klasik gezegenlerle ilişkisini ve sembolik rollerini özetler; metalin ezoterik anlamı için doğrudan çerçeve sağlar.",
+      "url": "https://www.centreofexcellence.com/7-alchemy-metals-symbolisms/"
+    },
+    {
+      "title": "Alchemical symbol - Wikipedia",
+      "relevance": "Simyasal metallerin geleneksel eşleştirmelerini ve her bir metalin sembolik niteliklerine dair derlemeyi sunar; ezoterik/simyasal bağlam için referans sağlar.",
+      "url": "https://en.wikipedia.org/wiki/Alchemical_symbol"
+    },
+    {
+      "title": "Bedeutung Traumsymbol Metall - Traumdeutung.de",
+      "relevance": "Metal ile ilgili geleneksel/ezoterik rüya sözlüğü tarzında bir yorum sunar; metalleri direnç, sertlik, zenginlik ve ruhsal öğelerle ilişkilendirir.",
+      "url": "https://www.traumdeutung.de/lexikon/metall/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
 }

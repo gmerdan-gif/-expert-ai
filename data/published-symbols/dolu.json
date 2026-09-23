@@ -1,66 +1,257 @@
 {
   "slug": "dolu",
-  "title": "dolu",
-  "shortDescription": "Rüyada dolu yağışı, aniden değişen koşullar ve korunma ihtiyacını çağrıştırabilir. Tanelerin büyüklüğü, sığınacak yer ve çevrede bıraktığı etki önemlidir.",
+  "title": "Dolu",
+  "shortDescription": "Rüyada dolu görmek, ani dış baskıları, sarsıcı değişimleri veya zorlukları simgeleyebilir. Zarar veren ya da mevsimsiz yağan dolu sıkıntı ve tehdidi çağrıştırırken, mevsiminde ve zarar vermeden yağan dolu geçici bir krizin ardından ferahlıkla ilişkilendirilir.",
   "positiveAssociations": [
-    "Korunaklı bir yere ulaşmak",
-    "Yağışın geçmesini izlemek",
-    "Birini veya bir eşyayı koruyabilmek"
+    "Mevsiminde yağan zararsız dolunun ardından gelen ferahlık ve stresin azalması.",
+    "Geçici krizlerin ardından gelen içsel yeniden yapılanma.",
+    "Zarar vermeyen yağışın getirdiği bereket algısı"
   ],
   "challengingAssociations": [
-    "Ani gürültüyle irkilmek",
-    "Açıkta kalmak",
-    "Eşyaların zarar görmesinden kaygılanmak"
+    "Ani ve savunması zor dışsal baskı veya müdahaleler",
+    "Düşmanca koşullar, engel ve dirençler",
+    "Mal kaybı, kıtlık, sıkıntı ve tarımsal zarar temaları"
   ],
   "contextDependentAssociations": [
-    "İçeride veya dışarıda olmanız",
-    "Dolu tanelerinin büyüklüğü",
-    "Yağışın ne kadar sürdüğü"
+    "Dolunun zarar verip vermemesi",
+    "Yağışın mevsiminde olup olmaması",
+    "Rüya sahibinin o anki coğrafi ve iklimsel bağlamı"
   ],
   "commonVariations": [
     {
-      "title": "Pencereden dolu yağışını izlemek",
-      "description": "Korunaklı bir yerde olmak ile dışarıda kalmak farklı deneyimlerdir. Ses, görüntü ve dışarıda kalan bir şey için endişelenip endişelenmediğiniz önemlidir."
+      "title": "Mevsiminde Yağan Zararsız Dolu",
+      "description": "Tarlalara veya şehre zarar vermeden, sakin bir şekilde düşen dolu tanelerinin gözlemlenmesi ve geçici bir rahatlama hissi."
     },
     {
-      "title": "Dolu başlayınca sığınak aramak",
-      "description": "Nereye yöneldiğinizi ve yardım alıp almadığınızı düşünün. Rüyadaki güvenlik arayışı yaklaşan bir felaketi bildirmez."
+      "title": "Şiddetli ve Zarar Veren Dolu Fırtınası",
+      "description": "Pencereleri kıran, ekili alanlara ve nesnelere açıkça zarar veren devasa dolu tanelerinin yol açtığı ani panik ve koruma arayışı."
     },
     {
-      "title": "Dolu altında kalan bir eşyayı korumak",
-      "description": "Eşyanın sizin için neden önemli olduğunu hatırlayın. Parasal değer, emek veya bir hatıra farklı kişisel çağrışımlar oluşturabilir."
+      "title": "Sıcak Havada Beklenmedik Dolu",
+      "description": "Yaz sıcağında veya tamamen alakasız bir iklimde aniden bastıran, şaşkınlık ve hazırlıksızlık hissi uyandıran donmuş yağış."
     },
     {
-      "title": "Dolunun durup eridiğini görmek",
-      "description": "Rahatlama mı, geride kalan hasarı inceleme isteği mi öne çıkıyordu? Yağışın sona ermesi ile yaşadığınız duygunun bitmesi aynı anda olmayabilir."
+      "title": "Dolu Altında Kalıp Sığınacak Yer Arama",
+      "description": "Açık alanda yakalanılan sert dolu yağışından korunmak için güvenli bir kapalı alan veya saçak altı arama çabası."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "Nûr sûresinin 43. ayeti bulutların birleşmesini, yağmuru, doluyu ve şimşeği Allah’ın kudreti bağlamında anar. Bu, doğa olayları üzerine bir dinî anlatımdır; dolu görülen rüyadan kişiye yönelik ceza veya gelecek haberi çıkarmak için bir tabir değildir.",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Yağışın etkisi ve kişinin korunaklı olup olmaması sahneyi düşünmek için somut ayrıntılardır.",
-  "differences": "Ayetin dinî bağlamı ile bir rüyanın kişisel çağrışımı birbirinin yerine geçmez.",
-  "inusAssessment": "Dolu burada hava olayıdır; bir kabın dolu olması veya ölüm temasıyla aynı kapsamda değildir. INUS, yağışın büyüklüğünü, sizin bulunduğunuz yeri ve korunmak için yaptıklarınızı birlikte ele alır. Dolu görüntüsünden kişinin cezalandırıldığı, kriz yaşayacağı veya zorunlu bir dönüşüm geçirdiği sonucu çıkarılmaz.",
-  "faq": [
+  "psychology": "Bu tür meteorolojik imgelerin rüya içeriğinde görülme sıklığı dönemsel ve bağlamsal koşullarla ilişkilendirilebilir.",
+  "jungian": "Jungcu analitik psikolojide su, bilinçdışının en yaygın simgelerinden biridir. Yağmur, kar veya dolu gibi atmosferik su ve buz görünümleri, psişik içeriğin dışa vurumu olarak ele alınır; bu bağlamda dolu, bilinçdışından gelen ani, sert ve keskin bir müdahale veya duygulanım dalgalanması biçiminde okunabilir.",
+  "islamicTradition": "İslami rüya tabiri aktarımlarında dolu çoğunlukla afet, sıkıntı, zarar, kıtlık ve baskıyla ilişkilendirilir. Bununla birlikte, dolunun mevsiminde yağması ve zarar vermemesi durumunda ferahlık, rahmet, üzüntülerin gitmesi ve geçici sıkıntıların kalkması şeklinde farklı yorumlar da aktarılmaktadır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde dolu, Kitab-ı Mukaddes'teki ilahi yargı, ani müdahale ve uyarı temalarıyla ilişkilendirilir. Sert ve yıkıcı doğasıyla disiplin veya sınav fikirlerini çağrıştırabilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyaların yorumla şekillenebileceği vurgulanır. Dolu ile ilgili okumalar genellikle tarımsal tehlike, doğal afet ve ilahi düzenin yıkıcı yönleri bağlamında ele alınır.",
+  "buddhistEasternApproaches": "Geleneksel Budist anlatılarda taş yağışı veya sert yağış benzeri şiddetli doğa olayları, yoldaki engelleri ve zorlukları simgeleyen motifler olarak yer alır. Yaşamın fırtınaları sırasında karşılaşılan acı ve dirençlerle bağdaştırılır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel çerçevelerde dolu, ani ve sert bir müdahale sembolü olarak görülür. Eski yapıları kıran, fazlalıkları temizleyen ve içsel yeniden yapılanmayı tetikleyen geçici bir kriz imgesi olarak yorumlanır.",
+  "comparisonTable": [
     {
-      "question": "Dolu görmek kötü bir olayın habercisi mi?",
-      "answer": "Rüyadaki dolu gerçek bir felaketin gerçekleşeceğini göstermez. Korku, şaşkınlık ve rahatlama sahnenin farklı parçaları olabilir."
+      "approach": "Ampirik Araştırma",
+      "interpretation": "Soğuk hava öğelerinin ve meteorolojik imgelerin rüya içeriğinde çevresel değişimlerle ilişkili olarak incelenmesi.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Dolu ile yağmur aynı şekilde mi ele alınır?",
-      "answer": "Aynı olmak zorunda değildir. Rüyada ses, tanelerin görünümü ve korunma ihtiyacı farklı hissedilebilir. Hatırladığınız ayrıntılardan başlayabilirsiniz."
+      "approach": "Psikanalitik / Jungcu Çerçeve",
+      "interpretation": "Su ve buz görünümlerinin bilinçdışı içeriklerin, duygulanımların ve ani psişik müdahalelerin dışa vurumu olarak okunması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Dini ve Geleneksel Aktarımlar",
+      "interpretation": "Dolunun afet, sıkıntı, ilahi uyarı veya mevsimine göre rahmet ve bereket simgesi olarak ele alınması.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Sert yapıları kıran, dışsal baskı yaratan ve arındırıcı bir kriz alanı açan sarsıcı güç olarak değerlendirilmesi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, dolunun rüyalarda sıradan olmayan, ani, sert ve dışsal bir müdahale unsuru olarak belirdiğinde bir gerilim veya direnç alanı yarattığı noktasında birleşir.",
+  "differences": "Ampirik ve analitik yaklaşımlar doluyu çevresel bir veri veya psişik bir dışavurum olarak incelerken, dini ve geleneksel metinler onu ilahi azap, afet ya da mevsimsel bereket gibi somut yargı ve sonuç kategorileriyle açıklamaktadır.",
+  "inusAssessment": "Rüyada dolu görülmesi, düşen sert kütlelerin yarattığı ani darbe hissi nedeniyle diğer yumuşak yağış türlerinden ayrılır. Bu sembolün yorumunda, dolunun zarar verip vermemesi ve mevsiminde yağması veya yağmaması en kritik ayrımlardır; zira mevsim dışı ve yıkıcı dolu dışsal tehdit ve engellere işaret ederken, zararsız ve mevsiminde yağan dolu geçici krizlerin aşılmasını simgeleyebilir.",
+  "faq": [
+    {
+      "question": "Rüyada dolunun zarar vermesi ne anlama gelir?",
+      "answer": "Geleneksel ve kültürel aktarımlarda zarar veren dolu, dışarıdan gelen ani baskıları, mal kaybını veya zorlukları simgeler."
+    },
+    {
+      "question": "Mevsiminde yağan dolu rüyaları nasıl yorumlanır?",
+      "answer": "Bazı geleneksel kaynaklarda mevsiminde ve zarar vermeden yağan dolu, sıkıntıların kalkması ve ferahlık gibi olumlu sonuçlarla ilişkilendirilir."
     }
   ],
   "sources": [
     {
-      "title": "Nûr sûresi, 24:43",
-      "url": "https://quran.com/24/43",
-      "relevance": "Bulut, yağmur, dolu ve şimşeği Allah’ın kudreti bağlamında anan ayet; kişisel dolu rüyalarına tabir sunmaz."
+      "title": "Does global warming affect dream content? Analyzing a 30-yr ...",
+      "relevance": "30 yıllık rüya serisinde kar, buz ve dolu gibi soğuk hava öğelerinin nasıl kodlandığını ve zaman içinde nasıl değiştiğini gösteren ampirik çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/78020"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Rüyada suya girme ve sudan çıkma imgelerinin doğumla ilişkisini ve rüya sembolizminin işleyişini açıklar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/261",
+      "relevance": "Suyun içinde olma ya da sudan çıkma biçimindeki düşsel sahnelerin doğum temasıyla yorumlanmasına örnek verir.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyanın dilek doyurumu olarak kurulduğu Freudcu temel ilkeyi gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/263 - Wikisource, the free online library",
+      "relevance": "Sudan kurtarılmanın kadın rüyalarında doğumla eşdeğer görülebileceğini belirten Freud pasajını içerir.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/263"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Rüyanın gizli isteklerle ilişkisini ve sembolik çözümlemenin yorum ilkesini destekler.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Freud, Psychoanalysis, and Symbolism",
+      "relevance": "Freud’da su, rahim ve doğum sembolizminin nasıl bağlandığını tartışır.",
+      "url": "https://www.ndl.ethernet.edu.et/bitstream/123456789/45242/1/268.pdf"
+    },
+    {
+      "title": "A Library Guide to Jung's Collected Works: Dreams",
+      "relevance": "Rüyayı bilinçdışının mevcut durumunu sembolik biçimde gösteren kendiliğinden bir oluşum olarak tanımlar; rüya imgelerini sabit anlam yerine bağlam içinde okumaya dayanak sağlar.",
+      "url": "https://pacifica.libguides.com/Jung/dreams"
+    },
+    {
+      "title": "5 Comments",
+      "relevance": "Suyu bilinçdışının yaygın simgesi olarak ele alan Jungcu temel sembolizm kaynağıdır; atmosferik su imgelerinin psikik derinlik ve bilinçdışıyla ilişkilendirilmesi için ana çerçeveyi sağlar.",
+      "url": "https://jungcurrents.com/carl-jung-symbolism-water"
+    },
+    {
+      "title": "What Does Water Mean in a Dream? A Complete Jungian Guide",
+      "relevance": "Yağmur ve su imgelerinin Jungcu yorumda bilinçdışı, duygulanım ve dönüşümle nasıl ilişkilendirildiğine dair genel bir ikincil çerçeve sunar; dolu için kontrollü bir benzetme zemini sağlar.",
+      "url": "https://individuate.me/articles/dream-about-water"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorumunun temel metni; meteorolojik imgelerin tarihsel oneirokritik bağlamını anlamak için ana çerçeveyi sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "(PDF) The Body, Experience, and the History of Dream Science in ...",
+      "relevance": "Artemidorus'ta beden, deneyim ve rüya bilimi ilişkisini tartışan akademik çalışma; yağmur ve dolu gibi hava olaylarının humoral okumasına değinir.",
+      "url": "https://www.academia.edu/68691950/The_Body_Experience_and_the_History_of_Dream_Science_in_Artemidorus_Oneirocritica"
+    },
+    {
+      "title": "Dreaming of Hail: what the storm is really aiming at | The Dream Guidebook",
+      "relevance": "Dolu rüyasını tarihsel rüya yorumuna bağlayan kısa bir özet sunar; ani zarar ve savunmasızlık temalarını işler.",
+      "url": "https://thedreamguidebook.com/dreaming-of-hail/"
+    },
+    {
+      "title": "Bible Encyclopedia on Hail | SermonIndex",
+      "relevance": "Doluya ilişkin geleneksel oneirokritik ve kültürel yorumları topluca zikreder; düşman akını ve yıkım temasını aktarır.",
+      "url": "https://www.sermonindex.net/encyclopedia/h/hail/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri D Harfi",
+      "relevance": "Dolu için gökten yağma, zulüm, mal kaybı, cezalandırma ve zamansız olduğunda hastalık çağrışımını veren modern aktarım.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-d-harfi.html"
+    },
+    {
+      "title": "İslami Rüya Tabirleri, Nablusi, Kirmani, İbn-i Sirin, İmam Cafer Sadık, Seyyid Süleyman, Danyal - D",
+      "relevance": "Doluya bela, husumet, ordu, kıtlık, hastalık ve İbn-i Sîrîn’e atfedilen ilahî azap ile kıtlık anlamlarını veren çevrim içi derleme.",
+      "url": "https://www.medicentertv.com/islami-ruya-tabirleri-nablusi-kirmani-ibn-i-sirin-imam-cafer-sadik-seyyid-suleyman-danyal-d"
+    },
+    {
+      "title": "İslami rüya tabirleri -D- harfi",
+      "relevance": "Zamansız dolu, üzerine yağan dolu ve zamanında yağan dolu arasında hastalık, mal kaybı ve kederlerin kalkması ayrımı yapan çevrim içi aktarım.",
+      "url": "https://www.ihvanlar.net/2015/03/27/islami-ruya-tabirleri-d-harfi/"
+    },
+    {
+      "title": "Hail Storm Islamic Interpretations & Meanings",
+      "relevance": "Dolu olgusunu kamu yararının engellenmesi, zarar, kıtlık, bolluk, mevsim farkı ve hasat bağlamında ele alan ayrıntılı çevrimiçi derleme.",
+      "url": "https://www.myislamicdream.com/hail_storm.html"
+    },
+    {
+      "title": "Dream Interpreter - Dream interpretation",
+      "relevance": "Sıcak ve soğuk iklim bağlamına göre kar ve dolunun kuraklık, fiyat artışı, hasat ve bollukla ilişkisini veren kısa çevrim içi aktarım.",
+      "url": "https://taveel.net/dream-interpreter/"
+    },
+    {
+      "title": "Weather Dreams — 14 Islamic Interpretations | Dream Wisdom",
+      "relevance": "Dolu için afet, baskı, kıtlık, servet kaybı ve mevsimsel/zararsız doluda rahatlama, bereket ve iyi haber ayrımını veren çevrim içi derleme.",
+      "url": "https://www.dream-wisdom.com/en/dreams/category/Weather/"
+    },
+    {
+      "title": "Topical Bible: Hail!",
+      "relevance": "Dolu ve şiddetli hava olaylarının Kitab-ı Mukaddes’te ilahî yargı, güç ve eskatolojik müdahale ile ilişkisini göstermek için kullanıldı.",
+      "url": "https://biblehub.com/topical/h/hail!.htm"
+    },
+    {
+      "title": "Topical Bible: Precipitation",
+      "relevance": "Yağış ve dolunun Hristiyan sembolizminde yargı ve arınma çağrışımlarına nasıl bağlandığını göstermeye yarayan ayet merkezli bir toplama sayfa.",
+      "url": "https://biblehub.com/topical/p/precipitation.htm"
+    },
+    {
+      "title": "H - Symbols Dreams And Visions | ASR Martins Ministries",
+      "relevance": "Rüyalar ve vizyonlar içinde doluyu ilahî yargı sembolü olarak ele alan modern Hristiyan bakanlık sayfası.",
+      "url": "https://www.asrmartins.com/h-symbols/"
+    },
+    {
+      "title": "Berakhot 55b | The Sefaria Library",
+      "relevance": "Berakhot 55b’de rüyaların yorumla ilişkisi ve anlamın söylenen yorum üzerinden şekillenebilmesi.",
+      "url": "https://www.sefaria.org/Berakhot.55b"
+    },
+    {
+      "title": "Berakhot.55b.1-56a.19 | The Sefaria Library",
+      "relevance": "Berakhot 55b’de rüya anlamının yorumlanış biçimiyle bağlantılı olduğu pasajın İngilizce metni.",
+      "url": "https://www.sefaria.org/Berakhot.55b.1-56a.19?lang=en"
+    },
+    {
+      "title": "Berakhot 18.a - Steinsaltz Center",
+      "relevance": "Berakhot 18b geleneğine bağlı anlatıda dolunun tarımsal zarar ve ilahi düzen bağlamındaki yeri.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/18.a"
+    },
+    {
+      "title": "Full text of \"Buddhist Sutra's\"",
+      "relevance": "Buddhist anlatılarda yoğun doğa olaylarının rüya ve sembol dili içinde nasıl kullanılabildiğine dair örnekler içerir; özellikle düşsel sahnelerde olağanüstü görüntülerin anlamlandırılmasına bağlam sağlar.",
+      "url": "https://archive.org/stream/AmitabhaSutra/Mahavastu%20Volume%202_djvu.txt"
+    },
+    {
+      "title": "Significance of Rain of stones",
+      "relevance": "Theravada bağlamında taş yağışı / doluya yakın şiddetli yağış imgesini Mara’nın engelleyici müdahalesiyle ilişkilendirir; Budist sembolik okuma için doğrudan ilgili bir motiftir.",
+      "url": "https://www.wisdomlib.org/concept/rain-of-stones"
+    },
+    {
+      "title": "Significance of Hailstones",
+      "relevance": "Buddhist bağlamda dolu taşlarının acı, zorluk ve fırtına deneyimiyle ilişkilendirildiğini özetler; sembolik çağrışım düzeyinde yararlıdır.",
+      "url": "https://www.wisdomlib.org/concept/hailstones"
+    },
+    {
+      "title": "The Teaching on Dreams",
+      "relevance": "Budist rüya metinlerinin bulunduğunu gösterir ve rüya imgelerinin sistemli biçimde ele alındığı bir kanonik çerçeve sunar.",
+      "url": "https://84000.co/translation/toh48"
+    },
+    {
+      "title": "Rüyada Dolu görmek",
+      "relevance": "Dolu için doğrudan rüya tabiri ve geleneksel yorum örnekleri içerir; zarar veren ve vermeyen dolu arasında anlam farkı kurar.",
+      "url": "https://ruya.ihya.org/ruyada-dolu-gormek.html"
+    },
+    {
+      "title": "Spiritual Meaning Of Hail: Divine Truths In Frozen Warnings",
+      "relevance": "Doluya ilişkin modern spiritüel yorumda sertleşmiş yapıları kıran, ani dönüşüm getiren ve arındırıcı bir güç teması kurar.",
+      "url": "https://spiritualyou.org/spiritual-meaning-and-symbolism-of-hail/"
+    },
+    {
+      "title": "Hail Symbolism & Meaning - Symbolopedia",
+      "relevance": "Dolu için spiritüel-yorumlayıcı bir çerçevede ani bozulma, beklenmedik sınav ve korunma ihtiyacı temalarını bir araya getirir.",
+      "url": "https://symbolopedia.com/hail-symbolism-meaning/"
+    },
+    {
+      "title": "Hail Dream Interpretation – Meaning",
+      "relevance": "Rüyada doluyu donmuş su olarak ele alır; duyguların donması, felaket, kayıp ve sıkıntı temalarıyla ilişkilendirir.",
+      "url": "https://www.dreamtion.com/hail"
+    },
+    {
+      "title": "Hail Islamic Interpretations & Meanings",
+      "relevance": "Rüyada dolunun bağlama göre engel, zarar, bolluk ya da rahatlama anlamı taşıyabildiğini anlatır; özellikle hasara yol açmayan dolu ile zarar veren dolu ayrımı yapar.",
+      "url": "https://www.myislamicdream.com/hail.html"
     }
   ],
   "relatedSlugs": []

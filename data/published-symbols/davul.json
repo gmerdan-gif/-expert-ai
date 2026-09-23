@@ -1,69 +1,208 @@
 {
   "slug": "davul",
-  "title": "davul",
-  "shortDescription": "Rüyada davul, sesini duyurma, ortak bir ritme katılma veya gürültüden rahatsız olma deneyimini öne çıkarabilir. Sesi kimin çıkardığı ve nasıl hissettirdiği önemlidir.",
+  "title": "Davul",
+  "shortDescription": "Rüyada davul görmek, dikkat çeken bir çağrıya, içsel ritminizi bulma ihtiyacına veya sesinizi duyurma isteğine işaret edebilir. Coşkulu bir davul sesi birlik ve sevinci; rahatsız edici ya da bozuk bir ses ise gürültülü sözleri, motivasyon kaybını veya bir uyarıyı öne çıkarır.",
   "positiveAssociations": [
-    "Bir kutlamaya katılmak",
-    "Ritmi takip etmekten hoşlanmak",
-    "Tanıdık bir sesi ayırt etmek"
+    "İbadete ve birliğe çağrı",
+    "Toplumsal kutlama, övgü ve sevinç",
+    "Ruhsal savaşta zafer ve uyanış",
+    "İçsel nabızla yeniden hizalanma"
   ],
   "challengingAssociations": [
-    "Yüksek sesten rahatsız olmak",
-    "Ritme yetişememek",
-    "Sesin kaynağını bulamamak"
+    "Boş, yalan veya gürültülü sözler",
+    "Hüzün, musibet veya kötü haber",
+    "Teşvik kaybı veya ritmin bozulması",
+    "Kamusal alanda yanlış anlaşılma riski"
   ],
   "contextDependentAssociations": [
-    "Davulun görülmesi veya yalnız duyulması",
-    "Sesin yakınlığı ve temposu",
-    "Çalan, dinleyen veya taşıyan kişi olmak"
+    "Davulun kimin tarafından çalındığı ve ortamın niteliği",
+    "Sesin uzaktan gelen bir uyarı mı yoksa yakın bir kutlama mı olduğu",
+    "Davulun sağlam mı yoksa kırık ve işlevsiz mi olduğu"
   ],
   "commonVariations": [
     {
-      "title": "Uzakta davul sesi duymak",
-      "description": "Sesi bir kutlama, prova veya başka bir ortamla ilişkilendiriyor muydunuz? Kaynağını görmediyseniz rüyanın söylemediği ayrıntıyı kesinleştirmeyin."
+      "title": "Uzaktan Gelen Davul Sesi Duymak",
+      "description": "Rüyada net olarak görülemeyen ama sesi duyulan bir davul, uyanışa, yaklaşan bir değişime ya da içsel tempoya dikkat çeken bir çağrı olarak okunabilir."
     },
     {
-      "title": "Sessiz bir davul görmek",
-      "description": "Davula dokunmak veya çalmak istiyor muydunuz? Kullanılmayı bekleyen bir çalgı, sergilenen bir eşya ve size bırakılan bir nesne farklı sahnelerdir."
+      "title": "Rüya Sahibinin Davul Çalması",
+      "description": "Rüya sahibinin bizzat davul çaldığını görmesi, kamusal alanda sesini duyurma çabası, liderlik arzusu veya bazen etrafta yankı uyandıracak aleni bir eylemle ilişkilendirilir."
     },
     {
-      "title": "Davulu taşımak",
-      "description": "Taşıma işi isteğinizle mi verilmişti, yorucu muydu? Bir topluluğa eşlik etmek ile ağır bir yükten kurtulmak istemek farklı çağrışımlar yaratabilir."
+      "title": "Kırık veya Susturulmuş Bir Davul Görmek",
+      "description": "Yüzeyi yırtık ya da ses vermeyen bir davul, motivasyon kaybını, övgü ve şükran ritimlerindeki aksaklıkları veya ifade edilemeyen duyguları simgeleyebilir."
     },
     {
-      "title": "Davulun ritmine eşlik etmek",
-      "description": "Vuruşları takip edebiliyor muydunuz ve bunu yapmaktan hoşlanıyor muydunuz? Uyumsuzluk hissetmek gerçek hayattaki beceriniz veya aidiyetiniz hakkında ölçüm değildir."
+      "title": "Törensel veya Kalabalık Arasında Davul Görmek",
+      "description": "Toplumsal bir etkinlik ya da ritüel bağlamında geçen davul, birlik, paylaşılan ritim ve kolektif aidiyet duygularını ön plana çıkarır."
     }
   ],
   "psychology": "",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "Berakhot 57a’da bataklığa girme rüyalarının anlatıldığı bölümde, davul taşıma ayrıntısı R. Papa’nın akademi başkanlığıyla ilişkilendirilir. Bu, belirli kişiler ve birden fazla ayrıntı içeren geleneksel anlatıdır. Her davul rüyasının liderlik veya yükselme getirdiğine dair genel bir kural olarak sunulamaz.",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Sesin niteliği, çalgının görünümü ve kişinin yaptığı eylem ayrı kaydedilebilir.",
-  "differences": "Tarihsel bir rüya anlatısı, bugünkü kişinin geleceğini öngören araştırma değildir.",
-  "inusAssessment": "Davul hem görülebilen bir çalgı hem de duyulan bir ses kaynağıdır. INUS değerlendirmesi önce rüyada hangisinin belirgin olduğunu ayırır. Aynı tempo bir kişiye kutlamayı, başka birine gürültüyü hatırlatabilir. Davuldan içsel ritim, manevi uyarı veya yaklaşan haber sonucu otomatik olarak çıkarılmaz. Davulu görmek, çalmak ve taşımak ayrı eylemler olarak ele alınır.",
-  "faq": [
+  "jungian": "Jungcu ve analitik psikoloji çerçevesinde davul, bireyin daha içgüdüsel ve ortak katmanlarını çağıran kadim bir ritim olarak ele alınır. Yuvarlak çerçevesi mandala formunu ve Benlik'in düzenleyici, bütünleştirici doğasını çağrıştırır; ses aracılığıyla bilinç ile bilinçdışı arasında köprü kuran işitsel bir psikopomp işlevi görebilir.",
+  "islamicTradition": "İslami rüya tabiri geleneğinde davul çok anlamlı bir semboldür. Kimi aktarımlarda boş veya yalan söz, aleni gürültü, hüzün ve musibet gibi zorlayıcı durumlarla ilişkilendirilirken, bazı bağlamlarda şöhret, evlilik veya beklenmeyen bir haberin gelişiyle de yorumlanmıştır. Yorumun şekillenmesinde davulu kimin çaldığı ve rüyanın genel atmosferi belirleyicidir.",
+  "christianTraditions": "Hristiyan sembolik okumalarında vurmalı çalgılar ve davul, ruhsal savaş, ilahi övgü, sevinç ve zafer ile bağdaştırılır. Kutsal metinlerde toplu ibadet ve şükran ritimlerini temsil ederken, kırık davul imgesi ise teşvikin azalması veya övgü düzenindeki aksamalar şeklinde ele alınabilir.",
+  "jewishTraditions": "Yahudi geleneğinde ve Talmudik kaynaklarda (örneğin Berakhot 57a-b pasajlarında), rüyada davulla ilgili imgeler kamusal alanda ses duyurma, liderlik pozisyonları ve yeshiva başkanlığı gibi toplumsal görünürlük getiren makamlarla ilişkilendirilmiştir. Rüyadaki bu tür sembollerin nihai anlamı, verilen yorumun yönüne göre şekillenir.",
+  "buddhistEasternApproaches": "Budist ve ritüel Doğu yaklaşımlarında, özellikle Vajrayana geleneğindeki davul formları, Dharma'nın duyulur hale gelmesini, cehaletin aşılmasını ve uyanış çağrısını temsil eder. Rüyadaki davul vuruşu, şimdiye dönüşü işaretleyen törensel ve düzenleyici bir bellek aracı olarak okunabilir.",
+  "spiritualApproaches": "Spiritüel ve ezoterik okumalarda davul, içsel nabız, bedensel tempo ve ilahi hakikatin sesine uyumlanma çağrısıdır. Rüyada davul ritmi duymak, kişinin yaşamında dikkati belirli bir noktada toplamasını, yön değiştirmesini veya daha derin bir bilinç düzeyine geçmesini hatırlatan spiritüel bir eşik işareti olarak değerlendirilir.",
+  "comparisonTable": [
     {
-      "question": "Davul duymak iyi haber geleceğini gösterir mi?",
-      "answer": "Rüyadaki ses gelecekteki bir haberi doğrulamaz. Sesi hangi ortamla ilişkilendirdiğiniz ve ona nasıl tepki verdiğiniz üzerinde düşünebilirsiniz."
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Self",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Davul rüyası ile davul çalmak aynı şey mi?",
-      "answer": "Her zaman değil. Davulu uzaktan duymak veya bir yerde görmek ile ritmi bizzat üretmek farklı deneyimlerdir. Yorumda gerçekten yaptığınız eylem önemlidir."
+      "approach": "İslami Gelenek",
+      "interpretation": "Boş söz, musibet veya şöhret ve haberleşme ekseninde çok-anlamlı bir işaret.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Ruhsal savaş, zafer, ilahi övgü ve toplu ibadet dili.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Kamusal alanda ses duyurma, liderlik ve toplumsal görünürlük.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Dharma'nın işitilmesi, cehaletin aşılması ve uyanışa çağrı.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "İçsel nabız, yaşam temposu ve eşik değişimine yönelik ruhsal çağrı.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenek ve ekollerin hemen hepsinde davul, statik bir nesneden ziyade ses, ritim ve işitsel bir çağrı vasıtası olarak öne çıkar; toplumu, dikkati veya içsel dünyayı harekete geçiren dinamik bir işleve sahiptir.",
+  "differences": "Kimi geleneklerde davul boş söz veya musibet gibi uyarıcı ve zorlayıcı anlamlar taşıyorken, diğer geleneklerde ilahi övgü, liderlik, ruhsal zafer ve Dharma'nın duyulması gibi onurlandırıcı ve uyandırıcı temalarla çerçevelenmiştir.",
+  "inusAssessment": "Davul sembolü, rüyada yalnızca görsel bir nesne olarak kalmaz; çıkardığı ses, vuruş temposu ve çalındığı bağlam ile rüyanın bütünündeki yönelimi belirler. Rüyada davulun ne amaçla ve kimin tarafından çalındığı, sesin uyandırıcı bir çağrı mı yoksa gürültülü bir uyarı mı olduğu, rüya sahibinin bu sembolle kurduğu psikolojik ve kültürel bağı kökten değiştiren en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada davul sesi duymak ne anlama gelir?",
+      "answer": "Davul sesi, geleneksel ve spiritüel yaklaşımlarda bir uyanış çağrısı, içsel tempoya dönüş veya yaklaşan bir habere dikkat çekme işareti olarak yorumlanabilir; ancak sesin tonu ve rüya sahibindeki duygulanım bu anlamı şekillendirir."
+    },
+    {
+      "question": "Rüyada kendi kendine davul çalmanın psikolojik veya geleneksel karşılığı nedir?",
+      "answer": "Kendi davulunu çalmak, kamusal alanda görünür olma, kendi sesini ve iradesini topluluğa duyurma arzusu ya da Jungcu düzlemde bireysel tempoyu bulma çabasıyla ilişkilendirilebilir."
     }
   ],
   "sources": [
     {
-      "title": "Babylonian Talmud — Berakoth 57a",
-      "url": "https://www.halakhah.com/berakoth/berakoth_57.html",
-      "relevance": "Bataklığa girme ve davul taşıma ayrıntılarını içeren anlatı ile ilgili açıklama incelendi. Geleneksel anlatıdır; yalnız davul görmekten makam veya haber sonucu çıkarmaz."
+      "title": "Drum in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Davul başlığını doğrudan psikanalitik çerçevede ele alan çevrimiçi içerik; ancak yorum dili modern bir popüler rüya sözlüğü üslubundadır.",
+      "url": "https://rosmertapublishing.com/dream-symbols/drum/"
+    },
+    {
+      "title": "Drum - Heartbeat, Summons & Finding Your Tempo",
+      "relevance": "Davulu Self, mandala ve dönüşüm ekseninde yorumlayan Jungcu bir simge okuması.",
+      "url": "https://somniscient.com/en/symbols/drum"
+    },
+    {
+      "title": "The Sonic Psychopomp: A Somatic Discussion of Sacred ...",
+      "relevance": "Davulun törensel ses, beden ve bilinç değişimi arasındaki aracı rolünü Jungcu çerçevede tartışan makale.",
+      "url": "https://jungianjournal.ca/index.php/jjss/article/download/336/178"
+    },
+    {
+      "title": "Jung and Shamanism in Dialogue: Retrieving the Soul / Retrieving the Sacred [2 ed.] 9781425115432, 1425115438 - DOKUMEN.PUB",
+      "relevance": "Jung ve şamanizm ilişkisi içinde davulun kozmolojik yönünü, dünya ağacı ve iniş-yükseliş imgesiyle birlikte ele alan metin.",
+      "url": "https://dokumen.pub/jung-and-shamanism-in-dialogue-retrieving-the-soul-retrieving-the-sacred-2nbsped-9781425115432-1425115438.html"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’un rüya kitabının dilini ve yorum yapısını inceler; tarihsel oneirokritik geleneğin rüya sembollerini nasıl ele aldığına bağlam sağlar.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "Drum | Musical Instrument Types, Uses & History",
+      "relevance": "Davulların tarih boyunca dinî, kamusal ve siyasal işlevlerini; kutsallık ve krallık gücüyle ilişkisini özetler.",
+      "url": "https://www.britannica.com/art/drum-musical-instrument"
+    },
+    {
+      "title": "Drums: An African Musical Icon - Timothy S. Y. Lam Museum of ...",
+      "relevance": "Afrika bağlamında davulun ritüel, şifa, tarım, yaşam döngüsü ve kraliyet otoritesiyle bağlantılarını açıklar.",
+      "url": "https://lammuseum.wfu.edu/exhibits/virtual/beyond-drumming-african-musical-instruments/drums-an-african-musical-icon/"
+    },
+    {
+      "title": "Sámi Drums – Then and Now",
+      "relevance": "Sámi davulunun ekstatik yolculuk, öte âlem yönelimi ve kültürel direnç içindeki yerini anlatır.",
+      "url": "https://www.laits.utexas.edu/sami/diehtu/giella/music/noaidi.htm"
+    },
+    {
+      "title": "İslami Rüya Tabirleri, Nablusi, Kirmani, İbn-i Sirin, İmam Cafer Sadık, Seyyid Süleyman, Danyal - D",
+      "relevance": "Davul için İslamî rüya tabiri aktarımında boş/yalan söz, kötü haber, aleni gürültü ve bazı bağlamlarda şöhret temalarını bir arada sunuyor.",
+      "url": "https://www.medicentertv.com/islami-ruya-tabirleri-nablusi-kirmani-ibn-i-sirin-imam-cafer-sadik-seyyid-suleyman-danyal-d"
+    },
+    {
+      "title": "تفسير حلم رؤيا الدف - السوسنة إسلام",
+      "relevance": "Davul için hüzün, musibet, şöhret, evlilik ve gıyabî kişinin gelişi gibi çoklu İslamî yorumları bir arada aktarıyor.",
+      "url": "https://islam.assawsana.com/article/5795"
+    },
+    {
+      "title": "Apostle David E. Taylor [Official Site]",
+      "relevance": "Davul rüyasını övgü, ruhsal savaş, zafer ve kırık davul sembolü üzerinden yorumlayan Hristiyan içerik.",
+      "url": "https://joshuamediaministries.org/dreams/drum/"
+    },
+    {
+      "title": "Drum - Topical Bible",
+      "relevance": "Davulun doğrudan değil, vurmalı çalgılar ve tapınma dili üzerinden sevinç, zafer ve toplu ibadet ile ilişkilendirilmesini gösteren Kutsal Kitap tematik derlemesi.",
+      "url": "https://biblehub.com/topical/d/drum.htm"
+    },
+    {
+      "title": "The lesser controversy: Drums in church",
+      "relevance": "Hristiyan ibadet tartışmasında davulun müzik, Tanrı’yı yüceltme ve topluluk uyumu bağlamında ele alınmasını gösteren makale.",
+      "url": "https://record.adventistchurch.com/2020/09/17/the-lesser-controversy-drums-in-church/"
+    },
+    {
+      "title": "Berakhot.57a.1-57b.22 | The Sefaria Library",
+      "relevance": "Berakhot 57a-b'de boynunda davul olan kişinin yeshiva başkanlığıyla ilişkilendirildiği rüya pasajı.",
+      "url": "https://www.sefaria.org/Berakhot.57"
+    },
+    {
+      "title": "Berakhot.55a.1-57b.22 | The Sefaria Library",
+      "relevance": "Berakhot 57a-b'deki paralel rüya anlatımında davul çalma, yeshiva başkanlığıyla bağlantılandırılır.",
+      "url": "https://www.sefaria.org/Berakhot.55a.1-57b.22"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Yahudi geleneğinde rüyaların yorumla anlam kazandığına dair genel çerçeve sunar.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Drum Beat Dream Meaning & Interpretation",
+      "relevance": "Damaru’nun Dharma sesi, uyanış ve ritüel işleviyle ilişkilendirilmesini veren sayfa; Budist sembolizmde davulun öğretiyi duyurucu yönünü gösterir.",
+      "url": "https://mirrorwithin.com/dream-dictionary/drum-beat/"
+    },
+    {
+      "title": "European Bulletin of Himalayan Research (EBHR)",
+      "relevance": "Tibet ritüel bağlamında davul vuruşlarının belirli fenomen ve ritüel eylemlerle eşleşen bir bellek aracı olduğunu anlatan çalışma; davulun törensel ve düzenleyici işlevini destekler.",
+      "url": "https://himalaya.socanth.cam.ac.uk/collections/journals/ebhr/pdf/EBHR_24_03.pdf"
+    },
+    {
+      "title": "Drum Dreams: Rhythm, Power, and the Call You Feel at Night",
+      "relevance": "Davulun rüya içinde ritim, çağrı, eşik ve adanmışlık çağrışımlarıyla okunabildiğini söyleyen çağdaş bir spiritüel yorum.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/drum"
+    },
+    {
+      "title": "Drum, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Davul için ezoterik düzlemde ses, ilahi hakikat ve vahiy çağrışımı veren bir çevrimiçi rüya sözlüğü girdisi.",
+      "url": "http://www.dreamtation.com/docs/6449.htm"
+    },
+    {
+      "title": "Drums in Dreams: Rhythm, Urgency, and the Call to Act",
+      "relevance": "Davul sesini, ritüel çağrı, topluluk ritmi ve geçiş duygusuyla ilişkilendiren çağdaş spiritüel yorum.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/drums"
+    },
+    {
+      "title": "Beating Drum Dream Meaning & Interpretation",
+      "relevance": "Davul ve vurmalı ritmin içsel nabız, ilksel ritim ve eyleme çağrı ile bağlantısını kuran çağdaş sembolik yorum.",
+      "url": "https://mirrorwithin.com/dream-dictionary/beating-drum/"
     }
   ],
-  "relatedSlugs": [
-    "davul-calmak"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian"
   ]
 }

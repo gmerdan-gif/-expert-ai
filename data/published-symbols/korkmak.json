@@ -1,77 +1,256 @@
 {
   "slug": "korkmak",
-  "title": "korkmak",
-  "shortDescription": "Rüyada korkmak, tehdit algısı ve güvenlik arayışıyla birlikte ele alınabilir. Korkunun kaynağı, verdiğiniz tepki ve uyandığınızda kalan duygu önemlidir.",
+  "title": "Korkmak",
+  "shortDescription": "Rüyada korkmak, çoğu zaman kaygı ve stresle ilişkilidir; korku aynı zamanda kabuslarda sık görülen temel olumsuz duygulardan biridir. Korkunun kaynağı ve rüyadaki sahne, kaçış, bekleyiş ya da bilinmeyenle karşılaşma gibi temalarla birlikte değerlendirilir.",
   "positiveAssociations": [
-    "Güvenli bir yere ulaşmak",
-    "Destek istemek",
-    "Korkuya rağmen hareket edebilmek"
+    "emn-ü eman ve zafer",
+    "zulümden ve zalimlerden kurtuluş",
+    "tövbe ve içsel yöneliş",
+    "yükseliş ve reislik potansiyeli"
   ],
   "challengingAssociations": [
-    "Tehdit altında hissetmek",
-    "Kaçacak yer bulamamak",
-    "Hareketsiz kalma veya sesini duyuramama hissi"
+    "tehdit ve yoğun anksiyete",
+    "baskın kabus ve kötü rüya deneyimleri",
+    "bilinmeyene girme krizleri",
+    "çözülme ve belirsizlik gerilimi"
   ],
   "contextDependentAssociations": [
-    "Korkunun kaynağının belli olup olmadığı",
-    "Kaçmak, saklanmak veya yaklaşmak",
-    "Rüyanın güvenli bir yerde bitip bitmediği"
+    "uyanık hayattaki mevcut kaygılar ve kaçınmalar",
+    "rüyaya eşlik eden duygusal ton ve sahne bağlamı",
+    "bireyin duygu düzenleme kapasitesi",
+    "eşik deneyimleri ve dönüşüm öncesi krizler"
   ],
   "commonVariations": [
     {
-      "title": "Tanımadığınız birinden kaçmak",
-      "description": "Yabancı figür kadar kaçış yoluna da bakın. Bir kapının açılması, yardım bulmanız veya yolun kapanması, rüyadaki güvenlik duygusunu farklı biçimde etkiler."
+      "title": "Korkudan Kaçış Senaryosu",
+      "description": "Rüyada bir tehlikeden veya korku veren bir unsurdan kaçmaya çalışmak, tarihsel ve geleneksel okumalarda yükseliş veya liderlik potansiyeli bağlamında ele alınır."
     },
     {
-      "title": "Tanıdık birinden korkmak",
-      "description": "Rüyadaki kişi ile gerçek kişiyi eşitlemeyin. Hangi davranışın sizi korkuttuğunu düşünmek, o kişiyi tehlikeli ilan etmekten daha açıklayıcıdır."
+      "title": "Korkuyu Bekleme Hali",
+      "description": "Gelecekte oluşabilecek bir tehlikeyi beklediğini hissetmek, savaş ve çatışma gibi stresli yaşam koşullarının rüyadaki yansıması olarak değerlendirilebilir."
     },
     {
-      "title": "Korkudan hareket edememek",
-      "description": "Rüya içinde çaresizlik hissi öne çıkabilir. Yalnız bu sahneden bastırılmış çatışma veya bir sağlık durumu sonucu çıkarılamaz."
+      "title": "İdiopatik Kabus ve Korku",
+      "description": "Uykuda yoğun korku ve öfke gibi ikincil duyguların eşlik ettiği kabuslar görmek, uyku sırasındaki biyolojik ve duygusal kategorilerin bir yansımasıdır."
     },
     {
-      "title": "Korkunun ardından rahatlamak",
-      "description": "Tehdit ortadan kalktı mı, biri yardım mı etti, yoksa siz mi farklı davrandınız? Rahatlamayı sağlayan ayrıntı rüyanın yalnız korkudan ibaret olmadığını gösterebilir."
+      "title": "Bilinmeyene Karşı Duyulan Korku",
+      "description": "Ezoterik ve simyasal yaklaşımlarda eski kalıpların çözülmesi ve belirsiz bir eşikten geçerken hissedilen kriz tonunu simgeler."
     }
   ],
-  "psychology": "Sterpenich ve arkadaşlarının çalışması, rüyada korku yaşanırken uyanık korku deneyiminde de rol alan bazı beyin bölgelerinin etkinleştiğini bildirdi. Çalışmada gündüz tepkileriyle ilişkiler de gözlendi. Daha yeni bir araştırmada ise rüya korkusu daha güçlü gündüz tepkileriyle ilişkili bulundu. Bulgular, korkutucu rüyaların herkeste aynı işlevi gördüğü veya mutlaka duygusal rahatlama sağladığı sonucunu desteklemez.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Araştırmalar rüyadaki korkuyu incelenebilir bir duygu deneyimi olarak ele alır.",
-  "differences": "Beyin etkinliği ve gündüz tepkileri hakkındaki bulgular, rüyanızdaki belirli bir kişinin ya da olayın ne anlama geldiğini tek başına açıklamaz.",
-  "inusAssessment": "Korkmak, tek bir nesnenin simgesi değil, rüya içinde yaşanan bir duygudur. Korkunun nedeni ile ona verilen tepkiyi ayırmak bu yüzden önemlidir. Kaçmak, donakalmak ve yardım istemek farklı sahnelerdir. Rüyadaki korkuyu gerçek bir tehlikenin kanıtı saymadan, güvenlik hissinin nerede değiştiğini ve uyandığınızda hangi duygunun kaldığını değerlendirebilirsiniz.",
-  "faq": [
+  "psychology": "Ampirik psikoloji çalışmalarında korku, idiopatik kabuslarda ve kötü rüyalarda en sık bildirilen temel olumsuz duygulardan biridir. Rüyalardaki korku, öfke, üzüntü ve iğrenme gibi diğer duygularla birlikte görülebilen, uyku sırasında biyolojik olarak anlamlı bir duygusal kategoridir. Klinik örneklerde ergenlerin yetişkinlere göre daha sık korku bildirdiği görülmüştür. Ayrıca, rüyalarında ortalama korku düzeyi daha yüksek olan bireylerin, ertesi sabah daha yüksek negatif duygulanım yaşayabildiği, ancak aynı zamanda daha uyumlu duygu düzenleme özellikleri sergileyebildiği ampirik olarak gösterilmiştir.",
+  "jungian": "Jungcu çerçevede rüyalardaki korku, sabit bir sembol anlamı taşımaktan ziyade, yoğun bir psikik gerilim belirtisi olarak ele alınır. Bastırılmış bir arzu ya da çatışmanın açık biçimde ortaya çıktığı rüyalar sıklıkla korku eşliğinde görülebilir. Korku, bilinçdışı içeriklerin benlik tarafından fark edilme sürecinin yoğun bir belirtisi olarak görülür.",
+  "islamicTradition": "Klasik İslami rüya tabiri aktarımlarında rüyada korku görmek; emn-ü eman (güvende olma), zafer, zulümden ve zalimlerden kurtuluş anlamlarıyla birlikte anılır. Bazı bağlamlarda korkudan kaçış reislik ve yükseliş olarak yorumlanırken, korkuyu beklemek harp veya savaş ortamına işaret edebilir.",
+  "christianTraditions": "Hristiyan rüya geleneklerinde korku taşıyan rüyalar otomatik olarak ilahi bir mesaj sayılmaz; aksine ayırt etme, dua ve Kutsal Kitap ile uyum testinden geçirilir. Patristik ve Ortodoks çizgide huzursuzluk ve kafa karışıklığı bırakan rüyalar karşısında ihtiyat baskındır. Bu tür deneyimler, bastırılmış kaygıdan ziyade güven, itaat ve yönelişin sınandığı anlar olarak değerlendirilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde ve Talmudik kaynaklarda rahatsız edici rüyalar ve korku uyandıran deneyimler ciddiye alınmakla birlikte mutlak gerçeklik olarak okunmaz. Berakhot geleneğinde kötü rüyanın yarattığı korku ve sarsıntıya karşı, rüyayı olumluya çevirme, dua etme ve ilahî rahmete yönelme pratikleri öne çıkar.",
+  "buddhistEasternApproaches": "Budist anlatılarda korku, düşlerin uğursuzluğunu yorumlayan yanlış bir ilk tepki veya uyarıcı bir unsur olarak yer alabilir. Tibet Budist rüya-yoga geleneklerinde ise korku veren rüyalarda nesnesini fark etmek ve bu duyguyu farkındalık, şefkat veya boşluk kavrayışıyla dönüştürmek öğütlenir.",
+  "spiritualApproaches": "Ezoterik ve simyasal okumalarda rüyada korkmak, nigredo benzeri bir kararma evresinde eski biçimlerin çözülmesi, gölgeyle yüzleşme ve dönüşüm öncesi kriz duygusuyla ilişkilendirilir. Bu yaklaşımda korku, tehdit olmaktan ziyade bir eşik deneyimi ve bilinmeyene geçiş gerilimidir.",
+  "comparisonTable": [
     {
-      "question": "Korkutucu rüya gerçek bir tehlikeyi haber verir mi?",
-      "answer": "Bir rüya, gerçek hayatta bir tehlikenin gerçekleşeceğini göstermez. Korku deneyimi ile geleceğe ilişkin tahmin birbirinden ayrılmalıdır."
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Uyku sırasında ortaya çıkan, duygu düzenleme ve sabah ruh haliyle bağlantılı temel olumsuz duygusal kategori.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Rüyada korkmak duyguları düzenlemeye yardımcı olur mu?",
-      "answer": "Bu konuda farklı araştırma sonuçları var. Bazı çalışmalar rüyadaki korku ile gündüz tepkileri arasında ilişki bulsa da, her korkutucu rüyanın yararlı olduğu sonucu çıkarılamaz."
+      "approach": "Psikanaliz",
+      "interpretation": "Bastırılmış dürtülerin veya libidinal enerjinin anksiyeteye dönüşerek rüya içeriğine eşlik etmesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilinçdışı içeriklerin ve psikik gerilimin benlik tarafından deneyimlenme biçimi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Emniyete erme, zafer, zulümden kurtuluş veya içsel tövbe süreçlerine işaret eden durum.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Gelenek",
+      "interpretation": "İmanın, güvenin ve ayırt etme yetisinin sınandığı, dua ve temkin gerektiren ruhsal an.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Kişide sarsıntı yaratan ancak dua ve olumluya çevirme ritüelleriyle dönüştürülen rahatsız edici deneyim.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Dönüşüm pratikleri ve rüya farkındalığıyla şefkat temelinde ele alınan geçici zihinsel tepki.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik / Simyasal",
+      "interpretation": "Eski kimliklerin çözülmesi, bilinmeyene geçiş ve eşik deneyimi öncesi kriz tonu.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, korkunun rüyalarda tek ve sabit bir anlam taşıyan basit bir sembol olmadığını, rüya görenin uyanık hayattaki kaygıları, psikolojik gerilimleri veya içsel dönüşüm süreçleriyle yakından bağlantılı olduğunu kabul eder.",
+  "differences": "Ampirik psikoloji korkuyu ölçülebilir bir duygulanım ve duygu düzenleme göstergesi olarak incelerken; psikanaliz ve Jungcu kuramlar bunu bastırılmış dürtüler ve bilinçdışı gerilimler bağlamında ele alır. Dini gelenekler (İslami, Hristiyan, Yahudi) korkuyu ilahi yöneliş, dua, ayırt etme ve rüyayı olumluya çevirme pratikleri üzerinden değerlendirir; ezoterik yaklaşımlar ise onu simyasal bir eşik ve dönüşüm krizi olarak yorumlar.",
+  "inusAssessment": "Rüyada korkmak, sabit bir nesne veya tek tip bir mesaj içermediğinden, rüyanın bütünsel bağlamından ve uyanık yaşamdaki karşılığından bağımsız olarak yorumlanamaz. Onu ampirik düzeyde bir duygu düzenleme yansıması, psikanalitik düzeyde bastırılmış bir anksiyete ve geleneksel düzeyde emniyete ulaşma veya dua gerektiren bir eşik olarak görebilmemizi sağlayan şey, rüyaya eşlik eden duygusal ton ile rüya sahibinin bireysel durumudur. Bu nedenle korku içeren bir rüya değerlendirilirken, duygunun rüya içindeki işlevi ve kişinin uyanık hayattaki kaygı odakları birlikte ele alınmalıdır.",
+  "faq": [
+    {
+      "question": "Rüyada korkmak her zaman kötü bir olayın haberi midir?",
+      "answer": "Hayır. Araştırmalar ve geleneksel yorumlar, korkunun tek başına sabit bir kehanet olmadığını, rüya görenin mevcut kaygılarının, içsel gerilimlerinin veya duygu düzenleme süreçlerinin bir yansıması olabileceğini gösterir."
+    },
+    {
+      "question": "Korku içeren rüyalar psikolojik olarak ne anlama gelir?",
+      "answer": "Psikolojik açıdan bu rüyalar, uykudaki temel olumsuz duygulanım kategorileri arasında yer alır ve genellikle gündüz yaşanan stresin, bastırılmış dürtülerin ya da duygu düzenleme mekanizmalarının bir göstergesi olarak incelenir."
     }
   ],
   "sources": [
     {
-      "title": "Fear in dreams and in wakefulness: Evidence for day/night affective homeostasis",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7267911/",
-      "relevance": "Rüyadaki korku ile beyin etkinliği ve uyanıkken tehditlere verilen tepkiler arasındaki ilişkileri inceleyen çalışma.",
-      "year": 2020
+      "title": "Thematic and Content Analysis of Idiopathic Nightmares and ...",
+      "relevance": "Kabus ve kötü rüyalarda korku dâhil duygusal içeriklerin sıklığını ve dağılımını gösteren çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3900621/"
     },
     {
-      "title": "Fear in dreams predicts stronger affect reactivity in wakefulness",
-      "url": "https://doi.org/10.1093/sleep/zsag203",
-      "relevance": "Rüyadaki korkunun gündüz tepkileriyle ilişkisi için farklı yönde bulgular bildiren araştırma; tek bir düzenleme açıklamasının kesinleştirilmesini engeller.",
-      "year": 2026
+      "title": "Fear in dreams and in wakefulness: Evidence for day/night affective ...",
+      "relevance": "Rüyalarda korku duygusunun uyku sırasında nasıl ayrıştığını ve gündüz-duygulanım ilişkisini inceleyen çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7267911/"
+    },
+    {
+      "title": "Exploring emotional characteristics in dreams of clinical ...",
+      "relevance": "Klinik örneklerde rüyalardaki korku duygusunun yaş gruplarına göre görülme sıklığını raporlayan çalışma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/102923/99325/267300"
+    },
+    {
+      "title": "Dreamers' evaluation of the emotional valence of their day-to ... - PMC",
+      "relevance": "Rüyada yaşanan korku, endişe ve diğer duyguların ölçüldüğü ampirik çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9523572/"
+    },
+    {
+      "title": "Testing affect regulation theories of dreaming - PubMed",
+      "relevance": "Korku içeren rüyaların ertesi sabah duygulanımı ve duygu düzenleme ile ilişkisini özetleyen çalışma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41823699/"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams (1900)",
+      "relevance": "Rüyada hissedilen korkunun rüya içeriğiyle ilişkisi, anksiyöz rüyaların istek doyumu ve bastırılmış dürtüler bağlamında ele alınışı.",
+      "url": "https://public.archive.wsu.edu/brians/public_html/world_civ/worldcivreader/world_civ_reader_2/freud.html"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/154 - Wikisource",
+      "relevance": "Rüyadaki korkunun, rüya içeriğinden ziyade başka bir kaynaktan gelen anksiyete olarak yorumlanması ve korku rüyalarının cinsel içerikle bağlantılandırılması.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/154"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Korku ve acı rüyalarının da Freudcu kuramda örtük biçimde istek doyumu olarak düşünülmesi.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "On Dreams and Motivation: Comparison of Freud's and Hobson's ...",
+      "relevance": "Freud'un anksiyete rüyalarını ve bunların libidinal kökenine dair formülasyonunu özetleyen akademik ikincil kaynak.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5216045/"
+    },
+    {
+      "title": "Jung on the Nature and Interpretation of Dreams - PMC",
+      "relevance": "Jung’un rüya sınıflandırması içinde korkuyla eşlik eden rüya türlerini ve Jung’un rüyayı yorumlama yaklaşımını tartışan akademik bir derleme.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4217604/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya metninin İngilizce çevirisi; korkunun rüyada nasıl bir yansıma olarak ele alınabildiğine dair doğrudan pasaj içerir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of the Interpolating ...",
+      "relevance": "Artemidorus’un rüya kuramında korku ve kaçınma durumlarının rüya içeriğine nasıl yansıdığına dair akademik tartışma sunar.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual",
+      "relevance": "Artemidorus’un rüya yorumunda bağlam, rüya sahibinin durumu ve yorum yöntemleri üzerine tarihsel çerçeve sağlar.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?guestAccessKey="
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri K Harfi",
+      "relevance": "Korku/korkaklık maddesinde emn-ü eman, zafer ve zulümden kurtuluş temalarını Nablusî ve İbn-i Şîrîn atıflarıyla birlikte aktarır; 'korku' temasının gelenek içindeki yorum aralığını gösterir.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-k-harfi.html"
+    },
+    {
+      "title": "What Does It Mean When You Feel Afraid in a Dream",
+      "relevance": "Korku rüyasını Hristiyan çerçevede güven, yöneliş ve içsel durumla ilişkilendirerek yorumlayıcı bir okuma verir.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/fear-in-dream/"
+    },
+    {
+      "title": "Doctoral Thesis - ERA",
+      "relevance": "Patristik yazılarda rüyaların insan, şeytani ve ilahi kökenleri üzerine tarihsel sınıflandırma sağlar.",
+      "url": "https://era.ed.ac.uk/server/api/core/bitstreams/c52021c2-a434-4422-ad59-4122288fb573/content"
+    },
+    {
+      "title": "Navigating Dreams And Nightmares As An Orthodox Christian",
+      "relevance": "Ortodoks Hristiyanlıkta korku ve huzursuzluk bırakan rüyalar karşısında ihtiyat, ayırt etme ve ruhani rehberlik vurgusu sunar.",
+      "url": "https://www.saintjohnchurch.org/dreams-and-nightmares/"
+    },
+    {
+      "title": "Interpreting Your Dreams: A Biblical Christian Approach",
+      "relevance": "Hristiyan ayırt etme yaklaşımında korku üreten rüyaların Kutsal Kitap, sevgi ve ruhsal meyvelerle sınanmasını anlatır.",
+      "url": "https://www.soulshepherding.org/interpreting-your-dreams/"
+    },
+    {
+      "title": "Dreams",
+      "relevance": "Hristiyan gelenekte rüya yorumuna temkinli yaklaşımı ve dua merkezli değerlendirmeyi aktarır.",
+      "url": "https://www.premierchristianity.com/home/dreams/1586.article"
+    },
+    {
+      "title": "Berakhot.10b.1-17a.17 | The Sefaria Library",
+      "relevance": "Rüyada görülen ölüm tehdidi karşısında Tanrı’dan merhamet isteme ve rüyaya mutlak teslim olmama öğretisi.",
+      "url": "https://www.sefaria.org/Berakhot.10b-17a"
+    },
+    {
+      "title": "Berakhot.55b.1-56a.19 | The Sefaria Library",
+      "relevance": "Kötü rüya, korku uyandıran rüya ve buna karşı olumluya çevirme, dua ve düzeltme uygulamaları.",
+      "url": "https://www.sefaria.org/Berakhot.55b.1-56a.19?lang=en"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Yahudi kaynaklarında rüyaların statüsü, anlamı ve ihtiyatlı yorumlanması hakkında derlenmiş metinler.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Why Pray for Bad Dreams to Be Transformed? - Chabad.org",
+      "relevance": "Kötü rüyaların korku doğurması ve bu korkunun dua ile dönüştürülmesi üzerine çağdaş Yahudi açıklaması.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1679797/jewish/Why-Pray-for-Bad-Dreams-to-Be-Transformed.htm"
+    },
+    {
+      "title": "Ja 77 The Birth Story about the Great Dreams (1s)",
+      "relevance": "Jātaka 77 içinde kralın gördüğü büyük düşlerden sonra korkuya kapılması ve bu korkunun Budist anlatıda nasıl çerçevelendiği.",
+      "url": "https://ancient-buddhist-texts.net/English-Texts/Jataka/077.htm"
+    },
+    {
+      "title": "The: Bardo of Dream - Tibetan Buddhist ...",
+      "relevance": "Tibet Budist rüya-yoga anlatılarında korkulu rüyaya yaklaşım ve korkunun rüya içinde dönüştürülmesi.",
+      "url": "https://tibetanbuddhistencyclopedia.com/en/index.php?title=The:_Bardo_of_Dream"
+    },
+    {
+      "title": "Chanting for Meditators",
+      "relevance": "Buddhist koruma/dua bağlamında korkudan arınma ve korkusuzluk dileği.",
+      "url": "https://ancient-buddhist-texts.net/Texts-and-Translations/Chanting-for-Meditators/13-Parittam-Pubbanhasuttam.htm"
+    },
+    {
+      "title": "[PDF] Dreaming the path: diagnosing Bodhisattva progress in early ...",
+      "relevance": "Tibet Budist geleneklerinde korku veren rüyaların sınıflandırılması ve bunlara eşlik eden karşı-pratikler üzerine akademik tartışma.",
+      "url": "https://scholarlypublications.universiteitleiden.nl/access/item:4105024/view"
+    },
+    {
+      "title": "Fear in Dreams: Meaning, Psychology, and Ways to Work With It",
+      "relevance": "Rüyada korku temasını ezoterik ve ruhsal çerçevede ele alır; korkuyu eşik, içsel gerilim ve dönüşümle ilişkilendiren modern bir yorum hattı sunar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/fear"
+    },
+    {
+      "title": "Alchemical Symbolism in Dreams: Nigredo to Rubedo - Liminaut",
+      "relevance": "Simyasal sembolizmi rüyalardaki dönüşüm süreçleriyle ilişkilendirir; özellikle nigredo, gölgeyle karşılaşma ve çözülme temaları üzerinden korku tonunu yorumlamaya elverişlidir.",
+      "url": "https://www.liminaut-labs.org/blog/alchemical-symbolism-dreams-nigredo-rubedo/"
+    },
+    {
+      "title": "The Connection Between Dreams and Philosophical Alchemy",
+      "relevance": "Simya ve rüyalar arasındaki ilişkiyi genel bir çerçevede tartışır; korku temasını doğrudan vermez ama alşimik rüya okuması için bağlamsal arka plan sağlar.",
+      "url": "https://realitypathing.com/the-connection-between-dreams-and-philosophical-alchemy/"
     }
   ],
-  "relatedSlugs": [
-    "yuksekten-korkmak",
-    "korkutulmak"
-  ]
+  "relatedSlugs": []
 }

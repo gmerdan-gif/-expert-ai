@@ -1,74 +1,234 @@
 {
   "slug": "kitap",
-  "title": "kitap",
-  "shortDescription": "Rüyada kitap, öğrenme isteği, hatırlanan bilgiler veya henüz anlaşılmayan bir konu üzerine düşündürebilir. Kitabın içeriği, okunabilirliği ve açık mı kapalı mı olduğu önemlidir.",
+  "title": "Kitap",
+  "shortDescription": "Rüyada kitap görmek; bilgi, öğrenme, hafıza ve iç dünyada anlam kazanmayı bekleyen konularla ilişkilidir. Açık ya da okunabilir bir kitap bir şeyin netleşmesine, kapalı veya ulaşılamayan bir kitap ise henüz fark edilmemiş ya da çözümlenmemiş konulara işaret edebilir.",
   "positiveAssociations": [
-    "Merak ettiği bir konuyla karşılaşmak",
-    "Sevilen bir eseri yeniden bulmak",
-    "Bir bilgiyi paylaşmak"
+    "Bilgi ve bilgelik",
+    "İçsel rehberlik",
+    "Ruhsal öğrenme",
+    "Kapalı kalan bir bilginin açığa çıkma ihtimali",
+    "Yaşam hikâyesinin veya anıların düzenlenmesi"
   ],
   "challengingAssociations": [
-    "Aradığı kitabı bulamamak",
-    "Sayfalara ulaşamamak",
-    "Ne yazdığını anlayamamak"
+    "Erişilemeyen veya saklı kalan anlamlar",
+    "Çözülmemiş geçmişe ait kayıtlar",
+    "Paylaşılmamış veya okunamayan içsel içerikler"
   ],
   "contextDependentAssociations": [
-    "Kitabın adının bilinmesi",
-    "Açık, kapalı veya hasarlı olması",
-    "Size ait olması veya birinden gelmesi"
+    "Kitabın açık veya kapalı olması",
+    "Rüya sahibinin duygusal tonu ve merak düzeyi",
+    "Kitabın türü (kutsal metin, defter, roman vb.) ve okunabilirliği"
   ],
   "commonVariations": [
     {
-      "title": "Tanıdık bir kitabı bulmak",
-      "description": "Kitabı hangi dönemden hatırladığınızı ve onu görünce ne hissettiğinizi düşünün. İçeriğinden çok hediye eden kişi veya eski bir ortam da aklınıza gelebilir."
+      "title": "Açık Kitap Görmek",
+      "description": "Bilginin erişilebilir hâle gelmesi durumunda ne tür eylemlere yol açabileceğine odaklanır: öğrenme, sorulara yanıt bulma, anlatma veya bir durumun netleşmesi gibi sonuçlar öne çıkar."
     },
     {
-      "title": "Kapalı bir kitabı taşımak",
-      "description": "Kitabı açmak istiyor muydunuz, yoksa yalnızca bir yere mi götürüyordunuz? Kapalı olması mutlaka gizli bilgi bulunduğu anlamına gelmez."
+      "title": "Kapalı Kitap Görmek",
+      "description": "Saklı veya henüz erişilmemiş bilgilerin varlığına işaret eder; bu, rüya sahibinin bilgi arama, hatırlama veya paylaşamama gibi konular üzerinde çalışması gerektiğini gösterebilir."
     },
     {
-      "title": "Boş veya okunamayan sayfalar görmek",
-      "description": "Sayfaların boş olduğunu mu gördünüz, yoksa yazıyı mı seçemediniz? Anlamaya çalışmak, vazgeçmek ve yardım istemek farklı tepkilerdir."
+      "title": "Rüyada Kitap Bulmak",
+      "description": "Bazen yeni bir bilgi kaynağına rastlama, öğrenme fırsatı veya ruhsal yönden ilerleme olanağına işaret edebilir; bazı Doğu metinlerinde bu imge karmasal perdelerin arınmasıyla ilişkilendirilir (kaynağa ve bağlama bağlı olarak sınırlıdır)."
     },
     {
-      "title": "Birine kitap vermek",
-      "description": "O kişi için özellikle seçilmiş bir kitap mıydı? Hediye, ödünç verme ve geri teslim etme farklı ilişkileri ve beklentileri gündeme getirebilir."
+      "title": "Yaşamın Kaydı Olarak Kitap",
+      "description": "Klasik oneirokritik geleneğin 'book-roll' (kitap-rulo) imgesine yakın bir okumadır: kişinin geçmişi, anıları veya yaşam çizgisiyle ilgili bir iç kayıt ve değerlendirme simgesi olarak ele alınır."
     }
   ],
-  "psychology": "İçerik analizi kitap nesnesini, okuma veya verme eylemini ve rüyadaki duyguyu ayrı düşünmeye imkân verir. Bu ayrım aşağıdaki sahneleri anlatmak için kullanılmıştır; genel yöntem kitabın bilgeliği temsil ettiğini kanıtlamaz.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "Berakhot 57b, Mezmurlar ve Özdeyişler gibi adı belirli kutsal eserler için geleneksel yorumlar sıralar. Bunlar o metinlerin dinî bağlamına aittir. Adı bilinmeyen herhangi bir kitaba genellenemez ve kişinin geleceği hakkında doğrulanmış bilgi sayılmaz.",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Kitabın kimliği ile onunla yapılan eylem ayrı ayrıntılardır.",
-  "differences": "Belirli dinî metinlere ilişkin geleneksel yorum ile genel bir kitap nesnesinin kişisel çağrışımı aynı değildir.",
-  "inusAssessment": "Kitap rüyasında nesneyi görmek ile okumak aynı eylem değildir. INUS, kitabın adını bilip bilmediğinize, size nasıl ulaştığına ve onunla ne yaptığınıza bakar. Öğrenme ve merak kişisel çağrışım olabilir; açık kitap bilgeliğin, kapalı kitap saklanan bir sırrın kanıtı sayılmaz. Rüyada okunduğu düşünülen bir bilgi, gerçek hayatta doğrulanmış bilgi yerine geçmez.",
-  "faq": [
+  "psychology": "Bilişsel rüya kuramı ve içerik analizi perspektifleri, \"kitap\" gibi nesnelerin rüya görenin zihnindeki bir kavramı özetleyici biçimde temsil ettiğini ve tek başına sabit bir anlama indirgenemeyeceğini vurgular. Yorum, rüyanın diğer unsurları ve duygusal tonu ile birlikte yapılmalıdır.",
+  "jungian": "Analitik psikolojide kitap, bilinçdışının içeriğini temsil edebilen, tam kapanmayan ve dönüşüm potansiyeli taşıyan bir semboldür. Kitabın durumu (okunmuş, yazılmakta, ulaşılamayan vb.) rüyanın ruhsal işlevi ve içsel bir rehberlik süreci hakkında ipuçları verir; yine de yorum bağlama bağımlıdır.",
+  "islamicTradition": "İslami rüya tabiri literatüründe birçok klasik eser anılmakla birlikte (İbn Sîrîn’e atfedilen gelenek, İbn Kuteybe, İbn Şâhin, Abdülganî en‑Nablusî vb.), araştırma bulgularında 'kitap' sembolü için doğrudan ve açık bir klasik tabir tespit edilememiştir. Bunun anlamı, İslami gelenekte genel rüya tabiri kaynaklarının mevcut olmasıdır; ancak spesifik bir 'kitap' yorumu bulunduğunda onu bağlamla birlikte değerlendirmek gerekir.",
+  "christianTraditions": "Hristiyan sembolizminde kitap, vahiy, öğretim ve kutsal sözle ilişkilidir; rüyadaki kitap motifi, ilahi mesaj, öğretici içerik veya kutsal otoritenin çağrışımlarını uyandırabilir. Erken Hristiyan düşüncede rüyaların kaynağı ve işlevi yorumla birlikte değerlendirilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyalar yorumla anlam kazanır; Berakhot gibi kaynaklar rüyanın bağlam ve yorum tarafından şekillendiğini söyler. 'Kitap' imgesi öğrenim, metinsel otorite veya kapalı bilginin açılması çağrışımlarıyla okunabilir; ancak kesinlik yoruma bağlıdır.",
+  "buddhistEasternApproaches": "Bazı Budist metinlerde rüyada kitap bulma, belirli bodhisattva basamakları veya engellerin azalmasıyla ilişkilendirilen özel bir işaret olarak anılmıştır; bu tür kaynaklar bağlamsal ve sınırlıdır, dolayısıyla herkese genellenmemelidir.",
+  "spiritualApproaches": "Ezoterik ve tarihsel uygulamalarda kitap, içsel kayıt, gizli bilgelik ve ruhsal öğrenme temalarını temsil eder. Kitabın niteliği ve okunabilirliği, bireysel dönüşüm süreçleri veya keşfedilmeyi bekleyen anlam katmanları hakkında ipuçları verebilir.",
+  "comparisonTable": [
     {
-      "question": "Kitap görmek mutlaka bir şey öğrenmem gerektiğini mi gösterir?",
-      "answer": "Hayır. Kitap size bir kişiyi, zamanı veya sevdiğiniz bir hikâyeyi de hatırlatabilir. Rüyadaki nesneden zorunlu bir görev çıkarmak gerekmez."
+      "approach": "Bilişsel ve İçerik Analizi",
+      "interpretation": "Kitap nesnesi, rüya görenin zihinsel kavramlarını ve bilgilenme süreçlerini temsil eden, bağlama göre çözümlenmesi gereken bir imgedir.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Kitabın adını hatırlamıyorsam anlamını tamamlamalı mıyım?",
-      "answer": "Hayır. Adını veya içeriğini bilmediğiniz kitabı belirsiz bırakabilirsiniz. Hatırladığınız kapak, ortam ve eylem gibi ayrıntılarla yetinmek daha doğru olur."
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Bilinçdışı içeriğin sembolik ifadesi ve ruhsal dönüşümle ilişkili, tam anlamıyla tükenmeyen bir sembol olarak okunabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Teolojik Sembolizm",
+      "interpretation": "Vahiy, öğretim ve ilahi mesaj ile bağlantılı bir otorite nesnesi olarak yorumlanabilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rabbani Geleneği",
+      "interpretation": "Öğrenim, yazılı vahiy ve yoruma dayalı anlam arayışı ekseninde değerlendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Batı Gelenekleri",
+      "interpretation": "Yaşamın kaydı, hafıza ve içsel bilginin düzenlenmesiyle ilişkili bir motif olarak ele alınır.",
+      "evidenceLevel": "spiritual"
     }
   ],
+  "commonGround": "Çoğu yaklaşım, kitabın tekil ve sabit bir sözlük anlamı olmadığını, bilginin, anlamlandırmanın ve içsel süreçlerin okunmasıyla ilgili bağlamsal bir sembol olduğunu kabul eder.",
+  "differences": "Psikolojik yaklaşımlar kitabı bireysel zihinsel ve bilinçdışı süreçlerin ifadesi olarak açıklarken; teolojik ve geleneksel okumalar kitabı vahiy, kutsal otorite veya karmasal/ruhsal ilerleme bağlamında değerlendirir. Bu fark, yorumun çıkış noktasını ve vurgusunu belirler.",
+  "inusAssessment": "Kitap sembolü, rüya görenin zihnindeki bilginin durumunu yansıtan dinamik bir işarettir: açık bir kitap bilgi paylaşımına veya netleşme sürecine işaret eder; yazılmakta olan bir kitap devam eden bir düşünce ya da dönüşümün göstergesi olabilir; ulaşılamayan bir kitap ise bilinçli farkındalığa henüz çıkmamış içeriğe işaret edebilir. Bu yüzden kitabın niteliği ve rüya anındaki duygu tonu en belirleyici unsurlardır.",
+  "faq": [],
   "sources": [
     {
-      "title": "Content Analysis Explained",
-      "url": "https://dreams.ucsc.edu/Info/content_analysis.html",
-      "relevance": "Nesne, etkinlik ve duygu ayrımını açıklayan genel yöntem; kitap için sabit bir rüya anlamı belirlemez."
+      "title": "Hall: A Cognitive Theory of Dream Symbols",
+      "relevance": "Kitap gibi nesnelerin rüyada zihinsel kavramları ekonomik biçimde temsil etme işlevini açıklayan bilişsel rüya kuramı kaynağıdır.",
+      "url": "https://dreams.ucsc.edu/Library/hall_1953a.html"
     },
     {
-      "title": "Babylonian Talmud — Berakoth 57b",
-      "url": "https://www.halakhah.com/berakoth/berakoth_57.html",
-      "relevance": "Belirli kutsal kitapların adlandırıldığı geleneksel pasaj incelendi. Herhangi bir kitap için genel bilimsel anlam veya kişisel gelecek bilgisi değildir."
+      "title": "Content Analysis Explained",
+      "relevance": "Rüya içerik analizinin nesneleri, etkinlikleri ve duyguları nasıl kategorize ettiğini gösterir; 'kitap' yorumunun bağlama bağımlı olduğunu destekler.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Rüya içeriğini nicel olarak incelemek için kategori, frekans ve karşılaştırma mantığını açıklar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüya sembolizmi ve örtük içeriklerin yorumlanması bağlamında kitabın tek başına sabit bir anlam taşımadığını vurgulayan psikanalitik çerçevedir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "X. Symbolism in the Dream - Collection at Bartleby.com",
+      "relevance": "Rüya sembolizmini ve rüya öğesi ile yorum arasındaki düzenli bağı açıklayan bölümler içerir; sembol kavramını psikanalitik bağlamda konumlandırır.",
+      "url": "https://www.bartleby.com/lit-hub/a-general-introduction-to-psychoanalysis/x-symbolism-in-the-dream/"
+    },
+    {
+      "title": "A Library Guide to Jung's Collected Works: Dreams",
+      "relevance": "Rüyayı bilinçdışının simgesel kendini betimlemesi olarak tanımlar; kitap imgesini Jungcu rüya okuması için kuramsal çerçeveye yerleştirir.",
+      "url": "https://pacifica.libguides.com/Jung/dreams"
+    },
+    {
+      "title": "Man and His Symbols - Carl G. Jung, Marie-Luise von Franz",
+      "relevance": "Jungcu sembol anlayışı ve kitabın bilinçdışı içeriği temsil eden dönüştürücü bir imge olarak okunabilmesine dair teorik zemin sağlar.",
+      "url": "https://books.google.com/books/about/Man_and_His_Symbols.html?id=O0XuAAAAMAAJ"
+    },
+    {
+      "title": "Dreams : Marie-Luise von Franz",
+      "relevance": "Jungcu rüya yorumunda rüyaların yön gösteren simgesel içerikler olduğunu anlatır; kitap imgesi için içsel rehberlik ve bilinçdışı mesaj temalarını destekler.",
+      "url": "https://archive.org/details/dreams00fran_0"
+    },
+    {
+      "title": "Oneirocritica - Wikipedia",
+      "relevance": "Artemidorus’un antik oneirokritik geleneği ve 'kitap-rulo' gibi sembollerin yaşam kaydıyla ilişkilendirilebileceği konusunda tarihsel bir bağlam sunar.",
+      "url": "https://en.wikipedia.org/wiki/Oneirocritica"
+    },
+    {
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual",
+      "relevance": "Artemidorus’un rüya yorumunda kullandığı yöntemleri, rüya öğelerini sınıflandıran yapıyı ve yorum ilkelerini açıklar.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?guestAccessKey="
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidorus’un beş kitap halinde derlenmiş rüya el kitabını ve antik oneirokritik geleneğin konumunu özetler.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' The Interpretation of ...",
+      "relevance": "Oneirocritica’nın antik çağdan tam olarak korunmuş tek Greko-Romen rüya kitabı olduğunu ve rüya yorumunun sistemli bir el kitabı/kılavuz biçimi taşıdığını belirtir.",
+      "url": "https://academic.oup.com/book/40085"
+    },
+    {
+      "title": "How to Interpret a Dream | An Ancient Dream Manual",
+      "relevance": "Artemidorus’un düşleri predictive ve non-predictive olarak ayırması ile tek tek rüya öğelerini yorumlama yöntemini tartışır.",
+      "url": "https://academic.oup.com/book/40085/chapter-abstract/341036120?redirectedFrom=PDF"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’un rüya dili, formülasyonları ve oneiromancy bağlamındaki metodik yaklaşımı hakkında dilsel ve tarihsel bir çerçeve sunar.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "RÜYA - TDV İslâm Ansiklopedisi",
+      "relevance": "İslami rüya tabiri geleneğinin temel isimlerini ve kaynaklarını tanıtır; 'kitap' için doğrudan klasik bir tabir bulunmadığına dair araştırma bağlamını destekler.",
+      "url": "https://islamansiklopedisi.org.tr/ruya"
+    },
+    {
+      "title": "Rüya Tabiri - Risale Online",
+      "relevance": "Klasik İslami rüya tabiri eserlerini ve müelliflerini bir araya getiren özet bir kaynak; gelenekte hangi metinlerin anıldığını göstermesi bakımından yararlıdır.",
+      "url": "https://risale.online/soru-cevap/ruya-tabiri-3"
+    },
+    {
+      "title": "Miscellaneous - Dream Symbols Dictionary - Apostle David ...",
+      "relevance": "Rüya sembolleri bağlamında kitap için doğrudan yorum verir; kitap okuma, kitabı yeme ve ilahi vahiy çağrışımlarını birlikte ele alır.",
+      "url": "https://joshuamediaministries.org/dream-interpretation/dream-symbols-dictionary/miscellaneous/"
+    },
+    {
+      "title": "Topical Bible: Symbolism and Reality",
+      "relevance": "Kitap ve benzeri sembollerin Kutsal Kitap içinde manevi gerçekleri ifade etme biçimini konu edinir; Hristiyan sembolik okuması için bağlam sağlar.",
+      "url": "https://biblehub.com/topical/s/symbolism_and_reality.htm"
+    },
+    {
+      "title": "Topical Bible: Symbolism and Imagery",
+      "relevance": "Kutsal Kitap’ta sembol ve imgenin ruhsal anlam taşıması temasını işler; kitap sembolünü teolojik düzlemde konumlandırmaya yardımcı olur.",
+      "url": "https://biblehub.com/topical/s/symbolism_and_imagery.htm"
+    },
+    {
+      "title": "The Symbols of the Bible | Plymouth Brethren & Other Ministries",
+      "relevance": "Kutsal Kitap’ın Hristiyan düşüncede ışık, söz ve rehberlik gibi sembolik işlevlerle anılmasını derler; kitap sembolünün kutsal otoriteyle ilişkisini destekler.",
+      "url": "https://plymouthbrethren.org/article/9353"
+    },
+    {
+      "title": "Studying Dream Interpretation from Early Christianity to the ...",
+      "relevance": "Erken Hristiyan çevrelerde rüyaların ilahi, ruhsal ve yanıltıcı kaynaklar açısından sınıflandırılmasını tartışır; rüya içeriğinin bağlamla okunması için tarihsel çerçeve sunar.",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9809.12262"
+    },
+    {
+      "title": "Doctrinalising dreams: patristic views of the nature of dreams and their relation to early Christian doctrines",
+      "relevance": "Patristik rüya düşüncesinde ilahi, ruhsal ve insan kaynaklı rüyaların ayrımını ve sembolik işleyişini ele alır; rüyadaki kitap imgesinin tek anlamlı okunmaması gerektiğini gösterir.",
+      "url": "https://era.ed.ac.uk/items/34dcdb37-1233-47b7-8dd1-a587acf9e48d"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ...",
+      "relevance": "Yahudi rüya geleneğinin yorum merkezli yaklaşımını ve rüyaların bağlama göre değerlendirilmesi gerektiği ilkesini sağlamlaştırır.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y?error=cookies_not_supported&code=25242877-d1d7-429a-84c8-22398b65c6ab"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Berakhot’ta rüyaların yorumla anlam kazandığı, 'okunmamış mektup' ve 'bir altmışı peygamberlik' gibi temel rabbanî ifadeleri derler.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Traum und Traumdeutung im Talmud",
+      "relevance": "Talmud’daki rüya metinlerinin derli toplu biçimde ele alındığını gösterir; Yahudi rüya literatürünün kapsamına bağlam sağlar.",
+      "url": "https://www.magnespress.co.il/en/book/Traum_und_Traumdeutung_im_Talmud-3900"
+    },
+    {
+      "title": "Dreams of Fields",
+      "relevance": "Rabbanî gelenekte rüyaların 'dreambook' niteliği ve farklı yorum olanakları üzerine tarihsel-popüler bir açıklama sunar.",
+      "url": "https://www.tabletmag.com/sections/belief/articles/dreams-of-fields"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Yahudi geleneğinde rüyaların anlamı ve yorumun rolü üzerine özet bilgi verir.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "༄༅། །་ལམ་བན་པ།",
+      "relevance": "Belirli Budist pasajların rüyada kitap bulma imgesini bodhisattva yolu ve karmasal arınma bağlamında ele aldığını gösteren kaynak.",
+      "url": "https://84000.co/translation/toh48.pdf"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' the Interpretation of Dreams 9780198843825, 0198843828 - DOKUMEN.PUB",
+      "relevance": "Kitap-rulo sembolünün rüyada yaşamın akışı ve geçmişin hatırlanmasıyla ilişkilendirildiği klasik oneirokritik anlatım.",
+      "url": "https://dokumen.pub/an-ancient-dream-manual-artemidorus-the-interpretation-of-dreams-9780198843825-0198843828.html"
+    },
+    {
+      "title": "The Hidden Meaning of Dreams (1999) - Esoteric Library",
+      "relevance": "Rüyaları sembolik ve ezoterik bir dil olarak ele alan modern bir çerçeve; kitap sembolünün spiritüel yorumuna uygun genel yaklaşım sunar.",
+      "url": "https://esotericlibrary.org/p/the-hidden-meaning-of-dreams-craig-hamilton-parker-977737"
     }
   ],
-  "relatedSlugs": [
-    "kitap-okumak"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
   ]
 }

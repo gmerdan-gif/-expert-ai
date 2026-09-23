@@ -1,0 +1,215 @@
+{
+  "slug": "gomlek",
+  "title": "Gömlek",
+  "shortDescription": "Rüyada gömlek görmek, dış dünyaya sunduğunuz kimlik, toplumsal rolleriniz ve mahremiyetinizle ilişkilendirilir. Temiz ve rahat bir gömlek uyum ve ferahlığı; dar, kirli ya da yırtık bir gömlek ise size uymayan roller, kırılganlık veya korunmasızlık hissini yansıtabilir.",
+  "positiveAssociations": [
+    "İç ve dış uyum",
+    "Saygınlık ve toplumsal kabul",
+    "Gömleğin örtme ve koruma işleviyle ilişkili sınır bilinci.",
+    "Müjde ve ferahlama"
+  ],
+  "challengingAssociations": [
+    "Utanç ve teşhir edilme korkusu",
+    "Yabancı veya uygunsuz rol üstlenme",
+    "Gömleğin yırtılması veya çıkarılmasıyla ilişkili kırılganlık ve örtü kaybı hissi",
+    "Sahte kimlikler"
+  ],
+  "contextDependentAssociations": [
+    "Gömleğin temiz veya kirli oluşu",
+    "Gömleğin bedene bol ya da dar gelmesi",
+    "Eşler arasındaki ilişkiyi temsil etmesi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Temiz ve Düzgün Gömlek Giymek",
+      "description": "Rüya sahibinin toplumsal yaşamında hazır bulunma, içsel denge ve dış dünyayla uyumlu bir kimlik sergilediğine işaret eder."
+    },
+    {
+      "title": "Yırtık veya Kirli Gömlek Giymek",
+      "description": "Kişinin günlük hayatta yaşadığı korunmasızlık hissini, mahremiyet ihlalini veya örtbas etmeye çalıştığı kırılganlıkları yansıtır."
+    },
+    {
+      "title": "Üzerine Dar Gelen Gömlek Giymek",
+      "description": "Mevcut sosyal rollerin veya sorumlulukların kişiyi sıktığını, kimliğine dar geldiğini ve bir daralma hissi yarattığını gösterir."
+    },
+    {
+      "title": "Başkasına Ait Bir Gömlek Giymek",
+      "description": "Kişinin kendi kimliğinden uzaklaşarak başkasının rolünü üstlendiği ya da yabancı bir duruma uyum sağlamaya çalıştığı anlamına gelebilir."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmalarında gömlek gibi belirli bir giysiye tek ve evrensel bir anlam yükleyen doğrudan veri bulunmamaktadır. Psikanalitik düzlemde ise giysiler ve örtünme, Freud'un çalışmalarında çoğunlukla çıplaklık kaygısı, utanç, bastırma ve bedeni gizleme çabasıyla ilişkilendirilir.",
+  "jungian": "Analitik psikoloji perspektifinde kıyafetler, bireyin dış dünyaya gösterdiği sosyal yüzü yani personayı temsil eder. Gömlek gibi bedene doğrudan temas eden bir giysi, kişinin dünyayla temas eden ilk katmanını, toplumsal kimliğini ve üstlendiği rolleri simgeleyen somut bir nesne olarak ele alınır.",
+  "islamicTradition": "İslami rüya tabiri geleneğinde gömlek çoğunlukla din, geçim, örtünme ve ilimle ilişkilendirilir. Gömleğin temizliği ve genişliği iyilik ve feraha işaret ederken, darlığı veya yırtıklığı sıkıntılara delalet edebilir. Yusuf sûresindeki gömlek kıssası geleneksel tabirde müjde ve ferahlama çağrışımı taşır; erkeğin gömleği eşiyle, kadının gömleği kocasıyla da ilişkilendirilebilir.",
+  "christianTraditions": "Hristiyan sembolik okumalarında ve tunik gibi benzer iç giysiler üzerinden yapılan değerlendirmelerde gömlek, ruhsal kimlik, alçakgönüllülük, saflık ve yeni bir benlik edinme temalarıyla ilişkilendirilebilir. Kıyafetin temizliği veya kirli olması yorumun yönünü değiştirebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde ve kıyafet sembolizminde giysi, kişinin toplumsal konumunu, dinsel aidiyetini, onurunu ve etik duruşunu yansıtır. Talmudik yaklaşım, sembollerin sabit olmadığını ve rüya bağlamına göre şekillendiğini vurgular; dolayısıyla gömlek için tek bir evrensel anlam önerilmez.",
+  "buddhistEasternApproaches": "...giysiler üzerindeki kutsal yazı veya nesneler ise saygı ve kutsallık taşıyıcıları olarak değerlendirilir.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda gömlek, deriye en yakın koruyucu katman olarak kişinin kişisel sınırlarını, dış dünyaya sunduğu imajı ve dönüşüm sürecinde değiştirdiği manevi kabuğunu simgeler. Gömleğin durumu ruhsal veya kişisel değişim süreçlerinin işaretçisi olarak okunabilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Çıplaklık korkusu, utanç, bastırma ve mahremiyeti gizleme çabasının dolaylı bir yansıması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Dış dünyaya takılan sosyal yüz (persona) ve kimliğin somut bir dışavurumu.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Tabir Geleneği",
+      "interpretation": "Din, geçim, örtünme, evlilik ilişkileri ve Yusuf kıssası ekseninde müjde veya ferahlama.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Kişisel sınırlar, ruhsal örtünme, dış kabuk ve benliğin sunum katmanı.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve ekoller arasında gömlek, fiziksel bedeni sarmalayan yapısı nedeniyle kimlik, korunma, mahremiyet ve toplumsal görünürlük kavramlarıyla ortak bir düzlemde buluşur.",
+  "differences": "Psikanalitik yaklaşımlar gömleği utanç ve bastırma gerilimiyle ele alırken, İslami ve kültürel gelenekler onu din, geçim, statü, evlilik ve müjde gibi daha geniş yaşam pratikleriyle ilişkilendirir; spiritüel okumalar ise onu ruhsal sınır ve kabuk değişimi olarak görür.",
+  "inusAssessment": "Gömlek sembolünü değerlendirirken rüya sahibinin giysinin durumuyla kurduğu ilişki belirleyicidir. Gömleğin dar, bol, temiz ya da yırtık olması; kişinin toplumsal rollerinde yaşadığı uyumu, saklama gereksinimi duyduğu kırılganlıkları veya kimlik sınırlarını doğrudan etkiler. Bu nedenle sembol, tek bir sabit anlam yerine kişinin dış dünyaya sunduğu benlik ile içsel mahremiyeti arasındaki dengeyi okumaya olanak tanır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Shirt Dream Meaning: Identity, Presentation, and the Layers ...",
+      "relevance": "Modern çevrim içi bir rüya-yorum kaynağı olarak gömlek imgesini kimlik, kendini sunma ve korunma/sınır temaları bağlamında ele alır; ampirik kanıt yerine yorumlayıcı çerçeve sunar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/shirt"
+    },
+    {
+      "title": "Shirt Dream Meaning & Interpretation - Mirror",
+      "relevance": "Modern çevrim içi rüya sözlüğü; gömlek imgesini kimlik, kendini sunma ve sosyal etkileşim ekseninde ele alan açıklayıcı bir yorum metni sağlar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/shirt/"
+    },
+    {
+      "title": "The Interpretation of Dreams (Freud)/Chapter 5",
+      "relevance": "Freud'un çıplaklık, utanç ve bedenin örtülmesi temalarını tartıştığı bölüm; giysi imgelerinin rüyalarda örtünme ve bastırma ile ilişkilendirilebileceğini gösterir.",
+      "url": "https://en.wikisource.org/wiki/The_Interpretation_of_Dreams_(Freud)/Chapter_5"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya çözümlemelerinde \"nightshirt\" (gecelik) örnekleri gibi giysinin dolaylı temsil işlevini gösteren pasajlar içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Shirt in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Jungcu ve psikanalitik çerçeveleri harmanlayarak gömlek ve genel kıyafet sembolizmini persona ve mitolojik temalar bağlamında tartışan popüler bir kaynak.",
+      "url": "https://rosmertapublishing.com/dream-symbols/shirt/"
+    },
+    {
+      "title": "Clothes – Rosmerta Publishing",
+      "relevance": "Kıyafetlerin Jungcu yorumda persona ve dış görünümle bağlantısını özetleyen açıklayıcı metin; gömlek sembolünü daha geniş giysi sembolizmi içinde konumlandırır.",
+      "url": "https://rosmertapublishing.com/dream-symbols/clothes/"
+    },
+    {
+      "title": "Jungian Psychology Series: The Persona - Jungstop",
+      "relevance": "Jungcu perspektifte persona ile kıyafet ilişkisini ele alan bilgilendirici bir sunum; rüyalarda giysilerin 'gösterilen benlik' olarak okunabileceğini vurgular.",
+      "url": "https://jungstop.com/jungian-psychology-series-the-persona/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Oneirocritica geleneğinde kıyafetlerin rüya yorumunda nasıl sınıflandırıldığını ve giysilerin statü ile işlev bağlamında değerlendirildiğini gösteren çeviri metin.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Oneirocritica by Artemidorus: Ancient Greek Dream Guide",
+      "relevance": "Artemidoros’un giysi ve gündelik nesnelerle ilgili değerlendirmeleri üzerinden tarihsel giysi sembolizmi hakkında bağlam sağlar.",
+      "url": "https://mirrorwithin.org/encyclopedia/artemidorus-oneirocritica/"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidoros’un antik dönemdeki rüya yorumlama geleneğine dair genel giriş ve bağlam sağlayan kaynak.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri G Harfi - Muhammed.net",
+      "relevance": "Modern derleme niteliğinde bir giriş olarak İslami tabirde gömleğin din, geçim, korku, ilim ve müjde temalarıyla ilişkilendirildiğini aktarır.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-g-harfi.html"
+    },
+    {
+      "title": "Buhârî 2280 — Rüyada Gömlek Görülmesi | Kitabu't-Ta'bir",
+      "relevance": "Klasik İslami ta'bir metinleri bağlamında gömleğin örtü ve manevi/dünyevi ilişkiler ekseninde ele alındığını gösteren kaynak.",
+      "url": "https://www.islamiokul.com/kitap/files/buh/had/171/2280.htm"
+    },
+    {
+      "title": "10 Biblical Meaning of a Shirt in a Dream | biblicaldreamz",
+      "relevance": "Modern İncil-merkezli yorumlarda gömleğin ruhsal kimlik, doğruluk ve dönüşüm imgeleriyle nasıl ilişkilendirildiğine dair örnek analizler sunar.",
+      "url": "https://biblicaldreamz.com/biblical-meaning-of-a-shirt-in-a-dream/"
+    },
+    {
+      "title": "Shirt - Topical Bible",
+      "relevance": "İncil metinlerindeki giysi/tunik imgelerinin alçakgönüllülük, hizmet ve ruhsal örtünme temalarıyla bağlantılarını derleyen referans niteliğinde bir derleme.",
+      "url": "https://biblehub.com/topical/s/shirt.htm"
+    },
+    {
+      "title": "Topical Bible: Shirts",
+      "relevance": "Kıyafet dilini doğruluk, kurtuluş ve yeni benlik imgeleriyle ilişkilendiren İncil başlık derlemesi.",
+      "url": "https://biblehub.com/topical/s/shirts.htm"
+    },
+    {
+      "title": "Biblical Meaning of Clothes in A Dream - Christian Faith Guide",
+      "relevance": "Rüyalardaki kıyafetleri ruhsal durum, kimlik ve davranışla ilişkilendiren modern Hristiyan yorum metni.",
+      "url": "https://christianfaithguide.com/biblical-meaning-of-clothes-in-a-dream/"
+    },
+    {
+      "title": "Topical Bible: Tunics",
+      "relevance": "Tuniğin tarihsel olarak basit bir iç giysi olduğunu ve İncil bağlamında alçakgönüllülük ile sadelik çağrışımları taşıdığını gösteren kaynak.",
+      "url": "https://biblehub.com/topical/t/tunics.htm"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Talmudik rüya pasajları ve giysiyle ilgili örnekler üzerinden Yahudi rüya yorumunda sembol ve bağlam ilişkisinin nasıl kurulduğunu gösterir.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Jewish Clothing",
+      "relevance": "Yahudi gelenekte kıyafetin dinsel kimlik, sosyal statü ve duygusal durumla ilişkisini özetleyen kültürel arka plan bilgisi sağlar.",
+      "url": "https://www.myjewishlearning.com/article/jewish-clothing/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Berakhot’taki rüya bölümünün genel çerçevesini ve rüya yorumunun işlevine dair rabbanî yaklaşımı açıklar.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "All You Need to Know About Jewish Clothing - Chabad.org",
+      "relevance": "Tzitzit ve kıyafet üzerinden Yahudi giysi sembolizmini ve giysinin mitsvot ile ilişkisini verir.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/7339258/jewish/All-You-Need-to-Know-About-Jewish-Clothing.htm"
+    },
+    {
+      "title": "Clothing Dream Meaning & Interpretation - Mirror",
+      "relevance": "Genel rüya-sözlüğü formatında giysi imgelerini; Budist keşiş giysileriyle ilgili olarak renunciation (feragat) temasını da kapsayan bir giriş sunar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/clothing/"
+    },
+    {
+      "title": "Mantras and Holy Objects on Clothing",
+      "relevance": "Budist uygulamalarda giysi üzerinde kutsal ad ve imgelerin taşınmasının saygı ve kutsallık bağlamındaki işlevini açıklar.",
+      "url": "https://www.lamayeshe.com/advice/mantras-and-holy-objects-clothing"
+    },
+    {
+      "title": "Garment: Significance and symbolism",
+      "relevance": "Budizmde giysinin alçakgönüllülük, asketik kıyafet ve manevi işlevlerle olan ilişkisine dair kavramsal bir özet sağlar.",
+      "url": "https://www.wisdomlib.org/concept/garment"
+    },
+    {
+      "title": "Shirt. The interpretation of the dream, the Smorfia numbers",
+      "relevance": "Ezoterik/folk rüya-gelenekleri bağlamında gömleğe yönelik kısa yorumlar ve halk kültürü perspektifini yansıtan bir kaynak.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=shirt"
+    },
+    {
+      "title": "👕What Dream About Shirt Means",
+      "relevance": "Modern spiritüel yorum çerçevesinde gömleği kişisel ifade, sınırlar ve ruhsal örtünme temalarıyla ilişkilendiren popüler bir çevrim içi açıklama.",
+      "url": "https://checkmydream.com/dream-meaning/shirt"
+    },
+    {
+      "title": "The Story Of Occult Clothing: Wear the Magic",
+      "relevance": "Ezoterik literatürde giysinin dönüşen dış kabuk ve ritüel örtü fikrini ele alan bir popüler kaynak.",
+      "url": "https://www.rebelsmarket.com/blogs/posts/the-story-of-occult-clothing-wear-the-magic"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "buddhist-eastern"
+  ]
+}

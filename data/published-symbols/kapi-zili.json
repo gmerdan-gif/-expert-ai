@@ -1,69 +1,177 @@
 {
   "slug": "kapi-zili",
-  "title": "kapı zili",
-  "shortDescription": "Rüyada kapı zili, bir ziyaretçi, haber beklentisi veya kişisel alanınıza yönelen çağrıyı düşündürebilir. Kapıyı açıp açmadığınız ve gelen kişinin kimliği önemlidir.",
+  "title": "Kapı zili",
+  "shortDescription": "Rüyada kapı zili çalması, beklenen bir haberin, ziyaretin ya da kapınıza gelen bir fırsatın işareti olabilir. Israrcı veya tedirgin edici bir zil sesi ise rahatsız eden talepleri, sınırlarınızın zorlanmasını ya da ertelediğiniz sorumlulukları hatırlatabilir.",
   "positiveAssociations": [
-    "Beklenen birinin geldiğini düşünmek",
-    "Bir çağrıya yanıt verebilmek",
-    "Bir buluşmanın başlaması"
+    "Kapı ziliyle bildirilen, uzun süredir beklenen bir ziyaretin ya da haberin somutlaşması",
+    "Zilin çalmasıyla uykuda oluşan ani uyanıklık ve o anki farkındalık artışı",
+    "Ev eşiği aracılığıyla yeni bir ilişkinin, işin veya fırsatın rüya sahibinin kapısında belirmesi.",
+    "Zili tanıdık bir kişinin çalması halinde o kişiyle ilgili çözülmeyi bekleyen bir konunun gündeme gelmesi"
   ],
   "challengingAssociations": [
-    "Ani sesle irkilmek",
-    "Israrlı çalınmadan rahatsız olmak",
-    "Kapıda kimin olduğunu bilememek"
+    "Gece yarısı çalınan zil nedeniyle uykunun bölünmesi, anlık tedirginlik veya panik hissi",
+    "Kapıyı açtığınızda kimsenin olmaması—belirsizlik, yanıltılmışlık veya hayal kırıklığı hissi",
+    "Zili tanımadığınız biri çaldığında sınır ihlali, güvensizlik ya da istenmeyen talep duygusu",
+    "Tekrarlayan veya ısrarcı zil sesi—rahatsız eden talepler, sınır aşımı veya kaçınılan sorumlulukların hatırlatılması"
   ],
   "contextDependentAssociations": [
-    "Zilin tanıdık veya yabancı sesi",
-    "Çalanın siz veya başka biri olması",
-    "Kapının açılıp açılmaması"
+    "Zili kimin çaldığı ve rüya sahibinin kapıyı açarken yaşadığı duygular (merak, korku, memnuniyet vb.)",
+    "Zilin gece yarısı mı yoksa gündüz mü çaldığı; zamanlama duygusal tonu etkiler",
+    "Kapıyı açıp açmama, kapının kilitli olup olmaması ve kapıda karşılaşılan kişi/boşluk gibi somut ayrıntılar",
+    "Rüya sırasında duyulan zil sesinin gerçek bir dış uyaranla (gerçek bir zil, telefon sesi vb.) ilişkili olup olmadığı"
   ],
   "commonVariations": [
     {
-      "title": "Kendi kapınızın zilini duymak",
-      "description": "Birini bekleyip beklemediğinizi ve sesin sizde ne uyandırdığını düşünün. Aynı ses bir sahnede sevinç, başka birinde tedirginlik yaratabilir."
+      "title": "Gece Yarısı Boş Kapı",
+      "description": "Gece yarısı zil çalar ve kapıyı açtığınızda kimse yoktur; bu, dikkat çeken ama kaynağı belirsiz bir beklenti veya içsel bir uyarının simgesi olabilir."
     },
     {
-      "title": "Zilin sürekli çalması",
-      "description": "Rahatsızlık sesin yüksekliğinden mi, yanıt verme baskısından mı geliyordu? Kapıya gitmek, beklemek veya sesi durdurmaya çalışmak farklı tepkilerdir."
+      "title": "Tanıdık Ziyaretçi",
+      "description": "Zili çalanın tanıdık biri olması, o kişiyle ilgili henüz konuşulmamış bir mesele veya yakınlaşma isteğinin gündeme gelmesine işaret edebilir."
     },
     {
-      "title": "Bir kapının zilini çalmak",
-      "description": "Sizi kimin karşılamasını beklediğiniz ve içeriden yanıt gelip gelmediği önemlidir. Çağrı yapmak ile karşılanmak sahnenin iki ayrı aşamasıdır."
+      "title": "Israrcı Zil",
+      "description": "Çok defa çalan veya ısrarla basılan zil, sürdürülen talepler, ertelenmiş sorumluluklar ya da sınırların zorlanması hissini temsil edebilir."
     },
     {
-      "title": "Zil çaldıktan sonra kapıda kimseyi bulamamak",
-      "description": "Şaşkınlık, merak veya korku hissedebilirsiniz. Bu sahne görünmeyen bir varlığın veya gelecekteki ziyaretin kanıtı değildir; rüyada neyi bildiğinizle neyi tahmin ettiğinizi ayırın."
+      "title": "Zil ve Kapı Arası Tereddüt",
+      "description": "Zili duyup kapıyı açmakta tereddüt etmek, içe dönük endişe ile dış dünyadan gelen talep arasında kalan bir kararsızlığı gösterebilir."
     }
   ],
-  "psychology": "Fosse ve Larøi, 13 sağlıklı katılımcının kendiliğinden uyandıktan sonra bildirdiği 130 rüyada ses deneyimlerini inceledi. Katılımcılardan seslere özellikle dikkat etmeleri istendi; konuşmaların yanı sıra müzik ve nesne sesleri de raporlandı. Bu küçük çalışma rüyaların işitsel içerik taşıyabildiğini gösterir; tek bir kapı zili rüyasını açıklamaz ve böyle bir rüyadan psikiyatrik tanı çıkarılmaz.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
+  "psychology": "Doğrudan kapı zili üzerine ampirik çalışmalar sınırlıdır; ancak psikanalitik literatür ve rüya araştırmaları, uykudaki dış seslerin rüya materyaline dönüştürülebileceğini ve rüya afektinin uyanma sonrası ruh halini etkileyebileceğini gösterir. Bu bağlamda kapı zili rüyaları, hem gerçek bir dış uyaranın işlenmesinin ürünü hem de psikolojik dikkat/uyanıklık temasını taşıyan sembolik bir sahne olabilir.",
+  "jungian": "Jungcu perspektifte kapı ve eşik imgeleri, bilinç ile bilinçdışı arasındaki sınırı temsil eder. Kapı zili, bu sınırda beliren bir çağrı, bilinç tarafından yanıt bekleyen bir içeriğin habercisi veya benlik içeriğinin bilince yaklaşma anı olarak anlaşılabilir; ancak araştırma sınırları nedeniyle Jung'a doğrudan atfedilmiş tekil bir \"kapı zili\" formülü sunulamaz.",
+  "islamicTradition": "Klasik İslami rüya kaynaklarında doğrudan \"kapı zili\" maddesi doğrulanmamıştır. Bununla birlikte, zil veya çağrı temaları İslami yorumda haber, çağrı veya müjde ile ilişkilendirilebildiğinden, kapı zili rüyası için ihtiyatlı bir yaklaşım—zil, çağrı ve misafir temaları üzerinden—benzer anlamlar taşıyabilir.",
+  "christianTraditions": "Modern Hristiyan oneiroloji kaynaklarında doğrudan kapı zili girişleri sınırlıdır; yine de İncil'deki 'kapıda durup çalma' (Vahiy 3:20) imgesi, kapı çalmasının ilahi bir davet, içeri alınma veya ruhsal çağrı bağlamında yorumlanmasına zemin sağlar. Bu tür okumalar bağlama ve inanç çerçevesine bağlı olarak değişir.",
+  "jewishTraditions": "Yahudi geleneğinde rüyaların yorumlanması bağlama bağlıdır ve modern nesnelere (ör. kapı zili) ilişkin doğrudan klasik tabirler genellikle bulunmaz. Kapı/çağrı/çan temaları tarihsel kaynaklarda çağrı ve haber işlevleriyle ilişkilendirilebileceğinden, kapı zili rüyası da bağlama göre yorumlanır; rahatsız edici rüyalar için yatıştırma ve olumluya çevirme pratikleri mevcuttur.",
   "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Sesin niteliği ve ona verilen tepki ayrı kaydedilebilir.",
-  "differences": "İşitsel rüya içeriğini araştırmak, belirli bir sesin nereden geldiğini veya neyi haber verdiğini belirlemek değildir.",
-  "inusAssessment": "Kapı zili rüyasında ses, beklenen ziyaret ve yanıt verme kararı birlikte yer alabilir. INUS, kapı nesnesi ile zilin çalınmasını aynı başlık saymaz. Rüyada duyulan sesin dışarıdan mı geldiği, yoksa rüyanın içinde mi oluştuğu yalnız anlatıdan kesinleşmeyebilir. Zili yaklaşan haber veya tehlike şeklinde otomatik yorumlamak yerine sesin ardından yaşananlara bakabilirsiniz.",
-  "faq": [
+  "spiritualApproaches": "Ezoterik ve spiritüel kaynaklarda çanlar ve zil sesleri genellikle uyanış, çağrı ve görünür/görünmez arası aracılık temalarıyla ilişkilendirilir. Kapı zili rüyası bu çerçevede, içeriye çağrı, yaklaşan bir mesaj veya ruhsal farkındalık eşiğinin işareti olarak temkinli biçimde yorumlanabilir; yine de bu tür okumalar geleneksel kaynaklara dayalı kesin hükümler sunmaz.",
+  "comparisonTable": [
     {
-      "question": "Rüyadaki zil gerçek kapı zilinin çaldığını mı gösterir?",
-      "answer": "Tek başına göstermez. Rüyalarda işitsel deneyimler bulunabilir; belirli bir sesin gerçek çevreden geldiğini söylemek için rüya dışında bilgi gerekir."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Uyku sırasında gelen dış seslerin rüya materyaline dönüşmesi veya bilinçdışının çağrı simgesi olarak kapı zili imgesi.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Kapı zili duymak mutlaka ziyaretçi geleceği anlamına mı gelir?",
-      "answer": "Hayır. Rüyadaki ses gelecekteki ziyareti bildirmez. Bekleme, karşılanma veya yanıt verme duygusu üzerinden kişisel olarak düşünülebilir."
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Eşik/kapı metaforu üzerinden bilinç ile bilinçdışı arasındaki çağrı ve entegrasyon olasılığı.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel / Kültürel Yaklaşımlar",
+      "interpretation": "Zil ve kapı temaslarıyla bağlantılı haber, ziyaret veya sosyal davet anlamları (geleneksel yorumlar ve modern tabir bağlantıları).",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Sembolizm",
+      "interpretation": "Çan/zil metaforuyla uyanış, ilahi çağrı veya mesaj iletimi yönelimleri.",
+      "evidenceLevel": "spiritual"
     }
   ],
+  "commonGround": "Farklı yaklaşımlar kapı zilini, tekil ve sabit bir kehanet olmaktan ziyade dikkat çeken bir eşik anı, çağrı veya haber bildiren somut bir ses olarak görür; yorum rüyanın bağlamına ve duygusal tonuna bağlıdır.",
+  "differences": "Psikanaliz daha çok dış uyaranların rüyaya sızması ve bilinçdışı işleyişe odaklanırken, Jungcu açıklamalar eşik/bütünleşme ve arketipsel çağrı vurgusu yapar; geleneksel ve spiritüel okumalar ise daha çok haber/ziyaret ve ilahi çağrı temalarını öne çıkarır.",
+  "inusAssessment": "Kapı zili rüyasını değerlendirirken en belirleyici unsurlar: zil sesinin somut niteliği (tek/tekrar eden, gece/gündüz), zili kimin çaldığı, kapıyı açıp açmama kararı ve rüyanın genel duygulanım tonudur. Bu öğeler birlikte değerlendirildiğinde kapı zilinin 'neden' çağırdığı, haber mi yoksa sınır ihlali mi ima ettiği daha açık hale gelir; tek başına zil sesi sabit bir anlam vermez.",
+  "faq": [],
   "sources": [
     {
-      "title": "Quantifying auditory impressions in dreams in order to assess the relevance of dreaming as a model for psychosis",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230212",
-      "relevance": "13 sağlıklı katılımcının 130 rüya raporundaki işitsel deneyimleri inceler. Kapı zilinin sabit anlamını veya her rüya sesinin dış kaynağını belirlemez.",
-      "author": "Roar Fosse ve Frank Larøi",
-      "year": 2020
+      "title": "[PDF] THE INTERPRETATION OF DREAMS - Lutecium Network",
+      "relevance": "Freud’un rüyaların dış uyaranları nasıl rüya içeriğine dönüştürdüğünü gösteren bölümler; kapı zili örneğine değinilir.",
+      "url": "https://www.lutecium.org/ftp/Freud/pdf/1900_the_interpretations_of_dreams.pdf"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüya içeriğinin bilinçdışı düş düşüncelerinin dönüştürülmüş biçimi olduğu kuramsal çerçeveyi sunar; dış seslerin rüyaya etkisi tartışılır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Doorbell Dream Meaning & Interpretation - Mirror",
+      "relevance": "Kapı zilini bilinçdışından gelen çağrı, benliğe entegrasyon ve bireyleşme bağlamında yorumlayan modern kaynak.",
+      "url": "https://mirrorwithin.org/dream-dictionary/doorbell/"
+    },
+    {
+      "title": "Doorbell Ringing Dream Meaning & Interpretation - Mirror",
+      "relevance": "Kapı zili çalmasının içsel çağrı, gölge veya benlik (Self) ile ilişkilendirilmesine dair modern rüya yorumu örneği.",
+      "url": "https://mirrorwithin.org/dream-dictionary/doorbell-ringing/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritik çerçeveye erişim sağlayan çeviri kaynağı; kapı/eşik temaları bağlamında tarihsel perspektif sunar (kapı zili doğrudan yer almamaktadır).",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Bells, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Çan ve zil sembolizmine ilişkin modern derlemeler; kapı ziliyle ilgili popüler yorumların haber/uyarı temalarıyla ilişkilendirildiğini gösterir.",
+      "url": "http://www.dreamtation.com/docs/2223.htm"
+    },
+    {
+      "title": "Ringing Door Bell Islamic Interpretations & Meanings",
+      "relevance": "İslami çerçevede zil/çağrı temalarının haber, müjde veya çağrı işlevleriyle ilişkilendirildiğini aktaran çevrimiçi kaynak.",
+      "url": "https://www.myislamicdream.com/ringing_door_bell.html"
+    },
+    {
+      "title": "Rüyada Zil Sesi Duymak Ne Anlama Gelir?",
+      "relevance": "Türkçe derlemelerde zil sesinin haber, söz ve sosyal durum temalarıyla ilişkilendirildiğine dair örnek bir belge.",
+      "url": "https://www.diyadinnet.com/ruyada-10397-zil-gormek"
+    },
+    {
+      "title": "İbni Sîrîn'den Tercüme Edilen Bir Rüya Tabîr-Nâmesi",
+      "relevance": "Klasik rüya tabirleri çerçevesine erişim sağlayan çeviri derlemesi; kapı zili için doğrudan bir madde içermez.",
+      "url": "https://www.sadab.org/FileUpload/bs701867/File/37.ibni_s%C3%8Er%C3%8En.pdf"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Yahudi kaynaklarda rüya yorumunun genel çerçevesini sunan derleme; modern nesnelerin doğrudan klasik tabirlerinin sınırlı olabileceğini gösterir.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Rabbanik geleneğin rüyaları nasıl değerlendirdiğine dair tarihsel derleme; kapı/çağrı temaları açısından bağlamsal perspektif sağlar.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Significance of Dreams",
+      "relevance": "Yahudi gelenekte rüyanın anlamlandırılması ve rahatsız edici rüyaların olumluya çevrilmesine dair özet bilgi.",
+      "url": "https://aish.com/significance-of-dreams/"
+    },
+    {
+      "title": "BELLS - JewishEncyclopedia.com",
+      "relevance": "Çanların tarihsel işlevi ve toplama/çağrı implikasyonları; kapı ziliyle dolaylı kültürel bağlantı kurmaya yardımcı olur.",
+      "url": "https://www.jewishencyclopedia.com/articles/2828-bells.html"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Yahudi rüya yorumuna dair modern özet; rüyaların yorumlanabilirliği ve düzeltici uygulamalar hakkında bilgi verir.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Hasidik/Chabad perspektifiyle rüyaların yorumlanması ve olumsuz rüyaların dönüştürülmesine dair pratik yaklaşımlar sunar.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "Doorbell Dreams: Thresholds, Invitations, and Warnings",
+      "relevance": "Çanların ezoterik sembolizmi; uyanış ve ilahi-insan aracılığı temaları üzerinden kapı zili için temkinli bir yaklaşım sağlar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/doorbell"
+    },
+    {
+      "title": "Doorbell Dream Interpretation - Doorbell Dream Meaning",
+      "relevance": "Kapı zili rüyasını yeni deneyimler, beklenmedik gelişmeler ve fırsatın bildirimi bağlamında ele alan modern yorum.",
+      "url": "https://www.dreamsmain.com/doorbell"
+    },
+    {
+      "title": "Bell: Esoteric Meaning & Symbolism | Theosophy Trust",
+      "relevance": "Çanların ezoterik sembolizmi; uyanış ve ilahi-insan aracılığı temaları üzerinden kapı zili için kontrollü bir yakınlama sağlar.",
+      "url": "https://theosophytrust.org/687-the-bell"
+    },
+    {
+      "title": "What Do Bells Represent In Esoteric Symbolism?",
+      "relevance": "Modern ezoterik kaynaklarda çanların uyanış bilinci ve sembolik aracılık işlevine dair tartışma.",
+      "url": "https://mastermindcontent.co.uk/what-do-bells-represent-in-esoteric-symbolism/"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "islamic",
+    "christian"
+  ]
 }

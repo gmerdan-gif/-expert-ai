@@ -1,68 +1,224 @@
 {
   "slug": "dolunay",
-  "title": "dolunay",
-  "shortDescription": "Rüyada dolunay, geceyi aydınlatan belirgin bir görüntü olarak hayranlık veya tedirginlik uyandırabilir. Ayın görünümü, çevresi ve kişisel çağrışımları önemlidir.",
+  "title": "Dolunay",
+  "shortDescription": "Rüyada dolunay görmek, genellikle bir döngünün tamamlanmasına ve bazı duygu ya da meselelerin daha belirgin hale gelmesine işaret eder. Parlak bir dolunay netlik, rehberlik ve olgunlaşmayı; yarattığı yoğunluk ise korku veya gerilimlerin açığa çıkmasını çağrıştırabilir.",
   "positiveAssociations": [
-    "Gece manzarasına hayranlık",
-    "Aydınlıkta çevresini görebilmek",
-    "Bir manzarayı biriyle paylaşmak"
+    "Aydınlanma ve netlik",
+    "Bir döngünün tamamlanması",
+    "Rehberlik ve içsel bilgelik",
+    "Onur ve yüksek konum",
+    "Duygusal olgunlaşma"
   ],
   "challengingAssociations": [
-    "Parlak görüntüden rahatsız olmak",
-    "Gökyüzündeki değişimden ürkmek",
-    "Tanıdık manzaranın yabancılaşması"
+    "Uyku bölünmeleri ve rüya yoğunluğunda artış",
+    "Bilinçdışı korkuların aşırı görünür hale gelmesi",
+    "Karşıtların gerilimi ve zihinsel dalgalanmalar",
+    "Gizli kalması gerekenlerin açığa çıkması"
   ],
   "contextDependentAssociations": [
-    "Ayın doğal veya olağandışı görünmesi",
-    "Yalnız veya biriyle izlemek",
-    "Çevrenin aydınlığı ve hava durumu"
+    "Gözlemlenen ayın parlaklığı ve konumu",
+    "Rüya sahibinin o anki yaşam döngüsü ve psikolojik durumu",
+    "Rüyaya eşlik eden diğer nesne ve figürler"
   ],
   "commonVariations": [
     {
-      "title": "Açık gökyüzünde dolunay izlemek",
-      "description": "Ayı izlerken sakinlik, merak veya başka bir duygu hissediyor muydunuz? Manzarayı gördüğünüz yerin tanıdık olup olmaması da kişisel çağrışımlarınıza eşlik edebilir."
+      "title": "Bulutların Arasından Beliren Dolunay",
+      "description": "Gökyüzünde bulutlar arasından süzülen parlak bir dolunay görmek, bilinçdışı içeriklerin ve saklı kalan duyguların yavaş yavaş farkındalığa girmesini temsil eder."
     },
     {
-      "title": "Dolunayın bulutların arkasına girmesi",
-      "description": "Görüntünün kaybolmasını bekliyor muydunuz? Yeniden görünmesini beklemek ile başka bir yere gitmek farklı tepkilerdir; bulutu yaklaşan kötü olay diye yorumlamak gerekmez."
+      "title": "Kızıl veya Soluk Bir Dolunay",
+      "description": "Rüyada olağandışı renkte veya soluk bir dolunayla karşılaşmak, zihinsel döngülerde veya bedensel ritimlerde yaşanan gerilimlerin ve hassasiyetlerin yansımasıdır."
     },
     {
-      "title": "Dolunayı çok büyük veya yakın görmek",
-      "description": "Rüyanın değişmiş ölçeği sizde hayranlık da korku da uyandırabilir. Büyüklüğe tek bir anlam vermek yerine bu görüntü karşısında ne yaptığınızı hatırlamaya çalışın."
+      "title": "Su Yüzeyinde Yansıyan Dolunay",
+      "description": "Sakin bir su birikintisinde veya denizde dolunayın yansımasını izlemek, duygusal dünyanın derinlikleriyle temas kurmayı ve içsel huzur arayışını simgeler."
     },
     {
-      "title": "Dolunayı başka biriyle seyretmek",
-      "description": "Aynı manzaraya bakıyor olmanızın yanında aranızda konuşma olup olmadığı önemlidir. Rüyadaki yakınlık, o kişinin gerçek duyguları hakkında kesin bilgi sağlamaz."
+      "title": "Penceremden Çok Yakın Görünen Dolunay",
+      "description": "Dolunayın olağan dışı bir yakınlıkta ve devasa boyutta pencerenin önünde belirmesi, hayatınızda göz ardı edilemeyecek kadar büyük bir farkındalık veya dönüm noktasına işaret eder."
     }
   ],
-  "psychology": "",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Görülen ışık ve büyüklük ile bunların uyandırdığı duygu ayrı ayrıntılardır.",
-  "differences": "Astronomik bir evrenin açıklaması ile kişisel bir çağrışım aynı tür bilgi değildir.",
-  "inusAssessment": "Dolunay, Ay’ın belirli bir görünümüdür. NASA’nın açıklamasında bu görünüm, Güneş’in aydınlattığı yüzün Dünya’dan görülmesiyle ilgilidir; psikolojik tamamlanma veya gelecekteki olaylar hakkında bilgi vermez. INUS değerlendirmesi rüyadaki ışığı, manzarayı ve sizde bıraktığı duyguyu ele alır. “Tam görünmek” size tamamlanmayı çağrıştırabilir, ancak bu zorunlu bir yorum değildir. Rüyada dolunay görmeniz, o gece gerçekte dolunay olduğunu da doğrulamaz.",
-  "faq": [
+  "psychology": "Ampirik literatür, dolunayın rüyalarda sabit ve evrensel bir anlama sahip olduğunu doğrulamamaktadır. Bilimsel çalışmalar, dolunay evrelerinin uyku kalitesi veya rüya hatıraları üzerindeki etkilerinin kişiden kişiye değişebildiğini ve bu konuda kesin bir standardın olmadığını göstermektedir. Psikanalitik düzlemde ise Freud, rüyalarda geçen ay imgesini doğrudan sabit bir simge olarak ele almaz; ancak rüyalardaki ay çağrışımlarını bedensel kökenler, doğum, geçişler ve örtük içeriğin sahnelenmesi bağlamında değerlendirir.",
+  "jungian": "Jungcu analitik psikolojide ay ve dolunay imgesi, kolektif bilinçdışı, dişil arketip ve döngüsel psişik süreçlerle yakından bağlantılıdır. Dolunay, psişik enerjinin doruğa ulaştığı, bilinçdışı içeriklerin ve bastırılmış duyguların tamamen aydınlanarak görünür hale geldiği anları simgeler. Karşıtların oyunu ve ışık ile karanlık arasındaki denge, bu yaklaşımda dolunayın sunduğu temel temalar arasındadır.",
+  "islamicTradition": "İslami rüya yorum geleneğinde dolunay, adil yönetici, ilim sahibi nüfuzlu bir kişi, saygınlık, onur ve bir işin hayırlı bir şekilde tamamlanması gibi temalarla ilişkilendirilir. Berrak ve parlak bir dolunay genellikle rehberlik, tövbe, sükûnet ve toplum içinde yüksek mevki elde etme şeklinde yorumlanırken, rüyanın genel şartlarına ve kişisel duruma göre anlam çeşitlilik gösterebilir.",
+  "christianTraditions": "Hristiyan sembolik düşüncesinde ay, kendi ışığı olmayan ve güneşin ışığını yansıtan bir gök cismi olarak ele alınır. Bu bağlamda dolunay, inançlının ilahi ışığı yansıtması, tanıklığın görünür hale gelmesi, yaratılıştaki kozmik düzen ve bir dönemin olgunlaşması veya 'vaktin dolması' temalarıyla bağdaştırılır.",
+  "jewishTraditions": "Yahudi rüya geleneğinde ve Talmudik yaklaşımlarda ay, döngüsel zamanın kutsanması, takvimsel ritim ve yenilenme fikriyle bağdaştırılır. Yosef’in rüyasındaki ay sembolü örneğinde olduğu gibi, ay imgesi ailevi figürleri ve yakın ilişkisel bağları temsil edebilir.",
+  "buddhistEasternApproaches": "Budist sembolizminde dolunay, aydınlanma, saflık, bilgelik ve ruhsal tamamlanmanın en güçlü metaforlarından biridir. Buda",
+  "spiritualApproaches": "Ezoterik ve simyasal geleneklerde dolunay, bir döngünün zirvesi, tezahür anı, birikmiş enerjilerin açığa çıkması ve güneş ilkesinin tamamlayıcı dişil gücüyle bütünleşme zamanı olarak kabul edilir. Modern spiritüel yaklaşımlarda ise genellikle farkındalık kazanma ve artık işe yaramayan kalıpları serbest bırakma dönemi olarak yorumlanır.",
+  "comparisonTable": [
     {
-      "question": "Dolunay görmek bir dileğin gerçekleşeceği anlamına mı gelir?",
-      "answer": "Hayır. Böyle bir gelecek çıkarımı yapılamaz. Dolunayla kişisel olarak ilişkilendirdiğiniz anıları veya beklentileri düşünmek, onları bir kehanet saymayı gerektirmez."
+      "approach": "Psikanaliz",
+      "interpretation": "Bilinçdışı süreçler, bedensel köken çağrışımları ve örtük içeriğin dönüşümü.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Rüyadaki dolunay gerçek Ay evresini gösterir mi?",
-      "answer": "Rüya görüntüsünden gerçek tarih veya Ay evresi belirlenmez. Rüyadaki gökyüzü, gerçek gökyüzünün kaydı olarak değerlendirilmemelidir."
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Dişil arketip, bilinçdışının aydınlanması ve karşıtların gerilimi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Otorite, saygınlık, işlerin tamamlanması ve rehberlik.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "İlahi ışığın yansıtılması, yaratılış düzeni ve tanıklığın görünürlüğü.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Spiritüel Yaklaşım",
+      "interpretation": "Döngünün zirvesi, tezahür, tamlanma ve serbest bırakma.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı geleneklerin ve ekollerin çoğunda dolunay, tek bir sabit anlama sahip olmaktan ziyade bir dönüm noktasını, görünürlüğün doruğunu ve tamamlanma sürecini temsil eder.",
+  "differences": "Yaklaşımlar arasındaki temel fark şudur: Psikanaliz ve Jungcu ekoller, simgeyi bireyin içsel psişik dinamikleri ve bilinçdışıyla açıklar; geleneksel ve ezoterik okumalar ise dışsal döngüler, kozmik düzen, otorite figürleri veya ruhsal aydınlanma gibi daha geniş arketiplere odaklanır.",
+  "inusAssessment": "Dolunay sembolü, rüya içinde sıradan bir gök cismi olmaktan öte, psişik enerjinin ve bilinçdışı içeriklerin en üst düzeyde açığa çıktığı bir eşik görevi görür. Farklı gelenekler ve psikolojik teoriler bu imgeyi tamamlanma, görünürlük veya döngünün zirvesi olarak ele alsa da, rüyanın asıl anlamı dolunayın gökyüzündeki konumuna, rengine ve rüya sahibinin o anki duygusal yoğunluğuna bağlı olarak şekillenir. Bu nedenle dolunay içeren bir rüyayı yorumlarken tek bir sabit anlam aramak yerine, rüyanın size hissettirdiği içsel aydınlanma veya gerilim unsurlarını merkeze almak gerekir.",
+  "faq": [
+    {
+      "question": "Rüyada dolunay görmek her zaman aynı anlama mı gelir?",
+      "answer": "Hayır. Ampirik ve psikolojik çalışmalar dolunayın sabit bir rüya anlamı olmadığını, rüya bağlamına ve bireyin kendi içsel dünyasına göre değişiklik gösterdiğini vurgular."
+    },
+    {
+      "question": "Dolunay rüyaları neden diğer rüyalardan daha yoğun hatırlanır?",
+      "answer": "Araştırmalar ve uyku çalışmaları, dolunay dönemlerinde uyku bölünmelerinin ve rüya hatırlama oranlarının artabildiğini, bunun da zihinsel uyarılma düzeyiyle ilişkili olabileceğini göstermektedir."
     }
   ],
   "sources": [
     {
-      "title": "Moon Phases",
-      "url": "https://science.nasa.gov/moon/moon-phases/",
-      "relevance": "NASA’nın Ay evreleri ve dolunay açıklaması okundu. Astronomik görünümü açıklar; rüya anlamını, sağlık etkisini veya kişisel geleceği araştırmaz.",
-      "author": "NASA"
+      "title": "Hallucinations, Full Moons and Coffee? Baylor Sleep Expert Debunks Common Sleep Myths that Might Just Help You Catch Some More Zzz’s Tonight",
+      "relevance": "Dolunay ve uyku problemleri miti hakkında üniversite temelli açıklama; farklı veri kümelerinin dolunay ile uyku kalitesi arasında tutarlı ilişki bulmadığını bildirir.",
+      "url": "https://news.web.baylor.edu/news/story/2018/hallucinations-full-moons-and-coffee-baylor-sleep-expert-debunks-common-sleep-myths"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/261",
+      "relevance": "Freud’un rüya kuramında sembolizmin nasıl çalıştığını ve ay imgesinin doğum/bedensel köken çağrışımıyla nasıl okunabildiğini gösteren temel metin.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
+    },
+    {
+      "title": "Marie-Louise von Franz: Looking Through the Moon",
+      "relevance": "Ay imgesinin kolektif bilinçdışı, dişil arketip ve psişik süreçlerle ilişkisini anlatan Jungcu yorum.",
+      "url": "https://carljungdepthpsychologysite.blog/2023/05/02/moon-4/"
+    },
+    {
+      "title": "Marie-Louise von Franz: The Way of the Dream – Anthology",
+      "relevance": "Dolunayın yin-yang ve karşıtların oyunu bağlamında yorumlandığı Jungcu alıntı.",
+      "url": "https://carljungdepthpsychologysite.blog/2023/05/08/dream-anthology/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik Greko-Romen rüya yorum geleneğinin merkezî metni; ay ve göksel imgelerin yorumlandığı oneirokritik çerçeveyi temsil eder.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' The Interpretation of ...",
+      "relevance": "Artemidorus’un rüya kitabının antikiteden korunmuş tek kapsamlı örnek olduğunu ve rüya yorumu için temel klasik metin olduğunu gösterir.",
+      "url": "https://academic.oup.com/book/40085"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Oneirocritica’nın tarihsel bağlamını, kapsamını ve rüya yorumu yöntemiyle ilişkisini özetler.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of the Interpolating ...",
+      "relevance": "Artemidorus’un rüya şemasını arzular ve korkular üzerinden okuyan modern akademik tartışma; antik rüya yorumunun bağlamsal doğasını anlamaya yardım eder.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "What does it mean to see the full moon in a dream?",
+      "relevance": "Dolunayın İslami rüya sözlüğü geleneğinde otorite, ilim ve nüfuzla ilişkilendirilmesini özetler.",
+      "url": "https://www.molla.az/en/dream-interpretation/what-does-it-mean-to-see-the-full-moon-in-a-dream"
+    },
+    {
+      "title": "İBN SÎRÎN",
+      "relevance": "İbn Sîrîn’in rüya tabiri geleneği içindeki tarihsel konumunu doğrular ve atıfın bağlamını kurar.",
+      "url": "https://islamansiklopedisi.org.tr/ibn-sirin"
+    },
+    {
+      "title": "Dreaming of Moon in Islam | Best Istikhara",
+      "relevance": "Dolunayın tamamlanma, onur ve beklenen bir işin sonuçlanmasıyla ilişkilendirilmesini aktarır.",
+      "url": "https://best-istikhara.com/en/dreaming-moon-in-islamic-dream/"
+    },
+    {
+      "title": "Interpretation of seeing the moon in a dream by Ibn Sirin and Al-Nabulsi - Interpretation of Dreams Online",
+      "relevance": "Tam ve parlak ayın rehberlik, dindarlık, tövbe ve istikrar temalarıyla yorumlanışını aktarır.",
+      "url": "https://en.interpret-dreams-online.com/The-moon-in-a-dream/"
+    },
+    {
+      "title": "Islamic Meaning: Seeing Sun, Moon, Stars in a dream",
+      "relevance": "Dolunayın yüksek ve parlak görünümünü İslam yolunda hac fırsatıyla ilişkilendiren aktarımı içerir.",
+      "url": "https://lifeinsaudiarabia.net/seeing-sun-moon-stars-together-in-dream-islam/"
+    },
+    {
+      "title": "Topical Bible: Symbolism of Sun and Moon",
+      "relevance": "Ayın ışığını güneşten alan bir gök cismi olarak sembolik yorumlar; Hristiyan okumasında yansıtılan ışık ve tanıklık temasını destekler.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_sun_and_moon.htm"
+    },
+    {
+      "title": "Topical Bible: The Moon",
+      "relevance": "Ayın mevsimleri belirleyen ve Tanrı’nın yaratılış düzeni içindeki rolünü vurgulayan ayet merkezli derleme; zaman, düzen ve olgunlaşma çağrışımlarına dayanak sağlar.",
+      "url": "https://biblehub.com/topical/t/the_moon.htm"
+    },
+    {
+      "title": "Moon - Encyclopedia of The Bible",
+      "relevance": "Ayın Tanrı’nın koruyucu ilgisiyle ilişkilendirildiği ansiklopedik madde; Hristiyan sembolik okumada ay imgesinin ilahi gözetim ve koruma temasına bağlanmasına yardımcı olur.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Moon"
+    },
+    {
+      "title": "Berakhot.55b.1-56a.19 | The Sefaria Library",
+      "relevance": "Berakhot 55b’de Joseph’in rüyasındaki ay sembolünün annesine işaret ettiği pasaj; Yahudi rüya yorumunda ay imgesinin nasıl okunduğunu gösterir.",
+      "url": "https://www.sefaria.org/Berakhot.55b.1-56a.19?lang=en"
+    },
+    {
+      "title": "Jewish Dream Interpretation: What Judaism and the Talmud Say ...",
+      "relevance": "Yahudi geleneğinde ay, takvimsel ritim ve yenilenme fikriyle bağlantılı görülür; dolunay için sembolik bir çerçeve sağlar.",
+      "url": "https://www.usehypnos.com/blog/jewish-dream-interpretation"
+    },
+    {
+      "title": "Full moon: Significance and symbolism",
+      "relevance": "Budist gelenekte dolunayın aydınlanma, saflık ve tamamlanmışlıkla ilişkilendirilmesini özetler.",
+      "url": "https://www.wisdomlib.org/concept/full-moon"
+    },
+    {
+      "title": "Fullmoon: Significance and symbolism",
+      "relevance": "Dolunayın Budist sembolizminde Buda’nın parlak bilgeliği ve kutsal varlığı için kullanılan metaforik anlamları açıklar.",
+      "url": "https://www.wisdomlib.org/concept/fullmoon"
+    },
+    {
+      "title": "Figurative Imagery of the Full Moon - Buddhistdoor Global",
+      "relevance": "Dolunayın Budist anlatılarda Buda’nın yaşamındaki önemli olaylarla bağlantısını ve kutsal zaman işlevini tartışır.",
+      "url": "https://www.buddhistdoor.net/features/figurative-imagery-of-the-full-moon/"
+    },
+    {
+      "title": "THE SIGNIFICANCE OF THE FULL MOON",
+      "relevance": "Dolunayın bodhichitta ve şefkatle ilişkilendirilen Budist/Tibetî sembolik kullanımını verir.",
+      "url": "https://tibetanbuddhistencyclopedia.com/en/index.php?title=THE_SIGNIFICANCE_OF_THE_FULL_MOON"
+    },
+    {
+      "title": "White magic - Wildmind",
+      "relevance": "Dolunayın Budist sembolizminde aydınlanmanın kusursuzluğu ve bilgelik yönüyle okunmasını açıklar.",
+      "url": "https://www.wildmind.org/blogs/on-practice/white-magic"
+    },
+    {
+      "title": "New Moon vs. Full Moon Magic: When to Manifest and When to ...",
+      "relevance": "Dolunayın astrolojik ve simyasal çerçevede tamamlanma, aydınlanma, tezahür ve serbest bırakma ile ilişkilendirildiğini anlatır.",
+      "url": "https://sanctuaryeverlasting.com/new-moon-vs-full-moon-magic-when-to-manifest-and-when-to-release/"
+    },
+    {
+      "title": "Lunar Alchemy - LabyrinthDesigners & the Art of Fire",
+      "relevance": "Ayın sembolik ve mitopoetik kullanımlarını, özellikle ay ışığının yaratıcı süreç ve bilinçdışıyla ilişkilendirilmesini bir araya getirir.",
+      "url": "https://labyrinthdesigners.org/lunar-alchemy/"
+    },
+    {
+      "title": "Sol And Luna | ARAS",
+      "relevance": "Ayın sembolik ve mitopoetik kullanımlarını, özellikle ay ışığının yaratıcı süreç ve bilinçdışıyla ilişkilendirilişini bir araya getirir.",
+      "url": "https://aras.org/concordance/sol-and-luna"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
 }

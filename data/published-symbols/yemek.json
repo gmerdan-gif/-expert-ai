@@ -1,0 +1,270 @@
+{
+  "slug": "yemek",
+  "title": "Yemek",
+  "shortDescription": "Rüyada yemek görmek, rızık, bolluk, paylaşım ve yeni duygu ya da deneyimleri sindirme temalarıyla ilişkilendirilebilir. Yemeğin tadı ve tazeliği önemlidir: hoş yiyecekler tatmin ve zindeliği, acı veya bozulmuş yiyecekler ise sıkıntı ya da rahatsız edici meseleleri çağrıştırabilir.",
+  "positiveAssociations": [
+    "Rızık ve bolluk",
+    "Ruhsal içselleştirme ve kişisel gelişim",
+    "Paylaşım, topluluk ve aidiyet",
+    "Sağlık ve zindelik (iyi pişmiş, taze yiyeceklerle bağlantılı)",
+    "Yeni deneyimlerin özümsenmesi"
+  ],
+  "challengingAssociations": [
+    "Yoksunluk, eksiklik veya doyumsuzluk hissi",
+    "Gece yemeği ve sindirim sorunlarına bağlı rahatsız edici rüya içerikleri",
+    "Bozulmuş veya zararlı kazanç ya da ahlaki kaygılar (gıdanın niteliğine bağlı).",
+    "Süreğen zorluklar ve ulaşılması güç hedefler",
+    "Sindirilmemiş psikolojik meseleler"
+  ],
+  "contextDependentAssociations": [
+    "Yemeğin türü, tadı, tazeliği ve rengi",
+    "Yemeğin nasıl hazırlandığı veya pişirildiği",
+    "Yemeğin sunulduğu kap ve kullanılan eller (ör. sağ el/sol el).",
+    "Birlikte yenilen kişiler ve rüya anındaki duygulanım",
+    "Rüyanın uyku koşulları (geç yeme, gıda hassasiyeti gibi fizyolojik faktörler)"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tatlı ve lezzetli bir şey yemek",
+      "description": "Duygusal veya maddi açıdan arzu edilen bir nimete ulaşma, sorunların hoş bir şekilde çözülmesi veya tatmin hissiyle ilişkilendirilebilir."
+    },
+    {
+      "title": "Kalabalık bir sofrada yemek paylaşmak",
+      "description": "Toplumsal bağları, ortak kazançları ve aidiyet/ortaklık duygusunu vurgular."
+    },
+    {
+      "title": "Ekşi, acı veya bozulmuş yiyecek yemek",
+      "description": "Sağlık sorunları, sürüp giden sıkıntılar veya içselleştirilmemiş rahatsız edici deneyimler için uyarıcı olabilir."
+    },
+    {
+      "title": "Geç saatte ağır yiyecekler yiyip rahatsız hissetmek",
+      "description": "Fizyolojik tetikleyicilerin (sindirim, gıda hassasiyeti) rüya içeriğini tuhaflaştırabileceğini veya kâbus olasılığını artırabileceğini gösterir."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar, gece yeme alışkanlıkları, gıda hassasiyetleri ve uyku kalitesindeki değişimlerin rüya tuhaflığını ve kâbus şiddetini artırabileceğini göstermektedir; örneğin laktoz intoleransı veya sindirim yakınmaları bu ilişkiye kısmen aracılık edebilir. Bazı veriler, tat deneyimlerinin rüya serilerinde ayrı bir içerik kategorisi olarak ele alınabileceğini düşündürmektedir.",
+  "jungian": "Analitik psikolojide yemek teması, dışarıdan alınan bir öğenin psişik alana katılması, içselleştirilmesi ve özümseme süreciyle ilişkilendirilir. Rüyada yemek, yeni bir rolün, duygunun veya deneyimin benliğe katılma çabasının, aynı zamanda entegrasyon gereksiniminin bir simgesi olarak okunabilir. (Jungcu yorumlar genelde bağlama ve rüyanın duygusal tonuna bağlı olarak dikkatle değerlendirilmelidir.)",
+  "islamicTradition": "İslami rüya yorumlarında yemekle ilgili geleneksel derlemeler, yemeğin türü, tadı ve sunumuna göre farklı okumalara işaret eder: tatlı ve hoş yiyecekler genellikle rızık veya olumlu gelişmelerle; kuru, sert veya bozulmuş yiyecekler sıkıntı veya güçlükle bağdaştırılır. Kap türü, birlikte yeme bağlamı ve yiyeceğin niteliği yorumda önemlidir. Bu ifadeler derleme kaynaklarına dayanan geleneksel yorumları yansıtmaktadır.",
+  "christianTraditions": "Hristiyan yorumlarında yemek sahneleri genellikle paylaşım, topluluk, ilahi nimetlerden güç alma veya bilgelik/özümseme temalarıyla ilişkilendirilir; tazelik, bolluk veya bozulma gibi ayrıntılar ve rüya anındaki duygulanım yorumun yönünü belirler.",
+  "jewishTraditions": "Yahudi gelenek ve Talmudik pasajlarda gıda imgeleri türlere göre değerlendirilir (örneğin meyveler genellikle olumlu alametlerle ilişkilendirilir; buğday barış/esenlik çağrıştırır). Bu çerçevede 'yemek' sembolü, türü ve bağlamına göre farklı biçimlerde okunmalıdır.",
+  "buddhistEasternApproaches": "Vedik, Hindu ve genel Doğu yaklaşımlarında yemek rüyaları zihinsel ve duygusal durumu yansıtma eğilimindedir: süt ve tatlılar saflık veya lütfu; bozulmuş veya acı yiyecekler işlenmemiş sorunları çağrıştırabilir. Budist bağlamda iyi yemek, cömertlik, farkındalıkla tüketim ve Dharma'nın besleyici niteliğiyle ilişkilendirilir.",
+  "spiritualApproaches": "Ezoterik okumalarda yemek, maddi gıdadan öte ruhsal veya duygusal beslenme, kabul edilen enerjiler ve hayatına alınan öğelerin içselleştirilmesi temalarını taşır. Pişirme ve hazırlama metaforları, ham deneyimlerin dönüştürülmesini ve içsel işlemi ima eder.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Gece yemeği, gıda hassasiyetleri ve sindirim sorunlarının rüya içeriğini ve kâbusları etkileyebileceği yönünde ampirik kanıtlar vardır.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Kuram",
+      "interpretation": "Yemek imgeleri istek doyumu, oral haz ve yoksunluk gerilimleri bağlamında değerlendirilir; tekil bir sözlük anlamdan çok bağlama vurgulanır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jungcu)",
+      "interpretation": "Yemek, psişik özümseme ve deneyimlerin benliğe katılması metaforu üzerinden okunur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Yemeğin niteliği, tadı ve sunumu rızık, sağlık veya ahlaki durumla ilişkilendirilen geleneksel yorumlara yol açar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Paylaşım, ilahi nimetlerden güç alma ve topluluk bağları temaları öne çıkar; ayrıntılar bağlam belirler.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Gıdalar türlerine göre farklı alametler taşır; örneğin bazı meyveler olumlu işaret sayılır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Doğu/Vedik Yaklaşımlar",
+      "interpretation": "Yemek rüyaları zihinsel-sağlık durumunu ve ritüel/sağlamlık temalarını yansıtabilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel/Ezoterik",
+      "interpretation": "Ruhsal beslenme ve içsel dönüşüm metaforlarıyla ilişkilendirilir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşım yemek sembolünün tek bir sabit anlama indirgenemeyeceğinde birleşir: yiyeceğin türü, niteliği, sunumu, birlikte yenilenler ve rüya anındaki duygulanım yorum için belirleyicidir.",
+  "differences": "Ampirik psikoloji daha çok fizyolojik tetikleyiciler ve uyku koşulları üzerinden bakarken; psikanaliz istek-doyum, Jungcu yaklaşım entegrasyon/özümseme, dini gelenekler ise rızık, ahlak veya alamet ekseninde farklı odaklar geliştirir.",
+  "inusAssessment": "Yemek imgesi rüyada beslenme, paylaşma, ihtiyaç, haz ve sosyal ilişki temalarını öne çıkarabilir. Yemeğin hazırlanması, paylaşılması, reddedilmesi, fazla ya da yetersiz olması ve rüya sahibinin hisleri yorumun yönünü değiştirir. Bu nedenle yemek, kişisel ve ilişkisel bağlamıyla birlikte ele alınmalıdır.",
+  "faq": [
+    {
+      "question": "Rüyada yemek görmek her zaman açlık veya diyete mi işarettir?",
+      "answer": "Hayır. Geç saat yeme veya gıda hassasiyetleri rüyaları etkileyebilir; ancak yemek rüyaları aynı zamanda içselleştirme, rızık veya paylaşım gibi psikolojik ve kültürel anlamlar da taşıyabilir."
+    },
+    {
+      "question": "Yediğim yemeğin tadı rüyanın yorumunu değiştirir mi?",
+      "answer": "Evet. Geleneksel ve psikolojik okumalarda tatlı/hoş yiyecekler olumlu, ekşi/bozulmuş tatlar ise uyarıcı veya olumsuz durumlara işaret etme eğilimindedir; bağlam her zaman belirleyicidir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "More dreams of the rarebit fiend: food sensitivity and dietary ...",
+      "relevance": "Gıda duyarlılığı, gece yeme alışkanlıkları ve bu faktörlerin rüya-kâbus ilişkisini nasıl etkileyebileceğini ampirik olarak inceleyen çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12259596/"
+    },
+    {
+      "title": "Dreams of the Rarebit Fiend: food and diet as instigators of bizarre ...",
+      "relevance": "Katılımcı öz-bildirimlerine dayanarak belirli gıdaların veya geç saatte yemenin rüyaları daha tuhaf veya rahatsız edici kılabileceğini tartışan ampirik araştırma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4330685/"
+    },
+    {
+      "title": "Dreams About Food and Eating: A Literature Review",
+      "relevance": "Yemek ve yeme temalarının rüya literatüründeki yerini derleyen sentez çalışması; farklı yaklaşımları ve bulguları özetler.",
+      "url": "https://sleepandhypnosis.org/wp-content/uploads/2024/07/c33e8622e0b54b798969ad7bda85a3fd.pdf"
+    },
+    {
+      "title": "scale investigation of dreamt gustatory experi- ences",
+      "relevance": "Rüyalardaki tat deneyimlerinin görülme sıklığını ve tatla ilgili içeriklerin sistematik inceleme olasılığını ele alan nicel araştırma.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/90419/95268/259155"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freud'un rüyalarda yemek, içmek, haz ve tiksinti imgelerini açlık, susuzluk ve istek doyumu bağlamında nasıl ele aldığını gösterir.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Freud (1900) Chapter 3 - Classics in the History of Psychology",
+      "relevance": "Freud'un susuzluk ve içmek örneği üzerinden rüyanın istek doyumu olarak işleyişini gösterir; yemek-içmek temasına doğrudan örnek sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams3.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un rüyada gıda, açlık ve çocukluk isteği ilişkisini anlattığı bölümleri içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Eating in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Yeme temasını Jungçu okumada içe alma, özümseme ve yeni bir şeyi benliğe katma olarak açıklayan yorum yazısı.",
+      "url": "https://rosmertapublishing.com/dream-symbols/eating/"
+    },
+    {
+      "title": "Eating / Consuming / Drinking in Dreams · Forever Jung",
+      "relevance": "Rüyalarda yeme ve içmenin psikolojik içe alma ve deneyimi sindirme fikriyle ilişkisini anlatan Jungcu açıklama.",
+      "url": "https://foreverju.ng/symbols/eating_consuming"
+    },
+    {
+      "title": "Eating Dreams: Meaning & Psychological Interpretation",
+      "relevance": "Yemek imgelerini psişik beslenme, bilinçdışı içerik ve entegrasyon çerçevesinde yorumlayan Jungcu içerik.",
+      "url": "https://somniscient.com/en/symbols/eating"
+    },
+    {
+      "title": "Food / Eating / Meal in Dreams: Meaning in Depth Psychology",
+      "relevance": "Yemek, öğün ve beslenme motiflerini psişik beslenme ve ilişkisel içeriklerle ilişkilendiren Jungcu yorum sayfası.",
+      "url": "https://foreverju.ng/symbols/food_meal"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritikte yiyecek ve içecek motiflerinin beden hâli ve açlık/susuzlukla ilişkilendiriliş biçimini gösteren klasik çeviri metin.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual: Artemidorus' The ...",
+      "relevance": "Artemidorus’un eserinde yiyecek ve içecek başlığının yapısını ve alt kategorilerini gösteren akademik inceleme.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "Interpretation of food in a dream by Ibn Sirin",
+      "relevance": "İslami gelenekte yemeğin türü, tadı ve sunumuna göre nasıl farklı anlamlar yüklenebileceğini aktaran derleme-çeviri kaynak.",
+      "url": "https://www.gptafser.com/en/post/Interpretation-of-food-in-a-dream-by-Ibn-Sirin?page=4025"
+    },
+    {
+      "title": "Seeing Food in a dream | ShiaCircle",
+      "relevance": "Yemeğin tabak, elle yeme ve tat özellikleri üzerinden helal kazanç, borç, başarı, hastalık ve sebat gibi anlamlarla ilişkilendirildiği İslami sembol aktarımı.",
+      "url": "https://www.shiacircle.com/dream-interpretation/food"
+    },
+    {
+      "title": "Food & Drink in Dreams | Biblical Interpretation | RTCLM",
+      "relevance": "Rüyada yemek ve içecek imgelerinin nasıl bağlamsal okunabileceğini; tazelik, bozulma, bolluk ve rüyadaki tepki gibi ayrıntıların önemini anlatır.",
+      "url": "https://revealingthechristianlife.org/dreams-visions-knowledge-center/biblical-dream-symbols-dictionary/dream-symbols-food-drink/"
+    },
+    {
+      "title": "It is Finished! - Apostle David E. Taylor [Official Site]",
+      "relevance": "Rüyada yemenin paydaşlık, anlaşma, arkadaşlık, bilgeliği özümseme ve ruhsal beslenme gibi Hristiyan sembolik çağrışımlarıyla okunmasını örnekler.",
+      "url": "https://joshuamediaministries.org/dreams/eating/"
+    },
+    {
+      "title": "Miscellaneous - Dream Symbols Dictionary - Apostle David ...",
+      "relevance": "Hristiyan sembol sözlüğünde \"Eating\" başlığı altında paydaşlık, deneyimleme, anlaşma ve dostluk çağrışımlarını verir.",
+      "url": "https://joshuamediaministries.org/dream-interpretation/dream-symbols-dictionary/miscellaneous/"
+    },
+    {
+      "title": "Berakhot 57a | The Sefaria Library",
+      "relevance": "Talmudik pasajlarda meyve ve gıda imgelerinin rüya alametleri kapsamında nasıl değerlendirildiğine ilişkin örnekler içerir.",
+      "url": "https://www.sefaria.org/Berakhot.57a"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57",
+      "relevance": "Rüyada meyve ve sebzelerin yorumlandığı pasajı ve gıda imgeleriyle ilgili alametleri içerir.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Dreams and opportunities",
+      "relevance": "Rüya ve ekmek kelimeleri arasında sembolik yakınlık kuran Yahudi düşünce yazısı.",
+      "url": "https://torah.org/torah-portion/shabbos-5769-miketz/"
+    },
+    {
+      "title": "Dreams in the Talmud | Voices on Sefaria",
+      "relevance": "Rüyada çömlek, et ve barış ilişkisi ile gıdanın sembolik anlamını tartışan Talmud alıntısı.",
+      "url": "https://voices.sefaria.org/sheets/233896"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz Center USA",
+      "relevance": "Rüyalarda içecekler, meyveler ve sebzeler için genel alametleri özetleyen Talmud pasajı.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Food Dream Meaning: Milk, Sweets - Trikaal Vaani",
+      "relevance": "Hindu/Vedik gelenekte yiyecek rüyalarının saflık, lütuf, duygusal durum ve bozulmuş yiyeceğin işlenmemiş meselelerle ilişkisi.",
+      "url": "https://trikalvaani.com/blog/food-dreams-meaning-hindu-astrology"
+    },
+    {
+      "title": "Food Dreams (भोजन स्वप्न) — Meanings in Vedic Swapna Shastra ...",
+      "relevance": "Swapna Shastra çerçevesinde yemek ve prasad temalı rüya başlıklarının ayrı bir kategori olarak listelenmesi.",
+      "url": "https://trikalvaani.com/swapna/category/food"
+    },
+    {
+      "title": "Food: Significance and symbolism",
+      "relevance": "Budist bağlamda 'food/food concept' başlığında besleyici öz, maddi oluşum ve beslenme temasının kavramsal kullanımı.",
+      "url": "https://www.wisdomlib.org/concept/food"
+    },
+    {
+      "title": "Good food: Significance and symbolism",
+      "relevance": "Budist bağlamda iyi yemek, beslenme, cömertlik, dikkatli tüketim ve Dharma'nın besleyici niteliğiyle ilişkilendirilir.",
+      "url": "https://www.wisdomlib.org/concept/good-food"
+    },
+    {
+      "title": "Eating Dream Meaning & Interpretation",
+      "relevance": "Yemek ve yeme imgelerini ruhsal beslenme, yeni deneyimlerin içselleştirilmesi ve “alma” temalarıyla ilişkilendirir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/eating/"
+    },
+    {
+      "title": "Food & Eating Dreams: What It Means to Dream About Food",
+      "relevance": "Yemek rüyalarında doyum, istek ve kişiyi neyin beslediği sorusunu; pişirme bağlamında da dönüşüm ve simyasal işleme temasını işler.",
+      "url": "https://www.usehypnos.com/blog/food-eating-dream-meaning"
+    },
+    {
+      "title": "Understand your food dreams & what they symbolically represent",
+      "relevance": "Yemek rüyalarının psikolojik ve ruhsal olarak besleyici, destekleyici şeyleri simgeleyebileceğini açıklar.",
+      "url": "https://www.wellbeing.com.au/mind-spirit/spirituality/understand-food-dreams.html"
+    },
+    {
+      "title": "Eating in Dreams: Hunger, Choice, and What You Take In",
+      "relevance": "Yemek imgelerini öğreti, erdem, bereket ve alma/dikkat etme temalarıyla spiritüel bir dil içinde yorumlar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/eating"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "islamic",
+    "christian",
+    "buddhist-eastern"
+  ]
+}

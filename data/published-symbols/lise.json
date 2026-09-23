@@ -1,69 +1,201 @@
 {
   "slug": "lise",
-  "title": "lise",
-  "shortDescription": "Rüyada lise, gençlik anıları, akran ilişkileri ve değerlendirilme deneyimini gündeme getirebilir. Okuldaki rolünüz, tanıdık kişiler ve derse katılma biçiminiz önemlidir.",
+  "title": "Lise",
+  "shortDescription": "Rüyada lise görmek, kimlik arayışı, akran ilişkileri, gelecek kaygıları ve değerlendirilme baskısıyla bağlantılı olabilir. Sınav veya sınıf sahneleri performans ve değerlendirilme baskısını; eski arkadaşların öne çıkması ise geçmişteki sosyal rollerin veya çözümlenmemiş duyguların yeniden gündeme gelmesini çağrıştırabilir.",
   "positiveAssociations": [
-    "Eski arkadaşlarla bir araya gelmek",
-    "Öğrendiği bir şeyi yeniden kullanmak",
-    "Bir dönemi tamamladığını hissetmek"
+    "Ergenlik döneminde öğrenme ve kimlik gelişimi",
+    "Yeni beceriler kazanma isteği",
+    "Çalışmaların olumlu sonuç vereceği beklentisi",
+    "Sosyal tanınma ve aidiyet duygusu"
   ],
   "challengingAssociations": [
-    "Derse hazırlıksız yakalanmak",
-    "Akranlarının arasında dışlanmak",
-    "Mezun olduğu hâlde yeniden yükümlü hissetmek"
+    "Lise sınavlarına veya geleceğe yönelik değerlendirme kaygısı",
+    "Hazırlıksızlık ve yetersizlik hissi",
+    "Geçmişteki utanç veya stresli lise anılarının yeniden canlanması",
+    "Akran baskısı ve kabul edilme endişeleri"
   ],
   "contextDependentAssociations": [
-    "Şu an öğrenci olup olmadığınız",
-    "Rüyadaki yaşınız ve rolünüz",
-    "Gerçek liseniz veya bilinmeyen bir okul olması"
+    "Lise yıllarına ait kimlik katmanlarının veya çözümlenmemiş meselelerin yeniden gündeme gelmesi",
+    "Mevcut yaşamdaki önemli seçimlerin (kariyer, eğitim yönelimi) lise dönemindeki belirsizliklerle yankılanması",
+    "Yetişkinlikte yeni sorumluluklar üstlenme sürecinde ortaya çıkan performans ve uyum sınavları",
+    "Lise ortamındaki sosyal rollerin bugünkü ilişki dinamiklerini etkilemesi"
   ],
   "commonVariations": [
     {
-      "title": "Mezun olduğunuz liseye dönmek",
-      "description": "Bugünkü yaşınızla mı yoksa öğrencilik hâlinizle mi oradaydınız? Bir anıyı ziyaret etmek, yeniden öğrenci olmak ve tamamlanmamış bir görevle karşılaşmak farklı sahnelerdir."
+      "title": "Lisede Sınıfta Kalmak veya Sınava Hazırlıksız Yakalanmak",
+      "description": "Rüya sahibinin uyanık yaşamda yetişkinliğe geçiş sorumlulukları karşısında kendini yetersiz hissetmesini veya önemli bir değerlendirme sürecinden (sınav, kariyer seçimi gibi) korkmasını simgeler."
     },
     {
-      "title": "Lise arkadaşlarıyla buluşmak",
-      "description": "Kiminle yakın olduğunuz ve rüyada ilişkinizin değişip değişmediği önemlidir. Bu karşılaşmayı o kişinin sizi düşündüğüne ilişkin bir mesaj yerine kendi hatıralarınız üzerinden ele alabilirsiniz."
+      "title": "Eski Lise Arkadaşlarıyla Karşılaşmak",
+      "description": "Geçmişteki kimlik katmanlarıyla, eski sosyal rollerle ya da o dönemde çözülmemiş bir meseleyle yeniden bağ kurma veya o dönemden kalan sosyal değerin bugün nasıl etkilediğini sorgulama isteğini gösterebilir."
     },
     {
-      "title": "Sınıfı veya dersliği bulamamak",
-      "description": "Yanlış koridor, değişen oda numarası veya geç kalma telaşı sahneyi farklılaştırabilir. Aradığınız yer kadar yardım alıp alamadığınızı da düşünün."
+      "title": "Lise Koridorlarında Yönünü Kaybetmek",
+      "description": "Hayatın yeni bir geçiş evresinde kararsızlık, hedeflerin belirsizliği veya kişinin kendini sosyal ve mesleki yönelimler bakımından kaybolmuş hissettiğini ifade eder."
     },
     {
-      "title": "Mezuniyet için bir dersin eksik kaldığını öğrenmek",
-      "description": "Gerçekte tamamladığınız bir dönemin rüyada yeniden açılması size şaşkınlık veya yük hissi verebilir. Bu sahne mevcut yeterliliğinizin eksik olduğunu kanıtlamaz; rüyadaki beklenti ve tepkiyi ayrı değerlendirin."
+      "title": "Lisede Başarılı Bir Ders veya Sunum Geçirmek",
+      "description": "Kişinin güncel hayatındaki becerilerinin veya bir projesinin fark edilmesini, çalışmalarının olumlu sonuçlar vermesini ve takdir edilme beklentisini yansıtır. Bu başarı hissi, lise yıllarındaki özgüven kazanımını hatırlatabilir."
     }
   ],
-  "psychology": "Domhoff ve Schneider, iki genç kadının ergenlikten genç yetişkinliğe uzanan rüya dizilerinde karakterleri ve kişisel ilgileri inceledi. Bir dizinin incelenmesinde ortaokul, lise ve üniversite dönemleri ayrı ele alındı. Bulgular rüya içerikleriyle uyanık yaşamdaki ilgiler arasında süreklilik örnekleri sundu. İki kişinin günlüklerine dayanan bu çalışma, lise görülen her rüyanın kimlik bunalımı veya sınav kaygısı olduğunu göstermez.",
-  "jungian": "",
-  "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Kişiler ve ilgi alanları, lise yıllarıyla bugünkü deneyiminizi karşılaştırmak için somut ayrıntılar sağlayabilir.",
-  "differences": "Lise çağında kaydedilen rüyalar ile rüyada bir lise binası görmek aynı araştırma konusu değildir. Kaynağın yaşam dönemi bulguları, tek bir okul sahnesinin tabirine dönüştürülmemelidir.",
-  "inusAssessment": "Lise rüyası, genel okul imgesinden daha belirli bir dönemi ve ilişkileri hatırlatabilir. INUS değerlendirmesi şu anda lisede olmanızla yıllar sonra o yere dönmenizi ayırır. Arkadaşlar, öğretmenler, dersler ve mezuniyet farklı odaklardır. Rüyanın hangi ayrıntısının bugünkü hayatınızla size bir bağlantı kurdurduğunu düşünmek, her lise rüyasını sınav kaygısı saymaktan daha açıklayıcı olabilir.",
-  "faq": [
+  "psychology": "Araştırma literatüründe lise/okul imgeleri ergenlikten genç yetişkinliğe uzanan dönemde rüya içeriğinin gelişimsel özellikleri, güncel stresörlerle ilişkisi ve ruhsal belirteçleri bağlamında incelenir. Ancak doğrudan 'Lise' sembolüne odaklanan spesifik ampirik çalışmalar sınırlıdır; bu yüzden yorumlar okul bağlamındaki genel bulgularla temkinli biçimde ilişkilendirilmelidir.",
+  "jungian": "Analitik psikolojide doğrudan 'Lise' sembolüne özgü bir Jungcu kaynak bulunmamakla birlikte, okul mekânı genel olarak öğrenme, sınanma ve bireyleşme süreçlerini sahneleyen bir alan olarak ele alınır. Bu çerçevede psişe, rüya sahibini yeni bir şey öğrenmeye, içsel bir gelişime veya bilinçdışının sunduğu dengeleyici bir talebe çağırıyor olabilir; anlam rüyanın duygusal tonu ve bütünlüğüyle belirlenir.",
+  "islamicTradition": "Modern İslami rüya tabirleri ve ansiklopedik açıklamalarda, lisede öğrenci olmak iyi çalışma, başarı ve çevreden onay toplama gibi olumlu çağrışımlarla aktarılabilmektedir. İslâmî geleneğin rüya anlayışı rüyanın bağlamı, niteliği ve rüya türüne göre yorumlanmasını vurgular; eldeki modern tabirlerin klasik oneirolojik metinlere dayanmadığı gözetilmelidir.",
+  "christianTraditions": "Hristiyan yorumlama düzleminde okul/lise mekânı öğrenme, karakterin şekillenmesi ve disiplin süreçleriyle ilişkilendirilebilir; rüya, kişinin ruhsal olgunlaşma ya da itaat-sınavı dönemini sembolize edebilir. Bu tür yorumlar genellikle genel okul sembolizmasına dayanır ve bağlama göre değişir.",
+  "jewishTraditions": "Rabbinik gelenekte (ör. Berakhot tartışmaları) rüyaların yorumlanabileceği, ancak sembollerin sabit tek anlamlar taşımadığı vurgulanır. 'Lise' için doğrudan geleneksel bir kayıt yok; bu nedenle Yahudi yorum çerçevesi eğitim/öğrenme mekânı teması üzerinden kontrollü bir okuma sunar.",
+  "buddhistEasternApproaches": "Mahayana ve Tibet pratiklerinde rüyalar geçicilik ve bilinç pratiği bağlamında ele alınır; 'lise' görüntüsü sabit bir kehanet değil, zihinsel durumların geçici bir yansıması olarak okunur. Dzogchen bağlamındaki rüya yogası ise rüyada farkındalığı artırmaya odaklanır; doğrudan 'lise' yorumu sunmaz.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda, 'Lise' isminin ses benzerliği nedeniyle bazen 'fleur-de-lis' (flor de lis) ile ilişkilendirilebileceği düşünülür. Fleur-de-lis genelde saflık, aydınlanma, üçlü bütünlük ve ruhsal dönüşüm çağrışımları taşır; ancak bu eşleştirmenin rüya bağlamında doğrudan doğrulanmış bir kanıtı bulunmamaktadır.",
+  "comparisonTable": [
     {
-      "question": "Lise görmek geçmişe dönmek istediğim anlamına mı gelir?",
-      "answer": "Zorunlu olarak değil. Özlem, eski bir arkadaşlık, belirli bir olay veya tamamlanma duygusu farklı biçimlerde akla gelebilir. Rüyadaki duyguya bakmak bu ayrımı kolaylaştırır."
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Lise/okul imgeleri ergenlik dönemi stresleri, kimlik gelişimi ve performans kaygıları bağlamında içerik örüntüsü olarak ele alınır.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Lise rüyası sınavda başarısız olacağımı gösterir mi?",
-      "answer": "Hayır. Rüyadaki hazırlıksızlık veya gecikme sahnesi gelecekteki sınav sonucunu bildirmez. Gerçek hazırlığınız ve rüyada hissettiğiniz kaygı ayrı değerlendirilmelidir."
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Okul mekânı bireyleşme, öğrenme ve içsel sınanmayla ilişkilendirilir; doğrudan 'Lise' için özgün kaynak sınırlı olduğundan genel okul çerçevesinden sentez yapılır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Yaklaşım",
+      "interpretation": "Modern tabirlerde lise öğrenciği çalışmanın, başarının ve beğeni toplamanın mecazı olarak okunabilir; klasik oneiroloji kaynaklarıyla doğrudan eşleştirilemez.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik/Spiritüel Yaklaşım",
+      "interpretation": "Flor de lis gibi semboller yoluyla ruhsal dönüşüm ve saflık temalarıyla ilişkilendirilebilir; bu ilişki rüya bağlamında kesinlenmemiştir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, 'Lise' sembolünün sabit bir kehanet taşımadığını; öğrenme, gelişim, sorumluluk alma, kimlik oluşumu ve değerlendirilme gibi ortak temalar etrafında şekillendiğini kabul eder. Sembolün anlamı rüyayı gören kişinin yaşam bağlamı, duygusal tonu ve rüyanın işlevine göre değişir.",
+  "differences": "Ampirik yaklaşım rüyayı ergenlik dönemi stresleri ve ruhsal belirteçler bağlamında incelerken, Jungcu çerçeve rüyayı bireyleşme ve içsel gelişim talebi olarak okur. Dini ve ezoterik gelenekler ise sembolü kendi sembolik-dilsel çerçevelerinden değerlendirir ve tüm yaklaşımlar yorumun bağlama bağımlı olduğunu vurgular.",
+  "inusAssessment": "Lise rüyaları, yetişkinlik döneminde bile kişinin ergenlik çağının getirdiği kimlik arayışı, akran baskıları, ilk büyük başarı ve başarısızlık deneyimleri ile karşılaşma, geleceğe yönelik belirsizlik ve değerlendirilme kaygıları gibi spesifik sosyal-psikolojik dinamiklerle yeniden temas ettiği bir psikolojik eşiği işaret edebilir. Bu sembolün taşdığı anlam, rüya sahibinin o anki yaşam bağlamında bir sorumlulukla baş edip edemediğini veya önemli bir geçiş döneminden geçip geçmediğini gösteren duygu tonuyla biçimlenir.",
+  "faq": [
+    {
+      "question": "Rüyada kendini lise sınavına hazırlıksız hissetmek neye işaret eder?",
+      "answer": "Genellikle uyanık yaşamda üstlenilen önemli bir sınav, karar veya sorumluluk karşısında hissedilen yetersizlik ve performans baskısını yansıtır; bazen kariyer ya da eğitim yönelimine dair kaygılarla bağlantılıdır."
+    },
+    {
+      "question": "Rüyada eski lise arkadaşlarını veya lise ortamını görmek ne anlama gelir?",
+      "answer": "Geçmiş kimlik katmanlarıyla, o döneme ait sosyal rollerle veya çözülmemiş duygusal meselelerle yeniden temas kurma isteğini veya geçmişin bugünkü ilişki ve kimlik algılarını nasıl etkilediğini sorgulama ihtiyacını gösterebilir."
     }
   ],
   "sources": [
     {
-      "title": "From Adolescence to Young Adulthood in Two Dream Series: The Consistency and Continuity of Characters and Major Personal Interests",
-      "url": "https://dreams.ucsc.edu/Library/domhoff_schneider_2020.pdf",
-      "relevance": "İki genç kadının uzun dönem rüya dizilerini inceler; lise dönemi yaşam evresi olarak ayrılır. Lise binasını görmenin sabit anlamını araştırmaz.",
-      "author": "G. William Domhoff ve Adam Schneider",
-      "year": 2020
+      "title": "From Adolescence to Young Adulthood in Two Dream Series",
+      "relevance": "Ergenlerin rüya içeriklerini ve lise/okul çağındaki gelişimsel örüntüleri ele alan çalışma; 'lise' imgesinin ergenlik rüyalarında nasıl yer alabileceğine dair ampirik bağlam sağlar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_schneider_2020.pdf"
+    },
+    {
+      "title": "Doing Research Projects on Dream Content",
+      "relevance": "Rüya içerik analizinde kişiler, eylemler ve duyguların nasıl kodlandığını açıklayan bir yöntem rehberidir. Lise/okul imgelerinin içerik örüntüleri içinde nasıl değerlendirilebileceğini gösterir.",
+      "url": "https://dreams.ucsc.edu/projects.html"
+    },
+    {
+      "title": "The Quantitative Study of Dreams - U.C. Santa Cruz",
+      "relevance": "Rüya içerik çalışmalarının kapsam ve sınırlılıklarını özetleyen kaynak; lise/okul temalarının ampirik incelenmesinde yöntemsel çerçeve sunar.",
+      "url": "https://dreams.ucsc.edu/"
+    },
+    {
+      "title": "Dream motifs: A comparison of dream content for depressed and non-depressed adolescents",
+      "relevance": "Lise çağındaki ergenlerde rüya motifleri ile ruhsal durum arasındaki ilişkiyi inceleyen tez; okul imgelerinin duygudurum göstergeleriyle bağlantısını araştırır.",
+      "url": "https://digitalcommons.pace.edu/dissertations/AAI9501853/"
+    },
+    {
+      "title": "Association Between Dreams, Anxiety, and Depressive ... - PMC",
+      "relevance": "Ergenlerde rüya içeriği ile anksiyete ve depresif belirtiler arasındaki ilişkileri inceleyen ampirik çalışma; lise rüyalarının ruh sağlığı göstergeleri bağlamında değerlendirilmesine ışık tutar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12286153/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya sembolizmi tartışması; su imgelerinin doğum ve bedensel işlevlerle ilişkilendirildiğine dair klasik psikanalitik çerçeve sunar (lise için değil, rüyaların zaman zaman bedenle ilişkisini anlamak açısından yararlıdır).",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Jung on the Nature and Interpretation of Dreams - PMC",
+      "relevance": "Jung’un rüyaların dengeleyici ve gelişimsel işlevine dair kuramsal çerçevesi; okul/lise imgesine Jungcu perspektiften nasıl yaklaşılabileceğini anlamaya yardımcı olur.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4217604/"
+    },
+    {
+      "title": "Jung on Dreams: Part I - Jungian Center for the Spiritual Sciences",
+      "relevance": "Jung’un sembol anlayışını, rüyaların spontan görüntüler üretmesini ve sembollerin tek anlamlı işaretler değil çok katmanlı imgeler olmasını özetleyen Jungcu açıklama.",
+      "url": "https://jungiancenter.org/jung-on-dreams-part-i/"
+    },
+    {
+      "title": "İslami rüya tabirleri -L- harfi",
+      "relevance": "Lisede öğrenci olma temasını doğrudan veren modern bir rüya tabiri kaydı; eğitim, çalışma ve beğeni toplama çağrışımlarını içerir.",
+      "url": "https://ehlisunnetmedya.com/2015/03/islami-ruya-tabirleri-l-harfi/"
+    },
+    {
+      "title": "RÜYA - TDV İslâm Ansiklopedisi",
+      "relevance": "İslâmî rüya yorumlama geleneğinin sembolik dil ve yorum ilkelerini açıklayan ansiklopedik giriş; 'lise' için modern tabirlerin nasıl ele alınması gerektiğine ilişkin bağlam sunar.",
+      "url": "https://islamansiklopedisi.org.tr/ruya"
+    },
+    {
+      "title": "İslam'da Rüya Tabirleri ve Yorumları Nasıl Yapılır?",
+      "relevance": "Rüyaların sâdık, şeytanî ve nefsânî olarak ayrıldığı temel İslâmî çerçeveyi aktarır.",
+      "url": "https://www.islamveihsan.com/islamda-ruya-tabirleri-ve-yorumlari-nasil-yapilir.html"
+    },
+    {
+      "title": "It is Finished! - Apostle David E. Taylor [Official Site]",
+      "relevance": "Rüyada okulun kilise, öğretim, eğitim ve hizmet hazırlığıyla ilişkilendirilmesine dair bakanlık dili sunar.",
+      "url": "https://joshuamediaministries.org/dreams/school/"
+    },
+    {
+      "title": "11 Biblical Meaning of Dreaming of a School",
+      "relevance": "Hristiyan bağlamda okul rüyalarının öğrenme, büyüme ve disiplin temalarıyla okunmasına dair genel bir yorum sunar.",
+      "url": "https://biblicaldreamz.com/dreaming-of-a-school/"
+    },
+    {
+      "title": "Berakhot 55a-b: Dreams - Steinsaltz.org",
+      "relevance": "Rabbinik kaynaklardaki rüya tartışmalarına dair açıklama; Yahudi gelenekte rüyaların yorumlanabilirliği ve bağlama bağlı anlamlandırma ilkelerini gösterir.",
+      "url": "https://steinsaltz.org/daf/berakhot55/"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Rabbinik kaynaklarda rüyaların yorumlanabilirliği ve anlam potansiyeli üzerine metinleri bir araya getirir; rüya sembollerine yaklaşım için genel çerçeve sağlar.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Berakhot 55a-b ve ilgili rabbinik yaklaşım üzerinden rüyaların anlam, yorum ve sınırlarını özetler; Yahudi rüya okumasının temel ilkelerini gösterir.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams",
+      "relevance": "Mahayana bağlamında rüyaların geçicilik ve farkındalık uygulamaları çerçevesinde ele alınmasına dair popüler açıklama; rüya içeriğinin zihinsel durumun geçici bir yansıması olarak okunabileceğini vurgular.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Buddhist Dream Yoga by Chogyal Namkhai Norbu ...",
+      "relevance": "Tibet Budist rüya yogasının Dzogchen bağlamında uykuda ve rüyada farkındalık geliştirmeye dönük yönünü özetler.",
+      "url": "https://www.penguinrandomhouse.com/books/752438/buddhist-dream-yoga-by-chogyal-namkhai-norbu/"
+    },
+    {
+      "title": "[PDF] A DICTIONARY OF SYMBOLS - Esoteric Library",
+      "relevance": "Flor de lis ve ilgili ezoterik sembolizme dair derleme; spiritüel okumaların lise ile ses benzerliği üzerinden kurulan bağlantılarını yorumlarken referans alınabilir (rüya bağlamında doğrudan kanıt yoktur).",
+      "url": "https://esotericlibrary.weebly.com/uploads/5/0/7/7/5077636/a_dictionary_of_symbols__cirlot_.pdf"
+    },
+    {
+      "title": "Flor de lis: ¿qué es y cuál es su significado espiritual?",
+      "relevance": "Flor de lisin tarihsel ve dinsel anlamları arasında saflık, asalet ve üçlü simgesel yorumlar özetlenir; sembolün spiritüel çağrışımlarını anlamlandırmak için yararlı bir derleme sunar.",
+      "url": "https://www.iprofesional.com/actualidad/347800-flor-de-lis-que-es-y-cual-es-su-significado-espiritual"
+    },
+    {
+      "title": "La flor de lis, sus usos y significados",
+      "relevance": "Flor de lisin Hristiyan bağlamda saflık ve Bakire Meryem ile ilişkilendirilmesi anlatılır; üç yapraklı biçim üzerinden kutsal üçlüye yapılan yorum da aktarılır.",
+      "url": "https://www.familysearch.org/es/blog/la-flor-de-lis-sus-usos-y-significados-es"
+    },
+    {
+      "title": "¿Es demoníaca la flor de lis?",
+      "relevance": "Flor de lisin modern spiritüel yorumlarında saflık, dönüşüm ve beden-zihin-ruh dengesine dair açıklamalar yer alır; ezoterik sembol okuması için doğrudan bir örnek sağlar.",
+      "url": "https://masoneriaweb.com/informacion-detallada/es-demoniaca-la-flor-de-lis"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian",
+    "buddhist-eastern"
+  ]
 }

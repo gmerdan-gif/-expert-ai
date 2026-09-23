@@ -1,69 +1,166 @@
 {
   "slug": "gebelik-testi",
-  "title": "gebelik testi",
-  "shortDescription": "Rüyada gebelik testi, önemli bir sonucu bekleme ve belirsizlikle karşılaşma duygusunu öne çıkarabilir. Testin sonucu kadar ona verdiğiniz tepki de önemlidir.",
+  "title": "Gebelik testi",
+  "shortDescription": "Rüyada gebelik testi görmek, beklenen bir durumun netleşmesine ya da gelişen bir olasılığın görünür hâle gelmesine işaret edebilir. Testin sonucu ve rüyadaki duygular, bu netliğin umut, hayal kırıklığı, bekleyiş stresi veya karar baskısıyla ilişkisini gösterir.",
   "positiveAssociations": [
-    "Belirsizliğin sona ermesini istemek",
-    "Bir sonucu paylaşacak destek bulmak",
-    "Bir ihtimali açıkça konuşabilmek"
+    "Beklenen bir durumun doğrulanması (pozitif sonuç/kanıt)",
+    "Planlanan bir değişikliğin görünür hale gelmesi veya onaylanması",
+    "İçsel bir potansiyelin teyidi ve buna hazırlık",
+    "Yeni sorumluluklar veya rollerin başlamasına dair netlik"
   ],
   "challengingAssociations": [
-    "Sonucu beklerken gerilmek",
-    "Beklenmedik bir yanıtla karşılaşmak",
-    "Özel bir bilginin açığa çıkmasından çekinmek"
+    "Test sonucuna dair yoğun endişe ve bekleyiş stresi",
+    "Negatif sonuç ya da onaylanmama nedeniyle hayal kırıklığı",
+    "Tekrarlayan test yapma dürtüsüyle artan takıntı veya kararsızlık",
+    "Beklenen haberle birlikte gelen ani karar baskısı veya belirsizliğin sürmesi"
   ],
   "contextDependentAssociations": [
-    "Testin kime ait olduğu",
-    "Sonucun net veya belirsiz olması",
-    "Rüyada sonucu nasıl karşıladığınız"
+    "Testin pozitif/negatif çıkması ve bunun rüya sahibine yüklediği anlam",
+    "Rüyadaki bekleme süresi, sonucu görme anı ve duygu tonunun yoğunluğu",
+    "Testin evde mi yoksa klinikte mi yapıldığı; başkalarının tanıklığı veya gizlilik",
+    "Gündüz deneyimleri (beden farkındalığı, gerçek test bekleme durumu, infertilite öyküsü vb.)"
   ],
   "commonVariations": [
     {
-      "title": "Test sonucunu beklemek",
-      "description": "Bekleyiş sırasında yalnız mıydınız, yanınızda biri var mıydı? Sonucu istemek ile öğrenmekten çekinmek aynı anda bulunabilir; kendi duygunuzu tek bir arzuya indirgemeyin."
+      "title": "Çift çizgiyi beklemek",
+      "description": "Test çubuğunda belirgin iki çizgi veya pozitif işaret görmeyi beklemek; rüya genelde bir olasılığın 'kanıtlanma' anına dair yoğun duyguyu ve sonucu alma eşiğini temsil eder."
     },
     {
-      "title": "Rüyada pozitif sonuç görmek",
-      "description": "Sevinç, şaşkınlık veya kaygı farklı deneyimlerdir. Görüntü gerçek bir gebeliği doğrulamaz; kişisel değerlendirmede sonucu nasıl karşıladığınıza bakabilirsiniz."
+      "title": "Negatif sonuç almak",
+      "description": "Testin açıkça negatif çıktığını görmek; beklenen bir gelişmenin onaylanmaması veya hayal kırıklığıyla ilişkilidir."
     },
     {
-      "title": "Rüyada negatif sonuç görmek",
-      "description": "Rahatlama ile hayal kırıklığı birbirinden farklıdır. Bu sahne gerçek bir testin sonucunu bildirmez; rüyadaki beklenti ve duygu üzerinden düşünülebilir."
+      "title": "Birden çok test yapmak",
+      "description": "Üst üste test yaptığınızı görmek; sonuca ilişkin şüphe, kararsızlık ve aynı konuda tekrar tekrar teyit arama eğilimini gösterir."
     },
     {
-      "title": "Sonucu okuyamamak",
-      "description": "Silinen çizgi, bozulan ekran veya başka birinin testi alması belirsizliği farklı şekillerde oluşturabilir. Sonuca ulaşmanızı neyin engellediği sahnenin önemli bir ayrıntısıdır."
+      "title": "Başkasının test sonucuna şahit olmak",
+      "description": "Yakın birinin gebelik testini görmek veya sonucunu öğrenmek; başkalarının hayatındaki onay/inkar anlarına dair merak, ortak sorumluluk veya duyulan etkiyi simgeler."
     }
   ],
-  "psychology": "",
-  "jungian": "",
+  "psychology": "Ampirik çalışmalar, gebelik dönemindeki rüyaların anne-bebek, beden ve doğum temalarını daha sık içerdiğini; ileri gebelikte morbid içerik ve daha disforik duygu tonunun artabildiğini göstermektedir.",
+  "jungian": "Jungcu çerçevede gebelik, bilinçdışında gelişmekte olan yeni bir psikolojik içeriğin, kimliğin veya potansiyelin simgesidir. 'Gebelik testi' imgesi, bu gelişen potansiyelin bilince yaklaşması ve 'kanıtlanma/teyit' eşiğini temsil edebilir: henüz oluşmakta olan bir şeyin görünür hale gelmesi, onaylanması veya reddedilmesi anına işaret eder. Bu okuma yorumlayıcıdır; sembolün sabit bir anlamı yoktur; vurgulanan, rüya sahibinin bireysel süreciyle ilişkili işlevidir.",
   "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
+  "christianTraditions": "Modern Hristiyan yorumlarında gebelik testi rüyası, bazı kaynaklarda 'ilahi bir çağrının ya da vaadin teyidi', 'içsel bir sürecin görünürleşmesi' veya beklenen bir ilişkinin onaylanması temalarıyla yorumlanır. Bu tür okumalarda testin 'doğrulama' işlevi öne çıkar; ancak klasik patristik veya doktrinsel bir rüya öğretisi olarak doğrudan ve evrensel bir karşılığı yoktur, bu nedenle yorumlar modern ve bağlamsaldır.",
+  "jewishTraditions": "Klasik Yahudi oneirology kaynaklarında doğrudan 'gebelik testi' yer almaz; bunun yerine bağ, üzüm gibi doğurganlık imgeleriyle çocuk veya yeni hayat çağrışımı kurulmuştur. Dolayısıyla 'gebelik testi' sembolü, Yahudi gelenekleri açısından kontrollü biçimde doğurganlık ve ortaya çıkan hayat temaları üzerinden yorumlanabilir; doğrudan klasik bir 'test' maddesi mevcut değildir.",
   "buddhistEasternApproaches": "",
   "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Beklenen sonuç ve onu paylaşma biçimi, kişisel deneyiminizi düşünmek için ayrı ayrıntılardır.",
-  "differences": "Sağlık kaynağı gerçek testin işleyişini açıklar. Buradaki rüya sahneleri tıbbi bulgu veya psikolojik tanı değil, kişisel düşünme önerileridir.",
-  "inusAssessment": "Gebelik testi rüyasında sonuç kadar bekleme, mahremiyet ve paylaşma da önemlidir. INUS değerlendirmesi testin kime ait olduğunu ve sizin yaşadığınız duyguyu ayırır. Rüya ne gerçek gebeliği doğrular ne de kişinin mutlaka çocuk istediğini gösterir. Yeni bir başlangıç benzetmesi size anlamlı gelebilir, ancak bu da herkes için geçerli bir sembol karşılığı değildir.",
-  "faq": [
+  "comparisonTable": [
     {
-      "question": "Rüyada pozitif test görmek hamile olduğumu gösterir mi?",
-      "answer": "Hayır. Gerçek gebelik testleri hCG hormonunu ölçer; rüyada görülen çizgi veya sonuç böyle bir ölçüm değildir. Gerçek bir test kullanırken ürünün talimatları izlenmelidir."
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Rüyanın gündüz beden farkındalığı, stres ve yaşam durumu değişiklikleriyle bağlantısı; test-imgesinin bekleyiş ve sonuç alma dinamiklerini yansıtması.",
+      "evidenceLevel": "research"
     },
     {
-      "question": "Bu rüya mutlaka çocuk istediğim anlamına mı gelir?",
-      "answer": "Hayır. Rüyadaki sevinç, korku, bekleyiş veya merak tek başına gerçek hayattaki isteğinizi belirlemez. Kendi düşüncelerinizi rüyadan ayrı olarak değerlendirebilirsiniz."
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Henüz ortaya çıkmamış psikolojik bir potansiyelin bilince yaklaşması; 'test' imgesi doğrulama/kanıtlama eşiği olarak okunur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Modern Hristiyan kaynaklarda testin doğrulama/onaylama işlevi, bir vaadin veya çağrının görünür hale gelmesi çerçevesinde ele alınır (bağlamsal, modern yorumlar).",
+      "evidenceLevel": "traditional"
     }
   ],
+  "commonGround": "Farklı yaklaşımlar 'gebelik testi' sembolünü, sabit bir kehanet olarak değil; bir belirsizliğin çözüm eşiği, potansiyelin kanıtlanması veya bekleyişin netleşme anı olarak görür. Yani ortak vurgu 'test'in doğrulama/sonuç alma işlevi ve rüya sahibinin buna yüklediği duygusal ton üzerinedir.",
+  "differences": "Psikolojik yaklaşımlar sembolü beden algısı ve gündüz deneyimleri bağlamında ele alırken; Jungcu okumalar imgeyi içsel dönüşümün ve potansiyelin bilince erişme eşiği olarak yorumlar. Hristiyan bağlamında ise bazı modern yorumlar bu onayı ilahi vaatlerle ilişkilendirir; bu son yorumlar geleneksel bir doktrin olarak değil, çağdaş yorumlama örnekleri olarak değerlendirilmelidir.",
+  "inusAssessment": "Gebelik testi sembolü için belirleyici unsurlar: test sonucunun görünür olup olmadığı (pozitif/negatif/şaşırtıcı belirsizlik), rüya sırasındaki bekleme deneyimi ve duygu yoğunluğu, testin kim tarafından görüldüğü ve gündüzde benzer bir bekleyişin olup olmadığı.",
+  "faq": [],
   "sources": [
     {
-      "title": "Doing a pregnancy test",
-      "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/",
-      "relevance": "NHS gerçek gebelik testlerinin hCG ölçtüğünü ve talimatların izlenmesini açıklar. Rüya yorumunu destekleyen kaynak değildir."
+      "title": "Maternal representations in the dreams of pregnant women: a prospective comparative study",
+      "relevance": "Gebelik dönemindeki rüyaların anne-bebek, beden ve duygusal tonla nasıl ilişkilendiğini gösteren ampirik çalışma; 'gebelik testi' imgesinin beden farkındalığı ve duygusal bekleyişle bağlantısını destekler.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753535/"
+    },
+    {
+      "title": "The association between dream activity and alexithymia during ...",
+      "relevance": "Gebelik dönemi rüya etkinliği, kabus sıklığı ve duygu tonu ile gündüz süreçleri arasındaki ilişkileri özetleyen ampirik literatür; test imgesinin duygu ve stresle bağlantılı yorumunu güçlendirir.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jsr.14423"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya yorumları; gebelik, çocuk, rahim ve su imgelerinin nasıl sembolik yer değiştirebileceğini gösterir ve 'test' imgesine sembolik bir bağlam sağlar (doğrudan 'gebelik testi' değil).",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Jung | Pregnancy as the Birth of a 'New Self'—The Symbol of ...",
+      "relevance": "Jungcu literatürde gebelik imgesinin yeni bir psikolojik içeriğin doğuşu olarak okunması; 'gebelik testi' imgesinin doğrulama eşiği olarak yorumlanmasına teorik temel sunar.",
+      "url": "https://note.com/ready_tern4033/n/nf342ea11fac4?hl=en"
+    },
+    {
+      "title": "Detecting the Baby: The Home Pregnancy Test",
+      "relevance": "Ev tipi gebelik testinin modern kültürde nasıl bir eşik nesnesi ve sembolik an haline geldiğini anlatır; rüyada test imgesinin çağrışımlarını kültürel bağlamda destekler.",
+      "url": "https://academic.oup.com/book/32412/chapter/268719569?searchresult=1"
+    },
+    {
+      "title": "Before There Were Home Pregnancy Tests",
+      "relevance": "Gebelik testlerinin tarihsel ve kültürel bağlamını sunar; test nesnesinin farklı kişiler için farklı duygusal ve sosyal yükler taşıyabileceğini gösterir.",
+      "url": "https://www.theatlantic.com/health/archive/2015/06/history-home-pregnancy-test/396077/"
+    },
+    {
+      "title": "Thin blue lines: product placement and the drama of ...",
+      "relevance": "Gebelik testinin sinema ve televizyonda anlatısal bir işaret olarak nasıl kullanıldığını inceler.",
+      "url": "https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/thin-blue-lines-product-placement-and-the-drama-of-pregnancy-testing-in-british-cinema-and-television/D47CCF928477D0E635F199BFD1E1923F"
+    },
+    {
+      "title": "A Brief History of Pregnancy Tests | EPT HCG ...",
+      "relevance": "Tarih boyunca gebeliği idrarla saptamaya dönük uygulamaları özetler.",
+      "url": "https://www.livescience.com/37128-history-of-pregnancy-tests-ept-hcg.html"
+    },
+    {
+      "title": "Pregnancy Testing Through the Ages | myadlm.org",
+      "relevance": "Eski Mısır'da tahıl filizlenmesine dayalı gebelik testi anlatısını tarihsel bir çizgi içinde sunar.",
+      "url": "https://myadlm.org/cln/cln-industry-insights/2020/pregnancy-testing-through-the-ages"
+    },
+    {
+      "title": "Thin Blue Line: A History of the Pregnancy Test",
+      "relevance": "Gebelik testinin erken tarihini eski Mısır papirüsleri ve idrar-tahıl deneyi üzerinden özetler.",
+      "url": "https://history.nih.gov/illustrated-histories/thin-blue-line-the-history-of-the-pregnancy-test/"
+    },
+    {
+      "title": "Pregnancy test history 101 — Clearblue®",
+      "relevance": "Gebelik testlerinin tarihsel gelişimini ve eski uygulamalarla modern testler arasındaki çizgiyi özetler.",
+      "url": "https://www.clearblue.com/pregnancy-tests/pregnancy-test-history-101"
+    },
+    {
+      "title": "Spiritual Meaning of Dream About Pregnant",
+      "relevance": "Gebelik testi rüyasını doğrudan ele alan ve Hristiyan dilinde yorumlayan modern bir çevrimiçi kaynak; rüyada test yapma temasını korku, umut ve çocuk sahibi olma arzusu ile ilişkilendiriyor.",
+      "url": "https://evangelistjoshua.com/spiritual-meaning-of-dream-about-pregnant/"
+    },
+    {
+      "title": "Positive Pregnancy Test In A Dream - Biblical & Spiritual Meaning - Bible Wings",
+      "relevance": "Pozitif gebelik testi rüyasını Hristiyan sembolik dilinde yeni başlangıç ve büyüme temalarıyla ilişkilendiren modern bir çevrimiçi açıklama.",
+      "url": "https://biblewings.com/biblical-meaning-positive-pregnancy-test-dream/"
+    },
+    {
+      "title": "What is the Biblical meaning of dreaming about pregnancy? | What the Bible Says | BibliFocus",
+      "relevance": "Gebelik testi ve gebelik rüyalarını İncil temalarıyla birleştirerek yeni hayat, büyüme ve Tanrı’nın planlarının açığa çıkması gibi sembolik okumalar sunan modern bir çevrimiçi yazı.",
+      "url": "https://biblifocus.com/blog/what-is-the-biblical-meaning-of-dreaming-about-pregnancy/"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Rabbanî metinlerde rüya sembollerinin nasıl ele alındığına dair kaynak derlemesi; 'gebelik testi' sembolünü Yahudi gelenekinin doğurganlık temaları üzerinden kontrollü okumaya izin verir.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Yahudi rüya geleneğinin sembolik yorum yaklaşımını özetler; doğrudan 'gebelik testi' olmasa da doğurganlık imgelerinin nasıl yorumlandığı konusunda bağlamsal bilgi sağlar.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Bağ, üzüm ve çocuk gibi imgelerin rüya yorumunda doğurganlık ve hamilelikle ilişkilendirildiğini aktarır.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Dreams in Jewish Tradition",
+      "relevance": "Yahudi geleneğinde rüyaların dini anlamı ve mesaj taşıma ihtimali üzerine genel çerçeve sunar.",
+      "url": "https://www.myjewishlearning.com/article/dreams-dream-interpretation/"
     }
   ],
-  "relatedSlugs": [
-    "gebelik-testinde-cift-cizgi"
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "christian"
   ]
 }

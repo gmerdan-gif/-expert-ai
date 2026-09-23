@@ -1,69 +1,192 @@
 {
   "slug": "piramit",
-  "title": "piramit",
-  "shortDescription": "Rüyada piramit, büyük bir yapıyla karşılaşma, yükselme veya içini keşfetme isteğini çağrıştırabilir. Yapının dışında mı içinde mi olduğunuz ve izlediğiniz yol önemlidir.",
+  "title": "Piramit",
+  "shortDescription": "Rüyada piramit görmek, kurduğunuz temellerden daha yüksek bir hedefe yönelme isteğini ve maddi düzenle içsel arayış arasındaki dengeyi simgeleyebilir. Piramidin neresinde bulunduğunuz ve rüyanın duygusu, bu sürecin çaba, dönüşüm ya da kendinizi sorgulama yönünü öne çıkarabilir.",
   "positiveAssociations": [
-    "Büyük bir yapıyı keşfetmek",
-    "Tarihî bir yere duyulan merak",
-    "Bir şekli veya modeli tamamlamak"
+    "İnsan yapımı ve hırs",
+    "Temel ve sağlam yapı",
+    "Yukarı doğru yöneliş",
+    "Katmanlı yükseliş",
+    "Merkezden zirveye yönelim",
+    "Manevi ilerleme",
+    "Bütünleşme ve dönüşüm"
   ],
   "challengingAssociations": [
-    "Dar bir geçitte sıkışmak",
-    "Yapının büyüklüğü karşısında ürkmek",
-    "İçeride yönünü bulamamak"
+    "Dünyevi hedefler ile ruhsal yönelim arasındaki gerilim",
+    "Geçicilik ve bağlanma üzerine düşünme",
+    "Eski kişiliğin çözülmesi"
   ],
   "contextDependentAssociations": [
-    "Tarihî yapı, maket veya geometrik biçim olması",
-    "Dışarıdan bakmak veya içine girmek",
-    "Geçitler, ışık ve eşlik eden kişiler"
+    "Rüya bağlamının tonu",
+    "Kişinin yaşam evresi",
+    "Rüyanın hareket ekseni",
+    "Maddi temel ile ruhsal arayışın dengesi"
   ],
   "commonVariations": [
     {
-      "title": "Uzaktan büyük bir piramit görmek",
-      "description": "Onu bir gezide mi, tanımadığınız bir yerde mi gördüğünüzü düşünün. Yapının büyüklüğüne duyulan hayranlık ile yaklaşmaktan çekinmek farklı çağrışımlar yaratabilir."
+      "title": "Büyük Bir Piramidin Tepesine Tırmanmak",
+      "description": "Rüya sahibinin maddi veya manevi hayatta bir hedefe ulaşmak için katmanları aşarak yukarı yönlü çaba sarf ettiğini gösterir."
     },
     {
-      "title": "Piramidin içinde bir geçitte ilerlemek",
-      "description": "Nereye gittiğinizi biliyor muydunuz, yanınızda rehber veya başka biri var mıydı? Rüyadaki merak ve tedirginliği, görülen yapıdan ayrı olarak kaydedebilirsiniz."
+      "title": "Geniş Tabanlı Bir Yapının İçinde Bulunmak",
+      "description": "Kişinin hayatındaki temel yapıyı, içsel mimarisini ve kurduğu düzeni incelediği bir odaklanma anını temsil eder."
     },
     {
-      "title": "Küçük bir piramit modeli yapmak",
-      "description": "Burada tarihî bir mekândan çok elinizdeki iş, şekil ve tamamlanma süreci öne çıkabilir. Parçaların yerleşmesi veya modelin dağılması karşısındaki tepkiniz önemlidir."
+      "title": "Çölde Yalnız Duran Bir Piramit Görmek",
+      "description": "Zamanın geçiciliği, kadim bilgelik ve rüya sahibinin kendi iç dünyasındaki ıssız veya derin alanlarla karşılaşmasını simgeler."
     },
     {
-      "title": "Hasarlı bir piramidi incelemek",
-      "description": "Yapının hangi bölümünün hasarlı olduğunu ve ona nasıl yaklaştığınızı hatırlamaya çalışın. Bir kalıntıyı görmek, kendi hayatınızda bir şeyin yıkılacağını haber vermez."
+      "title": "Karanlık veya Gizli Bir Piramit Odası",
+      "description": "Bilinçdışının derinliklerinde saklı kalan potansiyelleri, çözülmeyi bekleyen eski kalıpları ve dönüşüm süreçlerini yansıtır."
     }
   ],
-  "psychology": "",
-  "jungian": "",
+  "psychology": "Piramit sembolüne özgü doğrudan ampirik rüya çalışması bulunmamaktadır. Bilimsel psikoloji bağlamında rüyalar içerik, sıklık, duygu tonu ve bağlam üzerinden incelenir, ancak piramit gibi spesifik mimari formlar için sabit bir ampirik karşılık saptanmamıştır.",
+  "jungian": "Jungcu literatürde piramit, arketipsel bir merkez, bütünlük ve bireyleşme yönünde yükselişle ilişkilendirilir. Dörtgen tabanı ile tek bir tepe noktasını birleştiren yapısı sayesinde karşıtların birliğini, psişik merkezlenmeyi ve aşağıda gömülü olanla yukarıda yükselenin bağlandığı bir bedensel mandala imgesini çağrıştırır.",
   "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Yapının biçimi, bulunduğunuz yer ve yaptığınız şey farklı ayrıntılardır.",
-  "differences": "Mısır’daki belirli yapıların tarihsel işlevi, her piramit rüyasına uygulanacak bir anlam değildir.",
-  "inusAssessment": "Piramit rüyasında önce bir tarihî yapı mı, yoksa yalnız piramit biçiminde bir nesne mi görüldüğünü ayırmak yararlıdır. The Met’in Eski Krallık incelemesi Mısır’daki kraliyet piramitlerini mezar kompleksleri içinde açıklar. Bu belirli tarihsel bağlam bütün piramit biçimlerine veya rüyalara uygulanamaz. INUS, keşif, büyüklük ve içeri girme gibi ayrıntıları kişisel düşünme önerileri olarak ele alır. Rüya, gizli enerjiye erişildiğinin, ruhsal yükselişin veya yaklaşan ölümün kanıtı değildir.",
-  "faq": [
+  "christianTraditions": "Hristiyan yorum geleneğine yakın bazı yaklaşımlarda piramit, güçlü temel ve Tanrı’nın gizemleriyle ilişkilendirilen sembolik bir imge olarak ele alınır.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyaların sembolik olarak yorumlandığı ve bağlama göre anlam kazandığı vurgulanır. Doğrudan bir piramit kaydı olmasa da, dünya tasavvurunun katmanlı bir düzen olarak ele alınması, piramidi kozmik hiyerarşi ve yapı temalarıyla ilişkilendiren dolaylı bir çerçeve sunar.",
+  "buddhistEasternApproaches": "Tibet Budist sembolizminde boş uzayda beliren ters piramit biçimindeki dharmodaya formu veya stupanın unsurlarını oluşturan katmanlı yapı, maddeden manevi uzanımı işaret eden sembolik bir çerçeve sunar.",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda piramit, yapı, hırs, yükseliş ve ruhsal bütünleşme sembolü olarak değerlendirilir. Geniş taban maddi temeli, daralan tepe noktası ise daha yüksek bir ilkeye veya içsel bilgelik arayışına yönelişi temsil eder.",
+  "comparisonTable": [
     {
-      "question": "Piramit görmek ölüm haberi mi?",
-      "answer": "Hayır. Bazı tarihî piramitlerin mezar işlevi olması, onları rüyada görmenin bir ölümü haber verdiği anlamına gelmez."
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Gizli içerik, istek doyumu ve zihinsel yoğunlaştırma süreçlerinin mimari bir biçimde temsil edilmesi.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Piramide girmek gizli bilgiye eriştiğimi gösterir mi?",
-      "answer": "Böyle bir sonuç çıkarılmaz. Rüyada neyi aradığınız, ne gördüğünüz ve içeride nasıl hissettiğiniz üzerine düşünebilirsiniz; bu gerçek bir bilgi kaynağını doğrulamaz."
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Self, psişik bütünlük, merkezlenme ve dönüşüm yönünde yükseliş arketipi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Katmanlı hiyerarşi, kozmik düzen ve bağlamsal rüya okuması.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Ezoterik ve Spiritüel Yaklaşım",
+      "interpretation": "Maddi temelden ruhsal arayışa geçiş, içsel mimari ve kadim bilgelik.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve yaklaşımlar, piramidin katmanlı yapısı sayesinde tek bir düzleme indirgenemeyen, aşağıdan yukarıya doğru bir hareketi ve içsel bir mimariyi temsil ettiği konusunda birleşir.",
+  "differences": "Psikanalitik yaklaşım imgeyi bastırılmış süreçlerin ve istek doyumunun dolaylı bir biçimi olarak ele alırken, Jungcu perspektif bütünleşme ve Self arketipini öne çıkarır; spiritüel ve ezoterik okumalar ise maddi temel ile ruhsal yükseliş arasındaki dengeye odaklanır.",
+  "inusAssessment": "Rüyada piramit görülmesi, sabit bir sözlük anlamından ziyade geniş tabanlı bir yapıdan daralan zirveye doğru uzanan hareket ekseniyle okunmalıdır. Kişinin rüyada yapının neresinde bulunduğu, tepeye tırmanıp tırmanmadığı veya yapının içindeki duygusal tonu, dünyevi hedefler ile içsel/ruhsal yönelim arasındaki gerilimi belirleyen temel unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada piramit görmek kesin bir başarıya mı işaret eder?",
+      "answer": "Hayır. Piramit sembolü sabit bir gelecek tahmini veya kesin bir başarı anlamı taşımaz; rüya sahibinin hedefleri, kurduğu yaşam temeli ve yükseliş arzusu arasındaki psikolojik dengeyi yansıtan bir imgedir."
+    },
+    {
+      "question": "Piramidin tabanı rüyada neyi temsil eder?",
+      "answer": "Farklı yorum geleneklerinde geniş taban, genellikle maddi temeli, yaşamın pratik zeminini ve kişinin kurduğu yapısal düzeni simgeler."
     }
   ],
   "sources": [
     {
-      "title": "Egypt in the Old Kingdom (ca. 2649–2130 B.C.)",
-      "url": "https://www.metmuseum.org/essays/egypt-in-the-old-kingdom-ca-2649-2150-b-c",
-      "relevance": "Eski Krallık kraliyet piramitleri ve mezar komplekslerini açıklayan tarihsel müze incelemesinin ilgili bölümleri okundu. Rüya yorumu veya piramit enerjisi araştırması değildir.",
-      "author": "Tara Prakash",
-      "year": 2019
+      "title": "Page:Freud - The interpretation of dreams.djvu/295 - Wikisource, the free online library",
+      "relevance": "Freud’un rüya kuramında gizli içerik, yoğunlaştırma, yer değiştirme ve istek doyumu ilkelerini gösteren temel metin.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/295"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part c - Classics in the History of Psychology",
+      "relevance": "Rüya yorumunda bastırılmış isteklerin kılık değiştirmiş biçimde temsil edildiğini ve bazı mekânsal imgelerin beden/rahim çağrışımları taşıyabildiğini gösteren klasik Freud metni.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "Pyramid | Carl Jung: The dead and buried Self that appears in the pyramid,",
+      "relevance": "Piramit imgesinin arketipsel merkez ve Self ile ilişkisini anlatan Jungcu pasajı içerir.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/02/05/pyramid-2/"
+    },
+    {
+      "title": "Marie-Louise von Franz: The Maker of Dreams",
+      "relevance": "Piramitin Self imgesi olarak okunmasını ve dört yanlı yapının bütünlük çağrışımını aktaran Jungcu pasajı içerir.",
+      "url": "https://carljungdepthpsychologysite.blog/2023/04/09/dreams-21/"
+    },
+    {
+      "title": "Carl Jung on Pyramids, Death and Resurrection.",
+      "relevance": "Piramitin ölüm, yeniden doğuş ve kişiliğin dönüşümüyle ilişkilendirildiği Jungcu alıntıyı içerir.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/07/23/carl-jung-on-the-pyramids-death-and-resurrection/"
+    },
+    {
+      "title": "Lecture 4 Psychological Interpretation of Children's Dreams (Winter ...",
+      "relevance": "Piramitin bedensel mandala ve ruhun yücelmesiyle ilişkilendirildiği Jungcu yorum pasajını içerir.",
+      "url": "https://carljungdepthpsychologysite.blog/2021/12/18/dreams-30/"
+    },
+    {
+      "title": "pyramid",
+      "relevance": "Piramit rüyasını güçlü temel ve Tanrı’nın gizemleriyle ilişkilendiren Hristiyan içerikli bir çevrimiçi yorum.",
+      "url": "https://joshuamediaministries.org/dreams/pyramid/"
+    },
+    {
+      "title": "DREAMS - JewishEncyclopedia.com",
+      "relevance": "Yahudi rüya yorumunun klasik çizgisini ve rüyaların sembolik yorumlanışını özetleyen genel kaynak.",
+      "url": "https://www.jewishencyclopedia.com/articles/5311-dreams"
+    },
+    {
+      "title": "Jacob's Dream: What are the Angels Doing?",
+      "relevance": "Yakup’un düşü üzerinden dünyanın katmanlı bir ‘piramit’ düzeni gibi okunabildiğini anlatan Yahudi yorum materyali.",
+      "url": "https://www.sefaria.org/sheets/691857"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Talmud’daki rüya anlayışını ve rüyanın anlam taşıyabilen bir deneyim olarak ele alınışını gösteren temel metin derlemesi.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Yahudi gelenekte rüyaların bağlama göre yorumlanması ve bazı rüyaların anlamlı kabul edilmesi üzerine ders notu.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "1999%20Encyclopedia%20of%20Tibetan%20Symbols%20and%20Motifs%20by%20Beer%20s.pdf",
+      "relevance": "Tibet Budist ikonografisinde ters piramit biçimli dharmodaya kavramını anlatan kaynak.",
+      "url": "https://pahar.in/pahar/Books%20and%20Articles/Tibet%20and%20China/1999%20Encyclopedia%20of%20Tibetan%20Symbols%20and%20Motifs%20by%20Beer%20s.pdf"
+    },
+    {
+      "title": "Buddhist Symbols",
+      "relevance": "Stupanın unsurlarını ve yükselen yapısının manevi anlamını açıklayan Budist sembolizm kaynağı.",
+      "url": "https://viewonbuddhism.org/general_symbols_buddhism.html"
+    },
+    {
+      "title": "Pyramid Dreams: Structure, Mystery, and the Climb Toward ...",
+      "relevance": "Piramitin rüyadaki anlamını doğrudan ele alan, yapı-bütünleşme-yükseliş eksenli bir modern spiritüel yorum sunuyor; taban, kenarlar ve tepe üzerinden sembolik okuma veriyor.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/pyramid"
+    },
+    {
+      "title": "Dream Interpretation and Meaning of Pyramid in Dreams",
+      "relevance": "Piramit rüyasını yapı, içsel mimari, üçgenlik, dönüşüm ve ruhsal arayış üzerinden yorumlayan modern bir spiritüel kaynak sunuyor.",
+      "url": "https://www.cafeausoul.com/oracles/dream-dictionary/pyramid/"
+    },
+    {
+      "title": "Pyramid, dream interpretation, interpreter of dreams, dreams, dream, esotericism, astrology",
+      "relevance": "Piramidi rüyada yükseliş, bilgi, ruhsal bütünleşme ve ölüm/yeniden doğuş temalarıyla ilişkilendiriyor; ezoterik yorum için doğrudan bir metin sağlıyor.",
+      "url": "http://www.dreamtation.com/docs/3594.htm"
+    },
+    {
+      "title": "The Pyramid’s Influence On Western Esoteric Traditions",
+      "relevance": "Piramidin ezoterik sembolizm içinde hiyerarşi, yükseliş, kadim bilgelik ve dönüşümle ilişkilendirilişini açıklayan modern bir spiritüel derleme sunuyor.",
+      "url": "https://alexandria322.wordpress.com/the-pyramids-influence-on-western-esoteric-traditions/"
+    },
+    {
+      "title": "Pyramid Dream Meaning & Interpretation - Mirror",
+      "relevance": "Piramidi çok katmanlı yapı, ruhsal yükseliş, gizem ve içsel keşif bağlamında ele alan modern spiritüel yorum veriyor.",
+      "url": "https://mirrorwithin.org/dream-dictionary/pyramid/"
+    },
+    {
+      "title": "Pyramid in dream interpretation: Pyramid as a dream symbol",
+      "relevance": "Piramidin sembolik anlamını yapı, hedef, ruhsal arayış ve maddi ile manevi alanların birleşimi üzerinden anlatan modern bir yorum sunuyor.",
+      "url": "https://www.astroportal.com/en/dream-interpretation/pyramid/"
+    },
+    {
+      "title": "The Great Pyramid Revealed: A Scientific and Esoteric Decoding",
+      "relevance": "Büyük Piramit’i ezoterik dönüşüm, yükseliş ve ruhsal sembolizm bağlamında okuyan bir yazı; piramit figürünün manevi yorumlarına örnek sağlıyor.",
+      "url": "https://dreadavinci.com/blogs/the-real-davinci-code/the-great-pyramid-revealed-a-scientific-and-esoteric-decoding"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian",
+    "buddhist-eastern"
+  ]
 }

@@ -1,67 +1,193 @@
 {
   "slug": "trafik",
-  "title": "trafik",
-  "shortDescription": "Rüyada trafik, başkalarıyla aynı akışta ilerleme veya beklemek zorunda kalma deneyimini öne çıkarabilir. Yoğunluk, yön ve sürücü mü yolcu mu olduğunuz önemlidir.",
+  "title": "Trafik",
+  "shortDescription": "Rüyada trafik görmek, ilerleme isteği, zaman baskısı ve dış koşulların temponuzu etkilemesiyle ilişkilendirilebilir. Trafiğin akıcı ya da sıkışık olması, yolunuzun açık olup olmadığına veya bir süre beklemeniz gerekip gerekmediğine işaret edebilir.",
   "positiveAssociations": [
-    "Birlikte hareket eden akışa katılmak",
-    "Bekleyişin ardından ilerlemek",
-    "Ulaşılacak yere yaklaşmak"
+    "Kolektif akış ve ritimle uyum içinde hareket etme",
+    "Hedefe doğru engelsiz ve akıcı bir şekilde ilerleme",
+    "Yön ve güzergah belirlemede netlik",
+    "Zamanlama ve durma-kalkma dengesini koruma"
   ],
   "challengingAssociations": [
-    "Sıkışıklıkta beklemek",
-    "Geç kalma baskısı",
-    "Başkalarının hareketlerini öngörememek"
+    "İlerlemenin askıya alınması veya ani gecikmelerle karşılaşma",
+    "Dış koşulların ve başkalarının temposunun baskısı altında kalma",
+    "Zaman baskısı ve sıkışmışlık hissi",
+    "Yön kaybı veya yanlış kavşaklarda takılıp kalma"
   ],
   "contextDependentAssociations": [
-    "Sürücü, yolcu veya yaya olmanız",
-    "Trafiğin durması veya akması",
-    "Bir yere yetişmeye çalışıp çalışmadığınız"
+    "Yoğun bir trafik sıkışıklığında kalmak ile akıcı bir yolda ilerlemek arasındaki duygu tonu farkı",
+    "Kişinin uyanık yaşamındaki gündelik stresörler ve zaman yönetimi baskıları",
+    "Toplumsal kurallar, güvenlik ve başkalarıyla paylaşılan alan arasındaki ilişki"
   ],
   "commonVariations": [
     {
-      "title": "Trafikte sıkışıp kalmak",
-      "description": "Beklerken neye yetişmeye çalıştığınızı ve yapabileceğiniz bir şey olup olmadığını düşünün. Sabırsızlık, çaresizlik veya beklemeyi kabullenmek farklı deneyimlerdir."
+      "title": "Ağır Aksak İlerleyen Trafik Sıkışıklığı",
+      "description": "Araçların arasında sıkışıp kaldığını ve hareket edemediğini görmek, uyanık yaşamda hissedilen engellenme, askıya alınmış projeler ve dış baskılarla ilişkilendirilir."
     },
     {
-      "title": "Yolcu olarak trafiği izlemek",
-      "description": "Aracı başkasının kullanması ile sizin sürmeniz aynı durum değildir. Sürücüye güvenip güvenmediğiniz, varış noktasından daha fazla dikkatinizi çekmiş olabilir."
+      "title": "Akıcı ve Düzenli Akan Yol",
+      "description": "Hiç durmadan ve sorunsuz ilerleyen bir trafik akışı izlemek, yaşam yolunda hissedilen uyum, ritim ve hedeflere doğru engelsiz bir geçiş dönemine işaret edebilir."
     },
     {
-      "title": "Yoğun trafikte karşıya geçmeye çalışmak",
-      "description": "Boşluk aramak, yardım almak veya beklemek sahnenin ayrı parçalarıdır. Kendinizi güvende hissettiğiniz anın ne zaman değiştiğine bakabilirsiniz."
+      "title": "Kırmızı Işıkta Beklemek",
+      "description": "Trafik ışıklarında durmak zorunda kalmak, zamanlama, sabır, duraklama ihtiyacı ve dışsal sınırlara riayet etme temalarını öne çıkarır."
     },
     {
-      "title": "Trafiğin birden açılması",
-      "description": "Rahatlama yalnız hareket etmekten mi, gecikme korkusunun bitmesinden mi geliyordu? Önceki bekleyiş ile sonrasındaki duygu arasındaki farkı düşünün."
+      "title": "Yanlış Şeride Girmek veya Yön Kaybetmek",
+      "description": "Karmaşık bir kavşakta yanlış yola saptığını fark etmek, mevcut hedefleri gözden geçirme, yön değişikliği ihtiyacı ve kararsızlık hallerini yansıtır."
     }
   ],
-  "psychology": "Rüya içerik analizi, kişileri, eylemleri, mekânı ve duyguları ayrı kategorilerde inceler. Trafik sahnesinde sürücü olmanızla yolcu olmanız veya beklemenizle hareket etmeniz ayrı ayrıntılardır. Bu sınıflama trafiğe tek bir psikolojik anlam vermez.",
-  "jungian": "",
+  "psychology": "Ampirik psikoloji literatüründe \"trafik\" sembolü için tek ve standartlaştırılmış bir rüya anlamı bulunmamaktadır. Bununla birlikte, rüyalardaki hareket engelleri, zaman baskısı ve dış çevre uyaranları, bireyin günlük yaşamındaki stresörleri, kontrol kaybı hissini ve sosyal çevreyle olan etkileşimlerini yansıtan dolaylı göstergeler olarak ele alınır.",
+  "jungian": "Jungcu yaklaşıma göre trafik, bireyin yönelimi ile dışsal toplumsal düzen ve kolektif koşullar arasındaki gerilimi simgeler. Trafik akışının bozulması ya da sıkışması, psikolojik ilerlemenin askıya alınmasını, bilinçli iradenin sınırlanmasını ve bireyin içsel bir yön değişikliğine veya yeniden yapılanmaya duyduğu ihtiyacı gösterir.",
   "islamicTradition": "",
-  "christianTraditions": "",
-  "jewishTraditions": "",
-  "buddhistEasternApproaches": "",
-  "spiritualApproaches": "",
-  "comparisonTable": [],
-  "commonGround": "Hareket ve bekleme, rüyadaki zaman duygusunu düşünmek için somut ayrıntılardır.",
-  "differences": "Bir içerik kategorisi ile yaşamınız hakkında kesin sonuç aynı şey değildir.",
-  "inusAssessment": "Trafik rüyasında araçların çokluğu kadar sizin konumunuz önemlidir. Sürücü, yolcu ve yaya aynı ölçüde karar vermez veya aynı şeyleri görmez. INUS, bekleme, zaman baskısı ve hareket alanını rüyanın somut ayrıntılarıyla ele alır. Trafiğin tıkanması yaşamınızın mutlaka tıkandığını, açılması da yakın zamanda bütün sorunların çözüleceğini göstermez.",
-  "faq": [
+  "christianTraditions": "Hristiyan sembolik geleneğinde modern anlamda bir trafik terimi yer almasa da, yol, dar geçit, yön işaretleri ve sabırla bekleme gibi kavramlar üzerinden bir yaşam metaforu olarak okunabilir. Yolun açık olması ya da kapanması, kişinin manevi yolculuğundaki kararlar ve dışsal imtihanlarla ilişkilendirilebilir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyaların kişinin gündüz düşüncelerinden, zihinsel meşguliyetlerinden ve etrafındaki olaylardan etkilendiği vurgulanır. Modern Yahudi etik okumalarında trafik ışıkları ve yol güvenliği; durma, zamanlama, dikkat, başkalarına zarar vermeme ve toplumsal sorumluluk gibi temalarla bağdaştırılarak rüyalara dolaylı bir zemin sunar.",
+  "buddhistEasternApproaches": "Klasik Budist rüya metinlerinde doğrudan trafik terimi yer almamakla birlikte, bazı modern aktarımlar ve geleneksel farkındalık pratikleri üzerinden rüyalar zihnin hareket halindeki durumunun yansıması olarak ele alınır. Bu çerçevede yoğun trafik, sabırsızlık ile şimdiki anın koşullarını kabul etme arasındaki dengeyi ve zihinsel uyanıklık ihtiyacını çağrıştırabilir.",
+  "spiritualApproaches": "Ezoterik ve spiritüel dilde trafik, kişinin kendi yaşam yolunda ilerlerken kolektif ritimle uyum kurma, gecikmelerle başa çıkma ve kontrol ile teslimiyet arasında denge arama süreci olarak yorumlanır. Yoğun trafik, kişinin sorumluluklar ve dışsal uyaranlar arasında sıkışmış olduğunu simgeler; trafik lambaları ise eşik anlarını ve durma zamanlamasını temsil eder.",
+  "comparisonTable": [
     {
-      "question": "Trafik rüyası bir kaza haberi mi?",
-      "answer": "Rüya gelecekteki bir kazayı bildirmez. Rüyadaki tedirginlik ile gerçek bir olay hakkında kanıt ayrı şeylerdir."
+      "approach": "Jungcu Psikoloji",
+      "interpretation": "Bireysel yönelim ile toplumsal/kolektif düzen arasındaki gerilim; ilerlemenin askıya alınması.",
+      "evidenceLevel": "theoretical"
     },
     {
-      "question": "Trafikte beklemek başarısızlık anlamına mı gelir?",
-      "answer": "Hayır. Bekleme sırasında neye önem verdiğiniz ve hangi seçenekleri gördüğünüz üzerinden kişisel bir değerlendirme yapabilirsiniz."
+      "approach": "Hristiyan Sembolik Okuma",
+      "interpretation": "Yaşam yolu, dar/açık geçitler, yön seçimi ve sabırla bekleme metaforu.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Etik Yaklaşımı",
+      "interpretation": "Gündüz meşguliyetleri, zamanlama, dikkat, durma-kalkma sınırları ve başkalarının güvenliği.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Kolektif akışla uyum, yaşam yolundaki dışsal gecikmeler ve kontrol-teslimiyet dengesi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, trafik sembolünün temelinde hareket, yön, ilerleme ve bu ilerlemenin dış koşullar veya engeller tarafından kesintiye uğratılması temalarının yer aldığında birleşir.",
+  "differences": "Psikolojik ve Jungcu okumalar içsel dinamiklere ve bireyin yönelimine odaklanırken, geleneksel ve spiritüel yaklaşımlar daha çok dış koşullara uyum, sabır, etik sorumluluk ve zamanlama üzerine odaklanır.",
+  "inusAssessment": "Rüyada trafik sembolü, sabit ve tek bir kehanet anlamı taşımaktan ziyade, kişinin uyanık yaşamındaki tempo, kontrol arayışı ve dışsal engellerle kurduğu ilişkinin bir yansımasıdır. Trafiğin akıcı olması ile tamamen kilitlenmiş bir sıkışıklık arasında yaşanan duygu tonu, rüyanın işaret ettiği psikolojik veya bağlamsal durumu kökten değiştirir. Bu nedenle rüyayı yorumlarken sembolün sunduğu hız, durma anları ve yön değişimleri kişinin kendi yaşamındaki baskılarla birlikte ele alınmalıdır.",
+  "faq": [
+    {
+      "question": "Rüyada trafik sıkışıklığında kalmak ne anlama gelir?",
+      "answer": "Trafik sıkışıklığı genellikle uyanık yaşamda hissedilen engellenme, ilerleyememe hissi, zaman baskısı ve dış koşulların yarattığı kısıtlamalarla ilişkilendirilir."
+    },
+    {
+      "question": "Rüyada trafik ışıklarını görmek nasıl yorumlanır?",
+      "answer": "Trafik ışıkları, yaşamdaki durma zamanlaması, sınırlar, kararlar ve doğru eylem için işaret beklemek gibi temaları simgeleyen bağlamsal göstergeler olarak ele alınır."
     }
   ],
   "sources": [
     {
-      "title": "Content Analysis Explained",
-      "url": "https://dreams.ucsc.edu/Info/content_analysis.html",
-      "relevance": "Nesne, mekân, etkinlik ve duygu ayrımını açıklayan genel rüya içerik analizi yöntemi; bu sembol için sabit anlam kanıtı değildir."
+      "title": "Traffic Dream Meaning & Interpretation - Mirror",
+      "relevance": "Trafik rüyasını engellenme, ilerleme ve kolektif hareket bağlamında yorumlayan çevrimiçi bir metin.",
+      "url": "https://mirrorwithin.org/dream-dictionary/traffic/"
+    },
+    {
+      "title": "Traffic Light Dream Meaning: Signals, Timing, and the Psychology of ...",
+      "relevance": "Trafik ışığı imgesini zamanlama, izin ve sınırlarla ilişkilendiren rüya yorumu yazısı.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/traffic-light"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Freud'un rüyada suya girme ve sudan çıkma imgelerini doğum fantazileriyle ilişkilendirdiği bölüm.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/262",
+      "relevance": "Dar geçitler ve suda bulunma gibi rüya içeriklerini rahim içi yaşam ve doğum fantazileriyle bağlayan bölüm.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/262"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/263 - Wikisource, the free online library",
+      "relevance": "Sudan çıkma ile doğum arasındaki terslemeyi ve doğum rüyaları yorumunu veren bölüm.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/263"
+    },
+    {
+      "title": "Traffic jam in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Trafik sıkışıklığına Jungcu bir bakış ve modern yol engeli imgesi etrafında yorumlar içerir.",
+      "url": "https://rosmertapublishing.com/dream-symbols/traffic-jam/"
+    },
+    {
+      "title": "Jung's Theory of Dreaming and the Findings of Empirical ...",
+      "relevance": "Jung’un rüyayı bilinçdışının sembolik öz-sunumu olarak tanımlayan ifadesine erişim sağlar.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/1468-5922.70011"
+    },
+    {
+      "title": "Carl Jung’s Dream Interpretation: Theory, Method & Symbols",
+      "relevance": "Jung’un sembol ve işaret ayrımını anlatan Jungcu çerçeve sunar.",
+      "url": "https://mirrorwithin.org/encyclopedia/jung-dream-interpretation/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorumculuğunun temel metinlerinden biri; rüyada yolculuk, engellenme ve benzeri temaların tarihsel çerçevesini anlamak için başvuru kaynağı.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of the Interpolating ...",
+      "relevance": "Artemidorus’un rüya kuramı üzerine akademik inceleme; rüya türleri ve yorum mantığını tarihsel bağlamda ele alır.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "11 Biblical Meaning of Dreaming of Road Traffic | biblicaldreamz",
+      "relevance": "Trafik ve yol trafiğini rüya bağlamında yaşam yolu, kararlar ve ilahi bilgelikle ilişkilendiren modern Hristiyan yorum metni.",
+      "url": "https://biblicaldreamz.com/dreaming-of-road-traffic/"
+    },
+    {
+      "title": "Topical Bible: Traffic",
+      "relevance": "Bible’de 'traffic' ve 'traffick' sözcüklerinin ticaret/alışveriş anlamlarını ve sembolik kullanımlarını gösteren İncil-temelli başvuru sayfası.",
+      "url": "https://biblehub.com/topical/t/traffic.htm"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Yahudi rüya yorum geleneğinde rüyaların nasıl anlaşılabileceğine dair temel çerçeveyi verir; rüyanın yorumla ilişkisinin ve gündüz meşguliyetlerinin etkisinin altını çeker.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Yahudi geleneğinde rüyaların güncel durumlar, düşünceler ve yorumlanma biçimiyle ilişkisine dair bir çerçeve sunar.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "A Rabbi Reflects on Walking, Traffic Lights, and Jewish ...",
+      "relevance": "'Ramzor' yani trafik ışığı üzerinden modern Yahudi dilinde işaret, ışık ve yönlendirme kavramlarını ele alır.",
+      "url": "https://www.tabletmag.com/sections/belief/articles/traffic-light-mussar"
+    },
+    {
+      "title": "The Human Traffic Sign - Parshah Messages",
+      "relevance": "Gündelik yolculuk, trafik ve duraklama temalarını Yahudi etik ve yaşam düzeni açısından düşündürür.",
+      "url": "https://www.chabad.org/parshah/article_cdo/aid/1256034/jewish/The-Human-Traffic-Sign.htm"
+    },
+    {
+      "title": "Sermon - On Driving as a Jew - Alyth",
+      "relevance": "Yol, kavşak ve işaretler üzerinden yön bulma ve toplumsal güvenlik temasını Yahudi bağlamında ele alır.",
+      "url": "https://www.alyth.org.uk/sermons-writings/publication/sermon-on-driving-as-a-jew/"
+    },
+    {
+      "title": "Traffic Safety -",
+      "relevance": "Trafik güvenliğini hayatı koruma ve başkalarını tehlikeye atmama sorumluluğu bağlamında açıklar.",
+      "url": "https://yahadut.org/en/interpersonal-mitzvot/the-value-of-human-life/traffic-safety/"
+    },
+    {
+      "title": "Dream interpretation and practice - TME",
+      "relevance": "Tibet tıbbında rüyaların türlerini ayıran ve rüya omeni ile gündüz deneyimi arasındaki ilişkiyi anlatan bir kaynak.",
+      "url": "https://tibetanmedicine-edu.org/tmm/tm/dream-and-bardo/the-dream-interpretation-and-practice/"
+    },
+    {
+      "title": "A Buddhist Approach to Dreams",
+      "relevance": "Budist yaklaşımda rüyalara bilinçli dikkat, mantrayı sürdürme ve pratik odaklı okuma öneren metin.",
+      "url": "https://www.urbandharma.org/udharma7/dreams.html"
+    },
+    {
+      "title": "Dreaming of a Busy Road – Meaning - Hindu Blog",
+      "relevance": "Trafik sıkışıklığını sabır, yön, akış ve kişisel ritim üzerinden yorumlayan modern spiritüel bir metin.",
+      "url": "https://www.hindu-blog.com/2026/09/dreaming-of-busy-road-meaning.html"
     }
   ],
-  "relatedSlugs": []
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "buddhist-eastern"
+  ]
 }

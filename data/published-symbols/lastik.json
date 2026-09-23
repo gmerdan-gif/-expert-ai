@@ -1,0 +1,242 @@
+{
+  "slug": "lastik",
+  "title": "Lastik",
+  "shortDescription": "Rüyada lastik görmek, yolculuk, dayanıklılık ve değişen koşullara uyumla ilişkilendirilir. Sağlam lastik ilerleme ve toparlanmayı, inik ya da patlak lastik ise enerji düşüşünü veya gecikmeyi çağrıştırabilir.",
+  "positiveAssociations": [
+    "Yolculuk ve ilerleme",
+    "Esneklik ve uyum",
+    "Dayanıklılık ve destek",
+    "Neşe ve sevinç",
+    "Geri sekme ve toparlanma gücü"
+  ],
+  "challengingAssociations": [
+    "Engellenme ve gecikme",
+    "İşlev kaybı ve enerji düşüşü",
+    "Sınırın aşılması ve gerilim",
+    "Neşeli dönemin sona ermesi",
+    "İlerlemenin kesintiye uğraması"
+  ],
+  "contextDependentAssociations": [
+    "Aracın hareket halinde olup olmaması",
+    "Lastiğin yapısı, esnemesi veya patlamış olması",
+    "Rüya sahibinin o anki yaşam koşulları ve zihinsel meşguliyetleri",
+    "Rüyanın duygusal tonu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Araç Lastiğinin Patlaması",
+      "description": "Seyir halindeyken bir lastiğin patlaması veya inmesi, psikolojik olarak ilerleme kapasitesinin kesintiye uğraması veya ani bir enerji düşüşüyle ilişkilendirilebilir."
+    },
+    {
+      "title": "Esneyen veya Gerilen Lastik",
+      "description": "Lastiğin fiziksel esnekliğinin vurgulanması, zorluklar karşısında formunu koruma, sabır gösterme ya da mevcut sınırları test etme temalarını yansıtabilir."
+    },
+    {
+      "title": "Lastik Ayakkabı Giymek",
+      "description": "Bazı modern aktarımlarda lastik tabanlı ayakkabılar giymek, neşeli ve hareketli bir dönemin yavaşlaması veya sonuna yaklaşılması bağlamında değerlendirilir."
+    },
+    {
+      "title": "Yedek Lastik Taşımak",
+      "description": "Aracın bagajında sağlam bir yedek lastik bulundurmak, olası aksamalara karşı hazırlıklı olma, dayanıklılık ve içsel destek kaynaklarına güvenme hissini çağrıştırır."
+    }
+  ],
+  "psychology": "Ampirik psikoloji literatüründe doğrudan \"lastik\" sembolüne özgü evrensel bir rüya anlamı bulunmamaktadır. Araştırmalar, rüya içeriğinde nesnelerden ziyade duygusal tonun, rüya sıklığının ve bireysel bağlamın daha güvenilir göstergeler olduğunu göstermektedir.",
+  "jungian": "Jungcu analitik psikolojide lastik doğrudan sabit bir sözlük anlamıyla ele alınmaz; daha ziyade esneklik, biçim değiştirme, dayanıklılık, sürtünme ve ilerleme kapasitesi gibi nitelikler üzerinden okunur. Araç lastiği, hareketi mümkün kılan ve yük taşıyan bir parça olarak egonun ilerleme gücü ile psişik enerji arasındaki dinamik ilişkiyi çağrıştırabilir. Patlak veya inik lastik ise psişik itkinin zayıflaması ya da hareketin duraksamasını simgeleyebilir.",
+  "islamicTradition": "Klasik İslami rüya kaynaklarında doğrudan 'lastik' kelimesine ait kesin bir rüya tabiri bulunmamaktadır. Ancak bazı modern aktarım ve derlemelerde rüyada lastik veya lastikten yapılmış nesneler görmek neşe ve sevinçle ilişkilendirilmiş, lastik ayakkabı giymek ise neşeli günlerin sona ermesi gibi detaylı varyantlarla ele alınmıştır. TDV İslâm Ansiklopedisi'nin belirttiği üzere rüya tabiri sembolik bir dilin çözümlenmesi olup enfüsî ve âfâkî yönlere göre değerlendirilir.",
+  "christianTraditions": "Hristiyan sembolik okumasında lastik doğrudan kutsal metinlere dayanan yerleşik bir rüya sembolü değildir; ancak yolculuk, hareket ve dayanıklılık temaları üzerinden yorumlayıcı bir çerçeveye oturtulur. Sağlam bir lastik hayat yolunda düzenli ilerlemeyi temsil ederken, patlak lastik yolculukta aksama veya gecikme olarak ele alınabilir.",
+  "jewishTraditions": "Talmudik gelenekte (örneğin Berakhot bağlamında) yorumlanmamış rüya 'okunmamış mektup' gibidir ve rüyanın anlamı büyük ölçüde yapılan yorumla şekillenir. Yahudi rüya anlayışında lastik gibi modern nesnelerin doğrudan sabit birer karşılığı yoktur; birçok rüya kişinin gündüz meşguliyetlerinin zihinsel bir yansıması olarak değerlendirilir.",
+  "buddhistEasternApproaches": "Budist ve Doğu geleneklerinde lastik doğrudan yer almasa da tekerlek (savaş arabası tekerleği veya dharma çarkı) sembolizmi üzerinden hareket, döngü, süreklilik ve yönelim kavramlarıyla ilişkilendirilebilir. Tekerlek imgesi, yaşamın döngüselliğini ve öğretinin sürekliliğini çağrıştırır.",
+  "spiritualApproaches": "Ezoterik ve spiritüel yaklaşımlarda lastik, baskı altında biçimini değiştirse de tamamen dağılmama, geri sekme kapasitesi ve esneklik gibi niteliklerle okunur. Dairesel formu döngüselliği ve bütünlüğü simgelerken, koruyucu yapısı dış baskılara karşı sınır koyma temasına işaret eder.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Nesnenin esnekliği, gerilmesi veya kırılması; bastırma, kontrol, gerilim ve arzunun dolaylı temsili bağlamında okunur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "İlerleme kapasitesi, psişik enerji, uyumlanma ve enerji düşüşü veya işlev kaybı ekseninde değerlendirilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami ve Kültürel Aktarımlar",
+      "interpretation": "Modern derlemelerde neşe, sevinç veya sabır ile sınırın aşılması temaları etrafında ele alınır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Esoterik Yaklaşım",
+      "interpretation": "Esneklik, geri sekme, yaşam yolculuğu ve döngüsel süreçlerin sürdürülmesi olarak yorumlanır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, lastik nesnesini doğrudan sabit bir kehanet aracı olarak görmek yerine, onun fiziksel özelliklerinden (esneme, dönme, patlama, taşıma) türetilen hareket, duraksama ve uyum kavramları üzerinden ele alır.",
+  "differences": "Psikanalitik ve Jungcu yaklaşımlar nesneyi içsel psişik dinamikler, ego gücü ve bastırma mekanizmalarıyla ilişkilendirirken; modern kültürel ve spiritüel aktarımlar daha çok dışsal yaşam akışı, sevinç, aksama veya döngüsellik gibi temalara odaklanır.",
+  "inusAssessment": "Lastik sembolü, sabit bir rüya sözlüğü karşılığından ziyade sahip olduğu mekanik ve esnek nitelikler üzerinden şekillenir. Rüyada lastiğin sağlam bir şekilde yolda ilerlemesi mi yoksa patlayarak hareketi durdurması mı görüldüğü, yorumun yönünü tamamen değiştirir. Bu nedenle rüya sahibi, lastiğin rüyadaki işlevsel durumunu ve o anki duygusal tonunu dikkate alarak değerlendirme yapmalıdır.",
+  "faq": [
+    {
+      "question": "Rüyada patlak lastik görmek ne anlama gelir?",
+      "answer": "Patlak lastik, ilerleme kapasitesinin kesintiye uğraması, enerji düşüşü veya günlük yaşamda yaşanan bir aksama olarak yorumlanabilir."
+    },
+    {
+      "question": "Lastik sembolü rüyada kesin bir geleceğe işaret eder mi?",
+      "answer": "Hayır. Rüyalar sabit ve evrensel bir gelecekteki olayı kesin olarak haber vermez; rüya sahibinin bireysel bağlamı ve duygusal durumu esas alınmalıdır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyaların dilek doyumu olarak anlaşılması ve serbest çağrışım yöntemi.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Dream Distortion - The Interpretation of Dreams",
+      "relevance": "Bastırılmış isteklerin rüyada maskelenmiş biçimde ortaya çıkması.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/dream-distortion/"
+    },
+    {
+      "title": "Freud (1900) Chapter 6, part b - Classics in the History of Psychology",
+      "relevance": "Rüya sembolizminde uzun ve uzatılmış nesnelerin fallik anlamları.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/261",
+      "relevance": "Rüyada su imgelerinin doğum bağlamı.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
+    },
+    {
+      "title": "Elastic in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Esneklik ve biçime geri dönme kapasitesini Jungcu bir sembolik okuma için çağrıştıran açık erişimli bir yorum sayfası.",
+      "url": "https://rosmertapublishing.com/dream-symbols/elastic/"
+    },
+    {
+      "title": "Rubber Dream Meaning & Interpretation - Mirror",
+      "relevance": "Araç lastiğini Jungcu çerçevede hareket, uyum ve destek işleviyle ilişkilendiren açık erişimli bir yorum sayfası.",
+      "url": "https://mirrorwithin.org/dream-dictionary/rubber/"
+    },
+    {
+      "title": "Rubber, dream meaning of Rubber",
+      "relevance": "Lastik için esneklik ve uyum temasını Jungcu bir yorum olarak sunan açık erişimli bir sayfa.",
+      "url": "https://somniai.com/en/symbols/rubber"
+    },
+    {
+      "title": "Tires in a Dream: Freud, Jung, Myth and Modern Meaning",
+      "relevance": "Araç lastiğini yolculuk ve ilerleme bağlamında Jungcu bir okumayla ilişkilendiren açık erişimli bir yorum sayfası.",
+      "url": "https://rosmertapublishing.com/dream-symbols/tires/"
+    },
+    {
+      "title": "Flat Tire Dream Meaning & Interpretation - Mirror",
+      "relevance": "Patlak lastiği ilerlemenin durması ve enerji düşüşü temalarıyla ilişkilendiren açık erişimli bir yorum sayfası.",
+      "url": "https://mirrorwithin.org/dream-dictionary/flat-tire/"
+    },
+    {
+      "title": "Artemidorus, Dream Exegesis, and the Case of the Interpolating ...",
+      "relevance": "Artemidorus’un rüya yorum geleneği üzerine antik ve akademik çerçeve sunar; antik oneirokritik yöntemin nasıl işlediğini anlamaya yardımcı olur.",
+      "url": "https://brill.com/view/journals/mnem/76/6/article-p1000_6.xml?language=en"
+    },
+    {
+      "title": "Sex on the brain - Edith Hall",
+      "relevance": "Artemidorus’un rüya yorumu üzerine antik metnin korunmuş en önemli kaynaklardan biri olduğunu ve rüya yorumunun tarihsel bağlamını açıklar.",
+      "url": "https://edithhall.co.uk/wp-content/uploads/2023/03/artemidorus.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik rüya yorumu geleneğine genel erişim sağlar; rüyaların geleceğe dönük işaretler olarak ele alınması ve yorum pratiğinin tarihsel çerçevesi için kullanışlıdır.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "İslami rüya tabirleri -L- harfi",
+      "relevance": "Lastik için çevrimiçi İslami rüya tabiri aktarımı; lastik, lastik ayakkabı ve lastik top gibi ayrıntılara bağlanan yorumlar içerir.",
+      "url": "https://ehlisunnetmedya.com/2015/03/islami-ruya-tabirleri-l-harfi/"
+    },
+    {
+      "title": "Lastik Görmek - Hz Muhammed (SAV) Hayatı",
+      "relevance": "Lastik sembolünü esneklik, sabır ve sınırın aşılmasıyla ilişkilendiren çevrimiçi rüya yorumu.",
+      "url": "https://hz-muhammed.com/ruya/lastik-gormek/"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri - Nedir? Nasıl yapılır? Ne demektir?",
+      "relevance": "Lastik için çevrimiçi rüya tabiri; lastik ve lastikten yapılmış şeyleri neşe/sevinç ile ilişkilendirir.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/imam-nablusi-ruya-tabirleri/page/2/"
+    },
+    {
+      "title": "Nablusi Rüya Tabirleri – Sayfa 2 – Bilmesek olmaz – Nedir? Nasıl yapılır? Ne demektir?",
+      "relevance": "Lastik sembolünü yineleyen çevrimiçi rüya tabiri; neşe/sevinç ve lastik ayakkabı ayrıntısı verir.",
+      "url": "https://bilmesekolmaz.wordpress.com/tag/nablusi-ruya-tabirleri/page/2/"
+    },
+    {
+      "title": "RÜYA - TDV İslâm Ansiklopedisi",
+      "relevance": "Rüya tabirinin sembolik okuma olduğunu ve rüyaların enfüsî/âfâkî yönleri bulunduğunu açıklayan ansiklopedik giriş.",
+      "url": "https://islamansiklopedisi.org.tr/ruya"
+    },
+    {
+      "title": "Dream of TIRES: Biblical MEANING of TIRES in the Dream",
+      "relevance": "Hristiyan rüya yorumlarında lastik/tekerlek teması için çevrim içi bir yorum metni; lastiği yolculuk, ilerleme ve aksama ile ilişkilendiriyor.",
+      "url": "https://www.ibloggospel.com/2021/09/dream-about-flat-tire.html"
+    },
+    {
+      "title": "Biblical Meaning of Rain - Biblical Pathway",
+      "relevance": "Kutsal Kitap’ta yağmurun bereket, yenilenme ve arınma ile ilişkilendirildiğini özetleyen çevrim içi bir kaynak.",
+      "url": "https://biblicalpathway.com/biblical-meaning-of-rain/"
+    },
+    {
+      "title": "Topical Bible: Rain of Righteousness",
+      "relevance": "Yağmurun kutsal metin bağlamında ilahi bereket ve ruhsal yenilenme temalarıyla ilişkilendirildiğini derleyen çevrim içi topical kaynak.",
+      "url": "https://biblehub.com/topical/ttt/r/rain_of_righteousness.htm"
+    },
+    {
+      "title": "Topical Bible: Snow and Rain",
+      "relevance": "Kutsal Kitap’ta yağmurun Tanrı’nın sağlayışı ve lütfu ile bağlantısını özetleyen topical kaynak.",
+      "url": "https://biblehub.com/topical/s/snow_and_rain.htm"
+    },
+    {
+      "title": "Significance of Dreams",
+      "relevance": "Yahudi geleneğinde rüyaların anlamı, yorum ve bağlam üzerinden ele alınır; Berakhot 55a-55b’ye dayanan kısa bir özet sunar.",
+      "url": "https://aish.com/significance-of-dreams/"
+    },
+    {
+      "title": "Dreams in Judaism - Parshat Mikeitz",
+      "relevance": "Yahudi rüya anlayışında çoğu rüyanın gündelik düşüncelerden kaynaklanabileceğini ve yorumun rüyanın etkisini belirleyebileceğini anlatır.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/1076083/jewish/Dreams-in-Judaism.htm"
+    },
+    {
+      "title": "PaleoJudaica.com: 01/08/2017",
+      "relevance": "Babil Talmudu Berakhot 55b-c içindeki rüya pasajlarının bulunduğu ‘Tractate Dreams’ tartışmasına işaret eder.",
+      "url": "https://paleojudaica.blogspot.com/2017_01_08_archive.html"
+    },
+    {
+      "title": "Wh137–8",
+      "relevance": "Budist gelenekte dhamma-cakka’nın temel sembol oluşunu ve ‘Wheel of Law’ anlamını açıklar.",
+      "url": "http://bps.lk/olib/wh/wh137_Karunaratne_The-Buddhist-Wheel-Symbol.html"
+    },
+    {
+      "title": "Wheel Symbolism in Buddhism",
+      "relevance": "Budizmde tekerleğin Buddha ve nirvanik düzlemle ilişkili sembolik anlamını tartışır.",
+      "url": "https://www.wisdomlib.org/history/compilation/triveni-journal/d/doc72099.html"
+    },
+    {
+      "title": "Wheel of Dharma: Significance and symbolism",
+      "relevance": "Budizmde Wheel of Dharma’nın öğretiyi yayma ve aydınlanmaya yöneltme işlevini özetler.",
+      "url": "https://www.wisdomlib.org/concept/wheel-of-dharma"
+    },
+    {
+      "title": "Chariot Wheel Dreams: Control, Cycles & the Still Hub",
+      "relevance": "Chariot wheel ile Budist ve Hindu siyasi düşüncesindeki tekerlek sembolizmini bir arada anarak kültürel arka plan sunar.",
+      "url": "https://somniscient.com/en/symbols/chariot-wheel"
+    },
+    {
+      "title": "The Meaning of Dreams About Rubber - Dream Clarify",
+      "relevance": "Rubber nesnesini esneklik, sınırlar ve negatif etkilerden korunma üzerinden yorumlayan modern spiritüel çerçeve.",
+      "url": "https://dreamclarify.com/the-meaning-of-dreams-about-rubber/"
+    },
+    {
+      "title": "Tires Dream Meaning — TrueDream AI",
+      "relevance": "Tire/lastik sembolünü yaşam yolculuğu, hareket, döngüsellik ve bütünlük kavramlarıyla ilişkilendiren modern spiritüel yorum.",
+      "url": "https://truedreamguide.com/articles/dream-meaning-tires"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "buddhist-eastern"
+  ]
+}
