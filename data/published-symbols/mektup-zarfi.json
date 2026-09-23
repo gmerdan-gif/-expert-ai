@@ -1,0 +1,67 @@
+{
+  "slug": "mektup-zarfi",
+  "title": "mektup zarfı",
+  "shortDescription": "Rüyada mektup zarfı, beklenen bir haber veya henüz açıklanmamış bir şeyi çağrıştırabilir. Zarfın açılması, göndericisi ve içindekine ulaşabilmek önemlidir.",
+  "positiveAssociations": [
+    "Bir şeyi özenle saklamak",
+    "Bir iletiyi göndermeye hazırlanmak",
+    "Merak ettiği içeriği öğrenmek"
+  ],
+  "challengingAssociations": [
+    "Kapalı içeriği öğrenmekten çekinmek",
+    "Özel bir şeyin açılmış olduğunu görmek",
+    "Gönderen veya alıcının belirsizliği"
+  ],
+  "contextDependentAssociations": [
+    "Zarfın açık veya kapalı olması",
+    "Üzerindeki isim ve adres",
+    "İçeriğin görülüp görülmediği"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kapalı bir zarf almak",
+      "description": "Açmadan önce ne düşündüğünüz önemlidir. Beklediğiniz bir ileti mi vardı, yoksa göndericiyi mi tanımıyordunuz? Bilinmeyen içeriği yorumla kesinleştirmeyin."
+    },
+    {
+      "title": "Boş bir zarf bulmak",
+      "description": "İçeride bir şey olmasını neden beklediğinizi düşünün. Şaşkınlık ve hayal kırıklığı farklı kişisel çağrışımlar oluşturabilir; boş zarf bir kişinin sizi aldatacağını göstermez."
+    },
+    {
+      "title": "Zarfı kapatıp göndermek",
+      "description": "İçeriği tamamlamış mıydınız, yeniden açmak mı istiyordunuz? Hazırlık, teslim ve vazgeçme arasında rüyada hangi aşamanın belirgin olduğuna bakın."
+    },
+    {
+      "title": "Açılmış veya yırtılmış zarf görmek",
+      "description": "İçeriğin okunmasından mı, nesnenin zarar görmesinden mi rahatsız olduğunuzu ayırın. Rüyadaki mahremiyet hissi gerçek bir ihlal yaşandığını kanıtlamaz."
+    }
+  ],
+  "psychology": "Rüya içerik analizi nesneleri, eylemleri ve duyguları ayrı kaydetmeye imkân verir. Zarfı bulmak, açmak ve göndermek bu açıdan farklı eylemlerdir. Genel yöntem zarfın gizli bir haberi doğruladığını söylemez; aşağıdaki sahneler kendi çağrışımlarınızı düşünmeniz için önerilmiştir.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Zarfın durumu ile içeriği hakkında bildiğiniz şey ayrı tutulabilir.",
+  "differences": "İçerik analizi yöntemi, görülmeyen bir mektubun ne yazdığını belirlemez.",
+  "inusAssessment": "Mektup zarfı, taşıdığı yazıdan ve postanın teslim sürecinden ayrı bir nesnedir. INUS değerlendirmesi zarfın kapalılığını, üzerindeki bilgiyi ve sizin açma ya da saklama tercihinizi ele alır. İçeriği görmediğiniz bir rüyadan iyi haber, para veya kötü haber sonucu çıkarılmaz. Buradaki mahremiyet ve beklenti çağrışımları kişisel düşünme önerileridir.",
+  "faq": [
+    {
+      "question": "Kapalı zarf iyi haber anlamına mı gelir?",
+      "answer": "Kapalı olması içeriğin iyi veya kötü olduğunu göstermez. Bilmediğiniz içeriği belirsiz bırakıp rüyadaki merakınızı veya kaygınızı düşünebilirsiniz."
+    },
+    {
+      "question": "Zarf ile mektup aynı şey mi anlatır?",
+      "answer": "Hayır. Zarf saklama, açma ve adres gibi ayrıntıları; mektup ise yazının içeriğini öne çıkarabilir. İlgili olmaları aynı deneyim oldukları anlamına gelmez."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Content Analysis Explained",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html",
+      "relevance": "Nesne, etkinlik ve duygu ayrımını açıklayan genel yöntem; mektup zarfının sabit anlamına ilişkin araştırma değildir."
+    }
+  ],
+  "relatedSlugs": []
+}

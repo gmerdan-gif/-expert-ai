@@ -1,0 +1,69 @@
+{
+  "slug": "yara-izi",
+  "title": "yara izi",
+  "shortDescription": "Rüyada yara izi, geçmişte yaşanan bir olayın kalan etkisini veya iyileşme deneyimini çağrıştırabilir. İzin yeri, kime ait olduğu ve ona bakarken hissettikleriniz önemlidir.",
+  "positiveAssociations": [
+    "Geçmiş bir deneyimi hatırlamak",
+    "Bedenindeki bir ayrıntıyı kabullenmek",
+    "Bir hikâyeyi paylaşabilmek"
+  ],
+  "challengingAssociations": [
+    "İzin başkaları tarafından görülmesinden çekinmek",
+    "Geçmiş bir olayı hatırlayınca zorlanmak",
+    "Görünümün beklenmedik biçimde değişmesi"
+  ],
+  "contextDependentAssociations": [
+    "İzin tanıdık veya yeni görünmesi",
+    "Kimin bedeninde olduğu",
+    "Gizlemek, göstermek veya yalnız bakmak"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kendi bedeninizde tanıdık bir iz görmek",
+      "description": "Gerçekte bildiğiniz bir izse hangi anıyı çağrıştırdığını düşünebilirsiniz. Rüyadaki duygu, gerçek hayatta o ize karşı hissettiğinizle aynı olmak zorunda değildir."
+    },
+    {
+      "title": "Daha önce görmediğiniz bir yara izi bulmak",
+      "description": "İzin rüyada nereden geldiğini biliyor muydunuz? Bilmediğiniz bir ayrıntıyı geçmişte yaşanmış ve unutulmuş bir olayın kanıtı saymayın."
+    },
+    {
+      "title": "Yara izini birinden saklamak",
+      "description": "Saklama isteğinin görünümden mi, sorulacak sorulardan mı kaynaklandığını ayırın. Karşınızdaki kişinin tepkisi ve kendinizi rahat hissedip hissetmediğiniz önemlidir."
+    },
+    {
+      "title": "Birinin yara izinin hikâyesini dinlemek",
+      "description": "Sahnenin odağı izden çok konuşma ve yakınlık olabilir. Dinlerken merak, üzüntü veya dayanışma hissedip hissetmediğinizi düşünün."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "Kathryn Dickason’ın tarihsel incelemesi, Orta Çağ Batı Hristiyanlığında yara izlerinin dinî metinler ve görsel sanatlar içinde nasıl anlam kazandığını ele alır. İzlerin anlamı, içinde okundukları toplumsal bağlama bağlıdır. Bu tarihsel örnekler bir kişinin rüyadaki izinden kutsallık, günah veya ruhsal durum sonucu çıkarmaya dayanak değildir.",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Bir izin görünümü ile ona bağlanan hikâye farklı düzeylerde düşünülebilir.",
+  "differences": "Tarihsel dinî sembolizm, kişisel rüyanın veya sağlık durumunun açıklaması değildir.",
+  "inusAssessment": "Yara izi ile açık yara aynı sahne değildir. INUS değerlendirmesinde iz, görünümü ve ona ilişkin hatırayla birlikte ele alınır; kişinin travma yaşadığını veya iyileşmesinin tamamlandığını gösteren bir belirti sayılmaz. Geçmiş, kabullenme ve görünürlük çağrışımları kişisel düşünme önerileridir. Rüyada beliren bir izi gerçek bir sağlık bulgusuna çevirmemek gerekir.",
+  "faq": [
+    {
+      "question": "Yara izi görmek geçmişte unuttuğum bir olayı kanıtlar mı?",
+      "answer": "Hayır. Rüyadaki görüntü, yaşandığı bilinmeyen bir olayı doğrulamaz. Hatırladığınız gerçek deneyim ile rüyanın oluşturduğu sahneyi ayırabilirsiniz."
+    },
+    {
+      "question": "Yara izini görmek iyileştiğim anlamına mı gelir?",
+      "answer": "Tek başına böyle bir sonuca varılmaz. Rüya duygusal veya bedensel iyileşmenin ölçümü değildir; iz karşısında ne hissettiğiniz kişisel olarak değerlendirilebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sacred Skin: The Religious Significance of Medieval Scars",
+      "url": "https://www.cambridge.org/core/journals/signs-and-society/article/sacred-skin-the-religious-significance-of-medieval-scars/3652E49D5BF162CC3D89EE5D933051B1",
+      "relevance": "Makalenin özet ve giriş bölümü, Orta Çağ Batı Hristiyanlığında yara izlerine verilen toplumsal ve dinî anlamları inceler; rüya veya sağlık araştırması değildir.",
+      "author": "Kathryn Dickason",
+      "year": 2022
+    }
+  ],
+  "relatedSlugs": []
+}

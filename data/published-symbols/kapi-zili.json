@@ -1,0 +1,69 @@
+{
+  "slug": "kapi-zili",
+  "title": "kapı zili",
+  "shortDescription": "Rüyada kapı zili, bir ziyaretçi, haber beklentisi veya kişisel alanınıza yönelen çağrıyı düşündürebilir. Kapıyı açıp açmadığınız ve gelen kişinin kimliği önemlidir.",
+  "positiveAssociations": [
+    "Beklenen birinin geldiğini düşünmek",
+    "Bir çağrıya yanıt verebilmek",
+    "Bir buluşmanın başlaması"
+  ],
+  "challengingAssociations": [
+    "Ani sesle irkilmek",
+    "Israrlı çalınmadan rahatsız olmak",
+    "Kapıda kimin olduğunu bilememek"
+  ],
+  "contextDependentAssociations": [
+    "Zilin tanıdık veya yabancı sesi",
+    "Çalanın siz veya başka biri olması",
+    "Kapının açılıp açılmaması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kendi kapınızın zilini duymak",
+      "description": "Birini bekleyip beklemediğinizi ve sesin sizde ne uyandırdığını düşünün. Aynı ses bir sahnede sevinç, başka birinde tedirginlik yaratabilir."
+    },
+    {
+      "title": "Zilin sürekli çalması",
+      "description": "Rahatsızlık sesin yüksekliğinden mi, yanıt verme baskısından mı geliyordu? Kapıya gitmek, beklemek veya sesi durdurmaya çalışmak farklı tepkilerdir."
+    },
+    {
+      "title": "Bir kapının zilini çalmak",
+      "description": "Sizi kimin karşılamasını beklediğiniz ve içeriden yanıt gelip gelmediği önemlidir. Çağrı yapmak ile karşılanmak sahnenin iki ayrı aşamasıdır."
+    },
+    {
+      "title": "Zil çaldıktan sonra kapıda kimseyi bulamamak",
+      "description": "Şaşkınlık, merak veya korku hissedebilirsiniz. Bu sahne görünmeyen bir varlığın veya gelecekteki ziyaretin kanıtı değildir; rüyada neyi bildiğinizle neyi tahmin ettiğinizi ayırın."
+    }
+  ],
+  "psychology": "Fosse ve Larøi, 13 sağlıklı katılımcının kendiliğinden uyandıktan sonra bildirdiği 130 rüyada ses deneyimlerini inceledi. Katılımcılardan seslere özellikle dikkat etmeleri istendi; konuşmaların yanı sıra müzik ve nesne sesleri de raporlandı. Bu küçük çalışma rüyaların işitsel içerik taşıyabildiğini gösterir; tek bir kapı zili rüyasını açıklamaz ve böyle bir rüyadan psikiyatrik tanı çıkarılmaz.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Sesin niteliği ve ona verilen tepki ayrı kaydedilebilir.",
+  "differences": "İşitsel rüya içeriğini araştırmak, belirli bir sesin nereden geldiğini veya neyi haber verdiğini belirlemek değildir.",
+  "inusAssessment": "Kapı zili rüyasında ses, beklenen ziyaret ve yanıt verme kararı birlikte yer alabilir. INUS, kapı nesnesi ile zilin çalınmasını aynı başlık saymaz. Rüyada duyulan sesin dışarıdan mı geldiği, yoksa rüyanın içinde mi oluştuğu yalnız anlatıdan kesinleşmeyebilir. Zili yaklaşan haber veya tehlike şeklinde otomatik yorumlamak yerine sesin ardından yaşananlara bakabilirsiniz.",
+  "faq": [
+    {
+      "question": "Rüyadaki zil gerçek kapı zilinin çaldığını mı gösterir?",
+      "answer": "Tek başına göstermez. Rüyalarda işitsel deneyimler bulunabilir; belirli bir sesin gerçek çevreden geldiğini söylemek için rüya dışında bilgi gerekir."
+    },
+    {
+      "question": "Kapı zili duymak mutlaka ziyaretçi geleceği anlamına mı gelir?",
+      "answer": "Hayır. Rüyadaki ses gelecekteki ziyareti bildirmez. Bekleme, karşılanma veya yanıt verme duygusu üzerinden kişisel olarak düşünülebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Quantifying auditory impressions in dreams in order to assess the relevance of dreaming as a model for psychosis",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230212",
+      "relevance": "13 sağlıklı katılımcının 130 rüya raporundaki işitsel deneyimleri inceler. Kapı zilinin sabit anlamını veya her rüya sesinin dış kaynağını belirlemez.",
+      "author": "Roar Fosse ve Frank Larøi",
+      "year": 2020
+    }
+  ],
+  "relatedSlugs": []
+}
