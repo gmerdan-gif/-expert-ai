@@ -1,0 +1,69 @@
+{
+  "slug": "bahce",
+  "title": "bahçe",
+  "shortDescription": "Rüyada bahçe, bakım verilen kişisel bir alanı veya dış dünyayla kurulan ilişkiyi çağrıştırabilir. Bitkilerin durumu, sınırlar ve bahçede yaptıklarınız önemlidir.",
+  "positiveAssociations": [
+    "Kendine dinlenme alanı bulmak",
+    "Bir yeri emekle güzelleştirmek",
+    "Açık havada birlikte zaman geçirmek"
+  ],
+  "challengingAssociations": [
+    "Bakımsız bir alanla karşılaşmak",
+    "Özel bir yere izinsiz girilmesi",
+    "İçeri girememek veya çıkışı bulamamak"
+  ],
+  "contextDependentAssociations": [
+    "Bahçenin size tanıdık olması",
+    "Bakımını kimin yaptığı",
+    "Kapı, çit ve yolların durumu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Çiçekli bir bahçede dolaşmak",
+      "description": "Hangi ayrıntıya yöneldiğinizi düşünün: koku, renk, bir bank veya yanınızdaki kişi. Güzel görünümün sizde mutlaka huzur yarattığını varsaymadan kendi duygunuzu hatırlayın."
+    },
+    {
+      "title": "Bakımsız bahçeyi temizlemek",
+      "description": "Temizleme işini isteyerek yapmanız ile mecbur hissetmeniz farklıdır. Neyin kalmasını, neyin kaldırılmasını istediğiniz kişisel çağrışımlarınızı belirginleştirebilir."
+    },
+    {
+      "title": "Bahçe kapısını açamamak",
+      "description": "İçeride ne olduğunu biliyor muydunuz, biri sizi bekliyor muydu? Kapının kilitli olması kadar o bahçeye girme nedeniniz de önemlidir."
+    },
+    {
+      "title": "Bahçede başkalarını ağırlamak",
+      "description": "Yer açmak, yiyecek hazırlamak veya yalnız konuşmak farklı etkinliklerdir. Misafirlerle ilişkiniz ve alanı paylaşırken rahat olup olmadığınız birlikte düşünülebilir."
+    }
+  ],
+  "psychology": "Freud, Rüyaların Yorumu’ndaki belirli bir çiçek rüyasında bahçe ve dal taşıma sahnelerini cinsel çağrışımlarla yorumlar. Bu, tarihsel psikanalitik yaklaşımın bir örneğidir; her bahçe rüyasının cinsellikle ilgili olduğunu gösteren deneysel bir bulgu değildir. Kendi rüyanızda bahçenin kullanımını ve size tanıdık gelen ayrıntıları ayrıca değerlendirmek gerekir.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Bahçedeki kişiler ve yapılan işler, mekânın kişisel çağrışımını değiştirebilir.",
+  "differences": "Belirli bir vakaya ait kuramsal yorum, bütün bahçe rüyaları için geçerli bir sözlük maddesi değildir.",
+  "inusAssessment": "Bahçe hem yetiştirilen bitkilerin hem de dinlenme ve birlikte olma deneyimlerinin geçtiği bir yer olabilir. INUS değerlendirmesinde bakım, erişim ve alanın paylaşımı birbirinden ayrılır. Bahçenin düzenli oluşundan kazanç, dağınık oluşundan kayıp tahmini yapılmaz. Rüyadaki eylem ve duygu, yalnız görüntüye anlam yüklemekten daha somut bir başlangıçtır.",
+  "faq": [
+    {
+      "question": "Bahçe görmek mutlaka bolluk anlamına mı gelir?",
+      "answer": "Hayır. Bahçede ne yaptığınız, oraya ait hissedip hissetmediğiniz ve diğer kişilerle ilişkiniz farklı deneyimler oluşturabilir."
+    },
+    {
+      "question": "Eski evimin bahçesini görmek neyi düşündürebilir?",
+      "answer": "O yere ait hatıraları, kişileri veya alışkanlıkları akla getirebilir. Rüyadaki bahçenin gerçek hatıranızdan nasıl farklılaştığına bakabilirsiniz."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Interpretation of Dreams — Chapter 6, part 2",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm",
+      "relevance": "D bölümündeki çiçek rüyasında bahçe ve dal taşıma imgeleri tarihsel psikanalitik yorumla ele alınır; genel bahçe anlamı doğrulanmaz.",
+      "author": "Sigmund Freud",
+      "year": 1900
+    }
+  ],
+  "relatedSlugs": []
+}

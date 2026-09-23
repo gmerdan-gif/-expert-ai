@@ -160,5 +160,29 @@ export const editorialParentSlugs: Record<string, string[]> = {
   ],
   "bitlenmek": [
     "bit"
+  ],
+  "fidan-dikmek": [
+    "fidan"
+  ],
+  "beyaz-renk": [
+    "renk"
+  ],
+  "kirmizi-renk": [
+    "renk"
+  ],
+  "mor-renk": [
+    "renk"
+  ],
+  "pembe-renk": [
+    "renk"
+  ],
+  "turuncu-renk": [
+    "renk"
+  ],
+  "mavi": [
+    "renk"
+  ],
+  "gebelik-testinde-cift-cizgi": [
+    "gebelik-testi"
   ]
 };

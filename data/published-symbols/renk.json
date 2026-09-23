@@ -1,0 +1,76 @@
+{
+  "slug": "renk",
+  "title": "renk",
+  "shortDescription": "Rüyada renk, bir nesneyi belirginleştirebilir veya sahnenin duygusunu değiştirebilir. Hangi rengin nerede görüldüğü ve kişisel çağrışımları, genel renk tabirlerinden daha açıklayıcıdır.",
+  "positiveAssociations": [
+    "Bir ayrıntının dikkat çekmesi",
+    "Sevdiği renklerden keyif almak",
+    "Görsel bir düzen kurmak"
+  ],
+  "challengingAssociations": [
+    "Göz alıcı görüntüden rahatsız olmak",
+    "Renkleri seçememek",
+    "Tanıdık bir nesnenin renginin değişmesine şaşırmak"
+  ],
+  "contextDependentAssociations": [
+    "Rengin hangi nesnede bulunduğu",
+    "Parlaklık ve aydınlatma",
+    "Rengi ne kadar net hatırladığınız"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tek bir rengin öne çıkması",
+      "description": "Çevre solukken bir eşyanın belirgin görünmesi dikkatinizi ona yöneltmiş olabilir. Eşyanın ne olduğunu ve o renkle kişisel ilişkinizi birlikte düşünün."
+    },
+    {
+      "title": "Bir nesnenin renginin değişmesi",
+      "description": "Değişim sizi sevindirdi mi, yoksa nesneyi tanımayı mı zorlaştırdı? Önce ve sonraki duygu arasındaki fark kişisel çağrışımlarınızı anlamaya yardımcı olabilir."
+    },
+    {
+      "title": "Çok renkli bir ortamda bulunmak",
+      "description": "Renklerin çokluğu neşe, kalabalık veya yoruculuk hissi yaratabilir. Sizin için hangisinin öne çıktığını sahnedeki hareket ve sesle birlikte değerlendirin."
+    },
+    {
+      "title": "Renkleri hatırlayamamak",
+      "description": "Hatırlamadığınız bir ayrıntıyı sonradan tamamlamak zorunda değilsiniz. Rengin belirsizliğini kaydedip net hatırladığınız nesne, kişi ve duygulardan başlayabilirsiniz."
+    }
+  ],
+  "psychology": "Robert J. Hoss’un ön araştırması, DreamBank kayıtları ve uzun dönem günlüklerinde bildirilen renkleri içerik analiziyle ele alır. Yayıncı özetinde renklerin yalnız gündüz görülenlerin veya kişisel çağrışımların doğrudan kopyası olmayabileceği önerilir. Hatırlanan rüya raporlarına dayanan bu inceleme, belirli bir rengin herkes için aynı duyguyu veya gelecek olayını gösterdiğini kanıtlamaz.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [],
+  "commonGround": "Renk, nesneden ve kişinin hatırladığı sahneden ayrı düşünülmemelidir.",
+  "differences": "Renk bildirimlerini inceleyen bir araştırma, tek bir rüyanın kişisel anlamını belirlemez.",
+  "inusAssessment": "Renk rüyasını düşünürken önce görüntüyü tarif edin: hangi nesne, hangi ton ve nasıl bir ışık vardı? INUS, kırmızıyı her zaman tehlike veya beyazı her zaman iyi haber gibi sabit karşılıklara bağlamaz. Bir rengin kültürel kullanımı ile sizin sevdiğiniz bir eşyadaki rengi farklı çağrışımlar oluşturabilir. Hatırlama düzeyinizi de yorumdan ayrı tutmak yararlıdır.",
+  "faq": [
+    {
+      "question": "Her rengin sabit bir rüya anlamı var mı?",
+      "answer": "Bu sayfada renkler sabit bir şifre olarak ele alınmaz. Nesne, ışık, duygu ve kişisel çağrışım birlikte düşünülür."
+    },
+    {
+      "question": "Rengi hatırlamamak rüyanın siyah beyaz olduğu anlamına mı gelir?",
+      "answer": "Rengi hatırlamamanız ile siyah beyaz bir görüntüyü açıkça hatırlamanız aynı bildirim değildir. Emin olmadığınız ayrıntıyı belirsiz bırakabilirsiniz."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Content analysis on the potential significance of color in dreams: A preliminary investigation",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/508",
+      "relevance": "Yayıncıda erişilen özet: rüya raporlarında renklerin içerik analizini yapan ön çalışma. Her renge değişmez anlam veren bir deney değildir.",
+      "author": "Robert J. Hoss",
+      "year": 2010
+    }
+  ],
+  "relatedSlugs": [
+    "beyaz-renk",
+    "kirmizi-renk",
+    "mor-renk",
+    "pembe-renk",
+    "turuncu-renk",
+    "mavi"
+  ]
+}
