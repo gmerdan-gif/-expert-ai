@@ -176,12 +176,6 @@ export function SymbolPage({
               <div className="mt-6 max-w-2xl text-[16px] leading-8 text-[#5f5952]">
                 {symbol.shortDescription}
               </div>
-              <Link
-                href="/hakkimizda#icerik-yontemi"
-                className="mt-3 inline-flex min-h-11 items-center text-sm text-[#625c54] underline underline-offset-4 focus-visible:outline-2 focus-visible:outline-offset-4"
-              >
-                İçerik hazırlama yöntemi
-              </Link>
             </div>
           </section>
 
@@ -479,6 +473,12 @@ export function SymbolPage({
                   perspektifler hazırlanırken yararlanılan temel
                   kaynakları ayrı bir sayfada inceleyebilirsin.
                 </p>
+              <Link
+                href="/hakkimizda#icerik-yontemi"
+                className="mt-3 inline-flex min-h-11 items-center text-sm text-[#625c54] underline underline-offset-4 focus-visible:outline-2 focus-visible:outline-offset-4"
+              >
+                İçerik hazırlama yöntemi
+              </Link>
               </div>
 
               <Link
