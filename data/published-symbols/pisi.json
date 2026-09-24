@@ -1,0 +1,126 @@
+{
+  "slug": "pisi",
+  "title": "pişi",
+  "shortDescription": "Rüyada pişi görmek, ev içi hazırlık, paylaşım, doyum ve rahatlama duygularını çağrıştırabilir. Pişinin hazırlanması, ikram edilmesi ya da yenmesiyle birlikte rüyada hissettiğiniz rahatlık, telaş veya yoksunluk yorumu etkiler.",
+  "positiveAssociations": [
+    "Ev içi hazırlık ve sofra kurma",
+    "Paylaşılabilen bir yiyecek olarak yakınlık hissi",
+    "Doyum, rahatlama veya bakım görme çağrışımı",
+    "Hamurun pişmesiyle görünür hâle gelen dönüşüm"
+  ],
+  "challengingAssociations": [
+    "Yeme miktarına eşlik eden aşırılık ya da suçluluk hissi",
+    "Beklenen doyumun sağlanmaması",
+    "Pişirme sırasında yaşanan telaş veya kaygı",
+    "Yiyeceği paylaşamama ya da ona ulaşamama"
+  ],
+  "contextDependentAssociations": [
+    "Pişinin evde mi, bir dükkânda mı yoksa tanımadık bir yerde mi hazırlandığı",
+    "Pişiyi kimin yaptığı, sunduğu veya yediği",
+    "Pişinin sıcak, yanmış, çiğ ya da iştah açıcı görünmesi",
+    "Rüyadaki baskın duygu: rahatlık, sevinç, utanç, huzursuzluk ya da açlık"
+  ],
+  "commonVariations": [
+    {
+      "title": "Mutfakta Pişi Hazırlamak",
+      "description": "Hamur yoğurup pişi kızartmak, emek verilen bir sürecin somut bir yiyeceğe dönüşmesini öne çıkarır. Ev içi ortam, bakım verme veya hazırlanma duyguları rüyanın bağlamında önem kazanabilir."
+    },
+    {
+      "title": "Sofrada Pişi Paylaşmak",
+      "description": "Pişinin bir sofrada dolaştırılması ya da birlikte yenmesi, yiyeceğin sosyal işlevini öne çıkarır. Rüyadaki sıcak atmosfer yakınlık hissini; gerginlik ise paylaşım konusundaki beklentileri düşündürebilir."
+    },
+    {
+      "title": "Tek Başına Çok Pişi Yemek",
+      "description": "Tek başına çok miktarda pişi yemek, Freudcu bir okumada doyum, teselli arayışı veya aşırılıkla ilgili kişisel temalara bağlanabilir. Bu, sabit bir anlam değil; rüyadaki açlık, suçluluk ve rahatlama duygularına göre değişen teorik bir yorumdur."
+    },
+    {
+      "title": "Yağda Kızaran Pişiyi İzlemek",
+      "description": "Pişinin yağda kızarma sürecini izlemek, hamurun hazırlanmış bir yiyeceğe dönüşmesini görünür kılar. Rüyanın anlamı, bu görüntünün iştah, sabırsızlık, endişe ya da memnuniyet uyandırmasına göre farklılaşabilir."
+    }
+  ],
+  "psychology": "Pişiye özgü, doğrudan bir rüya araştırması bulunmamaktadır. Rüya içeriği araştırmaları, duyguların rüyalarda yaygın olduğunu gösterir; yiyecek teması da genel olarak doyum, beslenme ve yaşantıların işlenmesiyle ilişkilendirilebilir. Bu nedenle pişiyi tek başına yorumlamak yerine rüyadaki duygu, olay örgüsü ve kişisel çağrışımlar birlikte ele alınmalıdır.",
+  "jungian": "Pişi için doğrudan bir Jungcu rüya yorumu doğrulanmamıştır. Mevcut Jungcu materyal suyu bilinçdışıyla ilişkilendirir; ancak bu, pişiye otomatik olarak uygulanamaz. Rüyada ayrıca su, dalma, taşma veya benzeri bir su imgesi varsa, o imge Jungcu çerçevede ayrı olarak değerlendirilebilir.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik gelenekte ekmek ve temel gıdalar, Tanrı’nın sağladığı nimet, yaşam ve ruhsal beslenmeyle ilişkilendirilir. Pişi için doğrudan bir rüya kaydı bulunmadığından, bu yalnızca yiyecek ve paylaşım sembolizmine dayanan sınırlı bir geleneksel çerçevedir; standart bir rüya tabiri değildir.",
+  "jewishTraditions": "Yahudi rüya geleneğinde yorumun rüyanın anlamını etkileyebileceği vurgulanır. Pişiye ilişkin doğrudan bir kayıt yoktur; ancak ekmek ve temel gıdalar üzerinden rızık, geçim ve paylaşım temaları düşünülebilir. Bu, pişiye özgü bir Talmudik yorum değil, yakın yiyecek sembolizmine dayalı temkinli bir okumadır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Psikolojik Araştırma",
+      "interpretation": "Yiyecek teması, duygusal ton, doyum ve yaşantıların işlenmesiyle birlikte ele alınabilir; pişi için sabit bir anlam kanıtlanmış değildir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Freudcu kuramda yiyecek imgeleri ihtiyaç, haz, bakım ve doyum arzularıyla ilişkilendirilebilir. Pişiye uyarlama, doğrudan bir kaynak değil, yiyecek ve hamur işi temalarına dayalı teorik sentezdir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Antik Oneirokritik",
+      "interpretation": "Artemidorusçu yaklaşımda nesnenin kendisinden çok işlevi, kullanım bağlamı ve toplumsal ilişkileri dikkate alınır. Pişi için doğrudan tarihsel bir madde bulunmamaktadır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Geleneği",
+      "interpretation": "Ekmek ve temel gıda sembolizmi üzerinden nimet, beslenme ve paylaşım çağrışımları kurulabilir; bu, pişiye özel bir rüya öğretisi değildir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Yakın yiyecek ve ekmek sembolizmi, rızık, yeterlilik ve paylaşım bağlamında sınırlı bir okuma sunar; pişiye dair doğrudan bir kayıt yoktur.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Yiyecek temasıyla ilgili yaklaşımlar, rüyanın duygusal tonunu ve yiyeceğin rüyadaki kullanımını dikkate alır. Pişinin hazırlanması, yenmesi, sunulması veya reddedilmesi gibi ayrıntılar, genel yiyecek çağrışımlarından daha açıklayıcı olabilir.",
+  "differences": "Psikolojik araştırma rüyalardaki duygu ve içerik örüntülerini inceler; belirli bir sembolün sabit anlamını doğrulamaz. Psikanalitik yaklaşım ihtiyaç, haz ve bakım temalarına yönelik teorik okumalar sunar. Hristiyan ve Yahudi geleneklerindeki sınırlı çerçeveler ise pişinin kendisinden çok ekmek ve temel gıda sembolizmine dayanır.",
+  "inusAssessment": "Pişi rüyasını değerlendirirken, pişinin nasıl göründüğüne ve rüyada ne olduğuna bakmak yararlıdır: Hamuru siz mi hazırladınız, biri mi ikram etti, pişi sıcak mıydı, yendi mi yoksa bekletildi mi? Ev yapımı ya da hazır oluşu, kimin yediği, tüketilen miktar ve rüya sırasındaki duygusal ton kişisel çağrışımları anlamaya yardımcı olabilir. Bu ayrıntılar tek bir kesin yorum vermez; rüyanın sizin güncel deneyimlerinizle nasıl kesiştiğini düşünmek için ipucu sağlar.",
+  "faq": [
+    {
+      "question": "Rüyada pişi görmek genel olarak ne anlama gelir?",
+      "answer": "Pişi için doğrulanmış tek bir rüya anlamı yoktur. Bir yiyecek olarak doyum, hazırlanma veya paylaşım çağrışımı taşıyabilir; ancak yorum, rüyada pişinin nasıl kullanıldığına ve sizde uyandırdığı duyguya bağlıdır."
+    },
+    {
+      "question": "Rüyada başkalarına pişi ikram etmek nasıl değerlendirilebilir?",
+      "answer": "İkram etme eylemi, rüyadaki ilişki biçimine dikkat çekebilir. İkramın sevinçle kabul edilmesi yakınlık ve karşılıklılık çağrışımı yaratabilir; reddedilmesi ya da zorla sunulması ise beklenti, sınır veya kabul görme duygularını düşündürebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "DreamResearch.net: The content of dreams (Domhoff, 2005)",
+      "relevance": "Rüya içeriklerinde duyguların yaygınlığına ilişkin genel bir çerçeve sunar; pişiye özgü bir anlam vermez."
+    },
+    {
+      "title": "[PDF] The Neurocognitive Theory of Dreaming",
+      "relevance": "Rüyalardaki duygusal içeriğin sıklığına ilişkin bilimsel derleme çerçevesi sağlar."
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Dilek gerçekleştirme, ihtiyaç, haz ve yiyecek imgelerine ilişkin klasik psikanalitik çerçeveyi sunar."
+    },
+    {
+      "title": "Freud (1900) Chapter 3 - Classics in the History of Psychology",
+      "relevance": "Beslenme, bedensel haz ve rüya imgeleri arasındaki psikanalitik tartışmaya kaynaklık eder."
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Antik oneirokritikte rüya nesnelerinin işlev ve bağlam üzerinden yorumlanma yaklaşımını gösterir."
+    },
+    {
+      "title": "Topical Bible: Symbolism of Bread and Water",
+      "relevance": "Hristiyan sembolizminde ekmek ve temel gıdaların yaşam, nimet ve ruhsal beslenmeyle ilişkilendirilmesine dair genel çerçeve sunar."
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Talmudik rüya anlayışında yorumun rolüne ilişkin genel çerçeve sağlar."
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Yahudi rüya geleneği ve Berakhot'taki rüya tartışmaları için erişim noktası sunar."
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian"
+  ]
+}
