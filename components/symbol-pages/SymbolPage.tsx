@@ -492,42 +492,6 @@ export function SymbolPage({
           </section>
         </article>
 
-        <footer className="flex flex-col gap-4 border-t border-[#d9d2c9] py-7 text-xs text-[#91887e] sm:flex-row sm:items-center sm:justify-between">
-          <span className="font-medium tracking-[0.28em] text-[#24221f]">
-            INUS
-          </span>
-
-          <div className="flex flex-wrap gap-5">
-            <Link href="/ruyalar">Rüyalar</Link>
-
-            <Link href="/ruyalar/semboller">
-              Rüya Sembolleri
-            </Link>
-
-            <Link
-              href={`/ruyalar/semboller/${symbol.slug}/kaynaklar`}
-            >
-              Kaynaklar
-            </Link>
-
-            <Link href="/hakkimizda">
-              Hakkımızda
-            </Link>
-
-            <Link href="/bize-ulasin">
-              Bize Ulaşın
-            </Link>
-
-            <Link href="/gizlilik">
-              Gizlilik
-            </Link>
-
-            <Link href="/kullanim-kosullari">
-              Kullanım Koşulları
-            </Link>
-          </div>
-
-        </footer>
       </div>
     </main>
   );

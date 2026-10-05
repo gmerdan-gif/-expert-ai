@@ -25,3 +25,5 @@ for (const symbol of symbols) {
 }
 assert.equal(getPublishedSymbolBySlug("../test"), null);
 console.log(`${symbols.length} canonical symbols, ${Object.keys(redirects).length} redirects: checks passed`);
+
+assert(!Object.hasOwn(redirects, "nisan_gormek"), "Nisan month must not absorb ambiguous engagement intent");
