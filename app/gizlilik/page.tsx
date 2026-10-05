@@ -139,23 +139,7 @@ export default function Gizlilik() {
           </div>
         </article>
 
-        <footer className="mt-20 border-t border-[#d9d1c7] pt-6 text-sm text-[#81786e]">
-          <Link href="/" className="hover:text-[#686158]">
-            Ana Sayfa
-          </Link>
 
-          <span className="mx-3">·</span>
-
-          <Link href="/hakkimizda" className="hover:text-[#686158]">
-            Hakkımızda
-          </Link>
-
-          <span className="mx-3">·</span>
-
-          <Link href="/bize-ulasin" className="hover:text-[#686158]">
-            Bize Ulaşın
-          </Link>
-        </footer>
       </div>
     </main>
   );
