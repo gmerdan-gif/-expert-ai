@@ -1,3 +1,4 @@
+import symbolRedirects from "./redirects.json";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -22,7 +23,7 @@ function getPublishedSymbolFiles(): string[] {
 
   return fs
     .readdirSync(PUBLISHED_SYMBOLS_DIR)
-    .filter((file) => file.endsWith(".json"))
+    .filter((file) => file.endsWith(".json") && !Object.hasOwn(symbolRedirects, file.slice(0, -5)))
     .sort();
 }
 
@@ -40,9 +41,10 @@ export function getPublishedSymbolBySlug(
     return null;
   }
 
+  const canonicalSlug = (symbolRedirects as Record<string, string>)[safeSlug] ?? safeSlug;
   const filePath = path.join(
     PUBLISHED_SYMBOLS_DIR,
-    `${safeSlug}.json`,
+    `${canonicalSlug}.json`,
   );
 
   if (!fs.existsSync(filePath)) {
@@ -58,7 +60,7 @@ export function getPublishedSymbolBySlug(
    * This prevents a misplaced/renamed JSON file from silently
    * serving content under the wrong URL.
    */
-  if (symbol.slug !== safeSlug) {
+  if (symbol.slug !== canonicalSlug) {
     throw new Error(
       `Published symbol slug mismatch: requested "${safeSlug}", file contains "${symbol.slug}".`,
     );
@@ -132,7 +134,10 @@ export function getRelatedPublishedSymbols(
       continue;
     }
 
-    seen.add(slug);
+    if (target.slug === symbol.slug || seen.has(target.slug)) {
+      continue;
+    }
+    seen.add(target.slug);
     related.push(target);
 
     if (related.length >= limit) {
