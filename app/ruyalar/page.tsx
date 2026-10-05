@@ -462,52 +462,7 @@ export default function DreamsPage() {
           </div>
         </section>
 
-        {/* FOOTER */}
-        <footer className="flex flex-col gap-4 border-t border-[#d9d2c9] py-7 text-xs text-[#91887e] sm:flex-row sm:items-center sm:justify-between">
-          <Link
-            href="/"
-            className="font-medium tracking-[0.28em] text-[#24221f] transition hover:opacity-70"
-          >
-            INUS
-          </Link>
 
-          <div className="flex flex-wrap gap-5">
-            <Link href="/ruyalar" className="transition hover:text-[#24221f]">
-              Rüyalar
-            </Link>
-            <Link
-              href="/ruyalar/semboller"
-              className="transition hover:text-[#24221f]"
-            >
-              Rüya Sembolleri
-            </Link>
-            <Link
-              href="/hakkimizda"
-              className="transition hover:text-[#24221f]"
-            >
-              Hakkımızda
-            </Link>
-            <Link
-              href="/bize-ulasin"
-              className="transition hover:text-[#24221f]"
-            >
-              Bize Ulaşın
-            </Link>
-            <Link
-              href="/gizlilik"
-              className="transition hover:text-[#24221f]"
-            >
-              Gizlilik
-            </Link>
-            <Link
-              href="/kullanim-kosullari"
-              className="transition hover:text-[#24221f]"
-            >
-              Kullanım Koşulları
-            </Link>
-          </div>
-
-        </footer>
       </div>
     </main>
   );
