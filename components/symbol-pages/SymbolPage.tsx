@@ -18,17 +18,6 @@ type SymbolPageProps = {
   relatedSymbols?: RelatedSymbol[];
 };
 
-function lowerTr(value: string) {
-  return value.toLocaleLowerCase("tr-TR");
-}
-
-function rawSymbolName(title: string) {
-  return title
-    .replace(/^rüyada\s+/i, "")
-    .replace(/\s+görmek$/i, "")
-    .trim();
-}
-
 function dreamHeading(title: string) {
   return dreamPhrase(title);
 }
@@ -37,8 +26,6 @@ export function SymbolPage({
   symbol,
   relatedSymbols = [],
 }: SymbolPageProps) {
-  const rawName = rawSymbolName(symbol.title);
-
   const positiveAssociations =
     symbol.positiveAssociations ?? [];
 
@@ -230,13 +217,6 @@ export function SymbolPage({
                 Farklı yaklaşımlarda nasıl ele alınıyor?
               </h2>
 
-              <p className="mt-4 max-w-3xl text-sm leading-7 text-[#746d64]">
-                Psikolojik yaklaşımlar, Jungçu yorumlar ve kültürel ya da
-                geleneksel kaynaklar aynı türden bilgi sunmaz. Aşağıdaki
-                perspektifleri kendi çerçeveleri içinde ayrı ayrı ele
-                alıyoruz.
-              </p>
-
               <div className="mt-7 grid gap-3 md:grid-cols-2 lg:grid-cols-3">
                 {perspectives.map((item) => (
                   <section
@@ -369,12 +349,6 @@ export function SymbolPage({
                   Peki senin rüyanda ne oldu?
                 </h2>
 
-                <p className="mt-4 max-w-2xl text-[15px] leading-7 text-[#625c54]">
-                  Aynı sembol, iki rüyada bambaşka bir yerde durabilir.
-                  Kimler vardı, ne oldu, ne hissettin ve{" "}
-                  {lowerTr(rawName)} rüyanın içinde nasıl ortaya çıktı?
-                  INUS rüyanı bu bağlamla birlikte ele alır.
-                </p>
               </div>
 
               <div className="lg:text-right">
@@ -432,11 +406,6 @@ export function SymbolPage({
                 İlgili rüya sembolleri
               </h2>
 
-              <p className="mt-4 max-w-2xl text-sm leading-7 text-[#746d64]">
-                Bu sembolle doğrudan ilişkili diğer rüya
-                sembollerini keşfedebilirsin.
-              </p>
-
               <div className="mt-7 flex flex-wrap gap-3">
                 {relatedSymbols.map((related) => (
                   <Link
@@ -468,11 +437,6 @@ export function SymbolPage({
                   Bu içerik hangi kaynaklara dayanıyor?
                 </h2>
 
-                <p className="mt-4 max-w-2xl text-sm leading-7 text-[#746d64]">
-                  Bu sayfadaki psikolojik, teorik ve geleneksel
-                  perspektifler hazırlanırken yararlanılan temel
-                  kaynakları ayrı bir sayfada inceleyebilirsin.
-                </p>
               <Link
                 href="/hakkimizda#icerik-yontemi"
                 className="mt-3 inline-flex min-h-11 items-center text-sm text-[#625c54] underline underline-offset-4 focus-visible:outline-2 focus-visible:outline-offset-4"
