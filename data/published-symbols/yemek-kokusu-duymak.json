@@ -1,0 +1,155 @@
+{
+  "slug": "yemek-kokusu-duymak",
+  "title": "yemek_kokusu_duymak",
+  "shortDescription": "Rüyada yemek kokusu duymak, tanıdık anıları, ev konforunu ve duygusal doyum ihtiyacını çağrıştırabilir. Hoş bir koku paylaşım ve rahatlığı; yanmış ya da bozulmuş bir koku ise ihmal veya huzursuzluğu düşündürebilir; açlık ve yakın zamanda yaşanan yemek deneyimleri de etkili olabilir.",
+  "positiveAssociations": [
+    "Tanıdık bir yemek aromasının verdiği ev konforu ve güven hissi",
+    "Davet veya paylaşım beklentisi, misafirperverlik çağrışımı",
+    "Bir anıyı veya nostaljik duyusal izlenimi canlandırma",
+    "Duyusal/duygusal doyuma yönelik arzunun uyanması"
+  ],
+  "challengingAssociations": [
+    "Beklenen aromatik doyumun gerçekleşmemesiyle ortaya çıkan hayal kırıklığı hissi",
+    "Bozulmuş, yanık veya rahatsız edici kokuların ihmal duygusu veya huzursuzluk çağrıştırması",
+    "Rüyadaki koku ile uyanıklıkta yaşanan beden duyumları arasında uyumsuzluk",
+    "Erişilemeyen veya uzakta kalan bir lezzete ilişkin özlem duygusu"
+  ],
+  "contextDependentAssociations": [
+    "Kokunun hoş ya da rahatsız edici oluşu (değişen yoruma yol açar)",
+    "Rüya görenin uykudan önceki açlık/tokluk durumu veya yakın zamandaki yemek deneyimleri",
+    "Kokunun alındığı mekânın tanıdık bir ev mutfağı mı yoksa yabancı bir sokak mı olduğu",
+    "Koku ile tetiklenen spesifik bir anı, kişi veya duygunun bulunup bulunmaması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Evde pişen tanıdık bir yemeğin kokusu",
+      "description": "Tanıdık bir mutfaktan yayılan taze yemek aromasının rüyada algılanması; güvenlik, aile ve aidiyet hisleriyle ilişkilendirilebilir."
+    },
+    {
+      "title": "Dışarıdan gelen belirgin baharat veya sokak yemeği kokusu",
+      "description": "Sokakta hissedilen güçlü bir yemek aroması; gündelik koku belleğinin uyarılması, anıların canlanması veya çevresel uyarılara tepki verme olasılığını düşündürür."
+    },
+    {
+      "title": "Yanmış veya bozulmuş yemek kokusu",
+      "description": "Rahatsız edici bir yiyecek kokusunun algılanması; ihmal, bozulma veya içsel rahatsızlık imgelerine bağlanabilecek bir duyusal işarettir."
+    },
+    {
+      "title": "Kaynağı bulunamayan uzak bir yemek aroması",
+      "description": "Kokunun algılanıp kaynağının görünmemesi; karşılanmamış arzuların veya soyut duygusal ihtiyaçların sembolik bir karşılığı ya da duyusal bir yansıması olabilir."
+    }
+  ],
+  "psychology": "Araştırmalar rüyalarda koku ve tat deneyimlerinin genel olarak seyrek olduğunu, olfaktör imgelerin toplam rüya içeriğinin küçük bir bölümünü oluşturduğunu göstermektedir. Bildirilen kokuların önemli bir bölümü yemek ve içeceklerle ilişkilidir; bu durum koku belleği ve olfaktör imgeleme kapasitesiyle bağlantılı olabilir. Koku içeren rüyalar kısa, duygusal açıdan belirgin ve genellikle gündelik yaşamda tanınan kokuları yansıtma eğilimindedir. Ayrıca psikanalitik literatürde koku, anı, oral doyum ve duygulanım bağlamında tartışılır; Freud, örnek olarak yemek ve susuzluk temasına değinir; ancak bunlara dayanarak koku rüyalarına tekil ve zorunlu anlamlar atfetmez. Bu nedenle bir rüyadaki yemek kokusu hem duyusal belleğin hem de bireysel duygusal/bedensel durumların kesişiminden anlaşılmalıdır.",
+  "jungian": "Jungcu çerçevede yemek kokusu, sabit bir arketip yerine rüya görenin kişisel çağrışımları, anıları ve o anki ruhsal durumu üzerinden yorumlanır. Koku imgesi, rüyanın bütünsel bağlamıyla birlikte ele alındığında anlam kazanır; böylece kişiye özgü duygusal rezonanslar ve çağrışımlar ön plana çıkar.",
+  "islamicTradition": "Bu sembol için doğrudan ve doğrulanabilir klasik bir İslami rüya tabiri bulunamamıştır. TDV İslâm Ansiklopedisi gibi kaynaklar rüyalarda bedensel durumların içeriği etkileyebileceğini belirtir; dolayısıyla yemek kokusu deneyimi bazen fiziksel ihtiyaçlar veya duyusal etkilerle ilişkilendirilebilir, fakat bu sembole özgü sabit bir tabir sunulmaz.",
+  "christianTraditions": "Doğrudan yemek kokusu rüyalarına dair klasik bir Hristiyan yorumu bulunmamakla birlikte, İncil’deki \"hoş koku\" imgeleri sunu, ibadet ve manevi rızık temalarıyla bağlantılıdır. Bu çerçevede davetkâr bir yemek aroması bakım, paylaşım veya manevi beslenme çağrışımı uyandırabilir; ancak bu, kesin bir öğreti değil bağlama bağlı bir yorumdur.",
+  "jewishTraditions": "Yahudi rüya geleneğinde rüyaların yiyecekler ve bedensel duyumlarla bağlantılı olabileceği kabul edilir. Berakhot 57b gibi metinlerde hoş koku rahatlatıcı bir duyusal deneyim olarak anılır; bu nedenle güzel bir yemek kokusu rüyada haz ve rahatlık çağrışımı yapabilir. Fakat doğrudan \"rüyada yemek kokusu duymak\" şeklinde sabit bir tabir kaydı bulunmamaktadır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yorumlarda yemek kokusu genellikle beslenme, bakım, konfor ve aidiyet temalarıyla ilişkilendirilir. Hoş ve davetkâr aromalar paylaşım ve bolluk arzusunu, bozulmuş veya rahatsız edici kokular ise ihmal, tükenme ya da artık besleyici olmayan bir duruma dikkat çekmeyi simgeleyebilir. Bu okumalar geleneksel kanıtlardan ziyade çağdaş sembolik sentezlerdir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Olfaktör rüyaların seyrekliğini, koku belleğiyle ilişkisini ve yemek/içecek kategorisinde yoğunlaşma eğilimini araştırır.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Koku deneyimini anı, oral doyum, haz ve bastırılmış duygulanımlar bağlamında tartışır; kesin anlamlardan kaçınır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan ve Yahudi Yaklaşımları",
+      "interpretation": "Hoş koku imgelerini rızık, ibadet ve duygusal rahatlama temalarıyla temkinli biçimde ilişkilendirir; doğrudan bir rüya tabiri sunmaz.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Yemek aromasını bakım, konfor, paylaşım ve duygusal doyum metaforu olarak okur; yorumlar geleneksel metinlere dayanmaktan ziyade çağdaş sentezlidir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli disiplinler, rüyada yemek kokusu duymanın sabit bir kehanet veya tek anlam taşımadığını; bunun yerine duyusal belleğin, bireysel anıların ve beden/duygu durumlarının birleşimi olarak anlaşılması gerektiği konusunda birleşir.",
+  "differences": "Bilimsel araştırmalar olfaktör rüyaların sıklığını ve fenomenolojisini vurgularken; psikanaliz bu imgeleri oral doyum, anı ve bastırma bağlamında tartışır. Spiritüel yaklaşımlar ise kokunun sembolik okumasıyla konfor, paylaşım veya ihmal temalarına odaklanır. Dinî gelenekler (İncil, Talmud) hoş kokuyla ilgili imgeler sunar ama doğrudan yemek kokusu rüyalarına ilişkin sabit tabirler sağlamaz.",
+  "inusAssessment": "Rüyada yemek kokusu duymak, görsel imgelere kıyasla olfaktör sistemin nadir yansımalarından biridir. Kokunun hoş veya rahatsız edici oluşu, rüya görenin uyanıklık halindeki açlık/özlem durumu ve rüyanın bağlamı yorumun yönünü belirleyen en önemli unsurlardır. Dolayısıyla yemek kokusu tek bir anlamla ilişkilendirilmemeli, kişisel anılar ve duyusal arzuların tetikleyicisi olarak okunmalıdır.",
+  "faq": [
+    {
+      "question": "Rüyada yemek kokusu duymak gerçekte aç olduğum anlamına mı gelir?",
+      "answer": "Bazen fizyolojik açlık veya yakın zamandaki yeme deneyimleriyle ilişkili olabilir; ancak çoğu durumda koku belleği, anılar veya duygusal ihtiyaçların tetiklenmesinden kaynaklanabilir. Kesin bir gösterge değildir."
+    },
+    {
+      "question": "Rüyada koku duymak ne kadar yaygındır?",
+      "answer": "Genel olarak nadirdir. Çalışmalarda koku ve tat deneyimleri rüya raporlarının küçük bir payını oluşturmuştur, yani çoğu rüyada olfaktör öğeler bildirilmez."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Olfactory perception in dreams: Analysis of a long dream series",
+      "relevance": "11.180 rüyadan oluşan uzun bir dizi üzerinden olfaktör algıların sıklığını, hoş/kötü koku dağılımını ve bağlamsal özellikleri raporlar; yemek kokusu rüyalarının nadirliğine dair ampirik veri sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/57845"
+    },
+    {
+      "title": "Olfactory Dreams: Phenomenology, Relationship to Volitional Imagery and Odor Identification - Richard J. Stevenson, Trevor I. Case, 2004",
+      "relevance": "Olfaktör rüyaların fenomenolojik özelliklerini, gündelik kokularla ilişkisini ve koku tanıma performansını inceleyerek yemek/içecek kokularının rüyalarda sık rapor edildiğine dair bulgular sağlar.",
+      "url": "https://journals.sagepub.com/doi/10.2190/R97G-RM98-B58N-DUYA"
+    },
+    {
+      "title": "Prevalence of Auditory, Olfactory, and Gustatory Experiences in Home Dreams - Antonio L. Zadra, Tore A. Nielsen, D. C. Donderi, 1998",
+      "relevance": "Ev rüyası günlükleri üzerinden işitsel, olfaktör ve gustatuvar deneyimlerin görülme sıklığını ve cinsiyete göre bildirilen farklılıkları değerlendirir; koku deneyimlerinin görece seyrek olduğunu destekler.",
+      "url": "https://journals.sagepub.com/doi/10.2466/pms.1998.87.3.819"
+    },
+    {
+      "title": "Reciprocal relationships between sleep and smell - PMC - NIH",
+      "relevance": "Uyku, koku işleme ve koku belleği arasındaki ilişkileri ve uyku sırasında sunulan kokuların rüya içeriğine etkisine dair bulguları tartışır; dışsal kokunun rüya içeriklerini tutarlı biçimde değiştirmediğine dair çalışmalar içerir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9813672/"
+    },
+    {
+      "title": "Träume riechen und vom Riechen träumen",
+      "relevance": "Psikanalitik çerçevede koku, anı, travma, bastırma ve oral doyum ilişkilerini tartışır; rüyada yemek kokusu deneyimini kişisel duyusal ve duygusal çağrışımlar bağlamında ele almayı destekler.",
+      "url": "https://journal-fuer-psychologie.de/article/download/0942-2285-2024-2-107/html?inline=1"
+    },
+    {
+      "title": "PEP Web - The Interpretatio...",
+      "relevance": "Susuzluk, içme ve bedensel ihtiyacın rüyada doyurulmasını örnekleyerek yemek ve içmeyle ilişkili rüya imgelerinin Freudcu dilek doyumu çerçevesinde nasıl ele alınabileceğini gösterir.",
+      "url": "https://bgsp.edu/app/uploads/2014/12/Freud-S-The-interpretation-of-dreams-122-133.pdf"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Sindirimsel durumlarla bağlantılı rüyalarda yemek zevki ve tiksinme düşüncelerinin bulunabileceğini belirtir; bu nedenle yemek kokusu deneyiminin haz, iştah veya tiksinme çağrışımlarıyla birlikte incelenmesine bağlam sağlar.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "collected-Works-18-The-Symbolic-Life-by-C-G-Jung. ...",
+      "relevance": "Rüya sembollerinin anlamını rüya görenin kişisel çağrışımları ve ruhsal bağlamıyla ilişkilendirir; bu çerçeve, yemek kokusu gibi doğrudan açıklanmamış duyusal imgelerin bağlama duyarlı biçimde ele alınmasına temel sağlar.",
+      "url": "https://ronliskey.com/docs/collected-Works-18-The-Symbolic-Life-by-C-G-Jung.pdf"
+    },
+    {
+      "title": "RÜYA - TDV İslâm Ansiklopedisi",
+      "relevance": "İslami gelenekte rüyaların bedensel durumlarla ilişkili olabileceğini belirterek, yemek kokusu deneyiminin bazen fiziksel ihtiyaçlarla ilişkili olabileceğini ancak sabit bir tabir sağlamadığını vurgular.",
+      "url": "https://islamansiklopedisi.org.tr/ruya"
+    },
+    {
+      "title": "Topical Bible: Aroma",
+      "relevance": "İncil’deki hoş koku imgelerinin ibadet, sunu ve manevi rızık temalarıyla ilişkisini özetler; yemek kokusu rüyalarının bu çerçevede temkinli bir şekilde yorumlanabileceğini gösterir.",
+      "url": "https://biblehub.com/topical/a/aroma.htm"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Yahudi rüya geleneğinde bedensel duyumların ve yiyeceklerin rüyalarla ilişkisi ile rabbanî yorumlama ilkelerini ele alır.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Berachot: 57b - Talmud - Chabad.org",
+      "relevance": "Berakhot 57b’de hoş kokunun rahatlatıcı bir duyusal deneyim olarak anılması, güzel yemek kokusunun rüyada haz ve rahatlık çağrışımı yapabileceğine dair sınırlı bir geleneksel kaynak sağlar.",
+      "url": "https://www.chabad.org/torah-texts/5299920/Talmud/Berachot/Chapter-9/57b"
+    },
+    {
+      "title": "www.dreamspoken.com › en › dream-meaningSmell in Dreams: Meaning, Memory, and the Messages of Scent",
+      "relevance": "Yemek aromalarını rüya sembolizminde iştah, konfor, bakım, misafirperverlik, paylaşım ve duygusal ya da pratik ihtiyaçlarla ilişkilendirir.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/smell"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "islamic"
+  ]
+}

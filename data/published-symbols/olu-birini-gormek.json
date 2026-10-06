@@ -1,0 +1,180 @@
+{
+  "slug": "olu-birini-gormek",
+  "title": "olu_birini_gormek",
+  "shortDescription": "Rüyada ölen birini görmek genellikle yas, özlem ve o kişiyle zihinsel bağın sürmesiyle ilişkilidir; onu huzurlu görmek teselli ve güzel anıları yansıtabilir. Rüyanın duygusu ile kişinin gülmesi, ağlaması, bir şey istemesi ya da vermesi gibi ayrıntılar yorumu etkiler.",
+  "positiveAssociations": [
+    "Yas sürecinde teselli bulma ve kabul aşamasına geçiş",
+    "Ölen kişiyle ilgili olumlu geçmiş anıların canlanması",
+    "Geleneksel tabirlerde sıkıntı ve kederden kurtulma veya rahatlama hissi",
+    "İç hesaplaşma ve rahatlama duygusu"
+  ],
+  "challengingAssociations": [
+    "Hastalık veya ölüm anını yeniden yaşamanın getirdiği keder",
+    "Kapanmamış duygular, ambivalans ve yoğun özlem",
+    "Geleneksel tabirlerde ölünün bir şey istemesiyle bağdaşan yükümlülükler",
+    "Yas döneminde artabilen duygusal dalgalanmalar"
+  ],
+  "contextDependentAssociations": [
+    "Rüyanın duygusal tonunun kederli ya da huzurlu olması",
+    "Ölen kişinin rüyadaki genel görünümü, davranışı ve konumu",
+    "Rüya sahibinin uyanık yaşamındaki yas süreci ve zamanlama",
+    "Rüya içinde geçen özel motifler (konuşma, nesne alma/verme)"
+  ],
+  "commonVariations": [
+    {
+      "title": "Ölen yakını huzurlu ve sakin görmek",
+      "description": "Rüya sahibinin ölmüş yakınını sağlıklı, huzurlu ve sakin bir şekilde görmesi; genellikle yas sürecinde zihinsel bir teselli bulma ve geçmiş güzel anıları hatırlama ile ilişkilendirilir."
+    },
+    {
+      "title": "Ölen kişinin evde yiyip içmesi",
+      "description": "Geleneksel ve rabbanî yorum çerçevelerinde rastlanan bu motif, ölen kişinin ev ortamında görülmesinin yanı sıra hane halkı açısından olumlu bir işaret olarak ele alınır."
+    },
+    {
+      "title": "Ölen kişinin bir nesne vermesi",
+      "description": "Ölen yakının rüya sahibine somut bir nesne uzatması veya vermesi; geleneksel tabirlerde rüya sahibinin eline bazı imkanların veya gelişmelerin geçmesi şeklinde yorumlanır."
+    },
+    {
+      "title": "Hastalık veya ölüm anını yeniden yaşamak",
+      "description": "Ölen kişinin geçmişteki hastalık veya kayıp döneminin rüyada tekrar tecrübe edilmesi; yas sürecinin henüz kapanmamış yönleri ve zihinsel olarak bu dönemin işlenmesiyle bağlantılıdır."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar, yas yaşayan bireylerin yarıdan fazlasının ölmüş yakınlarını rüyalarında gördüğünü ve bu rüyaların olumlu anılar, teselli, huzurlu görünüm ve mesaj alma hissi gibi temalar barındırdığını göstermektedir. Katılımcıların önemli bir kısmı bu deneyimlerin yas süreçlerini, kabullenişi ve ruh hallerini etkilediğini belirtmektedir. Komplike yas örneklerinde ise bu rüyaların görülme sıklığı artsa da, rüya görme olgusunun tek başına depresyon veya kaygı şiddetini doğrudan artırıp azaltmadığına dair kesin bir doğrusal ilişki saptanmamıştır. Uzunlamasına vaka verileri, ölen kişinin rüyalardaki görünümünün zamanla değiştiğini ve uyanık yaşamdaki başa çıkma mekanizmalarıyla paralel bir seyir izlediğini ortaya koymaktadır.",
+  "jungian": "",
+  "islamicTradition": "Klasik İslami rüya tabiri metinlerinde ölen birini görmek tek bir sabit anlama indirgenmez; ölünün rüyadaki görünüşüne, durumuna ve davranışına göre ayrışır. Örneğin, ölüyü gülerken görmek genellikle sıkıntıdan kurtulma ve huzura, ağlarken görmek ise o kişi için rahmet dilemekle ilişkilendirilir. Ölen kişinin yiyecek talep etmesi durumunda sadaka verilmesi tavsiye edilir. Ölenin rüya sahibine bir nesne vermesi ise rüya sahibinin eline bir imkân veya gelişme geçebileceği şeklinde yorumlanır.",
+  "christianTraditions": "Hristiyan sembolik ve teolojik bağlamında ölmüş birini rüyada görmek, yas, özlem, teselli ve kapanmamış duyguların bir yansıması olarak ele alınır. Modern Hristiyan yaklaşımlarında bu rüyalar, ilahi bir kesin kehanetten ziyade hatıraların, teselli arayışının veya içsel hesaplaşmanın bir aracı olarak değerlendirilir. Ölümün son söz olmadığını hatırlatan diriliş ve umut temaları da bu tür deneyimlerin teolojik sentezinde yer bulur.",
+  "jewishTraditions": "Yahudi rabbanî rüya geleneğinde (örneğin Berakhot pasajlarında) rüyalar anlam taşıyabilmekle birlikte yoruma açıktır ve kişinin gündüz düşünceleriyle bağlantılıdır. Ölü bir kişinin evde görülmesi ev için iyi bir işaret, evde yiyip içmesi ise olumlu bir gelişme olarak kabul edilir. Modern Yahudi açıklamalarında ise bu tür rüyalar, yaşayan kişiye yönelik içsel bir mesaj veya ölen kişinin ruhu için yapılabilecek iyilikler bağlamında yorumlanabilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Yas sürecinin doğal bir parçası olarak görülür; teselli, anıların canlanması ve kabullenme işlevi taşır.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Bastırılmış dilekler, yeniden kavuşma arzusu, ambivalans ve kaybedilen kişiyle zihinsel bağın sürmesi olarak ele alınır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Ölünün gülmesi, ağlaması, bir şey istemesi veya vermesi gibi somut detaylara göre ayrı ayrı tabir edilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rabbanî Gelenek",
+      "interpretation": "Rüyanın bağlamına ve detaylarına (evde görülmesi, yiyip içmesi) bağlı olarak olumlu işaretler veya anlamsal yorumlar sunar.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, ölmüş birinin rüyada görülmesinin rastgele bir imgeden ziyade, rüya sahibinin zihinsel dünyası, geçmiş ilişkileri ve duygusal durumuyla yakından bağlantılı olduğunu kabul eder.",
+  "differences": "Psikolojik araştırmalar rüyayı yas ve başa çıkma süreçleriyle temellendirirken, psikanaliz bilinçdışı dileklere ve ambivalansa odaklanır; geleneksel dinî yaklaşımlar ise ölünün rüyadaki eylemlerine (gülme, ağlama, nesne verme) dayalı yorum şemaları sunar.",
+  "inusAssessment": "Ölmüş birini görmek, tek ve evrensel bir sembolik anlam yerine rüya sahibinin kaybıyla kurduğu psikolojik bağ ve rüyanın sunduğu ayrıntılı motifler üzerinden şekillenir. Araştırmalar bu rüyaların yas ve teselli bağlamında yaygın olduğunu gösterirken, psikanalitik ve geleneksel çerçeveler rüyadaki duygusal tonun (kederin varlığı veya yokluğu) ve ölünün davranışlarının yorumu tamamen değiştirdiğini vurgular. Dolayısıyla bu sembolü değerlendirirken rüyanın hangi duygu eşliğinde görüldüğü ve ölen kişinin rüyada ne yaptığı en kritik belirleyicilerdir.",
+  "faq": [
+    {
+      "question": "Ölmüş birini rüyada görmek her zaman yas süreciyle mi ilgilidir?",
+      "answer": "Psikolojik araştırmalar bu rüyaların yas yaşayan kişilerde çok yaygın olduğunu gösterse de, her rüya bireyin o anki zihinsel meşguliyetine, anılarına ve kişisel ilişkilerine göre farklılık gösterir."
+    },
+    {
+      "question": "Rüyada ölen kişinin gülmesi veya ağlaması ne anlama gelir?",
+      "answer": "Geleneksel tabirlerde ölünün gülmesi sıkıntıdan kurtulmaya ve huzura, ağlaması ise o kişi için rahmet dilenmesine bağlanır; ancak bu yorumlar kesin birer kehanet değil, geleneksel okuma biçimleridir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Impact of Dreams of the Deceased on Bereavement - Scott T. Wright, Christopher W. Kerr, Nicole M. Doroszczuk, Sarah M. Kuszczak, Pei C. Hang, Debra L. Luczkiewicz, 2014",
+      "relevance": "Yas yaşayan kişilerin ölmüş yakınlarını gördüğü rüyaların yaygınlığını, temalarını ve katılımcıların bu rüyalara yüklediği etkileri inceler.",
+      "url": "https://journals.sagepub.com/doi/10.1177/1049909113479201"
+    },
+    {
+      "title": "Dream Content in Complicated Grief: A Window into Loss-Related ...",
+      "relevance": "Komplike yas yaşayan yetişkinlerin rüya içeriklerini ve ölen kişiyi görme ile yas, depresyon ve kaygı göstergeleri arasındaki ilişkileri inceler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3929213/"
+    },
+    {
+      "title": "[PDF] Dreams in bereavement: Case study",
+      "relevance": "Bir kişinin annesinin ölümünden sonraki bir yıl içinde kaydettiği rüyaları izleyerek ölen kişinin rüyalardaki görünümü ile yas sürecindeki değişimleri ele alır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/74179/74404/218873"
+    },
+    {
+      "title": "The death of a family member (brother) reflected in a long ...",
+      "relevance": "Uzun bir rüya dizisinde bir kardeşin ölümünün, kardeşin rüyalarda görülme sıklığı ve ölüm temasının ifade biçimiyle ilişkisini inceler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/112280/109150"
+    },
+    {
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "relevance": "Ölen kişilerle ilgili rüyalar üzerine yapılan çalışmaları bir araya getirerek yaygınlık, rüya temaları, duygusal işlevler ve yasla ilişkili bulguları sentezler.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41570642/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud'un sevilen bir yakının öldüğünü görme rüyalarını, rüyanın keder duygusuyla birlikte olup olmamasına ve bastırılmış dilek kavramına göre tartıştığı bölümü sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "psychclassics.yorku.ca · Freud · DreamsClassics in the History of Psychology -- Freud (1900) Chapter ...",
+      "relevance": "Freud'un sevilen kişilerin ölümünü konu alan tipik rüyalar için yaptığı, keder ve bastırılmış dilek arasındaki ayrımı içeren metin bölümünü sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5b.htm"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un rüya ile görü arasındaki ayrımını ve rüyaların geleceğe ilişkin sembolik anlam taşıyabileceği çerçeveyi sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Dreaming of the Dead - JOSePH DReAM CATCHeRZ",
+      "relevance": "Artemidorus’un *Oneirocritica* eserinde ölü kişilerin görünmesi ve ölünün yeniden dirilmesi gibi motiflere ilişkin aktarılan yorumları ele alır.",
+      "url": "https://joesphdream.com/dreaming-of-the-dead/"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus’un rüya kavramlarını ve yorumlamada alegori ile benzetme ilkesinin rolünü açıklar.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "XLII · Dream Traditions — Giansanti Codex",
+      "relevance": "Artemidorus’un oneirokritik yaklaşımında rüya sahibinin kişisel koşulları ve yaşam bağlamının önemini özetler.",
+      "url": "http://giansanti.org/42-dreams.html"
+    },
+    {
+      "title": "Dreaming of the Afterlife: What the Dream Is Really Saying",
+      "relevance": "Artemidorus’a dayanarak yakın zamanda ölmüş kişiler ile uzun zaman önce ölmüş kişilerin rüyalardaki olası ayrımını aktarır.",
+      "url": "https://thedreamguidebook.com/dreaming-of-the-afterlife/"
+    },
+    {
+      "title": "[PDF] İbni Sîrîn'den Tercüme Edilen Bir Rüya Tabîr-Nâmesi - SADAB",
+      "relevance": "İbn Sîrîn'e tercüme edilen bir rüya tabirnamesinin metin aktarımını sunar; ölünün gülmesi, ağlaması, yiyecek istemesi ve rüya sahibine bir nesne vermesi gibi doğrudan rüya sahneleri için geleneksel yorumlar içerir.",
+      "url": "https://makale.isam.org.tr/server/api/core/bitstreams/c513adc0-7e40-4fcb-930b-660b5bc70fa0/content"
+    },
+    {
+      "title": "What Does It Mean When a Dead Person Visits You in a Dream",
+      "relevance": "Ölmüş birinin rüyada görülmesini yas, özlem, teselli ve kapanmamış duygularla ilişkilendirir; İncil'deki rüya, ölüm ve diriliş temalarını bu deneyimlerin Hristiyan sembolik yorumuna bağlar.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/visitation-dream/"
+    },
+    {
+      "title": "Dreaming about a deceased person - What does it mean?",
+      "relevance": "Ölen birinin rüyada görülmesini, Berakhot 55b'deki rüya çerçevesiyle ve bazı rabbanî yorumlarla birlikte ele alır; ölen kişinin evde görünmesi ve evde yiyip içmesi gibi ayrıntılı motifler sunar.",
+      "url": "https://meshiv.co.il/en/shelot_vetshuvot/dreaming-about-a-deceased-person/"
+    },
+    {
+      "title": "Meaning of dream about a dead person",
+      "relevance": "Ölen kişinin rüyada evde görünmesi, yiyip içmesi ve başka eylemleri hakkında Yahudi-rabbanî rüya yorumlarını aktarır; Berakhot pasajlarına bağlanan belirli motifleri içerir.",
+      "url": "https://www.hidabroot.com/i-saw-my-dead-relative-in-a-dream-what-does-it-mean/"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Yahudi ve rabbanî rüya düşüncesinde Berakhot metinlerinin rolünü, rüyaların olası anlamını ve yorumlamaya açık oluşunu bağlamsallaştırır.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "by Rabbi Yirmiyahu Ullman - <a href='http://www.rabbiullman.com'>www.rabbiullman.com</a>",
+      "relevance": "Yahudi düşüncesi içinde ölen kişilerin rüyada görünmesini yaşayan kişiye mesaj veya ölen kişi için manevi yarar bağlamında açıklar.",
+      "url": "https://ohr.edu/4199"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "christian"
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "is-yapamamak",
+  "title": "is_yapamamak",
+  "shortDescription": "Rüyada iş yapamamak, çoğunlukla iş stresi, sorumluluk baskısı, zihinsel yorgunluk veya görevleri yetiştirememe kaygısının yansımasıdır. Rüyadaki engellenme ya da durma hissi, dinlenme ve sınırları yeniden gözden geçirme ihtiyacını da düşündürebilir.",
+  "positiveAssociations": [
+    "Sorumluluk ve emek bilinci",
+    "Üretkenlik ve toplumsal katkı arayışı",
+    "Dinlenme ve sınırların farkına varılabilmesi",
+    "Mevcut durumu yeniden değerlendirme imkânı"
+  ],
+  "challengingAssociations": [
+    "İş stresi ve tükenmişlik hissi",
+    "İrade çatışmaları ve engellenme",
+    "Görevleri yerine getirememe kaygısı",
+    "Zihinsel yorgunluk ve kapasite düşüşü"
+  ],
+  "contextDependentAssociations": [
+    "Çalışma hayatının yoğunluğu ve günlük meşguliyetler",
+    "Rüya sırasında hissedilen rahatlama ya da çaresizlik duygusu",
+    "Kişinin mesleki statüsü ve yaşam koşulları"
+  ],
+  "commonVariations": [
+    {
+      "title": "İş yerinde sorumlulukları tamamlayamamak",
+      "description": "Günlük iş görevlerinin rüyada ardı arkasına engellerle karşılaşması ve bitirilememesi."
+    },
+    {
+      "title": "Aşırı yorgunluktan dolayı çalışamamak",
+      "description": "Rüyada bedensel veya zihinsel tükenmişlik nedeniyle istenen eylemin gerçekleştirilememesi."
+    },
+    {
+      "title": "Zamanla yarışırken işi yapamayacağını fark etmek",
+      "description": "Obsesif gecikmeler veya yinelemeler yüzünden işin zamanında bitirilememesi."
+    },
+    {
+      "title": "İş yapmaya çalışırken sürekli engellerle boğuşmak",
+      "description": "İrade gösterilmesine rağmen dış veya iç faktörlerin eylemi ketlemesi."
+    }
+  ],
+  "psychology": "Ampirik araştırmalar, işle ilgili rüyaların sıklığının uyanık yaşamdaki iş stresi ve mesleki deneyimlerle doğrudan bağlantılı olduğunu göstermektedir. Hâlen çalışan ve işini daha stresli algılayan bireyler, iş temalı rüyaları ve olumsuz duygusal tonları daha sık bildirmektedir. Psikanalitik kuramsal çerçevede ise rüyada bir şeyi yapamama veya hareketin engellenmesi durumu, bilinçdışı bir istemin önbilinç tarafından ketlenmesi veya bir karşı-iradenin etkisiyle ortaya çıkan iradeler çatışması olarak ele alınır. Freud'un iş ketlenmesi üzerine görüşleri; işe karşı haz azalması, kapasitede düşüş, yorgunluk, gecikme ve tekrarlar gibi klinik dinamikleri içerir; ancak bu durum doğrudan sabit bir rüya tabiri değil, psikanalitik bir teorik açıklamadır.",
+  "jungian": "Analitik psikolojiye göre rüyalar, bilinçdışındaki mevcut psikolojik durumun sembolik ve kendiliğinden bir özbetimlenişidir. İş yapamamak imgesi, kesin bir başarısızlık veya yetersizlik olarak okunmaz; aksine, bilinçli tutum ile bilinçdışı içerikler arasındaki dengesizlikleri telafi edici bir işlev görebilir. Kişinin görev, üretkenlik ve kontrol anlayışında gözden kaçırdığı gerilimler veya bastırılmış yönelimler rüya aracılığıyla dengelenmeye çalışılır.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan teolojik ve sembolik geleneğinde çalışma; üretkenlik, sorumluluk ve insanın yaratılıştaki göreviyle ilişkilendirilir. Emek yalnızca ekonomik bir faaliyet değil; disiplin edici, toplumsal ve anlamlı bir süreçtir. Rüyada iş yapamamak, kişinin sorumluluklarını yerine getirememe, üretkenlikten kopma ya da görev duygusuyla gerilim yaşama temalarını düşündürebileceği gibi, çalışma ve sebt dinlenmesi dengesi bağlamında aşırı yüklenmeye karşı bir dinlenme ihtiyacını veya sınırların kabulünü de sembolik olarak çağrıştırabilir.",
+  "jewishTraditions": "Yahudi rabbanî literatüründe rüya yorumları merkezi bir yere sahiptir ve Berakhot gibi metinlerde iş, ticaret, kazanç ve geçim rüya içeriklerinin konusu olmuştur. Rabbatî çerçevede rüyaların anlamı tek bir sabit kehanete indirgenmez; aynı rüya anlatısı farklı yorumlarla farklı anlamlar kazanabilir. Bu bağlamda iş yapamama teması, kesin bir kehanet olmaktan ziyade kişinin işlevsellik, geçim veya eyleme geçme deneyiminin yorumlanmaya açık bir temsili olarak ele alınır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "İş stresi, uyanık yaşamdaki mesleki yoğunluk ve zihinsel meşguliyetlerin rüya içeriğine ve duygusal tona yansıması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Teori",
+      "interpretation": "Bilinçdışı bir istemin önbilinç tarafından engellenmesi, iradeler çatışması veya işlev ketlenmesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Bilinçli tutum ile bilinçdışı gerilimler arasındaki dengesizliklerin telafi edici ve öz-betimleyici bir ifadesi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Teolojik ve Geleneksel Okumalar",
+      "interpretation": "Üretkenlik, sorumluluk, emek ile dinlenme veya sınırların kabulü arasındaki gerilimin yansıması.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, iş yapamamak imgesinin rüya görenin uyanık yaşamındaki sorumlulukları, stres düzeyleri ve içsel engelleriyle ilişkili olduğunda hemfikirdir; rüya tek başına izole bir olay değil, kişinin mevcut psikolojik veya yaşam bağlamının bir parçasıdır.",
+  "differences": "Ampirik psikoloji bulguları iş stresinin rüyalardaki sıklığına odaklanırken, psikanalitik ve analitik kuramlar içsel çatışmaları ve telafi mekanizmalarını öne çıkarır. Teolojik ve geleneksel yaklaşımlar ise emeğin anlamı, görev bilinci veya dinlenme ihtiyacı üzerinden değerlendirmeler sunar.",
+  "inusAssessment": "\"İş yapamamak\" rüyası, basit bir yetersizlik göstergesi veya geleceğe yönelik sabit bir kehanet değildir. Bilimsel ve teorik çerçeveler bu imgenin uyanık yaşamdaki iş stresi, zihinsel yorgunluk ve irade ile engeller arasındaki çatışmalardan beslendiğini gösterir. Bu rüyayı yorumlarken kişinin güncel mesleki baskılarını, rüyadaki duygusal tonunu (çaresizlik mi yoksa bir durma ihtiyacı mı hissedildiği) ve sorumluluk algısını bir bütün olarak ele almak gerekir.",
+  "faq": [
+    {
+      "question": "Rüyada iş yapamamak başarısız olacağım anlamına mı gelir?",
+      "answer": "Mevcut psikolojik bulgular ve teorik çerçeveler bu imgenin doğrudan gelecekteki bir başarısızlığın kanıtı olmadığını, daha ziyade uyanık yaşamdaki iş stresi, tükenmişlik veya içsel irade çatışmalarının bir yansıması olabileceğini belirtir."
+    },
+    {
+      "question": "İş stresi rüyalarda iş yapamama temasına neden olur mu?",
+      "answer": "Araştırmalar, yoğun iş stresi yaşayan kişilerin iş temalı rüyalar görme olasılığının daha yüksek olduğunu ve rüyanın duygusal tonunun uyanık yaşamdaki iş deneyimleriyle doğrudan ilişkili bulunduğunu ortaya koymaktadır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Work-Related Dreams: An Online Survey - PMC - NIH",
+      "relevance": "İşle ilişkili rüyaların sıklığını, iş stresiyle bağlantısını ve rüyaların duygusal tonunun uyanık yaşam iş deneyimleriyle ilişkisini ele alır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7573803/"
+    },
+    {
+      "title": "onlinelibrary.wiley.com · doi · pdfdirectWork-life balance in dreams: Frequency and emotional tone of work...",
+      "relevance": "İş ve yaşam alanlarının rüyalardaki sıklık ve duygusal tonla ilişkisini; özellikle iş stresinin işle ilgili rüya içeriğiyle bağlantısını inceler.",
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jsr.13674"
+    },
+    {
+      "title": "Classics in the History of Psychology -- Freud (1900) Chapter ...",
+      "relevance": "Freud'un The Interpretation of Dreams eserindeki rüyada bir şeyi yapamama, hareketin engellenmesi, karşı-irade ve iradeler çatışması tartışmasını içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6a.htm"
+    },
+    {
+      "title": "Inhibitions, Symptoms and Anxiety - Everand",
+      "relevance": "Freud'un Inhibitions, Symptoms and Anxiety eserinde işlevin, özellikle de iş yapmanın ketlenmesi; haz azalması, kapasite düşüşü, yorgunluk, gecikme ve yinelemeler bağlamında ele alınır.",
+      "url": "https://www.everand.com/book/262696639/Inhibitions-Symptoms-and-Anxiety"
+    },
+    {
+      "title": "Volume 18: The Symbolic Life",
+      "relevance": "Jung’un rüyaları bilinçdışındaki psikolojik durumu sembolik olarak gösteren imgeler ve psikolojik dengeyi yeniden kurmaya çalışan ifadeler şeklinde ele alan yaklaşımını sunar.",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-18-symbolic-life/"
+    },
+    {
+      "title": "A Library Guide to Jung's Collected Works: Dreams",
+      "relevance": "Jung’un rüyayı bilinçdışındaki mevcut durumun sembolik öz-betimlenişi olarak tanımlamasını; sembol, telafi ve bilinçdışı-bilinç ilişkisi bağlamında açıklar.",
+      "url": "https://pacifica.libguides.com/Jung/dreams"
+    },
+    {
+      "title": "Oneirocritica by Artemidorus: Ancient Greek Dream Guide",
+      "relevance": "Artemidorusçu rüya yorumunda rüya sahibinin mesleği, ekonomik durumu, sağlığı, yaşı ve toplumsal konumunun dikkate alınmasını açıklar.",
+      "url": "https://mirrorwithin.org/encyclopedia/artemidorus-oneirocritica/"
+    },
+    {
+      "title": "Topical Bible: Not Working",
+      "relevance": "Kutsal Kitap’ta çalışmama, tembellik ve üretken emek temalarının sorumluluk ve yaşam düzeniyle ilişkisini açıklar.",
+      "url": "https://biblehub.com/topical/n/not_working.htm"
+    },
+    {
+      "title": "Labor - Encyclopedia of The Bible",
+      "relevance": "İncil’de emek ve çalışmanın üretken, disiplin edici, toplumsal ve kurtarıcı boyutlarını ele alır.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Labor"
+    },
+    {
+      "title": "Topical Bible: Labored",
+      "relevance": "Kutsal Kitap bağlamında çalışma, İncil hizmeti, yorgunluk ve dinlenme temalarını birlikte sunar.",
+      "url": "https://biblehub.com/topical/l/labored.htm"
+    },
+    {
+      "title": "Berakhot 56a | The Sefaria Library",
+      "relevance": "Berakhot 56a’da iş, ticaret, kazanç ve geçimle ilgili rüya imgelerinin rabbanî yorumlarını içerir.",
+      "url": "https://www.sefaria.org/Berakhot.56a?lang=en"
+    },
+    {
+      "title": "Dreams in ancient Hebrew Literature",
+      "relevance": "Antik İbrani ve Yahudi literatüründe rüyaların yorumlanması, rüyaların dinî iletişim olarak statüsü ve rüya anlatılarının işlevleri hakkında tarihsel bağlam sunar.",
+      "url": "https://books.google.com.py/books?id=zs3gup4iFu4C&hl=it&lr=&source=gbs_citations_module_r&cad=2"
+    },
+    {
+      "title": "steinsaltz-center.org · portal · libraryBerakhot 55.b - steinsaltz-center.org",
+      "relevance": "Berakhot 55b bağlamında yorumlanmamış rüyanın anlamlandırılmamış bir mektuba benzetilmesini aktarır; bu, rabbanî rüya yorumunda yorumlama eyleminin önemini açıklar.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/55.b"
+    }
+  ],
+  "relatedSlugs": []
+}

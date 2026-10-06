@@ -1,0 +1,192 @@
+{
+  "slug": "evini-kaybetmek",
+  "title": "Evini kaybetmek",
+  "shortDescription": "Rüyada evini kaybetmek, güvenlik ve aidiyet duygusunun sarsıldığını ya da yaşam düzeninde büyük bir değişim yaşandığını yansıtabilir. Kayıp zorla gerçekleşiyorsa kontrol kaybını; eski evi geride bırakmak ise eski bağlılıklardan ayrılıp yeni bir düzene geçişi öne çıkarır.",
+  "positiveAssociations": [
+    "Eski bağlılıkların ve işlevsiz yapının bırakılması; yenilenme için alan açılması",
+    "Geçiş döneminde yeni düzenlemelere hazırlık veya zorunlu dönüşümün başlangıcı",
+    "Uzun süredir askıda kalan bir meseleyle yüzleşme ve sonrasında aidiyetin yeniden kurulması"
+  ],
+  "challengingAssociations": [
+    "Gerçek hayattaki konut güvencesinin tehdit altında hissedilmesi (haciz, taşınma vb.)",
+    "Aidiyet, kimlik ya da içsel bütünlüğün sarsılmasıyla eşlik eden kaygı ve yas",
+    "Dışsal koşulların kontrolünü yitirme hissi ve yerinden edilme deneyiminin yarattığı travma kaynaklı gerilim."
+  ],
+  "contextDependentAssociations": [
+    "Rüya sahibinin uyanık yaşamında konut, ayrılık veya evsizlikle ilgili deneyimleri varsa bunların rüyada doğrudan yankılanması",
+    "Kayıbın gönüllü (terk etme, ayrılma) mi yoksa zorlayıcı (zorla çıkarılma, yıkım) mı olduğuna göre rüyanın duygusal tonu ve yorumu değişir.",
+    "Rüyanın sonunda evin yeniden bulunması veya bulunamaması gibi detayların yorum yönünü belirlemesi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Eşyaların evden zorla çıkarılması",
+      "description": "Evden eşyaların alınması veya taşınması, hanedeki düzenin dış etkenlerle bozulması ve kontrol kaybı hissini vurgular."
+    },
+    {
+      "title": "Eski evi terk edip evsiz kalmak",
+      "description": "Geçmiş kimlik, rol veya yaşam biçiminden ayrılma ile yeni bir sığınak arayışı arasındaki belirsizlik dönemini yansıtır."
+    },
+    {
+      "title": "Evin yıkıldığını veya yok olduğunu görmek",
+      "description": "Hayatın temel dayanaklarının ani biçimde sarsılması ve içsel güvenlik duygusunun çöküşü temasını taşır."
+    },
+    {
+      "title": "Kaybedilen evin daha sonra yeniden bulunması",
+      "description": "Gecikmiş bir meselede çözüm, aidiyetin yeniden kurulması veya ertelemelerin sonlanması olasılığını işaret edebilir."
+    }
+  ],
+  "psychology": "Evini kaybetmek rüyası, psikolojik açıdan genellikle kişinin uyanık yaşamındaki konut güvencesi, aidiyet ihtiyacı ve yaşam düzenindeki büyük değişikliklerle ilişkilidir. Rüya içeriği araştırmaları, rüyaların gündelik yaşam deneyimleriyle yoğun bağlantılı olduğunu gösterdiğinden, haciz, ayrılık veya evsizlik gibi uyanık olaylar rüyada ev kaybı biçiminde ortaya çıkabilir. Ayrıca psikanalitik kaynaklara göre (Freud çerçevesinde) ev imgesi bazen bedenin, beden bütünlüğünün veya içsel barınağın bir temsili olarak ele alınır. Bu gözlem bağlamlı bir yorumdur ve Freud’un “evini kaybetmek” rüyasına doğrudan tekil bir hükmü olmadığını not etmek gerekir. Bu nedenle psikolojik okumada rüyanın duygusal tonu, kaybın nasıl gerçekleştiği ve rüya sahibinin somut yaşam koşulları birlikte değerlendirilmelidir.",
+  "jungian": "Jungcu çerçevede ev, psişik yapının katmanlarına işaret eden çok katlı bir simgedir: salon daha yüzeysel bilinçle, alt katlar ise derin bilinçdışıyla ilişkilendirilebilir. Bu bağlamda evini kaybetmek motifi, kişinin kendilik sürekliliğinde veya psişik dayanaklarında bir sarsıntı; bilincin alışılmış dayanaklarından kopuş ve bilinçdışıyla yeniden ilişki kurma gerekliliğinin görüntüsü olarak okunabilir. Bu, Jung’a ait evrensel bir anlam taşıdığı anlamına gelmez; analitik okumaların kişisel bağlamla birlikte yapılması gerektiği vurgulanmalıdır.",
+  "islamicTradition": "İslami rüya yorum geleneğinde ev sembolü genellikle aile, geçim, toplumsal durum ve güvenlikle ilişkilendirilir. Evin kaybı veya evden uzaklaşma temaları modern yorum aktarımlarında bazen fırsatların ertelenmesi veya aileyle ilgili bir meseleye işaret etme şeklinde ele alınmaktadır; ancak klasik kaynaklarda “evini kaybetmek” için doğrulanmış tekil bir hüküm bulunmadığından, bu tür yorumlar dikkatle ve geleneksel dayanaklara atıf yapılarak değerlendirilmelidir.",
+  "christianTraditions": "Hristiyan sembolik dilinde ev, hem dünyevi meskeni hem de Tanrı’yla olan ruhsal sığınak fikrini çağrıştırır. Evini kaybetme imgesi, teolojik okumalarda yerleşiklik ile geçicilik, dünyevi güvenlik ile ruhsal aidiyet arasındaki gerilimi düşünebilir; bu tür değerlendirmeler sembolik ve bağlama bağlı olup rüyaya tekil bir kehanet anlamı yüklemez.",
+  "jewishTraditions": "Rabbanî literatürde evle ilgili rüya imgeleri ve Berakhot 57b gibi metinlerde evden eşya çıkarılmasının haneyle ilgili olumsuz işaretlere dönüştüğü aktarılır. Bu, evin bütünlüğünde veya aile düzeninde bir değişikliğe işaret eden sembolik bir çerçeve sunar; ancak yine de metinler doğrudan “evini kaybetmek” rüyasının tek ve kesin yorumu olarak anlaşılmamalıdır.",
+  "buddhistEasternApproaches": "Budist ve Hint ascetik metinlerinde ev–evsizlik karşıtlığı merkezi bir tema olduğundan, evini kaybetme motifi bağlama göre iki uçlu okunabilir: bir yandan zorunlu yerinden edilme ve güvenlik kaybı; öte yandan dünyevi bağlılıklardan bilinçli ayrılma ve içsel özgürleşmeye yöneliş. Bu yorumlar metinsel temalara dayanır ve rüyanın özel bağlamına göre farklılaşır.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik yaklaşımlar evin kaybını bazen dönüşüm simgesi olarak okur: eski yapıların çözülmesi, yüklerin bırakılması ve içsel alanın açılması gibi olumlu bir dönüşüm potansiyeli vurgulanır. Aynı imge, zorlayıcı kayıp durumunda ise istikrarın dış koşullarca sarsılması temasını öne çıkarır. Bu okuyuşların geleneksel bir öğretinin doğrudan aktarımı olmadığı belirtilmelidir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Rüyanın, uyanık yaşamda yaşanan konut güvencesi sorunları, ayrılık ya da evsizlik deneyimleriyle bağlantılı yansıması olarak değerlendirilmesi.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Evin psişedeki katmanları temsil ettiği görüşünden hareketle, ev kaybı benlik sürekliliğinin sarsılması ve bilinçdışıyla yeniden ilişki kurma çağrısı olarak okunabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Psikanaliz (Freud)",
+      "interpretation": "Freudcu çerçevede ev imgeleri bedensel barınak ve içsel bütünlükle ilişkilendirilir; ev kaybı algısı bu tür bedensel/korunaklı bütünlüğün tehdit altına girmesiyle yüzleşme anlamı taşıyabilir (bağlama bağlı yorum).",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Yorum Geleneği",
+      "interpretation": "Ev sembolü aile, geçim ve toplumsal durumla ilişkilendirilir; modern aktarım örneklerinde ev kaybı fırsatların ertelenmesi veya ailevi meselelerin gündeme gelmesi çerçevesinde ele alınır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojik Sentez",
+      "interpretation": "Evsizlik/yerleşmemişlik teması aracılığıyla dünyevi güvenlik ile ruhsal sığınak arasındaki gerilim görülür; rüya kesin bir kehanet değil, sembolik bir tensel okumadır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rabbanî Gelenek",
+      "interpretation": "Berakhot gibi kaynaklarda evden ayrılma imgeleri hanedeki huzur ve aile bağlarının durumuna işaret edebilecek sembolik anlatılardır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Ascetik Yaklaşım",
+      "interpretation": "Ev kaybı motifi bağlama göre yerinden edilme korkusu veya bağlılıklardan bilinçli ayrılma ekseninde okunabilir.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Modern Spiritüel Sentez",
+      "interpretation": "Eski düzenin çözülmesi ve dönüşüm sürecine giriş olarak olumlu bir okuma ya da istikrarın kaybı olarak uyarıcı bir okuma sunar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşımda ev imgeleri yalnızca fiziksel yapı olmaktan öte, aidiyet, güvenlik ve içsel bütünlükle ilişkilidir; dolayısıyla evin kaybı her gelenekte bir sarsıntı, geçiş veya yeniden düzenlenme anına işaret eder.",
+  "differences": "Yaklaşımlar, odak ve metaforik yüklemelerde ayrışır: ampirik psikoloji daha çok uyanık yaşam deneyimleri ve somut konut bağlamına bakarken; analitik ve psikanalitik okumalarda ev psişenin yapısal öğesi olarak ele alınır. Dini ve spiritüel geleneklerse kaybı toplumsal, ahlaki veya dönüştürücü bir çerçevede değerlendirir.",
+  "inusAssessment": "Evini kaybetmek rüyası, bir INUS şartı olarak — yani bir sonucun birden fazla koşulundan biri olarak — genellikle aidiyet ve güvenlik zeminindeki sarsıntıları temsil eder. Bu sembolün anlamını belirleyen en kritik unsurlar rüyanın duygusal tonu, kaybın zorlayıcı mı yoksa gönüllü mü olduğu, evin niteliği ve rüya sahibinin uyanık yaşamındaki konut ve aile deneyimleridir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "dreams.ucsc.edu › Library › domhoff_2007bDreamResearch.net: Bizarreness In Dream Content - UCSC",
+      "relevance": "Rüya içeriği araştırmalarının gündelik yaşamın rüya içeriklerini nasıl şekillendirdiğini açıklayarak, ev kaybı temalarının uyanık yaşamdaki konut ve güvenlik deneyimleriyle ilişkilendirilebileceğini göstermeye yardımcı olur.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2007b.html"
+    },
+    {
+      "title": "psychclassics.yorku.ca · Freud · DreamsClassics in the History of Psychology -- Freud (1900) Chapter ...",
+      "relevance": "Freud’un ev imgelerini beden ve içsel barınak metaforlarıyla ilişkilendiren tartışmaları, evini kaybetme motifine psikanalitik bir okuma sunmak için kullanılan kaynaklardan biridir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5b.htm"
+    },
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Freud’un su ve dar alan imgelerini rahim ve doğum fantezileri bağlamında ele alması, ev gibi barınak imgelerinin bedensel ve korunaklı bütünlük ile ilişkilendirilebileceğine dair perspektif sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Using the House as a Symbol - Capital Christian Writers Fellowship",
+      "relevance": "Jung’un çok katlı ev rüyası ve evin psişik katmanlarla ilişkisi üzerine aktarılan çerçeve, ev kaybı temasının analitik psikolojide nasıl okunabileceğine dair bağlam sunar.",
+      "url": "https://ccwritersfellowship.org/using-the-house-as-a-symbol/"
+    },
+    {
+      "title": "For Jung, architecture was a tool to represent the psyche",
+      "relevance": "Jungcu mimari ve ev imgelerinin psişik yapı anlatılarına nasıl işlendiğini açıklayarak, ev kaybı motifiyle ilgili teorik bir zemine katkı sağlar.",
+      "url": "https://psyche.co/ideas/for-jung-architecture-was-a-tool-to-represent-the-psyche"
+    },
+    {
+      "title": "Microsoft Word - wp79.doc",
+      "relevance": "Jung’un ev rüyasını psişik yapının ve bilinçdışının katmanlarının imgesi olarak tartışır.",
+      "url": "https://orca.cardiff.ac.uk/id/eprint/78150/1/wrkgpaper-79.pdf"
+    },
+    {
+      "title": "The Jungçu Society for Scholarly Studies: Ithaca August 2009 Conference Paper",
+      "relevance": "Jung’un ev rüyasındaki salon, katlar ve mağara imgelerini bilinç ile daha derin psişik ve tarihsel katmanlar bağlamında aktarır.",
+      "url": "https://pdfs.semanticscholar.org/ddb4/aada9b46ec771425e4129c2b7f73dcf62acc.pdf"
+    },
+    {
+      "title": "What does it mean to see a house in a dream?",
+      "relevance": "Evini kaybetme temasını ve evin yeniden bulunmasını, fırsat, ilişki ve gecikmiş meseleler bağlamında ele alır.",
+      "url": "https://www.molla.az/en/dream-interpretation/what-does-it-mean-to-see-a-house-in-a-dream"
+    },
+    {
+      "title": "House Dreams in Islam: Marriage, Wealth, Safety and Afterlife ...",
+      "relevance": "İslami rüya yorumunda ev sembolünü güvenlik, aile düzeni, kişisel durum ve evin görünümüyle bağlantılı biçimde açıklar.",
+      "url": "https://dreamswisdom.com/house-dreams-in-islam-marriage-wealth-safety-and-afterlife-signs"
+    },
+    {
+      "title": "Dwelling Place - Encyclopedia of The Bible",
+      "relevance": "Mesken kavramının Tanrı’nın inananlardaki varlığı, Kilise ve Yeni Ahit’teki evsizlik/yerleşmemişlik temalarıyla ilişkisini açıklar.",
+      "url": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Dwelling-Place"
+    },
+    {
+      "title": "BETHAN",
+      "relevance": "Hristiyan teolojik bağlamında evin Tanrı’nın lütfu, topluluk ve yerleşiklikle; İsa’nın yolculuğunun ise kalıcı dünyevi konutun yokluğuyla ilişkisini ele alır.",
+      "url": "https://d3hgrlq6yacptf.cloudfront.net/61f2fd86f0ee5/content/pages/documents/20211104-doc-social-justice-dwelling-places-v01.pdf"
+    },
+    {
+      "title": "[PDF] Homelessness - PhilArchive",
+      "relevance": "Evi fiziksel konutun ötesinde ibadet, topluluk ve ruhsal aidiyet alanı olarak; evsizliği de insanî ve ruhsal köksüzlük bağlamında tartışır.",
+      "url": "https://philarchive.org/archive/BENHAR-4"
+    },
+    {
+      "title": "Berakhot 57.b - Steinsaltz Center",
+      "relevance": "Rabbanî literatürde evden eşya çıkarılmasının haneyle ilgili olumsuz işaretler olarak aktarıldığını gösterir; bu, evin parçalanması veya ayrılmasının sembolik çerçevesine ilişkin geleneksel bir örnektir.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Perchance to Dream: Dream Divination in the Bible and the ...",
+      "relevance": "Bu akademik çalışma, İbrani Kitabı ve eski Yahudi literatüründeki rüyaları inceler; rabbanî rüya yorumlarında ev, eş ve aile arasındaki sembolik bağlantıya dair bağlam sunar.",
+      "url": "https://www.sbl-site.org/wp-content/uploads/2024/12/9780884142874_OA.pdf"
+    },
+    {
+      "title": "A Dialogue Between the Buddhist Monastic Discipline and ...",
+      "relevance": "Budist manastır geleneklerinde ev–evsizlik temasının nasıl işlendiğini gösterir; bu metinler evini kaybetme motifinin ascetik ve bağlanmama bağlamlarında değerlendirilmesine yardımcı olur.",
+      "url": "https://blogs.dickinson.edu/buddhistethics/files/2023/10/Kilby_23_FD-final.pdf"
+    },
+    {
+      "title": "Home in the Ascetic Imagination",
+      "relevance": "Buda’nın büyük ayrılışı ile ev, evsizlik ve ascetik yaşam arasındaki ilişkiyi; ayrıca Vedic literatürdeki ev kavramını inceler.",
+      "url": "https://academic.oup.com/hawaii-scholarship-online/book/20121/chapter-abstract/179113570?redirectedFrom=fulltext"
+    },
+    {
+      "title": "Loss in dreams — meaning and symbolism",
+      "relevance": "Modern ruhsal/ezoterik kaynakların ev kaybı imgesini dönüşüm, eski düzenin bırakılması ve yeni alan açılması çerçevesinde yorumladığını örnekleyen bir aktarım sunar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/loss"
+    },
+    {
+      "title": "Losing My Home Dream Meaning & Interpretation",
+      "relevance": "Evini kaybetme imgesini güvenlik, kimlik, dönüşüm ve dışsal dayanakların geçiciliği temaları üzerinden yorumlar; içsel veya manevi bir sığınak arayışına yönelik sembolik bir çerçeve sunar.",
+      "url": "https://mirrorwithin.com/dream-dictionary/losing-my-home/"
+    },
+    {
+      "title": "House or Home Dream Meaning | Trikaal Vaani - trikalvaani.com",
+      "relevance": "Bir evin istem dışı kaybını temel dayanağın veya güvenliğin tehdit altında hissedilmesiyle; evin dış etkenlerle yok olmasını ise değişimin kontrol dışında yaşanmasıyla ilişkilendirir.",
+      "url": "https://trikalvaani.com/blog/house-home-dream-meaning-vedic-astrology"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

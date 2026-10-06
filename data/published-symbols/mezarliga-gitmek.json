@@ -1,0 +1,132 @@
+{
+  "slug": "mezarliga-gitmek",
+  "title": "mezarliga_gitmek",
+  "shortDescription": "Rüyada mezarlığa gitmek; ölüm, yas, özlem, hatırlama ve geçmişle vedalaşma temalarını çağrıştırır. Tanıdık bir mezar kişisel kaybı öne çıkarabilir; mezarlığın huzurlu ya da tehditkâr görünmesi ise rüyanın duygu tonunu belirler.",
+  "positiveAssociations": [
+    "Kayıp bir kişiyle sembolik vedalaşma veya tamamlanma duygusu (mezar başında kapanış hissi)",
+    "Geçmişten gelen öğütlerin, hatıraların veya dini hatırlatmaların rüyada canlanması",
+    "Rüyada mezarlıkta özel bir mezarın tanınması halinde özlem ve anma aracılığıyla duygusal çözülme",
+    "Mezarlığın kutsal/uyarıcı bir mekân olarak göründüğü rüyalarda gafletten uyanma veya yaşam önceliklerinin gözden geçirilmesi"
+  ],
+  "challengingAssociations": [
+    "Ölüm veya fanilikle yüzleşmenin uyandırdığı yoğun kaygı veya huzursuzluk",
+    "Tanıdık bir mezarın görünmesiyle yeniden tetiklenen çözümlenmemiş yas duyguları",
+    "Mezarlığın sıkışmış, kapalı veya tehditkar tasvir edildiği sahnelerde artan çaresizlik veya kaçış isteği",
+    "Mezarlıkta yalnız olmak ya da kalabalık içinde yabancı hissetmek gibi sahne ayrıntılarının ortaya çıkardığı yalnızlık veya yabancılaşma"
+  ],
+  "contextDependentAssociations": [
+    "Mezarlığa tek başına mı yoksa başkalarıyla mı gidildiği; yalnız gidiyorsa içsel yüzleşme, birlikte gidiliyorsa ortak yas/anı paylaşımı çağrıştırabilir",
+    "Ziyaret edilen mezarın tanıdık (yakın) birine ait olması rüyanın kişisel kayıp temasını öne çıkarır; yabancı mezarlar daha soyut geçicilik sorgulamalarına işaret edebilir",
+    "Mezarlığın düzenli, bakımlı veya terk edilmiş görünmesi rüyanın duygulanımını (huzur ya da tedirginlik) belirler.",
+    "Mezarlıkta ağlama, konuşma veya sessizlik gibi eylemler rüyanın amaçsallığını (veda, mesaj alma, yas boşalımı) ayırt etmeye yardımcı olur"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık Birinin Mezarına Gitmek",
+      "description": "Rüyada yakın birinin mezarıyla karşılaşmak, çoğunlukla özlem, tamamlanmamış iletişim ve veda etme temalarını somutlaştırır; bazen rüya içinde mesaj veya hatırlatma biçiminde görünür."
+    },
+    {
+      "title": "Gece Vakti Mezarlığa Gitmek",
+      "description": "Karanlıkta mezarlığa gitmek, bilinçdışından gelen belirsiz kaygıları, bastırılmış korkuları veya yüzleşilmemiş iç çatışmaları daha baskın hale getirebilir."
+    },
+    {
+      "title": "Yabancı Mezarlar Arasında Yürümek",
+      "description": "Sahnedeki mezarların kime ait olduğunun bilinmemesi, yaşamın geçiciliği, kimlik ya da geçmişle hesaplaşma gibi daha genel varoluşsal sorgulamaları vurgulayabilir."
+    },
+    {
+      "title": "Mezarlıkta Sessizce Beklemek veya Ağlamak",
+      "description": "Mezar başında sessiz kalmak ya da ağlamak, genellikle bastırılmış kederin boşalması, rüya yoluyla duygusal işleme veya anma ritüelinin rüyalardaki izdüşümünü temsil edebilir."
+    }
+  ],
+  "psychology": "",
+  "jungian": "",
+  "islamicTradition": "Modern İslami rüya derlemelerinde mezarlık görüntüleri genellikle ahiret hatırlatması, öğüt alma, zühd ve gafletten uyanma temalarıyla ilişkilendirilir. Bu çizgiler kaynaklarda görülen tematik çağrışmalardır; mezarlığa gitme rüyası için doğrudan tekil bir hüküm olarak sunulmaz.",
+  "christianTraditions": "Hristiyan bağlamında mezarlık hem ölümün ve faniliğin hatırlatıcısı hem de diriliş umudunun sembolidir. Bu nedenle rüyada mezarlığa gitmek, kayıp, yas veya bir dönemin kapanışıyla ilgili temalar kadar dönüşüm veya yeniden yaşam beklentisini çağrıştırabilecek şekilde yorumlanır; bu yorumlar teolojik sembolizmaya dayanan sınırlı sentezlerdir.",
+  "jewishTraditions": "Talmudik anlatılarda (örneğin Berakhot 18b) mezarlık, rüyada ölülerle ilişki kurulabilen ve rüyasal bilgi motiflerinin geçtiği bir mekân olarak betimlenir. Bu rabbanî anlatılar mezarlığın rüya bağlamındaki mesaj alma ve yas-özlem temalarını destekleyen motifler sunar; doğrudan sabit bir tabir değildir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Mezarlık imgeleri rüya görenin bireysel çağrışımları ve ölümle ilgili düşünce zinciri içinde ele alınır; tekil sembol yerine kişisel anlam vurgulanır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Geleneksel Aktarımlar",
+      "interpretation": "Mezarlık, ahiret hatırlatma, öğüt ve dünyadan uzaklaşma temalarıyla ilişkilendirilir (modern derlemelere dayalı tematik okuma).",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Sembolizmi",
+      "interpretation": "Mezar hem faniliği hem de diriliş umudunu çağrıştırır; rüyada mezarlığa gitmek sonluluk ve aynı zamanda dönüşüm temalarıyla okunabilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rabbanî Motifler",
+      "interpretation": "Rabbanî anlatılar mezarlığı rüyasal haber alma ve ölülerle ilişki kurulabilen bir mekân olarak sunar; mesaj ve yas temaları öne çıkar.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Çoğu gelenek ve çerçevede mezarlığa gitme görüntüsü ölüm, yas, hatırlama ve yaşamın geçiciliği temalarının etrafında şekillenir; sahne ayrıntıları ve duygulanım bu ortak temaların hangi yönünü vurgulayacağını belirler.",
+  "differences": "Psikanalitik okumalar rüyanın bireysel çağrışımlarını ve bastırılmış içeriği önceler; dini gelenekler ise mezarlığı ahiret, öğüt, diriliş veya rüya üzerinden haber alma gibi kültürel/teolojik motifler bağlamında değerlendirir. Bu yaklaşımlar aynı imgeyi farklı eksenlerden ele alır.",
+  "inusAssessment": "İNUS açısından: ‘mezarlığa gitmek’ imgesi kendisiyle eşlenmiş tek başına bir yeterli veya zorunlu koşul değildir; ancak belirli bağlam, duygu tonu ve diğer rüya öğeleriyle birlikte, örneğin 'yasla yüzleşme' veya 'manevi hatırlanma' gibi sonuçlar için gerekli ve katkıda bulunan bir unsur olabilir. Yani imge tek başına gerekçelendirme sağlamaz; diğer koşullarla bir araya gelince sınırlı bir anlam taşıyabilir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Freud (1900) Chapter 4 - Classics in the History of Psychology",
+      "relevance": "Freud’un rüya çözümlemeleri, mezar ve ölüm çağrışımlarının rüya görenin kişisel çağrışımları içinde ele alınması gerektiğine dair psikanalitik çerçeve sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams4.htm"
+    },
+    {
+      "title": "Full text of \"Ibn Sirin Dictionary Of Dreams\" - Archive.org",
+      "relevance": "Modern derlemelerde mezarlık sembolüyle ilişkilendirilen ahiret, öğüt, zühd ve gafletten uyanma temalarına örnek oluşturan metinleri içerir; bu nedenle İslami tematik çağrışımlar için kaynak teşkil eder.",
+      "url": "https://archive.org/stream/IbnSirinDictionaryOfDreams/IbnSirin_dictionary_of_dreams_djvu.txt"
+    },
+    {
+      "title": "Düş Mahzeni: Rüyanızın Anlamı Ne?",
+      "relevance": "Türkçe aktarım kaynakları arasında mezar ziyareti motifinin bazı modern tabirlerde nasıl yorumlandığına ilişkin örnek sunar (Nablusî aktarımlarına atıf).",
+      "url": "https://dusmahzeni.com/kaynaklar/nablusi/n4059"
+    },
+    {
+      "title": "Is It Wrong for Christians To Choose Cremation?",
+      "relevance": "Hristiyan defin anlayışını, mezarlığın ‘dinlenme yeri’ fikrini ve bedenin diriliş beklentisiyle ilişkisini açıklar.",
+      "url": "https://www.gracebc.ca/blog/2025/4/16/is-it-wrong-for-christians-to-choose-cremation"
+    },
+    {
+      "title": "Topical Bible: Bury",
+      "relevance": "Kutsal Kitap bağlamında defni, ölümün gerçekliği ve yeni yaşam diriliş umudu arasındaki sembolik ilişkiyle ele alır.",
+      "url": "https://biblehub.com/topical/b/bury.htm"
+    },
+    {
+      "title": "Topical Bible: Burial",
+      "relevance": "Defin ve mezar temasını İsa’nın gömülmesi, diriliş ve sonsuz yaşam umudu bağlamında açıklar.",
+      "url": "https://biblehub.com/topical/b/burial.htm"
+    },
+    {
+      "title": "Christian Burial: A Case for Burial | Christian Research Institute",
+      "relevance": "Hristiyan defin pratiğini bedenin gelecekteki dirilişini simgeleyen teolojik bir işaret olarak yorumlar.",
+      "url": "https://www.equip.org/articles/christian-burial-a-case-for-burial/"
+    },
+    {
+      "title": "What Does the Bible Say About Cremation? Clear Truth for Christians",
+      "relevance": "Mezarlığın ‘uyku yeri’ anlamı, defin ve Hristiyan diriliş inancı arasındaki sembolik bağlantıyı açıklar.",
+      "url": "https://renew.org/what-does-the-bible-say-about-cremation/"
+    },
+    {
+      "title": "Berakhot 18.b - Steinsaltz Center",
+      "relevance": "Talmudik anlatıda mezarlıkta uyuyan kişinin rüyasında ruhların konuşmasını duyması örneği, mezarlığın rüyalarda haber alma ve ölülerle temasa ilişkin motiflerini gösterir.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/18.b"
+    },
+    {
+      "title": "Two Spirits in a Graveyard and the Perils of Poverty | Yeshivat Har Etzion",
+      "relevance": "Berakhot 18b metninin rabbanî yorumlarını ve mezarlık motifinin rüyasal bilgi bağlamındaki kullanımlarını açıklayan modern bir tartışma sunar.",
+      "url": "https://etzion.org.il/en/talmud/studies-gemara/midrash-and-aggada/two-spirits-graveyard-and-perils-poverty"
+    },
+    {
+      "title": "JHOM - Tears - Mystical",
+      "relevance": "Yahudi anlatı geleneğinde mezarlık, ağlama, uyku ve rüyada öğretmenden mesaj alma motiflerini birlikte aktarır; mezarlığın yas ve rüyasal karşılaşma bağlamındaki sembolik kullanımını gösterir.",
+      "url": "https://www.jhom.com/topics/tears/mystical.html"
+    }
+  ],
+  "relatedSlugs": []
+}

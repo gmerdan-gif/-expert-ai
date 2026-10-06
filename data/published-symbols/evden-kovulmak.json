@@ -1,0 +1,145 @@
+{
+  "slug": "evden-kovulmak",
+  "title": "Evden kovulmak",
+  "shortDescription": "Rüyada evden kovulmak, aidiyetin, güvenli alanın ve kabul görme ihtiyacının tehdit altında hissedildiği dönemleri yansıtabilir; dışlanma, yalnızlık ya da kişisel değerle ilgili kaygıları gündeme getirebilir. Kovulurken rahatlamak ise baskı yaratan bir ortamdan veya ilişkiden özgürleşme, kendi yaşam düzenini kurma isteğiyle ilişkilendirilebilir.",
+  "positiveAssociations": [
+    "Kişisel bağımsızlık alanının açılması",
+    "Baskı unsuru oluşturan ortamlardan ve ilişkilerden özgürleşme",
+    "İçsel bir dönüşüm ve yeni bir yaşam düzeni kurma potansiyeli",
+    "Kabul edilmeme korkusuyla yüzleşerek özgüven kazanma"
+  ],
+  "challengingAssociations": [
+    "Aidiyet duygusunun ve güvenli alanın tehdit altında hissettirilmesi",
+    "Sosyal reddedilme, dışlanma ve yalnız kalma kaygısı",
+    "Kontrol kaybı ve çaresizlik hissi",
+    "Kişisel değer ve benlik saygısının sorgulanması"
+  ],
+  "contextDependentAssociations": [
+    "Kovulma eylemini gerçekleştiren figürün kimliği ve rüya sahibine olan yakınlığı",
+    "Rüya sırasında hissedilen incinme, öfke, korku ya da tam tersine rahatlama duygusu",
+    "Evin rüya sahibinin zihnindeki kişisel anlamı ve güncel yaşamdaki konumu",
+    "Kovulduktan sonra dışarıda karşılaşılan çevrenin güvenli ya da tehditkâr oluşu"
+  ],
+  "commonVariations": [
+    {
+      "title": "Ailenin Evi",
+      "description": "Kişinin kök ailesi tarafından evden çıkarıldığını görmesi, geçmiş bağlar, onay arayışı ve bireyselleşme süreciyle ilgilidir."
+    },
+    {
+      "title": "Bilinmeyen Bir Ev",
+      "description": "Tanımadığı bir mülkten veya yabancı bir evden uzaklaştırıldığını hissetmek, hayatın belirsiz alanlarında yabancılaşma hissini simgeler."
+    },
+    {
+      "title": "Kendi Sahip Olunan Ev",
+      "description": "Kendi evinden veya odasından kovulduğunu görmek, içsel dünyada veya kimlik algısında yaşanan bir bölünme ve yabancılaşmayı düşündürür."
+    },
+    {
+      "title": "Toplu Olarak Uzaklaştırılma",
+      "description": "Bir grup insanla birlikte bir mekândan dışlandığını görmek, toplumsal aidiyet, kabul görme ve sosyal çevre uyumu ile ilgili kaygılara işaret eder."
+    }
+  ],
+  "psychology": "Ampirik psikoloji literatüründe sosyal dışlanma ve reddedilme durumlarının olumsuz duygusal durumlarla ilişkili olabileceği bilinmektedir. Ancak bu genel uyanık yaşam bulguları, evden kovulma imgesinin rüyadaki tek bir psikolojik anlama indirgenmesini kanıtlamaz. Psikanalitik çerçevede, Freud'un rüya fantezilerinde evin bütün bedeni veya benliği temsil edebileceği görüşünden hareketle, evden kovulma sahnesi kişinin bedensel veya psişik bütünlükle ilişkilendirdiği bir alandan uzaklaştırılma deneyimi olarak değerlendirilebilir.",
+  "jungian": "Analitik psikoloji perspektifinde ev, rüya sahibinin içsel psişik yapısını veya kişiliğini temsil eder. Bu bağlamda evden kovulma motifi, sabit bir sembol sözlüğü anlamı taşımamakla birlikte, kişinin kabul edilmemiş yönleri, gölge yönleri, aidiyet duygusu ve benlik saygısıyla ilgili çatışmalarını araştırmaya açan bir deneyimdir.",
+  "islamicTradition": "Geleneksel İslami tabir aktarımlarında doğrudan evden kovulmaya dair sabit bir madde bulunmamakla birlikte, genel kovulma ve uzaklaştırılma kategorileri hapsedilme, otorite figürünün üstünlüğü ve kişinin suçluluğunun veya sorumluluğunun ortaya çıkması gibi temalarla ilişkilendirilmektedir. Sürgün ve yerinden edilme motifleri ise daha geniş bir ayrılık ve zorluk bağlamında ele alınır.",
+  "christianTraditions": "Hristiyan sembolik geleneğinde ev imgesi kiliseyi, kutsallık düzenini veya inananlar topluluğunu simgeleyebilir. Bu bağlamda dışlanma ve uzaklaştırma temaları, kutsallığı koruma, topluluk düzeni veya itaatsizlik gibi kavramlarla ilişkilendirilebileceği gibi, bazı teolojik okumalarda tövbe ve yeniden bağ kurma ihtimalini de barındırır.",
+  "jewishTraditions": "Yahudi rabbanî metinlerinde evden kovulmaya dair doğrudan bir rüya tanımı yer almamaktadır. Ancak genel Yahudi sembolik çerçevesinde ev güvenlik ve aidiyeti temsil ederken; yerinden edilme, sürgün ve dışlanma temaları aidiyetin tehdit altında hissedilmesi ve kayıp duygusuyla bağdaştırılabilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Evin beden veya benliği temsil etmesi üzerinden, aidiyet alanından uzaklaştırılma ve kendilik sınırlarıyla ilgili bir süreç olarak ele alınır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Psişik yapının ve kimliğin dışlanma, gölge unsurlar ve aidiyet çatışmaları ekseninde incelenmesine imkân tanır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel İslami Aktarımlar",
+      "interpretation": "Kovulma ve uzaklaştırılma kategorileri çerçevesinde otorite, sorumluluk ve yerinden edilme bağlamında değerlendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojik Okumalar",
+      "interpretation": "Topluluk düzeni, kutsallık ve itaatsizlik ekseninde dışlanma ile arınma gerilimi üzerinden yorumlanır.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve yaklaşımlar, ev imgesini güvenli bir alan, kimlik ve aidiyet merkezi olarak görürken; bu alandan çıkarılma veya uzaklaştırılma temasını ise güvenlik hissinin sarsılması, dışlanma kaygısı ve kabul edilmeme korkusu etrafında buluşturur.",
+  "differences": "Psikanaliz ve Jungcu psikoloji bu temayı bireyin iç dünyası, benlik sınırları ve psişik gelişimi üzerinden ele alırken; geleneksel ve dini aktarımlar ise dışlanmayı otorite, topluluk kuralları, suçluluk ve daha geniş sürgün kategorileri bağlamında değerlendirir.",
+  "inusAssessment": "Rüyada evden kovulmak, tekil ve değişmez bir kehanet olmaktan öte, kişinin uyanık yaşamındaki aidiyet, güvenlik ve kabul görme alanlarının sınırlarını sorgulayan çok katmanlı bir imgedir. Bu rüyayı yorumlarken evin rüya sahibi için ne ifade ettiği, kovulma eylemini kimin gerçekleştirdiği ve rüyanın uyandırdığı duygusal tonun (korku, öfke ya da özgürleşme) dikkate alınması, sembolün gerçek anlamını belirlemede en temel unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada evden kovulmak gerçek hayatta dışlanacağımız anlamına mı gelir?",
+      "answer": "Hayır. Bu rüya doğrudan gelecekteki dışlanma olaylarının bir habercisi değildir; daha ziyade uyanık yaşamda hissedilen aidiyet kaygılarının ve kabul edilmeme korkularının bir yansıması olarak ortaya çıkabilir."
+    },
+    {
+      "question": "Evden kovulduktan sonra rüyada rahatlık hissetmek neyi gösterir?",
+      "answer": "Rüyadaki duygusal ton yorumu doğrudan etkiler. Kovulma anında hissedilen rahatlama veya özgürleşme duygusu, kişinin uyanık yaşamda baskı yaratan bir durumdan veya ilişkiden bilinçaltında kurtulma isteğine işaret edebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rejection Elicits Emotional Reactions but Neither Causes Immediate Distress nor Lowers Self-Esteem: A Meta-Analytic Review of 192 Studies on Social Exclusion - Ginette C. Blackhart, Brian C. Nelson, Megan L. Knowles, Roy F. Baumeister, 2009",
+      "relevance": "Sosyal dışlanma ve reddedilmenin duygusal sonuçlarını geniş bir ampirik literatür üzerinden değerlendirir.",
+      "url": "https://journals.sagepub.com/doi/10.1177/1088868309346065"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya sembolizmi tartışmasında evin bütün bedeni, evin bölümlerinin ise bedenin belirli bölgelerini temsil edebilmesi ele alınır; bu çerçeve ev imgesinin psikanalitik yorumuyla ilgilidir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "House Dreams: Schematics of Your Psychological Functioning by This Jungçu Life Podcast",
+      "relevance": "Ev rüyalarının psişik yaşamın yapısı ve iç dünyadaki çatışmalarla ilişkilendirilebileceğini; reddedilme temasının aidiyet, kimlik, gölge ve kabul edilmemiş yönlerle bağlantılı biçimde ele alınabileceğini açıklar.",
+      "url": "https://creators.spotify.com/pod/profile/thisjungianlifepodcast/episodes/House-Dreams-Schematics-of-Your-Psychological-Functioning-e336mv9"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un antik oneirokritik metninin çevirisini içerir; kişinin yerli yurdundan ayrılması ve sürgün edilmesiyle ilgili yakın rüya motifleri bakımından kullanılabilir.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Artemidorus and the Oneirocritica | An Ancient Dream Manual ...",
+      "relevance": "Artemidorus’un ev ve hane sembolizmini, ağız ile ev ve dişlerle ev sakinleri arasındaki analoji üzerinden açıklar; evin hane düzeniyle ilişkili tarihsel anlam alanını aydınlatır.",
+      "url": "https://academic.oup.com/book/40085/chapter/341035792?login=true"
+    },
+    {
+      "title": "IBN SEERiN'S",
+      "relevance": "Rüyada kovulma, uzaklaştırılma ve vatandan sürgün edilme temalarının geleneksel İslami rüya tabiri içindeki karşılıklarını aktarır.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Leviticus 14:33-57 (Leprosy in the House) - The Superior Word",
+      "relevance": "Levililer 14:33–57 bağlamında ev, kilise veya Tanrı’nın topluluğunun küçük ölçekli simgesi olarak yorumlanır; kirlenme, arındırma ve topluluktan uzaklaştırma temalarını açıklar.",
+      "url": "https://superiorword.org/leviticus-1433-57-leprosy-in-the-house/"
+    },
+    {
+      "title": "Topical Bible: Expel",
+      "relevance": "İncil’de dışlama temasını günah, itaatsizlik, saflık ve Tanrı halkının kutsallığını koruma bağlamında özetler; dışlamanın tövbe ve restorasyon boyutunu da ele alır.",
+      "url": "https://biblehub.com/topical/e/expel.htm"
+    },
+    {
+      "title": "Berakhot 57b:2",
+      "relevance": "Berakhot 57b’de ev, evde görülen ölü, evden eşya çıkarılması ve bu imgelerin ev halkı açısından yorumlanması ele alınır.",
+      "url": "https://www.sefaria.org/Berakhot.57b.2?lang=en"
+    },
+    {
+      "title": "Berakhot 57.a - Steinsaltz Center",
+      "relevance": "Berakhot 57a–57b bağlamındaki rabbanî rüya yorumlarında ev, ev içi barış ve evden ayrılma/uzaklaşma temalarını aktarır.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.a"
+    },
+    {
+      "title": "Religion, Literary, and Cultural Studies Purchased",
+      "relevance": "İbrani edebiyatında evin güvenlik ve yerleşiklikle birlikte kayıp, sürgün, dışlanma, yıkım ve yeniden kurulma temalarını taşıyan sembolik bir alan olarak ele alınmasını gösterir.",
+      "url": "https://academic.oup.com/book/4122/chapter/145859891"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "islamic"
+  ]
+}

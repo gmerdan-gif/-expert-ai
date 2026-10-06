@@ -1,0 +1,228 @@
+{
+  "slug": "koku-gormek",
+  "title": "koku_gormek",
+  "shortDescription": "Rüyada koku almak, rüyanın duygusal atmosferi ve anılarla bağlantılı nadir bir duyusal deneyimdir. Hoş koku övgü, iyi itibar veya iç huzuru; kötü koku ise tiksinme, bastırılmış duygular ya da sıkıntıyı çağrıştırabilir; bazen de çevredeki gerçek bir kokudan kaynaklanır.",
+  "positiveAssociations": [
+    "İyi itibar ve övgü",
+    "Ruhsal haz ve içsel duyarlılık",
+    "İbadet ve kutsallığa yöneliş",
+    "Arınma ve dönüşüm"
+  ],
+  "challengingAssociations": [
+    "Şöhret kaybı veya olumsuz anılma",
+    "Tiksinme ve bastırılmış duygular",
+    "Sıkıntı, üzüntü veya çökkünlük",
+    "Zihinsel bağlılık ve kaçınma"
+  ],
+  "contextDependentAssociations": [
+    "Uykunun anlık duyusal ve çevresel etkenlerle şekillenmesi",
+    "Kokunun niteliğinin hoş veya kötü oluşuna göre değişen anlamlar",
+    "Kişinin koku imgeleme kapasitesi ve kişisel anıları"
+  ],
+  "commonVariations": [
+    {
+      "title": "Güzel ve ferahlatıcı bir koku almak",
+      "description": "Rüyada algılanan hoş bir koku, uyku sırasındaki çevresel bir uyaran olabileceği gibi, geleneksel bağlamlarda övgü, itibar veya ruhsal bir rahatlama hissiyle ilişkilendirilir."
+    },
+    {
+      "title": "Rahatsız edici veya kötü bir koku hissetmek",
+      "description": "Yoğun ve hoş olmayan bir kokuyla karşılaşmak, günlük yaşamdaki tiksinme tepkilerinin, bastırılmış anıların ya da bazı aktarımlara göre sıkıntı ve olumsuz sözlerin rüyadaki yansımasıdır."
+    },
+    {
+      "title": "Tütsü veya esans kokusuyla karşılaşmak",
+      "description": "Rüyasında tütsü ya da benzeri yoğun mistik kokular alan kişi için bu durum, kutsala yöneliş, ibadet atmosferi veya zihinsel arınma isteğini çağrıştırır."
+    },
+    {
+      "title": "Tanıdık fakat kaynağı belirsiz bir koku duymak",
+      "description": "Geçmişe ait bir anıyı veya kişiyi hatırlatan, ancak kaynağı görünmeyen koku, bilinçdışı bellek katmanlarının ve sözel-öncesi duyusal bilgilerin rüyaya yansıdığını gösterir."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmaları, koku deneyimlerinin tüm rüya raporları içinde oldukça düşük bir orana sahip (%0,3 ile %1 arasında) olduğunu ve hoş olmayan kokuların hoş olanlara kıyasla daha sık raporlandığını göstermektedir. Psikodinamik çerçevede ise koku, bedensel uyarılma, tiksinme, anıların tetiklenmesi ve bastırma mekanizmalarıyla ilişkilendirilir.",
+  "jungian": "Analitik psikolojiye göre rüyadaki koku, görsel imgelerden farklı olarak sözel-öncesi, sezgisel ve derin bellek katmanlarıyla bağlantılı bir duyusal taşıyıcıdır. Jungcu yaklaşım, kokuyu önceden belirlenmiş sabit bir sembole indirgemek yerine, rüyanın bütünü ve bireyin bilinçdışı içeriğiyle kurduğu bağ üzerinden ele alır.",
+  "islamicTradition": "Bazı ikincil ve modern aktarımlarda güzel koku övgü, iyi söz, hayır ve olumlu itibar ile ilişkilendirilirken, kötü koku sıkıntı, üzüntü veya kötü söz işitme temalarıyla bağdaştırılmıştır. Ancak bu bulgular kesin ve dogmatik klasik metin kanıtları olarak değil, ihtiyatlı bağlamsal aktarımlar olarak değerlendirilmelidir.",
+  "christianTraditions": "Hristiyan sembolik literatüründe hoş koku ve tütsü dua, ibadet, ilahî huzur, kutsallık ve adanmışlıkla ilişkilendirilirken, hoş olmayan kokular ruhsal uyumsuzluk ve arınma ihtiyacı temalarını çağrıştırabilir.",
+  "jewishTraditions": "Yahudi teolojik sembolizminde hoş koku kurbanın kabulü, kutsama ve ilahî mevcudiyetle ilişkilendirilir. Rabbanî çerçevede ise koku, bedeni beslemekten ziyade ruhu ve nefsi hoşnut eden bir içsel duyum olarak ele alınır.",
+  "buddhistEasternApproaches": "Budist gelenekte koku özünde iyi ya da kötü olarak sabitlenmez, geçici bir zihinsel tutunma veya kaçınma deneyimi olarak değerlendirilir. Tütsü ve erdem kokusu gibi olumlu bağlamlar bilgelik, şefkat ve ruhsal niteliklerin yayılmasıyla bağdaştırılır.",
+  "spiritualApproaches": "Spiritüel ve ezoterik okumalarda koku, maddi dünya ile görünmeyen manevi alan arasında bir eşik olarak kabul edilir. Kokunun uçucu ve tutulamaz doğası aşkınlık, atmosferik değişim, arınma ve simyasal dönüşüm temalarını destekler.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Koku rüyalarının nadir görüldüğünü, genellikle olumsuz duyusal içerikler barındırabildiğini ve uyku fizyolojisiyle ilişkili olduğunu savunur.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Kokuyu tiksinme, bastırılmış anılar, bedensel uyarılma ve dışsal duyusal uyaranların rüya diline dönüşmesi olarak ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Kokuyu sözel-öncesi bilgi ve bilinçdışı içeriğin duyusal bir taşıyıcısı olarak, bireysel bağlam içinde değerlendirir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslamî Aktarımlar",
+      "interpretation": "Kokunun hoş veya kötü oluşuna bağlı olarak itibar, övgü, sıkıntı veya söz işitme temalarıyla ilişkilendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan ve Yahudi Teolojisi",
+      "interpretation": "Hoş kokuyu ibadet, dua, ilahî mevcudiyet, kutsallık ve nefsin ruhsal huzuru bağlamında ele alır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist ve Doğu Yaklaşımları",
+      "interpretation": "Kokuyu geçici bir zihinsel deneyim olarak görürken, tütsü gibi unsurları erdem ve şefkatin yayılmasıyla bağdaştırır.",
+      "evidenceLevel": "spiritual"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Yaklaşım",
+      "interpretation": "Kokuyu maddi ile manevi alan arasında bir eşik, geçiş ve simyasal bir arınma/dönüşüm sembolü olarak yorumlar.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı disiplinler ve gelenekler, kokunun niteliğinin (hoş veya rahatsız edici olması) ve rüyadaki duygusal tonun yoruma yön vermede temel ölçütler olduğu konusunda birleşmektedir.",
+  "differences": "Ampirik psikoloji koku rüyalarını uyku fizyolojisi ve nadir duyusal algılar ekseninde incelerken, dini ve ezoterik gelenekler kokuyu ibadet, itibar, ruhsal haz veya aşkın bir eşik gibi sembolik anlamlarla çerçevelemektedir.",
+  "inusAssessment": "Rüyada koku görmek, görsel ve işitsel rüya unsurlarından farklı olarak doğrudan duyusal ve sözel-öncesi bir derinliğe sahiptir. Bu sembolü değerlendirirken kokunun hoş mu yoksa rahatsız edici mi olduğu, rüya esnasındaki duygusal tepki ve uykunun çevresel koşulları birlikte ele alınmalıdır, zira koku tek başına sabit bir gelecek habercisi değil, derin bellek katmanlarının ve içsel atmosferin duyusal bir yansımasıdır.",
+  "faq": [
+    {
+      "question": "Rüyalarda koku görmek sık rastlanan bir durum mudur?",
+      "answer": "Yapılan ampirik araştırmalar, koku deneyimlerinin görsel ve işitsel rüyalara kıyasla oldukça nadir olduğunu (%0,3 ile %1 oranında) göstermektedir."
+    },
+    {
+      "question": "Rüyada güzel koku almak ne anlama gelir?",
+      "answer": "Farklı geleneklerde ve bağlamlarda güzel koku övgü, iyi itibar, ibadet atmosferi, ruhsal huzur veya kurbanın/duanın kabulü temalarıyla ilişkilendirilir."
+    },
+    {
+      "question": "Rüyadaki kokular tamamen psikolojik midir yoksa dış etkenlerden kaynaklanabilir mi?",
+      "answer": "Bilimsel çalışmalar, uykuda alınan dışsal koku uyaranlarının rüya içeriğine ve duyusal atmosfere doğrudan katılabileceğini ortaya koymaktadır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Olfactory perception in dreams: Analysis of a long dream series",
+      "relevance": "Rüya serisinde koku deneyimlerinin görülme sıklığını, hoşluk değerini ve rüya bağlamındaki olağandışılığını ele alır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/57845"
+    },
+    {
+      "title": "Subjectively intense odor does not affect dream emotions during ...",
+      "relevance": "Uyku sırasında sunulan yoğun kokuların rüya duyguları ve rüya raporları üzerindeki etkisini deneysel olarak inceler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10299998/"
+    },
+    {
+      "title": "Reciprocal relationships between sleep and smell - PMC - NIH",
+      "relevance": "Uyku ile koku arasındaki çift yönlü ilişkiyi ve kokuların rüya içeriği ile duygusal değerliği üzerindeki deneysel bulguları özetler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9813672/"
+    },
+    {
+      "title": "Prevalence of Auditory, Olfactory, and Gustatory Experiences in Home Dreams - Antonio L. Zadra, Tore A. Nielsen, D. C. Donderi, 1998",
+      "relevance": "Ev rüyası günlüklerinde koku ve tat duyumlarının prevalansını, ayrıca cinsiyetler arasındaki raporlama farklarını inceler.",
+      "url": "https://journals.sagepub.com/doi/10.2466/pms.1998.87.3.819"
+    },
+    {
+      "title": "Sensational Dreams: The Prevalence of Sensory Experiences in ...",
+      "relevance": "Yedi günlük rüya günlüğünde görsel, işitsel, dokunsal, kokusal ve tatsal duyusal deneyimlerin görülme oranlarını raporlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11202128/"
+    },
+    {
+      "title": "[PDF] Träume riechen und vom Riechen träumen - Journal für Psychologie",
+      "relevance": "Koku, tiksinme, anı ve bastırma arasındaki psikanalitik ilişkiyi; kokunun rüya ve bilinçdışı içerikle bağlantısını ele alır.",
+      "url": "https://journal-fuer-psychologie.de/article/download/0942-2285-2024-2-107/pdf/1789"
+    },
+    {
+      "title": "The Scent of Sleep: On Night Knowledge and Its Atmospheres",
+      "relevance": "Uyku sırasında sunulan koku uyaranlarının rüya anlatısına dönüşmesini ve Freud’un bu örneği rüya kuramı bağlamında ele alışını açıklar.",
+      "url": "https://www.erudit.org/en/journals/im/2023-n41-im08800/1106554ar.pdf"
+    },
+    {
+      "title": "Smell, Sense of | Encyclopedia.com",
+      "relevance": "Freud’un koku duyusunu cinsellik, bedensel kokular, tiksinme, bastırma ve fetiş oluşumu bağlamındaki görüşlerini özetler.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/smell-sense"
+    },
+    {
+      "title": "Träume riechen und vom Riechen träumen",
+      "relevance": "Rüya deneyimindeki koku duyumunu; duyusal, sözel-öncesi bilgi, bellek ve sembolleştirme işlevleriyle birlikte ele alır.",
+      "url": "https://journal-fuer-psychologie.de/article/download/0942-2285-2024-2-107/html?inline=1"
+    },
+    {
+      "title": "A Library Guide to Jung's Collected Works: Symbol",
+      "relevance": "Jung’un rüya, sembolizm, bilinçdışı ve rüya sembollerinin yorumlanmasına ilişkin eserlerini ve konu başlıklarını tanıtır.",
+      "url": "https://pacifica.libguides.com/Jung/symbol"
+    },
+    {
+      "title": "2021758623.pdf",
+      "relevance": "Arapça rüya kitaplarında hoş ve kötü kokunun şöhret kazanımı veya kaybıyla ilişkilendirilmesini ve bu motifin Artemidorusçu gelenekten ayrışan tarihsel gelişimini ele alır.",
+      "url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/86/23/2021758623/2021758623.pdf"
+    },
+    {
+      "title": "Dreams about fragrance Islamic Interpretations Explanation",
+      "relevance": "Koku alma, tatlı koku ve kötü koku için İslamî rüya yorumu aktarır; güzel ve kötü kokunun farklı anlam kümeleriyle ilişkilendirildiğini gösterir.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=fragrance"
+    },
+    {
+      "title": "Topical Bible: Fragrance",
+      "relevance": "Kutsal Kitap’taki güzel koku ve tütsü imgelerini Tanrı’nın hoşnutluğu, saflık, kutsallık ve ibadet bağlamında açıklar.",
+      "url": "https://biblehub.com/topical/f/fragrance.htm"
+    },
+    {
+      "title": "Pleasant and Unpleasant Smells in the Bible",
+      "relevance": "Kutsal Kitap ve Hristiyan ritüel bağlamında hoş ve hoş olmayan kokuların, tütsünün, duanın ve ibadetin sembolik anlamlarını ele alır.",
+      "url": "https://journals.uni-lj.si/ED/article/download/23683/18799"
+    },
+    {
+      "title": "Communicating Sacred Meanings Through Perfumes",
+      "relevance": "Kutsal Kitap ve Hristiyan sembolizminde parfüm, kutsal yağ, tütsü ve koku duyusunu arınma, takdis, ilahî varlık ve ibadet temalarıyla ilişkilendirir.",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-99481-4_6?error=cookies_not_supported&code=d95a0b39-9848-48c1-b6ac-2faf3b848123"
+    },
+    {
+      "title": "The Aroma of Righteousness: Scent and Seduction in ...",
+      "relevance": "İbranice Kitâb-ı Mukaddes bağlamında koku, hoşluk, kötü koku ve doğruluk/baştan çıkarma temaları arasındaki ilişkileri inceler; koku sembolizminin Yahudi kutsal metinlerindeki anlam alanını açıklar.",
+      "url": "https://www.psupress.org/books/titles/978-0-271-03767-7.html"
+    },
+    {
+      "title": "Fragrances in Two Worlds by Rabbi Hanoch Slatin",
+      "relevance": "Yahudi Torah yorumları çerçevesinde hoş kokuyu kurbanın kabulü, bereket ve farklı bir ruhsal boyutla ilişkilendiren Genesis örneklerini ele alır.",
+      "url": "https://ohr.edu/1446"
+    },
+    {
+      "title": "Blessing on Smell - Meaning in Mitzvot - OU Torah",
+      "relevance": "Berakhot 43b bağlamında kokunun bedensel değil nefse/ruha haz veren bir duyum olarak açıklanmasını ve hoş koku üzerine Rabbanî bereket pratiğini aktarır.",
+      "url": "https://outorah.org/p/7197/"
+    },
+    {
+      "title": "God, Incense and Myrrh: Scent, Ritual, and Perceptions of Deities in the Hebrew Bible and Neighboring Cultures - Museum of Cultural History",
+      "relevance": "İbrani Kitâb-ı Mukaddes’te tütsü ve kutsal yağ kokularını ilahî mevcudiyet, tapınak kutsallığı ve krallık sembolizmiyle ilişkilendirir.",
+      "url": "https://www.khm.uio.no/english/research/events/senku-seminars/god-incense-and-myrrh.html"
+    },
+    {
+      "title": "The Wonderful Dharma Lotus Flower Sutra with ...",
+      "relevance": "Metin, Budist Lotus Sutra geleneğinde farklı ruhsal varlıklarla ve tütsüyle ilişkilendirilen kokuları ele alır; koku duyusunun Budist sembolik bağlamdaki kullanımını gösterir.",
+      "url": "https://www.cttbusa.org/dfs19/dfs19_3.asp.html"
+    },
+    {
+      "title": "Both Like and Unlike: Rebirth, Olfaction, and the Transspecies Imagination in Modern Chinese Buddhism",
+      "relevance": "Çalışma, modern Çin Budizmi bağlamında kokuyu karmasal alışkanlıkların ve erdemli niteliklerin yayılması için kullanılan bir metafor olarak inceler; ayrıca koku deneyiminin geçiciliği ve zihinsel ayrımlarla ilişkisini tartışır.",
+      "url": "https://www.mdpi.com/2077-1444/10/6/364"
+    },
+    {
+      "title": "1",
+      "relevance": "Koku dilinin, dinî deneyimleri ve Tanrı’yla ilişkiyi açıklamak amacıyla hem sembolik hem de kelime anlamıyla kullanıldığı tarihsel bağlamı ele alır.",
+      "url": "https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/21552/Cockayne_2019_Smelling_God_AAM.pdf"
+    },
+    {
+      "title": "The Scent of Sleep: On Night Knowledge and Its At…",
+      "relevance": "Kokunun uyku ve rüya deneyimini etkileyebileceğini; koku, atmosfer ve gece deneyimi arasındaki ilişkileri tartışır.",
+      "url": "https://www.erudit.org/en/journals/im/2023-n41-im08800/1106554ar/"
+    },
+    {
+      "title": "Mystical Symbolism: The Salon de la Rose+Croix in Paris, 1892–1897",
+      "relevance": "Sembolizm ve mistisizm bağlamında kokuyu maddi olanla kutsal olan arasında eşik, dönüşüm ve manevi uyum aracı olarak inceler.",
+      "url": "https://www.academia.edu/68331786/Mystical_Symbolism_The_Salon_de_la_Rose_Croix_in_Paris_1892_1897"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "psychoanalytic",
+    "islamic"
+  ]
+}

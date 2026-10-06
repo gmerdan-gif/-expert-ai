@@ -1,0 +1,152 @@
+{
+  "slug": "isim-gormek",
+  "title": "isim_gormek",
+  "shortDescription": "Rüyada isim görmek ya da duymak, kimlik, tanınma ve o ismin çağrıştırdığı kişi, anı veya duygularla ilişkili olabilir. Kendi adınız öne çıkıyorsa kendinizi nasıl gördüğünüz veya tanınma ihtiyacınız; tanıdık birinin adıysa o kişiyle ilgili düşünce ve anılar dikkat çekebilir.",
+  "positiveAssociations": [
+    "Kişisel kimlik ve tanınma duygusunda netleşme",
+    "Adın olumlu etimolojik veya çağrışımsal anlamıyla ilişkilenen iyiye işaret eden hisler",
+    "Sosyal aidiyet ve başkaları tarafından tanınma hissinin güçlenmesi",
+    "Geçmiş bağlar ve önemli kişilerle zihinsel köprülerin kurulması"
+  ],
+  "challengingAssociations": [
+    "Kimlik karmaşası veya başkaları tarafından nasıl adlandırıldığınıza dair kaygılar",
+    "Olumsuz çağrışımlı bir adın veya eleştirel bir ses tonunun yarattığı rahatsızlık",
+    "Birden çok anı veya kişinin tek bir isim altında yoğunlaşmasından kaynaklanan karışıklık",
+    "Öznenin toplumsal konumu ve adlandırma üzerinden hissedilen baskı"
+  ],
+  "contextDependentAssociations": [
+    "İsmin yazılı görülmesi ile işitilmesi arasındaki algısal ve işlevsel farkı",
+    "Görülen/duyulan ismin rüya sahibine mi yoksa tanıdık bir başkasına mı ait olduğu",
+    "Rüya esnasındaki duygusal tonun olumlu, nötr veya tehdit edici oluşu",
+    "Rüyanın diğer öğeleri ve rüya sahibinin güncel yaşam bağlamı"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kendi Adını Duymak veya Görmek",
+      "description": "Rüyasında kendi adının açıkça söylendiğini ya da yazılı olduğunu gören kişi, uyanık yaşamında tanınma, özfarkındalık veya kimliklenme süreçlerini zihninde yeniden işliyor olabilir."
+    },
+    {
+      "title": "Tanıdık Birinin Adını Duymak veya Görmek",
+      "description": "Yakın çevreden veya geçmişten birinin adı rüyada belirdiğinde, o kişiyle ilgili çözülmemiş duygular, anılar veya ses benzerliklerinden kaynaklanan çağrışımlar öne çıkabilir."
+    },
+    {
+      "title": "Bilinmeyen veya Yabancı Bir İsimle Karşılaşmak",
+      "description": "Daha önce duyulmamış bir isim rüyada ortaya çıktığında, bilinçdışının yeni çağrışım yolları, dilsel kökler veya uzak ilişkiler üzerinden sembol oluşturuyor olması mümkündür; yine de anlam kişiye bağımlıdır."
+    },
+    {
+      "title": "Yazılı Bir İsmi Okumak",
+      "description": "Görsel olarak bir isim okumak, işitsel bir çağrıdan farklı olarak zihnin belirli bir kişiye, role veya sorumluluğa odaklandığını gösterebilir."
+    }
+  ],
+  "psychology": "Doğal uyku çalışmalarında rüyalarda işitsel izlenimlerin, özellikle başkalarının konuşmasının, yaygın olduğu gösterilmiştir; bu durum isimlerin de rüyalarda yer alabileceğini destekler. Ancak mevcut ampirik veriler, rüyada geçen belirli bir isme evrensel ve sabit bir psikolojik anlam atfetmez. İsim içeren rüyaların yorumunda rüya sahibinin bireysel özellikleri, uyanık yaşam deneyimleri ve rüyanın bağlamı belirleyicidir.",
+  "jungian": "",
+  "islamicTradition": "İslami rüya yorumlama bağlamında görülen isimler genellikle adın sözlüksel anlamı, taşıdığı olumlu/olumsuz nitelik ve rüyadaki kullanım biçimi (çağrılma, değiştirilme vb.) dikkate alınarak yorumlanır. Bu gelenekte de isim görmenin tek başına sabit bir yorumu olmadığı vurgulanır; görülen ismin anlamı ve rüyanın duygusal tonu birlikte değerlendirilmelidir.",
+  "christianTraditions": "Hristiyan sembolik düşüncesinde adlandırma temaları kimlik, tanınma ve Tanrı ile kişisel ilişki bağlamında ele alınır. İncil’de Tanrı’nın kişiyi adıyla çağırma motifi, rüyada bir ismin belirmesinin bağlama göre kimlik, sorumluluk veya ilişki temalarına dikkat çekebileceğini düşündürür; bu, tekil ve belirleyici bir rüya kuralı değildir.",
+  "jewishTraditions": "Yahudi rabbanî geleneğinde (Berakhot çevresi) rüyalar anlam taşır ancak yoruma açıktır. İsimlerin rüyada görünmesi, soy, hafıza, kimlik veya kutsal metin çağrışımları üzerinden yorumlanabilir; yine de Talmud’da ‘isim görmek’ için tek ve evrensel bir kural olmadığı belirtilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Uyku Araştırmaları",
+      "interpretation": "Rüyalarda ad ve konuşma gibi işitsel içeriklerin sıkça görüldüğünü ve bunların rüya sahibinin uyanık yaşamıyla süreklilik gösterebildiğini vurgular; belirli bir isme evrensel anlam atamaz.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Freudçu metinlerde özel isimler, ses benzerlikleri, hece ilişkileri ve çağrışımlar yoluyla birden çok düşünceyi yoğunlaştıran gösterenler olarak işlev görür; isim rüya sahibinin kişisel çağrışımlarına bağlı okunmalıdır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "İslami rüya yorumlama pratiğinde görülen ismin sözlük anlamı, adla çağrılma biçimi ve rüyanın diğer öğeleri birlikte değerlendirilerek yorum yapılır; tek başına kesin bir anlam çıkarılmaz.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Gelenekleri",
+      "interpretation": "Hristiyan sembolik sentezinde ad, kimlik ve Tanrı ile ilişki temalarına bağlanır; İncilî motifler, bir ismin rüyada belirmesinin kimlik, tanınma veya sorumlulukla ilgili bir çağrıya işaret edebileceğini öne sürer, fakat bu bağlamsal ve yorumlayıcıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Gelenekleri",
+      "interpretation": "Rabbanî yaklaşım (Berakhot çevresi) rüyaların yorum yoluyla anlam kazandığını ve dilsel/kutsal metinsel çağrışımların rolünü vurgular; isim görme de aile, soy ve kutsal anlatılar bağlamında değerlendirilebilir, fakat sabit bir Talmudik kural yoktur.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Çeşitli yaklaşımlar, rüyada görülen ismin tek başına evrensel ve deterministik bir anlam taşımadığında birleşir; isimler, rüya sahibinin bireysel çağrışımları, rüyanın duygusal tonu ve bağlamıyla birlikte yorumlanmalıdır.",
+  "differences": "Bilimsel ve psikanalitik perspektifler isimleri bilişsel süreklilik ve çağrışım süreçleri üzerinden açıklar; dinî ve tarihsel gelenekler ise adın etimolojisi, kutsal metin çağrışımları veya adlandırma motifleri üzerinden bağlamsal yorumlar sunar. Her yaklaşımın dayanak ve sınırları farklıdır.",
+  "inusAssessment": "Rüyada isim görmek, rüyaların sıkça içerdiği işitsel öğelerden biri olarak ortaya çıkabilir ve psikanalitik olarak ismin ses, hece veya çağrışım bağlantıları yoluyla birden fazla düşünceyi yoğunlaştırması şeklinde açıklanabilir. Değerlendirme yapılırken ismin işitilip işitilmediği, yazılı mı olduğu, hangi duygusal tonla belirdiği ve rüyanın genel bağlamı dikkate alınmalıdır; tek bir zorunlu anlam çıkarılamaz.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Quantifying auditory impressions in dreams in order to assess ... - PMC",
+      "relevance": "Bu çalışma, doğal uyku koşullarında rüya raporlarındaki işitsel izlenimlerin —özellikle diğer insanların konuşmasının— sıklığını ve niteliğini nicel olarak inceleyerek, isim gibi işitsel öğelerin rüyalarda yer alabileceğine dair kanıt sağlar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7067405/"
+    },
+    {
+      "title": "Individual traits and experiences predict the content of dreams - PMC",
+      "relevance": "Geniş bir rüya ve uyanık yaşam veri kümesi üzerinden rüya içeriğinin bireysel özellikler ve yaşam deneyimleriyle ilişkili olduğunu gösterir; bu da isim içeren rüyaların kişiye özgü bağlamda değerlendirilmesi gerektiğini destekler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13124594/"
+    },
+    {
+      "title": "Studying Dream Content Using Dreambank.Net",
+      "relevance": "DreamBank arşivindeki rüya raporlarının sistematik içerik analizinde nasıl kullanılabileceğini ve tekrarlanabilir rüya içeriği bulgularını açıklar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2004d.html"
+    },
+    {
+      "title": "CHAPTER 6 (part 3) THE DREAM-WORK",
+      "relevance": "Freud’un rüya çalışmasında, özel isimlerin, ses benzerliklerinin ve çağrışımların rüyanın işlenmesinde nasıl işlev gördüğü açıklanır; bu, psikanalitik yorum çerçevesine katkıda bulunur.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "İsim Ne Söyler: Nitel Bir Araştırma",
+      "relevance": "Bu çalışma, özel adı Lacancı psikanalitik açıdan kişiyi tanımlayan bir gösteren olarak ve kimliklenme, tanınma ile öznenin konumuyla ilişkili biçimde inceler.",
+      "url": "https://dergipark.org.tr/en/pub/ayna/article/714959"
+    },
+    {
+      "title": "Dreams with Numbers and Letters",
+      "relevance": "Artemidorus’un Oneirocritica çalışmasından hareketle antik Greko-Romen bağlamda özel adların etimolojilerinin rüya yorumunda nasıl kullanıldığını gösterir; isim görmenin tarihsel, dilsel bağlamda yorumlandığına dair örnek sunar.",
+      "url": "https://academic.oup.com/book/63154/chapter/568572601"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' The Interpretation of ...",
+      "relevance": "Oneirocritica, Greko-Romen antikitesinden günümüze ulaşmış kapsamlı bir rüya kılavuzudur ve rüyaların sınıflandırılması ile yorum araçlarına ilişkin örnekler sunar.",
+      "url": "https://academic.oup.com/book/40085"
+    },
+    {
+      "title": "İmam Nablusi Rüya Tabirleri İ Harfi",
+      "relevance": "İslami rüya yorumlama pratiğinde isimlerin ve isimle çağrılmanın, adın anlamı ve taşıdığı nitelikler üzerinden nasıl yorumlandığını aktarır.",
+      "url": "https://www.muhammed.net/2020/10/imam-nablusi-ruya-tabirleri-i2-harfi.html"
+    },
+    {
+      "title": "Dreams and Dream Interpretation - Islam Question & Answer",
+      "relevance": "İslami rüya yorumunda isimlerin ve metaforların yorum aracı olarak kullanılabileceğini aktarır; adın anlamının rüya bağlamında dikkate alınması gerektiğini belirtir.",
+      "url": "https://islamqa.info/en/answers/6537"
+    },
+    {
+      "title": "Topical Bible: Name's",
+      "relevance": "İncil’de adlandırma, kişinin adıyla çağrılması, kimlik ve Tanrı ile kişisel ilişki temalarını açıklar.",
+      "url": "https://biblehub.com/topical/n/name's.htm"
+    },
+    {
+      "title": "Principles of Christian Dream Interpretation",
+      "relevance": "Rüyada söylenen bir ismin, ismin anlamı veya çağrıştırdığı karakter niteliği üzerinden yorumlanabileceğini açıklayan çağdaş Hristiyan rüya yorumlama yaklaşımını sunar.",
+      "url": "https://www.cwgministries.org/books/Christian-Dream-Interpretation.pdf"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Yahudi rabbanî rüya düşüncesi ve Berakhot çevresindeki yaklaşım hakkında kaynak sağlar; rüyaların yorum yoluyla anlam kazandığını ve dilsel/kutsal metinsel çağrışımların önemini vurgular.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Syracuse University",
+      "relevance": "Talmudik rüya yorumunda Berakhot 55a’daki yorumun rolünü ve rüyaların dilsel ya da kutsal metinsel çağrışımlarla anlamlandırılmasını ele alır.",
+      "url": "https://surface.syr.edu/cgi/viewcontent.cgi?article=1037&context=rel"
+    },
+    {
+      "title": "[PDF] Dream Accounts in the Hebrew Bible and Ancient Jewish Literature",
+      "relevance": "İbranice Kitabı Mukaddes ve antik Yahudi literatüründe rüyaların, isimlerin ve anlatısal kimlik unsurlarının tarihsel bağlamını inceleyen çalışmaya erişim sağlar.",
+      "url": "https://ora.ox.ac.uk/objects/uuid:31468460-01e8-4b10-977e-72b954a29fda/files/m094640d42e5594527fcf80f2cc76bc00"
+    }
+  ],
+  "relatedSlugs": []
+}

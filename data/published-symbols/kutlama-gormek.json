@@ -1,0 +1,187 @@
+{
+  "slug": "kutlama-gormek",
+  "title": "kutlama gormek",
+  "shortDescription": "Rüyada kutlama görmek; takdir edilme, bir başarıyı paylaşma, bir dönemi geride bırakma ve topluluğa ait hissetme temalarıyla ilişkilendirilir. Kutlamanın neşeli ya da yapay hissettirmesi, yorumun yönünü belirler.",
+  "positiveAssociations": [
+    "Sosyal tanınma ve takdir edilme hissi",
+    "Başarı, hedefe ulaşma veya olumlu bir geçişin kutlanması",
+    "Geçmiş sevinçlerin hatırlanması ve ferahlama",
+    "Toplulukla paylaşılan ortak neşe ve aidiyet"
+  ],
+  "challengingAssociations": [
+    "Rüya içinde sevinç hissinin aniden keder veya kaygıya dönüşmesi",
+    "Kutlamanın boş, yüzeysel veya yapay hissedilmesi",
+    "Dışsal gösteri ile içsel ihtiyaçlar arasındaki uyumsuzluk"
+  ],
+  "contextDependentAssociations": [
+    "Doğum günü, tebrik ve hediye sahneleri — beklenen veya beklenmeyen takdir temasına işaret edebilir",
+    "Gece festivali veya tören — toplumsal ortaklıklar, ortak miras ya da refah beklentileriyle ilişkilendirilebilir",
+    "Rüya sahibinin gerçek yaşamındaki ilişkiler, başarı deneyimleri ve mevcut duygusal tonu rüyanın yorumunu etkileyebilir."
+  ],
+  "commonVariations": [
+    {
+      "title": "Kalabalık Doğum Günü Kutlaması",
+      "description": "Tebrik ve hediye sahneleri içeren doğum günü rüyası, Freud'un örneklendirdiği gibi örtük bir dileğin düşsel olarak karşılanması veya takdir beklentisi ile bağlantılı olarak okunabilir."
+    },
+    {
+      "title": "Gece Festivali veya Sokak Şöleni",
+      "description": "Artemidorus’un aktardığı antik örneklerde geceye yayılmış kutlamalar ortaklık, evlilik veya refah beklentileriyle ilişkilendirilmiştir; benzer motifler rüyanın toplumsal bağlamını vurgular."
+    },
+    {
+      "title": "Boş veya Huzursuz Parti",
+      "description": "Kutlamanın neşeli değil de yalıtılmış veya yapay hissettirmesi, dışsal gösteri ile içsel tatminsizlik arasındaki gerilimi düşündürebilir."
+    },
+    {
+      "title": "Bayram veya Topluluk Kutlaması",
+      "description": "Modern İslami derlemelerde bayram/ziyafet temaları sıkıntıların sona ermesi, ferahlama veya geçmiş sevinçlerin hatırlanması ile ilişkilendirilir; bağlama göre anlam değişir."
+    }
+  ],
+  "psychology": "Rüya içerik analizleri (Hall ve Van de Castle yaklaşımı gibi) kutlama sahnelerini karakterler, sosyal etkileşimler, etkinlikler ve duygular bağlamında kodlar; büyük örneklemli otomatik analizler rüyaların gündelik yaşamla sürekliliğini destekler. COVID-19 dönemi örneklemlerinde grup etkinlikleri ve olumlu duygular sıkça kodlanmıştır. Bu alan, 'kutlama görmek' imgelerini betimlemeye yardımcı olur; aynı zamanda bu sembolü doğrudan inceleyen doğrulanmış ampirik çalışma bulunmadığını belirtmek önemlidir.",
+  "jungian": "Analitik psikoloji açısından kutlama imgeleri ritüel ve dönüşüm temalarıyla ilişkilendirilebilir; topluluk arketipleri veya yaşam geçişlerinin simgeleri olarak değerlendirilirken, yorum rüyanın kişisel çağrışımları ve duygusal tonuyla bağdaştırılmalıdır. Jung’un eserlerinde 'kutlama görmek' için tekil bir, sabit bir tanım yer almaz.",
+  "islamicTradition": "Modern İslami rüya derlemeleri bayram, ziyafet ve kutlama motiflerini geçmiş sevinçlerin hatırlanması, sıkıntıların sona ermesi ve ferahlama temalarıyla ilişkilendirir. Aynı kaynaklarda rüyalardaki sevinç bağlama göre keder veya kaygıya dönüşebileceği biçiminde aktarılmaktadır. Klasik İslami rüya yorumlama literatüründe 'kutlama görmek' başlıklı doğrudan ve doğrulanmış bir madde tespit edilmemiştir; bu nedenle modern derlemeler bağlama dayalı, tematik bir çerçeve sağlar.",
+  "christianTraditions": "Hristiyan sembolizminde şölen ve kutlama motifleri şükran, topluluk içinde kabul ve uzlaşma temalarını çağrıştırır (ör. Luka 15’teki şölen anlatısı). Bu metinsel motifler rüyadaki kutlama sahnesinin yorumlanmasında bağlam sağlayabilir, ancak kesin bir rüya yorumu sunmaz.",
+  "jewishTraditions": "Rabbanî literatür (Berakhot tartışmaları) rüyaların yorumlanmasının önemini vurgular; kutlama teması doğrudan sabit bir uğur olarak sunulmamıştır. Yorumlama pratiği olumlu rüyayı iyiye yönlendirme imkanını içerir; kutlama imgeleri rüyanın bağlamı ve duygusal çağrışımlarıyla birlikte ele alınmalıdır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel okumalarda kutlama rüyası genellikle emeğin tanınması, bir dönemin onurlandırılması veya topluluk aidiyetinin görülmesi biçiminde yorumlanır. Kutlamanın içten ve kapsayıcı mı yoksa boş ve gösterişçi mi olduğu, sembolün olumlu mu eleştirel mi okunacağını belirler.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Rüya Analizi",
+      "interpretation": "Kutlama sahneleri sosyal etkileşim, etkinlik türü ve duygusal tonu üzerinden betimlenir; bulgular rüyaların gündelik yaşantıyla sürekliliğini destekler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Yaklaşım",
+      "interpretation": "Freudcu çerçevede rüyalar dilek gerçekleştirme işlevi görebilir; doğum günü, tebrik ve hediye gibi kutlama unsurları, bastırılmış veya örtük arzuların biçimlenmesi olarak ele alınır (Freud’un doğrudan örnekleri bağlam gösterir, tekil yorum için rüyanın ayrıntıları gereklidir).",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji",
+      "interpretation": "Ritüel ve dönüşüm temaları bağlamında kutlama imgeleri, bireysel dönüşümler veya toplumsal bağlantılar açısından yorumlanabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel ve Kültürel Aktarımlar",
+      "interpretation": "Artemidorus gibi antik kaynaklarda gece festivalleri ortaklık ve refahla ilişkilendirilmiş; modern geleneksel derlemeler bayram ve ziyafet motiflerini ferahlama ile bağdaştırır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Ezoterik Okumalar",
+      "interpretation": "Kutlama imgesi şükran, toplulukla bütünleşme veya emeğin tanınması olarak yorumlanabilir; zıt biçimleri ise içsel tatminsizlike işaret edebilir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu yaklaşım kutlama imgesini topluluk, tanınma, geçiş ve duygu ekseninde ele alır; ancak doğrudan 'kutlama görmek' için evrensel bir anlamı kanıtlayan doğrulanmış ampirik bir çalışma mevcut değildir. Bu yüzden yorumlar rüyanın ayrıntılarıyla (katılımcılar, duygusal ton, bağlam) ilişkilendirilmelidir.",
+  "differences": "Ampirik çalışmalar betimlemeye ve olası içerik bağlantılarına odaklanırken; psikanalitik ve Jungcu yaklaşımlar imgelerin içsel arzular veya dönüşüm süreçleriyle bağlantısını inceler. Geleneksel kaynaklar belirli kültürel bağlamlar üzerinden tematik anlamlar sunar; spiritüel okumalar ise kişisel gelişim ve aidiyet vurgusunu öne çıkarır.",
+  "inusAssessment": "Rüyada kutlama görmek INUS türü bir neden olarak düşünülebilir: tek başına yetersiz olup, diğer koşullarla birlikte belirli bir psikolojik veya sosyal anlam taşıyabilir. Kritik belirleyiciler rüyanın duygusal tonu, kimlerin bulunduğu ve gerçek yaşam bağlamıdır.",
+  "faq": [
+    {
+      "question": "Rüyada kutlama görmek kesin olarak iyi bir haber mi işarettir?",
+      "answer": "Hayır. Bu imge hem ferahlama ve takdir hissiyle hem de bağlama göre kaygı veya yüzeysellik hissiyle bağlantılı olabilir; yorum rüyanın ayrıntılarına bağlıdır."
+    },
+    {
+      "question": "Kutlama rüyasında yalnız hissetmek veya kalabalıktan kopuk olmak ne anlama gelir?",
+      "answer": "Topluluk içinde yabancı veya yalnız hissetmek, rüya bağlamında dışsal beklentilerle içsel duygular arasındaki uyumsuzluğu ya da sosyal aitlik ihtiyacını gösterebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Perceived Change in the Affect Associated With Dreams",
+      "relevance": "Rüyalarda olumlu ve olumsuz duygulanımın zaman içindeki farklı eğilimlerini ele alır; 'kutlama' imgelerinin duygusal iz düşümlerini değerlendirirken başvurulabilir.",
+      "url": "https://www.niu.edu/jskowronski/publications/RitchieSkowronski2008.pdf"
+    },
+    {
+      "title": "Dreams Shared on Social Networks during the COVID-19 ...",
+      "relevance": "COVID-19 döneminde paylaşılan rüyalarda grup etkinlikleri ve olumlu duyguların sık kodlanışını gösterir; kutlama sahnelerinin sosyal bağlamla bağlantısını betimlemeye yardımcı olur.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9959154/"
+    },
+    {
+      "title": "Dreams: Content Analysis Explained",
+      "relevance": "Rüya içerik analizinin yöntemlerini ve kutlama gibi sosyal etkinliklerin nasıl kodlandığını açıklar; betimleyici çerçeve sunar.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "Our dreams, our selves: automatic analysis of dream reports",
+      "relevance": "Geniş ölçekli otomatik içerik analizleri rüyaların gündelik yaşamla sürekliliğini destekler; kutlama imgelerinin yaygınlığını ve ilişkilendirilebileceği içerik kategorilerini değerlendirmek için kullanılabilir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7481704/"
+    },
+    {
+      "title": "Freud (1900) Chapter 3 - Classics in the History of Psychology",
+      "relevance": "Freud’un dilek gerçekleştirme kuramı ve doğum günü/tebrik örnekleri, kutlama unsurlarının psikanalitik çerçevede nasıl okunabileceğine dair klasik bir referans sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams3.htm"
+    },
+    {
+      "title": "Volume 18: The Symbolic Life",
+      "relevance": "Jungcu perspektiften rüya imgelerinin sembolik rolü ve ritüel/dönüşüm temalarının rüyada nasıl işlenebileceğine dair çerçeve sunar.",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-18-symbolic-life/"
+    },
+    {
+      "title": "Volume 9.1: The Archetypes of the Collective Unconscious",
+      "relevance": "Arketipsel imgelerin rüyalarda ortaya çıkışı ve ritüel temasının analitik psikoloji bağlamında değerlendirilmesi konusunda kaynak niteliğindedir.",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-9-1-archetypes-collective-unconscious/"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' the Interpretation of Dreams",
+      "relevance": "Artemidorus’un Oneirocritica çevirisi; gece festivalleri ve kutlamalara ilişkin antik yorumlar 'kutlama' imgelerinin tarihsel bir örneği olarak referans verilebilir.",
+      "url": "https://books.google.com/books/about/An_Ancient_Dream_Manual.html?id=QZjFDwAAQBAJ"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un İngilizce çevirisi, antik oneirokritik bağlamda kutlama ve festival motiflerinin nasıl yorumlandığına ilişkin doğrudan metin sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Joy in a dream: meaning in al-Nabulsi and Ibn Shahin",
+      "relevance": "Modern aktarımlarda rüyalardaki sevinç temasının bağlama göre olumlu veya olumsuz biçimlerde aktarılabileceğine dair örneklemeler sunar.",
+      "url": "https://dreamofyusuf.com/en/dream/joy"
+    },
+    {
+      "title": "Party Function Celebration Feast dream interpretations",
+      "relevance": "İslami rüya-derlemelerinde bayram/ziyafet motiflerinin ferahlama ve geçmiş sevinçlerin hatırlanması ile ilişkilendirildiğini gösterir.",
+      "url": "https://www.myislamicdream.com/party_function_celebration_feast.html"
+    },
+    {
+      "title": "Celebrations Islamic Interpretations & Meanings",
+      "relevance": "Modern İslami kaynaklarda kutlama motiflerinin hangi temalarla ilişkilendirildiğine dair derleyici örnekler sunar; 'kutlama görmek' için doğrudan klasik bir hüküm olmadığını destekler niteliktedir.",
+      "url": "https://www.myislamicdream.com/celebrations.html"
+    },
+    {
+      "title": "Topical Bible: Feasting and Rejoicing",
+      "relevance": "İncil metinlerindeki şölen ve sevinç temalarının rüya yorumlarına sağladığı teolojik bağlam hakkınında bilgi verir.",
+      "url": "https://biblehub.com/topical/f/feasting_and_rejoicing.htm"
+    },
+    {
+      "title": "Topical Bible: Celebration and Rejoicing Before the LORD",
+      "relevance": "Kutsal metinlerdeki kutlama motiflerinin şükran, lütuf ve topluluk temalarıyla nasıl ilişkilendirildiğini açıklayan bir kaynak.",
+      "url": "https://biblehub.com/topical/c/celebration_and_rejoicing_before_the_lord.htm"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Rabbanî rüya tartışmalarının metinsel çerçevesini sunar; kutlama imgelerinin Yahudi yorumlama pratiğinde bağlama göre ele alınması gerektiğini gösterir.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "Celebration in dreams — meaning and symbolism",
+      "relevance": "Modern spiritüel ve popüler yorumlarda kutlama rüyasının tanınma, aidiyet ve geçiş temalarıyla nasıl ilişkilendirildiğine dair örneklemeler sunar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/celebration"
+    },
+    {
+      "title": "Symbolic Meaning",
+      "relevance": "Kutlama imgesinin kabul, bütünleşme ve toplulukla bağ kurma temaları üzerinden spiritüel bir çerçevede nasıl okunabileceğini özetler.",
+      "url": "https://mirrorwithin.org/dream-dictionary/celebration/"
+    },
+    {
+      "title": "Celebration Archetype Meaning & Symbolism - MyMythos",
+      "relevance": "Kutlama arketipinin ortak temalarını ve olası karşıt imgeleri (ör. boş salon, kaçırılan tören) derleyici biçimde ele alır.",
+      "url": "https://mymythos.org/archetype/celebration/"
+    },
+    {
+      "title": "To celebrate. The meaning of the dream, the Smorfia numbers",
+      "relevance": "Ezoterik/popüler kaynaklarda kutlama motifine ilişkin kısa açıklamalar sunar; akademik veya tarihsel kanıt yerine popüler anlam örneği olarak değerlendirilmelidir.",
+      "url": "https://www.lasmorfianapoletana.com/en/meaning-of-dreams/?src=to+celebrate"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

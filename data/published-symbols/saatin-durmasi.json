@@ -1,0 +1,116 @@
+{
+  "slug": "saatin-durmasi",
+  "title": "saatin_durmasi",
+  "shortDescription": "Rüyada saatin durması, rutinlerin kesintiye uğraması, ilerleyememe ya da zaman baskısı altında sıkışmış hissetmeyle ilişkilendirilebilir. Rüyadaki rahatlama yoğun tempodan uzaklaşmayı veya bir dönemin kapanmasını, kaygı ise gecikme ve kontrol kaybı endişesini öne çıkarabilir.",
+  "positiveAssociations": [
+    "Dış takvim veya son tarih baskısından, yani dışsal zaman baskısından geçici olarak özgürleşme.",
+    "Yoğun tempodan uzaklaşarak içsel bir dinlenme alanı bulma",
+    "tamamlanmasıyla",
+    "Dışsal zaman baskısından uzaklaşıp içsel dinginlik hissi"
+  ],
+  "challengingAssociations": [
+    "İlerleyememe, sıkışmışlık ve askıda kalma hissi",
+    "Zamanın kontrolünü kaybetme kaygısı",
+    "Belirsizlik karşısında eyleme geçememe durumu",
+    "Bazı bağlamlarda ölüm veya kayıp korkusuyla ilişkilendirilebilen endişeler"
+  ],
+  "contextDependentAssociations": [
+    "Saatin durduğu anda hissedilen rahatlama ile kaygı arasındaki fark.",
+    "Saatin kime ait olduğu veya nerede bulunduğuna bağlı olarak değişen kişisel bağlantılar",
+    "Rüyanın, uyanık yaşamdaki zaman baskısı ya da dışsal bir uyaranla (ör. alarm) ilişkili olma olasılığı"
+  ],
+  "commonVariations": [
+    {
+      "title": "Duvar saatinin birden durması",
+      "description": "Ev veya ortak yaşam alanındaki düzenin ve bilindik rutinlerin aniden sekteye uğradığı; güven ve düzen hissinin sarsıldığı bir sahne."
+    },
+    {
+      "title": "Kol saatinin durduğunu fark etmek",
+      "description": "Kişisel sorumluluklar, günlük zaman yönetimi ve bireysel ritimlerle ilgili ani bir duraklama veya bu durumu gözlemleme deneyimi."
+    },
+    {
+      "title": "Tarihi veya antik saatin...",
+      "description": "Uzun süredir devam eden bir dönemin kapanması, geçmişle ilgili meselelerin askıya alınması veya kökleşmiş alışkanlıkların sona ermesi teması."
+    },
+    {
+      "title": "Durmuş saati tekrar çalıştırmaya çalışmak",
+      "description": "Zamanın akışını geri alma, kaçırıldığını düşünülen fırsatı düzeltme ya da ertelenmiş bir kararı yeniden canlandırma çabası."
+    }
+  ],
+  "psychology": "Ampirik rüya içerik analizleri, saat ve saat benzeri nesnelerin rüyalarda nadir göründüğünü ve bu görüntülerin tek ve sabit anlamlara indirgenemeyeceğini göstermektedir. Saat rüyaları zaman yönetimiyle sınırlı kalmayıp farklı olay örgüleri ve türlerle ortaya çıkar. Uzunlamasına bir rüya dizisi analizinde (12.476 rüya) durmuş veya bozulan saat temalarının bazı örneklerde ölüm kaygısıyla ilişkilendirilebileceği not edilmişse de, bu bulgu tek bir dizideki bağlamsal örneğe dayanır ve evrensel bir yorum çıkarmaz.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "Rabbanî rüya geleneğinde ve Talmudik yaklaşımlarda (örneğin Berakhot bağlamında) rüyaların yorumla anlam kazandığı; rüya içeriklerinin kişinin gündüz zihinsel yaşantısıyla bağlantılı olabileceği kabul edilir. Bu çerçevede durmuş saat belirli bir sabit tabir olarak görülmez; daha ziyade rüyayı gören kişinin zaman, gecikme, bekleme veya sorumluluk deneyimleriyle ilişkili kişisel bir imge olarak ele alınır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik okumalarda durmuş saat; dış takvimden geçici ayrılma, bir mesele üzerinde durup içsel sesi dinleme ihtiyacı veya artık işlevini tamamlamış bir döngünün kapanması temalarıyla ilişkilendirilir. Rüyadaki duygunun rahatlama yönünde olması özgürleşme, kaygı yönünde olması ise sıkışmışlık vurgusu yapar. Bu yorumlar belirli bir gelenek öğretisi değil, modern sembolik sentezlerdir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Saat imgelerinin rüyalardaki nadirliğini, tür ve bağlam çeşitliliğini ve durmuş saat temalarının bazı örneklerde bağlamsal kaygılarla (ör. ölüm kaygısı) ilişkilendirilebildiğini vurgular.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Rüya zamanının uyanık zamanla farklı işlediğini, sayı ve zaman imgelerinin kişisel çağrışımlara bağlı olarak yaş, dönem veya süre ilişkilerine işaret edebileceğini belirtir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Yahudi/Rabbanî Gelenek",
+      "interpretation": "Rüyaların yorum yoluyla anlam kazandığı ilkesine dayanarak; durmuş saati, rüya sahibinin zaman, bekleme ve sorumluluk deneyimiyle bağlantılı bağlamsal bir imge olarak ele alır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Zaman baskısından özgürleşme, döngülerin kapanması ve içsel duraklama veya eşik deneyimi olarak yorumlar; bu, belirli bir dini öğretiye dayalı değildir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli yaklaşımlar, saatin durması sembolünün tek ve sabit bir anlam taşımadığı; bunun yerine rüya bağlamı, duygusal ton ve rüya sahibinin yaşamındaki zamanla ilgili deneyimlerle ilişkilendirilerek yorumlanması gerektiği konusunda birleşir. Sembol genelde bir duraklama, askıda kalma ya da geçiş anına işaret eden kişisel bir imge olarak görülür.",
+  "differences": "Ampirik ve psikanalitik yaklaşımlar rüya mekanizmalarına ve kişisel çağrışımlara odaklanırken; spiritüel okumalar bu durumu döngü değişimi veya içsel dinlenme daveti olarak çerçevelendirir. Yahudi/rabbanî perspektif ise yorumun rüya içeriği ve rüya sahibinin yaşantısıyla sıkı bağlantılı olması gerektiğini vurgular.",
+  "inusAssessment": "Saatin durması sembolü, rüyada zaman akışının kesintiye uğraması üzerinden hem özgürleşme hem de sıkışmışlık hissini barındırabilen ikili bir gerilim taşır. Bu sembolü yorumlarken saatin nerede durduğu, rüya sırasındaki duygu ve rüya sahibinin uyanık yaşamındaki zaman baskısıyla kurduğu ilişki göz önünde bulundurulmalıdır; sembol tek bir felaket ya da kehanet anlamına gelmez, somut yaşam bağlamına bağlı bir eşik veya askıda kalma anıdır.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Clocks in Dreams: Analysis of a Long Dream Series - PMC",
+      "relevance": "12.476 rüyadan oluşan uzun bir rüya dizisinde saat ve saat benzeri nesnelerin sıklığını, türlerini ve durmuş/bozulan saat temalarının bağlamsal olarak nasıl yer aldığını inceleyen ampirik çalışma.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8699847/"
+    },
+    {
+      "title": "CHAPTER 6 (part 3) THE DREAM-WORK",
+      "relevance": "Freud'un rüya işleyişi bağlamında zaman ve sayı imgelerinin rüya düşüncelerine nasıl bağlanabildiğini ve rüya zamanının uyanık zamanla farklı işlediğini açıklayan metin.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6c.htm"
+    },
+    {
+      "title": "The Interpretation of Dreams",
+      "relevance": "Freud'un dışsal uyaranların (ör. alarm) rüya kurgusuna dönüştürülebileceğini tartıştığı, rüyadaki saat görüntüsünün bazen böyle bir uyaranla ilişkili olabileceğini belirten kaynak.",
+      "url": "https://www.gutenberg.org/files/66048/66048-h/66048-h.htm"
+    },
+    {
+      "title": "www.sefaria.org › BerakhotBerakhot 55b:2 | The Sefaria Library",
+      "relevance": "Babylonian Talmud, Berakhot 55b’de rüyaların yorumlanması, yorumun rüya üzerindeki rolü ve rüyaların zihinsel yaşantıyla ilişkisi ele alınır.",
+      "url": "https://www.sefaria.org/Berakhot.55b.2"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ...",
+      "relevance": "Talmudik rüya yorumunun yapısını, rüya anlamının yorumla ilişkisini ve yorumun rüya içeriğine bağlı kalması gerektiğini inceler.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y?error=cookies_not_supported&code=25242877-d1d7-429a-84c8-22398b65c6ab"
+    },
+    {
+      "title": "Clock in dreams — meaning and symbolism",
+      "relevance": "Saatin rüyada durmasını duraklama, sıkışmışlık, tamamlanmamış bir süreç ve eskiyle yeni arasındaki eşik temalarıyla ilişkilendirir; ayrıca bunu kehanet olarak değil, dikkat ve içsel dinleme daveti olarak çerçeveler.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/clock"
+    },
+    {
+      "title": "spiritualyou.org › spiritual-meaning-and-symbolismThe Spiritual Meaning of Clocks: Why Time Keeps Calling Your ...",
+      "relevance": "Modern spiritüel sembolizm içinde durmuş saati eski bir döngünün sona ermesi, zaman baskısından özgürleşme ve geçiş temalarıyla ilişkilendirir.",
+      "url": "https://spiritualyou.org/spiritual-meaning-and-symbolism-of-clock/"
+    },
+    {
+      "title": "Time in dreams — meaning and symbolism",
+      "relevance": "Spiritüel ve ezoterik bir sembolizm çerçevesinde zamanın durmasını eski ile yeni arasındaki askıda kalmış an, dinlenme ve içsel dinleme motifi olarak ele alır.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/time"
+    }
+  ],
+  "relatedSlugs": []
+}

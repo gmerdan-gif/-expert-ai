@@ -1,0 +1,157 @@
+{
+  "slug": "borc-para-almak",
+  "title": "borc_para_almak",
+  "shortDescription": "Rüyada borç para almak, destek arayışını ve başkalarına karşı hissedilen sorumlulukları yansıtabilir. Parayı kimden aldığınız, geri ödeme beklentisi ve hissettiğiniz utanç ya da rahatlama yorumu etkiler.",
+  "positiveAssociations": [
+    "İhtiyaç duyulan zamanda dışarıdan gelen maddi veya manevi destek",
+    "Sosyal bağların güçlenmesi ve karşılıklı dayanışma",
+    "Mevcut bir sorunu çözmek için atılan geçici ama işlevsel bir adım"
+  ],
+  "challengingAssociations": [
+    "Ağırlaşan sorumluluklar ve omuzlanan borç yükü baskısı",
+    "Başkalarına bağımlı olma hissi ve özgürlüğün kısıtlandığı algısı",
+    "Kapanmamış hesaplar, vicdani rahatsızlık ve yetersizlik kaygısı"
+  ],
+  "contextDependentAssociations": [
+    "Borcun kimden ve hangi koşullarda alındığı",
+    "Rüya sahibinin uyanık yaşamındaki gerçek ekonomik durumu ve borçluluk hissi",
+    "Alınan paranın miktarı ve rüya sırasındaki duygusal ton (güven, utanç veya rahatlama)"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık birinden borç istemek ve almak",
+      "description": "Gerçek hayatta güvenilen bir figürden destek görme arzunu veya o kişiye karşı hissedilen sosyal yükümlülükleri yansıtır."
+    },
+    {
+      "title": "Yabancı birinden veya kurumdan borç almak",
+      "description": "Bilinmeyen gelecek karşısında duyulan güvensizliği, dışsal kaynaklara duyulan acil ihtiyacı veya bürokratik baskı hissini simgeler."
+    },
+    {
+      "title": "Borç para alırken utanç duymak",
+      "description": "Uyanık yaşamda bağımsızlığı kaybetme korkusunu, gurur kırılmasını ve başkalarına karşı verilen taahhütlerin yarattığı içsel gerilimi gösterir."
+    },
+    {
+      "title": "Alınan borç parayı harcayamamak veya kaybetmek",
+      "description": "Gelen desteğin veya fırsatların taşınamayacağı endişesini, kaynak yönetimindeki kaygıları ve çözümsüzlük hissini ele alır."
+    }
+  ],
+  "psychology": "Ampirik rüya çalışmalarında (ör. Hall–Van de Castle temelli içerik analizleri) ‘borç para almak’ olayı tek başına sabit bir anlam vermez; bu imge yorumlanırken rüyanın duygusal tonu, borcun niteliği (kimin verdiği, geri ödeme beklentisi) ve rüya sahibinin uyanık yaşamındaki ekonomik durumu ile endişe düzeyi birlikte değerlendirilir. İçerik ve duygu düzenleme yaklaşımları, bu tür rüyaların yardım arayışı, kaynak eksikliği algısı veya ilişki dinamiklerindeki baskıyı yansıtabileceğini; ancak tek bir kesin psikolojik yoruma götürmediğini gösterir.",
+  "jungian": "",
+  "islamicTradition": "Geleneksel aktarımlarda ödünç alma teması ihtiyaç, yükümlülük ve borç yükü kavramlarıyla ilişkilendirilmiştir. Ödünç alınan şeyin değeri borcun ağırlığını belirleyici olarak görülebilir; ödünç alınanın hoş veya değerli oluşu rüyada geçici bir iyilik, hoş olmayan bir şey ise sıkıntı şeklinde okunabilir. Bu yorumlar bağlama ve rüya sahibinin durumuna bağlıdır.",
+  "christianTraditions": "Teolojik ve sembolik bağlamda borç, maddi yükümlülüğün ötesinde başkalarına karşı sorumluluk, vicdan veya karşılıklı bağımlılık mecazı olarak ele alınabilir. Yardım kabul etme ile merhamet ve adalet arasındaki gerilim bu çerçevede öne çıkar; ancak İncil metinleri doğrudan rüya tabiri öğretisi sunmaz.",
+  "jewishTraditions": "Talmudik gelenekte rüyaların yorumlanması yorumcunun rolüne bağlıdır; borç alma teması için özel bir Talmudik hüküm bulunmamaktadır. Yahudi ekonomik-etik kaynakları borç, geri verme ve toplumsal sorumluluğu vurgular; bu çerçeve borç alma rüyasını toplumsal yükümlülük ve destek ilişkileri bağlamında okumaya yardımcı olur.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern ezoterik ve spiritüel okumalarda borç para almak; destek ihtiyacı, bağımlılık/bağımsızlık gerilimi ve kapanmamış enerji ya da yükümlülük temaları üzerinden yorumlanır. Bu okumalar sembolik ve sentetik niteliktedir; geleneksel bir doktrin olarak verilmemelidir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Araştırma",
+      "interpretation": "Rüyayı duygular, sosyal etkileşimler ve bağlam içinde değerlendirir; 'borç para almak' imgesinin tek başına belirleyici olmadığını vurgular.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Para alışverişini tutma/bırakma, kontrol ve bağımlılık dinamikleri üzerinden teorik olarak ele alır; doğrudan tekil sonuç vermez.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Geleneksel Aktarımlar",
+      "interpretation": "Borç alma temasını yükümlülük, sorumluluk ve ödünç alınanın değeriyle ilişkili olarak yorumlar; bağlama duyarlıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Destek ihtiyacı, kapanmamış taahhütler ve verme-alma dengesizliği simgesi olarak okur; modern ezoterik bir sentezdir.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar borç para alma imgesini bireyin kaynakları, başkalarıyla kurduğu bağımlılık ilişkileri ve sorumluluk bilinciyle ilişkilendirir; çoğu yaklaşım tekil, deterministik bir anlamdan kaçınır ve bağlama vurgu yapar.",
+  "differences": "Psikolojik ve ampirik yaklaşımlar rüyayı bağlam, olayın anlatımı ve duygular üzerinden kodlarken; geleneksel ve spiritüel diller borcu ahlaki, toplumsal veya enerji alışverişi bağlamında daha mecazi biçimde yorumlar.",
+  "inusAssessment": "Rüyada borç para almak, uyanık yaşamda verme-alma dengesini, dış destek arayışını ve taşınan sorumlulukları sorgulayan bir sahnedir. Yorumda en belirleyici unsurlar: borcun vereni, geri ödeme beklentisi, rüya sırasında hissedilen utanç/rahatlama ve kişinin gerçek ekonomik/ilişkisel durumudur; bu değişkenler olmadan tek ve kesin bir anlam çıkarmak uygun değildir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Dreams: Content Analysis Explained",
+      "relevance": "Hall–Van de Castle temelli içerik analizinin kodlama kategorileri (karakter, etkileşim, olay, duygular) 'borc_para_almak' gibi spesifik rüya olaylarını bağlam içinde incelemek için kullanılan bir yöntemsel çerçeve sunar; bu kaynak rüya imgesinin tek başına anlamlandırılamayacağını göstermede doğrudan yardımcı olur.",
+      "url": "https://dreams.ucsc.edu/Info/content_analysis.html"
+    },
+    {
+      "title": "analyzing content and affect regulation in dream reports",
+      "relevance": "Rüya içeriği ile duygu düzenlemesi arasındaki ilişkiye odaklanır; 'borç para almak' rüyasında eşlik eden duyguların (utanç, rahatlama, kaygı) yorum açısından neden kritik olduğunu destekleyen ampirik argümanlar sağlar.",
+      "url": "https://link.springer.com/article/10.1007/s11818-023-00417-4?error=cookies_not_supported&code=33f1b051-fe64-43cd-a0b1-c7257bd47ca6"
+    },
+    {
+      "title": "Exploring the emotional and thematic matrix of dreams during war: the role of anxiety and depression",
+      "relevance": "Rüyaların genel duygusal iklimini ve temel duyguların yoğunluğunu inceleyen bulgular, borç alma temasının rüya sahibinin anksiyete veya umutsuzluk düzeyiyle nasıl ilişkilendirilebileceğine dair bağlamsal veri sunar; yine de sembolün tekil anlamını belirlemez.",
+      "url": "https://link.springer.com/article/10.1007/s12144-023-05339-w"
+    },
+    {
+      "title": "Sigmund Freud: The Interpretation of Dreams",
+      "relevance": "Freudcu metinler para ve tutma/bırakma dinamikleri hakkında teorik bir perspektif verir; 'borc_para_almak' imgesine psikanalitik bir okuma zemini sağlar ama doğrudan evrensel bir eşleme sunmaz.",
+      "url": "https://media.icamiami.org/2020/07/686d3ab5-freud-sigmund.-the-interpretation-of-dreams.pdf"
+    },
+    {
+      "title": "Page:Freud - The interpretation of dreams.djvu/261",
+      "relevance": "Freud’un su/doğum ve bedensel süreç imgeleri üzerine tartışmaları sembolizmin bağlama bağlılığını vurgular; bu, borç alma imgesinin başka bedensel veya doğum imgeleriyle birlikte görülmediği sürece Freudcu bir analojiyle doğrudan eşleştirilemeyeceğini gösterir.",
+      "url": "https://en.wikisource.org/wiki/Page:Freud_-_The_interpretation_of_dreams.djvu/261"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "Artemidorusçu oneirokritik yaklaşım, borç ve para kaygılarının rüyalarda gündelik kaygıların yansıması olabileceğini ve yorumun rüya sahibinin toplumsal/ekonomik konumuna göre değişmesi gerektiğini açıklar; bu perspektif 'borc_para_almak' için bağlama vurgu yapar.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Çeviri metin, rüya yorumunda rüya sahibinin şartlarının nasıl hesaba katılması gerektiğini gösterir; borç alma benzeri maddi temaların sabit bir kehanet anlamı taşımayabileceğini destekler.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Loan in a dream: meaning in Ibn Sirin, al-Nabulsi and Ibn Shahin",
+      "relevance": "Modern aktarım sayfası, İslami rüya tabiri literatüründe ödünç alma temalarının genel eğilimlerini özetler; ödünç alınanın değeri ve borcun ağırlığının yorumda nasıl rol oynadığını örnekler.",
+      "url": "https://dreamofyusuf.com/en/dream/loan"
+    },
+    {
+      "title": "Düş Mahzeni: Rüyanızın Anlamı Ne?",
+      "relevance": "En-Nablusî’ye atfedilen aktarım örnekleri üzerinden hasta kişinin borç istemesi/alıp almaması gibi durumlara ilişkin geleneksel yorum varyantlarını gösterir; bu materyal 'borc_para_almak' yorumunda bağlamın önemini vurgular.",
+      "url": "https://dusmahzeni.com/kaynaklar/nablusi/n4288"
+    },
+    {
+      "title": "Full text of \"Ibn Sirin Dictionary Of Dreams\" - Archive.org",
+      "relevance": "İbn Sîrîn aktarımlarını içeren tam metin; ödünç alma, borç ödeme ve borç yükü temalarını tarihsel örneklerle sunar.",
+      "url": "https://archive.org/stream/IbnSirinDictionaryOfDreams/IbnSirin_dictionary_of_dreams_djvu.txt"
+    },
+    {
+      "title": "Debt and Lending in the Bible: From Ancient Laws to Modern Systems - Bible History",
+      "relevance": "İncil'deki borç ve borç affı temalarının incelenmesi, 'borc_para_almak' rüyasını teolojik veya ahlaki mecaz ekseninde nasıl okumaya elverişli olduğunu gösterir; ancak bu çalışmanın rüya tabiri öğretisi olmadığını belirtir.",
+      "url": "https://bible-history.com/news/debt-and-lending-in-the-bible-from-ancient-laws-to-modern-systems"
+    },
+    {
+      "title": "Debt, Tyndale Bible Dictionary",
+      "relevance": "Teolojik sözlük girdisi borcu vicdani ve toplumsal bir mecaz olarak açıklar; rüya bağlamında borç alma imgesinin sorumluluk, borç affı veya karşılıklılık gibi temalarla ilişkilendirilebileceğine dair çerçeve sunar.",
+      "url": "https://www.epm.org/static/uploads/downloads/book-resources/Debt_tyndale_dictionary.pdf"
+    },
+    {
+      "title": "Syracuse University",
+      "relevance": "Berakhot 55a–57b çevresindeki literatürün incelenmesi, Yahudi geleneğinde rüya yorumunun yorumcunun sorumluluğuna bağlı olduğunu vurgular; bu, 'borc_para_almak' gibi bir rüyanın bağlama göre değerlendirilmesinin önemini destekler.",
+      "url": "https://surface.syr.edu/cgi/viewcontent.cgi?article=1037&context=rel"
+    },
+    {
+      "title": "Money: Kesef (כֶּסֶף) - Follow the Money",
+      "relevance": "Yahudi düşüncesindeki para ve borçla ilgili etik materyaller, borç temasının toplumsal sorumluluk ve yeniden başlama bağlamında nasıl okunabileceğine dair arka plan sağlar; doğrudan rüya tabiri sunmaz.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/5786562/jewish/Money-Kesef.htm"
+    },
+    {
+      "title": "Borrowed Money Dream Meaning & Interpretation",
+      "relevance": "Modern rüya sözlüğü, \"borç para alma\" imgelerini destek arayışı, kaynak eksikliği ve karşılıklılık temalarıyla ilişkilendirir.",
+      "url": "https://mirrorwithin.com/dream-dictionary/borrowed-money/"
+    },
+    {
+      "title": "Debt in dreams — meaning and symbolism",
+      "relevance": "Ezoterik bir kaynak olarak borç rüyalarını kapanmamış yükümlülükler ve dengesiz enerji alışverişi ekseninde yorumlar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/debt"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "christian"
+  ]
+}

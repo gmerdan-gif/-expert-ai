@@ -1,0 +1,174 @@
+{
+  "slug": "utanmak",
+  "title": "utanmak",
+  "shortDescription": "Rüyada utanmak, açıkta kalma, yargılanma, itibar kaybı ya da mahremiyetin ihlal edilmesi kaygısını yansıtabilir. Bir hata karşısındaki vicdani rahatsızlıkla da ilişkili olabilir.",
+  "positiveAssociations": [
+    "Ahlaki duyarlılık ve vicdani farkındalık",
+    "Sınır ihlallerini sezme ve davranışı düzeltme kapasitesi",
+    "Kendi iç değerleriyle yüzleşebilme olgunluğu",
+    "Kırılganlığı ve insani kusurları kabul edebilme potansiyeli"
+  ],
+  "challengingAssociations": [
+    "Toplumsal önünde açığa çıkma ve yargılanma korkusu",
+    "persona (sosyal maske) ve gölge arasındaki çatışmanın yarattığı içsel gerilim",
+    "Kişisel itibarın zedelenmesine yönelik kaygılar",
+    "Uygunsuzluk ve değersizlik hissi"
+  ],
+  "contextDependentAssociations": [
+    "Çıplaklık veya görünürlük içeren sahnelerde eşlik eden mahcubiyet",
+    "Gündelik uyanık yaşamda duygusal süreklilik veya farklılaşma",
+    "Kişilerarası ilişkilerdeki mahremiyet ve kamusallık sınırları"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kalabalıkta Çıplak Kalmak ve Utanmak",
+      "description": "Tanımadık insanlarla dolu kamusal bir alanda birdenbire kıyafetsiz olduğunun farkına varılması, gizlenme isteği duyulmasına rağmen çevredeki kişilerin duruma kayıtsız kalması."
+    },
+    {
+      "title": "Yanlış Bir Davranış Sonrası Mahcubiyet",
+      "description": "Rüyada sergilenen kusurlu bir eylem veya hata nedeniyle başkalarının bakışları karşısında içsel bir ahlaki rahatsızlık ve vicdani çekinme yaşanması."
+    },
+    {
+      "title": "Özel Sınırların İhlal Edilmesi",
+      "description": "Kişisel mahremiyetin beklenmedik bir şekilde başkaları tarafından görünür kılınması ve buna eşlik eden derin bir açıkta kalma hissi."
+    },
+    {
+      "title": "Toplum Önünde Onurun Zedelenmesi",
+      "description": "Bir topluluk karşısında küçük düşürüldüğünü veya itibar kaybına uğradığını hissederek yoğun bir utanç ve huzursuzluk duyması."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmaları, rüyalarda çok geniş bir duygu repertuvarının var olduğunu ve utancın özellikle çıplaklık veya görünürlük içeren rüya bağlamlarında ortaya çıkabildiğini göstermektedir. Bununla birlikte, rüyadaki utanma duygusu her zaman yoğun bir olumsuzlukla eşleşmez ve tek bir evrensel anlama indirgenemez; rüya duyguları uyanık yaşamın duygusal durumuyla hem süreklilik hem de farklılaşma gösterebilir.",
+  "jungian": "Analitik psikoloji perspektifinden utanç, kişinin dünyaya gösterdiği sosyal maske olan persona ile bilinçdışında tutulan, kabul edilmek istenmeyen gölge yönleri arasındaki çatışmayı temsil edebilir.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik geleneğinde utanç teması, düşüş anlatılarındaki çıplaklığın fark edilmesi, örtünme ihtiyacı ve ilahi huzurda açığa çıkma motifleriyle ilişkilendirilir; bu durum rüya için kesin bir günah yargısı değil, kırılganlık ve suçluluk arasındaki sembolik bir bağ sunar.",
+  "jewishTraditions": "Yahudi etik ve teolojik kaynaklarında mahcubiyet; mahremiyetin, kamusal ve özel sınırların farkına varılması ile başkasını utandırmanın ağır bir ihlal olması bağlamında ele alınır. Rüyadaki utanç, onurun incinmesi, yanlışın fark edilmesi ve ahlaki duyarlılık ekseninde değerlendirilebilir.",
+  "buddhistEasternApproaches": "Budist felsefi çerçevedeki hiri (kendi ahlaki anlayışı karşısında duyulan içsel utanç) ve apatrāpya (başkalarının kınaması veya saygı duyulan kişilerin bakışı karşısındaki mahcubiyet) kavramları üzerinden rüyadaki utanma, vicdani rahatsızlık ve toplumsal yargı kaygısı temalarıyla bağlantılı kurulabilir.",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Görünürlük, çıplaklık ve duygu çeşitliliği bağlamında ortaya çıkan rüya deneyimi; sabit bir anlamı yoktur.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Çocukluk dönemi sergileme arzuları ve rüya sansürüyle ilişkili tipik çıplaklık ve utanma rüyası motifi.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Persona ile ego tarafından dışlanan gölge içeriği arasındaki gerilimin ve çatışmanın simgesel yansıması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Teolojik Sentezi",
+      "interpretation": "Çıplaklık, açığa çıkma, kırılganlık ve örtünme ihtiyacı arasındaki sembolik ilişki.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Etik Çerçevesi",
+      "interpretation": "Mahremiyet sınırlarının algılanması, itibar kaygısı ve ahlaki duyarlılık.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Zihin Kuramı",
+      "interpretation": "İçsel ahlaki değerlendirme, hiri (özsaygı) ve apatrāpya (başkalarının bakışından duyulan çekinme) kavramları.",
+      "evidenceLevel": "traditional"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, utanma sembolünün yalnızca yüzeysel bir rahatsızlık olmadığını; kişinin sınırları, görünürlüğü, toplumsal konumu ve içsel değerleriyle kurduğu bağın bir göstergesi olduğunu kabul eder.",
+  "differences": "Ampirik psikoloji rüyadaki duyguların çeşitliliğine ve bireysel bağlama odaklanırken, psikanaliz ve Jungcu yaklaşım bilinçdışı dinamiklere ve içsel çatışmalara odaklanır; teolojik ve geleneksel yaklaşımlar ise ahlaki sınırları ve toplumsal onur boyutunu öne çıkarır.",
+  "inusAssessment": "Rüyalarda utanma ve mahcubiyet yaşanması, tek tip bir kabus veya evrensel bir uyarı olarak ele alınamaz. Ampirik verilerden psikanalitik ve kültürel çerçevelere kadar uzanan bu sembol, rüya görenin uyanık yaşamındaki görünürlük kaygıları, maske ile öz arasındaki gerilimler ve ahlaki hassasiyetlerle çok yönlü bir ilişki kurar. Rüyayı yorumlarken utancın hangi sahnede, kimlerin önünde ve hangi fiziksel ya da duygusal durum eşliğinde ortaya çıktığı, deneyimin anlamını belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Rüyada utanmak her zaman suçluluk duymak anlamına mı gelir?",
+      "answer": "Hayır. Ampirik çalışmalar utancın her zaman olumsuz bir duyguyla sınırlı olmadığını, bazen yalnızca görünürlük veya çıplaklık bağlamında ortaya çıkabildiğini göstermektedir."
+    },
+    {
+      "question": "Çıplaklık ve utanç rüyaları neden sıklıkla birlikte görülür?",
+      "answer": "Psikanalitik ve ampirik bağlamda çıplaklık, kişinin kendisini savunmasız, açıkta veya korumasız hissettiği durumları simgelediği için mahcubiyet ve saklanma isteğiyle sıklıkla eşlik eder."
+    },
+    {
+      "question": "Rüyadaki utanç duygusu gündelik hayatla doğrudan bağlantılı mıdır?",
+      "answer": "Araştırmalar rüya duyguları ile uyanıklık duyguları arasında hem süreklilik hem de farklılaşma olabileceğini ortaya koyar; bu nedenle doğrudan otomatik bir neden-sonuç ilişkisi kurulamaz."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Being naked in dreams: Analysis of a long dream series",
+      "relevance": "Çıplaklık içeren rüyaların sıklığını ve bu rüyalarda utanma ya da mahcubiyetin eşlik etme oranını inceler; utanma duygusunun belirli bir rüya bağlamında nasıl ortaya çıktığını ele alır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/82663/78547"
+    },
+    {
+      "title": "Relationships between Dream and Previous Wake Emotions ...",
+      "relevance": "Hatırlanan rüyaların duygu çeşitliliğini ve rüya duygularının önceki uyanıklık duygularıyla ilişkisini inceler; rüya duygularının bağlama ve kişisel yaşantıya göre değişebileceği çerçevesini sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601812/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un rüya kuramı içinde çıplaklık, utanma, saklanma isteği, seyircilerin kayıtsızlığı ve çocuklukta sergileme arzusuyla ilişkili tipik rüya tartışmasını sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "jung.org › news › blogOn Betrayal, Shame, Guilt and Remorse by Julie Bondanza, Ph.D.",
+      "relevance": "Utanç, suçluluk, persona ve gölge arasındaki ilişkileri analitik psikoloji çerçevesinde ele alır.",
+      "url": "https://jung.org/news/blog/68/68-On-Betrayal-Shame-Guilt-and-Remorse-by-Julie-Bondanza-PhD"
+    },
+    {
+      "title": "The Jungian Shadow - The Society of Analytical Psychology",
+      "relevance": "persona ve gölge kavramlarını, gölgenin bilinçdışı ve dışlanan kişilik yönleriyle ilişkisini açıklar.",
+      "url": "https://www.thesap.org.uk/articles-on-jungian-psychology-2/about-analysis-and-therapy/the-shadow/"
+    },
+    {
+      "title": "[PDF] A Jungian reading of individuation in The Scarlet Letter",
+      "relevance": "Persona ile gölge arasındaki karşıtlığı ve gölgenin kabul edilmek istenmeyen kişilik özellikleriyle ilişkisini Jungcu kavramlar üzerinden tartışır.",
+      "url": "https://pdfs.semanticscholar.org/3d8e/33ccbc9047598b5a768b93839f12553e2cfb.pdf"
+    },
+    {
+      "title": "The Shadow - International Association of Analytical Psychology",
+      "relevance": "Gölgenin rüyalar aracılığıyla fark edilebileceğini ve utanç ya da suçluluk duygularıyla bağlantısını açıklar.",
+      "url": "https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/the-shadow/"
+    },
+    {
+      "title": "Topical Bible: Nakedness",
+      "relevance": "İncil’de çıplaklık temasının masumiyet, utanç, kırılganlık, suçluluk ve yargılanma ile nasıl ilişkilendirildiğini; özellikle Yaratılış 3:7 bağlamında açıklar.",
+      "url": "https://biblehub.com/topical/n/nakedness.htm"
+    },
+    {
+      "title": "Embarrassment | Texts from the Sefaria Library",
+      "relevance": "Yahudi kaynaklarında mahcubiyetin, utanan ve utandıran kişilerin kimlikleri ile ilişkisel bağlama göre değişen anlamlarını sunar.",
+      "url": "https://www.sefaria.org/topics/embarrassment"
+    },
+    {
+      "title": "\"Do You Know Where You Belong?\": Three Kinds of Shame",
+      "relevance": "Adam ve Havva anlatısı üzerinden utancı mahremiyet, kamusallık, sınırların farkına varılması ve ahlaki ayrımlar bağlamında açıklar.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/398916/jewish/Do-You-Know-Where-You-Belong.htm"
+    },
+    {
+      "title": "Shaming - Negative Commandment 303",
+      "relevance": "Yahudi etik çerçevesinde bir kişiyi utandırmanın ve özellikle azarlama sırasında mahcup etmenin yasaklanmasını açıklar.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/900739/jewish/Negative-Commandment-303.htm"
+    },
+    {
+      "title": "The Implications of Preventing Embarrassment | Yeshivat Har Etzion",
+      "relevance": "Rabbanî etik kaynaklar üzerinden başkasını toplum önünde küçük düşürmenin ağırlığını ve utancın insanî ıstırap boyutunu ele alır.",
+      "url": "https://www.etzion.org.il/en/philosophy/issues-jewish-thought/issues-mussar-and-faith/implications-preventing-embarrassment"
+    },
+    {
+      "title": "Shame and Emotional Turmoil",
+      "relevance": "Talmudik atıflar eşliğinde utancı ahlaki duyarlılık, yanlış yapmayı fark etme ve insanî acı bağlamında açıklar.",
+      "url": "https://www.chabad.org/library/article_cdo/aid/2128088/jewish/Shame-and-Emotional-Turmoil.htm"
+    },
+    {
+      "title": "Malu (Buddhisme)",
+      "relevance": "Budist bağlamda hiri/hrī ve ottappa/apatrāpya kavramlarını; ahlaki utanma, vicdan, kendine saygı ve zararlı davranışlardan kaçınma ilişkisi içinde açıklar.",
+      "url": "https://p2k.stekom.ac.id/ensiklopedia/Malu_(Buddhisme)"
+    },
+    {
+      "title": "The Dichotomized States of Shame in the Scholastic Buddhism",
+      "relevance": "Budist skolastik geleneklerde hrī ve apatrāpya kavramlarını, içsel ahlaki utanç ile başkalarının yargısı veya saygı duyulan kişilerin bakışı karşısındaki utanç arasındaki ayrım üzerinden inceler.",
+      "url": "https://link.springer.com/article/10.1007/s42240-021-00114-1"
+    }
+  ],
+  "relatedSlugs": []
+}

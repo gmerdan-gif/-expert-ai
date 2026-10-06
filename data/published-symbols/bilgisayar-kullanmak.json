@@ -1,0 +1,155 @@
+{
+  "slug": "bilgisayar-kullanmak",
+  "title": "Bilgisayar kullanmak",
+  "shortDescription": "Rüyada bilgisayar kullanmak, bilgi işleme, düşünceleri düzenleme ve bağlantı kurma ihtiyacıyla ilişkilendirilebilir. Bilgisayarın akıcı çalışması zihinsel berraklık ve odağı, yavaşlaması ya da hata vermesi ise zihinsel yoğunluk ve dağınıklığı yansıtabilir.",
+  "positiveAssociations": [
+    "Berraklık",
+    "Zihinsel düzen",
+    "Etkili bilgi paylaşımı",
+    "Odaklanma",
+    "Öğrenme ve bağlantı"
+  ],
+  "challengingAssociations": [
+    "Bilgi gürültüsü",
+    "Zihinsel aşırı yük",
+    "Kontrol kaygısı",
+    "Dağınıklık",
+    "Teknik aksaklık hissi"
+  ],
+  "contextDependentAssociations": [
+    "Ekranın işlevselliği",
+    "Rüya sahibinin uyanık yaşamındaki teknoloji kullanımı",
+    "İşlemin akıcılığı veya yavaşlaması",
+    "Rüya sırasındaki duygusal ton"
+  ],
+  "commonVariations": [
+    {
+      "title": "Hızlı ve akıcı bir şekilde bilgisayar kullanmak",
+      "description": "Zihinsel süreçlerin berrak, işlerin düzenli ve odaklanmanın yüksek olduğu bir dönemi ya da bilginin etkili biçimde yönetilme çabasını simgeler."
+    },
+    {
+      "title": "Aşırı yüklenen veya yavaşlayan bilgisayarla uğraşmak",
+      "description": "Zihinsel yorgunluğu, veri fazlalığını, kararsızlığı veya kontrolü elinde tutma konusundaki içsel gerilimleri yansıtır."
+    },
+    {
+      "title": "Bozulan veya hata veren bilgisayar kullanmak",
+      "description": "Beklenmeyen teknik aksaklıkların, iletişim kopukluklarının ya da zihinsel olarak çözülemeyen karmaşık meselelerin yarattığı tedirginliği gösterir."
+    },
+    {
+      "title": "Yeni bir şey öğrenmek için bilgisayar başında olmak",
+      "description": "Bilgi edinme isteğini, yeni deneyimlere açıklığı ve dış dünyayla kurulan bağlantı kanallarını gözden geçirme arzusunu ifade eder."
+    }
+  ],
+  "psychology": "Ampirik çalışmalarda, gündüz oyun dışı bilgisayar kullanımının rüyalardaki bazı özelliklerle—örneğin bazı katılımcılarda bilinçli rüya veya kontrol oranlarıyla—istatistiksel olarak ilişkili olabileceği görülmüş olsa da, bilgisayar kullanma eyleminin rüyada doğrudan sabit bir sembolik anlam taşıdığına dair bilimsel kanıt bulunmamaktadır. Psikanalitik açıdan ise makine ve aygıt imgeleri, zihinsel işlemlerin kodlanması, dönüştürülmesi ve örtük içeriğin çözümlenme çabasıyla kurulan sınırlı bir benzetim olarak okunabilir.",
+  "jungian": "Analitik psikolojiye göre rüya, bilinçdışındaki fiilî durumun sembolik ve kendiliğinden bir öz-gösterimidir. Bilgisayar kullanmak simgesi sabit bir sözlük anlamıyla ele alınamaz; bunun yerine rüyanın bütünü, kişinin bilinçli tutumu ve bilinçdışı süreçler arasındaki denge arayışı bağlamında kişisel çağrışımlarla araştırılır.",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "Yahudi düşünce geleneğinde doğrudan bir rüya tabiri bulunmamakla birlikte, modern teknoloji ve bilgi devrimi bağlamında yapılan sentezlerde bilgisayar, bilgi paylaşımı, öğrenme, toplulukları birleştirme ve insan potansiyelini artırma kapasitesiyle ilişkilendirilebilir. Bu yaklaşım, teknolojinin yapıcı biçimde kullanılması ve bilginin sorumlulukla aktarılması fikrine dayanır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve çağdaş spiritüel yaklaşımlarda bilgisayar, bilgi akışını düzenleme, bellekteki malzemeyi işleme ve niyet ile dikkati belirli bir alana odaklama aracı olarak ele alınır. Cihazın akıcı çalışması berraklığı simgelerken, aşırı yüklenmesi veya bozulması zihinsel gürültü ve dağınıklık temalarını öne çıkarır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Bilgisayar kullanımı rüya özelliklerini veya bilinçli rüya eğilimlerini etkileyebilir, ancak sabit bir sembolik anlam taşımaz.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Zihinsel işlemlerin, kodlama ve çözümleme süreçlerinin makine imgesi üzerinden sınırlı bir benzetimi olarak okunur.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Yaklaşım",
+      "interpretation": "Bilinçdışının mevcut durumunu yansıtan kendiliğinden bir öz-gösterimdir; kişisel bağlama göre anlam kazanır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Yahudi Düşünce Sentezi",
+      "interpretation": "Bilgiye erişim, öğrenme, topluluk bağlantısı ve sorumlulukla bilgi paylaşımı bağlamında ele alınır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Sembolizm",
+      "interpretation": "Dikkat ve niyetin yöneltildiği, bilgi akışını ve zihinsel düzenlemeyi simgeleyen modern bir araçtır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, bilgisayar kullanma eyleminin zihinsel süreçlerle, bilgi işleme kapasitesiyle ve araçla kurulan ilişki biçimiyle yakın bağlantılı olduğunu vurgular.",
+  "differences": "Ampirik psikoloji istatistiksel ilişkilere odaklanırken, psikanalitik ve Jungcu teoriler içsel süreçlerin simgesel dışavurumunu arar; Yahudi düşüncesi ve spiritüel yaklaşımlar ise modern teknolojinin sunduğu bağlantı ve bilgi akışı metaforları üzerinden yorumlayıcı bir çerçeve kurar.",
+  "inusAssessment": "Rüyada bilgisayar kullanmak, antik kökleri olmayan modern bir simge olması nedeniyle klasik bir rüya sözlüğü karşılığına sahip değildir. Bu sembolün anlamı, ekranın çalışma durumundan ve kullanıcının rüyadaki hissiyatından doğrudan etkilenir. Akıcı bir ekran zihinsel berraklık ve organizasyonu temsil ederken, zorlanan veya hata veren bir sistem zihinsel aşırı yükü ya da bilgi gürültüsünü işaret eder. Dolayısıyla bu rüya, kişinin uyanık yaşamındaki zihinsel odaklanma biçimini ve bilgiyle kurduğu bağı gözden geçirmesi için bir vesile olarak değerlendirilebilir.",
+  "faq": [
+    {
+      "question": "Rüyada bilgisayar kullanmak ne anlama gelir?",
+      "answer": "Bilgisayar kullanmak sabit bir anlama sahip değildir; rüyanın bağlamına bağlı olarak zihinsel düzenleme, bilgi işleme, odaklanma veya zihinsel aşırı yüklenme temalarıyla ilişkilendirilebilir."
+    },
+    {
+      "question": "Bilgisayarın rüyada bozulması veya donması neyi gösterir?",
+      "answer": "Modern spiritüel ve psikolojik yorumlarda yavaşlayan veya bozulan bir bilgisayar, bilgi gürültüsü, zihinsel dağınıklık veya kontrol kaybı gerilimlerini simgeleyebilir."
+    },
+    {
+      "question": "Gündüz bilgisayar kullanımı rüyaları etkiler mi?",
+      "answer": "Yapılan bazı araştırmalar, gün içindeki yoğun bilgisayar kullanımının rüya özellikleri veya lucid rüya kapasitesiyle ilişkili olabileceğini göstermiştir ancak bu durum rüyada görülen eyleme kesin bir tabir atfetmez.' cümlesinde 'ancak' öncesinde virgül eksik; '..., ancak ...' olarak düzeltilmeli."
+    }
+  ],
+  "sources": [
+    {
+      "title": "[PDF] Non-gaming computer use relationship to type of dream",
+      "relevance": "Gündüz oyun dışı bilgisayar kullanımının ardından bildirilen rüyaların lucidlik, kontrol, bizarlık ve olumsuz rüya özellikleriyle ilişkisini inceler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/9409/pdf_75/39666"
+    },
+    {
+      "title": "Dream Machines - Steven Connor",
+      "relevance": "Makine imgelerini psikanalitik tedavi, psikanaliz ve rüya-işleyişinin kodlama ile çözümleme süreçleriyle ilişkilendirir; bilgisayar kullanma imgesine doğrudan değil, sınırlı bir psikanalitik sentez için kavramsal bağlam sağlar.",
+      "url": "http://stevenconnor.com/dream-machines.html"
+    },
+    {
+      "title": "Volume 8: The Structure and Dynamics of the Psyche",
+      "relevance": "Rüyanın bilinçdışındaki durumu sembolik biçimde gösteren niteliğini ve rüya analizinde kişisel bağlamın önemini ele alır.",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-8-structure-dynamics-psyche/"
+    },
+    {
+      "title": "Collected Works of C.G. Jung",
+      "relevance": "Jung’un rüya, sembol, bilinçdışı ve rüya imgelerine ilişkin metinlerini bibliyografik bir çerçevede sunar.",
+      "url": "https://www.amazon.com/Collected-Works-of-C.G.-Jung-27-book-series/dp/B09PHHXJSB"
+    },
+    {
+      "title": "Volume 18: The Symbolic Life",
+      "relevance": "Rüyaları sembolleştirme işlevinin ve bilinçdışı süreçlerin araştırılmasındaki rolünün yanı sıra rüyaların psişik dengeyle ilişkisini açıklar.",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-18-symbolic-life/"
+    },
+    {
+      "title": "Volume 12: Psychology and Alchemy",
+      "relevance": "Rüya malzemesindeki sembolik imgelerin dönüşüm ve bireyleşme süreciyle ilişkisini ele alır.",
+      "url": "https://iaap.org/resources/academic-resources/collected-works-abstracts/volume-12-psychology-alchemy/"
+    },
+    {
+      "title": "The Ultimate Purpose of Technology",
+      "relevance": "Yahudi düşüncesinde bilgisayarlar ve bilgi teknolojisinin yapıcı kullanım, bilgi paylaşımı, insanları güçlendirme ve birleştirme temalarıyla ilişkisini ele alır.",
+      "url": "https://www.chabad.org/therebbe/article_cdo/aid/60700/jewish/Technology.htm"
+    },
+    {
+      "title": "Computer in dreams — meaning and symbolism",
+      "relevance": "Bilgisayarın modern spiritüel sembolizm içinde bilgi alanı, bağlantılar ağı, bellek ve kişinin deneyimleri zihinsel olarak bütünleştirmesiyle ilişkilendirilebileceğini açıklar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/computer"
+    },
+    {
+      "title": "Using A Computer Dream Meaning & Interpretation",
+      "relevance": "Bilgisayar kullanma rüyasını bilgi işleme, bağlantı, kontrol, karar verme ve karmaşık deneyimleri düzenleme temalarıyla ilişkilendirir; ayrıca cihazı niyet ve dikkat için sembolik bir araç olarak ele alır.",
+      "url": "https://mirrorwithin.com/dream-dictionary/using-a-computer/"
+    },
+    {
+      "title": "Computer Dreams: Meaning, Psychology, and Cultural Lenses",
+      "relevance": "Bilgisayarın spiritüel sembolizmde dikkat ve niyetin yöneldiği bir kap, bağlantının ise paylaşım ve içsel sınırların ise mahremiyet teması olarak okunabileceğini belirtir.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/computer"
+    },
+    {
+      "title": "Computer Dream Meaning - Interpret Your Dream!",
+      "relevance": "Bilgisayarı bilgi, zihinsel süreçler, ağ bağlantısı ve veri akışı üzerinden modern spiritüel metaforlarla ilişkilendirir; yavaşlama veya karmaşayı zihinsel yük temasıyla bağlar.",
+      "url": "https://mirrorwithin.com/dream-dictionary/computer/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "psychoanalytic"
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "gelecege-gitmek",
+  "title": "Geleceğe gitmek",
+  "shortDescription": "Rüyada geleceğe gitmek, tamamlanmamış planları, beklentileri ve belirsizlikleri zihinde gözden geçirmeye; yaşam yönünü ve mevcut seçimleri değerlendirme isteğine işaret eder. Rüyadaki huzur ya da kaygı, geleceğe merakla mı yoksa belirsizlik korkusuyla mı baktığınızı yansıtabilir.",
+  "positiveAssociations": [
+    "Olası gelecek senaryolarını önceden simüle etme",
+    "Yakın dönem niyet ve beklentileri gözden geçirme",
+    "Kişisel gelişim için bilinçdışı bir ön taslak oluşturma",
+    "Yaşam yönünü ve mevcut seçimleri değerlendirme arzusu"
+  ],
+  "challengingAssociations": [
+    "Gelecek kaygısı ve belirsizlik korkusu",
+    "Tamamlanmamış planların yarattığı zihinsel baskı",
+    "Hırs veya aşırı beklenti nedeniyle şimdiki anı kaçırma",
+    "Kehanet yanılgısı ve gerçekçi olmayan beklentiler"
+  ],
+  "contextDependentAssociations": [
+    "Uyku öncesi yoğun zihinsel uğraşlar ve niyetler",
+    "Rüyadaki duygusal tonun kaygı ya da merak odaklı olması",
+    "Gidilen geleceğin huzurlu veya karmaşık bir atmosfer içermesi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık bir şehrin gelecekteki halini görmek",
+      "description": "Kişinin yaşadığı yerin yıllar sonraki değişimlerini gözlemlemesi, zamanın akışına ve hayatındaki dönüşüm süreçlerine duyduğu merakı yansıtır."
+    },
+    {
+      "title": "Gelecekteki önemli bir toplantıya veya sınava yetişmeye çalışmak",
+      "description": "Zamanın ilerisinde bir hedefe ulaşma çabası, uyanık yaşamdaki sorumluluklar, baskılar ve geleceğe yönelik hazırlık kaygılarıyla ilişkilidir."
+    },
+    {
+      "title": "Gelecekteki kendisiyle veya yaşlılığıyla karşılaşmak",
+      "description": "Zaman yolculuğu sırasında kendi ilerleyen yaşını görmek, kişinin kendini değerlendirme, olgunlaşma ve geçmiş seçimlerinin sonuçlarıyla yüzleşme isteğini gösterir."
+    },
+    {
+      "title": "Gelecekte teknolojik veya yabancı bir dünyada kaybolmak",
+      "description": "Bilinmeyen bir geleceğe adım atmak, hayatındaki büyük belirsizliklerle baş etme çabasını ve geleceğe yönelik hem umudu hem de modernleşme veya endüstrileşme kaynaklı kaygıları simgeler."
+    }
+  ],
+  "psychology": "Bilişsel ve nörobilimsel literatür, rüyaların geçmiş deneyimlerin parçacıklarını kullanarak olası gelecek senaryolarını simüle edebildiğini gösterir. Uyku öncesinde tamamlanmamış planlar rüya içeriğiyle anlamsal benzerlik gösterebilir; bu durum rüyanın yakın geleceğe dönük niyetleri ve beklentileri işleme kapasitesine işaret eder.",
+  "jungian": "Analitik psikolojiye göre bu tür rüyalar, rüyanın prospektif işlevi çerçevesinde ele alınır. Bilinçdışı, gelecekteki bilinçli gelişimlere ilişkin bir ön taslak veya olası psikolojik yönelimlerin sembolik bir birleşimini sunar; bu durum kesin bir kehanet değil, mevcut potansiyellerin zihinsel bir provasıdır.",
+  "islamicTradition": "İslami rüya tabiri geleneğinde doğrudan geleceğe gitme şeklinde bir sembol karşılığı bulunmamakla birlikte, seyahat motifi genel olarak bir hâlden başka bir hâle geçiş ve değişim arayışı olarak değerlendirilir. Geleceğe ilişkin rüyalar kehanetle özdeşleştirilmez; rüyanın bağlamı ve kişinin manevi durumu göz önünde bulundurulur.",
+  "christianTraditions": "Hristiyan teolojik söyleminde rüyalar bazı bağlamlarda gelecek, uyarı, rehberlik veya ilahi planla ilişkilendirilebilir. Bu bağlamda geleceğe gitme teması, kesin bir kehanet iddiasından ziyade geleceğe yönelik beklenti, kaygı veya rehberlik arayışının bir yansıması olarak okunabilir.",
+  "jewishTraditions": "Talmudik ve rabbanî rüya çerçevesinde rüyalar anlam taşıyabilen ve geleceğe dönük olabilen deneyimler olarak ele alınır. Ancak Yahudi geleneğinde rüyanın anlamı sabit olmayıp, rüyanın kendisi kadar verilen yorumun da süreci şekillendirdiği vurgulanır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel yaklaşımlarda bu tema, kişinin henüz gerçekleşmemiş olasılıklarla, yaşam yönüyle ve mevcut seçimlerinin muhtemel sonuçlarıyla karşılaşmasını temsil eder. Geleceği kesin olarak bilmekten ziyade niyetleri ve olası sonuçları gözden geçirme imgesi olarak yorumlanır.",
+  "comparisonTable": [
+    {
+      "approach": "Bilişsel Nörobilim",
+      "interpretation": "Geçmiş bellek parçalarının olası gelecek olaylarını simüle eden yeni senaryolarda birleştirilmesi.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Bilinçdışında gelecekteki gelişimlere ilişkin olasılıkların önceden biçimlendirilmesi ve prospektif işlev.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek",
+      "interpretation": "Seyahat motifinin bir hâlden diğerine geçiş, değişim arayışı ve bağlama dayalı değerlendirilmesi.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojik Yaklaşım",
+      "interpretation": "Geleceğe yönelik beklenti, kaygı, uyarı veya rehberlik arayışı ekseninde koşullu bir değerlendirme.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Yaşam yönünü, seçimlerin sonuçlarını ve belirsizlikle ilişkiyi gözden geçirme imgesi.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, bu tür rüyaların mutlak bir kehanet sunmaktan ziyade, bireyin şimdiki zamandaki niyetlerinin, kaygılarının ve zihinsel hazırlıklarının bir yansıması olduğu konusunda birleşmektedir.",
+  "differences": "Bilimsel ve psikolojik yaklaşımlar bu durumu hafıza simülasyonu ve prospektif niyetlerle açıklarken, geleneksel ve spiritüel yaklaşımlar manevi arayış, uyarı veya yaşam yönelimi gibi daha geniş bir anlam çerçevesi sunmaktadır.",
+  "inusAssessment": "Rüyada geleceğe gitmek, zaman yolculuğu fantezisinden ziyade zihnin tamamlanmamış niyetleri ve olası senaryoları simüle etme becerisinin bir yansımasıdır. Bu sembolü yorumlarken rüyanın hangi duygusal tonla yaşandığı ve uyanık yaşamdaki hangi planlarla örtüştüğü kritik önem taşır; çünkü rüya, kesin bir kehanetten çok kişinin geleceğe dönük beklentilerini ve kaygılarını gözler önüne serer.",
+  "faq": [
+    {
+      "question": "Rüyada geleceğe gitmek gerçekte geleceği göreceğim anlamına mı gelir?",
+      "answer": "Bilimsel ve analitik çalışmalar, bu tür rüyaların geleceği paranormal biçimde öngörmekten ziyade, zihnin geçmişteki bilgileri ve şimdiki niyetleri kullanarak olası senaryolar üretmesiyle ilgili olduğunu göstermektedir."
+    },
+    {
+      "question": "Bu rüya yarım kalmış planlarımla nasıl bir ilişki taşır?",
+      "answer": "Uyku öncesinde etkin olan ve henüz tamamlanmamış niyetler, rüya içeriğinde olası gelecek simülasyonları olarak kendini gösterebilir; bu durum zihnin hazırlık sürecini yansıtır."
+    },
+    {
+      "question": "Geleceğe gitmek rüyasındaki kaygı hissi neye işaret eder?",
+      "answer": "Rüyadaki kaygı tonu, uyanık yaşamdaki belirsizliklerle baş etme çabasını, geleceğe yönelik baskıları veya henüz netleşmemiş kararların yarattığı zihinsel gerilimi temsil edebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The influence of intentions on dream content - PMC",
+      "relevance": "Uyku öncesindeki tamamlanmamış ve geleceğe dönük niyetlerin rüya içeriğiyle anlamsal ilişkisini deneysel olarak inceler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11697393/"
+    },
+    {
+      "title": "Freud (1900) Chapter 7, part b - Classics in the History of Psychology",
+      "relevance": "Sigmund Freud’un The Interpretation of Dreams içindeki, rüyaların geleceği bildirmesi ile geçmişten kaynaklanan dileklerin geleceğe yönelmiş biçimde temsil edilmesi arasındaki ayrımı ele alan bölümünü sunar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams7b.htm"
+    },
+    {
+      "title": "Carl Gustav Jung on Dreams. Quotations - The Gold Scales",
+      "relevance": "Rüyaların prospektif işlevini, gelecekteki bilinçli gelişimlere ilişkin bilinçdışı bir ön taslak ve olasılıkların birleşimi olarak açıklar.",
+      "url": "http://oaks.nvg.org/jungdreams.html"
+    },
+    {
+      "title": "Dreamwork: Dreams",
+      "relevance": "Jungcu rüya yaklaşımında prospektif işlevi ve rüyaların olası gelecek sonuçlarını sembolik biçimde ortaya koyabilmesini ele alır.",
+      "url": "https://www.truthunity.net/books/russell-heiland-dreamwork-as-taught-by-charles-fillmore-and-carl-jung/dreams"
+    },
+    {
+      "title": "History as dreaming: assembling time*",
+      "relevance": "Orta Çağ Latin rüya düşüncesi ve Avrasya’daki premodern rüya anahtarları bağlamında rüyaların geçmiş, şimdi ve gelecekle ilişkisini; özellikle geleceğe yönelen rüya anlayışını ele alır.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/13642529.2025.2499328"
+    },
+    {
+      "title": "The Natural World | An Ancient Dream Manual: Artemidorus' The ...",
+      "relevance": "Artemidorus’un antik rüya yorumlama kılavuzundaki sembol yorumlama yaklaşımını, geleceğe işaret eden rüyalar fikrini ve yorumda bağlamın rolünü sunar.",
+      "url": "https://academic.oup.com/book/40085/chapter/341037133"
+    },
+    {
+      "title": "travel - tafsir al ahlam ibn sirin",
+      "relevance": "İslami rüya tabiri bağlamında seyahati geçiş, durum değişikliği ve geleceğe dönük değişim arzusu temalarıyla ilişkilendiren bir derleme sunar.",
+      "url": "https://tafsir-al-ahlam.myfreesites.net/travel"
+    },
+    {
+      "title": "The ancient Greek Oneirology and the Muslim Interpretation",
+      "relevance": "Antik Yunan ve İslami rüya yorum geleneklerinde rüyaların gelecekle ilişkisini ve İslami bağlamda Yusuf kıssasının rolünü tarihsel olarak ele alır.",
+      "url": "https://journals.iium.edu.my/jiasia/index.php/jia/article/download/556/260/1649"
+    },
+    {
+      "title": "The ancient Greek Oneirology and the Muslim Interpretation Historical Survey of Two Different Interpretations of Dreams (Oneirologi Purba Yunani dan Interpretasi Islam Dua Kajian Sejarah Interpretasi Mimpi Yang Berbeza Menerokai)",
+      "relevance": "İslami rüya yorumunun tarihsel çerçevesinde peygamberî rüyalar, Yusuf kıssası ve geleceğe ilişkin rüya anlayışını tartışır.",
+      "url": "https://journals.iium.edu.my/jiasia/index.php/jia/article/view/556"
+    },
+    {
+      "title": "Dream Interpretation in Christianity: A Brief History - Kelly Bulkeley",
+      "relevance": "Hristiyanlıkta rüyaların İncil anlatılarındaki ve tarihsel Hristiyan düşüncesindeki rollerini; gelecek, uyarı, yönlendirme ve ilahi vahiy temalarıyla ilişkisini açıklar.",
+      "url": "https://bulkeley.org/dream-interpretation-christianity/"
+    },
+    {
+      "title": "Madness and Prophecy: Dreams, Texts, and the Power of Rabbinic Interpretation",
+      "relevance": "Yahudi rüya yorumunun Berakhot 55a–57b çevresindeki temel meselelerini; rüyaların kehanet, gelecek ve yorum ilişkisini ele alır.",
+      "url": "https://www.academia.edu/247828/Madness_and_Prophecy_Dreams_Texts_and_the_Power_of_Rabbinic_Interpretation"
+    },
+    {
+      "title": "Dreams | Texts from the Sefaria Library",
+      "relevance": "Berakhot ve diğer Yahudi metinleri bağlamında rüyaların anlamı, kehanetle ilişkisi ve yoruma açıklığı hakkında genel çerçeve sunar.",
+      "url": "https://www.sefaria.org/topics/dreams"
+    },
+    {
+      "title": "[PDF] Dream Accounts in the Hebrew Bible and Ancient Jewish Literature",
+      "relevance": "İbrani ve antik Yahudi literatüründe rüya ve vizyonların gelecek, kehanet ve anlatısal mesajlarla ilişkisini tarihsel bağlamda inceler.",
+      "url": "https://ora.ox.ac.uk/objects/uuid:31468460-01e8-4b10-977e-72b954a29fda/files/m094640d42e5594527fcf80f2cc76bc00"
+    },
+    {
+      "title": "Time Travel Dream Meaning & Interpretation - Mirror",
+      "relevance": "Zaman yolculuğu rüyalarını geçmiş, şimdi ve gelecek arasındaki ilişki; yaşam anlatısı, kader, özgür irade ve anlam arayışı bağlamlarında yorumlar. Geleceğe doğru hareketi, rüyanın bağlamına bağlı olarak gelecek olasılıklarını düşünme ve yaşam yönünü değerlendirme temalarıyla ilişkilendirir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/time-travel/"
+    },
+    {
+      "title": "Spiritual Meaning of Time Travel in a Dream | Dream Interpretation",
+      "relevance": "Zaman yolculuğu rüyalarında geleceğe yönelmeyi beklenti, hırs veya gelecek kaygısıyla ilişkilendirir. Bu kaynak, geleceğe gitmek temasının çağdaş spiritüel yorumlardaki olası anlam alanlarını gösterir.",
+      "url": "https://meaninginadream.com/spiritual-meaning-of-time-travel-in-a-dream/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "jungian",
+    "christian"
+  ]
+}

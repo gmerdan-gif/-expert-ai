@@ -1,0 +1,183 @@
+{
+  "slug": "eve-donmek",
+  "title": "eve_donmek",
+  "shortDescription": "Rüyada eve dönmek, aidiyet, güven ve geçmişle ya da köklerle yeniden bağ kurma isteğini yansıtabilir. Sıcak ve tanıdık bir eve varmak huzura işaret ederken, evin boş, değişmiş veya erişilemez olması geçmişle ilişkinin değiştiğini ve bunu kabullenme ihtiyacını öne çıkarabilir.",
+  "positiveAssociations": [
+    "Güvenlik duygusu",
+    "Aidiyet ve kabul",
+    "Sıkıntıların geride kalması",
+    "İçsel bütünlük ve huzur"
+  ],
+  "challengingAssociations": [
+    "Geçmişle yüzleşme",
+    "Ulaşılmazlık veya yabancılaşma",
+    "Eski yüklerin yeniden canlanması",
+    "Değişmiş bir gerçeklikle yüzleşememe"
+  ],
+  "contextDependentAssociations": [
+    "Dönüşün gerçekleştirildiği mekanın durumu",
+    "Rüyayı gören kişinin mevcut yaşam konumu",
+    "Yolculuğun duygusal tonu ve atmosferi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Tanıdık eve sıcak bir dönüş",
+      "description": "Evin sıcaklık ve kabul duygusuyla karşılandığı bu senaryo, içsel uyum ve kişinin kendisiyle yeniden temas kurmasıyla ilişkilendirilir."
+    },
+    {
+      "title": "Değişmiş veya boş eve varış",
+      "description": "Evin boş, erişilemez veya tamamen farklı görünmesi, geçmişle kurulan bağın dönüştüğünü fark etmeyi ve değişimi kabul etmeyi simgeler."
+    },
+    {
+      "title": "Yabancı bir yerden memlekete yöneliş",
+      "description": "Uzak bir coğrafyadan veya yabancı bir ülkeden kendi anavatanına doğru yola çıkma motifi, köklere ve aidiyet duygusuna yeniden bağlanma arzusunu yansıtır."
+    },
+    {
+      "title": "Eski bir eve geri dönme çabası",
+      "description": "Çocukluk evine veya eski bir yaşam alanına dönmeye çalışmak, kişinin kişisel geçmişine, köklerine ve bastırılmış bazı anılarına yönelme ihtiyacını ele alır."
+    }
+  ],
+  "psychology": "Psikanalitik açıdan rüyanın görünen içeriği, örtük rüya düşüncelerinin doğrudan eşdeğeri sayılmaz; anlam kişinin çağrışımları ve rüya bağlamı üzerinden araştırılır. Freudyen yaklaşımda sembolleştirme rüya oluşumunun tek açıklaması olmadığından, eve dönüş rüyası da hazır bir sözlük karşılığına indirgenemez, aksine kişinin ev, geçmiş ve güvenlik deneyimleriyle ilgili serbest çağrışımları izlenerek değerlendirilir.",
+  "jungian": "Jungcu okumada ev, psişenin iç yapısını ve bilinçli yüzeyin ardındaki derin katmanları görünür kılan bir mekân olarak ele alınır. Eve dönmek, nostaljik bir geçmişe dönüşten ziyade kişinin kendi iç yapısına, psişik temellerine ve bilinçdışında kalmış içeriklere yeniden yönelmesini simgeler; evin farklı katları ve bölümleri psişenin katmanlarını temsil edebilir.",
+  "islamicTradition": "Bazı çevrim içi İslami aktarımlarda yolculuktan dönme teması borcun ödenmesi, yükümlülüklerin yerine getirilmesi, sıkıntıların giderilmesi, esenlik ve tövbe ile ilişkilendirilirken, yolcunun eve varması ise depresyon sonrası rahatlama ve dayanağın yeniden kazanılması şeklinde ele alınır; ancak bu aktarımlar klasik eserlerin doğrudan doğrulanmış edisyonlarına dayanmadığından kesin bir rüya tabiri olarak sunulamaz.",
+  "christianTraditions": "Hristiyan teolojik çerçevesinde ve İncil'deki homecoming motifinde eve dönüş; tövbe, bağışlanma, uzlaşma, restorasyon ve Tanrı'ya ya da ruhsal köklere yeniden yöneliş kavramlarıyla ilişkilendirilir; bu okuma kesin bir kehanet değil, teolojik bir tematik sentezdir.",
+  "jewishTraditions": "Yahudi düşüncesindeki teshuvah kavramı \"dönüş\" fikriyle bağdaştırılır ve bu çerçevede eve dönmek imgesi kişinin aslına, güvenlik duygusuna, topluluğa veya dinsel yönelimine geri dönme arzusunu çağrıştırır; ev aynı zamanda ilahî mevcudiyet ve sığınak alanıyla ilişkilendirilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel yorumlarda eve dönmek; aidiyet, köklere bağlanma, bütünlük arayışı ve kişinin kendi öz benliğiyle yeniden temas kurması etrafında açıklanır. Dönüşün huzurla yaşanması içsel uzlaşmayı, evin kapalı veya erişilemez olması ise geçmişle ilişkinin yeniden değerlendirilmesini ve yas sürecini ifade edebilir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Örtük rüya düşüncelerinin, geçmiş yaşantıların ve güvenlik deneyimlerinin kişisel çağrışımlarla araştırılması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Psişenin iç mekânına, katmanlarına ve bilinçdışı temellere yeniden yönelme.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Gelenek (Sınırlı Aktarım)",
+      "interpretation": "Sıkıntıların giderilmesi, borçların ödenmesi ve esenliğe kavuşma temaları.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Hristiyan Teolojisi",
+      "interpretation": "Tövbe, bağışlanma, uzlaşma ve ruhsal restorasyon.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Düşüncesi",
+      "interpretation": "Teshuvah kavramı bağlamında aslına, aidiyete ve güvenlik alanına dönüş.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Aidiyet, köklere yeniden bağlanma ve bütünlük arayışı.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı gelenekler ve yaklaşımlar, eve dönme temasını genel olarak bir uzaklıktan sonra yeniden merkeze yönelme, güvenli bir alana sığınma ve aidiyet arayışı ekseninde buluşturur.",
+  "differences": "Psikanalitik ve Jungcu yaklaşımlar anlamı bireysel psişik katmanlar ve çağrışımlar üzerinden ararken; dini ve teolojik gelenekler tövbe, restorasyon, ilahî düzen veya teshuvah gibi kavramsal çerçevelere odaklanır.",
+  "inusAssessment": "Eve dönmek sembolü, sabit ve evrensel bir sözlük anlamı taşımamakla birlikte; rüyadaki evin fiziksel durumu, rüyayı gören kişinin duygusal tonu ve dönüşün gerçekleşme biçimi açısından derin bir çeşitlilik gösterir. Rüyada evin sıcak ve güvenli bir sığınak olarak mı yoksa değişmiş, erişilemez veya boş bir mekân olarak mı göründüğü, kişinin geçmişiyle, aidiyet duygularıyla ve içsel kökleriyle kurduğu ilişkinin niteliğini doğrudan etkiler. Bu nedenle sembolün anlamı tek bir kalıba indirgenemez; rüyanın özgül atmosferi ve bireyin kendi yaşam bağlamı birlikte ele alınmalıdır.",
+  "faq": [
+    {
+      "question": "Eve dönmek rüyası kesin olarak geçmişe özlem duyduğum anlamına mı gelir?",
+      "answer": "Hayır; rüyada eve dönmek yalnızca nostaljiye işaret etmez. Evin durumuna ve rüyadaki duygulanımına bağlı olarak içsel bir bütünlük arayışı, geçmişteki bir yönle yeniden karşılaşma veya değişimi kabul etme süreçlerini de yansıtabilir."
+    },
+    {
+      "question": "Rüyada evin değişmiş veya tanınmaz halde olması neyi ifade eder?",
+      "answer": "Evin değişmiş, boş veya erişilemez görünmesi, modern spiritüel ve psikolojik okumalarda geçmişle kurulan bağın dönüştüğünü, kaybedilen bir durumun yasını tutmayı veya yeni bir aidiyet biçimi arayışında olmayı simgeleyebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Freud (1900) Chapter 5, part a",
+      "relevance": "Freud’un rüya çalışmasında görünen rüya içeriği, örtük rüya düşünceleri, serbest çağrışım ve yorumlama arasındaki ilişkiyi açıklar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams5a.htm"
+    },
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Freud’un rüya çalışması tartışmasında sembolleştirmenin rüya oluşumundaki statüsünü ve bunun otomatik bir açıklama olarak alınmaması gerektiğini ele alır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "collected_works:cw7 | About Psyche",
+      "relevance": "Ev imgesini psişenin iç yapısı ve bilinçli yüzeyin ardındaki iç mekânla ilişkilendiren Jungcu bir pasaj sunar.",
+      "url": "https://www.aboutpsyche.com/collected_works/cw7"
+    },
+    {
+      "title": "Microsoft Word - wp79.doc",
+      "relevance": "Jung’un katları farklı tarihsel dönemlere açılan ev rüyasını ve bu ev imgesinin psişik yapı ile ilişkilendirilmesini tartışır.",
+      "url": "https://orca.cardiff.ac.uk/id/eprint/78150/1/wrkgpaper-79.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus’un Oneirocritica geleneğinden, yabancı ülkeden memlekete dönüş ve kişinin kendi memleketindeyken aynı motifin ayrılığa yönelmesiyle ilgili pasajlar sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Dreams about return Islamic Interpretations Explanation",
+      "relevance": "Yolculuktan dönme temasını borç, yükümlülük, sıkıntının giderilmesi, zarardan kurtulma, esenlik ve tövbe gibi anlamlarla ilişkilendirir.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=return"
+    },
+    {
+      "title": "home Islamic dream interpretations",
+      "relevance": "Yolcunun eve gelişini sıkıntı sonrasında rahatlama, hastalıktan iyileşme ve dayanağı yeniden kazanma temalarıyla ilişkilendirir.",
+      "url": "https://www.myislamicdream.com/home.html"
+    },
+    {
+      "title": "30 Powerful Bible Verses About Returning Home (With ...",
+      "relevance": "İncil'deki eve dönüş temasını restorasyon, uzlaşma, umut ve Tanrı'ya ruhsal dönüş kavramlarıyla ilişkilendirir.",
+      "url": "https://biblestudyforyou.com/bible-verses-about-returning-home/"
+    },
+    {
+      "title": "Topical Bible: Homecoming",
+      "relevance": "İncil'deki eve dönüş temasını fiziksel ve ruhsal dönüş, tövbe, bağışlanma, uzlaşma ve Tanrı'yla yeniden ilişki kurma bağlamında açıklar.",
+      "url": "https://biblehub.com/topical/h/homecoming.htm"
+    },
+    {
+      "title": "Teshuvah: Returning Home - Sefaria",
+      "relevance": "Teshuvah kavramını dönüş ve eve yöneliş imgeleriyle ilişkilendirir; Yahudi bağlamında eve dönme temasının dinsel-sembolik kullanımını açıklar.",
+      "url": "https://www.sefaria.org/sheets/507918"
+    },
+    {
+      "title": "Home(less) - ADA - Hebrew Union College",
+      "relevance": "Yahudi geleneğinde evin güvenlik ve konukseverlik alanı olarak anlamını; sürgün, Kudüs ve eve dönüş temalarıyla ilişkisini ele alır.",
+      "url": "https://huc.edu/public-programs-events/museums/dr-bernard-heller-museum-in-new-york/exhibition-archive/homeless-ada/"
+    },
+    {
+      "title": "Homes | Texts from the Sefaria Library",
+      "relevance": "Yahudi metinlerinde evin aile, topluluk ve ilahî ikamet fikriyle ilişkilendirildiğini; tapınakların yıkımı ve sürgün bağlamında ev temasının dönüştüğünü gösterir.",
+      "url": "https://www.sefaria.org/topics/homes"
+    },
+    {
+      "title": "The Journey Home | My Jewish Learning",
+      "relevance": "Teshuvah kelimesini dönüş ve eve yolculuk metaforlarıyla açıklar; Yahudi dinsel yaşamında dönüş temasının anlamını işler.",
+      "url": "https://www.myjewishlearning.com/article/the-journey-home/"
+    },
+    {
+      "title": "In Our Dreams - BZBI",
+      "relevance": "Yahudi rüya yorumlama bağlamında Yakup’un eve dönüşle bağlantılı rüya anlatısını ve rüyaların anlamının kişinin bağlamı ile yorumdan etkilenebileceği fikrini ele alır.",
+      "url": "https://bzbi.org/in-our-dreams/"
+    },
+    {
+      "title": "Homecoming: Meaning, Symbolism & What It Leaves Behind",
+      "relevance": "“Eve dönmek” temasını modern spiritüel sembolizm içinde aidiyet, uzlaşma, değişimden sonra geri dönme ve kişinin geçmişteki ya da ihmal edilmiş bir yönüyle yeniden karşılaşması bağlamında ele alır.",
+      "url": "https://mymythos.org/archetype/homecoming/"
+    },
+    {
+      "title": "Homecoming Dream Meaning & Interpretation - Mirror",
+      "relevance": "Eve dönüş rüyalarını aidiyet, köklerle bağlantı, kişisel bütünlük ve kişinin kendisine dönmesi gibi modern spiritüel temalarla ilişkilendirir; dönüşün niteliğinin ve duygusal bağlamın anlamı değiştirebileceğini belirtir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/homecoming/"
+    },
+    {
+      "title": "Arrival in Dreams: Thresholds, Homecomings, and What Your ...",
+      "relevance": "Rüyadaki varış ve eve dönüş imgelerini eşik, kutsal mekâna yönelme, yenilenmiş niyet ve aidiyet arayışı gibi çağdaş spiritüel sembolik temalarla ilişkilendirir.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/arrival"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "slug": "aileden-birini_kaybetmek",
+  "title": "Aileden birini kaybetmek",
+  "shortDescription": "Rüyada aileden birini kaybetmek, o kişiyle ilgili kaygıları, aile ilişkilerindeki değişimleri veya bağımsızlaşma sürecini yansıtabilir. Yoğun keder, kaybetme korkusuna ya da işlenmemiş yasa işaret edebilir; sakin bir sahne ise bir ilişkinin, rolün veya yaşam döneminin değişimini düşündürebilir.",
+  "positiveAssociations": [
+    "Ailevi bağlardaki dinamiklerin sorgulanması ve yeniden anlamlandırılması",
+    "Bireyselleşme sürecinde bağımsızlaşma çabası veya kimlik sınanması",
+    "Geçmiş aile çatışmalarının farkına varılarak işlenme olanağı"
+  ],
+  "challengingAssociations": [
+    "Yoğun kaybetme korkusu (sevilen birini yitirme korkusu)",
+    "Çocukluk rekabetleri veya aile içi çatışmaların yankıları",
+    "Bastırılmış kederin veya çözülmemiş yasın açığa çıkması",
+    "Hayattaki radikal değişimlerin yarattığı belirsizlik stresi"
+  ],
+  "contextDependentAssociations": [
+    "Rüyadaki kişinin kimliği (anne, baba, kardeş, eş vs.)",
+    "Rüyanın duygusal tonu (derin keder, şaşkınlık, soğukkanlılık, çığlık vb.)",
+    "Ölümün nasıl gerçekleştiği ve defin/yaşama dönük ritüellerin varlığı",
+    "Rüya sahibinin uyanık yaşamındaki mevcut kayıp, yas veya ilişki değişimi öyküsü"
+  ],
+  "commonVariations": [
+    {
+      "title": "Kardeşin Ölümünü Görmek",
+      "description": "Kardeşle ilgili çocukluk rekabetleri, kıskançlık dinamikleri veya aralarındaki ilişkinin uzaklaşması ve yeniden tanımlanması süreçlerini çağrıştırabilir."
+    },
+    {
+      "title": "Ebeveynin Ölümü",
+      "description": "Özellikle aynı cinsiyetten ebeveynle olan geçmiş çatışmaları, otorite ilişkileri ve bireyselleşme çabalarına dair içsel hesaplaşmaları yansıtabilir."
+    },
+    {
+      "title": "Ağlayarak Aile Üyesi Kaybetmek",
+      "description": "Rüya içinde yoğun yas tepkileri varsa bu, uyanık yaşamda işlenmemiş kederin veya yakın geçmişteki bir kaybın rüya düzlemine yansıması olabilir."
+    },
+    {
+      "title": "Sakin, Tepkisiz Bir Ölüm Sahnesi",
+      "description": "Duygulanımın düşük olduğu bir sahne, sembolik olarak eski bir yaşam biçiminin, ilişkinin ya da benlik tutumunun sonunu ve geçişi işaret edebilir."
+    }
+  ],
+  "psychology": "Ampirik çalışmalar, aile üyelerinin rüyalarda sık görülmesinin özellikle komplike yas, travma sonrası süreçler, bağlılık ve 'devam eden bağlar' ile ilişkili olduğunu göstermektedir; ancak bu bulgular rüyanın gerçek hayatta bir ölümü kehanet ettiğini desteklemez. Psikanalitik literatürde (Freud) rüyanın duygulanımı belirleyici kabul edilir: yoğun keder varsa çocukluk dönemi çatışmalarıyla ilişkili örtük içerikler; duygulanım yoksa içeriğin başka bir arzuyu örtebileceği öne sürülür.",
+  "jungian": "Jungcu çerçevelerde (von Franz aktarımları) ölüm imgeleri yolculuk, eşik, dönüşüm ve eski ego tutumlarının sona ermesi bağlamında değerlendirilir. Aileden birinin kaybı sembolü, kişilik düzeninde veya ilişki biçiminde bir değişimin göstergesi olarak ele alınabilir; bu yaklaşım olayın sembolik yönünü vurgular, kehanet iddiasında bulunmaz.",
+  "islamicTradition": "Geleneksel İslami rüya yorumlarında ölüm imgesi her zaman harfî biçimde okunmaz; tövbe, durum değişimi veya yaşam koşullarındaki dönüşüm gibi anlamlar olasıdır. İbn Sîrîn ve el‑Nablusî’ye atfedilen metinler, rüyanın ağlama, defin ve ölüm biçimi gibi ayrıntılarına göre farklı yorumlar yapar; dolayısıyla tek ve sabit bir anlam çıkarmamak gerekir.",
+  "christianTraditions": "Hristiyan gelenekte böyle rüyalar, doğrudan bildiri yerine kayıp korkusu, yas ve teselli arayışını yansıtabilir. İncilsel anlatılardaki yas motifleri, rüyanın duygusal tonunun yorumda belirleyici olduğunu gösterir; rüyanın teolojik veya kehanetsel bir kesinlik sağlamadığını belirtmek gerekir.",
+  "jewishTraditions": "Rabbanî kaynaklarda (ör. Berakhot pasajları) ölü veya ceset imgeleri bağlama göre farklı biçimlerde ele alınır: ev içi barış biçiminde olumlu okumalar ya da eşya götürme gibi olumsuz işaretlemeler görülebilir. Yorumda rüyanın ayrıntıları, sahibinin durumu ve olumlu yönlendirme uygulamaları önemlidir.",
+  "buddhistEasternApproaches": "Budist perspektifte ölüm teması anicca (geçicilik) öğretisini hatırlatır; rüya, bağlanma, şefkat ve yas dinamiklerini gözden geçirmek için bir içerik sunabilir. Bu çerçeve sembolik ve öğretici olup olayın gelecekteki gerçekliğini öngörmez.",
+  "spiritualApproaches": "",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Yas, travma, bağlılık ve duyguyu düzenleme süreçlerinin rüya içeriğine yansıması.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz (Freudcu)",
+      "interpretation": "Rüyanın duygulanımına göre çocukluk çatışmaları veya örtük arzularla bağlantılı tipik rüyalar olarak okunması.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analitik Psikoloji",
+      "interpretation": "Geçiş, dönüşüm, eski ego tutumlarının sona ermesi ve simgesel yeniden doğuş temaları.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Klasik Geleneksel Yorumlar",
+      "interpretation": "Ağlama, defin ve kaybedilen kişinin kimliğine bağlı olarak yaşam koşullarında değişim veya ilişki dönüşümleri.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist Yaklaşım",
+      "interpretation": "Geçicilik bilinci, bağlanma ve şefkat pratiği bağlamında rüyanın öğretici yönü.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çoğu disiplin ve gelenekte bu sembolün tek ve mutlak bir kehanet olarak ele alınmadığı; rüya sahibinin ilişkisel bağları, duygulanımı ve yaşam koşullarının yorumu ile anlam kazandığı ortak kabulüdür.",
+  "differences": "Ampirik araştırmalar rüyayı yas ve travma işleme bağlarken; psikanaliz geçmiş çatışmalara vurgu yapar. Jungcu okumalar dönüşüm ve eşik motiflerini öne çıkarır. Geleneksel dinsel yaklaşımlar ise rüyanın biçimsel ayrıntılarına (ağlama, defin vb.) dayanarak farklı, çoğu zaman kültüre özgü yorumlar sunar.",
+  "inusAssessment": "Aileden birini kaybetme rüyasında yorumun merkezinde aile figürüyle kurulan bağ ve rüyadaki kayıp duygusu vardır. Yoğun yas ve korku, gerçek bir kayıp endişesi veya bağlanma kaygısıyla ilişkili olabilir; daha sakin ya da duygudan arınmış sahneler ise aile içindeki bir rolün, ilişkinin veya yaşam döneminin değişimini düşündürebilir. Bu nedenle kimin kaybedildiği, rüyadaki duygulanım ve kişinin güncel aile ilişkileri birlikte değerlendirilmelidir.",
+  "faq": [
+    {
+      "question": "Aileden birini rüyada kaybetmek gerçek hayatta o kişinin öleceği anlamına mı gelir?",
+      "answer": "Hayır. Mevcut kanıtlar bu rüyanın genellikle içsel süreçlerle, yas ya da ilişki değişiklikleriyle ilişkili olduğunu; kesin bir gelecek habercisi olmadığını gösterir."
+    },
+    {
+      "question": "Bu rüya neden sıkça anne, baba veya kardeş gibi yakınlar üzerinden görülür?",
+      "answer": "Yakın aile üyeleri kimlik, bağlılık ve aidiyet süreçlerinde merkezî rol oynar; bilinçdışı bu köklü ilişki ağına dair kaygı, çatışma veya geçişleri bu kişiler aracılığıyla sembolize edebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dream Content in Complicated Grief: A Window into Loss-Related ...",
+      "relevance": "Komplike yas yaşayanların rüyalarında aile figürlerinin ve ölen kişilerin nasıl yer aldığını inceleyerek kayıp temalarının rüya içeriğiyle ilişkisini gösterir.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3929213/"
+    },
+    {
+      "title": "[PDF] The death of a family member (brother) reflected in a long dream ...",
+      "relevance": "Gerçek bir kardeş kaybını izleyen uzun süreli rüya kayıtları, kardeş ve ölüm temasının zaman içinde nasıl değiştiğini belgeleyerek sembole bağlamsal bir yer sağlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/112280/109150/288747"
+    },
+    {
+      "title": "Relations to Grief, Trauma, Attachment, Continuing Bonds, and Post ...",
+      "relevance": "Ölen kişilerle ilgili rüyaların yas, bağlanma ve duyguyu düzenleme işlevleriyle ilişkisini içerik analiziyle açıklar.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32036745/"
+    },
+    {
+      "title": "Cultural Context and the Central Role of Dreams of the Dead",
+      "relevance": "Ölen kişilerin rüyalarda görülme sıklığı ve içeriklerinin kültürel ve klinik yas bağlamında sınıflandırılmasını sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3759644/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud, aile üyesinin ölümüyle ilgili rüyaları \"tipik rüya\" çerçevesinde ele alır ve yorumunda rüyaya eşlik eden duygulanımın önemini tartışır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "The Way of the Dream by Marie-Louise von Franz: Summary",
+      "relevance": "Von Franz aktarımları üzerinden ölüm imgelerinin yolculuk, dönüşüm ve bilinçdışı hazırlık bağlamında okunabileceğine dair Jungcu perspektifi özetler.",
+      "url": "https://mirrorwithin.org/encyclopedia/way-of-the-dream-marie-louise-von-franz/"
+    },
+    {
+      "title": "Marie-Louise von Franz: Dreams of a Lifetime",
+      "relevance": "Ölüm rüyalarında yolculuk, karanlık geçit, yeniden doğuş, dönüşüm ve ölüm olgusuyla yüzleşme motiflerini aktarır.",
+      "url": "https://carljungdepthpsychologysite.blog/2023/04/08/dreams-17/"
+    },
+    {
+      "title": "1. Marie-Louise von Franz: The Living Symbol",
+      "relevance": "Rüyalardaki ölüm imgesini eski ego tutumunun sona ermesi ve radikal değişim temasıyla ilişkilendiren bir von Franz aktarımı sunar.",
+      "url": "https://carljungdepthpsychologysite.blog/2023/03/26/symbol-10/"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus'un Oneirocritica çevirisi, aile ilişkileri ve ölüm imgelerinin bağlama göre nasıl farklı anlamlar taşıyabileceğine dair tarihî bir çerçeve sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "tafsiralholm.com · enIslamic Dream Interpretation — Ibn Sirin, Al-Nabulsi & Ibn...",
+      "relevance": "Ölüm rüyalarının İslami yorum geleneğinde dönüşüm, tövbe ve hayat durumundaki değişimlerle ilişkilendirilmesini; İbn Sîrîn ve el-Nablusî’ye atfedilen genel çerçeveyi ele alır.",
+      "url": "https://tafsiralholm.com/en/"
+    },
+    {
+      "title": "tafsiralholm.com · en · dream-interpretationSeeing Death in a Dream — Complete Guide",
+      "relevance": "Rüyada ölüm temasının ağlama, çığlık, defin ve ölüm biçimi gibi bağlamsal unsurlara göre farklılaştırıldığı geleneksel yorumları özetler.",
+      "url": "https://tafsiralholm.com/en/dream-interpretation/death/"
+    },
+    {
+      "title": "www.muslimdreams.com · blog · dream-of-death-islamDream of Death in Islam – Meaning & Interpretation",
+      "relevance": "Aile üyelerinin veya eşin rüyada ölümü her zaman harfî olarak okunmaz; bunun yerine değişim, ilişki dönüşümü veya uzun ömür gibi farklı yorum alanları vardır.",
+      "url": "https://www.muslimdreams.com/blog/dream-of-death-islam-meaning-interpretation"
+    },
+    {
+      "title": "IBN SEERiN'S",
+      "relevance": "İbn Sîrîn'e atfedilen geleneksel rüya sözlüğü maddeleri üzerinden ölüm imgelerinin ağlama, defin ve kaybedilen kişinin kimliğine göre çeşitlendiğini gösterir.",
+      "url": "https://data.nur.nu/Kutub/English/IbnSirin_dictionary_of_dreams.pdf"
+    },
+    {
+      "title": "Dreams about someone dying weeping Islamic Interpretations ...",
+      "relevance": "Ölüm rüyalarında ağlama, ağıt ve diğer yas unsurlarının bulunmasına göre farklı yorumların aktarıldığı bir geleneksel sözlük maddesini sunar.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=someone+dying+weeping"
+    },
+    {
+      "title": "Topical Bible: Symbolism of Mourning",
+      "relevance": "İncil'de yasın ölüm, kayıp, tövbe ve ilahi teselliyle ilişkili sembolik ve anlatısal boyutlarını; aileden birini kaybetme temasına bağlanabilecek yas örnekleriyle birlikte ele alır.",
+      "url": "https://biblehub.com/topical/s/symbolism_of_mourning.htm"
+    },
+    {
+      "title": "Select Your Language",
+      "relevance": "Yakın aile üyesinin ölümünden sonra yaşanan yoğun yasın İncilsel bağlamını ve Hristiyan umut diliyle birlikte nasıl ifade edildiğini açıklar.",
+      "url": "https://www.jw.org/en/library/magazines/g20010708/Is-It-Wrong-to-Mourn/"
+    },
+    {
+      "title": "The Story of Mourning Customs",
+      "relevance": "İncil'deki yas uygulamalarını, aile kaybı anlatılarını ve Hristiyan bağlamında yasın teselli ve diriliş umuduyla ilişkilendirilmesini aktarır.",
+      "url": "https://www.wisdomlib.org/christianity/book/a-dictionary-of-the-bible-hastings/d/doc1568681.html"
+    },
+    {
+      "title": "Berakhot 57.b - Steinsaltz Center",
+      "relevance": "Talmudik Berakhot pasajı bağlamında ceset/ölüm imgelerinin ev içi durumlarla ve rüya yorumlama pratiğiyle nasıl ilişkilendirildiğini aktarır.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Berakhot 55b:21",
+      "relevance": "Berakhot 55b’de rüyaların yorumlanması ve bazı rüyaların gerçekleşmesiyle ilgili rabbanî çerçeveyi sunar.",
+      "url": "https://www.sefaria.org/Berakhot.55b.21?lang=en&with=all&lang2=en"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57 - Halakhah.com",
+      "relevance": "Berakhot 57’de ceset, ev, ev eşyaları ve ölüm imgesinin rabbanî rüya yorumundaki ilişkisini aktarır.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Family Member Dying Dream Meaning & Interpretation",
+      "relevance": "Aileden birinin ölümünü rüyada görme temasını Budist bağlamda geçicilik (anicca), bağlanma ve şefkat kavramlarıyla ilişkilendirir.",
+      "url": "https://mirrorwithin.com/dream-dictionary/family-member-dying/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic",
+    "buddhist-eastern"
+  ]
+}

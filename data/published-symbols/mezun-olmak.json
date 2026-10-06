@@ -1,0 +1,165 @@
+{
+  "slug": "mezun-olmak",
+  "title": "Mezun olmak",
+  "shortDescription": "Rüyada mezun olmak, bir dönemin tamamlanıp yeni sorumluluklara geçmeye hazır olmayı simgeler. Başarı ve coşku bu hazırlığı yansıtırken, geç kalmak ya da başarısız olmak değerlendirilme baskısı ve yetersizlik kaygısına işaret edebilir.",
+  "positiveAssociations": [
+    "Tamamlanma ve başarı",
+    "Yeni bir sorumluluk veya role hazır oluş",
+    "Kişisel gelişim döneminin tanınması",
+    "Rahatlama ve içsel denge"
+  ],
+  "challengingAssociations": [
+    "Geçişle ilgili gerilim ve baskı",
+    "Yetmezlik veya değerlendirilme korkusu",
+    "Eski bir durumun sona ermesinin yarattığı belirsizlik",
+    "Hazırlıksızlık hissi"
+  ],
+  "contextDependentAssociations": [
+    "Akademik yaşam ile rüya deneyimi arasındaki süreklilik",
+    "Gerçek hayattaki sorumluluklar ve yaklaşan eşikler",
+    "Rüyadaki başarısızlık veya gecikme detayları"
+  ],
+  "commonVariations": [
+    {
+      "title": "Törende cübbe giyip diploma almak",
+      "description": "Kişinin uyanık yaşamındaki bir çabanın ya da hazırlık döneminin belirgin biçimde tanınmasını ve yeni bir sosyal rolün kabulünü simgeleyebilir."
+    },
+    {
+      "title": "Sınavı yeniden almak veya başarısız olmak",
+      "description": "Başarıya ulaşılmış olmasına rağmen kişinin sorumluluklar karşısında kendini değerlendirilme veya yetersizlik baskısı altında hissettiğini gösterir."
+    },
+    {
+      "title": "Mezuniyet törenine geç kalmak",
+      "description": "Yeni bir döneme geçişte yaşanabilecek zaman baskısını, hazırlıksızlık kaygısını ya da önemli bir eşiği kaçırma korkusunu yansıtır."
+    },
+    {
+      "title": "Okuldan veya kampüsten ayrılırken hüzün duymak",
+      "description": "Tanıdık bir yaşam evresinin kapanışını, geride bırakılan rollerle vedalaşmayı ve kaçınılmaz değişimin getirdiği duygusal geçişi ifade eder."
+    }
+  ],
+  "psychology": "Ampirik araştırmalar, çalışmalarla ilgili rüyaların lisans mezuniyetinden sonra da belirli bir sıklıkla sürdüğünü ve rüya yoğunluğunun akademik sınav performansıyla istatistiksel olarak ilişki gösterebildiğini ortaya koymaktadır.",
+  "jungian": "Analitik psikoloji açısından mezun olma imgesi, tek bir sembol sözlüğü karşılığı olmaktan ziyade yaşam dönemleri arasındaki geçişleri ve dönüşümleri incelemek için uygun bir simgedir.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik sentezinde mezuniyet, doğrudan bir rüya doktrini olmamakla birlikte bilgelik, büyüme, olgunlaşma ve öğrenilmiş olanı sorumlulukla hayata geçirme temalarıyla ilişkilendirilebilir.",
+  "jewishTraditions": "Rabbanî rüya çerçevesinde rüyaların sabit işaretler olmadığı ve yorumla anlam kazandığı vurgulanır. Bilgi ve öğrenme süreciyle kurulan bağlamda mezuniyet, öğrenme döngüsünün bir aşamasının tamamlanması ve yeni bir eşiğe varılması olarak düşünülebilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel yaklaşımlarda mezuniyet rüyası, bir hazırlık döneminin kapanışını ve kişinin birikimini yeni bir yaşam evresine taşıdığı ruhsal bir dönüm noktasını simgeler.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Akademik temaların ve rüya yoğunluğunun uyanık yaşamla ilişkisini ve mezuniyet sonrasındaki devamlılığını inceler.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Geçmiş sınav deneyimlerini, yeterlilik değerlendirmesini ve sorumluluk karşısındaki kaygıları ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Analitik Psikoloji (Jung)",
+      "interpretation": "Bilinçdışı dengelemeyi, yaşam geçişlerini, dönüşümü ve yeni bir psikolojik konuma geçiş eşiğini araştırır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Teolojik ve Yorumlayıcı Sentez",
+      "interpretation": "Tamamlanma, olgunlaşma ve öğrenilenleri sorumlulukla hayata geçirme temalarıyla ilişkilendirir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel ve Sembolik Yaklaşım",
+      "interpretation": "Bir dönemin kapanışını, kişisel gelişimin tanınmasını ve yeni bir yaşam evresine yönelmeyi simgeler.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, mezuniyet imgesini tek seferlik dışsal bir başarı göstergesinden öte, bireyin hayatındaki bir dönemin kapanması ve yeni bir sorumluluk alanına adım atmasıyla bağdaştırır.",
+  "differences": "Ampirik psikoloji rüya sıklığı ile uyanık yaşam arasındaki sürekliliğe odaklanırken, psikanalitik ve analitik teoriler değerlendirilme kaygısı, içsel dönüşüm ve psikolojik konum değişimi gibi katmanları öne çıkarır.",
+  "inusAssessment": "Mezun olma rüyası, basit bir başarı belgesinin ötesinde, bireyin geride bıraktığı roller ile önündeki sorumluluklar arasında kurduğu içsel dengeyi yansıtır. Rüyadaki coşku veya başarı hissi yeni bir konuma hazır oluşu işaret edebilirken; törene yetişememe ya da sınavı yeniden alma gibi kaygılı detaylar, kişinin hâlen kendisini değerlendirilme veya yetersizlik baskısı altında hissettiğini gösterir. Bu nedenle rüyanın anlamı, törenin ihtişamından çok kişinin uyanık yaşamda taşıdığı sorumluluklar ve geçiş baskısıyla olan ilişkisinde gizlidir.",
+  "faq": [
+    {
+      "question": "Mezun olduktan yıllar sonra bile neden hâlâ okul veya mezuniyet rüyaları görürüm?",
+      "answer": "Araştırmalar, çalışmalarla ilgili rüya içeriklerinin mezuniyet sonrasında da azalarak da olsa devam edebildiğini göstermektedir. Bu durum, akademik yaşamın ve sınav deneyimlerinin zihinsel bellekteki kalıcılığıyla ve uyanık yaşamdaki sorumluluk temalarıyla ilişkilendirilir."
+    },
+    {
+      "question": "Rüyada mezuniyette başarısız olmak veya cübbe bulamamak ne anlama gelir?",
+      "answer": "Bu tür detaylar genellikle yaklaşan sorumluluklar karşısında duyulan yetersizlik korkusunu, değerlendirilme baskısını ya da geçmişteki sınav deneyimlerinin yeniden etkinleşmesini yansıtır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "International Journal of Dream Research Volume XX, No. X (2025)",
+      "relevance": "Çalışmalarla ilgili rüya temalarının sıklığını ve mezuniyet sonrasındaki değişimini ele alır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/libraryFiles/downloadPublic/843"
+    },
+    {
+      "title": "Dream content analytic scale for measuring studies-related ...",
+      "relevance": "Çalışmalarla ilgili rüya içeriğini ölçmek için geliştirilen ölçeğin kapsamını ve rüya dizisindeki konu sıklığı bulgularını açıklar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/110481/109146/288743"
+    },
+    {
+      "title": "Dream content analytic scale for measuring studies-related topics: Reliability and validity",
+      "relevance": "Çalışmalarla ilgili rüyaların uyanık yaşam ve mezuniyet sonrasındaki devamlılığıyla ilişkisini tartışır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/110481"
+    },
+    {
+      "title": "Can students’ dream experiences reflect their performance in public examinations?",
+      "relevance": "Öğrencilerin rüya deneyiminin yoğunluğu ile akademik sınav performansı arasındaki istatistiksel ilişkileri inceler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/20464"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "un tipik sınav rüyaları üzerine tartışması; daha önce geçilmiş sınavın yeniden alınması, yaklaşan sorumluluk karşısında başarısızlık korkusu, geçmiş cezalandırılma deneyimleri, teselli ve öz-eleştiri temalarını ele alır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Jung on the Nature and Interpretation of Dreams - PMC",
+      "relevance": "Jung’un rüya teorisini, rüyaların bilinçli yaşamla ilişkisini, telafi edici işlevini ve bilinçdışı içeriklerin ifadesini açıklar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4217604/"
+    },
+    {
+      "title": "Carl Jung on “Recurring Dreams” and “Retrogressive Birth.",
+      "relevance": "Jung’un rüya seminerlerinden aktarılan dönüşüm, bilinçdışına iniş ve yaşam geçişleriyle ilgili pasajları sunar.",
+      "url": "https://carljungdepthpsychologysite.blog/2024/07/20/dreams-14/"
+    },
+    {
+      "title": "The Collected Works of C. G. Jung, Vol. 12: Psychology and Alchemy",
+      "relevance": "Jung’un sembol oluşumunu, simyasal dönüşüm temasını ve modern rüya dizileriyle ilişkisini ele alan çalışmasının bibliyografik kaydını sunar.",
+      "url": "https://www.abebooks.com/9780691097718/Collected-Works-Jung-Vol-Psychology-0691097712/plp"
+    },
+    {
+      "title": "Topical Bible: Graduation",
+      "relevance": "Mezuniyet kavramının İncil’de doğrudan yer almadığını; buna karşılık bilgelik, büyüme, olgunluk ve yeni bir yaşam aşamasına geçiş temalarıyla ilişkilendirilebileceğini açıklar.",
+      "url": "https://biblehub.com/topical/g/graduation.htm"
+    },
+    {
+      "title": "Berakhot 55b with Translations",
+      "relevance": "Berakhot 55b, rüyaların yorumlanması ve yorumun rüyanın anlamıyla ilişkisi hakkında Rabbanî pasajlar sunar.",
+      "url": "https://www.sefaria.org/Berakhot.55b/?ven=english%7CWilliam_Davidson_Edition_-_English&vside=Talmud_Bavli._German_trans._by_Lazarus_Goldschmidt,_1929_[de]&with=Translations"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57 - Halakhah.com",
+      "relevance": "Berakhot’un rüya yorumları bölümünde bazı rüya imgeleri bilgi, anlayış ve Torah öğrenimiyle ilişkilendirilir; mezuniyet sembolü için doğrudan bir kayıt sunmaz.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Dream Of Graduation: Spiritual And Biblical Meaning Of Gown ...",
+      "relevance": "Mezun olma rüyasını bir gelişim döneminin tamamlanması, ruhsal hazırlık ve yeni bir döneme geçiş temalarıyla ilişkilendirir.",
+      "url": "https://thesoultext.com/dream-of-graduation/"
+    },
+    {
+      "title": "Graduation Dream Meaning & Interpretation - Mirror",
+      "relevance": "Mezuniyet imgesini yaşamda önemli bir aşamanın kapanması, kişisel gelişim ve yeni başlangıç beklentisiyle ilişkilendirir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/graduation/"
+    },
+    {
+      "title": "Dreaming of Graduating: Symbols of Achievement and New ...",
+      "relevance": "Mezuniyet rüyasını bir dönüm noktası ve kişinin önceki sınırlarının ötesine geçişini ifade eden sembolik bir imge olarak ele alır.",
+      "url": "https://nightomen.com/dreaming-of-graduating-symbolism-of-achievement-and-life-transitions/"
+    },
+    {
+      "title": "Graduation Dream Meaning: Thresholds, Pressure, and Personal ...",
+      "relevance": "Mezuniyet törenini değişime biçim veren bir geçiş ritüeli ve görünmeyen gelişimin sembolik olarak tanınması çerçevesinde açıklar.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/graduation"
+    }
+  ],
+  "relatedSlugs": []
+}

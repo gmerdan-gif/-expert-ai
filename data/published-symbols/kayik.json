@@ -1,0 +1,196 @@
+{
+  "slug": "kayik",
+  "title": "kayik",
+  "shortDescription": "Rüyada kayık görmek, genellikle kısa bir geçişi ve kendi başına üstlenilen sorumlulukları çağrıştırır. Sakin suda sağlam bir kayık güven verirken; dalgalı su, batma riski veya yalnızlık belirsizlik ve kontrolü kaybetme kaygısını öne çıkarabilir.",
+  "positiveAssociations": [
+    "Bireysel veya yakın ölçekli bir geçişi simgeleme (kendi başına bir yerden başka bir yere varma)",
+    "Küçük ölçekli özyönetim, öz-yeterlik ve sorumluluk hissi",
+    "Bazı geleneklerde küçük bir teknede oturmanın iyi ün ya da itibarla ilişkilendirildiğine dair yorumlar vardır (bu yorumlar kaynaklara ve koşullara göre değişir)."
+  ],
+  "challengingAssociations": [
+    "Dalgalı sularda kontrolü yitirme veya yalnız kalma kaygısı",
+    "Kayığın sınırlı kapasitesinin sınandığı durumlarda çaresizlik veya üstesinden gelememe hissi",
+    "Kayığın batması, suya gömülme veya yönünü kaybetme gibi tehlikeli senaryoların getirdiği belirsizlik"
+  ],
+  "contextDependentAssociations": [
+    "Kayığın boyutu (ör. küçük bir kayık veya daha büyük bir tekne) — ölçeğin sosyal etkilerini değiştirebilir; buna dikkat edilmelidir.",
+    "Suyun durumu (sakin, dalgalı, fırtınalı) — güvenlik ve yorumsal ton üzerinde belirleyicidir.",
+    "Kayıkta yalnız mı yoksa başkalarıyla mı olunduğu — bireysel ve ortak dinamikleri değiştirir."
+  ],
+  "commonVariations": [
+    {
+      "title": "Sakin Suda Balıkçı Kayığı",
+      "description": "Durgun bir su yüzeyinde tek başına bir balıkçı kayığında olmak; küçük ölçekli ekonomik uğraşlar, günlük düzen ve göreli bir dinginlik duygusuna işaret edebilir. Bazı modern kaynaklar balıkçı teknesini rızıkla ilişkilendirir; bu ilişkinin klasik kaynaklarda açıkça doğrulanıp doğrulanmadığı tartışmalıdır."
+    },
+    {
+      "title": "Dalgalı Denizde Küçük Kayık",
+      "description": "Büyük dalgalar arasında küçük bir kayıkta oturmak; kayığın sınırlı kapasitesi nedeniyle dışsal baskıların kişisel sınavlara dönüşebileceğini ve itibar, dayanıklılık ya da yalnızlıkla ilgili kaygıların öne çıkabileceğini düşündürebilir."
+    },
+    {
+      "title": "Güvenle Kıyıya Yanaşan Kayık",
+      "description": "Çalkantılı sudan sonra kayığın güvenle kıyıya yanaşması; kısa vadeli bir dönemin sonlanması ve geçici bir ferahlama hissi iması olabilir. Bu yorumlar geleneklere göre farklı biçimlerde ifade edilir ve kesinlik taşımaz."
+    },
+    {
+      "title": "Geçit Kayığı ile Karşıya Geçmek",
+      "description": "Bir geçit kayığıyla bir kıyıdan diğerine taşındığını görmek; yaşamın dönüm noktalarında dışsal yardım veya destek algısını çağrıştırabilir. Bazı modern yorumlarda bu durum ilahî yardım veya merhamet ile ilişkilendirilir; klasik metinlerle birebir tutarlılığı sınırlı olabilir."
+    }
+  ],
+  "psychology": "Kayık sembolünü doğrudan inceleyen doğrulanmış ampirik psikoloji çalışması bulunmamaktadır. Psikanalitik literatürde (Freud) suyla ilişkili rüyalar bazen doğum/rahim imgeleri bağlamında ele alınır; kayık bu çerçevede yalnızca suya bağlı motifler üzerinden sınırlı bir analitik okuma zemini sağlar. Genel olarak rüyanın bağlamı, duygusal tonu ve kayığın işlevi yorumu belirler; tek başına kayık görüntüsü evrensel psikolojik anlam çıkarımı için yeterli değildir.",
+  "jungian": "",
+  "islamicTradition": "Bazı modern kaynaklar \"balıkçı kayığı\"nı rızıkla, \"geçit kayığı\"nı ilahî lütufla ilişkilendirir; ancak bu atıfların klasik metinlerde doğrudan ve açıkça desteklenip desteklenmediği geniş biçimde gösterilmemiştir. Bu nedenle İslami okumalar bu bağlantılara temkinli yaklaşmalıdır.",
+  "christianTraditions": "Hristiyan gelenekte İncil anlatıları (İsa’nın öğrencileriyle teknede olduğu ve fırtınayı dindirdiği öykü gibi) tekne imgelerini yolculuk, iman ve ilahi koruma temalarıyla ilişkilendirir. Kayık için doğrudan tarihsel bir rüya yorumu kaydedilmemiştir; dolayısıyla teknenin İncil’deki temalarını kayık rüyasına uygulamak bağlama ve rüyanın diğer öğelerine bağlı, yorumlayıcı bir yaklaşımdır.",
+  "jewishTraditions": "Babylonian Talmud, Berakhot 57a’da rüyada küçük bir teknede oturmanın kişinin iyi bir ün kazanmasına işaret ettiği; büyük teknede oturmanın ise bu itibarın aileye de yayılacağı şeklinde yorumlandığı kayıtlıdır. Bu pasajta yorumun olumlu niteliği teknenin dalgalar üzerinde yüzmesi koşuluna bağlanır. Talmudik bu örnek, tekne/kayık ile ilgili rabbanî düzeyde doğrudan ve belirli bir rüya yorumuna işaret eden nadir kaynaklardan biridir; yine de uygulamada bağlamın ve sahnenin dikkate alınması önemlidir.",
+  "buddhistEasternApproaches": "Doğu ve Budist geleneklerde kayık/sal metaforları, varlık okyanusunun karşı kıyısına ulaşma, zihnin eğitimi ve geçici bir araç olarak aracı bırakma öğretileriyle ilişkilidir (örn. \"Parable of the Raft\"). Bu materyal doğrudan bir \"kayık rüyası\" yorumu sunmaz; ancak kayık imgesi geçiş, rehberlik ve zihinsel uygulama bağlamlarında sembolik olarak okunabilir.",
+  "spiritualApproaches": "Modern spiritüel ve ezoterik literatürde kayık tekne imgelerinin ruhsal yolculuk, belirsiz sulardan geçiş, içsel rehberlik ve dönüşüm fikirleriyle ilişkilendirildiği görülür. Bu yorumlar genellikle teknenin genel metaforik işlevlerine dayanır ve kayık için kesin rüya hükmü oluşturmaz; bağlam ve duygusal ton belirleyicidir.",
+  "comparisonTable": [
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Su ve taşıyıcı kap ilişkisi üzerinden doğum/rahim fantezileri ve geçiş motiflerine sınırlı analitik bağlam sağlar.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Aktarımlar (ikincil kaynaklar)",
+      "interpretation": "Tekne/kayıkla kıyıya ulaşma teması sıkıntıdan kurtuluş ve güvenli geçişle ilişkilendirilir; bazı çağdaş yorumlar balıkçı kayığını rızıkla, geçit kayığını lütufla eşleştirir; klasik metinlerdeki doğrulanması ise sınırlıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rabbanî Geleneği",
+      "interpretation": "Berakhot 57a örneğinde küçük/büyük teknede oturma ayrımı üzerinden iyi ün ve ailesel itibarla ilişkilendirme yapılır; deniz koşulları yorumun sınırlarını belirler.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Budist/Doğu Yaklaşımı",
+      "interpretation": "Kayık/sal metaforları zihinsel geçiş, uygulama ve karşı kıyıya ulaşma sembolizmiyle bağdaştırılır; doğrudan rüya yorumu niteliği sınırlıdır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Ruhsal yolculuk, rehberlik ve belirsiz sulardan geçiş temalarına vurgu yapar; kayık için kesin rüya hükmü getirmez.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Araştırma ve gelenekler genel olarak kayığı küçük ölçekli bir taşıma aracı, bağlama göre geçiş ve hareketi sağlayan bir sembol olarak değerlendirir; anlamı su koşulları, kayığın niteliği, birlikte yolculuk edilen kişiler ve rüyanın duygusal tonu tarafından belirgin biçimde değişir.",
+  "differences": "Yaklaşımlar arasındaki fark, kayığın hangi yönünü vurguladıklarında belirgindir: Psikanalitik okuma suyla ilişki ve doğum/başlangıç motiflerine eğilirken, Yahudi rabbanî metinleri sosyal itibar ve nüfuz boyutunu öne çıkarır; İslami ve Hristiyan okumalar daha çok güvenli geçiş ve ilahi koruma temalarını yorumlayıcı biçimde kullanır. Budist çerçeve aracı geçiş ve zihinsel uygulama olarak değerlendirir.",
+  "inusAssessment": "Kayık, gemi/tekne ailesi içinde daha küçük, sınırlı kapasiteye sahip, genellikle bireysel veya yakın ölçekli bir taşıma aracı olarak öne çıkar. Bu ayırım, rüyalarda kayığın taşıdığı anlamın da (ör. kişisel sorumluluk, kısa mesafeli geçiş, yalnızlık riski) farklılaşmasına yol açar; bu nedenle kayık görüntüsünü yorumlarken büyüklük, su koşulları ve beraberindekiler gibi bağlamsal unsurlar belirleyici kabul edilmelidir.",
+  "faq": [
+    {
+      "question": "Rüyada kayık görmek her zaman olumlu bir anlama mı gelir?",
+      "answer": "Hayır. Kayığın getirdiği anlam bağlama bağlıdır: sakin sularda ve sağlam bir kayıkta güvenli bir geçiş izlenimi olabilirken, dalgalı veya hasarlı bir kayık zorluk, belirsizlik veya yalnızlık hissine işaret edebilir. Kesin bir hüküm üretmemek gerekir."
+    },
+    {
+      "question": "Kayığın küçük veya büyük olması rüyanın yorumunu nasıl etkiler?",
+      "answer": "(ayrıntılar için \"Yahudi Gelenekleri\" başlığına bakınız.)"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Freud’un suyla ilişkili rüya temalarını rahim içi yaşam ve doğum fantezileri çerçevesinde ele aldığı bölüm; kayık için yalnızca su yönlü sınırlı bir psikanalitik zemin sağlar.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus'un deniz ve gemi yolculuğu örnekleri rüya imgelerinin bağlama bağlı alegorik anlamlandırılabileceğini gösterir; kayık için doğrudan bir hüküm sunmaz ancak tarihsel rüya yorumu çerçevesi sağlar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "A lexical study of dreams and dreaming in Artemidorus",
+      "relevance": "Artemidorus'un rüya imgelerini rüya gören kişinin yaşam koşulları ve deneyimleriyle ilişkilendiren rüya kavramlarını ele alan çalışma.",
+      "url": "https://www.polisjerusalem.org/a-lexical-study-of-dreams-and-dreaming-in-artemidorus/"
+    },
+    {
+      "title": "Dreams about journey ship Islamic Interpretations Explanation",
+      "relevance": "Modern İslami aktarımlarda tekne/kayıkla kıyıya ulaşmanın sıkıntılardan kurtuluş ve güvenli geçişle ilişkilendirildiğini rapor eden ikincil kaynak; klasik kaynak doğrulaması sınırlıdır.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=journey+ship"
+    },
+    {
+      "title": "Topical Bible: Boat",
+      "relevance": "İncil’de tekne anlatılarını derleyen çalışma; tekne imgesinin iman, yolculuk ve ilahi müdahale temalarını taşıdığını özetler; kayık için doğrudan tarihsel rüya yorumu sağlamaz.",
+      "url": "https://biblehub.com/topical/b/boat.htm"
+    },
+    {
+      "title": "Boats - Topical Bible",
+      "relevance": "Tekne imgesini erken Hristiyan topluluğunun çalkantılı dünya içindeki yolculuğu ve İsa’nın çağrısıyla başlayan dönüşüm temalarıyla ilişkilendirir.",
+      "url": "https://biblehub.com/topical/b/boats.htm"
+    },
+    {
+      "title": "Who is this, that even the wind and the sea obey him ...",
+      "relevance": "Markos’taki fırtına anlatısını, teknede İsa’nın varlığı ve teknenin kilisenin tarihsel sınavlar içindeki yolculuğunu simgelemesi üzerinden teolojik olarak yorumlar.",
+      "url": "https://www.via.bible/en/who-is-this-man-that-even-the-wind-and-the-sea-obey-him-mk-435-41/"
+    },
+    {
+      "title": "Topical Bible: The Boats",
+      "relevance": "İncil’deki tekne anlatılarını iman yolculuğu, kilise ve ilahi rehberlik temalarıyla birlikte özetler; kayık için özel bir rüya yorumu sunmaz.",
+      "url": "https://biblehub.com/topical/t/the_boats.htm"
+    },
+    {
+      "title": "Matthew 14:22-33 Context",
+      "relevance": "Matta’daki tekne anlatısında teknenin kiliseyle, denizin ise öğrencileri Tanrısal varlıktan ayıran bir engelle ilişkilendirildiği teolojik okumayı açıklar.",
+      "url": "https://stfrncis.org/wp-content/uploads/2023/07/19th-Sunday-A-Commentary.pdf"
+    },
+    {
+      "title": "Babylonian Talmud: Berakoth 57 - Halakhah.com",
+      "relevance": "Berakhot 57a pasajının metni; küçük ve büyük teknede oturma rüyalarının iyi ün ve itibarla ilişkilendirilmesine dair rabbanî yorumu verir ve deniz koşulunun önemini vurgular.",
+      "url": "https://halakhah.com/berakoth/berakoth_57.html"
+    },
+    {
+      "title": "Berakhot.57a.1-57b.22 | The Sefaria Library",
+      "relevance": "Berakhot 57a–57b’nin kaynak metin ve çeviri bağlamını sunar; küçük ve büyük teknede oturma rüyalarının iyi ün ve aile itibarına ilişkin yorumunu açıklar.",
+      "url": "https://www.sefaria.org/Berakhot.57"
+    },
+    {
+      "title": "www.sefaria.org › BerakhotBerakhot.55b.1-57b.22 | The Sefaria Library",
+      "relevance": "Berakhot 55b–57b aralığını birlikte gösterir; rüya yorumlarının bağlamını ve tekne imgesine ilişkin küçük-büyük tekne ayrımını sunar.",
+      "url": "https://www.sefaria.org/Berakhot.55b-57b"
+    },
+    {
+      "title": "Ba dao chuan, Bā dào chuán: 2 definitions",
+      "relevance": "Doğu Asya/Budist geleneklerde kayık metaforlarının ve Sekiz Katlı Yol benzetmelerinin varlığını açıklayan kaynak; kayığın geçiş-imgelemindeki kültürel kullanımına ışık tutar.",
+      "url": "https://www.wisdomlib.org/definition/ba-dao-chuan"
+    },
+    {
+      "title": "Sutta 5: The Parable of the Raft",
+      "relevance": "Budist metinlerdeki sal/kayık benzetmelerine örnek; taşıt metaforunun zihinsel uygulama ve geçiş bağlamında kullanıldığını gösterir.",
+      "url": "https://www.wisdomlib.org/buddhism/book/taisho-chinese-buddhist-canon/d/doc1855964.html"
+    },
+    {
+      "title": "Crossing to the Farthest Shore: How Pāli Jātakas ...",
+      "relevance": "Pāli Jātakalarında kayık metaforlarının Budist öğreti, anlatı ve sanattaki yaygınlığını inceler.",
+      "url": "https://jocbs.org/index.php/jocbs/article/download/29/31"
+    },
+    {
+      "title": "Nava Sutta: The Simile of the Boat",
+      "relevance": "“Nava Sutta”da güçlü, kürekli ve dümenli bir kayıkla başkalarını karşıya geçirme benzetmesini aktarır; kayığı beceri ve rehberlikle ilişkilendirir.",
+      "url": "https://www.accesstoinsight.org/tipitaka/kn/snp/snp.2.08.irel.html"
+    },
+    {
+      "title": "On the Metaphor of the Raft in the Mah¯aparinibb¯anasutta",
+      "relevance": "Mahāparinibbānasutta’daki sal ve karşı kıyı imgesini, arzunun ve ıstırabın akışını aşma bağlamında ele alır.",
+      "url": "https://ir.lib.hiroshima-u.ac.jp/46455/files/20103"
+    },
+    {
+      "title": "Boat Dream Meaning: Journey, Control & Emotions",
+      "relevance": "Modern rüya sözlüklerinden biri; tekne/kayık imgelerini ruhsal yolculuk, geçiş ve duygusal yönetim temalarıyla ilişkilendirir. Bu tür sözlüklerin ampirik temellendirmesi sınırlı olabilir.",
+      "url": "https://www.interpretdreams.io/dream-dictionary/boat/"
+    },
+    {
+      "title": "Boat Dream Meaning: Navigating Emotion, Change, and Direction",
+      "relevance": "Tekne imgesini bilinmeyen sularda inanç, güven ve rehberlikle bağlantılı modern bir spiritüel sembol olarak ele alır.",
+      "url": "https://www.dreamspoken.com/en/dream-meaning/boat"
+    },
+    {
+      "title": "Boat Dream Meaning & Interpretation - Mirror",
+      "relevance": "Tekneyi varoluş durumları arasında geçiş sağlayan ve ruhsal yolculuğu taşıyan bir araç şeklinde yorumlayan modern spiritüel sembolizm sunar.",
+      "url": "https://mirrorwithin.org/dream-dictionary/boat/"
+    },
+    {
+      "title": "Boat in dreams — meaning and symbolism",
+      "relevance": "Tekneyi enerji akışının, bilinç ile bilinçdışı veya dünyevi ile ruhsal alan arasındaki geçişin simgesi olarak ele alan modern ezoterik bir okuma sunar.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/boat"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

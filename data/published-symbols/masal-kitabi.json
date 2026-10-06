@@ -1,0 +1,191 @@
+{
+  "slug": "masal-kitabi",
+  "title": "Masal Kitabı",
+  "shortDescription": "Rüyada masal kitabı görmek, çocukluk anılarını, hayal gücünü ve yaşananları bir hikâye içinde yeniden anlamlandırmayı çağrıştırabilir. Kitabın içeriği ile rüyadaki hisler, bunun rahatlatıcı ve öğretici mi, yoksa sorunları erteleme eğilimi mi olduğunu anlamada belirleyicidir.",
+  "positiveAssociations": [
+    "Çocukluk anıları ve masalsı güven duygusuna dönüş",
+    "Hayal gücü, merak ve şaşkınlık duygusu",
+    "Ahlaki veya öğretici derslerin sembolik ifadesi",
+    "Kahramanlık, yardımseverlik veya arketipsel karakterlerle yüzleşme fırsatı",
+    "Yaşanmış deneyimlerin bir hikâye çerçevesinde yeniden anlamlandırılması"
+  ],
+  "challengingAssociations": [
+    "Gerçeklikten kaçış veya içsel sorunları masalsı biçimde erteleme eğilimi",
+    "Çocukluk ve nostalji temalarının aşırı romantize edilmesi",
+    "Masalsı basitleştirme nedeniyle duygusal karmaşanın örtülmesi",
+    "Masalın öğretilerinin katı normlara veya beklentilere dönüşmesi"
+  ],
+  "contextDependentAssociations": [
+    "Kitabın açık/kapalı, yıpranmış/yeni oluşu; bu, içgörü veya saklı potansiyelleri işaret edebilir",
+    "Rüya sahibinin masallarla kişisel ilişkisi (ör. sevilen bir hikâye mi, travmatik bir anı mı)",
+    "Masalın içeriği: rahatlatıcı bir öğreti mi yoksa korkutucu bir anlatı mı olduğu",
+    "Kitabı kim okuyor ya da kimin için yazıldığı (çocuk, yetişkin, yabancı) ve paylaşım niyeti"
+  ],
+  "commonVariations": [
+    {
+      "title": "Eski Bir Masal Kitabını Okumak",
+      "description": "Yıpranmış bir masal kitabını okumak, aile gelenekleri, nesilden nesile aktarılan hikâyeler veya çocuklukta bırakılmış anlamların şimdi yeniden ele alınmasına işaret edebilir."
+    },
+    {
+      "title": "Kayıp Bir Masal Kitabını Aramak",
+      "description": "Kayıp bir masal kitabını aramak, kişinin yaşamında kaybolmuş bir masalsı bakışı, kimlik hissini veya çözülmesi gereken içsel bir karmaşayı bulma arayışını simgeleyebilir."
+    },
+    {
+      "title": "Masal Kitabının Sayfalarını Çevirmek",
+      "description": "Sayfaları çevirirken farklı karakterler, sınav sahneleri veya öğretici bölümlerle karşılaşmak, bilinçdışındaki arketipsel motiflerin ve ahlaki derslerin sırayla yüzeye çıktığını gösterebilir."
+    },
+    {
+      "title": "Bilinmeyen Birine Masal Kitabı Vermek",
+      "description": "Bir başkasına masal kitabı uzatmak, sahip olunan değerleri, içgörüleri veya masal yoluyla edinilmiş yaşam derslerini çevresindeki insanlarla paylaşma arzusunu/çabasını temsil edebilir."
+    }
+  ],
+  "psychology": "Rüya içerik analizleri, nesne ve anlatı öğelerini kategorize ederek rüya metinlerini araştırmaya olanak verir; yine de tekil bir imgeye evrensel bir psikolojik anlam atfetmez. Bu çerçevede masal kitabı, rüya bağlamı, duygulanım ve kişinin yaşam öyküsü dikkate alınarak kodlanmalı ve yorumlanmalıdır.",
+  "jungian": "Jungcu yaklaşımlar masalları arketipsel örüntülerin yoğunlaştığı anlatılar olarak ele alır ve masal malzemesinin rüyalarda arketipsel düzenler veya dönüşüm temaları olarak ortaya çıkabileceğini tartışır. Bu nedenle ‘‘masal kitabı’’ görüntüsü rüyanın anlatısal bir çerçeve içinde arketipsel içerik taşıdığını düşündürebilir; hangi dönüşümün söz konusu olduğu ise rüyanın ayrıntılarına bağlıdır.",
+  "islamicTradition": "",
+  "christianTraditions": "",
+  "jewishTraditions": "Berakhot 57b gibi rabbanî metinlerde rüyada görülen belirli kitap türlerine sembolik karşılıklar verilir (ör. Mezmurlar, Meseller, Eyüp). Bu örnekler modern bir \"masal kitabı\" için doğrudan bir tabir sunmaz; buna karşın Yahudi metinsel geleneği kitap ile imge arasındaki ilişkiyi bağlama göre okumaya açık tutar.",
+  "buddhistEasternApproaches": "Budist anlatı ve metinlerde masalsı benzetmeler öğretici ve etik dersler bağlamında kullanılır. Masal kitabı rüyası doğrudan klasik bir giriş olarak doğrulanmamışsa da, öğretici bir anlatı ya da Dharma-öykü çerçevesinde okunabilecek bir imge olarak ele alınabilir.",
+  "spiritualApproaches": "Ezoterik okumalarda masal kitapları, sembolik bilgi taşıyan, sınav ve dönüşüm temalarını barındıran anlatı kapları olarak değerlendirilir. Rüyadaki masal kitabı, kesin bir kehanet aracı değil; kişinin deneyimini alegorik bir dönüşüm anlatısı içinde yeniden görme ve içsel anlam arayışı bağlamında değerlendirilmelidir.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Rüya Analizi",
+      "interpretation": "Masal kitabı nesnesi ve bağlamının kategorize edilmesi; evrensel anlamdan kaçınılarak frekans ve bağlam analizine öncelik verilir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Masal malzemesi hastanın kişisel çağrışımlarıyla ilişkilendirilir; çocukluk, bastırılmış anılar veya cinsel/duygusal çatışmalar klinik bağlamda ele alınır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Masal kitabı rüyanın arketipsel düzenini ve dönüşüm motiflerini taşıyan bir anlatı çerçevesi olarak okunabilir; somut anlam rüyanın ayrıntılarına bağlıdır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Ezoterik / Simyasal Yaklaşım",
+      "interpretation": "Masal anlatıları dönüşüm, sınav ve saklı bilginin açığa çıkması temalarıyla ilişkilendirilir; masal kitabı bu alegorik yolculuğun sembolik bir aracı olarak görülür.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli yaklaşımlar, masal kitabı gibi anlatısal imgelerin tek ve sabit bir kehanet sunmaktan ziyade rüya sahibinin içsel dünyasını bir hikâye örgüsü içinde yansıtmaya eğilimli olduğunu kabul eder; ortak vurgu bağlama ve rüyanın duygusal tonuna verilir.",
+  "differences": "Ampirik yöntemler olgusal kodlama ve bağlam analizine odaklanırken, psikanalitik okumalar kişisel çağrışımları ve çocukluk içeriğini ön plana çıkarır; Jungcu yaklaşım arketipsel ve kolektif temalara dikkat çeker; ezoterik görüşler ise alegorik dönüşüm ve simyasal motifleri vurgular. Bu farklar, masal kitabı yorumunda hangi düzlemin ağır bastığını belirler.",
+  "inusAssessment": "Masal kitabı rüyada beliriyor diye tek ve sabit bir anlam çıkarılamaz; bu görüntü hikâye odaklı bir yorum çerçevesi gerektiğine işaret eder.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "Implications of Dream Content Analysis for the Humanities",
+      "relevance": "Rüya içerik analizinin nesneleri ve anlatı öğelerini kategorize ederek nasıl incelendiğini ve bağlamın önemini açıklayan çalışma.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2002a.html"
+    },
+    {
+      "title": "Methods and Measures for the Study of Dream Content",
+      "relevance": "Hall–Van de Castle gibi kategorik kodlama yöntemleriyle rüya imgelerinin sistematik olarak nasıl ele alındığını gösterir; tekil bir nesneye evrensel anlam atfetmeme gerekçesini destekler.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2000a.html"
+    },
+    {
+      "title": "STUDIES ON HYSTERIA",
+      "relevance": "Freud'un masal malzemesinin rüyalarda nasıl ortaya çıkabildiğini ve klinik yorumda kişisel çağrışımların önemini tartıştığı metin.",
+      "url": "https://www.lutecium.org/ftp/Freud/pdf/1913_occurrence_in_dreams_of_material_from_fairy_tales.pdf"
+    },
+    {
+      "title": "ja Pa",
+      "relevance": "Freudcu rüya ve masal yaklaşımının bilinçdışı temsiller, kişisel sembolizm ve klinik yorumla ilişkisini tartışır.",
+      "url": "https://www.robertwhitemd.com/img/Three%20Psychoanalytic%20Pioneers%20Published.pdf"
+    },
+    {
+      "title": "[PDF] An Archetypal Analysis of Psychic Symbolism in Fairy Tales",
+      "relevance": "Masallardaki simgesel öğelerin Jungcu arketipsel çerçevede nasıl değerlendirilebileceğini ele alan analiz.",
+      "url": "https://ojs.plhr.org.pk/journal/article/download/1256/1121/2180"
+    },
+    {
+      "title": "CREATIVITY, ARCHETYPES, AND SYMBOLS IN THE ...",
+      "relevance": "Jungcu rüya anlayışı ile masal anlatılarının dramatik yapı, bilinçdışı çatışma ve sembolik dönüşüm bakımından nasıl ilişkilendirilebileceğini tartışır.",
+      "url": "https://tpmap.org/submission/index.php/tpm/article/download/2200/1684/4776"
+    },
+    {
+      "title": "[PDF] fairy tales: socialization through archetypal patterns - RUcore",
+      "relevance": "Masalları arketipsel örüntülerin ve kolektif bilinçdışı süreçlerin yoğun anlatımları olarak inceler; bu çerçeve masal kitabı imgesinin anlatısal ve arketipsel yönünü anlamlandırmaya yardımcı olur.",
+      "url": "https://rucore.libraries.rutgers.edu/rutgers-lib/65353/PDF/1/play/"
+    },
+    {
+      "title": "An Ancient Dream Manual: Artemidorus' The Interpretation of ...",
+      "relevance": "Artemidorus’un antik rüya sınıflandırma ve yorum yöntemlerini, yorumda bağlamın ve rüya sahibinin koşullarının önemini açıklayan çalışması.",
+      "url": "https://academic.oup.com/book/40085"
+    },
+    {
+      "title": "Artemidorus on Dreams | classicsforall.org.uk - Classics for All",
+      "relevance": "*Oneirocritica*’nın tarihini, rüyaların öngörücü ve öngörücü olmayan türler ayrımını ve rüya yorumunda rüyayı gören kişinin koşullarına verilen önemi özetler.",
+      "url": "https://classicsforall.org.uk/reading-room/ad-familiares/artemidorus-dreams"
+    },
+    {
+      "title": "Berakhot 57.b - Steinsaltz Center",
+      "relevance": "Rabbinik metinlerde kitapların rüyada görülmesine ilişkin örnekleri sunar; modern masal kitabı için doğrudan bir tabir vermemekle birlikte kitap ile imge arasındaki ilişkinin bağlama göre okunabileceğini gösterir.",
+      "url": "https://steinsaltz-center.org/portal/library/Talmud/Berakhot/chapter/57.b"
+    },
+    {
+      "title": "Berakhot 57b:2",
+      "relevance": "Berakhot 57b’nin kitapların rüyada görülmesine ilişkin pasajını erişilebilir bir metin olarak sunar; Mezmurlar, Meseller ve Eyüp için verilen sembolik karşılıkları içerir.",
+      "url": "https://www.sefaria.org/Berakhot.57b.2?lang=en"
+    },
+    {
+      "title": "[PDF] Dreams in ancient Hebrew literature",
+      "relevance": "Antik İbrani literatüründe rüyaların ve görümlerin, aralarında Enoch, 4 Ezra ve 2 Baruch’un bulunduğu Yahudi anlatı metinlerindeki işlevini ele alır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/110419/111624"
+    },
+    {
+      "title": "Dreams in ancient Hebrew literature",
+      "relevance": "Antik İbrani ve Yahudi metinlerinde rüya ve görümlerin edebî-dinsel kullanımına ilişkin aynı araştırmanın erişim kaydını sunar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/libraryFiles/downloadPublic/889"
+    },
+    {
+      "title": "[PDF] Dream Accounts in the Hebrew Bible and Ancient Jewish Literature",
+      "relevance": "İbrani Kitabı ve antik Yahudi literatüründeki rüya anlatılarında sembolik rüya motifinin kullanımını tarihsel bağlam içinde ele alır.",
+      "url": "https://ora.ox.ac.uk/objects/uuid:31468460-01e8-4b10-977e-72b954a29fda/files/m094640d42e5594527fcf80f2cc76bc00"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ...",
+      "relevance": "Babil Talmudu’nun Berakhot bölümünü Yahudi rüya düşüncesi ve rüya yorumlama pratikleri bağlamında inceler; Berakhot 55a–57b’nin rüya yorumları bakımından önemini açıklar.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y?error=cookies_not_supported&code=25242877-d1d7-429a-84c8-22398b65c6ab"
+    },
+    {
+      "title": "Madness and Prophecy: Dreams, Texts, and the Power of Rabbinic Interpretation",
+      "relevance": "Berakhot’taki rüya yorumlama biçimlerini, sabit yorum anahtarlarını, bağlama bağlı anlam değişimlerini ve “rüyalar yorumun ardından gider” ilkesini tartışır.",
+      "url": "https://www.academia.edu/247828/Madness_and_Prophecy_Dreams_Texts_and_the_Power_of_Rabbinic_Interpretation"
+    },
+    {
+      "title": "[PDF] Dream Interpretation: Ancient Cultures and Scientific Research - IJIP",
+      "relevance": "Hindu ve Budist rüya geleneklerinde rüyaların dinsel, etik ve kehanet bağlamlarını genel hatlarıyla ele alır.",
+      "url": "https://ijip.in/wp-content/uploads/2024/07/18.01.361.20241202.pdf"
+    },
+    {
+      "title": "How to Read the Lotus Sutra - Tricycle: The Buddhist Review",
+      "relevance": "Lotus Sutra’daki benzetme ve masalsı anlatıların Budist öğretim, sanat ve edebiyattaki rolünü açıklar; bu bağlam, masal kitabı imgesine sınırlı bir Dharma-anlatısı okuması sağlar.",
+      "url": "https://tricycle.org/magazine/how-to-read-the-lotus-sutra/"
+    },
+    {
+      "title": "Marie-Louise von Franz — Alchemy, Fairy Tales, and the Depths ...",
+      "relevance": "Masallar ile simyasal dönüşüm motifleri arasındaki ilişkileri ve masal anlatılarının içsel dönüşümü nasıl sembolize edebileceğini tartışan kaynak.",
+      "url": "https://arcanelibrary.org/von-franz/"
+    },
+    {
+      "title": "Alchemical Journey into the Divine in Victorian Fairy Tales",
+      "relevance": "Viktorya dönemi masallarındaki simyasal sembolizmi, dönüşüm ve alegorik yapı temaları üzerinden inceler.",
+      "url": "https://ejournals.eu/pliki_artykulu_czasopisma/pelny_tekst/9b2aa886-be56-4aae-82b4-62e5afd80e11/pobierz"
+    },
+    {
+      "title": "FAIRY TALES AND THEIR INNER MEANINGS",
+      "relevance": "Masalların alegori, kıssa ve sembolizm aracılığıyla içsel veya ezoterik anlamlar taşıyabileceği fikrini; ruhun gelişim yolculuğunun anlatısal biçimde sunulmasını ele alır.",
+      "url": "https://www.sydneyunitarians.org/wp-content/uploads/2013/11/FAIRY-TALES-AND-THEIR-INNER-MEANINGS_SoL.pdf"
+    },
+    {
+      "title": "Fairy Tales and Alchemy",
+      "relevance": "Masal anlatıları ile simyasal metinler arasındaki dönüşüm, ahlaki ders ve karşıtlıkların uzlaştırılması temalarını inceler.",
+      "url": "https://www.academia.edu/1738177/Fairy_Tales_and_Alchemy"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "psychoanalytic"
+  ]
+}

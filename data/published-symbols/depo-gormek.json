@@ -1,0 +1,164 @@
+{
+  "slug": "depo-gormek",
+  "title": "depo_gormek",
+  "shortDescription": "Rüyada depo görmek, maddi ya da içsel kaynakları, birikmiş potansiyeli ve geleceğe hazırlığı simgeler. Dolu, düzenli bir depo korunmuş imkânları; boş, karanlık veya zarar görmüş bir depo ise tükenmişlik, ihmal edilen konuları ya da güvenlik kaygılarını çağrıştırabilir.",
+  "positiveAssociations": [
+    "geleceğe hazırlık",
+    "korunmuş kaynaklar",
+    "gelişmeye hazır potansiyel",
+    "düzenli ve sorumlu kaynak yönetimi"
+  ],
+  "challengingAssociations": [
+    "tükenen veya çürüyen birikimler",
+    "maddi varlıklara aşırı güvenme",
+    "işlenmemiş ve yığılmış duygusal yükler"
+  ],
+  "contextDependentAssociations": [
+    "depodaki malzemenin türü ve miktarı",
+    "mekânın düzenli, terk edilmiş ya da yıkık olması",
+    "rüyayı gören kişinin deponun içindeki duygusal tepkisi",
+    "kaynakların korunması veya kaybolması teması"
+  ],
+  "commonVariations": [
+    {
+      "title": "Dolu ve Düzenli Bir Depo Görmek",
+      "description": "Tıkabasa dolu ve düzenli bir depo, rüya sahibinin elindeki imkânları koruma ve geleceğe hazırlık yönündeki bilinçli çabalarını ya da korunmuş potansiyeli gösterebilir."
+    },
+    {
+      "title": "Karanlık ve Terk Edilmiş Depo",
+      "description": "Işıksız, tozlu ve kullanılmamış bir depo, bilinçdışında uzun süredir göz ardı edilen anıları, çözülmemiş meseleleri veya henüz işlenmemiş içsel alanları işaret edebilir."
+    },
+    {
+      "title": "Yıkılan veya Yağmalanan Tahıl Ambarı",
+      "description": "Depodaki malların zarar gördüğü veya ambarın çöktüğü rüyalar, maddi kaygılar, yatırımla ilgili endişeler veya güvenlik hissinde sarsılma gibi temalarla ilişkilendirilebilir."
+    },
+    {
+      "title": "Boş ve Yankı Yapan Depo",
+      "description": "İçinde hiçbir şey olmayan bir depo, mevcut kaynakların tükenmişliği hissi, yeni bir geçim kaynağı arayışı veya içsel bir tükenmişlik duygusunu çağrıştırabilir."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmaları depo imgesine özgü sabit bir frekans veya evrensel duygu profili göstermemektedir. İçerik-analiz yaklaşımları (ör. DreamBank, Hall & Van de Castle benzeri kodlamalar) depo gibi mekânsal imgelerin, rüyanın duygusal tonu, etkinlikleri ve ayrıntılarıyla birlikte kodlanmasının gerektiğini vurgular.",
+  "jungian": "Analitik psikoloji çerçevesinde depo, ev, bodrum ve alt kat imgelerinin yapısal benzerlikleri üzerinden bilinçdışında saklanmış veya henüz bilince katılmamış psişik içeriklerin mekânsal imgesi olarak düşünülebilir. Bu, Jung’un eserlerinde depoyu sabit bir sembol olarak tanımladığı anlamına gelmez; daha çok sınırlı bir senteze işaret eder.",
+  "islamicTradition": "İslami rüya tabiri aktarımlarında en yakın motif yeraltı tahıl ambarı veya erzak deposudur. Bu bağlamda dolu bir ambar beslenme, geçim veya gebelikle ilişkilendirilebilir. Ambarın zarar görmesi ise ekonomik zorluklar veya kayıplarla ilişkilendirilebilir. Bu bulgular özellikle yeraltı tahıl ambarı imgelerine dayanır ve modern \"depo\" kavramına doğrudan genellenmemelidir.",
+  "christianTraditions": "Hristiyan sembolik çerçevede depo/ambar imgeleri Tanrısal sağlayış, gelecek için hazırlık ve kaynakların sorumlu yönetimi temalarını çağrıştırabilir; aynı zamanda dünyevi birikime aşırı güvenme uyarısını da gündeme getirebilir. Bu, İncil metinlerinden türetilmiş sınırlı bir yorumdur, kesin bir rüya hükmü değildir.",
+  "jewishTraditions": "Yahudi-rabbanî gelenekte rüyaların yorumu bağlama ve yorum sürecine bağlıdır; Berakhot gibi metinlerde ticari mal ve saklama kapları temasına dair örnekler bulunur ancak \"depo görmek\" için doğrudan ve tekil bir tabir sunulmamaktadır. Rüyanın yorumu, bağlam ve yorumlayıcının rolüyle şekillenir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel yorumlarda depo, içinde birikmiş ancak kullanılmayı bekleyen iç kaynaklar, anılar veya potansiyelleri simgeleyebilir. Bu okumalar rüyanın duygusal tonu ve deponun fiziksel durumu doğrultusunda farklılaşır ve kesin bir anlamdan kaçınır.",
+  "comparisonTable": [
+    {
+      "approach": "Jungcu Psikanaliz",
+      "interpretation": "Bilinçdışında saklı kalan psişik materyal ve henüz işlenmemiş içsel potansiyellerin mekânsal bir imgesi olarak ele alınabilir.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "İslami Geleneksel Aktarım",
+      "interpretation": "Yeraltı tahıl ambarı/erzak deposu motifleri üzerinden beslenme, geçim, gebelik ve ekonomik koşullarla ilişkilendirilen sembolik okumalar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Depoda saklanan iç kaynaklar, kullanılmayı bekleyen potansiyel ve geçmiş deneyimlerin rezerv alanı olarak okunması.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Çeşitli yaklaşımlar depo imgesini genel olarak saklama, birikim ve koruma alanı olarak görür; rüyanın ayrıntıları ve duygusal tonu yorumun yönünü belirler.",
+  "differences": "Psikolojik yorumlar zihinsel rezervler ve bilinçdışı katmanlara vurgu yaparken, İslami ve Hristiyan geleneksel okumalar daha çok erzak, geçim ve toplumsal kaynak yönetimi ekseninden anlam üretir.",
+  "inusAssessment": "Depo görmek sembolü için en belirleyici unsurlar deponun fiziksel durumu (dolu, boş, düzenli, yıkık), içindeki nesnelerin niteliği ve rüya sürecindeki duygusal tepkilerdir. Bu unsurlar birlikte değerlendirildiğinde sembolün olası anlamları daraltılabilir; tek ve evrensel bir anlam çıkarmak araştırma bulgularıyla desteklenmemektedir.",
+  "faq": [],
+  "sources": [
+    {
+      "title": "DreamResearch.net: Studying dream content using DreamBank.net",
+      "relevance": "DreamBank aracılığıyla rüya raporlarındaki sözcük ve bağlamların nasıl taranabileceğini ve depo gibi imgelerin ampirik olarak incelenebileceği yöntemsel çerçeveyi açıklar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2008c.html"
+    },
+    {
+      "title": "analyzing content and affect regulation in dream reports",
+      "relevance": "Rüya içeriklerini ortam, etkinlik, sosyal etkileşim ve duygu kategorileriyle analiz eden ampirik yaklaşımları ele alır.",
+      "url": "https://link.springer.com/article/10.1007/s11818-023-00417-4?error=cookies_not_supported&code=33f1b051-fe64-43cd-a0b1-c7257bd47ca6"
+    },
+    {
+      "title": "Studying Dream Content Using Dreambank.Net",
+      "relevance": "Geniş bir rüya arşivinde içerik öğelerinin sıklık, yüzde ve bağlam ilişkileriyle incelenmesini gösterir.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2004d.html"
+    },
+    {
+      "title": "Dream recall frequency and dream content in women",
+      "relevance": "Rüya içeriklerinin Hall ve Van de Castle yöntemiyle nicel kodlanmasını ve rüyalardaki duygu dağılımlarının incelenmesini raporlar.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/80238/78541"
+    },
+    {
+      "title": "CHAPTER 6 (part 2) THE DREAM-WORK",
+      "relevance": "Freud'un rüya sembolizmi çalışmasında su ve dar alan imgeleriyle ilgili notlar vardır; bu kaynak depo için doğrudan bir yorum sunmaz ancak kapalı alan imgelerinin psikanalitik çağrışım olanaklarını gösterir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams6b.htm"
+    },
+    {
+      "title": "Microsoft Word - wp79.doc",
+      "relevance": "Jung'un ev, bodrum ve alt kat imgelerini bilinçdışının katmanlarıyla ilişkilendiren çalışmaları özetler; depoyu sabit bir sembol olarak tanımlamaz, benzer yapısal imgeler üzerinden sınırlı bir senteze izin verir.",
+      "url": "https://orca.cardiff.ac.uk/id/eprint/78150/1/wrkgpaper-79.pdf"
+    },
+    {
+      "title": "Housing Complexes: Redesigning the house of psyche in ...",
+      "relevance": "Jung’un ev, bodrum ve tavan arası metaforlarını kişisel bilinçdışı ile ego bilinci arasındaki ilişki bağlamında ele alır.",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19409052.2012.679744"
+    },
+    {
+      "title": "A Library Guide to Jung's Collected Works: Collective unconscious",
+      "relevance": "Jung’un rüya evindeki alt kat ve mağara imgelerini kolektif bilinçdışı kavramıyla ilişkilendirerek açıklar.",
+      "url": "https://pacifica.libguides.com/Jung/unconscious"
+    },
+    {
+      "title": "Marie Louise Von Franz and The Realization of the Shadow",
+      "relevance": "Bodrum odalarını ve yeraltı geçitlerini, gölge kişiliğin bilinmeyen boyutları ve bilinçdışının olanaklarıyla ilişkilendirir.",
+      "url": "https://carljungdepthpsychologysite.blog/2020/01/28/franz-5/"
+    },
+    {
+      "title": "storage",
+      "relevance": "İslami rüya tabirleri bağlamında yeraltı tahıl ambarı ve erzak deposu motiflerinin beslenme, geçim ve gebelik gibi temalarla nasıl ilişkilendirildiğine dair aktarım örnekleri sunar.",
+      "url": "https://www.myislamicdream.com/search.php?txtSearch=storage"
+    },
+    {
+      "title": "Topical Bible: Storehouses and Granaries",
+      "relevance": "İncil metinlerindeki ambar ve depo imgelerinin Tanrısal sağlayış, hazırlık ve maddi birikime aşırı güvenme uyarısı temalarıyla nasıl okunduğunu açıklar.",
+      "url": "https://biblehub.com/topical/s/storehouses_and_granaries.htm"
+    },
+    {
+      "title": "Topical Bible: Store-houses",
+      "relevance": "İncil’deki depo yapılarının tahıl, yağ ve şarap gibi temel kaynakların korunmasıyla ilişkisini; maddi hazırlık ile manevi öncelikler arasındaki temaları açıklar.",
+      "url": "https://biblehub.com/topical/s/store-houses.htm"
+    },
+    {
+      "title": "Berakhot.55b.21-56a.1",
+      "relevance": "Yahudi-rabbanî literatürde rüyaların yorumunun bağlama bağlı olduğu ve ticari mal/saklama kaplarına dair örneklerin bulunduğu pasajı sağlar; doğrudan 'depo görmek' tabiri içermez.",
+      "url": "https://www.sefaria.org/Berakhot.55b.21-56a.1"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Yahudi-rabbanî gelenekte rüyaların anlam, belirsizlik ve yorum ilişkisini; Berakhot’taki yorumlama yaklaşımıyla birlikte açıklar.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ...",
+      "relevance": "Babylonian Talmud’daki rüya yorumlama malzemesini ve Berakhot 55a–57b’deki nesne temelli rüya örneklerini tarihsel ve yorumlayıcı bağlamda ele alır.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y?error=cookies_not_supported&code=25242877-d1d7-429a-84c8-22398b65c6ab"
+    },
+    {
+      "title": "Psychological Meaning",
+      "relevance": "Modern spiritüel yorumlarda depo imgesi, depolanmış iç kaynaklar ve kullanılmayı bekleyen potansiyelle ele alındığına dair güncel yorum örneklerini içerir.",
+      "url": "https://mirrorwithin.org/dream-dictionary/warehouse/"
+    },
+    {
+      "title": "Topical Bible: Store-house",
+      "relevance": "Storehouse/depo kavramını hazırlık, kaynakların korunması, bolluk ve kaynakları sorumlu biçimde yönetme temalarıyla ilişkilendirir; bu temalar depo imgesine sınırlı bir spiritüel sembolik bağlam sağlar.",
+      "url": "https://biblehub.com/topical/s/store-house.htm"
+    },
+    {
+      "title": "Spiritual Meaning of Storehouse: Unlocking Abundance and Inner Resources for Growth",
+      "relevance": "Depo ve ambarı modern spiritüel yorumda birikmiş kaynaklar, içsel rezervler ve ileride kullanılabilecek potansiyelle ilişkilendirir.",
+      "url": "https://spiritualark.com/spiritual-meaning-of-storehouse/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "okula-gitmek",
+  "title": "okula_gitmek",
+  "shortDescription": "Rüyada okula gitmek, yaklaşan sorumluluklar karşısındaki kaygıları, öğrenme isteğini ve kişisel gelişim sürecini yansıtabilir. Hazırlıksızlık veya karmaşa yetersizlik hissini ve yarım kalmış konuları; aydınlık, düzenli bir okul ise yeni bilgiye açıklığı ve içsel netliği çağrıştırır.",
+  "positiveAssociations": [
+    "Geçmiş başarıların bugünkü durumlarda teselli sağlaması",
+    "Yeni bilgiler edinmeye ve kendini geliştirmeye açıklık",
+    "İçsel düzeni kurma ve ruhsal olarak olgunlaşma isteği",
+    "Sosyal bağların ve geçmişteki anlamlı ilişkilerin hafızada canlı kalması"
+  ],
+  "challengingAssociations": [
+    "Yaklaşan bir sorumluluk veya görev karşısında başarısızlık endişesi",
+    "Değerlendirilmeye ve teste tabi tutulmaya dair mahcubiyet duygusu",
+    "Dikkatin dağınıklığı ve içsel disiplini yeniden sağlama ihtiyacı.",
+    "Tamamlanmamış dersleri veya eski meseleleri yeniden ele alma baskısı"
+  ],
+  "contextDependentAssociations": [
+    "Rüya sahibinin hâlen öğrenci olup olmadığı ve eğitim bağlamındaki yaşantısı",
+    "Okul yıllarındaki sosyal örüntüler ve geçmişteki arkadaşlarla kurulan bağlar",
+    "Rüyanın geçtiği ortamın aydınlık, kaotik veya düzenli olması",
+    "Geçmişte atlatılmış bir sınavın bugünkü kaygıyı yatıştırma işlevi"
+  ],
+  "commonVariations": [
+    {
+      "title": "Eski Okul Arkadaşlarıyla Karşılaşmak",
+      "description": "Mezuniyetten uzun süre sonra bile eski okul çevrelerinden insanlarla bir araya gelindiğinin görülmesi, geçmişteki sosyal ilişkilerin ve paylaşılan zamanın kişisel önemini yansıtabilir."
+    },
+    {
+      "title": "Hazırlıksız Bir Sınava Girmek",
+      "description": "Yetişkinlik döneminde yeniden okul sıralarında oturmak ve çalışılmamış bir sınava girmek zorunda kalmak, uyanık yaşamdaki sorumluluklar karşısındaki yeterlilik kaygılarıyla ilişkilendirilebilir."
+    },
+    {
+      "title": "Aydınlık ve Düzenli Bir Sınıfta Bulunmak",
+      "description": "Temiz ve düzenli bir okul ortamında bulunmak, bilgiye açıklık, içsel netlik ve yaşamın öğretici süreçleriyle uyumlu bir gelişim evresinde olmayı simgeleyebilir."
+    },
+    {
+      "title": "Eksik Dersleri Tamamlamaya Çalışmak",
+      "description": "Okula geri dönerek geçmişte öğrenilmemiş veya yarım kalmış konuları yeniden ele almak, tamamlanmamış meseleleri çözme ve yeni bir gelişim aşamasına hazırlanma arzusuna işaret edebilir."
+    }
+  ],
+  "psychology": "Bilimsel rüya araştırmaları, okulla ilişkili kişilerin ve sosyal bağların mezuniyetten yıllar sonra bile rüyalarda yer alabildiğini; bunun bireyin yaşam öyküsü ve geçmiş sosyal örüntüleriyle bağlantılı olduğunu göstermektedir. Ayrıca öğrenim temalı rüyaların toplam rüyalar içindeki payı, kişinin eğitim veya çalışma bağlamına göre değişebilir.",
+  "jungian": "Analitik psikoloji perspektifinde okula gitmek, sabit bir sözlük anlamından ziyade rüya sahibinin bilinçdışı içeriklerle karşılaşmasını ve kendisi hakkında yeni bir şey öğrenme sürecini temsil eden bir sahne olarak değerlendirilir. Bu okuma, rüyaları ruhsal yapıların incelenmesi ve kolektif bilinçdışı arketipleri bağlamında ele alan genel bir çerçeve sunar.",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik sentezinde okul ve öğrencilik temaları, öğrenme, ruhsal oluşum ve yaşamın sınanma boyutlarıyla ilişkilendirilebilir. Yeni Ahit’teki öğretme ve öğrenci yetiştirme vurgularından yola çıkarak, bu imge teolojik bir okumada kişinin karakter, iman ve sorumluluk bakımından gelişme sürecini çağrıştırabilir.",
+  "jewishTraditions": "Yahudi rabbanî çerçevesinde rüyalar tek ve kesin bir kehanet kaynağı olarak görülmez; rüyanın anlamı, görülen imgelerin yanı sıra yorumlama eyleminin kendisine de bağlanır.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Ezoterik ve spiritüel okumalarda okula gitmek, yaşamın yalnızca dünyevi bilgi edinme alanı değil, ruhsal derslerin ve içsel düzenin öğrenildiği bir okul olarak deneyimlenmesini simgeleyebilir. Bu çerçevede okul ortamı; eksik bilgileri tamamlama, yaşamın öğretici sınavlarıyla yüzleşme veya ruhsal yolda öğrenci konumunda olma temalarını barındırır.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Okul temalı rüyaları bireysel yaşam öyküsü, geçmiş sosyal örüntüler ve güncel çalışma bağlamıyla ilişkilendirir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanaliz",
+      "interpretation": "Sınav rüyalarını ve okula dönme imgelerini yaklaşan sorumluluklar karşısındaki başarısızlık kaygısı ve geçmiş başarıların tesellisi bağlamında ele alır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Jungcu Analiz",
+      "interpretation": "Bilinçdışı içeriklerle karşılaşmayı ve rüya sahibinin kendisi hakkında yeni şeyler öğrenme sürecini temsil eden bir sahne olarak görür.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyan Sentezi",
+      "interpretation": "Öğrenme, ruhsal oluşum, karakter gelişimi ve yaşamın sınanma boyutlarıyla bağdaştırır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Rabbanî Çerçeve",
+      "interpretation": "Rüya anlamının yorumla şekillendiğini vurgulayarak öğrenmeye yönelme ve etik sınanma temalarını çağrıştırır.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Spiritüel Yaklaşım",
+      "interpretation": "Yaşamı bir ruhsal ders alanı olarak ele alarak eksik bilgileri tamamlama ve içsel gelişim aşamalarına işaret eder.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, okul imgesinin kişinin gelişim süreci, sorumluluklarla yüzleşmesi ve öğrenme deneyimleriyle yakından ilişkili olduğu noktasında ortaklaşır.",
+  "differences": "Ampirik psikoloji bulguları okul rüyalarını bireysel yaşam öyküsü ve sosyal bağlam temelinde incelerken, psikanalitik, teolojik ve spiritüel yaklaşımlar sırasıyla kaygı yönetimi, ruhsal oluşum ve içsel ders çıkarma gibi daha özel tematik yorumlar sunar.",
+  "inusAssessment": "Okula gitmek rüyası, sabit ve evrensel bir tabirden ziyade, bireyin geçmişteki sosyal ilişkileri, güncel sorumlulukları ve içsel gelişim dinamikleri arasındaki gerilimi sahneleyen özgül bir temadır. Rüyadaki okulun atmosferi, kişinin hazırlıksız oluşu veya aksine geçmiş bir başarıyı hatırlaması, bu sembolün kaygı yatıştırıcı bir işlev mi yoksa yeni bir öğrenme evresine hazırlık mı olduğunu belirleyen en kritik ayrıntılardır.",
+  "faq": [
+    {
+      "question": "Mezuniyetten yıllar sonra eski okul arkadaşlarını rüyada görmek ne anlama gelir?",
+      "answer": "Araştırmalar, eski okul ilişkilerinin rüyalarda görülme sıklığının kişinin okul yıllarındaki sosyal örüntüleri, birlikte geçirilen zaman ve bu ilişkilerin kişisel önemiyle doğrudan bağlantılı olduğunu göstermektedir."
+    },
+    {
+      "question": "Yetişkinlikte rüyada yeniden sınava girmek neden kaygı yaratır?",
+      "answer": "Psikanalitik çerçevede bu tür rüyalar, ertesi gün karşısına çıkacak sorumlu bir görev veya zorluk karşısında başarısız olma korkusunu temsil edebilir; geçmişte başarıyla atlatılmış sınavların hatırlanması ise mevcut kaygıyı yatıştırma işlevi görebilir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "International Journal of Dream Research Volume 5, No. 2 (2012)",
+      "relevance": "Okulla ilişkili kişilerin ve okul geçmişine ait sosyal ilişkilerin uzun süreli bir rüya dizisindeki görülme sıklığını, kişisel önem ve sosyal geçmiş bağlamında ele alır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/9432/pdf_27/10803"
+    },
+    {
+      "title": "International Journal of Dream Research Volume XX, No. X (2025)",
+      "relevance": "Çalışma ve öğrenimle ilişkili rüyaların görülme sıklığını ve eğitim bağlamıyla ilişkisini inceler.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/libraryFiles/downloadPublic/843"
+    },
+    {
+      "title": "Dreaming of a Learning Task is Associated with Enhanced ...",
+      "relevance": "Öğrenme görevi ile sonraki rüya içeriği arasındaki ilişkiyi üniversite öğrencileri üzerinde deneysel olarak inceler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6338510/"
+    },
+    {
+      "title": "Dream content analytic scale for measuring studies-related ...",
+      "relevance": "Rüyalardaki çalışma ve öğrenim temalarını sistematik biçimde ölçmek için içerik analiz ölçeğinin geliştirilmesini ele alır.",
+      "url": "https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/110481/109146/288743"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Freud’un sınav rüyalarını, yetişkinlikte yaklaşan sorumluluklar karşısındaki kaygı ve geçmişte başarıyla atlatılmış sınavın teselli edici hatırlanışı bağlamında ele alır.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Examination Dreams | Encyclopedia.com",
+      "relevance": "Freud’un tipik sınav rüyası açıklamasını okula dönme, yeniden sınava girme ve yaklaşan sorumluluk karşısındaki başarısızlık kaygısı bağlamında özetler.",
+      "url": "https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/examination-dreams"
+    },
+    {
+      "title": "Dreams",
+      "relevance": "Jung’un rüyaların analitik psikolojideki rolünü ele alan seçilmiş metinlerini bir araya getirir; rüya analizi ve rüya anlamının Jungcu çerçevesi için temel kavramlar sunar.",
+      "url": "https://books.google.com/books/about/Dreams.html?id=RGLtwsgWYswC"
+    },
+    {
+      "title": "C. G. Jung",
+      "relevance": "Jung’un Collected Works külliyatında arketipler, kolektif bilinçdışı ve rüya analiziyle ilgili eserlerin bibliyografik çerçevesini sunar.",
+      "url": "https://press.princeton.edu/collected-works/collected-c-g-jung"
+    },
+    {
+      "title": "Topical Bible: Education",
+      "relevance": "Yeni Ahit’te öğrencilik, vaftiz ve öğretme görevini birlikte ele alan Matta 28:19-20 metnini sunar; bu metin Hristiyan teolojisinde öğrenme ve dinsel oluşum temalarının bağlamını sağlar.",
+      "url": "https://biblehub.com/topical/e/education.htm"
+    },
+    {
+      "title": "Dreams | London School of Jewish Studies",
+      "relevance": "Yahudi rabbanî rüya anlayışında rüyaların anlamlı, anlamsız veya kısmen doğru olabilmesi ve yorumun önem kazanması üzerine Berakhot merkezli açıklamalar sunar.",
+      "url": "https://www.lsjs.ac.uk/dreams-397"
+    },
+    {
+      "title": "Insights from the “Dream Book” of the Babylonian Talmud [200–500 ...",
+      "relevance": "Babylon Talmud’undaki Berakhot 55a–57b rüya pasajlarının yorum, kehanet ve rüya anlamının oluşumu bağlamındaki yerini inceler.",
+      "url": "https://link.springer.com/article/10.1007/s41782-017-0012-y?error=cookies_not_supported&code=25242877-d1d7-429a-84c8-22398b65c6ab"
+    },
+    {
+      "title": "School in dreams — meaning and symbolism",
+      "relevance": "Okulda bulunma ve okula gitme rüyalarını ezoterik bir çerçevede ruhsal öğrenme, içsel düzen ve yaşam deneyimlerinden ders çıkarma temalarıyla ilişkilendirir.",
+      "url": "https://bookofhoroscopes.com/en/dream-dictionary/school"
+    },
+    {
+      "title": "School Dream Interpretation - School Dream Meaning",
+      "relevance": "Okula veya üniversiteye gitme rüyasını öğrenilmesi gereken bilgi ve yaşamın bir öğrenme alanı olarak ele alan spiritüel yorumlar sunar.",
+      "url": "https://www.dreamsmain.com/school"
+    },
+    {
+      "title": "Going Back to School Dream Meaning: Unlock Your Hidden Message",
+      "relevance": "Okula geri dönme rüyasını öğrenme evresine dönüş, yeterlilik sınaması, geçmiş dersleri yeniden ele alma ve ruhsal gelişim temalarıyla ilişkilendirir.",
+      "url": "https://dreamologylab.com/dream-meaning/school/going-back-to-school"
+    }
+  ],
+  "relatedSlugs": []
+}

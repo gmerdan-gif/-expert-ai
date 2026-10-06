@@ -1,0 +1,179 @@
+{
+  "slug": "evde-birini-arama",
+  "title": "evde_birini_arama",
+  "shortDescription": "Rüyada evde birini aramak, yakın ilişkilerde eksik kalan bir bağa, iletişime ya da çözüme ulaşma isteğini yansıtabilir. Aranan kişiyi bulamamak ise askıda kalmış bir meseleyle zihnin meşgul olduğuna işaret edebilir.",
+  "positiveAssociations": [
+    "İlişkilerde daha derin bağlar kurma isteği",
+    "İçsel dünyayı ve kişisel aidiyet alanlarını keşfetme arzusu",
+    "Geçmişteki bir bağla yeniden uyum sağlama potansiyeli",
+    "Kişisel yaşam alanında düzen ve huzur arayışı"
+  ],
+  "challengingAssociations": [
+    "Ulaşması giderek zorlaşan ilişki dinamiklerinin yol açtığı huzursuzluk",
+    "Ev içinde hissedilen kayıp, eksiklik veya yabancılaşma",
+    "Çatışmalı arzuların ve çözülmemiş meselelerin yarattığı zihinsel yorgunluk",
+    "Arama eyleminin getirdiği çaresizlik ve gerginlik tonu"
+  ],
+  "contextDependentAssociations": [
+    "Aranan kişinin rüya sahibinin uyanıklık hayatındaki konumu ve ilişkisinin niteliği",
+    "Evin odalarının düzeni, tanıdıklığı ya da yabancılığı",
+    "Aramanın sonucunda kişiye ulaşılamamasının ya da ulaşılmasının yarattığı duygusal etki",
+    "Rüya sırasındaki tedirginlik, merak veya kararlılık gibi hâkim duygular"
+  ],
+  "commonVariations": [
+    {
+      "title": "Karanlık Odalarda Tanıdık Birini Arama",
+      "description": "Evin az ışık alan veya tanınmayan odalarında birini bulmaya çalışmak, bilinmeyen ya da bastırılmış ilişki katmanlarına yönelen bir araştırmayı simgeler."
+    },
+    {
+      "title": "Boş Odalarda Seslenerek Arama",
+      "description": "Evin tamamının boş olduğu bir ortamda seslenerek birini aramak, uyanık yaşamda hissedilen bir yokluk veya iletişim eksikliğinin yansımasıdır."
+    },
+    {
+      "title": "Arayıp Bulamadan Uyanma",
+      "description": "Evi köşe bucak tarayıp aranan kişiye ulaşamadan rüyanın bitmesi, çözülmemiş bir sorunun veya askıda kalmış bir beklentinin zihinsel meşguliyetini gösterir."
+    },
+    {
+      "title": "Kalabalık Bir Evde Tek Bir Kişiyi Arama",
+      "description": "Birçok insanla dolu ev ortamında sadece belirli bir kişiyi bulmaya odaklanmak, sosyal çevredeki karmaşanın içinde özel bir bağ veya öncelik arayışını ifade eder."
+    }
+  ],
+  "psychology": "Ampirik rüya araştırmaları, rüya anlatılarında fiziksel çevrelerin, karakterlerin ve sosyal etkileşimlerin önemli bir yer tuttuğunu gösterir. 'Evde birini arama' motifi, uyanıklık raporlarına kıyasla rüyalarda sıklıkla görülen sosyal içerikli olayların özel bir biçimi olarak değerlendirilebilir. Araştırmalar, rüyalarda görülen kişilerin türünün bireyin günlük ilişkileri, bağlanma özellikleri ve sosyal etkileşimleriyle bağlantılı olabileceğini ortaya koymaktadır; bu çerçeve, rüyadaki arama eylemini tek bir sabit sonuca indirgemek yerine evin niteliği ve aranan kimlikle birlikte incelemeye olanak tanır.",
+  "jungian": "",
+  "islamicTradition": "",
+  "christianTraditions": "Hristiyan sembolik geleneğinde ev, sığınak, korunma, aile ve inananlar topluluğuyla ilişkilendirilir. Teolojik düzeyde kaybolanı arama ve kişiyi adıyla tanıma temaları üzerinden düşünüldüğünde, ev içinde birini arama rüyası, kişinin kendi ilişkisel veya manevi alanında bir bağı, karşılaşmayı ya da karşılanma arzusunu ele alması için analitik bir düşünme zemini sunabilir; ancak bu durum rüyaya atfedilmiş dogmatik bir kural değildir.",
+  "jewishTraditions": "Rabbanî rüya literatüründe ev, hanenin huzuru ve hane içindeki bireylerle bağlantılı bir bağlam olarak ele alınır. Yahudi rüya yorum geleneğinde 'bütün rüyalar ağızdan çıkan yoruma bağlıdır' ilkesi çerçevesinde, evde birini arama teması katı bir kehanet olarak değil; aranan kişinin kimliği, evin yapısı ve rüyanın genel bağlamı ışığında ele alınabilecek anlatısal bir unsur olarak değerlendirilir.",
+  "buddhistEasternApproaches": "",
+  "spiritualApproaches": "Modern spiritüel ve sembolik yaklaşımlarda ev, genellikle kişinin kendi içsel alanını veya benliğini temsil eden bir metafor olarak kabul edilir. Bu bakış açısına göre evin içinde birini aramak, dış dünyada değil; kişinin kendi iç dünyasında eksik, kaybedilmiş ya da yeniden kurulmak istenen bir niteliğin, anının veya anlamın izini sürmesini ifade eder.",
+  "comparisonTable": [
+    {
+      "approach": "Ampirik Psikoloji",
+      "interpretation": "Rüyalardaki sosyal etkileşimlerin, günlük ilişkilerin ve bağlanma biçimlerinin yansıması olarak incelenir.",
+      "evidenceLevel": "research"
+    },
+    {
+      "approach": "Psikanalitik Çerçeve",
+      "interpretation": "Bilinçdışı arzuların, nesne temsillerinin ve ulaşması giderek zorlaşan ilişkisel dinamiklerin araştırılması olarak ele alınır.",
+      "evidenceLevel": "theoretical"
+    },
+    {
+      "approach": "Hristiyanlık Bağlamı",
+      "interpretation": "Korunma alanı olan evde kayıp bir bağı veya karşılaşma arzusunu düşündüren bir teolojik düşünme zemini sunar.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Yahudi Geleneği",
+      "interpretation": "Hane düzeni ve bağlam odaklı bir yaklaşımla, rüyanın anlatımı ve aranan kişinin niteliği üzerinden değerlendirilir.",
+      "evidenceLevel": "traditional"
+    },
+    {
+      "approach": "Modern Spiritüel Yaklaşım",
+      "interpretation": "Evin içsel alanı temsil etmesiyle, kaybedilmiş bir niteliğin veya bağın içeride aranması şeklinde yorumlanır.",
+      "evidenceLevel": "spiritual"
+    }
+  ],
+  "commonGround": "Farklı yaklaşımlar, evin korunaklı veya tanıdık bir alan olduğunu ve bu alan içerisindeki arama eyleminin bireyin ilişkisel dünyasıyla, kayıp duygusuyla ya da arayış dinamikleriyle bağlantılı olduğunu kabul eder.",
+  "differences": "Ampirik psikoloji sosyal etkileşim örüntülerine ve ilişki değişkenlerine odaklanırken, psikanalitik yaklaşım bilinçdışı nesne temsillerini ön plana çıkarır. Geleneksel ve spiritüel yaklaşımlar ise evi sırasıyla hane düzeni veya içsel benlik alanı olarak ele alarak farklı sembolik katmanlar üretir.",
+  "inusAssessment": "Evde birini arama rüyası, fiziksel çevrenin sunduğu kapalı mekân hissi ile sosyal bir figüre ulaşma çabasının oluşturduğu gerilim üzerine kuruludur. Bu sembolü ele alırken evin hangi odalarında arama yapıldığı, aranan kişinin kimliği ve rüya sonrasındaki duygusal bakiye, yorumun yönünü belirleyen en kritik unsurlardır.",
+  "faq": [
+    {
+      "question": "Evde birini arama rüyası kesin bir kayıp veya ayrılık anlamına mı gelir?",
+      "answer": "Hayır. Ampirik ve psikanalitik yaklaşımlar bu rüyanın tek ve katı bir anlama sahip olmadığını, aranan kişinin kimliği ile rüya sahibinin kişisel bağlamına göre değişiklik gösterebileceğini belirtir."
+    },
+    {
+      "question": "Rüyada aranan kişiye ulaşamamak neyi ifade eder?",
+      "answer": "Ulaşamama durumu genellikle uyanık yaşamda çözülmemiş bir meselenin, askıda kalmış bir iletişimin veya zihinsel olarak irdelenen bir arayışın rüyadaki yansıması olarak ele alınır."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Methods and Measures for the Study of Dream Content",
+      "relevance": "Rüya içeriklerinin nitel ve nicel yöntemlerle, temalar, karakterler, fiziksel ortamlar ve duygular üzerinden incelenmesini açıklar.",
+      "url": "https://dreams.ucsc.edu/Library/domhoff_2000a.html"
+    },
+    {
+      "title": "Our dreams, our selves: automatic analysis of dream reports",
+      "relevance": "Rüya anlatılarındaki sosyal etkileşimleri otomatik dil analiziyle inceleyerek rüya karakterleri ve etkileşim türleri hakkında ampirik bulgular sunar.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7481704/"
+    },
+    {
+      "title": "Relationship and personality factors predict longitudinal changes in ...",
+      "relevance": "İki haftalık rüya günlüklerinde görülen kişilerin ilişki değişkenleri, günlük etkileşimler, kişilik ve bağlanma özellikleriyle ilişkisini inceler.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12049429/"
+    },
+    {
+      "title": "Freud's Method for Interpreting Dreams - London",
+      "relevance": "Freud’un rüya öğelerinin anlamını serbest çağrışım, örtük dilekler ve kişisel ruhsal bağlam üzerinden ele alan yaklaşımını açıklar.",
+      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/freuds-method-for-interpreting-dreams/"
+    },
+    {
+      "title": "The Interpretation of Dreams Sigmund Freud (1900)",
+      "relevance": "Rüyalarda kişilerin birleştirilmesi, yer değiştirme ve bir kişinin başka bir kişiyi temsil edebilmesi hakkındaki Freudcu açıklamaları içerir.",
+      "url": "https://psychclassics.yorku.ca/Freud/Dreams/dreams.pdf"
+    },
+    {
+      "title": "Trauma, dream, and psychic change in psychoanalyses - PMC",
+      "relevance": "Psikanalitik rüya çalışmasında rüyaların bilinçdışı çatışmalar, travmatik yaşantılar ve ruhsal çözüm arayışıyla ilişkisini tartışır.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3865430/"
+    },
+    {
+      "title": "[PDF] Kavaler-Adler, S. (2015). An object relations approach to dreams",
+      "relevance": "Nesne ilişkileri perspektifinde rüya içeriğini benlik ve nesne temsilleri, sembolleşme ve terapötik ilişki bağlamında ele alır.",
+      "url": "https://mindconsiliums.org/media/Kavaler-Adler-S.-2015.-An-object-relations-approach-to-dreams-From-protosymbolic-to-symbolic-%E2%80%93-in-dream-content-and-within-the-therapeutic-object-relationship.-MindConsiliums-1511-1-27.pdf"
+    },
+    {
+      "title": "Artemidorus on Dreams - translation",
+      "relevance": "Artemidorus'un rüyaları sınıflandıran ve yorumlamada rüyayı gören kişinin koşullarını, toplumsal konumunu, kişisel ilişkilerini ve sahnenin ayrıntılarını dikkate alan klasik rüya yorumlama yaklaşımını sunar.",
+      "url": "https://www.attalus.org/translate/artemidorus.html"
+    },
+    {
+      "title": "Roman Dream Interpretation",
+      "relevance": "Artemidorusçu rüya yorumunda sembolik imgelerin bağlama, analojiye ve rüyayı gören kişinin yaşam durumuna göre değişebildiğini; ev imgesinin tarihsel olarak hane ve mülk bağlamında ele alınabildiğini açıklar.",
+      "url": "https://www.unrv.com/articles/roman-dream-interpretation.php"
+    },
+    {
+      "title": "RÜYA - TDV İslâm Ansiklopedisi",
+      "relevance": "İslâmî düşüncede rüyanın niteliği, rüya tabirinin usulleri ve rüyanın vahiyden ayrılan konumu hakkında genel çerçeve sunar.",
+      "url": "https://islamansiklopedisi.org.tr/ruya"
+    },
+    {
+      "title": "What Does A House Symbolize In The Bible? The Spiritual Significance Of Home - Edenbengals.com",
+      "relevance": "İncil’de evin sığınak, korunma, aile, topluluk ve Tanrı’nın mevcudiyetiyle ilişkilendirilebilecek kullanımlarını özetler; bu nedenle ev imgesinin Hristiyan sembolik bağlamını kurmaya yardımcı olur.",
+      "url": "https://edenbengals.com/what-does-a-house-symbolize-in-the-bible/"
+    },
+    {
+      "title": "Today Salvation Has Come to This House",
+      "relevance": "Luka 19’daki Zakkay anlatısını İsa’nın kişiyi araması, bulması ve adıyla tanıması temaları üzerinden ele alır; arama ve bulunma motifinin teolojik bağlamını açıklar.",
+      "url": "https://rts.edu/resources/today-salvation-has-come-to-this-house/"
+    },
+    {
+      "title": "Berakhot 57b:2",
+      "relevance": "Berakhot 57b’de ev ve hane ile bağlantılı rüya sembollerinin rabbanî yorumlarını içerir.",
+      "url": "https://www.sefaria.org/Berakhot.57b.2?lang=en"
+    },
+    {
+      "title": "Jewish Magic and Superstition: 15. Dreams | Sacred Texts Archive",
+      "relevance": "Yahudi rüya yorumunda yorumun rolü, rüyanın bağlamı ve klasik rabbanî ilkeler üzerine tarihsel bir açıklama sunar.",
+      "url": "https://sacred-texts.com/jud/jms/jms17.htm"
+    },
+    {
+      "title": "Looking for Someone: 27 Dream Symbol Scenarios and Their ...",
+      "relevance": "Evde birini arama rüyasını, kişinin yaşamında eksik veya kaybedilmiş bir kişi, şey ya da anlamı aramasıyla ilişkilendirir; evi içsel benlik, düşünceler, duygular ve anılarla bağlantılı bir alan olarak açıklar.",
+      "url": "https://dict.dreamdecoder.me/symbol/dream-symbol-looking-for-someone/scenarios"
+    },
+    {
+      "title": "www.usehypnos.com · blog · searching-for-somethingSearching for Something Lost in a Dream | Hypnos",
+      "relevance": "Bir şey ya da kişiyi arama temasını bağ kurma ihtiyacı, kayıp duygusu ve kişinin iç dünyasında temsil edilen bir niteliği arama olasılığıyla ilişkilendirir; ev içindeki aramayı içsel keşif çerçevesinde ele alır.",
+      "url": "https://www.usehypnos.com/blog/searching-for-something-lost-dream-meaning"
+    },
+    {
+      "title": "Searching For A Missing Person Dream Meaning - dreammeanify.com",
+      "relevance": "Aranan kişinin bir ilişkiyi, niteliği veya içsel temayı temsil edebileceğini; ev ve evin odalarında aramanın anılar, duygular veya kişinin kendisinde henüz bulunamamış bir yönle sembolik olarak ilişkilendirilebileceğini belirtir.",
+      "url": "https://dreammeanify.com/searching-missing-person-dream-meaning/"
+    }
+  ],
+  "relatedSlugs": [],
+  "limitedEvidenceLanes": [
+    "islamic"
+  ]
+}
