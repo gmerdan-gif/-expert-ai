@@ -1,6 +1,7 @@
 "use client";
 
 import AdSlot from "@/components/ads/AdSlot";
+import { parseDreamResponse, type DreamMeta } from "@/lib/dream-analysis/response";
 
 import { useEffect, useState } from "react";
 
@@ -45,18 +46,10 @@ function formatResult(text: string) {
 export default function Home() {
   const [dream, setDream] = useState("");
   const [result, setResult] = useState("");
+  const [analysisError, setAnalysisError] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
   const [showHow, setShowHow] = useState(false);
   const [statusIndex, setStatusIndex] = useState(0);
-  type DreamMeta = {
-    themes: string[];
-    direction: string;
-    luckyNumbers: {
-      number: number;
-      themes: string[];
-    }[];
-  };
-
   const [dreamMeta, setDreamMeta] = useState<DreamMeta | null>(null);
 
   useEffect(() => {
@@ -78,6 +71,7 @@ export default function Home() {
 
     setLoading(true);
     setResult("");
+    setAnalysisError(null);
     setDreamMeta(null);
     setStatusIndex(0);
 
@@ -113,106 +107,37 @@ export default function Home() {
       const reader = response.body.getReader();
       const decoder = new TextDecoder();
 
-      let accumulated = "";
-      let streamBuffer = "";
-      let metaParsed = false;
-
-      while (true) {
-        const { value, done } = await reader.read();
-
-        if (done) break;
-
-        streamBuffer += decoder.decode(value, { stream: true });
-
-        // Metadata bloğunu stream'in kaç parçaya bölündüğünden
-        // bağımsız olarak yakala.
-        if (!metaParsed) {
-          const metaStart = streamBuffer.indexOf("__ONEIROS_META__");
-          const metaEnd = streamBuffer.indexOf("__ONEIROS_META_END__");
-
-          if (
-            metaStart !== -1 &&
-            metaEnd !== -1 &&
-            metaEnd > metaStart
-          ) {
-            const jsonStart =
-              metaStart + "__ONEIROS_META__".length;
-
-            const jsonText = streamBuffer
-              .slice(jsonStart, metaEnd)
-              .trim();
-
-            try {
-              const parsedMeta = JSON.parse(jsonText);
-
-              if (
-                parsedMeta &&
-                Array.isArray(parsedMeta.themes) &&
-                typeof parsedMeta.direction === "string" &&
-                Array.isArray(parsedMeta.luckyNumbers)
-              ) {
-                setDreamMeta(parsedMeta);
-                metaParsed = true;
-              }
-            } catch (error) {
-              console.error("ONEIROS metadata parse error:", error);
-            }
-
-            // Metadata'yı stream'den tamamen çıkar.
-            streamBuffer = streamBuffer.slice(
-              metaEnd + "__ONEIROS_META_END__".length
-            );
-          }
-
-          // Metadata henüz tamamlanmadıysa hiçbir şeyi
-          // kullanıcıya render etme.
-          if (!metaParsed) {
-            continue;
-          }
+      let raw = "";
+      try {
+        while (true) {
+          const { value, done } = await reader.read();
+          if (done) break;
+          raw += decoder.decode(value, { stream: true });
+          const parsed = parseDreamResponse(raw);
+          setDreamMeta(parsed.meta);
+          setResult(parsed.text);
         }
-
-        // Metadata çıkarıldıktan sonra yalnızca gerçek
-        // rüya yorumunu result'a aktar.
-        if (streamBuffer) {
-          accumulated += streamBuffer;
-          streamBuffer = "";
-
-          // Metadata herhangi bir nedenle result'a sızarsa temizle.
-          const cleanResult = accumulated
-            .replace(
-              /__ONEIROS_META__[\\s\\S]*?__ONEIROS_META_END__/g,
-              ""
-            )
-            .trim();
-
-          setResult(cleanResult);
+        raw += decoder.decode();
+        const parsed = parseDreamResponse(raw);
+        if (!parsed.text) {
+          throw new Error("Yorum alınamadı. Lütfen tekrar deneyin.");
         }
-      }
-
-      // Stream'in sonundaki olası UTF-8 karakterlerini tamamla.
-      streamBuffer += decoder.decode();
-
-      if (metaParsed && streamBuffer) {
-        accumulated += streamBuffer;
-
-        const cleanResult = accumulated
-          .replace(
-            /__ONEIROS_META__[\\s\\S]*?__ONEIROS_META_END__/g,
-            ""
-          )
-          .trim();
-
-        setResult(cleanResult);
+        setDreamMeta(parsed.meta);
+        setResult(parsed.text);
+      } finally {
+        reader.releaseLock();
       }
 
       setStatusIndex(analysisStatuses.length - 1);
     } catch (error) {
       console.error(error);
 
-      setResult(
+      setResult("");
+      setDreamMeta(null);
+      setAnalysisError(
         error instanceof Error
-          ? error.message
-          : "Bir hata oluştu. Lütfen tekrar deneyin."
+          ? (error instanceof TypeError ? "Bağlantı kesildi. Lütfen tekrar deneyin." : error.message)
+          : "Analiz tamamlanamadı. Lütfen tekrar deneyin."
       );
     } finally {
       setLoading(false);
@@ -522,6 +447,12 @@ export default function Home() {
               )}
 
               {/* RESULT */}
+              {analysisError && (
+                <p role="alert" className="mt-6 text-sm leading-7 text-[#625c54]">
+                  {analysisError}
+                </p>
+              )}
+
               {result && (
                 <section className="mt-8 w-full max-w-5xl rounded-[28px] border border-[#d9d1c7] bg-[#faf8f4] p-7 text-left shadow-[0_20px_60px_rgba(70,60,50,0.05)] sm:p-10">
 
@@ -534,25 +465,10 @@ export default function Home() {
                     </span>
                   </div>
 
-                  {/* FIRST PARAGRAPH */}
-                  {(() => {
-                    const paragraphs = result
-                      .split(/\n\s*\n/)
-                      .map((p) => p.trim())
-                      .filter(Boolean);
-
-                    const firstParagraph = paragraphs[0] || "";
-
-                    if (!firstParagraph) {
-                      return null;
-                    }
-
-                    return (
-                      <div className="text-[15px] leading-8 text-[#454039]">
-                        {formatResult(firstParagraph)}
-                      </div>
-                    );
-                  })()}
+                  {/* COMPLETE NARRATIVE INCLUDING THE PRACTICAL CONCLUSION */}
+                  <div className="text-[15px] leading-8 text-[#454039]">
+                    {formatResult(result)}
+                  </div>
 
                   {/* LUCKY NUMBERS */}
                   {dreamMeta && dreamMeta.luckyNumbers && dreamMeta.luckyNumbers.length > 0 && (
@@ -634,69 +550,28 @@ export default function Home() {
                     </div>
                   )}
 
-                  {/* REMAINING ANALYSIS */}
-                  {(() => {
-                    const paragraphs = result
-                      .split(/\n\s*\n/)
-                      .map((p) => p.trim())
-                      .filter(Boolean);
-
-                    const middleAnalysis = paragraphs
-                      .slice(1, -1)
-                      .filter(
-                        (p) =>
-                          p.trim().toLowerCase() !==
-                          "rüyanın sende açığa çıkardıkları"
-                      )
-                      .join("\n\n");
-
-                    if (!middleAnalysis) {
-                      return null;
-                    }
-
-                    return (
-                      <>
-                        <div className="mt-8 flex items-center gap-3">
-                          <div className="h-px w-8 bg-[#9b9186]" />
-
-                          <span className="text-xs uppercase tracking-[0.25em] text-[#81786e]">
-                            Rüyanın sende açığa çıkardıkları
-                          </span>
-                        </div>
-
-                        <div className="mt-7 text-[15px] leading-8 text-[#454039]">
-                          {formatResult(middleAnalysis)}
-                        </div>
-                      </>
-                    );
-                  })()}
-
-                  {/* FINAL SYNTHESIS */}
-                  {(() => {
-                    const paragraphs = result
-                      .split(/\n\s*\n/)
-                      .map((p) => p.trim())
-                      .filter(Boolean);
-
-                    const firstParagraph = paragraphs[0] || "";
-                    const conclusionParagraph =
-                      paragraphs.length > 1
-                        ? paragraphs[paragraphs.length - 1]
-                        : "";
-
-                    if (
-                      !conclusionParagraph ||
-                      conclusionParagraph === firstParagraph
-                    ) {
-                      return null;
-                    }
-
-                    return (
-                      <div className="mt-8 border-t border-[#e5ded5] pt-7 text-[15px] leading-8 text-[#454039]">
-                        {formatResult(conclusionParagraph)}
+                  {dreamMeta?.insights && (
+                    <div className="mt-8 border-t border-[#e5ded5] pt-7">
+                      <div className="mb-7 flex items-center gap-3">
+                        <div className="h-px w-8 bg-[#9b9186]" />
+                        <h2 className="text-xs uppercase tracking-[0.25em] text-[#81786e]">
+                          Rüyanın sende açığa çıkardıkları
+                        </h2>
                       </div>
-                    );
-                  })()}
+                      <div className="space-y-6">
+                        {dreamMeta.insights.map((insight, index) => (
+                          <div key={`${index}-${insight.title}`}>
+                            <h3 className="mb-2 text-base font-medium text-[#403b35]">
+                              {insight.title}
+                            </h3>
+                            <p className="text-[15px] leading-8 text-[#454039]">
+                              {insight.text}
+                            </p>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
 
                 </section>
               )}
@@ -732,62 +607,7 @@ export default function Home() {
               </a>
             </section>
 
-            {/* FOOTER */}
-            <footer className="pb-5 pt-8 text-center text-xs text-[#aaa198]">
 
-              <a
-                href="/ruyalar"
-                className="transition hover:text-[#686158]"
-              >
-                Rüyalar
-              </a>
-
-              <span className="mx-2">·</span>
-
-              <a
-                href="/ruyalar/semboller"
-                className="transition hover:text-[#686158]"
-              >
-                Rüya Sembolleri
-              </a>
-
-              <span className="mx-2">·</span>
-
-              <a
-                href="/hakkimizda"
-                className="transition hover:text-[#686158]"
-              >
-                Hakkımızda
-              </a>
-
-              <span className="mx-2">·</span>
-
-              <a
-                href="/bize-ulasin"
-                className="transition hover:text-[#686158]"
-              >
-                Bize Ulaşın
-              </a>
-
-              <span className="mx-2">·</span>
-
-              <a
-                href="/gizlilik"
-                className="transition hover:text-[#686158]"
-              >
-                Gizlilik
-              </a>
-
-              <span className="mx-2">·</span>
-
-              <a
-                href="/kullanim-kosullari"
-                className="transition hover:text-[#686158]"
-              >
-                Kullanım Koşulları
-              </a>
-
-            </footer>
           </>
         )}
       </div>
