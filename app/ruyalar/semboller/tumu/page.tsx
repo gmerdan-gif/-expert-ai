@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 
 import SymbolSearch from "@/components/dream-symbols/SymbolSearch";
 import { getAllPublishedSymbols } from "@/lib/symbols/repository";
+import { symbolDisplayName } from "@/lib/symbols/symbol-display-titles";
 
 const BASE_URL = "https://www.in-us.app";
 
@@ -37,19 +38,21 @@ function getInitialLetter(title: string) {
 
 export default function AllDreamSymbolsPage() {
   const symbols = getAllPublishedSymbols().sort((a, b) =>
-    a.title.localeCompare(b.title, "tr-TR"),
+    symbolDisplayName(a.slug, a.title).localeCompare(
+      symbolDisplayName(b.slug, b.title), "tr-TR"
+    ),
   );
 
   const searchSymbols = symbols.map((symbol) => ({
     slug: symbol.slug,
-    title: symbol.title,
+    title: symbolDisplayName(symbol.slug, symbol.title),
     shortDescription: symbol.shortDescription,
   }));
 
   const groups = symbols.reduce<
     Record<string, typeof symbols>
   >((result, symbol) => {
-    const letter = getInitialLetter(symbol.title);
+    const letter = getInitialLetter(symbolDisplayName(symbol.slug, symbol.title));
 
     if (!result[letter]) {
       result[letter] = [];
@@ -181,7 +184,7 @@ export default function AllDreamSymbolsPage() {
                       href={`/ruyalar/semboller/${symbol.slug}`}
                       className="group flex items-center justify-between gap-4 border-b border-[#e3ddd5] py-4 text-[15px] transition hover:border-[#aaa095]"
                     >
-                      <span>{symbol.title}</span>
+                      <span>{symbolDisplayName(symbol.slug, symbol.title)}</span>
 
                       <span
                         aria-hidden="true"

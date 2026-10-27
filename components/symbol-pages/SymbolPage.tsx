@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 import AdSlot from "@/components/ads/AdSlot";
-import { dreamPhrase } from "@/lib/symbols/dream-title";
+import { symbolDisplayH1 } from "@/lib/symbols/symbol-display-titles";
 
 import type {
   SymbolContent,
@@ -17,10 +17,6 @@ type SymbolPageProps = {
   symbol: SymbolContent;
   relatedSymbols?: RelatedSymbol[];
 };
-
-function dreamHeading(title: string) {
-  return dreamPhrase(title);
-}
 
 export function SymbolPage({
   symbol,
@@ -157,7 +153,7 @@ export function SymbolPage({
           <section className="pb-11 pt-8 sm:pb-14 sm:pt-12">
             <div className="max-w-3xl">
               <h1 className="text-[40px] font-light leading-[1.08] tracking-[-0.035em] sm:text-[48px]">
-                {dreamHeading(symbol.title)}
+                {symbolDisplayH1(symbol.slug, symbol.title)}
               </h1>
 
               <div className="mt-6 max-w-2xl text-[16px] leading-8 text-[#5f5952]">

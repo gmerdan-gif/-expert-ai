@@ -5,6 +5,7 @@ import AdSlot from "@/components/ads/AdSlot";
 
 import SymbolSearch from "@/components/dream-symbols/SymbolSearch";
 import { getAllPublishedSymbols } from "@/lib/symbols/repository";
+import { symbolDisplayName } from "@/lib/symbols/symbol-display-titles";
 
 const BASE_URL = "https://www.in-us.app";
 
@@ -42,7 +43,7 @@ export default function DreamSymbolsIndexPage() {
 
   const searchSymbols = symbols.map((symbol) => ({
     slug: symbol.slug,
-    title: symbol.title,
+    title: symbolDisplayName(symbol.slug, symbol.title),
     shortDescription: symbol.shortDescription,
   }));
 
@@ -188,7 +189,7 @@ export default function DreamSymbolsIndexPage() {
                   </p>
 
                   <h3 className="mt-6 text-4xl font-light tracking-[-0.035em] sm:text-5xl">
-                    {lead.title}
+                    {symbolDisplayName(lead.slug, lead.title)}
                   </h3>
 
                   <p className="mt-6 max-w-xl text-[15px] leading-8 text-[#625c54]">
@@ -217,7 +218,7 @@ export default function DreamSymbolsIndexPage() {
                     <div className="flex items-start justify-between gap-5">
                       <div>
                         <h3 className="text-xl font-light tracking-[-0.02em]">
-                          {symbol.title}
+                          {symbolDisplayName(symbol.slug, symbol.title)}
                         </h3>
 
                         <p className="mt-3 line-clamp-3 text-[13px] leading-6 text-[#746d64]">
